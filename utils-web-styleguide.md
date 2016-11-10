@@ -7,6 +7,8 @@ google : https://google.github.io/styleguide/htmlcssguide.xml
 ## TOOLS
 chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
+chrome CORS PLUGIN or https://crossorigin.me/
+
 
 ## IMAGE
 optimize : https://www.jpeg.io
@@ -28,9 +30,11 @@ google type : https://femmebot.github.io/google-type/
 ## CSS
 base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate  
 base rules : https://github.com/jareware/css-architecture
+base rules : http://bradfrost.com/blog/post/css-architecture-for-design-systems/
 class organization : https://css-tricks.com/bem-101/  
 flexbox : http://www.flexboxpatterns.com/home
 flexbox : https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.nkwq5jn7k
+flexbox : https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/
 textured gradients : http://rentafounder.com/textured-gradients-in-pure-css/  
 transition : https://daveceddia.com/css-transitions-explained  
 regions : http://www.adobe.com/devnet/archive/html5/articles/css3-regions.html  

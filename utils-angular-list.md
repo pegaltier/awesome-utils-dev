@@ -91,7 +91,7 @@ http://houssein.me/angular2-hacker-news
 https://github.com/rangle/batarangle/  
 https://github.com/manekinekko/angular2-dependencies-graph  
 https://augury.angular.io/
-
+https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
 
 
 ## ANGULAR2 DEBUG
@@ -307,6 +307,8 @@ https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack-d25fe71c29c
 http://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html  : resolve/null/loading/async
 https://vsavkin.com/angular-router-preloading-modules-ba3c75e424cb#.tvrcmfszm
 
+## ANGULAR2 SECURITY
+https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.qyagk4j6f
 
 ## ANGULAR2 SEO
 http://blog.devcross.net/2016/03/20/angular-2-seo/  
