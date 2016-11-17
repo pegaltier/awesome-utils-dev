@@ -69,6 +69,7 @@ https://www.reddit.com/r/Angular2/
 http://www.angular2.com/  
 http://whatpixel.com/learn-angular2-from-scratch/  
 https://www.reddit.com/r/Angular2/comments/4cvwjr/helpful_github_repos_curated_through_april_2016/  
+https://www.reddit.com/r/Angular2/comments/5alp3z/helpful_github_repos_curated_through_november_2016/
 
 ## ANGULAR2 START
 http://www.tryangular2.com/  
@@ -79,7 +80,7 @@ http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/
 https://angular.io/docs/ts/latest/quickstart.html  
 
 ## ANGULAR2 IDE
-https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_164
+https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
 
 ## ANGULAR 2 CLI
 http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli
@@ -119,6 +120,8 @@ https://angular.io/docs/ts/latest/cookbook/component-communication.html
 http://www.angulartypescript.com/angular-2-pipes/  
 http://blog.mgechev.com/  
 http://blogs.walkingtree.in/2016/03/22/thinking-in-angular-2/  
+https://medium.com/@NetanelBasal/angular-2-improve-performance-with-trackby-cc147b5104e5#.74fiumqt7
+
 
 #ANGULAR2 CHEAT-SHEETS
 https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
@@ -226,6 +229,7 @@ http://blog.jhades.org/how-to-build-angular2-apps-using-rxjs-observable-data-ser
 http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/  
 http://restlet.com/blog/2016/04/18/interacting-efficiently-with-a-restful-service-with-angular2-and-rxjs-part-3/  
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0  
+https://www.bennadel.com/blog/3184-creating-leaky-abstractions-with-rxjs-in-angular-2-1-1.htm
 
 ## ANGULAR2 REDUX
 http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
@@ -262,7 +266,7 @@ http://bennadel.github.io/JavaScript-Demos/demos/specialized-http-clients-angula
 http://blogs.walkingtree.in/2016/03/28/angular2-q-a-ii/ << Interceptors  
 https://www.illucit.com/blog/2016/03/angular2-http-authentication-interceptor/#more-385  
 http://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/  
-
+https://github.com/zaqqaz/ng2-rest-api
 
 
 ## ANGULAR2 SEEDS
@@ -328,6 +332,8 @@ http://nwjs.io/
 https://github.com/bojzi/sound-machine-electron-guide  
 https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.nt2t38q9n  
 
+## ANGULAR2 ERROR HANDLER / EXCEPTION
+https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
 
 
 ## ANGULAR2 TEST TESTING
@@ -339,6 +345,7 @@ http://raibledesigns.com/rd/entry/testing_angular_2_applications
 https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine
 https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine
 https://medium.com/@paynoattn/simple-observable-unit-testing-in-angular2-43c4f4a0bfe2#.f51bkw9q4
+https://semaphoreci.com/community/tutorials/testing-services-in-angular-2?
 
 ## ANGULAR2 API
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  

@@ -2,7 +2,7 @@ intellij racourci : https://github.com/MrZaYaC/ng2-webstorm-snippets
 
 chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
-CHROME CORS PLUGIN : Allow-Control-Allow-Origin: * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
+CHROME CORS PLUGIN OU http://crossorigin.me/ : Allow-Control-Allow-Origin: * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 CHROME POSTMAN PLUGIN
 
 
@@ -12,12 +12,27 @@ http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-wi
 https://auth0.com/blog/angular-2-series-part-3-using-http/
 https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/
 
+## FETCH PROMISE OBSERAVABLE RXJS
+http://output.jsbin.com/juwiva/29
+
+
+## TYPESCRIPT
+
+npm install -g typescript
+tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata
+tsc --watch
+npm init
+
+
 
 ## ANGULAR2 CLI
-ng generate component pony
+ng generate component pony sidebar article article_list
+ng generate class article
+ng generate service article
 ng serve
+ng build --prod	
 ng github-pages:deploy
-
+git subtree push --prefix dist/ origin gh-pages
 
 ## NATIVESCRIPT :
 set ANDROID_HOME=C:\Android\sdk
@@ -41,11 +56,13 @@ http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-
 
 http://ionicframework.com/docs/v2/getting-started/installation/
 
+icons : https://ionicframework.com/docs/v2/ionicons/
 push : https://docs.ionic.io/services/push/
 push : https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59#.l7dh5evsv
 push : http://nishanthkabra.com/ionic2push.html
 theme : http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/
 component : http://ionicframework.com/docs/v2/components/#overview
+
 
 init project : 
 
@@ -56,14 +73,19 @@ cordova platform add android --save				> add android platform to project
 ionic platform android							> add android platform to project
 ionic run android  								> run project on android device
 
+ionic info
 
+generate elements
+ionic g page login
+ionic g provider MyData
 
-## typescript
+facebook 
+http://ionicframework.com/docs/v2/native/facebook/
+https://github.com/fuffenz/ionic2-native-facebook-login
+cordova plugin add cordova-plugin-facebook4 --save --variable APP_ID="1105334862864787" --variable APP_NAME="APP-SEDUCTION" 
+ionic plugin add cordova-plugin-facebook4 --save --variable APP_ID="1105334862864787" --variable APP_NAME="APP-SEDUCTION"
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-npm install -g typescript
-tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata
-tsc --watch
-npm init
 
 ## syntax
 typescript types		https://www.typescriptlang.org/docs/handbook/basic-types.html
@@ -90,10 +112,61 @@ es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`;
 
 
 
-classe ou interface -> classe si besoin de function sur le pojo ou bien interface suffit
+classe ou interface ->
+classe si besoin de creer des function sur le pojo ou bien interface suffit
+si classe alors utiliser mecanisme fromJSON (ng-book2 screencast final-app)
+
+rxJs  https://xgrommx.github.io/rx-book/index.html + http://rxmarbles.com/
+le listener = un observer
+le flux = un observable (collection asynchrone dont les événements arrivent au cours du temps)
+
+• take(n) va piocher les n premiers éléments. 
+• map(fn) va appliquer la fonction fn sur chaque événement et retourner le résultat. 
+• filter(predicate) laissera passer les seuls événements qui répondent positivement au prédicat. 
+• reduce(fn) appliquera la fonction fn à chaque événement pour réduire le flux à une seule valeur unique. 
+• merge(s1, s2) fusionnera les deux flux. 
+• subscribe(fn) appliquera la fonction fn à chaque événement qu’elle reçoit.
+• forEach(fn)
+
+• transformation (delaying, debouncing…)
+• combinaison (merge, zip, combineLatest…) 
+• filtrage (distinct, filter, last…) 
+• mathématique (min, max, average, reduce…) 
+• conditions (amb, includes…)
+
+EventEmitter (Angular2 : adapter Observable)  EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres :
+• une méthode pour réagir aux événements.
+• une méthode pour réagir aux erreurs. 
+• une méthode pour réagir à la terminaison.
+Un EventEmitter peut émettre un événement avec la méthode emit().
+
+const emitter = new EventEmitter();
+const subscription = emitter.subscribe(   value => console.log(value),   error => console.log(error),   () => console.log('done') );
+emitter.emit('hello'); emitter.emit('there'); emitter.complete();
+subscription.unsubscribe(); // unsubscribe 
+// logs "hello", then "there", then "done"
+
 
 pipe
-{{ article.date() | date:'medium'}}
+{{ asyncGreeting | async }
+
+{{ birthday | date:'shortTime' }} 		<!-- will display '3:30 PM' --
+{{ article.date() | date:'medium'}}		
+{{ birthday | date:'longDate' }}		<!-- will display 'July 16, 1986' -->
+{{ birthday | date:'dd/MM/yyyy' }}		
+
+{{ ponies | json }}
+{{ ponies | slice:0:2 | json }
+{{ 'Ninja Squad' | uppercase }}
+{{ 'Ninja Squad' | lowercase }}	
+{{ 12345 | number:'.2' }			<!-- will display '12,345.00' -->
+{{ 12345.13 | number:'.1-1' }}		<!-- will display '12,345.1' -->
+{{ 0.8 | percent }} 				<!-- will display '80%' -->
+{{ 0.8 | percent:'.3' }} 			<!-- will display '80.000%' -->
+{{ 10.6 | currency:'EUR' }			<!-- will display 'EUR10.60' -->	
+
+<div *ngFor="let pony of ponies | slice:0:2">{{pony.name}}</div>
+<div loggable [logText]="expression | uppercase">Hello</div>
 
 ngTemplate 
 <h2>Welcome {{user?.name}}</h2>
@@ -103,6 +176,7 @@ ngIf
 
 ngFor
 <ul> <li *ngFor="let race of races; let i=index">{{i}} - {{race.name}}</li> </ul>
+<ul> <li *ngFor="let article of articles | async">{{article.name}}</li> </ul>
 
 ngFor + input class/bean
 <app-article *ngFor="let article of articles" [article]="article"></app-article>
@@ -141,17 +215,97 @@ variable locale
 <input type="text" #name> <button (click)="name.focus()">Focus the input</button>
 <google-youtube #player></google-youtube><button (click)="player.play()">Play!</button>
 
+DIRECTIVE  (une directive n’a pas de vue).
+selecteur: Ne nomme pas tes sélecteurs avec un préfixe bind-, on-, let- ou ref- : ils ont une autre signification pour le parseur, car ils font partie de la syntaxe canonique des templates.
+• un élément, comme c’est généralement le cas pour les composants : footer.
+• une classe, mais c’est plutôt rare : .alert. 
+• un attribut, ce qui est le plus fréquent pour une directive : [color]. 
+• un attribut avec une valeur spécifique : [color=red]. 
+• une combinaison de ceux précédents : footer[color=red] désignera un élément footer avec un attribut color à la valeur red. 
 
-résumé 
-{{}} pour l’interpolation, 
-[] pour le binding de propriété
-() pour le binding d’événement
-# pour la déclaration de variable
-* pour les directives structurelles
+@Directive({   
+selector: '[loggable]',   
+inputs: ['text: logText'] 
+}) 
+export class SimpleTextWithSetterDirective {
+  	set text(value) {     console.log(value);   } 
+}
+	OU
+	
+@Directive({   
+selector: '[loggable]' 
+}) 
+export class InputDecoratorOnSetterDirective {
+  	@Input('logText')   
+	set text(value) {     console.log(value);   } 
+}
 
 
+cycle de vie
+• ngOnChanges sera la première appelée quand la valeur d’une propriété bindée est modifiée. Elle recevra une map changes, contenant les valeurs courante et précédente du binding, emballées dans un SimpleChange. Elle ne sera pas appelée s’il n’y a pas de changement. 
+• ngOnInit sera appelée une seule fois après le premier changement (alors que ngOnChanges est appelée à chaque changement). Cela en fait la phase parfaite pour du travail d’initialisation, comme son nom le laisse à penser. 
+• ngOnDestroy est appelée quand le composant est supprimé. Utile pour y faire du nettoyage.
+• ngDoCheck est légèrement différente. Si elle est présente, elle sera appelée à chaque cycle de détection de changements, redéfinissant l’algorithme par défaut de détection, qui inspecte les différences pour chaque valeur de propriété bindée. Cela signifie que si une propriété au moins est modifiée, le composant est considéré modifié par défaut, et ses enfants seront inspectés et réaffichés. Mais tu peux redéfinir cela si tu sais que la modification de certaines entrées n’a pas de conséquence. Cela peut être utile si tu veux accélérer le cycle de détection de changements en n’inspectant que le minimum, mais en règle générale tu ne devrais pas avoir à le faire. 
+• ngAfterContentInit est appelée quand tous les bindings du composant ont été vérifiés pour la première fois. 
+• ngAfterContentChecked est appelée quand tous les bindings du composant ont été vérifiés, même s’ils n’ont pas changé. 
+• ngAfterViewInit est appelée quand tous les bindings des directives enfants ont été vérifiés pour la première fois. 
+• ngAfterViewChecked est appelée quand tous les bindings des directives enfants ont été vérifiés,
+même s’ils n’ont pas changé. Cela peut être utile si ton composant attend quelque chose de ses composants enfants. Comme ngAfterViewInit, cela n’a de sens que pour un composant (une directive n’a pas de vue).
 
-## ajouter un fichier css ou lib js :
+
+ajouter un fichier css ou lib js :
 - installer via npm --save
 - ajouter dans angular-cli.json > balises styles + scripts
 
+
+résumé 
+{{}} pour l’interpolation, 
+[] pour le binding de propriété (entrée)
+() pour le binding d’événement (sortie)
+# pour la déclaration de variable
+* pour les directives structurelles
+
+testing
+
+cas sans asynchrone (promise/observable)
+
+import { TestBed } from '@angular/core/testing';
+describe('RaceService', () => {   
+	let service: RaceService;
+  	beforeEach(() => TestBed.configureTestingModule({     providers: [RaceService]   }));
+  	beforeEach(() => service = TestBed.get(RaceService));
+  	it('should return races when list() is called', () => {     
+		expect(service.list().length).toBe(2);   
+	}); 
+});
+
+
+cas avec asynchorne (promise/observable)
+
+import { async, TestBed } from '@angular/core/testing';
+describe('RaceService', () => {   let service: RaceService;
+  beforeEach(() => TestBed.configureTestingModule({     providers: [RaceService]   }));
+  beforeEach(() => service = TestBed.get(RaceService));
+  it('should return a promise of 2 races', async(() => {
+     service.list().then(races => {
+       expect(races.length).toBe(2);     
+	 });   
+ })); 
+});
+
+cas espionner appel et remplacer par factice
+
+import { TestBed } from '@angular/core/testing';
+describe('RaceService', () => {
+  const localStorage = jasmine.createSpyObj('LocalStorageService', ['get']);
+  beforeEach(() => TestBed.configureTestingModule({     providers: [       { provide: LocalStorageService, useValue: localStorage },       RaceService     ]   }));
+  it('should return 2 races from localStorage', () => {     
+	localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]);
+    const service = TestBed.get(RaceService);     
+	const races = service.list();
+    expect(races.length).toBe(2);     
+	expect(localStorage.get).toHaveBeenCalledWith('races');   
+  }); 
+});
+
+test end to end (voir ninja angular page 157)

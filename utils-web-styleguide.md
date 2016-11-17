@@ -5,9 +5,13 @@ checklist : http://webdevchecklist.com/
 google : https://google.github.io/styleguide/htmlcssguide.xml
 
 ## TOOLS
+chrome : https://developers.google.com/web/tools/chrome-devtools/
 chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 chrome CORS PLUGIN or https://crossorigin.me/
+
+## PWA 
+lighthouse CLI : https://github.com/GoogleChrome/lighthouse
 
 
 ## IMAGE
@@ -50,9 +54,15 @@ structure : https://medium.com/peergrade-io/structuring-css-in-large-projects-37
 utils : https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.yq8fxsqf9
 animation example : http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
 
+## CSS PAGE TRANSITION
+http://git.blivesta.com/animsition/
+http://tympanus.net/Development/PageLoadingEffects/index6.html
+
+
 ## CSS FRAMEWORK
 2016 framework : http://dannyherran.com/2016/03/state-of-affairs-bootstrap-4-vs-foundation-6  
 flexbox : http://www.useful.ly/
+milligram : https://milligram.github.io/
 
 ## CSS LAYOUT
 modern : https://rachelandrew.co.uk/presentations/modern-css-layout  
@@ -64,13 +74,19 @@ pros : http://stylus-lang.com/
 cons : http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors  
 
 ## SVG
+example : http://www.hongkiat.com/blog/svg-animations/
 inner html : https://thenewcode.com/1151/Understanding-the-SVG-viewBox
 inner html : http://fvsch.com/code/svg-icons/how-to/  
 parallax image : http://www.sitepoint.com/parallax-burns-converting-photographs-2d-3d-svg/  
 animate svg : https://maxwellito.github.io/vivus/  
 animate svg : https://www.oreilly.com/learning/introduction-to-svg-animation
+animate svg : https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js
 interactive svg : http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/
 libs : http://mediatemple.net/blog/tips/svg-charting-libraries/
+
+
+## SPRITE
+generator : https://eliorshalev.github.io/sprite-spirit
 
 ## JAVASCRIPT
 es2015 : https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.x41dygjuv
