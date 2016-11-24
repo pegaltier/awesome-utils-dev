@@ -226,116 +226,116 @@ ngClass
 <div [ngClass]="{'awesome-div': isAnAwesomeDiv(), 'colored-div': isAColoredDiv()}">I've got style</div>		> x classes 
  
  
-attribute input == binding de propriété
-<ns-pony name="{{pony.name}}"></ns-pony> === <ns-pony [name]="pony.name"></ns-pony>
-<ns-pony name="Pony {{pony.name}}"></ns-pony> === <ns-pony [name]="'Pony ' + pony.name"></ns-pony>
-<ns-pony name="{{pony.fullName()}}"></ns-pony> === <ns-pony [name]="pony.fullName()"></ns-pony>
-<option [selected]="isPonySelected" value="Rainbow Dash">Rainbow Dash</option>
-<div [hidden]="isHidden">Hidden or not</div>
-<p [style.color]="foreground">Friendship is Magic</p>
+attribute input == binding de propriété 
+<ns-pony name="{{pony.name}}"></ns-pony> === <ns-pony [name]="pony.name"></ns-pony> 
+<ns-pony name="Pony {{pony.name}}"></ns-pony> === <ns-pony [name]="'Pony ' + pony.name"></ns-pony> 
+<ns-pony name="{{pony.fullName()}}"></ns-pony> === <ns-pony [name]="pony.fullName()"></ns-pony> 
+<option [selected]="isPonySelected" value="Rainbow Dash">Rainbow Dash</option> 
+<div [hidden]="isHidden">Hidden or not</div> 
+<p [style.color]="foreground">Friendship is Magic</p> 
+ 
+attribute output  == binding d'évenement 		 les événements qui se propagent vers le haut depuis le fond des composants enfants 
+<button (click)="onButtonClick()">Click me!</button> 
+<div (click)="onButtonClick()">   <button>Click me!</button> </div> 					-> fonctionne car propagation vers le haut 
+<div (click)="onButtonClick($event)">   <button>Click me!</button> </div>				-> récupérer l'evenement 
+onButtonClick(event) {   event.preventDefault();   event.stopPropagation(); }			-> stopper la propagation 
+ 
+variable locale 
+<input type="text" #name> {{ name.value }} 
+<input type="text" #name> <button (click)="name.focus()">Focus the input</button> 
+<google-youtube #player></google-youtube><button (click)="player.play()">Play!</button> 
+ 
+DIRECTIVE  (une directive n’a pas de vue). 
+selecteur: Ne nomme pas tes sélecteurs avec un préfixe bind-, on-, let- ou ref- : ils ont une autre signification pour le parseur, car ils font partie de la syntaxe canonique des templates. 
+• un élément, comme c’est généralement le cas pour les composants : footer. 
+• une classe, mais c’est plutôt rare : .alert.  
+• un attribut, ce qui est le plus fréquent pour une directive : [color].  
+• un attribut avec une valeur spécifique : [color=red].  
+• une combinaison de ceux précédents : footer[color=red] désignera un élément footer avec un attribut color à la valeur red.  
+ 
+@Directive({    
+selector: '[loggable]',    
+inputs: ['text: logText']  
+})  
+export class SimpleTextWithSetterDirective { 
+  	set text(value) {     console.log(value);   }  
+} 
+	OU  
+	 
+@Directive({    
+selector: '[loggable]'  
+})  
+export class InputDecoratorOnSetterDirective { 
+  	@Input('logText')    
+	set text(value) {     console.log(value);   }  
+} 
+ 
+ 
+cycle de vie 
+• ngOnChanges sera la première appelée quand la valeur d’une propriété bindée est modifiée. Elle recevra une map changes, contenant les valeurs courante et précédente du binding, emballées dans un SimpleChange. Elle ne sera pas appelée s’il n’y a pas de changement.  
+• ngOnInit sera appelée une seule fois après le premier changement (alors que ngOnChanges est appelée à chaque changement). Cela en fait la phase parfaite pour du travail d’initialisation, comme son nom le laisse à penser.  
+• ngOnDestroy est appelée quand le composant est supprimé. Utile pour y faire du nettoyage. 
+• ngDoCheck est légèrement différente. Si elle est présente, elle sera appelée à chaque cycle de détection de changements, redéfinissant l’algorithme par défaut de détection, qui inspecte les différences pour chaque valeur de propriété bindée. Cela signifie que si une propriété au moins est modifiée, le composant est considéré modifié par défaut, et ses enfants seront inspectés et réaffichés. Mais tu peux redéfinir cela si tu sais que la modification de certaines entrées n’a pas de conséquence. Cela peut être utile si tu veux accélérer le cycle de détection de changements en n’inspectant que le minimum, mais en règle générale tu ne devrais pas avoir à le faire.  
+• ngAfterContentInit est appelée quand tous les bindings du composant ont été vérifiés pour la première fois.  
+• ngAfterContentChecked est appelée quand tous les bindings du composant ont été vérifiés, même s’ils n’ont pas changé.  
+• ngAfterViewInit est appelée quand tous les bindings des directives enfants ont été vérifiés pour la première fois.  
+• ngAfterViewChecked est appelée quand tous les bindings des directives enfants ont été vérifiés, 
+même s’ils n’ont pas changé. Cela peut être utile si ton composant attend quelque chose de ses composants enfants. Comme ngAfterViewInit, cela n’a de sens que pour un composant (une directive n’a pas de vue). 
 
-attribute output  == binding d'évenement 		 les événements qui se propagent vers le haut depuis le fond des composants enfants
-<button (click)="onButtonClick()">Click me!</button>
-<div (click)="onButtonClick()">   <button>Click me!</button> </div> 					-> fonctionne car propagation vers le haut
-<div (click)="onButtonClick($event)">   <button>Click me!</button> </div>				-> récupérer l'evenement
-onButtonClick(event) {   event.preventDefault();   event.stopPropagation(); }			-> stopper la propagation
+ 
+ajouter un fichier css ou lib js : 
+- installer via npm --save 
+- ajouter dans angular-cli.json > balises styles + scripts 
 
-variable locale
-<input type="text" #name> {{ name.value }}
-<input type="text" #name> <button (click)="name.focus()">Focus the input</button>
-<google-youtube #player></google-youtube><button (click)="player.play()">Play!</button>
+ 
+résumé  
+{{}} pour l’interpolation,  
+[] pour le binding de propriété (entrée) 
+() pour le binding d’événement (sortie) 
+# pour la déclaration de variable 
+* pour les directives structurelles 
+ 
+testing 
+ 
+cas sans asynchrone (promise/observable) 
+ 
+import { TestBed } from '@angular/core/testing'; 
+describe('RaceService', () => {    
+	let service: RaceService; 
+  	beforeEach(() => TestBed.configureTestingModule({     providers: [RaceService]   })); 
+  	beforeEach(() => service = TestBed.get(RaceService)); 
+  	it('should return races when list() is called', () => {       
+		expect(service.list().length).toBe(2);    
+	});  
+}); 
 
-DIRECTIVE  (une directive n’a pas de vue).
-selecteur: Ne nomme pas tes sélecteurs avec un préfixe bind-, on-, let- ou ref- : ils ont une autre signification pour le parseur, car ils font partie de la syntaxe canonique des templates.
-• un élément, comme c’est généralement le cas pour les composants : footer.
-• une classe, mais c’est plutôt rare : .alert. 
-• un attribut, ce qui est le plus fréquent pour une directive : [color]. 
-• un attribut avec une valeur spécifique : [color=red]. 
-• une combinaison de ceux précédents : footer[color=red] désignera un élément footer avec un attribut color à la valeur red. 
-
-@Directive({   
-selector: '[loggable]',   
-inputs: ['text: logText'] 
-}) 
-export class SimpleTextWithSetterDirective {
-  	set text(value) {     console.log(value);   } 
-}
-	OU
-	
-@Directive({   
-selector: '[loggable]' 
-}) 
-export class InputDecoratorOnSetterDirective {
-  	@Input('logText')   
-	set text(value) {     console.log(value);   } 
-}
-
-
-cycle de vie
-• ngOnChanges sera la première appelée quand la valeur d’une propriété bindée est modifiée. Elle recevra une map changes, contenant les valeurs courante et précédente du binding, emballées dans un SimpleChange. Elle ne sera pas appelée s’il n’y a pas de changement. 
-• ngOnInit sera appelée une seule fois après le premier changement (alors que ngOnChanges est appelée à chaque changement). Cela en fait la phase parfaite pour du travail d’initialisation, comme son nom le laisse à penser. 
-• ngOnDestroy est appelée quand le composant est supprimé. Utile pour y faire du nettoyage.
-• ngDoCheck est légèrement différente. Si elle est présente, elle sera appelée à chaque cycle de détection de changements, redéfinissant l’algorithme par défaut de détection, qui inspecte les différences pour chaque valeur de propriété bindée. Cela signifie que si une propriété au moins est modifiée, le composant est considéré modifié par défaut, et ses enfants seront inspectés et réaffichés. Mais tu peux redéfinir cela si tu sais que la modification de certaines entrées n’a pas de conséquence. Cela peut être utile si tu veux accélérer le cycle de détection de changements en n’inspectant que le minimum, mais en règle générale tu ne devrais pas avoir à le faire. 
-• ngAfterContentInit est appelée quand tous les bindings du composant ont été vérifiés pour la première fois. 
-• ngAfterContentChecked est appelée quand tous les bindings du composant ont été vérifiés, même s’ils n’ont pas changé. 
-• ngAfterViewInit est appelée quand tous les bindings des directives enfants ont été vérifiés pour la première fois. 
-• ngAfterViewChecked est appelée quand tous les bindings des directives enfants ont été vérifiés,
-même s’ils n’ont pas changé. Cela peut être utile si ton composant attend quelque chose de ses composants enfants. Comme ngAfterViewInit, cela n’a de sens que pour un composant (une directive n’a pas de vue).
-
-
-ajouter un fichier css ou lib js :
-- installer via npm --save
-- ajouter dans angular-cli.json > balises styles + scripts
-
-
-résumé 
-{{}} pour l’interpolation, 
-[] pour le binding de propriété (entrée)
-() pour le binding d’événement (sortie)
-# pour la déclaration de variable
-* pour les directives structurelles
-
-testing
-
-cas sans asynchrone (promise/observable)
-
-import { TestBed } from '@angular/core/testing';
-describe('RaceService', () => {   
-	let service: RaceService;
-  	beforeEach(() => TestBed.configureTestingModule({     providers: [RaceService]   }));
-  	beforeEach(() => service = TestBed.get(RaceService));
-  	it('should return races when list() is called', () => {     
-		expect(service.list().length).toBe(2);   
-	}); 
-});
-
-
-cas avec asynchorne (promise/observable)
-
-import { async, TestBed } from '@angular/core/testing';
-describe('RaceService', () => {   let service: RaceService;
-  beforeEach(() => TestBed.configureTestingModule({     providers: [RaceService]   }));
-  beforeEach(() => service = TestBed.get(RaceService));
-  it('should return a promise of 2 races', async(() => {
-     service.list().then(races => {
-       expect(races.length).toBe(2);     
-	 });   
- })); 
-});
-
-cas espionner appel et remplacer par factice
-
-import { TestBed } from '@angular/core/testing';
-describe('RaceService', () => {
-  const localStorage = jasmine.createSpyObj('LocalStorageService', ['get']);
-  beforeEach(() => TestBed.configureTestingModule({     providers: [       { provide: LocalStorageService, useValue: localStorage },       RaceService     ]   }));
-  it('should return 2 races from localStorage', () => {     
-	localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]);
-    const service = TestBed.get(RaceService);     
-	const races = service.list();
-    expect(races.length).toBe(2);     
-	expect(localStorage.get).toHaveBeenCalledWith('races');   
-  }); 
-});
-
-test end to end (voir ninja angular page 157)
+ 
+cas avec asynchorne (promise/observable) 
+ 
+import { async, TestBed } from '@angular/core/testing'; 
+describe('RaceService', () => {   let service: RaceService; 
+  beforeEach(() => TestBed.configureTestingModule({     providers: [RaceService]   })); 
+  beforeEach(() => service = TestBed.get(RaceService)); 
+  it('should return a promise of 2 races', async(() => { 
+     service.list().then(races => { 
+       expect(races.length).toBe(2);      
+	 });    
+ }));  
+}); 
+  
+cas espionner appel et remplacer par factice 
+ 
+import { TestBed } from '@angular/core/testing'; 
+describe('RaceService', () => { 
+  const localStorage = jasmine.createSpyObj('LocalStorageService', ['get']); 
+  beforeEach(() => TestBed.configureTestingModule({     providers: [       { provide: LocalStorageService, useValue: localStorage },       RaceService     ]   })); 
+  it('should return 2 races from localStorage', () => {      
+	localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]); 
+    const service = TestBed.get(RaceService);      
+	const races = service.list(); 
+    expect(races.length).toBe(2);      
+	expect(localStorage.get).toHaveBeenCalledWith('races');    
+  });  
+}); 
+ 
+test end to end (voir ninja angular page 157) 
