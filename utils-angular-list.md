@@ -3,9 +3,10 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Angular2 list](#angular2-list)
-  - [ES2015/ES6 COURSES](#es2015es6-courses)
+  - [ES2015/ES6 + TYPESCRIPT COURSES](#es2015es6--typescript-courses)
   - [ANGULAR2 OTHERS LIST](#angular2-others-list)
   - [ANGULAR2 START](#angular2-start)
+  - [ANGULAR2 IDE](#angular2-ide)
   - [ANGULAR 2 CLI](#angular-2-cli)
   - [ANGULAR2 TOOLS](#angular2-tools)
   - [ANGULAR2 DEBUG](#angular2-debug)
@@ -16,22 +17,28 @@
   - [ANGULAR2  BOOK/COURSES](#angular2--bookcourses)
   - [ANGULAR2 SNIPPETS](#angular2-snippets)
   - [ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION](#angular2-buildconfiginternationalizationproduction)
-  - [ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING](#angular2-components--modal-dropdown-menu-loading)
+  - [ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCUSION](#angular2-components--modal-dropdown-menu-loading-transcusion)
+  - [ANGULAR 2 NG MODULES NGMODULE](#angular-2-ng-modules-ngmodule)
   - [ANGULAR2 AUTHENTIFICATION/LOGIN/FORM](#angular2-authentificationloginform)
+  - [ANGULAR2 SCAFFHOLDING](#angular2-scaffholding)
   - [ANGULAR 2 SECURE AUTH](#angular-2-secure-auth)
   - [ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS](#angular2-observablereactivestaterxjs)
+  - [ANGULAR2 HTTP](#angular2-http)
+  - [ANGULAR2 MOCK BACKEND HTTP MOCK](#angular2-mock-backend-http-mock)
   - [ANGULAR2 REDUX](#angular2-redux)
   - [ANGULAR2 IMMUTABLE Immutability vs Encapsulation](#angular2-immutable-immutability-vs-encapsulation)
   - [ANGULAR2 CHANGE DETECTION](#angular2-change-detection)
   - [ANGULAR2 DEPENDENCY INJECTION](#angular2-dependency-injection)
-  - [ANGULAR2 HTTP](#angular2-http)
   - [ANGULAR2 SEEDS](#angular2-seeds)
+  - [ANGULAR 2 MODULE BUNDLER / WEBPACK](#angular-2-module-bundler--webpack)
   - [ANGULAR2  CSS](#angular2--css)
-  - [ANGULAR2 ROUTES](#angular2-routes)
+  - [ANGULAR2 ROUTES ROUTER LAZY LOADING](#angular2-routes-router-lazy-loading)
+  - [ANGULAR2 SECURITY](#angular2-security)
   - [ANGULAR2 SEO](#angular2-seo)
   - [ANGULAR2 DYNAMIC LOAD/LAZY LOAD](#angular2-dynamic-loadlazy-load)
   - [ANGULAR2 RENDERING CIENT](#angular2-rendering-cient)
-  - [ANGULAR2 TEST](#angular2-test)
+  - [ANGULAR2 ERROR HANDLER / EXCEPTION](#angular2-error-handler--exception)
+  - [ANGULAR2 TEST TESTING](#angular2-test-testing)
   - [ANGULAR2 API](#angular2-api)
   - [ANGULAR2 LIBS GENERAL](#angular2-libs-general)
   - [ANGULAR2  LIBS THEME/STYLE/CSS](#angular2--libs-themestylecss)
@@ -42,6 +49,7 @@
   - [ANGULAR2 sources](#angular2-sources)
   - [ANGULAR2 testing](#angular2-testing)
   - [ANGULAR2/ANGULAR1 COMPARAISON + MIGRATION NG1](#angular2angular1-comparaison--migration-ng1)
+  - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
   - [ANGULAR2/REACT COMPARAISON](#angular2react-comparaison)
   - [ANGULAR 2 OTHERS ARTICLES](#angular-2-others-articles)
 
@@ -75,24 +83,29 @@ https://www.reddit.com/r/Angular2/comments/5alp3z/helpful_github_repos_curated_t
 http://www.tryangular2.com/  
 http://learnangular2.com/  
 http://builtwithangular2.com/  
-https://github.com/angular/angular-cli  
 http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/  
 https://angular.io/docs/ts/latest/quickstart.html  
+https://angular.io/docs/ts/latest/cookbook/
 
 ## ANGULAR2 IDE
 https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
 
 ## ANGULAR 2 CLI
+https://github.com/angular/angular-cli  
 http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli
 https://www.sitepoint.com/angular-2-tutorial
 http://houssein.me/angular2-hacker-news
+https://www.sitepoint.com/ultimate-angular-cli-reference
+
 
 
 ## ANGULAR2 TOOLS
 https://github.com/rangle/batarangle/  
 https://github.com/manekinekko/angular2-dependencies-graph  
 https://augury.angular.io/
+http://codelyzer.com/
 https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
+
 
 
 ## ANGULAR2 DEBUG
@@ -169,7 +182,6 @@ http://blog.jhades.org/how-to-run-angular-2-in-production-today/
 https://www.webcodegeeks.com/javascript/angular-js/run-angular-2-production-today/  
 http://blog.jhades.org/  
 http://www.bennadel.com/blog/3050-setting-the-window-document-title-in-angular-2-beta-9.htm  
-http://www.sitepoint.com/angular-2-mockbackend  
 http://www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm  
 http://blog.angular-academy.io/how-to-run-angular-2-in-production-today/
 http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
@@ -231,6 +243,21 @@ http://restlet.com/blog/2016/04/18/interacting-efficiently-with-a-restful-servic
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0  
 https://www.bennadel.com/blog/3184-creating-leaky-abstractions-with-rxjs-in-angular-2-1-1.htm
 
+## ANGULAR2 HTTP
+https://github.com/seeschweiler/angular2-http-client-tutorial  
+https://medium.com/google-developer-experts/angular-2-introduction-to-new-http-module-1278499db2a0#.8bpdi5iht  
+http://www.bennadel.com/blog/3047-creating-specialized-http-clients-in-angular-2-beta-8.htm  
+http://bennadel.github.io/JavaScript-Demos/demos/specialized-http-clients-angular2/  
+http://blogs.walkingtree.in/2016/03/28/angular2-q-a-ii/ << Interceptors  
+https://www.illucit.com/blog/2016/03/angular2-http-authentication-interceptor/#more-385  
+http://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/  
+https://github.com/zaqqaz/ng2-rest-api
+
+
+## ANGULAR2 MOCK BACKEND HTTP MOCK
+http://www.sitepoint.com/angular-2-mockbackend  
+http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backendless-development
+
 ## ANGULAR2 REDUX
 http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
@@ -258,15 +285,6 @@ http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.h
 http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/  
 
 
-## ANGULAR2 HTTP
-https://github.com/seeschweiler/angular2-http-client-tutorial  
-https://medium.com/google-developer-experts/angular-2-introduction-to-new-http-module-1278499db2a0#.8bpdi5iht  
-http://www.bennadel.com/blog/3047-creating-specialized-http-clients-in-angular-2-beta-8.htm  
-http://bennadel.github.io/JavaScript-Demos/demos/specialized-http-clients-angular2/  
-http://blogs.walkingtree.in/2016/03/28/angular2-q-a-ii/ << Interceptors  
-https://www.illucit.com/blog/2016/03/angular2-http-authentication-interceptor/#more-385  
-http://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/  
-https://github.com/zaqqaz/ng2-rest-api
 
 
 ## ANGULAR2 SEEDS

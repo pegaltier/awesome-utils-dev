@@ -1,3 +1,31 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Web-Style-Guide](#web-style-guide)
+  - [SUMMARY](#summary)
+  - [TOOLS](#tools)
+  - [PWA](#pwa)
+  - [IMAGE](#image)
+  - [ICONS](#icons)
+  - [COMMENTS](#comments)
+  - [FONTS](#fonts)
+  - [CSS](#css)
+  - [CSS PAGE TRANSITION](#css-page-transition)
+  - [CSS FRAMEWORK](#css-framework)
+  - [CSS LAYOUT](#css-layout)
+  - [CSS PREPROCESSOR](#css-preprocessor)
+  - [SVG](#svg)
+  - [SPRITE](#sprite)
+  - [JAVASCRIPT](#javascript)
+  - [HTML](#html)
+  - [HTML AUDIO](#html-audio)
+  - [VARIOUS CSS/JS/HTML](#various-cssjshtml)
+  - [FRAMEWORK](#framework)
+  - [OTHERS](#others)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Web-Style-Guide
 
 ## SUMMARY

@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [Welcome {{user?.name}}](#welcome-username)
+  - [FETCH PROMISE OBSERAVABLE RXJS](#fetch-promise-obseravable-rxjs)
+  - [TYPESCRIPT](#typescript)
+  - [ANGULAR2 CLI](#angular2-cli)
+  - [NATIVESCRIPT :](#nativescript-)
+  - [IONIC2 https://apps.ionic.io/apps](#ionic2-httpsappsionicioapps)
+  - [syntax](#syntax)
+- [pour la déclaration de variable](#pour-la-d%C3%A9claration-de-variable)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 intellij racourci : https://github.com/MrZaYaC/ng2-webstorm-snippets
 
 chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
@@ -5,6 +20,13 @@ chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-deb
 CHROME CORS PLUGIN OU http://crossorigin.me/ : Allow-Control-Allow-Origin: * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 CHROME POSTMAN PLUGIN
 
+SUBLIMETEXT : https://github.com/Microsoft/TypeScript-Sublime-Plugin
+ATOM : 
+shortcut : https://github.com/nwinkler/atom-keyboard-shortcuts
+utility : http://stackoverflow.com/questions/32790311/how-to-structure-utility-class
+ionic2 i18n : http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/
+ng2 img : https://github.com/VadimDez/ng2-img-fallback
+loader : https://ionicframework.com/docs/v2/api/components/loading/LoadingController/
 
 HTTP POST PARAMS :
 https://forum.ionicframework.com/t/http-post-not-sending-data/47452/6
@@ -14,6 +36,7 @@ https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angula
 
 ## FETCH PROMISE OBSERAVABLE RXJS
 http://output.jsbin.com/juwiva/29
+https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service
 
 
 ## TYPESCRIPT
@@ -66,7 +89,7 @@ component : http://ionicframework.com/docs/v2/components/#overview
 
 init project : 
 
-ionic start cutePuppyPics --v2					> start new project
+ionic start cutePuppyPics --v2					> start new project  
 cd cutePuppyPics											
 ionic serve										> test web project
 cordova platform add android --save				> add android platform to project
@@ -78,6 +101,13 @@ ionic info
 generate elements
 ionic g page login
 ionic g provider MyData
+
+
+plugins : 
+ionic plugin add cordova-plugin-geolocation
+ionic plugin add cordova-plugin-facebook4 --save --variable APP_ID="1105334862864787" --variable APP_NAME="APP-SEDUCTION"
+ionic plugin add cordova-plugin-whitelist
+
 
 facebook 
 http://ionicframework.com/docs/v2/native/facebook/
@@ -114,7 +144,7 @@ es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`;
 
 classe ou interface ->
 classe si besoin de creer des function sur le pojo ou bien interface suffit
-si classe alors utiliser mecanisme fromJSON (ng-book2 screencast final-app)
+si classe alors utiliser mecanisme fromJSON (ng-book2 screencast final-app voir code source)
 
 rxJs  https://xgrommx.github.io/rx-book/index.html + http://rxmarbles.com/
 le listener = un observer

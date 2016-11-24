@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [STYLE GUIDE](#style-guide)
+- [HTTP PROMISE](#http-promise)
+- [CLI](#cli)
+- [THEME](#theme)
+- [NATIVE](#native)
+- [COMPILE](#compile)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 REACT UTILS
 
 ## STYLE GUIDE

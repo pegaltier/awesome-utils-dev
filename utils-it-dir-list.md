@@ -3,21 +3,24 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [it-directory](#it-directory)
+    - [WORDPRESS](#wordpress)
+    - [COURSES/GAMES](#coursesgames)
     - [AGILE](#agile)
     - [OFFICE](#office)
     - [HOSTING](#hosting)
     - [NEWS FUN](#news-fun)
     - [WEBMASTERS](#webmasters)
     - [MASHUP](#mashup)
-    - [MOBILE](#mobile)
-    - [APPS MOBILE](#apps-mobile)
-	- [PROMOTE APPS](#promote-apps)
+    - [MOBILE APP](#mobile-app)
+  - [PROMOTE APPS](#promote-apps)
     - [JURIDIQUE](#juridique)
     - [ALLS](#alls)
     - [IOT](#iot)
     - [FUTUR/DISRUPTIF](#futurdisruptif)
     - [VIRTUAL REALITY](#virtual-reality)
     - [GROW  SITES](#grow--sites)
+    - [GROW SOCIAL](#grow-social)
+    - [GROW HACK TOOLS](#grow-hack-tools)
     - [SUBMIT LIST](#submit-list)
     - [GAMES](#games)
     - [VENTURE / INVESTORS / ASSOS / INCUBATOR](#venture--investors--assos--incubator)
@@ -28,21 +31,24 @@
     - [WEBTV](#webtv)
     - [TOULOUSE](#toulouse)
     - [COWORKING/TRAVEL / NOMADS](#coworkingtravel--nomads)
+    - [STOCK PHOTOS](#stock-photos)
     - [RESOURCES](#resources)
-	- [FREELANCE](#freelance)
+  - [FREELANCE](#freelance)
     - [DIRECTORY / BRAND NEW STARTUP / ANNUAIRE IT](#directory--brand-new-startup--annuaire-it)
+    - [TOOLS COMMUNICATION ASSO / ENTERPRISE](#tools-communication-asso--enterprise)
     - [STARTUP / INNOVATION](#startup--innovation)
     - [Crowdfunding](#crowdfunding)
     - [IT général](#it-g%C3%A9n%C3%A9ral)
     - [Programmation / Developpement / Programming](#programmation--developpement--programming)
     - [APIS](#apis)
+  - [CLOUD BACKEND DATABASE](#cloud-backend-database)
     - [AI](#ai)
     - [COMMUNITY MANAGER / MARKETING / STRATEGIES / E COMMERCE](#community-manager--marketing--strategies--e-commerce)
     - [UX DESIGN](#ux-design)
     - [IHM/UX TOOLS](#ihmux-tools)
     - [WEBDESIGN](#webdesign)
     - [WEBDESIGN RESSOURCES](#webdesign-ressources)
-    - [PROG BLOG](#prog-blog)
+    - [PROG BLOG / DEV SITE](#prog-blog--dev-site)
     - [WEBSITE AWARDS](#website-awards)
     - [Social professionel](#social-professionel)
     - [SECURITE PIRATAGE](#securite-piratage)
@@ -56,13 +62,20 @@
 ### WORDPRESS
 http://wp-rocket.me/fr/
 
+### COURSES/GAMES
+https://www.codewars.com
+
 ### AGILE
 https://www.icescrum.com/
+http://beta.icescrum.com/
 https://taiga.io/
 https://trello.com/
 https://www.teammood.com/fr/
 https://www.openproject.org/
 https://kanbanize.com
+https://waffle.io/
+https://www.zenhub.com/
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/
 
 ### OFFICE
 https://www.bird-office.com/ 
