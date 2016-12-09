@@ -321,7 +321,10 @@ https://coryrylan.com/blog/css-encapsulation-with-angular-2-components
 https://angular.io/docs/ts/latest/guide/component-styles.html  
 
 
-## ANGULAR2 ROUTES ROUTER LAZY LOADING
+## ANGULAR2 ROUTES ROUTER LAZY LOADING ROUTING
+https://blog.nrwl.io/enable-lazy-loading-in-angular-2-apps-8298916056#.184fee12y
+https://www.nativescript.org/blog/optimizing-app-loading-time-with-angular-2-lazy-loading
+https://www.softwarearchitekt.at/post/2016/12/02/sticky-routes-in-angular-2-3-with-routereusestrategy.aspx
 https://github.com/davinkevin/angular2-lazyRoute
 http://www.gistia.com/working-angular-2-router-part-1
 https://devblog.dymel.pl/2016/10/06/lazy-loading-angular2-modules/
@@ -373,6 +376,7 @@ https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with
 https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine
 https://medium.com/@paynoattn/simple-observable-unit-testing-in-angular2-43c4f4a0bfe2#.f51bkw9q4
 https://semaphoreci.com/community/tutorials/testing-services-in-angular-2?
+https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.okdmpr9vu
 
 ## ANGULAR2 API
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
@@ -411,6 +415,7 @@ http://demos.wijmo.com/5/angular2/FlexGridIntro/FlexGridIntro/
 https://github.com/WoltersKluwerPL/ng2-spin-kit  
 
 ## ANGULAR2  LIBS THEME/STYLE/CSS
+https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2#.bwypv3is1
 https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components  
 https://github.com/akveo/ng2-admin
 https://github.com/ng-bootstrap/core  

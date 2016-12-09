@@ -96,6 +96,7 @@ sample : https://github.com/driftyco/ionic-conference-app
 events : https://github.com/driftyco/ionic/blob/master/demos/src/events/app.component.ts
 events : http://ionicframework.com/docs/v2/api/util/Events/
 parent/child : http://stackoverflow.com/questions/35832407/ionic-2-modify-a-variable-in-app-js-from-child-page
+lifecycle : https://saniyusuf.com/ionic-by-component-page-lifecycle/
 
 init project :  
  

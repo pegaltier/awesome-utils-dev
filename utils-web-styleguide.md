@@ -45,6 +45,7 @@ https://testmysite.withgoogle.com
 lighthouse CLI : https://github.com/GoogleChrome/lighthouse
 checlist : https://developers.google.com/web/progressive-web-apps/checklist
 utils : https://dev.opera.com/articles/pwa-resources
+example : https://joreteg.com/blog/installing-web-apps-for-real
 
 ## IMAGE
 optimize : https://www.jpeg.io

@@ -201,7 +201,11 @@ https://www.datananas.com/fr/
 
 
 
-### SUBMIT LIST
+### SUBMIT LIST PROMOTE BUZZ
+https://www.startups.co/education/lessons/growth-user-0/1
+http://userinput.io/blog/whats-important-focus-website-traffic-conversion
+http://viralcontentbee.com/
+https://copromote.com
 https://submit.co/
 https://www.hey.press/
 http://presshour.co/  
@@ -354,6 +358,7 @@ https://pixabay.com
 http://www.coverr.co  
 
 ### RESOURCES
+http://www.colorhunt.co/
 http://www.heropatterns.com/
 https://goanimate.com
 http://www.flixapp.co/  
@@ -498,8 +503,12 @@ https://framateam.org
 https://www.mattermost.org/
 https://rocket.chat/
 
+### HELP STARTUP
+https://www.ekito.fr/
+http://likeweb-startup.fr/
 
 ### STARTUP / INNOVATION
+https://www.startups.co/
 http://www.presse-citron.net/  
 http://www.maddyness.com/  
 http://www.usine-digitale.fr/  
@@ -1103,3 +1112,6 @@ http://www.not-studio.com/ (simple layout inspiration)
 https://www.biig.fr/ (a lot of animation)
 https://www.waaark.com realisation de site web bien connu
 http://www.durimel.io/ 9***********************
+http://www.ludmillamaury.com/
+http://pomerleau.ca/
+http://vallierbistro.com/en/
