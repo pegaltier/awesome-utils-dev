@@ -38,9 +38,13 @@ chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.
 chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 chrome CORS PLUGIN or https://crossorigin.me/
 
+## AUDIT
+https://testmysite.withgoogle.com
+
 ## PWA 
 lighthouse CLI : https://github.com/GoogleChrome/lighthouse
-
+checlist : https://developers.google.com/web/progressive-web-apps/checklist
+utils : https://dev.opera.com/articles/pwa-resources
 
 ## IMAGE
 optimize : https://www.jpeg.io
@@ -48,6 +52,8 @@ optimize : https://tinypng.com/
 background : http://www.heropatterns.com/
 performance : http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images
 
+## EFFECT
+parallax : https://developers.google.com/web/updates/2016/12/performant-parallaxing
 
 ## ICONS
 css icons : http://cssicon.space/
@@ -101,6 +107,9 @@ flexbox : http://flexbox.io/
 pros : http://stylus-lang.com/  
 cons : http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors  
 
+## CSS PRINT
+https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.66l1q2t6l
+
 ## SVG
 example : http://www.hongkiat.com/blog/svg-animations/
 inner html : https://thenewcode.com/1151/Understanding-the-SVG-viewBox
@@ -109,6 +118,8 @@ parallax image : http://www.sitepoint.com/parallax-burns-converting-photographs-
 animate svg : https://maxwellito.github.io/vivus/  
 animate svg : https://www.oreilly.com/learning/introduction-to-svg-animation
 animate svg : https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js
+animate svg : https://medium.com/bitmatica-lab/svg-line-animation-for-the-uninitiated-5a65d91c6044#.ydo9a7u1l
+animate svg : https://css-tricks.com/svg-line-animation-works/
 interactive svg : http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/
 libs : http://mediatemple.net/blog/tips/svg-charting-libraries/
 
@@ -120,6 +131,7 @@ generator : https://eliorshalev.github.io/sprite-spirit
 es2015 : https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.x41dygjuv
 courses : https://psdtowp.net/learn-javascript.html  
 immutable : https://auth0.com/blog/2016/03/23/intro-to-immutable-js/  
+news : http://jsawards.org/
 
 ## HTML
 input validation : http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120  

@@ -20,14 +20,10 @@ chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-deb
 CHROME CORS PLUGIN OU http://crossorigin.me/ : Allow-Control-Allow-Origin: * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi 
 CHROME POSTMAN PLUGIN 
 
-SUBLIMETEXT : https://github.com/Microsoft/TypeScript-Sublime-Plugin 
-ATOM :  
-shortcut : https://github.com/nwinkler/atom-keyboard-shortcuts 
+
+
 utility : http://stackoverflow.com/questions/32790311/how-to-structure-utility-class 
-ionic2 i18n : http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/ 
-ng2 img : https://github.com/VadimDez/ng2-img-fallback 
-loader : https://ionicframework.com/docs/v2/api/components/loading/LoadingController/ 
- 
+
 HTTP POST PARAMS : 
 https://forum.ionicframework.com/t/http-post-not-sending-data/47452/6 
 http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-with-parameters-to-php/ 
@@ -57,6 +53,7 @@ ng build --prod
 ng github-pages:deploy 
 git subtree push --prefix dist/ origin gh-pages 
  
+ 
 ## NATIVESCRIPT : 
 set ANDROID_HOME=C:\Android\sdk 
 set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools 
@@ -66,6 +63,11 @@ https://docs.nativescript.org/start/ns-setup-win
 http://docs.nativescript.org/angular/tutorial/ng-chapter-1 
 http://docs.nativescript.org/angular/tutorial/ng-chapter-2 
 https://docs.nativescript.org/angular/code-samples/overview.html (component) 
+https://github.com/NativeScript/nativescript-sdk-examples-ng
+tns create StockTicker --ng (--ng tag to create an Angular 2 project)
+cd StockTicker
+tns platform add ios
+tns platform add android
 tns run android 
 tns livesync android --watch 
  
@@ -75,18 +77,26 @@ http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-
 
  
 
-## IONIC2 https://apps.ionic.io/apps 
+## IONIC2 
+https://apps.ionic.io/apps 
  
 http://ionicframework.com/docs/v2/getting-started/installation/ 
 
 icons : https://ionicframework.com/docs/v2/ionicons/ 
-push : https://docs.ionic.io/services/push/ 
-push : https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59#.l7dh5evsv 
-push : http://nishanthkabra.com/ionic2push.html 
+push1 : https://docs.ionic.io/services/push/ 
+push1 : https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59#.l7dh5evsv 
+push2 : https://documentation.onesignal.com/docs/ionic-sdk-setup
+push2 : https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
+push2 : https://ionicframework.com/docs/v2/native/onesignal/
+push2 : http://www.codingandclimbing.co.uk/blog/ionic-2-setup-push-notifications-for-android-with-onesignal-17
+push2 : https://documentation.onesignal.com/docs/customize-notification-icons
 theme : http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/ 
 component : http://ionicframework.com/docs/v2/components/#overview 
+sample : https://github.com/driftyco/ionic-conference-app
+events : https://github.com/driftyco/ionic/blob/master/demos/src/events/app.component.ts
+events : http://ionicframework.com/docs/v2/api/util/Events/
+parent/child : http://stackoverflow.com/questions/35832407/ionic-2-modify-a-variable-in-app-js-from-child-page
 
- 
 init project :  
  
 ionic start cutePuppyPics --v2					> start new project   
@@ -101,19 +111,29 @@ ionic info
 generate elements 
 ionic g page login 
 ionic g provider MyData 
+ionic g directive ElasticHeader
+ionic g directive textHolderPipe
 
- 
-plugins :  
-ionic plugin add cordova-plugin-geolocation 
-ionic plugin add cordova-plugin-facebook4 --save --variable APP_ID="0105334862864787" --variable APP_NAME="APP-NAME" 
-ionic plugin add cordova-plugin-whitelist 
 
- 
-facebook  
-http://ionicframework.com/docs/v2/native/facebook/ 
-https://github.com/fuffenz/ionic2-native-facebook-login 
-cordova plugin add cordova-plugin-facebook4 --save --variable APP_ID="0105334862864787" --variable APP_NAME="APP-NAME" 
-ionic plugin add cordova-plugin-facebook4 --save --variable APP_ID="0105334862864787" --variable APP_NAME="APP-NAME"
+ionic view (share with others using ionic view app)
+cmd: ionic upload
+http://view.ionic.io/
+http://ionicframework.com/docs/cli/uploading_viewing.html
+https://play.google.com/store/apps/details?id=com.ionic.viewapp
+
+update app without store
+https://docs.ionic.io/services/deploy/
+
+
+ionic package (generate apk or ipa)
+http://docs.ionic.io/services/package/
+
+publish on store
+https://ionicframework.com/docs/guide/publishing.html
+
+create PWA
+https://forum.ionicframework.com/t/building-for-browsers-pwa/72689
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
  
   

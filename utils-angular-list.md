@@ -87,8 +87,21 @@ http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/
 https://angular.io/docs/ts/latest/quickstart.html  
 https://angular.io/docs/ts/latest/cookbook/
 
-## ANGULAR2 IDE
+## ANGULAR2 IDE TOOLS SNIPPETS
 https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
+Visual Studio Code : https://code.visualstudio.com/docs?start=true
+https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
+https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
+ https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2
+ https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
+Sublimetext : https://github.com/Microsoft/TypeScript-Sublime-Plugin 
+ATOM shortcut : https://github.com/nwinkler/atom-keyboard-shortcuts 
+
+http://johnpapa.net/vscode-ng-snippets/  
+https://github.com/johnpapa/vscode-angular2-snippets  
+https://github.com/evanplaice/angular2-snippets  
+http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/  
+
 
 ## ANGULAR 2 CLI
 https://github.com/angular/angular-cli  
@@ -104,7 +117,7 @@ https://github.com/rangle/batarangle/
 https://github.com/manekinekko/angular2-dependencies-graph  
 https://augury.angular.io/
 http://codelyzer.com/
-https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
+
 
 
 
@@ -167,12 +180,6 @@ https://manning.com/books/angular-2-development-with-typescript
 http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison  
 https://egghead.io/series/angular-2-fundamentals  
 http://julienrenaux.fr  
-
-## ANGULAR2 SNIPPETS
-http://johnpapa.net/vscode-ng-snippets/  
-https://github.com/johnpapa/vscode-angular2-snippets  
-https://github.com/evanplaice/angular2-snippets  
-http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/  
 
 
 ## ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION
@@ -315,6 +322,8 @@ https://angular.io/docs/ts/latest/guide/component-styles.html
 
 
 ## ANGULAR2 ROUTES ROUTER LAZY LOADING
+https://github.com/davinkevin/angular2-lazyRoute
+http://www.gistia.com/working-angular-2-router-part-1
 https://devblog.dymel.pl/2016/10/06/lazy-loading-angular2-modules/
 http://damienbod.com/2016/03/29/angular-2-child-routing-and-components/  
 http://blog.devcross.net/2016/03/25/angular-2-router-and-regular-expressions/  
@@ -369,6 +378,7 @@ https://semaphoreci.com/community/tutorials/testing-services-in-angular-2?
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
 
 ## ANGULAR2 LIBS GENERAL
+https://swimlane.github.io/ng2d3/
 http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
 https://github.com/basvandenberg/angular2-select/tree/1.0.0-alpha.7	<< AUTOCOMPLETE + SELECT ITEM
 https://github.com/ocombe/ng2-translate  
