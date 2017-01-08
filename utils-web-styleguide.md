@@ -38,6 +38,11 @@ chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.
 chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 chrome CORS PLUGIN or https://crossorigin.me/
 
+## NPM
+tricks : https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/?utm_source=nodeweekly&utm_medium=email
+tips : https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.v1jfn4pb5
+bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
+
 ## AUDIT
 https://testmysite.withgoogle.com
 
@@ -46,6 +51,11 @@ lighthouse CLI : https://github.com/GoogleChrome/lighthouse
 checlist : https://developers.google.com/web/progressive-web-apps/checklist
 utils : https://dev.opera.com/articles/pwa-resources
 example : https://joreteg.com/blog/installing-web-apps-for-real
+prpl pattern : https://developers.google.com/web/fundamentals/performance/prpl-pattern/
+
+
+## DEBUG
+console. https://developers.google.com/web/tools/chrome-devtools/console/console-write
 
 ## IMAGE
 optimize : https://www.jpeg.io

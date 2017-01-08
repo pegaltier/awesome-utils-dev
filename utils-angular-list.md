@@ -83,24 +83,32 @@ https://www.reddit.com/r/Angular2/comments/5alp3z/helpful_github_repos_curated_t
 http://www.tryangular2.com/  
 http://learnangular2.com/  
 http://builtwithangular2.com/  
+http://angularexpo.com/
 http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/  
 https://angular.io/docs/ts/latest/quickstart.html  
 https://angular.io/docs/ts/latest/cookbook/
 
 ## ANGULAR2 IDE TOOLS SNIPPETS
+https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.lo1w8ym8k
+http://blog.ionic.io/cordova-extension-for-vscode/
+http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/  
 https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
-Visual Studio Code : https://code.visualstudio.com/docs?start=true
+
+https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
 https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
 https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
- https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2
- https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
-Sublimetext : https://github.com/Microsoft/TypeScript-Sublime-Plugin 
-ATOM shortcut : https://github.com/nwinkler/atom-keyboard-shortcuts 
+https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2
+https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
+https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
 
-http://johnpapa.net/vscode-ng-snippets/  
+https://github.com/angular/vscode-ng-language-service
+https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
+https://github.com/nwinkler/atom-keyboard-shortcuts  ATOM shortcut
 https://github.com/johnpapa/vscode-angular2-snippets  
-https://github.com/evanplaice/angular2-snippets  
-http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/  
+https://github.com/evanplaice/angular2-snippets 
+
 
 
 ## ANGULAR 2 CLI
@@ -122,6 +130,7 @@ http://codelyzer.com/
 
 
 ## ANGULAR2 DEBUG
+https://coryrylan.com/blog/angular-debugging-tips-and-tricks
 http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications
 http://juristr.com/blog/2016/02/debugging-angular2-console/  
 https://scotch.io/tutorials/debugging-angular-2-apps-with-augury
@@ -438,6 +447,7 @@ https://github.com/johnpapa/angular2-tour-of-heroes
 https://github.com/daviddt/angular2-form-validation-example  
 https://github.com/ng-book/angular2-rxjs-chat  
 https://github.com/blacksonic/angular2-es6-starter  
+https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang roles
 
 ## ANGULAR2 running demo
 http://winecellar.surge.sh/    
@@ -508,7 +518,7 @@ http://blog.ionic.io/angular-is-a-design-pattern/
 ## ANGULAR MIGRATION NG1 TO NG2
 https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b#.xhk466v64
 http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/  
-
+https://toddmotto.com/angular-1-6-is-here
 
 ## ANGULAR2/REACT COMPARAISON
 http://blog.krawaller.se/posts/angular2-versus-react-comparing-components/
@@ -544,3 +554,6 @@ http://www.bennadel.com/blog/3044-creating-a-run-block-in-angularjs-2-beta-8.htm
 https://www.ag-grid.com/understanding-packaging-for-javascript-typescript-commonjs-and-everything-else/  
 http://juristr.com/blog/  
 
+
+# 2017
+https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.ho5mvslad

@@ -19,6 +19,10 @@
 
 # Android / IntelliJ TIPS (FOR WINDOWS)
 
+
+Download badge : https://play.google.com/intl/fr_fr/badges/
+experiment store : https://developer.android.com/distribute/users/experiments.html
+
 ## SHORTCUT
 
 Copy/paste 			> 	CTRL + SHIFT + V

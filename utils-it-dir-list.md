@@ -199,7 +199,8 @@ https://prospect.io
 https://anygrowth.com/
 https://www.datananas.com/fr/
 
-
+### SEO
+https://curatedseotools.com/
 
 ### SUBMIT LIST PROMOTE BUZZ
 https://www.startups.co/education/lessons/growth-user-0/1
@@ -358,7 +359,10 @@ https://pixabay.com
 http://www.coverr.co  
 
 ### RESOURCES
+https://colordrop.io
+https://coolors.co/
 http://www.colorhunt.co/
+
 http://www.heropatterns.com/
 https://goanimate.com
 http://www.flixapp.co/  
@@ -481,7 +485,7 @@ http://www.koder.tech/
 https://www.hellobonsai.com/  
 https://hire.bid  
 
-### DIRECTORY / BRAND NEW STARTUP / ANNUAIRE IT 
+### DIRECTORY / BRAND NEW STARTUP / ANNUAIRE IT / OTHER LIST
 http://www.listhunt.co  
 http://startupli.st/  
 https://angel.co/  
@@ -495,6 +499,7 @@ http://avenue.usine-digitale.fr/
 http://growthtools.io/  
 http://makerlist.io  
 http://tophunt.info/  
+https://curatedseotools.com/
 
 ### TOOLS COMMUNICATION ASSO / ENTERPRISE
 http://slackstack.io/
@@ -667,6 +672,9 @@ https://www.packtpub.com/
 https://hackernoon.com/
 
 ### APIS
+https://www.mashape.com
+https://market.mashape.com/
+https://www.publicapis.com/
 https://apiplug.com/
 https://www.quandl.com/
 http://gluu.io/
@@ -687,6 +695,11 @@ https://apis.io/
 https://www.apitools.com/
 https://www.3scale.net/
 https://wrapapi.com
+ttps://genderize.io
+http://www.name-gender.com/
+https://stripe.com/fr
+https://www.sinch.com
+
 
 ## CLOUD BACKEND DATABASE
 http://horizon.io/
@@ -766,6 +779,7 @@ http://www.behance.net
 http://coolors.co/
 https://niice.co/
 http://makerbook.net/?ref=producthunt
+http://talkaboutdesign.com/preview/
 
 http://iconstore.co/
 https://fonticons.com/?
@@ -1115,3 +1129,4 @@ http://www.durimel.io/ 9***********************
 http://www.ludmillamaury.com/
 http://pomerleau.ca/
 http://vallierbistro.com/en/
+https://richard.gs

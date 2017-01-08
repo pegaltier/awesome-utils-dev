@@ -53,7 +53,12 @@ ng build --prod
 ng github-pages:deploy 
 git subtree push --prefix dist/ origin gh-pages 
  
- 
+UPGRADE VERSION
+http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
+http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
+http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
+
+
 ## NATIVESCRIPT : 
 set ANDROID_HOME=C:\Android\sdk 
 set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools 
@@ -97,17 +102,25 @@ events : https://github.com/driftyco/ionic/blob/master/demos/src/events/app.comp
 events : http://ionicframework.com/docs/v2/api/util/Events/
 parent/child : http://stackoverflow.com/questions/35832407/ionic-2-modify-a-variable-in-app-js-from-child-page
 lifecycle : https://saniyusuf.com/ionic-by-component-page-lifecycle/
+lifecycle : http://blog.ionic.io/navigating-lifecycle-events/
 
 init project :  
  
 ionic start cutePuppyPics --v2					> start new project   
 cd cutePuppyPics											 
 ionic serve										> test web project 
+ionic serve --lab								> test web and simulate android/ios mobile
 cordova platform add android --save				> add android platform to project 
 ionic platform android							> add android platform to project 
 ionic run android  								> run project on android device 
- 
 ionic info 
+ 
+ionic emulate ios --livereload --consolelogs --serverlogs
+ionic emulate android --livereload --consolelogs --serverlogs
+ 
+ionic run ios -l -c -s
+ionic run android -l -c -s
+ionic run android -c
  
 generate elements 
 ionic g page login 
@@ -115,16 +128,19 @@ ionic g provider MyData
 ionic g directive ElasticHeader
 ionic g directive textHolderPipe
 
+ionic icons & splash screens
+http://ionicframework.com/docs/cli/icon-splashscreen.html
+
 
 ionic view (share with others using ionic view app)
 cmd: ionic upload
+https://apps.ionic.io/apps
 http://view.ionic.io/
 http://ionicframework.com/docs/cli/uploading_viewing.html
 https://play.google.com/store/apps/details?id=com.ionic.viewapp
 
 update app without store
 https://docs.ionic.io/services/deploy/
-
 
 ionic package (generate apk or ipa)
 http://docs.ionic.io/services/package/
@@ -134,6 +150,18 @@ https://ionicframework.com/docs/guide/publishing.html
 
 create PWA
 https://forum.ionicframework.com/t/building-for-browsers-pwa/72689
+
+creator
+https://creator.ionic.io/app/login
+
+update version : http://blog.ionic.io/ionic-2-rc-weekend-updates/
+delete node modules and update new version of ionic-angular inside package.json + npm install + correct angular version
+First, update the version of @ionic/app-scripts in your Ionic 2 app with
+npm install @ionic/app-scripts@latest --save-dev
+Second, update your Ionic CLI using
+npm install -g ionic
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
  
