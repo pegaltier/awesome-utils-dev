@@ -23,8 +23,13 @@
 Download badge : https://play.google.com/intl/fr_fr/badges/
 experiment store : https://developer.android.com/distribute/users/experiments.html
 
-## SHORTCUT
 
+## UTILS
+http://gunhansancar.com/tools/converter/#
+https://android.fallible.co/#
+
+
+## SHORTCUT
 Copy/paste 			> 	CTRL + SHIFT + V
 Back				> 	CTRL + ALT + LEFT (<-)
 Last Location		>	CTRL + SHIFT + BACKSPACE

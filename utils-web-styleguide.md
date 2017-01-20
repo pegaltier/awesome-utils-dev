@@ -28,6 +28,7 @@
 
 # Web-Style-Guide
 
+
 ## SUMMARY
 checklist : http://webdevchecklist.com/
 google : https://google.github.io/styleguide/htmlcssguide.xml
@@ -37,6 +38,10 @@ chrome : https://developers.google.com/web/tools/chrome-devtools/
 chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 chrome CORS PLUGIN or https://crossorigin.me/
+
+## NEW BACKEND
+http://graphql.org/
+https://netflix.github.io/falcor/
 
 ## NPM
 tricks : https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/?utm_source=nodeweekly&utm_medium=email
@@ -52,7 +57,7 @@ checlist : https://developers.google.com/web/progressive-web-apps/checklist
 utils : https://dev.opera.com/articles/pwa-resources
 example : https://joreteg.com/blog/installing-web-apps-for-real
 prpl pattern : https://developers.google.com/web/fundamentals/performance/prpl-pattern/
-
+angular pwa : https://houssein.me/progressive-angular-applications
 
 ## DEBUG
 console. https://developers.google.com/web/tools/chrome-devtools/console/console-write
@@ -139,10 +144,16 @@ libs : http://mediatemple.net/blog/tips/svg-charting-libraries/
 generator : https://eliorshalev.github.io/sprite-spirit
 
 ## JAVASCRIPT
+best : https://risingstars2016.js.org
+best : http://bestof.js.org/
+best : http://jsawards.org/
+
 es2015 : https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.x41dygjuv
 courses : https://psdtowp.net/learn-javascript.html  
 immutable : https://auth0.com/blog/2016/03/23/intro-to-immutable-js/  
-news : http://jsawards.org/
+webpack tuto : http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/
+async : https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
+
 
 ## HTML
 input validation : http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120  
@@ -171,3 +182,8 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 ## OTHERS
 under construction  
+
+
+## ERGONOMIE
+eyetracking http://webgazer.cs.brown.edu/
+

@@ -201,6 +201,15 @@ https://www.datananas.com/fr/
 
 ### SEO
 https://curatedseotools.com/
+http://seositecheckup.com/
+https://fr.majestic.com/
+https://ubersuggest.io/
+
+
+### PRESS
+https://www.horsantenne.com/
+http://www.datapresse.com/page-logiciel-rp-datapresse.html
+
 
 ### SUBMIT LIST PROMOTE BUZZ
 https://www.startups.co/education/lessons/growth-user-0/1
@@ -322,6 +331,8 @@ https://skiller.fr/
 https://frenchwork.fr/
 https://www.devfriendlyplaces.net (FRANCE)
 http://digitalnomadsforum.com/
+https://www.numbeo.com/cost-of-living/
+https://www.expatistan.com/cost-of-living
 
 http://www.harrycow.com/ (toulouse)
 http://athome-startup.fr/ (toulouse)

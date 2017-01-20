@@ -31,3 +31,9 @@ https://saniyusuf.com/ionic-by-component-navigation/
 
 ## DESIGN
 http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/
+
+
+## SOCIAL SHARING
+http://pointdeveloper.com/add-social-sharing-to-your-ionic-2-app/
+https://ionicthemes.com/tutorials/about/ionic2-app-with-socialsharing-and-deeplinking
+https://ionicframework.com/docs/v2/native/social-sharing/

@@ -43,6 +43,8 @@ tsc --watch
 npm init 
  
 
+########################################################################################################################
+########################################################################################################################
  
 ## ANGULAR2 CLI 
 ng generate component pony sidebar article article_list 
@@ -57,6 +59,9 @@ UPGRADE VERSION
 http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
 http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
 http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
+
+########################################################################################################################
+########################################################################################################################
 
 
 ## NATIVESCRIPT : 
@@ -80,7 +85,8 @@ native + webapp :
 https://github.com/Appverse/PANG-Polymorphic-ANGular-seed 
 http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-codebase/ 
 
- 
+########################################################################################################################
+########################################################################################################################
 
 ## IONIC2 
 https://apps.ionic.io/apps 
@@ -144,6 +150,8 @@ https://docs.ionic.io/services/deploy/
 
 ionic package (generate apk or ipa)
 http://docs.ionic.io/services/package/
+https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac
+
 
 publish on store
 https://ionicframework.com/docs/guide/publishing.html
@@ -155,15 +163,17 @@ creator
 https://creator.ionic.io/app/login
 
 update version : http://blog.ionic.io/ionic-2-rc-weekend-updates/
-delete node modules and update new version of ionic-angular inside package.json + npm install + correct angular version
+delete node modules and update new version of ionic-angular inside package.json 
+rmdir /s/q node_modules
+npm install + correct error (angular version)
 First, update the version of @ionic/app-scripts in your Ionic 2 app with
 npm install @ionic/app-scripts@latest --save-dev
 Second, update your Ionic CLI using
 npm install -g ionic
 
 
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+########################################################################################################################
+########################################################################################################################
  
   
 ## syntax

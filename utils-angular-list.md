@@ -130,6 +130,7 @@ http://codelyzer.com/
 
 
 ## ANGULAR2 DEBUG
+https://dzone.com/articles/how-to-debug-an-angular-application-with-chrome-an
 https://coryrylan.com/blog/angular-debugging-tips-and-tricks
 http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications
 http://juristr.com/blog/2016/02/debugging-angular2-console/  
@@ -204,7 +205,8 @@ http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup
 http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_164
 https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294#.jrwcy16lq
 
-## ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCUSION
+## ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION
+https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.t26pl8km2
 http://4dev.tech/2016/03/angular2-tutorial-detecting-clicks-outside-the-component/  
 http://www.bennadel.com/blog/3062-creating-an-html-dropdown-menu-component-in-angular-2-beta-11.htm  
 https://matthewross.me/blog/posts/notifications-an-angular-2-component  
@@ -329,6 +331,8 @@ https://medium.com/@richavyas/webpack-new-way-of-building-ng2-app-a34a3bdabb17#.
 https://coryrylan.com/blog/css-encapsulation-with-angular-2-components  
 https://angular.io/docs/ts/latest/guide/component-styles.html  
 
+## ANGULAR2 ANIMATE
+http://www.dzurico.com/angular-animate
 
 ## ANGULAR2 ROUTES ROUTER LAZY LOADING ROUTING
 https://blog.nrwl.io/enable-lazy-loading-in-angular-2-apps-8298916056#.184fee12y
@@ -352,6 +356,9 @@ https://vsavkin.com/angular-router-preloading-modules-ba3c75e424cb#.tvrcmfszm
 
 ## ANGULAR2 SECURITY
 https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.qyagk4j6f
+https://www.youtube.com/watch?v=WN-XczmI-LY
+https://www.youtube.com/watch?v=l89acmnGMSc
+https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
 
 ## ANGULAR2 SEO
 http://blog.devcross.net/2016/03/20/angular-2-seo/  
