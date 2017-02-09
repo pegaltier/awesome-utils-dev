@@ -300,6 +300,7 @@ http://workdesigners.com/
 http://www.frenchtechtoulouse.com/  
 
 ### COWORKING/TRAVEL / NOMADS
+http://nomadtrain.co/
 https://www.neo-nomade.com/
 https://nomadbase.io/
 https://workfrom.co/
@@ -373,7 +374,7 @@ http://www.coverr.co
 https://colordrop.io
 https://coolors.co/
 http://www.colorhunt.co/
-
+https://color.adobe.com/fr/create/color-wheel/
 http://www.heropatterns.com/
 https://goanimate.com
 http://www.flixapp.co/  
@@ -424,6 +425,7 @@ https://unsplash.com/ + DESIGN
 https://visualhunt.com/  + DESIGN  
 http://allthefreestock.com/ + DESIGN  
 https://picjumbo.com/ + DESIGN  
+https://www.mockupworld.co + DESIGN
 https://pixabay.com/  
 http://www.imcreator.com/free  
 http://www.morguefile.com/  
@@ -1141,3 +1143,4 @@ http://www.ludmillamaury.com/
 http://pomerleau.ca/
 http://vallierbistro.com/en/
 https://richard.gs
+http://www.duhaihang.com/ OPEN GL

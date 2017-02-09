@@ -27,6 +27,8 @@ experiment store : https://developer.android.com/distribute/users/experiments.ht
 ## UTILS
 http://gunhansancar.com/tools/converter/#
 https://android.fallible.co/#
+http://stackoverflow.com/questions/24882550/how-to-format-text-in-string-displayed-in-textview
+
 
 
 ## SHORTCUT

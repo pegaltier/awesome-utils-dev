@@ -41,6 +41,7 @@ chrome CORS PLUGIN or https://crossorigin.me/
 
 ## NEW BACKEND
 http://graphql.org/
+https://www.graph.cool/
 https://netflix.github.io/falcor/
 
 ## NPM
@@ -81,6 +82,10 @@ habits : http://www.sitepoint.com/how-good-are-your-html-and-css-comments
 ## FONTS 
 google type : https://femmebot.github.io/google-type/
 
+## COLOR
+https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/
+
+
 ## CSS
 base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate  
 base rules : https://github.com/jareware/css-architecture
@@ -103,6 +108,7 @@ style generator : http://www.css3generator.com/
 structure : https://medium.com/peergrade-io/structuring-css-in-large-projects-37f1695f5ec8#.gn9z2owsb
 utils : https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.yq8fxsqf9
 animation example : http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
+menu burger : https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
 
 ## CSS PAGE TRANSITION
 http://git.blivesta.com/animsition/
@@ -187,3 +193,13 @@ under construction
 ## ERGONOMIE
 eyetracking http://webgazer.cs.brown.edu/
 
+
+## GIT
+https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+git config --global alias.pul "pull origin master"
+git config --global alias.pus "push origin master"
+
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status

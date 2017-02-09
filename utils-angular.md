@@ -51,14 +51,32 @@ ng generate component pony sidebar article article_list
 ng generate class article 
 ng generate service article 
 ng serve 
-ng build --prod	 
+
 ng github-pages:deploy 
 git subtree push --prefix dist/ origin gh-pages 
+ 
+PROXY BACKEND
+https://github.com/angular/angular-cli#proxy-to-backend
  
 UPGRADE VERSION
 http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
 http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
 http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
+https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
+
+Install
+sudo npm install -g npm-check-updates
+
+Usage
+ncu for display
+ncu -u for re-writing your package.json
+rmdir /s/q node_modules
+npm install
+
+BUILD PROD
+http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
+ng build --prod	 
+ng build --prod --aot
 
 ########################################################################################################################
 ########################################################################################################################

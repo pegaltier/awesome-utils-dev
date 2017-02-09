@@ -69,6 +69,7 @@ http://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javas
 https://github.com/lukehoban/es6features  
 http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
 https://www.sitepen.com/blog/2016/09/01/typescript-2-0-awesomeness/
+https://www.bennadel.com/blog/3217-defining-function-and-callback-interfaces-in-typescript.htm
 
 ## ANGULAR2 OTHERS LIST
 https://github.com/jmcunningham/AngularJS2-Learning  
@@ -79,6 +80,7 @@ http://whatpixel.com/learn-angular2-from-scratch/
 https://www.reddit.com/r/Angular2/comments/4cvwjr/helpful_github_repos_curated_through_april_2016/  
 https://www.reddit.com/r/Angular2/comments/5alp3z/helpful_github_repos_curated_through_november_2016/
 
+## ANGULAR2 INT
 ## ANGULAR2 START
 http://www.tryangular2.com/  
 http://learnangular2.com/  
@@ -92,6 +94,7 @@ https://angular.io/docs/ts/latest/cookbook/
 https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.lo1w8ym8k
 http://blog.ionic.io/cordova-extension-for-vscode/
 http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/  
+https://blog.nrwl.io/using-webstorm-for-building-angular-apps-fe8b3ab92565#.xwiyt3668
 https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
 
 https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
@@ -192,7 +195,14 @@ https://egghead.io/series/angular-2-fundamentals
 http://julienrenaux.fr  
 
 
+## ANGULAR2 DISTRIBUTING
+http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
+
+## ANGULAR2 DECORATOR/ANNOTATION
+https://toddmotto.com/angular-decorators
+
 ## ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION
+http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html  
 https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5  
 http://blog.jhades.org/how-to-run-angular-2-in-production-today/  
@@ -219,7 +229,7 @@ http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/
 ## ANGULAR 2 NG MODULES NGMODULE
 https://johnpapa.net/introducing-angular-modules-feature-modules-2/
 
-## ANGULAR2 AUTHENTIFICATION/LOGIN/FORM
+## ANGULAR2 AUTHENTIFICATION/LOGIN/
 http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/  
 http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html  
 http://almerosteyn.com/2016/03/angular2-form-validation-component  
@@ -229,7 +239,12 @@ https://toddmotto.com/angular-2-authentication
 http://tphangout.com/angular-2-authentication-using-the-new-router/
 https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 https://scotch.io/tutorials/angular-2-form-validation
-https://toddmotto.com/reactive-formgroup-validation-angular-2
+
+## ANGULAR2  FORMS FORM
+http://learnangular2.com/forms/																		**************
+https://toddmotto.com/angular-2-forms-template-driven												**************
+https://toddmotto.com/angular-2-forms-reactive														**************
+https://toddmotto.com/reactive-formgroup-validation-angular-2										**************
 
 
 ## ANGULAR2 SCAFFHOLDING
@@ -277,6 +292,7 @@ http://www.sitepoint.com/angular-2-mockbackend
 http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backendless-development
 
 ## ANGULAR2 REDUX
+https://www.youtube.com/watch?v=UEcdQR-NoNA
 http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
@@ -333,6 +349,8 @@ https://angular.io/docs/ts/latest/guide/component-styles.html
 
 ## ANGULAR2 ANIMATE
 http://www.dzurico.com/angular-animate
+https://blog.thecodecampus.de/angular-2-animate-creating-sliding-side-navigation
+
 
 ## ANGULAR2 ROUTES ROUTER LAZY LOADING ROUTING
 https://blog.nrwl.io/enable-lazy-loading-in-angular-2-apps-8298916056#.184fee12y
