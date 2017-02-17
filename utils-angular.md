@@ -59,6 +59,7 @@ PROXY BACKEND
 https://github.com/angular/angular-cli#proxy-to-backend
  
 UPGRADE VERSION
+https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli
 http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
 http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
 http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows

@@ -32,6 +32,8 @@
 ## SUMMARY
 checklist : http://webdevchecklist.com/
 google : https://google.github.io/styleguide/htmlcssguide.xml
+web : https://internetingishard.com/html-and-css/
+
 
 ## TOOLS
 chrome : https://developers.google.com/web/tools/chrome-devtools/
@@ -68,6 +70,10 @@ optimize : https://www.jpeg.io
 optimize : https://tinypng.com/
 background : http://www.heropatterns.com/
 performance : http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images
+responsive : https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.f0zcv3ttb
+image lazy : http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
+alt image : https://bitsofco.de/alternative-text-and-images
+
 
 ## EFFECT
 parallax : https://developers.google.com/web/updates/2016/12/performant-parallaxing
@@ -82,14 +88,16 @@ habits : http://www.sitepoint.com/how-good-are-your-html-and-css-comments
 ## FONTS 
 google type : https://femmebot.github.io/google-type/
 
-## COLOR
+## DESIGN
 https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/
+https://webgradients.com
 
 
 ## CSS
 base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate  
 base rules : https://github.com/jareware/css-architecture
 base rules : http://bradfrost.com/blog/post/css-architecture-for-design-systems/
+base rules : https://sgom.es/posts/2017-02-10-bridging-css-and-js-with-custom-properties
 class organization : https://css-tricks.com/bem-101/  
 flexbox : http://www.flexboxpatterns.com/home
 flexbox : https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.nkwq5jn7k
@@ -107,6 +115,7 @@ link hover : http://tympanus.net/codrops/2013/08/06/creative-link-effects/
 style generator : http://www.css3generator.com/  
 structure : https://medium.com/peergrade-io/structuring-css-in-large-projects-37f1695f5ec8#.gn9z2owsb
 utils : https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.yq8fxsqf9
+animation : https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3
 animation example : http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
 menu burger : https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
 
@@ -149,25 +158,33 @@ libs : http://mediatemple.net/blog/tips/svg-charting-libraries/
 ## SPRITE
 generator : https://eliorshalev.github.io/sprite-spirit
 
-## JAVASCRIPT
+## JAVASCRIPT AWARDS
 best : https://risingstars2016.js.org
 best : http://bestof.js.org/
 best : http://jsawards.org/
 
+## JAVASCRIPT COURSES
 es2015 : https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.x41dygjuv
 courses : https://psdtowp.net/learn-javascript.html  
 immutable : https://auth0.com/blog/2016/03/23/intro-to-immutable-js/  
 webpack tuto : http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/
 async : https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
 
+## JAVASCRIPT LIBS
+scrolldir : https://dollarshaveclub.github.io/scrolldir
+rythm html : http://okazari.github.io/Rythm.js/
+sticky affix : http://leafo.net/sticky-kit
+ouibounce : https://github.com/carlsednaoui/ouibounce
+
 
 ## HTML
 input validation : http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120  
 html5 elements : http://www.html5accessibility.com/html5elements/  
+form elements : https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types
 figure elements : http://www.sitepoint.com/quick-tip-the-right-way-to-use-figure-and-figcaption-elements/  
-image lazy : http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
-alt image : https://bitsofco.de/alternative-text-and-images
 
+## EXPERIMENT
+http://david.li/paint
 
 ## HTML AUDIO
 emit/receive : https://github.com/quiet/quiet-js  

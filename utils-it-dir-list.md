@@ -119,6 +119,7 @@ http://welcome.freemyapps.com/advertise.html
 ### JURIDIQUE
 http://www.jurismatic.com/  
 https://www.legalife.fr/  
+https://www.captaincontrat.com/
 https://www.legalstart.fr/
 https://www.legalife.fr/modele/cgv-et-cgu-pour-les-services-en-ligne
 http://www.juristesdunumerique.fr/ 
@@ -187,6 +188,9 @@ https://ninjaoutreach.com/
 https://www.helpareporter.com
 
 ### GROW SOCIAL
+https://www.tweetfavy.com/  *******
+https://moz.com/followerwonk/
+https://www.crowdfireapp.com/
 http://snaplytics.io/
 https://instagress.com
 https://www.archie.co/
@@ -198,6 +202,8 @@ https://hunter.io
 https://prospect.io
 https://anygrowth.com/
 https://www.datananas.com/fr/
+http://tonyarchambeau.com/blog/1025-strategies-de-growth-hacking/
+https://github.com/carlsednaoui/ouibounce
 
 ### SEO
 https://curatedseotools.com/
@@ -300,7 +306,10 @@ http://workdesigners.com/
 http://www.frenchtechtoulouse.com/  
 
 ### COWORKING/TRAVEL / NOMADS
+https://jobbatical.com
+http://www.travelloapp.com/
 http://nomadtrain.co/
+http://www.theremotetrip.com/apply-now/
 https://www.neo-nomade.com/
 https://nomadbase.io/
 https://workfrom.co/
@@ -620,6 +629,10 @@ http://jumpstrtr.com/
 http://www.raizers.com/
 http://weseed.co/
 https://www.anaxago.com/
+
+### TIMEFUNDING
+http://www.timefunding.fr/
+	
 
 ### IT général
 http://www.itworld.com

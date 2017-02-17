@@ -91,6 +91,7 @@ https://angular.io/docs/ts/latest/quickstart.html
 https://angular.io/docs/ts/latest/cookbook/
 
 ## ANGULAR2 IDE TOOLS SNIPPETS
+http://devboosts.com/2017/02/08/top-10-vs-code-extensions/
 https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.lo1w8ym8k
 http://blog.ionic.io/cordova-extension-for-vscode/
 http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/  
@@ -216,6 +217,7 @@ http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/?utm_
 https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294#.jrwcy16lq
 
 ## ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION
+http://devarchy.com/angular-components
 https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.t26pl8km2
 http://4dev.tech/2016/03/angular2-tutorial-detecting-clicks-outside-the-component/  
 http://www.bennadel.com/blog/3062-creating-an-html-dropdown-menu-component-in-angular-2-beta-11.htm  
@@ -240,11 +242,14 @@ http://tphangout.com/angular-2-authentication-using-the-new-router/
 https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 https://scotch.io/tutorials/angular-2-form-validation
 
-## ANGULAR2  FORMS FORM
+## ANGULAR2  FORMS FORM VALIDATION
+http://stackoverflow.com/questions/33866824/angular2-control-validation-on-blur/41973780#41973780
+https://coryrylan.com/blog/angular-form-builder-and-validation-management							************** with red messages for each field
 http://learnangular2.com/forms/																		**************
 https://toddmotto.com/angular-2-forms-template-driven												**************
 https://toddmotto.com/angular-2-forms-reactive														**************
 https://toddmotto.com/reactive-formgroup-validation-angular-2										**************
+https://scotch.io/tutorials/angular-2-form-validation
 
 
 ## ANGULAR2 SCAFFHOLDING
