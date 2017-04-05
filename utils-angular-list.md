@@ -58,6 +58,17 @@
 # Angular2 list
  
 
+ANGULAR XP NEW PROJECT
+utiliser I18N OFFICIAL
+
+ANGULAR4
+https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#injectiontoken-since-angular-4x
+http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes/
+https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
+https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
+https://toddmotto.com/angular-dynamic-components-forms
+ 
+ 
 ## ES2015/ES6 + TYPESCRIPT COURSES 
 https://hughfdjackson.com/javascript/arrow-function-semantics/  
 http://babeljs.io/docs/learn-es2015/  
@@ -115,13 +126,13 @@ https://github.com/evanplaice/angular2-snippets
 
 
 
-## ANGULAR 2 CLI
+## ANGULAR2 CLI
 https://github.com/angular/angular-cli  
 http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli
 https://www.sitepoint.com/angular-2-tutorial
 http://houssein.me/angular2-hacker-news
 https://www.sitepoint.com/ultimate-angular-cli-reference
-
+http://www.dzurico.com/angular-cli-with-the-super-powers/
 
 
 ## ANGULAR2 TOOLS
@@ -195,14 +206,16 @@ http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-compariso
 https://egghead.io/series/angular-2-fundamentals  
 http://julienrenaux.fr  
 
+## ANGULAR2 DATA FLOW DATA FLOW UNIDIR
+http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode
 
-## ANGULAR2 DISTRIBUTING
+## ANGULAR2 DISTRIBUTING LIBRARY LIBS
 http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
 
 ## ANGULAR2 DECORATOR/ANNOTATION
 https://toddmotto.com/angular-decorators
 
-## ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION
+## ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html  
 https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5  
@@ -215,6 +228,11 @@ http://blog.angular-academy.io/how-to-run-angular-2-in-production-today/
 http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
 http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_164
 https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294#.jrwcy16lq
+https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
+
+
+# ANGULAR2 DOM 
+https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
 
 ## ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION
 http://devarchy.com/angular-components
@@ -227,8 +245,13 @@ https://scotch.io/tutorials/creating-your-first-angular-2-components
 https://matthewross.me/blog/posts/minimal-angular-2-modal
 https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
 http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/  
+https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-component-angular-2/
 
-## ANGULAR 2 NG MODULES NGMODULE
+## ANGULAR2 WEB COMPONENTS
+https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
+
+## ANGULAR2 NG MODULES NGMODULE
+http://blog.angular-university.io/angular2-ngmodule/
 https://johnpapa.net/introducing-angular-modules-feature-modules-2/
 
 ## ANGULAR2 AUTHENTIFICATION/LOGIN/
@@ -243,6 +266,7 @@ https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique
 https://scotch.io/tutorials/angular-2-form-validation
 
 ## ANGULAR2  FORMS FORM VALIDATION
+https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.aq9267ptf
 http://stackoverflow.com/questions/33866824/angular2-control-validation-on-blur/41973780#41973780
 https://coryrylan.com/blog/angular-form-builder-and-validation-management							************** with red messages for each field
 http://learnangular2.com/forms/																		**************
@@ -267,7 +291,18 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 
 
-## ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS  
+## ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS 
+http://reactivex.io/documentation/operators/merge.html
+https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
+http://slides.com/brunobaia/everything-is-a-stream#/78
+https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
+https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html
+https://www.sitepoint.com/rxjs-functions-with-examples/
+http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
+http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html
+https://angular-2-training-book.rangle.io/handout/observables/observables_array_operations.html
+http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
+http://slides.com/brunobaia/everything-is-a-stream
 http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
 https://github.com/ngrx/store  
 http://espeo.eu/blog/angular-2-reactive-programming-rxjs/  
@@ -292,12 +327,14 @@ http://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular
 https://github.com/zaqqaz/ng2-rest-api
 
 
-## ANGULAR2 MOCK BACKEND HTTP MOCK
+## ANGULAR2 BACKEND MOCK BACKEND HTTP MOCK
 http://www.sitepoint.com/angular-2-mockbackend  
 http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backendless-development
+https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
 
 ## ANGULAR2 REDUX
 https://www.youtube.com/watch?v=UEcdQR-NoNA
+https://julienrenaux.fr/2017/02/16/from-redux-to-angular-ngrxstore
 http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
@@ -306,13 +343,15 @@ http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1
 ## ANGULAR2 IMMUTABLE Immutability vs Encapsulation
 https://vsavkin.com/immutability-vs-encapsulation-90549ab74487?gi=10734934a81c#.4rctf4y44
 
-## ANGULAR2 CHANGE DETECTION
-http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_164
+## ANGULAR2 CHANGE DETECTION NGZONE ZONE
+https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html
+http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2
 http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html  
 http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html  
 http://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html  
 http://www.bennadel.com/blog/3055-public-properties-component-inputs-and-the-change-detection-contract-in-angular-2.htm  
 https://toddmotto.com/component-events-event-emitter-output-angular-2  
+https://www.javascripttuts.com/global-events-and-event-delegation-in-angular-2
 http://blogs.walkingtree.in/2016/03/28/angular2-q-a-i/  
 http://blog.rangle.io/angular-2-change-detection/  
 http://juristr.com/blog/2016/04/angular2-change-detection/  
@@ -348,9 +387,13 @@ http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angul
 ## ANGULAR 2 MODULE BUNDLER / WEBPACK
 https://medium.com/@richavyas/webpack-new-way-of-building-ng2-app-a34a3bdabb17#.gcouo6jme
 
-## ANGULAR2  CSS 
+## ANGULAR2  CSS UI LIB
+https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
 https://coryrylan.com/blog/css-encapsulation-with-angular-2-components  
 https://angular.io/docs/ts/latest/guide/component-styles.html  
+https://vmware.github.io/clarity/
+https://teradata.github.io/covalent/#/
+
 
 ## ANGULAR2 ANIMATE
 http://www.dzurico.com/angular-animate
@@ -382,6 +425,7 @@ https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-220
 https://www.youtube.com/watch?v=WN-XczmI-LY
 https://www.youtube.com/watch?v=l89acmnGMSc
 https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
+http://www.gistia.com/talk-backend-services-angular-2s-http-client
 
 ## ANGULAR2 SEO
 http://blog.devcross.net/2016/03/20/angular-2-seo/  
@@ -406,6 +450,7 @@ https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230
 
 
 ## ANGULAR2 TEST TESTING
+http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/
 https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d#.fh0twlfjl
 http://blog.rangle.io/testing-angular-2-applications/  
 http://blog.devcross.net/2016/03/11/angular-2-typescript-codecoverage/  
@@ -538,6 +583,9 @@ http://angular2.com/
 ## ANGULAR2 testing
 https://github.com/tomastrajan/angular-js-es6-testing-example  
 
+## ANGULAR2 DATA VIZ
+https://github.com/valor-software/ng2-charts
+https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
 
 ## ANGULAR2/ANGULAR1 COMPARAISON + MIGRATION NG1
 https://angularclass.com/angular-2-for-angularjs-developers/  

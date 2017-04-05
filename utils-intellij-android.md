@@ -19,17 +19,18 @@
 
 # Android / IntelliJ TIPS (FOR WINDOWS)
 
-
+android dev : https://developer.android.com/index.html
 Download badge : https://play.google.com/intl/fr_fr/badges/
 experiment store : https://developer.android.com/distribute/users/experiments.html
-
+zipalign (optimize RAM) : https://developer.android.com/studio/command-line/zipalign.html
+https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signature_v2
 
 ## UTILS
 http://gunhansancar.com/tools/converter/#
 https://android.fallible.co/#
 http://stackoverflow.com/questions/24882550/how-to-format-text-in-string-displayed-in-textview
-
-
+https://www.img-bak.in
+https://romannurik.github.io/AndroidAssetStudio/index.html
 
 ## SHORTCUT
 Copy/paste 			> 	CTRL + SHIFT + V

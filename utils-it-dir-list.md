@@ -161,6 +161,14 @@ http://www.youvisit.com/
 https://forums.oculus.com  
 VRTube.xxx   
 
+### GROW HACK GROWTH ARTICLES
+http://v2.deux.io/growth-hacker-itw/
+http://tonyarchambeau.com/blog/1025-strategies-de-growth-hacking/
+https://medium.com/hapibot-studio/your-product-is-great-your-distribution-strategy-is-not-9222c637bee1#.2tc0nyxyy
+http://andrewchen.co/growth-is-a-system-not-a-bag-of-tricks/
+http://www.slideshare.net/branchmetrics/the-2016-mobile-growth-handbook-64218146
+https://a16z.com/2017/02/18/12-things-about-product-market-fit/
+
 ### GROW  SITES 
 https://blog.bufferapp.com/free-twitter-tools
 http://www.growhack.com  
@@ -188,6 +196,8 @@ https://ninjaoutreach.com/
 https://www.helpareporter.com
 
 ### GROW SOCIAL
+https://hootsuite.com/fr/
+http://www.limber.io/
 https://www.tweetfavy.com/  *******
 https://moz.com/followerwonk/
 https://www.crowdfireapp.com/
@@ -196,13 +206,13 @@ https://instagress.com
 https://www.archie.co/
 https://www.crowdfireapp.com/
 https://blog.bufferapp.com/instagram-growth
+http://everypost.me/
 
 ### GROW HACK TOOLS
 https://hunter.io
 https://prospect.io
 https://anygrowth.com/
 https://www.datananas.com/fr/
-http://tonyarchambeau.com/blog/1025-strategies-de-growth-hacking/
 https://github.com/carlsednaoui/ouibounce
 
 ### SEO
@@ -210,7 +220,7 @@ https://curatedseotools.com/
 http://seositecheckup.com/
 https://fr.majestic.com/
 https://ubersuggest.io/
-
+https://www.youtube.com/watch?v=lyiikzjg9a0 SEO 2017
 
 ### PRESS
 https://www.horsantenne.com/
@@ -306,6 +316,11 @@ http://workdesigners.com/
 http://www.frenchtechtoulouse.com/  
 
 ### COWORKING/TRAVEL / NOMADS
+https://play.google.com/store/apps/details?id=com.trvlmaker
+https://www.bureauxapartager.com/
+http://www.stayawhileny.com/
+http://grindcamp.co/
+https://open.buffer.com/digital-nomad-retreats/
 https://jobbatical.com
 http://www.travelloapp.com/
 http://nomadtrain.co/
@@ -506,6 +521,8 @@ https://portfolio10.com/
 http://www.koder.tech/  
 https://www.hellobonsai.com/  
 https://hire.bid  
+https://www.creads.fr/
+https://99designs.fr/
 
 ### DIRECTORY / BRAND NEW STARTUP / ANNUAIRE IT / OTHER LIST
 http://www.listhunt.co  
@@ -535,6 +552,7 @@ https://www.ekito.fr/
 http://likeweb-startup.fr/
 
 ### STARTUP / INNOVATION
+http://www.innovationstory.fr/
 https://www.startups.co/
 http://www.presse-citron.net/  
 http://www.maddyness.com/  
@@ -614,6 +632,9 @@ http://www.startup-story.fr/
 
 
 ### Crowdfunding 
+http://1001startups.fr/startup-plateforme-crowdfunding-choix/
+https://fundraise-advisor.com/
+http://www.pitchmystartup.fr/
 https://www.indiegogo.com
 https://fr.ulule.com/
 http://www.kisskissbankbank.com/
@@ -736,6 +757,7 @@ http://www.kinto-storage.org/
 www.botlibre.org/
 
 ### COMMUNITY MANAGER / MARKETING / STRATEGIES / E COMMERCE
+http://1001startups.fr/30-outils-community-management/
 http://www.mycommunitymanager.fr/
 http://www.webmarketing-com.com
 http://www.mediacademie.org/
@@ -867,7 +889,7 @@ https://codebee.io/
 http://squelo.com/  
 https://www.treatings.co/  
 
-### SECURITE PIRATAGE
+### SECURITE SECURITY PIRATAGE
 http://www.zataz.com/  
 http://thehackernews.com/  
 http://www.darkreading.com/  
@@ -1157,3 +1179,4 @@ http://pomerleau.ca/
 http://vallierbistro.com/en/
 https://richard.gs
 http://www.duhaihang.com/ OPEN GL
+http://www.mstq.io SIMPLE BUT COOL

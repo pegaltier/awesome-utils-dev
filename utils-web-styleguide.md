@@ -40,7 +40,7 @@ chrome : https://developers.google.com/web/tools/chrome-devtools/
 chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 chrome CORS PLUGIN or https://crossorigin.me/
-
+chrome debug tools : https://www.youtube.com/watch?v=xkzDaKwinA8 14 Must Know Chrome Dev Tools Tricks
 ## NEW BACKEND
 http://graphql.org/
 https://www.graph.cool/
@@ -61,6 +61,9 @@ utils : https://dev.opera.com/articles/pwa-resources
 example : https://joreteg.com/blog/installing-web-apps-for-real
 prpl pattern : https://developers.google.com/web/fundamentals/performance/prpl-pattern/
 angular pwa : https://houssein.me/progressive-angular-applications
+tools : http://manifoldjs.com/
+google : https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.55vg6jr2t
+google : https://medium.com/@samthor/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638#.cw3253c5w
 
 ## DEBUG
 console. https://developers.google.com/web/tools/chrome-devtools/console/console-write
@@ -68,15 +71,27 @@ console. https://developers.google.com/web/tools/chrome-devtools/console/console
 ## IMAGE
 optimize : https://www.jpeg.io
 optimize : https://tinypng.com/
+proxy : https://images.weserv.nl/
 background : http://www.heropatterns.com/
 performance : http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images
 responsive : https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.f0zcv3ttb
 image lazy : http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
 alt image : https://bitsofco.de/alternative-text-and-images
 
+## IMAGE GIF
+optimize https://bitsofco.de/optimising-gifs/
 
-## EFFECT
+
+## VARIOUS CSS/JS/HTML/EFFECT UX
+waypoint animation : http://www.oxygenna.com/tutorials/scroll-animations-using-waypoints-js-animate-css  
+parallax animation : http://pixelcog.github.io/parallax.js/  
+parallax animation : https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/    
+header animation : http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/  
+scrollsnap polyfill : https://github.com/ckrack/scrollsnap-polyfill  
 parallax : https://developers.google.com/web/updates/2016/12/performant-parallaxing
+non rectangular header : https://css-tricks.com/creating-non-rectangular-headers/
+
+
 
 ## ICONS
 css icons : http://cssicon.space/
@@ -92,8 +107,16 @@ google type : https://femmebot.github.io/google-type/
 https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/
 https://webgradients.com
 
+## CANVAS
+inspiration https://www.dwitter.net/
+particle : https://github.com/jnicol/particleground
+particles : http://lab.hakim.se/particles/01/
+particles:  http://lab.hakim.se/particles/02/
+paticles : http://spielzeugz.de/html5/liquid-particles/
 
+	
 ## CSS
+base rules : https://www.w3schools.com/cssref/css_selectors.asp
 base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate  
 base rules : https://github.com/jareware/css-architecture
 base rules : http://bradfrost.com/blog/post/css-architecture-for-design-systems/
@@ -102,8 +125,10 @@ class organization : https://css-tricks.com/bem-101/
 flexbox : http://www.flexboxpatterns.com/home
 flexbox : https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.nkwq5jn7k
 flexbox : https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/
+flexbox : https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.173x3ha3f
 textured gradients : http://rentafounder.com/textured-gradients-in-pure-css/  
 transition : https://daveceddia.com/css-transitions-explained  
+animation : https://stories.jotform.com/how-to-use-css-animations-like-a-pro-dfacc1e97338#.7miwowr5s
 regions : http://www.adobe.com/devnet/archive/html5/articles/css3-regions.html  
 stripes : https://css-tricks.com/stripes-css/  
 image filter : http://lukyvj.github.io/colofilter.css  
@@ -128,6 +153,8 @@ http://tympanus.net/Development/PageLoadingEffects/index6.html
 2016 framework : http://dannyherran.com/2016/03/state-of-affairs-bootstrap-4-vs-foundation-6  
 flexbox : http://www.useful.ly/
 milligram : https://milligram.github.io/
+grid lib : https://github.com/FancyGrid/awesome-grid
+
 
 ## CSS LAYOUT
 modern : https://rachelandrew.co.uk/presentations/modern-css-layout  
@@ -142,6 +169,7 @@ cons : http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preproces
 https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.66l1q2t6l
 
 ## SVG
+generator : https://css-tricks.com/websites-generate-svg-patterns
 example : http://www.hongkiat.com/blog/svg-animations/
 inner html : https://thenewcode.com/1151/Understanding-the-SVG-viewBox
 inner html : http://fvsch.com/code/svg-icons/how-to/  
@@ -151,9 +179,11 @@ animate svg : https://www.oreilly.com/learning/introduction-to-svg-animation
 animate svg : https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js
 animate svg : https://medium.com/bitmatica-lab/svg-line-animation-for-the-uninitiated-5a65d91c6044#.ydo9a7u1l
 animate svg : https://css-tricks.com/svg-line-animation-works/
+scale+viewbox : https://la-cascade.io/comprendre-svg-viewbox-et-viewport/
+size+viewbox https://css-tricks.com/scale-svg/
 interactive svg : http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/
 libs : http://mediatemple.net/blog/tips/svg-charting-libraries/
-
+generator : https://github.com/carloscabo/svg-triangle-generator
 
 ## SPRITE
 generator : https://eliorshalev.github.io/sprite-spirit
@@ -163,11 +193,14 @@ best : https://risingstars2016.js.org
 best : http://bestof.js.org/
 best : http://jsawards.org/
 
-## JAVASCRIPT COURSES
+## JAVASCRIPT
+standard : https://github.com/feross/standard
+format : https://github.com/prettier/prettier
 es2015 : https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.x41dygjuv
 courses : https://psdtowp.net/learn-javascript.html  
 immutable : https://auth0.com/blog/2016/03/23/intro-to-immutable-js/  
 webpack tuto : http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/
+webpack tuto : https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack
 async : https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
 
 ## JAVASCRIPT LIBS
@@ -189,12 +222,6 @@ http://david.li/paint
 ## HTML AUDIO
 emit/receive : https://github.com/quiet/quiet-js  
 
-## VARIOUS CSS/JS/HTML
-waypoint animation : http://www.oxygenna.com/tutorials/scroll-animations-using-waypoints-js-animate-css  
-parallax animation : http://pixelcog.github.io/parallax.js/  
-parallax animation : https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/    
-header animation : http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/  
-scrollsnap polyfill : https://github.com/ckrack/scrollsnap-polyfill  
 
 
 ## FRAMEWORK
@@ -207,9 +234,22 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 under construction  
 
 
+## BACKEND REST OAUTH
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+http://www.restapitutorial.com/lessons/httpmethods.html
+https://tools.ietf.org/html/rfc6749
+
+## BACKEND NEW
+http://graphql.org/
+https://github.com/Netflix/falcor
+http://feathersjs.com/
+
+
 ## ERGONOMIE
 eyetracking http://webgazer.cs.brown.edu/
 
+## SEO
+https://bitsofco.de/alternative-text-and-images/
 
 ## GIT
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases

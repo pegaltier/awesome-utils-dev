@@ -47,9 +47,11 @@ npm init
 ########################################################################################################################
  
 ## ANGULAR2 CLI 
-ng generate component pony sidebar article article_list 
-ng generate class article 
-ng generate service article 
+ng g component pony test-list
+ng g class article 
+ng g service article 
+ng g pipe my-new-pipe
+
 ng serve 
 
 ng github-pages:deploy 
@@ -58,26 +60,39 @@ git subtree push --prefix dist/ origin gh-pages
 PROXY BACKEND
 https://github.com/angular/angular-cli#proxy-to-backend
  
-UPGRADE VERSION
+UPGRADE COMMON
+http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
+ 
+UPGRADE CLI VERSION
 https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli
+https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
+
+npm uninstall -g angular-cli
+npm cache clean
+npm install -g @angular/cli
+
+
+UPGRADE NG VERSION
+http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html
 http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
 http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
-http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
-https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
 
 Install
 sudo npm install -g npm-check-updates
 
 Usage
+rmdir /s/q node_modules
 ncu for display
 ncu -u for re-writing your package.json
-rmdir /s/q node_modules
+
 npm install
 
 BUILD PROD
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 ng build --prod	 
 ng build --prod --aot
+ng build --prod --aot --base-href '/enterprise/'
+ng build --target=production --base-href '/enterprise/'
 
 ########################################################################################################################
 ########################################################################################################################
@@ -103,7 +118,7 @@ tns livesync android --watch
 native + webapp : 
 https://github.com/Appverse/PANG-Polymorphic-ANGular-seed 
 http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-codebase/ 
-
+http://www.blog.bdauria.com/?p=981		superpowered c++ nativescript
 ########################################################################################################################
 ########################################################################################################################
 
@@ -137,8 +152,13 @@ ionic serve										> test web project
 ionic serve --lab								> test web and simulate android/ios mobile
 cordova platform add android --save				> add android platform to project 
 ionic platform android							> add android platform to project 
-ionic run android  								> run project on android device 
 ionic info 
+
+ionic run android  								> run project on android device 
+ionic run android --prod 						> run project on android device + minify 
+ionic run android --prod --release				> run project on android device + minify + certificate
+https://ionicframework.com/docs/intro/deploying/
+
  
 ionic emulate ios --livereload --consolelogs --serverlogs
 ionic emulate android --livereload --consolelogs --serverlogs
@@ -146,12 +166,17 @@ ionic emulate android --livereload --consolelogs --serverlogs
 ionic run ios -l -c -s
 ionic run android -l -c -s
 ionic run android -c
+
  
 generate elements 
 ionic g page login 
 ionic g provider MyData 
 ionic g directive ElasticHeader
 ionic g directive textHolderPipe
+
+switch from computer
+ionic state save
+ionic state restore
 
 ionic icons & splash screens
 http://ionicframework.com/docs/cli/icon-splashscreen.html
@@ -171,9 +196,10 @@ ionic package (generate apk or ipa)
 http://docs.ionic.io/services/package/
 https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac
 
-
 publish on store
 https://ionicframework.com/docs/guide/publishing.html
+http://ionicframework.com/docs/v1/guide/publishing.html (old)
+https://cordova.apache.org/docs/en/latest/guide/platforms/android/#signing-an-app
 
 create PWA
 https://forum.ionicframework.com/t/building-for-browsers-pwa/72689
@@ -181,6 +207,7 @@ https://forum.ionicframework.com/t/building-for-browsers-pwa/72689
 creator
 https://creator.ionic.io/app/login
 
+UPDATE IONIC VERSIOn
 update version : http://blog.ionic.io/ionic-2-rc-weekend-updates/
 delete node modules and update new version of ionic-angular inside package.json 
 rmdir /s/q node_modules
