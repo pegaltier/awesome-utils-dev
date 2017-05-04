@@ -59,6 +59,10 @@
 
 # it-directory
 
+
+### PARTAGE
+http://www.brownbaglunch.fr
+
 ### WORDPRESS
 http://wp-rocket.me/fr/
 
@@ -720,6 +724,8 @@ https://hackernoon.com/
 
 ### APIS
 https://www.mashape.com
+https://apigee.com
+https://www.mashery.com/
 https://market.mashape.com/
 https://www.publicapis.com/
 https://apiplug.com/
@@ -746,7 +752,9 @@ ttps://genderize.io
 http://www.name-gender.com/
 https://stripe.com/fr
 https://www.sinch.com
-
+http://guides.spreecommerce.org/
+https://angularspree.firebaseapp.com/
+https://getkong.org/
 
 ## CLOUD BACKEND DATABASE
 http://horizon.io/

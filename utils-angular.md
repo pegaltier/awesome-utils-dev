@@ -52,6 +52,9 @@ ng g class article
 ng g service article 
 ng g pipe my-new-pipe
 
+ng g module lazy
+ng g component lazy/lazypage
+
 ng serve 
 
 ng github-pages:deploy 
@@ -91,8 +94,11 @@ BUILD PROD
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 ng build --prod	 
 ng build --prod --aot
+ng build --prod --aot --bh /enterprise/webapp/
 ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
+
+
 
 ########################################################################################################################
 ########################################################################################################################
@@ -150,15 +156,18 @@ ionic start cutePuppyPics --v2					> start new project
 cd cutePuppyPics											 
 ionic serve										> test web project 
 ionic serve --lab								> test web and simulate android/ios mobile
-cordova platform add android --save				> add android platform to project 
-ionic platform android							> add android platform to project 
+ionic platform add android						> add android platform to project 
+ionic platform add browser						> add browser platform to project 
 ionic info 
 
 ionic run android  								> run project on android device 
 ionic run android --prod 						> run project on android device + minify 
 ionic run android --prod --release				> run project on android device + minify + certificate
+ionic build browser --prod
 https://ionicframework.com/docs/intro/deploying/
 
+
+ 
  
 ionic emulate ios --livereload --consolelogs --serverlogs
 ionic emulate android --livereload --consolelogs --serverlogs
@@ -174,12 +183,18 @@ ionic g provider MyData
 ionic g directive ElasticHeader
 ionic g directive textHolderPipe
 
+
+
+
 switch from computer
 ionic state save
 ionic state restore
 
 ionic icons & splash screens
 http://ionicframework.com/docs/cli/icon-splashscreen.html
+
+
+
 
 
 ionic view (share with others using ionic view app)
@@ -207,7 +222,7 @@ https://forum.ionicframework.com/t/building-for-browsers-pwa/72689
 creator
 https://creator.ionic.io/app/login
 
-UPDATE IONIC VERSIOn
+UPDATE IONIC VERSION
 update version : http://blog.ionic.io/ionic-2-rc-weekend-updates/
 delete node modules and update new version of ionic-angular inside package.json 
 rmdir /s/q node_modules

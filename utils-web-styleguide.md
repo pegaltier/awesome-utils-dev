@@ -46,6 +46,9 @@ http://graphql.org/
 https://www.graph.cool/
 https://netflix.github.io/falcor/
 
+## DEBUG
+https://css-tricks.com/debugging-tips-tricks
+
 ## NPM
 tricks : https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/?utm_source=nodeweekly&utm_medium=email
 tips : https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.v1jfn4pb5
@@ -55,6 +58,8 @@ bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
 https://testmysite.withgoogle.com
 
 ## PWA 
+cookbook : https://serviceworke.rs/
+sample : https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker
 lighthouse CLI : https://github.com/GoogleChrome/lighthouse
 checlist : https://developers.google.com/web/progressive-web-apps/checklist
 utils : https://dev.opera.com/articles/pwa-resources
@@ -62,8 +67,16 @@ example : https://joreteg.com/blog/installing-web-apps-for-real
 prpl pattern : https://developers.google.com/web/fundamentals/performance/prpl-pattern/
 angular pwa : https://houssein.me/progressive-angular-applications
 tools : http://manifoldjs.com/
+check : https://makina-corpus.com/blog/metier/2017/pwa-atteindre-un-score-eleve-dans-google-lighthouse-avec-ionic-2
 google : https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.55vg6jr2t
 google : https://medium.com/@samthor/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638#.cw3253c5w
+ionic : https://www.gitbook.com/book/jgw96/ionic-pwa/details
+ionic : http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/
+ionic : http://blog.ionic.io/announcing-pwa-support-in-ionic-2/
+ionic : http://blog.ionic.io/tag/progressive-web-apps/
+resilient : https://resilientwebdesign.com/
+idea : https://adactio.com/journal/12015?utm_term=0_df65b6d7c8-8fe1469542-42764681
+
 
 ## DEBUG
 console. https://developers.google.com/web/tools/chrome-devtools/console/console-write
@@ -90,7 +103,8 @@ header animation : http://tympanus.net/codrops/2013/06/06/on-scroll-animated-hea
 scrollsnap polyfill : https://github.com/ckrack/scrollsnap-polyfill  
 parallax : https://developers.google.com/web/updates/2016/12/performant-parallaxing
 non rectangular header : https://css-tricks.com/creating-non-rectangular-headers/
-
+barba js : http://barbajs.org/demos.html
+barba js : https://github.com/luruke/barba.js
 
 
 ## ICONS
@@ -194,6 +208,7 @@ best : http://bestof.js.org/
 best : http://jsawards.org/
 
 ## JAVASCRIPT
+support : http://diveinto.html5doctor.com/detect.html
 standard : https://github.com/feross/standard
 format : https://github.com/prettier/prettier
 es2015 : https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.x41dygjuv
@@ -235,15 +250,18 @@ under construction
 
 
 ## BACKEND REST OAUTH
+http://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie-1/
+https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 http://www.restapitutorial.com/lessons/httpmethods.html
 https://tools.ietf.org/html/rfc6749
-
-## BACKEND NEW
 http://graphql.org/
 https://github.com/Netflix/falcor
 http://feathersjs.com/
+https://www.quickdatabasediagrams.com/
 
+## BACKEND MONITORING
+http://pm2.keymetrics.io/
 
 ## ERGONOMIE
 eyetracking http://webgazer.cs.brown.edu/

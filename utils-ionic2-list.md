@@ -37,3 +37,27 @@ http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/
 http://pointdeveloper.com/add-social-sharing-to-your-ionic-2-app/
 https://ionicthemes.com/tutorials/about/ionic2-app-with-socialsharing-and-deeplinking
 https://ionicframework.com/docs/v2/native/social-sharing/
+
+## UPLOAD IMAGE HELPER
+https://devdactic.com/ionic-2-images/
+http://ourcodeworld.com/articles/read/80/how-to-convert-a-image-from-the-device-to-base64-with-javascript-in-cordova
+http://ourcodeworld.com/articles/read/150/how-to-create-an-image-file-from-a-base64-string-on-the-device-with-cordova
+http://stackoverflow.com/questions/16245767/creating-a-blob-from-a-base64-string-in-javascript/16245768#16245768
+http://devfanaticblog.com/working-with-camera-in-ionic-2-and-ionic-native/
+https://github.com/ivanthecrazy/devfanaticblog-camera-upload
+
+  
+## UPLOAD IMAGE NATIVE
+http://ionicframework.com/docs/native/camera/
+http://ionicframework.com/docs/native/file/
+http://ionicframework.com/docs/native/image-resizer/  
+
+## LAZY HELPER
+https://www.youtube.com/watch?v=7j-P-ElAqe8
+http://blog.ionic.io/ionic-3-0-has-arrived/
+https://docs.google.com/document/d/1vGokwMXPQItZmTHZQbTO4qwj_SQymFhRS_nJmiH0K3w/edit
+https://github.com/ngx-translate/core/issues/209
+
+## RATE APP FUN
+https://www.joshmorony.com/using-html5-canvas-to-create-a-rating-component-in-ionic
+

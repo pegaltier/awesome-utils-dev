@@ -64,11 +64,17 @@ utiliser I18N OFFICIAL
 ANGULAR4
 https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#injectiontoken-since-angular-4x
 http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes/
-https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
 https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
 https://toddmotto.com/angular-dynamic-components-forms
  
- 
+ANGULAR NGRX STORE
+https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
+https://appendto.com/2016/08/handling-the-challenge-of-shared-state-with-ngrxstore-in-angular-2/
+
+## ANGULAR2
+http://brianflove.com/
+https://julienrenaux.fr/
+
 ## ES2015/ES6 + TYPESCRIPT COURSES 
 https://hughfdjackson.com/javascript/arrow-function-semantics/  
 http://babeljs.io/docs/learn-es2015/  
@@ -125,6 +131,9 @@ https://github.com/johnpapa/vscode-angular2-snippets
 https://github.com/evanplaice/angular2-snippets 
 
 
+## ANGULAR2 LANGUAGE SERVICE
+http://brianflove.com/2017/04/11/angular-language-service/
+
 
 ## ANGULAR2 CLI
 https://github.com/angular/angular-cli  
@@ -141,10 +150,13 @@ https://github.com/manekinekko/angular2-dependencies-graph
 https://augury.angular.io/
 http://codelyzer.com/
 
-
+## ANGULAR CI / CONTINIOUS INTEGRATION / AUTOMATED
+https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
 
 
 ## ANGULAR2 DEBUG
+https://hackernoon.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
+https://medium.com/@maximus.koretskyi/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
 https://dzone.com/articles/how-to-debug-an-angular-application-with-chrome-an
 https://coryrylan.com/blog/angular-debugging-tips-and-tricks
 http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications
@@ -214,6 +226,7 @@ http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
 
 ## ANGULAR2 DECORATOR/ANNOTATION
 https://toddmotto.com/angular-decorators
+https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
 
 ## ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
@@ -234,7 +247,12 @@ https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpac
 # ANGULAR2 DOM 
 https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
 
+## ANGULAR2 ANIMATION
+http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
+
 ## ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION
+https://coryrylan.com/blog/angular-custom-form-controls-with-reactive-forms-and-ngmodel
+https://embed.plnkr.co/Yj93mh5ZnX6ONtaMQPAQ/
 http://devarchy.com/angular-components
 https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.t26pl8km2
 http://4dev.tech/2016/03/angular2-tutorial-detecting-clicks-outside-the-component/  
@@ -255,6 +273,7 @@ http://blog.angular-university.io/angular2-ngmodule/
 https://johnpapa.net/introducing-angular-modules-feature-modules-2/
 
 ## ANGULAR2 AUTHENTIFICATION/LOGIN/
+http://jasonwatmore.com/post/2017/02/22/mean-with-angular-2-user-registration-and-login-example-tutorial
 http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/  
 http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html  
 http://almerosteyn.com/2016/03/angular2-form-validation-component  
@@ -274,6 +293,8 @@ https://toddmotto.com/angular-2-forms-template-driven												**************
 https://toddmotto.com/angular-2-forms-reactive														**************
 https://toddmotto.com/reactive-formgroup-validation-angular-2										**************
 https://scotch.io/tutorials/angular-2-form-validation
+https://toddmotto.com/angular-ng-errors-form-validation
+https://github.com/UltimateAngular/ngxerrors
 
 
 ## ANGULAR2 SCAFFHOLDING
@@ -292,6 +313,7 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 
 ## ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS 
+https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c
 http://reactivex.io/documentation/operators/merge.html
 https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
 http://slides.com/brunobaia/everything-is-a-stream#/78
@@ -304,7 +326,6 @@ https://angular-2-training-book.rangle.io/handout/observables/observables_array_
 http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
 http://slides.com/brunobaia/everything-is-a-stream
 http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
-https://github.com/ngrx/store  
 http://espeo.eu/blog/angular-2-reactive-programming-rxjs/  
 https://jaxenter.com/reactive-programming-http-and-angular-2-124560.html  
 https://lukajcb.github.io/blog/angular2/2016/04/02/frp-in-angular-2.html  
@@ -332,8 +353,12 @@ http://www.sitepoint.com/angular-2-mockbackend
 http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backendless-development
 https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
 
-## ANGULAR2 REDUX
+## ANGULAR2 REDUX NGRX
+https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a
+https://blog.dmbcllc.com/how-to-really-use-ngrx
+https://github.com/ngrx/store  
 https://www.youtube.com/watch?v=UEcdQR-NoNA
+https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661
 https://julienrenaux.fr/2017/02/16/from-redux-to-angular-ngrxstore
 http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
@@ -419,6 +444,11 @@ https://sebastian-mueller.net/post/angular-router-preloading-routes/
 https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack-d25fe71c29c1#.2jxbnchgk
 http://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html  : resolve/null/loading/async
 https://vsavkin.com/angular-router-preloading-modules-ba3c75e424cb#.tvrcmfszm
+https://keathmilligan.net/lazy-loading-content-with-angular-cli/
+http://www.monkeypatch.io/2017/03/07/ngVikings.html#part-i---lazy-loading
+https://angular-2-training-book.rangle.io/handout/modules/lazy-loading-module.html
+https://github.com/AngularClass/angular2-webpack-starter/wiki/Routing-and-Lazy-loading-@NgModules
+
 
 ## ANGULAR2 SECURITY
 https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.qyagk4j6f
@@ -427,8 +457,9 @@ https://www.youtube.com/watch?v=l89acmnGMSc
 https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
 http://www.gistia.com/talk-backend-services-angular-2s-http-client
 
-## ANGULAR2 SEO
+## ANGULAR2 SEO/META
 http://blog.devcross.net/2016/03/20/angular-2-seo/  
+https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
 
 ## ANGULAR2 DYNAMIC LOAD/LAZY LOAD
 https://medium.com/tixdo-labs/angular-2-dynamic-component-loader-752c3235bf9#.7jgfb1s1w  
@@ -465,7 +496,22 @@ https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
 ## ANGULAR2 API
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
 
+## ANGULAR2 AOT COMPLIANT LIB
+http://dbarnes.me/writing-an-aot-compliant-angular-library
+https://github.com/mattlewis92/generator-angular-library
+https://github.com/jvandemo/generator-angular2-library
+https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
+
+
+## ANGULAR2 UPLOAD
+https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
+https://github.com/ribizli/ng2-imageupload  
+https://github.com/jkuri/ng2-uploader  
+
+
 ## ANGULAR2 LIBS GENERAL
+http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
+
 https://swimlane.github.io/ng2d3/
 http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
 https://github.com/basvandenberg/angular2-select/tree/1.0.0-alpha.7	<< AUTOCOMPLETE + SELECT ITEM
@@ -475,9 +521,8 @@ http://amcdnl.github.io/angular2-demo/ << PARALLAX
 https://github.com/flauc/angular2-notifications  
 http://flauc.github.io/angular2-notifications/  
 https://github.com/tjoskar/ng2-lazyload-image  
-https://github.com/ribizli/ng2-imageupload  
+
 https://github.com/stabzs/Angular2-Toaster  
-https://github.com/jkuri/ng2-uploader  
 https://justindujardin.github.io/ng2-material/  
 https://github.com/akserg/ng2-dnd  
 https://github.com/ksachdeva/angular2-swiper  
