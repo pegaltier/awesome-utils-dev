@@ -94,7 +94,7 @@ BUILD PROD
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 ng build --prod	 
 ng build --prod --aot
-ng build --prod --aot --bh /enterprise/webapp/
+ng build --prod --aot --bh /enterprise/webapp/		OK
 ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
 
@@ -223,12 +223,15 @@ creator
 https://creator.ionic.io/app/login
 
 UPDATE IONIC VERSION
+update 3.3.0 https://github.com/ionic-team/ionic/releases/tag/v3.3.0
 update version : http://blog.ionic.io/ionic-2-rc-weekend-updates/
 delete node modules and update new version of ionic-angular inside package.json 
 rmdir /s/q node_modules
 npm install + correct error (angular version)
 First, update the version of @ionic/app-scripts in your Ionic 2 app with
 npm install @ionic/app-scripts@latest --save-dev
+
+http://blog.ionic.io/announcing-ionic-cli-v3
 Second, update your Ionic CLI using
 npm install -g ionic
 

@@ -34,6 +34,8 @@ checklist : http://webdevchecklist.com/
 google : https://google.github.io/styleguide/htmlcssguide.xml
 web : https://internetingishard.com/html-and-css/
 
+## GENERATOR
+web : https://webcode.tools/
 
 ## TOOLS
 chrome : https://developers.google.com/web/tools/chrome-devtools/
@@ -58,6 +60,7 @@ bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
 https://testmysite.withgoogle.com
 
 ## PWA 
+courses : https://developers.google.com/web/ilt/pwa/
 cookbook : https://serviceworke.rs/
 sample : https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker
 lighthouse CLI : https://github.com/GoogleChrome/lighthouse
@@ -86,6 +89,7 @@ optimize : https://www.jpeg.io
 optimize : https://tinypng.com/
 proxy : https://images.weserv.nl/
 background : http://www.heropatterns.com/
+generate : http://www.heropatterns.com/ + https://css-tricks.com/websites-generate-svg-patterns/
 performance : http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images
 responsive : https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.f0zcv3ttb
 image lazy : http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
@@ -157,6 +161,7 @@ utils : https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ce
 animation : https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3
 animation example : http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
 menu burger : https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
+text effect : http://codepen.io/collection/DamKJW/
 
 ## CSS PAGE TRANSITION
 http://git.blivesta.com/animsition/
@@ -208,6 +213,7 @@ best : http://bestof.js.org/
 best : http://jsawards.org/
 
 ## JAVASCRIPT
+functions : https://bocoup.com/blog/the-many-faces-of-functions-in-javascript
 support : http://diveinto.html5doctor.com/detect.html
 standard : https://github.com/feross/standard
 format : https://github.com/prettier/prettier

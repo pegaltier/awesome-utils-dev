@@ -12,6 +12,8 @@
 ## STARTER / SEED
 http://blog.ionic.io/help-us-test-the-super-starter/
 
+## CLI
+http://blog.ionic.io/announcing-ionic-cli-v3
 
 ## ALLS
 http://www.joshmorony.com/shhh/ (tutorials source code)
@@ -31,7 +33,11 @@ https://saniyusuf.com/ionic-by-component-navigation/
 
 ## DESIGN
 http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/
+https://coursetro.com/posts/code/76/Create-an-Animated-App-Onboarding-Process-with-Ionic-3
 
+
+## DEBUG
+https://www.youtube.com/watch?v=9J8AxhDxtTE debug ios app
 
 ## SOCIAL SHARING
 http://pointdeveloper.com/add-social-sharing-to-your-ionic-2-app/
@@ -57,6 +63,10 @@ https://www.youtube.com/watch?v=7j-P-ElAqe8
 http://blog.ionic.io/ionic-3-0-has-arrived/
 https://docs.google.com/document/d/1vGokwMXPQItZmTHZQbTO4qwj_SQymFhRS_nJmiH0K3w/edit
 https://github.com/ngx-translate/core/issues/209
+https://ionicacademy.com/ionic-3-lazy-loading/
+https://github.com/mhartington/lazyLoadTabs
+http://blog.ionic.io/ionic-and-lazy-loading-pt-1/
+
 
 ## RATE APP FUN
 https://www.joshmorony.com/using-html5-canvas-to-create-a-rating-component-in-ionic

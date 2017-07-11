@@ -130,6 +130,10 @@ http://www.juristesdunumerique.fr/
 http://www.murielle-cahen.com/publications/application.asp
 http://www.meetmeup.fr/cgu-meetmeup/
 
+### ASSOCIES/CREATION/ENTREPRISE
+https://entrup.co/
+http://1001startups.fr/live-startup-quelles-erreurs-eviter-quand-on-sassocie/
+
 ### ALLS
 http://www.listhunt.co/12-new-startups-apps-gadgets-millennials-should-care-about-today-7615/ 
 
@@ -218,6 +222,10 @@ https://prospect.io
 https://anygrowth.com/
 https://www.datananas.com/fr/
 https://github.com/carlsednaoui/ouibounce
+
+### GROW INFLUENCEUR
+https://lefty.io/
+
 
 ### SEO
 https://curatedseotools.com/
@@ -495,6 +503,7 @@ http://kitdesurvie.metiers-graphiques.fr/
 
 
 ## FREELANCE
+https://www.side.co/fr
 https://www.hopwork.com  
 http://www.freelancer.com/  
 https://www.upwork.com/  
@@ -816,6 +825,7 @@ pop prototyping
 http://www.uxpin.com/
 https://marvelapp.com
 http://www.quickfocus.com/
+https://www.invisionapp.com/sketch-prototyping
 adobe comet
 http://theprotein.io/
 https://opentest.co/
@@ -1188,3 +1198,4 @@ http://vallierbistro.com/en/
 https://richard.gs
 http://www.duhaihang.com/ OPEN GL
 http://www.mstq.io SIMPLE BUT COOL
+https://bonhomme.lol/

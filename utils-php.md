@@ -25,3 +25,7 @@ http://stackoverflow.com/questions/4061537/best-way-to-implement-single-sign-on-
 
 ## IMAGE
 https://github.com/eventviva/php-image-resize
+
+## OAUTH2
+https://github.com/akrabat/slim-bookshelf-api
+https://speakerdeck.com/akrabat/2017-04-08-phpyorkshire-slim-oauth2

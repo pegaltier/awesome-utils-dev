@@ -108,6 +108,7 @@ https://angular.io/docs/ts/latest/quickstart.html
 https://angular.io/docs/ts/latest/cookbook/
 
 ## ANGULAR2 IDE TOOLS SNIPPETS
+https://johnpapa.net/essential-angular-vs-code-extensions/
 http://devboosts.com/2017/02/08/top-10-vs-code-extensions/
 https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.lo1w8ym8k
 http://blog.ionic.io/cordova-extension-for-vscode/
@@ -184,7 +185,7 @@ http://www.angulartypescript.com/angular-2-pipes/
 http://blog.mgechev.com/  
 http://blogs.walkingtree.in/2016/03/22/thinking-in-angular-2/  
 https://medium.com/@NetanelBasal/angular-2-improve-performance-with-trackby-cc147b5104e5#.74fiumqt7
-
+https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1
 
 #ANGULAR2 CHEAT-SHEETS
 https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
@@ -223,6 +224,8 @@ http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-dev
 
 ## ANGULAR2 DISTRIBUTING LIBRARY LIBS
 http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
+https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266
+https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
 
 ## ANGULAR2 DECORATOR/ANNOTATION
 https://toddmotto.com/angular-decorators
@@ -313,18 +316,15 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 
 ## ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS 
+https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21
+https://toddmotto.com/component-architecture-reactive-forms-angular
 https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c
 http://reactivex.io/documentation/operators/merge.html
-https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
-http://slides.com/brunobaia/everything-is-a-stream#/78
+http://slides.com/brunobaia/everything-is-a-stream
 https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
 https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html
-https://www.sitepoint.com/rxjs-functions-with-examples/
-http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
-http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html
 https://angular-2-training-book.rangle.io/handout/observables/observables_array_operations.html
 http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
-http://slides.com/brunobaia/everything-is-a-stream
 http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
 http://espeo.eu/blog/angular-2-reactive-programming-rxjs/  
 https://jaxenter.com/reactive-programming-http-and-angular-2-124560.html  
@@ -333,9 +333,18 @@ http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-
 http://www.metaltoad.com/blog/angular-2-http-observables  
 http://blog.jhades.org/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/  
 http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/  
+http://blog.angular-university.io/rxjs-switchmap-operator/
+
+## ANGULAR2 RXJS
+https://netbasal.com/rxjs-subjects-for-human-beings-7807818d4e4d
 http://restlet.com/blog/2016/04/18/interacting-efficiently-with-a-restful-service-with-angular2-and-rxjs-part-3/  
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0  
 https://www.bennadel.com/blog/3184-creating-leaky-abstractions-with-rxjs-in-angular-2-1-1.htm
+https://www.sitepoint.com/rxjs-functions-with-examples/
+http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
+http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html
+https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
+
 
 ## ANGULAR2 HTTP
 https://github.com/seeschweiler/angular2-http-client-tutorial  
@@ -364,11 +373,14 @@ http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
 
+## ANGULAR2 STATE MANAGEMENT
+https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 
 ## ANGULAR2 IMMUTABLE Immutability vs Encapsulation
 https://vsavkin.com/immutability-vs-encapsulation-90549ab74487?gi=10734934a81c#.4rctf4y44
 
 ## ANGULAR2 CHANGE DETECTION NGZONE ZONE
+https://alligator.io/angular/change-detection-strategy
 https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html
 http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2
 http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html  
@@ -419,6 +431,8 @@ https://angular.io/docs/ts/latest/guide/component-styles.html
 https://vmware.github.io/clarity/
 https://teradata.github.io/covalent/#/
 
+## ANGULAR2 SINGLETON
+https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
 
 ## ANGULAR2 ANIMATE
 http://www.dzurico.com/angular-animate
@@ -544,6 +558,7 @@ http://demos.wijmo.com/5/angular2/FlexGridIntro/FlexGridIntro/
 https://github.com/WoltersKluwerPL/ng2-spin-kit  
 
 ## ANGULAR2  LIBS THEME/STYLE/CSS
+https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2#.bwypv3is1
 https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components  
 https://github.com/akveo/ng2-admin
@@ -644,6 +659,7 @@ http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/
 https://toddmotto.com/angular-1-6-is-here
 
 ## ANGULAR2/REACT COMPARAISON
+https://www.toptal.com/front-end/angular-vs-react-for-web-development
 http://blog.krawaller.se/posts/angular2-versus-react-comparing-components/
 http://tutorials.pluralsight.com/front-end-javascript/react-vs-angular-2
 https://daveceddia.com/to-react-from-angular  

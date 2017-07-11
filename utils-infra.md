@@ -26,7 +26,7 @@ exit
 
 nslookup
 set type=TXT
-hotelub.fr
+domain.fr
 
 
 ##### PROCESS + UTIL

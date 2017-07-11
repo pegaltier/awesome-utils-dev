@@ -29,8 +29,12 @@ https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signatu
 http://gunhansancar.com/tools/converter/#
 https://android.fallible.co/#
 http://stackoverflow.com/questions/24882550/how-to-format-text-in-string-displayed-in-textview
-https://www.img-bak.in
+https://www.img-bak.in >> generate icons
 https://romannurik.github.io/AndroidAssetStudio/index.html
+https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html > Round icons generate
+
+## ENCODING UTF8
+https://blog.jetbrains.com/idea/2013/03/use-the-utf-8-luke-file-encodings-in-intellij-idea/
 
 ## SHORTCUT
 Copy/paste 			> 	CTRL + SHIFT + V
@@ -125,4 +129,10 @@ RETROFIT
 
 UI : 
 https://material.io/
+
+
+
+Analyze -> Inspect Code...
+
+When your project has been inspected click on Code maturity issues and tada, there is a list of all Deprecated API usages :)
 
