@@ -503,6 +503,7 @@ http://kitdesurvie.metiers-graphiques.fr/
 
 
 ## FREELANCE
+https://www.kicklox.com
 https://www.side.co/fr
 https://www.hopwork.com  
 http://www.freelancer.com/  

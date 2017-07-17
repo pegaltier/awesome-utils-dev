@@ -18,6 +18,9 @@ http://blog.ionic.io/announcing-ionic-cli-v3
 ## ALLS
 http://www.joshmorony.com/shhh/ (tutorials source code)
 
+## MOCK CORDOVA PLUGINS
+https://chrisgriffith.wordpress.com/2017/07/05/announcing-ionic-native-mocks
+
 ## FORMS
 https://ionicthemes.com/tutorials/about/ionic2-form-handling-and-validation
 

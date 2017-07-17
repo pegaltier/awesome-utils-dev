@@ -67,9 +67,6 @@ http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-chang
 https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
 https://toddmotto.com/angular-dynamic-components-forms
  
-ANGULAR NGRX STORE
-https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
-https://appendto.com/2016/08/handling-the-challenge-of-shared-state-with-ngrxstore-in-angular-2/
 
 ## ANGULAR2
 http://brianflove.com/
@@ -167,7 +164,8 @@ http://juristr.com/blog/2016/02/debugging-angular2-console
 https://manuel-rauber.com/2016/09/30/how-to-debug-angular-2-with-webstorm/
 
 ## ANGULAR2 DOC UTILS
-angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html  
+https://codeburst.io/angular-bad-practices-eab0e594ce92
+http://angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html  
 http://www.wintellect.com/devcenter/dbaskin/big-ideas-behind-angular2  
 http://www.angulartypescript.com  
 https://angular.io/docs/ts/latest/guide/cheatsheet.html  
@@ -362,10 +360,14 @@ http://www.sitepoint.com/angular-2-mockbackend
 http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backendless-development
 https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
 
-## ANGULAR2 REDUX NGRX
+## ANGULAR2 REDUX NGRX STORE
+https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
+https://www.toptal.com/angular-js/ngrx-angular-reaction-application
 https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a
 https://blog.dmbcllc.com/how-to-really-use-ngrx
 https://github.com/ngrx/store  
+https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
+https://appendto.com/2016/08/handling-the-challenge-of-shared-state-with-ngrxstore-in-angular-2/
 https://www.youtube.com/watch?v=UEcdQR-NoNA
 https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661
 https://julienrenaux.fr/2017/02/16/from-redux-to-angular-ngrxstore
@@ -425,6 +427,7 @@ http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angul
 https://medium.com/@richavyas/webpack-new-way-of-building-ng2-app-a34a3bdabb17#.gcouo6jme
 
 ## ANGULAR2  CSS UI LIB
+http://blog.angular-university.io/angular-ngclass-ngstyle
 https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
 https://coryrylan.com/blog/css-encapsulation-with-angular-2-components  
 https://angular.io/docs/ts/latest/guide/component-styles.html  
@@ -511,6 +514,7 @@ https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
 
 ## ANGULAR2 AOT COMPLIANT LIB
+https://medium.com/spektrakel-blog/angular-writing-aot-friendly-applications-7b64c8afbe3f
 http://dbarnes.me/writing-an-aot-compliant-angular-library
 https://github.com/mattlewis92/generator-angular-library
 https://github.com/jvandemo/generator-angular2-library

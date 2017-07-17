@@ -29,3 +29,7 @@ https://github.com/eventviva/php-image-resize
 ## OAUTH2
 https://github.com/akrabat/slim-bookshelf-api
 https://speakerdeck.com/akrabat/2017-04-08-phpyorkshire-slim-oauth2
+
+## COMPOSER
+composer dump-autoload (GENERATE import class)
+composer update (update dependecies & generate import class)
