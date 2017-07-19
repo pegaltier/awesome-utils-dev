@@ -22,7 +22,6 @@ git fetch origin <sha1-of-commit-of-interest>
 git reset --hard FETCH_HEAD
 
 
-
 #0 > git clone existing project 
 git clone -b my-branch git@github.com:user/myproject.git
 
@@ -48,3 +47,7 @@ git config user.email
 
 # clear local commit and reinit from remote server
 git reset --hard origin/<branch_name>
+
+## back to specific commit and erase 
+git reset --hard 89b518e
+git push origin master -f

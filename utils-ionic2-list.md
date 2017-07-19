@@ -12,8 +12,9 @@
 ## STARTER / SEED
 http://blog.ionic.io/help-us-test-the-super-starter/
 
-## CLI
+## NEWS
 http://blog.ionic.io/announcing-ionic-cli-v3
+https://blog.ionic.io/announcing-ionic-3-5-3/
 
 ## ALLS
 http://www.joshmorony.com/shhh/ (tutorials source code)

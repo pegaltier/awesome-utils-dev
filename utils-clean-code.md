@@ -18,3 +18,9 @@ utilisation librairie via une facade (impermeable / lib de mes reves)
 principe SOLID
 jamais retourner null
 if/switch -> polymorphisme
+
+
+base
+https://thinkster.io/
+https://github.com/gothinkster
+https://github.com/railto/realworld-slim

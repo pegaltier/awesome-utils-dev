@@ -36,6 +36,7 @@ web : https://internetingishard.com/html-and-css/
 
 ## GENERATOR
 web : https://webcode.tools/
+favicon : http://realfavicongenerator.net/
 
 ## TOOLS
 chrome : https://developers.google.com/web/tools/chrome-devtools/
@@ -60,6 +61,8 @@ bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
 https://testmysite.withgoogle.com
 
 ## PWA 
+angular : https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
+guide : https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35
 courses : https://developers.google.com/web/ilt/pwa/
 cookbook : https://serviceworke.rs/
 sample : https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker
