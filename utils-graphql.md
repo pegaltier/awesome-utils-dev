@@ -11,6 +11,9 @@ https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
 https://www.compose.com/articles/using-graphql-with-mongodb/
 https://github.com/igorlima/todo-mongo-graphql-server
 
+##FAST
+https://marmelab.com/blog/2017/07/12/json-graphql-server.html
+
 ## TEST KO
 
 

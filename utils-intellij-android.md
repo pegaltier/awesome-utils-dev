@@ -25,6 +25,10 @@ experiment store : https://developer.android.com/distribute/users/experiments.ht
 zipalign (optimize RAM) : https://developer.android.com/studio/command-line/zipalign.html
 https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signature_v2
 
+## COMMON Error
+http://www.developerphil.com/dont-store-data-in-the-application-object/
+https://stackoverflow.com/questions/4208886/using-the-android-application-class-to-persist-data
+
 ## UTILS
 http://gunhansancar.com/tools/converter/#
 https://android.fallible.co/#
@@ -106,7 +110,7 @@ https://overflow.buffer.com/2016/09/26/android-rethinking-package-structure/
 http://facebook.github.io/stetho/
 
 ContextCompat.getColor(context, R.color.your_color);
-
+ContextCompat.getDrawable(context, R.drawable.empty_photo2);
 
 //Sur buton 
 btnChangeDateIn.setBackgroundResource(R.drawable.shape_corner_orange);
@@ -136,3 +140,16 @@ Analyze -> Inspect Code...
 
 When your project has been inspected click on Code maturity issues and tada, there is a list of all Deprecated API usages :)
 
+
+
+
+## STRING HELPER
+
+&lt;br/&gt;
+&lt;b&gt;AAAAAA&lt;/b&gt;
+&lt;a href=\'https://www.google.fr\'&gt;TEXT_LINK&lt;/a&gt;
+
+
+« text » 
+“ text ”
+’ ou \'

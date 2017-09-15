@@ -12,9 +12,16 @@
 ## STARTER / SEED
 http://blog.ionic.io/help-us-test-the-super-starter/
 
+
+## PWA
+https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/
+
+
 ## NEWS
 http://blog.ionic.io/announcing-ionic-cli-v3
 https://blog.ionic.io/announcing-ionic-3-5-3/
+http://ionicframework.com/survey/2017#results
+http://jsdiaries.com/2017/07/19/top-ionic-resources-to-learn-hybrid-app-development
 
 ## ALLS
 http://www.joshmorony.com/shhh/ (tutorials source code)

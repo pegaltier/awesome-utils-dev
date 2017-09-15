@@ -72,7 +72,12 @@ https://toddmotto.com/angular-dynamic-components-forms
 http://brianflove.com/
 https://julienrenaux.fr/
 
-## ES2015/ES6 + TYPESCRIPT COURSES 
+## ANGULAR2 PWA
+https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
+
+## ES2015/ES6 + TYPESCRIPT COURSES BEST PRACTICES
+https://github.com/mgechev/angular-performance-checklist/blob/master/readme.md 
+https://codeburst.io/angular-best-practices-4bed7ae1d0b7
 https://hughfdjackson.com/javascript/arrow-function-semantics/  
 http://babeljs.io/docs/learn-es2015/  
 http://ponyfoo.com/  
@@ -94,8 +99,7 @@ http://whatpixel.com/learn-angular2-from-scratch/
 https://www.reddit.com/r/Angular2/comments/4cvwjr/helpful_github_repos_curated_through_april_2016/  
 https://www.reddit.com/r/Angular2/comments/5alp3z/helpful_github_repos_curated_through_november_2016/
 
-## ANGULAR2 INT
-## ANGULAR2 START
+## ANGULAR2 START INIT
 http://www.tryangular2.com/  
 http://learnangular2.com/  
 http://builtwithangular2.com/  
@@ -266,6 +270,9 @@ https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
 http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/  
 https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-component-angular-2/
 
+## ANGULAR2 HTTPCLIENT
+http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
+
 ## ANGULAR2 WEB COMPONENTS
 https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 
@@ -285,7 +292,7 @@ http://tphangout.com/angular-2-authentication-using-the-new-router/
 https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 https://scotch.io/tutorials/angular-2-form-validation
 
-## ANGULAR2  FORMS FORM VALIDATION
+## ANGULAR2 FORMS FORM VALIDATION
 https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.aq9267ptf
 http://stackoverflow.com/questions/33866824/angular2-control-validation-on-blur/41973780#41973780
 https://coryrylan.com/blog/angular-form-builder-and-validation-management							************** with red messages for each field
@@ -297,11 +304,18 @@ https://scotch.io/tutorials/angular-2-form-validation
 https://toddmotto.com/angular-ng-errors-form-validation
 https://github.com/UltimateAngular/ngxerrors
 
+## ANGULAR2 TEMPLATE
+http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
+
 
 ## ANGULAR2 SCAFFHOLDING
 https://www.ociweb.com/resources/publications/sett/august-2016-grails-angular-scaffolding/
 
 ## ANGULAR 2 SECURE AUTH 
+https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
+https://ryanchenkie.com/angular-authentication-using-route-guards
+http://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
+https://github.com/Ekito/angular-sandbox/blob/master/src/app/shared/auth/auth.guard.ts
 https://github.com/auth0-blog/angular2-authentication-sample  
 https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.qhvo193ie <<  
 https://jwt.io/introduction/  
@@ -314,9 +328,12 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 
 ## ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS 
+https://www.youtube.com/watch?v=65Us8NwmYf4 Top 7 RxJS Concepts for Angular Developers
 https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21
 https://toddmotto.com/component-architecture-reactive-forms-angular
 https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c
+https://blog.nrwl.io/rxjs-advanced-techniques-testing-race-conditions-using-rxjs-marbles-53e7e789fba5
+https://netbasal.com/implement-ngmodeloptions-with-rxjs-and-custom-form-control-in-angular-4aa3bf96ab6
 http://reactivex.io/documentation/operators/merge.html
 http://slides.com/brunobaia/everything-is-a-stream
 https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
@@ -361,6 +378,7 @@ http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backen
 https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
 
 ## ANGULAR2 REDUX NGRX STORE
+https://netbasal.com/connect-angular-forms-to-ngrx-store-c495d17e129
 https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
 https://www.toptal.com/angular-js/ngrx-angular-reaction-application
 https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a
@@ -437,12 +455,15 @@ https://teradata.github.io/covalent/#/
 ## ANGULAR2 SINGLETON
 https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
 
-## ANGULAR2 ANIMATE
+## ANGULAR2 ANIMATE ANIMATIONS DESIGN
+https://medium.com/google-developer-experts/angular-supercharge-your-router-transitions-using-new-animation-features-v4-3-3eb341ede6c8
 http://www.dzurico.com/angular-animate
 https://blog.thecodecampus.de/angular-2-animate-creating-sliding-side-navigation
+https://www.youtube.com/watch?v=mVqQDEtRBwA
 
 
 ## ANGULAR2 ROUTES ROUTER LAZY LOADING ROUTING
+https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
 https://blog.nrwl.io/enable-lazy-loading-in-angular-2-apps-8298916056#.184fee12y
 https://www.nativescript.org/blog/optimizing-app-loading-time-with-angular-2-lazy-loading
 https://www.softwarearchitekt.at/post/2016/12/02/sticky-routes-in-angular-2-3-with-routereusestrategy.aspx
@@ -514,6 +535,7 @@ https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
 
 ## ANGULAR2 AOT COMPLIANT LIB
+http://www.gistia.com/optimize-angular-2-applications
 https://medium.com/spektrakel-blog/angular-writing-aot-friendly-applications-7b64c8afbe3f
 http://dbarnes.me/writing-an-aot-compliant-angular-library
 https://github.com/mattlewis92/generator-angular-library

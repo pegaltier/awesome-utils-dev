@@ -288,6 +288,9 @@ https://gust.com/
 http://www.sparkup.fr/
 http://1001startups.fr/startup-sur-quoi-baser-la-valorisation/
 
+### PITCH
+https://slidebean.com/blog/startups/pitch-deck-examples
+https://blog.ycombinator.com/how-to-design-a-better-pitch-deck
 
 ### ADVERTISING
 http://sublimeskinz.com/  
@@ -329,6 +332,7 @@ http://www.frenchtechtoulouse.com/
 
 ### COWORKING/TRAVEL / NOMADS
 https://play.google.com/store/apps/details?id=com.trvlmaker
+https://teleport.org/
 https://www.bureauxapartager.com/
 http://www.stayawhileny.com/
 http://grindcamp.co/
@@ -384,6 +388,7 @@ https://toulouse.devfriendlyplaces.net/ (toulouse)
 
 
 ### STOCK PHOTOS
+free http://fr.freeimages.com/
 Unsplash http://unsplash.com/
 Death to the Stock Photo http://join.deathtothestockphoto.com/
 New Old Stock http://nos.twnsnd.co/
@@ -553,6 +558,12 @@ http://growthtools.io/
 http://makerlist.io  
 http://tophunt.info/  
 https://curatedseotools.com/
+https://list.ly
+https://zeef.com/
+https://stample.co
+https://tagpacker.com/
+https://www.pearltrees.com/
+http://toplistes.lespetitsentrepreneurs.com/
 
 ### TOOLS COMMUNICATION ASSO / ENTERPRISE
 http://slackstack.io/
@@ -566,6 +577,7 @@ https://www.ekito.fr/
 http://likeweb-startup.fr/
 
 ### STARTUP / INNOVATION
+https://www.indiehackers.com/
 http://www.innovationstory.fr/
 https://www.startups.co/
 http://www.presse-citron.net/  
