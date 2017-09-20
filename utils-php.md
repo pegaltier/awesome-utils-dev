@@ -33,3 +33,23 @@ https://speakerdeck.com/akrabat/2017-04-08-phpyorkshire-slim-oauth2
 ## COMPOSER
 composer dump-autoload (GENERATE import class)
 composer update (update dependecies & generate import class)
+
+
+
+
+
+## XAMPP INCLUDE
+
+c:/xampp/apache/conf/httpd.conf
+Search for:
+AddType text/html .shtml
+Add the below two lines:
+AddType text/html .html
+AddOutputFilter INCLUDES .html
+Go to Xampp Control Panel and stop the session and restart again.
+Refresh the page in browser and see, the virtual includes will start working.
+
+
+
+<!--#include virtual="/fr/header.html" -->
+<!--#include virtual="/se/site/as-html-web/site/fr/header.html" -->

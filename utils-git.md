@@ -63,3 +63,14 @@ git reset --hard 89b518e
 git push origin master -f
 
 # -----------------------------------------------------------------------
+
+
+switch credentiel method (token)
+
+git config --global credential.helper wincred
+git config --global credential.helper manager
+
+git remote rm origin
+git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
+
+test

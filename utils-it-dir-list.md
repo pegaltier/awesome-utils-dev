@@ -148,7 +148,8 @@ http://vivreen2030.alliancy.fr/
 http://www.futura-sciences.com/  
 OpenBazaar.org 
 
-
+### MAILING
+https://mosaico.io/
 
 ### VIRTUAL REALITY
 http://www.realite-virtuelle.com/

@@ -17,6 +17,11 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# GRADLE CLEAN CACHE
+C:\Users\pegal\.gradle\wrapper\dists
+
+
+
 # Android / IntelliJ TIPS (FOR WINDOWS)
 
 android dev : https://developer.android.com/index.html

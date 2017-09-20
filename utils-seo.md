@@ -5,11 +5,14 @@ https://static.googleusercontent.com/media/www.google.fr/fr/fr/intl/fr/webmaster
 ## AGENCY
 http://www.agence-ska.com/fr/le-referencement-google
 
-
 ## IDEA
 url fermez		> http://www.laurentbourrelly.com/blog/1026.php
-hreflang		> https://support.google.com/webmasters/answer/189077?hl=fr 
 cannonical 		> https://www.yakaferci.com/link-rel-canonical/
+
+sitemap pour hreflang =
+https://support.google.com/webmasters/answer/2620865?hl=fr
+https://support.google.com/webmasters/answer/189077?hl=fr  hreflang		> 
+
 
 ## AUDIT
 https://www.drujokweb.fr/blog/audit-seo/
@@ -18,7 +21,13 @@ https://moz.com/search-ranking-factors
 au début de chaque nouvelle campagne
 Tous les trimestres
 
+## SERVICES
 
+https://www.refzone.info/communiques-de-presse-2-0.html
+
+
+# CONCURRENCE
+https://www.changedetection.com/
 
 ## BASICS CREATE
 http://www.guerillaweb.ca/optimisation-seo-dune-page-web/
@@ -72,23 +81,9 @@ http://www.yapasdequoi.com/apache/2983-len-tete-x-robot-tag-ou-comment-vite-desi
 #HREFLANG 
 voir example code source sur : https://www.googlefight.fr/
 
-
 ## TOOLS
 http://web-sniffer.net/
 
-
-## GOOGLE CHECK
-https://www.abondance.com/actualites/20160927-17070-syntaxe-avancee-dinterrogation-de-google-video-seo.html
-
-site:mydomain.com		(avec ou sans www pris en compte + sous domaine confondu)
-site:mydomain.com filetype:pdf
-site:www.mydomain.com inurl:http
-site:www.mydomain.com inurl:https
-site:www.mydomain.com inurl:motclef
-intitle:abondance
-intitle:"olivier andrieu"
-allintitle:google bing
-f
 
 ## TYPE
 http://www.w3resource.com/schema.org/Article.php
@@ -128,7 +123,10 @@ https://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/
 https://www.google.com/webmasters/markup-helper/
 https://search.google.com/structured-data/testing-tool
 
-
+## Netlinking
+http://www.netlinking.net/
+http://seo-quartz.fr/
+https://www.quicksprout.com/the-advanced-guide-to-link-building-chapter-1/
 
 ## HELPER RICH SNIPPETS 
 applicationCategory : Type of software application, e.g. 'Game, Multimedia, Lifestyle, Music'.
@@ -161,4 +159,110 @@ At the moment, Google will only show date markup if the date actually exists in 
 
 <div itemprop="dateModified" content="2015-02-22T14:55:06+00:00">Last Updated: 22 Feb 15</time>
 
+######################################################################################################
+
+
+RESTRUCTURATION 
+maillage interne / silos
+
+STRATEGIE
+netlinking, sujets, contenu, spinning 
+http://seo-quartz.fr/
+http://www.seo-hero.tech/
+
+2 TYPES DE STRATEGIE :
+
+ VISIBILITE SUR LES PRODUITS
+maillage vers des pages produits
+ 
+VISIBILITE SUR LES CIBLES
+ranking sur les besoins / interets de la cible / 
+buyer personna / action de netlinking / 
+publier beaucoup de contenu qui interesse la cible
+
+
+ 
+MOT CLEF LONGUE TRAINTE :  très longue, très précise
+MOT CLEF COURTE TRAINE : générique, bcp de volume de recherche
+
+### CONF
+https://www.youtube.com/watch?v=CG5DL0a9xg0 (3 mois pour ranker en SEO: cas pratique - WEB2DAY 2017)
+position dans l'index pas fixe dans la journée,  varie entre la 40 et 60eme 
+liens c'est des images
+réseau de site
+tableau comparatif des produits/services
+creer un profil et poser une question sur un site de la meme thematique : journal des femmes / marmitons sans le lien, puis revenir 1 semaine apres, et poster le lien a ce moment la
+création d'un concour facebook :  la derniere personne qui commente ce post gagne le concour ! vous devez taguer une ami, + 2eme concour : meme concour mais cliquer sur google aller a la 30 eme position et clicquer
+Negatine SEO sur les sites qui n'ont pas de balise cannonical
+
+title,h1,h2, video youtube
+personna, message, forum site, si indexation du profil en dofollow
+commentaire sur articles
+
+
+
+Cocon Sémantique ? Maillage interne par silo : 
+mind map / carte mentale / carte heuristique
+http://www.mindmapexpress.com/mindmap-generator.php
+https://deepdreamgenerator.com/
+http://keywordshitter.com/
+http://www.seo-hero.tech/ : mot clef > extraire expression / incremente presence pour chaque terme
+
+récupérer mot cléf sur http://keywordshitter.com/ et extraire les clusters / regrouper mot cléf par famille sur excel / repérer les themes qui 
+http://www.mindmapexpress.com/mindmap-generator.php / ensuite envoyer les mots clefs dans  /
+https://answerthepublic.com/ mot clé recherché 
+
+
+
+Netlinking - Blog 2.0 : Les 2 critères indispensables
+
+KEYWORDS TYPE
+concurentiel
+longue traine - requete informative
+intention d'achat
+géo localisée
+
+
+FOOTPRINT
+http://www.ninjalinker.com/footprint/
+http://www.rankspirit.com/commandes-google.php
+
+Footprint pour commentaires de blogs  :
+
+"Powered by phpbb" "Le record du nombre d'utilisateurs en ligne est" "seduction"
+
+Blog comment WordPress <=> intext:"Site web" AND intext:"Laisser un commentaire Annuler la réponse" "votre mot clé"
+Blog comment WordPress Dofollow <=> "This site uses KeywordLuv. Enter YourName@YourKeywords in the Name field to take advantage" OR "Ce site utilise KeywordLuv" OR "Votre nom@Votre Mot Clé" OR "Votre prénom@Votre Mot Clé" "votre mot clé"
+Blog comment Spip Dofollow <=> "un message, un commentaire" "Lien hypertexte (optionnel)" -"Pour participer à ce forum, vous devez vous enregistrer au préalable" "votre mot clé"
+Blog comment Dotclear <=> intext:"Site web (facultatif)" OR intext:"propulsé par dotclear" OR intext:"la discussion continue ailleurs" AND "ajouter un commentaire" "votre mot clé"
+Blog comment Drupal Dofollow <=> "Poster un nouveau commentaire" "page personnelle" "votre mot clé"
+
+Footprint pour annuaires  :
+Annuaire Arfooo <=> intext:"propulsé par arfooo" OR inurl:"webmaster-submit-website-free.html" OR inurl:"top-rank".html"OR inurl:"allcategories.html" "votre mot clé"
+Annuaire Freeglobes <=> inurl:"allcats.html" OR inurl:"choosepack.html" OR inurl:"top-rank.html" OR inurl:"top-votes.html" OR inurl:"top-hits.html" "votre mot clé"
+Annuaire YourPhpAnnu <=> inurl:"allcats.html" OR inurl:"choosepack.html" OR inurl:"top-rank.html" OR inurl:"top-votes.html" OR inurl:"top-hits.html" "votre mot clé"
+
+Footprint pour forums  :
+Forum PHPbb <=> "Powered by PHPbb" intitle:"votre mot clé"
+Forum vBulletin <=> "Powered by vBulletin" intitle:"votre mot clé"
+Forum SMF <=> "Powered by SMF" intitle:"votre mot clé"
+Forum punBB <=> "powered by punBB" intitle:"votre mot clé"
+Forum Expressionengine <=> "powered by expressionengine" intitle:"votre mot clé"
+
+
+## USAGE FOOTPRINT :
+parser les mails d'une page : inurl:contact "ostéopathe" "marseille"
+
+## GOOGLE CHECK
+https://www.abondance.com/actualites/20160927-17070-syntaxe-avancee-dinterrogation-de-google-video-seo.html
+
+site:mydomain.com		(avec ou sans www pris en compte + sous domaine confondu)
+site:mydomain.com filetype:pdf
+site:www.mydomain.com inurl:http
+site:www.mydomain.com inurl:https
+site:www.mydomain.com inurl:motclef
+intitle:abondance
+intitle:"olivier andrieu"
+allintitle:google bing
+f
 
