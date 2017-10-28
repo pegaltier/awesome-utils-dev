@@ -29,8 +29,11 @@ http://boundless.js.org
 react-create-app : https://github.com/facebookincubator/create-react-app
 react-create-app : https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 
-## THEME
+
+## THEME TOOLS PLUGIN IDE MARKET
 https://reactstrap.github.io/
+https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
+
 
 
 ## NATIVE

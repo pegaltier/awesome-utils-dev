@@ -33,6 +33,8 @@ https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signatu
 ## COMMON Error
 http://www.developerphil.com/dont-store-data-in-the-application-object/
 https://stackoverflow.com/questions/4208886/using-the-android-application-class-to-persist-data
+https://possiblemobile.com/2013/06/context/
+
 
 ## UTILS
 http://gunhansancar.com/tools/converter/#
@@ -44,6 +46,13 @@ https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html > Round icon
 
 ## ENCODING UTF8
 https://blog.jetbrains.com/idea/2013/03/use-the-utf-8-luke-file-encodings-in-intellij-idea/
+
+
+## CRYPTO
+https://android-developers.googleblog.com/2016/06/security-crypto-provider-deprecated-in.html
+Bouncy Castle : https://stackoverflow.com/questions/6788018/android-encryption-decryption-with-aes?rq=1
+Https : https://stackoverflow.com/questions/40093004/how-do-you-encrypt-hide-the-body-of-an-https-call-using-retrofit-2-okhttp-3
+Https : https://github.com/square/okhttp/wiki/HTTPS
 
 ## SHORTCUT
 Copy/paste 			> 	CTRL + SHIFT + V
@@ -61,6 +70,10 @@ Multi cursor		> ALT + J
 Find action 		> CTRL + SHIFT + A
 
 ## LIVE TEMPLATES
+https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7
+https://www.bignerdranch.com/blog/android-studio-live-templates/
+
+usage : abrevation + tab
 
 starter
 newInstance
@@ -104,6 +117,11 @@ hugo @debuglog JakeWhaston
 
 buildType + productFlavor + minSDK
 
+
+## IMAGE DRAWABLE FOLDER
+https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
+https://stackoverflow.com/questions/10517389/android-understanding-drawable-folder
+https://stackoverflow.com/questions/28065267/mipmap-vs-drawable-folders
 
 ## DRAFT
 

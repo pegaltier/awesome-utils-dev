@@ -72,5 +72,3 @@ git config --global credential.helper manager
 
 git remote rm origin
 git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
-
-test

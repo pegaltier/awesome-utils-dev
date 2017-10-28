@@ -76,6 +76,8 @@ npm install -g @angular/cli
 
 
 UPGRADE NG VERSION
+ng update
+
 https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
 
 http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html

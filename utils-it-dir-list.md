@@ -170,95 +170,7 @@ http://www.youvisit.com/
 https://forums.oculus.com  
 VRTube.xxx   
 
-### GROW HACK GROWTH ARTICLES
-http://v2.deux.io/growth-hacker-itw/
-http://tonyarchambeau.com/blog/1025-strategies-de-growth-hacking/
-https://medium.com/hapibot-studio/your-product-is-great-your-distribution-strategy-is-not-9222c637bee1#.2tc0nyxyy
-http://andrewchen.co/growth-is-a-system-not-a-bag-of-tricks/
-http://www.slideshare.net/branchmetrics/the-2016-mobile-growth-handbook-64218146
-https://a16z.com/2017/02/18/12-things-about-product-market-fit/
 
-### GROW  SITES 
-https://blog.bufferapp.com/free-twitter-tools
-http://www.growhack.com  
-http://growthhackers.com/  
-http://growthtools.io  
-http://vincentdignan.com/  
-http://www.new-startups.com/  
-https://justreachout.io/  
-http://nouncy.com/  
-http://pre-launch.io/   
-http://joingiftt.com/  
-https://growthhackers.com/  
-http://www.appvirality.com/blog/  
-http://www.tractioncourse.com/  
-https://startuplister.com  
-http://www.approachable.io/  
-https://maitreapp.co/  
-http://conorth.co/  
-http://www.nowfuckinggrow.com/  
-https://learningtolaunch.co/  
-http://www.audiblegrowth.com
-http://remindpad.com
-http://45.55.235.39/index.php (hashbot)
-https://ninjaoutreach.com/
-https://www.helpareporter.com
-
-### GROW SOCIAL
-https://hootsuite.com/fr/
-http://www.limber.io/
-https://www.tweetfavy.com/  *******
-https://moz.com/followerwonk/
-https://www.crowdfireapp.com/
-http://snaplytics.io/
-https://instagress.com
-https://www.archie.co/
-https://www.crowdfireapp.com/
-https://blog.bufferapp.com/instagram-growth
-http://everypost.me/
-
-### GROW HACK TOOLS
-https://hunter.io
-https://prospect.io
-https://anygrowth.com/
-https://www.datananas.com/fr/
-https://github.com/carlsednaoui/ouibounce
-
-### GROW INFLUENCEUR
-https://lefty.io/
-
-
-### SEO
-https://curatedseotools.com/
-http://seositecheckup.com/
-https://fr.majestic.com/
-https://ubersuggest.io/
-https://www.youtube.com/watch?v=lyiikzjg9a0 SEO 2017
-
-### PRESS
-https://www.horsantenne.com/
-http://www.datapresse.com/page-logiciel-rp-datapresse.html
-
-
-### SUBMIT LIST PROMOTE BUZZ
-https://www.startups.co/education/lessons/growth-user-0/1
-http://userinput.io/blog/whats-important-focus-website-traffic-conversion
-http://viralcontentbee.com/
-https://copromote.com
-https://submit.co/
-https://www.hey.press/
-http://presshour.co/  
-https://startuplister.com/list-of-startup-directories/  
-http://promotehour.com/  list submission startup  
-https://github.com/mmccaff/PlacesToPostYourStartup  
-http://ninjaoutreach.com/startup-directories/  
-http://thestartupvideos.com/video-tips/monster-list-startup-submission-sites-free-listing/  
-https://igostartup.com/places-to-submit-your-startup  
-http://justinmcgill.net/massive-list-of-web-app-directories-to-promote-your-startup/  
-http://www.inboundio.com/blog/27-websites-to-submit-your-startup/  
-https://growthlist.co/  
-https://ninjaoutreach.com/startup-directories/
-https://justreachout.io/
 
 ### GAMES
 http://bad.city  
@@ -293,6 +205,14 @@ http://1001startups.fr/startup-sur-quoi-baser-la-valorisation/
 https://slidebean.com/blog/startups/pitch-deck-examples
 https://blog.ycombinator.com/how-to-design-a-better-pitch-deck
 
+### ENTREPRENNEUR STORY INDIE FOUDNER TIPS
+https://www.indiehackers.com/
+https://github.com/mezod/awesome-indie
+https://www.indiehackers.com/@ivm/what-you-should-know-as-a-founder-of-a-software-company-461ef9ccc5
+https://medium.com/the-mission/13-mental-models-every-founder-should-know-c4d44afdcdd 
+
+
+
 ### ADVERTISING
 http://sublimeskinz.com/  
 http://www.thalamus.co/  
@@ -317,9 +237,9 @@ http://www.meetup.com/fr/Toulouse-Android-User-Group/events/221808977/*
 
 
 
-##TECH
+## TECH
 http://www.influencia.net/fr/  
-venturebeat.com  
+https://venturebeat.com 
 
 ### WEBTV
 http://www.xerficanal.com/  
@@ -565,6 +485,7 @@ https://stample.co
 https://tagpacker.com/
 https://www.pearltrees.com/
 http://toplistes.lespetitsentrepreneurs.com/
+https://github.com/sindresorhus/awesome
 
 ### TOOLS COMMUNICATION ASSO / ENTERPRISE
 http://slackstack.io/
@@ -577,7 +498,10 @@ https://rocket.chat/
 https://www.ekito.fr/
 http://likeweb-startup.fr/
 
-### STARTUP / INNOVATION
+### STARTUP / INNOVATION / TECHNOLOGY
+https://www.technologyreview.com/
+https://www.kissmyfrogs.com
+https://startup.info/fr/
 https://www.indiehackers.com/
 http://www.innovationstory.fr/
 https://www.startups.co/
@@ -787,36 +711,6 @@ http://www.kinto-storage.org/
 ### AI
 www.botlibre.org/
 
-### COMMUNITY MANAGER / MARKETING / STRATEGIES / E COMMERCE
-http://1001startups.fr/30-outils-community-management/
-http://www.mycommunitymanager.fr/
-http://www.webmarketing-com.com
-http://www.mediacademie.org/
-http://coschedule.com/blog/
-http://www.strategies.fr/
-http://www.entrepreneur.com
-http://www.petitweb.fr/
-http://www.blogdumoderateur.com/
-http://siecledigital.fr/
-http://www.ecommercemag.fr/
-http://lareclame.fr/
-http://www.influans.com/
-HTTP://MARKETINGSTACK.IO/
-http://submit.co/
-http://mave.io/
-http://conversionxl.com/blog/
-http://www.sproutup.co/
-http://www.themarketertoolbox.com/
-http://startafire.com/
-http://www.doz.com/
-http://www.e-marketing.fr/
-https://justreachout.io/
-http://www.matthieu-tranvan.fr/
-https://www.acheter-des-fans.com
-http://devmarketing.xyz/tinywins/?ref=producthunt
-http://appmarketingstack.com/
-
-
 ### UX DESIGN 
 http://uxmag.com/
 http://uxmovement.com/
@@ -849,6 +743,7 @@ https://opentest.co/
 http://dribbble.com/
 http://inspiredm.com
 http://www.smashingmagazine.com/
+https://sidebar.io
 http://webdesignledger.com/
 http://blog.visme.co/color-harmony-tips-on-selecting-colors-in-design/
 http://www.fastcodesign.com
@@ -866,7 +761,7 @@ https://fonticons.com/?
 http://www.littlewalden.com/
 http://kushagragour.in/lab/hint/
 https://picons.me/
-
+https://www.svgator.com svg animate
 
 ### WEBDESIGN RESSOURCES
 http://www.pixeden.com/free-design-web-resources
@@ -900,7 +795,7 @@ http://freshdesign.io
 http://www.uxdesigner.top  
 
 
-### Social professionel
+### SOCIAL PRO
 https://www.linkedin.com/  
 http://www.viadeo.com/  
 http://www.xing.com/  
@@ -912,6 +807,8 @@ http://www.wizbii.com/
 http://www.yupeek.com/  
 http://www.socialmediapro.fr/  
 http://w3startup.com/  
+https://myopportunity.com
+
 + Smartcasual  
 SoonMap  
 https://play.google.com/store/apps/details?id=com.nexstreaming.app.flashchat  
@@ -921,7 +818,7 @@ https://codebee.io/
 http://squelo.com/  
 https://www.treatings.co/  
 
-### SECURITE SECURITY PIRATAGE
+### SECURITE SECURITY PIRATAGE CHECKLIST
 http://www.zataz.com/  
 http://thehackernews.com/  
 http://www.darkreading.com/  
@@ -929,287 +826,12 @@ http://lifehacker.com/
 https://certsimple.com  
 https://letsencrypt.org/  
 https://gethttpsforfree.com/  
+https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
 
 
+## TEMPLATE EMAIL DESIGN
+https://mosaico.io
+https://beefree.io
 
-### The most beautifull websites
-http://dragone.com/en
-https://thevanishinggame.wellstoried.com/
-http://www.jesuisunicq.com/
-https://kadk.dk/en/kadk
-https://mvmt.org/#
-http://drurybuildings.com/
-http://calligraphyongirls.com/
-http://christmasexperiments.com
-http://listart.mit.edu/
-http://huppe-studio.com  *****
-http://melanie-f.com
-http://mabeat.tv   *******
-http://www.echoesoftsunami.com/
-http://gifmylive.arte.tv/fr
-http://www.freresdencre.com/
-http://www.acnplwgl.com/#!/worm-kinematics
-http://www.galvanmobili.it
-http://www.lubiam.it/
-http://www.trippeo.com/
-http://melanie-f.com/fr/
-http://www.lapierrequitourne.com/
-http://www.trippeo.com/
-https://www.airbnb.fr/map
-http://www.mathiassterner.com/about
-http://vo2-group.com
-http://fitness.reebok.fr/be-more-human/#/home
-http://moodboard-film.de/
-http://mattbarnesenterprises.com/
-http://www.themarmalade.com/
-http://www.kroyyork.ru/
-http://moodboard-film.de/
-http://www.hellothierry.com/
-http://houseofborel.com/#/
-http://urban-walks.com/#slides   >> CALL TO ACTION
-http://www.masitupungato.com/
-http://odkryj.bialystok.pl/pl
-https://inbeeld.kpn.com/mrt-2015/cover
-http://level-barvikha.ru/en/
-http://www.anakin.co/en
-https://getbeagle.co/
-http://www.etq-amsterdam.com/
-http://www.relayme.be/
-http://www.lamourfou.be/fr
-http://canvas.grolsch.com/400
-http://golfman.ashworthgolf.com/bandon/approach
-http://letempsduntrajet.fr/
-http://typetodesign.com/
-http://typo.polona.pl/en/
-http://www.winshipwealth.com/#winship-offices   < 7.5
-http://www.peuterey.it/     < 7.5
-http://education.laglaceetleciel.com/   >8.4
-http://www.alessandradetomaso.com/
-http://aiaiai.dk/               jolie cadre dark
-http://www.panic.lv/en/     layout incliné
-http://www.tryit-youmightlikeit.co.uk/    button enter border anim + pick up date of brith
-http://www.habib-fadel.com   gallerie peinture artiste
-http://epicmagazine.com/arab-spring-break/
-http://dansmonsac.ca/   < sac meuf contre sida
-http://www.josephaavoue.com
-http://www.palzileri.com/              <7.9
-http://mountain.quechua.com/lookbook-spring-summer-15/                    < 7.9
-http://www.cameronsworld.net/             <7.9
-http://blog.hubspot.com/marketing/best-website-designs-list
-https://spotify-tasterewind.com/ < 7.4
-http://www.awwwards.com/creative-web-portfolios.html **********************
-adwyse.de
-http://www.mugakofestival.com
-innerspacevr.com/  7.5
-http://www.kikk.be/2015 7.5
-http://www.palzileri.com/
-http://weareroyale.com/#/
-http://mightynice.com.au
-http://newheights.longwoodgardens.org/#/ <7.5
-http://www.62models.com/  <7.5
-http://bigbangthemes.net/Wordie_WP/
-http://www.onthegrid.city/
-http://www.62models.com/
-www.johos.at    << 7.6
-http://codedoodl.es/ > 7.5
-http://www.revolution.pn/
-http://www.mrassociates.org/
-http://www.stand4humanrights.com/
-www.carandache.com
-http://www.lnknits.com/
-http://kotelett.info/   ***
-http://ovgrealestate.com/
-http://www.volkswagen-touran.fr/
-http://www.citco.it/
-http://azmilano.com/
-http://www.orchestredeparis.com/ 8.4
-http://www.dairyculture.ru/  7.5
-http://theforecaster-interactive.com/tour/  7.5
-http://bartaile.com/ 7.5
-http://enso.readymag.com/architects-own-houses/11/  8.23
-baconclubhouse.no/en   7.5
-http://acme-world.com/   slow scroll + good style
-http://www.because-recollection.com/   9.5
-http://itsashapechristmas.co.uk/
-http://www.wloks.com/
-http://poc-sculpture.com/
-www.controlfilms.tv/
-http://onirim.com/   VOLET  DEFILEMENT ECRAN
-https://centurion-magazine.com/ jolie 
-http://2016.makemepulse.com/ ANIMATION MAGNIFIQUE
-http://www.beoplay.com/portraits#Intro  SPA AVEC PARALLAX
-http://www.exo-skills.com/  INSPIRATION
-http://www.shiftbrain.co.jp/   9
-http://www.pygmy-elephant.com/
-http://springsummer.dk
-http://www.sevenhillswholefoods.com/
-https://activetheory.net/ SNAP SCROLL REBOND
-http://www.majorsavage.com/ svg animation
-http://www.giovannixu.com/ PERFECT PORTFOLIO FOR PEGLT
-http://www.samsung.com/us/explore/gear-vr/ GEAR VR ZOOM
-https://spotify-valentines.com
-http://checklandkindleysides.com/
-http://dada-data.net/fr/
-http://www.magazine-mint.fr/
-http://warsze.polin.pl
-http://www.visithumboldt.com
-https://www.ifly50.com  8 GALLERY PHOTO
-http://sound-of-change.com/  8.5
-http://thelawofthejungle.com/
-http://falter.madebywild.com/ 8.5
-http://www.studiomarani.it/en/ 8
-http://www.adidas.co.uk/climazone (tout en bas layout 3 colonne dynamique)
-http://saintepaix.com/   barre vertical et horizontale (style LS)
-http://www.melville-design.com/	animation parallax
-http://ony-france.com/ slide collection vetement
-
-
-### UX/DIGITAL PROFESIONNAL
-http://blogdummi.fr/developpement/15-sites-agences-web-de-reve/
-
-http://bonnemarque.se/#
-http://engzell.me/info/
-http://www.sa-studio.fr/
-http://chulakov.com/
-http://www.konform.com/
-http://www.aquest.it/
-http://hellomonday.com/
-http://digitalisations.com/
-http://residence-mixte.com/
-http://www.lahautesociete.com/
-http://www.badassembly.com/
-http://www.designeat.com
-http://www.stash.fr/
-http://talkpr.com/
-http://www.timbrack.de/
-http://mashvp.com/    <>>> TOULOUSE
-http://www.clicky.co.uk/
-http://www.adoratorio.com/
-http://www.burn
-.com/ ******************** SIMPLE DESIGN AGENCY
-http://fixedagency.com
-http://www.basicagency.com/
-http://www.creativestyle.de/
-http://www.ninesixty.co.uk/
-http://studiokraftwerk.com/
-http://spacejunk.com/
-http://locomotive.ca/ *********************
-http://www.jonathandacosta.com
-http://www.tonyui.com/
-http://www.blank.io/
-http://hellomonday.com/
-http://www.ilovemy.de/
-http://www.lab21.gr/
-http://humaan.com/
-http://mustafademirkent.com/
-http://madhankumar.me/
-http://republiqueagency.com/index-eng.html    *****************************
-http://www.pushhere.com/      
-       *******************
-http://www.borngroup.com/
-http://www.mobydigg.de
-http://neverbland.com
-http://www.ninesixty.co.uk/
-http://laser.nyc/
-http://www.littlegiant.co.nz/
-http://www.impossible-bureau.com/
-http://drygital.com/
-http://www.mapcommunication.it
-http://fueled.com
-http://robinjeanney.fr/
-http://www.rollstudio.co.uk/
-http://www.aquest.it/
-http://readysetrocket.com/
-http://brightbyte.co.uk
-http://rhythm.bestlooker.pro/
-http://urbaninfluence.com/
-http://kasperlaigaard.com/
-http://www.timbrack.de/
-http://www.mathiassterner.com/
-http://ayamflow.fr/
-http://melaniedaveid.com/
-http://demodern.com/
-http://www.wax-interactive.com/
-http://vaalentin.github.io/2015/
-http://melaniedaveid.com/
-http://www.cpbgroup.com
-https://www.digitaweb.com/
-http://www.ekito.fr/  TLSE
-http://legraphoir.com/
-https://diegoquintana.com/en
-http://flavinsky.com/home  
-http://w-v.co/  
-http://simonfosterdesign.com/home/  
-http://www.taradash.ru  
-http://www.duhaihang.com  
-http://www.andreysoloviev.net  WEB DESIGN  
-http://brianhoffdesign.com  
-http://svla.co  
-http://www.florianwacker.de/en/  
-http://www.vanschneider.com/  
-http://www.werkstatt.fr/#/home     < 7.9 atelier  
-http://antonandirene.com/     < 7.8  
-http://www.paulineosmont.com/   < 7.5 source propre  
-http://www.nicolastarier.com/  < 7.5 source propre  
-http://www.petarstojakovic.net/    < 8 don't be lazy and make your sh.t happen! but being one step ahead of the curve at all times  
-http://www.blkcnd.com/ < 7.2  
-http://www.legworkstudio.com <7.8  
-http://activetheory.net < layout incliné  
-http://thisisdk.com  
-http://www.evb.com/  
-http://maximecostes.fr/    
-http://weareroyale.com/#/ **** SVG ANIM  
-http://www.fixedgroup.com/  
-http://www.webydo.com/   8.18  
-http://www.indicius.com/  
-http://www.signesduquotidien.org/  <7.5  
-http://panache.fr/  
-http://pollenlondon.com/  
-http://www.thenerodesign.com/ 7.5 LOVE  
-http://www.greenwoodcampbell.com/ AGENCY  
-http://www.deutser.com/services  AGENCY 
-http://www.sweetpunk.com/  
-http://www.julienrenvoye.fr/  
-http://nlee.ru/en/  
-http://riccardomarconato.it/about   8 JAIME  
-https://dpdk.com/  
-http://www.junior.io/  
-http://ueno.co/  
-http://redcollar.digital/  
-http://minnim.tv/en  
-http://lagier-kevin.com/#!/  8 IMPRESSIONANT  
-http://stevenmengin.com/ 8 OPEN GL EXAMPLE  
-http://samsy.ninja/ 8 OPEN GL + A SUIVRE  
-http://sonorans-valley.com/ A TESTER  
-https://studiorotate.com/ 8.5 A TEST  
-http://www.hochburg.net/en/ 8  A TEST  
-http://www.nurturedigital.com/ A TEST  
-http://www.poigneedemainvirile.com/  
-http://hengpatrick.fr/  HETIC/CANVAS/WEBGL  
-http://robinmastromarino.com/ HETIC/CANVAS/WEBGL/VUEJS/PIXIJS (STYLE MENUSLIDER)  
-http://www.fcinq.com/  
-http://bundy.madebywild.com/ 9  
-http://xavierbourdil.com/ 8  
-http://www.patriciablanchet.com/ 8  
-https://cavalierchallenge.com/  
-http://www.plasticbcn.com/  
-http://maevabarriere.com/  
-http://pro.boombotix.com/  
-http://resn.co.nz/#			9 PSYCHO
-http://bravepeople.co/
-http://cuberto.com/
-http://www.ostrolucky.com/en 8 TABLE BOIS
-http://counterclimate.converse.com/ video modifiable
-http://swissarmyman.com/ interaction clavier
-http://bilan-trends2016.heed.agency/ ANIMATION A VOIR
-http://www.not-studio.com/ (simple layout inspiration)
-https://www.biig.fr/ (a lot of animation)
-https://www.waaark.com realisation de site web bien connu
-http://www.durimel.io/ 9***********************
-http://www.ludmillamaury.com/
-http://pomerleau.ca/
-http://vallierbistro.com/en/
-https://richard.gs
-http://www.duhaihang.com/ OPEN GL
-http://www.mstq.io SIMPLE BUT COOL
-https://bonhomme.lol/
+## TEST APP TEST BUG 
+https://bugathon.99tests.com

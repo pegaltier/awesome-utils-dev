@@ -34,7 +34,8 @@ checklist : http://webdevchecklist.com/
 google : https://google.github.io/styleguide/htmlcssguide.xml
 web : https://internetingishard.com/html-and-css/
 
-## GENERATOR
+## GENERATOR BLOCK
+bootstrap : https://www.froala.com/design-blocks
 web : https://webcode.tools/
 favicon : http://realfavicongenerator.net/
 

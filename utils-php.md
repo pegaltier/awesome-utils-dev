@@ -2,6 +2,18 @@
 ## NORME
 http://eilgin.github.io/php-the-right-way/
 https://github.com/dseguy/clearPHP
+https://phpbestpractices.org
+
+## SECURITY
+http://phpsecurity.readthedocs.io/en/latest/index.html
+http://securingphp.com
+
+## LISTS
+https://github.com/ziadoz/awesome-php
+
+## BEST
+http://php-di.org/doc/frameworks/slim.html
+
 
 ## CQRS / DDD / EventSourcing
 https://github.com/real34/cqrs-es-camboui
@@ -35,10 +47,11 @@ composer dump-autoload (GENERATE import class)
 composer update (update dependecies & generate import class)
 
 
+## MYSQL REGEXP
+https://github.com/hholzgra/mysql-udf-regexp/tree/master/regexp
 
 
-
-## XAMPP INCLUDE
+## XAMPP INCLUDE html pages
 
 c:/xampp/apache/conf/httpd.conf
 Search for:
