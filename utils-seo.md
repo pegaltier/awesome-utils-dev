@@ -59,7 +59,11 @@ https://support.google.com/webmasters/answer/2620865?hl=fr
 https://support.google.com/webmasters/answer/189077?hl=fr  hreflang		> 
 
 
-
+## KEYWORDS / LSI
+https://app.kparser.com
+https://keywordtool.io/
+https://answerthepublic.com
+https://lsigraph.com/
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

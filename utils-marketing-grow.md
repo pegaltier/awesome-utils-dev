@@ -2,8 +2,10 @@
 ## Social Media
 https://www.quuu.co
 
-## PROMOTE METHODS
+## PROMOTE METHODS TIPS
 https://blog.kissmetrics.com/17-advanced-methods
+https://blog.autopilothq.com/warmer-funnier-personable-copy
+https://blog.autopilothq.com/customer-retention-tactics
 
 ## LIST MARKETING TOOLS
 https://ninjaoutreach.com/best-content-marketing-tools/
@@ -36,7 +38,7 @@ http://www.inboundio.com/blog/27-websites-to-submit-your-startup/
 https://growthlist.co/  
 https://ninjaoutreach.com/startup-directories/
 https://justreachout.io/
-
+https://techforreporters.com
 
 
 
@@ -50,6 +52,7 @@ http://www.slideshare.net/branchmetrics/the-2016-mobile-growth-handbook-64218146
 https://a16z.com/2017/02/18/12-things-about-product-market-fit/
 
 ### GROW  SITES 
+https://shareaholic.com/publishers
 https://blog.bufferapp.com/free-twitter-tools
 http://www.growhack.com  
 http://growthhackers.com/  

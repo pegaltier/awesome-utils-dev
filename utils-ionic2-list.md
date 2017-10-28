@@ -70,6 +70,7 @@ http://ionicframework.com/docs/native/file/
 http://ionicframework.com/docs/native/image-resizer/  
 
 ## LAZY HELPER
+https://bendyworks.com/blog/ionic-lazy-loading-bonuses
 https://www.youtube.com/watch?v=7j-P-ElAqe8
 http://blog.ionic.io/ionic-3-0-has-arrived/
 https://docs.google.com/document/d/1vGokwMXPQItZmTHZQbTO4qwj_SQymFhRS_nJmiH0K3w/edit
