@@ -7,9 +7,10 @@ https://blog.kissmetrics.com/17-advanced-methods
 https://blog.autopilothq.com/warmer-funnier-personable-copy
 https://blog.autopilothq.com/customer-retention-tactics
 
-## LIST MARKETING TOOLS
+## LIST MARKETING TOOLS / GROW TOOLS
 https://ninjaoutreach.com/best-content-marketing-tools/
 http://www.curata.com/blog/content-curation-tools-the-ultimate-list
+https://docs.google.com/spreadsheets/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/edit#gid=35442284
 
 ## PRESS
 https://www.horsantenne.com/
@@ -43,6 +44,7 @@ https://techforreporters.com
 
 
 ### GROW HACK GROWTH ARTICLES
+https://blog.usejournal.com/explaining-the-real-growth-hacking-yes-thats-really-the-title-cb33d5ff29e4
 https://www.clydes.fr/outils-indispensables-growth-hacker/
 http://v2.deux.io/growth-hacker-itw/
 http://tonyarchambeau.com/blog/1025-strategies-de-growth-hacking/

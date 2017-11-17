@@ -84,8 +84,10 @@ https://github.com/sindresorhus/awesome
 
 
 
-### PARTAGE
+### CONSULTING
 http://www.brownbaglunch.fr
+https://mindmakers.io
+
 
 ### WORDPRESS
 http://wp-rocket.me/fr/
@@ -216,6 +218,7 @@ https://closeround.com/
 https://matchboard.co/  
 http://rocketreach.co/  
 https://investorlist.co/  
+http://datastarta.com/
 http://shotpitch.com  
 http://www.angelsquare.co  
 http://www.francedigitale.org/  
@@ -552,6 +555,10 @@ http://devops.com/
 https://devchat.tv/
 https://www.packtpub.com/
 https://hackernoon.com/
+https://www.reddit.com/r/programming/
+https://news.ycombinator.com/news
+https://fossbytes.com/nasa-coding-programming-rules-critical/
+
 
 ### APIS
 https://www.mashape.com
@@ -664,6 +671,10 @@ https://certsimple.com
 https://letsencrypt.org/  
 https://gethttpsforfree.com/  
 https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
+https://mindmakers.io/searchcorporate?consultant=hidden&entrepreneur=long&page=1&tags=cyber_security
+
+COMPTABILITE
+https://www.georges.tech/
 
 
 ## TEMPLATE EMAIL DESIGN

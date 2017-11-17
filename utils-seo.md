@@ -5,6 +5,9 @@
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## SIMPLE
+https://medium.com/@barthbamasta/devenir-un-expert-en-seo-en-30min-7cd6d1e23de
+
 
 ## AGENCY + SERVICES + FREELANCER
 http://www.agence-ska.com/fr/le-referencement-google
@@ -27,7 +30,7 @@ https://www.drujokweb.fr/blog/audit-seo/
 au début de chaque nouvelle campagne
 Tous les trimestres
 
-### SEO
+### SEO TOOLS
 https://curatedseotools.com/
 http://seositecheckup.com/
 https://fr.majestic.com/
@@ -64,6 +67,7 @@ https://app.kparser.com
 https://keywordtool.io/
 https://answerthepublic.com
 https://lsigraph.com/
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

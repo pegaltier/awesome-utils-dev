@@ -91,6 +91,7 @@ Usage
 rmdir /s/q node_modules
 ncu for display
 ncu -u for re-writing your package.json
+ncu -a for upgrade all
 
 npm install
 
@@ -98,7 +99,7 @@ BUILD PROD
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 ng build --prod	 
 ng build --prod --aot
-ng build --prod --aot --bh /enterprise/webapp/		OK
+ng build --prod --aot --bh /enterprise/webapp/ --build-optimizer		OK
 ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
 

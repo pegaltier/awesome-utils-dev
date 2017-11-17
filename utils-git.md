@@ -2,6 +2,7 @@
 
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 http://learngitbranching.js.org
+https://guides.github.com/features/mastering-markdown/
 
 # -----------------------------------------------------------------------
 
