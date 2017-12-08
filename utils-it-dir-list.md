@@ -204,7 +204,8 @@ https://lightsaber.withgoogle.com/
 http://insights.dice.com/2015/12/16/code-your-own-star-wars-lightsaber/  
 https://developers.google.com/web/showcase/case-study/lightsaber  
 
-### VENTURE / INVESTORS / ASSOS / INCUBATOR
+### VENTURE / INVESTORS / ASSOS / INCUBATOR / VCs
+http://www.eldorado.co/
 http://www.franceangels.org  
 http://tomtunguz.com/  
 http://www.venturefocus.org/  
@@ -227,6 +228,11 @@ http://pitchoun.via-innova.com/
 https://gust.com/
 http://www.sparkup.fr/
 http://1001startups.fr/startup-sur-quoi-baser-la-valorisation/
+
+
+## PARTNER COFOUNDER
+http://getaspired.com
+http://www.shapr.co
 
 ### PITCH
 https://slidebean.com/blog/startups/pitch-deck-examples
@@ -672,6 +678,8 @@ https://letsencrypt.org/
 https://gethttpsforfree.com/  
 https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
 https://mindmakers.io/searchcorporate?consultant=hidden&entrepreneur=long&page=1&tags=cyber_security
+https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil 	rgpd
+
 
 COMPTABILITE
 https://www.georges.tech/
