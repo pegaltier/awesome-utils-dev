@@ -82,6 +82,7 @@ https://coolors.co/
 http://www.colorhunt.co/
 https://color.adobe.com/fr/create/color-wheel/
 http://www.heropatterns.com/
+https://shapeshifter.design
 https://goanimate.com
 http://www.flixapp.co/  
 http://vidlogs.com/  

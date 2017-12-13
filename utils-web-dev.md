@@ -49,6 +49,7 @@ chrome debug tools : https://www.youtube.com/watch?v=xkzDaKwinA8 14 Must Know Ch
 http://graphql.org/
 https://www.graph.cool/
 https://netflix.github.io/falcor/
+https://css-tricks.com/front-end-developers-guide-graphql/
 
 ## DEBUG
 https://css-tricks.com/debugging-tips-tricks

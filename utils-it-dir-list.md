@@ -676,9 +676,14 @@ http://lifehacker.com/
 https://certsimple.com  
 https://letsencrypt.org/  
 https://gethttpsforfree.com/  
+https://github.com/IOActive/XDiFF
 https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
 https://mindmakers.io/searchcorporate?consultant=hidden&entrepreneur=long&page=1&tags=cyber_security
 https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil 	rgpd
+
+### CTO 
+https://event.techs.rocks
+https://cto.pizza
 
 
 COMPTABILITE

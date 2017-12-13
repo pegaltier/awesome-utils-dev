@@ -30,10 +30,26 @@ experiment store : https://developer.android.com/distribute/users/experiments.ht
 zipalign (optimize RAM) : https://developer.android.com/studio/command-line/zipalign.html
 https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signature_v2
 
-## COMMON Error
-http://www.developerphil.com/dont-store-data-in-the-application-object/
+
+## COMMON Error share data 
+https://stackoverflow.com/questions/4878159/whats-the-best-way-to-share-data-between-activities				***************
+
+## COMMON Error data storage
+https://stackoverflow.com/questions/6063550/android-best-way-to-save-data-stored-in-application-singleton-class
+
+
+## COMMON Error application/singleton/context
+https://stackoverflow.com/questions/2002288/static-way-to-get-context-on-android?rq=1						***************
+https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0									***************
+http://www.developerphil.com/dont-store-data-in-the-application-object/										***************
+https://stackoverflow.com/questions/987072/using-application-context-everywhere								***************
+https://possiblemobile.com/2013/06/context/																	***************
+https://medium.com/@programmerr47/singletons-in-android-63ddf972a7e7										***************
+
+https://android-developers.googleblog.com/2009/01/avoiding-memory-leaks.html
+https://code.tutsplus.com/tutorials/android-design-patterns-the-singleton-pattern--cms-29153
 https://stackoverflow.com/questions/4208886/using-the-android-application-class-to-persist-data
-https://possiblemobile.com/2013/06/context/
+
 
 
 ## UTILS
@@ -43,6 +59,7 @@ http://stackoverflow.com/questions/24882550/how-to-format-text-in-string-display
 https://www.img-bak.in >> generate icons
 https://romannurik.github.io/AndroidAssetStudio/index.html
 https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html > Round icons generate
+http://inloop.github.io/svg2android/
 
 ## ENCODING UTF8
 https://blog.jetbrains.com/idea/2013/03/use-the-utf-8-luke-file-encodings-in-intellij-idea/

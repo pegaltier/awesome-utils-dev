@@ -72,6 +72,8 @@ https://stackblitz.com/edit/angular-material?file=theme.scss
 
 
 ## ANGULAR5 / MIGRATION / NEW FEATURES
+https://malcoded.com/posts/angular-top-2017
+https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e
 https://angular-update-guide.firebaseapp.com/
 https://auth0.com/blog/whats-new-in-angular5
 https://alligator.io/angular/angular-5/
@@ -275,6 +277,7 @@ https://toddmotto.com/angular-decorators
 https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
 
 ## ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE
+https://alligator.io/angular/bundle-size/
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html  
 https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5  
