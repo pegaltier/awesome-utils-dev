@@ -40,6 +40,7 @@ https://stackoverflow.com/questions/6063550/android-best-way-to-save-data-stored
 
 ## COMMON Error application/singleton/context
 https://stackoverflow.com/questions/2002288/static-way-to-get-context-on-android?rq=1						***************
+https://www.fwd.cloud/commit/post/android-context-on-demand/												***************
 https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0									***************
 http://www.developerphil.com/dont-store-data-in-the-application-object/										***************
 https://stackoverflow.com/questions/987072/using-application-context-everywhere								***************
