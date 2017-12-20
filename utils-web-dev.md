@@ -34,6 +34,12 @@ checklist : http://webdevchecklist.com/
 google : https://google.github.io/styleguide/htmlcssguide.xml
 web : https://internetingishard.com/html-and-css/
 
+## HTML/HEAD/CHECKLIST
+https://github.com/joshbuchea/HEAD
+https://frontendchecklist.io
+https://github.com/thedaviddias/Front-End-Checklist
+https://codeburst.io/the-front-end-checklist-8b2292fdda44
+
 ## GENERATOR BLOCK
 bootstrap : https://www.froala.com/design-blocks
 web : https://webcode.tools/
@@ -42,9 +48,8 @@ favicon : http://realfavicongenerator.net/
 ## TOOLS
 chrome : https://developers.google.com/web/tools/chrome-devtools/
 chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
-chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 chrome CORS PLUGIN or https://crossorigin.me/
-chrome debug tools : https://www.youtube.com/watch?v=xkzDaKwinA8 14 Must Know Chrome Dev Tools Tricks
+
 ## NEW BACKEND
 http://graphql.org/
 https://www.graph.cool/
@@ -53,6 +58,10 @@ https://css-tricks.com/front-end-developers-guide-graphql/
 
 ## DEBUG
 https://css-tricks.com/debugging-tips-tricks
+https://www.youtube.com/watch?v=xkzDaKwinA8 14 Must Know Chrome Dev Tools Tricks (chrome debug tools )
+https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
+https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db
+
 
 ## NPM
 tricks : https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/?utm_source=nodeweekly&utm_medium=email
@@ -63,6 +72,9 @@ bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
 https://testmysite.withgoogle.com
 
 ## PWA 
+tricks : http://deanhume.com/home/blogpost/a-big-list-of-progressive-web-app-tips-and-tricks
+myth : https://medium.com/samsung-internet-dev/6-myths-of-progressive-web-apps-81e28ca9d2b1
+news : https://mobiforge.com/news-comment/safari-service-workers-and-other-pwa-good-news-stories
 store : https://medium.com/@tkbremnes/progressive-web-apps-and-the-app-stores-c983adc6b36f
 angular : https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
 guide : https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35
@@ -96,6 +108,7 @@ optimize : https://tinypng.com/
 proxy : https://images.weserv.nl/
 background : http://www.heropatterns.com/
 generate : http://www.heropatterns.com/ + https://css-tricks.com/websites-generate-svg-patterns/
+background : https://css-tricks.com/the-blur-up-technique-for-loading-background-images
 performance : http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images
 responsive : https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.f0zcv3ttb
 image lazy : http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
@@ -145,7 +158,12 @@ base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate
 base rules : https://github.com/jareware/css-architecture
 base rules : http://bradfrost.com/blog/post/css-architecture-for-design-systems/
 base rules : https://sgom.es/posts/2017-02-10-bridging-css-and-js-with-custom-properties
+base rules : http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html
 class organization : https://css-tricks.com/bem-101/  
+grid : https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228
+grid : https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431
+grid : https://24ways.org/2017/design-systems-and-css-grid
+buttons : http://blog.dynamicdrive.com/popular-css-button-hover-effects-explained
 flexbox : http://www.flexboxpatterns.com/home
 flexbox : https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.nkwq5jn7k
 flexbox : https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/
@@ -161,6 +179,7 @@ image hover/caption : http://tympanus.net/Tutorials/OriginalHoverEffects/
 image hover/caption : http://tympanus.net/Development/HoverEffectIdeas/  
 image hover/caption : http://tympanus.net/Tutorials/OriginalHoverEffects/index.html
 link hover : http://tympanus.net/codrops/2013/08/06/creative-link-effects/  
+block formatting context : https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context
 style generator : http://www.css3generator.com/  
 structure : https://medium.com/peergrade-io/structuring-css-in-large-projects-37f1695f5ec8#.gn9z2owsb
 utils : https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.yq8fxsqf9
@@ -168,6 +187,7 @@ animation : https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3
 animation example : http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
 menu burger : https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
 text effect : http://codepen.io/collection/DamKJW/
+color : https://www.ascii-code.com/html-color-names.php
 
 ## CSS PAGE TRANSITION
 http://git.blivesta.com/animsition/
@@ -212,6 +232,9 @@ generator : https://github.com/carloscabo/svg-triangle-generator
 
 ## SPRITE
 generator : https://eliorshalev.github.io/sprite-spirit
+
+## FORM / HTML FORM
+https://www.codeproject.com/Articles/1221189/Formidable-Forms-with-HTML
 
 ## JAVASCRIPT AWARDS
 best : https://risingstars2016.js.org

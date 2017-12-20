@@ -50,8 +50,9 @@ composer dump-autoload (GENERATE import class)
 composer update (update dependecies & generate import class)
 
 
-## MYSQL REGEXP
+## MYSQL
 https://github.com/hholzgra/mysql-udf-regexp/tree/master/regexp
+https://www.codeproject.com/Articles/1221422/Importance-of-Logging-in-MySQL
 
 
 ## XAMPP INCLUDE html pages

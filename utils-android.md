@@ -62,6 +62,16 @@ https://romannurik.github.io/AndroidAssetStudio/index.html
 https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html > Round icons generate
 http://inloop.github.io/svg2android/
 
+## SCREENSHOT STORE
+https://theapplaunchpad.com/
+https://appure.io
+
+## MOCKUP IMAGES
+http://magicmockups.com
+https://mockuper.net
+https://smartmockups.com
+
+
 ## ENCODING UTF8
 https://blog.jetbrains.com/idea/2013/03/use-the-utf-8-luke-file-encodings-in-intellij-idea/
 

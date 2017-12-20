@@ -1,4 +1,16 @@
 
+https://logojoy.com
+http://iconstore.co/
+https://fonticons.com/?
+http://www.littlewalden.com/
+http://kushagragour.in/lab/hint/
+https://picons.me/
+https://www.svgator.com svg animate
+
+## FONT
+http://bashooka.com/freebie/50-free-fonts-2018-that-will-rock-your-design-project/
+
+
 ### WEBSITE SELECTION / AWARDS
 https://onepagelove.com/
 http://www.awwwards.com/  
@@ -33,12 +45,6 @@ https://niice.co/
 http://makerbook.net/?ref=producthunt
 http://talkaboutdesign.com/preview/
 
-http://iconstore.co/
-https://fonticons.com/?
-http://www.littlewalden.com/
-http://kushagragour.in/lab/hint/
-https://picons.me/
-https://www.svgator.com svg animate
 
 ### WEBDESIGN RESSOURCES
 http://www.pixeden.com/free-design-web-resources

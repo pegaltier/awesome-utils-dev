@@ -72,6 +72,8 @@ https://stackblitz.com/edit/angular-material?file=theme.scss
 
 
 ## ANGULAR5 / MIGRATION / NEW FEATURES
+https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
+https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129
 https://malcoded.com/posts/angular-top-2017
 https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e
 https://angular-update-guide.firebaseapp.com/
