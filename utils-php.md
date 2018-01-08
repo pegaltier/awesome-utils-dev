@@ -5,6 +5,7 @@ https://github.com/dseguy/clearPHP
 https://phpbestpractices.org
 
 ## SECURITY
+https://www.acunetix.com/websitesecurity/php-security-1/
 http://phpsecurity.readthedocs.io/en/latest/index.html
 http://securingphp.com
 
@@ -54,6 +55,10 @@ composer update (update dependecies & generate import class)
 https://github.com/hholzgra/mysql-udf-regexp/tree/master/regexp
 https://www.codeproject.com/Articles/1221422/Importance-of-Logging-in-MySQL
 
+
+ORM
+https://medium.com/@romaninsh/objectively-comparing-orm-dal-libraries-e4f095de80b5
+http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql
 
 ## XAMPP INCLUDE html pages
 

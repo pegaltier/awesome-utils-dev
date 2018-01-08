@@ -234,7 +234,7 @@ function process() {
     var imageSizes=icLauncherIconSizes;
 
 	var proceed=false;
-	var exportType=PROJECT_TYPE_ECLIPSE; // PROJECT_TYPE_ANDROID_STUDIO;
+	var exportType=PROJECT_TYPE_ANDROID_STUDIO; // 0 = mipmap folder ; PROJECT_TYPE_ANDROID_STUDIO 		||||| 		1 = drawable folder ;PROJECT_TYPE_ECLIPSE 	<<<<---------------------------------------------------
 	var rootFolder=docRef.path.fsName;
 
 	var dlg = new Window("dialog{text:'"+APP+" - "+VERSION+" by "+AUTHOR+"',alignChildren: ['fill', 'top'],  \
@@ -305,7 +305,7 @@ function process() {
         }
 	}  
     
-	dlg.exportType.ddlProjectStyle.selection=1; // 0 = mipmap folder ; 1 = drawable folder
+	dlg.exportType.ddlProjectStyle.selection=0; // 0 = mipmap folder ; 1 = drawable folder 	<<<<---------------------------------------------------
 	dlg.exportType.ddlProjectStyle.onChange = function(){  
 		if (dlg.exportType.ddlProjectStyle.selection == 0) exportType=PROJECT_TYPE_ANDROID_STUDIO;
 		if (dlg.exportType.ddlProjectStyle.selection == 1) exportType=PROJECT_TYPE_ECLIPSE;			

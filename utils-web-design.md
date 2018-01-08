@@ -59,6 +59,7 @@ http://www.awwwards.com/100-greatest-free-fonts-collection-for-2015.html
 
 
 ### STOCK PHOTOS
+https://imagefinder.co
 free http://fr.freeimages.com/
 Unsplash http://unsplash.com/
 Death to the Stock Photo http://join.deathtothestockphoto.com/
@@ -81,6 +82,36 @@ https://www.pexels.com
 http://www.dreamstime.com/
 https://pixabay.com
 http://www.coverr.co  
+
+
+## IMAGE PATTERN BACKGROUND
+http://www.patternhead.com
+http://bgrepeat.com
+http://bgpatterns.com
+http://pattern8.com
+http://www.dinpattern.com
+http://www.patternpictures.com
+http://www.wildtextures.com
+https://freestocktextures.com
+http://backgroundlabs.com
+http://bg.siteorigin.com
+http://ava7patterns.com
+http://www.heropatterns.com/
+https://www.transparenttextures.com
+http://thepatternlibrary.com/ *****
+https://patterncooler.com  ****
+https://pattern.flaticon.com
+http://www.patternify.com
+https://www.patternous.com/free
+http://www.texturemate.com
+http://www.colourlovers.com/patterns
+https://www.pexels.com/search/texture/
+https://www.storyblocks.com/images/pattern
+https://www.toptal.com/designers/subtlepatterns/
+https://css-tricks.com/websites-generate-svg-patterns/
+https://unsplash.com/search/photos/texture
+https://unsplash.com/search/photos/pattern
+https://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
 
 ### RESOURCES
 https://colordrop.io
