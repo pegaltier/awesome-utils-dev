@@ -31,8 +31,10 @@
 
 ## SUMMARY
 checklist : http://webdevchecklist.com/
+checklist : https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 google : https://google.github.io/styleguide/htmlcssguide.xml
 web : https://internetingishard.com/html-and-css/
+map : https://github.com/kamranahmedse/developer-roadmap
 
 ## HTML/HEAD/CHECKLIST
 https://github.com/joshbuchea/HEAD
@@ -159,6 +161,8 @@ class organization : https://css-tricks.com/bem-101/
 grid : https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228
 grid : https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431
 grid : https://24ways.org/2017/design-systems-and-css-grid
+grid : http://www.creativebloq.com/features/css-grid-layout-secrets-revealed
+grid : https://medium.freecodecamp.org/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1
 buttons : http://blog.dynamicdrive.com/popular-css-button-hover-effects-explained
 flexbox : http://www.flexboxpatterns.com/home
 flexbox : https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.nkwq5jn7k

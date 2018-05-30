@@ -67,9 +67,14 @@ https://github.com/mgechev/angular-performance-checklist
 
 
 ## HACK STARTER ONLINE FAST 
+https://stackblitz.com
 https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
 
+## ANGULAR6
+https://www.telerik.com/blogs/whats-new-in-angular-6
+https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
+https://blog.angular.io/run-angular-cli-repos-directly-in-your-browser-41332fd80901
 
 ## ANGULAR5 / MIGRATION / NEW FEATURES
 https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
@@ -187,6 +192,7 @@ http://www.dzurico.com/angular-cli-with-the-super-powers/
 
 
 ## ANGULAR TOOLS
+https://github.com/mgechev/ngrev
 https://github.com/rangle/batarangle/  
 https://github.com/manekinekko/angular2-dependencies-graph  
 https://augury.angular.io/
@@ -280,6 +286,8 @@ https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
 
 ## ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE
 https://alligator.io/angular/bundle-size/
+https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
+https://hackernoon.com/rxjs-reduce-bundle-size-using-lettable-operators-418307295e85
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html  
 https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5  
@@ -292,7 +300,9 @@ http://blog.angular-academy.io/how-to-run-angular-2-in-production-today/
 http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
 http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_164
 https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294#.jrwcy16lq
-https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
+
+## ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS
+https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
 
 
 # ANGULAR DOM 
@@ -378,6 +388,7 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 
 ## ANGULAR OBSERVABLE/REACTIVE/STATE/RXJS 
+https://yakovfain.com/2018/01/03/wrapping-an-rxjs-observable-stream-into-an-angular-service/
 https://blog.craftlab.hu/clarifying-observables-b7b3ed7e0a5f
 https://www.youtube.com/watch?v=65Us8NwmYf4 Top 7 RxJS Concepts for Angular Developers
 https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21
@@ -478,6 +489,7 @@ http://juristr.com/blog/2016/04/angular2-change-detection/
 https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
 
 ## ANGULAR DEPENDENCY INJECTION
+https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
 https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.63fqu1f7r
 http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html  
 http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/  
@@ -582,6 +594,8 @@ https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230
 
 
 ## ANGULAR TEST TESTING
+https://medium.com/allenhwkim/generate-angular-unit-tests-automatically-1300601ed73
+https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/
 http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/
 https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d#.fh0twlfjl
 http://blog.rangle.io/testing-angular-2-applications/  
@@ -679,6 +693,11 @@ https://github.com/ng-book/angular2-rxjs-chat
 https://github.com/blacksonic/angular2-es6-starter  
 https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang roles
 
+## ANGULAR POC WEBAPP
+https://hackernoon.com/chatbot-with-angular-5-dialogflow-fdac97fef681
+
+
+
 ## ANGULAR running demo
 http://winecellar.surge.sh/    
 http://rawgit.com/start-angular/ani-angular-2/master/dist/prod/index.html  
@@ -714,10 +733,14 @@ https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-Native
 http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0
 
 
-## ANGULAR links
+## ANGULAR LINKS
 https://github.com/swirlycheetah/awesome-angular2 <<<  
 https://github.com/timjacobi/angular2-education <<<  
 https://github.com/jonrimmer/angular-2-examples  
+
+## ANGULAR SOCKETS
+https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+
 
 ## ANGULAR sources
 www.codeproject.com/Articles/1081551/Angular-Tutorial-in-JavaScript-ES << A TESTER  
@@ -767,7 +790,6 @@ https://tech.evojam.com/2016/03/31/react-vs-angular2-the-fight-rages-on/
 
 ## ANGULAR PAYMENT
 https://alligator.io/angular/stripe-elements
-
 
 
 ## ANGULAR OTHERS ARTICLES

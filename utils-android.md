@@ -160,8 +160,23 @@ https://admob.googleblog.com/2016/02/sdk-less-mediation.html
 http://googleadsdeveloper.blogspot.fr/2016/03/adding-sdk-less-mediation-to-your.html
 
 
+## DEPRECATED CODE
 Analyze -> Inspect Code...
 When your project has been inspected click on Code maturity issues and tada, there is a list of all Deprecated API usages :)
+
+## INDUSTRIALIZATION / AUTOMATIZATION / CI / AUTOMATIC RELEASE
+https://github.com/Triple-T/gradle-play-publisher
+https://github.com/Triple-T/gradle-play-publisher/issues/141
+https://github.com/codepath/android_guides/wiki/Automating-Publishing-to-the-Play-Store 
+https://guides.codepath.com/android/automating-publishing-to-the-play-store
+https://console.developers.google.com/apis
+
+
+## APP STORE OPTIMIZATION (ASO) 
+https://asostack.com
+https://www.apptamin.com
+https://thetool.io
+https://chrome.google.com/webstore/detail/aso-google-play-short-des/pgnpmcfcckikimfioobcdjlpmnchlcmm
 
 
 ## STRING HELPER
@@ -226,3 +241,43 @@ Find action : groovy console
 System.out.println(func(test));
 
 
+## decompile apk
+
+https://ibotpeaches.github.io/Apktool/documentation/
+
+
+## android buy in app V3
+https://android-developers.googleblog.com/2017/06/money-made-easily-with-new-google-play.html
+https://codelabs.developers.google.com/codelabs/play-billing-codelab/#0
+https://github.com/googlecodelabs/play-billing-codelab
+https://github.com/googlesamples/android-play-billing/tree/master/TrivialDrive_v2
+
+
+
+## android buy in app evol
+
+https://github.com/googlesamples/android-play-billing/tree/master/TrivialDrive/app/src/main/java/com/example/android/trivialdrivesample/util
+
+https://stackoverflow.com/questions/45943013/android-in-app-biling-cant-start-async-operation
+https://stackoverflow.com/questions/15628155/android-in-app-billing-cant-start-launchpurchaseflow-because-launchpurchaseflo
+https://stackoverflow.com/questions/14130044/android-billing-exception/19986180
+https://stackoverflow.com/questions/47598821/android-in-app-billing-crashing-sometimes-working-sometimes
+https://stackoverflow.com/questions/48353342/illegalstateexception-caused-by-in-app-billing-checknotdisposed?rq=1
+https://stackoverflow.com/questions/15575605/android-in-app-billing-cant-start-async-operation-because-another-async-operat
+https://stackoverflow.com/questions/30382007/java-lang-illegalstateexception-cant-start-async-operation
+
+6 stack 
+
+
+todo:
+-update to the last version of lib
+-check having onActivityResult like this :
+-add try catch to the call
+
+avoid:
+-editing inabhelper as suggested here:
+
+
+
+
+---------------------

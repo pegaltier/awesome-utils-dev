@@ -7,6 +7,8 @@
 
 ## SIMPLE
 https://medium.com/@barthbamasta/devenir-un-expert-en-seo-en-30min-7cd6d1e23de
+https://www.youtube.com/watch?v=CG5DL0a9xg0 (3 mois pour ranker en SEO: cas pratique - WEB2DAY 2017)
+
 
 
 ## AGENCY + SERVICES + FREELANCER
@@ -34,8 +36,23 @@ Tous les trimestres
 https://curatedseotools.com/
 http://seositecheckup.com/
 https://fr.majestic.com/
-https://ubersuggest.io/
 https://www.youtube.com/watch?v=lyiikzjg9a0 SEO 2017
+
+seo phase de rédaction :
+https://answerthepublic.com
+https://neilpatel.com/ubersuggest/
+https://keywordtool.io
+http://www.seo-hero.tech
+
+seo spinning :
+http://seo-quartz.fr
+
+seo phase d'optimisation :
+https://1.fr
+https://seo-hero.ninja
+http://www.seo-hero.tech
+https://lsigraph.com
+
 
 
 # CONCURRENCE
@@ -216,11 +233,14 @@ At the moment, Google will only show date markup if the date actually exists in 
 
 
 
-## Netlinking
+## Netlinking / Spinning / Spining
 http://www.netlinking.net/
 http://seo-quartz.fr/
+https://www.supinfo.com/articles/single/4518-outil-seo-seo-quartz
 https://www.quicksprout.com/the-advanced-guide-to-link-building-chapter-1/
-
+https://tools.deux.io/content-spinning (bug)
+http://www.infowebmaster.fr/outils/content-spinning.php (ok)
+http://outils-seo.alwaysdata.net/outils-contenu-editorial/content-spinner/ (ok)
 
 RESTRUCTURATION 
 maillage interne / silos
@@ -293,6 +313,7 @@ géo localisée
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+https://palevesque.com/outil-blog-comment/
 http://www.ninjalinker.com/footprint/
 http://www.rankspirit.com/commandes-google.php
 http://www.webrankinfo.com/commandes/

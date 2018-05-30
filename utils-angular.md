@@ -60,6 +60,10 @@ ng serve
 ng github-pages:deploy 
 git subtree push --prefix dist/ origin gh-pages 
  
+ 
+more CLI : https://www.amadousall.com/my-favourite-angular-cli-commands-and-options/
+
+
 PROXY BACKEND
 https://github.com/angular/angular-cli#proxy-to-backend
  

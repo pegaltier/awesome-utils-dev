@@ -96,6 +96,8 @@ https://www.archie.co/
 https://www.crowdfireapp.com/
 https://blog.bufferapp.com/instagram-growth
 http://everypost.me/
+https://code.tutsplus.com/articles/10-best-php-instagram-scripts-widgets--cms-30080
+
 
 ### GROW HACK TOOLS
 https://hunter.io

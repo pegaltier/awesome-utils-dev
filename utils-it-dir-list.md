@@ -206,6 +206,8 @@ https://developers.google.com/web/showcase/case-study/lightsaber
 
 ### VENTURE / INVESTORS / ASSOS / INCUBATOR / VCs
 http://www.eldorado.co/
+https://daphni.com
+https://www.kimaventures.com
 http://www.franceangels.org  
 http://tomtunguz.com/  
 http://www.venturefocus.org/  
@@ -567,6 +569,8 @@ https://fossbytes.com/nasa-coding-programming-rules-critical/
 
 
 ### APIS
+https://swagger.io
+https://apimatic.io
 https://www.mashape.com
 https://apigee.com
 https://www.mashery.com/

@@ -80,14 +80,23 @@ Raumrot http://www.raumrot.com/10/
 ISO Republic http://isorepublic.com/
 https://www.pexels.com
 http://www.dreamstime.com/
-https://pixabay.com
+https://pixabay.com  *******
 http://www.coverr.co  
+https://giphy.com
+https://undraw.co/illustrations
+
+## ICONS
+https://www.flaticon.com
+https://iconmonstr.com
 
 
 ## IMAGE PATTERN BACKGROUND
+https://www.novapattern.com
+http://www.lisbonazulejos.com/
 http://www.patternhead.com
 http://bgrepeat.com
 http://bgpatterns.com
+https://patterninja.com
 http://pattern8.com
 http://www.dinpattern.com
 http://www.patternpictures.com
@@ -111,7 +120,9 @@ https://www.toptal.com/designers/subtlepatterns/
 https://css-tricks.com/websites-generate-svg-patterns/
 https://unsplash.com/search/photos/texture
 https://unsplash.com/search/photos/pattern
+https://1stwebdesigner.com/pattern-generator-online/
 https://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
+
 
 ### RESOURCES
 https://colordrop.io

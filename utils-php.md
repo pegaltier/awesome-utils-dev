@@ -11,6 +11,7 @@ http://securingphp.com
 
 ## LISTS
 https://github.com/ziadoz/awesome-php
+https://www.cloudways.com/blog/top-php-github-projects/
 
 ## BEST
 http://php-di.org/doc/frameworks/slim.html
@@ -18,6 +19,9 @@ http://php-di.org/doc/frameworks/slim.html
 ## ASYNCRONOUS ASYNCRONOUS
 https://amphp.org
 
+
+## IDE + EXTENSION
+http://calebporzio.com/my-vs-code-setup-2/
 
 ## CQRS / DDD / EventSourcing
 https://github.com/real34/cqrs-es-camboui
