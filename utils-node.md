@@ -10,3 +10,21 @@ https://github.com/localtunnel/localtunnel
 
 1. download & install node : latest version from official website
 2. use npm-windows-upgrade to update npm
+
+
+## NODE AUTODEPLOY
+
+tools deploy to ftp server
+
+create file: dploy.yaml
+
+deploy command : dploy alias
+
+deploy_alias:
+    host: "ftp.domain"
+    user: "use"
+    pass: "pwd"
+    path:
+        local: "/"
+        remote: "/folder/"
+exclude: [".vscode/**/*.{xml,json,abc}",".idea/**/*.{xml,json,abc}",".gitignore","dploy.yaml","_local/**/*.{html,css,sql,xml,md,php,html,js,json,htaccess}"]
