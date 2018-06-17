@@ -25,18 +25,15 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 ## CRYPTO 18 BET
 
-statis
-
-bat: 500 €		binance
-bnb: 500 €		binance
-rep: 200 €		Augur
-btc: 300 €		Bitcoin	
-
-Bit bet:  
+BAT         500		binance
+BNB         500		binance
+REP         200		Augur
+BTC         300		Bitcoin	
+STRAT       100     binance
 
 bet 1. interop
-https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
 
+https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
 WANCHAIN — https://wanchain.org/
 ICON — https://icon.foundation/
 AION — https://aion.network/
@@ -48,6 +45,7 @@ https://www.txtnet.io
 bet 3. exchange
 
 bet 4. storage
+STRATIS 
 
 bet 5. prediction
 

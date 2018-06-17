@@ -73,6 +73,12 @@ bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
 ## AUDIT
 https://testmysite.withgoogle.com
 
+## AMP
+https://validator.ampproject.org
+https://www.ampproject.org
+https://github.com/Lullabot/amp-library
+
+
 ## PWA 
 tricks : http://deanhume.com/home/blogpost/a-big-list-of-progressive-web-app-tips-and-tricks
 myth : https://medium.com/samsung-internet-dev/6-myths-of-progressive-web-apps-81e28ca9d2b1
