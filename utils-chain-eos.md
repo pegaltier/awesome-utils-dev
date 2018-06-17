@@ -16,8 +16,9 @@ https://eosmonitor.io/
 https://eosquery.com
 https://eospark.com/
 https://eosflare.io/
-http://bios.eostracker.io/
 https://eosscan.io/
+http://bios.eostracker.io/
+http://eosnetworkmonitor.io
 
 ## EOS TRACK
 http://dev.cryptolions.io/mainnet/
@@ -32,6 +33,7 @@ https://toolkit.genereos.io/tools
 
 ## EOS DAPPS
 http://karmaapp.io
+https://www.txtnet.io
 
 
 ## EOS WALLET/VOTE/TOOLS 
