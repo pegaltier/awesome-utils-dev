@@ -3,13 +3,16 @@
 ●▬ begin eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
 ## EOS START
+https://github.com/EOSIO/eos/wiki
 https://www.reddit.com/r/eos/
-https://www.reddit.com/r/eos/comments/8r7gnr/12_tools_to_get_started_with_eos/
 https://github.com/EOSIO/eos/wiki/Accounts%20%26%20Permissions
 https://steemit.com/eos/@genereos/eos-multisig-tutorial
 
+## EOS LIST
+https://www.reddit.com/r/eos/comments/8r7gnr/12_tools_to_get_started_with_eos/
 
 ## EOS EXPLORER
+https://eosmonitor.io/
 https://eosquery.com
 https://eospark.com/
 https://eosflare.io/

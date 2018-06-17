@@ -29,20 +29,45 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 ## CRYPTO 18 BET
 
-statis/aura/eng//snm/link 
+statis
 
-bat: 100 €		binance					
-bnb: 100 €		binance				
-zec: 100 €		Zcash				https://z.cash
-rep: 200 €		Augur				https://www.augur.net	
-btc: 300 €		Bitcoin				ok
+bat: 500 €		binance
+bnb: 500 €		binance
+rep: 200 €		Augur
+btc: 300 €		Bitcoin	
+
+Bit bet:  
+
+bet 1. interop
+https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
+
+WANCHAIN — https://wanchain.org/
+ICON — https://icon.foundation/
+AION — https://aion.network/
+
+bet 2. advertising
 
 
-eng: https://enigma.co	https://www.binance.com/trade.html?symbol=ENG_ETH
-hpb:http://www.gxn.io https://coinmarketcap.com/currencies/high-performance-blockchain/#markets
+bet 3. exchange
 
-hot: https://holochain.org	https://idex.market/eth/hot				> ok
-poa: https://poa.network/	https://idex.market/eth/poa20			> 100 €	 idex
+bet 4. storage
+
+bet 5. prediction
+
+bet 6. r&d (3xgen, 4xgen)
+
+## CRYPTO 18 OTHERS
+POLY — based on ETH    https://polymath.network
+ENG — based on ETH     https://enigma.co
+HBP — 
+HOT — new paradigm     https://holochain.org	https://idex.market/eth/hot
+poa — idk              https://poa.network/	https://idex.market/eth/poa20
+
+## QUOTES
+https://coin360.io/
+https://coinlib.io
+https://coincheckup.com
+https://coinmarketcap.com/
 
 
 ## NEWS
