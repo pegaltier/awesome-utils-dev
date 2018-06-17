@@ -72,6 +72,7 @@ https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
 
 ## ANGULAR6
+https://dzone.com/articles/whats-new-in-angular-6
 https://www.telerik.com/blogs/whats-new-in-angular-6
 https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 https://blog.angular.io/run-angular-cli-repos-directly-in-your-browser-41332fd80901
@@ -203,6 +204,8 @@ https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-
 
 
 ## ANGULAR DEBUG
+https://www.sitepoint.com/angular-augury-debug-code/
+https://medium.com/nextfaze/devmod-probing-your-angular-application-for-fun-and-debugging-d7e07c688247
 https://hackernoon.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
 https://medium.com/@maximus.koretskyi/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
 https://dzone.com/articles/how-to-debug-an-angular-application-with-chrome-an
@@ -613,6 +616,7 @@ https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)
 
 ## ANGULAR AOT COMPLIANT LIB MAKE LIBRARY
 https://nrwl.io/nx
+https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
 https://github.com/jvandemo/generator-angular2-library
 https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
 https://github.com/angular/angular-cli/issues/3580

@@ -13,7 +13,13 @@ https://github.com/localtunnel/localtunnel
 
 
 ## NODE AUTODEPLOY
+https://github.com/lucasmotta/dploy
 
+
+https://deploybot.com
+https://ftploy.com
+
+ 
 tools deploy to ftp server
 
 create file: dploy.yaml
