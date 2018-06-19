@@ -25,9 +25,10 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 ## CRYPTO 18 BET
 
-BAT         500		binance
-BNB         500		binance
+BAT         200		binance
+BNB         200		binance
 REP         200		Augur
+
 BTC         300		Bitcoin	
 STRAT       100     binance
 

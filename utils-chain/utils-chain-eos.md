@@ -34,7 +34,7 @@ https://toolkit.genereos.io/tools
 ## EOS DAPPS
 http://karmaapp.io
 https://www.txtnet.io
-
+https://decentwitter.com
 
 ## EOS WALLET/VOTE/TOOLS 
 https://github.com/EOSIO/eos/wiki/CLI-Wallet
