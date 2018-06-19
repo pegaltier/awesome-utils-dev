@@ -13,8 +13,5 @@ https://medium.com/catalyst-crypto/crypto-algo-trading-with-catalyst-in-under-20
 ## VIDEO 
 https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw
 
-
-
-
 ## TUTOS ERC20 ETH
 https://github.com/MyCryptoHQ/support.mycrypto.com/blob/master/src/content/tokens/adding-new-token-and-sending-custom-tokens.md
