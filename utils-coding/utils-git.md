@@ -26,6 +26,9 @@ git reset --hard FETCH_HEAD
 # reset local
 rm -Force -Recurse .git
 
+# all resets possible
+https://stackoverflow.com/a/42903805
+
 # -----------------------------------------------------------------------
 
 #0 > git clone existing project into project folder
@@ -46,9 +49,8 @@ git init
 git add *
 git commit -m "init project"
 
--- bitbuccket or git
-git remote add origin https://hotelubapp@bitbucket.org/hotelubapp/hotelub-php-ws.git
-git remote add origin https://github.com/pegaltier/web-style-guide.git
+-- bitbucket or git
+git remote add origin https/or/git/url
 git push origin master
 git push -u origin --all
 
