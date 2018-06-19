@@ -7,9 +7,10 @@ https://coin360.io/
 https://coinlib.io
 https://coincheckup.com
 https://coinmarketcap.com/
-
+https://coingolive.com/en/coin/change-history/
 
 ## NEWS
+https://coinmarketcal.com/
 https://www.trustnodes.com/
 https://itsblockchain.com
 https://cryptopanic.com/

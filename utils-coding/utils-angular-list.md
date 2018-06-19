@@ -456,6 +456,7 @@ https://github.com/ngrx/platform
 https://www.youtube.com/watch?v=1hlXlsaMeTs (simple login/logout)
 https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
 https://github.com/ngrx/platform/tree/master/example-app
+https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
 
 http://brianhudi.org/2017/11/15/adding-ngrx-to-existing-projects-is-easy
 https://medium.com/developers-writing/a-class-based-approach-to-writing-reducers-in-redux-ngrx-4a8ec5f97b1
