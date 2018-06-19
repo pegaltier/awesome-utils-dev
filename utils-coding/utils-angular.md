@@ -80,6 +80,7 @@ npm install -g @angular/cli
 
 
 UPGRADE NG VERSION
+https://update.angular.io
 ng update
 
 https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL

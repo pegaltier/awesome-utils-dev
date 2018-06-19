@@ -72,6 +72,7 @@ https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
 
 ## ANGULAR6
+https://formationjavascript.com/mettre-a-jour-vers-angular-6/
 https://dzone.com/articles/whats-new-in-angular-6
 https://www.telerik.com/blogs/whats-new-in-angular-6
 https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
@@ -98,7 +99,11 @@ http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-chang
 https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
 https://toddmotto.com/angular-dynamic-components-forms
  
-
+## ANGULAR PROXY
+https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md
+https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
+https://stackoverflow.com/questions/37172928/angular-cli-server-how-to-proxy-api-requests-to-another-server
+//"proxyConfig": "proxy2.conf.json"
 
 ## ANGULAR BLOG
 http://brianflove.com/
