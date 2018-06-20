@@ -1,6 +1,6 @@
 ## DEV
 https://www.blockcypher.com/
-
+https://coinlib.io/api/docs
 
 ## QUOTES
 https://coin360.io/
@@ -27,6 +27,7 @@ https://www.cryptoglobe.com
 https://github.com/coinpride/CryptoList
 
 ## TOOLS
+http://tokensmash.io
 https://coinlib.io/
 https://coinlib.io/global-crypto-charts
 
