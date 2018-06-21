@@ -46,8 +46,12 @@ STRATIS
 bet 5. prediction
 AUGUR
 
-bet 6. r&d (3xgen, 4xgen)
-...
+bet 6. dapps
+ETH, NEO, EOS, LSK, OMG, HPB
+
+
+bet7. r&d
+HOT
 
 
 ## CRYPTO 18 OTHERS

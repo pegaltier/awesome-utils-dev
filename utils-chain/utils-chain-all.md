@@ -7,6 +7,7 @@ https://coin360.io/
 https://coinlib.io
 https://coincheckup.com
 https://coinmarketcap.com/
+http://visualblockchain.org/
 https://coingolive.com/en/coin/change-history/
 https://sanbase-low.santiment.net/projects
 
