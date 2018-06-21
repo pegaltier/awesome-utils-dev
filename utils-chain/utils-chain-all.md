@@ -8,6 +8,8 @@ https://coinlib.io
 https://coincheckup.com
 https://coinmarketcap.com/
 https://coingolive.com/en/coin/change-history/
+https://sanbase-low.santiment.net/projects
+
 
 ## NEWS
 https://coinmarketcal.com/

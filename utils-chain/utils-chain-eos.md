@@ -29,9 +29,6 @@ https://eosnodes.privex.io
 https://eosportal.io
 https://eosnation.io/
 
-## EOS TOOLS
-https://www.eoscanada.com/en/tools
-https://toolkit.genereos.io/tools
 
 ## EOS DAPPS
 http://karmaapp.io
@@ -41,6 +38,9 @@ https://decentwitter.com
 ## EOS WALLET/VOTE/TOOLS 
 https://github.com/EOSIO/eos/wiki/CLI-Wallet
 https://github.com/eoscanada/eosc
+https://www.eoscanada.com/en/tools
+https://toolkit.genereos.io/tools (old)
+https://eostoolkit.io/home (new)
 https://eosmonitor.io/accounts
 https://eosrio.io/simpleos/
 https://meet.one/pomelo
