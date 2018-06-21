@@ -10,6 +10,8 @@ https://steemit.com/eos/@genereos/eos-multisig-tutorial
 
 ## EOS LIST
 https://www.reddit.com/r/eos/comments/8r7gnr/12_tools_to_get_started_with_eos/
+https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams
+
 
 ## EOS EXPLORER
 https://eosmonitor.io/

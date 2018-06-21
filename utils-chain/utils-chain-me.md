@@ -25,15 +25,9 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 ## CRYPTO 18 BET
 
-BAT         200		binance
-BNB         200		binance
-REP         200		Augur
-
-BTC         300		Bitcoin	
-STRAT       100     binance
+REP         100		Augur
 
 bet 1. interop
-
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
 WANCHAIN — https://wanchain.org/
 ICON — https://icon.foundation/
@@ -44,13 +38,17 @@ https://basicattentiontoken.org
 https://www.txtnet.io
 
 bet 3. exchange
+BINANCE
 
 bet 4. storage
 STRATIS 
 
 bet 5. prediction
+AUGUR
 
 bet 6. r&d (3xgen, 4xgen)
+...
+
 
 ## CRYPTO 18 OTHERS
 POLY — based on ETH    https://polymath.network
