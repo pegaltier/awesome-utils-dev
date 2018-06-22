@@ -2,13 +2,20 @@
 https://www.blockcypher.com/
 https://coinlib.io/api/docs
 
-## QUOTES
+## BUY
+https://uphold.com
+https://coinbase.com
+https://www.bitpanda.com
+
+## QUOTES/ACTIVITY
 https://coin360.io/
 https://coinlib.io
 https://coincheckup.com
 https://coinmarketcap.com/
 http://visualblockchain.org/
 https://coingolive.com/en/coin/change-history/
+http://demonocracy.info/
+http://blocktivity.info
 https://sanbase-low.santiment.net/projects
 
 
@@ -22,6 +29,7 @@ https://unblock.net/
 https://cryptodisrupted.com
 https://www.ouishare.net
 https://www.cryptoglobe.com
+https://globalcoinreport.com
 https://twitter.com/cryptomedics
 https://medium.com/@cryptomedics
 https://www.cryptoglobe.com
@@ -34,11 +42,19 @@ http://tokensmash.io
 https://coinlib.io/
 https://coinlib.io/global-crypto-charts
 
-## WALLET
+
+## WEB WALLET
+https://metamask.io
+
+## SOFTWARE WALLET
 https://www.exodus.io
 https://support.exodus.io
 https://medium.com/exodus-movement
 
+## HARDWARE WALLET
+https://trezor.io
+https://www.ledger.fr
+https://shiftcrypto.ch
 
 ## DAPPS ETH
 https://www.stateofthedapps.com/
