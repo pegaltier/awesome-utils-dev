@@ -39,9 +39,12 @@ AION — https://aion.network/
 bet 2. advertising
 https://basicattentiontoken.org
 https://www.adex.network
+https://adbank.network
 https://www.txtnet.io
 https://kindads.io
 
+https://coinmarketcap.com/fr/currencies/basic-attention-token/
+https://coinmarketcap.com/fr/currencies/adbank/
 
 bet 3. exchange
 BINANCE
