@@ -29,3 +29,6 @@ https://docs.mql4.com/runtime/event_fire#calculate
 
 ## forum
 https://www.andlil.com/forum/
+
+## idea
+http://raaaj.com/

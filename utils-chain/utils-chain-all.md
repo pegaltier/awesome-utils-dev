@@ -1,3 +1,7 @@
+## PEOPLE
+Anthony Diiorio
+Charles Hoskinson
+
 ## DEV
 https://www.blockcypher.com/
 https://coinlib.io/api/docs
@@ -20,6 +24,9 @@ https://sanbase-low.santiment.net/projects
 
 
 ## NEWS
+https://decentral.fr/
+http://decentral.tv
+
 https://coinmarketcal.com/
 https://www.trustnodes.com/
 https://itsblockchain.com
@@ -34,6 +41,10 @@ https://twitter.com/cryptomedics
 https://medium.com/@cryptomedics
 https://www.cryptoglobe.com
 
+## PROJECT
+https://decentralproject.org/
+
+
 ## LIST
 https://github.com/coinpride/CryptoList
 
@@ -47,6 +58,7 @@ https://coinlib.io/global-crypto-charts
 https://metamask.io
 
 ## SOFTWARE WALLET
+https://jaxx.io (jaxx liberty july)
 https://www.exodus.io
 https://support.exodus.io
 https://medium.com/exodus-movement
@@ -116,3 +128,6 @@ https://datum.org
 https://liquidity.network/
 https://celsius.network
 https://datum.org
+https://phaze.io
+https://metronome.io
+https://ducatur.com/

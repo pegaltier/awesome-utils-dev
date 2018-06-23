@@ -26,7 +26,7 @@ https://support.binance.com/hc/en-us/articles/360004753992
 ## CRYPTO 18 BET
 
 REP         100		Augur
-
+QTUM 
 bet 1. interop
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
 WANCHAIN — https://wanchain.org/
@@ -35,7 +35,10 @@ AION — https://aion.network/
 
 bet 2. advertising
 https://basicattentiontoken.org
+https://www.adex.network
 https://www.txtnet.io
+https://kindads.io
+
 
 bet 3. exchange
 BINANCE
