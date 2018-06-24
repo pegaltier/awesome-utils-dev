@@ -12,6 +12,7 @@ STRATEGY2: minimum time market buy stop
 STRATEGY3: UP = REPLACE BUY STOP + STOP LOSS
 
 http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/
+https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371
 https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15
 
 ## STRATEGY 

@@ -17,6 +17,7 @@ https://coinlib.io
 https://coincheckup.com
 https://coinmarketcap.com/
 http://visualblockchain.org/
+http://beta.adfunnel.tech
 https://coingolive.com/en/coin/change-history/
 http://demonocracy.info/
 http://blocktivity.info
@@ -131,3 +132,4 @@ https://datum.org
 https://phaze.io
 https://metronome.io
 https://ducatur.com/
+https://kinecosystem.org

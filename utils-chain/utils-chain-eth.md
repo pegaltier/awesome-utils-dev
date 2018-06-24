@@ -17,6 +17,7 @@ https://github.com/bkrem/awesome-solidity
 https://trivial.co
 https://etherscan.io
 https://ethplorer.io
+https://ethplorer.io/top
 https://www.etherchain.org
 https://ethgasstation.info
 

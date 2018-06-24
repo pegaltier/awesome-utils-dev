@@ -35,6 +35,9 @@ http://karmaapp.io
 https://www.txtnet.io
 https://decentwitter.com
 
+## EOS DAPPS DEV
+https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
+
 ## EOS WALLET/VOTE/TOOLS 
 https://github.com/EOSIO/eos/wiki/CLI-Wallet
 https://github.com/eoscanada/eosc

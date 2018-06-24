@@ -22,7 +22,7 @@ ICX (ICON) 20 june swap
 https://support.binance.com/hc/en-us/articles/360004753992
 
 ## MORE
-LTC, NEO, EOS
+ETH, LTC, NEO, EOS, ADA
 
 ## CRYPTO 18 BET
 
@@ -69,3 +69,7 @@ ENG — based on ETH     https://enigma.co
 HBP — 
 HOT — new paradigm     https://holochain.org	https://idex.market/eth/hot
 poa — idk              https://poa.network/	https://idex.market/eth/poa20
+
+
+user value
+https://earn.com/
