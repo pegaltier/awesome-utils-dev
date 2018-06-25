@@ -68,6 +68,9 @@ git reset --hard origin/<branch_name>
 git reset --hard 89b518e
 git push origin master -f
 
+## back to specific commit and keep history
+git revert --no-commit 0766c053..HEAD
+git commit
 # -----------------------------------------------------------------------
 
 

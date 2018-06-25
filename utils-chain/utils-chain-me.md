@@ -23,6 +23,7 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 ## MORE
 ETH, LTC, NEO, EOS, ADA
+HOT 0.05 ETH
 
 ## CRYPTO 18 BET
 
@@ -66,7 +67,7 @@ HOT
 ## CRYPTO 18 OTHERS
 POLY — based on ETH    https://polymath.network
 ENG — based on ETH     https://enigma.co
-HBP — 
+HBP —                   https://www.bibox.com/exchange?coinPair=HPB_BTC
 HOT — new paradigm     https://holochain.org	https://idex.market/eth/hot
 poa — idk              https://poa.network/	https://idex.market/eth/poa20
 

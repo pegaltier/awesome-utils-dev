@@ -60,12 +60,18 @@ https://github.com/hholzgra/mysql-udf-regexp/tree/master/regexp
 https://www.codeproject.com/Articles/1221422/Importance-of-Logging-in-MySQL
 
 
-ORM
+## ORM
 https://medium.com/@romaninsh/objectively-comparing-orm-dal-libraries-e4f095de80b5
 http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql
 
-## XAMPP INCLUDE html pages
+## PDF LIB
+http://www.fpdf.org (no dependencies but very old)
+https://github.com/mpdf/mpdf (no dependencies)
+https://github.com/tecnickcom/tcpdf (no dependencies)
+https://github.com/mikehaertl/phpwkhtmltopdf (slimPHP wrapper + require wkhtmltopdf)
 
+
+## XAMPP INCLUDE html pages
 c:/xampp/apache/conf/httpd.conf
 Search for:
 AddType text/html .shtml

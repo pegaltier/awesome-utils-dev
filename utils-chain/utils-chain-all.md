@@ -73,6 +73,7 @@ https://shiftcrypto.ch
 https://www.stateofthedapps.com/
 https://dappradar.com
 https://acrypto.io
+https://play.google.com/store/apps/details?id=org.toshi
 
 ## DAPS ALL
 
@@ -89,6 +90,7 @@ https://www.openbazaar.org/
 https://www.epnex.io
 https://switcheo.exchange
 https://idex.market
+https://www.airswap.io
 https://enclaves.io
 https://www.bancor.network
 https://radarrelay.com/
@@ -118,6 +120,9 @@ https://coinhive.com
 
 ## MINER SOFT
 https://www.youtube.com/watch?v=4Wt4eXv63Lk
+
+## PAYMENT SOLUTION
+https://commerce.coinbase.com
 
 
 ## OTHERS ALT COIN
