@@ -21,15 +21,10 @@ https://explorer.ont.io/
 ICX (ICON) 20 june swap
 https://support.binance.com/hc/en-us/articles/360004753992
 
-## MORE
-ETH, LTC, NEO, EOS, ADA
-HOT 0.05 ETH
 
 ## CRYPTO 18 BET
 
 REP         100		Augur
-QTUM 
-
 
 bet 1. interop
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd

@@ -9,6 +9,7 @@ https://market.decentraland.org/marketplace
 https://www.larvalabs.com/cryptopunks
 https://www.finder.com/china-crowns-ethereum-as-king-in-new-government-crypto-rankings
 https://medium.com/catalyst-crypto/crypto-algo-trading-with-catalyst-in-under-20-minutes-6869e6420e63
+https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f
 
 ## VIDEO 
 https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw
