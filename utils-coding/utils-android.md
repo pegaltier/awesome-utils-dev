@@ -20,15 +20,6 @@
 # GRADLE CLEAN CACHE
 C:\Users\pegal\.gradle\wrapper\dists
 
-
-
-# Android / IntelliJ TIPS (FOR WINDOWS)
-https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf
-
-
-push and commit  : CTRL + K + ALT + P / ENTER /  ALT P
-
-
  
 android dev : https://developer.android.com/index.html
 Download badge : https://play.google.com/intl/fr_fr/badges/
