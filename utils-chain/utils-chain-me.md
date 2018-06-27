@@ -24,6 +24,7 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 ## CRYPTO 18 BET
 
+KMD
 REP         100		Augur
 
 bet 1. interop

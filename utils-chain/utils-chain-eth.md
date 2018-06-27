@@ -29,3 +29,4 @@ https://www.dappradar.com
 
 ## ETH PROJECTS
 https://kintu.co/ethereum-projects/
+https://www.bethereum.com

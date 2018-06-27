@@ -138,3 +138,4 @@ https://phaze.io
 https://metronome.io
 https://ducatur.com/
 https://kinecosystem.org
+https://www.uport.me
