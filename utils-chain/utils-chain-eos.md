@@ -3,10 +3,11 @@
 ●▬ begin eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
 ## EOS START
-https://github.com/EOSIO/eos/wiki
 https://www.reddit.com/r/eos/
-https://github.com/EOSIO/eos/wiki/Accounts%20%26%20Permissions
+https://eosvenezuela.io/esc.html
+https://github.com/EOSIO/eos/wiki
 https://steemit.com/eos/@genereos/eos-multisig-tutorial
+https://github.com/EOSIO/eos/wiki/Accounts%20%26%20Permissions
 
 ## EOS LIST
 https://www.reddit.com/r/eos/comments/8r7gnr/12_tools_to_get_started_with_eos/
@@ -34,6 +35,7 @@ https://eosnation.io/
 http://karmaapp.io
 https://www.txtnet.io
 https://decentwitter.com
+http://eosproof.io
 
 ## EOS DAPPS DEV
 https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
