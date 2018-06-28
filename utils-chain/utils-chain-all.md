@@ -112,6 +112,11 @@ https://holochain.org
 https://www.rsk.co
 https://github.com/craigdrabiktxmq
 
+# VENTURE / VC / HEDGE FUND
+https://a16zcrypto.com
+https://blocktower.com
+http://polychain.capital
+https://www.panteracapital.com
 
 ## MINER ONLINE
 

@@ -26,6 +26,11 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 KMD
 REP         100		Augur
+HBP
+PPT
+STEEM
+
+Renforcer: BAT
 
 bet 1. interop
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd

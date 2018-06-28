@@ -25,6 +25,7 @@ https://ethgasstation.info
 https://mycrypto.com/
 
 ## ETH DAPPS
+https://ens.domains
 https://www.dappradar.com
 
 ## ETH PROJECTS
