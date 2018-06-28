@@ -65,6 +65,12 @@ https://medium.com/@romaninsh/objectively-comparing-orm-dal-libraries-e4f095de80
 http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql
 https://redbeanphp.com
 
+## PDO WRAPPER (ORM ALTERNATIVE)
+https://phpdelusions.net/pdo/pdo_wrapper
+https://github.com/GrumpyCrouton/GrumpyPDO
+https://github.com/paragonie/easydb
+https://github.com/daveismyname/pdo-wrapper
+
 ## PDF LIB
 http://www.fpdf.org (no dependencies but very old)
 https://github.com/mpdf/mpdf (no dependencies)
