@@ -36,12 +36,14 @@ http://karmaapp.io
 https://www.txtnet.io
 https://decentwitter.com
 http://eosproof.io
+https://www.zeos.co
 
 ## EOS DAPPS DEV
 https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
 
 ## EOS WALLET/VOTE/TOOLS 
 https://github.com/EOSIO/eos/wiki/CLI-Wallet
+https://nadejde.github.io/eos-token-sale/
 https://github.com/eoscanada/eosc
 https://www.eoscanada.com/en/tools
 https://toolkit.genereos.io/tools (old)

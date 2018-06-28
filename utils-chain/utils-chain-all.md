@@ -60,6 +60,7 @@ https://metamask.io
 
 ## SOFTWARE WALLET
 https://jaxx.io (jaxx liberty july)
+https://www.ethos.io
 https://www.exodus.io
 https://support.exodus.io
 https://medium.com/exodus-movement
@@ -128,7 +129,8 @@ https://www.youtube.com/watch?v=4Wt4eXv63Lk
 
 ## PAYMENT SOLUTION
 https://commerce.coinbase.com
-
+https://www.alfacoins.com
+https://www.coinpayments.net
 
 ## OTHERS ALT COIN
 
