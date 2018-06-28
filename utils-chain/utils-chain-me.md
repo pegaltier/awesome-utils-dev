@@ -28,9 +28,12 @@ KMD
 REP         100		Augur
 HBP
 PPT
+MITH    https://mith.io
 STEEM
 
 Renforcer: BAT
+
+----
 
 bet 1. interop
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
@@ -54,8 +57,8 @@ BINANCE
 bet 4. storage
 STRATIS 
 
-bet 5. prediction
-AUGUR
+bet 5. social++
+STEEM, MITH, REP
 
 bet 6. dapps
 ETH, NEO, EOS, LSK, OMG, HPB
