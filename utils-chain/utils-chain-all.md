@@ -103,7 +103,7 @@ https://0xproject.com/portal
 ## N EXCHANGE
 https://changelly.com
 https://www.kucoin.com
-
+https://cobinhood.com
 
 ## POST BITCOIN ETHEREUM / HASHGRAPH / HOLO / RSK / RADIX
 https://www.hederahashgraph.com
@@ -139,3 +139,4 @@ https://metronome.io
 https://ducatur.com/
 https://kinecosystem.org
 https://www.uport.me
+https://www.tokia.io
