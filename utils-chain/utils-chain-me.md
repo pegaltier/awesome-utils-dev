@@ -58,11 +58,10 @@ bet 4. storage
 STRATIS 
 
 bet 5. social++
-STEEM, MITH, REP
+STEEM, MITH, REP, KARMA
 
 bet 6. dapps
 ETH, NEO, EOS, LSK, OMG, HPB
-
 
 bet7. r&d
 HOT
