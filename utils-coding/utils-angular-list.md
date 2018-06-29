@@ -166,8 +166,13 @@ http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/
 https://blog.nrwl.io/using-webstorm-for-building-angular-apps-fe8b3ab92565#.xwiyt3668
 https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
 
-https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+BEST
 https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
+
+OTHER
+https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
 https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
 https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets

@@ -430,6 +430,8 @@ résumé
  
 testing 
  
+ https://angular.io/guide/testing
+ 
 cas sans asynchrone (promise/observable) 
  
 import { TestBed } from '@angular/core/testing'; 
