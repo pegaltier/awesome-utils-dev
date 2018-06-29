@@ -20,11 +20,16 @@ chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-deb
 CHROME CORS PLUGIN OU http://crossorigin.me/ : Allow-Control-Allow-Origin: * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi 
 CHROME POSTMAN PLUGIN 
 
-
+## ANGULAR RESUME  
+{{}} pour l’interpolation,  
+[] pour le binding de propriété (entrée) 
+() pour le binding d’événement (sortie) 
+# pour la déclaration de variable 
+* pour les directives structurelles 
 
 utility : http://stackoverflow.com/questions/32790311/how-to-structure-utility-class 
 
-HTTP POST PARAMS : 
+## HTTP POST PARAMS : 
 https://forum.ionicframework.com/t/http-post-not-sending-data/47452/6 
 http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-with-parameters-to-php/ 
 https://auth0.com/blog/angular-2-series-part-3-using-http/ 
@@ -421,17 +426,12 @@ ajouter un fichier css ou lib js :
 - ajouter dans angular-cli.json > balises styles + scripts 
 
  
-résumé  
-{{}} pour l’interpolation,  
-[] pour le binding de propriété (entrée) 
-() pour le binding d’événement (sortie) 
-# pour la déclaration de variable 
-* pour les directives structurelles 
+
  
-testing 
+## ANGULAR TESTING 
  
  https://angular.io/guide/testing
- 
+
 cas sans asynchrone (promise/observable) 
  
 import { TestBed } from '@angular/core/testing'; 
