@@ -58,29 +58,21 @@ git push -u origin --all
 git add -u
 git commit -m "Deleted files manually"
 
-#4 > change username
-git config user.email
 
-# clear local commit and reinit from remote server
-git reset --hard origin/<branch_name>
-
-## back to specific commit and erase 
-git reset --hard 89b518e
-git push origin master -f
-
-## back to specific commit and keep history
-git revert --no-commit 0766c053..HEAD
-git commit
 # -----------------------------------------------------------------------
 
 
 switch credentiel method (token)
+
+git config user.email
 
 git config --global credential.helper wincred
 git config --global credential.helper manager
 
 git remote rm origin
 git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
+
+
 
 
 
