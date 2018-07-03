@@ -170,6 +170,7 @@ grid : https://24ways.org/2017/design-systems-and-css-grid
 grid : http://www.creativebloq.com/features/css-grid-layout-secrets-revealed
 grid : https://medium.freecodecamp.org/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1
 buttons : http://blog.dynamicdrive.com/popular-css-button-hover-effects-explained
+flexbox: https://flexboxfroggy.com/#fr
 flexbox : http://www.flexboxpatterns.com/home
 flexbox : https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.nkwq5jn7k
 flexbox : https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/

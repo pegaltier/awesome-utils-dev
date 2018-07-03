@@ -22,6 +22,7 @@ https://eosflare.io/
 https://eosscan.io/
 http://bios.eostracker.io/
 http://eosnetworkmonitor.io
+https://eos.feexplorer.io
 
 ## EOS TRACK
 http://dev.cryptolions.io/mainnet/

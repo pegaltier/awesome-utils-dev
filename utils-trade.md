@@ -21,7 +21,7 @@ https://www.myfxbook.com/members/antojos
 https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/
 
 ## metatrader
-
+https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
 https://book.mql4.com/programm/samples
 https://www.trading-automatique.fr/mql4/
 

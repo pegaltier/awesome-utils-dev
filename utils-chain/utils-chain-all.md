@@ -117,6 +117,7 @@ https://github.com/craigdrabiktxmq
 https://a16zcrypto.com
 https://blocktower.com
 http://polychain.capital
+https://custody.coinbase.com
 https://www.panteracapital.com
 
 ## MINER ONLINE
