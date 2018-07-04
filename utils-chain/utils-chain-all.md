@@ -120,6 +120,9 @@ http://polychain.capital
 https://custody.coinbase.com
 https://www.panteracapital.com
 
+# TRACKER / INDEX / ETF
+https://crypto20.com/en/
+
 ## MINER ONLINE
 
 https://mineralt.io
@@ -148,3 +151,7 @@ https://ducatur.com/
 https://kinecosystem.org
 https://www.uport.me
 https://www.tokia.io
+
+
+## OTHERS TOOLS
+https://cryptoinfluencers.io
