@@ -41,6 +41,7 @@ https://globalcoinreport.com
 https://twitter.com/cryptomedics
 https://medium.com/@cryptomedics
 https://www.cryptoglobe.com
+https://www.tokendaily.co
 
 ## PROJECT
 https://decentralproject.org/
@@ -70,7 +71,8 @@ https://trezor.io
 https://www.ledger.fr
 https://shiftcrypto.ch
 
-## DAPPS ETH
+## DAPPS 
+http://www.dappcapitulation.com
 https://www.stateofthedapps.com/
 https://dappradar.com
 https://acrypto.io
@@ -105,6 +107,12 @@ https://0xproject.com/portal
 https://changelly.com
 https://www.kucoin.com
 https://cobinhood.com
+https://www.bitpanda.com
+https://www.coinbase.com
+
+## MULTI EXCHANGE
+https://www.coinigy.com
+
 
 ## POST BITCOIN ETHEREUM / HASHGRAPH / HOLO / RSK / RADIX
 https://www.hederahashgraph.com
