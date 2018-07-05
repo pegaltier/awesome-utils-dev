@@ -6,10 +6,6 @@ Charles Hoskinson
 https://www.blockcypher.com/
 https://coinlib.io/api/docs
 
-## BUY
-https://uphold.com
-https://coinbase.com
-https://www.bitpanda.com
 
 ## QUOTES/ACTIVITY
 https://coin360.io/
@@ -21,13 +17,13 @@ http://beta.adfunnel.tech
 https://coingolive.com/en/coin/change-history/
 http://demonocracy.info/
 http://blocktivity.info
+https://www.cryptomiso.com/
 https://sanbase-low.santiment.net/projects
 
 
 ## NEWS
 https://decentral.fr/
 http://decentral.tv
-
 https://coinmarketcal.com/
 https://www.trustnodes.com/
 https://itsblockchain.com
@@ -102,13 +98,22 @@ https://weth.io
 https://0xtracker.com
 https://0xproject.com/portal
 
-
 ## N EXCHANGE
+https://uphold.com
+https://www.kraken.com
+https://www.binance.com
+https://www.bitpanda.com
+https://www.coinbase.com
+
 https://changelly.com
 https://www.kucoin.com
 https://cobinhood.com
-https://www.bitpanda.com
-https://www.coinbase.com
+https://www.cryptopia.co.nz
+
+## P2P EXCHANGE
+https://hodlhodl.com
+https://localbitcoins.com
+https://localethereum.com
 
 ## MULTI EXCHANGE
 https://www.coinigy.com
@@ -159,7 +164,15 @@ https://ducatur.com/
 https://kinecosystem.org
 https://www.uport.me
 https://www.tokia.io
-
+https://www.presearch.io
 
 ## OTHERS TOOLS
 https://cryptoinfluencers.io
+
+
+## FORUM
+https://cryptofr.com
+https://bitcointalk.org
+http://www.cryptodecodeur.com
+https://www.cryptocompare.com/forum/#/coin
+https://www.reddit.com/r/CryptoCurrency/
