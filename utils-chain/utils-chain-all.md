@@ -87,6 +87,7 @@ https://www.openbazaar.org/
 
 
 ## D EXCHANGE
+https://www.stellarx.com/
 https://www.epnex.io
 https://switcheo.exchange
 https://idex.market
@@ -175,7 +176,6 @@ https://crypto.jobs
 https://angel.co/jobs
 https://cryptojobslist.com/
 https://cryptocurrencyjobs.co
-
 
 http://bitgigs.com
 https://coinality.com

@@ -1,5 +1,6 @@
 
 ## ARTICLES
+https://medium.com/stellarxhq/announcing-stellarx-7dd62c168c2f
 https://medium.com/coinmonks/the-thing-most-dapps-are-getting-wrong-b92913fd64db
 https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d
 https://www.journaldunet.com/solutions/cloud-computing/1209691-ces-startups-qui-veulent-uberiser-dropbox-grace-a-la-blockchain/
