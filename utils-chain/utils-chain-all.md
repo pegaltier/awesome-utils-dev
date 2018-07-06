@@ -38,6 +38,7 @@ https://twitter.com/cryptomedics
 https://medium.com/@cryptomedics
 https://www.cryptoglobe.com
 https://www.tokendaily.co
+https://www.investinblockchain.com
 
 ## PROJECT
 https://decentralproject.org/
@@ -169,6 +170,15 @@ https://www.presearch.io
 ## OTHERS TOOLS
 https://cryptoinfluencers.io
 
+## JOB / WORK / TASK / FOR COINS
+https://crypto.jobs
+https://angel.co/jobs
+https://cryptojobslist.com/
+https://cryptocurrencyjobs.co
+
+
+http://bitgigs.com
+https://coinality.com
 
 ## FORUM
 https://cryptofr.com

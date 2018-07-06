@@ -23,6 +23,8 @@ https://support.binance.com/hc/en-us/articles/360004753992
 
 
 ## CRYPTO 18 BET
+https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
+https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 KMD
 REP         100		Augur

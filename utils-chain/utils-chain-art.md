@@ -11,6 +11,10 @@ https://www.finder.com/china-crowns-ethereum-as-king-in-new-government-crypto-ra
 https://medium.com/catalyst-crypto/crypto-algo-trading-with-catalyst-in-under-20-minutes-6869e6420e63
 https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f
 https://qz.com/1315302/who-would-win-the-world-cup-of-blockchain/ (cities)
+
+https://www.investinblockchain.com/why-get-paid-crypto/
+https://medium.com/@Melt_Dem/so-you-want-to-work-in-crypto-57961ca074c4
+
 ## VIDEO 
 https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw
 
