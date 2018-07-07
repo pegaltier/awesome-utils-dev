@@ -15,6 +15,7 @@ https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to
 
 
 ## EOS EXPLORER
+https://eosweb.net
 https://eosmonitor.io/
 https://eosquery.com
 https://eospark.com/
@@ -63,6 +64,8 @@ https://github.com/greymass/eos-voter
 https://github.com/eosrio/simpleos
 https://github.com/eluzgin/eos-wallet-keychain
 https://github.com/EOSEssentials/Scatter
+http://eosinfopedia.io/
+
 
 ## EOS NAME SERVER
 https://toolkit.genereos.io/names
