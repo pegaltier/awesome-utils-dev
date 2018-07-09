@@ -30,12 +30,10 @@ KMD
 REP         100		Augur
 HBP
 PPT
+POLY
 MITH    https://mith.io
 STEEM
 
-Renforcer: BAT
-
-----
 
 bet 1. interop
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
@@ -45,10 +43,13 @@ AION — https://aion.network/
 
 bet 2. advertising
 https://basicattentiontoken.org
+https://www.varanida.com
 https://www.adex.network
 https://adbank.network
 https://www.txtnet.io
+https://www.ubex.com
 https://kindads.io
+https://dad.one
 
 https://coinmarketcap.com/fr/currencies/basic-attention-token/
 https://coinmarketcap.com/fr/currencies/adbank/
@@ -66,7 +67,7 @@ bet 6. dapps
 ETH, NEO, EOS, LSK, OMG, HPB
 
 bet7. r&d
-HOT
+HOT, POLY, HBP
 
 
 ## CRYPTO 18 OTHERS

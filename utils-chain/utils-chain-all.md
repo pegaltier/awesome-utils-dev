@@ -87,7 +87,8 @@ https://www.openbazaar.org/
 
 
 ## D EXCHANGE
-https://www.stellarx.com/
+https://www.stellarx.com/ (SDEX?)
+https://interstellar.exchange
 https://www.epnex.io
 https://switcheo.exchange
 https://idex.market
