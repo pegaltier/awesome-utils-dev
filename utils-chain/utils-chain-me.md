@@ -12,6 +12,9 @@ stategy :
 1. test transfer binance sur mon wallet en petite quantité, si ok alors refaire le transfert de la totalité
 0. prevoir de transferer uniquement une unité entiere pas de virgule... garder les virgules sur binance
 2. effectuer la procedure de migration (envoyer sur l'adresse de swap)
+
+https://medium.com/ontologynetwork/mainnet-ont-token-swap-notice-关于ont主网切换的说明-4cd38c2fc55b
+
 https://support.binance.com/hc/en-us/articles/360004692771
 https://medium.com/ontologynetwork/mainnet-ont-token-swap-notice-关于ont主网切换的说明-4cd38c2fc55b
 https://neonewstoday.com/general/ontology-token-swap-oag-advisers-and-triones-candidates/
@@ -28,7 +31,7 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 KMD
 REP         100		Augur
-HBP
+HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
 PPT
 POLY
 MITH    https://mith.io
@@ -49,6 +52,7 @@ https://adbank.network
 https://www.txtnet.io
 https://www.ubex.com
 https://kindads.io
+https://vidy.com
 https://dad.one
 
 https://coinmarketcap.com/fr/currencies/basic-attention-token/

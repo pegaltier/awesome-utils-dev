@@ -15,7 +15,7 @@ REACT UTILS
 
 ## STYLE GUIDE
 utils : https://github.com/airbnb/javascript/tree/master/react
-
+https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets&WT.mc_id=simplereactsnippets-twitter-buhollan
 
 ## HTTP PROMISE 
 libs : http://andrewhfarmer.com/ajax-libraries/

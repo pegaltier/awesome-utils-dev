@@ -121,6 +121,8 @@ https://localethereum.com
 ## MULTI EXCHANGE
 https://www.coinigy.com
 
+## AIRDROP
+https://airdropalert.com
 
 ## POST BITCOIN ETHEREUM / HASHGRAPH / HOLO / RSK / RADIX
 https://www.hederahashgraph.com
@@ -133,6 +135,7 @@ https://github.com/craigdrabiktxmq
 https://a16zcrypto.com
 https://blocktower.com
 http://polychain.capital
+http://blockchain.capital
 https://custody.coinbase.com
 https://www.panteracapital.com
 
