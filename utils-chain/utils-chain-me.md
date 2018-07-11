@@ -29,6 +29,8 @@ https://support.binance.com/hc/en-us/articles/360004753992
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
+buy more: stellar,
+
 KMD
 REP         100		Augur
 HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
@@ -49,8 +51,11 @@ https://basicattentiontoken.org
 https://www.varanida.com
 https://www.adex.network
 https://adbank.network
+https://www.nyiax.com
 https://www.txtnet.io
+https://www.xchng.io
 https://www.ubex.com
+https://www.metax.io
 https://kindads.io
 https://vidy.com
 https://dad.one
@@ -67,6 +72,7 @@ STRATIS
 bet 5. social++
 STEEM, MITH, REP, KARMA
 
+ 
 bet 6. dapps
 ETH, NEO, EOS, LSK, OMG, HPB
 
