@@ -132,12 +132,21 @@ https://www.rsk.co
 https://github.com/craigdrabiktxmq
 
 # VENTURE / VC / HEDGE FUND
+http://dcg.co
+http://lsvp.com
+http://www.draper.vc
+https://www.boost.vc
+http://www.ceyuan.com
+http://www.nodecap.com
 https://a16zcrypto.com
 https://blocktower.com
 http://polychain.capital
+http://en.idgcapital.com
 http://blockchain.capital
 https://custody.coinbase.com
 https://www.panteracapital.com
+
+https://bravenewcoin.com/news/in-profile-the-top-10-vc-firms-investing-in-blockchain/
 
 # TRACKER / INDEX / ETF
 https://crypto20.com/en/

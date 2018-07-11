@@ -122,9 +122,12 @@ https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-pro
 https://blog.pusher.com/make-angular-4-app-seo-friendly
 https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
 
-## ES2015/ES6 + TYPESCRIPT COURSES BEST PRACTICES
-https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/?platform=hootsuite
+## BEST PRACTICES / AVOID COMMON BUGS
+https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
+https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/
 https://codeburst.io/angular-best-practices-4bed7ae1d0b7
+
+## ES2015/ES6 + TYPESCRIPT COURSES 
 https://hughfdjackson.com/javascript/arrow-function-semantics/  
 http://babeljs.io/docs/learn-es2015/  
 http://ponyfoo.com/  

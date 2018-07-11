@@ -117,6 +117,7 @@ proxy : https://images.weserv.nl/
 background : https://css-tricks.com/the-blur-up-technique-for-loading-background-images
 performance : http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images
 responsive : https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.f0zcv3ttb
+responsive cloud : https://ponyfoo.com/articles/make-all-images-on-your-website-responsive-in-3-easy-steps
 image lazy : http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
 alt image : https://bitsofco.de/alternative-text-and-images
 optimize gif https://bitsofco.de/optimising-gifs/

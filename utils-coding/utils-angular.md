@@ -114,176 +114,8 @@ ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
 
 
+## RXJS / OBSERVABLE / REACTIVE
 
-########################################################################################################################
-########################################################################################################################
-
-
-## NATIVESCRIPT : 
-set ANDROID_HOME=C:\Android\sdk 
-set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools 
- 
-http://docs.nativescript.org/angular/start/quick-setup 
-https://docs.nativescript.org/start/ns-setup-win 
-http://docs.nativescript.org/angular/tutorial/ng-chapter-1 
-http://docs.nativescript.org/angular/tutorial/ng-chapter-2 
-https://docs.nativescript.org/angular/code-samples/overview.html (component) 
-https://github.com/NativeScript/nativescript-sdk-examples-ng
-tns create StockTicker --ng (--ng tag to create an Angular 2 project)
-cd StockTicker
-tns platform add ios
-tns platform add android
-tns run android 
-tns livesync android --watch 
- 
-native + webapp : 
-https://github.com/Appverse/PANG-Polymorphic-ANGular-seed 
-http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-codebase/ 
-http://www.blog.bdauria.com/?p=981		superpowered c++ nativescript
-########################################################################################################################
-########################################################################################################################
-
-## IONIC2 
-https://apps.ionic.io/apps 
- 
-http://ionicframework.com/docs/v2/getting-started/installation/ 
-
-icons : https://ionicframework.com/docs/v2/ionicons/ 
-push1 : https://docs.ionic.io/services/push/ 
-push1 : https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59#.l7dh5evsv 
-push2 : https://documentation.onesignal.com/docs/ionic-sdk-setup
-push2 : https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
-push2 : https://ionicframework.com/docs/v2/native/onesignal/
-push2 : http://www.codingandclimbing.co.uk/blog/ionic-2-setup-push-notifications-for-android-with-onesignal-17
-push2 : https://documentation.onesignal.com/docs/customize-notification-icons
-theme : http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/ 
-component : http://ionicframework.com/docs/v2/components/#overview 
-sample : https://github.com/driftyco/ionic-conference-app
-events : https://github.com/driftyco/ionic/blob/master/demos/src/events/app.component.ts
-events : http://ionicframework.com/docs/v2/api/util/Events/
-parent/child : http://stackoverflow.com/questions/35832407/ionic-2-modify-a-variable-in-app-js-from-child-page
-lifecycle : https://saniyusuf.com/ionic-by-component-page-lifecycle/
-lifecycle : http://blog.ionic.io/navigating-lifecycle-events/
-
-init project :  
- 
-ionic start cutePuppyPics --v2					> start new project   
-cd cutePuppyPics											 
-ionic serve										> test web project 
-ionic serve --lab								> test web and simulate android/ios mobile
-ionic platform add android						> add android platform to project 
-ionic platform add browser						> add browser platform to project 
-ionic info 
-
-ionic run android  								> run project on android device 
-ionic run android --prod 						> run project on android device + minify 
-ionic run android --prod --release				> run project on android device + minify + certificate
-ionic build browser --prod
-https://ionicframework.com/docs/intro/deploying/
-
-
- 
- 
-ionic emulate ios --livereload --consolelogs --serverlogs
-ionic emulate android --livereload --consolelogs --serverlogs
- 
-ionic run ios -l -c -s
-ionic run android -l -c -s
-ionic run android -c
-
- 
-generate elements 
-ionic g page login 
-ionic g provider MyData 
-ionic g directive ElasticHeader
-ionic g directive textHolderPipe
-
-
-
-
-switch from computer
-ionic state save
-ionic state restore
-
-ionic icons & splash screens
-http://ionicframework.com/docs/cli/icon-splashscreen.html
-
-
-
-
-
-ionic view (share with others using ionic view app)
-cmd: ionic upload
-https://apps.ionic.io/apps
-http://view.ionic.io/
-http://ionicframework.com/docs/cli/uploading_viewing.html
-https://play.google.com/store/apps/details?id=com.ionic.viewapp
-
-update app without store
-https://docs.ionic.io/services/deploy/
-
-ionic package (generate apk or ipa)
-http://docs.ionic.io/services/package/
-https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac
-
-publish on store
-https://ionicframework.com/docs/guide/publishing.html
-http://ionicframework.com/docs/v1/guide/publishing.html (old)
-https://cordova.apache.org/docs/en/latest/guide/platforms/android/#signing-an-app
-
-create PWA
-https://forum.ionicframework.com/t/building-for-browsers-pwa/72689
-
-creator
-https://creator.ionic.io/app/login
-
-UPDATE IONIC VERSION
-update 3.3.0 https://github.com/ionic-team/ionic/releases/tag/v3.3.0
-update version : http://blog.ionic.io/ionic-2-rc-weekend-updates/
-delete node modules and update new version of ionic-angular inside package.json 
-rmdir /s/q node_modules
-npm install + correct error (angular version)
-First, update the version of @ionic/app-scripts in your Ionic 2 app with
-npm install @ionic/app-scripts@latest --save-dev
-
-http://blog.ionic.io/announcing-ionic-cli-v3
-Second, update your Ionic CLI using
-npm install -g ionic
-
-
-########################################################################################################################
-########################################################################################################################
- 
-  
-## syntax
-typescript types		https://www.typescriptlang.org/docs/handbook/basic-types.html 
-typescript tuto 		http://www.typescriptlang.org/docs/tutorial.html interface vs classe 
-typescript interface 	https://www.typescriptlang.org/docs/handbook/interfaces.html 
-typescript classe 		http://www.typescriptlang.org/docs/handbook/classes.html 
-typescript .d.t			https://github.com/DefinitelyTyped/DefinitelyTyped 		/// <reference path="angular.d.ts" /> 
-typescript arrays		http://www.codecompiled.com/arrays-in-typescript/ 
- 
-typescript interface 	interface HasScore {   score: number; }     function addPointsToScore(player: HasScore, points: number): void {       player.score += points;     } 
-typescript interface	interface CanRun {   run(meters: number): void; }     function startRunning(pony: CanRun): void {       pony.run(10);     } 
-typescript classe		class NamedPony {   constructor(public name: string, private speed: number) {   } 
- 
-typescript optionnal 	public votes?: number; 		+ this.votes = votes || 0; 
-typescript types 		const poneyNumber: number = 0; 	const poneyName: string = 'Rainbow Dash';  
-						const pony: Pony = new Pony(); const ponies: Array<Pony> = [new Pony()]; 
-typescript type retour  function startRace(race: Race): Race {  
-typescript enum			enum RaceStatus {Ready, Started, Done}     const race = new Race();     race.status = RaceStatus.Ready; 
-		 
-es6 features			http://es6-features.org/#Constants		 
-es6 collections 		const users = new Map(); OU const users = new Set(); 
-es6 iterer				for (let user of users) {   console.log(user.name); } 
-es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`; 
-
- 
- 
-classe ou interface -> 
-classe si besoin de creer des function sur le pojo ou bien interface suffit 
-si classe alors utiliser mecanisme fromJSON (ng-book2 screencast final-app voir code source) 
- 
 rxJs  https://xgrommx.github.io/rx-book/index.html + http://rxmarbles.com/ 
 le listener = un observer 
 le flux = un observable (collection asynchrone dont les événements arrivent au cours du temps) 
@@ -425,8 +257,15 @@ ajouter un fichier css ou lib js :
 - installer via npm --save 
 - ajouter dans angular-cli.json > balises styles + scripts 
 
- 
+ ## ANGULAR DOM
 
+https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
+
+private _renderer2:Renderer2
+
+avoidAngularBugs(){
+     this._renderer2.setElementProperty(this._elementRef,'add-property-here',true);
+   }
  
 ## ANGULAR TESTING 
  
