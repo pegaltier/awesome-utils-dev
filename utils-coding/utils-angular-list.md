@@ -127,18 +127,8 @@ https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
 https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/
 https://codeburst.io/angular-best-practices-4bed7ae1d0b7
 
-## ES2015/ES6 + TYPESCRIPT COURSES 
-https://hughfdjackson.com/javascript/arrow-function-semantics/  
-http://babeljs.io/docs/learn-es2015/  
-http://ponyfoo.com/  
-http://www.typescriptlang.org/Playground  
-http://tarh.developpez.com/articles/typescript/pourquoi-utiliser-typescript/  
-http://kangax.github.io/compat-table/es6/  
-http://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151  
-https://github.com/lukehoban/es6features  
-http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
-https://www.sitepen.com/blog/2016/09/01/typescript-2-0-awesomeness/
-https://www.bennadel.com/blog/3217-defining-function-and-callback-interfaces-in-typescript.htm
+## ANGULAR ELEMENTS
+https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 
 ## ANGULAR OTHERS LIST
 https://github.com/jmcunningham/AngularJS2-Learning  
@@ -508,6 +498,7 @@ http://blog.rangle.io/angular-2-change-detection/
 http://juristr.com/blog/2016/04/angular2-change-detection/  
 
 ## ANGULAR GENERATE SCHEMATICS GENERATOR
+https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
 https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
 
 ## ANGULAR DEPENDENCY INJECTION

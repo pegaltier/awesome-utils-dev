@@ -7,14 +7,25 @@ si classe alors utiliser mecanisme fromJSON (ng-book2 screencast final-app voir 
 https://www.typescriptlang.org/docs/handbook/classes.html
 
 ## GENERIC SERVICE
-
 https://stackoverflow.com/questions/44129817/typescript-generic-service
-
 https://stackoverflow.com/questions/28273714/typescript-generics-extending-class-and-interface
 https://codereview.stackexchange.com/questions/164995/best-solution-for-returning-results-from-a-generic-typescript-service
 
-## SYNTAX
+## ES2015/ES6 + TYPESCRIPT COURSES 
+https://hughfdjackson.com/javascript/arrow-function-semantics/  
+http://babeljs.io/docs/learn-es2015/  
+http://ponyfoo.com/  
+http://www.typescriptlang.org/Playground  
+http://tarh.developpez.com/articles/typescript/pourquoi-utiliser-typescript/  
+http://kangax.github.io/compat-table/es6/  
+http://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151  
+https://github.com/lukehoban/es6features  
+http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
+https://www.sitepen.com/blog/2016/09/01/typescript-2-0-awesomeness/
+https://www.bennadel.com/blog/3217-defining-function-and-callback-interfaces-in-typescript.htm
 
+
+## SYNTAX
 typescript types		https://www.typescriptlang.org/docs/handbook/basic-types.html 
 typescript tuto 		http://www.typescriptlang.org/docs/tutorial.html interface vs classe 
 typescript interface 	https://www.typescriptlang.org/docs/handbook/interfaces.html 
