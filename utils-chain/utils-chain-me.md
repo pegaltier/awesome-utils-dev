@@ -57,6 +57,7 @@ https://www.xchng.io
 https://www.ubex.com
 https://www.metax.io
 https://kindads.io
+https://adhive.tv                           https://coincheckup.com/coins/adhive/
 https://vidy.com
 https://dad.one
 

@@ -26,23 +26,33 @@ https://ahrefs.com/blog/how-to-drive-traffic-to-your-website/
 https://moz.com/search-ranking-factors
 
 
-## AUDIT
-https://rankgen.com/
-https://www.drujokweb.fr/blog/audit-seo/
-au début de chaque nouvelle campagne
-Tous les trimestres
+## SEO AUDIT
 
-### SEO TOOLS
-https://curatedseotools.com/
+WHEN: at the beginning of each new campaign or each trimester
+
+https://rankgen.com/
 http://seositecheckup.com/
 https://fr.majestic.com/
-https://www.youtube.com/watch?v=lyiikzjg9a0 SEO 2017
+https://ranxplorer.com
+https://myrankingmetrics.com/
+https://www.thomascubel.com/audit-seo-gratuit/
+https://www.drujokweb.fr/blog/audit-seo/
+https://github.com/ovh/summit2016-RankingPredict
+
+## SEO LIST
+https://curatedseotools.com/
+https://www.youtube.com/watch?v=lyiikzjg9a0
+
+
+## SEO KEYWORDS / LSI TOOLS
 
 seo phase de rédaction :
 https://answerthepublic.com
 https://neilpatel.com/ubersuggest/
 https://keywordtool.io
 http://www.seo-hero.tech
+https://app.kparser.com
+https://lsigraph.com
 
 seo spinning :
 http://seo-quartz.fr
@@ -56,7 +66,7 @@ https://lsigraph.com
 
 
 
-# CONCURRENCE
+## CONCURRENCE
 https://www.changedetection.com/
 
 
@@ -80,13 +90,6 @@ https://support.google.com/webmasters/answer/2620865?hl=fr
 https://support.google.com/webmasters/answer/189077?hl=fr  hreflang		> 
 
 
-## KEYWORDS / LSI
-https://app.kparser.com
-https://keywordtool.io/
-https://answerthepublic.com
-https://lsigraph.com/
-
-
 # COCON SEMANTIQUE
 
 voir vidéo abondance cocon sémantique (voir les 5 videos) : 
@@ -106,7 +109,7 @@ https://referencement-pme.ca/texte-web-structurer-seo/
 https://www.youtube.com/watch?v=EceSgY9bDnc
 https://www.drujokweb.fr/blog/technique-de-la-fourmiliere/
 
-## TITLE + DESCRIPTION 
+## ON PAGE BASICS : TITLE + DESCRIPTION 
 
 voir sur tools le CTR, il doit être supérieur a x% suivant la position actuelle, sinon : optimisation
 https://www.seoquantum.com/billet/optimisation-balise-title

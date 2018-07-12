@@ -10,3 +10,6 @@ https://pdflayer.com
 https://htmlpdfapi.com
 https://www.html2pdfrocket.com
 https://restpack.io/html2pdf
+
+## LIST
+https://www.humanapi.co
