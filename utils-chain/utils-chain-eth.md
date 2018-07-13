@@ -21,6 +21,9 @@ https://ethplorer.io/top
 https://www.etherchain.org
 https://ethgasstation.info
 
+## ETH NEWS
+https://ethereumworldnews.com
+
 ## ETH WALLET
 https://mycrypto.com/
 
