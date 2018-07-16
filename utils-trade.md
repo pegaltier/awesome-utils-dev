@@ -33,3 +33,7 @@ https://www.andlil.com/forum/
 
 ## idea
 http://raaaj.com/
+
+# algo trader
+https://garybasin.com/
+https://mechanicalforex.com/about

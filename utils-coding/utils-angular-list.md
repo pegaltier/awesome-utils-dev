@@ -391,9 +391,12 @@ https://auth0.com/authenticate/angular2/facebook
 https://github.com/firebase/php-jwt  
 https://stormpath.com/blog/jjwt-how-it-works-why/  
 
+## ANGULAR STATE MANAGEMENT
+http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
+https://github.com/reclarejs/reclare
 
 
-## ANGULAR OBSERVABLE/REACTIVE/STATE/RXJS 
+## ANGULAR OBSERVABLE/REACTIVE/RXJS 
 https://yakovfain.com/2018/01/03/wrapping-an-rxjs-observable-stream-into-an-angular-service/
 https://blog.craftlab.hu/clarifying-observables-b7b3ed7e0a5f
 https://www.youtube.com/watch?v=65Us8NwmYf4 Top 7 RxJS Concepts for Angular Developers
@@ -408,7 +411,6 @@ https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
 https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html
 https://angular-2-training-book.rangle.io/handout/observables/observables_array_operations.html
 http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
-http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
 http://espeo.eu/blog/angular-2-reactive-programming-rxjs/  
 https://jaxenter.com/reactive-programming-http-and-angular-2-124560.html  
 https://lukajcb.github.io/blog/angular2/2016/04/02/frp-in-angular-2.html  
@@ -583,6 +585,7 @@ https://medium.com/square-corner-blog/content-security-policy-for-single-page-we
 http://www.gistia.com/talk-backend-services-angular-2s-http-client
 
 ## ANGULAR SEO META UNIVERSAL
+https://snipcart.com/blog/angular-seo-universal-server-side-rendering
 https://davidea.st/articles/the-beginners-guide-to-angular-universal
 http://blog.devcross.net/2016/03/20/angular-2-seo/  
 https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
@@ -801,6 +804,7 @@ https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595
 http://www.stridenyc.com/blog/coming-to-react-from-angular/  
 http://blog.scalac.io/2016/02/16/react-vs-angular-2.html  
 https://tech.evojam.com/2016/03/31/react-vs-angular2-the-fight-rages-on/  
+https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
 
 ## ANGULAR PAYMENT
 https://alligator.io/angular/stripe-elements

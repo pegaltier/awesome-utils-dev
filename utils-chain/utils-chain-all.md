@@ -1,6 +1,9 @@
 ## PEOPLE
 Anthony Diiorio
 Charles Hoskinson
+Balaji S. Srinivasan
+Gary Basin
+
 
 ## DEV
 https://www.blockcypher.com/
