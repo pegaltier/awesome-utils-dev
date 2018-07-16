@@ -88,10 +88,31 @@ https://cointext.io
 http://joystream.co
 https://www.openbazaar.org/
 
+## DERIVATIVE / CFD
+https://www.bitmex.com
+https://leverj.io
+https://dharma.io
+https://www.emx.com
+https://dydx.exchange
+https://compound.finance
+https://marketprotocol.io
+
+## LENDING
+http://www.saltlending.com
+https://www.unchained-capital.com
+https://dai.makerdao.com
+https://ethlend.io
+https://dharma.io
+https://lendroid.com
+
+## PROTOCAL
+https://0xtracker.com
+https://0xproject.com/portal
 
 ## D EXCHANGE
 https://www.stellarx.com/ (SDEX?)
 https://interstellar.exchange
+https://bitshares.org/
 https://www.epnex.io
 https://switcheo.exchange
 https://idex.market
@@ -101,8 +122,7 @@ https://www.bancor.network
 https://radarrelay.com/
 https://ddex.io
 https://weth.io
-https://0xtracker.com
-https://0xproject.com/portal
+https://mobidex.io
 
 ## N EXCHANGE
 https://uphold.com

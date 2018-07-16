@@ -1,4 +1,8 @@
 
+## COMPARE
+https://www.expatistan.com
+https://nomadlist.com
+
 ## CANADA
 
 AVE is only valid for short periods (maximum 3 months each time but available for 5 years).

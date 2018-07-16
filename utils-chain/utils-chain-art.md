@@ -1,5 +1,7 @@
 
 ## ARTICLES
+https://medium.com/@garybasin/crypto-derivatives-lending-and-a-touch-of-stablecoin-59e727510024
+https://blog.0xproject.com/18-ideas-for-0x-relayers-in-2018-80a1498b955f
 https://medium.com/stellarxhq/announcing-stellarx-7dd62c168c2f
 https://medium.com/coinmonks/the-thing-most-dapps-are-getting-wrong-b92913fd64db
 https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d

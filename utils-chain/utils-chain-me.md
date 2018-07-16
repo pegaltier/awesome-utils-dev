@@ -29,15 +29,20 @@ https://support.binance.com/hc/en-us/articles/360004753992
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-buy more: stellar,
+buy more: XLM, ETC, ZEC, ADA
+
+ADX https://www.binance.com/fr/trade/ADX_BTC
+MITH    https://mith.io
+STEEM
+
+
 
 KMD
 REP         100		Augur
 HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
 PPT
-POLY
-MITH    https://mith.io
-STEEM
+POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/
+
 
 
 bet 1. interop
@@ -71,7 +76,7 @@ bet 4. storage
 STRATIS 
 
 bet 5. social++
-STEEM, MITH, REP, KARMA
+STEEM, MITH, KARMA
 
  
 bet 6. dapps
@@ -80,6 +85,10 @@ ETH, NEO, EOS, LSK, OMG, HPB
 bet7. r&d
 HOT, POLY, HBP
 
+bet8. prediction (not sure)
+https://www.augur.net
+https://gnosis.pm
+https://www.stox.com
 
 ## CRYPTO 18 OTHERS
 POLY — based on ETH    https://polymath.network

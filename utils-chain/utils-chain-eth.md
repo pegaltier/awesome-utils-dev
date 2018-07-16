@@ -30,7 +30,10 @@ https://mycrypto.com/
 ## ETH DAPPS
 https://ens.domains
 https://www.dappradar.com
+https://opensea.io/
+https://ethmoji.io
 
 ## ETH PROJECTS
 https://kintu.co/ethereum-projects/
 https://www.bethereum.com
+https://setprotocol.com
