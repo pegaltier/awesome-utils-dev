@@ -37,3 +37,4 @@ https://ethmoji.io
 https://kintu.co/ethereum-projects/
 https://www.bethereum.com
 https://setprotocol.com
+https://www.tokensets.com/

@@ -43,7 +43,8 @@ HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
 PPT
 POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/
 
-
+https://www.binance.com/cn/trade/MFT_BTC
+https://coinmarketcap.com/fr/currencies/mainframe/
 
 bet 1. interop
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
