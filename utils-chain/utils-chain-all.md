@@ -70,6 +70,9 @@ https://medium.com/exodus-movement
 https://trezor.io
 https://www.ledger.fr
 https://shiftcrypto.ch
+https://www.keepkey.com
+https://www.ledgerwallet.com
+
 
 ## DAPPS 
 http://www.dappcapitulation.com
@@ -104,8 +107,9 @@ https://dai.makerdao.com
 https://ethlend.io
 https://dharma.io
 https://lendroid.com
+https://ripiocredit.network/
 
-## PROTOCAL
+## PROTOCOL
 https://0xtracker.com
 https://0xproject.com/portal
 
@@ -157,17 +161,26 @@ https://github.com/craigdrabiktxmq
 # VENTURE / VC / HEDGE FUND
 http://dcg.co
 http://lsvp.com
+http://1kx.network
+https://cyber.fund
 http://www.draper.vc
 https://www.boost.vc
+https://satoshi.fund
 http://www.ceyuan.com
 http://www.nodecap.com
 https://a16zcrypto.com
 https://blocktower.com
+https://www.fbg.capital
+https://dekrypt.capital
 http://polychain.capital
 http://en.idgcapital.com
+https://multicoin.capital
 http://blockchain.capital
+http://www.signum.capital
+http://alphabitcoinfund.com
 https://custody.coinbase.com
 https://www.panteracapital.com
+http://www.coefficientventures.com
 
 https://bravenewcoin.com/news/in-profile-the-top-10-vc-firms-investing-in-blockchain/
 
@@ -187,6 +200,26 @@ https://commerce.coinbase.com
 https://www.alfacoins.com
 https://www.coinpayments.net
 
+## ADVERTISING
+https://basicattentiontoken.org
+https://www.varanida.com
+https://www.adex.network
+http://solidopinion.com
+https://adbank.network
+https://www.nyiax.com
+https://www.txtnet.io
+https://www.xchng.io
+https://www.ubex.com
+https://www.metax.io
+https://kindads.io
+https://adhive.tv                           
+https://vidy.com
+https://dad.one
+
+https://coinmarketcap.com/fr/currencies/basic-attention-token/
+https://coinmarketcap.com/fr/currencies/adbank/
+https://coincheckup.com/coins/adhive/
+
 ## OTHERS ALT COIN
 
 https://ipfs.io
@@ -203,18 +236,23 @@ https://kinecosystem.org
 https://www.uport.me
 https://www.tokia.io
 https://www.presearch.io
+https://zenome.io
 
 ## OTHERS TOOLS
 https://cryptoinfluencers.io
 
-## JOB / WORK / TASK / FOR COINS
+## JOB LIST
 https://crypto.jobs
 https://angel.co/jobs
 https://cryptojobslist.com/
 https://cryptocurrencyjobs.co
 
+## EARN COINS
+https://earn.com
 http://bitgigs.com
+https://www.stormx.io
 https://coinality.com
+https://fundrequest.io (dev)
 
 ## FORUM
 https://cryptofr.com

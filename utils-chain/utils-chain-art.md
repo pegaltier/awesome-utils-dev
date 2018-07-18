@@ -1,10 +1,12 @@
 
 ## ARTICLES
+https://www.youtube.com/watch?v=2LQAI18_cxw
 https://medium.com/@garybasin/crypto-derivatives-lending-and-a-touch-of-stablecoin-59e727510024
 https://blog.0xproject.com/18-ideas-for-0x-relayers-in-2018-80a1498b955f
 https://medium.com/stellarxhq/announcing-stellarx-7dd62c168c2f
 https://medium.com/coinmonks/the-thing-most-dapps-are-getting-wrong-b92913fd64db
 https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d
+https://www.entrepreneur.com/article/302827
 https://www.journaldunet.com/solutions/cloud-computing/1209691-ces-startups-qui-veulent-uberiser-dropbox-grace-a-la-blockchain/
 https://medium.com/orbs-network/the-two-benefits-of-cryptocurrencies-961df3335118
 https://www.reddit.com/r/NEO/comments/8j3ljf/master_contract_token_price_mct/

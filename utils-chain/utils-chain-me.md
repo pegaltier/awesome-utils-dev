@@ -36,6 +36,7 @@ MITH    https://mith.io
 STEEM
 
 
+TEZOS, MAINFRAME, COSMOS, POLKADOT, 
 
 KMD
 REP         100		Augur
@@ -51,45 +52,52 @@ https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-ai
 WANCHAIN — https://wanchain.org/
 ICON — https://icon.foundation/
 AION — https://aion.network/
+COSMOS — https://cosmos.network/
+POLKADOT — https://polkadot.network/
 
 bet 2. advertising
-https://basicattentiontoken.org
-https://www.varanida.com
-https://www.adex.network
-https://adbank.network
-https://www.nyiax.com
-https://www.txtnet.io
-https://www.xchng.io
-https://www.ubex.com
-https://www.metax.io
-https://kindads.io
-https://adhive.tv                           https://coincheckup.com/coins/adhive/
-https://vidy.com
-https://dad.one
+https://github.com/pegaltier/utils-dev/blob/master/utils-chain/utils-chain-all.md#advertising
 
-https://coinmarketcap.com/fr/currencies/basic-attention-token/
-https://coinmarketcap.com/fr/currencies/adbank/
-
-bet 3. exchange
-BINANCE
+bet 3. exchange / dexchange
+BNB
+0X
 
 bet 4. storage
 STRATIS 
 
 bet 5. social++
 STEEM, MITH, KARMA
-
+https://alphabit.co
  
 bet 6. dapps
 ETH, NEO, EOS, LSK, OMG, HPB
 
-bet7. r&d
-HOT, POLY, HBP
+bet7. organization
+ANT — https://aragon.one/ 
 
-bet8. prediction (not sure)
+https://coinmarketcap.com/fr/currencies/aragon/
+
+
+bet8. r&d
+HOT, POLY, HBP
+https://www.oasislabs.com/
+
+
+bet9. prediction (not sure)
 https://www.augur.net
 https://gnosis.pm
 https://www.stox.com
+
+bet10. hardware wallets
+https://github.com/pegaltier/utils-dev/blob/master/utils-chain/utils-chain-all.md#hardware-wallet
+
+bet11. lending
+https://github.com/pegaltier/utils-dev/blob/master/utils-chain/utils-chain-all.md#lending
+
+bet12. privacy
+https://z.cash
+https://getmonero.org
+https://origo.network
 
 ## CRYPTO 18 OTHERS
 POLY — based on ETH    https://polymath.network
