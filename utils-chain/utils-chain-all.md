@@ -11,6 +11,7 @@ https://coinlib.io/api/docs
 
 
 ## QUOTES/ACTIVITY
+https://tradingview.com
 https://coin360.io/
 https://coinlib.io
 https://coincheckup.com
@@ -25,6 +26,7 @@ https://sanbase-low.santiment.net/projects
 
 
 ## NEWS
+https://www.coindesk.com/
 https://decentral.fr/
 http://decentral.tv
 https://coinmarketcal.com/
@@ -67,6 +69,7 @@ https://www.ethos.io
 https://www.exodus.io
 https://support.exodus.io
 https://medium.com/exodus-movement
+https://atomicwallet.io
 
 ## HARDWARE WALLET
 https://trezor.io

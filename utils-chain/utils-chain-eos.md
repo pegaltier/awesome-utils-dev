@@ -24,6 +24,7 @@ https://eosscan.io/
 http://bios.eostracker.io/
 http://eosnetworkmonitor.io
 https://eos.feexplorer.io
+https://windshield.cypherglass.com/
 
 ## EOS TRACK
 http://dev.cryptolions.io/mainnet/
@@ -34,6 +35,7 @@ https://eosnation.io/
 
 
 ## EOS DAPPS
+https://chaince.com
 http://karmaapp.io
 https://www.txtnet.io
 https://decentwitter.com
@@ -44,6 +46,11 @@ https://dapphub.co
 ## EOS DAPPS DEV
 https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
 https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2
+
+## EOS START
+https://eos-account-creator.com
+https://eoskey.io/#/
+
 
 ## EOS WALLET/VOTE/TOOLS 
 https://github.com/EOSIO/eos/wiki/CLI-Wallet
@@ -92,6 +99,7 @@ https://eostutorials.com
 ## EOS AIRDROP
 https://www.eosdrops.io
 https://airdropsforeos.com
+https://www.crypto-france.com/airdrops-eos/
 
 ## EOS ARTICLE
 https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams
