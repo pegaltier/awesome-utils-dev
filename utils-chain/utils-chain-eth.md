@@ -12,6 +12,7 @@ https://forum.ethereum.org
 https://github.com/ethereum/
 https://etherscan.io/apis
 https://github.com/bkrem/awesome-solidity
+https://github.com/mithio/mithril-smart-contract
 
 ## ETH TOOLS/EXPLORER
 https://trivial.co

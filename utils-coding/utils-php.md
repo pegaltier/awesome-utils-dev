@@ -67,6 +67,7 @@ https://redbeanphp.com
 
 ## PDO WRAPPER (ORM ALTERNATIVE)
 https://phpdelusions.net/pdo/pdo_wrapper
+https://phpdelusions.net/pdo_examples/dynamical_where
 https://github.com/GrumpyCrouton/GrumpyPDO
 https://github.com/paragonie/easydb
 https://github.com/daveismyname/pdo-wrapper

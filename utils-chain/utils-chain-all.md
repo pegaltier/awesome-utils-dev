@@ -46,6 +46,8 @@ https://www.investinblockchain.com
 ## PROJECT
 https://decentralproject.org/
 
+## RESEARCH
+http://ledgerjournal.org
 
 ## LIST
 https://github.com/coinpride/CryptoList
@@ -221,7 +223,7 @@ https://coinmarketcap.com/fr/currencies/adbank/
 https://coincheckup.com/coins/adhive/
 
 ## OTHERS ALT COIN
-
+https://metacertprotocol.com
 https://ipfs.io
 https://www.shillerz.com
 http://www.tenx.tech

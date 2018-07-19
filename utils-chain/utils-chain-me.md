@@ -24,36 +24,48 @@ https://explorer.ont.io/
 ICX (ICON) 20 june swap
 https://support.binance.com/hc/en-us/articles/360004753992
 
+## CRYPTO FOLLOW
+https://www.oasislabs.com       https://www.oasislabs.com/blog/
+https://dispatchlabs.io         
 
-## CRYPTO 18 BET
+## CRYPTO BET
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-buy more: XLM, ETC, ZEC, ADA
+buy : PANTOS, 0X, XLM, ETC, ZEC, ADA
 
-ADX https://www.binance.com/fr/trade/ADX_BTC
-MITH    https://mith.io
-STEEM
-
+ADX         https://www.binance.com/fr/trade/ADX_BTC
+MAINFRAME   https://www.binance.com/fr/trade/MFT_BTC
+ARDR        https://www.ardorplatform.org
+DFINITY     https://dfinity.org/
 
 TEZOS, MAINFRAME, COSMOS, POLKADOT, 
 
 KMD
-REP         100		Augur
+REP                 Augur
 HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
-PPT
+PPT                 >> 
 POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/
 
-https://www.binance.com/cn/trade/MFT_BTC
+
 https://coinmarketcap.com/fr/currencies/mainframe/
 
 bet 1. interop
+
+// BIA: Blockchain Interoperability Alliance
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
-WANCHAIN — https://wanchain.org/
-ICON — https://icon.foundation/
-AION — https://aion.network/
-COSMOS — https://cosmos.network/
-POLKADOT — https://polkadot.network/
+WANCHAIN — https://wanchain.org
+ICON — https://icon.foundation
+AION — https://aion.network
+
+COSMOS — https://cosmos.network
+POLKADOT — https://polkadot.network
+
+// DEX PROTOCOL
+0X — https://0xproject.com/
+
+// TAST: Token Atomic Swap Technology
+PANTOS — https://pantos.io
 
 bet 2. advertising
 https://github.com/pegaltier/utils-dev/blob/master/utils-chain/utils-chain-all.md#advertising
@@ -66,22 +78,19 @@ bet 4. storage
 STRATIS 
 
 bet 5. social++
-STEEM, MITH, KARMA
+STEEM, MITH, KARMA, KIN
+https://mith.io
 https://alphabit.co
- 
+https://steemit.com
+https://kinecosystem.org
+
 bet 6. dapps
-ETH, NEO, EOS, LSK, OMG, HPB
+ETH, NEO, EOS, LSK, OMG, HPB, HOT, POLY, HBP
 
 bet7. organization
 ANT — https://aragon.one/ 
 
 https://coinmarketcap.com/fr/currencies/aragon/
-
-
-bet8. r&d
-HOT, POLY, HBP
-https://www.oasislabs.com/
-
 
 bet9. prediction (not sure)
 https://www.augur.net
@@ -102,10 +111,6 @@ https://origo.network
 ## CRYPTO 18 OTHERS
 POLY — based on ETH    https://polymath.network
 ENG — based on ETH     https://enigma.co
-HBP —                   https://www.bibox.com/exchange?coinPair=HPB_BTC
+HBP —                  https://www.bibox.com/exchange?coinPair=HPB_BTC
 HOT — new paradigm     https://holochain.org	https://idex.market/eth/hot
-poa — idk              https://poa.network/	https://idex.market/eth/poa20
-
-
-user value
-https://earn.com/
+POA — idk              https://poa.network/	https://idex.market/eth/poa20
