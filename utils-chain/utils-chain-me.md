@@ -32,7 +32,9 @@ https://dispatchlabs.io
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-buy : PANTOS, 0X, XLM, ETC, ZEC, ADA
+Tezos, Dfinity, Rchain, and Wanchain
+
+buy : PANTOS, XLM, ETC, ZEC, ADA
 
 ADX         https://www.binance.com/fr/trade/ADX_BTC
 MAINFRAME   https://www.binance.com/fr/trade/MFT_BTC

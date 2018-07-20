@@ -12,6 +12,7 @@ https://coinlib.io/api/docs
 
 ## QUOTES/ACTIVITY
 https://tradingview.com
+https://coinmetrics.io/
 https://coin360.io/
 https://coinlib.io
 https://coincheckup.com
@@ -27,6 +28,7 @@ https://sanbase-low.santiment.net/projects
 
 ## NEWS
 https://www.coindesk.com/
+https://ambcrypto.com
 https://decentral.fr/
 http://decentral.tv
 https://coinmarketcal.com/
@@ -78,6 +80,9 @@ https://shiftcrypto.ch
 https://www.keepkey.com
 https://www.ledgerwallet.com
 
+## COLD WALLET
+https://billfodl.com/
+https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 
 ## DAPPS 
 http://www.dappcapitulation.com
@@ -163,6 +168,11 @@ https://holochain.org
 https://www.rsk.co
 https://github.com/craigdrabiktxmq
 
+# ICO
+https://newalchemy.io
+https://coinlaunch.co/
+https://www.tokendata.io/
+
 # VENTURE / VC / HEDGE FUND
 http://dcg.co
 http://lsvp.com
@@ -171,6 +181,7 @@ https://cyber.fund
 http://www.draper.vc
 https://www.boost.vc
 https://satoshi.fund
+http://tetras.capital
 http://www.ceyuan.com
 http://www.nodecap.com
 https://a16zcrypto.com
@@ -225,24 +236,6 @@ https://coinmarketcap.com/fr/currencies/basic-attention-token/
 https://coinmarketcap.com/fr/currencies/adbank/
 https://coincheckup.com/coins/adhive/
 
-## OTHERS ALT COIN
-https://metacertprotocol.com
-https://ipfs.io
-https://www.shillerz.com
-http://www.tenx.tech
-https://datum.org
-https://liquidity.network/
-https://celsius.network
-https://datum.org
-https://phaze.io
-https://metronome.io
-https://ducatur.com/
-https://kinecosystem.org
-https://www.uport.me
-https://www.tokia.io
-https://www.presearch.io
-https://zenome.io
-
 ## OTHERS TOOLS
 https://cryptoinfluencers.io
 
@@ -265,3 +258,22 @@ https://bitcointalk.org
 http://www.cryptodecodeur.com
 https://www.cryptocompare.com/forum/#/coin
 https://www.reddit.com/r/CryptoCurrency/
+
+## OTHERS ALT COIN
+https://metacertprotocol.com
+https://metronome.io
+https://ipfs.io
+https://www.shillerz.com
+http://www.tenx.tech
+https://datum.org
+https://liquidity.network/
+https://celsius.network
+https://datum.org
+https://phaze.io
+https://metronome.io
+https://ducatur.com/
+https://kinecosystem.org
+https://www.uport.me
+https://www.tokia.io
+https://www.presearch.io
+https://zenome.io
