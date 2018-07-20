@@ -56,6 +56,7 @@ ng g component pony test-list
 ng g class article 
 ng g service article 
 ng g pipe my-new-pipe
+ng g directive my-directive
 
 ng g module lazy
 ng g component lazy/lazypage

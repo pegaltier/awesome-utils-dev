@@ -32,18 +32,16 @@ https://dispatchlabs.io
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-Tezos, Dfinity, Rchain, and Wanchain
+Tezos, Dfinity, Rchain
 
-buy : PANTOS, XLM, ETC, ZEC, ADA
+bitpanda: PANTOS, KMD
+coinbase: XLM, ETC, ZEC, ADA
 
-ADX         https://www.binance.com/fr/trade/ADX_BTC
-MAINFRAME   https://www.binance.com/fr/trade/MFT_BTC
-ARDR        https://www.ardorplatform.org
+ADX         https://www.binance.com/fr/trade/ADX_BTC (wait)
 DFINITY     https://dfinity.org/
 
-TEZOS, MAINFRAME, COSMOS, POLKADOT, 
+TEZOS, COSMOS, POLKADOT, 
 
-KMD
 REP                 Augur
 HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
 PPT                 >> 
