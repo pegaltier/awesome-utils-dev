@@ -32,16 +32,13 @@ https://dispatchlabs.io
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-Tezos, Dfinity, Rchain
+more:       EOS, XLM, BAT, BTC..
 
-bitpanda: PANTOS, KMD
-coinbase: XLM, ETC, ZEC, ADA
+find:       Tezos, Dfinity, Rchain, TEZOS, COSMOS, POLKADOT
+bitpanda:   PANTOS, KMD
+coinbase:   XLM, ETC, ZEC, ADA
 
 ADX         https://www.binance.com/fr/trade/ADX_BTC (wait)
-DFINITY     https://dfinity.org/
-
-TEZOS, COSMOS, POLKADOT, 
-
 REP                 Augur
 HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
 PPT                 >> 
@@ -51,21 +48,7 @@ POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/
 https://coinmarketcap.com/fr/currencies/mainframe/
 
 bet 1. interop
-
-// BIA: Blockchain Interoperability Alliance
-https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
-WANCHAIN — https://wanchain.org
-ICON — https://icon.foundation
-AION — https://aion.network
-
-COSMOS — https://cosmos.network
-POLKADOT — https://polkadot.network
-
-// DEX PROTOCOL
-0X — https://0xproject.com/
-
-// TAST: Token Atomic Swap Technology
-PANTOS — https://pantos.io
+https://github.com/pegaltier/utils-dev/blob/master/utils-chain/utils-chain-all.md#interop
 
 bet 2. advertising
 https://github.com/pegaltier/utils-dev/blob/master/utils-chain/utils-chain-all.md#advertising

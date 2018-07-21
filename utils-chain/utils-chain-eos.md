@@ -8,13 +8,19 @@ https://eosvenezuela.io/esc.html
 https://github.com/EOSIO/eos/wiki
 https://steemit.com/eos/@genereos/eos-multisig-tutorial
 https://github.com/EOSIO/eos/wiki/Accounts%20%26%20Permissions
-
-## EOS LIST
+https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/
 https://www.reddit.com/r/eos/comments/8r7gnr/12_tools_to_get_started_with_eos/
 https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams
 
+## EOS ACCOUNT
+https://namevault.co
+https://eos-account-creator.com
+
+## EOS TUTOS
+https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys
 
 ## EOS EXPLORER
+https://www.eosrp.io/
 https://eosweb.net
 https://eosmonitor.io/
 https://eosquery.com
@@ -33,6 +39,9 @@ https://eosnodes.privex.io
 https://eosportal.io
 https://eosnation.io/
 
+## EOS DAPPS LIST
+https://eosindex.io
+https://dapphub.co
 
 ## EOS DAPPS
 https://chaince.com
@@ -41,24 +50,19 @@ https://www.txtnet.io
 https://decentwitter.com
 http://eosproof.io
 https://www.zeos.co
-https://dapphub.co
+https://kingofeos.com
 
 ## EOS DAPPS DEV
 https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
 https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2
+https://github.com/eoscanada/eosio.forum
 
-## EOS START
-https://eos-account-creator.com
-https://eoskey.io/#/
-
-
-## EOS WALLET/VOTE/TOOLS 
+## EOS WALLET/VOTE/TOOLS
+https://eostoolkit.io/home (new)
 https://github.com/EOSIO/eos/wiki/CLI-Wallet
 https://nadejde.github.io/eos-token-sale/
 https://github.com/eoscanada/eosc
 https://www.eoscanada.com/en/tools
-https://toolkit.genereos.io/tools (old)
-https://eostoolkit.io/home (new)
 https://eosmonitor.io/accounts
 https://eosrio.io/simpleos/
 https://meet.one/pomelo
@@ -75,9 +79,11 @@ http://eosinfopedia.io/
 
 
 ## EOS NAME SERVER
+https://namevault.co
 https://toolkit.genereos.io/names
 https://github.com/EOSIO/eos/issues/3189
 https://steemit.com/eos/@genereos/name-bidding-and-premium-names-on-eos
+https://medium.com/@alamzach/7-wonderful-eos-account-names-you-can-get-right-now-2a56bda445fa
 
 ## EOS SOCIAL
 https://eosforum.org
@@ -113,5 +119,9 @@ https://www.tradingview.com/symbols/EOSUSD/
 https://www.tradingview.com/chart/EOSUSD/Pf7DVtfV-EOS-TO-1-000-101-PRICE-PREDICTIONS-FOR-2018-CryptoManiac101/
 https://www.tradingview.com/u/CryptoManiac101/
 https://www.plus500.fr/Instruments/EOSUSD
+
+
+## ETH TO EOS
+https://eoskey.io/#/
 
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●

@@ -61,9 +61,17 @@ http://tokensmash.io
 https://coinlib.io/
 https://coinlib.io/global-crypto-charts
 
+## SECURITY
+https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e
 
 ## WEB WALLET
 https://metamask.io
+https://mycrypto.com
+https://mymonero.com
+https://neotracker.io
+https://nanowallet.io
+https://www.litevault.net
+https://www.blockchain.com
 
 ## SOFTWARE WALLET
 https://jaxx.io (jaxx liberty july)
@@ -158,6 +166,27 @@ https://localethereum.com
 
 ## MULTI EXCHANGE
 https://www.coinigy.com
+
+## INTEROP
+
+
+https://essentia.one
+
+// BIA: Blockchain Interoperability Alliance
+https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
+WANCHAIN — https://wanchain.org
+ICON — https://icon.foundation
+AION — https://aion.network
+
+COSMOS — https://cosmos.network
+POLKADOT — https://polkadot.network
+
+// DEX PROTOCOL
+0X — https://0xproject.com/
+
+// TAST: Token Atomic Swap Technology
+PANTOS — https://pantos.io
+
 
 ## AIRDROP
 https://airdropalert.com
