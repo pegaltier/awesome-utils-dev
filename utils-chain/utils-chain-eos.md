@@ -2,6 +2,9 @@
 
 ●▬ begin eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
+## EOS LIST
+https://github.com/DanailMinchev/awesome-eos/blob/master/readme.md
+
 ## EOS START
 https://www.reddit.com/r/eos/
 https://eosvenezuela.io/esc.html
@@ -15,11 +18,13 @@ https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to
 ## EOS ACCOUNT
 https://namevault.co
 https://eos-account-creator.com
+https://github.com/eoscafe/eos-key
 
 ## EOS TUTOS
 https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys
 
 ## EOS EXPLORER
+https://bloks.io
 https://www.eosrp.io/
 https://eosweb.net
 https://eosmonitor.io/
@@ -42,6 +47,8 @@ https://eosnation.io/
 ## EOS DAPPS LIST
 https://eosindex.io
 https://dapphub.co
+https://eosprojects.org
+https://eosforum.org/t/eos-dapp-collection-31-listed-currently/309/17
 
 ## EOS DAPPS
 https://chaince.com
@@ -51,6 +58,8 @@ https://decentwitter.com
 http://eosproof.io
 https://www.zeos.co
 https://kingofeos.com
+https://chintai-eos.io
+
 
 ## EOS DAPPS DEV
 https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
@@ -85,9 +94,6 @@ https://github.com/EOSIO/eos/issues/3189
 https://steemit.com/eos/@genereos/name-bidding-and-premium-names-on-eos
 https://medium.com/@alamzach/7-wonderful-eos-account-names-you-can-get-right-now-2a56bda445fa
 
-## EOS SOCIAL
-https://eosforum.org
-
 
 ## EOS DEV NET
 http://vote.eosio.sg/
@@ -105,6 +111,7 @@ https://eostutorials.com
 ## EOS AIRDROP
 https://www.eosdrops.io
 https://airdropsforeos.com
+http://chainverse.com/eos-airdrops/
 https://www.crypto-france.com/airdrops-eos/
 
 ## EOS ARTICLE
@@ -120,6 +127,11 @@ https://www.tradingview.com/chart/EOSUSD/Pf7DVtfV-EOS-TO-1-000-101-PRICE-PREDICT
 https://www.tradingview.com/u/CryptoManiac101/
 https://www.plus500.fr/Instruments/EOSUSD
 
+## EOS FORUM
+https://eosforum.org/
+https://forums.eosgo.io/
+https://eostalk.io/forums
+https://www.reddit.com/r/eos/
 
 ## ETH TO EOS
 https://eoskey.io/#/

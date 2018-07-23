@@ -3,6 +3,10 @@
 https://www.expatistan.com
 https://nomadlist.com
 
+## EUROPE
+https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/
+
+
 ## CANADA
 
 AVE is only valid for short periods (maximum 3 months each time but available for 5 years).

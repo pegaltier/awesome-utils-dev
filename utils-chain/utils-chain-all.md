@@ -1,4 +1,5 @@
 ## PEOPLE
+Andreas Antonopoulos
 Anthony Diiorio
 Charles Hoskinson
 Balaji S. Srinivasan
@@ -25,9 +26,12 @@ http://blocktivity.info
 https://www.cryptomiso.com/
 https://sanbase-low.santiment.net/projects
 
+## TREND
+https://chainshuttle.com
 
 ## NEWS
 https://www.coindesk.com/
+https://coinpedia.org
 https://ambcrypto.com
 https://decentral.fr/
 http://decentral.tv
@@ -63,6 +67,11 @@ https://coinlib.io/global-crypto-charts
 
 ## SECURITY
 https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e
+
+## WEB EXTENSION
+https://metamask.io
+https://get-scatter.com/
+https://www.deepcoin.com/extension
 
 ## WEB WALLET
 https://metamask.io
@@ -223,6 +232,7 @@ http://en.idgcapital.com
 https://multicoin.capital
 http://blockchain.capital
 http://www.signum.capital
+https://hyperchain.capital
 http://alphabitcoinfund.com
 https://custody.coinbase.com
 https://www.panteracapital.com
@@ -259,6 +269,7 @@ https://www.ubex.com
 https://www.metax.io
 https://kindads.io
 https://adhive.tv                           
+https://ternio.io
 https://vidy.com
 https://dad.one
 
