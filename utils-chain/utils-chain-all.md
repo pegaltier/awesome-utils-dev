@@ -244,7 +244,9 @@ https://bravenewcoin.com/news/in-profile-the-top-10-vc-firms-investing-in-blockc
 https://crypto20.com/en/
 
 ## MINER ONLINE
-
+https://honeyminer.com
+https://fr.minergate.com
+https://www.nicehash.com
 https://mineralt.io
 https://coinhive.com
 
@@ -267,6 +269,7 @@ https://www.txtnet.io
 https://www.xchng.io
 https://www.ubex.com
 https://www.metax.io
+https://c3c.network
 https://kindads.io
 https://adhive.tv                           
 https://ternio.io

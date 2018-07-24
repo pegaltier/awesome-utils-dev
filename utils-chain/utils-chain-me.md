@@ -28,10 +28,10 @@ https://support.binance.com/hc/en-us/articles/360004753992
 1. https://www.oasislabs.com       https://www.oasislabs.com/blog/
 2. https://telosfoundation.io
 3. https://www.multiversum.io
-4. https://origo.network/
+4. https://origo.network
 
-4. https://dispatchlabs.io         
-5. https://horuspay.io
+0. https://dispatchlabs.io         
+0. https://horuspay.io
 
 ## CRYPTO BET
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
@@ -39,17 +39,13 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 more:       EOS, XLM, BAT, BTC..
 
-find:       Tezos, Dfinity, Rchain, TEZOS, COSMOS, POLKADOT, HORUSPAY
+find:       Tezos, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY
 bitpanda:   PANTOS, KMD
 coinbase:   XLM, ETC, ZEC, ADA
 
 MITHRIL + BITCOIND DIAMOND + DIGIBYTE
 
 RCHAIN              >> https://www.rchain.coop/ https://coinmarketcap.com/fr/currencies/rchain/#markets
-ADX                 >> https://www.binance.com/fr/trade/ADX_BTC (wait)
-REP                 >> Augur
-HBP                 >> https://www.bibox.com https://www.kucoin.com/#/
-PPT                 >> 
 POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/
 
 
