@@ -19,3 +19,6 @@ AVE: https://www.autorisation-voyage.fr/duree-temps-validite-ave.html
 PVT: https://pvtistes.net/dossiers/vacances-travail-canada-working-holiday-canada/
 VISA: https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html
 
+
+## THAILAND
+https://www.youtube.com/watch?v=v61xbAJoQVI LIVING UNDER $600 IN THAILAND | CHIANG MAI COST OF LIVING GUIDE

@@ -12,19 +12,22 @@ https://coinlib.io/api/docs
 
 
 ## QUOTES/ACTIVITY
-https://tradingview.com
-https://coinmetrics.io/
-https://coin360.io/
+https://coin360.io
 https://coinlib.io
+https://enroyd.com
+https://dickline.info
+https://coinmetrics.io
+https://tradingview.com
 https://coincheckup.com
-https://coinmarketcap.com/
-http://visualblockchain.org/
-http://beta.adfunnel.tech
-https://coingolive.com/en/coin/change-history/
-http://demonocracy.info/
+http://demonocracy.info
 http://blocktivity.info
-https://www.cryptomiso.com/
+http://beta.adfunnel.tech
+https://coinmarketcap.com
+https://www.cryptomiso.com
+http://visualblockchain.org
+https://www.coinfairvalue.com
 https://sanbase-low.santiment.net/projects
+https://coingolive.com/en/coin/change-history
 
 ## TREND
 https://chainshuttle.com
@@ -45,6 +48,7 @@ https://cryptodisrupted.com
 https://www.ouishare.net
 https://www.cryptoglobe.com
 https://globalcoinreport.com
+https://www.asiacryptotoday.com
 https://twitter.com/cryptomedics
 https://medium.com/@cryptomedics
 https://www.cryptoglobe.com
@@ -128,13 +132,15 @@ https://compound.finance
 https://marketprotocol.io
 
 ## LENDING
-http://www.saltlending.com
-https://www.unchained-capital.com
-https://dai.makerdao.com
-https://ethlend.io
 https://dharma.io
+https://ethlend.io
 https://lendroid.com
-https://ripiocredit.network/
+https://celsius.network
+https://dai.makerdao.com
+http://www.saltlending.com
+https://ripiocredit.network
+https://www.unchained-capital.com
+
 
 ## PROTOCOL
 https://0xtracker.com
@@ -260,12 +266,17 @@ https://www.coinpayments.net
 
 ## ADVERTISING
 https://basicattentiontoken.org
+https://www.mediaprotocol.org
 https://www.varanida.com
 https://www.adex.network
+http://www.buttrfly.net
 http://solidopinion.com
+https://papyrus.global
+https://satt-token.com
 https://adbank.network
 https://www.nyiax.com
 https://www.txtnet.io
+https://www.nyiax.com
 https://www.xchng.io
 https://www.ubex.com
 https://www.metax.io
@@ -306,6 +317,7 @@ https://www.reddit.com/r/CryptoCurrency/
 ## OTHERS ALT COIN
 https://metacertprotocol.com
 https://metronome.io
+https://www.menlo.one/
 https://ipfs.io
 https://www.shillerz.com
 http://www.tenx.tech

@@ -45,21 +45,36 @@ https://eosportal.io
 https://eosnation.io/
 
 ## EOS DAPPS LIST
-https://eosindex.io
+https://eosapps.net
 https://dapphub.co
+https://eosindex.io
 https://eosprojects.org
 https://eosforum.org/t/eos-dapp-collection-31-listed-currently/309/17
 
-## EOS DAPPS
+## EOS DAPPS DEX
 https://chaince.com
+
+## EOS DAPPS SOCIAL
 http://karmaapp.io
-https://www.txtnet.io
+https://everipedia.org
+https://www.ono.chat/en
 https://decentwitter.com
+
+## EOS DAPPS UTILS
+https://edna.life
 http://eosproof.io
 https://www.zeos.co
-https://kingofeos.com
+https://www.txtnet.io
 https://chintai-eos.io
+http://www.buttrfly.net
+https://oraclechain.io/index-en
 
+## EOS DAPPS GAMES
+https://game.wizards.one
+https://prospectors.io
+https://kingofeos.com
+https://eosbutton.io
+https://itam.games
 
 ## EOS DAPPS DEV
 https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp

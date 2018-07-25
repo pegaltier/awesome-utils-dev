@@ -29,6 +29,7 @@ https://support.binance.com/hc/en-us/articles/360004753992
 2. https://telosfoundation.io
 3. https://www.multiversum.io
 4. https://origo.network
+5. https://symphonyprotocol.com
 
 0. https://dispatchlabs.io         
 0. https://horuspay.io
