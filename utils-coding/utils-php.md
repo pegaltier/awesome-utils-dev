@@ -13,8 +13,15 @@ http://securingphp.com
 https://github.com/ziadoz/awesome-php
 https://www.cloudways.com/blog/top-php-github-projects/
 
-## BEST
+## SLIMPHP SKELETON
+https://github.com/slimphp/Slim-Skeleton
+https://github.com/odan/prisma
+https://github.com/tuupola/slim-api-skeleton
 http://php-di.org/doc/frameworks/slim.html
+https://github.com/gothinkster/slim-php-realworld-example-app
+
+## SLIM PHP TEST
+https://medium.com/@Andela/writing-testable-api-apps-in-slim-framework-29905970941b
 
 ## ASYNCRONOUS ASYNCRONOUS
 https://amphp.org

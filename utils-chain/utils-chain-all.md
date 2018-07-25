@@ -15,6 +15,7 @@ https://coinlib.io/api/docs
 https://coin360.io
 https://coinlib.io
 https://enroyd.com
+https://www.altdex.co
 https://dickline.info
 https://coinmetrics.io
 https://tradingview.com

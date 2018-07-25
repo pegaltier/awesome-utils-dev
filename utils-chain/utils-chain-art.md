@@ -1,6 +1,7 @@
 
 ## ARTICLES
 https://www.youtube.com/watch?v=2LQAI18_cxw
+https://www.investinblockchain.com/top-blockchain-projects-working-products/
 https://coinpedia.org/information/what-future-of-blockchain/
 https://medium.com/@garybasin/crypto-derivatives-lending-and-a-touch-of-stablecoin-59e727510024
 https://blog.0xproject.com/18-ideas-for-0x-relayers-in-2018-80a1498b955f
