@@ -1,3 +1,11 @@
+
+## START 
+ 
+npm install -g typescript 
+tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata 
+tsc --watch 
+npm init 
+ 
 ## CLASS OR INTERFACE
 
 classe si besoin de creer des function sur le pojo ou bien interface suffit 

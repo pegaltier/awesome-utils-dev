@@ -38,19 +38,8 @@ https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angula
 ## FETCH PROMISE OBSERAVABLE RXJS 
 http://output.jsbin.com/juwiva/29 
 https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service 
- 
 
-## TYPESCRIPT 
- 
-npm install -g typescript 
-tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata 
-tsc --watch 
-npm init 
- 
 
-########################################################################################################################
-########################################################################################################################
- 
 ## ANGULAR2 CLI 
 ng g component pony test-list
 ng g class article 

@@ -116,7 +116,7 @@ https://acrypto.io
 https://play.google.com/store/apps/details?id=org.toshi
 
 ## DAPS ALL
-
+https://gitcoin.co/
 https://memo.cash
 https://www.blockpress.com/
 https://www.cryptocribs.com/
@@ -153,6 +153,7 @@ https://0xproject.com/portal
 https://beta.wavesplatform.com/
 https://www.stellarx.com/ (SDEX?)
 https://interstellar.exchange
+https://www.airswap.io
 https://bitshares.org/
 https://www.epnex.io
 https://switcheo.exchange
