@@ -135,7 +135,7 @@ Operators: are pure functions that enable a functional programming style of deal
 Subject: is the equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
 Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
 
-##HOT AND COLD
+## HOT VS COLD
 
 COLD (i.e http obserable)
 Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. 
@@ -158,7 +158,6 @@ Push	| Promise   | Observable
 Pull	| Passive: produces data when requested.	| Active: decides when data is requested.
 Push	| Active: produces data at its own pace.	| Passive: reacts to received data.
 
-
 ### OBSERVER 
 http://reactivex.io/rxjs/manual/overview.html#observer
 
@@ -172,7 +171,6 @@ var observable = Rx.Observable.interval(1000);
 var subscription = observable.subscribe(x => console.log(x));
 subscription.unsubscribe();
 
-
 ### SUBJECT
 http://reactivex.io/rxjs/manual/overview.html#subject
 
@@ -180,7 +178,6 @@ Subject: Multicasted observable
 BehaviorSubject: whenever a new Observer subscribe it will immediatly receive the current value
 ReplaySubject: similar to a BehaviorSubject but also records multiple values from the Observable execution and replays them to new subscribers.
 AsyncSubject: only the last value of the Observable execution is sent to its observers, and only when the execution completes.
-
 
 ### OPERATORS METHODS (PURE FUNCTIONS)
 http://reactivex.io/rxjs/manual/overview.html#operators
