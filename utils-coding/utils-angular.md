@@ -135,18 +135,20 @@ Operators: are pure functions that enable a functional programming style of deal
 Subject: is the equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
 Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
 
-HOT AND COLD
-Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold.
+##HOT AND COLD
 
+COLD (i.e http obserable)
+Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. 
+
+HOT (event click)
 Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical).
-
-le listener = un observer 
-le flux = un observable (collection asynchrone dont les événements arrivent au cours du temps) 
 
 ### OBSERVABLE
 http://reactivex.io/rxjs/manual/overview.html#observable
 
 Observables are lazy Push collections of multiple values.
+a flux = (i.e: collection asynchrone dont les événements arrivent au cours du temps) 
+
 
       | Single    | Multiple
 Pull	| Function  | Iterator
@@ -160,7 +162,7 @@ Push	| Active: produces data at its own pace.	| Passive: reacts to received data
 ### OBSERVER 
 http://reactivex.io/rxjs/manual/overview.html#observer
 
-An Observer is a consumer of values delivered by an Observable.
+An Observer is a consumer of values delivered by an Observable. (i.e : a listener)
 
 ### SUBSCRIPTION
 http://reactivex.io/rxjs/manual/overview.html#subscription
