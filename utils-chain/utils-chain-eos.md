@@ -5,6 +5,11 @@
 ## EOS LIST
 https://github.com/DanailMinchev/awesome-eos/blob/master/readme.md
 
+## EOS OFFICIAL
+https://eos.io
+https://block.one/
+
+
 ## EOS START
 https://www.reddit.com/r/eos/
 https://eosvenezuela.io/esc.html
@@ -59,6 +64,7 @@ http://karmaapp.io
 https://everipedia.org
 https://www.ono.chat/en
 https://decentwitter.com
+https://www.irespo.com/
 
 ## EOS DAPPS UTILS
 https://edna.life
@@ -77,6 +83,7 @@ https://eosbutton.io
 https://itam.games
 
 ## EOS DAPPS DEV
+https://steemit.com/eos/@genereos/genereos-making-airdrops-accessible
 https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
 https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2
 https://github.com/eoscanada/eosio.forum
@@ -128,6 +135,7 @@ https://www.eosdrops.io
 https://airdropsforeos.com
 http://chainverse.com/eos-airdrops/
 https://www.crypto-france.com/airdrops-eos/
+https://steemit.com/eos/@genereos/new-airdrop-poor-tokens-announced-let-s-make-eos-better
 
 ## EOS ARTICLE
 https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams

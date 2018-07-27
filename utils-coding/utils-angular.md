@@ -25,7 +25,7 @@ CHROME POSTMAN PLUGIN
 [] pour le binding de propriété (entrée) 
 () pour le binding d’événement (sortie) 
 # pour la déclaration de variable 
-* pour les directives structurelles 
+* pour les directives structurelles (for/if...)
 
 utility : http://stackoverflow.com/questions/32790311/how-to-structure-utility-class 
 
@@ -39,7 +39,7 @@ https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angula
 http://output.jsbin.com/juwiva/29 
 https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service 
  
- 
+
 ## TYPESCRIPT 
  
 npm install -g typescript 
@@ -114,13 +114,75 @@ ng build --prod --aot --bh /enterprise/webapp/ --build-optimizer		OK
 ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
 
+## ADD LIB/CSS/JAVASCRIPT
 
-## RXJS / OBSERVABLE / REACTIVE
+ajouter un fichier css ou lib js : 
+- installer via npm --save 
+- ajouter dans angular-cli.json > balises styles + scripts 
 
-rxJs  https://xgrommx.github.io/rx-book/index.html + http://rxmarbles.com/ 
+
+## RXJS / OBSERVABLE / REACTIVE (design pattern Observer)
+
+http://rxmarbles.com/ 
+https://xgrommx.github.io/rx-book/index.html
+http://reactivex.io/rxjs/manual/overview.html
+https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains
+
+Observable: represents the idea of an invokable collection of future values or events.
+Observer: is a collection of callbacks that knows how to listen to values delivered by the Observable.
+Subscription: represents the execution of an Observable, is primarily useful for cancelling the execution.
+Operators: are pure functions that enable a functional programming style of dealing with collections with operations like map, filter, concat, flatMap, etc.
+Subject: is the equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
+Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
+
+HOT AND COLD
+Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold.
+
+Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical).
+
 le listener = un observer 
 le flux = un observable (collection asynchrone dont les événements arrivent au cours du temps) 
- 
+
+### OBSERVABLE
+http://reactivex.io/rxjs/manual/overview.html#observable
+
+Observables are lazy Push collections of multiple values.
+
+      | Single    | Multiple
+Pull	| Function  | Iterator
+Push	| Promise   | Observable
+
+      | Producer	                              | Consumer
+Pull	| Passive: produces data when requested.	| Active: decides when data is requested.
+Push	| Active: produces data at its own pace.	| Passive: reacts to received data.
+
+
+### OBSERVER 
+http://reactivex.io/rxjs/manual/overview.html#observer
+
+An Observer is a consumer of values delivered by an Observable.
+
+### SUBSCRIPTION
+http://reactivex.io/rxjs/manual/overview.html#subscription
+
+A Subscription is an object that represents a disposable resource,
+var observable = Rx.Observable.interval(1000);
+var subscription = observable.subscribe(x => console.log(x));
+subscription.unsubscribe();
+
+
+### SUBJECT
+http://reactivex.io/rxjs/manual/overview.html#subject
+
+Subject: Multicasted observable
+BehaviorSubject: whenever a new Observer subscribe it will immediatly receive the current value
+ReplaySubject: similar to a BehaviorSubject but also records multiple values from the Observable execution and replays them to new subscribers.
+AsyncSubject: only the last value of the Observable execution is sent to its observers, and only when the execution completes.
+
+
+### OPERATORS METHODS (PURE FUNCTIONS)
+http://reactivex.io/rxjs/manual/overview.html#operators
+
 • take(n) va piocher les n premiers éléments.  
 • map(fn) va appliquer la fonction fn sur chaque événement et retourner le résultat.  
 • filter(predicate) laissera passer les seuls événements qui répondent positivement au prédicat.  
@@ -135,6 +197,8 @@ le flux = un observable (collection asynchrone dont les événements arrivent au
 • mathématique (min, max, average, reduce…)  
 • conditions (amb, includes…) 
  
+ ## ANGULAR OBSERVABLE
+
 EventEmitter (Angular2 : adapter Observable)  EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres : 
 • une méthode pour réagir aux événements. 
 • une méthode pour réagir aux erreurs.  
@@ -148,7 +212,8 @@ subscription.unsubscribe(); // unsubscribe
 // logs "hello", then "there", then "done" 
 
  
-pipe 
+## PIPE
+
 {{ asyncGreeting | async } 
  
 {{ birthday | date:'shortTime' }} 		<!-- will display '3:30 PM' -- 
@@ -168,7 +233,9 @@ pipe
  
 <div *ngFor="let pony of ponies | slice:0:2">{{pony.name}}</div> 
 <div loggable [logText]="expression | uppercase">Hello</div> 
- 
+
+ ## DIRECTIVES
+
 ngTemplate  
 <h2>Welcome {{user?.name}}</h2> 
  
@@ -196,7 +263,6 @@ ngClass
 <div [class.awesome-div]="isAnAwesomeDiv()">I've got style</div>											> 1 classe 
 <div [ngClass]="{'awesome-div': isAnAwesomeDiv(), 'colored-div': isAColoredDiv()}">I've got style</div>		> x classes 
  
- 
 attribute input == binding de propriété 
 <ns-pony name="{{pony.name}}"></ns-pony> === <ns-pony [name]="pony.name"></ns-pony> 
 <ns-pony name="Pony {{pony.name}}"></ns-pony> === <ns-pony [name]="'Pony ' + pony.name"></ns-pony> 
@@ -216,7 +282,7 @@ variable locale
 <input type="text" #name> <button (click)="name.focus()">Focus the input</button> 
 <google-youtube #player></google-youtube><button (click)="player.play()">Play!</button> 
  
-DIRECTIVE  (une directive n’a pas de vue). 
+## DIRECTIVE  (une directive n’a pas de vue). 
 selecteur: Ne nomme pas tes sélecteurs avec un préfixe bind-, on-, let- ou ref- : ils ont une autre signification pour le parseur, car ils font partie de la syntaxe canonique des templates. 
 • un élément, comme c’est généralement le cas pour les composants : footer. 
 • une classe, mais c’est plutôt rare : .alert.  
@@ -242,7 +308,8 @@ export class InputDecoratorOnSetterDirective {
 } 
  
  
-cycle de vie 
+## LIFECYCLE (CYCLE DE VIE)
+
 • ngOnChanges sera la première appelée quand la valeur d’une propriété bindée est modifiée. Elle recevra une map changes, contenant les valeurs courante et précédente du binding, emballées dans un SimpleChange. Elle ne sera pas appelée s’il n’y a pas de changement.  
 • ngOnInit sera appelée une seule fois après le premier changement (alors que ngOnChanges est appelée à chaque changement). Cela en fait la phase parfaite pour du travail d’initialisation, comme son nom le laisse à penser.  
 • ngOnDestroy est appelée quand le composant est supprimé. Utile pour y faire du nettoyage. 
@@ -253,10 +320,6 @@ cycle de vie
 • ngAfterViewChecked est appelée quand tous les bindings des directives enfants ont été vérifiés, 
 même s’ils n’ont pas changé. Cela peut être utile si ton composant attend quelque chose de ses composants enfants. Comme ngAfterViewInit, cela n’a de sens que pour un composant (une directive n’a pas de vue). 
 
- 
-ajouter un fichier css ou lib js : 
-- installer via npm --save 
-- ajouter dans angular-cli.json > balises styles + scripts 
 
  ## ANGULAR DOM
 

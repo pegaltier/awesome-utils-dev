@@ -34,17 +34,18 @@ https://coingolive.com/en/coin/change-history
 https://chainshuttle.com
 
 ## NEWS
-https://www.coindesk.com/
+https://decrypto.net
+https://unblock.net
 https://coinpedia.org
 https://ambcrypto.com
 https://decentral.fr/
 http://decentral.tv
-https://coinmarketcal.com/
-https://www.trustnodes.com/
+https://www.coindesk.com
+https://coinmarketcal.com
+https://www.trustnodes.com
 https://itsblockchain.com
-https://cryptopanic.com/
+https://cryptopanic.com
 https://smartoptions.io
-https://unblock.net/
 https://cryptodisrupted.com
 https://www.ouishare.net
 https://www.cryptoglobe.com
@@ -57,6 +58,7 @@ https://www.tokendaily.co
 https://www.investinblockchain.com
 
 ## PROJECT
+https://woolf.university/#/
 https://decentralproject.org/
 
 ## RESEARCH

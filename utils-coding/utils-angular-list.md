@@ -14,7 +14,7 @@
   - [ANGULAR2 STYLES GUIDE + CODE ANALYSIS](#angular2-styles-guide--code-analysis)
   - [ANGULAR2 SUPPORT IE/MOZILLA OLD VERSION](#angular2-support-iemozilla-old-version)
   - [ANGULAR2 SCALABLE](#angular2-scalable)
-  - [ANGULAR2  BOOK/COURSES](#angular2--bookcourses)
+  - [ANGULAR2 BOOK/COURSES](#angular2--bookcourses)
   - [ANGULAR2 SNIPPETS](#angular2-snippets)
   - [ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION](#angular2-buildconfiginternationalizationproduction)
   - [ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCUSION](#angular2-components--modal-dropdown-menu-loading-transcusion)
@@ -60,7 +60,10 @@
 ##  XP NEW PROJECT QUESTIONS
 Officiel I18N :
 Nrwl Extensions : https://nrwl.io/nx
- 
+
+## ANGULAR HISTORY
+https://en.wikipedia.org/wiki/Angular_(application_platform)
+
 ## ANGULAR COMMON MISTIKE CHECKLIST PERFORMANCE
 https://malcoded.com/posts/why-angular-not-works
 https://github.com/mgechev/angular-performance-checklist
