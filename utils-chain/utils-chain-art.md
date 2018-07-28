@@ -1,6 +1,7 @@
 
 ## ARTICLES
 https://www.youtube.com/watch?v=2LQAI18_cxw
+https://blog.ycombinator.com/the-decentralized-future-series/
 https://www.investinblockchain.com/top-blockchain-projects-working-products/
 https://coinpedia.org/information/what-future-of-blockchain/
 https://medium.com/@garybasin/crypto-derivatives-lending-and-a-touch-of-stablecoin-59e727510024
