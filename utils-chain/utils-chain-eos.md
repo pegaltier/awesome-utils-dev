@@ -161,4 +161,10 @@ https://www.reddit.com/r/eos/
 ## ETH TO EOS
 https://eoskey.io/#/
 
+## EOS STRANGE
+https://eosflare.io/account/blocktwitter
+
+## EOS ARTICLES
+https://medium.com/@xyzkwang334
+
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
