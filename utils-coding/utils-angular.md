@@ -321,7 +321,12 @@ avoidAngularBugs(){
  
 ## ANGULAR TESTING 
  
- https://angular.io/guide/testing
+https://angular.io/guide/testing
+http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/
+http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-2/
+https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/
+https://stackoverflow.com/questions/40126729/angular-2-testing-async-function-call-when-to-use
+https://stackoverflow.com/questions/40432734/angular-2-jasmine-error-please-call-testbed-compilecomponents-before-your
 
 cas sans asynchrone (promise/observable) 
  
