@@ -18,6 +18,7 @@ https://enroyd.com
 https://www.altdex.co
 https://dickline.info
 https://coinmetrics.io
+https://blockfolio.com
 https://tradingview.com
 https://coincheckup.com
 http://demonocracy.info
@@ -287,6 +288,7 @@ https://www.metax.io
 https://c3c.network
 https://kindads.io
 https://adhive.tv                           
+https://online.io
 https://ternio.io
 https://vidy.com
 https://dad.one

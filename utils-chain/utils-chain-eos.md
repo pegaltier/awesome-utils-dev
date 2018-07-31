@@ -27,6 +27,7 @@ https://github.com/eoscafe/eos-key
 
 ## EOS TUTOS
 https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys
+https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
 
 ## EOS EXPLORER
 https://bloks.io
@@ -69,6 +70,7 @@ https://decentwitter.com
 https://www.irespo.com/
 
 ## EOS DAPPS UTILS
+http://eva.coop
 https://edna.life
 http://eosproof.io
 https://www.zeos.co
