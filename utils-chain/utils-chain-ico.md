@@ -7,13 +7,16 @@ https://www.reddit.com/r/icocrypto/
 https://getdelta.io
 https://mvp.daratus.com
 
-## ICO LINK
+## ICO LINKS
 https://icoo.io
 https://hacked.com
 https://clearify.io
 https://icostats.com
 https://icoarray.com
 
+https://newalchemy.io
+https://coinlaunch.co
+https://www.tokendata.io
 https://icobazaar.com
 https://icotracker.net
 https://tokentops.com
@@ -35,25 +38,25 @@ http://www.icocountdown.com
 https://icoconsulting.asia
 https://www.smithandcrown.com/icos/
 
-
 https://rfventer.github.io
 https://github.com/Scanate/UltimateICOCalendar
 
 
-
-## ICO
-
-ICOBench
-ICORating
-ICOBazaar
+## ICO NAMES
 CryptoCompare
-ICOArray
-TokenTops
 ICOMarks
 FXEmpire
 CoinSpectator
-FoundICO
 TrackICO
 ICOHolder
 ICOScheduler
 FoxICO
+
+## STO
+https://preflogic.com/
+https://blockchain.io/
+https://polymath.network/
+https://www.tzero.com/
+
+## ICCOs
+-https://palladium46.com/
