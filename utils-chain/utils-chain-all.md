@@ -73,6 +73,12 @@ http://tokensmash.io
 https://coinlib.io/
 https://coinlib.io/global-crypto-charts
 
+## TAX / TAXATION
+https://coinsutra.com/tax-free-bitcoin-countries/
+https://cryptoresearch.report/crypto-research/taxation-cryptocurrencies-europe/
+https://news.bitcoin.com/these-countries-wont-tax-your-bitcoins-too-much/
+https://news.bitcoin.com/0-to-50-time-to-pay-crypto-taxes-in-the-european-union/
+
 ## SECURITY
 https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e
 
@@ -227,6 +233,7 @@ https://www.tokendata.io/
 # VENTURE / VC / HEDGE FUND
 http://dcg.co
 http://lsvp.com
+https://cluster.vc
 http://1kx.network
 https://cyber.fund
 http://www.draper.vc
@@ -239,6 +246,7 @@ https://a16zcrypto.com
 https://blocktower.com
 https://www.fbg.capital
 https://dekrypt.capital
+https://labs.binance.com
 http://polychain.capital
 http://en.idgcapital.com
 https://multicoin.capital
@@ -247,8 +255,11 @@ http://www.signum.capital
 https://hyperchain.capital
 http://alphabitcoinfund.com
 https://custody.coinbase.com
+https://www.zerothcrypto.com
+https://www.chainfund.capital
 https://www.panteracapital.com
 http://www.coefficientventures.com
+https://www.rockawayblockchain.com
 
 https://bravenewcoin.com/news/in-profile-the-top-10-vc-firms-investing-in-blockchain/
 
