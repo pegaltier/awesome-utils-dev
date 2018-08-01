@@ -151,6 +151,7 @@ https://0xtracker.com
 https://0xproject.com/portal
 
 ## D EXCHANGE
+https://www.investvoyager.com/
 https://beta.wavesplatform.com/
 https://www.stellarx.com/ (SDEX?)
 https://interstellar.exchange
