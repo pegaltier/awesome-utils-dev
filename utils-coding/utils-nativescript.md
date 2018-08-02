@@ -23,4 +23,11 @@ http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-
 http://www.blog.bdauria.com/?p=981		superpowered c++ nativescript
 
  
-  
+## NATIVESCRIPT Sidekick
+for Visual Studio 2017
+
+Write once and build compelling native mobile apps targeting iOS and Android.
+Build for iOS without using Macs or Xcode – you can use your free or paid Apple developer account.
+Use connected devices and emulators to test and debug your apps.
+Publish into iTunes Connect for beta testing or distribution in the App Store.
+Publish to Google Play for beta testing or public distribution.

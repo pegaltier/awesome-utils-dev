@@ -53,6 +53,8 @@ ICOScheduler
 FoxICO
 
 ## STO
+https://www.youtube.com/watch?v=5NzUu7yxg3g
+
 https://preflogic.com/
 https://blockchain.io/
 https://polymath.network/

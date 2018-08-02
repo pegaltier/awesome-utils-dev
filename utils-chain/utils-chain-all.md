@@ -6,10 +6,10 @@ Balaji S. Srinivasan
 Gary Basin
 
 
-## DEV
+## DEV / SMART CONTRACT / TOOLS
 https://www.blockcypher.com/
 https://coinlib.io/api/docs
-
+https://contracts.mywish.io/create
 
 ## QUOTES/ACTIVITY
 https://coin360.io
@@ -173,6 +173,8 @@ https://radarrelay.com/
 https://ddex.io
 https://weth.io
 https://mobidex.io
+https://intro.cybex.io/
+
 
 ## N EXCHANGE
 https://uphold.com
@@ -224,11 +226,6 @@ https://www.radixdlt.com
 https://holochain.org
 https://www.rsk.co
 https://github.com/craigdrabiktxmq
-
-# ICO
-https://newalchemy.io
-https://coinlaunch.co/
-https://www.tokendata.io/
 
 # VENTURE / VC / HEDGE FUND
 http://dcg.co

@@ -134,6 +134,10 @@ https://developers.eos.io/
 https://www.eosdocs.io
 https://eostutorials.com
 
+## EOS DEV LIB
+https://github.com/EOSIO/demux-js
+
+
 ## EOS AIRDROP
 https://www.eosdrops.io
 https://airdropsforeos.com
