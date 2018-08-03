@@ -42,7 +42,7 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 more:       EOS, XLM, BAT, BTC, ZEC..
 
-find:       Tezos, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
+find:       Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
 
 bitpanda:   PANTOS, KMD
 coinbase:   XLM, ETC, ZEC, ADA

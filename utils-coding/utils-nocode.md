@@ -20,3 +20,6 @@ https://www.maketecheasier.com/platforms-build-apps-without-coding/
 
 ## opensource
 https://github.com/retejs/rete
+
+## articles
+https://medium.com/@alexkatrompas/java-will-kill-your-startup-php-will-save-it-f3051968145d

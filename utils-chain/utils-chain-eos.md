@@ -136,7 +136,7 @@ https://eostutorials.com
 
 ## EOS DEV LIB
 https://github.com/EOSIO/demux-js
-
+https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
 
 ## EOS AIRDROP
 https://www.eosdrops.io
