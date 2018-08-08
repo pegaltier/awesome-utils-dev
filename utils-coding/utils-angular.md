@@ -319,6 +319,7 @@ avoidAngularBugs(){
      this._renderer2.setElementProperty(this._elementRef,'add-property-here',true);
    }
  
+ 
 ## ANGULAR TESTING 
  
 https://angular.io/guide/testing
@@ -327,6 +328,19 @@ http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-2/
 https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/
 https://stackoverflow.com/questions/40126729/angular-2-testing-async-function-call-when-to-use
 https://stackoverflow.com/questions/40432734/angular-2-jasmine-error-please-call-testbed-compilecomponents-before-your
+
+### TESTING FACTORIZE/IMPORTS
+
+https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files
+
+
+### TESTING TRANSLATE
+
+https://github.com/ngx-translate/core/issues/636
+https://github.com/ngx-translate/example/blob/master/src/app/app.component.spec.ts
+
+### TESTINT EXAMPLE
+
 
 cas sans asynchrone (promise/observable) 
  

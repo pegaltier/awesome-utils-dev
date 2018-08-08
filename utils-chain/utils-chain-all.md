@@ -120,6 +120,7 @@ http://www.dappcapitulation.com
 https://www.stateofthedapps.com/
 https://dappradar.com
 https://acrypto.io
+https://gameunculus.io/
 https://play.google.com/store/apps/details?id=org.toshi
 
 ## DAPS ALL
