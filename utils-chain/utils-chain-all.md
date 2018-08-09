@@ -35,11 +35,12 @@ https://coingolive.com/en/coin/change-history
 https://chainshuttle.com
 
 ## NEWS
+https://globalhalo.com
 https://decrypto.net
 https://unblock.net
 https://coinpedia.org
 https://ambcrypto.com
-https://decentral.fr/
+https://decentral.fr
 http://decentral.tv
 https://www.coindesk.com
 https://coinmarketcal.com
@@ -349,3 +350,4 @@ https://www.uport.me
 https://www.tokia.io
 https://www.presearch.io
 https://zenome.io
+https://ducatur.com/

@@ -8,6 +8,8 @@ https://everipedia.org/wiki/brain-power/
 https://steemit.com/steem/@smartsteem/huge-updates-for-smartsteem-com
 https://steemit.com/steempeak/@jarvie/20-solid-reasons-to-steem-on-steempeak-com
 https://steemit.com/steem/@smartsteem/introducing-smartsteem-2-0
+https://dlive.io/
+
 
 ## MITHRIL
 

@@ -26,6 +26,11 @@ https://medium.com/@Andela/writing-testable-api-apps-in-slim-framework-299059709
 ## ASYNCRONOUS ASYNCRONOUS
 https://amphp.org
 
+## AUTODEPLOY
+http://rocketeer.autopergamene.eu/
+https://deployer.org/
+https://github.com/dg/ftp-deployment
+https://github.com/git-ftp/git-ftp
 
 ## IDE + EXTENSION
 http://calebporzio.com/my-vs-code-setup-2/

@@ -12,10 +12,25 @@ https://github.com/localtunnel/localtunnel
 2. use npm-windows-upgrade to update npm
 
 
-## NODE AUTODEPLOY
+## AUTODEPLOY
+
+### NODE 
 https://github.com/lucasmotta/dploy
 
+### GULP
+https://www.npmjs.com/package/gulp-sftp
+https://github.com/gtg092x/gulp-sftp
+https://github.com/teambition/gulp-ssh
+https://github.com/gulpjs/gulp/issues/465
+https://www.npmjs.com/package/gulp-rsync
 
+### GRUNT
+https://github.com/thrashr888/grunt-sftp-deploy
+
+### VSCODE
+https://github.com/mkloubert/vs-deploy#deploying-to-sftp-
+
+### TOOLS
 https://deploybot.com
 https://ftploy.com
 
