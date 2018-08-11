@@ -29,18 +29,10 @@ CHROME POSTMAN PLUGIN
 
 utility : http://stackoverflow.com/questions/32790311/how-to-structure-utility-class 
 
-## HTTP POST PARAMS : 
-https://forum.ionicframework.com/t/http-post-not-sending-data/47452/6 
-http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-with-parameters-to-php/ 
-https://auth0.com/blog/angular-2-series-part-3-using-http/ 
-https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/ 
- 
-## FETCH PROMISE OBSERAVABLE RXJS 
-http://output.jsbin.com/juwiva/29 
-https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service 
-
-
 ## ANGULAR2 CLI 
+
+https://angularconsole.com/
+
 ng g component pony test-list
 ng g class article 
 ng g service article 
@@ -108,6 +100,20 @@ ng build --target=production --base-href '/enterprise/'
 ajouter un fichier css ou lib js : 
 - installer via npm --save 
 - ajouter dans angular-cli.json > balises styles + scripts 
+
+
+## HTTP POST PARAMS
+
+https://forum.ionicframework.com/t/http-post-not-sending-data/47452/6 
+http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-with-parameters-to-php/ 
+https://auth0.com/blog/angular-2-series-part-3-using-http/ 
+https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/ 
+ 
+## FETCH PROMISE OBSERAVABLE RXJS 
+
+http://output.jsbin.com/juwiva/29 
+https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service 
+
 
 
 ## RXJS / OBSERVABLE / REACTIVE (design pattern Observer)

@@ -28,6 +28,9 @@ https://developer.holochain.org/API
 
 
 ## HOLO DAPPS
+- Alls: https://github.com/holochain/apps
+
+- Holohouse: https://holohouse.org/
 
 - Junto: https://www.junto.love
 
