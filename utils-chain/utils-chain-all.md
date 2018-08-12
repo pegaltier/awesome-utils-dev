@@ -101,6 +101,7 @@ https://www.blockchain.com
 https://jaxx.io (jaxx liberty july)
 https://www.ethos.io
 https://www.exodus.io
+https://www.exodus.io/eden/
 https://support.exodus.io
 https://medium.com/exodus-movement
 https://atomicwallet.io
@@ -111,6 +112,10 @@ https://www.ledger.fr
 https://shiftcrypto.ch
 https://www.keepkey.com
 https://www.ledgerwallet.com
+
+## WALLET EXODUS TUTO
+https://support.exodus.io/article/767-how-do-i-keep-my-money-safe
+https://vimeo.com/176811304
 
 ## COLD WALLET
 https://billfodl.com/

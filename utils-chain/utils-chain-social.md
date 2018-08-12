@@ -10,6 +10,11 @@ https://steemit.com/steempeak/@jarvie/20-solid-reasons-to-steem-on-steempeak-com
 https://steemit.com/steem/@smartsteem/introducing-smartsteem-2-0
 https://dlive.io/
 
+## ETHEREUM
+https://www.sapien.network/
+
+## OTHERS
+https://mastodon.social/
 
 ## MITHRIL
 
