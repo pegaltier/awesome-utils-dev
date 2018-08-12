@@ -4,7 +4,7 @@ https://www.binance.com/vote.html
 https://www.binance.com/en/fee/schedule
 https://support.binance.com/hc/en-us/sections/115000202591-Latest-News
 https://www.reddit.com/r/CryptoCurrency/comments/7pubqb/binance_withdrawal_fees/
-best to withdraw : neo, gas, etc, xlm, xvg, kmd, 
+best to withdraw : neo, gas, etc, xlm, xvg, kmd, ltc.
 
 
 ## CRYTICAL
@@ -41,14 +41,10 @@ https://support.binance.com/hc/en-us/articles/360004753992
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-more:       EOS, XLM, BAT, BTC, ZEC..
+more:       PAN, HPB, BTC, ZEC
 
 find:       Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
 
-bitpanda:   PANTOS, KMD
-coinbase:   XLM, ETC, ZEC, ADA
-
-MITHRIL 
 
 RCHAIN              >> https://www.rchain.coop/ https://coinmarketcap.com/fr/currencies/rchain/#markets
 POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/

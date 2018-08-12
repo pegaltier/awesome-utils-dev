@@ -57,6 +57,7 @@ https://twitter.com/cryptomedics
 https://medium.com/@cryptomedics
 https://www.cryptoglobe.com
 https://www.tokendaily.co
+https://dailyhodl.com
 https://www.investinblockchain.com
 
 ## PROJECT

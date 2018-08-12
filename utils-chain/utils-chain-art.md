@@ -1,5 +1,6 @@
 
 ## ARTICLES
+https://medium.com/@cburniske/the-crypto-j-curve-be5fdddafa26
 https://www.youtube.com/watch?v=2LQAI18_cxw
 https://blog.ycombinator.com/the-decentralized-future-series/
 https://www.investinblockchain.com/top-blockchain-projects-working-products/
