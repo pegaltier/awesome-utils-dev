@@ -11,6 +11,15 @@ https://medium.com/@doute.d/holochain-vers-un-internet-véritablement-décentral
 http://www.popfinance.net/holo-holochain-crypto-apps-blockchain/
 https://www.reddit.com/r/holochain/comments/7tdyik/help_i_am_starting_to_believe_that_holochain_will/
 https://www.reddit.com/r/holochain/
+https://developer.holochain.org/Samples_Overview
+https://www.chainbits.com/reviews/holochain-review/
+https://www.coinbureau.com/review/holochain-hot/
+https://unhashed.com/cryptocurrency-news/cryptocurrency-wealth-concentration-exploring-problem-possible-solutions/
+https://steemit.com/blockchain/@embomb701/holochain-vs-blockchain-vs-tangle-pros-and-cons-side-by-site-by-side
+https://cryptostreet.co/cryptocurrency-news/blockchain-news/holochain-technology-decentralize-internet
+https://blog.p2pfoundation.net/holochain-the-perfect-framework-for-decentralised-cooperation-at-scale-2/2018/07/26?utm_source=dlvr.it&utm_medium=twitter&cn-reloaded=1
+https://steemit.com/dsound/@michaelgarfield/20180707t033701730z-future-fossils-podcast-80-arthur-brock-of-holochain-on-rethinking-currency
+
 
 ## HOLO TRADING
 https://idex.market/eth/hot
