@@ -41,14 +41,14 @@ https://support.binance.com/hc/en-us/articles/360004753992
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-more:       PAN, HPB, BTC, ZEC
+more:       PAN, HPB, BTC, KMD, ZEC, ONT, NEO..
 
-find:       Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
+find:       RPX, CHAINZILLA, Poly, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
 
 
 RCHAIN              >> https://www.rchain.coop/ https://coinmarketcap.com/fr/currencies/rchain/#markets
 POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/
-
+CHAINZILLA          > https://www.chainzilla.io/
 
 https://coinmarketcap.com/fr/currencies/mainframe/
 
@@ -79,6 +79,9 @@ bet7. organization
 ANT — https://aragon.one/ 
 
 https://coinmarketcap.com/fr/currencies/aragon/
+
+bet8. services
+https://www.chainzilla.io/
 
 bet9. prediction (not sure)
 https://www.augur.net

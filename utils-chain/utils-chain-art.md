@@ -1,5 +1,7 @@
 
 ## ARTICLES
+https://dailyhodl.com/2018/08/13/ripples-xrp-hits-thousands-of-stores-worldwide-on-virtual-crypto-atms/
+https://coincodex.com/article/2173/coins-to-watch-august-13-august-19-2018/
 https://medium.com/@cburniske/the-crypto-j-curve-be5fdddafa26
 https://www.youtube.com/watch?v=2LQAI18_cxw
 https://blog.ycombinator.com/the-decentralized-future-series/
