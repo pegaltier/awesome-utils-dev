@@ -41,15 +41,16 @@ https://support.binance.com/hc/en-us/articles/360004753992
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-more:       PAN, HPB, BTC, KMD, ZEC, ONT, NEO..
+more:       WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, ONT, OMG, NEO, LTC, NANO.
+reverse:    ONT,OMG, NANO, VET, NAS, REQ
 
-find:       RPX, CHAINZILLA, Poly, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
+check:       RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
 
 
 RCHAIN              >> https://www.rchain.coop/ https://coinmarketcap.com/fr/currencies/rchain/#markets
 POLY                >> https://idex.market/eth/poly / https://www.kucoin.com/
 CHAINZILLA          > https://www.chainzilla.io/
-
+REQUEST             > https://request.network/#/
 https://coinmarketcap.com/fr/currencies/mainframe/
 
 bet 1. interop

@@ -1,5 +1,6 @@
 
 ## ARTICLES
+https://medium.com/cryptosheets/10-price-predictions-for-10-top-cryptocurrencies-aug-2018-74fe4569c45
 https://dailyhodl.com/2018/08/13/ripples-xrp-hits-thousands-of-stores-worldwide-on-virtual-crypto-atms/
 https://coincodex.com/article/2173/coins-to-watch-august-13-august-19-2018/
 https://medium.com/@cburniske/the-crypto-j-curve-be5fdddafa26

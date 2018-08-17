@@ -34,6 +34,11 @@ https://developer.holochain.org/Running_an_App
 https://developer.holochain.org/Command_Line_Tools
 https://github.com/holochain/HoloWorld
 https://developer.holochain.org/API
+https://github.com/holochain/dna-to-openapi
+
+## HOLO JOBS
+
+https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identity-at-holo-via-regenerative-software-remote
 
 
 ## HOLO DAPPS

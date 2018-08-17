@@ -12,6 +12,7 @@ https://coinlib.io/api/docs
 https://contracts.mywish.io/create
 
 ## QUOTES/ACTIVITY
+https://cryptosheets.com/
 https://coin360.io
 https://coinlib.io
 https://enroyd.com
@@ -357,3 +358,4 @@ https://www.tokia.io
 https://www.presearch.io
 https://zenome.io
 https://ducatur.com/
+https://github.com/mimblewimble/grin
