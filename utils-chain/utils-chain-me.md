@@ -41,7 +41,7 @@ https://support.binance.com/hc/en-us/articles/360004753992
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-more:       WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, ONT, OMG, NEO, LTC, NANO.
+more:       BNB, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, ONT, OMG, NEO, LTC, NANO.
 reverse:    ONT,OMG, NANO, VET, NAS, REQ
 
 check:       RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 

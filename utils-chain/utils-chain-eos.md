@@ -60,7 +60,8 @@ https://eosforum.org/t/eos-dapp-collection-31-listed-currently/309/17
 ## EOS DAPPS DEX
 https://chaince.com
 https://eosfinex.com
-
+https://dexeos.io/
+https://newdex.io/
 
 ## EOS DAPPS SOCIAL
 http://karmaapp.io
