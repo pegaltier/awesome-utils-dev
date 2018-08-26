@@ -1,5 +1,5 @@
 
-# déménagement / relocation
+# RELOCATION
 https://www.papernest.com/
 
 ## COMPARE
@@ -8,7 +8,16 @@ https://nomadlist.com
 
 ## EUROPE
 https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/
+https://www.interrail.eu/fr/pass-interrail/global-pass
 
+## LODGING
+hostelsworld+apparthotel+couchsurfing+airbnb+yestudent+booking
+
+## LINKS
+http://www.petitstripsentreamis.com/
+https://www.loisirsencheres.com/all/
+Le même en mieuw + Vizeat + Jwebi
+Shutterstock-fotolia-dreamstime
 
 ## CANADA
 
