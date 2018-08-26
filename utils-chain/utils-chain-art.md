@@ -1,5 +1,7 @@
 
 ## ARTICLES
+https://www.linkedin.com/pulse/2018-lann%C3%A9e-un-de-lapr%C3%A8s-capitalisme-pierre-paperon/
+https://www.youtube.com/watch?v=URCc0Vcm_68 Banking on Bitcoin 
 https://medium.com/cryptosheets/10-price-predictions-for-10-top-cryptocurrencies-aug-2018-74fe4569c45
 https://dailyhodl.com/2018/08/13/ripples-xrp-hits-thousands-of-stores-worldwide-on-virtual-crypto-atms/
 https://coincodex.com/article/2173/coins-to-watch-august-13-august-19-2018/

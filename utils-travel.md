@@ -19,8 +19,15 @@ https://www.loisirsencheres.com/all/
 Le même en mieuw + Vizeat + Jwebi
 Shutterstock-fotolia-dreamstime
 
-## CANADA
+## EXPATS
+https://www.internations.org/expat-insider/2016/the-best-and-worst-places-for-expats
+https://www.leapin.eu + Estonian e-resident! 
 
+## TOOLS
+https://www.amazon.fr/dp/B075FS8FPF/ref=asc_df_B075FS8FPF49522308/
+https://www.straydeal.com/products/anti-theft-backpack
+
+## CANADA
 AVE is only valid for short periods (maximum 3 months each time but available for 5 years).
 Otherwise there is the PVT which is valid for 24 months for french people. 
 Otherwise i have to apply for a working licence (visa)

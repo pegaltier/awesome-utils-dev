@@ -60,7 +60,17 @@ http://www.designfreebies.com
 http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
 http://www.awwwards.com/100-greatest-free-fonts-collection-for-2015.html
 
+http://codepen.io/melnik909/details/KNLBEX
+http://output.jsbin.com/ninuva
 
+https://tympanus.net/Development/GridLoadingEffects/index2.html
+http://tympanus.net/Development/PageLoadingEffects/index6.html page loading effect
+https://github.com/blivesta/animsition
+http://www.studio-ancalime.com/20-plugins-jquery-et-css3-pour-vos-transitions-de-pages/
+https://github.com/codrops/FullscreenOverlayStyles
+http://tympanus.net/Development/FullscreenOverlayStyles/
+http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index2.html
+http://tympanus.net/Development/AnimatedSVGIcons/
 
 ### STOCK PHOTOS
 https://imagefinder.co
