@@ -323,6 +323,7 @@ https://crypto.jobs
 https://angel.co/jobs
 https://cryptojobslist.com/
 https://cryptocurrencyjobs.co
+https://blockchainjobswall.com/
 
 ## EARN COINS
 https://earn.com

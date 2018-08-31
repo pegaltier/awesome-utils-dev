@@ -65,6 +65,8 @@ https://cocolyze.com/
 https://lsigraph.com
 
 
+## TOOLS
+https://github.com/remibacha/kwClustersR
 
 ## CONCURRENCE
 https://www.changedetection.com/
