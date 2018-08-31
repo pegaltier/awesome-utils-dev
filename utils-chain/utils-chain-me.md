@@ -1,10 +1,11 @@
 ## BINANCE
+https://exchangebit.info/binance
 https://www.binance.com/fees.html
 https://www.binance.com/vote.html
 https://www.binance.com/en/fee/schedule
 https://support.binance.com/hc/en-us/sections/115000202591-Latest-News
 https://www.reddit.com/r/CryptoCurrency/comments/7pubqb/binance_withdrawal_fees/
-best to withdraw : neo, gas, etc, xlm, xvg, kmd, ltc.
+best to withdraw : eos, neo, gas, etc, xlm, xvg, kmd, ltc, zec, ada, bcn, nano
 
 
 ## CRYTICAL
