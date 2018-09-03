@@ -4,6 +4,7 @@
 
 ## EOS LIST
 https://github.com/DanailMinchev/awesome-eos/blob/master/readme.md
+https://github.com/DanailMinchev/awesome-eosio
 
 ## EOS OFFICIAL
 https://eos.io

@@ -127,6 +127,7 @@ https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 http://www.dappcapitulation.com
 https://www.stateofthedapps.com/
 https://dappradar.com
+https://dappradar.com/eos-dapps
 https://acrypto.io
 https://gameunculus.io/
 https://play.google.com/store/apps/details?id=org.toshi
@@ -159,6 +160,7 @@ https://dai.makerdao.com
 http://www.saltlending.com
 https://ripiocredit.network
 https://www.unchained-capital.com
+https://blog.coinfabrik.com/cryptocurrency-backed-lending-platforms/
 
 
 ## PROTOCOL
