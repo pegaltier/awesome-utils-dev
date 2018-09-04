@@ -20,6 +20,8 @@ https://cryptostreet.co/cryptocurrency-news/blockchain-news/holochain-technology
 https://blog.p2pfoundation.net/holochain-the-perfect-framework-for-decentralised-cooperation-at-scale-2/2018/07/26?utm_source=dlvr.it&utm_medium=twitter&cn-reloaded=1
 https://steemit.com/dsound/@michaelgarfield/20180707t033701730z-future-fossils-podcast-80-arthur-brock-of-holochain-on-rethinking-currency
 
+## HOLO NETWORKS
+https://chat.holochain.org/
 
 ## HOLO TRADING
 https://idex.market/eth/hot
@@ -35,6 +37,7 @@ https://developer.holochain.org/Command_Line_Tools
 https://github.com/holochain/HoloWorld
 https://developer.holochain.org/API
 https://github.com/holochain/dna-to-openapi
+https://holochain.github.io/holochain-rust/
 
 ## HOLO JOBS
 

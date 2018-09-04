@@ -76,6 +76,7 @@ https://stackblitz.com/edit/angular-material?file=theme.scss
 
 ## ANGULAR6
 https://formationjavascript.com/mettre-a-jour-vers-angular-6/
+https://blog.ninja-squad.com/2018/05/04/what-is-new-angular-6/
 https://dzone.com/articles/whats-new-in-angular-6
 https://www.telerik.com/blogs/whats-new-in-angular-6
 https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
