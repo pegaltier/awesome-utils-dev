@@ -42,10 +42,15 @@ https://support.binance.com/hc/en-us/articles/360004753992
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-more:       BNB, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, NEO, NANO, HOT.
-reverse:    ONT,OMG, NANO, VET, NAS, REQ
+more:       BNB, NEO, NANO, HOT, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, 
+
+nextb:      BTC, NANO, ONT, BAT, TRX, XMR, ZRX, 
 
 check:       RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
+
+## CRYPTO PREDICTION
+
+https://walletinvestor.com/forecast/vechain-prediction
 
 
 RCHAIN              >> https://www.rchain.coop/ https://coinmarketcap.com/fr/currencies/rchain/#markets

@@ -64,3 +64,12 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 - Core.Network: https://core.network  I  http://superluminal.is 
 
 - Promether: https://promether.com
+
+
+## HOLO DAPPS GIT
+https://github.com/MightyAlex200/Comet
+
+## UNOFFICIAL
+
+https://holochaincitizen.com/
+https://www.holochain.science
