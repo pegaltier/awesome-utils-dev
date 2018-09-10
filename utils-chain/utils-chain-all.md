@@ -108,12 +108,14 @@ https://support.exodus.io
 https://medium.com/exodus-movement
 https://atomicwallet.io
 
-## HARDWARE WALLET
+## HARDWARE WALLET (COLD) 
 https://trezor.io
 https://www.ledger.fr
 https://shiftcrypto.ch
 https://www.keepkey.com
 https://www.ledgerwallet.com
+https://trello.com/b/5nQ1mdzt/ledger-roadmap
+
 
 ## WALLET EXODUS TUTO
 https://support.exodus.io/article/767-how-do-i-keep-my-money-safe
