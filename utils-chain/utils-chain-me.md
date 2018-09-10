@@ -44,7 +44,7 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 more:       BNB, NEO, NANO, HOT, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, 
 
-nextb:      EOS, BTC, NANO, ONT, .. XLM, BAT, TRX,  ..... NEXT: XMR, ZRX, 
+nextb:      EOS, ONT, NANO, ... BTC,BAT,TRX  .. XLM,  .....  XMR, ZRX, HPB ... 
 
 check:       RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
 

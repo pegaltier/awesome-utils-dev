@@ -20,13 +20,23 @@
 # GRADLE CLEAN CACHE
 C:\Users\pegal\.gradle\wrapper\dists
 
- 
-android dev : https://developer.android.com/index.html
-Download badge : https://play.google.com/intl/fr_fr/badges/
-experiment store : https://developer.android.com/distribute/users/experiments.html
-zipalign (optimize RAM) : https://developer.android.com/studio/command-line/zipalign.html
+## LAST DEV LINKS
+android dev : 
+https://developer.android.com/index.html
+
+
+android new : 
+https://developer.android.com/about/versions/pie/android-9.0
+
+experiment store : 
+https://developer.android.com/distribute/users/experiments.html
+
+zipalign (optimize RAM) : 
+https://developer.android.com/studio/command-line/zipalign.html
 https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signature_v2
 
+## RESOURCES
+https://play.google.com/intl/fr_fr/badges/
 
 ## COMMON Error activity + toolbar + action bar
 https://developer.android.com/training/appbar/index.html
@@ -166,7 +176,15 @@ https://github.com/Triple-T/gradle-play-publisher
 https://github.com/Triple-T/gradle-play-publisher/issues/141
 https://github.com/codepath/android_guides/wiki/Automating-Publishing-to-the-Play-Store 
 https://guides.codepath.com/android/automating-publishing-to-the-play-store
-https://console.developers.google.com/apis
+
+
+1. FROM https://console.developers.google.com/apis
+Google Play Android Developer API => ENABLE (NAME: Google Play Android Dev API)
+Identifiants => Clés de compte de service (NAME: API-PLAYSTORE)
+
+2. FROM https://play.google.com/apps/publish
+Compte developper => Access API : Google Play Android Dev API
+Compte developper => Compte de Service => Utilisateurs API-PLAYSTORE 
 
 
 ## APP STORE OPTIMIZATION (ASO) 
