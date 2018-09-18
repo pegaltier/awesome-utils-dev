@@ -26,9 +26,12 @@ https://namevault.co
 https://eos-account-creator.com
 https://github.com/eoscafe/eos-key
 
-## EOS TUTOS
+## EOS TUTOS USER
 https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys
+
+## EOS TUTOS DEV
 https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
+https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
 
 ## EOS EXPLORER
 https://bloks.io
@@ -95,6 +98,7 @@ https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2
 https://github.com/eoscanada/eosio.forum
 
 ## EOS WALLET/VOTE/TOOLS
+https://eostoolkit.io/ (best)
 https://eostoolkit.io/home (new)
 https://github.com/EOSIO/eos/wiki/CLI-Wallet
 https://nadejde.github.io/eos-token-sale/

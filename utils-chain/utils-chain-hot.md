@@ -1,5 +1,5 @@
 ## HOLO ARTICLES
-
+https://hacked.com/holochain-the-new-blockchain-a-look-beyond-the-hype/
 http://rimbit.dk/archive/index.php?thread-719-4.html
 https://medium.com/h-o-l-o/get-oriented-7-posts-on-holochain-and-holo-6b20271ea556
 https://medium.com/h-o-l-o/best-of-holo-and-holochain-videos-be6740cf63fe
@@ -38,6 +38,8 @@ https://github.com/holochain/HoloWorld
 https://developer.holochain.org/API
 https://github.com/holochain/dna-to-openapi
 https://holochain.github.io/holochain-rust/
+https://holochain.github.io/scaffold/
+https://www.youtube.com/watch?v=BvhBfpT7JHo
 
 ## HOLO JOBS
 
@@ -69,7 +71,12 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 ## HOLO DAPPS GIT
 https://github.com/MightyAlex200/Comet
 
-## UNOFFICIAL
+## UNOFFICIAL SITES
 
 https://holochaincitizen.com/
 https://www.holochain.science
+
+## UNOFFICIAL DOCS
+https://docs.google.com/document/d/1BFWVHucWQZo9yfvmKVgEXPTq4Zn94gbKcaMiitTRDg4/edit#
+https://docs.google.com/document/d/1dQSqxSw6KcQp7WXVyC_I_d-Bf_5zfX0tihq6qDZSRq0/edit
+https://www.sacred.capital/

@@ -17,7 +17,10 @@ https://app.dstoq.com
 ## DAPPS
 https://www.repocoin.io
 https://lumenaut.net
-
+https://artemlitch.github.io/sputnik/k
 
 ## PROJECT
 https://thewhitecompanyus.com
+
+## ARTICLES
+https://dailyhodl.com/2018/09/11/stellar-xlm-buys-blockchain-startup-backed-by-nasdaq-visa-citi-and-pantera-capital/
