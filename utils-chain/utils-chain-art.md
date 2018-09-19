@@ -2,6 +2,7 @@
 https://sphaera.world/wp-content/uploads/2018/03/Billions to Trillions.pdf
 
 ## ARTICLES
+https://www.cryptotrader.tax/blog/the-ultimate-resource-list-for-crypto-traders-investors
 https://www.linkedin.com/pulse/2018-lann%C3%A9e-un-de-lapr%C3%A8s-capitalisme-pierre-paperon/
 https://www.youtube.com/watch?v=URCc0Vcm_68 Banking on Bitcoin 
 https://medium.com/cryptosheets/10-price-predictions-for-10-top-cryptocurrencies-aug-2018-74fe4569c45
