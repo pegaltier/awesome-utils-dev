@@ -13,6 +13,7 @@ https://contracts.mywish.io/create
 
 ## QUOTES/ACTIVITY
 https://cryptosheets.com/
+https://cryptofinance.jbuty.com/
 https://coin360.io
 https://coinlib.io
 https://enroyd.com
