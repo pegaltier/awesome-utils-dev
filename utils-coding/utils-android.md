@@ -280,19 +280,42 @@ https://stackoverflow.com/questions/47598821/android-in-app-billing-crashing-som
 https://stackoverflow.com/questions/48353342/illegalstateexception-caused-by-in-app-billing-checknotdisposed?rq=1
 https://stackoverflow.com/questions/15575605/android-in-app-billing-cant-start-async-operation-because-another-async-operat
 https://stackoverflow.com/questions/30382007/java-lang-illegalstateexception-cant-start-async-operation
-
-6 stack 
-
-
 todo:
 -update to the last version of lib
 -check having onActivityResult like this :
 -add try catch to the call
-
 avoid:
 -editing inabhelper as suggested here:
 
 
+## ANDROIDX REFACTOR
+https://developer.android.com/topic/libraries/support-library/refactor
 
+/*
+// refactor (waiting for libs compat)
+// https://developer.android.com/topic/libraries/support-library/refactor
+implementation "androidx.legacy:legacy-support-v4:1.0.0"
+implementation "androidx.appcompat:appcompat:1.0.0"
+implementation "androidx.multidex:multidex:2.0.0"
 
----------------------
+manifest application>
+        tools:replace="android:appComponentFactory"
+    android:appComponentFactory="@string/action_settings"
+
+*/
+
+inside gradle > android 
+lintOptions {
+    checkReleaseBuilds false
+    abortOnError false
+}
+packagingOptions {
+    exclude 'META-INF/DEPENDENCIES'
+    exclude 'META-INF/LICENSE'
+    exclude 'META-INF/LICENSE.txt'
+    exclude 'META-INF/license.txt'
+    exclude 'META-INF/NOTICE'
+    exclude 'META-INF/NOTICE.txt'
+    exclude 'META-INF/notice.txt'
+    exclude 'META-INF/ASL2.0'
+}
