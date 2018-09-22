@@ -291,6 +291,10 @@ avoid:
 ## ANDROIDX REFACTOR
 https://developer.android.com/topic/libraries/support-library/refactor
 
+ValidationHelper
+//import com.google.android.material.textfield.TextInputLayout;
+import android.support.design.widget.TextInputLayout;
+
 /*
 // refactor (waiting for libs compat)
 // https://developer.android.com/topic/libraries/support-library/refactor
@@ -298,7 +302,7 @@ implementation "androidx.legacy:legacy-support-v4:1.0.0"
 implementation "androidx.appcompat:appcompat:1.0.0"
 implementation "androidx.multidex:multidex:2.0.0"
 
-manifest application>
+manifest application>     xmlns:tools="http://schemas.android.com/tools"
         tools:replace="android:appComponentFactory"
     android:appComponentFactory="@string/action_settings"
 
