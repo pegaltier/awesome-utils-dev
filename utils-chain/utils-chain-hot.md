@@ -1,4 +1,5 @@
 ## HOLO ARTICLES
+https://itsblockchain.com/top-8-dapps-built-on-holochain/
 https://hacked.com/holochain-the-new-blockchain-a-look-beyond-the-hype/
 http://rimbit.dk/archive/index.php?thread-719-4.html
 https://medium.com/h-o-l-o/get-oriented-7-posts-on-holochain-and-holo-6b20271ea556

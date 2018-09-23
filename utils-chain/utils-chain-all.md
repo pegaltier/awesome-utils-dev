@@ -12,6 +12,7 @@ https://coinlib.io/api/docs
 https://contracts.mywish.io/create
 
 ## QUOTES/ACTIVITY
+https://datamish.comk
 https://cryptosheets.com/
 https://cryptofinance.jbuty.com/
 https://coin360.io
@@ -61,6 +62,9 @@ https://www.cryptoglobe.com
 https://www.tokendaily.co
 https://dailyhodl.com
 https://www.investinblockchain.com
+
+## NEWSLETTER
+https://weisscryptocurrencyratings.com/
 
 ## PROJECT
 https://woolf.university/#/

@@ -32,6 +32,7 @@ https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-publ
 ## EOS TUTOS DEV
 https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
 https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
+https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
 
 ## EOS EXPLORER
 https://bloks.io
