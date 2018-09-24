@@ -98,3 +98,18 @@ ENG — based on ETH     https://enigma.co
 HBP —                  https://www.bibox.com/exchange?coinPair=HPB_BTC
 HOT — new paradigm     https://holochain.org	https://idex.market/eth/hot
 POA — idk              https://poa.network/	https://idex.market/eth/poa20
+
+## CRYPTO PASSIVE INCOME
+https://medium.com/coinspector/what-are-the-five-best-cryptocurrencies-for-passive-income-investigationsunday-f51499d65a9e
+
+https://cashmining.xyz
+
+### NEBLIO
+https://www.reddit.com/r/Neblio/comments/82z0sj/monthly_staking_earnings_scenario/
+https://www.investinblockchain.com/how-to-stake-neblio/
+
+## LISK
+https://earnlisk.com/
+https://www.youtube.com/watch?v=NAjEhwdpHYE
+https://steemit.com/cryptocurrency/@jaka87/lisk-which-delegate-to-vote-for
+http://tools.mylisk.com/calculator.php
