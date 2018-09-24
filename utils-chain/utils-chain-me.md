@@ -10,22 +10,6 @@ best to withdraw : eos, neo, gas, etc, xlm, xvg, kmd, ltc, zec, ada, bcn, nano, 
 
 ## CRYTICAL
 
-ONT swap end of june:  
-stategy : 
-1. test transfer binance sur mon wallet en petite quantité, si ok alors refaire le transfert de la totalité
-0. prevoir de transferer uniquement une unité entiere pas de virgule... garder les virgules sur binance
-2. effectuer la procedure de migration (envoyer sur l'adresse de swap)
-
-https://medium.com/ontologynetwork/mainnet-ont-token-swap-notice-关于ont主网切换的说明-4cd38c2fc55b
-
-https://support.binance.com/hc/en-us/articles/360004692771
-https://medium.com/ontologynetwork/mainnet-ont-token-swap-notice-关于ont主网切换的说明-4cd38c2fc55b
-https://neonewstoday.com/general/ontology-token-swap-oag-advisers-and-triones-candidates/
-https://swap.ont.io
-https://explorer.ont.io/
-
-ICX (ICON) 20 june swap
-https://support.binance.com/hc/en-us/articles/360004753992
 
 ## CRYPTO FOLLOW
 1. https://www.oasislabs.com       https://www.oasislabs.com/blog/
@@ -44,7 +28,7 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 more:       BNB, NEO, NANO, HOT, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, 
 
-nextb:      ELASTOS,BAT, BNB, PAN/EOS SWAP ... BTC,XLM,  .....  XMR,HPB, ELASTOS ... 
+nextb:      ELASTOS,BAT, BNB, PAN/EOS SWAP ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
 
 safe:       BTC, ETH, ETC, EOS, NANO
 
