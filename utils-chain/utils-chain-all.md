@@ -10,6 +10,7 @@ Gary Basin
 https://www.blockcypher.com/
 https://coinlib.io/api/docs
 https://contracts.mywish.io/create
+https://www.safeblocks.io/
 
 ## QUOTES/ACTIVITY
 https://datamish.comk

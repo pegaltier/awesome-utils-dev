@@ -28,7 +28,7 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 more:       BNB, NEO, NANO, HOT, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, 
 
-nextb:      ELASTOS,BAT, BNB, PAN/EOS SWAP ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
+nextb:      BTG, ELASTOS,BAT, BNB, PAN/EOS SWAP ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
 
 safe:       BTC, ETH, ETC, EOS, NANO
 

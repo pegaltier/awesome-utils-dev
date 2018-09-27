@@ -35,6 +35,7 @@ https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
 https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
 
 ## EOS EXPLORER
+https://mereo.io/
 https://bloks.io
 https://www.eosrp.io/
 https://eosweb.net
@@ -153,6 +154,7 @@ https://www.crypto-france.com/airdrops-eos/
 https://steemit.com/eos/@genereos/new-airdrop-poor-tokens-announced-let-s-make-eos-better
 
 ## EOS ARTICLE
+https://blog.goodaudience.com/the-eos-elephant-in-the-room-35fb9bd1e94
 https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams
 https://steemit.com/eos/@eos-canada/a-candidate-chain-and-recognizing-community-effort-eos-launch-update
 https://www.youtube.com/watch?v=EZfQ9YRtlmU 100 $ end of year
