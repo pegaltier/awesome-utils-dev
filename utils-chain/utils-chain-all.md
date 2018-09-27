@@ -14,8 +14,7 @@ https://www.safeblocks.io/
 
 ## QUOTES/ACTIVITY
 https://datamish.comk
-https://cryptosheets.com/
-https://cryptofinance.jbuty.com/
+https://chainshuttle.com
 https://coin360.io
 https://coinlib.io
 https://enroyd.com
@@ -23,7 +22,7 @@ https://www.altdex.co
 https://dickline.info
 https://coinmetrics.io
 https://blockfolio.com
-https://tradingview.com
+
 https://coincheckup.com
 http://demonocracy.info
 http://blocktivity.info
@@ -35,8 +34,11 @@ https://www.coinfairvalue.com
 https://sanbase-low.santiment.net/projects
 https://coingolive.com/en/coin/change-history
 
-## TREND
-https://chainshuttle.com
+## TRADING
+https://kryll.io/
+https://tradingview.com
+https://cryptosheets.com/
+https://cryptofinance.jbuty.com/
 
 ## NEWS
 https://globalhalo.com
