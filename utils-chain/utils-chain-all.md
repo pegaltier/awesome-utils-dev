@@ -11,6 +11,7 @@ https://www.blockcypher.com/
 https://coinlib.io/api/docs
 https://contracts.mywish.io/create
 https://www.safeblocks.io/
+https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RSS_EMAIL_CAMPAIGN)&mc_cid=546e431484&mc_eid=f9320c0921
 
 ## QUOTES/ACTIVITY
 https://datamish.comk
@@ -167,6 +168,7 @@ https://ethlend.io
 https://lendroid.com
 https://celsius.network
 https://dai.makerdao.com
+https://compound.finance
 http://www.saltlending.com
 https://ripiocredit.network
 https://www.unchained-capital.com

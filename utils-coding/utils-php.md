@@ -47,7 +47,8 @@ xampp multiple !:
 http://webdevzoom.com/install-run-multiple-xampp-windows/
 
 
-## ENV
+## ENV CONF
+http://jgrundner.com/slim-oo-003-decoupling-the-configuration/
 https://www.ekito.fr/people/setup-a-development-configuration-for-angularjs-and-a-php-mysql-rest-server-solving-the-cors-issue/
 
 ## SSO
