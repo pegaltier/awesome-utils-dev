@@ -174,6 +174,8 @@ https://ripiocredit.network
 https://www.unchained-capital.com
 https://blog.coinfabrik.com/cryptocurrency-backed-lending-platforms/
 
+# PRIVACY
+https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJpn7g/edit#gid=237137882
 
 ## PROTOCOL
 https://0xtracker.com

@@ -28,11 +28,11 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 more:       BNB, NEO, NANO, HOT, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, 
 
-nextb:      PIVX, LTC, NANO, XLM, BAT, ZIL, BNB, ELASTOS, ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
+nextb:      XMR, ZCASH, BTC, SALT, LEND, ENIGMA.......  LTC, NANO, XLM, BAT, ZIL, BNB, ELASTOS, ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
 
 safe:       BTC, ETH, ETC, EOS, NANO
 
-check:       RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
+check:      RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
 
 ## CRYPTO PREDICTION
 
