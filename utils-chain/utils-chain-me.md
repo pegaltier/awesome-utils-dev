@@ -5,7 +5,7 @@ https://www.binance.com/vote.html
 https://www.binance.com/en/fee/schedule
 https://support.binance.com/hc/en-us/sections/115000202591-Latest-News
 https://www.reddit.com/r/CryptoCurrency/comments/7pubqb/binance_withdrawal_fees/
-best to withdraw : eos, neo, gas, etc, xlm, xvg, kmd, ltc, zec, ada, bcn, nano, wave,
+best to withdraw : eos, neo, gas, etc, xlm, xvg, kmd, ltc, zec, ada, bcn, nano, wave, pivx, via, hc, xzc, nuls
 
 
 ## CRYTICAL
@@ -28,7 +28,7 @@ https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
 more:       BNB, NEO, NANO, HOT, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, 
 
-nextb:      BTG, ELASTOS,BAT, BNB, PAN/EOS SWAP ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
+nextb:      PIVX, LTC, NANO, XLM, BAT, ZIL, BNB, ELASTOS, ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
 
 safe:       BTC, ETH, ETC, EOS, NANO
 
