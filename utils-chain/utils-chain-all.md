@@ -11,6 +11,7 @@ https://www.blockcypher.com/
 https://coinlib.io/api/docs
 https://contracts.mywish.io/create
 https://www.safeblocks.io/
+https://forkgen.tech/
 https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RSS_EMAIL_CAMPAIGN)&mc_cid=546e431484&mc_eid=f9320c0921
 
 ## QUOTES/ACTIVITY
@@ -132,6 +133,8 @@ https://vimeo.com/176811304
 
 ## COLD WALLET
 https://billfodl.com/
+https://coldbit.com/
+https://en.bitcoin.it/wiki/Cold_storage
 https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 
 ## DAPPS 

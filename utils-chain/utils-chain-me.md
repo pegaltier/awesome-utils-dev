@@ -21,6 +21,9 @@ best to withdraw : eos, neo, gas, etc, xlm, xvg, kmd, ltc, zec, ada, bcn, nano, 
 
 0. https://dispatchlabs.io         
 0. https://horuspay.io
+0. https://github.com/solid/solid
+0. https://www.lemonde.fr/pixels/article/2018/10/01/l-un-des-peres-du-web-lance-solid-un-coffre-fort-numerique-pour-les-donnees-personnelles_5362806_4408996.html
+
 
 ## CRYPTO BET
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
