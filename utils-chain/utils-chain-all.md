@@ -230,21 +230,28 @@ https://www.coinigy.com
 
 https://essentia.one
 
-// BIA: Blockchain Interoperability Alliance
+BIA: Blockchain Interoperability Alliance
+https://interchain.io/
+
 https://medium.com/helloiconworld/blockchain-interoperability-alliance-icon-x-aion-x-wanchain-8aeaafb3ebdd
-WANCHAIN — https://wanchain.org
-ICON — https://icon.foundation
-AION — https://aion.network
+https://www.investinblockchain.com/blockchain-interoperability-projects/
+https://towardsdatascience.com/blockchain-interoperability-33a1a55fe718
 
-COSMOS — https://cosmos.network
+WANCHAIN — https://wanchain.org                 CHINA
+ICON — https://icon.foundation                  KOREA
+AION — https://aion.network                     CANADA
+PANTOLS — https://pantos.io/                    AUSTRIA
+COSMOS — https://cosmos.network                 
 POLKADOT — https://polkadot.network
-
+QUANT — https://www.quant.network/
+METRONOME — https://www.metronome.io/
+BLOCKCOLLIDER — https://www.blockcollider.org/      
 // DEX PROTOCOL
 0X — https://0xproject.com/
 
 // TAST: Token Atomic Swap Technology
 PANTOS — https://pantos.io
-
+https://etherscan.io/token/0x536381a8628dbcc8c70ac9a30a7258442eab4c92
 
 ## AIRDROP
 https://airdropalert.com
