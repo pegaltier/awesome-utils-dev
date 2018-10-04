@@ -118,7 +118,7 @@ https://support.exodus.io
 https://medium.com/exodus-movement
 https://atomicwallet.io
 
-## HARDWARE WALLET (COLD) 
+## HARDWARE WALLET
 https://trezor.io
 https://www.ledger.fr
 https://shiftcrypto.ch
@@ -134,6 +134,7 @@ https://vimeo.com/176811304
 ## COLD WALLET
 https://billfodl.com/
 https://coldbit.com/
+https://coinstorage.guru/
 https://en.bitcoin.it/wiki/Cold_storage
 https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 
