@@ -13,7 +13,10 @@ http://securingphp.com
 https://github.com/ziadoz/awesome-php
 https://www.cloudways.com/blog/top-php-github-projects/
 
-## SLIMPHP SKELETON
+## SLIM PHP LIST
+https://github.com/xssc/awesome-slim
+
+## SLIM PHP SKELETON
 https://github.com/slimphp/Slim-Skeleton
 https://github.com/odan/prisma
 https://github.com/tuupola/slim-api-skeleton
