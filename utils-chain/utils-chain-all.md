@@ -41,6 +41,7 @@ https://kryll.io/
 https://tradingview.com
 https://cryptosheets.com/
 https://cryptofinance.jbuty.com/
+https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96
 
 ## NEWS
 https://globalhalo.com
