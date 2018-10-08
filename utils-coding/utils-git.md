@@ -9,7 +9,8 @@ https://guides.github.com/features/mastering-markdown/
 # git most used 
 
 git status  
-
+git stash
+git stash pop
 
 
 # make a new blank repository in the current directory
