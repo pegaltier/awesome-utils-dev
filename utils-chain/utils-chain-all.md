@@ -264,6 +264,15 @@ https://holochain.org
 https://www.rsk.co
 https://github.com/craigdrabiktxmq
 
+## ECOMMERCE
+https://info.binance.com/en/currencies/cybermiles-token
+
+## CROWDFUNDING
+https://moedaseeds.com/
+
+## SUPPLY CHAIN
+https://info.binance.com/en/currencies/aeron
+
 # VENTURE / VC / HEDGE FUND
 http://dcg.co
 http://lsvp.com

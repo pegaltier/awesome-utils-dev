@@ -1,5 +1,6 @@
 # tutorial
 
+https://blog.octo.com/git-dans-la-pratique-22/
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 http://learngitbranching.js.org
 https://guides.github.com/features/mastering-markdown/
@@ -8,10 +9,11 @@ https://guides.github.com/features/mastering-markdown/
 
 # git most used 
 
-git status  
-git stash
-git stash pop
-
+git status (get infos)
+git stash (save local diff)
+git stash branch myfeature  (restore the stashed diff on a new branch)
+git stash pop (restore the stashed diff on current branch)
+git cherry-pick d42c389f (apply any commit on current branch)
 
 # make a new blank repository in the current directory
 git init
