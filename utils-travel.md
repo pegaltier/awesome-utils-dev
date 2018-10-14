@@ -12,6 +12,14 @@ https://www.interrail.eu/fr/pass-interrail/global-pass
 
 ## LODGING
 hostelsworld+apparthotel+couchsurfing+airbnb+yestudent+booking
+https://www.nestpick.com
+http://74living.at
+https://www.thehomelike.com
+https://www.spotahome.com/vienna
+https://vienna.craigslist.at/search/hhh?searchNearby=1
+https://www.wg-gesucht.de/wg-zimmer-in-Wien.163.0.1.0.html
+https://www.virtualvienna.net/moving-to-vienna/accommodation/how-to-find-an-apartment/
+
 
 ## LINKS
 http://www.petitstripsentreamis.com/
