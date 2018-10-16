@@ -126,10 +126,11 @@ https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-pro
 https://blog.pusher.com/make-angular-4-app-seo-friendly
 https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
 
-## BEST PRACTICES / AVOID COMMON BUGS
+## BEST PRACTICES / AVOID COMMON BUGS / TIPS
 https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
 https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/
 https://codeburst.io/angular-best-practices-4bed7ae1d0b7
+https://theinfogrid.com/tech/developers/angular/angular-development-tips/
 
 ## ANGULAR ELEMENTS
 https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
