@@ -74,6 +74,9 @@ https://stackblitz.com
 https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
 
+## ANGULAR7
+https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c
+
 ## ANGULAR6
 https://formationjavascript.com/mettre-a-jour-vers-angular-6/
 https://blog.ninja-squad.com/2018/05/04/what-is-new-angular-6/

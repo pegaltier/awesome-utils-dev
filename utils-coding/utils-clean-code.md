@@ -23,4 +23,9 @@ if/switch -> polymorphisme
 base
 https://thinkster.io/
 https://github.com/gothinkster
+
+## PHP
 https://github.com/railto/realworld-slim
+
+## JAVASCRIPT
+https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
