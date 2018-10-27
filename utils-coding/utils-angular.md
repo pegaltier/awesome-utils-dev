@@ -72,6 +72,13 @@ ng update
 
 https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
 
+https://www.techiediaries.com/updating-angular-cli-projects/
+https://appdividend.com/2018/10/20/how-to-update-angular-cli-to-version-7/
+https://blog.angularindepth.com/angular-5-or-angular-6-yes-please-d71b08b5e59b
+https://stackoverflow.com/questions/43931986/how-to-upgrade-angular-cli-to-the-latest-version
+
+https://medium.com/@timdeschryver/ng-update-the-setup-2d2c54d05a0e (update libs)
+
 http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html
 http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
 http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
