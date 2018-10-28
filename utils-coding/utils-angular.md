@@ -71,6 +71,7 @@ https://update.angular.io
 ng update
 
 https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
+https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4 <<< OFFICIAL
 
 https://www.techiediaries.com/updating-angular-cli-projects/
 https://appdividend.com/2018/10/20/how-to-update-angular-cli-to-version-7/
