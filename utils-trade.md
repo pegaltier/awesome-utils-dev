@@ -10,11 +10,12 @@
 STRATEGY1: follow my indicators > led + trend
 STRATEGY2: minimum time market buy stop
 STRATEGY3: UP = REPLACE BUY STOP + STOP LOSS
+STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT = 0% BULL
 
 http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/
 https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371
 https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15
-
+https://e-devenirtrader.com/en-bourse-anticiper-cest-perdre/ (STRATEGY4 VOLATILITY)
 ## STRATEGY 
 https://blog.darwinex.com/interview-de-trader-antojos-darwin-axf/?lang=fr
 https://www.myfxbook.com/members/antojos
