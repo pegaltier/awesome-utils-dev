@@ -254,10 +254,11 @@ https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
 
 ## ANGULAR STYLES GUIDE + CODE ANALYSIS  
 https://github.com/rangle/angular2-guidelines  
+https://github.com/mgechev/ngrev
 http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript  
 http://johnpapa.net/angular-2-styles/  
 https://github.com/mgechev/angular2-style-guide  
-https://palantir.github.io/tslint/  
+https://palantir.github.io/tslint/
 https://github.com/mgechev/ng2lint  
 http://www.sitepoint.com/introduction-angularjs-style-guides  
 
@@ -270,6 +271,7 @@ http://czeckd.github.io/angular2-svg-icon/demo/
 http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
 https://github.com/mgechev/scalable-architecture-demo  
 http://amcdnl.com/2017/10/02/angular-performance-tip-preserve-whitespace
+
 
 
 ## ANGULAR  BOOK/COURSES
