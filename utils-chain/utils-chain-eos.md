@@ -57,6 +57,7 @@ https://eosportal.io
 https://eosnation.io/
 
 ## EOS DAPPS LIST
+http://www.eoslist.io
 https://eosapps.net
 https://dapphub.co
 https://eosindex.io

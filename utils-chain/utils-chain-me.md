@@ -29,14 +29,12 @@ best to withdraw : eos, neo, gas, etc, xlm, xvg, kmd, ltc, zec, ada, bcn, nano, 
 https://www.investinblockchain.com/promising-cryptocurrencies-q3-2018/
 https://www.investinblockchain.com/cryptocurrency-billion-dollar-market-cap/
 
-more:       BNB, NEO, NANO, HOT, WAVES, PAN, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, VET, OMG, 
+more:       BNB, ELA, PIV, NANO, BIX, WAVES, HPB, POLY, BTC, KMD, ZEC, XMR, BCN, ONT, OMG, 
 
-nextb:      QKC, XMR, ZCASH, BTC, KMD, SALT, LEND, ENIGMA, BIX....... 
+nextb:      QKC, XMR, ZCASH, BTC, KMD, ENIGMA, ....... 
  LTC, NANO, XLM, BAT, ZIL, BNB, ELASTOS, ... BTC,XLM,EOS  .....  XMR,HPB, ELASTOS ... 
 
-safe:       BTC, ETH, ETC, EOS, NANO
-
-check:      RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY, ODEM 
+check:      RPX, CHAINZILLA, Tezos, Tendermint, Dfinity, Rchain, COSMOS, POLKADOT, HORUSPAY,  
 
 ## CRYPTO PREDICTION
 
