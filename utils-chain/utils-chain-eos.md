@@ -48,6 +48,7 @@ http://bios.eostracker.io/
 http://eosnetworkmonitor.io
 https://eos.feexplorer.io
 https://windshield.cypherglass.com/
+https://www.cypherblock.io/eosmarketcap
 
 ## EOS TRACK
 http://dev.cryptolions.io/mainnet/
