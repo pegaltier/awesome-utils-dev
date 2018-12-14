@@ -97,6 +97,10 @@ https://github.com/mpdf/mpdf (no dependencies)
 https://github.com/tecnickcom/tcpdf (no dependencies)
 https://github.com/mikehaertl/phpwkhtmltopdf (slimPHP wrapper + require wkhtmltopdf)
 
+## STATIC ANALYZER / ANALYZYS
+https://github.com/phpstan/phpstan
+https://github.com/phan/phan
+https://www.exakat.io
 
 ## XAMPP INCLUDE html pages
 c:/xampp/apache/conf/httpd.conf
