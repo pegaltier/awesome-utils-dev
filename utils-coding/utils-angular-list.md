@@ -561,7 +561,7 @@ https://blog.thecodecampus.de/angular-2-animate-creating-sliding-side-navigation
 https://www.youtube.com/watch?v=mVqQDEtRBwA
 
 
-## ANGULAR ROUTES ROUTER LAZY LOADING ROUTING
+## ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING
 https://medium.com/@michelestieven/lazy-loading-angular-modules-27856e940bb0
 https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
 https://blog.nrwl.io/enable-lazy-loading-in-angular-2-apps-8298916056#.184fee12y
@@ -586,7 +586,16 @@ https://keathmilligan.net/lazy-loading-content-with-angular-cli/
 http://www.monkeypatch.io/2017/03/07/ngVikings.html#part-i---lazy-loading
 https://angular-2-training-book.rangle.io/handout/modules/lazy-loading-module.html
 https://github.com/AngularClass/angular2-webpack-starter/wiki/Routing-and-Lazy-loading-@NgModules
+https://medium.com/tixdo-labs/angular-2-dynamic-component-loader-752c3235bf9#.7jgfb1s1w  
+https://medium.com/@Batch1211/angular2-resolving-asynchronous-data-services-before-they-are-injected-into-your-component-fa597cac41e0#.f4o55yprw  
 
+## ANGULAR DYNAMIC LOAD/LAZY LOAD SCRIPTS
+https://stackoverflow.com/questions/46240293/how-to-lazyload-library-in-angular-4-module
+https://stackoverflow.com/questions/44200434/in-angular-cli-how-does-the-lazy-attribute-work-to-load-global-libraries
+https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/global-scripts.md
+https://medium.com/@zainzafar/angular-load-external-javascript-file-dynamically-3d14dde815cb
+https://theinfogrid.com/tech/developers/angular/lazy-loading-scripts-and-styles-angular/
+https://coryrylan.com/blog/angular-tips-dynamic-module-imports-with-the-angular-cli
 
 ## ANGULAR SECURITY
 https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.qyagk4j6f
@@ -601,9 +610,6 @@ https://davidea.st/articles/the-beginners-guide-to-angular-universal
 http://blog.devcross.net/2016/03/20/angular-2-seo/  
 https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
 
-## ANGULAR DYNAMIC LOAD/LAZY LOAD
-https://medium.com/tixdo-labs/angular-2-dynamic-component-loader-752c3235bf9#.7jgfb1s1w  
-https://medium.com/@Batch1211/angular2-resolving-asynchronous-data-services-before-they-are-injected-into-your-component-fa597cac41e0#.f4o55yprw  
 
 
 ## ANGULAR RENDERING CIENT
