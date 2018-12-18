@@ -64,10 +64,14 @@ Nrwl Extensions : https://nrwl.io/nx
 ## ANGULAR HISTORY
 https://en.wikipedia.org/wiki/Angular_(application_platform)
 
-## ANGULAR COMMON MISTIKE CHECKLIST PERFORMANCE
+## ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE / 
 https://malcoded.com/posts/why-angular-not-works
 https://github.com/mgechev/angular-performance-checklist
-
+https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
+https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/
+https://codeburst.io/angular-best-practices-4bed7ae1d0b7
+https://theinfogrid.com/tech/developers/angular/angular-development-tips/
+https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
 
 ## HACK STARTER ONLINE FAST 
 https://stackblitz.com
@@ -75,9 +79,12 @@ https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
 
 ## ANGULAR7
+https://blog.angularindepth.com/new-in-angular-v7-1-updates-to-the-router-fd67d526ad05
+https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
 https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c
 
 ## ANGULAR6
+https://loiane.com/2018/05/upgrading-to-angular-v6/
 https://formationjavascript.com/mettre-a-jour-vers-angular-6/
 https://blog.ninja-squad.com/2018/05/04/what-is-new-angular-6/
 https://dzone.com/articles/whats-new-in-angular-6
@@ -128,12 +135,6 @@ https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-pro
 ## ANGULAR SEO
 https://blog.pusher.com/make-angular-4-app-seo-friendly
 https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
-
-## BEST PRACTICES / AVOID COMMON BUGS / TIPS
-https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
-https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/
-https://codeburst.io/angular-best-practices-4bed7ae1d0b7
-https://theinfogrid.com/tech/developers/angular/angular-development-tips/
 
 ## ANGULAR ELEMENTS
 https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
@@ -262,17 +263,13 @@ https://palantir.github.io/tslint/
 https://github.com/mgechev/ng2lint  
 http://www.sitepoint.com/introduction-angularjs-style-guides  
 
-
 ## ANGULAR SUPPORT IE/MOZILLA OLD VERSION
 http://czeckd.github.io/angular2-svg-icon/demo/  
-
 
 ## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION
 http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
 https://github.com/mgechev/scalable-architecture-demo  
 http://amcdnl.com/2017/10/02/angular-performance-tip-preserve-whitespace
-
-
 
 ## ANGULAR  BOOK/COURSES
 https://angularair.com/  
@@ -303,6 +300,7 @@ https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
 ## ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE
 https://alligator.io/angular/bundle-size/
 https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
+https://medium.com/@richavyas/webpack-new-way-of-building-ng2-app-a34a3bdabb17#.gcouo6jme
 https://hackernoon.com/rxjs-reduce-bundle-size-using-lettable-operators-418307295e85
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
 http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html  
@@ -417,6 +415,7 @@ https://github.com/reclarejs/reclare
 
 
 ## ANGULAR OBSERVABLE/REACTIVE/RXJS 
+https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
 https://yakovfain.com/2018/01/03/wrapping-an-rxjs-observable-stream-into-an-angular-service/
 https://blog.craftlab.hu/clarifying-observables-b7b3ed7e0a5f
 https://www.youtube.com/watch?v=65Us8NwmYf4 Top 7 RxJS Concepts for Angular Developers
@@ -549,9 +548,6 @@ https://github.com/ocombe/ng2-play/tree/ng2-translate
 https://github.com/ocombe/angular2-seed/tree/ng2-translate  
 
 http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angular-2/29844571  
-
-## ANGULAR 2 MODULE BUNDLER / WEBPACK
-https://medium.com/@richavyas/webpack-new-way-of-building-ng2-app-a34a3bdabb17#.gcouo6jme
 
 ## ANGULAR  CSS UI LIB
 http://blog.angular-university.io/angular-ngclass-ngstyle
