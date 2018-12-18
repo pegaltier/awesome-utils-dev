@@ -317,6 +317,16 @@ http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup
 http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_164
 https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294#.jrwcy16lq
 
+## ANGULAR CUSTOM BUILD / CUSTOM WEBPACK
+
+https://github.com/angular/angular-cli/issues/6137
+https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
+https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
+https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-build-chain-without-ejecting.aspx
+
+https://webpack.js.org/plugins/context-replacement-plugin/
+
+
 ## ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS
 https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
 
