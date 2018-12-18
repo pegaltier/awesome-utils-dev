@@ -216,6 +216,9 @@ https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-
 
 
 ## ANGULAR DEBUG
+https://code.visualstudio.com/docs/nodejs/angular-tutorial debug with vscode and chrome
+https://scotch.io/tutorials/debugging-angular-cli-applications-in-visual-studio-code
+
 https://www.sitepoint.com/angular-augury-debug-code/
 https://medium.com/nextfaze/devmod-probing-your-angular-application-for-fun-and-debugging-d7e07c688247
 https://hackernoon.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
