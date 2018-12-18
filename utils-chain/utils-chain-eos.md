@@ -3,8 +3,10 @@
 ●▬ begin eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
 ## EOS LIST
-https://github.com/DanailMinchev/awesome-eos/blob/master/readme.md
+https://github.com/DanailMinchev/awesome-eos
 https://github.com/DanailMinchev/awesome-eosio
+https://www.reddit.com/r/eos/
+https://www.eosgo.io/#k
 
 ## EOS OFFICIAL
 https://eos.io
