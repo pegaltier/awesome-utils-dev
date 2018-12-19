@@ -48,7 +48,15 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 
 ## HOLO DAPPS
+
+
 - Alls: https://github.com/holochain/apps
+
+- humm.earth https://humm.earth/
+
+- Morpheus Network https://morpheus.network/
+
+- Sacred Capital https://www.sacred.capital/
 
 - Holohouse: https://holohouse.org/
 
@@ -62,12 +70,13 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 - Our World: https://www.ourworldthegame.com
 
-- S7 Foundation/Noomap/Holoweb: http://noomap.info  I  Holoweb https://www.youtube.com/watch?v=y2zDSmq60zE&feature=youtu.be
-
 - Core.Network: https://core.network  I  http://superluminal.is 
 
 - Promether: https://promether.com
 
+- S7 Foundation/Noomap/Holoweb: http://noomap.info
+
+- Holoweb https://www.youtube.com/watch?v=y2zDSmq60zE
 
 ## HOLO DAPPS GIT
 https://github.com/MightyAlex200/Comet
@@ -80,4 +89,13 @@ https://www.holochain.science
 ## UNOFFICIAL DOCS
 https://docs.google.com/document/d/1BFWVHucWQZo9yfvmKVgEXPTq4Zn94gbKcaMiitTRDg4/edit#
 https://docs.google.com/document/d/1dQSqxSw6KcQp7WXVyC_I_d-Bf_5zfX0tihq6qDZSRq0/edit
-https://www.sacred.capital/
+
+
+## TWITTER
+https://twitter.com/holochainnews
+https://twitter.com/HoloCitizen
+https://twitter.com/helioscomm
+https://twitter.com/holochain
+https://twitter.com/TVG_HOLO
+https://twitter.com/H_O_L_O_
+https://twitter.com/artbrock
