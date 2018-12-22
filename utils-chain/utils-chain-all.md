@@ -140,12 +140,12 @@ https://en.bitcoin.it/wiki/Cold_storage
 https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 
 ## DAPPS 
-http://www.dappcapitulation.com
-https://www.stateofthedapps.com/
-https://dappradar.com
-https://dappradar.com/eos-dapps
 https://acrypto.io
-https://gameunculus.io/
+https://dappradar.com
+https://superdapps.com
+https://gameunculus.io
+http://www.dappcapitulation.com
+https://www.stateofthedapps.com
 https://play.google.com/store/apps/details?id=org.toshi
 
 ## DAPS ALL

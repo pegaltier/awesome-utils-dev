@@ -90,6 +90,8 @@ https://www.holochain.science
 https://docs.google.com/document/d/1BFWVHucWQZo9yfvmKVgEXPTq4Zn94gbKcaMiitTRDg4/edit#
 https://docs.google.com/document/d/1dQSqxSw6KcQp7WXVyC_I_d-Bf_5zfX0tihq6qDZSRq0/edit
 
+## TELEGRAM
+https://holochats.club
 
 ## TWITTER
 https://twitter.com/holochainnews

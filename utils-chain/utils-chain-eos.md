@@ -85,10 +85,13 @@ http://eva.coop
 https://edna.life
 http://eosproof.io
 https://www.zeos.co
+https://www.pixeos.io
 https://www.txtnet.io
-https://chintai-eos.io
+https://www.chintai.io
+https://oraclechain.io
+https://www.sendeos.io
 http://www.buttrfly.net
-https://oraclechain.io/index-en
+https://www.theeoswriter.io
 
 ## EOS DAPPS GAMES
 https://game.wizards.one
@@ -110,6 +113,7 @@ https://github.com/EOSIO/eos/wiki/CLI-Wallet
 https://nadejde.github.io/eos-token-sale/
 https://github.com/eoscanada/eosc
 https://www.eoscanada.com/en/tools
+https://www.altshiftdev.com/
 https://eosmonitor.io/accounts
 https://eosrio.io/simpleos/
 https://meet.one/pomelo
