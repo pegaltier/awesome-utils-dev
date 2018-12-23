@@ -1,4 +1,7 @@
 ## PEOPLE
+https://hive.one
+https://cia.cryptoinfluence.io
+
 Andreas Antonopoulos
 Anthony Diiorio
 Charles Hoskinson
