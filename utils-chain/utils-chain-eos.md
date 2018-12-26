@@ -35,6 +35,7 @@ https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-publ
 https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
 https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
 https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
+https://visionary.life/eos-ecosystem-for-developers-infographics/
 
 ## EOS EXPLORER
 https://mereo.io/
@@ -169,6 +170,7 @@ https://www.youtube.com/watch?v=EZfQ9YRtlmU 100 $ end of year
 https://medium.com/@bytemaster
 
 ## EOS TRADING
+https://visionary.life/eos-ecosystem-for-traders-infographics/
 https://www.tradingview.com/chart/?symbol=BITFINEX:EOSUSD
 https://www.tradingview.com/symbols/EOSUSD/
 https://www.tradingview.com/chart/EOSUSD/Pf7DVtfV-EOS-TO-1-000-101-PRICE-PREDICTIONS-FOR-2018-CryptoManiac101/

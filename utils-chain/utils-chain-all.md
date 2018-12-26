@@ -1,7 +1,7 @@
 ## PEOPLE
 https://hive.one
+https://cryptoinfluencers.io
 https://cia.cryptoinfluence.io
-
 Andreas Antonopoulos
 Anthony Diiorio
 Charles Hoskinson
@@ -16,6 +16,7 @@ https://contracts.mywish.io/create
 https://www.safeblocks.io/
 https://forkgen.tech/
 https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RSS_EMAIL_CAMPAIGN)&mc_cid=546e431484&mc_eid=f9320c0921
+https://visionary.life/eos-ecosystem-for-developers-infographics/
 
 ## QUOTES/ACTIVITY
 https://datamish.comk
@@ -45,6 +46,10 @@ https://tradingview.com
 https://cryptosheets.com/
 https://cryptofinance.jbuty.com/
 https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96
+http://beacon.by/ninjahacks/bullish-on-bitcoin-resources-and-recommendations
+https://mishayurchenko.me/wp-content/uploads/2018/12/Chart-Patterns-Cheat-Sheet.pdf
+https://docs.google.com/document/d/1gXM6ablkdqT1ZEhr_1RSLGbSIJ_CmXmht0NBHxJwwcI/edit
+https://mishayurchenko.me/wp-content/uploads/2018/12/PDF-TRADING-PLAN-YES-TRADE-PORTFOLIO.pdf
 
 ## NEWS
 https://globalhalo.com
@@ -72,7 +77,14 @@ https://www.tokendaily.co
 https://dailyhodl.com
 https://www.investinblockchain.com
 
+## PODCAST
+https://offthechain.libsyn.com/
+
+## DIRECTORY / CURATOR
+https://cryptominded.com/
+
 ## NEWSLETTER
+https://acryptoaday.com/
 https://weisscryptocurrencyratings.com/
 
 ## PROJECT
@@ -355,15 +367,13 @@ https://coinmarketcap.com/fr/currencies/basic-attention-token/
 https://coinmarketcap.com/fr/currencies/adbank/
 https://coincheckup.com/coins/adhive/
 
-## OTHERS TOOLS
-https://cryptoinfluencers.io
 
 ## JOB LIST
 https://crypto.jobs
 https://angel.co/jobs
-https://cryptojobslist.com/
+https://cryptojobslist.com
 https://cryptocurrencyjobs.co
-https://blockchainjobswall.com/
+https://blockchainjobswall.com
 
 ## EARN COINS
 https://earn.com
