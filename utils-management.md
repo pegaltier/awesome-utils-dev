@@ -1,6 +1,11 @@
+# MANAGEMENT
 
+- [MANAGEMENT](#management)
+	- [MANAGEMENT RULES](#management-rules)
+	- [MANAGE TASKS](#manage-tasks)
+	- [TEST](#test)
 
-# MANAGEMENT RULES
+## MANAGEMENT RULES
 
 1. entreprise libéré (frederic leloup)
 - auto organization
@@ -13,7 +18,7 @@ http://www.ycombinator.com/future/jessica/
 https://www.youtube.com/watch?v=Lb4IcGF5iTQ
 
 
-# MANAGE TASKS
+## MANAGE TASKS
 
 http://www.danielshaw.sk/lists/
 	
@@ -38,3 +43,6 @@ And some that didn’t make the top 10 but are extremely useful triggers…
 * Update…
 * Roll out…
 * Set up…
+
+## TEST
+
