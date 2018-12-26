@@ -14,31 +14,34 @@ var fs = require('fs');
 
 
 // Process file and create correct markdown
-var file = 'utils-new.md';
-var newContent1 = "", newContent2 = "";
+var input = 'utils-new.md';
+var newContent1 = "";
+var newContent2 = "";
 
+// break https://github.com/remarkjs/remark-breaks
 unified()
   .use(markdown)
   .use(breaks)
   .use(remark2rehype)
   .use(html)
-  .process(vfile.readSync(file), function (err, file) {
+  .process(vfile.readSync('utils-startup.md'), function(err, file) {
     if (err) throw err
-    newContent1 = String(file);
-    console.log('process1 ok', newContent1)
+    console.log(String(file))
   })
 
-console.log('step ok', newContent1)
+// console.log('step ok', newContent1)
 
 //process.stdin.pipe(stream(processor)).pipe(process.stdout)
 
 // Write the new file
-fs.writeFile(file, newContent1, function (err) {
+/*
+fs.writeFile(input, newContent1, function (err) {
   if (err) {
     return console.log(err);
   }
   console.log('write1 ok');
 });
+*/
 
 // Generate TOC
 // https://github.com/remarkjs/remark-toc

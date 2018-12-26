@@ -1,7 +1,7 @@
 {
   "name": "utils-dev",
   "version": "1.0.0",
-  "description": "![apache](https://badgen.now.sh/badge/license/Apache-2.0/blue)\r ![stars](https://badgen.now.sh/badge/stars/★★★★☆)",
+  "description": "List: resources, tools, tips, helper",
   "dependencies": {
     "fs": "0.0.1-security",
     "rehype-stringify": "^5.0.0",
@@ -16,7 +16,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "remark.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
