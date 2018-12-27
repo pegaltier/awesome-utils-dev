@@ -1,4 +1,5 @@
 ## HOLO ARTICLES
+https://cryptobriefing.com/holochain-dare-report-hot-review-investment-grade/
 https://itsblockchain.com/top-8-dapps-built-on-holochain/
 https://hacked.com/holochain-the-new-blockchain-a-look-beyond-the-hype/
 http://rimbit.dk/archive/index.php?thread-719-4.html
@@ -52,7 +53,9 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 - Alls: https://github.com/holochain/apps
 
-- humm.earth https://humm.earth/
+- Bridgit https://beta.bridgit.io/
+
+- Humm.earth https://humm.earth/
 
 - Morpheus Network https://morpheus.network/
 

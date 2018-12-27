@@ -30,4 +30,7 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 <p><a href="http://raaaj.com/">http://raaaj.com/</a></p>
 <h1>algo trader</h1>
 <p><a href="https://garybasin.com/">https://garybasin.com/</a><br>
-<a href="https://mechanicalforex.com/about">https://mechanicalforex.com/about</a></p>
+<a href="https://mechanicalforex.com/about">https://mechanicalforex.com/about</a><br>
+Stephane Ceaux-Dutheil. 
+
+</p>
