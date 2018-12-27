@@ -14,7 +14,7 @@ var fs = require('fs');
 
 
 // Process file and create correct markdown
-var input = 'utils-trade.md';
+var input = 'utils-management.md';
 var newContent1 = "";
 var newContent2 = "";
 
@@ -28,7 +28,7 @@ unified()
   .process(vfile.readSync(input), function(err, file) {
     if (err) throw err
     newContent1 = String(file);
-    console.log(String(file))
+    console.log('process1 ok')
   })
 
 // console.log('step ok', newContent1)

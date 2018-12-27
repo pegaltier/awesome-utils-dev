@@ -5,3 +5,9 @@
 <a href="https://medium.com/swlh/heres-how-to-grow-your-startup-7f74d5a3a14d">https://medium.com/swlh/heres-how-to-grow-your-startup-7f74d5a3a14d</a><br>
 <a href="https://usbeketrica.com/article/laurent-alexandre-elites-ne-veulent-pas-partager-intelligence">https://usbeketrica.com/article/laurent-alexandre-elites-ne-veulent-pas-partager-intelligence</a><br>
 <a href="https://news.crunchbase.com/news/happens-sell-startup/">https://news.crunchbase.com/news/happens-sell-startup/</a></p>
+
+<h2>Entreprenneurs</h2>
+<p>
+<a href="https://www.mitchellharper.me/">https://www.mitchellharper.me/</a>
+<a href="https://www.garyvaynerchuk.com/">https://www.garyvaynerchuk.com/</a>
+</p>
