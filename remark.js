@@ -14,7 +14,7 @@ var fs = require('fs');
 
 
 // Process file and create correct markdown
-var input = 'utils-new.md';
+var input = 'utils-trade.md';
 var newContent1 = "";
 var newContent2 = "";
 
@@ -24,8 +24,10 @@ unified()
   .use(breaks)
   .use(remark2rehype)
   .use(html)
-  .process(vfile.readSync('utils-startup.md'), function(err, file) {
+  .use(toc)
+  .process(vfile.readSync(input), function(err, file) {
     if (err) throw err
+    newContent1 = String(file);
     console.log(String(file))
   })
 
@@ -34,14 +36,14 @@ unified()
 //process.stdin.pipe(stream(processor)).pipe(process.stdout)
 
 // Write the new file
-/*
+
 fs.writeFile(input, newContent1, function (err) {
   if (err) {
     return console.log(err);
   }
   console.log('write1 ok');
 });
-*/
+
 
 // Generate TOC
 // https://github.com/remarkjs/remark-toc
