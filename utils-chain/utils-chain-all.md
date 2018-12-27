@@ -369,6 +369,7 @@ https://coincheckup.com/coins/adhive/
 
 
 ## JOB LIST
+https://blockew.com
 https://crypto.jobs
 https://angel.co/jobs
 https://cryptojobslist.com
