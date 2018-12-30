@@ -5,8 +5,9 @@
 ## EOS LIST
 https://github.com/DanailMinchev/awesome-eos
 https://github.com/DanailMinchev/awesome-eosio
-https://www.reddit.com/r/eos/
-https://www.eosgo.io/#k
+https://www.reddit.com/r/eos/ <<<<<<<<>>>>>>>>
+https://www.eosgo.io/ <<<<<<<<<<<<<>>>>>>>>>>>>
+
 
 ## EOS OFFICIAL
 https://eos.io
@@ -39,6 +40,7 @@ https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
 https://visionary.life/eos-ecosystem-for-developers-infographics/
 
 ## EOS EXPLORER
+https://www.eosgo.io
 https://mereo.io/
 https://bloks.io
 https://www.eosrp.io/
@@ -105,6 +107,10 @@ https://prospectors.io
 https://kingofeos.com
 https://eosbutton.io
 https://itam.games
+
+## EOS DAPPS GAMBLING
+https://dice.one
+https://eosbet.io
 
 ## EOS DAPPS DEV
 https://steemit.com/eos/@genereos/genereos-making-airdrops-accessible
@@ -199,6 +205,8 @@ https://medium.com/@xyzkwang334
 
 ## EOS PASSIVE INCOME
 https://captainaltcoin.com/best-ways-to-earn-passive-income-with-eos/
+https://www.reddit.com/r/eos/comments/9l3i85/5_ways_to_earn_passive_income_with_eos/
+
 
 ## EOS YOUTUBE
 The Crypto Type
