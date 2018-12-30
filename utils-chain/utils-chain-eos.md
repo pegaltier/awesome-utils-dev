@@ -34,6 +34,7 @@ https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-publ
 
 ## EOS TUTOS DEV
 https://medium.com/@shankqr/how-to-deploy-and-run-a-smart-contract-on-the-eos-blockchain-from-zero-to-hero-72ca592803ba
+https://medium.com/@shankqr/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c
 https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
 https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
 https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
@@ -220,10 +221,11 @@ Cypherglass
 MaxDapp
 
 ## EOS FORKS
+https://wax.io
 https://gold.io
 https://worbli.io
+https://www.ono.chat
 https://www.eosforce.io
 https://telosfoundation.io
-
 
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
