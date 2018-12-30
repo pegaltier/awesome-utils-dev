@@ -61,8 +61,12 @@ https://eosnodes.privex.io
 https://eosportal.io
 https://eosnation.io/
 
+## EOS NEWS
+https://www.theeoswriter.io
+
 ## EOS DAPPS LIST
 http://www.eoslist.io
+https://dapp.review
 https://eosapps.net
 https://dapphub.co
 https://eosindex.io
@@ -192,5 +196,26 @@ https://eosflare.io/account/blocktwitter
 
 ## EOS ARTICLES
 https://medium.com/@xyzkwang334
+
+## EOS PASSIVE INCOME
+https://captainaltcoin.com/best-ways-to-earn-passive-income-with-eos/
+
+## EOS YOUTUBE
+The Crypto Type
+EOS Phoenix
+crypto feez
+EOS Apologist
+EOS DAPP STARS
+EOS Related
+Everything EOS
+Cypherglass
+MaxDapp
+
+## EOS FORKS
+https://gold.io
+https://worbli.io
+https://www.eosforce.io
+https://telosfoundation.io
+
 
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●

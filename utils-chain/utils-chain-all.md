@@ -52,6 +52,8 @@ https://docs.google.com/document/d/1gXM6ablkdqT1ZEhr_1RSLGbSIJ_CmXmht0NBHxJwwcI/
 https://mishayurchenko.me/wp-content/uploads/2018/12/PDF-TRADING-PLAN-YES-TRADE-PORTFOLIO.pdf
 
 ## NEWS
+https://cryptonomist.ch
+https://cointelegraph.com
 https://globalhalo.com
 https://decrypto.net
 https://unblock.net

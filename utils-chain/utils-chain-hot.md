@@ -1,4 +1,5 @@
 ## HOLO ARTICLES
+https://hackernoon.com/wtf-is-holochain-35f9dd8e5908
 https://cryptobriefing.com/holochain-dare-report-hot-review-investment-grade/
 https://itsblockchain.com/top-8-dapps-built-on-holochain/
 https://hacked.com/holochain-the-new-blockchain-a-look-beyond-the-hype/
