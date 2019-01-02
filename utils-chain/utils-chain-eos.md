@@ -157,11 +157,12 @@ https://github.com/eosiosg/Vote-testnet
 
 ## EOS DEV
 https://github.com/EOSIO/eos
-https://eosio.github.io/eos/
+https://eosio.github.io/eos
 https://developers.eos.io
-https://developers.eos.io/
+https://developers.eos.io
 https://www.eosdocs.io
 https://eostutorials.com
+https://www.airdropsdac.com
 
 ## EOS DEV LIB
 https://github.com/EOSIO/demux-js
@@ -219,6 +220,8 @@ EOS Related
 Everything EOS
 Cypherglass
 MaxDapp
+Crypto Tim
+The EOS Podcast
 
 ## EOS FORKS
 https://wax.io

@@ -19,6 +19,7 @@ https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RS
 https://visionary.life/eos-ecosystem-for-developers-infographics/
 
 ## QUOTES/ACTIVITY
+http://charts.woobull.com
 https://datamish.comk
 https://chainshuttle.com
 https://coin360.io
