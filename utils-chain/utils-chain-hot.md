@@ -56,6 +56,8 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 - Bridgit https://beta.bridgit.io/
 
+- Wirdworld https://www.wirdpbc.xyz/
+
 - Humm.earth https://humm.earth/
 
 - Morpheus Network https://morpheus.network/
