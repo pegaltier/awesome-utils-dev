@@ -8,15 +8,19 @@ Charles Hoskinson
 Balaji S. Srinivasan
 Gary Basin
 
+## TOP TOOLS
+https://solume.io
+https://coin360.com
+https://datalight.me
+https://coincodecap.com
+https://thetie.io/coins
+https://www.moonmath.win
+https://data.bitcoinity.org
+https://www.coinsignals.trade
 
-## DEV / SMART CONTRACT / TOOLS
-https://www.blockcypher.com/
-https://coinlib.io/api/docs
-https://contracts.mywish.io/create
-https://www.safeblocks.io/
-https://forkgen.tech/
-https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RSS_EMAIL_CAMPAIGN)&mc_cid=546e431484&mc_eid=f9320c0921
-https://visionary.life/eos-ecosystem-for-developers-infographics/
+## TOP GAMES
+https://cryptoguessinggame.com/
+
 
 ## QUOTES/ACTIVITY
 http://charts.woobull.com
@@ -245,8 +249,6 @@ https://localethereum.com
 https://www.coinigy.com
 
 ## INTEROP
-
-
 https://essentia.one
 
 BIA: Blockchain Interoperability Alliance
@@ -375,6 +377,7 @@ https://coincheckup.com/coins/adhive/
 https://blockew.com
 https://crypto.jobs
 https://angel.co/jobs
+https://coinmonks.com
 https://cryptojobslist.com
 https://cryptocurrencyjobs.co
 https://blockchainjobswall.com
@@ -416,3 +419,13 @@ https://ducatur.com/
 https://github.com/mimblewimble/grin
 https://github.com/amark/gun
 https://era.eco/
+
+
+## DEV / SMART CONTRACT / TOOLS / DAPPS
+https://www.blockcypher.com/
+https://coinlib.io/api/docs
+https://contracts.mywish.io/create
+https://www.safeblocks.io/
+https://forkgen.tech/
+https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RSS_EMAIL_CAMPAIGN)&mc_cid=546e431484&mc_eid=f9320c0921
+https://visionary.life/eos-ecosystem-for-developers-infographics/
