@@ -34,14 +34,12 @@ holo: Jean-François Noubel https://noubel.fr/
 keywords: post-blockchain, 
 
 ## HOLO DEV LINKS
-https://developer.holochain.org/Install_Holochain
-https://developer.holochain.org/Running_an_App
-https://developer.holochain.org/Command_Line_Tools
+https://developer.holochain.org/
 https://github.com/holochain/HoloWorld
-https://developer.holochain.org/API
 https://github.com/holochain/dna-to-openapi
 https://holochain.github.io/holochain-rust/
 https://holochain.github.io/scaffold/
+https://github.com/holochain/holosqape
 https://www.youtube.com/watch?v=BvhBfpT7JHo
 
 ## HOLO JOBS
@@ -53,6 +51,8 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 
 - Alls: https://github.com/holochain/apps
+
+- Alls: https://telegra.ph/Holochain-Projects-10-18
 
 - Bridgit https://beta.bridgit.io/
 
