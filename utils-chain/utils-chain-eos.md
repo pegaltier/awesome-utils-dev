@@ -213,6 +213,7 @@ https://www.reddit.com/r/eos/comments/9l3i85/5_ways_to_earn_passive_income_with_
 ## EOS YOUTUBE
 https://www.theeoswriter.io/video/
 The Crypto Type
+EOS Radio
 EOS Phoenix
 crypto feez
 EOS Apologist
