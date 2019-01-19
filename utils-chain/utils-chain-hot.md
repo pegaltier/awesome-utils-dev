@@ -42,6 +42,9 @@ https://holochain.github.io/scaffold/
 https://github.com/holochain/holosqape
 https://www.youtube.com/watch?v=BvhBfpT7JHo
 
+## HOLO DEV TUTOS
+https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
+
 ## HOLO JOBS
 
 https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identity-at-holo-via-regenerative-software-remote
@@ -82,10 +85,13 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 - S7 Foundation/Noomap/Holoweb: http://noomap.info
 
-- Holoweb https://www.youtube.com/watch?v=y2zDSmq60zE
+- Holoweb: https://www.youtube.com/watch?v=y2zDSmq60zE
 
-## HOLO DAPPS GIT
-https://github.com/MightyAlex200/Comet
+- Holo-health: https://github.com/evomimic/holo-health 
+ 
+- Comet: https://github.com/MightyAlex200/Comet
+
+CoGov: http://cogov.startbutton.com/
 
 ## UNOFFICIAL SITES
 
