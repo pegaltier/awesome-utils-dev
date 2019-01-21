@@ -24,7 +24,8 @@
   - [ANGULAR TOOLS](#angular-tools)
   - [ANGULAR CI / CONTINIOUS INTEGRATION / AUTOMATED](#angular-ci--continious-integration--automated)
   - [ANGULAR DEBUG](#angular-debug)
-  - [ANGULAR DOC UTILS](#angular-doc-utils)
+  - [ANGULAR DOC UTILS CHEAT-SHEETS](#angular-doc-utils-cheat-sheets)
+  - [ANGULAR DESIGN](#angular-design)
   - [ANGULAR STYLES GUIDE + CODE ANALYSIS](#angular-styles-guide--code-analysis)
   - [ANGULAR SUPPORT IE/MOZILLA OLD VERSION](#angular-support-iemozilla-old-version)
   - [ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION](#angular-scalable-performance-perf-optimization)
@@ -149,8 +150,8 @@ https://jaxenter.com/road-to-angular-5-133253.html
 https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#injectiontoken-since-angular-4x
 http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes/
 https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
-https://toddmotto.com/angular-dynamic-components-forms
- 
+
+
 ## ANGULAR PROXY
 https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md
 https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
@@ -269,12 +270,13 @@ https://scotch.io/tutorials/debugging-angular-2-apps-with-augury
 http://juristr.com/blog/2016/02/debugging-angular2-console  
 https://manuel-rauber.com/2016/09/30/how-to-debug-angular-2-with-webstorm/
 
-## ANGULAR DOC UTILS
+## ANGULAR DOC UTILS CHEAT-SHEETS
 https://codeburst.io/angular-bad-practices-eab0e594ce92
 http://angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html  
 http://www.wintellect.com/devcenter/dbaskin/big-ideas-behind-angular2  
 http://www.angulartypescript.com  
-https://angular.io/docs/ts/latest/guide/cheatsheet.html  
+https://angular.io/docs/ts/latest/guide/cheatsheet.html 
+https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
 https://angular.io/docs/ts/latest/api/  
 https://learnxinyminutes.com/docs/typescript/  
 http://www.typescriptlang.org/Handbook  
@@ -291,8 +293,8 @@ http://blogs.walkingtree.in/2016/03/22/thinking-in-angular-2/
 https://medium.com/@NetanelBasal/angular-2-improve-performance-with-trackby-cc147b5104e5#.74fiumqt7
 https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1
 
-#ANGULAR2 CHEAT-SHEETS
-https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
+## ANGULAR DESIGN
+https://github.com/Dynatrace/sketchmine
 
 ## ANGULAR STYLES GUIDE + CODE ANALYSIS  
 https://github.com/rangle/angular2-guidelines  
@@ -421,14 +423,16 @@ https://www.sitepoint.com/angular-forms/
 https://www.toptal.com/angular-js/angular-4-forms-validation
 https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.aq9267ptf
 http://stackoverflow.com/questions/33866824/angular2-control-validation-on-blur/41973780#41973780
-https://coryrylan.com/blog/angular-form-builder-and-validation-management							************** with red messages for each field
+https://coryrylan.com/blog/angular-form-builder-and-validation-management							**************
 http://learnangular2.com/forms/																		**************
 https://toddmotto.com/angular-2-forms-template-driven												**************
 https://toddmotto.com/angular-2-forms-reactive														**************
 https://toddmotto.com/reactive-formgroup-validation-angular-2										**************
 https://scotch.io/tutorials/angular-2-form-validation
 https://toddmotto.com/angular-ng-errors-form-validation
+https://toddmotto.com/angular-dynamic-components-forms
 https://github.com/UltimateAngular/ngxerrors
+https://github.com/ngx-formly/ngx-formly (dynamic)
 
 ## ANGULAR TEMPLATE
 http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
