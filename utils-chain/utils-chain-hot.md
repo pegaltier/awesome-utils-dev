@@ -57,15 +57,19 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 - Alls: https://telegra.ph/Holochain-Projects-10-18
 
-- Bridgit https://beta.bridgit.io/
+- Alls: https://docs.google.com/document/d/1fsr-N4Rua4sXUdMshbLh4-2LT3p050P7iQF6L-F0aQU/edit
+- 
+- Fairbnb: https://fairbnb.coop/fr/
 
-- Wirdworld https://www.wirdpbc.xyz/
+- Bridgit: https://beta.bridgit.io/
 
-- Humm.earth https://humm.earth/
+- Wirdworld: https://www.wirdpbc.xyz/
 
-- Morpheus Network https://morpheus.network/
+- Humm.earth: https://humm.earth/
 
-- Sacred Capital https://www.sacred.capital/
+- Morpheus Network: https://morpheus.network/
+
+- Sacred Capital: https://www.sacred.capital/
 
 - Holohouse: https://holohouse.org/
 
@@ -92,6 +96,12 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 - Comet: https://github.com/MightyAlex200/Comet
 
 - CoGov: http://cogov.startbutton.com/
+
+- Omniapp: https://ipfs.eternum.io/ipns/omniapp.org/
+
+- Holo-REA: https://cryptpad.fr/pad/#/2/pad/view/IXAcC-s+GaMNbeujxpDr5jb0Fqz1aU7x+MUBnAeqNcE/
+
+
 
 ## UNOFFICIAL SITES
 

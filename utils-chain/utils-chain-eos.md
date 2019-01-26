@@ -68,6 +68,7 @@ https://eosnation.io/
 https://www.theeoswriter.io
 
 ## EOS DAPPS LIST
+https://www.eosdividends.com
 http://www.eoslist.io
 https://dapp.review
 https://eosapps.net
