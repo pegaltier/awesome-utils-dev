@@ -1,3 +1,16 @@
+
+## HOLO BEST ARTICLES
+https://medium.com/@hank.sohota/beyond-bitcoin-and-ethereum-a-fairer-and-more-just-post-monetary-sociopolitical-economy-17a8d14de4b0
+https://swahilipages.blogspot.com/2018/12/holochain-digital-asset-report-hot.html
+https://swahilipages.blogspot.com/2018/11/holochain-analysis-1-philosophy-and-key.html
+https://swahilipages.blogspot.com/2018/11/holochain-analysis-2-architecture.html
+https://www.bitrates.com/news/p/holo-social-dapps-leveraging-distributed-hash-tables-as-the-public-space
+
+https://www.notion.so/Holochain-Reading-List-352388be758f4356a6da1fbb7962f87c
+https://www.notion.so/Solving-Human-Extinction-e46392ad626e4856b6ac083f08a885da
+http://wealthofthecommons.org/essay/introduction-commons-transformative-vision
+https://www.ethnews.com/amp/holochain-previews-rust-client-as-it-seeks-to-supplant-ethereum
+
 ## HOLO ARTICLES
 https://hackernoon.com/wtf-is-holochain-35f9dd8e5908
 https://cryptobriefing.com/holochain-dare-report-hot-review-investment-grade/
