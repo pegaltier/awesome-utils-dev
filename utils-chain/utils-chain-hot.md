@@ -112,9 +112,13 @@ https://cryptojobslist.com/jobs/holochain-developer-cryptography-security-identi
 
 - Omniapp: https://ipfs.eternum.io/ipns/omniapp.org/
 
-- Holo-REA: https://cryptpad.fr/pad/#/2/pad/view/IXAcC-s+GaMNbeujxpDr5jb0Fqz1aU7x+MUBnAeqNcE/
+- Holo-REA: https://cryptpad.fr/pad/#/2/pad/view/IXAcC-s+GaMNbeujxpDr5jb0Fqz1aU7x+MUBnAeqNcE/ http://mikorizal.org/links.html
 
+- Redgrid: https://redgrid.io/
 
+- MetaIntegral: https://twitter.com/MetaIntegral
+
+- Hemp360: https://www.hemp360.com/
 
 ## UNOFFICIAL SITES
 

@@ -3,6 +3,7 @@
 ## API RESTFULL 
 
 https://restfulapi.net/http-status-codes/
+https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
 
 ## GENERATE PDF
 https://pdfshift.io
