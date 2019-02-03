@@ -6,6 +6,10 @@
 <h2>EUROPE</h2>
 <p><a href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/">https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/</a><br>
 <a href="https://www.interrail.eu/fr/pass-interrail/global-pass">https://www.interrail.eu/fr/pass-interrail/global-pass</a></p>
+<a href="https://bruttonetto.arbeiterkammer.at/">Salary in Austria</a>
+<a href="https://www.karriere.at/">Job in Austria</a>
+</p>
+
 <h2>LODGING</h2>
 <p>hostelsworld+apparthotel+couchsurfing+airbnb+yestudent+booking</p>
 <h2>AUSTRIA</h2>
