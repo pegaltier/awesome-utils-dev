@@ -44,3 +44,6 @@ https://kintu.co/ethereum-projects/
 https://www.bethereum.com
 https://setprotocol.com
 https://www.tokensets.com/
+
+## ETH ARTICLES
+https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0

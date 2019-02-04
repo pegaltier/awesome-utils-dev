@@ -3,8 +3,11 @@
 ●▬ begin eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
 ## EOS LIST
-https://github.com/DanailMinchev/awesome-eos/blob/master/readme.md
+https://github.com/DanailMinchev/awesome-eos
 https://github.com/DanailMinchev/awesome-eosio
+https://www.reddit.com/r/eos/ <<<<<<<<>>>>>>>>
+https://www.eosgo.io/ <<<<<<<<<<<<<>>>>>>>>>>>>
+
 
 ## EOS OFFICIAL
 https://eos.io
@@ -30,11 +33,15 @@ https://github.com/eoscafe/eos-key
 https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys
 
 ## EOS TUTOS DEV
+https://medium.com/@shankqr/how-to-deploy-and-run-a-smart-contract-on-the-eos-blockchain-from-zero-to-hero-72ca592803ba
+https://medium.com/@shankqr/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c
 https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
 https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
 https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
+https://visionary.life/eos-ecosystem-for-developers-infographics/
 
 ## EOS EXPLORER
+https://www.eosgo.io
 https://mereo.io/
 https://bloks.io
 https://www.eosrp.io/
@@ -57,8 +64,13 @@ https://eosnodes.privex.io
 https://eosportal.io
 https://eosnation.io/
 
+## EOS NEWS
+https://www.theeoswriter.io
+
 ## EOS DAPPS LIST
+https://www.eosdividends.com
 http://www.eoslist.io
+https://dapp.review
 https://eosapps.net
 https://dapphub.co
 https://eosindex.io
@@ -83,10 +95,13 @@ http://eva.coop
 https://edna.life
 http://eosproof.io
 https://www.zeos.co
+https://www.pixeos.io
 https://www.txtnet.io
-https://chintai-eos.io
+https://www.chintai.io
+https://oraclechain.io
+https://www.sendeos.io
 http://www.buttrfly.net
-https://oraclechain.io/index-en
+https://www.theeoswriter.io
 
 ## EOS DAPPS GAMES
 https://game.wizards.one
@@ -94,6 +109,10 @@ https://prospectors.io
 https://kingofeos.com
 https://eosbutton.io
 https://itam.games
+
+## EOS DAPPS GAMBLING
+https://dice.one
+https://eosbet.io
 
 ## EOS DAPPS DEV
 https://steemit.com/eos/@genereos/genereos-making-airdrops-accessible
@@ -108,6 +127,7 @@ https://github.com/EOSIO/eos/wiki/CLI-Wallet
 https://nadejde.github.io/eos-token-sale/
 https://github.com/eoscanada/eosc
 https://www.eoscanada.com/en/tools
+https://www.altshiftdev.com/
 https://eosmonitor.io/accounts
 https://eosrio.io/simpleos/
 https://meet.one/pomelo
@@ -138,11 +158,12 @@ https://github.com/eosiosg/Vote-testnet
 
 ## EOS DEV
 https://github.com/EOSIO/eos
-https://eosio.github.io/eos/
+https://eosio.github.io/eos
 https://developers.eos.io
-https://developers.eos.io/
+https://developers.eos.io
 https://www.eosdocs.io
 https://eostutorials.com
+https://www.airdropsdac.com
 
 ## EOS DEV LIB
 https://github.com/EOSIO/demux-js
@@ -163,6 +184,7 @@ https://www.youtube.com/watch?v=EZfQ9YRtlmU 100 $ end of year
 https://medium.com/@bytemaster
 
 ## EOS TRADING
+https://visionary.life/eos-ecosystem-for-traders-infographics/
 https://www.tradingview.com/chart/?symbol=BITFINEX:EOSUSD
 https://www.tradingview.com/symbols/EOSUSD/
 https://www.tradingview.com/chart/EOSUSD/Pf7DVtfV-EOS-TO-1-000-101-PRICE-PREDICTIONS-FOR-2018-CryptoManiac101/
@@ -183,5 +205,33 @@ https://eosflare.io/account/blocktwitter
 
 ## EOS ARTICLES
 https://medium.com/@xyzkwang334
+
+## EOS PASSIVE INCOME
+https://captainaltcoin.com/best-ways-to-earn-passive-income-with-eos/
+https://www.reddit.com/r/eos/comments/9l3i85/5_ways_to_earn_passive_income_with_eos/
+
+
+## EOS YOUTUBE
+https://www.theeoswriter.io/video/
+The Crypto Type
+EOS Radio
+EOS Phoenix
+crypto feez
+EOS Apologist
+EOS DAPP STARS
+EOS Related
+Everything EOS
+Cypherglass
+MaxDapp
+Crypto Tim
+The EOS Podcast
+
+## EOS FORKS
+https://wax.io
+https://gold.io
+https://worbli.io
+https://www.ono.chat
+https://www.eosforce.io
+https://telosfoundation.io
 
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●

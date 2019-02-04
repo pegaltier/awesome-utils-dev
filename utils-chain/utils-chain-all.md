@@ -1,20 +1,29 @@
 ## PEOPLE
+https://hive.one
+https://cryptoinfluencers.io
+https://cia.cryptoinfluence.io
 Andreas Antonopoulos
 Anthony Diiorio
 Charles Hoskinson
 Balaji S. Srinivasan
 Gary Basin
 
+## TOP TOOLS
+https://solume.io
+https://coin360.com
+https://datalight.me
+https://coincodecap.com
+https://thetie.io/coins
+https://www.moonmath.win
+https://data.bitcoinity.org
+https://www.coinsignals.trade
 
-## DEV / SMART CONTRACT / TOOLS
-https://www.blockcypher.com/
-https://coinlib.io/api/docs
-https://contracts.mywish.io/create
-https://www.safeblocks.io/
-https://forkgen.tech/
-https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RSS_EMAIL_CAMPAIGN)&mc_cid=546e431484&mc_eid=f9320c0921
+## TOP GAMES
+https://cryptoguessinggame.com/
+
 
 ## QUOTES/ACTIVITY
+http://charts.woobull.com
 https://datamish.comk
 https://chainshuttle.com
 https://coin360.io
@@ -42,8 +51,14 @@ https://tradingview.com
 https://cryptosheets.com/
 https://cryptofinance.jbuty.com/
 https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96
+http://beacon.by/ninjahacks/bullish-on-bitcoin-resources-and-recommendations
+https://mishayurchenko.me/wp-content/uploads/2018/12/Chart-Patterns-Cheat-Sheet.pdf
+https://docs.google.com/document/d/1gXM6ablkdqT1ZEhr_1RSLGbSIJ_CmXmht0NBHxJwwcI/edit
+https://mishayurchenko.me/wp-content/uploads/2018/12/PDF-TRADING-PLAN-YES-TRADE-PORTFOLIO.pdf
 
 ## NEWS
+https://cryptonomist.ch
+https://cointelegraph.com
 https://globalhalo.com
 https://decrypto.net
 https://unblock.net
@@ -69,7 +84,15 @@ https://www.tokendaily.co
 https://dailyhodl.com
 https://www.investinblockchain.com
 
+## PODCAST
+https://evolvement.io/
+https://offthechain.libsyn.com/
+
+## DIRECTORY / CURATOR
+https://cryptominded.com/
+
 ## NEWSLETTER
+https://acryptoaday.com/
 https://weisscryptocurrencyratings.com/
 
 ## PROJECT
@@ -140,12 +163,12 @@ https://en.bitcoin.it/wiki/Cold_storage
 https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 
 ## DAPPS 
-http://www.dappcapitulation.com
-https://www.stateofthedapps.com/
-https://dappradar.com
-https://dappradar.com/eos-dapps
 https://acrypto.io
-https://gameunculus.io/
+https://dappradar.com
+https://superdapps.com
+https://gameunculus.io
+http://www.dappcapitulation.com
+https://www.stateofthedapps.com
 https://play.google.com/store/apps/details?id=org.toshi
 
 ## DAPS ALL
@@ -227,8 +250,6 @@ https://localethereum.com
 https://www.coinigy.com
 
 ## INTEROP
-
-
 https://essentia.one
 
 BIA: Blockchain Interoperability Alliance
@@ -352,15 +373,15 @@ https://coinmarketcap.com/fr/currencies/basic-attention-token/
 https://coinmarketcap.com/fr/currencies/adbank/
 https://coincheckup.com/coins/adhive/
 
-## OTHERS TOOLS
-https://cryptoinfluencers.io
 
 ## JOB LIST
+https://blockew.com
 https://crypto.jobs
 https://angel.co/jobs
-https://cryptojobslist.com/
+https://coinmonks.com
+https://cryptojobslist.com
 https://cryptocurrencyjobs.co
-https://blockchainjobswall.com/
+https://blockchainjobswall.com
 
 ## EARN COINS
 https://earn.com
@@ -399,3 +420,17 @@ https://ducatur.com/
 https://github.com/mimblewimble/grin
 https://github.com/amark/gun
 https://era.eco/
+
+
+## DEV / SMART CONTRACT / TOOLS / DAPPS
+https://www.blockcypher.com/
+https://coinlib.io/api/docs
+https://contracts.mywish.io/create
+https://www.safeblocks.io/
+https://forkgen.tech/
+https://blog.status.im/embark-3-2-much-more-than-a-moonshot-4d9c6cbe6f63?ct=t(RSS_EMAIL_CAMPAIGN)&mc_cid=546e431484&mc_eid=f9320c0921
+https://visionary.life/eos-ecosystem-for-developers-infographics/
+
+## CLOTHES
+https://hodlmoon.com/
+https://hodlers.shopping/
