@@ -195,6 +195,7 @@ http://brianflove.com/2017/04/11/angular-language-service/
 
 
 ## ANGULAR CLI
+https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
 https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
 https://github.com/angular/angular-cli  
 http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli
@@ -292,6 +293,7 @@ https://devblog.dymel.pl/2017/10/04/angular-in-docker/
 http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode
 
 ## ANGULAR DISTRIBUTING LIBRARY LIBS
+https://next.angular.io/guide/creating-libraries
 http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
 https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266
 https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
@@ -349,7 +351,6 @@ http://www.bennadel.com/blog/3062-creating-an-html-dropdown-menu-component-in-an
 https://matthewross.me/blog/posts/notifications-an-angular-2-component  
 http://tombuyse.com/creating-a-loading-indicator-in-angular-2-ionic-2/  
 https://scotch.io/tutorials/creating-your-first-angular-2-components  
-https://matthewross.me/blog/posts/minimal-angular-2-modal
 https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
 http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/  
 https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-component-angular-2/
@@ -413,6 +414,7 @@ https://github.com/firebase/php-jwt
 https://stormpath.com/blog/jjwt-how-it-works-why/  
 
 ## ANGULAR STATE MANAGEMENT
+https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
 http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
 https://github.com/reclarejs/reclare
 
@@ -631,7 +633,9 @@ http://nwjs.io/
 https://github.com/bojzi/sound-machine-electron-guide  
 https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.nt2t38q9n  
 
-## ANGULAR ERROR HANDLER / EXCEPTION
+## ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION
+https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
+https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
 
 
@@ -674,10 +678,18 @@ https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 https://github.com/ribizli/ng2-imageupload  
 https://github.com/jkuri/ng2-uploader  
 
+## ANGULAR LIB MODAl
+https://github.com/biig-io/ngx-smart-modal
+https://github.com/shlomiassaf/ngx-modialog
+https://matthewross.me/blog/posts/minimal-angular-2-modal
 
-## ANGULAR LIBS GENERAL
+## ANGULAR LIB PROGRESS / LOADING / LOADER / BAR
+https://github.com/MurhafSousli/ngx-progressbar
+https://github.com/aitboudad/ngx-loading-bar
+https://github.com/biig-io/ngx-smart-loader
+
+## ANGULAR LIB GENERAL
 http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
-
 https://swimlane.github.io/ng2d3/
 http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
 https://github.com/basvandenberg/angular2-select/tree/1.0.0-alpha.7	<< AUTOCOMPLETE + SELECT ITEM
@@ -687,7 +699,6 @@ http://amcdnl.github.io/angular2-demo/ << PARALLAX
 https://github.com/flauc/angular2-notifications  
 http://flauc.github.io/angular2-notifications/  
 https://github.com/tjoskar/ng2-lazyload-image  
-
 https://github.com/stabzs/Angular2-Toaster  
 https://justindujardin.github.io/ng2-material/  
 https://github.com/akserg/ng2-dnd  
@@ -709,7 +720,7 @@ https://github.com/czeckd/angular2-simple-modal
 http://demos.wijmo.com/5/angular2/FlexGridIntro/FlexGridIntro/  
 https://github.com/WoltersKluwerPL/ng2-spin-kit  
 
-## ANGULAR  LIBS THEME/STYLE/CSS
+## ANGULAR LIB GENERAL THEME/STYLE/CSS
 https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2#.bwypv3is1
 https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components  
@@ -724,7 +735,7 @@ https://github.com/start-angular/ani-angular-2 *** < example bs4 all ts
 http://demos.wijmo.com/5/Angular2/Explorer/Explorer  
 http://ng-lightning.github.io/ng-lightning/  
 
-## ANGULAR demo sources
+## ANGULAR DEMO SOURCES
 https://github.com/brechtbilliet/winecellar (backend and auth)  
 https://github.com/amcdnl/angular2-demo  
 https://github.com/r-park/todo-angular2-firebase WITH BACKEND and OAUTH  
@@ -735,13 +746,9 @@ https://github.com/daviddt/angular2-form-validation-example
 https://github.com/ng-book/angular2-rxjs-chat  
 https://github.com/blacksonic/angular2-es6-starter  
 https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang roles
-
-## ANGULAR POC WEBAPP
 https://hackernoon.com/chatbot-with-angular-5-dialogflow-fdac97fef681
 
-
-
-## ANGULAR running demo
+## ANGULAR DEMO APP
 http://winecellar.surge.sh/    
 http://rawgit.com/start-angular/ani-angular-2/master/dist/prod/index.html  
 http://builtwithangular2.com/  
