@@ -50,6 +50,7 @@
   - [ANGULAR 2 SECURE AUTH](#angular-2-secure-auth)
   - [ANGULAR STATE MANAGEMENT](#angular-state-management)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
+  - [ANGULAR RXJS UPGRADE](#angular-rxjs-upgrade)
   - [ANGULAR RXJS](#angular-rxjs)
   - [ANGULAR HTTP](#angular-http)
   - [ANGULAR BACKEND MOCK BACKEND HTTP MOCK FIREBASE](#angular-backend-mock-backend-http-mock-firebase)
@@ -309,7 +310,10 @@ http://www.sitepoint.com/introduction-angularjs-style-guides
 ## ANGULAR SUPPORT IE/MOZILLA OLD VERSION
 http://czeckd.github.io/angular2-svg-icon/demo/  
 
-## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION
+## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION 
+https://zizzamia.github.io/perfume/
+https://alligator.io/angular/bundle-size/
+https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
 https://github.com/mgechev/angular-performance-checklist
 http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
 https://github.com/mgechev/scalable-architecture-demo  
@@ -486,6 +490,10 @@ http://www.metaltoad.com/blog/angular-2-http-observables
 http://blog.jhades.org/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/  
 http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/  
 http://blog.angular-university.io/rxjs-switchmap-operator/
+
+## ANGULAR RXJS UPGRADE
+https://github.com/cartant/rxjs-tslint-rules
+https://github.com/ReactiveX/rxjs-tslint
 
 ## ANGULAR RXJS
 https://netbasal.com/rxjs-subjects-for-human-beings-7807818d4e4d
