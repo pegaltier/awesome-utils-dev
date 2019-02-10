@@ -38,6 +38,7 @@ ng g class article
 ng g service article 
 ng g pipe my-new-pipe
 ng g directive my-directive
+ng g guard logged-in
 
 ng g module lazy
 ng g component lazy/lazypage

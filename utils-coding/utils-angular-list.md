@@ -70,16 +70,17 @@
   - [ANGULAR SECURITY](#angular-security)
   - [ANGULAR SEO META UNIVERSAL](#angular-seo-meta-universal)
   - [ANGULAR RENDERING CIENT](#angular-rendering-cient)
-  - [ANGULAR ERROR HANDLER / EXCEPTION](#angular-error-handler--exception)
+  - [ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION](#angular-error-handler--error-handling--exception)
   - [ANGULAR TEST TESTING](#angular-test-testing)
   - [ANGULAR API](#angular-api)
   - [ANGULAR AOT COMPLIANT LIB MAKE LIBRARY](#angular-aot-compliant-lib-make-library)
   - [ANGULAR UPLOAD](#angular-upload)
-  - [ANGULAR LIBS GENERAL](#angular-libs-general)
-  - [ANGULAR LIBS THEME/STYLE/CSS](#angular-libs-themestylecss)
-  - [ANGULAR demo sources](#angular-demo-sources)
-  - [ANGULAR POC WEBAPP](#angular-poc-webapp)
-  - [ANGULAR running demo](#angular-running-demo)
+  - [ANGULAR LIB MODAl](#angular-lib-modal)
+  - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
+  - [ANGULAR LIB GENERAL](#angular-lib-general)
+  - [ANGULAR LIB GENERAL THEME/STYLE/CSS](#angular-lib-general-themestylecss)
+  - [ANGULAR DEMO SOURCES](#angular-demo-sources)
+  - [ANGULAR DEMO APP](#angular-demo-app)
   - [ANGULAR native hybride mobile](#angular-native-hybride-mobile)
   - [ANGULAR LINKS](#angular-links)
   - [ANGULAR SOCKETS](#angular-sockets)
@@ -529,6 +530,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 
 ## ANGULAR REDUX NGRX STORE NGRX ENTITY
+https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
 https://github.com/ngrx/platform
 https://www.youtube.com/watch?v=1hlXlsaMeTs (simple login/logout)
 https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
