@@ -112,7 +112,25 @@ AddOutputFilter INCLUDES .html
 Go to Xampp Control Panel and stop the session and restart again.
 Refresh the page in browser and see, the virtual includes will start working.
 
-
-
 <!--#include virtual="/fr/header.html" -->
 <!--#include virtual="/se/site/as-html-web/site/fr/header.html" -->
+
+
+## PHP VSCODE EXTENSIONS
+Apache Conf
+API Elements extension
+change-case
+Composer
+Docker
+MySQL Syntax
+openapi-lint
+PHP Debug
+PHP DocBlocker
+PHP Intelephense
+PHP Mess Detector
+PHP Namespace Resolver
+PHP Phan (Analyzer)
+phpcbf
+phpcs
+XML Tools
+YAML
