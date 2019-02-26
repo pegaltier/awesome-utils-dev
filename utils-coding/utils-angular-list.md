@@ -47,7 +47,7 @@
   - [ANGULAR FORMS FORM VALIDATION](#angular-forms-form-validation)
   - [ANGULAR TEMPLATE](#angular-template)
   - [ANGULAR SCAFFHOLDING](#angular-scaffholding)
-  - [ANGULAR 2 SECURE AUTH](#angular-2-secure-auth)
+  - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
   - [ANGULAR STATE MANAGEMENT](#angular-state-management)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
   - [ANGULAR RXJS UPGRADE](#angular-rxjs-upgrade)
@@ -71,7 +71,8 @@
   - [ANGULAR SEO META UNIVERSAL](#angular-seo-meta-universal)
   - [ANGULAR RENDERING CIENT](#angular-rendering-cient)
   - [ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION](#angular-error-handler--error-handling--exception)
-  - [ANGULAR TEST TESTING](#angular-test-testing)
+  - [ANGULAR UNIT TEST TESTING](#angular-unit-test-testing)
+  - [ANGULAR E2E TESTS](#angular-e2e-tests)
   - [ANGULAR API](#angular-api)
   - [ANGULAR AOT COMPLIANT LIB MAKE LIBRARY](#angular-aot-compliant-lib-make-library)
   - [ANGULAR UPLOAD](#angular-upload)
@@ -447,7 +448,8 @@ http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateout
 ## ANGULAR SCAFFHOLDING
 https://www.ociweb.com/resources/publications/sett/august-2016-grails-angular-scaffolding/
 
-## ANGULAR 2 SECURE AUTH 
+## ANGULAR 2 SECURE AUTH / GUARD
+https://itnext.io/handle-restricted-routes-in-angular-with-route-guards-95c93be9d05e
 https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
 https://ryanchenkie.com/angular-authentication-using-route-guards
 http://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
@@ -695,7 +697,17 @@ https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
 
 
-## ANGULAR TEST TESTING
+## ANGULAR UNIT TEST TESTING
+https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
+https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
+https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129
+https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files
+https://christianlydemann.com/complete-guide-to-angular-testing/
+https://codecraft.tv/courses/angular/unit-testing/overview/ 
+https://alligator.io/angular/testing-async-fakeasync/
+https://github.com/codecraft-tv/angular-course/tree/current/13.unit-testing  
+https://github.com/juristr/angular-testing-recipes
+https://github.com/youdz/dry-angular-testing
 https://medium.com/allenhwkim/generate-angular-unit-tests-automatically-1300601ed73
 https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/
 http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/
@@ -709,6 +721,10 @@ https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with
 https://medium.com/@paynoattn/simple-observable-unit-testing-in-angular2-43c4f4a0bfe2#.f51bkw9q4
 https://semaphoreci.com/community/tutorials/testing-services-in-angular-2?
 https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.okdmpr9vu
+
+## ANGULAR E2E TESTS
+https://screenster.io/
+https://testrec.com/
 
 ## ANGULAR API
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
