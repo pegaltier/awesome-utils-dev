@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [ANGULAR list](#angular-list)
+- [ANGULAR LIST](#angular-list)
   - [XP NEW PROJECT QUESTIONS](#xp-new-project-questions)
   - [ANGULAR HISTORY](#angular-history)
   - [ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE /](#angular-common-mistike-bugs--best-practice-tips--checklist-performance)
@@ -37,7 +37,7 @@
   - [ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE](#angular-buildconfiginternationalizationproductionbundle)
   - [ANGULAR CUSTOM BUILD / CUSTOM WEBPACK](#angular-custom-build--custom-webpack)
   - [ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS](#anuglar-scalable-large-organization-big-apps)
-- [ANGULAR DOM](#angular-dom)
+  - [ANGULAR DOM](#angular-dom)
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION](#angular-components--modal-dropdown-menu-loading-transclusion)
   - [ANGULAR HTTPCLIENT HTTPREQUEST HTTPTEST](#angular-httpclient-httprequest-httptest)
@@ -93,11 +93,11 @@
   - [ANGULAR/REACT COMPARAISON](#angularreact-comparaison)
   - [ANGULAR PAYMENT](#angular-payment)
   - [ANGULAR OTHERS ARTICLES](#angular-others-articles)
-- [2017](#2017)
+  - [ANGULAR 2017](#angular-2017)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# ANGULAR list
+# ANGULAR LIST
 
 ##  XP NEW PROJECT QUESTIONS
 Officiel I18N :
@@ -381,7 +381,7 @@ https://webpack.js.org/plugins/context-replacement-plugin/
 https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
 
 
-# ANGULAR DOM 
+## ANGULAR DOM 
 https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
 
 ## ANGULAR ANIMATION
@@ -937,5 +937,5 @@ https://www.ag-grid.com/understanding-packaging-for-javascript-typescript-common
 http://juristr.com/blog/  
 
 
-# 2017
+## ANGULAR 2017
 https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.ho5mvslad
