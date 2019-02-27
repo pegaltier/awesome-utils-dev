@@ -80,6 +80,10 @@ git remote rm origin
 git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 
 
+# -----------------------------------------------------------------------
 
+## TOOLS
 
-
+https://github.com/conventional-changelog/commitlint
+https://github.com/commitizen/cz-cli
+https://projectr.io/

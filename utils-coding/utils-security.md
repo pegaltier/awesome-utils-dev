@@ -7,6 +7,7 @@ https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
 https://en.wikipedia.org/wiki/Caesar_cipher
 
 ## TOOLS
+https://www.srihash.org/
 https://securityheaders.com
 https://www.dashlane.com/fr/
 https://guardianproject.info/apps/pixelknot/

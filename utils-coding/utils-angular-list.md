@@ -71,7 +71,7 @@
   - [ANGULAR SEO META UNIVERSAL](#angular-seo-meta-universal)
   - [ANGULAR RENDERING CIENT](#angular-rendering-cient)
   - [ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION](#angular-error-handler--error-handling--exception)
-  - [ANGULAR UNIT TEST TESTING](#angular-unit-test-testing)
+  - [ANGULAR UNIT TESTS TESTING](#angular-unit-tests-testing)
   - [ANGULAR E2E TESTS](#angular-e2e-tests)
   - [ANGULAR API](#angular-api)
   - [ANGULAR AOT COMPLIANT LIB MAKE LIBRARY](#angular-aot-compliant-lib-make-library)
@@ -697,7 +697,7 @@ https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
 
 
-## ANGULAR UNIT TEST TESTING
+## ANGULAR UNIT TESTS TESTING
 https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129
@@ -708,6 +708,10 @@ https://alligator.io/angular/testing-async-fakeasync/
 https://github.com/codecraft-tv/angular-course/tree/current/13.unit-testing  
 https://github.com/juristr/angular-testing-recipes
 https://github.com/youdz/dry-angular-testing
+https://stackblitz.com/edit/angular-testing-v7
+http://slides.com/gerardsans/ng-stockholm-testing-recipes
+https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
+https://gist.github.com/michaelbromley/bb4291200c25196507d12d2fd948a13e
 https://medium.com/allenhwkim/generate-angular-unit-tests-automatically-1300601ed73
 https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/
 http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/

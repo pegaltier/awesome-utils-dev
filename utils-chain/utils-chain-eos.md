@@ -150,6 +150,9 @@ https://github.com/EOSIO/eos/issues/3189
 https://steemit.com/eos/@genereos/name-bidding-and-premium-names-on-eos
 https://medium.com/@alamzach/7-wonderful-eos-account-names-you-can-get-right-now-2a56bda445fa
 
+## EOS REX / REWARDS / DIVIDENDS
+https://www.eosrex.io/
+https://www.eosdividends.com/
 
 ## EOS DEV NET
 http://vote.eosio.sg/
