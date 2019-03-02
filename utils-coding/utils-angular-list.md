@@ -25,7 +25,7 @@
   - [ANGULAR CI / CONTINIOUS INTEGRATION / AUTOMATED](#angular-ci--continious-integration--automated)
   - [ANGULAR DEBUG](#angular-debug)
   - [ANGULAR DOC UTILS CHEAT-SHEETS](#angular-doc-utils-cheat-sheets)
-  - [ANGULAR DESIGN](#angular-design)
+  - [ANGULAR UI DESIGN / UI GENERATE](#angular-ui-design--ui-generate)
   - [ANGULAR STYLES GUIDE + CODE ANALYSIS](#angular-styles-guide--code-analysis)
   - [ANGULAR SUPPORT IE/MOZILLA OLD VERSION](#angular-support-iemozilla-old-version)
   - [ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION](#angular-scalable-performance-perf-optimization)
@@ -36,7 +36,7 @@
   - [ANGULAR DECORATOR/ANNOTATION](#angular-decoratorannotation)
   - [ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE](#angular-buildconfiginternationalizationproductionbundle)
   - [ANGULAR CUSTOM BUILD / CUSTOM WEBPACK](#angular-custom-build--custom-webpack)
-  - [ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS](#anuglar-scalable-large-organization-big-apps)
+  - [ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS REPO / MONOREPO](#anuglar-scalable-large-organization-big-apps-repo--monorepo)
   - [ANGULAR DOM](#angular-dom)
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION](#angular-components--modal-dropdown-menu-loading-transclusion)
@@ -297,7 +297,7 @@ http://blogs.walkingtree.in/2016/03/22/thinking-in-angular-2/
 https://medium.com/@NetanelBasal/angular-2-improve-performance-with-trackby-cc147b5104e5#.74fiumqt7
 https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1
 
-## ANGULAR DESIGN
+## ANGULAR UI DESIGN / UI GENERATE
 https://github.com/Dynatrace/sketchmine
 
 ## ANGULAR STYLES GUIDE + CODE ANALYSIS  
@@ -313,7 +313,8 @@ http://www.sitepoint.com/introduction-angularjs-style-guides
 ## ANGULAR SUPPORT IE/MOZILLA OLD VERSION
 http://czeckd.github.io/angular2-svg-icon/demo/  
 
-## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION 
+## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION
+https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db
 https://zizzamia.github.io/perfume/
 https://alligator.io/angular/bundle-size/
 https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
@@ -322,7 +323,7 @@ http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-
 https://github.com/mgechev/scalable-architecture-demo  
 http://amcdnl.com/2017/10/02/angular-performance-tip-preserve-whitespace
 
-## ANGULAR  BOOK/COURSES
+## ANGULAR BOOK/COURSES
 https://angularair.com/  
 https://ng-book.com/2  
 https://books.ninja-squad.com/angular2  
@@ -368,7 +369,6 @@ http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/?utm_
 https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294#.jrwcy16lq
 
 ## ANGULAR CUSTOM BUILD / CUSTOM WEBPACK
-
 https://github.com/angular/angular-cli/issues/6137
 https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
 https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
@@ -377,9 +377,9 @@ https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-bui
 https://webpack.js.org/plugins/context-replacement-plugin/
 
 
-## ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS
+## ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS REPO / MONOREPO
 https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
-
+https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 
 ## ANGULAR DOM 
 https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
@@ -440,7 +440,7 @@ https://toddmotto.com/angular-ng-errors-form-validation
 https://toddmotto.com/angular-dynamic-components-forms
 https://github.com/UltimateAngular/ngxerrors
 https://github.com/ngx-formly/ngx-formly (dynamic)
-
+https://devdactic.com/dynamic-components-ionic
 ## ANGULAR TEMPLATE
 http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 
