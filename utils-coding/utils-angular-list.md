@@ -167,6 +167,8 @@ http://brianflove.com/
 https://julienrenaux.fr/
 
 ## ANGULAR PWA
+https://slides.com/webmax/angular-workbox/#/34
+https://github.com/webmaxru/angular-pwa/tree/workbox-v4-bundle
 https://blog.nrwl.io/a-new-day-for-pwa-e7c3342b753c
 https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
 http://blog.ionic.io/yann-braga-my-ionic-success-story/
