@@ -4,25 +4,46 @@
 
 - [Web-Style-Guide](#web-style-guide)
   - [SUMMARY](#summary)
+  - [HTML/HEAD/CHECKLIST](#htmlheadchecklist)
+  - [GENERATOR BLOCK](#generator-block)
   - [TOOLS](#tools)
+  - [NEW BACKEND](#new-backend)
+  - [DEBUG](#debug)
+  - [NPM](#npm)
+  - [AUDIT](#audit)
+  - [AMP](#amp)
   - [PWA](#pwa)
+  - [DEBUG](#debug-1)
   - [IMAGE](#image)
+  - [VARIOUS CSS/JS/HTML/EFFECT UX](#various-cssjshtmleffect-ux)
   - [ICONS](#icons)
   - [COMMENTS](#comments)
   - [FONTS](#fonts)
+  - [DESIGN](#design)
+  - [CANVAS](#canvas)
   - [CSS](#css)
   - [CSS PAGE TRANSITION](#css-page-transition)
   - [CSS FRAMEWORK](#css-framework)
   - [CSS LAYOUT](#css-layout)
   - [CSS PREPROCESSOR](#css-preprocessor)
+  - [CSS PRINT](#css-print)
   - [SVG](#svg)
   - [SPRITE](#sprite)
+  - [FORM / HTML FORM](#form--html-form)
+  - [JAVASCRIPT AWARDS](#javascript-awards)
   - [JAVASCRIPT](#javascript)
+  - [JAVASCRIPT LIBS](#javascript-libs)
   - [HTML](#html)
+  - [EXPERIMENT](#experiment)
   - [HTML AUDIO](#html-audio)
-  - [VARIOUS CSS/JS/HTML](#various-cssjshtml)
   - [FRAMEWORK](#framework)
   - [OTHERS](#others)
+  - [BACKEND REST OAUTH](#backend-rest-oauth)
+  - [BACKEND MONITORING](#backend-monitoring)
+  - [ERGONOMIE](#ergonomie)
+  - [SEO](#seo)
+  - [GIT](#git)
+  - [IOT](#iot)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -72,6 +93,7 @@ bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
 
 ## AUDIT
 https://testmysite.withgoogle.com
+https://validator.w3.org/
 
 ## AMP
 https://validator.ampproject.org

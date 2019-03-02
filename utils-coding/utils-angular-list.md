@@ -5,7 +5,7 @@
 - [ANGULAR LIST](#angular-list)
   - [XP NEW PROJECT QUESTIONS](#xp-new-project-questions)
   - [ANGULAR HISTORY](#angular-history)
-  - [ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE /](#angular-common-mistike-bugs--best-practice-tips--checklist-performance)
+  - [ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE](#angular-common-mistike-bugs--best-practice-tips--checklist-performance)
   - [HACK STARTER ONLINE FAST](#hack-starter-online-fast)
   - [ANGULAR7](#angular7)
   - [ANGULAR6](#angular6)
@@ -90,7 +90,7 @@
   - [ANGULAR DATA VIZ](#angular-data-viz)
   - [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
   - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
-  - [ANGULAR/REACT COMPARAISON](#angularreact-comparaison)
+  - [ANGULAR/REACT/VUE COMPARAISON](#angularreactvue-comparaison)
   - [ANGULAR PAYMENT](#angular-payment)
   - [ANGULAR OTHERS ARTICLES](#angular-others-articles)
   - [ANGULAR 2017](#angular-2017)
@@ -106,7 +106,8 @@ Nrwl Extensions : https://nrwl.io/nx
 ## ANGULAR HISTORY
 https://en.wikipedia.org/wiki/Angular_(application_platform)
 
-## ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE / 
+## ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
+https://angular-checklist.io/
 https://malcoded.com/posts/why-angular-not-works
 https://github.com/mgechev/angular-performance-checklist
 https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
@@ -532,6 +533,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 
 ## ANGULAR REDUX NGRX STORE NGRX ENTITY
+https://itnext.io/reactive-programming-in-angular-reactive-components-part-1-7291882e352c
 https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
 https://github.com/ngrx/platform
 https://www.youtube.com/watch?v=1hlXlsaMeTs (simple login/logout)
@@ -902,7 +904,8 @@ https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-st
 http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/  
 https://toddmotto.com/angular-1-6-is-here
 
-## ANGULAR/REACT COMPARAISON
+## ANGULAR/REACT/VUE COMPARAISON
+https://framework.watch/
 https://www.toptal.com/front-end/angular-vs-react-for-web-development
 http://blog.krawaller.se/posts/angular2-versus-react-comparing-components/
 http://tutorials.pluralsight.com/front-end-javascript/react-vs-angular-2
