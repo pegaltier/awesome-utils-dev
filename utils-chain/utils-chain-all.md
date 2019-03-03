@@ -45,8 +45,9 @@ https://www.coinfairvalue.com
 https://sanbase-low.santiment.net/projects
 https://coingolive.com/en/coin/change-history
 
-## DIVIDENDS
+## DIVIDENDS / INTERESTS
 https://stakingrewards.com/
+https://earncryptointerest.com/
 
 ## TRADING
 https://kryll.io/
