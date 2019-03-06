@@ -41,22 +41,21 @@
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION](#angular-components--modal-dropdown-menu-loading-transclusion)
   - [ANGULAR HTTPCLIENT HTTPREQUEST HTTPTEST](#angular-httpclient-httprequest-httptest)
-  - [ANGULAR WEB COMPONENTS](#angular-web-components)
+  - [ANGULAR WEB COMPONENTS / CUSTOM ELEMENTS](#angular-web-components--custom-elements)
   - [ANGULAR NG MODULES NGMODULE](#angular-ng-modules-ngmodule)
   - [ANGULAR AUTHENTIFICATION/LOGIN/](#angular-authentificationlogin)
-  - [ANGULAR FORMS FORM VALIDATION](#angular-forms-form-validation)
+  - [ANGULAR FORMS / FORM VALIDATION](#angular-forms--form-validation)
   - [ANGULAR TEMPLATE](#angular-template)
   - [ANGULAR SCAFFHOLDING](#angular-scaffholding)
   - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
-  - [ANGULAR STATE MANAGEMENT](#angular-state-management)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
   - [ANGULAR RXJS UPGRADE](#angular-rxjs-upgrade)
   - [ANGULAR RXJS](#angular-rxjs)
   - [ANGULAR HTTP](#angular-http)
   - [ANGULAR BACKEND MOCK BACKEND HTTP MOCK FIREBASE](#angular-backend-mock-backend-http-mock-firebase)
   - [ANGULAR FIREBASE BACKEND](#angular-firebase-backend)
-  - [ANGULAR REDUX NGRX STORE NGRX ENTITY](#angular-redux-ngrx-store-ngrx-entity)
-  - [ANGULAR STATE MANAGEMENT](#angular-state-management-1)
+  - [ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY](#angular-state-management-redux-ngrx-store-ngrx-entity)
+  - [ANGULAR STATE MANAGEMENT](#angular-state-management)
   - [ANGULAR IMMUTABLE Immutability vs Encapsulation](#angular-immutable-immutability-vs-encapsulation)
   - [ANGULAR CHANGE DETECTION NGZONE ZONE](#angular-change-detection-ngzone-zone)
   - [ANGULAR GENERATE SCHEMATICS GENERATOR](#angular-generate-schematics-generator)
@@ -74,9 +73,10 @@
   - [ANGULAR UNIT TESTS TESTING](#angular-unit-tests-testing)
   - [ANGULAR E2E TESTS](#angular-e2e-tests)
   - [ANGULAR API](#angular-api)
+  - [ANGULAR MVC MVVM](#angular-mvc-mvvm)
   - [ANGULAR AOT COMPLIANT LIB MAKE LIBRARY](#angular-aot-compliant-lib-make-library)
   - [ANGULAR UPLOAD](#angular-upload)
-  - [ANGULAR LIB MODAl](#angular-lib-modal)
+  - [ANGULAR LIB MODAL](#angular-lib-modal)
   - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
   - [ANGULAR LIB GENERAL](#angular-lib-general)
   - [ANGULAR LIB GENERAL THEME/STYLE/CSS](#angular-lib-general-themestylecss)
@@ -409,7 +409,8 @@ https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-compon
 http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
 https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522
 
-## ANGULAR WEB COMPONENTS
+## ANGULAR WEB COMPONENTS / CUSTOM ELEMENTS
+https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
 https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 
 ## ANGULAR NG MODULES NGMODULE
@@ -428,16 +429,17 @@ http://tphangout.com/angular-2-authentication-using-the-new-router/
 https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 https://scotch.io/tutorials/angular-2-form-validation
 
-## ANGULAR FORMS FORM VALIDATION
+## ANGULAR FORMS / FORM VALIDATION
+https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58
 https://www.sitepoint.com/angular-forms/
 https://www.toptal.com/angular-js/angular-4-forms-validation
 https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.aq9267ptf
 http://stackoverflow.com/questions/33866824/angular2-control-validation-on-blur/41973780#41973780
-https://coryrylan.com/blog/angular-form-builder-and-validation-management							**************
-http://learnangular2.com/forms/																		**************
-https://toddmotto.com/angular-2-forms-template-driven												**************
-https://toddmotto.com/angular-2-forms-reactive														**************
-https://toddmotto.com/reactive-formgroup-validation-angular-2										**************
+https://coryrylan.com/blog/angular-form-builder-and-validation-management
+http://learnangular2.com/forms/
+https://toddmotto.com/angular-2-forms-template-driven
+https://toddmotto.com/angular-2-forms-reactive
+https://toddmotto.com/reactive-formgroup-validation-angular-2
 https://scotch.io/tutorials/angular-2-form-validation
 https://toddmotto.com/angular-ng-errors-form-validation
 https://toddmotto.com/angular-dynamic-components-forms
@@ -466,15 +468,14 @@ https://auth0.com/authenticate/angular2/facebook
 https://github.com/firebase/php-jwt  
 https://stormpath.com/blog/jjwt-how-it-works-why/  
 
-## ANGULAR STATE MANAGEMENT
-https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
-http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
-https://github.com/reclarejs/reclare
 
 
-## ANGULAR OBSERVABLE/REACTIVE/RXJS 
+
+## ANGULAR OBSERVABLE/REACTIVE/RXJS
+https://www.learnrxjs.io/
 https://github.com/ReactiveX/rxjs-tslint
 https://www.npmjs.com/package/rxjs-tslint-rules
+https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
 https://yakovfain.com/2018/01/03/wrapping-an-rxjs-observable-stream-into-an-angular-service/
 https://blog.craftlab.hu/clarifying-observables-b7b3ed7e0a5f
@@ -534,7 +535,11 @@ https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
 https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-ci-598181cfc6e5
 
 
-## ANGULAR REDUX NGRX STORE NGRX ENTITY
+## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
+https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html
+https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
+http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
+https://github.com/reclarejs/reclare
 https://itnext.io/reactive-programming-in-angular-reactive-components-part-1-7291882e352c
 https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
 https://github.com/ngrx/platform
@@ -635,6 +640,7 @@ https://www.youtube.com/watch?v=mVqQDEtRBwA
 
 
 ## ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING
+https://medium.com/@zamamohammed/announcing-angular-loadable-ngx-loadable-2-2kb-4ef7e6321784 
 https://medium.com/@michelestieven/lazy-loading-angular-modules-27856e940bb0
 https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
 https://blog.nrwl.io/enable-lazy-loading-in-angular-2-apps-8298916056#.184fee12y
@@ -737,6 +743,9 @@ https://testrec.com/
 ## ANGULAR API
 https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
 
+## ANGULAR MVC MVVM
+https://scotch.io/tutorials/mvc-in-an-angular-world
+
 ## ANGULAR AOT COMPLIANT LIB MAKE LIBRARY
 https://nrwl.io/nx
 https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
@@ -758,7 +767,7 @@ https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 https://github.com/ribizli/ng2-imageupload  
 https://github.com/jkuri/ng2-uploader  
 
-## ANGULAR LIB MODAl
+## ANGULAR LIB MODAL
 https://github.com/biig-io/ngx-smart-modal
 https://github.com/shlomiassaf/ngx-modialog
 https://matthewross.me/blog/posts/minimal-angular-2-modal

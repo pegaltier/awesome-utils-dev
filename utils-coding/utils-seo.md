@@ -616,3 +616,8 @@ afin de connaître si oui ou non vous pouvez rivaliser avec vos concurrents.
 
 Keyword Snatcher – Un autre très bon outil de recherche de mots clés qui rassemble une multitude
 de données provenant de beaucoup de sources. Je le recommande très fortement.
+
+
+## TWITTER
+
+https://twitter.com/patrickstox

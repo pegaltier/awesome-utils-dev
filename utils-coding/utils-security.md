@@ -17,3 +17,8 @@ https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass
 
 ## WEB SCAM / VIRUS
 https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en
+
+## BUG BOUNTY / SECURITY BOUNTY
+https://www.hackerone.com/
+https://www.bugcrowd.com/
+https://www.yogosha.com/
