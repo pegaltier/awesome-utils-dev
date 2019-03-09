@@ -100,6 +100,12 @@ https://cryptominded.com/
 https://acryptoaday.com/
 https://weisscryptocurrencyratings.com/
 
+## RATINGS
+https://www.dprating.com/en/
+gcc china
+weissratings
+
+
 ## PROJECT
 https://woolf.university/#/
 https://decentralproject.org/

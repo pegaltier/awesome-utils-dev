@@ -14,6 +14,7 @@ https://guardianproject.info/apps/pixelknot/
 https://github.com/Authenticator-Extension/Authenticator
 https://keepass.info/
 https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
+https://www.virustotal.com
 
 ## WEB SCAM / VIRUS
 https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en

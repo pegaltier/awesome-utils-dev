@@ -237,4 +237,9 @@ https://www.ono.chat
 https://www.eosforce.io
 https://telosfoundation.io
 
+## EOS FORKS PROJECTS
+https://telosuk.io/learn-telos/
+http://democratic.money/
+https://medium.com/@fcecin/acorn-a-telos-token-for-everyone-7c3914f55054
+
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●

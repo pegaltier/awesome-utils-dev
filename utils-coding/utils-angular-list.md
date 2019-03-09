@@ -37,7 +37,7 @@
   - [ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE](#angular-buildconfiginternationalizationproductionbundle)
   - [ANGULAR CUSTOM BUILD / CUSTOM WEBPACK](#angular-custom-build--custom-webpack)
   - [ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS REPO / MONOREPO](#anuglar-scalable-large-organization-big-apps-repo--monorepo)
-  - [ANGULAR DOM](#angular-dom)
+  - [ANGULAR RENDERING CIENT / DOM](#angular-rendering-cient--dom)
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION](#angular-components--modal-dropdown-menu-loading-transclusion)
   - [ANGULAR HTTPCLIENT HTTPREQUEST HTTPTEST](#angular-httpclient-httprequest-httptest)
@@ -68,7 +68,6 @@
   - [ANGULAR DYNAMIC LOAD/LAZY LOAD SCRIPTS](#angular-dynamic-loadlazy-load-scripts)
   - [ANGULAR SECURITY](#angular-security)
   - [ANGULAR SEO META UNIVERSAL](#angular-seo-meta-universal)
-  - [ANGULAR RENDERING CIENT](#angular-rendering-cient)
   - [ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION](#angular-error-handler--error-handling--exception)
   - [ANGULAR UNIT TESTS TESTING](#angular-unit-tests-testing)
   - [ANGULAR E2E TESTS](#angular-e2e-tests)
@@ -90,10 +89,11 @@
   - [ANGULAR DATA VIZ](#angular-data-viz)
   - [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
   - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
-  - [ANGULAR/REACT/VUE COMPARAISON](#angularreactvue-comparaison)
+  - [ANGULAR / REACT / VUE / COMPARAISON](#angular--react--vue--comparaison)
   - [ANGULAR PAYMENT](#angular-payment)
   - [ANGULAR OTHERS ARTICLES](#angular-others-articles)
   - [ANGULAR 2017](#angular-2017)
+  - [OTHERS](#others)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -384,7 +384,15 @@ https://webpack.js.org/plugins/context-replacement-plugin/
 https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
 https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 
-## ANGULAR DOM 
+## ANGULAR RENDERING CIENT / DOM
+https://angular.io/guide/template-syntax
+https://alligator.io/angular/using-renderer2/
+https://github.com/Zizzamia/rendering-in-angular-2  
+https://github.com/matsko/angular2-multi-client  
+http://www.yearofmoo.com/2016/02/rendering-in-angular2.html  
+https://github.com/matsko/angular2-canvas-renderer-experiment  
+https://github.com/bojzi/sound-machine-electron-guide  
+https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.nt2t38q9n  
 https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
 
 ## ANGULAR ANIMATION
@@ -690,17 +698,6 @@ http://blog.devcross.net/2016/03/20/angular-2-seo/
 https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
 
 
-
-## ANGULAR RENDERING CIENT
-https://github.com/Zizzamia/rendering-in-angular-2  
-https://github.com/matsko/angular2-multi-client  
-http://www.yearofmoo.com/2016/02/rendering-in-angular2.html  
-https://github.com/matsko/angular2-canvas-renderer-experiment  
-http://electron.atom.io/  
-http://nwjs.io/  
-https://github.com/bojzi/sound-machine-electron-guide  
-https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.nt2t38q9n  
-
 ## ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION
 https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
@@ -915,7 +912,7 @@ https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-st
 http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/  
 https://toddmotto.com/angular-1-6-is-here
 
-## ANGULAR/REACT/VUE COMPARAISON
+## ANGULAR / REACT / VUE / COMPARAISON
 https://framework.watch/
 https://www.toptal.com/front-end/angular-vs-react-for-web-development
 http://blog.krawaller.se/posts/angular2-versus-react-comparing-components/
@@ -931,7 +928,6 @@ https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-h
 
 ## ANGULAR PAYMENT
 https://alligator.io/angular/stripe-elements
-
 
 ## ANGULAR OTHERS ARTICLES
 https://devchat.tv/adventures-in-angular  
@@ -957,3 +953,7 @@ http://juristr.com/blog/
 
 ## ANGULAR 2017
 https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.ho5mvslad
+
+## OTHERS
+http://electron.atom.io/  
+http://nwjs.io/  
