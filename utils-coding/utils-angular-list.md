@@ -40,7 +40,7 @@
   - [ANGULAR RENDERING CIENT / DOM](#angular-rendering-cient--dom)
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION](#angular-components--modal-dropdown-menu-loading-transclusion)
-  - [ANGULAR HTTPCLIENT HTTPREQUEST HTTPTEST](#angular-httpclient-httprequest-httptest)
+  - [ANGULAR HTTPCLIENT HTTPREQUEST](#angular-httpclient-httprequest)
   - [ANGULAR WEB COMPONENTS / CUSTOM ELEMENTS](#angular-web-components--custom-elements)
   - [ANGULAR NG MODULES NGMODULE](#angular-ng-modules-ngmodule)
   - [ANGULAR AUTHENTIFICATION/LOGIN/](#angular-authentificationlogin)
@@ -85,7 +85,6 @@
   - [ANGULAR LINKS](#angular-links)
   - [ANGULAR SOCKETS](#angular-sockets)
   - [ANGULAR sources](#angular-sources)
-  - [ANGULAR testing](#angular-testing)
   - [ANGULAR DATA VIZ](#angular-data-viz)
   - [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
   - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
@@ -413,9 +412,8 @@ https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
 http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/  
 https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-component-angular-2/
 
-## ANGULAR HTTPCLIENT HTTPREQUEST HTTPTEST
+## ANGULAR HTTPCLIENT HTTPREQUEST
 http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
-https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522
 
 ## ANGULAR WEB COMPONENTS / CUSTOM ELEMENTS
 https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
@@ -491,7 +489,6 @@ https://www.youtube.com/watch?v=65Us8NwmYf4 Top 7 RxJS Concepts for Angular Deve
 https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21
 https://toddmotto.com/component-architecture-reactive-forms-angular
 https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c
-https://blog.nrwl.io/rxjs-advanced-techniques-testing-race-conditions-using-rxjs-marbles-53e7e789fba5
 https://netbasal.com/implement-ngmodeloptions-with-rxjs-and-custom-form-control-in-angular-4aa3bf96ab6
 http://reactivex.io/documentation/operators/merge.html
 http://slides.com/brunobaia/everything-is-a-stream
@@ -705,6 +702,7 @@ https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230
 
 
 ## ANGULAR UNIT TESTS TESTING
+https://medium.com/@abdul_74410/towards-better-testing-in-angular-part-1-mocking-child-components-b51e1fd571da
 https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129
@@ -732,6 +730,9 @@ https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with
 https://medium.com/@paynoattn/simple-observable-unit-testing-in-angular2-43c4f4a0bfe2#.f51bkw9q4
 https://semaphoreci.com/community/tutorials/testing-services-in-angular-2?
 https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.okdmpr9vu
+https://github.com/tomastrajan/angular-js-es6-testing-example 
+https://blog.nrwl.io/rxjs-advanced-techniques-testing-race-conditions-using-rxjs-marbles-53e7e789fba5
+https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522
 
 ## ANGULAR E2E TESTS
 https://screenster.io/
@@ -893,9 +894,6 @@ https://github.com/angular/templating
 https://github.com/htmlxprs/angular2-todo  
 https://github.com/hswolff/hn-ng2  
 http://angular2.com/  
-
-## ANGULAR testing
-https://github.com/tomastrajan/angular-js-es6-testing-example  
 
 ## ANGULAR DATA VIZ
 https://github.com/valor-software/ng2-charts
