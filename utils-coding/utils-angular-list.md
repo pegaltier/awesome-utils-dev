@@ -726,7 +726,6 @@ http://blog.devcross.net/2016/03/11/angular-2-typescript-codecoverage/
 https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.8fqvbe9dr  
 http://raibledesigns.com/rd/entry/testing_angular_2_applications  
 https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine
-https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine
 https://medium.com/@paynoattn/simple-observable-unit-testing-in-angular2-43c4f4a0bfe2#.f51bkw9q4
 https://semaphoreci.com/community/tutorials/testing-services-in-angular-2?
 https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.okdmpr9vu

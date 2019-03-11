@@ -228,6 +228,7 @@ Cypherglass
 MaxDapp
 Crypto Tim
 The EOS Podcast
+Brock Pierce > https://www.youtube.com/channel/UCNGPN8hF_FVRPZs9wbEu7pA
 
 ## EOS FORKS
 https://wax.io
@@ -237,9 +238,11 @@ https://www.ono.chat
 https://www.eosforce.io
 https://telosfoundation.io
 
-## EOS FORKS PROJECTS
+## EOS FORK TELOS
 https://telosuk.io/learn-telos/
 http://democratic.money/
 https://medium.com/@fcecin/acorn-a-telos-token-for-everyone-7c3914f55054
+https://telosplanet.one/
+https://teloscentral.com/
 
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
