@@ -13,3 +13,4 @@ https://glitch.com/
 
 ## COMMUNITY
 https://www.techs.rocks/
+https://github.com/ladyleet/tech-community-slacks

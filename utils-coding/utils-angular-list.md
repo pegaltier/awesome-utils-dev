@@ -28,7 +28,7 @@
   - [ANGULAR UI DESIGN / UI GENERATE](#angular-ui-design--ui-generate)
   - [ANGULAR STYLES GUIDE + CODE ANALYSIS](#angular-styles-guide--code-analysis)
   - [ANGULAR SUPPORT IE/MOZILLA OLD VERSION](#angular-support-iemozilla-old-version)
-  - [ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION](#angular-scalable-performance-perf-optimization)
+  - [ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK](#angular-scalable-performance-perf-optimization--memory-leak)
   - [ANGULAR BOOK/COURSES](#angular-bookcourses)
   - [ANGULAR DOCKER](#angular-docker)
   - [ANGULAR DATA FLOW DATA FLOW UNIDIR](#angular-data-flow-data-flow-unidir)
@@ -90,6 +90,7 @@
   - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
   - [ANGULAR / REACT / VUE / COMPARAISON](#angular--react--vue--comparaison)
   - [ANGULAR PAYMENT](#angular-payment)
+  - [ANGULAR COMMUNITY](#angular-community)
   - [ANGULAR OTHERS ARTICLES](#angular-others-articles)
   - [ANGULAR 2017](#angular-2017)
   - [OTHERS](#others)
@@ -315,7 +316,7 @@ http://www.sitepoint.com/introduction-angularjs-style-guides
 ## ANGULAR SUPPORT IE/MOZILLA OLD VERSION
 http://czeckd.github.io/angular2-svg-icon/demo/  
 
-## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION
+## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db
 https://zizzamia.github.io/perfume/
 https://alligator.io/angular/bundle-size/
@@ -324,6 +325,7 @@ https://github.com/mgechev/angular-performance-checklist
 http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
 https://github.com/mgechev/scalable-architecture-demo  
 http://amcdnl.com/2017/10/02/angular-performance-tip-preserve-whitespace
+https://medium.com/ag-grid/5-tips-for-fixing-a-memory-leak-in-angular-debfc9ef9821
 
 ## ANGULAR BOOK/COURSES
 https://angularair.com/  
@@ -482,6 +484,7 @@ https://www.learnrxjs.io/
 https://github.com/ReactiveX/rxjs-tslint
 https://www.npmjs.com/package/rxjs-tslint-rules
 https://juristr.com/blog/2019/04/rxjs-finalize-operator/
+https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
 https://yakovfain.com/2018/01/03/wrapping-an-rxjs-observable-stream-into-an-angular-service/
 https://blog.craftlab.hu/clarifying-observables-b7b3ed7e0a5f
@@ -541,6 +544,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
+https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
 https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html
 https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
 http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
@@ -925,6 +929,9 @@ https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-h
 
 ## ANGULAR PAYMENT
 https://alligator.io/angular/stripe-elements
+
+## ANGULAR COMMUNITY
+https://angularconferences.com/
 
 ## ANGULAR OTHERS ARTICLES
 https://devchat.tv/adventures-in-angular  
