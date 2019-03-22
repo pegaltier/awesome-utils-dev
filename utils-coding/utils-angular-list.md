@@ -67,6 +67,7 @@
   - [ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING](#angular-routes-router-lazy-loading-modules--routing)
   - [ANGULAR DYNAMIC LOAD/LAZY LOAD SCRIPTS](#angular-dynamic-loadlazy-load-scripts)
   - [ANGULAR SECURITY](#angular-security)
+  - [ANGULAR ECOSYSTEM / MULTI PROJECT](#angular-ecosystem--multi-project)
   - [ANGULAR SEO META UNIVERSAL](#angular-seo-meta-universal)
   - [ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION](#angular-error-handler--error-handling--exception)
   - [ANGULAR UNIT TESTS TESTING](#angular-unit-tests-testing)
@@ -544,6 +545,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
+https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
 https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
 https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html
 https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
@@ -692,7 +694,12 @@ https://www.youtube.com/watch?v=l89acmnGMSc
 https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
 http://www.gistia.com/talk-backend-services-angular-2s-http-client
 
+## ANGULAR ECOSYSTEM / MULTI PROJECT
+https://docs.google.com/presentation/d/1hS399-o6-6WUwoyaDAKUrupjaEHNqB0KXrd7HpRAE8s/edit#slide=id.g4c62f9d034_0_44
+
+
 ## ANGULAR SEO META UNIVERSAL
+https://www.npmjs.com/package/ngx-seo
 https://snipcart.com/blog/angular-seo-universal-server-side-rendering
 https://davidea.st/articles/the-beginners-guide-to-angular-universal
 http://blog.devcross.net/2016/03/20/angular-2-seo/  

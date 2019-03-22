@@ -82,6 +82,59 @@ git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 
 # -----------------------------------------------------------------------
 
+
+
+utils vscode with ssh
+
+start-ssh-agent
+code
+
+------------------------------------
+
+utils clean node
+
+rmdir /s/q node_modules
+
+------------------------------------
+
+utils gitlab branch
+
+npm start
+... develop on master..
+git stash
+git stash branch 1109-issue-name
+
+git commit on ide
+git push --set-upstream origin 1109-issue-name
+git push -u origin 1109-issue-name
+
+
+------------------------------------
+
+
+utils git merge branches
+
+Solution1: Merge
+from working branch with vscode plugin "Git merger"
+CTRL+SHIFT + P > Git: Merge from > Master
+
+Solution2: Rebase
+from the master 
+rebase `mybranch`
+
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
+https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
+
+------------------------------------
+
+utils gitlab clean deleted branch
+
+git fetch --prune
+
+------------------------------------
+
+
 ## TOOLS
 
 https://github.com/conventional-changelog/commitlint

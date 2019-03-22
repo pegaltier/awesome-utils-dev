@@ -50,10 +50,11 @@ https://blockfi.com/
 https://stakingrewards.com/
 https://earncryptointerest.com/
 
-## TRADING
+## TRADING / PORTFOLIO / 
 https://kryll.io/
 https://tradingview.com
 https://cryptosheets.com/
+https://www.emberfund.io/
 https://cryptofinance.jbuty.com/
 https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96
 http://beacon.by/ninjahacks/bullish-on-bitcoin-resources-and-recommendations
