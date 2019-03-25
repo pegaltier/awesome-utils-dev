@@ -713,6 +713,7 @@ https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230
 
 
 ## ANGULAR UNIT TESTS TESTING
+https://blog.angularindepth.com/angular-unit-testing-viewchild-4525e0c7b756
 https://medium.com/@abdul_74410/towards-better-testing-in-angular-part-1-mocking-child-components-b51e1fd571da
 https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
