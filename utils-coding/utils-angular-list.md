@@ -545,6 +545,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
+https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
 https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
 https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
 https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html

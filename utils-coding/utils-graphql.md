@@ -1,5 +1,5 @@
-## UTILS
-rmdir /s/q node_modules
+## UTILS SQL TO GRAPHQL
+https://www.graphile.org/postgraphile/
 
 ## ARTICLES
 https://dev.to/aershov24/5-graphql-interview-questions-and-answers-you-should-know-4ajb
