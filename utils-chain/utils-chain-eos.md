@@ -245,5 +245,7 @@ http://democratic.money/
 https://medium.com/@fcecin/acorn-a-telos-token-for-everyone-7c3914f55054
 https://telosplanet.one/
 https://teloscentral.com/
+https://theteloscope.io/
+https://chainspector.io/
 
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●

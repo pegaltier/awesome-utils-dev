@@ -11,3 +11,8 @@
 <a href="https://www.mitchellharper.me/">https://www.mitchellharper.me/</a>
 <a href="https://www.garyvaynerchuk.com/">https://www.garyvaynerchuk.com/</a>
 </p>
+
+<h2>Feedbacks</h2>
+<p>
+https://jatins.gitlab.io/me/why-startup/
+</p>
