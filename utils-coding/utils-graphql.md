@@ -1,7 +1,9 @@
-## UTILS SQL TO GRAPHQL
+## UTILS GRAPHQL
 https://www.graphile.org/postgraphile/
+https://graphql-code-generator.com/
 
-## ARTICLES
+## ARTICLES7
+https://dev.to/beavearony/getting-started-with-a-angularnx-workspace-backed-by-an-aws-amplify-graphql-api---part-1-24m0
 https://dev.to/aershov24/5-graphql-interview-questions-and-answers-you-should-know-4ajb
 
 ## TEST APOLLO
