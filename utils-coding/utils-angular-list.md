@@ -603,6 +603,7 @@ http://blog.rangle.io/angular-2-change-detection/
 http://juristr.com/blog/2016/04/angular2-change-detection/  
 
 ## ANGULAR GENERATE SCHEMATICS GENERATOR
+https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
 https://auth0.com/blog/create-custom-schematics-with-nx/
 https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
 https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
