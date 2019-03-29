@@ -253,6 +253,10 @@ https://www.kucoin.com
 https://cobinhood.com
 https://www.cryptopia.co.nz
 
+## INITIAL COIN OFFERING (ICO)
+https://www.youtube.com/watch?v=AHDCzPtSzpM
+https://git.cryptoblocs.fr/world-tomorrow-now
+
 ## P2P EXCHANGE
 https://hodlhodl.com
 https://localbitcoins.com
