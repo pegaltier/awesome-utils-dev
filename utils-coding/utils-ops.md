@@ -1,14 +1,16 @@
 
+## SFTP SSH KEY
+https://www.rebex.net/kb/secure-ftp/
+http://community.ovh.com/t/repertoire-sftp-avec-cle-publique-privee/12330/4
+https://www.weblogin.fr/blog/utiliser-des-cles-rsa-pour-se-connecter-a-un-serveur-mutualise-ovh
 
 ## AUTODEPLOY FTP/SFTP...
 
-https://www.rebex.net/kb/secure-ftp/
-
 ### NODE 
 https://github.com/git-ftp/git-ftp
-https://github.com/lucasmotta/dploy
 
-fork?
+https://github.com/lucasmotta/dploy
+fork
 https://github.com/KenorFR/dploy
 https://github.com/yllumi/dploy-red
 https://github.com/theblackhole/dploy-red
