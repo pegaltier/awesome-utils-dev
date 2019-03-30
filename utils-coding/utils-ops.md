@@ -1,6 +1,8 @@
 
 
-## AUTODEPLOY
+## AUTODEPLOY FTP/SFTP...
+
+https://www.rebex.net/kb/secure-ftp/
 
 ### NODE 
 https://github.com/git-ftp/git-ftp
