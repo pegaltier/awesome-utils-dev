@@ -80,8 +80,6 @@ git remote rm origin
 git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 
 
-# -----------------------------------------------------------------------
-
 ## HASH
 
 To get the full SHA:
@@ -95,20 +93,14 @@ cbf1b9a
 
 
 
-utils vscode with ssh
+## VSCODE GIT SSH
 
 start-ssh-agent
 code
 
-------------------------------------
 
-utils clean node
 
-rmdir /s/q node_modules
-
-------------------------------------
-
-utils gitlab branch
+## CREATE BRANCH (PE)
 
 npm start
 ... develop on master..
@@ -119,9 +111,7 @@ git commit on ide
 git push --set-upstream origin 1109-issue-name
 git push -u origin 1109-issue-name
 
-
-------------------------------------
-
+## MERGE BRANCH (PE)
 
 utils git merge branches
 
