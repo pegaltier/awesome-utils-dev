@@ -82,6 +82,17 @@ git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 
 # -----------------------------------------------------------------------
 
+## HASH
+
+To get the full SHA:
+
+$ git rev-parse HEAD
+cbf1b9a1be984a9f61b79a05f23b19f66d533537
+
+To get the shortened version:
+$ git rev-parse --short HEAD
+cbf1b9a
+
 
 
 utils vscode with ssh
