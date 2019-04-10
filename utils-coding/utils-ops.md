@@ -8,6 +8,9 @@ https://www.rebex.net/kb/secure-ftp/
 http://community.ovh.com/t/repertoire-sftp-avec-cle-publique-privee/12330/4
 https://www.weblogin.fr/blog/utiliser-des-cles-rsa-pour-se-connecter-a-un-serveur-mutualise-ovh
 
+## DEPLOYING
+https://hackernoon.com/deploying-frontend-applications-the-fun-way-bc3f69e15331
+
 ## AUTODEPLOY FTP/SFTP...
 
 ### NODE 

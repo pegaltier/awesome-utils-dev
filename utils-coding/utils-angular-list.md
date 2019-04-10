@@ -793,6 +793,7 @@ https://github.com/biig-io/ngx-smart-loader
 
 ## ANGULAR LIB GENERAL
 https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5
+https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
 https://swimlane.github.io/ng2d3/
 http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  

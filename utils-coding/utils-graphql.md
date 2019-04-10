@@ -9,6 +9,7 @@ https://css-tricks.com/front-end-developers-guide-graphql/
 https://dev.to/beavearony/getting-started-with-a-angularnx-workspace-backed-by-an-aws-amplify-graphql-api---part-1-24m0
 https://dev.to/aershov24/5-graphql-interview-questions-and-answers-you-should-know-4ajb
 https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
+https://medium.com/the-guild/fully-functional-whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-5479d83baaa4
 
 ## TEST APOLLO
 https://dev-blog.apollodata.com/how-to-build-graphql-servers-87587591ded5
