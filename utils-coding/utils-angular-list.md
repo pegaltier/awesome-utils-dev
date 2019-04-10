@@ -82,10 +82,10 @@
   - [ANGULAR LIB GENERAL THEME/STYLE/CSS](#angular-lib-general-themestylecss)
   - [ANGULAR DEMO SOURCES](#angular-demo-sources)
   - [ANGULAR DEMO APP](#angular-demo-app)
-  - [ANGULAR native hybride mobile](#angular-native-hybride-mobile)
+  - [ANGULAR MOBILE / NATIVE / HYBRIDE](#angular-mobile--native--hybride)
   - [ANGULAR LINKS](#angular-links)
   - [ANGULAR SOCKETS](#angular-sockets)
-  - [ANGULAR sources](#angular-sources)
+  - [ANGULAR SOURCES](#angular-sources)
   - [ANGULAR DATA VIZ](#angular-data-viz)
   - [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
   - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
@@ -715,6 +715,8 @@ https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230
 
 
 ## ANGULAR UNIT TESTS TESTING
+https://github.com/ike18t/ng-mocks
+https://github.com/getsaf/shallow-render
 https://medium.com/@nishu0505/crud-with-angular-5d8f39805c49
 https://blog.angularindepth.com/angular-unit-testing-viewchild-4525e0c7b756
 https://medium.com/@abdul_74410/towards-better-testing-in-angular-part-1-mocking-child-components-b51e1fd571da
@@ -790,6 +792,7 @@ https://github.com/aitboudad/ngx-loading-bar
 https://github.com/biig-io/ngx-smart-loader
 
 ## ANGULAR LIB GENERAL
+https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5
 http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
 https://swimlane.github.io/ng2d3/
 http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
@@ -868,7 +871,7 @@ https://angular2-es6-starter.herokuapp.com/
 https://dot-md.herokuapp.com/  
 
 
-## ANGULAR native hybride mobile
+## ANGULAR MOBILE / NATIVE / HYBRIDE
 http://www.hybridtonative.com/
 http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/  
 http://angularjs.blogspot.fr/2016/03/code-reuse-in-angular-2-native-mobile.html  
@@ -893,14 +896,13 @@ https://github.com/jonrimmer/angular-2-examples
 https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
 
 
-## ANGULAR sources
-www.codeproject.com/Articles/1081551/Angular-Tutorial-in-JavaScript-ES << A TESTER  
+## ANGULAR SOURCES 
 https://manning.com/books/angular-2-development-with-typescript  
 https://github.com/angular/angular/tree/master/modules/playground/src/upgrade 1VS2  
 https://github.com/ng-book/angular2-rxjs-chat  
 https://github.com/fcoury/angular2-reddit  
 https://github.com/SekibOmazic/angular2-playground  
-https://github.com/auth0/angular2-authentication-sample <<<  
+https://github.com/auth0/angular2-authentication-sample
 https://github.com/joeeames/ng2-ps-webinar  
 https://github.com/swirlycheetah/generator-angular2  
 https://github.com/davideast/ng2do  

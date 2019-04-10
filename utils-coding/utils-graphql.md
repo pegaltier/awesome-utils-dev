@@ -1,10 +1,14 @@
 ## UTILS GRAPHQL
-https://www.graphile.org/postgraphile/
+http://graphql.org/
+https://www.graph.cool/
 https://graphql-code-generator.com/
+https://www.graphile.org/postgraphile/
 
-## ARTICLES7
+## ARTICLES
+https://css-tricks.com/front-end-developers-guide-graphql/
 https://dev.to/beavearony/getting-started-with-a-angularnx-workspace-backed-by-an-aws-amplify-graphql-api---part-1-24m0
 https://dev.to/aershov24/5-graphql-interview-questions-and-answers-you-should-know-4ajb
+https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 
 ## TEST APOLLO
 https://dev-blog.apollodata.com/how-to-build-graphql-servers-87587591ded5

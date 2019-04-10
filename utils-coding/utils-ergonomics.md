@@ -3,6 +3,8 @@
 ## COLOR
 https://webaim.org/resources/contrastchecker/
 
+## OTHERS
+http://webgazer.cs.brown.edu/
 
 ## ACCESSIBILITY RULES 
 use anchor + form elements

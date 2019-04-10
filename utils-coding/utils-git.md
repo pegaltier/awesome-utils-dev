@@ -141,3 +141,13 @@ git fetch --prune
 https://github.com/conventional-changelog/commitlint
 https://github.com/commitizen/cz-cli
 https://projectr.io/
+
+## ALIAS
+https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+git config --global alias.pul "pull origin master"
+git config --global alias.pus "push origin master"
+
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status

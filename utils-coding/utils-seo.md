@@ -92,11 +92,13 @@ https://support.google.com/webmasters/answer/2620865?hl=fr
 https://support.google.com/webmasters/answer/189077?hl=fr  hreflang		> 
 
 
-# COCON SEMANTIQUE
+## COCON SEMANTIQUE
 
 voir vidéo abondance cocon sémantique (voir les 5 videos) : 
 https://www.youtube.com/watch?v=3zVcsN-6J-U
 
+## IMAGE
+https://bitsofco.de/alternative-text-and-images/
 
 ## OFF-PAGE
 https://blog.alexa.com/off-page-seo-techniques/
@@ -130,7 +132,7 @@ url + title  (65 caractères max) + description (156 caractères max) + h1 + un 
 
 exemple mot clé : beignes au chocolat
 
-url : monsite.com/beignes-au-chocolat (elle doit etre courte  prépositions de type “le”, ”la”)
+url : monsite.com/beignes-au-chocolat (elle doit etre courte: eviter les prépositions de type “le”, ”la”)
 meta title : Beignes au chocolat | Boulangerie de Marie
 meta description : Les beignes au chocolat de la boulangerie de Marie sont probablement les plus délicieux et les plus parfaits beignets chocolatés jamais créés ! 
 h1 : Beignes au chocolat de la boulangerie de Marie

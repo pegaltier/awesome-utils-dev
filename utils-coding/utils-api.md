@@ -6,6 +6,19 @@ https://restfulapi.net/http-status-codes/
 https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
 https://github.com/OAI/OpenAPI-Specification/blob/OpenAPI.next/versions/3.0.0.md
 
+## HTTP
+http://www.restapitutorial.com/lessons/httpmethods.html
+
+## OTHERS
+https://tools.ietf.org/html/rfc6749
+https://github.com/Netflix/falcor
+http://feathersjs.com/
+https://www.quickdatabasediagrams.com/
+
+## OPINION
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+
+
 ## GENERATE PDF
 https://pdfshift.io
 https://pdflayer.com
