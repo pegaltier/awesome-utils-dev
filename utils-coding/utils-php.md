@@ -23,6 +23,7 @@ https://github.com/tuupola/slim-api-skeleton
 http://php-di.org/doc/frameworks/slim.html
 https://github.com/gothinkster/slim-php-realworld-example-app
 https://github.com/railto/realworld-slim
+https://aimeos.org/slim-ecommerce-package/
 
 ## SLIM PHP TEST
 https://medium.com/@Andela/writing-testable-api-apps-in-slim-framework-29905970941b

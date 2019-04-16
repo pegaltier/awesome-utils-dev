@@ -439,6 +439,7 @@ https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique
 https://scotch.io/tutorials/angular-2-form-validation
 
 ## ANGULAR FORMS / FORM VALIDATION
+https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c6
 https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58
 https://www.sitepoint.com/angular-forms/
 https://www.toptal.com/angular-js/angular-4-forms-validation
@@ -545,6 +546,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
+https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
 https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
 https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
