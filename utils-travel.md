@@ -24,6 +24,7 @@ https://languagelearningwithnetflix.com
 <a href="https://www.nestpick.com">https://www.nestpick.com</a><br>
 <a href="https://www.wg-gesucht.de">https://www.wg-gesucht.de</a><br>
 <a href="https://www.thehomelike.com">https://www.thehomelike.com</a><br>
+<a href="https://linked-living.com/">https://linked-living.com/</a><br>
 <a href="https://www.spotahome.com/vienna">https://www.spotahome.com/vienna</a><br>
 <a href="https://www.mein-wien-apartment.at">https://www.mein-wien-apartment.at</a><br>
 <a href="https://www.virtualvienna.net/moving-to-vienna/accommodation/how-to-find-an-apartment/">https://www.virtualvienna.net/moving-to-vienna/accommodation/how-to-find-an-apartment/</a></p>
