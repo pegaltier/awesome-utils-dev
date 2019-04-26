@@ -36,7 +36,8 @@
   - [ANGULAR DECORATOR/ANNOTATION](#angular-decoratorannotation)
   - [ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE](#angular-buildconfiginternationalizationproductionbundle)
   - [ANGULAR CUSTOM BUILD / CUSTOM WEBPACK](#angular-custom-build--custom-webpack)
-  - [ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS REPO / MONOREPO](#anuglar-scalable-large-organization-big-apps-repo--monorepo)
+  - [CROSSPLATFORM / CROSS](#crossplatform--cross)
+  - [ANUGLAR SCALABLE LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE](#anuglar-scalable-large-organization--big-apps-repo--monorepo--shared-codebase)
   - [ANGULAR RENDERING CIENT / DOM](#angular-rendering-cient--dom)
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION](#angular-components--modal-dropdown-menu-loading-transclusion)
@@ -381,10 +382,18 @@ https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-bui
 
 https://webpack.js.org/plugins/context-replacement-plugin/
 
+## CROSSPLATFORM / CROSS
+https://nstudio.io/xplat
+https://github.com/nstudio/xplat
 
-## ANUGLAR SCALABLE LARGE ORGANIZATION BIG APPS REPO / MONOREPO
+
+## ANUGLAR SCALABLE LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
+https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
+https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
 https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
 https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
+https://github.com/duncanhunter/Enterprise-Angular-applications-with-ngrx-and-nx/blob/master/chapter1.md
+https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157
 
 ## ANGULAR RENDERING CIENT / DOM
 https://angular.io/guide/template-syntax
@@ -724,7 +733,6 @@ https://medium.com/@nishu0505/crud-with-angular-5d8f39805c49
 https://blog.angularindepth.com/angular-unit-testing-viewchild-4525e0c7b756
 https://medium.com/@abdul_74410/towards-better-testing-in-angular-part-1-mocking-child-components-b51e1fd571da
 https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
-https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129
 https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files
 https://christianlydemann.com/complete-guide-to-angular-testing/
