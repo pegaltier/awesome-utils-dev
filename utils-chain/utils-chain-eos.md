@@ -186,6 +186,7 @@ https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to
 https://steemit.com/eos/@eos-canada/a-candidate-chain-and-recognizing-community-effort-eos-launch-update
 https://www.youtube.com/watch?v=EZfQ9YRtlmU 100 $ end of year
 https://medium.com/@bytemaster
+https://eos.discussions.app
 
 ## EOS TRADING
 https://visionary.life/eos-ecosystem-for-traders-infographics/
