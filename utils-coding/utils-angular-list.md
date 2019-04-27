@@ -555,6 +555,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
+https://github.com/ngrx/platform
 https://github.com/ngrx/platform/tree/master/projects/example-app
 https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
@@ -582,7 +583,6 @@ https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
 https://www.toptal.com/angular-js/ngrx-angular-reaction-application
 https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a
 https://blog.dmbcllc.com/how-to-really-use-ngrx
-https://github.com/ngrx/store  
 https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
 https://appendto.com/2016/08/handling-the-challenge-of-shared-state-with-ngrxstore-in-angular-2/
 https://www.youtube.com/watch?v=UEcdQR-NoNA
