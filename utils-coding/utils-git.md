@@ -1,5 +1,5 @@
 # tutorial
-
+https://juristr.com/blog/2019/04/productive-git-for-developers/
 https://blog.octo.com/git-dans-la-pratique-22/
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 http://learngitbranching.js.org

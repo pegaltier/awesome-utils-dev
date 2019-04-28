@@ -16,6 +16,7 @@ si classe alors utiliser mecanisme fromJSON (ng-book2 screencast final-app voir 
 
 ## CLASSES INHERIT
 https://www.typescriptlang.org/docs/handbook/classes.html
+https://css-tricks.com/creating-reusable-base-classes-in-typescript-with-a-real-life-example
 
 ## GENERIC SERVICE
 https://stackoverflow.com/questions/44129817/typescript-generic-service

@@ -19,7 +19,8 @@
   - [ANGULAR OTHERS LIST](#angular-others-list)
   - [ANGULAR START INIT](#angular-start-init)
   - [ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN](#angular-ide-tools-snippets-extension-plugin)
-  - [ANGULAR LANGUAGE SERVICE](#angular-language-service)
+  - [ANGULAR IDE BEST EXTENSIONS](#angular-ide-best-extensions)
+  - [ANGULAR IDE OTHERS EXTENSIONS](#angular-ide-others-extensions)
   - [ANGULAR CLI](#angular-cli)
   - [ANGULAR TOOLS](#angular-tools)
   - [ANGULAR CI / CONTINIOUS INTEGRATION / AUTOMATED](#angular-ci--continious-integration--automated)
@@ -32,20 +33,19 @@
   - [ANGULAR BOOK/COURSES](#angular-bookcourses)
   - [ANGULAR DOCKER](#angular-docker)
   - [ANGULAR DATA FLOW DATA FLOW UNIDIR](#angular-data-flow-data-flow-unidir)
-  - [ANGULAR DISTRIBUTING LIBRARY LIBS](#angular-distributing-library-libs)
   - [ANGULAR DECORATOR/ANNOTATION](#angular-decoratorannotation)
   - [ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE](#angular-buildconfiginternationalizationproductionbundle)
   - [ANGULAR CUSTOM BUILD / CUSTOM WEBPACK](#angular-custom-build--custom-webpack)
-  - [CROSSPLATFORM / CROSS](#crossplatform--cross)
   - [ANUGLAR SCALABLE LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE](#anuglar-scalable-large-organization--big-apps-repo--monorepo--shared-codebase)
   - [ANGULAR RENDERING CIENT / DOM](#angular-rendering-cient--dom)
   - [ANGULAR ANIMATION](#angular-animation)
-  - [ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION](#angular-components--modal-dropdown-menu-loading-transclusion)
+  - [ANGULAR COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN / MENU / LOADING](#angular-components--transclusion--modal--dropdown--menu--loading)
   - [ANGULAR HTTPCLIENT HTTPREQUEST](#angular-httpclient-httprequest)
   - [ANGULAR WEB COMPONENTS / CUSTOM ELEMENTS](#angular-web-components--custom-elements)
   - [ANGULAR NG MODULES NGMODULE](#angular-ng-modules-ngmodule)
   - [ANGULAR AUTHENTIFICATION/LOGIN/](#angular-authentificationlogin)
-  - [ANGULAR FORMS / FORM VALIDATION](#angular-forms--form-validation)
+  - [ANGULAR REACTIVE FORMS / DYNAMIC FORMS](#angular-reactive-forms--dynamic-forms)
+  - [ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS](#angular-forms--form-validation--reactive-forms)
   - [ANGULAR TEMPLATE](#angular-template)
   - [ANGULAR SCAFFHOLDING](#angular-scaffholding)
   - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
@@ -75,15 +75,15 @@
   - [ANGULAR E2E TESTS](#angular-e2e-tests)
   - [ANGULAR API](#angular-api)
   - [ANGULAR MVC MVVM](#angular-mvc-mvvm)
-  - [ANGULAR AOT COMPLIANT LIB MAKE LIBRARY](#angular-aot-compliant-lib-make-library)
+  - [ANGULAR MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS](#angular-make-lib--distributing-library--libs--plugins)
   - [ANGULAR UPLOAD](#angular-upload)
   - [ANGULAR LIB MODAL](#angular-lib-modal)
   - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
   - [ANGULAR LIB GENERAL](#angular-lib-general)
   - [ANGULAR LIB GENERAL THEME/STYLE/CSS](#angular-lib-general-themestylecss)
   - [ANGULAR DEMO SOURCES](#angular-demo-sources)
-  - [ANGULAR DEMO APP](#angular-demo-app)
-  - [ANGULAR MOBILE / NATIVE / HYBRIDE](#angular-mobile--native--hybride)
+  - [ANGULAR DEMO APP TUTORIAL](#angular-demo-app-tutorial)
+  - [ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS](#angular-mobile--native--hybride--crossplatform--cross)
   - [ANGULAR LINKS](#angular-links)
   - [ANGULAR SOCKETS](#angular-sockets)
   - [ANGULAR SOURCES](#angular-sources)
@@ -110,6 +110,7 @@ https://en.wikipedia.org/wiki/Angular_(application_platform)
 
 ## ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
 https://angular-checklist.io/
+https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
 https://malcoded.com/posts/why-angular-not-works
 https://github.com/mgechev/angular-performance-checklist
 https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
@@ -205,22 +206,25 @@ https://angular.io/docs/ts/latest/quickstart.html
 https://angular.io/docs/ts/latest/cookbook/
 
 ## ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN
+https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
 https://www.genuitec.com/products/angular-ide/
 https://scotch.io/bar-talk/best-vs-code-extensions-for-angular-v2-development
 https://johnpapa.net/essential-angular-vs-code-extensions/
-http://devboosts.com/2017/02/08/top-10-vs-code-extensions/
 https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.lo1w8ym8k
 http://blog.ionic.io/cordova-extension-for-vscode/
 http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/  
 https://blog.nrwl.io/using-webstorm-for-building-angular-apps-fe8b3ab92565#.xwiyt3668
 https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
 
-BEST
-https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+## ANGULAR IDE BEST EXTENSIONS
 https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
-https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
+https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
+https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
+https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
 
-OTHER
+## ANGULAR IDE OTHERS EXTENSIONS
+https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
 https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
@@ -229,17 +233,12 @@ https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2
 https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
 https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
 https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
-
+http://brianflove.com/2017/04/11/angular-language-service/
 https://github.com/angular/vscode-ng-language-service
 https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
 https://github.com/nwinkler/atom-keyboard-shortcuts  ATOM shortcut
 https://github.com/johnpapa/vscode-angular2-snippets  
 https://github.com/evanplaice/angular2-snippets 
-
-
-## ANGULAR LANGUAGE SERVICE
-http://brianflove.com/2017/04/11/angular-language-service/
-
 
 ## ANGULAR CLI
 https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
@@ -346,11 +345,6 @@ https://devblog.dymel.pl/2017/10/04/angular-in-docker/
 ## ANGULAR DATA FLOW DATA FLOW UNIDIR
 http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode
 
-## ANGULAR DISTRIBUTING LIBRARY LIBS
-https://next.angular.io/guide/creating-libraries
-http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
-https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266
-https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
 
 ## ANGULAR DECORATOR/ANNOTATION
 https://toddmotto.com/angular-decorators
@@ -382,11 +376,6 @@ https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-bui
 
 https://webpack.js.org/plugins/context-replacement-plugin/
 
-## CROSSPLATFORM / CROSS
-https://nstudio.io/xplat
-https://github.com/nstudio/xplat
-
-
 ## ANUGLAR SCALABLE LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
 https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
 https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
@@ -410,7 +399,8 @@ https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebc
 http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
 https://medium.com/google-developer-experts/angular-applying-motion-principles-to-a-list-d5cdd35c899e
 
-## ANGULAR COMPONENTS : MODAL DROPDOWN MENU LOADING TRANSCLUSION
+## ANGULAR COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN /  MENU / LOADING 
+https://blog.angularindepth.com/creating-reusable-angular-components-how-to-avoid-the-painful-trap-most-go-in-d531761d6c7a
 https://coryrylan.com/blog/angular-custom-form-controls-with-reactive-forms-and-ngmodel
 https://embed.plnkr.co/Yj93mh5ZnX6ONtaMQPAQ/
 http://devarchy.com/angular-components
@@ -436,6 +426,7 @@ http://blog.angular-university.io/angular2-ngmodule/
 https://johnpapa.net/introducing-angular-modules-feature-modules-2/
 
 ## ANGULAR AUTHENTIFICATION/LOGIN/
+https://github.com/abacritt/angularx-social-login
 http://jasonwatmore.com/post/2017/02/22/mean-with-angular-2-user-registration-and-login-example-tutorial
 http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/  
 http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html  
@@ -447,8 +438,17 @@ http://tphangout.com/angular-2-authentication-using-the-new-router/
 https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 https://scotch.io/tutorials/angular-2-form-validation
 
-## ANGULAR FORMS / FORM VALIDATION
-https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c6
+## ANGULAR REACTIVE FORMS / DYNAMIC FORMS
+https://github.com/formql/formql
+https://github.com/ngx-formly/ngx-formly
+https://devdactic.com/dynamic-components-ionic
+https://toddmotto.com/angular-dynamic-components-forms
+https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
+
+## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
+https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
+https://netbasal.com/how-to-implement-file-uploading-in-angular-reactive-forms-89a3fffa1a03
+https://netbasal.com/detect-unsaved-changes-in-angular-forms-75fd8f5f1fa6
 https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58
 https://www.sitepoint.com/angular-forms/
 https://www.toptal.com/angular-js/angular-4-forms-validation
@@ -461,10 +461,9 @@ https://toddmotto.com/angular-2-forms-reactive
 https://toddmotto.com/reactive-formgroup-validation-angular-2
 https://scotch.io/tutorials/angular-2-form-validation
 https://toddmotto.com/angular-ng-errors-form-validation
-https://toddmotto.com/angular-dynamic-components-forms
 https://github.com/UltimateAngular/ngxerrors
-https://github.com/ngx-formly/ngx-formly (dynamic)
-https://devdactic.com/dynamic-components-ionic
+
+
 ## ANGULAR TEMPLATE
 http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 
@@ -524,6 +523,7 @@ https://github.com/cartant/rxjs-tslint-rules
 https://github.com/ReactiveX/rxjs-tslint
 
 ## ANGULAR RXJS
+https://blog.strongbrew.io/build-the-operators-from-rxjs-from-scratch/
 https://netbasal.com/rxjs-subjects-for-human-beings-7807818d4e4d
 http://restlet.com/blog/2016/04/18/interacting-efficiently-with-a-restful-service-with-angular2-and-rxjs-part-3/  
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0  
@@ -665,6 +665,7 @@ https://www.youtube.com/watch?v=mVqQDEtRBwA
 
 
 ## ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING
+https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24
 https://medium.com/@zamamohammed/announcing-angular-loadable-ngx-loadable-2-2kb-4ef7e6321784 
 https://medium.com/@michelestieven/lazy-loading-angular-modules-27856e940bb0
 https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
@@ -729,6 +730,11 @@ https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230
 ## ANGULAR UNIT TESTS TESTING
 https://github.com/ike18t/ng-mocks
 https://github.com/getsaf/shallow-render
+https://github.com/youdz/dry-angular-testing
+https://stackblitz.com/edit/angular-testing-v7
+https://github.com/juristr/angular-testing-recipes
+https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
+https://medium.com/bhargav-bachina-angular-training/angular-unit-testing-pipes-4af036a3d98d
 https://medium.com/@nishu0505/crud-with-angular-5d8f39805c49
 https://blog.angularindepth.com/angular-unit-testing-viewchild-4525e0c7b756
 https://medium.com/@abdul_74410/towards-better-testing-in-angular-part-1-mocking-child-components-b51e1fd571da
@@ -739,9 +745,6 @@ https://christianlydemann.com/complete-guide-to-angular-testing/
 https://codecraft.tv/courses/angular/unit-testing/overview/ 
 https://alligator.io/angular/testing-async-fakeasync/
 https://github.com/codecraft-tv/angular-course/tree/current/13.unit-testing  
-https://github.com/juristr/angular-testing-recipes
-https://github.com/youdz/dry-angular-testing
-https://stackblitz.com/edit/angular-testing-v7
 http://slides.com/gerardsans/ng-stockholm-testing-recipes
 https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
 https://gist.github.com/michaelbromley/bb4291200c25196507d12d2fd948a13e
@@ -771,8 +774,13 @@ https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)
 ## ANGULAR MVC MVVM
 https://scotch.io/tutorials/mvc-in-an-angular-world
 
-## ANGULAR AOT COMPLIANT LIB MAKE LIBRARY
-https://nrwl.io/nx
+
+## ANGULAR MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS
+https://blog.angularindepth.com/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5
+https://next.angular.io/guide/creating-libraries
+http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
+https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266
+https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
 https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
 https://github.com/jvandemo/generator-angular2-library
 https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
@@ -796,6 +804,7 @@ https://github.com/jkuri/ng2-uploader
 https://github.com/biig-io/ngx-smart-modal
 https://github.com/shlomiassaf/ngx-modialog
 https://matthewross.me/blog/posts/minimal-angular-2-modal
+https://malcoded.com/posts/angular-dynamic-components/
 
 ## ANGULAR LIB PROGRESS / LOADING / LOADER / BAR
 https://github.com/MurhafSousli/ngx-progressbar
@@ -852,6 +861,7 @@ http://demos.wijmo.com/5/Angular2/Explorer/Explorer
 http://ng-lightning.github.io/ng-lightning/  
 
 ## ANGULAR DEMO SOURCES
+https://github.com/avatsaev/angular-contacts-app-example
 https://github.com/brechtbilliet/winecellar (backend and auth)  
 https://github.com/amcdnl/angular2-demo  
 https://github.com/r-park/todo-angular2-firebase WITH BACKEND and OAUTH  
@@ -864,7 +874,9 @@ https://github.com/blacksonic/angular2-es6-starter
 https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang roles
 https://hackernoon.com/chatbot-with-angular-5-dialogflow-fdac97fef681
 
-## ANGULAR DEMO APP
+## ANGULAR DEMO APP TUTORIAL
+https://github.com/avatsaev/angular-contacts-app-example
+https://medium.com/the-guild/fully-functional-whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-5479d83baaa4
 http://winecellar.surge.sh/    
 http://rawgit.com/start-angular/ani-angular-2/master/dist/prod/index.html  
 http://builtwithangular2.com/  
@@ -883,7 +895,10 @@ https://angular2-es6-starter.herokuapp.com/
 https://dot-md.herokuapp.com/  
 
 
-## ANGULAR MOBILE / NATIVE / HYBRIDE
+## ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS
+https://nrwl.io/nx
+https://nstudio.io/xplat
+https://github.com/nstudio/xplat
 http://www.hybridtonative.com/
 http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/  
 http://angularjs.blogspot.fr/2016/03/code-reuse-in-angular-2-native-mobile.html  
@@ -960,7 +975,7 @@ https://angularconferences.com/
 
 ## ANGULAR OTHERS ARTICLES
 https://devchat.tv/adventures-in-angular  
-https://www.voxxed.com/blog/2016/02/why-java-developers-will-embrace-angular-2-and-typescript/  
+https://www.voxxed.com/blog/2016/02/why-java-developers-will-embrace-angular-2-and-typescript/ 
 http://blog.42la.bs/building-simple-reddit-client-with-angular2-and-rxjs-part-1/  
 http://www.synbioz.com/blog/angularjs_2_0_changements_notables  
 https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/  
