@@ -50,8 +50,7 @@
   - [ANGULAR SCAFFHOLDING](#angular-scaffholding)
   - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
-  - [ANGULAR RXJS UPGRADE](#angular-rxjs-upgrade)
-  - [ANGULAR RXJS](#angular-rxjs)
+  - [ANGULAR RXJS UPGRADE GUIDE / UPDATE HELPER](#angular-rxjs-upgrade-guide--update-helper)
   - [ANGULAR HTTP](#angular-http)
   - [ANGULAR BACKEND MOCK BACKEND HTTP MOCK FIREBASE](#angular-backend-mock-backend-http-mock-firebase)
   - [ANGULAR FIREBASE BACKEND](#angular-firebase-backend)
@@ -79,8 +78,8 @@
   - [ANGULAR UPLOAD](#angular-upload)
   - [ANGULAR LIB MODAL](#angular-lib-modal)
   - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
-  - [ANGULAR LIB GENERAL](#angular-lib-general)
-  - [ANGULAR LIB GENERAL THEME/STYLE/CSS](#angular-lib-general-themestylecss)
+  - [ANGULAR LIB / REUSE / UTILS / GENERAL](#angular-lib--reuse--utils--general)
+  - [ANGULAR CSS LIB / THEME / STYLE / CSS](#angular-css-lib--theme--style--css)
   - [ANGULAR DEMO SOURCES](#angular-demo-sources)
   - [ANGULAR DEMO APP TUTORIAL](#angular-demo-app-tutorial)
   - [ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS](#angular-mobile--native--hybride--crossplatform--cross)
@@ -241,6 +240,7 @@ https://github.com/johnpapa/vscode-angular2-snippets
 https://github.com/evanplaice/angular2-snippets 
 
 ## ANGULAR CLI
+https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
 https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
 https://github.com/angular/angular-cli  
@@ -490,11 +490,13 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 
 ## ANGULAR OBSERVABLE/REACTIVE/RXJS
+
 https://www.learnrxjs.io/
 https://github.com/ReactiveX/rxjs-tslint
 https://www.npmjs.com/package/rxjs-tslint-rules
 https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
+https://medium.com/@rangleio/thinking-in-nested-streams-with-rxjs-8e7d51ce4775
 https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
 https://yakovfain.com/2018/01/03/wrapping-an-rxjs-observable-stream-into-an-angular-service/
 https://blog.craftlab.hu/clarifying-observables-b7b3ed7e0a5f
@@ -517,12 +519,6 @@ http://www.metaltoad.com/blog/angular-2-http-observables
 http://blog.jhades.org/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/  
 http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/  
 http://blog.angular-university.io/rxjs-switchmap-operator/
-
-## ANGULAR RXJS UPGRADE
-https://github.com/cartant/rxjs-tslint-rules
-https://github.com/ReactiveX/rxjs-tslint
-
-## ANGULAR RXJS
 https://blog.strongbrew.io/build-the-operators-from-rxjs-from-scratch/
 https://netbasal.com/rxjs-subjects-for-human-beings-7807818d4e4d
 http://restlet.com/blog/2016/04/18/interacting-efficiently-with-a-restful-service-with-angular2-and-rxjs-part-3/  
@@ -532,6 +528,11 @@ https://www.sitepoint.com/rxjs-functions-with-examples/
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
 http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html
 https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
+
+
+## ANGULAR RXJS UPGRADE GUIDE / UPDATE HELPER
+https://github.com/cartant/rxjs-tslint-rules
+https://github.com/ReactiveX/rxjs-tslint
 
 
 ## ANGULAR HTTP
@@ -811,16 +812,15 @@ https://github.com/MurhafSousli/ngx-progressbar
 https://github.com/aitboudad/ngx-loading-bar
 https://github.com/biig-io/ngx-smart-loader
 
-## ANGULAR LIB GENERAL
-https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5
-https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
-http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
+## ANGULAR LIB / REUSE / UTILS / GENERAL
+https://github.com/danrevah/ngx-pipes
+https://github.com/ngx-translate/core
+https://github.com/aitboudad/ngx-loading-bar
+
 https://swimlane.github.io/ng2d3/
-http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
-https://github.com/basvandenberg/angular2-select/tree/1.0.0-alpha.7	<< AUTOCOMPLETE + SELECT ITEM
-https://github.com/ocombe/ng2-translate  
+https://github.com/basvandenberg/angular2-select 
 https://github.com/michaelbromley/ng2-pagination  
-http://amcdnl.github.io/angular2-demo/ << PARALLAX  
+http://amcdnl.github.io/angular2-demo/ PARALLAX  
 https://github.com/flauc/angular2-notifications  
 http://flauc.github.io/angular2-notifications/  
 https://github.com/tjoskar/ng2-lazyload-image  
@@ -844,8 +844,12 @@ https://github.com/akserg/ng2-slim-loading-bar
 https://github.com/czeckd/angular2-simple-modal  
 http://demos.wijmo.com/5/angular2/FlexGridIntro/FlexGridIntro/  
 https://github.com/WoltersKluwerPL/ng2-spin-kit  
+https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5
+https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
+http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
+http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
 
-## ANGULAR LIB GENERAL THEME/STYLE/CSS
+## ANGULAR CSS LIB / THEME / STYLE / CSS
 https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2#.bwypv3is1
 https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components  
