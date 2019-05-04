@@ -16,7 +16,6 @@
   - [ANGULAR BLOG](#angular-blog)
   - [ANGULAR PWA](#angular-pwa)
   - [ANGULAR SEO](#angular-seo)
-  - [ANGULAR ELEMENTS](#angular-elements)
   - [ANGULAR OTHERS LIST](#angular-others-list)
   - [ANGULAR START INIT](#angular-start-init)
   - [ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN](#angular-ide-tools-snippets-extension-plugin)
@@ -28,7 +27,7 @@
   - [ANGULAR DEBUG](#angular-debug)
   - [ANGULAR DOC UTILS CHEAT-SHEETS](#angular-doc-utils-cheat-sheets)
   - [ANGULAR UI DESIGN / UI GENERATE](#angular-ui-design--ui-generate)
-  - [ANGULAR STYLES GUIDE + CODE ANALYSIS](#angular-styles-guide--code-analysis)
+  - [ANGULAR STYLES GUIDE + CODE ANALYSIS / LINT](#angular-styles-guide--code-analysis--lint)
   - [ANGULAR SUPPORT IE/MOZILLA OLD VERSION](#angular-support-iemozilla-old-version)
   - [ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK](#angular-scalable-performance-perf-optimization--memory-leak)
   - [ANGULAR BOOK/COURSES](#angular-bookcourses)
@@ -42,7 +41,7 @@
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN / MENU / LOADING](#angular-components--transclusion--modal--dropdown--menu--loading)
   - [ANGULAR HTTPCLIENT HTTPREQUEST](#angular-httpclient-httprequest)
-  - [ANGULAR WEB COMPONENTS / CUSTOM ELEMENTS](#angular-web-components--custom-elements)
+  - [ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS](#angular-elements--web-components--custom-elements)
   - [ANGULAR NG MODULES NGMODULE](#angular-ng-modules-ngmodule)
   - [ANGULAR AUTHENTIFICATION/LOGIN/](#angular-authentificationlogin)
   - [ANGULAR REACTIVE FORMS / DYNAMIC FORMS](#angular-reactive-forms--dynamic-forms)
@@ -51,7 +50,6 @@
   - [ANGULAR SCAFFHOLDING](#angular-scaffholding)
   - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
-  - [ANGULAR RXJS UPGRADE GUIDE / UPDATE HELPER](#angular-rxjs-upgrade-guide--update-helper)
   - [ANGULAR RXJS EXTERNAL LIB](#angular-rxjs-external-lib)
   - [ANGULAR HTTP](#angular-http)
   - [ANGULAR BACKEND MOCK BACKEND HTTP MOCK FIREBASE](#angular-backend-mock-backend-http-mock-firebase)
@@ -63,7 +61,7 @@
   - [ANGULAR GENERATE SCHEMATICS GENERATOR](#angular-generate-schematics-generator)
   - [ANGULAR DEPENDENCY INJECTION](#angular-dependency-injection)
   - [ANGULAR SEEDS](#angular-seeds)
-  - [ANGULAR CSS UI LIB](#angular-css-ui-lib)
+  - [ANGULAR CSS / CLASS / UI LIB](#angular-css--class--ui-lib)
   - [ANGULAR SINGLETON](#angular-singleton)
   - [ANGULAR ANIMATE ANIMATIONS DESIGN](#angular-animate-animations-design)
   - [ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING](#angular-routes-router-lazy-loading-modules--routing)
@@ -188,8 +186,6 @@ https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-pro
 https://blog.pusher.com/make-angular-4-app-seo-friendly
 https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
 
-## ANGULAR ELEMENTS
-https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 
 ## ANGULAR OTHERS LIST
 https://github.com/jmcunningham/AngularJS2-Learning  
@@ -309,7 +305,10 @@ https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-pa
 ## ANGULAR UI DESIGN / UI GENERATE
 https://github.com/Dynatrace/sketchmine
 
-## ANGULAR STYLES GUIDE + CODE ANALYSIS  
+## ANGULAR STYLES GUIDE + CODE ANALYSIS / LINT
+https://github.com/mgechev/tslint-angular
+https://github.com/ReactiveX/rxjs-tslint
+https://www.npmjs.com/package/rxjs-tslint-rules
 https://github.com/rangle/angular2-guidelines  
 https://github.com/mgechev/ngrev
 http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript  
@@ -422,7 +421,9 @@ https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-compon
 ## ANGULAR HTTPCLIENT HTTPREQUEST
 http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
 
-## ANGULAR WEB COMPONENTS / CUSTOM ELEMENTS
+## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS
+https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
+https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
 https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 
@@ -495,14 +496,12 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 
 ## ANGULAR OBSERVABLE/REACTIVE/RXJS
-
 https://www.learnrxjs.io/
-https://github.com/ReactiveX/rxjs-tslint
-https://www.npmjs.com/package/rxjs-tslint-rules
 https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 https://medium.com/@rangleio/thinking-in-nested-streams-with-rxjs-8e7d51ce4775
 https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
+https://github.com/ReactiveX/rxjs-tslint migration to rxjs6 script
 https://yakovfain.com/2018/01/03/wrapping-an-rxjs-observable-stream-into-an-angular-service/
 https://blog.craftlab.hu/clarifying-observables-b7b3ed7e0a5f
 https://www.youtube.com/watch?v=65Us8NwmYf4 Top 7 RxJS Concepts for Angular Developers
@@ -533,11 +532,6 @@ https://www.sitepoint.com/rxjs-functions-with-examples/
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
 http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html
 https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
-
-
-## ANGULAR RXJS UPGRADE GUIDE / UPDATE HELPER
-https://github.com/cartant/rxjs-tslint-rules
-https://github.com/ReactiveX/rxjs-tslint
 
 ## ANGULAR RXJS EXTERNAL LIB
 https://github.com/wardbell/subsink
@@ -656,8 +650,9 @@ https://github.com/ocombe/angular2-seed/tree/ng2-translate
 
 http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angular-2/29844571  
 
-## ANGULAR  CSS UI LIB
-http://blog.angular-university.io/angular-ngclass-ngstyle
+## ANGULAR  CSS / CLASS / UI LIB
+https://blog.angular-university.io/angular-host-context/
+https://blog.angular-university.io/angular-ngclass-ngstyle
 https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
 https://coryrylan.com/blog/css-encapsulation-with-angular-2-components  
 https://angular.io/docs/ts/latest/guide/component-styles.html  
