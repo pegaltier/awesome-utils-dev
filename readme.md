@@ -1,15 +1,22 @@
 # HELLO
 
-![apache](https://badgen.now.sh/badge/license/Apache-2.0/blue)
-![stars](https://badgen.now.sh/badge/stars/★★★★★)
-![github](https://badgen.now.sh/badge/github/stars/pegaltier/utils-dev)
-![twitter](https://badgen.now.sh/badge/twitter/follow/pegaltier)
+![apache](https://badgen.net/badge/license/Apache-2.0/blue)
+![stars](https://badgen.net/badge/stars/★★★★★)
+![github](https://badgen.net/badge/github/stars/pegaltier/utils-dev)
+![twitter](https://badgen.net/badge/twitter/follow/pegaltier)
 
 
-## Coding:
+## Coding
 
-- Angular https://github.com/pegaltier/utils-dev/blob/master/utils-coding/utils-angular-list.md
-- Android 
-- Java
-- Php
-- More 
+- [Angular](utils-coding/utils-angular-list.md)
+- [Android](utils-coding/utils-android.md)
+- [Java](utils-coding/utils-java.md)
+- [Php](utils-coding/utils-php.md)
+- [More](utils-coding/)
+
+
+## Follow me
+
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/pegaltier/utils-dev.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=pegaltier)
+
