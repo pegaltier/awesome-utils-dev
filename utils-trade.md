@@ -43,3 +43,6 @@ indicateur: ratio rendement potentiel / risque (Sharpe et Sortino)<br>diversific
 Stephane Ceaux-Dutheil. 
 
 </p>
+
+## CRYPTO QUOTES:
+https://fuserleer.online/exchange_data/

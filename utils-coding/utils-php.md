@@ -81,6 +81,7 @@ https://www.codeproject.com/Articles/1221422/Importance-of-Logging-in-MySQL
 ## ORM
 https://medium.com/@romaninsh/objectively-comparing-orm-dal-libraries-e4f095de80b5
 http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql
+https://github.com/cycle/orm
 https://redbeanphp.com
 http://propelorm.org/
 

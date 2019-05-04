@@ -7,6 +7,7 @@
   - [ANGULAR HISTORY](#angular-history)
   - [ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE](#angular-common-mistike-bugs--best-practice-tips--checklist-performance)
   - [HACK STARTER ONLINE FAST](#hack-starter-online-fast)
+  - [ANGULAR8](#angular8)
   - [ANGULAR7](#angular7)
   - [ANGULAR6](#angular6)
   - [ANGULAR5 / MIGRATION / NEW FEATURES](#angular5--migration--new-features)
@@ -51,6 +52,7 @@
   - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
   - [ANGULAR RXJS UPGRADE GUIDE / UPDATE HELPER](#angular-rxjs-upgrade-guide--update-helper)
+  - [ANGULAR RXJS EXTERNAL LIB](#angular-rxjs-external-lib)
   - [ANGULAR HTTP](#angular-http)
   - [ANGULAR BACKEND MOCK BACKEND HTTP MOCK FIREBASE](#angular-backend-mock-backend-http-mock-firebase)
   - [ANGULAR FIREBASE BACKEND](#angular-firebase-backend)
@@ -122,6 +124,9 @@ https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better
 https://stackblitz.com
 https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
+
+## ANGULAR8
+https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
 
 ## ANGULAR7
 https://blog.angularindepth.com/new-in-angular-v7-1-updates-to-the-router-fd67d526ad05
@@ -534,6 +539,8 @@ https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
 https://github.com/cartant/rxjs-tslint-rules
 https://github.com/ReactiveX/rxjs-tslint
 
+## ANGULAR RXJS EXTERNAL LIB
+https://github.com/wardbell/subsink
 
 ## ANGULAR HTTP
 https://github.com/seeschweiler/angular2-http-client-tutorial  
@@ -559,7 +566,9 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 https://github.com/ngrx/platform
 https://github.com/ngrx/platform/tree/master/projects/example-app
 https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
+https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
+https://juristr.com/blog/2018/10/simple-state-management-with-scan/
 https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
 https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
 https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html
