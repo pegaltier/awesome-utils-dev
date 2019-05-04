@@ -1,9 +1,9 @@
-# HELLO
+# IT List
 
 ![apache](https://badgen.net/badge/license/Apache-2.0/blue)
 ![stars](https://badgen.net/badge/stars/★★★★★)
-![github](https://badgen.net/badge/github/stars/pegaltier/utils-dev)
-![twitter](https://badgen.net/badge/twitter/follow/pegaltier)
+![github](https://badgen.net/github/stars/pegaltier/utils-dev)
+![twitter](https://badgen.net/twitter/follow/pegaltier)
 
 
 ## Coding
