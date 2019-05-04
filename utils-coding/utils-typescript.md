@@ -6,6 +6,9 @@ tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMeta
 tsc --watch 
 npm init 
  
+ ## FAST
+ https://github.com/palmerhq/tsdx
+ 
  ## VERSION
  https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/
  

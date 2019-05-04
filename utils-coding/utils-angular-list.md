@@ -322,6 +322,7 @@ http://www.sitepoint.com/introduction-angularjs-style-guides
 http://czeckd.github.io/angular2-svg-icon/demo/  
 
 ## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
+https://speakerdeck.com/mgechev/tools-for-fast-angular-applications
 https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db
 https://zizzamia.github.io/perfume/
 https://alligator.io/angular/bundle-size/
@@ -982,6 +983,7 @@ https://alligator.io/angular/stripe-elements
 https://angularconferences.com/
 
 ## ANGULAR OTHERS ARTICLES
+https://medium.com/ampgular-bringing-angular-app-t-to-amp-world-and/https-medium-com-ampgular-angular-to-amp-madrid-day-spa-com-use-case-56d6809604fd
 https://devchat.tv/adventures-in-angular  
 https://www.voxxed.com/blog/2016/02/why-java-developers-will-embrace-angular-2-and-typescript/ 
 http://blog.42la.bs/building-simple-reddit-client-with-angular2-and-rxjs-part-1/  
