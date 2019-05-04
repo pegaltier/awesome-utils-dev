@@ -3,10 +3,10 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [ANGULAR LIST](#angular-list)
-  - [XP NEW PROJECT QUESTIONS](#xp-new-project-questions)
+  - [XP / NEW PROJECT / QUESTIONS](#xp--new-project--questions)
   - [ANGULAR HISTORY](#angular-history)
   - [ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE](#angular-common-mistike-bugs--best-practice-tips--checklist-performance)
-  - [HACK STARTER ONLINE FAST](#hack-starter-online-fast)
+  - [HACK ONLINE STARTER / FAST CODING](#hack-online-starter--fast-coding)
   - [ANGULAR LIST / LINKS / AWESOME](#angular-list--links--awesome)
   - [ANGULAR8](#angular8)
   - [ANGULAR7](#angular7)
@@ -96,7 +96,7 @@
 
 # ANGULAR LIST
 
-##  XP NEW PROJECT QUESTIONS
+##  XP / NEW PROJECT / QUESTIONS
 - Official I18N or ngx-translate?
 - Nx project or default cli ? Nrwl Extensions : https://nrwl.io/nx
 
@@ -115,7 +115,7 @@ https://theinfogrid.com/tech/developers/angular/angular-development-tips/
 https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
 https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 
-## HACK STARTER ONLINE FAST 
+## HACK ONLINE STARTER / FAST CODING
 https://stackblitz.com
 https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
@@ -169,7 +169,6 @@ https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
 https://stackoverflow.com/questions/37172928/angular-cli-server-how-to-proxy-api-requests-to-another-server
 //"proxyConfig": "proxy2.conf.json"
 
-
 ## ANGULAR PWA
 https://slides.com/webmax/angular-workbox/#/34
 https://github.com/webmaxru/angular-pwa/tree/workbox-v4-bundle
@@ -184,7 +183,6 @@ https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-pro
 ## ANGULAR SEO
 https://blog.pusher.com/make-angular-4-app-seo-friendly
 https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
-
 
 ## ANGULAR OTHERS LIST
 https://github.com/jmcunningham/AngularJS2-Learning  
