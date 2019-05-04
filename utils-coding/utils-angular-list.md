@@ -7,13 +7,13 @@
   - [ANGULAR HISTORY](#angular-history)
   - [ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE](#angular-common-mistike-bugs--best-practice-tips--checklist-performance)
   - [HACK STARTER ONLINE FAST](#hack-starter-online-fast)
+  - [ANGULAR LIST / LINKS / AWESOME](#angular-list--links--awesome)
   - [ANGULAR8](#angular8)
   - [ANGULAR7](#angular7)
   - [ANGULAR6](#angular6)
   - [ANGULAR5 / MIGRATION / NEW FEATURES](#angular5--migration--new-features)
   - [ANGULAR4](#angular4)
   - [ANGULAR PROXY](#angular-proxy)
-  - [ANGULAR BLOG](#angular-blog)
   - [ANGULAR PWA](#angular-pwa)
   - [ANGULAR SEO](#angular-seo)
   - [ANGULAR OTHERS LIST](#angular-others-list)
@@ -72,26 +72,22 @@
   - [ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION](#angular-error-handler--error-handling--exception)
   - [ANGULAR UNIT TESTS TESTING](#angular-unit-tests-testing)
   - [ANGULAR E2E TESTS](#angular-e2e-tests)
-  - [ANGULAR API](#angular-api)
-  - [ANGULAR MVC MVVM](#angular-mvc-mvvm)
   - [ANGULAR MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS](#angular-make-lib--distributing-library--libs--plugins)
   - [ANGULAR UPLOAD](#angular-upload)
   - [ANGULAR LIB MODAL](#angular-lib-modal)
   - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
   - [ANGULAR LIB / REUSE / UTILS / GENERAL](#angular-lib--reuse--utils--general)
   - [ANGULAR CSS LIB / THEME / STYLE / CSS](#angular-css-lib--theme--style--css)
-  - [ANGULAR DEMO SOURCES](#angular-demo-sources)
-  - [ANGULAR DEMO APP TUTORIAL](#angular-demo-app-tutorial)
+  - [ANGULAR DEMO SOURCES / EXAMPLES](#angular-demo-sources--examples)
+  - [ANGULAR DEMO APP / TUTORIAL / EXAMPLES](#angular-demo-app--tutorial--examples)
   - [ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS](#angular-mobile--native--hybride--crossplatform--cross)
-  - [ANGULAR LINKS](#angular-links)
   - [ANGULAR SOCKETS](#angular-sockets)
-  - [ANGULAR SOURCES](#angular-sources)
   - [ANGULAR DATA VIZ](#angular-data-viz)
   - [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
   - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
   - [ANGULAR / REACT / VUE / COMPARAISON](#angular--react--vue--comparaison)
   - [ANGULAR PAYMENT](#angular-payment)
-  - [ANGULAR COMMUNITY](#angular-community)
+  - [ANGULAR COMMUNITY / BLOG](#angular-community--blog)
   - [ANGULAR OTHERS ARTICLES](#angular-others-articles)
   - [ANGULAR 2017](#angular-2017)
   - [OTHERS](#others)
@@ -101,8 +97,8 @@
 # ANGULAR LIST
 
 ##  XP NEW PROJECT QUESTIONS
-Officiel I18N :
-Nrwl Extensions : https://nrwl.io/nx
+- Official I18N or ngx-translate?
+- Nx project or default cli ? Nrwl Extensions : https://nrwl.io/nx
 
 ## ANGULAR HISTORY
 https://en.wikipedia.org/wiki/Angular_(application_platform)
@@ -117,11 +113,17 @@ https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript
 https://codeburst.io/angular-best-practices-4bed7ae1d0b7
 https://theinfogrid.com/tech/developers/angular/angular-development-tips/
 https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
+https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 
 ## HACK STARTER ONLINE FAST 
 https://stackblitz.com
 https://stackblitz.com/edit/angular-so7pmy
 https://stackblitz.com/edit/angular-material?file=theme.scss
+
+## ANGULAR LIST / LINKS / AWESOME
+https://github.com/swirlycheetah/awesome-angular2
+https://github.com/timjacobi/angular2-education
+https://github.com/jonrimmer/angular-2-examples  
 
 ## ANGULAR8
 https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
@@ -167,9 +169,6 @@ https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
 https://stackoverflow.com/questions/37172928/angular-cli-server-how-to-proxy-api-requests-to-another-server
 //"proxyConfig": "proxy2.conf.json"
 
-## ANGULAR BLOG
-http://brianflove.com/
-https://julienrenaux.fr/
 
 ## ANGULAR PWA
 https://slides.com/webmax/angular-workbox/#/34
@@ -453,6 +452,7 @@ https://toddmotto.com/angular-dynamic-components-forms
 https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
 
 ## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
+https://github.com/Ninja-Squad/ngx-valdemort
 https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 https://netbasal.com/how-to-implement-file-uploading-in-angular-reactive-forms-89a3fffa1a03
 https://netbasal.com/detect-unsaved-changes-in-angular-forms-75fd8f5f1fa6
@@ -736,6 +736,7 @@ https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230
 ## ANGULAR UNIT TESTS TESTING
 https://github.com/ike18t/ng-mocks
 https://github.com/getsaf/shallow-render
+https://github.com/Ninja-Squad/ngx-speculoos
 https://github.com/youdz/dry-angular-testing
 https://stackblitz.com/edit/angular-testing-v7
 https://github.com/juristr/angular-testing-recipes
@@ -774,12 +775,6 @@ https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-
 https://screenster.io/
 https://testrec.com/
 
-## ANGULAR API
-https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (SLIM)  
-
-## ANGULAR MVC MVVM
-https://scotch.io/tutorials/mvc-in-an-angular-world
-
 
 ## ANGULAR MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS
 https://blog.angularindepth.com/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5
@@ -799,8 +794,6 @@ https://github.com/jvandemo/generator-angular2-library
 https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
 
 
-
-
 ## ANGULAR UPLOAD
 https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 https://github.com/ribizli/ng2-imageupload  
@@ -818,9 +811,12 @@ https://github.com/aitboudad/ngx-loading-bar
 https://github.com/biig-io/ngx-smart-loader
 
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
+https://github.com/ng-bootstrap/ng-bootstrap
 https://github.com/danrevah/ngx-pipes
 https://github.com/ngx-translate/core
 https://github.com/aitboudad/ngx-loading-bar
+https://github.com/Ninja-Squad/ngx-valdemort
+https://github.com/Asymmetrik/ngx-leaflet
 
 https://swimlane.github.io/ng2d3/
 https://github.com/basvandenberg/angular2-select 
@@ -869,7 +865,7 @@ https://github.com/start-angular/ani-angular-2 *** < example bs4 all ts
 http://demos.wijmo.com/5/Angular2/Explorer/Explorer  
 http://ng-lightning.github.io/ng-lightning/  
 
-## ANGULAR DEMO SOURCES
+## ANGULAR DEMO SOURCES / EXAMPLES
 https://github.com/avatsaev/angular-contacts-app-example
 https://github.com/brechtbilliet/winecellar (backend and auth)  
 https://github.com/amcdnl/angular2-demo  
@@ -879,11 +875,23 @@ https://github.com/johnpapa/angular2-first-look-launcher
 https://github.com/johnpapa/angular2-tour-of-heroes  
 https://github.com/daviddt/angular2-form-validation-example  
 https://github.com/ng-book/angular2-rxjs-chat  
-https://github.com/blacksonic/angular2-es6-starter  
-https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang roles
-https://hackernoon.com/chatbot-with-angular-5-dialogflow-fdac97fef681
+https://github.com/blacksonic/angular2-es6-starter 
+https://manning.com/books/angular-2-development-with-typescript  
+https://github.com/angular/angular/tree/master/modules/playground/src/upgrade 1VS2  
+https://github.com/ng-book/angular2-rxjs-chat  
+https://github.com/fcoury/angular2-reddit  
+https://github.com/SekibOmazic/angular2-playground  
+https://github.com/auth0/angular2-authentication-sample
+https://github.com/joeeames/ng2-ps-webinar  
+https://github.com/swirlycheetah/generator-angular2  
+https://github.com/davideast/ng2do  
+https://github.com/angular/templating  
+https://github.com/htmlxprs/angular2-todo  
+https://github.com/hswolff/hn-ng2  
+http://angular2.com/  
 
-## ANGULAR DEMO APP TUTORIAL
+## ANGULAR DEMO APP / TUTORIAL / EXAMPLES
+https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (with SlimPHP)  
 https://github.com/avatsaev/angular-contacts-app-example
 https://medium.com/the-guild/fully-functional-whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-5479d83baaa4
 http://winecellar.surge.sh/    
@@ -902,7 +910,9 @@ http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples
 http://www.tattoocoder.com/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/  
 https://angular2-es6-starter.herokuapp.com/  
 https://dot-md.herokuapp.com/  
-
+https://scotch.io/tutorials/mvc-in-an-angular-world
+https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang roles
+https://hackernoon.com/chatbot-with-angular-5-dialogflow-fdac97fef681
 
 ## ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS
 https://nrwl.io/nx
@@ -922,30 +932,8 @@ http://blog.backand.com/angular-2-nativescript-vs-react-native/
 https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript
 http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0
 
-
-## ANGULAR LINKS
-https://github.com/swirlycheetah/awesome-angular2 <<<  
-https://github.com/timjacobi/angular2-education <<<  
-https://github.com/jonrimmer/angular-2-examples  
-
 ## ANGULAR SOCKETS
 https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
-
-
-## ANGULAR SOURCES 
-https://manning.com/books/angular-2-development-with-typescript  
-https://github.com/angular/angular/tree/master/modules/playground/src/upgrade 1VS2  
-https://github.com/ng-book/angular2-rxjs-chat  
-https://github.com/fcoury/angular2-reddit  
-https://github.com/SekibOmazic/angular2-playground  
-https://github.com/auth0/angular2-authentication-sample
-https://github.com/joeeames/ng2-ps-webinar  
-https://github.com/swirlycheetah/generator-angular2  
-https://github.com/davideast/ng2do  
-https://github.com/angular/templating  
-https://github.com/htmlxprs/angular2-todo  
-https://github.com/hswolff/hn-ng2  
-http://angular2.com/  
 
 ## ANGULAR DATA VIZ
 https://github.com/valor-software/ng2-charts
@@ -979,8 +967,11 @@ https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-h
 ## ANGULAR PAYMENT
 https://alligator.io/angular/stripe-elements
 
-## ANGULAR COMMUNITY
+## ANGULAR COMMUNITY / BLOG
 https://angularconferences.com/
+http://brianflove.com/
+https://julienrenaux.fr/
+https://blog.ninja-squad.com/
 
 ## ANGULAR OTHERS ARTICLES
 https://medium.com/ampgular-bringing-angular-app-t-to-amp-world-and/https-medium-com-ampgular-angular-to-amp-madrid-day-spa-com-use-case-56d6809604fd
