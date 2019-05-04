@@ -1,7 +1,15 @@
 # HELLO
 
 ![apache](https://badgen.now.sh/badge/license/Apache-2.0/blue)
-![stars](https://badgen.now.sh/badge/stars/★★★★☆)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/pegaltier/utils-dev.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=pegaltier)
+![stars](https://badgen.now.sh/badge/stars/★★★★★)
+![github](https://badgen.now.sh/badge/github/stars/pegaltier/utils-dev)
+![twitter](https://badgen.now.sh/badge/twitter/follow/pegaltier)
 
-I share my work here: Angular, Android, Java, Php....
+
+## Coding:
+
+- Angular https://github.com/pegaltier/utils-dev/blob/master/utils-coding/utils-angular-list.md
+- Android 
+- Java
+- Php
+- More 
