@@ -11,7 +11,7 @@
   - [ANGULAR8](#angular8)
   - [ANGULAR7](#angular7)
   - [ANGULAR6](#angular6)
-  - [ANGULAR5 / MIGRATION / NEW FEATURES](#angular5--migration--new-features)
+  - [ANGULAR5](#angular5)
   - [ANGULAR4](#angular4)
   - [ANGULAR PROXY](#angular-proxy)
   - [ANGULAR PWA](#angular-pwa)
@@ -22,6 +22,7 @@
   - [ANGULAR IDE BEST EXTENSIONS](#angular-ide-best-extensions)
   - [ANGULAR IDE OTHERS EXTENSIONS](#angular-ide-others-extensions)
   - [ANGULAR CLI](#angular-cli)
+  - [ANGULAR MODULE](#angular-module)
   - [ANGULAR TOOLS](#angular-tools)
   - [ANGULAR CI / CONTINIOUS INTEGRATION / AUTOMATED](#angular-ci--continious-integration--automated)
   - [ANGULAR DEBUG](#angular-debug)
@@ -142,7 +143,7 @@ https://www.telerik.com/blogs/whats-new-in-angular-6
 https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 https://blog.angular.io/run-angular-cli-repos-directly-in-your-browser-41332fd80901
 
-## ANGULAR5 / MIGRATION / NEW FEATURES
+## ANGULAR5
 https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
 https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129
 https://malcoded.com/posts/angular-top-2017
@@ -248,6 +249,8 @@ http://houssein.me/angular2-hacker-news
 https://www.sitepoint.com/ultimate-angular-cli-reference
 http://www.dzurico.com/angular-cli-with-the-super-powers/
 
+## ANGULAR MODULE
+https://itnext.io/understanding-angular-modules-5f1215130bc8
 
 ## ANGULAR TOOLS
 https://github.com/mgechev/ngrev
@@ -258,7 +261,6 @@ http://codelyzer.com/
 
 ## ANGULAR CI / CONTINIOUS INTEGRATION / AUTOMATED
 https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
-
 
 ## ANGULAR DEBUG
 https://code.visualstudio.com/docs/nodejs/angular-tutorial debug with vscode and chrome
@@ -498,6 +500,7 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 https://www.learnrxjs.io/
 https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
+https://netbasal.com/why-its-important-to-unsubscribe-from-rxjs-subscription-a7a6455d6a02
 https://medium.com/@rangleio/thinking-in-nested-streams-with-rxjs-8e7d51ce4775
 https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
 https://github.com/ReactiveX/rxjs-tslint migration to rxjs6 script
@@ -558,6 +561,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
 https://github.com/ngrx/platform
 https://github.com/ngrx/platform/tree/master/projects/example-app
+https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
 https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
@@ -739,6 +743,7 @@ https://github.com/youdz/dry-angular-testing
 https://stackblitz.com/edit/angular-testing-v7
 https://github.com/juristr/angular-testing-recipes
 https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
+https://medium.com/@joshblf/testing-angular-directives-dc8bffff5fa2
 https://medium.com/bhargav-bachina-angular-training/angular-unit-testing-pipes-4af036a3d98d
 https://medium.com/@nishu0505/crud-with-angular-5d8f39805c49
 https://blog.angularindepth.com/angular-unit-testing-viewchild-4525e0c7b756
@@ -811,6 +816,8 @@ https://github.com/biig-io/ngx-smart-loader
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
 https://github.com/ng-bootstrap/ng-bootstrap
 https://github.com/danrevah/ngx-pipes
+https://github.com/Gbuomprisco/ngx-chips
+https://github.com/Gbuomprisco/ngx-content-loading
 https://github.com/ngx-translate/core
 https://github.com/aitboudad/ngx-loading-bar
 https://github.com/Ninja-Squad/ngx-valdemort
