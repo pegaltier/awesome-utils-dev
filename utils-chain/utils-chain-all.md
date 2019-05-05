@@ -172,6 +172,7 @@ https://billfodl.com/
 https://coldbit.com/
 https://coinstorage.guru/
 https://en.bitcoin.it/wiki/Cold_storage
+https://github.com/iancoleman/bip39
 https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 
 ## DAPPS 
