@@ -7,6 +7,7 @@ https://jsbin.com/?html,output
 
 ## LIST
 https://github.com/orsinium/generated-awesomeness
+https://github.com/LeCoupa/awesome-cheatsheets
 
 ## DISCOVER
 https://glitch.com/

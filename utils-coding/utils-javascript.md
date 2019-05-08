@@ -9,8 +9,11 @@ https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-a
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 https://github.com/kozhevnikov/proxymise
 
-## FRAMEWORKS
+## FRAMEWORK FRONTEND
 https://github.com/Tencent/omi
+
+## FRAMEWORK BACKEND
+https://nestjs.com/
 
 ## LEARN
 https://learnvanillajs.com/roadmap/ 

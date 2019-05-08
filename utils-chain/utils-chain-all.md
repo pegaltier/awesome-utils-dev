@@ -167,6 +167,9 @@ https://trello.com/b/5nQ1mdzt/ledger-roadmap
 https://support.exodus.io/article/767-how-do-i-keep-my-money-safe
 https://vimeo.com/176811304
 
+## HARDWARE CHIP
+https://elk.cc/
+
 ## COLD WALLET
 https://billfodl.com/
 https://coldbit.com/
