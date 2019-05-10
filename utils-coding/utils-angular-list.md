@@ -351,6 +351,8 @@ http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-dev
 
 
 ## ANGULAR DECORATOR/ANNOTATION
+https://alligator.io/angular/hostbinding-hostlistener/
+https://www.thecodecampus.de/blog/angular-2-use-hostbindings-set-class/
 https://toddmotto.com/angular-decorators
 https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
 
@@ -500,6 +502,7 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 https://www.learnrxjs.io/
 https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
+https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff
 https://netbasal.com/why-its-important-to-unsubscribe-from-rxjs-subscription-a7a6455d6a02
 https://medium.com/@rangleio/thinking-in-nested-streams-with-rxjs-8e7d51ce4775
 https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
@@ -562,8 +565,12 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 https://github.com/ngrx/platform
 https://github.com/ngrx/platform/tree/master/projects/example-app
 https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
+https://medium.com/@andrew_evans/exception-handling-with-ngrx-effects-70ec942e6465
 https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39
+https://medium.com/razroo/quick-dive-into-centralizing-your-data-in-angular-with-ngrx-router-store-ca4b177b0b10
+https://medium.com/simars/ngrx-router-store-reduce-select-route-params-6baff607dd9
+https://github.com/brandonroberts/ngrx-store-freeze
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
 https://juristr.com/blog/2018/10/simple-state-management-with-scan/
 https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
