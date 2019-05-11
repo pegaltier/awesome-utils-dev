@@ -46,3 +46,5 @@ Stephane Ceaux-Dutheil.
 
 ## CRYPTO QUOTES:
 https://fuserleer.online/exchange_data/
+https://www.youtube.com/watch?v=myydDX-us4o
+https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
