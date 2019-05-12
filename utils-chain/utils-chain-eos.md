@@ -115,11 +115,6 @@ https://itam.games
 https://dice.one
 https://eosbet.io
 
-## EOS DAPPS DEV
-https://steemit.com/eos/@genereos/genereos-making-airdrops-accessible
-https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
-https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2
-https://github.com/eoscanada/eosio.forum
 
 ## EOS WALLET/VOTE/TOOLS
 https://eostoolkit.io/ (best)
@@ -160,14 +155,19 @@ http://vote.eosio.sg/
 https://playground.eosrio.io
 https://github.com/eosiosg/Vote-testnet
 
-## EOS DEV
+## EOS CORE DEV
 https://github.com/EOSIO/eos
 https://eosio.github.io/eos
 https://developers.eos.io
-https://developers.eos.io
+
+## EOS DAPPS DEV
+https://www.everythingeos.io/eos-courses/
 https://www.eosdocs.io
 https://eostutorials.com
-https://www.airdropsdac.com
+https://steemit.com/eos/@genereos/genereos-making-airdrops-accessible
+https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
+https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2
+https://github.com/eoscanada/eosio.forum
 
 ## EOS DEV LIB
 https://github.com/EOSIO/demux-js
@@ -176,6 +176,7 @@ https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-ver
 ## EOS AIRDROP
 https://www.eosdrops.io
 https://airdropsforeos.com
+https://www.airdropsdac.com
 http://chainverse.com/eos-airdrops/
 https://www.crypto-france.com/airdrops-eos/
 https://steemit.com/eos/@genereos/new-airdrop-poor-tokens-announced-let-s-make-eos-better
