@@ -148,6 +148,10 @@ https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 
 ## HAPP DEVELOPMENT
 
+### Prerequisite
+- dna-src (the holochain codebase)
+- ng-src (the angular codebase)
+
 ### Test mode
 
 cd dna-src
