@@ -56,8 +56,8 @@
   - [ANGULAR BACKEND MOCK BACKEND HTTP MOCK FIREBASE](#angular-backend-mock-backend-http-mock-firebase)
   - [ANGULAR FIREBASE BACKEND](#angular-firebase-backend)
   - [ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY](#angular-state-management-redux-ngrx-store-ngrx-entity)
-  - [ANGULAR STATE MANAGEMENT](#angular-state-management)
-  - [ANGULAR IMMUTABLE Immutability vs Encapsulation](#angular-immutable-immutability-vs-encapsulation)
+  - [ANGULAR STATE MANAGEMENT / NGRX ALTERNATIVE](#angular-state-management--ngrx-alternative)
+  - [ANGULAR IMMUTABLE / IMMUTABILITY VS ENCAPSULATION](#angular-immutable--immutability-vs-encapsulation)
   - [ANGULAR CHANGE DETECTION NGZONE ZONE](#angular-change-detection-ngzone-zone)
   - [ANGULAR GENERATE SCHEMATICS GENERATOR](#angular-generate-schematics-generator)
   - [ANGULAR DEPENDENCY INJECTION](#angular-dependency-injection)
@@ -79,6 +79,7 @@
   - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
   - [ANGULAR LIB / REUSE / UTILS / GENERAL](#angular-lib--reuse--utils--general)
   - [ANGULAR CSS LIB / THEME / STYLE / CSS](#angular-css-lib--theme--style--css)
+  - [ANGULAR PLUG & PLAY:](#angular-plug--play)
   - [ANGULAR DEMO SOURCES / EXAMPLES](#angular-demo-sources--examples)
   - [ANGULAR DEMO APP / TUTORIAL / EXAMPLES](#angular-demo-app--tutorial--examples)
   - [ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS](#angular-mobile--native--hybride--crossplatform--cross)
@@ -125,6 +126,7 @@ https://stackblitz.com/edit/angular-material?file=theme.scss
 https://github.com/swirlycheetah/awesome-angular2
 https://github.com/timjacobi/angular2-education
 https://github.com/jonrimmer/angular-2-examples  
+https://github.com/PatrickJS/awesome-angular
 
 ## ANGULAR8
 https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
@@ -502,7 +504,12 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 https://www.learnrxjs.io/
 https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
+https://blog.angular-university.io/rxjs-higher-order-mapping/
+https://blog.angular-university.io/rxjs-error-handling/
 https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff
+https://www.nerdeez.com/articles/rxjs/top-operators
+https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0
+https://coursetro.com/posts/code/150/RxJS-Operators-Tutorial---Learn-How-to-Transform-Observables
 https://netbasal.com/why-its-important-to-unsubscribe-from-rxjs-subscription-a7a6455d6a02
 https://medium.com/@rangleio/thinking-in-nested-streams-with-rxjs-8e7d51ce4775
 https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f
@@ -563,31 +570,21 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
 https://github.com/ngrx/platform
+https://github.com/ngrx/platform/tree/master/example-app
 https://github.com/ngrx/platform/tree/master/projects/example-app
+https://github.com/johnpapa/ngrx-data-lab
+https://github.com/brandonroberts/ngrx-store-freeze
 https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
 https://medium.com/@andrew_evans/exception-handling-with-ngrx-effects-70ec942e6465
-https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39
 https://medium.com/razroo/quick-dive-into-centralizing-your-data-in-angular-with-ngrx-router-store-ca4b177b0b10
 https://medium.com/simars/ngrx-router-store-reduce-select-route-params-6baff607dd9
-https://github.com/brandonroberts/ngrx-store-freeze
-https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
-https://juristr.com/blog/2018/10/simple-state-management-with-scan/
-https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
-https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
-https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html
-https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
-http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
-https://github.com/reclarejs/reclare
+https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 https://itnext.io/reactive-programming-in-angular-reactive-components-part-1-7291882e352c
-https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
-https://github.com/ngrx/platform
 https://www.youtube.com/watch?v=1hlXlsaMeTs (simple login/logout)
 https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
-https://github.com/ngrx/platform/tree/master/example-app
-https://www.logisticinfotech.com/blog/easiest-demo-to-learn-ngrx-in-angular-6
-https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
 
+https://www.logisticinfotech.com/blog/easiest-demo-to-learn-ngrx-in-angular-6
 http://brianhudi.org/2017/11/15/adding-ngrx-to-existing-projects-is-easy
 https://medium.com/developers-writing/a-class-based-approach-to-writing-reducers-in-redux-ngrx-4a8ec5f97b1
 https://alligator.io/angular/ngrx-entity/
@@ -606,10 +603,21 @@ http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
 
-## ANGULAR STATE MANAGEMENT
+## ANGULAR STATE MANAGEMENT / NGRX ALTERNATIVE
+https://github.com/ngxs/store
+https://github.com/reclarejs/reclare
+https://github.com/storeon/angular
+https://github.com/datorama/akita
+https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
+https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
+https://juristr.com/blog/2018/10/simple-state-management-with-scan/
+https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
+https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html
+https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
+https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
 https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 
-## ANGULAR IMMUTABLE Immutability vs Encapsulation
+## ANGULAR IMMUTABLE / IMMUTABILITY VS ENCAPSULATION
 https://vsavkin.com/immutability-vs-encapsulation-90549ab74487?gi=10734934a81c#.4rctf4y44
 
 ## ANGULAR CHANGE DETECTION NGZONE ZONE
@@ -829,6 +837,14 @@ https://github.com/ngx-translate/core
 https://github.com/aitboudad/ngx-loading-bar
 https://github.com/Ninja-Squad/ngx-valdemort
 https://github.com/Asymmetrik/ngx-leaflet
+https://github.com/MrWolfZ/ngrx-forms
+https://github.com/text-mask/text-mask
+https://github.com/KillerCodeMonkey/ngx-quill
+https://github.com/georgipeltekov/ngx-file-drop
+https://github.com/vadimdez/ng2-pdf-viewer/
+https://github.com/danrevah/typeserializer
+https://github.com/zhaosiyang/property-watch-decorator
+https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
 
 https://swimlane.github.io/ng2d3/
 https://github.com/basvandenberg/angular2-select 
@@ -876,6 +892,9 @@ https://valor-software.github.io/ng2-bootstrap/
 https://github.com/start-angular/ani-angular-2 *** < example bs4 all ts  
 http://demos.wijmo.com/5/Angular2/Explorer/Explorer  
 http://ng-lightning.github.io/ng-lightning/  
+
+## ANGULAR PLUG & PLAY:
+https://github.com/aviabird/angularspree
 
 ## ANGULAR DEMO SOURCES / EXAMPLES
 https://github.com/avatsaev/angular-contacts-app-example

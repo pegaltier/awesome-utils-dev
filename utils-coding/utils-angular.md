@@ -183,7 +183,7 @@ BehaviorSubject: whenever a new Observer subscribe it will immediatly receive th
 ReplaySubject: similar to a BehaviorSubject but also records multiple values from the Observable execution and replays them to new subscribers.
 AsyncSubject: only the last value of the Observable execution is sent to its observers, and only when the execution completes.
 
-### OPERATORS METHODS (PURE FUNCTIONS)
+### OPERATORS METHODS (PURE FUNCTIONS) (FRENCH)
 http://reactivex.io/rxjs/manual/overview.html#operators
 
 • take(n) va piocher les n premiers éléments.  
@@ -200,6 +200,27 @@ http://reactivex.io/rxjs/manual/overview.html#operators
 • mathématique (min, max, average, reduce…)  
 • conditions (amb, includes…) 
  
+
+### OPERATORS METHODS (PURE FUNCTIONS) (ENGLISH)
+
+### MAPS OPERATORS
+mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
+switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
+concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained. 
+
+### COMMON OPERATORS
+combineLatest: the Observable will emit an array of value when the list of observables he got all emitted at least a single value
+forkJoin: don’t let me know until all the Observables are complete, then give me all the values at once
+merge: combine multiple Observables into one. So if one of the observables emit a value the combined one will emit as well
+concat: subscribe to Observables in order but only when the previous completes, let me know, then move to the next one. 
+
+from: this operator will turn array, promise or iterable into an observable
+tap: transparently perform action or side-effects when a stream emits value, or error or complete
+pairWise: let me know when the Observable emits, but also give me the previous value
+finalize: will be called when observable terminates on complete or error
+catchError: allows to catch and replace (with empty) or to re-throw (with throwError) to subscribers
+
+
  ## ANGULAR OBSERVABLE
 
 EventEmitter (Angular2 : adapter Observable)  EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres : 
@@ -214,8 +235,18 @@ emitter.emit('hello'); emitter.emit('there'); emitter.complete();
 subscription.unsubscribe(); // unsubscribe  
 // logs "hello", then "there", then "done" 
 
- 
-## PIPE
+## ANGULAR NGRX
+
+store.dispatch = trigger an action
+store.select = get current state
+dispatch action -> effect -> success/failure action -> reducer pattern.
+The root of the problem is that once you fire an Action you’re completely disconnected from the lifecycle of that action (
+
+1. Effects
+Ngrx/effects is middleware for handling side effects in ngrx/store. It listens for dispatched actions in an observable stream, performs side effects, and returns new actions either immediately or asynchronously. The returned actions get passed along to the reducer.
+
+
+## ANGULAR PIPE
 
 {{ asyncGreeting | async } 
  

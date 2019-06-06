@@ -17,6 +17,7 @@ https://www.cloudways.com/blog/top-php-github-projects/
 https://github.com/xssc/awesome-slim
 
 ## SLIM PHP SKELETON
+https://github.com/adriansuter/Slim4-Skeleton
 https://github.com/slimphp/Slim-Skeleton
 https://github.com/odan/prisma
 https://github.com/tuupola/slim-api-skeleton

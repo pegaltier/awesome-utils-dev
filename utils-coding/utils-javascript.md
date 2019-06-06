@@ -17,7 +17,8 @@ https://nestjs.com/
 
 ## LEARN
 https://learnvanillajs.com/roadmap/ 
-https://learnjavascript.online/ 
+https://learnjavascript.online/
+https://github.com/leonardomso/33-js-concepts
 https://learn.co/courses/introduction-to-javascript
 https://watchandcode.com/p/practical-javascript
 https://javascript.info/ 
