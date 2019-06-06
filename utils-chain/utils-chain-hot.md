@@ -144,3 +144,27 @@ https://twitter.com/artbrock
 ## YOUTUBE
 https://www.youtube.com/channel/UCSRJRJvkZHk3f1PemqT-R0g
 https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
+
+
+## HAPP DEVELOPMENT
+
+### Test mode
+
+cd dna-src
+hc test
+
+`hc test` will build a `dna-src.dna.json` and then launch the test file `index.js` inside the `test` folder.
+
+### User mode
+
+1. Run DNA
+cd dna-src
+hc package
+hc run
+
+`hc package` will build a `dna-src.dna.json` and `hc run` launch the holochain server.
+
+2. Run UI
+cd ng-src
+ng serve
+`ng serve` will build the angular app and launch the node server.
