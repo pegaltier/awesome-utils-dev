@@ -207,8 +207,6 @@ mergeMap/flatMap when the inner Observable emits it merges the value(s) of the â
 switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
 concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained. 
 
-### COMMON OPERATORS
-
 #### COMBINATION
 combineLatest: the Observable will emit an array of value when the list of observables he got all emitted at least a single value
 forkJoin: donâ€™t let me know until all the Observables are complete, then give me all the values at once
