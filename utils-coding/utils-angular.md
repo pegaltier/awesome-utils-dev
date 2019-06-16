@@ -124,8 +124,7 @@ http://output.jsbin.com/juwiva/29
 https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service 
 
 
-
-## RXJS / OBSERVABLE / REACTIVE (design pattern Observer)
+## RXJS / OBSERVABLE / REACTIVE (DESIGN PATTERN OBSERVER)
 
 http://rxmarbles.com/ 
 https://xgrommx.github.io/rx-book/index.html
@@ -139,7 +138,7 @@ Operators: are pure functions that enable a functional programming style of deal
 Subject: is the equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
 Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
 
-## HOT VS COLD
+### HOT VS COLD
 
 COLD (i.e http obserable)
 Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. 
@@ -203,27 +202,34 @@ http://reactivex.io/rxjs/manual/overview.html#operators
 
 ### OPERATORS METHODS (PURE FUNCTIONS) (ENGLISH)
 
-### MAPS OPERATORS
+#### TRANSFORMATION
 mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
 switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
 concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained. 
 
 ### COMMON OPERATORS
+
+#### COMBINATION
 combineLatest: the Observable will emit an array of value when the list of observables he got all emitted at least a single value
 forkJoin: don’t let me know until all the Observables are complete, then give me all the values at once
 merge: combine multiple Observables into one. So if one of the observables emit a value the combined one will emit as well
 concat: subscribe to Observables in order but only when the previous completes, let me know, then move to the next one. 
-
-from: this operator will turn array, promise or iterable into an observable
-tap: transparently perform action or side-effects when a stream emits value, or error or complete
 pairWise: let me know when the Observable emits, but also give me the previous value
+
+#### CREATION
+from: this operator will turn array, promise or iterable into an observable
+
+#### UTILITY
+tap: transparently perform action or side-effects when a stream emits value, or error or complete
 finalize: will be called when observable terminates on complete or error
+
+#### ERROR HANDLING
 catchError: allows to catch and replace (with empty) or to re-throw (with throwError) to subscribers
 
 
- ## ANGULAR OBSERVABLE
+## ANGULAR OBSERVABLE
 
-EventEmitter (Angular2 : adapter Observable)  EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres : 
+EventEmitter is aimed to help communication between component using input and output. It extends RxJS Subject but it's directly provided by the @angular/core package. EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres : 
 • une méthode pour réagir aux événements. 
 • une méthode pour réagir aux erreurs.  
 • une méthode pour réagir à la terminaison. 
