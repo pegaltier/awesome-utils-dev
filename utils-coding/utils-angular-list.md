@@ -5,7 +5,7 @@
 - [ANGULAR LIST](#angular-list)
   - [XP / NEW PROJECT / QUESTIONS](#xp--new-project--questions)
   - [ANGULAR HISTORY](#angular-history)
-  - [ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE](#angular-common-mistike-bugs--best-practice-tips--checklist-performance)
+  - [ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE](#angular-common-mistakes--bugs--best-practice-tips--checklist-performance)
   - [HACK ONLINE STARTER / FAST CODING](#hack-online-starter--fast-coding)
   - [ANGULAR LIST / LINKS / AWESOME](#angular-list--links--awesome)
   - [ANGULAR8](#angular8)
@@ -77,6 +77,7 @@
   - [ANGULAR UPLOAD](#angular-upload)
   - [ANGULAR LIB MODAL](#angular-lib-modal)
   - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
+  - [ANGULAR LIB FORM](#angular-lib-form)
   - [ANGULAR LIB / REUSE / UTILS / GENERAL](#angular-lib--reuse--utils--general)
   - [ANGULAR CSS LIB / THEME / STYLE / CSS](#angular-css-lib--theme--style--css)
   - [ANGULAR PLUG & PLAY:](#angular-plug--play)
@@ -105,8 +106,9 @@
 ## ANGULAR HISTORY
 https://en.wikipedia.org/wiki/Angular_(application_platform)
 
-## ANGULAR COMMON MISTIKE BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
+## ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
 https://angular-checklist.io/
+https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
 https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
 https://malcoded.com/posts/why-angular-not-works
 https://github.com/mgechev/angular-performance-checklist
@@ -130,6 +132,7 @@ https://github.com/PatrickJS/awesome-angular
 
 ## ANGULAR8
 https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
+https://docs.google.com/presentation/d/1HV7BcYBx8KIN0uUd2Aq7hAI8VG1Fj7h7bT1HCeDqVHg/edit
 
 ## ANGULAR7
 https://blog.angularindepth.com/new-in-angular-v7-1-updates-to-the-router-fd67d526ad05
@@ -457,6 +460,7 @@ https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
 
 ## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
 https://github.com/Ninja-Squad/ngx-valdemort
+https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
 https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 https://netbasal.com/how-to-implement-file-uploading-in-angular-reactive-forms-89a3fffa1a03
 https://netbasal.com/detect-unsaved-changes-in-angular-forms-75fd8f5f1fa6
@@ -608,9 +612,11 @@ https://github.com/ngxs/store
 https://github.com/reclarejs/reclare
 https://github.com/storeon/angular
 https://github.com/datorama/akita
+http://www.getbreezenow.com/
 https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
 https://juristr.com/blog/2018/10/simple-state-management-with-scan/
+https://medium.com/@rmcavin/my-favorite-state-management-technique-in-angular-rxjs-behavior-subjects-49f18daa31a7
 https://dev.to/danwahlin/simplifying-front-end-state-management-with-observable-store-1jjp
 https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html
 https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
@@ -757,6 +763,7 @@ https://github.com/Ninja-Squad/ngx-speculoos
 https://github.com/youdz/dry-angular-testing
 https://stackblitz.com/edit/angular-testing-v7
 https://github.com/juristr/angular-testing-recipes
+https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
 https://medium.com/@joshblf/testing-angular-directives-dc8bffff5fa2
 https://medium.com/bhargav-bachina-angular-training/angular-unit-testing-pipes-4af036a3d98d
@@ -828,11 +835,20 @@ https://github.com/MurhafSousli/ngx-progressbar
 https://github.com/aitboudad/ngx-loading-bar
 https://github.com/biig-io/ngx-smart-loader
 
+## ANGULAR LIB FORM
+https://github.com/formql/formql
+https://github.com/ngx-formly/ngx-formly
+https://github.com/Ninja-Squad/ngx-valdemort
+
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
 https://github.com/ng-bootstrap/ng-bootstrap
 https://github.com/danrevah/ngx-pipes
 https://github.com/Gbuomprisco/ngx-chips
 https://github.com/Gbuomprisco/ngx-content-loading
+https://github.com/BioPhoton/angular-star-rating
+https://github.com/BioPhoton/angular-signature-pad
+https://github.com/BioPhoton/angular-formatter-parser
+https://github.com/damienbod/angular-auth-oidc-client
 https://github.com/ngx-translate/core
 https://github.com/aitboudad/ngx-loading-bar
 https://github.com/Ninja-Squad/ngx-valdemort
