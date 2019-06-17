@@ -48,6 +48,7 @@
   - [ANGULAR REACTIVE FORMS / DYNAMIC FORMS](#angular-reactive-forms--dynamic-forms)
   - [ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS](#angular-forms--form-validation--reactive-forms)
   - [ANGULAR TEMPLATE](#angular-template)
+  - [ANGULAR PLATFORM](#angular-platform)
   - [ANGULAR SCAFFHOLDING](#angular-scaffholding)
   - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
@@ -482,6 +483,8 @@ https://github.com/UltimateAngular/ngxerrors
 ## ANGULAR TEMPLATE
 http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 
+## ANGULAR PLATFORM
+https://github.com/Tibing/platform-terminal
 
 ## ANGULAR SCAFFHOLDING
 https://www.ociweb.com/resources/publications/sett/august-2016-grails-angular-scaffolding/
@@ -614,6 +617,7 @@ https://github.com/storeon/angular
 https://github.com/datorama/akita
 http://www.getbreezenow.com/
 https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
+https://dev.to/arielgueta/introducing-one-to-many-relationship-in-angular-akita-37me
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
 https://juristr.com/blog/2018/10/simple-state-management-with-scan/
 https://medium.com/@rmcavin/my-favorite-state-management-technique-in-angular-rxjs-behavior-subjects-49f18daa31a7
