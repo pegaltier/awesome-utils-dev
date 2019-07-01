@@ -456,12 +456,13 @@ https://scotch.io/tutorials/angular-2-form-validation
 ## ANGULAR REACTIVE FORMS / DYNAMIC FORMS
 https://github.com/formql/formql
 https://github.com/ngx-formly/ngx-formly
+https://github.com/Ninja-Squad/ngx-valdemort
 https://devdactic.com/dynamic-components-ionic
 https://toddmotto.com/angular-dynamic-components-forms
 https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
 
 ## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
-https://github.com/Ninja-Squad/ngx-valdemort
+https://github.com/maximelafarie/angular-dynamic-forms
 https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
 https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 https://netbasal.com/how-to-implement-file-uploading-in-angular-reactive-forms-89a3fffa1a03
