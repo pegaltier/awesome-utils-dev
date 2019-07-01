@@ -109,6 +109,7 @@ https://en.wikipedia.org/wiki/Angular_(application_platform)
 
 ## ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
 https://angular-checklist.io/
+https://medium.com/intive-developers/approach-to-clean-architecture-in-angular-applications-hands-on-35145ceadc98
 https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
 https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
 https://malcoded.com/posts/why-angular-not-works
@@ -903,15 +904,11 @@ http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-
 https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2#.bwypv3is1
 https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components  
-https://github.com/akveo/ng2-admin
-https://github.com/ng-bootstrap/core  
-https://github.com/angular/material2  
-https://github.com/mlaval/angular2-bootstrap  
-http://mlaval.github.io/angular2-bootstrap/  
-http://valor-software.com/ng2-bootstrap/index-bs4.html  
-https://valor-software.github.io/ng2-bootstrap/  
-https://github.com/start-angular/ani-angular-2 *** < example bs4 all ts  
-http://demos.wijmo.com/5/Angular2/Explorer/Explorer  
+https://github.com/valor-software/ngx-bootstrap
+https://github.com/ng-bootstrap/ng-bootstrap
+https://github.com/akveo/ngx-admin
+https://github.com/angular/components
+https://github.com/NG-ZORRO/ng-zorro-antd
 http://ng-lightning.github.io/ng-lightning/  
 
 ## ANGULAR PLUG & PLAY:
