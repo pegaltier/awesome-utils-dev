@@ -109,6 +109,7 @@ https://en.wikipedia.org/wiki/Angular_(application_platform)
 
 ## ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
 https://angular-checklist.io/
+https://github.com/typebytes/angular-checklist
 https://medium.com/intive-developers/approach-to-clean-architecture-in-angular-applications-hands-on-35145ceadc98
 https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
 https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
@@ -131,6 +132,7 @@ https://github.com/swirlycheetah/awesome-angular2
 https://github.com/timjacobi/angular2-education
 https://github.com/jonrimmer/angular-2-examples  
 https://github.com/PatrickJS/awesome-angular
+https://github.com/typebytes/angular-checklist
 
 ## ANGULAR8
 https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
