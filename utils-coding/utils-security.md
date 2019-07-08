@@ -24,3 +24,10 @@ https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en
 https://www.hackerone.com/
 https://www.bugcrowd.com/
 https://www.yogosha.com/
+
+## FRONTEND SECURITY
+- Same-Origin Policy (SOP)
+- Cross-Origin Resource Sharing (CORS
+- Cross-Site Scripting (XSS)
+- Content Security Policy (CSP)
+- WebSocket Security.

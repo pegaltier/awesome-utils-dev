@@ -867,6 +867,8 @@ https://github.com/georgipeltekov/ngx-file-drop
 https://github.com/vadimdez/ng2-pdf-viewer/
 https://github.com/danrevah/typeserializer
 https://github.com/zhaosiyang/property-watch-decorator
+https://github.com/typebytes/ngx-template-streams
+
 https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
 
 https://swimlane.github.io/ng2d3/
