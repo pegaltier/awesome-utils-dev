@@ -110,6 +110,8 @@ https://en.wikipedia.org/wiki/Angular_(application_platform)
 ## ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
 https://angular-checklist.io/
 https://github.com/typebytes/angular-checklist
+https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
+https://code-maze.com/angular-best-practices/
 https://medium.com/intive-developers/approach-to-clean-architecture-in-angular-applications-hands-on-35145ceadc98
 https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
 https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
