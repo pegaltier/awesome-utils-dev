@@ -6,6 +6,7 @@ CTRL (de droite) + / 		==>		 commenter/decommenter
 
 https://vscodecandothat.com/
 https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu#overview
+https://medium.com/better-programming/26-miraculous-vscode-tools-for-javascript-developers-in-2019-e184131d75af
 https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f
 https://vscodethemes.com/
 
