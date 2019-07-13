@@ -394,8 +394,10 @@ https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-bui
 https://webpack.js.org/plugins/context-replacement-plugin/
 
 ## ANUGLAR SCALABLE LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
+
 https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
+https://speakerdeck.com/manfredsteyer/architectures-for-huge-angular-based-enterprise-applications-at-it-tage-2018-in-frankfurt-c6896923-cb10-406d-aec5-cd696c6133c6?slide=1
 https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
 https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
 https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
