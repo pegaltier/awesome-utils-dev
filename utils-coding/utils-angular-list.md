@@ -589,6 +589,7 @@ https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-
 https://github.com/ngrx/platform
 https://github.com/ngrx/platform/tree/master/example-app
 https://github.com/ngrx/platform/tree/master/projects/example-app
+https://github.com/co-IT/ngrx-ducks
 https://github.com/johnpapa/ngrx-data-lab
 https://github.com/brandonroberts/ngrx-store-freeze
 https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
@@ -600,6 +601,7 @@ https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 https://itnext.io/reactive-programming-in-angular-reactive-components-part-1-7291882e352c
 https://www.youtube.com/watch?v=1hlXlsaMeTs (simple login/logout)
 https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
+https://medium.com/@gregor.woiwode/ngrx-ducks-dynamic-facades-improving-coding-experience-3bf5f832f21c
 
 https://www.logisticinfotech.com/blog/easiest-demo-to-learn-ngrx-in-angular-6
 http://brianhudi.org/2017/11/15/adding-ngrx-to-existing-projects-is-easy
