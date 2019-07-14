@@ -627,7 +627,9 @@ https://github.com/ngxs/store
 https://github.com/reclarejs/reclare
 https://github.com/storeon/angular
 https://github.com/datorama/akita
+https://github.com/zerobias/effector
 http://www.getbreezenow.com/
+https://codeburst.io/effector-state-manager-6ee2e72e8e0b
 https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
 https://dev.to/arielgueta/introducing-one-to-many-relationship-in-angular-akita-37me
 https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
