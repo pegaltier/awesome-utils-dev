@@ -26,9 +26,7 @@ git remote add origin url://to/source/repository
 git fetch origin <sha1-of-commit-of-interest>
 
 # reset this repository's master branch to the commit of interest
-git reset --hard FETCH_HEAD
-git reset --hard HEAD
-git reset HEAD~ 
+git reset --hard origin/branch
 
 # reset local
 rm -Force -Recurse .git
