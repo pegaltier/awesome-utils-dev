@@ -14,6 +14,7 @@ https://github.com/Tencent/omi
 
 ## FRAMEWORK BACKEND
 https://nestjs.com/
+https://github.com/typeorm/typeorm
 
 ## LEARN
 https://learnvanillajs.com/roadmap/ 
