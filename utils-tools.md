@@ -13,6 +13,7 @@ Terminus > https://eugeny.github.io/terminus/
 https://github.com/nvm-sh/nvm
 https://www.gimp.org/
 https://sdkman.io/ 
+https://snapcraft.io/
  
 ## WINDOWS
 paint.net > https://www.getpaint.net/
