@@ -792,6 +792,7 @@ https://github.com/Ninja-Squad/ngx-speculoos
 https://github.com/youdz/dry-angular-testing
 https://stackblitz.com/edit/angular-testing-v7
 https://github.com/juristr/angular-testing-recipes
+https://github.com/storybookjs/storybook
 https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
 https://medium.com/@joshblf/testing-angular-directives-dc8bffff5fa2
