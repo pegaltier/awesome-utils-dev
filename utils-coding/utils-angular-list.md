@@ -632,6 +632,7 @@ http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1
 
 ## ANGULAR REDUX PATTERN / STORE / STATE MANAGEMENT / NGRX ALTERNATIVE
 https://github.com/ngxs/store
+https://github.com/ngxs-labs/emitter
 https://github.com/reclarejs/reclare
 https://github.com/storeon/angular
 https://github.com/datorama/akita
