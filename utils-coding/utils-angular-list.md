@@ -110,6 +110,7 @@ https://en.wikipedia.org/wiki/Angular_(application_platform)
 ## ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
 https://angular-checklist.io/
 https://github.com/typebytes/angular-checklist
+https://github.com/mgechev/angular-performance-checklist
 https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
 https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5
 https://medium.com/free-code-camp/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f
@@ -118,10 +119,10 @@ https://medium.com/intive-developers/approach-to-clean-architecture-in-angular-a
 https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
 https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
 https://malcoded.com/posts/why-angular-not-works
-https://github.com/mgechev/angular-performance-checklist
 https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
 https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/
 https://codeburst.io/angular-best-practices-4bed7ae1d0b7
+https://angular.schule/blog/2019-07-resolvers
 https://theinfogrid.com/tech/developers/angular/angular-development-tips/
 https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
 https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
