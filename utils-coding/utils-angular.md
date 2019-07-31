@@ -9,7 +9,33 @@
   - [NATIVESCRIPT :](#nativescript-)
   - [IONIC2 https://apps.ionic.io/apps](#ionic2-httpsappsionicioapps)
   - [syntax](#syntax)
-- [pour la déclaration de variable](#pour-la-d%C3%A9claration-de-variable)
+- [pour la déclaration de variable](#pour-la-d%c3%a9claration-de-variable)
+  - [ANGULAR2 CLI](#angular2-cli)
+  - [ADD LIB/CSS/JAVASCRIPT](#add-libcssjavascript)
+  - [HTTP POST PARAMS](#http-post-params)
+  - [FETCH PROMISE OBSERAVABLE RXJS](#fetch-promise-obseravable-rxjs)
+  - [RXJS / OBSERVABLE / REACTIVE (DESIGN PATTERN OBSERVER)](#rxjs--observable--reactive-design-pattern-observer)
+    - [HOT VS COLD](#hot-vs-cold)
+    - [OBSERVABLE](#observable)
+    - [OBSERVER](#observer)
+    - [SUBSCRIPTION](#subscription)
+    - [SUBJECT](#subject)
+    - [OPERATORS METHODS (PURE FUNCTIONS) (FRENCH)](#operators-methods-pure-functions-french)
+    - [OPERATORS METHODS (PURE FUNCTIONS) (ENGLISH)](#operators-methods-pure-functions-english)
+      - [TRANSFORMATION](#transformation)
+      - [COMBINATION](#combination)
+      - [CREATION](#creation)
+      - [UTILITY](#utility)
+      - [ERROR HANDLING](#error-handling)
+  - [ANGULAR OBSERVABLE](#angular-observable)
+  - [ANGULAR NGRX](#angular-ngrx)
+  - [ANGULAR PIPE](#angular-pipe)
+  - [DIRECTIVE (une directive n’a pas de vue).](#directive-une-directive-na-pas-de-vue)
+  - [LIFECYCLE (CYCLE DE VIE)](#lifecycle-cycle-de-vie)
+  - [ANGULAR TESTING](#angular-testing)
+    - [TESTING FACTORIZE/IMPORTS](#testing-factorizeimports)
+    - [TESTING TRANSLATE](#testing-translate)
+    - [TESTINT EXAMPLE](#testint-example)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -206,6 +232,13 @@ http://reactivex.io/rxjs/manual/overview.html#operators
 mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
 switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
 concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained. 
+exhaustMap is like mergeMap but it ignore new Observables until the current one is still not completed.
+
+choose the appropriate operator based on the use case:
+concatMap: for doing things in sequence while waiting for completion
+mergeMap: for doing things in parallel
+switchMap: in case we need cancellation logic
+exhaustMap: for ignoring new Observables while the current one is still ongoing
 
 #### COMBINATION
 combineLatest: the Observable will emit an array of value when the list of observables he got all emitted at least a single value

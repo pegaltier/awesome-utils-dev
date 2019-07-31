@@ -9,10 +9,11 @@ https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-a
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 https://github.com/kozhevnikov/proxymise
 
-## FRAMEWORK FRONTEND
+## LIB/FRAMEWORK FRONTEND
 https://github.com/Tencent/omi
+https://www.npmjs.com/package/livr
 
-## FRAMEWORK BACKEND
+## LIB/FRAMEWORK BACKEND
 https://nestjs.com/
 https://github.com/typeorm/typeorm
 
