@@ -136,6 +136,7 @@ Example for merging from master into my-branch
 You can also use VSCode plugin "Git merger":
 - from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
 
+More infos
 - <https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c>
 - <https://www.atlassian.com/git/tutorials/merging-vs-rebasing>
 - <https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase>
