@@ -1,15 +1,13 @@
 # GIT TIPS & HELPERS
 
-## TUTORIAL
-http://learngitbranching.js.org
-https://blog.octo.com/git-dans-la-pratique-22/
-https://guides.github.com/features/mastering-markdown/
-https://juristr.com/blog/2019/04/productive-git-for-developers/
-https://www.atlassian.com/git/tutorials/setting-up-a-repository
-
+## TUTORIAL LIST
+- <http://learngitbranching.js.org>
+- <https://blog.octo.com/git-dans-la-pratique-22/>
+- <https://guides.github.com/features/mastering-markdown/>
+- <https://juristr.com/blog/2019/04/productive-git-for-developers/>
+- <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
 
 ## MOST USED 
-
 ```
 git init (new blank repository)
 git remote add origin url://to/source/repository (add a remote)
@@ -138,10 +136,10 @@ Example for merging from master into my-branch
 You can also use VSCode plugin "Git merger":
 - from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
 
-https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
-https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
+- <https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c>
+- <https://www.atlassian.com/git/tutorials/merging-vs-rebasing>
+- <https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase>
+- <https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333>
 
 ## TOOLS
 
