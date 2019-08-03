@@ -1,5 +1,19 @@
 # GIT TIPS & HELPERS
 
+- [GIT TIPS & HELPERS](#git-tips--helpers)
+  - [TUTORIAL LIST](#tutorial-list)
+  - [MOST USED](#most-used)
+  - [CLONE](#clone)
+  - [RESET / CLEAN](#reset--clean)
+  - [NEW REPO](#new-repo)
+  - [CONFIG](#config)
+  - [HASH](#hash)
+  - [VSCODE GIT SSH](#vscode-git-ssh)
+  - [CREATE BRANCH](#create-branch)
+  - [MERGE BRANCH](#merge-branch)
+  - [TOOLS](#tools)
+  - [ALIAS](#alias)
+
 ## TUTORIAL LIST
 - <http://learngitbranching.js.org>
 - <https://blog.octo.com/git-dans-la-pratique-22/>
@@ -112,7 +126,7 @@ start-ssh-agent
 code
 ```
 
-## CREATE BRANCH (PE)
+## CREATE BRANCH
 
 1. develop on base branch..
 2. stash and create branch from stash
@@ -127,7 +141,7 @@ git push --set-upstream origin 1109-issue-name
 git push -u origin 1109-issue-name
 ```
 
-## MERGE BRANCH (PE)
+## MERGE BRANCH
 
 Example for merging from master into my-branch
 - Solution1. git checkout custom_branch && git merge master
