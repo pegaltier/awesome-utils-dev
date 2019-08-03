@@ -35,9 +35,10 @@
   - [ANGULAR DOCKER](#angular-docker)
   - [ANGULAR DATA FLOW DATA FLOW UNIDIR](#angular-data-flow-data-flow-unidir)
   - [ANGULAR DECORATOR/ANNOTATION](#angular-decoratorannotation)
-  - [ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE](#angular-buildconfiginternationalizationproductionbundle)
+  - [ANGULAR CONFIGURATION / ENV](#angular-configuration--env)
+  - [ANGULAR BUILD / PRODUCTION / BUNDLE](#angular-build--production--bundle)
   - [ANGULAR CUSTOM BUILD / CUSTOM WEBPACK](#angular-custom-build--custom-webpack)
-  - [ANUGLAR SCALABLE LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE](#anuglar-scalable-large-organization--big-apps-repo--monorepo--shared-codebase)
+  - [ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE](#anuglar-scalable--large-organization--big-apps-repo--monorepo--shared-codebase)
   - [ANGULAR RENDERING CIENT / DOM](#angular-rendering-cient--dom)
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN / MENU / LOADING](#angular-components--transclusion--modal--dropdown--menu--loading)
@@ -70,7 +71,7 @@
   - [ANGULAR DYNAMIC LOAD/LAZY LOAD SCRIPTS](#angular-dynamic-loadlazy-load-scripts)
   - [ANGULAR SECURITY](#angular-security)
   - [ANGULAR ECOSYSTEM / MULTI PROJECT](#angular-ecosystem--multi-project)
-  - [ANGULAR SSR / SERVER SIDE RENDERING / SEO META UNIVERSAL](#angular-ssr--server-side-rendering--seo-meta-universal)
+  - [ANGULAR UNIVERSAL / SSR / SERVER SIDE RENDERING / SEO META](#angular-universal--ssr--server-side-rendering--seo-meta)
   - [ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION](#angular-error-handler--error-handling--exception)
   - [ANGULAR UNIT TESTS TESTING](#angular-unit-tests-testing)
   - [ANGULAR E2E TESTS](#angular-e2e-tests)
@@ -364,30 +365,26 @@ https://devblog.dymel.pl/2017/10/04/angular-in-docker/
 ## ANGULAR DATA FLOW DATA FLOW UNIDIR
 http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode
 
-
 ## ANGULAR DECORATOR/ANNOTATION
 https://alligator.io/angular/hostbinding-hostlistener/
 https://www.thecodecampus.de/blog/angular-2-use-hostbindings-set-class/
 https://toddmotto.com/angular-decorators
 https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
 
-## ANGULAR BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION/BUNDLE
+## ANGULAR CONFIGURATION / ENV
+https://dev.to/angular/compile-time-vs-runtime-configuration-of-your-angular-app-15f2
+https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5  
+
+## ANGULAR BUILD / PRODUCTION / BUNDLE
 https://alligator.io/angular/bundle-size/
 https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
 https://medium.com/@richavyas/webpack-new-way-of-building-ng2-app-a34a3bdabb17#.gcouo6jme
 https://hackernoon.com/rxjs-reduce-bundle-size-using-lettable-operators-418307295e85
 http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
-http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html  
-https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5  
+http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html 
 http://blog.jhades.org/how-to-run-angular-2-in-production-today/  
-https://www.webcodegeeks.com/javascript/angular-js/run-angular-2-production-today/  
-http://blog.jhades.org/  
+https://www.webcodegeeks.com/javascript/angular-js/run-angular-2-production-today/   
 http://www.bennadel.com/blog/3050-setting-the-window-document-title-in-angular-2-beta-9.htm  
-http://www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm  
-http://blog.angular-academy.io/how-to-run-angular-2-in-production-today/
-http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
-http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_164
-https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294#.jrwcy16lq
 
 ## ANGULAR CUSTOM BUILD / CUSTOM WEBPACK
 https://github.com/angular/angular-cli/issues/6137
@@ -397,7 +394,7 @@ https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-bui
 
 https://webpack.js.org/plugins/context-replacement-plugin/
 
-## ANUGLAR SCALABLE LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
+## ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
 https://www.youtube.com/watch?v=piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
@@ -472,12 +469,16 @@ https://scotch.io/tutorials/angular-2-form-validation
 https://github.com/formql/formql
 https://github.com/ngx-formly/ngx-formly
 https://github.com/Ninja-Squad/ngx-valdemort
+https://github.com/jstoppa/dynamic-forms
+https://github.com/maximelafarie/angular-dynamic-forms
 https://devdactic.com/dynamic-components-ionic
 https://toddmotto.com/angular-dynamic-components-forms
 https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
+https://stackblitz.com/@formqlx
+https://github.com/formql/formql/tree/master/examples
+https://slides.com/juanstoppa/dynamic-reactive-forms-angular-denver
 
 ## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
-https://github.com/maximelafarie/angular-dynamic-forms
 https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
 https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 https://netbasal.com/how-to-implement-file-uploading-in-angular-reactive-forms-89a3fffa1a03
@@ -599,6 +600,7 @@ https://github.com/ngrx/platform/tree/master/projects/example-app
 https://github.com/co-IT/ngrx-ducks
 https://github.com/johnpapa/ngrx-data-lab
 https://github.com/brandonroberts/ngrx-store-freeze
+https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
 https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
 https://medium.com/@andrew_evans/exception-handling-with-ngrx-effects-70ec942e6465
 https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39
@@ -656,6 +658,7 @@ https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f
 https://vsavkin.com/immutability-vs-encapsulation-90549ab74487?gi=10734934a81c#.4rctf4y44
 
 ## ANGULAR CHANGE DETECTION NGZONE ZONE
+https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
 http://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1
 https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
 https://alligator.io/angular/change-detection-strategy
@@ -772,7 +775,8 @@ https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-220
 https://docs.google.com/presentation/d/1hS399-o6-6WUwoyaDAKUrupjaEHNqB0KXrd7HpRAE8s/edit#slide=id.g4c62f9d034_0_44
 
 
-## ANGULAR SSR / SERVER SIDE RENDERING / SEO META UNIVERSAL
+## ANGULAR UNIVERSAL / SSR / SERVER SIDE RENDERING / SEO META
+https://slides.com/craigspence/angular-universal-in-the-real-world-15
 https://www.youtube.com/watch?v=-VDOAjzLcvQ SSR
 https://www.npmjs.com/package/ngx-seo
 https://snipcart.com/blog/angular-seo-universal-server-side-rendering
@@ -795,6 +799,7 @@ https://github.com/youdz/dry-angular-testing
 https://stackblitz.com/edit/angular-testing-v7
 https://github.com/juristr/angular-testing-recipes
 https://github.com/storybookjs/storybook
+https://github.com/amcdnl/angular-storybook
 https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
 https://medium.com/@joshblf/testing-angular-directives-dc8bffff5fa2
