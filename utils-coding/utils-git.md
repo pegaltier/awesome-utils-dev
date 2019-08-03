@@ -12,52 +12,62 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
 ```
 git init (new blank repository)
+git remote add origin url://to/source/repository (add a remote)
 git status (get infos)
 git stash (save local diff)
 git stash branch myfeature  (restore the stashed diff on a new branch)
 git stash pop (restore the stashed diff on current branch)
+git fetch origin <sha1-of-commit-> (fetch a commit or branch or tag)
 git cherry-pick d42c389f (apply any commit on current branch)
-git remote add origin url://to/source/repository (add a remote)
 ```
-
-# fetch a commit (or branch or tag) of interest
-# Note: the full history of this commit will be retrieved
-git fetch origin <sha1-of-commit-of-interest>
-
 
 ## CLONE 
 
-- git clone existing project into project folder
+- Clone existing project into project folder
+```
 git clone -b my-branch git@github.com:user/myproject.git
+```
 
-- git clone existing project into the current folder (.)
+- Clone existing project into the current folder (.)
+```
 git clone -b my-branch git@github.com:whatever .
+```
 
-- git clone existing project into the specific folder (my-name)
+- Clone existing project into the specific folder (my-name)
+```
 git clone -b my-branch git@github.com:whatever my-name
+```
 
 ## RESET / CLEAN
 
-- clean deleted branch:  git fetch --prune
+- Clean deleted branch:  
+```
+git fetch --prune
+```
 
-- reset to match the remote branch
+- Reset to match the remote branch
+```
 git fetch origin
 git reset --hard origin/master
+```
 
-- remove local files
+- Remove local files
+```
 git clean -n -f (to see)
 git clean -f (to execute)
+```
 
-- reset local
+- Reset local
+```
 rm -Force -Recurse .git
-
+```
 - all resets possible
 https://stackoverflow.com/a/42903805
 
 
 ## NEW REPO
 
-1. Setting up a remote repository using web interface github/bitbucket
+1. Setting up a remote repository using web github/bitbucket
 2. Setting up your local repository and commit
 ```
 git init
@@ -71,9 +81,8 @@ git push origin master
 git push -u origin --all
 ```
 
-
 ## CONFIG 
-switch credentiel method (token)
+Switch credentiel method (token)
 ```
 git config user.email
 
@@ -87,18 +96,23 @@ git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 ## HASH
 
 To get the full SHA:
-
+```
 $ git rev-parse HEAD
 cbf1b9a1be984a9f61b79a05f23b19f66d533537
+```
 
 To get the shortened version:
+```
 $ git rev-parse --short HEAD
 cbf1b9a
+```
 
 ## VSCODE GIT SSH
 
+```
 start-ssh-agent
 code
+```
 
 ## CREATE BRANCH (PE)
 
