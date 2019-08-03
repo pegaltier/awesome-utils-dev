@@ -5,7 +5,7 @@
 - [ANGULAR LIST](#angular-list)
   - [XP / NEW PROJECT / QUESTIONS](#xp--new-project--questions)
   - [ANGULAR HISTORY](#angular-history)
-  - [ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE](#angular-common-mistakes--bugs--best-practice-tips--checklist-performance)
+  - [ANGULAR BEST PRACTICE](#angular-best-practice)
   - [HACK ONLINE STARTER / FAST CODING](#hack-online-starter--fast-coding)
   - [ANGULAR LIST / LINKS / AWESOME](#angular-list--links--awesome)
   - [ANGULAR8](#angular8)
@@ -103,12 +103,16 @@
 
 ##  XP / NEW PROJECT / QUESTIONS
 - Official I18N or ngx-translate?
-- Nx project or default cli ? Nrwl Extensions : - https://nrwl.io/nx
+- Nx project or default cli ?
+- 
 
 ## ANGULAR HISTORY
 - https://en.wikipedia.org/wiki/Angular_(application_platform)
 
-## ANGULAR COMMON MISTAKES / BUGS / BEST PRACTICE TIPS / CHECKLIST PERFORMANCE 
+## ANGULAR BEST PRACTICE
+
+Avoid common mistakes, bugs, find tips and checklist for good development...
+
 - https://angular-checklist.io/
 - https://github.com/typebytes/angular-checklist
 - https://github.com/mgechev/angular-performance-checklist
