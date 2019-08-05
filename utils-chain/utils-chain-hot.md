@@ -145,6 +145,46 @@ https://twitter.com/artbrock
 https://www.youtube.com/channel/UCSRJRJvkZHk3f1PemqT-R0g
 https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 
+## GITHUB HAPPS
+
+holo list>>
+https://github.com/f13end/Holochain-Projects
+
+holo github>>
+https://github.com/HC-Interns
+https://github.com/Holo-Host
+https://github.com/OmniProject/omni
+https://github.com/juntofoundation/Junto
+https://github.com/uprtcl/hc-uprtcl
+https://github.com/holo-rea/holo-rea
+https://github.com/guillemcordoba/hc-custody
+https://github.com/Hylozoic/hylo-holo-dnas
+https://github.com/vanarchist/holochain-point-of-interest
+https://github.com/vanarchist/holochain-mutual-credit-clearing
+https://github.com/pythagorean/coolcats2 << fully functionnal
+https://github.com/holochain/holochain-basic-chat << easy demo to get started
+https://github.com/holochain/file-storage-zome << store files
+https://github.com/holochain/dev-camp-tests-rust << test oriented  to get started
+https://github.com/holochain-devcamp/generic-game
+https://github.com/petersgrandadventure/dev-camp-playground/tree/idea-machine
+https://github.com/willemolding/holochain_graphql_starter_kit <<< use graphql
+https://github.com/willemolding/holochain-collections << collections
+https://github.com/willemolding/holochain-rust-todo
+https://github.com/willemolding/generic-game-holochain
+https://github.com/RyanHow/file-storage-zome
+https://github.com/peeech/file-server
+https://github.com/milkyklim/holo-nim-game
+https://github.com/SvenMeyer/dev-camp-tests-rust_train
+https://github.com/patwardhanakshay8/holoworldrust
+https://github.com/Qubeo/_bak_cointoss-rust
+https://github.com/adria0/workshop-holochain
+https://github.com/ThinkBigEg/Holoster (angular)
+https://github.com/kristoferlund/holochain-todo-redux
+https://github.com/kristoferlund/holochain-logistics
+https://github.com/orionprotocol/orion-holochain
+https://github.com/orionprotocol
+https://github.com/SetMatchGames
+
 
 ## HAPP DEVELOPMENT
 
