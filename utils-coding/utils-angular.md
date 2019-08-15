@@ -391,6 +391,36 @@ export class InputDecoratorOnSetterDirective {
 • ngAfterViewChecked est appelée quand tous les bindings des directives enfants ont été vérifiés, 
 même s’ils n’ont pas changé. Cela peut être utile si ton composant attend quelque chose de ses composants enfants. Comme ngAfterViewInit, cela n’a de sens que pour un composant (une directive n’a pas de vue). 
 
+EXAMPLE
+
+```
+export class App implements OnInit, AfterViewInit, AfterContentInit {
+  @Input() myInput: string;
+  @ViewChild() myTemplate: TemplateRef<any>;
+  @ContentChild(ChildComponent) myComponent: ChildComponent; 
+
+  constructor(private elementRef: ElementRef) {
+     // this.elementRef.nativeElement is undefined here
+     // this.myInput is undefined here
+     // this.myTemplate is undefined here
+     // this.myComponent is undefine here
+  }
+
+  ngOnInit() {
+     // this.elementRef.nativeElement can be used from here on
+     // value of this.myInput is passed from parent scope
+     // this.myTemplate and this.myComponent are still undefined
+  }
+  ngAfterContentInit() {
+     // this.myComponent now gets projected in and can be accessed
+     // this.myTemplate is still undefined
+  }
+
+  ngAfterViewInit() {
+     // this.myTemplate can be used now as well
+  }
+}
+```
 
  ## ANGULAR DOM
 
