@@ -51,7 +51,7 @@
   - [ANGULAR TEMPLATE](#angular-template)
   - [ANGULAR PLATFORM](#angular-platform)
   - [ANGULAR SCAFFHOLDING](#angular-scaffholding)
-  - [ANGULAR 2 SECURE AUTH / GUARD](#angular-2-secure-auth--guard)
+  - [ANGULAR 2 SECURE / AUTH / GUARD / INTERCEPTOR](#angular-2-secure--auth--guard--interceptor)
   - [ANGULAR OBSERVABLE/REACTIVE/RXJS](#angular-observablereactiverxjs)
   - [ANGULAR RXJS EXTERNAL LIB](#angular-rxjs-external-lib)
   - [ANGULAR HTTP](#angular-http)
@@ -511,7 +511,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## ANGULAR SCAFFHOLDING
 - https://www.ociweb.com/resources/publications/sett/august-2016-grails-angular-scaffolding/
 
-## ANGULAR 2 SECURE AUTH / GUARD
+## ANGULAR 2 SECURE / AUTH / GUARD / INTERCEPTOR
+https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 - https://itnext.io/handle-restricted-routes-in-angular-with-route-guards-95c93be9d05e
 - https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
 - https://ryanchenkie.com/angular-authentication-using-route-guards

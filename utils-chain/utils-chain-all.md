@@ -45,10 +45,12 @@ https://www.coinfairvalue.com
 https://sanbase-low.santiment.net/projects
 https://coingolive.com/en/coin/change-history
 
-## DIVIDENDS / INTERESTS
+## DIVIDENDS / INTERESTS / SWAP
 https://blockfi.com/
 https://stakingrewards.com/
 https://earncryptointerest.com/
+https://uniswap.io/
+https://bepswap.com/
 
 ## TRADING / PORTFOLIO / 
 https://kryll.io/
