@@ -474,6 +474,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://scotch.io/tutorials/angular-2-form-validation
 
 ## ANGULAR REACTIVE FORMS / DYNAMIC FORMS
+- https://github.com/ngx-meta/rules
 - https://github.com/formql/formql
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
