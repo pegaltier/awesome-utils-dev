@@ -87,6 +87,7 @@
   - [ANGULAR DEMO APP / TUTORIAL / EXAMPLES](#angular-demo-app--tutorial--examples)
   - [ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS](#angular-mobile--native--hybride--crossplatform--cross)
   - [ANGULAR SOCKETS](#angular-sockets)
+  - [ANGULAR CODE GENERATION / CODEGEN](#angular-code-generation--codegen)
   - [ANGULAR DATA VIZ](#angular-data-viz)
   - [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
   - [ANGULAR MIGRATION NG1 TO NG2](#angular-migration-ng1-to-ng2)
@@ -116,6 +117,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://angular-checklist.io/
 - https://github.com/typebytes/angular-checklist
 - https://github.com/mgechev/angular-performance-checklist
+- https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
 - https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5
 - https://medium.com/free-code-camp/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f
@@ -447,6 +449,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
 
 ## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS
+- https://github.com/aelbore/ngx-elements
+- https://github.com/aelbore/ngx-elements-demo
 - https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
 - https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 - https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
@@ -800,11 +804,16 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/ike18t/ng-mocks
 - https://github.com/getsaf/shallow-render
 - https://github.com/Ninja-Squad/ngx-speculoos
+- https://github.com/ngneat/spectator
 - https://github.com/youdz/dry-angular-testing
 - https://stackblitz.com/edit/angular-testing-v7
 - https://github.com/juristr/angular-testing-recipes
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
+- https://github.com/testing-library/angular-testing-library
+- https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer
+- https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
+- https://medium.com/@pattferraggi/how-i-found-a-problem-with-angular-unit-testing-and-decided-to-fix-it-myself-7c00b58d57a7
 - https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 - https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
 - https://medium.com/@joshblf/testing-angular-directives-dc8bffff5fa2
@@ -910,7 +919,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/angular-extensions/elements
 - https://github.com/angular-extensions/model
-- https://github.com/aelbore/ngx-elements-demo
 - https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
 -- old
 - https://swimlane.github.io/ng2d3/
@@ -985,6 +993,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://angular2.com/  
 
 ## ANGULAR DEMO APP / TUTORIAL / EXAMPLES
+- https://netbasal.com/build-an-infinite-scroll-component-in-angular-a9c16907a94d
 - https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (with SlimPHP)  
 - https://github.com/avatsaev/angular-contacts-app-example
 - https://medium.com/the-guild/fully-functional-whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-5479d83baaa4
@@ -1028,6 +1037,9 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## ANGULAR SOCKETS
 - https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+
+## ANGULAR CODE GENERATION / CODEGEN
+https://xlayers.app/#/home
 
 ## ANGULAR DATA VIZ
 - https://github.com/valor-software/ng2-charts

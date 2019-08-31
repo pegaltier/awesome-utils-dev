@@ -11,6 +11,8 @@ https://github.com/kozhevnikov/proxymise
 
 ## LIB/FRAMEWORK FRONTEND
 https://github.com/Tencent/omi
+https://github.com/ansman/validate.js
+https://github.com/koorchik/js-validator-livr
 https://www.npmjs.com/package/livr
 
 ## LIB/FRAMEWORK BACKEND
