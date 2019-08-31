@@ -8,8 +8,8 @@
 ## :computer: Coding
 
 - [Angular](utils-coding/utils-angular-list.md)
-- [Android](utils-coding/utils-android.md)
 - [Javascript](utils-coding/utils-javascript.md)
+- [Android](utils-coding/utils-android.md)
 - [Java](utils-coding/utils-java.md)
 - [Php](utils-coding/utils-php.md)
 - [Git](utils-coding/utils-git.md)
