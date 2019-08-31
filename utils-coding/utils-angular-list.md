@@ -117,6 +117,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://angular-checklist.io/
 - https://github.com/typebytes/angular-checklist
 - https://github.com/mgechev/angular-performance-checklist
+- https://github.com/SanderElias/Samples
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
 - https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5
@@ -479,6 +480,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/jstoppa/dynamic-forms
+- https://github.com/SanderElias/ngObservableForm
 - https://github.com/maximelafarie/angular-dynamic-forms
 - https://devdactic.com/dynamic-components-ionic
 - https://toddmotto.com/angular-dynamic-components-forms
