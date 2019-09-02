@@ -450,6 +450,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
 
 ## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS
+- https://github.com/angular-extensions/elements
+- https://angular-extensions.github.io/elements/#/examples/advanced
 - https://github.com/aelbore/ngx-elements
 - https://github.com/aelbore/ngx-elements-demo
 - https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
@@ -651,6 +653,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/storeon/angular
 - https://github.com/datorama/akita
 - https://github.com/zerobias/effector
+- https://github.com/angular-extensions/model
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b
 - https://codeburst.io/effector-state-manager-6ee2e72e8e0b
@@ -904,6 +907,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/BioPhoton/angular-signature-pad
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/damienbod/angular-auth-oidc-client
+- https://akveo.github.io/ngx-admin/
+- https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/ngx-translate/core
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/Ninja-Squad/ngx-valdemort
@@ -920,8 +925,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/w11k/ngx-componentdestroyed
-- https://github.com/angular-extensions/elements
-- https://github.com/angular-extensions/model
 - https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
 -- old
 - https://swimlane.github.io/ng2d3/

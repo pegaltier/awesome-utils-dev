@@ -19,6 +19,9 @@ https://www.npmjs.com/package/livr
 https://nestjs.com/
 https://github.com/typeorm/typeorm
 
+## LIB/FRAMEWORK DATABASE
+https://github.com/pubkey/rxdb
+
 ## LEARN
 https://learnvanillajs.com/roadmap/ 
 https://learnjavascript.online/
