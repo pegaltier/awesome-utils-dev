@@ -501,8 +501,9 @@ test end to end (voir ninja angular page 157)
 
 ### INTERVIEW
 - did you already develop a simple static website using html and javascript?
-- how many different versions of angular did you use?
 - can you describe in one simple sentence what is reactive programming (rxjs)?
 - can you describe in one simple sentence what is redux (ngrx)?
+- can you describe in one simple sentence what is typescript?
 - what did you like and what did you dislike on Angular?
-- which third party library did you use and like?
+- how many differents versions of angular did you use?
+- which third party library did you like to use?

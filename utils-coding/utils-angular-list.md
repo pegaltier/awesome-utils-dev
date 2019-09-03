@@ -18,6 +18,7 @@
   - [ANGULAR SEO](#angular-seo)
   - [ANGULAR OTHERS LIST](#angular-others-list)
   - [ANGULAR START INIT](#angular-start-init)
+  - [ANGULAR CHROME PLUGINS](#angular-chrome-plugins)
   - [ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN](#angular-ide-tools-snippets-extension-plugin)
   - [ANGULAR IDE BEST EXTENSIONS](#angular-ide-best-extensions)
   - [ANGULAR IDE OTHERS EXTENSIONS](#angular-ide-others-extensions)
@@ -225,6 +226,10 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/  
 - https://angular.io/docs/ts/latest/quickstart.html  
 - https://angular.io/docs/ts/latest/cookbook/
+
+## ANGULAR CHROME PLUGINS
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
 
 ## ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN
 - https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
@@ -741,6 +746,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING
+- https://github.com/herodevs/herodevs-packages/tree/master/projects/lazy
 - https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24
 - https://medium.com/@zamamohammed/announcing-angular-loadable-ngx-loadable-2-2kb-4ef7e6321784 
 - https://medium.com/@michelestieven/lazy-loading-angular-modules-27856e940bb0
