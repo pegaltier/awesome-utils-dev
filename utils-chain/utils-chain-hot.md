@@ -160,6 +160,11 @@ https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 
 ## HAPP DEVELOPMENT
 
+### Install specific holochain version
+Note that these are holonix version tags and not holochain versions.
+nix-shell https://github.com/holochain/holonix/tarball/<branch/tag/commit>
+nix-shell https://github.com/holochain/holonix/tarball/0.0.28
+
 ### Prerequisite
 - dna-src (the holochain codebase)
 - ng-src (the angular codebase)
