@@ -86,6 +86,9 @@ holo github>>
 - https://github.com/orionprotocol/orion-holochain
 - https://github.com/orionprotocol
 - https://github.com/SetMatchGames
+- https://github.com/zaunders/Mailboox-Rust
+- https://github.com/zo-el/rwot9-prague
+- https://github.com/Hylozoic/hylo-holo-dnas
 
 ## UNOFFICIAL SITES
 - https://www.buyholo.net/
