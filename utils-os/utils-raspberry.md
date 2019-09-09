@@ -16,8 +16,17 @@ https://raspbian-france.fr/installer-serveur-web-raspberry/
 Nginx+PHP
 https://www.yubigeek.com/installer-serveur-web-raspberry-pi/
 
-# Cron
+## Cron
 https://www.raspberrypi.org/documentation/linux/usage/cron.md
 
 crontab -e ==> edit
 crontab -l ==> show
+
+## Node dev
+https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
+https://www.w3schools.com/nodejs/nodejs_raspberrypi_gpio_intro.asp
+https://github.com/JamesBarwell/rpi-gpio.js
+
+## Python dev
+Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world
+https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv
