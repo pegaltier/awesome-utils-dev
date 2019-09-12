@@ -124,6 +124,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5
 - https://medium.com/free-code-camp/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f
 - https://code-maze.com/angular-best-practices/
+- https://www.carloscaballero.io/angular-ngx-translate-typings
 - https://medium.com/intive-developers/approach-to-clean-architecture-in-angular-applications-hands-on-35145ceadc98
 - https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
 - https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
