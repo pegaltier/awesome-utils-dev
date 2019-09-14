@@ -6,7 +6,7 @@
   - [XP / NEW PROJECT / QUESTIONS](#xp--new-project--questions)
   - [ANGULAR HISTORY](#angular-history)
   - [ANGULAR BEST PRACTICE](#angular-best-practice)
-  - [HACK ONLINE STARTER / FAST CODING](#hack-online-starter--fast-coding)
+  - [HACK ONLINE IDE / STARTER / FAST CODING](#hack-online-ide--starter--fast-coding)
   - [ANGULAR LIST / LINKS / AWESOME](#angular-list--links--awesome)
   - [ANGULAR8](#angular8)
   - [ANGULAR7](#angular7)
@@ -138,7 +138,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
 - https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 
-## HACK ONLINE STARTER / FAST CODING
+## HACK ONLINE IDE / STARTER / FAST CODING
 - https://stackblitz.com
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material?file=theme.scss
