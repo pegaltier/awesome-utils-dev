@@ -46,7 +46,9 @@ https://sanbase-low.santiment.net/projects
 https://coingolive.com/en/coin/change-history
 
 ## DIVIDENDS / INTERESTS / SWAP
+https://app.compound.finance/
 https://blockfi.com/
+https://defipulse.com/
 https://stakingrewards.com/
 https://earncryptointerest.com/
 https://uniswap.io/
