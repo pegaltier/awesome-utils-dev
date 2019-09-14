@@ -163,6 +163,14 @@ https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 
 ## HAPP DEVELOPMENT
 
+https://developer.holochain.org/start.html
+
+## Install permenently
+- nix-env -f https://holochain.love -iA holochain.hc
+
+## Install temporarily (for the session)
+- nix-shell https://holochain.love
+
 ### Install specific holochain version
 Note that these are holonix version tags and not holochain versions.
 - nix-shell https://github.com/holochain/holonix/tarball/<branch/tag/commit>
