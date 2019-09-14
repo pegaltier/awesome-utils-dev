@@ -175,6 +175,7 @@ https://developer.holochain.org/start.html
 Note that these are holonix version tags and not holochain versions.
 - nix-shell https://github.com/holochain/holonix/tarball/<branch/tag/commit>
 - nix-shell https://github.com/holochain/holonix/tarball/0.0.28
+- nix-shell https://github.com/holochain/holonix/archive/0.0.29.tar.gz
 
 ### Prerequisite
 - dna-src (the holochain codebase)
