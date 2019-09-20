@@ -127,6 +127,8 @@ https://coinlib.io/
 https://coinlib.io/global-crypto-charts
 
 ## TAX / TAXATION
+https://blockpit.io/help/en/c/austria
+https://www.tpa-group.at/en/news-en/7-faqs-on-cryptocurrencies/
 https://coinsutra.com/tax-free-bitcoin-countries/
 https://cryptoresearch.report/crypto-research/taxation-cryptocurrencies-europe/
 https://news.bitcoin.com/these-countries-wont-tax-your-bitcoins-too-much/

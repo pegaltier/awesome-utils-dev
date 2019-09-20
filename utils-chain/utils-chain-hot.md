@@ -57,6 +57,7 @@ holo github>>
 - https://github.com/Holo-Host
 - https://github.com/OmniProject/omni
 - https://github.com/juntofoundation/Junto
+- https://github.com/juntofoundation/Junto-Holochain-Alpha-API
 - https://github.com/uprtcl/hc-uprtcl
 - https://github.com/holo-rea/holo-rea
 - https://github.com/guillemcordoba/hc-custody

@@ -497,6 +497,7 @@ https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbb
 - https://stackblitz.com/@formqlx
 - https://github.com/formql/formql/tree/master/examples
 - https://slides.com/juanstoppa/dynamic-reactive-forms-angular-denver
+- https://medium.com/@oojhaajay/dynamic-validation-in-angular-dynamic-forms-aca8df20ece0
 
 ## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
 - https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
@@ -915,7 +916,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/BioPhoton/angular-signature-pad
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/damienbod/angular-auth-oidc-client
-- https://akveo.github.io/ngx-admin/
 - https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/ngx-translate/core
 - https://github.com/aitboudad/ngx-loading-bar
@@ -933,6 +933,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/w11k/ngx-componentdestroyed
+- https://akveo.github.io/ngx-admin/
+- https://ornamentum.app/
 - https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
 -- old
 - https://swimlane.github.io/ng2d3/
