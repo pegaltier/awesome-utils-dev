@@ -7,6 +7,7 @@
   - [RESET / CLEAN](#reset--clean)
   - [NEW REPO](#new-repo)
   - [CONFIG](#config)
+  - [STASH ADVANCED](#stash-advanced)
   - [HASH](#hash)
   - [VSCODE GIT SSH](#vscode-git-ssh)
   - [CREATE BRANCH](#create-branch)
@@ -31,6 +32,7 @@ git stash branch myfeature  (restore the stashed diff on a new branch)
 git stash pop (restore the stashed diff on current branch)
 git fetch origin <sha1-of-commit-> (fetch a commit or branch or tag)
 git cherry-pick d42c389f (apply any commit on current branch)
+git remote prune origin (clean local branches that have been deleted from remote)
 ```
 
 ## CLONE 
@@ -104,6 +106,24 @@ git config --global credential.helper manager
 git remote rm origin
 git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 ```
+## STASH ADVANCED
+
+Find advanced command to use stash feature as much as possible:
+```
+git stash save "your message" 
+git stash save -u "your message"
+git stash list
+git stash apply stash@{1} 
+git stash pop
+git stash pop stash@{1}
+git stash show
+git stash show -p
+git stash show stash@{1}
+git stash branch <name> stash@{1}
+git stash clear
+git stash drop stash@{1}
+```
+More detail: https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/
 
 ## HASH
 
