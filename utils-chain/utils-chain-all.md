@@ -12,6 +12,7 @@ Gary Basin
 https://solume.io
 https://coin360.com
 https://datalight.me
+https://cryptolinks.com
 https://coincodecap.com
 https://thetie.io/coins
 https://www.moonmath.win

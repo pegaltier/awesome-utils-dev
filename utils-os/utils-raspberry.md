@@ -27,8 +27,12 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 https://www.w3schools.com/nodejs/nodejs_raspberrypi_gpio_intro.asp
 https://github.com/JamesBarwell/rpi-gpio.js
 
+## Various
+https://github.com/thibmaek/awesome-raspberry-pi
+https://github.com/dymayday/raspberry-pi
+https://github.com/blackout314/awesome-raspberry-pi
 
-## Raspberry / sensor / camera
+##  Sensor / camera
 
 book:
 https://store.rpipress.cc/products/official-raspberry-pi-beginner-s-guide-2nd-edition

@@ -116,9 +116,10 @@
 Avoid common mistakes, bugs, find tips and checklist for good development...
 
 - https://angular-checklist.io/
+- https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
 - https://github.com/mgechev/angular-performance-checklist
-- https://github.com/SanderElias/Samples
+- https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
 - https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5
@@ -661,6 +662,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/storeon/angular
 - https://github.com/datorama/akita
 - https://github.com/zerobias/effector
+- https://github.com/maktarsis/routeshub
 - https://github.com/angular-extensions/model
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b

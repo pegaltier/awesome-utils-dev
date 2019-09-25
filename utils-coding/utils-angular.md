@@ -1,44 +1,34 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-  - [Welcome {{user?.name}}](#welcome-username)
-  - [FETCH PROMISE OBSERAVABLE RXJS](#fetch-promise-obseravable-rxjs)
-  - [TYPESCRIPT](#typescript)
-  - [ANGULAR2 CLI](#angular2-cli)
-  - [NATIVESCRIPT :](#nativescript-)
-  - [IONIC2 https://apps.ionic.io/apps](#ionic2-httpsappsionicioapps)
-  - [syntax](#syntax)
-- [pour la déclaration de variable](#pour-la-d%c3%a9claration-de-variable)
-  - [ANGULAR2 CLI](#angular2-cli)
-  - [ADD LIB/CSS/JAVASCRIPT](#add-libcssjavascript)
-  - [HTTP POST PARAMS](#http-post-params)
-  - [FETCH PROMISE OBSERAVABLE RXJS](#fetch-promise-obseravable-rxjs)
-  - [RXJS / OBSERVABLE / REACTIVE (DESIGN PATTERN OBSERVER)](#rxjs--observable--reactive-design-pattern-observer)
-    - [HOT VS COLD](#hot-vs-cold)
-    - [OBSERVABLE](#observable)
-    - [OBSERVER](#observer)
-    - [SUBSCRIPTION](#subscription)
-    - [SUBJECT](#subject)
-    - [OPERATORS METHODS (PURE FUNCTIONS) (FRENCH)](#operators-methods-pure-functions-french)
-    - [OPERATORS METHODS (PURE FUNCTIONS) (ENGLISH)](#operators-methods-pure-functions-english)
-      - [TRANSFORMATION](#transformation)
-      - [COMBINATION](#combination)
-      - [CREATION](#creation)
-      - [UTILITY](#utility)
-      - [ERROR HANDLING](#error-handling)
-  - [ANGULAR OBSERVABLE](#angular-observable)
-  - [ANGULAR NGRX](#angular-ngrx)
-  - [ANGULAR PIPE](#angular-pipe)
-  - [DIRECTIVE (une directive n’a pas de vue).](#directive-une-directive-na-pas-de-vue)
-  - [LIFECYCLE (CYCLE DE VIE)](#lifecycle-cycle-de-vie)
-  - [ANGULAR TESTING](#angular-testing)
-    - [TESTING FACTORIZE/IMPORTS](#testing-factorizeimports)
-    - [TESTING TRANSLATE](#testing-translate)
-    - [TESTINT EXAMPLE](#testint-example)
-    - [INTERVIEW](#interview)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+- [SUMMARY](#summary)
+- [CLI](#cli)
+- [UPGRADE](#upgrade)
+- [HTTP POST PARAMS](#http-post-params)
+- [REACTIVE / RXJS](#reactive--rxjs)
+  - [HOT VS COLD](#hot-vs-cold)
+  - [OBSERVABLE](#observable)
+  - [OBSERVER](#observer)
+  - [SUBSCRIPTION](#subscription)
+  - [SUBJECT](#subject)
+  - [EVENT EMITTER](#event-emitter)
+  - [OPERATORS (FRENCH)](#operators-french)
+  - [OPERATORS (ENGLISH)](#operators-english)
+    - [TRANSFORMATION](#transformation)
+    - [COMBINATION](#combination)
+    - [CREATION](#creation)
+    - [UTILITY](#utility)
+    - [ERROR HANDLING](#error-handling)
+  - [MORE OPERATORS](#more-operators)
+- [REDUX / NGRX](#redux--ngrx)
+- [PIPES](#pipes)
+- [DIRECTIVES](#directives)
+  - [ANGULAR DIRECTIVES](#angular-directives)
+  - [CUSTOM DIRECTIVES](#custom-directives)
+- [LIFECYCLE](#lifecycle)
+- [ANGULAR TESTING](#angular-testing)
+  - [TESTING FACTORIZE/IMPORTS](#testing-factorizeimports)
+  - [TESTING TRANSLATE](#testing-translate)
+  - [TESTINT EXAMPLE](#testint-example)
+- [INTERVIEW](#interview)
 
 intellij racourci : https://github.com/MrZaYaC/ng2-webstorm-snippets 
 
@@ -47,16 +37,16 @@ chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-deb
 CHROME CORS PLUGIN OU http://crossorigin.me/ : Allow-Control-Allow-Origin: * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi 
 CHROME POSTMAN PLUGIN 
 
-## ANGULAR RESUME  
+## SUMMARY
 {{}} pour l’interpolation,  
 [] pour le binding de propriété (entrée) 
 () pour le binding d’événement (sortie) 
-# pour la déclaration de variable 
-* pour les directives structurelles (for/if...)
+'#' pour la déclaration de variable 
+'*' pour les directives structurelles (for/if...)
 
 utility : http://stackoverflow.com/questions/32790311/how-to-structure-utility-class 
 
-## ANGULAR2 CLI 
+## CLI 
 
 https://angularconsole.com/
 
@@ -75,13 +65,11 @@ ng serve
 ng github-pages:deploy 
 git subtree push --prefix dist/ origin gh-pages 
  
- 
-more CLI : https://www.amadousall.com/my-favourite-angular-cli-commands-and-options/
-
-
-PROXY BACKEND
+https://www.amadousall.com/my-favourite-angular-cli-commands-and-options/
 https://github.com/angular/angular-cli#proxy-to-backend
- 
+
+## UPGRADE 
+
 UPGRADE COMMON
 http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
  
@@ -131,12 +119,10 @@ ng build --prod --aot --bh /enterprise/webapp/ --build-optimizer		OK
 ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
 
-## ADD LIB/CSS/JAVASCRIPT
-
-ajouter un fichier css ou lib js : 
+- Add lib:
+- ajouter un fichier css ou lib js : 
 - installer via npm --save 
 - ajouter dans angular-cli.json > balises styles + scripts 
-
 
 ## HTTP POST PARAMS
 
@@ -145,13 +131,9 @@ http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-wi
 https://auth0.com/blog/angular-2-series-part-3-using-http/ 
 https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/ 
  
-## FETCH PROMISE OBSERAVABLE RXJS 
-
-http://output.jsbin.com/juwiva/29 
-https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service 
 
 
-## RXJS / OBSERVABLE / REACTIVE (DESIGN PATTERN OBSERVER)
+## REACTIVE / RXJS
 
 http://rxmarbles.com/ 
 https://xgrommx.github.io/rx-book/index.html
@@ -209,8 +191,21 @@ BehaviorSubject: whenever a new Observer subscribe it will immediatly receive th
 ReplaySubject: similar to a BehaviorSubject but also records multiple values from the Observable execution and replays them to new subscribers.
 AsyncSubject: only the last value of the Observable execution is sent to its observers, and only when the execution completes.
 
-### OPERATORS METHODS (PURE FUNCTIONS) (FRENCH)
-http://reactivex.io/rxjs/manual/overview.html#operators
+### EVENT EMITTER
+
+EventEmitter is aimed to help communication between component using input and output. It extends RxJS Subject but it's directly provided by the @angular/core package. EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres : 
+• une méthode pour réagir aux événements. 
+• une méthode pour réagir aux erreurs.  
+• une méthode pour réagir à la terminaison. 
+Un EventEmitter peut émettre un événement avec la méthode emit(). 
+ 
+const emitter = new EventEmitter(); 
+const subscription = emitter.subscribe(   value => console.log(value),   error => console.log(error),   () => console.log('done') ); 
+emitter.emit('hello'); emitter.emit('there'); emitter.complete(); 
+subscription.unsubscribe(); // unsubscribe  
+// logs "hello", then "there", then "done" 
+
+### OPERATORS (FRENCH)
 
 • take(n) va piocher les n premiers éléments.  
 • map(fn) va appliquer la fonction fn sur chaque événement et retourner le résultat.  
@@ -227,7 +222,9 @@ http://reactivex.io/rxjs/manual/overview.html#operators
 • conditions (amb, includes…) 
  
 
-### OPERATORS METHODS (PURE FUNCTIONS) (ENGLISH)
+### OPERATORS (ENGLISH)
+
+They are pure functions. The function always returns the same result if the same arguments are passed in. It does not depend on any state, or data, change during a program's execution.
 
 #### TRANSFORMATION
 mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
@@ -258,22 +255,11 @@ finalize: will be called when observable terminates on complete or error
 #### ERROR HANDLING
 catchError: allows to catch and replace (with empty) or to re-throw (with throwError) to subscribers
 
+### MORE OPERATORS
 
-## ANGULAR OBSERVABLE
+http://reactivex.io/rxjs/manual/overview.html#operators
 
-EventEmitter is aimed to help communication between component using input and output. It extends RxJS Subject but it's directly provided by the @angular/core package. EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres : 
-• une méthode pour réagir aux événements. 
-• une méthode pour réagir aux erreurs.  
-• une méthode pour réagir à la terminaison. 
-Un EventEmitter peut émettre un événement avec la méthode emit(). 
- 
-const emitter = new EventEmitter(); 
-const subscription = emitter.subscribe(   value => console.log(value),   error => console.log(error),   () => console.log('done') ); 
-emitter.emit('hello'); emitter.emit('there'); emitter.complete(); 
-subscription.unsubscribe(); // unsubscribe  
-// logs "hello", then "there", then "done" 
-
-## ANGULAR NGRX
+## REDUX / NGRX
 
 store.dispatch = trigger an action
 store.select = get current state
@@ -284,7 +270,7 @@ The root of the problem is that once you fire an Action you’re completely disc
 Ngrx/effects is middleware for handling side effects in ngrx/store. It listens for dispatched actions in an observable stream, performs side effects, and returns new actions either immediately or asynchronously. The returned actions get passed along to the reducer.
 
 
-## ANGULAR PIPE
+## PIPES
 
 {{ asyncGreeting | async } 
  
@@ -306,8 +292,9 @@ Ngrx/effects is middleware for handling side effects in ngrx/store. It listens f
 <div *ngFor="let pony of ponies | slice:0:2">{{pony.name}}</div> 
 <div loggable [logText]="expression | uppercase">Hello</div> 
 
- ## DIRECTIVES
+## DIRECTIVES
 
+### ANGULAR DIRECTIVES
 ngTemplate  
 <h2>Welcome {{user?.name}}</h2> 
  
@@ -354,7 +341,8 @@ variable locale
 <input type="text" #name> <button (click)="name.focus()">Focus the input</button> 
 <google-youtube #player></google-youtube><button (click)="player.play()">Play!</button> 
  
-## DIRECTIVE  (une directive n’a pas de vue). 
+### CUSTOM DIRECTIVES
+(une directive n’a pas de vue). 
 selecteur: Ne nomme pas tes sélecteurs avec un préfixe bind-, on-, let- ou ref- : ils ont une autre signification pour le parseur, car ils font partie de la syntaxe canonique des templates. 
 • un élément, comme c’est généralement le cas pour les composants : footer. 
 • une classe, mais c’est plutôt rare : .alert.  
@@ -379,8 +367,7 @@ export class InputDecoratorOnSetterDirective {
 	set text(value) {     console.log(value);   }  
 } 
  
- 
-## LIFECYCLE (CYCLE DE VIE)
+## LIFECYCLE
 
 • ngOnChanges sera la première appelée quand la valeur d’une propriété bindée est modifiée. Elle recevra une map changes, contenant les valeurs courante et précédente du binding, emballées dans un SimpleChange. Elle ne sera pas appelée s’il n’y a pas de changement.  
 • ngOnInit sera appelée une seule fois après le premier changement (alors que ngOnChanges est appelée à chaque changement). Cela en fait la phase parfaite pour du travail d’initialisation, comme son nom le laisse à penser.  
@@ -499,11 +486,12 @@ describe('RaceService', () => {
  
 test end to end (voir ninja angular page 157) 
 
-### INTERVIEW
+## INTERVIEW
 - did you already develop a simple static website using html and javascript?
-- can you describe in one simple sentence what is reactive programming (rxjs)?
+- can you describe in one simple sentence what is reactive programming (rxjs/obs)?
 - can you describe in one simple sentence what is redux (ngrx)?
 - can you describe in one simple sentence what is typescript?
 - what did you like and what did you dislike on Angular?
 - how many differents versions of angular did you use?
 - which third party library did you like to use?
+- did you already develop unit-tests on angular?
