@@ -8,6 +8,9 @@ https://github.com/localtunnel/localtunnel
 ## MONITORING
 http://pm2.keymetrics.io/
 
+## LIBS
+https://github.com/azz/pretty-quick
+
 ## NODE UPDATE WINDOWS
 
 1. download & install node : latest version from official website

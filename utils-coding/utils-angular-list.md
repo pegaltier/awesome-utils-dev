@@ -191,8 +191,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://angular.io/docs/ts/latest/cookbook/
 
 ## ANGULAR CHROME PLUGINS
-https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
-https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
+- https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+- https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
+- https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
 
 ## ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN
 - https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
@@ -583,6 +584,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/co-IT/ngrx-ducks
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/brandonroberts/ngrx-store-freeze
+- https://github.com/wesleygrimes/ngrx-file-upload
 - https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
 - https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
 - https://medium.com/@andrew_evans/exception-handling-with-ngrx-effects-70ec942e6465
