@@ -2,11 +2,12 @@
 - [SUMMARY](#summary)
 - [CLI](#cli)
 - [UPGRADE](#upgrade)
+  - [CLEAN NODE_MODULES](#clean-nodemodules)
   - [UPGRADE CLI VERSION](#upgrade-cli-version)
   - [UPGRADE NG VERSION](#upgrade-ng-version)
   - [AUTO UPDATE](#auto-update)
   - [BUILD PROD](#build-prod)
-  - [](#)
+  - [EXTENDS](#extends)
 - [HTTP POST PARAMS](#http-post-params)
 - [REACTIVE / RXJS](#reactive--rxjs)
   - [HOT VS COLD](#hot-vs-cold)
@@ -68,9 +69,13 @@ git subtree push --prefix dist/ origin gh-pages
 
 ## UPGRADE 
 
-UPGRADE COMMON
-- http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
- 
+### CLEAN NODE_MODULES
+
+```
+rmdir /s /q node_modules (windows)
+rm -r -f node_modules (linux)
+```
+
 ### UPGRADE CLI VERSION
 - https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli
 - https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
@@ -97,8 +102,10 @@ ng update
 - http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html
 - http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
 - http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
-
+- http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
+ 
 ### AUTO UPDATE
+
 ```
 sudo npm install -g npm-check-updates
 rmdir /s/q node_modules
@@ -108,7 +115,7 @@ ncu -a for upgrade all
 ```
 
 ### BUILD PROD
-- http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
+
 ```
 ng build --prod	 
 ng build --prod --aot
@@ -117,7 +124,9 @@ ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
 ```
 
-### 
+- http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
+
+### EXTENDS
 - Add lib:
 - ajouter un fichier css ou lib js : 
 - installer via npm --save 
@@ -130,14 +139,7 @@ ng build --target=production --base-href '/enterprise/'
 - https://auth0.com/blog/angular-2-series-part-3-using-http/ 
 - https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/ 
  
-
-
 ## REACTIVE / RXJS
-
-- http://rxmarbles.com/ 
-- https://xgrommx.github.io/rx-book/index.html
-- http://reactivex.io/rxjs/manual/overview.html
-- https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains
 
 Observable: represents the idea of an invokable collection of future values or events.
 Observer: is a collection of callbacks that knows how to listen to values delivered by the Observable.
@@ -145,6 +147,11 @@ Subscription: represents the execution of an Observable, is primarily useful for
 Operators: are pure functions that enable a functional programming style of dealing with collections with operations like map, filter, concat, flatMap, etc.
 Subject: is the equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
 Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
+
+- http://rxmarbles.com/ 
+- https://xgrommx.github.io/rx-book/index.html
+- http://reactivex.io/rxjs/manual/overview.html
+- https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains
 
 ### HOT VS COLD
 
@@ -155,7 +162,6 @@ HOT (event click)
 Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical).
 
 ### OBSERVABLE
-- http://reactivex.io/rxjs/manual/overview.html#observable
 
 Observables are lazy Push collections of multiple values.
 a flux = (i.e: collection asynchrone dont les événements arrivent au cours du temps) 
@@ -169,10 +175,13 @@ Push	| Promise   | Observable
 Pull	| Passive: produces data when requested.	| Active: decides when data is requested.
 Push	| Active: produces data at its own pace.	| Passive: reacts to received data.
 
+- http://reactivex.io/rxjs/manual/overview.html#observable
+- 
 ### OBSERVER 
-- http://reactivex.io/rxjs/manual/overview.html#observer
 
 An Observer is a consumer of values delivered by an Observable. (i.e : a listener)
+
+- http://reactivex.io/rxjs/manual/overview.html#observer
 
 ### SUBSCRIPTION
 - http://reactivex.io/rxjs/manual/overview.html#subscription
@@ -226,6 +235,7 @@ subscription.unsubscribe(); // unsubscribe
 They are pure functions. The function always returns the same result if the same arguments are passed in. It does not depend on any state, or data, change during a program's execution.
 
 #### TRANSFORMATION
+
 mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
 switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
 concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained. 
