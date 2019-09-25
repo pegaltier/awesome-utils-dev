@@ -2,6 +2,11 @@
 - [SUMMARY](#summary)
 - [CLI](#cli)
 - [UPGRADE](#upgrade)
+  - [UPGRADE CLI VERSION](#upgrade-cli-version)
+  - [UPGRADE NG VERSION](#upgrade-ng-version)
+  - [AUTO UPDATE](#auto-update)
+  - [BUILD PROD](#build-prod)
+  - [](#)
 - [HTTP POST PARAMS](#http-post-params)
 - [REACTIVE / RXJS](#reactive--rxjs)
   - [HOT VS COLD](#hot-vs-cold)
@@ -32,18 +37,15 @@
 
 
 ## SUMMARY
-{{}} pour l’interpolation,  
-[] pour le binding de propriété (entrée) 
-() pour le binding d’événement (sortie) 
-'#' pour la déclaration de variable 
-'*' pour les directives structurelles (for/if...)
-
-utility : http://stackoverflow.com/questions/32790311/how-to-structure-utility-class 
+- {{}} pour l’interpolation,  
+- [] pour le binding de propriété (entrée) 
+- () pour le binding d’événement (sortie) 
+- '#' pour la déclaration de variable 
+- '*' pour les directives structurelles (for/if...)
 
 ## CLI 
 
-https://angularconsole.com/
-
+```
 ng g component pony test-list
 ng g class article 
 ng g service article 
@@ -58,61 +60,64 @@ ng serve
 
 ng github-pages:deploy 
 git subtree push --prefix dist/ origin gh-pages 
- 
-https://www.amadousall.com/my-favourite-angular-cli-commands-and-options/
-https://github.com/angular/angular-cli#proxy-to-backend
+```
+
+- https://angularconsole.com/
+- https://www.amadousall.com/my-favourite-angular-cli-commands-and-options/
+- https://github.com/angular/angular-cli#proxy-to-backend
 
 ## UPGRADE 
 
 UPGRADE COMMON
-http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
+- http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
  
-UPGRADE CLI VERSION
-https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli
-https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
-
+### UPGRADE CLI VERSION
+- https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli
+- https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
+```
 npm uninstall -g angular-cli
 npm cache clean
 npm install -g @angular/cli
+```
 
+### UPGRADE NG VERSION
 
-UPGRADE NG VERSION
-https://update.angular.io
+```
 ng update
+```
 
-https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
-https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4 <<< OFFICIAL
+- https://update.angular.io
+- https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
+- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4 <<< OFFICIAL
+- https://www.techiediaries.com/updating-angular-cli-projects/
+- https://appdividend.com/2018/10/20/how-to-update-angular-cli-to-version-7/
+- https://blog.angularindepth.com/angular-5-or-angular-6-yes-please-d71b08b5e59b
+- https://stackoverflow.com/questions/43931986/how-to-upgrade-angular-cli-to-the-latest-version
+- https://medium.com/@timdeschryver/ng-update-the-setup-2d2c54d05a0e (update libs)
+- http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html
+- http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
+- http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
 
-https://www.techiediaries.com/updating-angular-cli-projects/
-https://appdividend.com/2018/10/20/how-to-update-angular-cli-to-version-7/
-https://blog.angularindepth.com/angular-5-or-angular-6-yes-please-d71b08b5e59b
-https://stackoverflow.com/questions/43931986/how-to-upgrade-angular-cli-to-the-latest-version
-
-https://medium.com/@timdeschryver/ng-update-the-setup-2d2c54d05a0e (update libs)
-
-http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html
-http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
-http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
-
-Install
+### AUTO UPDATE
+```
 sudo npm install -g npm-check-updates
-
-Usage
 rmdir /s/q node_modules
 ncu for display
 ncu -u for re-writing your package.json
 ncu -a for upgrade all
+```
 
-npm install
-
-BUILD PROD
-http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
+### BUILD PROD
+- http://stackoverflow.com/questions/37631098/how-to-bundle-and-angular-2-app-for-production
+```
 ng build --prod	 
 ng build --prod --aot
 ng build --prod --aot --bh /enterprise/webapp/ --build-optimizer		OK
 ng build --prod --aot --base-href '/enterprise/'
 ng build --target=production --base-href '/enterprise/'
+```
 
+### 
 - Add lib:
 - ajouter un fichier css ou lib js : 
 - installer via npm --save 
@@ -120,19 +125,19 @@ ng build --target=production --base-href '/enterprise/'
 
 ## HTTP POST PARAMS
 
-https://forum.ionicframework.com/t/http-post-not-sending-data/47452/6 
-http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-with-parameters-to-php/ 
-https://auth0.com/blog/angular-2-series-part-3-using-http/ 
-https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/ 
+- https://forum.ionicframework.com/t/http-post-not-sending-data/47452/6 
+- http://michael.laffargue.fr/blog/2016/04/17/angularjs2-send-http-post-request-with-parameters-to-php/ 
+- https://auth0.com/blog/angular-2-series-part-3-using-http/ 
+- https://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/ 
  
 
 
 ## REACTIVE / RXJS
 
-http://rxmarbles.com/ 
-https://xgrommx.github.io/rx-book/index.html
-http://reactivex.io/rxjs/manual/overview.html
-https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains
+- http://rxmarbles.com/ 
+- https://xgrommx.github.io/rx-book/index.html
+- http://reactivex.io/rxjs/manual/overview.html
+- https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains
 
 Observable: represents the idea of an invokable collection of future values or events.
 Observer: is a collection of callbacks that knows how to listen to values delivered by the Observable.
@@ -150,7 +155,7 @@ HOT (event click)
 Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical).
 
 ### OBSERVABLE
-http://reactivex.io/rxjs/manual/overview.html#observable
+- http://reactivex.io/rxjs/manual/overview.html#observable
 
 Observables are lazy Push collections of multiple values.
 a flux = (i.e: collection asynchrone dont les événements arrivent au cours du temps) 
@@ -165,12 +170,12 @@ Pull	| Passive: produces data when requested.	| Active: decides when data is req
 Push	| Active: produces data at its own pace.	| Passive: reacts to received data.
 
 ### OBSERVER 
-http://reactivex.io/rxjs/manual/overview.html#observer
+- http://reactivex.io/rxjs/manual/overview.html#observer
 
 An Observer is a consumer of values delivered by an Observable. (i.e : a listener)
 
 ### SUBSCRIPTION
-http://reactivex.io/rxjs/manual/overview.html#subscription
+- http://reactivex.io/rxjs/manual/overview.html#subscription
 
 A Subscription is an object that represents a disposable resource,
 var observable = Rx.Observable.interval(1000);
@@ -178,7 +183,7 @@ var subscription = observable.subscribe(x => console.log(x));
 subscription.unsubscribe();
 
 ### SUBJECT
-http://reactivex.io/rxjs/manual/overview.html#subject
+- http://reactivex.io/rxjs/manual/overview.html#subject
 
 Subject: Multicasted observable
 BehaviorSubject: whenever a new Observer subscribe it will immediatly receive the current value
@@ -251,7 +256,7 @@ catchError: allows to catch and replace (with empty) or to re-throw (with throwE
 
 ### MORE OPERATORS
 
-http://reactivex.io/rxjs/manual/overview.html#operators
+- http://reactivex.io/rxjs/manual/overview.html#operators
 
 ## REDUX / NGRX
 
@@ -406,7 +411,7 @@ export class App implements OnInit, AfterViewInit, AfterContentInit {
 
  ## ANGULAR DOM
 
-https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
+- https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
 
 private _renderer2:Renderer2
 
@@ -417,22 +422,22 @@ avoidAngularBugs(){
  
 ## ANGULAR TESTING 
  
-https://angular.io/guide/testing
-http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/
-http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-2/
-https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/
-https://stackoverflow.com/questions/40126729/angular-2-testing-async-function-call-when-to-use
-https://stackoverflow.com/questions/40432734/angular-2-jasmine-error-please-call-testbed-compilecomponents-before-your
+- https://angular.io/guide/testing
+- http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/
+- http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-2/
+- https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/
+- https://stackoverflow.com/questions/40126729/angular-2-testing-async-function-call-when-to-use
+- https://stackoverflow.com/questions/40432734/angular-2-jasmine-error-please-call-testbed-compilecomponents-before-your
 
 ### TESTING FACTORIZE/IMPORTS
 
-https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files
+- https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files
 
 
 ### TESTING TRANSLATE
 
-https://github.com/ngx-translate/core/issues/636
-https://github.com/ngx-translate/example/blob/master/src/app/app.component.spec.ts
+- https://github.com/ngx-translate/core/issues/636
+- https://github.com/ngx-translate/example/blob/master/src/app/app.component.spec.ts
 
 ### TESTINT EXAMPLE
 
