@@ -8,11 +8,6 @@
   - [ANGULAR BEST PRACTICE](#angular-best-practice)
   - [HACK ONLINE IDE / STARTER / FAST CODING](#hack-online-ide--starter--fast-coding)
   - [ANGULAR LIST / LINKS / AWESOME](#angular-list--links--awesome)
-  - [ANGULAR8](#angular8)
-  - [ANGULAR7](#angular7)
-  - [ANGULAR6](#angular6)
-  - [ANGULAR5](#angular5)
-  - [ANGULAR4](#angular4)
   - [ANGULAR PROXY](#angular-proxy)
   - [ANGULAR PWA](#angular-pwa)
   - [ANGULAR SEO](#angular-seo)
@@ -96,8 +91,12 @@
   - [ANGULAR PAYMENT](#angular-payment)
   - [ANGULAR COMMUNITY / BLOG](#angular-community--blog)
   - [ANGULAR OTHERS ARTICLES](#angular-others-articles)
-  - [ANGULAR 2017](#angular-2017)
-  - [OTHERS](#others)
+  - [VERSION](#version)
+    - [ANGULAR8](#angular8)
+    - [ANGULAR7](#angular7)
+    - [ANGULAR6](#angular6)
+    - [ANGULAR5](#angular5)
+    - [ANGULAR4](#angular4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -151,45 +150,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/PatrickJS/awesome-angular
 - https://github.com/typebytes/angular-checklist
 - https://web.dev/angular
-
-## ANGULAR8
-- https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
-- https://docs.google.com/presentation/d/1HV7BcYBx8KIN0uUd2Aq7hAI8VG1Fj7h7bT1HCeDqVHg/edit
-
-## ANGULAR7
-- https://blog.angularindepth.com/new-in-angular-v7-1-updates-to-the-router-fd67d526ad05
-- https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
-- https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c
-
-## ANGULAR6
-- https://loiane.com/2018/05/upgrading-to-angular-v6/
-- https://formationjavascript.com/mettre-a-jour-vers-angular-6/
-- https://blog.ninja-squad.com/2018/05/04/what-is-new-angular-6/
-- https://dzone.com/articles/whats-new-in-angular-6
-- https://www.telerik.com/blogs/whats-new-in-angular-6
-- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
-- https://blog.angular.io/run-angular-cli-repos-directly-in-your-browser-41332fd80901
-
-## ANGULAR5
-- https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
-- https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129
-- https://malcoded.com/posts/angular-top-2017
-- https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e
-- https://angular-update-guide.firebaseapp.com/
-- https://auth0.com/blog/whats-new-in-angular5
-- https://alligator.io/angular/angular-5/
-- https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced
-- https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
-- https://netbasal.com/boosting-performance-with-the-new-updateon-option-in-angular-v5-18857279ace2 <<<<<<<<<<<<<<<<<<<<<
-- https://hackernoon.com/what-to-expect-for-in-angular-v5-6e0fc9c4b13e
-- https://www.onlineinterviewquestions.com/installing-configuring-angular-5-project/
-- https://jaxenter.com/road-to-angular-5-133253.html
-
-## ANGULAR4
-- https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#injectiontoken-since-angular-4x
-- http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes/
-- https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
-
 
 ## ANGULAR PROXY
 - https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md
@@ -1116,13 +1076,45 @@ https://xlayers.app/#/home
 - http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/  
 - http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html  
 - http://www.bennadel.com/blog/3044-creating-a-run-block-in-angularjs-2-beta-8.htm  
-- https://www.ag-grid.com/understanding-packaging-for-javascript-typescript-commonjs-and-everything-else/  
+- https://www.ag-grid.com/understanding-packaging-for-javascript-typescript-commonjs-and-everything-else/
 - http://juristr.com/blog/  
 
+## VERSION
 
-## ANGULAR 2017
-- https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.ho5mvslad
+### ANGULAR8
+- https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
+- https://docs.google.com/presentation/d/1HV7BcYBx8KIN0uUd2Aq7hAI8VG1Fj7h7bT1HCeDqVHg/edit
 
-## OTHERS
-- http://electron.atom.io/  
-- http://nwjs.io/  
+### ANGULAR7
+- https://blog.angularindepth.com/new-in-angular-v7-1-updates-to-the-router-fd67d526ad05
+- https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
+- https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c
+
+### ANGULAR6
+- https://loiane.com/2018/05/upgrading-to-angular-v6/
+- https://formationjavascript.com/mettre-a-jour-vers-angular-6/
+- https://blog.ninja-squad.com/2018/05/04/what-is-new-angular-6/
+- https://dzone.com/articles/whats-new-in-angular-6
+- https://www.telerik.com/blogs/whats-new-in-angular-6
+- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
+- https://blog.angular.io/run-angular-cli-repos-directly-in-your-browser-41332fd80901
+
+### ANGULAR5
+- https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
+- https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129
+- https://malcoded.com/posts/angular-top-2017
+- https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e
+- https://angular-update-guide.firebaseapp.com/
+- https://auth0.com/blog/whats-new-in-angular5
+- https://alligator.io/angular/angular-5/
+- https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced
+- https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
+- https://netbasal.com/boosting-performance-with-the-new-updateon-option-in-angular-v5-18857279ace2
+- https://hackernoon.com/what-to-expect-for-in-angular-v5-6e0fc9c4b13e
+- https://www.onlineinterviewquestions.com/installing-configuring-angular-5-project/
+- https://jaxenter.com/road-to-angular-5-133253.html
+
+### ANGULAR4
+- https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#injectiontoken-since-angular-4x
+- http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes/
+- https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
