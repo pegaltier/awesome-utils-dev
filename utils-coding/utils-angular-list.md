@@ -193,7 +193,10 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## ANGULAR CHROME PLUGINS
 - https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 - https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
+- https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi 
 - https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
+- https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg 
+
 
 ## ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN
 - https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
@@ -257,7 +260,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## ANGULAR DEBUG
 - https://code.visualstudio.com/docs/nodejs/angular-tutorial debug with vscode and chrome
 - https://scotch.io/tutorials/debugging-angular-cli-applications-in-visual-studio-code
-
+- https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 - https://www.sitepoint.com/angular-augury-debug-code/
 - https://medium.com/nextfaze/devmod-probing-your-angular-application-for-fun-and-debugging-d7e07c688247
 - https://hackernoon.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
@@ -269,7 +272,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://scotch.io/tutorials/debugging-angular-2-apps-with-augury
 - http://juristr.com/blog/2016/02/debugging-angular2-console  
 - https://manuel-rauber.com/2016/09/30/how-to-debug-angular-2-with-webstorm/
-
+- https://medium.com/better-programming/expressionchangedafterithasbeencheckederror-in-angular-what-why-and-how-to-fix-it-c6bdc0b22787
+- 
 ## ANGULAR DOC UTILS CHEAT-SHEETS
 - https://codeburst.io/angular-bad-practices-eab0e594ce92
 - http://angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html  

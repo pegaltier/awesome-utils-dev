@@ -30,12 +30,6 @@
   - [TESTINT EXAMPLE](#testint-example)
 - [INTERVIEW](#interview)
 
-intellij racourci : https://github.com/MrZaYaC/ng2-webstorm-snippets 
-
-chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg 
-chrome : https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn 
-CHROME CORS PLUGIN OU http://crossorigin.me/ : Allow-Control-Allow-Origin: * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi 
-CHROME POSTMAN PLUGIN 
 
 ## SUMMARY
 {{}} pour l’interpolation,  
