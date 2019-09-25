@@ -628,6 +628,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/storeon/angular
 - https://github.com/datorama/akita
 - https://github.com/zerobias/effector
+- https://github.com/cerebral/overmind
 - https://github.com/maktarsis/routeshub
 - https://github.com/angular-extensions/model
 - http://www.getbreezenow.com/
@@ -791,6 +792,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/youdz/dry-angular-testing
 - https://stackblitz.com/edit/angular-testing-v7
 - https://github.com/juristr/angular-testing-recipes
+- https://github.com/wallabyjs/public
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/testing-library/angular-testing-library

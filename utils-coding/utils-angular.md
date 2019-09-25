@@ -1,5 +1,5 @@
 
-- [SUMMARY](#summary)
+- [TEMPLATES](#templates)
 - [CLI](#cli)
 - [UPGRADE](#upgrade)
   - [CLEAN NODE_MODULES](#clean-nodemodules)
@@ -37,7 +37,7 @@
 - [INTERVIEW](#interview)
 
 
-## SUMMARY
+## TEMPLATES
 - {{}} pour l’interpolation,  
 - [] pour le binding de propriété (entrée) 
 - () pour le binding d’événement (sortie) 
