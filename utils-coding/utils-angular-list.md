@@ -874,10 +874,12 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## ANGULAR LIB FORM
 - https://github.com/formql/formql
+- https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
 
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
+- https://github.com/JsDaddy/ngx-mask
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/Gbuomprisco/ngx-chips
