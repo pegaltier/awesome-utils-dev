@@ -9,11 +9,14 @@
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
 
-## LIB/FRAMEWORK FRONTEND
-- https://github.com/Tencent/omi
+## LIB FRONTEND
+- https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
 - https://www.npmjs.com/package/livr
+
+## FRAMEWORK FRONTEND
+- https://github.com/Tencent/omi
 - https://electronjs.org/
 - https://nwjs.io/  
 

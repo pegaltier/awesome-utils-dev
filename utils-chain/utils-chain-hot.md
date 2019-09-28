@@ -91,6 +91,7 @@ holo github>>
 - https://github.com/zaunders/Mailboox-Rust
 - https://github.com/zo-el/rwot9-prague
 - https://github.com/Hylozoic/hylo-holo-dnas
+- https://github.com/zaunders/holopass
 
 ## UNOFFICIAL SITES
 - https://www.buyholo.net/

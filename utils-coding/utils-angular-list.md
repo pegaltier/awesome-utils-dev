@@ -427,6 +427,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://angular-extensions.github.io/elements/#/examples/advanced
 - https://github.com/aelbore/ngx-elements
 - https://github.com/aelbore/ngx-elements-demo
+- https://github.com/ng-packagr/ng-packagr
 - https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
 - https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 - https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
