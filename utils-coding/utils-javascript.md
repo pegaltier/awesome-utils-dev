@@ -23,7 +23,8 @@
 ## LIB/FRAMEWORK BACKEND
 - https://nestjs.com/
 - https://github.com/typeorm/typeorm
-
+- https://github.com/strapi/strapi
+- 
 ## LIB/FRAMEWORK DATABASE
 - https://github.com/pubkey/rxdb
 

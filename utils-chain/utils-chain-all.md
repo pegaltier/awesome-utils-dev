@@ -2,11 +2,13 @@
 - https://hive.one
 - https://cryptoinfluencers.io
 - https://cia.cryptoinfluence.io
-Andreas Antonopoulos
-Anthony Diiorio
-Charles Hoskinson
-Balaji S. Srinivasan
-Gary Basin
+
+## PEOPLE LIST
+- Andreas Antonopoulos
+- Anthony Diiorio
+- Charles Hoskinson
+- Balaji S. Srinivasan
+- Gary Basin
 
 ## TOP TOOLS
 - https://solume.io
@@ -56,7 +58,7 @@ Gary Basin
 - https://uniswap.io/
 - https://bepswap.com/
 
-## TRADING / PORTFOLIO / 
+## TRADING / PORTFOLIO
 - https://kryll.io/
 - https://tradingview.com
 - https://cryptosheets.com/
@@ -155,7 +157,7 @@ weissratings
 - https://www.blockchain.com
 
 ## SOFTWARE WALLET
-- https://jaxx.io (jaxx liberty july)
+- https://jaxx.io
 - https://www.ethos.io
 - https://www.exodus.io
 - https://www.exodus.io/eden/
@@ -418,7 +420,7 @@ PANTOS — - https://pantos.io
 - http://bitgigs.com
 - https://www.stormx.io
 - https://coinality.com
-- https://fundrequest.io (dev)
+- https://fundrequest.io
 
 ## FORUM
 - https://cryptofr.com
