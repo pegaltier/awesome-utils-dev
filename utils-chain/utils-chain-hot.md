@@ -51,6 +51,7 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 ## GITHUB HAPPS
 
 holo list>>
+- https://github.com/zaunders/apps
 - https://github.com/f13end/Holochain-Projects
 
 holo github>>
@@ -65,14 +66,15 @@ holo github>>
 - https://github.com/Hylozoic/hylo-holo-dnas
 - https://github.com/vanarchist/holochain-point-of-interest
 - https://github.com/vanarchist/holochain-mutual-credit-clearing
-- https://github.com/pythagorean/coolcats2 << fully functionnal
-- https://github.com/holochain/holochain-basic-chat << easy demo to get started
-- https://github.com/holochain/file-storage-zome << store files
-- https://github.com/holochain/dev-camp-tests-rust << test oriented  to get started
+- https://github.com/pythagorean/coolcats2
+- https://github.com/holochain/peer-chat
+- https://github.com/holochain/file-storage-zome
+- https://github.com/holochain/dev-camp-tests-rust
 - https://github.com/holochain-devcamp/generic-game
+- https://github.com/holochain-devcamp/holochain-games-ui
 - https://github.com/petersgrandadventure/dev-camp-playground/tree/idea-machine
-- https://github.com/willemolding/holochain_graphql_starter_kit <<< use graphql
-- https://github.com/willemolding/holochain-collections << collections
+- https://github.com/willemolding/holochain_graphql_starter_kit
+- https://github.com/willemolding/holochain-collections
 - https://github.com/willemolding/holochain-rust-todo
 - https://github.com/willemolding/generic-game-holochain
 - https://github.com/RyanHow/file-storage-zome
@@ -88,11 +90,12 @@ holo github>>
 - https://github.com/orionprotocol/orion-holochain
 - https://github.com/orionprotocol
 - https://github.com/SetMatchGames
-- https://github.com/zaunders/Mailboox-Rust
 - https://github.com/zo-el/rwot9-prague
 - https://github.com/Hylozoic/hylo-holo-dnas
 - https://github.com/zaunders/holopass
-
+- https://github.com/zaunders/Mailboox-Rust
+- https://github.com/zaunders/DinnerCarousel
+- 
 ## UNOFFICIAL SITES
 - https://www.buyholo.net/
 - https://holochaincitizen.com/
