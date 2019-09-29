@@ -515,6 +515,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## ANGULAR OBSERVABLE/REACTIVE/RXJS
+- https://rxjs.tools/
 - https://www.learnrxjs.io/
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)

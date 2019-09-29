@@ -9,13 +9,21 @@ https://medium.com/tron-foundation
 https://tronscan.org/
 
 ## WALLETS
+https://www.tronlink.org/
 https://tron.watch/
 
 ## DAPPS
 https://trondapp.org/
+
+## DEX
+https://trontrade.io/
 
 ## SOCIAL
 https://tronsr.org/
 
 ## OTHERS
 https://sesameseed.org
+
+## STAKING
+https://www.wink.org/
+https://tron.cryptovegas.net/

@@ -48,15 +48,6 @@
 - https://sanbase-low.santiment.net/projects
 - https://coingolive.com/en/coin/change-history
 
-## DIVIDENDS / INTERESTS / SWAP
-- https://staked.us/
-- https://blockfi.com/
-- https://defipulse.com/
-- https://stakingrewards.com/
-- https://app.compound.finance/
-- https://earncryptointerest.com/
-- https://uniswap.io/
-- https://bepswap.com/
 
 ## TRADING / PORTFOLIO
 - https://kryll.io/
@@ -220,6 +211,7 @@ weissratings
 ## LENDING
 - https://dharma.io
 - https://ethlend.io
+- https://loanscan.io
 - https://lendroid.com
 - https://celsius.network
 - https://dai.makerdao.com
@@ -228,6 +220,17 @@ weissratings
 - https://ripiocredit.network
 - https://www.unchained-capital.com
 - https://blog.coinfabrik.com/cryptocurrency-backed-lending-platforms/
+
+## DIVIDENDS / INTERESTS / SWAP
+- https://staked.us/
+- https://blockfi.com/
+- https://defipulse.com/
+- https://stakingrewards.com/
+- https://cryptodividend.io/
+- https://app.compound.finance/
+- https://earncryptointerest.com/
+- https://uniswap.io/
+- https://bepswap.com/
 
 # PRIVACY
 - https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJpn7g/edit#gid=237137882
@@ -267,6 +270,7 @@ weissratings
 - https://www.kucoin.com
 - https://cobinhood.com
 - https://www.cryptopia.co.nz
+- https://zebitex.com
 
 ## INITIAL COIN OFFERING (ICO)
 - https://www.youtube.com/watch?v=AHDCzPtSzpM
