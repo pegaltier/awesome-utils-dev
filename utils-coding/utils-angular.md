@@ -44,6 +44,8 @@
 - '#' pour la déclaration de variable 
 - '*' pour les directives structurelles (for/if...)
 
+- https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
+
 ## CLI 
 
 ```

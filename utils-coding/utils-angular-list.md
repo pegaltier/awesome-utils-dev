@@ -72,14 +72,16 @@
   - [ANGULAR UNIT TESTS TESTING](#angular-unit-tests-testing)
   - [ANGULAR E2E TESTS](#angular-e2e-tests)
   - [ANGULAR MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS](#angular-make-lib--distributing-library--libs--plugins)
-  - [ANGULAR UPLOAD](#angular-upload)
+  - [ANGULAR LIB UPLOAD](#angular-lib-upload)
   - [ANGULAR LIB MODAL](#angular-lib-modal)
   - [ANGULAR LIB PROGRESS / LOADING / LOADER / BAR](#angular-lib-progress--loading--loader--bar)
   - [ANGULAR LIB FORM](#angular-lib-form)
   - [ANGULAR LIB / REUSE / UTILS / GENERAL](#angular-lib--reuse--utils--general)
+  - [ANGULAR LIB CDK](#angular-lib-cdk)
   - [ANGULAR CSS LIB / THEME / STYLE / CSS](#angular-css-lib--theme--style--css)
   - [ANGULAR PLUG & PLAY:](#angular-plug--play)
   - [ANGULAR DEMO SOURCES / EXAMPLES](#angular-demo-sources--examples)
+  - [ANGULAR GAMES](#angular-games)
   - [ANGULAR DEMO APP / TUTORIAL / EXAMPLES](#angular-demo-app--tutorial--examples)
   - [ANGULAR MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS](#angular-mobile--native--hybride--crossplatform--cross)
   - [ANGULAR SOCKETS](#angular-sockets)
@@ -92,6 +94,7 @@
   - [ANGULAR COMMUNITY / BLOG](#angular-community--blog)
   - [ANGULAR OTHERS ARTICLES](#angular-others-articles)
   - [VERSION](#version)
+    - [ANGULAR9](#angular9)
     - [ANGULAR8](#angular8)
     - [ANGULAR7](#angular7)
     - [ANGULAR6](#angular6)
@@ -103,7 +106,7 @@
 # ANGULAR LIST
 
 ##  XP / NEW PROJECT / QUESTIONS
-- Official I18N or ngx-translate?
+- Official I18N/transloco or ngx-translate?
 - Nx project or default cli ?
 - 
 
@@ -137,6 +140,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://theinfogrid.com/tech/developers/angular/angular-development-tips/
 - https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
 - https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
+- https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 
 ## HACK ONLINE IDE / STARTER / FAST CODING
 - https://stackblitz.com
@@ -378,9 +382,12 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.youtube.com/watch?v=piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
+- https://github.com/lerna/lerna
 - https://github.com/Bielik20/nx-mean-starter
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://nstudio.io/xplat
+- https://blog.angularindepth.com/release-management-in-angular-with-lerna-21b4ab417c59
+- https://dev.to/angular/sustainable-angular-architectures-with-tactical-ddd-and-monorepos-c61
 - https://speakerdeck.com/manfredsteyer/architectures-for-huge-angular-based-enterprise-applications-at-it-tage-2018-in-frankfurt-c6896923-cb10-406d-aec5-cd696c6133c6?slide=1
 - https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
 - https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
@@ -488,7 +495,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## ANGULAR TEMPLATE
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
-
+- https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
+- 
 ## ANGULAR PLATFORM
 - https://github.com/Tibing/platform-terminal
 
@@ -781,6 +789,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## ANGULAR ERROR HANDLER / ERROR HANDLING / EXCEPTION
+- https://github.com/melcor76/global-error-handling
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 - https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
@@ -808,7 +817,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://medium.com/@nishu0505/crud-with-angular-5d8f39805c49
 - https://blog.angularindepth.com/angular-unit-testing-viewchild-4525e0c7b756
 - https://medium.com/@abdul_74410/towards-better-testing-in-angular-part-1-mocking-child-components-b51e1fd571da
-- https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129
 - https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files
 - https://christianlydemann.com/complete-guide-to-angular-testing/
@@ -857,7 +865,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
 
 
-## ANGULAR UPLOAD
+## ANGULAR LIB UPLOAD
 - https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 - https://github.com/ribizli/ng2-imageupload  
 - https://github.com/jkuri/ng2-uploader  
@@ -892,6 +900,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/damienbod/angular-auth-oidc-client
 - https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/ngx-translate/core
+- https://github.com/ngneat/transloco/
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/Asymmetrik/ngx-leaflet
@@ -943,6 +952,10 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
 - http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
 
+## ANGULAR LIB CDK
+- https://alligator.io/angular/infinite-scroll
+
+
 ## ANGULAR CSS LIB / THEME / STYLE / CSS
 - https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 - https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2#.bwypv3is1
@@ -981,6 +994,11 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/htmlxprs/angular2-todo  
 - https://github.com/hswolff/hn-ng2  
 - http://angular2.com/  
+
+## ANGULAR GAMES
+- https://github.com/melcor76/ng-tetris
+- https://blog.angularindepth.com/how-to-get-started-with-canvas-animations-in-angular-2f797257e5b4 
+- https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7
 
 ## ANGULAR DEMO APP / TUTORIAL / EXAMPLES
 - https://netbasal.com/build-an-infinite-scroll-component-in-angular-a9c16907a94d
@@ -1092,6 +1110,10 @@ https://xlayers.app/#/home
 - http://juristr.com/blog/  
 
 ## VERSION
+
+### ANGULAR9
+- https://github.com/eliraneliassy/bye-bye-ngmodules
+- https://speakerdeck.com/eliraneliassy/everything-you-need-to-know-about-angular-ivy
 
 ### ANGULAR8
 - https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/
