@@ -124,6 +124,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
+- https://dev.to/gc_psk/the-principles-for-writing-awesome-angular-components-2ofi
 - https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5
 - https://medium.com/free-code-camp/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f
 - https://code-maze.com/angular-best-practices/
@@ -671,9 +672,12 @@ https://github.com/sithelo/hlc-web
 - https://houssein.me/angular2-with-immutablejs-and-redux *
 - https://github.com/immutable-js/immutable-js
 - https://github.com/rtfeldman/seamless-immutable
+- https://github.com/immerjs/immer
+- https://github.com/microsoft/TypeScript/issues/13923
 - https://medium.com/@bamieh/immutablejs-records-bd369137da06
 - https://medium.com/@ezequiel/immutability-and-builders-with-typescript-b69a51c94e8c
-- https://github.com/microsoft/TypeScript/issues/13923
+- https://leocode.com/blog/you-may-not-need-immutable-js/
+- https://juejin.im/post/5d7c9e54e51d4561cb5ddf46
 - https://vsavkin.com/immutability-vs-encapsulation-90549ab74487
 - https://blog.scottlogic.com/2016/01/05/angular2-with-immutablejs.html
 - https://blog.mayflower.de/6630-typescript-redux-immutablejs.html
