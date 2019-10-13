@@ -157,11 +157,11 @@ Schedulers: are centralized dispatchers to control concurrency, allowing us to c
 
 ### HOT VS COLD
 
-COLD (i.e http obserable)
-Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. 
+COLD (i.e http obserable) ==> when your observable creates the producer
+Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. Well another definition: An Observable is cold when data is produced inside the Observable. 
 
-HOT (event click)
-Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical).
+HOT (event click) ==> when your observable closes over the producer
+Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical). Well another definition: Observable is hot when the data is produced outside the Observable.
 
 ### OBSERVABLE
 

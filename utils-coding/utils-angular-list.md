@@ -631,6 +631,15 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 - http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
 
+## ANGULAR NGRX/DATA EXAMPLE
+https://github.com/ngrx/platform/network/dependents?package_id=UGFja2FnZS00NjAxODgyMTE%3D
+https://github.com/jannesrsa/ng-bootstrap-training
+https://github.com/victorbandeira182/CrudReduxV8
+https://github.com/manfredsteyer/ngrx-data-sample
+https://github.com/fpl1976/ngrx-data
+https://github.com/ershad1/ngrx-data
+https://github.com/sithelo/hlc-web
+
 ## ANGULAR REDUX PATTERN / STORE / STATE MANAGEMENT / NGRX ALTERNATIVE
 - https://github.com/ngxs/store
 - https://github.com/ngxs-labs/emitter
@@ -640,6 +649,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/zerobias/effector
 - https://github.com/cerebral/overmind
 - https://github.com/maktarsis/routeshub
+- https://github.com/danwahlin/observable-store
 - https://github.com/angular-extensions/model
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b
@@ -657,9 +667,20 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 
 ## ANGULAR IMMUTABLE / IMMUTABILITY VS ENCAPSULATION
-- https://vsavkin.com/immutability-vs-encapsulation-90549ab74487?gi=10734934a81c#.4rctf4y44
+- https://www.imkrish.com/immutable-object-array-using-typescript/ *
+- https://houssein.me/angular2-with-immutablejs-and-redux *
+- https://github.com/immutable-js/immutable-js
+- https://github.com/rtfeldman/seamless-immutable
+- https://medium.com/@bamieh/immutablejs-records-bd369137da06
+- https://medium.com/@ezequiel/immutability-and-builders-with-typescript-b69a51c94e8c
+- https://github.com/microsoft/TypeScript/issues/13923
+- https://vsavkin.com/immutability-vs-encapsulation-90549ab74487
+- https://blog.scottlogic.com/2016/01/05/angular2-with-immutablejs.html
+- https://blog.mayflower.de/6630-typescript-redux-immutablejs.html
+- https://angular-2-training-book.rangle.io/immutable/immutable-js/official_documentation
 
 ## ANGULAR CHANGE DETECTION NGZONE ZONE
+- https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4
 - https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
 - http://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1
 - https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
@@ -807,6 +828,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/testing-library/angular-testing-library
+- https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
 - https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://medium.com/@pattferraggi/how-i-found-a-problem-with-angular-unit-testing-and-decided-to-fix-it-myself-7c00b58d57a7
@@ -888,8 +910,10 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/Ninja-Squad/ngx-valdemort
 
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
+- https://github.com/Zak-C/ngx-loading
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ng-bootstrap/ng-bootstrap
+- https://github.com/dbfannin/ngx-logger
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/Gbuomprisco/ngx-chips
 - https://github.com/orizens/ngx-infinite-scroll

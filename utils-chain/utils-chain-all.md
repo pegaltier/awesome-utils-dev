@@ -208,7 +208,11 @@ weissratings
 - https://compound.finance
 - https://marketprotocol.io
 
-## LENDING
+## DEFI / DIVIDENDS / INTERESTS / LENDING
+- https://staked.us/
+- https://blockfi.com/
+- https://defiprime.com/
+- https://defipulse.com/
 - https://dharma.io
 - https://ethlend.io
 - https://loanscan.io
@@ -218,17 +222,14 @@ weissratings
 - https://compound.finance
 - http://www.saltlending.com
 - https://ripiocredit.network
-- https://www.unchained-capital.com
-- https://blog.coinfabrik.com/cryptocurrency-backed-lending-platforms/
-
-## DIVIDENDS / INTERESTS / SWAP
-- https://staked.us/
-- https://blockfi.com/
-- https://defipulse.com/
 - https://stakingrewards.com/
 - https://cryptodividend.io/
 - https://app.compound.finance/
 - https://earncryptointerest.com/
+- https://www.unchained-capital.com
+- https://blog.coinfabrik.com/cryptocurrency-backed-lending-platforms/
+
+## SWAP
 - https://uniswap.io/
 - https://bepswap.com/
 
