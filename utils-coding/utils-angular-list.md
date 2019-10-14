@@ -34,12 +34,12 @@
   - [ANGULAR CONFIGURATION / ENV](#angular-configuration--env)
   - [ANGULAR BUILD / PRODUCTION / BUNDLE](#angular-build--production--bundle)
   - [ANGULAR CUSTOM BUILD / CUSTOM WEBPACK](#angular-custom-build--custom-webpack)
+  - [ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS / MICROFRONT ](#angular-elements--web-components--custom-elements--microfront)
   - [ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE](#anuglar-scalable--large-organization--big-apps-repo--monorepo--shared-codebase)
   - [ANGULAR RENDERING CIENT / DOM](#angular-rendering-cient--dom)
   - [ANGULAR ANIMATION](#angular-animation)
   - [ANGULAR COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN / MENU / LOADING](#angular-components--transclusion--modal--dropdown--menu--loading)
   - [ANGULAR HTTPCLIENT HTTPREQUEST](#angular-httpclient-httprequest)
-  - [ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS](#angular-elements--web-components--custom-elements)
   - [ANGULAR NG MODULES NGMODULE](#angular-ng-modules-ngmodule)
   - [ANGULAR AUTHENTIFICATION/LOGIN/](#angular-authentificationlogin)
   - [ANGULAR REACTIVE FORMS / DYNAMIC FORMS](#angular-reactive-forms--dynamic-forms)
@@ -379,14 +379,32 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 - https://webpack.js.org/plugins/context-replacement-plugin/
 
+## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS / MICROFRONT
+- https://github.com/ng-packagr/ng-packagr
+- https://github.com/aelbore/ngx-elements
+- https://github.com/aelbore/ngx-elements-demo
+- https://github.com/angular-extensions/elements
+- https://angular-extensions.github.io/elements/#/examples/advanced
+
+- https://martinfowler.com/articles/micro-frontends.html
+- https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
+- https://micro-frontends.org/
+
+- https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
+- https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
+- https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
+- https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
+
 ## ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
 - https://www.youtube.com/watch?v=piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
 - https://github.com/lerna/lerna
+- https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://nstudio.io/xplat
+- https://medium.com/@hoangbkit/why-monorepo-in-2018-89221acd4bfb
 - https://blog.angularindepth.com/release-management-in-angular-with-lerna-21b4ab417c59
 - https://dev.to/angular/sustainable-angular-architectures-with-tactical-ddd-and-monorepos-c61
 - https://speakerdeck.com/manfredsteyer/architectures-for-huge-angular-based-enterprise-applications-at-it-tage-2018-in-frankfurt-c6896923-cb10-406d-aec5-cd696c6133c6?slide=1
@@ -429,17 +447,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## ANGULAR HTTPCLIENT HTTPREQUEST
 - http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
-
-## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS
-- https://github.com/angular-extensions/elements
-- https://angular-extensions.github.io/elements/#/examples/advanced
-- https://github.com/aelbore/ngx-elements
-- https://github.com/aelbore/ngx-elements-demo
-- https://github.com/ng-packagr/ng-packagr
-- https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
-- https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
-- https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
-- https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 
 ## ANGULAR NG MODULES NGMODULE
 - http://blog.angular-university.io/angular2-ngmodule/
@@ -591,7 +598,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 ## ANGULAR FIREBASE BACKEND
 - https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-ci-598181cfc6e5
 
-
 ## ANGULAR STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
 - https://github.com/ngrx/platform
 - https://github.com/ngrx/platform/tree/master/example-app
@@ -612,6 +618,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://www.youtube.com/watch?v=1hlXlsaMeTs (simple login/logout)
 - https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
 - https://medium.com/@gregor.woiwode/ngrx-ducks-dynamic-facades-improving-coding-experience-3bf5f832f21c
+- https://devchat.tv/adv-in-angular/aia-260-ngrx-the-mystical-machine-with-wes-grimes/
 
 - https://www.logisticinfotech.com/blog/easiest-demo-to-learn-ngrx-in-angular-6
 - http://brianhudi.org/2017/11/15/adding-ngrx-to-existing-projects-is-easy
@@ -652,6 +659,7 @@ https://github.com/sithelo/hlc-web
 - https://github.com/maktarsis/routeshub
 - https://github.com/danwahlin/observable-store
 - https://github.com/angular-extensions/model
+- https://stackblitz.com/edit/rxjs-arjn1h
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b
 - https://codeburst.io/effector-state-manager-6ee2e72e8e0b
