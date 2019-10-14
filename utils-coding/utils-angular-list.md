@@ -407,6 +407,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/@hoangbkit/why-monorepo-in-2018-89221acd4bfb
 - https://blog.angularindepth.com/release-management-in-angular-with-lerna-21b4ab417c59
 - https://dev.to/angular/sustainable-angular-architectures-with-tactical-ddd-and-monorepos-c61
+- https://www.softwarearchitekt.at/konferenzen/angular-react-vue-and-co-peacefully-united-thanks-to-web-components-and-microfrontends/
 - https://speakerdeck.com/manfredsteyer/architectures-for-huge-angular-based-enterprise-applications-at-it-tage-2018-in-frankfurt-c6896923-cb10-406d-aec5-cd696c6133c6?slide=1
 - https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
 - https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
