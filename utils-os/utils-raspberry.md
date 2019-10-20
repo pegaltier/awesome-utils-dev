@@ -54,6 +54,15 @@ https://www.framboise314.fr/raspberry-pi-et-detecteur-de-presence-infra-rouge/
 https://www.framboise314.fr/scratch-raspberry-pi-composants/module-detecteur-de-presence-pir/  
 https://www.framboise314.fr/raspifouine-un-piege-a-fouine-a-base-de-raspberry-pi/
 https://stackoverflow.com/questions/31195774/a-trivial-presence-detector-with-raspberry-using-python
+https://www.astuces-pratiques.fr/electronique/le-transistor-2n2222-et-2n2222a
+https://openclassrooms.com/fr/courses/724810-lelectronique-de-zero/724808-le-transistor-en-regime-de-saturation
+http://espace-raspberry-francais.fr/Composants/Capteur-presence-HC-SR501-Raspberry-Francais/
+https://thepihut.com/blogs/raspberry-pi-tutorials/raspberry-pi-gpio-sensing-motion-detection
+https://maker.pro/raspberry-pi/tutorial/how-to-interface-a-pir-motion-sensor-with-raspberry-pi-gpio
+https://www.raspberrypi.org/forums/viewtopic.php?t=140327
+https://www.hackster.io/electropeak/pir-motion-sensor-how-to-use-pirs-w-arduino-raspberry-pi-18d7fa
+https://www.seeedstudio.com/blog/2019/08/03/pir-sensor-introduction-and-how-pir-motion-sensor-works-with-arduino-and-raspberry-pi/
+https://pimylifeup.com/raspberry-pi-motion-sensor/
 
 camera:
 https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/3 
@@ -71,3 +80,6 @@ https://www.raspberrypi.org/magpi/best-raspberry-pi-starter-kits/
 https://thepihut.com/products/raspberry-pi-breadboard-half-size
 https://thepihut.com/products/rpi-premium-jumper-wires-male-female?ref=isp_rel_prd&isp_ref_pos=1
 https://www.amazon.de/LUWANZ-Breadboard-elektronik-Stromversorgungsmodul-Jumperkabel/dp/B072V2FY7P/
+
+## Engine
+https://apprendre.youpilab.com/le-transistor-2n2222-avec-arduino/

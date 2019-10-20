@@ -18,7 +18,7 @@
 ## SLIM PHP LIST
 - https://github.com/xssc/awesome-slim
 
-## SLIM PHP SKELETON
+## SLIM PHP V3 SKELETON
 - https://github.com/adriansuter/Slim4-Skeleton
 - https://github.com/slimphp/Slim-Skeleton
 - https://github.com/odan/prisma
@@ -27,6 +27,11 @@
 - https://github.com/gothinkster/slim-php-realworld-example-app
 - https://github.com/railto/realworld-slim
 - https://aimeos.org/slim-ecommerce-package/
+
+## SLIM PHP V4 SKELETON
+- https://github.com/adriansuter/Slim4-Skeleton
+- https://github.com/slimphp/Slim-Skeleton
+- http://www.slimframework.com/docs/v4/objects/request.html#uploaded-files
 
 ## SLIM PHP TEST
 - https://medium.com/@Andela/writing-testable-api-apps-in-slim-framework-29905970941b
@@ -110,7 +115,29 @@ composer update (update dependecies & generate import class)
 - https://github.com/phan/phan
 - https://www.exakat.io
 
-## XAMPP INCLUDE html pages
+## XAMP VIRTUAL HOST
+
+- C:/xampp/apache/conf/extra
+- open and edit httpd-vhosts.conf
+
+```
+<VirtualHost *:80>
+ServerAdmin webmaster@localhost.com
+DocumentRoot "C:/xampp3/htdocs/projectfolder/public"
+ServerName myurl.test
+</VirtualHost>
+```
+
+- C:\Windows\System32\drivers\etc\hosts
+- Add the following line in the Host file.
+
+```
+127.0.0.1      myurl.test
+```
+
+More infos: https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/
+
+## XAMPP INCLUDE HTML PAGES
 ```
 c:/xampp/apache/conf/httpd.conf
 Search for:

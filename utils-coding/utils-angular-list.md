@@ -147,6 +147,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://stackblitz.com
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material?file=theme.scss
+- https://codesandbox.io/
 
 ## ANGULAR LIST / LINKS / AWESOME
 - https://github.com/swirlycheetah/awesome-angular2
@@ -501,7 +502,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://toddmotto.com/angular-ng-errors-form-validation
 - https://github.com/UltimateAngular/ngxerrors
 
-
 ## ANGULAR TEMPLATE
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
@@ -641,13 +641,13 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
 
 ## ANGULAR NGRX/DATA EXAMPLE
-https://github.com/ngrx/platform/network/dependents?package_id=UGFja2FnZS00NjAxODgyMTE%3D
-https://github.com/jannesrsa/ng-bootstrap-training
-https://github.com/victorbandeira182/CrudReduxV8
-https://github.com/manfredsteyer/ngrx-data-sample
-https://github.com/fpl1976/ngrx-data
-https://github.com/ershad1/ngrx-data
-https://github.com/sithelo/hlc-web
+- https://github.com/ngrx/platform/network/dependents?package_id=UGFja2FnZS00NjAxODgyMTE%3D
+- https://github.com/jannesrsa/ng-bootstrap-training
+- https://github.com/victorbandeira182/CrudReduxV8
+- https://github.com/manfredsteyer/ngrx-data-sample
+- https://github.com/fpl1976/ngrx-data
+- https://github.com/ershad1/ngrx-data
+- https://github.com/sithelo/hlc-web
 
 ## ANGULAR REDUX PATTERN / STORE / STATE MANAGEMENT / NGRX ALTERNATIVE
 - https://github.com/ngxs/store
@@ -683,6 +683,7 @@ https://github.com/sithelo/hlc-web
 - https://github.com/rtfeldman/seamless-immutable
 - https://github.com/immerjs/immer
 - https://github.com/microsoft/TypeScript/issues/13923
+- https://github.com/microsoft/TypeScript/issues/29566
 - https://medium.com/@bamieh/immutablejs-records-bd369137da06
 - https://medium.com/@ezequiel/immutability-and-builders-with-typescript-b69a51c94e8c
 - https://leocode.com/blog/you-may-not-need-immutable-js/
@@ -1151,6 +1152,7 @@ https://xlayers.app/#/home
 ### ANGULAR9
 - https://github.com/eliraneliassy/bye-bye-ngmodules
 - https://speakerdeck.com/eliraneliassy/everything-you-need-to-know-about-angular-ivy
+- https://github.com/MikeRyanDev/rethinking-reactivity-angularconnect2019
 
 ### ANGULAR8
 - https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/

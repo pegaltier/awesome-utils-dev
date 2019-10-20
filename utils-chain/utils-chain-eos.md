@@ -224,10 +224,13 @@ https://captainaltcoin.com/best-ways-to-earn-passive-income-with-eos/
 https://www.reddit.com/r/eos/comments/9l3i85/5_ways_to_earn_passive_income_with_eos/
 
 ## EOS STAKING
-https://trustdice.win/txt
 https://newdex.io/member
 https://eosbet.io/home
-https://dice.one/bank
+https://dice.one/bank/
+https://trustdice.win/txt
+https://paint.pixeos.art/#/
+https://bethash.io/page/dividend (no)
+https://sportbet.one/s/1/dividends
 
 ## EOS YOUTUBE
 https://www.theeoswriter.io/video/
