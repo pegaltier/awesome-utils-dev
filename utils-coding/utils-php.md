@@ -31,6 +31,7 @@
 ## SLIM PHP V4 SKELETON
 - https://github.com/adriansuter/Slim4-Skeleton
 - https://github.com/slimphp/Slim-Skeleton
+- https://github.com/semhoun/slim-skeleton-mvc
 - http://www.slimframework.com/docs/v4/objects/request.html#uploaded-files
 
 ## SLIM PHP TEST

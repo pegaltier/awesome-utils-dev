@@ -385,8 +385,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/aelbore/ngx-elements
 - https://github.com/aelbore/ngx-elements-demo
 - https://github.com/angular-extensions/elements
+- https://github.com/manfredsteyer/angular-microfrontend
 - https://angular-extensions.github.io/elements/#/examples/advanced
-
+- https://leanpub.com/enterprise-angular
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
 - https://micro-frontends.org/
@@ -400,7 +401,10 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.youtube.com/watch?v=piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
+- https://leanpub.com/enterprise-angular
 - https://github.com/lerna/lerna
+- https://github.com/manfredsteyer/strategic-design
+- https://github.com/manfredsteyer/angular-ddd
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
