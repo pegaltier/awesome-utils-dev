@@ -9,6 +9,9 @@ https://jsbin.com/?html,output
 https://github.com/orsinium/generated-awesomeness
 https://github.com/LeCoupa/awesome-cheatsheets
 
+## OPEN STANDARD
+https://openapi-generator.tech/docs/generators
+
 ## DISCOVER
 https://glitch.com/
 

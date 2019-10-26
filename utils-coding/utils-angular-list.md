@@ -408,6 +408,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
 - https://leanpub.com/enterprise-angular
+- https://leanpub.com/angular-architecture-the-unofficial-guide
 - https://github.com/lerna/lerna
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
@@ -548,6 +549,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 ## ANGULAR OBSERVABLE/REACTIVE/RXJS
 - https://rxjs.tools/
 - https://www.learnrxjs.io/
+- https://github.com/btroncone/learn-rxjs
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 - https://blog.angular-university.io/rxjs-higher-order-mapping/
@@ -621,6 +623,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload
+- https://github.com/btroncone/ngrx-store-logger
+- https://github.com/btroncone/ngrx-store-localstorage
 - https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
 - https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
 - https://medium.com/@andrew_evans/exception-handling-with-ngrx-effects-70ec942e6465
