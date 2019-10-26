@@ -411,15 +411,18 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/lerna/lerna
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
+- https://github.com/manfredsteyer/monorepo_domains
 - https://github.com/angularbuilders/angular-blueprint
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://nstudio.io/xplat
 - https://medium.com/@hoangbkit/why-monorepo-in-2018-89221acd4bfb
+- https://medium.com/invisible-reports/report-we-went-monorepo-c0aadd144fb
 - https://blog.strongbrew.io/opinionated-guidelines-for-large-nx-angular-projects/
 - https://blog.angularindepth.com/release-management-in-angular-with-lerna-21b4ab417c59
 - https://dev.to/angular/sustainable-angular-architectures-with-tactical-ddd-and-monorepos-c61
+- https://speakerdeck.com/manfredsteyer/sustainable-architectures-with-angular-monorepos-and-ddd-at-ijs-2019-in-munich
 - https://speakerdeck.com/manfredsteyer/architectures-for-huge-angular-based-enterprise-applications-at-it-tage-2018-in-frankfurt-c6896923-cb10-406d-aec5-cd696c6133c6?slide=1
 - https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
 - https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
@@ -624,6 +627,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39
 - https://medium.com/razroo/quick-dive-into-centralizing-your-data-in-angular-with-ngrx-router-store-ca4b177b0b10
 - https://medium.com/simars/ngrx-router-store-reduce-select-route-params-6baff607dd9
+- https://medium.com/capital-one-tech/multiple-entities-in-a-single-ngrx-8-state-ed5fd082c3f0
 - https://codeburst.io/state-management-in-angular-ee2ccb81c283
 - https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 - https://itnext.io/reactive-programming-in-angular-reactive-components-part-1-7291882e352c

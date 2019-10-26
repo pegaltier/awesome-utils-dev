@@ -9,6 +9,12 @@
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
 
+## TOOLS
+- https://github.com/webhintio/hint
+
+## LIB UTILS
+- https://github.com/date-fns/date-fns
+
 ## LIB FRONTEND
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
