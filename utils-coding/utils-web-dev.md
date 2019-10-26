@@ -281,6 +281,12 @@ modulr : https://decorator.io/modulr/
 webpack1: https://blog.madewithlove.be/post/webpack-your-bags/
 webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
+## WEBCOMPONENTS
+https://lit-element.polymer-project.org/
+https://skatejs.netlify.com/
+https://stenciljs.com/
+https://dev.to/melcor76/the-state-of-web-components-ab3
+
 
 ## IOT
 https://webofthings.org/standards/

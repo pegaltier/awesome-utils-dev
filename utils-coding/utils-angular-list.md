@@ -107,8 +107,10 @@
 
 ##  XP / NEW PROJECT / QUESTIONS
 - Official I18N/transloco or ngx-translate?
-- Nx project or default cli ?
-- 
+- Nx project or default CLI ?
+- Ngrx or another ? (context store?)
+- UI boostrap, material, ant, cdk?
+- Rules ? lint, commits, formatting...
 
 ## ANGULAR HISTORY
 - https://en.wikipedia.org/wiki/Angular_(application_platform)
@@ -142,6 +144,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
 - https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
+- https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
 
 ## HACK ONLINE IDE / STARTER / FAST CODING
 - https://stackblitz.com
@@ -166,6 +169,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## ANGULAR PWA
 - https://slides.com/webmax/angular-workbox/#/34
 - https://github.com/webmaxru/angular-pwa/tree/workbox-v4-bundle
+- https://dormoshe.io/daily-news/angular-performance-web-workers-1955
 - https://blog.nrwl.io/a-new-day-for-pwa-e7c3342b753c
 - https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
 - http://blog.ionic.io/yann-braga-my-ionic-success-story/
@@ -254,6 +258,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://itnext.io/understanding-angular-modules-5f1215130bc8
 
 ## ANGULAR TOOLS
+- https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
+- https://github.com/d-koppenhagen/ngx-semantic-version
 - https://github.com/mgechev/ngrev
 - https://github.com/rangle/batarangle/  
 - https://github.com/manekinekko/angular2-dependencies-graph  
@@ -391,7 +397,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
 - https://micro-frontends.org/
-
+- https://blog.angularindepth.com/how-to-compile-your-angular-components-library-into-web-components-47ff0ac73bd7
 - https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
 - https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 - https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
@@ -405,6 +411,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/lerna/lerna
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
+- https://github.com/angularbuilders/angular-blueprint
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
@@ -715,7 +722,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://blog.rangle.io/angular-2-change-detection/  
 - http://juristr.com/blog/2016/04/angular2-change-detection/  
 
-## ANGULAR GENERATE SCHEMATICS GENERATOR
+## ANGULAR SCHEMATICS / GENERATE / GENERATOR
 - https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
 - https://auth0.com/blog/create-custom-schematics-with-nx/
 - https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
@@ -747,10 +754,11 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 - http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angular-2/29844571  
 
-## ANGULAR  CSS / CLASS / UI LIB
+## ANGULAR CSS / CLASS / UI LIB
 - https://blog.angular-university.io/angular-host-context/
 - https://blog.angular-university.io/angular-ngclass-ngstyle
 - https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
+- https://dev.to/angular/angular-animate-css-in-five-easy-steps-8o6
 - https://coryrylan.com/blog/css-encapsulation-with-angular-2-components  
 - https://angular.io/docs/ts/latest/guide/component-styles.html  
 - https://vmware.github.io/clarity/
@@ -846,9 +854,11 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/testing-library/angular-testing-library
+- https://dev.to/rfornal/bad-test-bad-1og7
+- https://netbasal.com/testing-asynchronous-code-in-angular-using-fakeasync-fc777f86ed13
+- https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
 - https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer
-- https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://medium.com/@pattferraggi/how-i-found-a-problem-with-angular-unit-testing-and-decided-to-fix-it-myself-7c00b58d57a7
 - https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 - https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
@@ -904,7 +914,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/jvandemo/generator-angular2-library
 - https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
 
-
 ## ANGULAR LIB UPLOAD
 - https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 - https://github.com/ribizli/ng2-imageupload  
@@ -926,6 +935,10 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
+
+## ANGULAR LIB CDK
+- https://material.angular.io/cdk/a11y/overview
+- https://alligator.io/angular/infinite-scroll
 
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
 - https://github.com/Zak-C/ngx-loading
@@ -994,8 +1007,12 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
 - http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/  
 
-## ANGULAR LIB CDK
-- https://alligator.io/angular/infinite-scroll
+## ANGULAR LIB I18N / INTERNATIONALIZATION
+- https://github.com/ngx-translate/core
+- https://github.com/ngneat/transloco
+- https://github.com/loclapp/locl
+- https://angular.io/cli/xi18n
+- https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
 
 
 ## ANGULAR CSS LIB / THEME / STYLE / CSS

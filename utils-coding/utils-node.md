@@ -5,6 +5,9 @@ https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
 https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
 https://github.com/localtunnel/localtunnel
 
+## UTILS
+https://github.com/voidcosmos/npkill
+
 ## MONITORING
 http://pm2.keymetrics.io/
 

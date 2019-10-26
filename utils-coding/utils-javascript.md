@@ -25,7 +25,8 @@
 - https://nestjs.com/
 - https://github.com/typeorm/typeorm
 - https://github.com/strapi/strapi
-- 
+- https://github.com/GoogleChrome/puppeteer
+
 ## LIB/FRAMEWORK DATABASE
 - https://github.com/pubkey/rxdb
 

@@ -218,6 +218,7 @@ https://eosflare.io/account/blocktwitter
 https://medium.com/@xyzkwang334
 
 ## EOS PASSIVE INCOME
+https://tokenyield.io/
 http://www.eospayout.com/
 https://www.eosdividends.com/
 https://captainaltcoin.com/best-ways-to-earn-passive-income-with-eos/
