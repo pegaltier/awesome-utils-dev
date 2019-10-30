@@ -38,6 +38,8 @@ https://ethmoji.io
 ## ETH GAMES
 https://www.mycryptons.com/
 
+## ETH STAKING
+https://www.rocketpool.net/
 
 ## ETH PROJECTS
 https://kintu.co/ethereum-projects/

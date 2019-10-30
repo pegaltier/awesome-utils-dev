@@ -7,6 +7,7 @@ https://github.com/jhipster/generator-jhipster
 http://www.baeldung.com/rest-with-spring-course#new-modules
 
 ## MICROSERVICES
+https://quarkus.io/
 https://github.com/agoncal
 https://antoniogoncalves.org/tag/micro-services/
 

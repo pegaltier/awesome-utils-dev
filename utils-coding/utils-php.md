@@ -73,6 +73,14 @@ xampp multiple !:
 ## IMAGE
 - https://github.com/eventviva/php-image-resize
 
+## AUTH JWT
+- https://github.com/firebase/php-jwt
+- https://github.com/tuupola/slim-jwt-auth
+- https://github.com/tuupola/slim-api-skeleton
+- https://github.com/letsila/slim3-jwt-auth-example
+- https://appelsiini.net/projects/slim-jwt-auth/
+- https://arjunphp.com/secure-web-services-using-jwt-slim3-framework/
+
 ## OAUTH2
 - https://github.com/akrabat/slim-bookshelf-api
 - https://speakerdeck.com/akrabat/2017-04-08-phpyorkshire-slim-oauth2

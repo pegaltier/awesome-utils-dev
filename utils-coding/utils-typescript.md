@@ -10,6 +10,9 @@ npm init
 - https://github.com/palmerhq/tsdx
 - https://github.com/runem/ts-simple-type
 
+## LIB
+- https://github.com/typestack/class-validator
+
 ## TYPESCRIPT GUIDES
 - https://github.com/intocare/style-guide
 
