@@ -132,6 +132,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://code-maze.com/angular-best-practices/
 - https://www.carloscaballero.io/angular-ngx-translate-typings
 - https://web.dev/accessible-angular-with-codelyzer/
+- https://dev.to/devpato/angular-unofficial-docs-architecture-2d4i
 - https://medium.com/intive-developers/approach-to-clean-architecture-in-angular-applications-hands-on-35145ceadc98
 - https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
 - https://speakerdeck.com/mgechev/building-fast-angular-applications-by-default?slide=1
@@ -419,6 +420,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/Bielik20/nx-mean-starter
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://nstudio.io/xplat
+- https://medium.com/swlh/migrating-to-monorepo-ee641dd6502a
 - https://medium.com/@hoangbkit/why-monorepo-in-2018-89221acd4bfb
 - https://medium.com/invisible-reports/report-we-went-monorepo-c0aadd144fb
 - https://blog.strongbrew.io/opinionated-guidelines-for-large-nx-angular-projects/
@@ -464,6 +466,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-component-angular-2/
 
 ## ANGULAR HTTPCLIENT HTTPREQUEST
+- https://medium.com/better-programming/a-generic-http-service-approach-for-angular-applications-a7bd8ff6a068
 - http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
 
 ## ANGULAR NG MODULES NGMODULE
@@ -487,6 +490,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/ngx-meta/rules
 - https://github.com/formql/formql
 - https://github.com/ngx-formly/ngx-formly
+- https://github.com/udos86/ng-dynamic-forms
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/jstoppa/dynamic-forms
 - https://github.com/SanderElias/ngObservableForm
@@ -784,6 +788,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING
+- https://blog.angularindepth.com/asynchronous-modules-and-components-in-angular-ivy-1c1d79d45bd3
 - https://github.com/herodevs/herodevs-packages/tree/master/projects/lazy
 - https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24
 - https://medium.com/@zamamohammed/announcing-angular-loadable-ngx-loadable-2-2kb-4ef7e6321784 
@@ -1021,7 +1026,12 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/ngneat/transloco
 - https://github.com/loclapp/locl
 - https://angular.io/cli/xi18n
+- https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
 - https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
+
+## ANGULAR LIB IMAGE
+- https://github.com/fengyuanchen/cropperjs
+- thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
 
 
 ## ANGULAR CSS LIB / THEME / STYLE / CSS

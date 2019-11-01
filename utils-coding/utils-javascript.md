@@ -14,6 +14,7 @@
 
 ## LIB UTILS
 - https://github.com/date-fns/date-fns
+- https://github.com/fengyuanchen/cropperjs
 
 ## LIB FRONTEND
 - https://github.com/matthewp/robot
@@ -29,6 +30,7 @@
 
 ## LIB/FRAMEWORK BACKEND
 - https://nestjs.com/
+- https://github.com/strapi/strapi
 - https://github.com/typeorm/typeorm
 - https://github.com/strapi/strapi
 - https://github.com/GoogleChrome/puppeteer

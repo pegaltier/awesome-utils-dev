@@ -230,6 +230,7 @@ https://eosbet.io/home
 https://dice.one/bank/
 https://trustdice.win/txt
 https://paint.pixeos.art/#/
+https://www.eospoker.pro/home
 https://bethash.io/page/dividend (no)
 https://sportbet.one/s/1/dividends
 
