@@ -664,6 +664,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 - http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 - http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
+- https://github.com/Wykks/wonderful-todo-list
 
 ## ANGULAR NGRX/DATA EXAMPLE
 - https://github.com/ngrx/platform/network/dependents?package_id=UGFja2FnZS00NjAxODgyMTE%3D
