@@ -38,6 +38,9 @@
 ## SLIM PHP TEST
 - https://medium.com/@Andela/writing-testable-api-apps-in-slim-framework-29905970941b
 
+## CMS
+- http://flextype.org/en
+
 ## ASYNCRONOUS ASYNCRONOUS
 - https://amphp.org
 

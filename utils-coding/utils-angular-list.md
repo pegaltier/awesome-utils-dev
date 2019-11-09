@@ -630,6 +630,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/wesleygrimes/ngrx-file-upload
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
+- https://github.com/tomastrajan/angular-ngrx-material-starter
 - https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
 - https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
 - https://medium.com/@andrew_evans/exception-handling-with-ngrx-effects-70ec942e6465

@@ -1,4 +1,11 @@
 
+# WEB DESIGN
+
+## TOOLS
+https://squoosh.app/
+https://tinypng.com/
+
+## LOGO/ICONS
 https://logojoy.com
 http://iconstore.co/
 https://fonticons.com/?

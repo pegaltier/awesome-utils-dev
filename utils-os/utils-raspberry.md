@@ -22,6 +22,9 @@ https://www.raspberrypi.org/documentation/linux/usage/cron.md
 crontab -e ==> edit
 crontab -l ==> show
 
+## Boot
+https://www.raspberrypi.org/documentation/linux/usage/rc-local.md
+
 ## Node dev
 https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 https://www.w3schools.com/nodejs/nodejs_raspberrypi_gpio_intro.asp
