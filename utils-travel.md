@@ -21,6 +21,7 @@ https://languagelearningwithnetflix.com
 <p>hostelsworld+apparthotel+couchsurfing+airbnb+yestudent+booking</p>
 <h2>AUSTRIA</h2>
 <p><a href="http://74living.at">http://74living.at</a><br>
+<a href="https://www.the-fizz.com/">https://www.the-fizz.com/</a>
 <a href="https://www.immodirekt.at">https://www.immodirekt.at</a><br>
 <a href="https://www.willhaben.at">https://www.willhaben.at</a><br>
 <a href="https://www.jobwohnen.at">https://www.jobwohnen.at</a><br>

@@ -23,6 +23,8 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 - Alls: https://github.com/holochain/apps
 - Alls: https://telegra.ph/Holochain-Projects-10-18
 - Alls: https://docs.google.com/document/d/1fsr-N4Rua4sXUdMshbLh4-2LT3p050P7iQF6L-F0aQU/edit
+- Aeroband: https://www.aeroband.ltd/
+- Orion protocal: https://orionprotocol.io/
 - Fairbnb: https://fairbnb.coop/fr/
 - Bridgit: https://beta.bridgit.io/
 - Wirdworld: https://www.wirdpbc.xyz/
