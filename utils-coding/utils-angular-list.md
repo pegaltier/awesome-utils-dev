@@ -1194,6 +1194,7 @@ https://xlayers.app/#/home
 
 ### ANGULAR9
 - https://github.com/eliraneliassy/bye-bye-ngmodules
+- https://blog.angularindepth.com/exciting-time-ahead-be-ready-for-angular-9-b3dbb4078c47
 - https://speakerdeck.com/eliraneliassy/everything-you-need-to-know-about-angular-ivy
 - https://github.com/MikeRyanDev/rethinking-reactivity-angularconnect2019
 

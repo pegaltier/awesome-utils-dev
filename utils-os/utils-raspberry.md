@@ -86,3 +86,7 @@ https://www.amazon.de/LUWANZ-Breadboard-elektronik-Stromversorgungsmodul-Jumperk
 
 ## Engine
 https://apprendre.youpilab.com/le-transistor-2n2222-avec-arduino/
+
+## Keypad
+
+https://tutorials-raspberrypi.com/connecz-raspberry-pi-kecpad-code-lock/
