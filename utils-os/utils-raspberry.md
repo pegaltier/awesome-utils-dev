@@ -90,3 +90,21 @@ https://apprendre.youpilab.com/le-transistor-2n2222-avec-arduino/
 ## Keypad
 
 https://tutorials-raspberrypi.com/connecz-raspberry-pi-kecpad-code-lock/
+
+## Wireless
+
+### All
+https://pi-plates.com/
+https://www.tartssensors.com/ (bad customer service)
+https://www.postscapes.com/raspberry-pi-iot-handbook/
+http://www.doctormonk.com/2012/06/raspberry-pi-and-wireless-sensor.html
+https://www.hackster.io/dante/home-monitoring-with-wireless-sensor-nodes-866bbe
+http://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20
+
+### XBee
+https://www.youtube.com/watch?v=odekkumB3WQ
+https://www.sciencedirect.com/science/article/pii/S1877050914009144
+https://widgetlords.com/blogs/news/raspberry-pi-and-wireless-temperature-sensors
+https://digital.library.unt.edu/ark:/67531/metadc500182/m2/1/high_res_d/thesis.pdf
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-xbee-module-interfacing
+https://www.cooking-hacks.com/documentation/tutorials/xbee-arduino-raspberry-pi-tutorial

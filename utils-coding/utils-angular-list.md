@@ -123,8 +123,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
 - https://github.com/mgechev/angular-performance-checklist
-- https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
+- https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
+- https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
 - https://dev.to/gc_psk/the-principles-for-writing-awesome-angular-components-2ofi
