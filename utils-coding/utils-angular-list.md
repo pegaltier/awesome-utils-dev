@@ -962,6 +962,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/danrevah/ngx-pipes
+- https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/Gbuomprisco/ngx-chips
 - https://github.com/orizens/ngx-infinite-scroll
 - https://github.com/Gbuomprisco/ngx-content-loading
