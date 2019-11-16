@@ -123,6 +123,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
 - https://github.com/mgechev/angular-performance-checklist
+- https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
@@ -398,8 +399,11 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
 - https://micro-frontends.org/
+- https://webcomponents.dev/
+- https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007
 - https://blog.angularindepth.com/how-to-compile-your-angular-components-library-into-web-components-47ff0ac73bd7
-- https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=29
+- https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=1
+- https://blog.angularindepth.com/angular-and-react-together-with-ivy-5c77d1f48204
 - https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 - https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
 - https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
@@ -416,6 +420,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
 - https://github.com/angularbuilders/angular-blueprint
+- https://izifortune.com/share-angular-libraries-with-lerna/
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
@@ -505,6 +510,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
 - https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
+- https://blog.angularindepth.com/dont-reinvent-the-wheel-when-implementing-controlvalueaccessor-a0ed4ad0fafd
 - https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 - https://netbasal.com/how-to-implement-file-uploading-in-angular-reactive-forms-89a3fffa1a03
 - https://netbasal.com/detect-unsaved-changes-in-angular-forms-75fd8f5f1fa6
@@ -525,7 +531,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## ANGULAR TEMPLATE
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
-- 
+- https://medium.com/javascript-everyday/reusable-components-with-configurable-templates-in-angular-3c55741c97f3
+
 ## ANGULAR PLATFORM
 - https://github.com/Tibing/platform-terminal
 
@@ -859,6 +866,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## ANGULAR UNIT TESTS TESTING
+- https://www.youtube.com/watch?v=S0LxogWSMzE
 - https://github.com/ike18t/ng-mocks
 - https://github.com/getsaf/shallow-render
 - https://github.com/Ninja-Squad/ngx-speculoos
@@ -955,6 +963,9 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 ## ANGULAR LIB CDK
 - https://material.angular.io/cdk/a11y/overview
 - https://alligator.io/angular/infinite-scroll
+
+## ANGULAR LIB LIBST
+- https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
 
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
 - https://github.com/Zak-C/ngx-loading
@@ -1193,10 +1204,11 @@ https://xlayers.app/#/home
 ## VERSION
 
 ### ANGULAR9
-- https://github.com/eliraneliassy/bye-bye-ngmodules
+- https://docs.google.com/presentation/d/1LzoJbhiXzKQawoeO1RljAgRD4Lr5kUrY86h_kt55n9U/present?slide=id.p
 - https://blog.angularindepth.com/exciting-time-ahead-be-ready-for-angular-9-b3dbb4078c47
 - https://speakerdeck.com/eliraneliassy/everything-you-need-to-know-about-angular-ivy
 - https://github.com/MikeRyanDev/rethinking-reactivity-angularconnect2019
+- https://github.com/eliraneliassy/bye-bye-ngmodules
 
 ### ANGULAR8
 - https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/

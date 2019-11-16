@@ -23,6 +23,9 @@
 - https://www.npmjs.com/package/livr
 - https://github.com/immerjs/immer
 
+## LIB AI
+- https://github.com/BrainJS/brain.js
+
 ## FRAMEWORK FRONTEND
 - https://github.com/Tencent/omi
 - https://electronjs.org/
