@@ -50,6 +50,7 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 - Redgrid: https://redgrid.io/
 - MetaIntegral: https://twitter.com/MetaIntegral
 - Hemp360: https://www.hemp360.com/
+- CommonDB: http://www.commondb.net/
 
 ## GITHUB HAPPS
 
@@ -99,6 +100,9 @@ holo github>>
 - https://github.com/zaunders/Mailboox-Rust
 - https://github.com/zaunders/DinnerCarousel
 - https://github.com/zaunders/MailBoox-SymCode
+- https://github.com/freesig/subscription_barcelona
+- https://github.com/IntegralDevs/integral-developing
+
 
 ## UNOFFICIAL SITES
 - https://www.buyholo.net/

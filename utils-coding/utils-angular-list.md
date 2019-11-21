@@ -414,6 +414,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://youtu.be/YU-fMRs-ZYU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
+- https://youtu.be/eAeoDxLTavc The monorepo blueprint - creating scalable architecture for a monorepo
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
 - https://github.com/lerna/lerna
@@ -421,6 +422,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
 - https://github.com/angularbuilders/angular-blueprint
+- https://github.com/lydemann/Todo-monorepo
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
@@ -1179,6 +1181,7 @@ https://xlayers.app/#/home
 - http://brianflove.com/
 - https://julienrenaux.fr/
 - https://blog.ninja-squad.com/
+- https://christianlydemann.com/
 
 ## ANGULAR OTHERS ARTICLES
 - https://medium.com/ampgular-bringing-angular-app-t-to-amp-world-and/https-medium-com-ampgular-angular-to-amp-madrid-day-spa-com-use-case-56d6809604fd
