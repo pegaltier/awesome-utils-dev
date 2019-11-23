@@ -7,6 +7,7 @@
 <p><a href="https://assets.kpmg/content/dam/kpmg/lu/pdf/salary-comparisons-survey-2018.pdf">
 salary-comparisons-survey-2018.pdf
 </a></p>
+<p><a href="https://entreprise.pole-emploi.fr/cout-salarie/" target="_blank">fr/cout-salarie</p>
 <p><a href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/">https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/</a><br>
 <a href="https://www.interrail.eu/fr/pass-interrail/global-pass">https://www.interrail.eu/fr/pass-interrail/global-pass</a></p>
 <a href="https://bruttonetto.arbeiterkammer.at/">Salary in Austria</a>
