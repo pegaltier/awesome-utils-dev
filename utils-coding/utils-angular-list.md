@@ -426,8 +426,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
+- https://github.com/xmlking/ngx-starter-kit
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
-- https://nstudio.io/xplat
+
 - https://medium.com/swlh/migrating-to-monorepo-ee641dd6502a
 - https://medium.com/@hoangbkit/why-monorepo-in-2018-89221acd4bfb
 - https://medium.com/invisible-reports/report-we-went-monorepo-c0aadd144fb
@@ -442,6 +443,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 - https://github.com/duncanhunter/Enterprise-Angular-applications-with-ngrx-and-nx/blob/master/chapter1.md
 - https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157
+- https://nstudio.io/xplat
+- https://bit.dev
 
 ## ANGULAR RENDERING CIENT / DOM
 - https://angular.io/guide/template-syntax

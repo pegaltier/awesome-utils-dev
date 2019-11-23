@@ -31,8 +31,10 @@ git stash (save local diff)
 git stash branch myfeature  (restore the stashed diff on a new branch)
 git stash pop (restore the stashed diff on current branch)
 git fetch origin <sha1-of-commit-> (fetch a commit or branch or tag)
+git rev-parse HEAD (get last commit hash)
 git cherry-pick d42c389f (apply any commit on current branch)
 git remote prune origin (clean local branches that have been deleted from remote)
+git branch -D branchname (delete local branch)
 ```
 
 ## CLONE 
@@ -149,6 +151,20 @@ code
 ## CREATE BRANCH
 
 1. develop on base branch..
+2. checkout 
+```
+git checkout -b branchName
+```
+3. commit and push
+```
+git commit on ide
+git push --set-upstream origin 1109-issue-name
+git push -u origin 1109-issue-name
+```
+
+OR
+
+1. develop on base branch..
 2. stash and create branch from stash
 ```
 git stash
@@ -175,6 +191,13 @@ More infos
 - <https://www.atlassian.com/git/tutorials/merging-vs-rebasing>
 - <https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase>
 - <https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333>
+
+## REVERT
+
+```
+git revert <commit-id>
+git revert -m 1 <merge-commit-id>
+```
 
 ## TOOLS
 
