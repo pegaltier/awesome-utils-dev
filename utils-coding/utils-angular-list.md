@@ -390,6 +390,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://webpack.js.org/plugins/context-replacement-plugin/
 
 ## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS / MICROFRONT
+- https://www.youtube.com/watch?v=t1ohOAyA_sI
 - https://github.com/ng-packagr/ng-packagr
 - https://github.com/aelbore/ngx-elements
 - https://github.com/aelbore/ngx-elements-demo
@@ -399,6 +400,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://leanpub.com/enterprise-angular
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
+- https://custom-elements-everywhere.com/
 - https://micro-frontends.org/
 - https://webcomponents.dev/
 - https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007
