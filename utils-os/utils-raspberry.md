@@ -72,6 +72,7 @@ https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/3
 https://www.woodenhouse.tech/category/objets-connectes/
 https://electronics.semaf.at/navi.php?a=773&lang=eng
 https://timelapse.woodenhouse.fr/
+https://www.sgbotic.com/products/datasheets/development/IR-CUT%20Mode%20Setting.pdf
 
 gpio:
 https://electronics.semaf.at/navi.php?a=1396&lang=eng
