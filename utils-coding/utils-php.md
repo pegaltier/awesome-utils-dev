@@ -15,18 +15,19 @@
 - https://github.com/ziadoz/awesome-php
 - https://www.cloudways.com/blog/top-php-github-projects/
 
-## SLIM PHP LIST
+## SLIM PHP UTILS
 - https://github.com/xssc/awesome-slim
+- http://php-di.org/doc/frameworks/slim.html
+- https://aimeos.org/slim-ecommerce-package/
 
 ## SLIM PHP V3 SKELETON
 - https://github.com/adriansuter/Slim4-Skeleton
 - https://github.com/slimphp/Slim-Skeleton
 - https://github.com/odan/prisma
 - https://github.com/tuupola/slim-api-skeleton
-- http://php-di.org/doc/frameworks/slim.html
 - https://github.com/gothinkster/slim-php-realworld-example-app
 - https://github.com/railto/realworld-slim
-- https://aimeos.org/slim-ecommerce-package/
+- https://github.com/maurobonfietti/rest-api-slim-php
 
 ## SLIM PHP V4 SKELETON
 - https://github.com/adriansuter/Slim4-Skeleton
@@ -34,6 +35,8 @@
 - https://github.com/semhoun/slim-skeleton-mvc
 - https://github.com/odan/slim4-skeleton
 - https://github.com/slimphp/Slim-Csrf
+- https://github.com/maurobonfietti/slim4-api-skeleton
+- https://github.com/maurobonfietti/slim4-api-skeleton-crud-generator
 - http://www.slimframework.com/docs/v4/
 
 ## PSR15
