@@ -68,6 +68,7 @@ https://www.seeedstudio.com/blog/2019/08/03/pir-sensor-introduction-and-how-pir-
 https://pimylifeup.com/raspberry-pi-motion-sensor/
 
 camera:
+https://projetsdiy.fr/test-camera-ir-asiatique-vs-v2-officielle-raspebrry-pi-test-exterieur/
 https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/3 
 https://www.woodenhouse.tech/category/objets-connectes/
 https://electronics.semaf.at/navi.php?a=773&lang=eng

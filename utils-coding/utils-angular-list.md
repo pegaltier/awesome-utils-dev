@@ -150,6 +150,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
 
 ## HACK ONLINE IDE / STARTER / FAST CODING
+- https://ng-run.com/
 - https://stackblitz.com
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material?file=theme.scss
@@ -1214,6 +1215,7 @@ https://xlayers.app/#/home
 ## VERSION
 
 ### ANGULAR9
+- https://christiankohler.net/improved-dependeny-injection-with-the-new-providedin-scopes-any-and-platform
 - https://docs.google.com/presentation/d/1LzoJbhiXzKQawoeO1RljAgRD4Lr5kUrY86h_kt55n9U/present?slide=id.p
 - https://blog.angularindepth.com/exciting-time-ahead-be-ready-for-angular-9-b3dbb4078c47
 - https://speakerdeck.com/eliraneliassy/everything-you-need-to-know-about-angular-ivy

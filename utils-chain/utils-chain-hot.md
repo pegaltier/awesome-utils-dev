@@ -102,7 +102,7 @@ holo github>>
 - https://github.com/zaunders/MailBoox-SymCode
 - https://github.com/freesig/subscription_barcelona
 - https://github.com/IntegralDevs/integral-developing
-
+- https://github.com/kristoferlund/react-holochain-hook
 
 ## UNOFFICIAL SITES
 - https://www.buyholo.net/
