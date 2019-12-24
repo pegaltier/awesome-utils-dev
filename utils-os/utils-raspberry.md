@@ -69,12 +69,19 @@ https://pimylifeup.com/raspberry-pi-motion-sensor/
 
 camera:
 https://projetsdiy.fr/test-camera-ir-asiatique-vs-v2-officielle-raspebrry-pi-test-exterieur/
+https://www.amazon.fr/1080P-Cam%C3%A9ra-avec-Support-Raspberry/dp/B07BT3KMG6
 https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/3 
 https://www.woodenhouse.tech/category/objets-connectes/
 https://electronics.semaf.at/navi.php?a=773&lang=eng
 https://timelapse.woodenhouse.fr/
 https://www.sgbotic.com/products/datasheets/development/IR-CUT%20Mode%20Setting.pdf
 
+debug camera:
+https://picamera.readthedocs.io/en/release-1.10/install3.html
+https://www.raspberrypi.org/forums/viewtopic.php?t=174375
+https://www.raspberrypi.org/forums/viewtopic.php?t=198118
+https://www.raspberrypi.org/forums/viewtopic.php?t=197575
+https://raspberrypi.stackexchange.com/questions/37683/raspberry-pi-camera-rev-1-3-is-not-detected
 gpio:
 https://electronics.semaf.at/navi.php?a=1396&lang=eng
 https://electronics.semaf.at/raspberry-pi-connectors
