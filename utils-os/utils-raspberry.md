@@ -16,6 +16,10 @@ https://raspbian-france.fr/installer-serveur-web-raspberry/
 Nginx+PHP
 https://www.yubigeek.com/installer-serveur-web-raspberry-pi/
 
+## PWD
+https://howtoraspberrypi.com/recover-password-raspberry-pi/
+https://www.raspberrypi.org/documentation/linux/usage/users.md
+
 ## Cron
 https://www.raspberrypi.org/documentation/linux/usage/cron.md
 
