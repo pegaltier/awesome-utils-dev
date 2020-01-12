@@ -57,6 +57,7 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 holo list>>
 - https://github.com/zaunders/apps
 - https://github.com/f13end/Holochain-Projects
+- https://github.com/holochain-community-resources
 
 holo github>>
 - https://github.com/HC-Interns
@@ -67,6 +68,7 @@ holo github>>
 - https://github.com/uprtcl/hc-uprtcl
 - https://github.com/holo-rea/holo-rea
 - https://github.com/guillemcordoba/hc-custody
+- https://github.com/guillemcordoba/hc-tags
 - https://github.com/Hylozoic/hylo-holo-dnas
 - https://github.com/vanarchist/holochain-point-of-interest
 - https://github.com/vanarchist/holochain-mutual-credit-clearing
@@ -103,6 +105,8 @@ holo github>>
 - https://github.com/freesig/subscription_barcelona
 - https://github.com/IntegralDevs/integral-developing
 - https://github.com/kristoferlund/react-holochain-hook
+- https://github.com/ronin-of-beyonder/holomasterpass
+- https://github.com/p2b-hub/Sport-Sharing
 
 ## UNOFFICIAL SITES
 - https://www.buyholo.net/
