@@ -3,7 +3,7 @@
 
 
 ## HOLO KEYWORDS
-post-blockchain, data-centric, 
+post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distributed apps, scalable blockchain, after bitcoin
 
 ## HOLO DEV LINKS
 - https://developer.holochain.org/
@@ -108,10 +108,13 @@ holo github>>
 - https://github.com/ronin-of-beyonder/holomasterpass
 - https://github.com/p2b-hub/Sport-Sharing
 - https://github.com/cogov/CoGov.rust
+- https://github.com/AaltoGoWood/gowood-poc
+
 
 ## UNOFFICIAL SITES
-- https://www.buyholo.net/
-- https://holochaincitizen.com/
+- https://holofuel.best
+- https://www.buyholo.net
+- https://holochaincitizen.com
 - https://www.holochain.science
 
 ## UNOFFICIAL DOCS
