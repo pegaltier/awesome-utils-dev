@@ -107,6 +107,7 @@ holo github>>
 - https://github.com/kristoferlund/react-holochain-hook
 - https://github.com/ronin-of-beyonder/holomasterpass
 - https://github.com/p2b-hub/Sport-Sharing
+- https://github.com/cogov/CoGov.rust
 
 ## UNOFFICIAL SITES
 - https://www.buyholo.net/
