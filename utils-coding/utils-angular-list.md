@@ -420,17 +420,27 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://youtu.be/eAeoDxLTavc The monorepo blueprint - creating scalable architecture for a monorepo
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
+- https://nxplaybook.com/
+- https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/lerna/lerna
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
+- https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/angularbuilders/angular-blueprint
 - https://github.com/lydemann/Todo-monorepo
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
-
+- https://github.com/nstudio/xplat-sample-ionic-web
+- https://nstudio.io/xplat/getting-started/getting-started
+- https://blog.devget.net/development/angular-8-ionic-4-monorepo-part-1-the-setup/
+- https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870
+- https://www.softwarearchitekt.at/aktuelles/6-steps-to-your-angular-based-microfrontend-shell/
+- https://itnext.io/building-scalable-multi-platform-projects-with-angular-and-nx-a13b40885e54
+- https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3
+- https://blog.bitsrc.io/sharing-components-with-angular-and-bit-b68896806c18
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://medium.com/swlh/migrating-to-monorepo-ee641dd6502a
 - https://medium.com/@hoangbkit/why-monorepo-in-2018-89221acd4bfb
@@ -642,13 +652,16 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/ngrx/platform/tree/master/example-app
 - https://github.com/ngrx/platform/tree/master/projects/example-app
 - https://github.com/co-IT/ngrx-ducks
+- https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/tomastrajan/angular-ngrx-material-starter
+- https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f  
 - https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
+- https://medium.com/angular-in-depth/the-benefits-of-application-state-normalization-in-angular-f93392ca9f44
 - https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
 - https://medium.com/@andrew_evans/exception-handling-with-ngrx-effects-70ec942e6465
 - https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39
@@ -693,8 +706,10 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/sithelo/hlc-web
 
 ## ANGULAR REDUX PATTERN / STORE / STATE MANAGEMENT / NGRX ALTERNATIVE
+- https://github.com/lacolaco/reactive-store
 - https://github.com/ngxs/store
 - https://github.com/ngxs-labs/emitter
+- https://github.com/ngxs-labs/immer-adapter
 - https://github.com/reclarejs/reclare
 - https://github.com/storeon/angular
 - https://github.com/datorama/akita
@@ -983,6 +998,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/danrevah/ngx-pipes
+- https://github.com/meeroslav/ng-helpers
+- https://github.com/Greentube/ngx-modal
 - https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/Gbuomprisco/ngx-chips
 - https://github.com/orizens/ngx-infinite-scroll
@@ -992,6 +1009,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/damienbod/angular-auth-oidc-client
 - https://github.com/chrisguttandin/angular-audio-context
+- https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ngx-translate/core
 - https://github.com/ngneat/transloco/
 - https://github.com/aitboudad/ngx-loading-bar
@@ -1071,6 +1089,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## ANGULAR PLUG & PLAY:
 - https://github.com/aviabird/angularspree
+- https://github.com/scullyio/scully
 
 ## ANGULAR DEMO SOURCES / EXAMPLES
 - https://github.com/avatsaev/angular-contacts-app-example
@@ -1215,6 +1234,7 @@ https://xlayers.app/#/home
 ## VERSION
 
 ### ANGULAR9
+- https://indepth.dev/component-features-with-angular-ivy
 - https://christiankohler.net/improved-dependeny-injection-with-the-new-providedin-scopes-any-and-platform
 - https://docs.google.com/presentation/d/1LzoJbhiXzKQawoeO1RljAgRD4Lr5kUrY86h_kt55n9U/present?slide=id.p
 - https://blog.angularindepth.com/exciting-time-ahead-be-ready-for-angular-9-b3dbb4078c47
