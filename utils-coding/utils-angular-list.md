@@ -228,6 +228,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
+- https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 
 ## ANGULAR IDE OTHERS EXTENSIONS
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
@@ -248,6 +249,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/evanplaice/angular2-snippets 
 
 ## ANGULAR CLI
+- https://github.com/manfredsteyer/angular-crud
 - https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 - https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
 - https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
@@ -269,6 +271,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/manekinekko/angular2-dependencies-graph  
 - https://augury.angular.io/
 - http://codelyzer.com/
+
 
 ## ANGULAR CI / CONTINIOUS INTEGRATION / AUTOMATED
 - https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
@@ -392,6 +395,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS / MICROFRONT
 - https://www.youtube.com/watch?v=t1ohOAyA_sI
+- https://github.com/frintjs/frint
+- https://github.com/CanopyTax/single-spa
 - https://github.com/ng-packagr/ng-packagr
 - https://github.com/aelbore/ngx-elements
 - https://github.com/aelbore/ngx-elements-demo
@@ -404,6 +409,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://custom-elements-everywhere.com/
 - https://micro-frontends.org/
 - https://webcomponents.dev/
+- https://single-spa.js.org/
+- https://frint.js.org/
+- https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-angular-e6828a0a049c
 - https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007
 - https://blog.angularindepth.com/how-to-compile-your-angular-components-library-into-web-components-47ff0ac73bd7
 - https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=1

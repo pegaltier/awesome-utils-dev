@@ -282,7 +282,7 @@ Ngrx/effects is middleware for handling side effects in ngrx/store. It listens f
 
 
 ## PIPES
-
+``
 {{ asyncGreeting | async } 
  
 {{ birthday | date:'shortTime' }} 		<!-- will display '3:30 PM' -- 
@@ -299,9 +299,11 @@ Ngrx/effects is middleware for handling side effects in ngrx/store. It listens f
 {{ 0.8 | percent }} 				<!-- will display '80%' --> 
 {{ 0.8 | percent:'.3' }} 			<!-- will display '80.000%' --> 
 {{ 10.6 | currency:'EUR' }			<!-- will display 'EUR10.60' -->	 
- 
+ ``
+ ``
 <div *ngFor="let pony of ponies | slice:0:2">{{pony.name}}</div> 
 <div loggable [logText]="expression | uppercase">Hello</div> 
+``
 
 ## DIRECTIVES
 
@@ -497,6 +499,51 @@ describe('RaceService', () => {
  
 test end to end (voir ninja angular page 157) 
 
+## CHANGE DETECTION OPTIMIZATION
+
+- onPush and immutability
+- pipes instead of methods in template
+- caching 
+- trackBy in ngFor
+- detach change detection
+
+### onPush and immutability
+
+Only rerender template if:
+- One of its input properties has gotten a new ref
+- An event from the component of one of its chilidren (click...)
+- Explicit trigger of CD (detectChanges/markForCheck)
+
+Design for immutability :
+- Presentational comp <-> Container com <-> Redux store
+- Eventually use facade in your container comp
+
+### pipes instead of methods in template
+
+- methods gets evaluated evaluated on every tick
+- pure pipes only get evaluated on every input changes
+
+1. extract to smaller components and use onPush
+2. use async and custom pipes instead of template methods
+
+### cahing
+- cache values from pure pipes using memoize (lodash or not)
+
+### trackBy in ngFor
+- trackBy ensure that only the list element that has changed will be rerendered
+
+### detach change detection
+- for heavy computation only and rerender manually
+- cdr.detach() onInit
+- cdr.detectChanges() after the computation
+
+## Other optimization
+
+- Cache static content using PWA (ng add @angular:pwa --project "project-name")
+- Normalize the store in the effect and denormalize in the selector
+
+
+## 
 ## INTERVIEW
 - did you already develop a simple static website using html and javascript?
 - can you describe in one simple sentence what is reactive programming (rxjs/obs)?
