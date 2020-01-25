@@ -689,7 +689,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
 - https://medium.com/@gregor.woiwode/ngrx-ducks-dynamic-facades-improving-coding-experience-3bf5f832f21c
 - https://devchat.tv/adv-in-angular/aia-260-ngrx-the-mystical-machine-with-wes-grimes/
-
+- https://indepth.dev/start-using-ngrx-effects-for-this/
 - https://www.logisticinfotech.com/blog/easiest-demo-to-learn-ngrx-in-angular-6
 - http://brianhudi.org/2017/11/15/adding-ngrx-to-existing-projects-is-easy
 - https://medium.com/developers-writing/a-class-based-approach-to-writing-reducers-in-redux-ngrx-4a8ec5f97b1

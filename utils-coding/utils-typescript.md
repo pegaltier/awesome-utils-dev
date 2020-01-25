@@ -17,6 +17,11 @@ npm init
 - https://github.com/intocare/style-guide
 - https://github.com/microsoft/TypeScript-Handbook
 
+## TYPESCRIPT TIPS
+- https://twitter.com/mgechev/status/1219884973328621570/photo/1
+- https://twitter.com/sulco/status/1219982511180263424/photo/1
+- https://twitter.com/mgechev/status/1220246042807078912/photo/1
+
 ## ES2015/ES6 + TYPESCRIPT COURSES 
 - https://hughfdjackson.com/javascript/arrow-function-semantics/  
 - http://babeljs.io/docs/learn-es2015/  
