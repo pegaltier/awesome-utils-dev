@@ -15,6 +15,7 @@ npm init
 
 ## TYPESCRIPT GUIDES
 - https://github.com/intocare/style-guide
+- https://github.com/microsoft/TypeScript-Handbook
 
 ## ES2015/ES6 + TYPESCRIPT COURSES 
 - https://hughfdjackson.com/javascript/arrow-function-semantics/  

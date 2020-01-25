@@ -443,6 +443,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nstudio/xplat-sample-ionic-web
 - https://nstudio.io/xplat/getting-started/getting-started
+- https://ordina-jworks.github.io/architecture/2020/01/23/Nx.html
 - https://blog.devget.net/development/angular-8-ionic-4-monorepo-part-1-the-setup/
 - https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870
 - https://www.softwarearchitekt.at/aktuelles/6-steps-to-your-angular-based-microfrontend-shell/
@@ -662,11 +663,16 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/co-IT/ngrx-ducks
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
+- https://github.com/briebug/ngrx-auto-entity
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload
+- https://github.com/MrWolfZ/ngrx-forms
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/tomastrajan/angular-ngrx-material-starter
+- https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
+- https://medium.com/@haldun7/caching-http-requests-while-using-ngrx-effects-98abd50c5c78
+- https://medium.com/angular-in-depth/ngrx-cherry-picking-the-meta-30869953e929
 - https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f  
 - https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
 - https://medium.com/angular-in-depth/the-benefits-of-application-state-normalization-in-angular-f93392ca9f44
@@ -1023,7 +1029,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/Asymmetrik/ngx-leaflet
-- https://github.com/MrWolfZ/ngrx-forms
 - https://github.com/text-mask/text-mask
 - https://github.com/KillerCodeMonkey/ngx-quill
 - https://github.com/georgipeltekov/ngx-file-drop
@@ -1242,6 +1247,7 @@ https://xlayers.app/#/home
 ## VERSION
 
 ### ANGULAR9
+- https://www.telerik.com/blogs/top-new-features-of-angular-9
 - https://indepth.dev/component-features-with-angular-ivy
 - https://christiankohler.net/improved-dependeny-injection-with-the-new-providedin-scopes-any-and-platform
 - https://docs.google.com/presentation/d/1LzoJbhiXzKQawoeO1RljAgRD4Lr5kUrY86h_kt55n9U/present?slide=id.p

@@ -1,7 +1,11 @@
-
+# JAVASCRIPT
 
 ## GUIDE / TOOLS
+- https://airbnb.io/javascript/
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
+- https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
+- https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
 
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
@@ -15,6 +19,8 @@
 ## LIB UTILS
 - https://github.com/date-fns/date-fns
 - https://github.com/fengyuanchen/cropperjs
+- https://github.com/ianstormtaylor/superstruct
+- https://github.com/stryker-mutator/stryker
 
 ## LIB FRONTEND
 - https://github.com/matthewp/robot
