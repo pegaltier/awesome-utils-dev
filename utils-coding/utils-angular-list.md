@@ -1008,6 +1008,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
 - https://github.com/Zak-C/ngx-loading
+- https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/dbfannin/ngx-logger
@@ -1040,6 +1041,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/w11k/ngx-componentdestroyed
+- https://github.com/osahner/ngx-show-hide-password
 - https://akveo.github.io/ngx-admin/
 - https://ornamentum.app/
 - https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about

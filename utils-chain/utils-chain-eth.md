@@ -39,6 +39,7 @@ https://ethmoji.io
 https://www.mycryptons.com/
 
 ## ETH STAKING
+https://mintr.synthetix.io/
 https://www.rocketpool.net/
 
 ## ETH PROJECTS

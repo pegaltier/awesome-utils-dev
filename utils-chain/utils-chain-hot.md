@@ -52,6 +52,10 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 - MetaIntegral: https://twitter.com/MetaIntegral
 - Hemp360: https://www.hemp360.com/
 - CommonDB: http://www.commondb.net/
+- Holosail: https://www.holosailtechnologies.com/
+- Capillar: https://capillar.it/
+- Project1800: https://project1800.org/
+- MetaMorph: https://metamorph.pro/
 
 ## GITHUB HAPPS
 

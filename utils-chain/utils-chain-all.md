@@ -223,6 +223,7 @@ weissratings
 - https://celsius.network
 - https://dai.makerdao.com
 - https://compound.finance
+- https://mintr.synthetix.io
 - http://www.saltlending.com
 - https://ripiocredit.network
 - https://stakingrewards.com/
