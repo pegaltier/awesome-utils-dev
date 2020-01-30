@@ -431,6 +431,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/lerna/lerna
+- https://github.com/nrwl/nx-examples
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
@@ -788,6 +789,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://auth0.com/blog/create-custom-schematics-with-nx/
 - https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
 - https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
+- https://github.com/schuchard/ng-schematics
 
 ## ANGULAR DEPENDENCY INJECTION
 - https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
@@ -1009,6 +1011,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 ## ANGULAR LIB / REUSE / UTILS / GENERAL
 - https://github.com/Zak-C/ngx-loading
 - https://github.com/angelnikolov/ngx-cacheable
+- https://github.com/gund/ng-dynamic-component
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/dbfannin/ngx-logger

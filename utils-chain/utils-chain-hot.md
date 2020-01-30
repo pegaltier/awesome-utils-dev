@@ -114,7 +114,8 @@ holo github>>
 - https://github.com/p2b-hub/Sport-Sharing
 - https://github.com/cogov/CoGov.rust
 - https://github.com/AaltoGoWood/gowood-poc
-
+- https://github.com/ogu83/holochain_photos
+- https://github.com/holochain-devcamp/learning-pathways
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
