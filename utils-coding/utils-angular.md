@@ -443,6 +443,15 @@ avoidAngularBugs(){
 - https://stackoverflow.com/questions/40126729/angular-2-testing-async-function-call-when-to-use
 - https://stackoverflow.com/questions/40432734/angular-2-jasmine-error-please-call-testbed-compilecomponents-before-your
 
+### MOCKING
+
+- Mock components with ng-mocks (MockComponent) and add them to the declarations in TestBed/spectator factory
+- Mock directives using ng-mocks (MockDirective)
+- Mock pipes with ng-mocks (MockPipe)
+- Mock services/guards/resolvers with mocks property in Spectator factory/createSpyObject
+- Mock ngrx/store with provideMockStore
+- Mock ngrx/selectors with store.overrideSelector
+
 ### TESTING FACTORIZE/IMPORTS
 
 - https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files

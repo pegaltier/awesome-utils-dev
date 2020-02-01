@@ -18,11 +18,13 @@
 - https://github.com/miragejs/miragejs
 
 ## LIB UTILS
+- https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://github.com/date-fns/date-fns
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
-
+- https://github.com/pshihn/rough
+    
 ## LIB FRONTEND
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js

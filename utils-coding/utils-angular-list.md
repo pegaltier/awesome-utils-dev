@@ -432,14 +432,17 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/lerna/lerna
 - https://github.com/nrwl/nx-examples
+- https://github.com/nrwl/nx-jenkins-build
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
 - https://github.com/manfredsteyer/microfrontend-prototype
+- https://github.com/manfredsteyer/demo-workspace-schematics
 - https://github.com/angularbuilders/angular-blueprint
 - https://github.com/lydemann/Todo-monorepo
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://github.com/korfuri/awesome-monorepo
+- https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nstudio/xplat-sample-ionic-web
@@ -458,8 +461,10 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.strongbrew.io/opinionated-guidelines-for-large-nx-angular-projects/
 - https://blog.angularindepth.com/release-management-in-angular-with-lerna-21b4ab417c59
 - https://dev.to/angular/sustainable-angular-architectures-with-tactical-ddd-and-monorepos-c61
+- https://dev.to/gc_psk/building-an-enterprise-grade-angular-project-structure-3ihk
 - https://speakerdeck.com/manfredsteyer/sustainable-architectures-with-angular-monorepos-and-ddd-at-ijs-2019-in-munich
 - https://speakerdeck.com/manfredsteyer/architectures-for-huge-angular-based-enterprise-applications-at-it-tage-2018-in-frankfurt-c6896923-cb10-406d-aec5-cd696c6133c6?slide=1
+- https://www.softwarearchitekt.at/aktuelles/automating-your-angular-architecture-with-workspace-schematics-part-1-rules-and-parameters/
 - https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
 - https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
 - https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
@@ -537,6 +542,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/formql/formql/tree/master/examples
 - https://slides.com/juanstoppa/dynamic-reactive-forms-angular-denver
 - https://medium.com/@oojhaajay/dynamic-validation-in-angular-dynamic-forms-aca8df20ece0
+- https://medium.com/@tomastrajan/angular-reactive-sub-forms-type-safe-without-duplication-dbd24225e1e8
 
 ## ANGULAR FORMS / FORM VALIDATION / REACTIVE FORMS
 - https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
@@ -591,7 +597,9 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 ## ANGULAR OBSERVABLE/REACTIVE/RXJS
 - https://rxjs.tools/
 - https://www.learnrxjs.io/
+- https://learnreactive.com/
 - https://github.com/btroncone/learn-rxjs
+- https://github.com/jsonberry/rxjs-examples
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 - https://blog.angular-university.io/rxjs-higher-order-mapping/
@@ -1028,6 +1036,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/damienbod/angular-auth-oidc-client
 - https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/omridevk/ng-keyboard-shortcuts
+- https://github.com/ngneat/cashew
 - https://github.com/ngx-translate/core
 - https://github.com/ngneat/transloco/
 - https://github.com/aitboudad/ngx-loading-bar
@@ -1260,6 +1269,7 @@ https://xlayers.app/#/home
 - https://speakerdeck.com/eliraneliassy/everything-you-need-to-know-about-angular-ivy
 - https://github.com/MikeRyanDev/rethinking-reactivity-angularconnect2019
 - https://github.com/eliraneliassy/bye-bye-ngmodules
+- https://indepth.dev/next-level-testing-in-angular-ivy-version-9/
 
 ### ANGULAR8
 - https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/

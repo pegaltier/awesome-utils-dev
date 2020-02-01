@@ -202,6 +202,7 @@ git revert -m 1 <merge-commit-id>
 ## TOOLS
 
 - <https://github.com/conventional-changelog/commitlint>
+- <https://github.com/jesseduffield/lazygit>
 - <https://github.com/commitizen/cz-cli>
 - <https://projectr.io/>
 
