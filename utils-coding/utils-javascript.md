@@ -6,6 +6,7 @@
 - https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
 - https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
+- https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
 
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
@@ -24,7 +25,7 @@
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
 - https://github.com/pshihn/rough
-    
+
 ## LIB FRONTEND
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
@@ -64,6 +65,7 @@
 - https://learnjavascript.online/ 
 
 ## IMPORTANT
+- pure functions: https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3 + https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c
 - immutability: https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
 - destructuring: https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f
 - algorithm: https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html

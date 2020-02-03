@@ -762,11 +762,14 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 
 ## ANGULAR IMMUTABLE / IMMUTABILITY VS ENCAPSULATION
+- https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
 - https://www.imkrish.com/immutable-object-array-using-typescript/ *
 - https://houssein.me/angular2-with-immutablejs-and-redux *
 - https://github.com/immutable-js/immutable-js
 - https://github.com/rtfeldman/seamless-immutable
 - https://github.com/immerjs/immer
+- https://github.com/jonaskello/tslint-immutable
+- https://github.com/jonaskello/eslint-plugin-functional
 - https://github.com/microsoft/TypeScript/issues/13923
 - https://github.com/microsoft/TypeScript/issues/29566
 - https://medium.com/@bamieh/immutablejs-records-bd369137da06
