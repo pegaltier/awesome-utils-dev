@@ -74,10 +74,12 @@ holo github>>
 - https://github.com/holo-rea/holo-rea
 - https://github.com/guillemcordoba/hc-custody
 - https://github.com/guillemcordoba/hc-tags
+- https://github.com/guillemcordoba/hc-mutual-credit
 - https://github.com/Hylozoic/hylo-holo-dnas
 - https://github.com/vanarchist/holochain-point-of-interest
 - https://github.com/vanarchist/holochain-mutual-credit-clearing
 - https://github.com/pythagorean/coolcats2
+- https://github.com/Holo-Host/holo-communities
 - https://github.com/holochain/peer-chat
 - https://github.com/holochain/file-storage-zome
 - https://github.com/holochain/dev-camp-tests-rust
@@ -96,20 +98,21 @@ holo github>>
 - https://github.com/Qubeo/_bak_cointoss-rust
 - https://github.com/adria0/workshop-holochain
 - https://github.com/ThinkBigEg/Holoster (angular)
-- https://github.com/kristoferlund/holochain-todo-redux
-- https://github.com/kristoferlund/holochain-logistics
 - https://github.com/orionprotocol/orion-holochain
 - https://github.com/orionprotocol
 - https://github.com/SetMatchGames
 - https://github.com/zo-el/rwot9-prague
 - https://github.com/Hylozoic/hylo-holo-dnas
+- https://github.com/IntegralDevs/integral-developing
 - https://github.com/zaunders/holopass
 - https://github.com/zaunders/Mailboox-Rust
 - https://github.com/zaunders/DinnerCarousel
 - https://github.com/zaunders/MailBoox-SymCode
 - https://github.com/freesig/subscription_barcelona
-- https://github.com/IntegralDevs/integral-developing
+- https://github.com/kristoferlund/holochain-todo-redux
+- https://github.com/kristoferlund/holochain-logistics
 - https://github.com/kristoferlund/react-holochain-hook
+- https://github.com/kristoferlund/holotxt
 - https://github.com/ronin-of-beyonder/holomasterpass
 - https://github.com/p2b-hub/Sport-Sharing
 - https://github.com/cogov/CoGov.rust
