@@ -62,3 +62,9 @@
 - https://watchandcode.com/p/practical-javascript
 - https://javascript.info/ 
 - https://learnjavascript.online/ 
+
+## IMPORTANT
+- immutability: https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
+- destructuring: https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f
+- algorithm: https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html
+- object literals: https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals

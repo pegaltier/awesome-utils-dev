@@ -336,6 +336,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://czeckd.github.io/angular2-svg-icon/demo/  
 
 ## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
+- https://www.youtube.com/watch?v=ybNj-id0kjY Optimizing an Angular application runtime - Minko Gechev
 - https://speakerdeck.com/mgechev/tools-for-fast-angular-applications
 - https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db
 - https://zizzamia.github.io/perfume/
@@ -426,6 +427,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
 - https://youtu.be/eAeoDxLTavc The monorepo blueprint - creating scalable architecture for a monorepo
+- https://youtu.be/EqqNexmu3Ug Super Powered, Server Rendered Progressive Native Apps - Nathan Walker, Jeff Whelpley
+- https://youtu.be/0I8D25nab5c xplat multi-platform tools for Nx workspaces with Nathan Walker
+- https://youtu.be/uUSe0QZm6AE Cross Platform with Angular and Ionic 4 by Mike Hartington
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
 - https://nxplaybook.com/
