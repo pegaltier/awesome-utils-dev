@@ -684,6 +684,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 - https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
+- https://nx.dev/angular/guides/misc-data-persistence
 - https://medium.com/@haldun7/caching-http-requests-while-using-ngrx-effects-98abd50c5c78
 - https://medium.com/angular-in-depth/ngrx-cherry-picking-the-meta-30869953e929
 - https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f  
