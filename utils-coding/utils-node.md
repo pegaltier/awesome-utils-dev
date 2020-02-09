@@ -18,6 +18,11 @@ https://github.com/localtunnel/localtunnel
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/microsoft/playwright
 
+## FRAMEWORKS
+- https://github.com/strongloop/loopback-next
+- https://github.com/nestjs/nest
+- https://github.com/lukeautry/tsoa
+
 ## NODE UPDATE WINDOWS
 
 1. download & install node : latest version from official website

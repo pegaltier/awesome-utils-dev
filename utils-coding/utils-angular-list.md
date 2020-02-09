@@ -337,6 +337,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## ANGULAR SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://www.youtube.com/watch?v=ybNj-id0kjY Optimizing an Angular application runtime - Minko Gechev
+- https://timdeschryver.dev/blog/help-angular-to-make-your-application-faster
 - https://speakerdeck.com/mgechev/tools-for-fast-angular-applications
 - https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db
 - https://zizzamia.github.io/perfume/
@@ -430,6 +431,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://youtu.be/EqqNexmu3Ug Super Powered, Server Rendered Progressive Native Apps - Nathan Walker, Jeff Whelpley
 - https://youtu.be/0I8D25nab5c xplat multi-platform tools for Nx workspaces with Nathan Walker
 - https://youtu.be/uUSe0QZm6AE Cross Platform with Angular and Ionic 4 by Mike Hartington
+- https://www.youtube.com/watch?v=pcTSDMid-aE AngularAir - Advanced Nx
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
 - https://nxplaybook.com/
@@ -685,6 +687,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 - https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
 - https://nx.dev/angular/guides/misc-data-persistence
+- https://medium.com/@gregor.woiwode/ngrx-ducks-9-the-new-api-a3a4be242309
 - https://medium.com/@haldun7/caching-http-requests-while-using-ngrx-effects-98abd50c5c78
 - https://medium.com/angular-in-depth/ngrx-cherry-picking-the-meta-30869953e929
 - https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f  
@@ -1125,6 +1128,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 ## ANGULAR PLUG & PLAY:
 - https://github.com/aviabird/angularspree
 - https://github.com/scullyio/scully
+- https://angularexpo.com
 
 ## ANGULAR DEMO SOURCES / EXAMPLES
 - https://github.com/avatsaev/angular-contacts-app-example
@@ -1243,6 +1247,7 @@ https://xlayers.app/#/home
 - https://julienrenaux.fr/
 - https://blog.ninja-squad.com/
 - https://christianlydemann.com/
+- https://timdeschryver.dev/blog
 
 ## ANGULAR OTHERS ARTICLES
 - https://medium.com/ampgular-bringing-angular-app-t-to-amp-world-and/https-medium-com-ampgular-angular-to-amp-madrid-day-spa-com-use-case-56d6809604fd
@@ -1269,6 +1274,7 @@ https://xlayers.app/#/home
 ## VERSION
 
 ### ANGULAR9
+- https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
 - https://www.telerik.com/blogs/top-new-features-of-angular-9
 - https://indepth.dev/component-features-with-angular-ivy
 - https://christiankohler.net/improved-dependeny-injection-with-the-new-providedin-scopes-any-and-platform
