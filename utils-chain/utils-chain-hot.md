@@ -56,6 +56,7 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 - Capillar: https://capillar.it/
 - Project1800: https://project1800.org/
 - MetaMorph: https://metamorph.pro/
+- Our-Credits: https://our-credit.org/
 
 ## GITHUB HAPPS
 

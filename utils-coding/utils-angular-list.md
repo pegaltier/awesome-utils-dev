@@ -459,6 +459,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.softwarearchitekt.at/aktuelles/6-steps-to-your-angular-based-microfrontend-shell/
 - https://itnext.io/building-scalable-multi-platform-projects-with-angular-and-nx-a13b40885e54
 - https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3
+- https://itnext.io/monorepo-pains-9064db3b9882
 - https://blog.bitsrc.io/sharing-components-with-angular-and-bit-b68896806c18
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://medium.com/swlh/migrating-to-monorepo-ee641dd6502a
