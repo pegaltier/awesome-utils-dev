@@ -9,6 +9,8 @@ npm init
  ## UTILS
 - https://github.com/palmerhq/tsdx
 - https://github.com/runem/ts-simple-type
+- https://gist.github.com/busypeoples/b2d9ecda58ff25f3206e8c171f04b087
+- https://gist.github.com/busypeoples/eebd1f893671959162df97cc8a6292e0
 
 ## LIB
 - https://github.com/typestack/class-validator
@@ -22,7 +24,8 @@ npm init
 - https://twitter.com/sulco/status/1219982511180263424/photo/1
 - https://twitter.com/mgechev/status/1220246042807078912/photo/1
 
-## ES2015/ES6 + TYPESCRIPT COURSES 
+## ES2015/ES6 + TYPESCRIPT COURSES
+- https://gist.github.com/busypeoples/270f29ec6cdd45780889c53e7b52884a
 - https://hughfdjackson.com/javascript/arrow-function-semantics/  
 - http://babeljs.io/docs/learn-es2015/  
 - http://ponyfoo.com/  

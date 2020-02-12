@@ -611,6 +611,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 - https://blog.angular-university.io/rxjs-higher-order-mapping/
 - https://blog.angular-university.io/rxjs-error-handling/
+- https://medium.com/razroo/rxjs-pitfalls-and-how-to-avoid-them-870e54bea467
 - https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff
 - https://www.nerdeez.com/articles/rxjs/top-operators
 - https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0

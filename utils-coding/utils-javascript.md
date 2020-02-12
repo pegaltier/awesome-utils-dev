@@ -1,6 +1,7 @@
 # JAVASCRIPT
 
 ## GUIDE / TOOLS
+- https://github.com/busypeoples/functional-programming-javascript
 - https://airbnb.io/javascript/
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
