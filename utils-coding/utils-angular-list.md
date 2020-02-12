@@ -1036,6 +1036,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/dbfannin/ngx-logger
+- https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/Greentube/ngx-modal
