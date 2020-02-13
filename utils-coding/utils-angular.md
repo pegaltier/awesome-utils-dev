@@ -546,13 +546,23 @@ Design for immutability :
 - cdr.detach() onInit
 - cdr.detectChanges() after the computation
 
-## Other optimization
+### Other optimization
 
 - Cache static content using PWA (ng add @angular:pwa --project "project-name")
 - Normalize the store in the effect and denormalize in the selector
 
 
-## 
+## CODING RULES
+
+### REACTIVE PROGRAMMING
+- use reactive for ngrx store / effects / services
+- use reactive for async processing (cancel/batch/debounce)
+- use reactive to subscribe in container components (async / streams)
+- don't use reactive for view / presentation components
+- their interface is plain data (@input/@output)
+- eventually use ngOnChanges to get derived data
+
+
 ## INTERVIEW
 - did you already develop a simple static website using html and javascript?
 - can you describe in one simple sentence what is reactive programming (rxjs/obs)?
@@ -562,3 +572,5 @@ Design for immutability :
 - how many differents versions of angular did you use?
 - which third party library did you like to use?
 - did you already develop unit-tests on angular?
+- what is the spread operator in javascript?
+- what is the destructuring in javascript?
