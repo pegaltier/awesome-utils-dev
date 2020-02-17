@@ -71,3 +71,4 @@
 - destructuring: https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f
 - algorithm: https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html
 - object literals: https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
+- arrays: https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8

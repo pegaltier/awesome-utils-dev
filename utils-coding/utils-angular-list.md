@@ -213,6 +213,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 
 ## ANGULAR IDE TOOLS SNIPPETS EXTENSION PLUGIN
+- https://dev.to/zaklaughton/every-vs-code-extension-a-javascript-web-developer-should-have-in-2020-with-gifs-2b6n
 - https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
 - https://www.genuitec.com/products/angular-ide/
 - https://scotch.io/bar-talk/best-vs-code-extensions-for-angular-v2-development
@@ -859,6 +860,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## ANGULAR ROUTES ROUTER LAZY LOADING MODULES / ROUTING
+- https://dev.to/angular/angular-9-lazy-loading-components-o04
 - https://blog.angularindepth.com/asynchronous-modules-and-components-in-angular-ivy-1c1d79d45bd3
 - https://github.com/herodevs/herodevs-packages/tree/master/projects/lazy
 - https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24
@@ -929,6 +931,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## ANGULAR UNIT TESTS TESTING
 - https://www.youtube.com/watch?v=S0LxogWSMzE
+- https://www.youtube.com/watch?v=7JucMlrs3dQ
 - https://github.com/ike18t/ng-mocks
 - https://github.com/getsaf/shallow-render
 - https://github.com/Ninja-Squad/ngx-speculoos
@@ -941,6 +944,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/testing-library/angular-testing-library
 - https://dev.to/rfornal/bad-test-bad-1og7
+- https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
 - https://netbasal.com/testing-asynchronous-code-in-angular-using-fakeasync-fc777f86ed13
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
@@ -1277,6 +1281,9 @@ https://xlayers.app/#/home
 ## VERSION
 
 ### ANGULAR9
+- https://dev.to/angular/angular-9-lazy-loading-components-o04
+- https://alexzuza.github.io/angular-9-ivy-change-detection-preview/
+- https://www.softwarearchitekt.at/aktuelles/architecture-with-ivy-a-possible-future-without-angular-modules/
 - https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
 - https://www.telerik.com/blogs/top-new-features-of-angular-9
 - https://indepth.dev/component-features-with-angular-ivy

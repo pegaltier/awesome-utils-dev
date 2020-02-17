@@ -7,6 +7,7 @@
   - [HTML/HEAD/CHECKLIST](#htmlheadchecklist)
   - [GENERATOR BLOCK](#generator-block)
   - [TOOLS](#tools)
+  - [PLUGINS](#plugins)
   - [NEW BACKEND](#new-backend)
   - [DEBUG](#debug)
   - [NPM](#npm)
@@ -73,9 +74,12 @@ web : https://webcode.tools/
 favicon : http://realfavicongenerator.net/
 
 ## TOOLS
-chrome : https://developers.google.com/web/tools/chrome-devtools/
-chrome : https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
-chrome CORS PLUGIN or https://crossorigin.me/
+- https://tiny-helpers.dev/
+
+## PLUGINS
+https://developers.google.com/web/tools/chrome-devtools/
+https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
+https://crossorigin.me/
 
 ## DEBUG
 https://css-tricks.com/debugging-tips-tricks
@@ -290,3 +294,6 @@ https://dev.to/melcor76/the-state-of-web-components-ab3
 
 ## IOT
 https://webofthings.org/standards/
+
+## CONFIG
+- https://prettier.io/docs/en/precommit.html

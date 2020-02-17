@@ -201,10 +201,11 @@ git revert -m 1 <merge-commit-id>
 
 ## TOOLS
 
-- <https://github.com/conventional-changelog/commitlint>
-- <https://github.com/jesseduffield/lazygit>
-- <https://github.com/commitizen/cz-cli>
-- <https://projectr.io/>
+- https://github.com/conventional-changelog/commitlint
+- https://github.com/jesseduffield/lazygit
+- https://github.com/commitizen/cz-cli
+- https://gitexplorer.com/
+- https://projectr.io/
 
 ## ALIAS
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
