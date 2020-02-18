@@ -359,7 +359,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://manning.com/books/angular-2-development-with-typescript  
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison  
 - https://egghead.io/series/angular-2-fundamentals  
-- http://julienrenaux.fr  
 
 ## ANGULAR DOCKER
 - https://devblog.dymel.pl/2017/10/04/angular-in-docker/
