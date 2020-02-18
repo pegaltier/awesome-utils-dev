@@ -120,6 +120,8 @@ holo github>>
 - https://github.com/AaltoGoWood/gowood-poc
 - https://github.com/ogu83/holochain_photos
 - https://github.com/holochain-devcamp/learning-pathways
+- https://github.com/HedayatAbedijoo/holochain_art_game
+- https://github.com/freesig/cc_tuts
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
