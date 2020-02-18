@@ -828,11 +828,9 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/mitsuruog/angular2-minimum-starter  
 - https://github.com/jgodi/angular2-fullstack-starter  
 - https://github.com/preboot/angular2-webpack  
-
 - https://github.com/pkozlowski-opensource/ng2-play  
 - https://github.com/ocombe/ng2-play/tree/ng2-translate  
 - https://github.com/ocombe/angular2-seed/tree/ng2-translate  
-
 - http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angular-2/29844571  
 
 ## CSS / CLASS / UI LIB
