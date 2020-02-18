@@ -101,6 +101,13 @@
 
 # ANGULAR LIST
 
+todo reorganize:
+- CORE
+- BUILD
+- TOOLING
+- ECOSYSTEM
+- EVOLUTION
+
 ##  XP / NEW PROJECT / QUESTIONS
 - Official I18N/transloco or ngx-translate?
 - Nx project or default CLI ?
@@ -379,6 +386,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://www.bennadel.com/blog/3050-setting-the-window-document-title-in-angular-2-beta-9.htm  
 
 ## CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
+- https://ngx.tools/
 - https://angular-builders.dev/home
 - https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 - https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
@@ -747,6 +755,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/maktarsis/routeshub
 - https://github.com/danwahlin/observable-store
 - https://github.com/angular-extensions/model
+- https://github.com/universal-model/universal-model-angular
+- https://github.com/davidkpiano/xstate/
 - https://stackblitz.com/edit/rxjs-arjn1h
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b
@@ -854,6 +864,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## ROUTES ROUTER LAZY LOADING MODULES / ROUTING
 - https://dev.to/angular/angular-9-lazy-loading-components-o04
+- https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a
 - https://blog.angularindepth.com/asynchronous-modules-and-components-in-angular-ivy-1c1d79d45bd3
 - https://github.com/herodevs/herodevs-packages/tree/master/projects/lazy
 - https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24
