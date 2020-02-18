@@ -298,7 +298,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://www.typescriptlang.org/Handbook  
 - https://acadgild.com/blog/typescript-functions/  
 - https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md  
-
 - https://angular.io/docs/js/latest/resources.html  
 - http://angularjs.blogspot.fr/2015/12/building-mobile-apps-with-angular-2-and.html  
 - https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html  
