@@ -126,6 +126,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
+- https://medium.com/javascript-in-plain-english/angular-accessibility-81736ab4f1c4
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
 - https://dev.to/gc_psk/the-principles-for-writing-awesome-angular-components-2ofi
@@ -251,7 +252,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## ANGULAR CLI
 - https://github.com/manfredsteyer/angular-crud
-- https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 - https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
 - https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
 - https://github.com/angular/angular-cli  
@@ -388,12 +388,14 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.webcodegeeks.com/javascript/angular-js/run-angular-2-production-today/   
 - http://www.bennadel.com/blog/3050-setting-the-window-document-title-in-angular-2-beta-9.htm  
 
-## ANGULAR CUSTOM BUILD / CUSTOM WEBPACK
+## ANGULAR CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
+- https://angular-builders.dev/home
+- https://blog.angular.io/introducing-cli-builders-d012d4489f1b
+- https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
 - https://github.com/angular/angular-cli/issues/6137
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
 - https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
 - https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-build-chain-without-ejecting.aspx
-
 - https://webpack.js.org/plugins/context-replacement-plugin/
 
 ## ANGULAR ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS / MICROFRONT
@@ -468,6 +470,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/invisible-reports/report-we-went-monorepo-c0aadd144fb
 - https://blog.strongbrew.io/opinionated-guidelines-for-large-nx-angular-projects/
 - https://blog.angularindepth.com/release-management-in-angular-with-lerna-21b4ab417c59
+- https://dev.to/thisdotmedia/angular-libraries-with-nx-for-enterprise-apps-395h
 - https://dev.to/angular/sustainable-angular-architectures-with-tactical-ddd-and-monorepos-c61
 - https://dev.to/gc_psk/building-an-enterprise-grade-angular-project-structure-3ihk
 - https://speakerdeck.com/manfredsteyer/sustainable-architectures-with-angular-monorepos-and-ddd-at-ijs-2019-in-munich
@@ -729,6 +732,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 - http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
 - https://github.com/Wykks/wonderful-todo-list
+- https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
+- https://www.youtube.com/watch?v=T-vQoI_AM9E Magical TypeScript features for NgRx
 
 ## ANGULAR NGRX/DATA EXAMPLE
 - https://github.com/ngrx/platform/network/dependents?package_id=UGFja2FnZS00NjAxODgyMTE%3D
