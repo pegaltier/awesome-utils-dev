@@ -2,6 +2,7 @@
 
 - [GIT TIPS & HELPERS](#git-tips--helpers)
   - [TUTORIAL LIST](#tutorial-list)
+  - [TOOLS](#tools)
   - [MOST USED](#most-used)
   - [CLONE](#clone)
   - [RESET / CLEAN](#reset--clean)
@@ -12,7 +13,7 @@
   - [VSCODE GIT SSH](#vscode-git-ssh)
   - [CREATE BRANCH](#create-branch)
   - [MERGE BRANCH](#merge-branch)
-  - [TOOLS](#tools)
+
   - [ALIAS](#alias)
 
 ## TUTORIAL LIST
@@ -41,6 +42,7 @@ git stash pop (restore the stashed diff on current branch)
 git fetch origin <sha1-of-commit-> (fetch a commit or branch or tag)
 git rev-parse HEAD (get last commit hash)
 git cherry-pick d42c389f (apply any commit on current branch)
+git revert d42c389f (revert any commit on current branch)
 git remote prune origin (clean local branches that have been deleted from remote)
 git branch -D branchname (delete local branch)
 ```
@@ -187,11 +189,11 @@ git push -u origin 1109-issue-name
 
 ## MERGE BRANCH
 
-Example for merging from master into my-branch
+Example for merging master into custom_branch
 - Solution1. git checkout custom_branch && git merge master
 - Solution2. git checkout custom_branch && git rebase master
 
-You can also use VSCode plugin "Git merger":
+You can also use Gitlab/Bitbucker explorer or VSCode plugin "Git merger":
 - from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
 
 More infos
@@ -212,7 +214,6 @@ https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 ```
 git config --global alias.pul "pull origin master"
 git config --global alias.pus "push origin master"
-
 git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit

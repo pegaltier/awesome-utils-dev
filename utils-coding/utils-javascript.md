@@ -1,8 +1,9 @@
 # JAVASCRIPT
 
 ## GUIDE / TOOLS
-- https://github.com/busypeoples/functional-programming-javascript
+- https://devhints.io/lodash
 - https://airbnb.io/javascript/
+- https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
 - https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
