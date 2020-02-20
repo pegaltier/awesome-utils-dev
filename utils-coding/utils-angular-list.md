@@ -757,6 +757,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/angular-extensions/model
 - https://github.com/universal-model/universal-model-angular
 - https://github.com/davidkpiano/xstate/
+- https://github.com/georgebatalinski/localstatetodo
 - https://stackblitz.com/edit/rxjs-arjn1h
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b
@@ -772,6 +773,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
 - https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
 - https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
+- https://www.youtube.com/watch?v=fBQnDSeN8r8 Brew your own state management vs NgRx
 
 ## IMMUTABLE / IMMUTABILITY VS ENCAPSULATION
 - https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l

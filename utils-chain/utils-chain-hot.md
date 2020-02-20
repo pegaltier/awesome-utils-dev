@@ -122,6 +122,8 @@ holo github>>
 - https://github.com/holochain-devcamp/learning-pathways
 - https://github.com/HedayatAbedijoo/holochain_art_game
 - https://github.com/freesig/cc_tuts
+- https://github.com/eyss/h-wiki-back
+- https://github.com/eyss/h-wiki-front
 
 ## UNOFFICIAL SITES
 - https://holofuel.best

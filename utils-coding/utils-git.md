@@ -16,11 +16,19 @@
   - [ALIAS](#alias)
 
 ## TUTORIAL LIST
-- <http://learngitbranching.js.org>
-- <https://blog.octo.com/git-dans-la-pratique-22/>
-- <https://guides.github.com/features/mastering-markdown/>
-- <https://juristr.com/blog/2019/04/productive-git-for-developers/>
-- <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
+- http://learngitbranching.js.org
+- https://trunkbaseddevelopment.com
+- https://blog.octo.com/git-dans-la-pratique-22
+- https://guides.github.com/features/mastering-markdown
+- https://juristr.com/blog/2019/04/productive-git-for-developers
+- https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
+## TOOLS
+- https://github.com/conventional-changelog/commitlint
+- https://github.com/jesseduffield/lazygit
+- https://github.com/commitizen/cz-cli
+- https://gitexplorer.com/
+- https://projectr.io/
 
 ## MOST USED 
 ```
@@ -187,10 +195,10 @@ You can also use VSCode plugin "Git merger":
 - from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
 
 More infos
-- <https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c>
-- <https://www.atlassian.com/git/tutorials/merging-vs-rebasing>
-- <https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase>
-- <https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333>
+- https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
+- https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+- https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
+- https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
 
 ## REVERT
 
@@ -198,14 +206,6 @@ More infos
 git revert <commit-id>
 git revert -m 1 <merge-commit-id>
 ```
-
-## TOOLS
-
-- https://github.com/conventional-changelog/commitlint
-- https://github.com/jesseduffield/lazygit
-- https://github.com/commitizen/cz-cli
-- https://gitexplorer.com/
-- https://projectr.io/
 
 ## ALIAS
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
