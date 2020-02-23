@@ -2,9 +2,17 @@ IT JOB
 Développeur web, webapp, mobileapp ? 
 Trouvez un job ici ! JAVA, ANGULAR, ANDROID, REACT, PHP, NODEJS, IOS, HTML, CSS, JAVASCRIPT...
 Agent pour développeurs haut-niveau
+
+## REMOTE
+https://frontendremotejobs.com/
+https://breakout.careers/
+https://remoteleaf.com/
+https://workfromhomejobs.me/remote-developer-jobs/
+https://gist.github.com/stowball/26fb03aeaa0e8de1def00dcb5d8f425e
+
+## ALL
 agentdedeveloppeur
 top-five
-Sites de recherche d'emploi dans l'informatique
 remotive
 rhezo
 kicklox
@@ -155,6 +163,5 @@ optioncarriere
 experteer
 careerbuilder
 jobeo
-ALL JOB
 Onvabosser
 wellpaid.io

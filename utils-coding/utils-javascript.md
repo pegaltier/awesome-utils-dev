@@ -3,8 +3,19 @@
 ## GUIDE / TOOLS
 - https://devhints.io/lodash
 - https://airbnb.io/javascript/
+- https://sulco.stackblitz.io/
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://github.com/lydiahallie/javascript-questions
+- https://learnvanillajs.com/roadmap/ 
+- https://learnjavascript.online/
+- https://github.com/leonardomso/33-js-concepts
+- https://learn.co/courses/introduction-to-javascript
+- https://watchandcode.com/p/practical-javascript
+- https://javascript.info/ 
+- https://learnjavascript.online/ 
+
+## ARTICLES BEST PRACTICES
 - https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
 - https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
@@ -55,16 +66,6 @@
 
 ## ALLIN FRAMEWORK
 - https://github.com/vendure-ecommerce/vendure
-
-## LEARN
-- https://github.com/lydiahallie/javascript-questions
-- https://learnvanillajs.com/roadmap/ 
-- https://learnjavascript.online/
-- https://github.com/leonardomso/33-js-concepts
-- https://learn.co/courses/introduction-to-javascript
-- https://watchandcode.com/p/practical-javascript
-- https://javascript.info/ 
-- https://learnjavascript.online/ 
 
 ## IMPORTANT
 - pure functions: https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3 + https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c

@@ -1,28 +1,34 @@
 
-## IONIC2 
-https://apps.ionic.io/apps 
- 
-http://ionicframework.com/docs/v2/getting-started/installation/ 
+# IONIC
 
-icons : https://ionicframework.com/docs/v2/ionicons/ 
-push1 : https://docs.ionic.io/services/push/ 
-push1 : https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59#.l7dh5evsv 
-push2 : https://documentation.onesignal.com/docs/ionic-sdk-setup
-push2 : https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
-push2 : https://ionicframework.com/docs/v2/native/onesignal/
-push2 : http://www.codingandclimbing.co.uk/blog/ionic-2-setup-push-notifications-for-android-with-onesignal-17
-push2 : https://documentation.onesignal.com/docs/customize-notification-icons
-theme : http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/ 
+## BEST PRACTICES
+- https://devdactic.com/10-ionic-problems/
+
+## LINKS
+https://apps.ionic.io/apps 
+http://ionicframework.com/docs/
+
+## GENERAL
+
 component : http://ionicframework.com/docs/v2/components/#overview 
 sample : https://github.com/driftyco/ionic-conference-app
 events : https://github.com/driftyco/ionic/blob/master/demos/src/events/app.component.ts
 events : http://ionicframework.com/docs/v2/api/util/Events/
-parent/child : http://stackoverflow.com/questions/35832407/ionic-2-modify-a-variable-in-app-js-from-child-page
 lifecycle : https://saniyusuf.com/ionic-by-component-page-lifecycle/
 lifecycle : http://blog.ionic.io/navigating-lifecycle-events/
 
-init project :  
- 
+### UI
+
+- https://ionicframework.com/docs/v2/ionicons/ 
+- http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/ 
+
+### CLI
+
+- http://ionicframework.com/docs/cli
+
+#### CLI GENERAL
+
+```
 ionic start cutePuppyPics --v2					> start new project   
 cd cutePuppyPics											 
 ionic serve										> test web project 
@@ -35,11 +41,9 @@ ionic run android  								> run project on android device
 ionic run android --prod 						> run project on android device + minify 
 ionic run android --prod --release				> run project on android device + minify + certificate
 ionic build browser --prod
-https://ionicframework.com/docs/intro/deploying/
+```
 
-
- 
- 
+#### CLI REAL DEVICE
 ionic emulate ios --livereload --consolelogs --serverlogs
 ionic emulate android --livereload --consolelogs --serverlogs
  
@@ -48,32 +52,36 @@ ionic run android -l -c -s
 ionic run android -c
 
  
-generate elements 
+#### CLI GENERATE 
+```
 ionic g page login 
 ionic g provider MyData 
 ionic g directive ElasticHeader
 ionic g directive textHolderPipe
+```
 
-
-
-
-switch from computer
+#### CLI NEW COMPUTER
+```
 ionic state save
 ionic state restore
+```
 
-ionic icons & splash screens
-http://ionicframework.com/docs/cli/icon-splashscreen.html
+### PUSH NOTIFICATIONS
+- https://docs.ionic.io/services/push/ 
+- https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59#.l7dh5evsv 
+- https://documentation.onesignal.com/docs/ionic-sdk-setup
+- https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
+- https://ionicframework.com/docs/v2/native/onesignal/
+- http://www.codingandclimbing.co.uk/blog/ionic-2-setup-push-notifications-for-android-with-onesignal-17
+- https://documentation.onesignal.com/docs/customize-notification-icons
 
-
-
-
-
-ionic view (share with others using ionic view app)
+### IONIC VIEW
+(share with others using ionic view app)
 cmd: ionic upload
-https://apps.ionic.io/apps
-http://view.ionic.io/
-http://ionicframework.com/docs/cli/uploading_viewing.html
-https://play.google.com/store/apps/details?id=com.ionic.viewapp
+- https://apps.ionic.io/apps
+- http://view.ionic.io/
+- http://ionicframework.com/docs/cli/uploading_viewing.html
+- https://play.google.com/store/apps/details?id=com.ionic.viewapp
 
 update app without store
 https://docs.ionic.io/services/deploy/
@@ -93,7 +101,7 @@ https://forum.ionicframework.com/t/building-for-browsers-pwa/72689
 creator
 https://creator.ionic.io/app/login
 
-UPDATE IONIC VERSION
+### UPDATE IONIC VERSION
 update 3.3.0 https://github.com/ionic-team/ionic/releases/tag/v3.3.0
 update version : http://blog.ionic.io/ionic-2-rc-weekend-updates/
 delete node modules and update new version of ionic-angular inside package.json 

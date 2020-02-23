@@ -225,6 +225,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
 
 ## IDE BEST EXTENSIONS
+- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
@@ -232,7 +233,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 
 ## IDE OTHERS EXTENSIONS
-- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+- https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 - https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
@@ -691,6 +692,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 - https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
 - https://nx.dev/angular/guides/misc-data-persistence
+- https://tomastrajan.github.io/angular-ngrx-material-starter
 - https://medium.com/@gregor.woiwode/ngrx-ducks-9-the-new-api-a3a4be242309
 - https://medium.com/@haldun7/caching-http-requests-while-using-ngrx-effects-98abd50c5c78
 - https://medium.com/angular-in-depth/ngrx-cherry-picking-the-meta-30869953e929
@@ -865,6 +867,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## ROUTES ROUTER LAZY LOADING MODULES / ROUTING
+- https://medium.com/angular-in-depth/angular-code-splitting-or-how-to-share-components-between-lazy-modules-432c755e389c
 - https://dev.to/angular/angular-9-lazy-loading-components-o04
 - https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a
 - https://blog.angularindepth.com/asynchronous-modules-and-components-in-angular-ivy-1c1d79d45bd3
@@ -1134,6 +1137,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/valor-software/ngx-bootstrap
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/akveo/ngx-admin
+- https://github.com/ng-alain/ng-alain
 - https://github.com/angular/components
 - https://github.com/NG-ZORRO/ng-zorro-antd
 - http://ng-lightning.github.io/ng-lightning/  
