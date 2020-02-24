@@ -3,6 +3,7 @@
 ## TOOLS 
 - http://pxtoem.com/
 - https://flukeout.github.io/
+- https://hugogiraudel.github.io/selectors-explained/
 
 ## BEST PRACTIVES
 - https://dev.to/ladybug/css-cheat-sheets-3ee0

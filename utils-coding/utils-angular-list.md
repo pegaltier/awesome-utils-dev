@@ -47,8 +47,7 @@
 - [OBSERVABLE/REACTIVE/RXJS](#observablereactiverxjs)
 - [RXJS EXTERNAL LIB](#rxjs-external-lib)
 - [HTTP](#http)
-- [BACKEND MOCK BACKEND HTTP MOCK FIREBASE](#backend-mock-backend-http-mock-firebase)
-- [FIREBASE BACKEND](#firebase-backend)
+- [BACKEND MOCK BACKEND HTTP MOCK FIREBASE GRAPHQL](#backend-mock-backend-http-mock-firebase-graphql)
 - [STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY](#state-management-redux-ngrx-store-ngrx-entity)
 - [REDUX PATTERN / STORE / STATE MANAGEMENT / NGRX ALTERNATIVE](#redux-pattern--store--state-management--ngrx-alternative)
 - [IMMUTABLE / IMMUTABILITY VS ENCAPSULATION](#immutable--immutability-vs-encapsulation)
@@ -129,6 +128,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
+- https://speakerdeck.com/kuncevic/how-to-architect-your-angular-app-like-a-pro
+- https://indepth.dev/supercharge-event-management-in-your-angular-application/
 - https://medium.com/javascript-in-plain-english/angular-accessibility-81736ab4f1c4
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
@@ -667,13 +668,11 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - http://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/  
 - https://github.com/zaqqaz/ng2-rest-api
 
-
-## BACKEND MOCK BACKEND HTTP MOCK FIREBASE
+## BACKEND MOCK BACKEND HTTP MOCK FIREBASE GRAPHQL
+- https://speakerdeck.com/kuncevic/graphql-magic-with-angular?slide=53
 - http://www.sitepoint.com/angular-2-mockbackend  
 - http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backendless-development
 - https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
-
-## FIREBASE BACKEND
 - https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-ci-598181cfc6e5
 
 ## STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
@@ -958,6 +957,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
 - https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer
+- https://medium.com/@kevinkreuzer/test-your-components-using-angular-materials-component-harnesses-f9c1deebdf5d
 - https://medium.com/@pattferraggi/how-i-found-a-problem-with-angular-unit-testing-and-decided-to-fix-it-myself-7c00b58d57a7
 - https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 - https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
@@ -997,6 +997,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 
 ## MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS
+- https://medium.com/angular-in-depth/step-by-step-guide-to-creating-your-first-library-in-angular-6827276bfc9f
 - https://blog.angularindepth.com/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5
 - https://next.angular.io/guide/creating-libraries
 - http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
@@ -1035,9 +1036,10 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
 
-## LIB CDK
+## LIB CDK MATERIAL
 - https://material.angular.io/cdk/a11y/overview
 - https://alligator.io/angular/infinite-scroll
+- https://alligator.io/angular/custom-svg-icons-angular-material
 
 ## LIB LIBST
 - https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
