@@ -510,11 +510,24 @@ test end to end (voir ninja angular page 157)
 
 ## LAZY MODULES
 
-### one shared module
-If we put all shared pipes, directives and common components in one big shared module and then import it everywhere(inside sync and async chunks) then that code will be in our initial main chunk. So if you want to get a bad initial load performance then it’s the way to go.
+### Benefits
+- faster rebuilds in dev mode 
+- feature isolation/guarantees
+- faster application boot time
 
-### multiple shared modules
+### One shared module
+If we put all shared pipes, directives and common components in one big shared module and then import it everywhere (inside sync and async chunks) then that code will be in our initial main chunk. So if you want to get a bad initial load performance then it’s the way to go.
+
+### Multiple shared modules
 On the other hand, if we split commonly used code across lazy loaded modules then a new shared chunk will be created and will be loaded only if any of those lazy modules are loaded. This should improve the application initial load. But do it wisely because sometimes it’s better to put small code in one chunk that having the extra request needed for a separate chunk load.
+
+### Shared modules part
+Shared modules will be imported by many lazy loaded features so they must only contain declarables (components, directives and pipes) and modules (which only contain declarables) and must NEVER implement any services (providers: [ ]).
+
+### Services
+- Core services (not lazy) must be in the core folder and can use the providedIn: 'root' syntax from their @Injectable() decorators and then can be used in all kind of modules (lazy or not) without putting them in providers: [ ] of any module...
+- Shared services (shared by lazy modules) Because if you put this service in the shared module and inside the provider array and then use shared like its intented to use in multiple lazy modules then every lazy loaded module would get its own service instance and not the intented singleton.
+- Feature services (lazy module) can be scoped to that feature by removing the providedIn: 'root' from their @Injectable() decorators and adding them to the providers: [ ] array of the lazy feature module instead.
 
 ## CHANGE DETECTION OPTIMIZATION
 

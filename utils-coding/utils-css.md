@@ -6,9 +6,9 @@
 - https://hugogiraudel.github.io/selectors-explained/
 
 ## BEST PRACTIVES
+- https://github.com/samanthaming/Flexbox30
 - https://dev.to/ladybug/css-cheat-sheets-3ee0
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
 ## WEIGHT
 
 - https://uxengineer.com/css-specificity-avoid-important-css/
