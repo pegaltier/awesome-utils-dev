@@ -125,6 +125,8 @@ holo github>>
 - https://github.com/eyss/h-wiki-back
 - https://github.com/eyss/h-wiki-front
 - https://github.com/sdelvalle57/hUdemy
+- https://github.com/milkyklim/into-pieces
+- https://github.com/HedayatAbedijoo/hc-sample-apps
 
 ## UNOFFICIAL SITES
 - https://holofuel.best

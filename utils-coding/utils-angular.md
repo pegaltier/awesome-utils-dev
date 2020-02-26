@@ -508,6 +508,28 @@ describe('RaceService', () => {
  
 test end to end (voir ninja angular page 157) 
 
+## MONOREPO
+```
+nvm install 12.16.1 # install the latest npm using nvm
+npm install -g @nrwl/cli # install the latest nrwl cli using npm
+node -v # check that the good version of node is selected
+npx create-nx-workspace@latest my-monorepo # init the repo
+npm install --save-dev @nrwl/angular # add angular capability
+nx g @nrwl/angular:app my-project/my-app # or just "nx g myapp" 
+nx update @angular/core # or ng update @angular/core
+```
+```
+nvm use v12.16.1 # select the good version of node
+nx serve my-project-my-app # start the new project
+```
+
+### RESOURCES
+- https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console
+- https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
+- https://github.com/Bielik20/nx-mean-starter/commit/aacbfa66dbd6465a0e0087fe6dcccd1b805619c3
+- https://medium.com/@gregor.woiwode/how-to-setup-jest-in-an-ionic-4-project-ff1e5b72dd79
+
+
 ## LAZY MODULES
 
 ### Benefits

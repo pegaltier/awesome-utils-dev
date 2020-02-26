@@ -76,7 +76,10 @@ git fetch --prune
 git fetch origin
 git reset --hard origin/master
 ```
-
+```
+git reset --hard # Reset any changes
+git clean -fd # Delete newly added files and directories
+```
 - Remove local files
 ```
 git clean -n -f (to see)
