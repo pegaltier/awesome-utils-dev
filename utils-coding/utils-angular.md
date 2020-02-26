@@ -210,25 +210,26 @@ subscription.unsubscribe();
 
 - http://reactivex.io/rxjs/manual/overview.html#subject
 
-Subject: Multicasted observable
-BehaviorSubject: whenever a new Observer subscribe it will immediatly receive the current value
-ReplaySubject: similar to a BehaviorSubject but also records multiple values from the Observable execution and replays them to new subscribers.
-AsyncSubject: only the last value of the Observable execution is sent to its observers, and only when the execution completes.
+- Subject: Multicasted observable
+- BehaviorSubject: whenever a new Observer subscribe it will immediatly receive the current value
+- ReplaySubject: similar to a BehaviorSubject but also records multiple values from the Observable execution and replays them to new subscribers.
+- AsyncSubject: only the last value of the Observable execution is sent to its observers, and only when the execution completes.
 
 ### EVENT EMITTER
 
-EventEmitter is aimed to help communication between component using input and output. It extends RxJS Subject but it's directly provided by the @angular/core package. EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres :
+- EventEmitter is aimed to help communication between component using input and output. It extends RxJS Subject but it's directly provided by the @angular/core package. EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres :
 • une méthode pour réagir aux événements.
 • une méthode pour réagir aux erreurs.  
 • une méthode pour réagir à la terminaison.
-Un EventEmitter peut émettre un événement avec la méthode emit().
 
+- Un EventEmitter peut émettre un événement avec la méthode emit().
+```
 const emitter = new EventEmitter();
 const subscription = emitter.subscribe(   value => console.log(value),   error => console.log(error),   () => console.log('done') );
 emitter.emit('hello'); emitter.emit('there'); emitter.complete();
 subscription.unsubscribe(); // unsubscribe  
 // logs "hello", then "there", then "done"
-
+```
 ### OPERATORS (FRENCH)
 
 • take(n) va piocher les n premiers éléments.  
@@ -251,37 +252,38 @@ They are pure functions. The function always returns the same result if the same
 
 #### TRANSFORMATION
 
-mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
-switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
-concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained.
-exhaustMap is like mergeMap but it ignore new Observables until the current one is still not completed.
+- mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
+- switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
+- concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained.
+- exhaustMap is like mergeMap but it ignore new Observables until the current one is still not completed.
+
 
 choose the appropriate operator based on the use case:
-concatMap: for doing things in sequence while waiting for completion
-mergeMap: for doing things in parallel
-switchMap: in case we need cancellation logic
-exhaustMap: for ignoring new Observables while the current one is still ongoing
+- concatMap: for doing things in sequence while waiting for completion
+- mergeMap: for doing things in parallel
+- switchMap: in case we need cancellation logic
+- exhaustMap: for ignoring new Observables while the current one is still ongoing
 
 #### COMBINATION
 
-combineLatest: the Observable will emit an array of value when the list of observables he got all emitted at least a single value
-forkJoin: don’t let me know until all the Observables are complete, then give me all the values at once
-merge: combine multiple Observables into one. So if one of the observables emit a value the combined one will emit as well
-concat: subscribe to Observables in order but only when the previous completes, let me know, then move to the next one.
-pairWise: let me know when the Observable emits, but also give me the previous value
+- combineLatest: the Observable will emit an array of value when the list of observables he got all emitted at least a single value
+- forkJoin: don’t let me know until all the Observables are complete, then give me all the values at once
+- merge: combine multiple Observables into one. So if one of the observables emit a value the combined one will emit as well
+- concat: subscribe to Observables in order but only when the previous completes, let me know, then move to the next one.
+- pairWise: let me know when the Observable emits, but also give me the previous value
 
 #### CREATION
 
-from: this operator will turn array, promise or iterable into an observable
+- from: this operator will turn array, promise or iterable into an observable
 
 #### UTILITY
 
-tap: transparently perform action or side-effects when a stream emits value, or error or complete
-finalize: will be called when observable terminates on complete or error
+- tap: transparently perform action or side-effects when a stream emits value, or error or complete
+- finalize: will be called when observable terminates on complete or error
 
 #### ERROR HANDLING
 
-catchError: allows to catch and replace (with empty) or to re-throw (with throwError) to subscribers
+- catchError: allows to catch and replace (with empty) or to re-throw (with throwError) to subscribers
 
 ### MORE OPERATORS
 
@@ -533,7 +535,7 @@ describe('RaceService', () => {   let service: RaceService;
 });
 
 cas espionner appel et remplacer par factice
-
+```
 import { TestBed } from '@angular/core/testing';
 describe('RaceService', () => {
   const localStorage = jasmine.createSpyObj('LocalStorageService', ['get']);
@@ -568,7 +570,7 @@ describe('RaceService', () => {
   });  
  });  
 });
-
+```
 test end to end (voir ninja angular page 157)
 
 ## MONOREPO
@@ -579,7 +581,7 @@ test end to end (voir ninja angular page 157)
 nvm install 12.16.1 # install the latest npm using nvm
 npm install -g @nrwl/cli # install the latest nrwl cli using npm
 node -v # check that the good version of node is selected
-npx create-nx-workspace@latest my-monorepo # init the repo
+npx create-nx-workspace@latest my-project # init the repo
 npm install --save-dev @nrwl/angular # add angular capability
 nx g @nrwl/angular:app my-project/my-app # or just "nx g myapp" 
 nx update @angular/core # or ng update @angular/core
@@ -607,15 +609,15 @@ nx serve my-project-my-app # start the new project
 
 ### One shared module
 
-If we put all shared pipes, directives and common components in one big shared module and then import it everywhere (inside sync and async chunks) then that code will be in our initial main chunk. So if you want to get a bad initial load performance then it’s the way to go.
+- If we put all shared pipes, directives and common components in one big shared module and then import it everywhere (inside sync and async chunks) then that code will be in our initial main chunk. So if you want to get a bad initial load performance then it’s the way to go.
 
 ### Multiple shared modules
 
-On the other hand, if we split commonly used code across lazy loaded modules then a new shared chunk will be created and will be loaded only if any of those lazy modules are loaded. This should improve the application initial load. But do it wisely because sometimes it’s better to put small code in one chunk that having the extra request needed for a separate chunk load.
+- On the other hand, if we split commonly used code across lazy loaded modules then a new shared chunk will be created and will be loaded only if any of those lazy modules are loaded. This should improve the application initial load. But do it wisely because sometimes it’s better to put small code in one chunk that having the extra request needed for a separate chunk load.
 
 ### Shared modules part
 
-Shared modules will be imported by many lazy loaded features so they must only contain declarables (components, directives and pipes) and modules (which only contain declarables) and must NEVER implement any services (providers: [ ]).
+- Shared modules will be imported by many lazy loaded features so they must only contain declarables (components, directives and pipes) and modules (which only contain declarables) and must NEVER implement any services (providers: [ ]).
 
 ### Services
 
