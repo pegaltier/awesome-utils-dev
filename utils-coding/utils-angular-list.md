@@ -1153,6 +1153,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/osahner/ngx-show-hide-password
 - https://akveo.github.io/ngx-admin/
+- https://github.com/lon-yang/ngx-markdown-editor
 - https://ornamentum.app/
 - https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
   -- old

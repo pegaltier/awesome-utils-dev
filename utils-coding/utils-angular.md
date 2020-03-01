@@ -594,6 +594,7 @@ nx serve my-project-my-app # start the new project
 
 ### Resources
 
+- https://nx.dev/angular/getting-started/getting-started
 - https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://github.com/Bielik20/nx-mean-starter/commit/aacbfa66dbd6465a0e0087fe6dcccd1b805619c3

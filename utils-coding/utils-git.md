@@ -13,7 +13,6 @@
   - [VSCODE GIT SSH](#vscode-git-ssh)
   - [CREATE BRANCH](#create-branch)
   - [MERGE BRANCH](#merge-branch)
-
   - [ALIAS](#alias)
 
 ## TUTORIAL LIST
