@@ -688,7 +688,8 @@ Design for immutability :
 - eventually use ngOnChanges to get derived data
 
 ## INTERVIEW
-
+- what was the most challenging task in your previous project?
+- what was your biggest mistake in development?
 - did you already develop a simple static website using html and javascript?
 - can you describe in one simple sentence what is reactive programming (rxjs/obs)?
 - can you describe in one simple sentence what is redux (ngrx)?

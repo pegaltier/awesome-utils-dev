@@ -44,6 +44,7 @@ git cherry-pick d42c389f (apply any commit on current branch)
 git revert d42c389f (revert any commit on current branch)
 git remote prune origin (clean local branches that have been deleted from remote)
 git branch -D branchname (delete local branch)
+git config --get remote.origin.url (check the remote url)
 ```
 
 ## CLONE 

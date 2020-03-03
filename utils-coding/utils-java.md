@@ -21,3 +21,11 @@
 
 ## TESTS
 - https://site.mockito.org/
+
+## REACTIVE
+- https://github.com/ReactiveX/RxJava
+- https://vertx.io/
+
+## BASICS
+- https://www.w3schools.com/java/default.asp
+- https://www.geeksforgeeks.org/differences-treemap-hashmap-linkedhashmap-java/
