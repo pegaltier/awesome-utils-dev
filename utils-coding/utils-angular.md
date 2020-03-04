@@ -464,6 +464,17 @@ this.\_renderer2.setElementProperty(this.\_elementRef,'add-property-here',true);
 
 ## ANGULAR TESTING
 
+- Separate business logic from UI
+- Use more dumb components
+- Test business logic and UI separately
+- Test actions and impact on the store
+- Create custom validators for forms
+
+### EXAMPLE TYPE OF TESTS
+my-comp.ui.spec.ts
+my-comp.io.spec.ts
+my-comp.bu.spec.ts
+
 - https://angular.io/guide/testing
 - http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/
 - http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-2/
@@ -688,15 +699,22 @@ Design for immutability :
 - eventually use ngOnChanges to get derived data
 
 ## INTERVIEW
-- what was the most challenging task in your previous project?
-- what was your biggest mistake in development?
-- did you already develop a simple static website using html and javascript?
-- can you describe in one simple sentence what is reactive programming (rxjs/obs)?
-- can you describe in one simple sentence what is redux (ngrx)?
-- can you describe in one simple sentence what is typescript?
-- what did you like and what did you dislike on Angular?
-- how many differents versions of angular did you use?
-- which third party library did you like to use?
-- did you already develop unit-tests on angular?
-- what is the spread operator in javascript?
-- what is the destructuring in javascript?
+
+### BREAKING ICE QUESTIONS:
+- how many different versions of angular did you use?
+- which third party libraries do you like to use?
+- did you already develop unit-tests in angular? + (which toolkit)?
+
+### OPEN QUESTIONS:
+- what was the most challenging thing you have had to do in Angular?
+- what was your biggest mistake in front-end development?
+- what do you like and what do you dislike in Angular?
+
+### TECHNICAL QUESTIONS:
+- can you describe what is reactive programming (rxjs/observable)?
+- can you describe what is redux (ngrx)?
+- can you describe what is typescript?
+
+### CLOSED QUESTIONS:
+- what is the spread operator in javascript?
+- what is the destructuring in javascript?
