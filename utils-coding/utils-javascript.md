@@ -4,6 +4,7 @@
 - https://devhints.io/lodash
 - https://airbnb.io/javascript/
 - https://sulco.stackblitz.io/
+- https://vanillajstoolkit.com/
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://github.com/lydiahallie/javascript-questions
@@ -33,6 +34,7 @@
 
 ## LIB UTILS
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
+- https://github.com/vvo/javascript-library-template
 - https://github.com/date-fns/date-fns
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/ianstormtaylor/superstruct
