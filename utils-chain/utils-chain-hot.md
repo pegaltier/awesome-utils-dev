@@ -128,6 +128,7 @@ holo github>>
 - https://github.com/milkyklim/into-pieces
 - https://github.com/HedayatAbedijoo/hc-sample-apps
 - https://github.com/ddd-mtl/snapmail-dna
+- https://github.com/zo-el/peer-vis-2.0
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
