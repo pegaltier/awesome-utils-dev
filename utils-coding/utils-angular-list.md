@@ -732,6 +732,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/briebug/ngrx-auto-entity
+- https://github.com/larscom/ngrx-store-storagesync
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload
 - https://github.com/MrWolfZ/ngrx-forms
@@ -1122,6 +1123,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/dbfannin/ngx-logger
+- https://github.com/Angular-RU/angular-logger
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
