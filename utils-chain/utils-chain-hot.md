@@ -204,7 +204,8 @@ https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 
 ## HAPP DEVELOPMENT
 
-https://developer.holochain.org/start.html
+- https://holochain-community-resources.github.io/design-workshop/#0
+- https://developer.holochain.org/start.html
 
 ## Install permenently
 - nix-env -f https://holochain.love -iA holochain.hc

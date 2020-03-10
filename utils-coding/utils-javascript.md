@@ -70,9 +70,25 @@
 - https://github.com/vendure-ecommerce/vendure
 
 ## IMPORTANT
-- pure functions: https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3 + https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c
-- immutability: https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
-- destructuring: https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f
-- algorithm: https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html
-- object literals: https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
-- arrays: https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8
+
+###
+
+### PURE FUNCTIONS
+- https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3
+- https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c
+
+### IMMUTABILITY
+- https://ultimatecourses.com/blog/all-about-immutable-arrays-and-objects-in-javascript
+- https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
+
+### DESTRUCTURING
+- https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f
+
+### ALGORITHM
+- https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html
+
+### OBJECT LITERALS
+- https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
+
+### ARRAYS
+- https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8

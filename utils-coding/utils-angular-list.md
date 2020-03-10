@@ -447,6 +447,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://webcomponents.dev/
 - https://single-spa.js.org/
 - https://frint.js.org/
+- https://www.infoq.com/podcasts/micro-frontends-dazn/
 - https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-angular-e6828a0a049c
 - https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007
 - https://blog.angularindepth.com/how-to-compile-your-angular-components-library-into-web-components-47ff0ac73bd7
@@ -489,6 +490,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/nstudio/xplat-sample-ionic-web
 - https://nstudio.io/xplat/getting-started/getting-started
 - https://ordina-jworks.github.io/architecture/2020/01/23/Nx.html
+- https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
 - https://blog.devget.net/development/angular-8-ionic-4-monorepo-part-1-the-setup/
 - https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870
 - https://www.softwarearchitekt.at/aktuelles/6-steps-to-your-angular-based-microfrontend-shell/
@@ -1112,7 +1114,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
 
 ## LIB / REUSE / UTILS / GENERAL
-
+- https://github.com/MurhafSousli/ngx-scrollbar
+- https://github.com/mgechev/ngx-circular-player
 - https://github.com/Zak-C/ngx-loading
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/gund/ng-dynamic-component

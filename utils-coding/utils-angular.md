@@ -210,14 +210,17 @@ subscription.unsubscribe();
 
 - http://reactivex.io/rxjs/manual/overview.html#subject
 
-- Subject: Multicasted observable
+- Subject: Multicasted observable: Subject data can be pushed into a subject and the subject’s subscribers will in turn receive that pushed data. Subjects are useful for multicasting or for when a source of data is not easily transformed into an observable. It’s easy to overuse subjects and oftentimes, as illustrated in this excellent post, subjects can be avoided when an observable source can be created otherwise.
 - BehaviorSubject: whenever a new Observer subscribe it will immediatly receive the current value
 - ReplaySubject: similar to a BehaviorSubject but also records multiple values from the Observable execution and replays them to new subscribers.
 - AsyncSubject: only the last value of the Observable execution is sent to its observers, and only when the execution completes.
 
 ### EVENT EMITTER
 
-- EventEmitter is aimed to help communication between component using input and output. It extends RxJS Subject but it's directly provided by the @angular/core package. EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres :
+- EventEmitter is aimed to help communication between component using input and output. It extends RxJS Subject but it's directly provided by the @angular/core package. EventEmitter should not be used for anything else then @Output()s in components and directives. Also EventEmitter gets cleaned up automatically unlike custom Subjects that you need to unsubscribe to in the onDestroy lifecycle hook.
+
+
+EventEmitter a une méthode subscribe() pour réagir aux événements, et cette méthode reçoit trois paramètres :
 • une méthode pour réagir aux événements.
 • une méthode pour réagir aux erreurs.  
 • une méthode pour réagir à la terminaison.
