@@ -1,11 +1,4 @@
 
-## START 
- 
-npm install -g typescript 
-tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata 
-tsc --watch 
-npm init 
- 
  ## UTILS
 - https://github.com/palmerhq/tsdx
 - https://github.com/runem/ts-simple-type
@@ -84,5 +77,10 @@ es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`;
 
 Imports within the same entry-point have to be relative, otherwise they would be considered to import from an external package/entry-point. On the other hand, imports into other entry-points must never be relative. If these rules are not followed, you run into all sorts of issues. Conceptually, this difference is essential to be able to look at an import and know where it is resolved from (i.e. whether it crosses an entry-point boundary or not) TypeScript path mappings shouldn't be used to make imports cleaner, shorter, sexier or whatever adjective you want to use. But rather used to resolve dependencies at design time that would otherwise not be automatically resolved, which is what it was designed for.
  
-
- 
+## START 
+```
+npm install -g typescript 
+tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata 
+tsc --watch 
+npm init 
+```
