@@ -9,10 +9,12 @@
 
 - [Angular](utils-coding/utils-angular-list.md)
 - [Javascript](utils-coding/utils-javascript.md)
+- [Typescript](utils-coding/utils-typescript.md)
 - [Android](utils-coding/utils-android.md)
 - [Java](utils-coding/utils-java.md)
 - [Php](utils-coding/utils-php.md)
 - [Git](utils-coding/utils-git.md)
+- [Api](utils-coding/utils-api.md)
 - [More](utils-coding/)
 
 ### :green_book: Blockchain
