@@ -51,6 +51,7 @@
 
 ## TRADING / PORTFOLIO
 - https://kryll.io/
+- https://napbots.com/
 - https://tradingview.com
 - https://cryptosheets.com/
 - https://www.emberfund.io/

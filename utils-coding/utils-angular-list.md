@@ -131,6 +131,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
+- https://blog.bitsrc.io/an-opinionated-styleguide-for-angular-af623d54e2b8
 - https://speakerdeck.com/kuncevic/how-to-architect-your-angular-app-like-a-pro
 - https://indepth.dev/supercharge-event-management-in-your-angular-application/
 - https://medium.com/javascript-in-plain-english/angular-accessibility-81736ab4f1c4
@@ -297,6 +298,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## DEBUG
 
 - https://code.visualstudio.com/docs/nodejs/angular-tutorial debug with vscode and chrome
+- https://medium.com/angular-in-depth/how-to-create-a-memory-leak-in-angular-4c583ad78b8b
 - https://scotch.io/tutorials/debugging-angular-cli-applications-in-visual-studio-code
 - https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 - https://www.sitepoint.com/angular-augury-debug-code/
@@ -703,6 +705,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 ## RXJS EXTERNAL LIB
 
 - https://github.com/wardbell/subsink
+- https://github.com/nilsmehlhorn/ngx-operators
 
 ## HTTP
 
@@ -742,6 +745,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
 - https://nx.dev/angular/guides/misc-data-persistence
 - https://tomastrajan.github.io/angular-ngrx-material-starter
+- https://dev.to/itnext/ngrx-store-and-5-silly-mistakes-2nho
 - https://medium.com/@gregor.woiwode/ngrx-ducks-9-the-new-api-a3a4be242309
 - https://medium.com/@haldun7/caching-http-requests-while-using-ngrx-effects-98abd50c5c78
 - https://medium.com/angular-in-depth/ngrx-cherry-picking-the-meta-30869953e929
@@ -1016,6 +1020,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/testing-library/angular-testing-library
 - https://dev.to/rfornal/bad-test-bad-1og7
 - https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
+- https://timdeschryver.dev/blog/good-testing-practices-with-angular-testing-library
 - https://netbasal.com/testing-asynchronous-code-in-angular-using-fakeasync-fc777f86ed13
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
@@ -1391,6 +1396,7 @@ https://xlayers.app/#/home
 - https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
 - https://www.telerik.com/blogs/top-new-features-of-angular-9
 - https://indepth.dev/component-features-with-angular-ivy
+- https://blog.angulartraining.com/dependency-injection-with-angular-9-63ce524496d9
 - https://christiankohler.net/improved-dependeny-injection-with-the-new-providedin-scopes-any-and-platform
 - https://docs.google.com/presentation/d/1LzoJbhiXzKQawoeO1RljAgRD4Lr5kUrY86h_kt55n9U/present?slide=id.p
 - https://blog.angularindepth.com/exciting-time-ahead-be-ready-for-angular-9-b3dbb4078c47
