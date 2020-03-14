@@ -60,6 +60,7 @@ http://talkaboutdesign.com/preview/
 ### WEBDESIGN RESSOURCES
 http://www.pixeden.com/free-design-web-resources
 http://www.bittbox.com
+https://loading.io
 http://inspiredm.com/tools-resources-web-designers-developers-march-2016/
 http://inspiredm.com/top-10-places-find-free-design-resources-2014/
 http://www.creativebloq.com/design/free-resources-for-designers-12121531

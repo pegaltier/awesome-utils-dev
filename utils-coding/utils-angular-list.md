@@ -1017,6 +1017,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/wallabyjs/public
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
+- https://github.com/duluca/angular-unit-test-helper
 - https://github.com/testing-library/angular-testing-library
 - https://dev.to/rfornal/bad-test-bad-1og7
 - https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
@@ -1397,7 +1398,7 @@ https://xlayers.app/#/home
 - https://www.telerik.com/blogs/top-new-features-of-angular-9
 - https://indepth.dev/component-features-with-angular-ivy
 - https://blog.angulartraining.com/dependency-injection-with-angular-9-63ce524496d9
-- https://christiankohler.net/improved-dependeny-injection-with-the-new-providedin-scopes-any-and-platform
+- https://christiankohler.net/improved-dependency-injection-with-the-new-providedin-scopes-any-and-platform
 - https://docs.google.com/presentation/d/1LzoJbhiXzKQawoeO1RljAgRD4Lr5kUrY86h_kt55n9U/present?slide=id.p
 - https://blog.angularindepth.com/exciting-time-ahead-be-ready-for-angular-9-b3dbb4078c47
 - https://speakerdeck.com/eliraneliassy/everything-you-need-to-know-about-angular-ivy

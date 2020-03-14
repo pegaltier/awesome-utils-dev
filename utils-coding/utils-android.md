@@ -73,6 +73,7 @@ https://github.com/orhanobut/hawk
 https://www.appbrain.com/apptimizer
 http://gunhansancar.com/tools/converter/#
 https://android.fallible.co/#
+https://shapeshifter.design/
 http://stackoverflow.com/questions/24882550/how-to-format-text-in-string-displayed-in-textview
 https://www.img-bak.in >> generate icons
 https://romannurik.github.io/AndroidAssetStudio/index.html

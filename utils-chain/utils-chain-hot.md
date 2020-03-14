@@ -57,6 +57,7 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 - Project1800: https://project1800.org/
 - MetaMorph: https://metamorph.pro/
 - Our-Credits: https://our-credit.org/
+- Harris-Braun: https://www.harris-braun.com/
 
 ## GITHUB HAPPS
 
@@ -129,6 +130,7 @@ holo github>>
 - https://github.com/HedayatAbedijoo/hc-sample-apps
 - https://github.com/ddd-mtl/snapmail-dna
 - https://github.com/zo-el/peer-vis-2.0
+- https://github.com/h-be/acorn-hc
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
