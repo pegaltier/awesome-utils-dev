@@ -1098,7 +1098,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://malcoded.com/posts/angular-dynamic-components/
 
 ## LIB PROGRESS / LOADING / LOADER / BAR
-
+- https://github.com/willmendesneto/ngx-skeleton-loader
 - https://github.com/MurhafSousli/ngx-progressbar
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/biig-io/ngx-smart-loader
