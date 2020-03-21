@@ -58,6 +58,7 @@ https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 - MetaMorph: https://metamorph.pro/
 - Our-Credits: https://our-credit.org/
 - Harris-Braun: https://www.harris-braun.com/
+- Terran Collective: https://www.terran.io/
 
 ## GITHUB HAPPS
 
