@@ -204,6 +204,10 @@ https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 - https://blog.p2pfoundation.net/holochain-the-perfect-framework-for-decentralised-cooperation-at-scale-2/2018/07/26?utm_source=dlvr.it&utm_medium=twitter&cn-reloaded=1
 - https://steemit.com/dsound/@michaelgarfield/20180707t033701730z-future-fossils-podcast-80-arthur-brock-of-holochain-on-rethinking-currency
 
+## WINDOWS WSL
+- https://forum.holochain.org/t/vscode-rls-support-on-wsl2/2102
+- https://www.thomasmaurer.ch/2019/06/install-wsl-2-on-windows-10/
+- https://docs.microsoft.com/en-us/windows/wsl/wsl2-install
 
 ## HAPP DEVELOPMENT
 
