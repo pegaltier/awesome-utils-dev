@@ -12,6 +12,7 @@ https://github.com/localtunnel/localtunnel
 ## UTILS
 - https://github.com/voidcosmos/npkill
 - https://github.com/sindresorhus/fkill-cli
+- https://github.com/depcheck/depcheck
 - https://www.npmjs.com/package/depcheck
 
 ## MONITORING

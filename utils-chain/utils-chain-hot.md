@@ -208,7 +208,7 @@ https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 - https://forum.holochain.org/t/vscode-rls-support-on-wsl2/2102
 - https://www.thomasmaurer.ch/2019/06/install-wsl-2-on-windows-10/
 - https://docs.microsoft.com/en-us/windows/wsl/wsl2-install
-
+- WSL2 (Ubuntu) + VSCode with Remote WSL, rust-analyzer, crates, Search crates.io
 ## HAPP DEVELOPMENT
 
 - https://holochain-community-resources.github.io/design-workshop/#0
