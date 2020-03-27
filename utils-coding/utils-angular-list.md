@@ -1028,6 +1028,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
 - https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer
+- https://medium.com/javascript-in-plain-english/unit-testing-angular-component-testing-f0c478de3dd8
 - https://medium.com/@kevinkreuzer/test-your-components-using-angular-materials-component-harnesses-f9c1deebdf5d
 - https://medium.com/@pattferraggi/how-i-found-a-problem-with-angular-unit-testing-and-decided-to-fix-it-myself-7c00b58d57a7
 - https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a

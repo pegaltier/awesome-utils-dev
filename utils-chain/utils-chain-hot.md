@@ -132,6 +132,8 @@ holo github>>
 - https://github.com/ddd-mtl/snapmail-dna
 - https://github.com/zo-el/peer-vis-2.0
 - https://github.com/h-be/acorn-hc
+- https://github.com/travol-platform/air_shopping
+- https://github.com/sdelvalle57/holochain_multisig
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
