@@ -14,6 +14,7 @@ https://github.com/localtunnel/localtunnel
 - https://github.com/sindresorhus/fkill-cli
 - https://github.com/depcheck/depcheck
 - https://www.npmjs.com/package/depcheck
+- https://github.com/typicode/husky
 
 ## MONITORING
 - http://pm2.keymetrics.io/
