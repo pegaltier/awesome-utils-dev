@@ -127,6 +127,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://angular-checklist.io/
 - https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
+- https://indepth.dev/angular-bad-practices-revisited/
 - https://github.com/mgechev/angular-performance-checklist
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
@@ -280,6 +281,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## MODULE
 
 - https://itnext.io/understanding-angular-modules-5f1215130bc8
+- https://indepth.dev/stop-using-shared-material-module/
 
 ## TOOLS
 
@@ -299,6 +301,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 - https://code.visualstudio.com/docs/nodejs/angular-tutorial debug with vscode and chrome
 - https://medium.com/angular-in-depth/how-to-create-a-memory-leak-in-angular-4c583ad78b8b
+- https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
 - https://scotch.io/tutorials/debugging-angular-cli-applications-in-visual-studio-code
 - https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn
 - https://www.sitepoint.com/angular-augury-debug-code/
@@ -490,6 +493,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nstudio/xplat-sample-ionic-web
+- https://devdactic.com/ionic-multi-app-shared-library/
 - https://nstudio.io/xplat/getting-started/getting-started
 - https://ordina-jworks.github.io/architecture/2020/01/23/Nx.html
 - https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
@@ -504,6 +508,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/swlh/migrating-to-monorepo-ee641dd6502a
 - https://medium.com/@hoangbkit/why-monorepo-in-2018-89221acd4bfb
 - https://medium.com/invisible-reports/report-we-went-monorepo-c0aadd144fb
+- https://medium.com/angular-in-depth/release-management-in-angular-with-lerna-21b4ab417c59
 - https://blog.strongbrew.io/opinionated-guidelines-for-large-nx-angular-projects/
 - https://blog.angularindepth.com/release-management-in-angular-with-lerna-21b4ab417c59
 - https://dev.to/thisdotmedia/angular-libraries-with-nx-for-enterprise-apps-395h
@@ -541,6 +546,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN / MENU / LOADING
 
+- https://blog.bitsrc.io/component-reusability-techniques-with-angular-727a6c603ad2
 - https://blog.angularindepth.com/creating-reusable-angular-components-how-to-avoid-the-painful-trap-most-go-in-d531761d6c7a
 - https://coryrylan.com/blog/angular-custom-form-controls-with-reactive-forms-and-ngmodel
 - https://embed.plnkr.co/Yj93mh5ZnX6ONtaMQPAQ/
@@ -1112,6 +1118,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
+- https://github.com/JohannesHoppe/angular-date-value-accessor
 
 ## LIB CDK MATERIAL
 
@@ -1238,6 +1245,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## DEMO SOURCES / EXAMPLES
 
+- https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example
 - https://github.com/brechtbilliet/winecellar (backend and auth)
 - https://github.com/amcdnl/angular2-demo

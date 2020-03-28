@@ -49,6 +49,8 @@
 - https://github.com/koorchik/js-validator-livr
 - https://www.npmjs.com/package/livr
 - https://github.com/immerjs/immer
+- https://github.com/angus-c/just
+- https://github.com/lodash/lodash
 
 ## LIB AI
 - https://github.com/BrainJS/brain.js
