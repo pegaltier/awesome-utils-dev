@@ -1131,6 +1131,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
 
 ## LIB / REUSE / UTILS / GENERAL
+- https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/mgechev/ngx-circular-player
 - https://github.com/Zak-C/ngx-loading
