@@ -1,101 +1,98 @@
-**Table of Contents** _generated with [DocToc](- https://github.com/thlorenz/doctoc)_
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [XP / NEW PROJECT / QUESTIONS](#xp--new-project--questions)
-- [HISTORY](#history)
-- [BEST PRACTICE](#best-practice)
-- [ONLINE IDE](#online-ide)
-- [LIST / LINKS / AWESOME](#list--links--awesome)
-- [PROXY](#proxy)
-- [PWA](#pwa)
-- [SEO](#seo)
-- [START INIT](#start-init)
-- [CHROME PLUGINS](#chrome-plugins)
-- [IDE TOOLS SNIPPETS EXTENSION PLUGIN](#ide-tools-snippets-extension-plugin)
-- [IDE BEST EXTENSIONS](#ide-best-extensions)
-- [IDE OTHERS EXTENSIONS](#ide-others-extensions)
-- [CLI](#cli)
-- [MODULE](#module)
-- [TOOLS](#tools)
-- [CI / CONTINIOUS INTEGRATION / AUTOMATED](#ci--continious-integration--automated)
-- [DEBUG](#debug)
-- [DOC UTILS CHEAT-SHEETS](#doc-utils-cheat-sheets)
-- [UI DESIGN / UI GENERATE](#ui-design--ui-generate)
-- [STYLES GUIDE + CODE ANALYSIS / LINT](#styles-guide--code-analysis--lint)
-- [SUPPORT IE/MOZILLA OLD VERSION](#support-iemozilla-old-version)
-- [SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK](#scalable-performance-perf-optimization--memory-leak)
-- [BOOK/COURSES](#bookcourses)
-- [DOCKER](#docker)
-- [DATA FLOW DATA FLOW UNIDIR](#data-flow-data-flow-unidir)
-- [DECORATOR/ANNOTATION](#decoratorannotation)
-- [CONFIGURATION / ENV](#configuration--env)
-- [BUILD / PRODUCTION / BUNDLE](#build--production--bundle)
-- [CUSTOM BUILD / CUSTOM WEBPACK](#custom-build--custom-webpack)
-- [ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS / MICROFRONT ](#elements--web-components--custom-elements--microfront)
-- [ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE](#anuglar-scalable--large-organization--big-apps-repo--monorepo--shared-codebase)
-- [RENDERING CIENT / DOM](#rendering-cient--dom)
-- [ANIMATION](#animation)
-- [COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN / MENU / LOADING](#components--transclusion--modal--dropdown--menu--loading)
-- [HTTPCLIENT HTTPREQUEST](#httpclient-httprequest)
-- [NG MODULES NGMODULE](#ng-modules-ngmodule)
-- [AUTHENTIFICATION/LOGIN/](#authentificationlogin)
-- [REACTIVE FORMS / DYNAMIC FORMS](#reactive-forms--dynamic-forms)
-- [FORMS / FORM VALIDATION / REACTIVE FORMS](#forms--form-validation--reactive-forms)
-- [TEMPLATE](#template)
-- [PLATFORM](#platform)
-- [SCAFFHOLDING](#scaffholding)
-- [2 SECURE / AUTH / GUARD / INTERCEPTOR](#2-secure--auth--guard--interceptor)
-- [OBSERVABLE/REACTIVE/RXJS](#observablereactiverxjs)
-- [RXJS EXTERNAL LIB](#rxjs-external-lib)
-- [HTTP](#http)
-- [BACKEND MOCK BACKEND HTTP MOCK FIREBASE GRAPHQL](#backend-mock-backend-http-mock-firebase-graphql)
-- [STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY](#state-management-redux-ngrx-store-ngrx-entity)
-- [REDUX PATTERN / STORE / STATE MANAGEMENT / NGRX ALTERNATIVE](#redux-pattern--store--state-management--ngrx-alternative)
-- [IMMUTABLE / IMMUTABILITY VS ENCAPSULATION](#immutable--immutability-vs-encapsulation)
-- [CHANGE DETECTION NGZONE ZONE](#change-detection-ngzone-zone)
-- [GENERATE SCHEMATICS GENERATOR](#generate-schematics-generator)
-- [DEPENDENCY INJECTION / SERVICES](#dependency-injection--services)
-- [SEEDS](#seeds)
-- [CSS / CLASS / UI LIB](#css--class--ui-lib)
-- [SINGLETON](#singleton)
-- [ANIMATE ANIMATIONS DESIGN](#animate-animations-design)
-- [ROUTES ROUTER LAZY LOADING MODULES / ROUTING](#routes-router-lazy-loading-modules--routing)
-- [DYNAMIC LOAD/LAZY LOAD SCRIPTS](#dynamic-loadlazy-load-scripts)
-- [SECURITY](#security)
-- [ECOSYSTEM / MULTI PROJECT](#ecosystem--multi-project)
-- [UNIVERSAL / SSR / SERVER SIDE RENDERING / SEO META](#universal--ssr--server-side-rendering--seo-meta)
-- [ERROR HANDLER / ERROR HANDLING / EXCEPTION](#error-handler--error-handling--exception)
-- [UNIT TESTS TESTING](#unit-tests-testing)
-- [E2E TESTS](#e2e-tests)
-- [MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS](#make-lib--distributing-library--libs--plugins)
-- [LIB UPLOAD](#lib-upload)
-- [LIB MODAL](#lib-modal)
-- [LIB PROGRESS / LOADING / LOADER / BAR](#lib-progress--loading--loader--bar)
-- [LIB FORM](#lib-form)
-- [LIB GENERAL](#lib-general)
-- [LIB CDK](#lib-cdk)
-- [CSS LIB / THEME / STYLE / CSS](#css-lib--theme--style--css)
-- [PLUG & PLAY:](#plug--play)
-- [DEMO SOURCES / EXAMPLES](#demo-sources--examples)
-- [GAMES](#games)
-- [DEMO APP / TUTORIAL / EXAMPLES](#demo-app--tutorial--examples)
-- [MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS](#mobile--native--hybride--crossplatform--cross)
-- [SOCKETS](#sockets)
-- [CODE GENERATION / CODEGEN](#code-generation--codegen)
-- [DATA VIZ](#data-viz)
-- [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
-- [MIGRATION NG1 TO NG2](#migration-ng1-to-ng2)
-- [ANGULAR / REACT / VUE / COMPARAISON](#angular--react--vue--comparaison)
-- [COMMUNITY / BLOG](#community--blog)
-- [OTHERS ARTICLES](#others-articles)
-- [VERSION](#version)
-- [ANGULAR9](#angular9)
-- [ANGULAR8](#angular8)
-- [ANGULAR7](#angular7)
-- [ANGULAR6](#angular6)
-- [ANGULAR5](#angular5)
-- [ANGULAR4](#angular4)
+- [ANGULAR LIST](#angular-list)
+  - [HELPER: NEW](#helper-new)
+  - [HELPER: BEST PRACTICES](#helper-best-practices)
+  - [HELPER: ONLINE IDE](#helper-online-ide)
+  - [HELPER: START](#helper-start)
+  - [HELPER: DEBUG](#helper-debug)
+  - [HELPER: CHEAT-SHEETS](#helper-cheat-sheets)
+  - [ECOSYSTEM: AWESOME](#ecosystem-awesome)
+  - [CORE: PWA](#core-pwa)
+  - [ECOSYSTEM: PLUGINS](#ecosystem-plugins)
+  - [ECOSYSTEM: TOOLS](#ecosystem-tools)
+  - [ECOSYSTEM: VSCODE BEST](#ecosystem-vscode-best)
+  - [ECOSYSTEM: VSCODE OTHERS](#ecosystem-vscode-others)
+  - [CORE: CLI](#core-cli)
+  - [CORE: MODULE](#core-module)
+  - [CORE: PIPES](#core-pipes)
+  - [UI DESIGN / UI GENERATE](#ui-design--ui-generate)
+  - [STYLES GUIDE + CODE ANALYSIS / LINT](#styles-guide--code-analysis--lint)
+  - [SUPPORT IE/MOZILLA OLD VERSION](#support-iemozilla-old-version)
+  - [SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK](#scalable-performance-perf-optimization--memory-leak)
+  - [ECOSYSTEM: BOOK](#ecosystem-book)
+  - [DATA FLOW DATA FLOW UNIDIR](#data-flow-data-flow-unidir)
+  - [CORE: DECORATOR](#core-decorator)
+  - [CONFIGURATION / ENV](#configuration--env)
+  - [CORE: BUILD](#core-build)
+  - [CORE: BUILDER](#core-builder)
+  - [ELEMENTS / WEB COMPONENTS / CUSTOM ELEMENTS / MICROFRONT](#elements--web-components--custom-elements--microfront)
+  - [ECOSYSTEM: MONOREPO](#ecosystem-monorepo)
+  - [CORE: RENDERING](#core-rendering)
+  - [CORE: ANIMATIONS](#core-animations)
+  - [COMPONENTS / TRANSCLUSION / MODAL / DROPDOWN / MENU / LOADING](#components--transclusion--modal--dropdown--menu--loading)
+  - [HTTPCLIENT HTTPREQUEST](#httpclient-httprequest)
+  - [CORE: MODULES](#core-modules)
+  - [ECOSYSTEM: AUTHENTIFICATION](#ecosystem-authentification)
+  - [CORE: FORMS](#core-forms)
+  - [CORE: TEMPLATE](#core-template)
+  - [CORE: PLATFORM](#core-platform)
+  - [CORE: GUARD](#core-guard)
+  - [CORE: RXJS](#core-rxjs)
+  - [CORE: RXJS: EXTERNAL](#core-rxjs-external)
+  - [CORE: HTTP](#core-http)
+  - [CORE: CHANGE DETECTION](#core-change-detection)
+  - [CORE: SCHEMATICS](#core-schematics)
+  - [CORE: DEPENDENCY INJECTION](#core-dependency-injection)
+  - [ECOSYSTEM: STORE: NGRX](#ecosystem-store-ngrx)
+  - [ECOSYSTEM: STORE: NGRX/DATA](#ecosystem-store-ngrxdata)
+  - [ECOSYSTEM: STORE: ALTERNATIVE](#ecosystem-store-alternative)
+  - [ECOSYSTEM: IMMUTABLE](#ecosystem-immutable)
+  - [ECOSYSTEM: SEEDS](#ecosystem-seeds)
+  - [CORE: ANIMATIONS](#core-animations-1)
+  - [CORE: ROUTING](#core-routing)
+  - [DYNAMIC LOAD/LAZY LOAD SCRIPTS](#dynamic-loadlazy-load-scripts)
+  - [CORE: SECURITY](#core-security)
+  - [CORE: CSS](#core-css)
+  - [CORE: UNIVERSAL](#core-universal)
+  - [CORE: ERROR HANDLER](#core-error-handler)
+  - [CORE: UNIT TESTS](#core-unit-tests)
+  - [CORE: E2E TESTS](#core-e2e-tests)
+  - [ECOSYSTEM: LIB: MAKE](#ecosystem-lib-make)
+  - [ECOSYSTEM: LIB: GENERAL](#ecosystem-lib-general)
+  - [ECOSYSTEM: LIB: UPLOAD](#ecosystem-lib-upload)
+  - [ECOSYSTEM: LIB: DATA VIZ](#ecosystem-lib-data-viz)
+  - [ECOSYSTEM: LIB: MODAL](#ecosystem-lib-modal)
+  - [ECOSYSTEM: LIB: PROGRESS / LOADING / LOADER / BAR](#ecosystem-lib-progress--loading--loader--bar)
+  - [ECOSYSTEM: LIB: FORM](#ecosystem-lib-form)
+  - [ECOSYSTEM: LIB: CDK MATERIAL](#ecosystem-lib-cdk-material)
+  - [ECOSYSTEM: LIB: INTERNATIONALIZATION](#ecosystem-lib-internationalization)
+  - [ECOSYSTEM: LIB: IMAGE](#ecosystem-lib-image)
+  - [ECOSYSTEM: LIB: UI](#ecosystem-lib-ui)
+  - [ECOSYSTEM: FORMS](#ecosystem-forms)
+  - [ECOSYSTEM: CI/CD](#ecosystem-cicd)
+  - [ECOSYSTEM: PLUG & PLAY:](#ecosystem-plug--play)
+  - [ECOSYSTEM: DEMO: SOURCES](#ecosystem-demo-sources)
+  - [ECOSYSTEM: DEMO: LIVE](#ecosystem-demo-live)
+  - [ECOSYSTEM: GAMES](#ecosystem-games)
+  - [ECOSYSTEM: MOBILE](#ecosystem-mobile)
+  - [CORE: MIGRATION](#core-migration)
+  - [ANGULAR / REACT / VUE / COMPARAISON](#angular--react--vue--comparaison)
+  - [ECOSYSTEM: COMMUNITY](#ecosystem-community)
+  - [ECOSYSTEM: ARTICLES](#ecosystem-articles)
+  - [VERSION](#version)
+    - [ANGULAR9](#angular9)
+    - [ANGULAR8](#angular8)
+    - [ANGULAR7](#angular7)
+    - [ANGULAR6](#angular6)
+    - [ANGULAR5](#angular5)
+    - [ANGULAR4](#angular4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 # ANGULAR LIST
 
@@ -103,11 +100,14 @@ todo reorganize:
 
 - CORE
 - BUILD
+- HELPER
 - TOOLING
 - ECOSYSTEM
 - EVOLUTION
 
-## XP / NEW PROJECT / QUESTIONS
+## HELPER: NEW
+ 
+ Fundamental decisions to take when new project start.
 
 - Official I18N/transloco or ngx-translate?
 - Nx project or default CLI ?
@@ -115,11 +115,7 @@ todo reorganize:
 - UI boostrap, material, ant, cdk?
 - Rules ? lint, commits, formatting...
 
-## HISTORY
-
-- https://en.wikipedia.org/wiki/Angular_(application_platform)
-
-## BEST PRACTICE
+## HELPER: BEST PRACTICES
 
 Avoid common mistakes, bugs, find tips and checklist for good development...
 
@@ -159,7 +155,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
 
-## ONLINE IDE
+## HELPER: ONLINE IDE
 
 - https://ng-run.com/
 - https://codesandbox.io/
@@ -167,133 +163,17 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material
 
-## LIST / LINKS / AWESOME
+## HELPER: START
 
-- https://web.dev/angular
-- https://www.reddit.com/r/Angular2/
-- https://github.com/swirlycheetah/awesome-angular2
-- https://github.com/timjacobi/angular2-education
-- https://github.com/jonrimmer/angular-2-examples
-- https://github.com/PatrickJS/awesome-angular
-- https://github.com/jmcunningham/AngularJS2-Learning
-- https://github.com/timjacobi/angular2-education
-- http://whatpixel.com/learn-angular2-from-scratch/
-
-## PROXY
-
-- https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md
-- https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
-- https://stackoverflow.com/questions/37172928/angular-cli-server-how-to-proxy-api-requests-to-another-server
-
-## PWA
-
-- https://slides.com/webmax/angular-workbox/#/34
-- https://github.com/webmaxru/angular-pwa/tree/workbox-v4-bundle
-- https://dormoshe.io/daily-news/angular-performance-web-workers-1955
-- https://blog.nrwl.io/a-new-day-for-pwa-e7c3342b753c
-- https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
-- http://blog.ionic.io/yann-braga-my-ionic-success-story/
-- https://starwarnic.yannbraga.com
-- https://medium.com/@josuabuecher/the-new-ease-of-building-app-like-reliable-and-engaging-web-apps-c27e5b486f2c
-- https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/trivago-embrace-progressive-web-apps-as-the-future-of-mobile/
-- https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-1-theory-37d7d7647cc7
-
-## SEO
-
-- https://blog.pusher.com/make-angular-4-app-seo-friendly
-- https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
-
-## START INIT
-
+- https://angular.io/docs/ts/latest/quickstart.html
+- https://angular.io/docs/ts/latest/cookbook/
 - http://www.tryangular2.com/
 - http://learnangular2.com/
 - http://builtwithangular2.com/
 - http://angularexpo.com/
-- http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/
-- https://angular.io/docs/ts/latest/quickstart.html
-- https://angular.io/docs/ts/latest/cookbook/
 
-## CHROME PLUGINS
 
-- https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
-- https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
-- https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
-- https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
-- https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
-
-## IDE TOOLS SNIPPETS EXTENSION PLUGIN
-
-- https://dev.to/zaklaughton/every-vs-code-extension-a-javascript-web-developer-should-have-in-2020-with-gifs-2b6n
-- https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
-- https://www.genuitec.com/products/angular-ide/
-- https://scotch.io/bar-talk/best-vs-code-extensions-for-angular-v2-development
-- https://johnpapa.net/essential-angular-vs-code-extensions/
-- https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.lo1w8ym8k
-- http://blog.ionic.io/cordova-extension-for-vscode/
-- http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/
-- https://blog.nrwl.io/using-webstorm-for-building-angular-apps-fe8b3ab92565#.xwiyt3668
-- https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
-
-## IDE BEST EXTENSIONS
-
-- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
-- https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
-- https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
-- https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
-- https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
-- https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
-
-## IDE OTHERS EXTENSIONS
-
-- https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
-- https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
-- https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
-- https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
-- https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
-- https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
-- https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2
-- https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
-- https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
-- https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
-- http://brianflove.com/2017/04/11/angular-language-service/
-- https://github.com/angular/vscode-ng-language-service
-- https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
-- https://github.com/nwinkler/atom-keyboard-shortcuts ATOM shortcut
-- https://github.com/johnpapa/vscode-angular2-snippets
-- https://github.com/evanplaice/angular2-snippets
-
-## CLI
-
-- https://github.com/manfredsteyer/angular-crud
-- https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
-- https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
-- https://github.com/angular/angular-cli
-- http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli
-- https://www.sitepoint.com/angular-2-tutorial
-- http://houssein.me/angular2-hacker-news
-- https://www.sitepoint.com/ultimate-angular-cli-reference
-- http://www.dzurico.com/angular-cli-with-the-super-powers/
-
-## MODULE
-
-- https://itnext.io/understanding-angular-modules-5f1215130bc8
-- https://indepth.dev/stop-using-shared-material-module/
-
-## TOOLS
-
-- https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
-- https://github.com/d-koppenhagen/ngx-semantic-version
-- https://github.com/mgechev/ngrev
-- https://github.com/rangle/batarangle/
-- https://github.com/manekinekko/angular2-dependencies-graph
-- https://augury.angular.io/
-- http://codelyzer.com/
-
-## CI / CONTINIOUS INTEGRATION / AUTOMATED
-
-- https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
-
-## DEBUG
+## HELPER: DEBUG
 
 - https://code.visualstudio.com/docs/nodejs/angular-tutorial debug with vscode and chrome
 - https://medium.com/angular-in-depth/how-to-create-a-memory-leak-in-angular-4c583ad78b8b
@@ -314,7 +194,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/better-programming/expressionchangedafterithasbeencheckederror-in-angular-what-why-and-how-to-fix-it-c6bdc0b22787
 -
 
-## DOC UTILS CHEAT-SHEETS
+## HELPER: CHEAT-SHEETS
 
 - https://codeburst.io/angular-bad-practices-eab0e594ce92
 - http://angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html
@@ -328,14 +208,120 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://acadgild.com/blog/typescript-functions/
 - https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md
 - https://angular.io/docs/js/latest/resources.html
-- http://angularjs.blogspot.fr/2015/12/building-mobile-apps-with-angular-2-and.html
 - https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html
 - https://angular.io/docs/ts/latest/cookbook/component-communication.html
-- http://www.angulartypescript.com/angular-2-pipes/
-- http://blog.mgechev.com/
 - http://blogs.walkingtree.in/2016/03/22/thinking-in-angular-2/
 - https://medium.com/@NetanelBasal/angular-2-improve-performance-with-trackby-cc147b5104e5#.74fiumqt7
 - https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1
+
+
+## ECOSYSTEM: AWESOME
+
+- https://web.dev/angular
+- https://www.reddit.com/r/Angular2/
+- https://github.com/swirlycheetah/awesome-angular2
+- https://github.com/timjacobi/angular2-education
+- https://github.com/jonrimmer/angular-2-examples
+- https://github.com/PatrickJS/awesome-angular
+- https://github.com/jmcunningham/AngularJS2-Learning
+- https://github.com/timjacobi/angular2-education
+- http://whatpixel.com/learn-angular2-from-scratch/
+
+## CORE: PWA
+
+- https://slides.com/webmax/angular-workbox/#/34
+- https://github.com/webmaxru/angular-pwa/tree/workbox-v4-bundle
+- https://dormoshe.io/daily-news/angular-performance-web-workers-1955
+- https://blog.nrwl.io/a-new-day-for-pwa-e7c3342b753c
+- https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
+- http://blog.ionic.io/yann-braga-my-ionic-success-story/
+- https://starwarnic.yannbraga.com
+- https://medium.com/@josuabuecher/the-new-ease-of-building-app-like-reliable-and-engaging-web-apps-c27e5b486f2c
+- https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/trivago-embrace-progressive-web-apps-as-the-future-of-mobile/
+- https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-1-theory-37d7d7647cc7
+
+## ECOSYSTEM: PLUGINS
+
+Find here plugins for different browser.
+
+- https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+- https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
+- https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
+- https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
+- https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
+
+## ECOSYSTEM: TOOLS
+
+Find here tools, snippets, extensions, plugins for different IDE.
+
+- http://codelyzer.com/
+- https://augury.angular.io/
+- https://xlayers.app/#/home
+- https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
+- https://github.com/d-koppenhagen/ngx-semantic-version
+- https://github.com/mgechev/ngrev
+- https://github.com/rangle/batarangle/
+- https://github.com/manekinekko/angular2-dependencies-graph
+- https://dev.to/zaklaughton/every-vs-code-extension-a-javascript-web-developer-should-have-in-2020-with-gifs-2b6n
+- https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
+- https://www.genuitec.com/products/angular-ide/
+- https://scotch.io/bar-talk/best-vs-code-extensions-for-angular-v2-development
+- https://johnpapa.net/essential-angular-vs-code-extensions/
+- https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.lo1w8ym8k
+- http://blog.ionic.io/cordova-extension-for-vscode/
+- http://blog.jetbrains.com/webstorm/2016/04/angular-2-workflow-in-webstorm/
+- https://blog.nrwl.io/using-webstorm-for-building-angular-apps-fe8b3ab92565#.xwiyt3668
+- https://jaxenter.com/angular-2-intellij-netbeans-eclipse-128461.html
+
+## ECOSYSTEM: VSCODE BEST
+
+- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+- https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+- https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
+- https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
+- https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
+- https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
+
+## ECOSYSTEM: VSCODE OTHERS
+
+- https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
+- https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
+- https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+- https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
+- https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
+- https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
+- https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2
+- https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
+- https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
+- https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
+- http://brianflove.com/2017/04/11/angular-language-service/
+- https://github.com/angular/vscode-ng-language-service
+- https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
+- https://github.com/nwinkler/atom-keyboard-shortcuts ATOM shortcut
+- https://github.com/johnpapa/vscode-angular2-snippets
+- https://github.com/evanplaice/angular2-snippets
+
+## CORE: CLI
+
+- https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
+- https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
+- https://github.com/angular/angular-cli
+- http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli
+- https://www.sitepoint.com/angular-2-tutorial
+- http://houssein.me/angular2-hacker-news
+- https://www.sitepoint.com/ultimate-angular-cli-reference
+- http://www.dzurico.com/angular-cli-with-the-super-powers/
+- https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md
+- https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
+
+## CORE: MODULE
+
+- https://itnext.io/understanding-angular-modules-5f1215130bc8
+- https://indepth.dev/stop-using-shared-material-module/
+
+## CORE: PIPES
+
+- http://www.angulartypescript.com/angular-2-pipes/
 
 ## UI DESIGN / UI GENERATE
 
@@ -374,7 +360,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://amcdnl.com/2017/10/02/angular-performance-tip-preserve-whitespace
 - https://medium.com/ag-grid/5-tips-for-fixing-a-memory-leak-in-angular-debfc9ef9821
 
-## BOOK/COURSES
+## ECOSYSTEM: BOOK
 
 - https://angularair.com/
 - https://ng-book.com/2
@@ -385,15 +371,14 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison
 - https://egghead.io/series/angular-2-fundamentals
 
-## DOCKER
-
-- https://devblog.dymel.pl/2017/10/04/angular-in-docker/
 
 ## DATA FLOW DATA FLOW UNIDIR
 
 - http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode
 
-## DECORATOR/ANNOTATION
+## CORE: DECORATOR
+
+ANNOTATION
 
 - https://alligator.io/angular/hostbinding-hostlistener/
 - https://www.thecodecampus.de/blog/angular-2-use-hostbindings-set-class/
@@ -405,7 +390,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://dev.to/angular/compile-time-vs-runtime-configuration-of-your-angular-app-15f2
 - https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5
 
-## BUILD / PRODUCTION / BUNDLE
+## CORE: BUILD
+
+/ PRODUCTION / BUNDLE
 
 - https://alligator.io/angular/bundle-size/
 - https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
@@ -417,7 +404,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.webcodegeeks.com/javascript/angular-js/run-angular-2-production-today/
 - http://www.bennadel.com/blog/3050-setting-the-window-document-title-in-angular-2-beta-9.htm
 
-## CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
+## CORE: BUILDER
+
+CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 
 - https://ngx.tools/
 - https://angular-builders.dev/home
@@ -458,7 +447,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
 - https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 
-## ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
+## ECOSYSTEM: MONOREPO
+
+ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
 
 - https://youtu.be/piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 - https://youtu.be/YU-fMRs-ZYU Manfred Steyer: Architectures for huge Angular based enterprise applications
@@ -523,7 +514,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://nstudio.io/xplat
 - https://bit.dev
 
-## RENDERING CIENT / DOM
+## CORE: RENDERING
 
 - https://angular.io/guide/template-syntax
 - https://alligator.io/angular/using-renderer2/
@@ -535,7 +526,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.nt2t38q9n
 - https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
 
-## ANIMATION
+## CORE: ANIMATIONS
 
 - http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
 - https://medium.com/google-developer-experts/angular-applying-motion-principles-to-a-list-d5cdd35c899e
@@ -562,12 +553,12 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/better-programming/a-generic-http-service-approach-for-angular-applications-a7bd8ff6a068
 - http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
 
-## NG MODULES NGMODULE
+## CORE: MODULES
 
 - http://blog.angular-university.io/angular2-ngmodule/
 - https://johnpapa.net/introducing-angular-modules-feature-modules-2/
 
-## AUTHENTIFICATION/LOGIN/
+## ECOSYSTEM: AUTHENTIFICATION
 
 - https://github.com/abacritt/angularx-social-login
 - http://jasonwatmore.com/post/2017/02/22/mean-with-angular-2-user-registration-and-login-example-tutorial
@@ -578,29 +569,11 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://blog.rangle.io/how-angular-2-form-models-work/
 - https://toddmotto.com/angular-2-authentication
 - http://tphangout.com/angular-2-authentication-using-the-new-router/
-- https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
-- https://scotch.io/tutorials/angular-2-form-validation
 
-## REACTIVE FORMS / DYNAMIC FORMS
 
-- https://github.com/ngx-meta/rules
-- https://github.com/formql/formql
-- https://github.com/ngx-formly/ngx-formly
-- https://github.com/udos86/ng-dynamic-forms
-- https://github.com/Ninja-Squad/ngx-valdemort
-- https://github.com/jstoppa/dynamic-forms
-- https://github.com/SanderElias/ngObservableForm
-- https://github.com/maximelafarie/angular-dynamic-forms
-- https://devdactic.com/dynamic-components-ionic
-- https://toddmotto.com/angular-dynamic-components-forms
-- https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
-- https://stackblitz.com/@formqlx
-- https://github.com/formql/formql/tree/master/examples
-- https://slides.com/juanstoppa/dynamic-reactive-forms-angular-denver
-- https://medium.com/@oojhaajay/dynamic-validation-in-angular-dynamic-forms-aca8df20ece0
-- https://medium.com/@tomastrajan/angular-reactive-sub-forms-type-safe-without-duplication-dbd24225e1e8
+## CORE: FORMS
 
-## FORMS / FORM VALIDATION / REACTIVE FORMS
+Learn how to build perfect form using reactive forms.
 
 - https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
 - https://blog.angularindepth.com/dont-reinvent-the-wheel-when-implementing-controlvalueaccessor-a0ed4ad0fafd
@@ -619,9 +592,15 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://toddmotto.com/reactive-formgroup-validation-angular-2
 - https://scotch.io/tutorials/angular-2-form-validation
 - https://toddmotto.com/angular-ng-errors-form-validation
-- https://github.com/UltimateAngular/ngxerrors
+- https://devdactic.com/dynamic-components-ionic
+- https://toddmotto.com/angular-dynamic-components-forms
+- https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
+- https://slides.com/juanstoppa/dynamic-reactive-forms-angular-denver
+- https://medium.com/@oojhaajay/dynamic-validation-in-angular-dynamic-forms-aca8df20ece0
+- https://medium.com/@tomastrajan/angular-reactive-sub-forms-type-safe-without-duplication-dbd24225e1e8
+- https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 
-## TEMPLATE
+## CORE: TEMPLATE
 
 - https://codeburst.io/angular-interview-question-what-are-ng-container-ng-content-and-ng-template-9fafbbc255d5
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
@@ -629,15 +608,14 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/javascript-everyday/reusable-components-with-configurable-templates-in-angular-3c55741c97f3
 - https://medium.com/@liutingchun_95744/angular-using-ngtemplateoutlet-to-communicate-between-parent-and-dynamic-child-components-4d74ca9ba9b
 
-## PLATFORM
+## CORE: PLATFORM
 
 - https://github.com/Tibing/platform-terminal
 
-## SCAFFHOLDING
 
-- https://www.ociweb.com/resources/publications/sett/august-2016-grails-angular-scaffolding/
+## CORE: GUARD
 
-## 2 SECURE / AUTH / GUARD / INTERCEPTOR
+Learn how to secure your app with guards and interceptors.
 
 - https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 - https://itnext.io/handle-restricted-routes-in-angular-with-route-guards-95c93be9d05e
@@ -654,7 +632,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/firebase/php-jwt
 - https://stormpath.com/blog/jjwt-how-it-works-why/
 
-## OBSERVABLE/REACTIVE/RXJS
+## CORE: RXJS
+
+Learn the reactive programming using rxjs.
 
 - https://rxjs.tools/
 - https://www.learnrxjs.io/
@@ -706,13 +686,13 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html
 - https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
 
-## RXJS EXTERNAL LIB
+## CORE: RXJS: EXTERNAL
 
 - https://github.com/cartant/rxjs-etc
 - https://github.com/wardbell/subsink
 - https://github.com/nilsmehlhorn/ngx-operators
 
-## HTTP
+## CORE: HTTP
 
 - https://github.com/seeschweiler/angular2-http-client-tutorial
 - https://medium.com/google-developer-experts/angular-2-introduction-to-new-http-module-1278499db2a0#.8bpdi5iht
@@ -722,16 +702,58 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.illucit.com/blog/2016/03/angular2-http-authentication-interceptor/#more-385
 - http://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/
 - https://github.com/zaqqaz/ng2-rest-api
-
-## BACKEND MOCK BACKEND HTTP MOCK FIREBASE GRAPHQL
-
 - https://speakerdeck.com/kuncevic/graphql-magic-with-angular?slide=53
 - http://www.sitepoint.com/angular-2-mockbackend
 - http://jasonwatmore.com/post/2016/11/24/angular-2-mockbackend-example-for-backendless-development
 - https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
 - https://hackernoon.com/from-zero-to-production-with-angular-firebase-and-gitlab-ci-598181cfc6e5
 
-## STATE MANAGEMENT REDUX NGRX STORE NGRX ENTITY
+## CORE: CHANGE DETECTION
+
+Learn everything about the change detection with or without zone.js.
+
+- https://indepth.dev/a-gentle-introduction-into-change-detection-in-angular/
+- https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4
+- https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
+- http://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1
+- https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
+- https://alligator.io/angular/change-detection-strategy
+- https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html
+- http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2
+- http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+- http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html
+- http://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html
+- http://www.bennadel.com/blog/3055-public-properties-component-inputs-and-the-change-detection-contract-in-angular-2.htm
+- https://toddmotto.com/component-events-event-emitter-output-angular-2
+- https://www.javascripttuts.com/global-events-and-event-delegation-in-angular-2
+- http://blogs.walkingtree.in/2016/03/28/angular2-q-a-i/
+- http://blog.rangle.io/angular-2-change-detection/
+- http://juristr.com/blog/2016/04/angular2-change-detection/
+
+## CORE: SCHEMATICS
+
+Learn the schematics tool to automatize and be more efficient.
+
+- https://medium.com/swlh/automate-your-teams-boilerplates-by-building-your-own-schematics-640949001d46
+- https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
+- https://auth0.com/blog/create-custom-schematics-with-nx/
+- https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
+- https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
+- https://github.com/schuchard/ng-schematics
+- https://github.com/manfredsteyer/angular-crud
+
+## CORE: DEPENDENCY INJECTION
+
+Learn the built-in dependency injection mecanism and how to use it to inject your services accoss the differents components.
+
+- https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
+- https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.63fqu1f7r
+- http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
+- http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/
+- https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
+
+
+## ECOSYSTEM: STORE: NGRX
 
 - https://github.com/ngrx/platform
 - https://github.com/ngrx/platform/tree/master/example-app
@@ -794,7 +816,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
 - https://www.youtube.com/watch?v=T-vQoI_AM9E Magical TypeScript features for NgRx
 
-## NGRX/DATA EXAMPLE
+## ECOSYSTEM: STORE: NGRX/DATA
 
 - https://github.com/ngrx/platform/network/dependents?package_id=UGFja2FnZS00NjAxODgyMTE%3D
 - https://github.com/jannesrsa/ng-bootstrap-training
@@ -804,7 +826,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/ershad1/ngrx-data
 - https://github.com/sithelo/hlc-web
 
-## REDUX PATTERN / STORE / STATE MANAGEMENT / NGRX ALTERNATIVE
+## ECOSYSTEM: STORE: ALTERNATIVE
+
+Discover alternative to ngrx for the state management of your objects.
 
 - https://github.com/lacolaco/reactive-store
 - https://github.com/ngxs/store
@@ -839,7 +863,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 - https://www.youtube.com/watch?v=fBQnDSeN8r8 Brew your own state management vs NgRx
 
-## IMMUTABLE / IMMUTABILITY VS ENCAPSULATION
+## ECOSYSTEM: IMMUTABLE
+
+Learn about the way to make your object immutable.
 
 - https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
 - https://www.imkrish.com/immutable-object-array-using-typescript/ \*
@@ -862,43 +888,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.mayflower.de/6630-typescript-redux-immutablejs.html
 - https://angular-2-training-book.rangle.io/immutable/immutable-js/official_documentation
 
-## CHANGE DETECTION NGZONE ZONE
-- https://indepth.dev/a-gentle-introduction-into-change-detection-in-angular/
-- https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4
-- https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
-- http://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1
-- https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
-- https://alligator.io/angular/change-detection-strategy
-- https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html
-- http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2
-- http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
-- http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html
-- http://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html
-- http://www.bennadel.com/blog/3055-public-properties-component-inputs-and-the-change-detection-contract-in-angular-2.htm
-- https://toddmotto.com/component-events-event-emitter-output-angular-2
-- https://www.javascripttuts.com/global-events-and-event-delegation-in-angular-2
-- http://blogs.walkingtree.in/2016/03/28/angular2-q-a-i/
-- http://blog.rangle.io/angular-2-change-detection/
-- http://juristr.com/blog/2016/04/angular2-change-detection/
-
-## SCHEMATICS / GENERATE / GENERATOR
-
-- https://medium.com/swlh/automate-your-teams-boilerplates-by-building-your-own-schematics-640949001d46
-- https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
-- https://auth0.com/blog/create-custom-schematics-with-nx/
-- https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
-- https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
-- https://github.com/schuchard/ng-schematics
-
-## DEPENDENCY INJECTION / SERVICES
-
-- https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
-- https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.63fqu1f7r
-- http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
-- http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/
-- https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
-
-## SEEDS
+## ECOSYSTEM: SEEDS
 
 - https://github.com/NathanWalker/angular2-seed-advanced
 - http://mgechev.github.io/angular2-seed/
@@ -916,26 +906,17 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/ocombe/angular2-seed/tree/ng2-translate
 - http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angular-2/29844571
 
-## CSS / CLASS / UI LIB
+## CORE: ANIMATIONS
 
-- https://blog.angular-university.io/angular-host-context/
-- https://blog.angular-university.io/angular-ngclass-ngstyle
-- https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
 - https://dev.to/angular/angular-animate-css-in-five-easy-steps-8o6
-- https://coryrylan.com/blog/css-encapsulation-with-angular-2-components
-- https://angular.io/docs/ts/latest/guide/component-styles.html
-- https://vmware.github.io/clarity/
-- https://teradata.github.io/covalent/#/
-
-
-## ANIMATE ANIMATIONS DESIGN
-
 - https://medium.com/google-developer-experts/angular-supercharge-your-router-transitions-using-new-animation-features-v4-3-3eb341ede6c8
 - http://www.dzurico.com/angular-animate
 - https://blog.thecodecampus.de/angular-2-animate-creating-sliding-side-navigation
 - https://www.youtube.com/watch?v=mVqQDEtRBwA
 
-## ROUTES ROUTER LAZY LOADING MODULES / ROUTING
+## CORE: ROUTING
+
+Learn about the angular router, lazy load your modules.
 
 - https://medium.com/angular-in-depth/angular-code-splitting-or-how-to-share-components-between-lazy-modules-432c755e389c
 - https://timdeschryver.dev/blog/guarding-your-angular-modules
@@ -981,7 +962,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://theinfogrid.com/tech/developers/angular/lazy-loading-scripts-and-styles-angular/
 - https://coryrylan.com/blog/angular-tips-dynamic-module-imports-with-the-angular-cli
 
-## SECURITY
+## CORE: SECURITY
 
 - https://www.youtube.com/watch?v=GaJ71V28woY Angular Vienna, Web Application Security for Frontend Devs, July 2019
 - https://www.youtube.com/watch?v=WN-XczmI-LY Martin Probst (@martin_probst) , Raphaël Jamet: Security in Angular
@@ -990,11 +971,16 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://www.gistia.com/talk-backend-services-angular-2s-http-client
 - https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.qyagk4j6f
 
-## ECOSYSTEM / MULTI PROJECT
+## CORE: CSS
+- https://blog.angular-university.io/angular-host-context/
+- https://blog.angular-university.io/angular-ngclass-ngstyle
+- https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
+- https://coryrylan.com/blog/css-encapsulation-with-angular-2-components
+- https://angular.io/docs/ts/latest/guide/component-styles.html
 
-- https://docs.google.com/presentation/d/1hS399-o6-6WUwoyaDAKUrupjaEHNqB0KXrd7HpRAE8s/edit#slide=id.g4c62f9d034_0_44
+## CORE: UNIVERSAL
 
-## UNIVERSAL / SSR / SERVER SIDE RENDERING / SEO META
+Learn everything about angular universal, make a good SEO.
 
 - https://slides.com/craigspence/angular-universal-in-the-real-world-15
 - https://www.youtube.com/watch?v=-VDOAjzLcvQ SSR
@@ -1003,8 +989,13 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://davidea.st/articles/the-beginners-guide-to-angular-universal
 - http://blog.devcross.net/2016/03/20/angular-2-seo/
 - https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
+- https://blog.pusher.com/make-angular-4-app-seo-friendly
+- https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
 
-## ERROR HANDLER / ERROR HANDLING / EXCEPTION
+
+## CORE: ERROR HANDLER
+
+Learn the angular error handler in order to catch the front-end and back-end errors.
 
 - https://github.com/melcor76/global-error-handling
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
@@ -1013,7 +1004,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 - https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
 
-## UNIT TESTS TESTING
+## CORE: UNIT TESTS
 
 - https://www.youtube.com/watch?v=S0LxogWSMzE
 - https://www.youtube.com/watch?v=7JucMlrs3dQ
@@ -1072,12 +1063,14 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.nrwl.io/rxjs-advanced-techniques-testing-race-conditions-using-rxjs-marbles-53e7e789fba5
 - https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522
 
-## E2E TESTS
+## CORE: E2E TESTS
 
 - https://screenster.io/
 - https://testrec.com/
 
-## MAKE LIB / DISTRIBUTING LIBRARY / LIBS / PLUGINS
+## ECOSYSTEM: LIB: MAKE 
+
+Learn how to make your own angular lib, build, distribute.
 
 - https://medium.com/angular-in-depth/step-by-step-guide-to-creating-your-first-library-in-angular-6827276bfc9f
 - https://blog.angularindepth.com/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5
@@ -1096,40 +1089,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/jvandemo/generator-angular2-library
 - https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
 
-## LIB UPLOAD
+## ECOSYSTEM: LIB: GENERAL
 
-- https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
-- https://github.com/ribizli/ng2-imageupload
-- https://github.com/jkuri/ng2-uploader
-
-## LIB MODAL
-
-- https://github.com/biig-io/ngx-smart-modal
-- https://github.com/shlomiassaf/ngx-modialog
-- https://matthewross.me/blog/posts/minimal-angular-2-modal
-- https://malcoded.com/posts/angular-dynamic-components/
-
-## LIB PROGRESS / LOADING / LOADER / BAR
-- https://github.com/willmendesneto/ngx-skeleton-loader
-- https://github.com/MurhafSousli/ngx-progressbar
-- https://github.com/aitboudad/ngx-loading-bar
-- https://github.com/biig-io/ngx-smart-loader
-
-## LIB FORM
-
-- https://github.com/formql/formql
-- https://github.com/JsDaddy/ngx-mask
-- https://github.com/ngx-formly/ngx-formly
-- https://github.com/Ninja-Squad/ngx-valdemort
-- https://github.com/JohannesHoppe/angular-date-value-accessor
-
-## LIB CDK MATERIAL
-
-- https://material.angular.io/cdk/a11y/overview
-- https://alligator.io/angular/infinite-scroll
-- https://alligator.io/angular/custom-svg-icons-angular-material
-
-## LIB GENERAL
 - https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/MurhafSousli/ngx-scrollbar
@@ -1212,7 +1173,49 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
 - http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
 
-## LIB I18N / INTERNATIONALIZATION
+## ECOSYSTEM: LIB: UPLOAD
+
+- https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
+- https://github.com/ribizli/ng2-imageupload
+- https://github.com/jkuri/ng2-uploader
+
+## ECOSYSTEM: LIB: DATA VIZ
+
+- https://github.com/valor-software/ng2-charts
+- https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
+
+
+## ECOSYSTEM: LIB: MODAL
+
+- https://github.com/biig-io/ngx-smart-modal
+- https://github.com/shlomiassaf/ngx-modialog
+- https://matthewross.me/blog/posts/minimal-angular-2-modal
+- https://malcoded.com/posts/angular-dynamic-components/
+
+## ECOSYSTEM: LIB: LOADER
+
+PROGRESS / LOADING / LOADER / BAR
+
+- https://github.com/willmendesneto/ngx-skeleton-loader
+- https://github.com/MurhafSousli/ngx-progressbar
+- https://github.com/aitboudad/ngx-loading-bar
+- https://github.com/biig-io/ngx-smart-loader
+
+## ECOSYSTEM: LIB: FORM
+
+- https://github.com/formql/formql
+- https://github.com/JsDaddy/ngx-mask
+- https://github.com/ngx-formly/ngx-formly
+- https://github.com/Ninja-Squad/ngx-valdemort
+- https://github.com/JohannesHoppe/angular-date-value-accessor
+
+## ECOSYSTEM: LIB: CDK MATERIAL
+
+- https://material.angular.io/cdk/a11y/overview
+- https://alligator.io/angular/infinite-scroll
+- https://alligator.io/angular/custom-svg-icons-angular-material
+
+## ECOSYSTEM: LIB: INTERNATIONALIZATION
 
 - https://github.com/ngx-translate/core
 - https://github.com/ngneat/transloco
@@ -1221,12 +1224,12 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
 - https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
 
-## LIB IMAGE
+## ECOSYSTEM: LIB: IMAGE
 
 - https://github.com/fengyuanchen/cropperjs
 - thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
 
-## CSS LIB / THEME / STYLE / CSS
+## ECOSYSTEM: LIB: UI
 
 - https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 - https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2#.bwypv3is1
@@ -1238,14 +1241,38 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/angular/components
 - https://github.com/NG-ZORRO/ng-zorro-antd
 - http://ng-lightning.github.io/ng-lightning/
+- https://vmware.github.io/clarity/
+- https://teradata.github.io/covalent/#/
 
-## PLUG & PLAY:
+
+## ECOSYSTEM: FORMS
+
+- https://github.com/ngx-meta/rules
+- https://github.com/formql/formql
+- https://github.com/ngx-formly/ngx-formly
+- https://github.com/udos86/ng-dynamic-forms
+- https://github.com/Ninja-Squad/ngx-valdemort
+- https://github.com/jstoppa/dynamic-forms
+- https://github.com/SanderElias/ngObservableForm
+- https://github.com/maximelafarie/angular-dynamic-forms
+- https://stackblitz.com/@formqlx
+- https://github.com/formql/formql/tree/master/examples
+- https://github.com/UltimateAngular/ngxerrors
+
+## ECOSYSTEM: CI/CD
+
+Find here useful tips for managing your continious integration and delivery process.
+
+- https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
+
+
+## ECOSYSTEM: PLUG & PLAY:
 
 - https://github.com/aviabird/angularspree
 - https://github.com/scullyio/scully
 - https://angularexpo.com
 
-## DEMO SOURCES / EXAMPLES
+## ECOSYSTEM: DEMO: SOURCES
 
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example
@@ -1272,13 +1299,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/hswolff/hn-ng2
 - http://angular2.com/
 
-## GAMES
-
-- https://github.com/melcor76/ng-tetris
-- https://blog.angularindepth.com/how-to-get-started-with-canvas-animations-in-angular-2f797257e5b4
-- https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7
-
-## DEMO APP / TUTORIAL / EXAMPLES
+## ECOSYSTEM: DEMO: LIVE
 
 - https://netbasal.com/build-an-infinite-scroll-component-in-angular-a9c16907a94d
 - https://matthewross.me/blog/posts/angular-2-recipes-app-the-api (with SlimPHP)
@@ -1304,7 +1325,16 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.codeproject.com/Articles/1139558/Single-Page-Application-SPA-for-Enterprise-App-Ang roles
 - https://hackernoon.com/chatbot-with-angular-5-dialogflow-fdac97fef681
 
-## MOBILE / NATIVE / HYBRIDE / CROSSPLATFORM / CROSS
+## ECOSYSTEM: GAMES
+
+- https://github.com/melcor76/ng-tetris
+- https://blog.angularindepth.com/how-to-get-started-with-canvas-animations-in-angular-2f797257e5b4
+- https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7
+
+
+## ECOSYSTEM: MOBILE
+
+Learn how to build mobile applications using angular. You will find many cross platform framework for building native or hybrid mobile app.
 
 - https://nrwl.io/nx
 - https://nstudio.io/xplat
@@ -1323,27 +1353,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript
 - http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0
 
-## SOCKETS
-
-- https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
-
-## CODE GENERATION / CODEGEN
-
-https://xlayers.app/#/home
-
-## DATA VIZ
-
-- https://github.com/valor-software/ng2-charts
-- https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
-
-## ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1
-
-- https://angularclass.com/angular-2-for-angularjs-developers/
-- https://toddmotto.com/on-init-require-object-syntax-angular-component
-- http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
-- http://blog.ionic.io/angular-is-a-design-pattern/
-
-## MIGRATION NG1 TO NG2
+## CORE: MIGRATION
 
 - https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b#.xhk466v64
 - http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/
@@ -1364,20 +1374,23 @@ https://xlayers.app/#/home
 - https://tech.evojam.com/2016/03/31/react-vs-angular2-the-fight-rages-on/
 - https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
 
-## COMMUNITY / BLOG
+## ECOSYSTEM: COMMUNITY
 
 - https://dev.to/angular
-- https://nxplaybook.com/
-- https://nrwlcommunity.slack.com/
+- http://blog.mgechev.com/
 - https://angularconferences.com/
 - http://brianflove.com/
 - https://julienrenaux.fr/
 - https://blog.ninja-squad.com/
 - https://christianlydemann.com/
 - https://timdeschryver.dev/blog
+- https://toddmotto.com/
+- https://nxplaybook.com/
+- https://nrwlcommunity.slack.com/
 
-## OTHERS ARTICLES
+## ECOSYSTEM: ARTICLES
 
+- https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
 - https://medium.com/ampgular-bringing-angular-app-t-to-amp-world-and/https-medium-com-ampgular-angular-to-amp-madrid-day-spa-com-use-case-56d6809604fd
 - https://devchat.tv/adventures-in-angular
 - https://www.voxxed.com/blog/2016/02/why-java-developers-will-embrace-angular-2-and-typescript/
