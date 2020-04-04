@@ -94,15 +94,6 @@
 
 # ANGULAR LIST
 
-todo reorganize:
-
-- CORE
-- BUILD
-- HELPER
-- TOOLING
-- ECOSYSTEM
-- EVOLUTION
-
 ## HELPER: NEW
  
  Fundamental decisions to take when new project start.
