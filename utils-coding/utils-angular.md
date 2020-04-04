@@ -255,6 +255,8 @@ They are pure functions. The function always returns the same result if the same
 
 #### TRANSFORMATION
 
+- https://ncjamieson.com/avoiding-switchmap-related-bugs/
+
 - mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
 - switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
 - concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained.

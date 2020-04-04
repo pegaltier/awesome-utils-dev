@@ -627,9 +627,11 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## TEMPLATE
 
+- https://codeburst.io/angular-interview-question-what-are-ng-container-ng-content-and-ng-template-9fafbbc255d5
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
 - https://medium.com/javascript-everyday/reusable-components-with-configurable-templates-in-angular-3c55741c97f3
+- https://medium.com/@liutingchun_95744/angular-using-ngtemplateoutlet-to-communicate-between-parent-and-dynamic-child-components-4d74ca9ba9b
 
 ## PLATFORM
 
@@ -665,6 +667,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/btroncone/learn-rxjs
 - https://github.com/jsonberry/rxjs-examples
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
+- https://ncjamieson.com/avoiding-switchmap-related-bugs/
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 - https://blog.angular-university.io/rxjs-higher-order-mapping/
 - https://blog.angular-university.io/rxjs-error-handling/
@@ -748,6 +751,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/tomastrajan/angular-ngrx-material-starter
+- https://dev.to/alfredoperez/my-notes-from-ngrx-workshop-from-ngconf-2020-part-1-introduction-h8l
 - https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
 - https://nx.dev/angular/guides/misc-data-persistence
 - https://tomastrajan.github.io/angular-ngrx-material-starter
@@ -827,6 +831,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://codeburst.io/effector-state-manager-6ee2e72e8e0b
 - https://blog.angularindepth.com/state-management-in-angular-using-akita-82f117d282dd
 - https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee
+- https://dev.to/alfredoperez/angular-service-to-handle-state-using-behaviorsubject-4818
 - https://dev.to/arielgueta/introducing-one-to-many-relationship-in-angular-akita-37me
 - https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c
 - https://juristr.com/blog/2018/10/simple-state-management-with-scan/
@@ -862,7 +867,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://angular-2-training-book.rangle.io/immutable/immutable-js/official_documentation
 
 ## CHANGE DETECTION NGZONE ZONE
-
+- https://indepth.dev/a-gentle-introduction-into-change-detection-in-angular/
 - https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4
 - https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
 - http://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1
@@ -882,6 +887,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## SCHEMATICS / GENERATE / GENERATOR
 
+- https://medium.com/swlh/automate-your-teams-boilerplates-by-building-your-own-schematics-640949001d46
 - https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
 - https://auth0.com/blog/create-custom-schematics-with-nx/
 - https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
@@ -1009,6 +1015,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/melcor76/global-error-handling
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
+- https://medium.com/dailyjs/how-to-send-errors-into-slack-dc552e30506f
+- https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 - https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
 
 ## UNIT TESTS TESTING
@@ -1029,6 +1037,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://github.com/testing-library/angular-testing-library
 - https://dev.to/rfornal/bad-test-bad-1og7
 - https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
+- https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/
 - https://timdeschryver.dev/blog/good-testing-practices-with-angular-testing-library
 - https://netbasal.com/testing-asynchronous-code-in-angular-using-fakeasync-fc777f86ed13
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e

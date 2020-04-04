@@ -9,6 +9,7 @@
 
 ## LIB
 - https://github.com/typestack/class-validator
+- https://github.com/eonarheim/TypeState
 
 ## TYPESCRIPT GUIDES
 - https://github.com/intocare/style-guide

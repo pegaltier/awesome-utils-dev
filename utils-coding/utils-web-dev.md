@@ -52,26 +52,27 @@
 
 
 ## SUMMARY
-checklist : http://webdevchecklist.com/
-checklist : https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
-google : https://google.github.io/styleguide/htmlcssguide.xml
-web : https://internetingishard.com/html-and-css/
-map : https://github.com/kamranahmedse/developer-roadmap
+- https://google.github.io/styleguide/htmlcssguide.xml
+- https://internetingishard.com/html-and-css/
+- https://github.com/kamranahmedse/developer-roadmap
 
 ## ONLINE IDE
-https://www.gitpod.io/
-https://stackblitz.com
+- https://www.gitpod.io/
+- https://stackblitz.com
  
 ## HTML/HEAD/CHECKLIST
-https://github.com/joshbuchea/HEAD
-https://frontendchecklist.io
-https://github.com/thedaviddias/Front-End-Checklist
-https://codeburst.io/the-front-end-checklist-8b2292fdda44
+- https://github.com/thedaviddias/Front-End-Checklist
+- https://github.com/joshbuchea/HEAD
+- https://frontendchecklist.io
+- http://webdevchecklist.com/
+- https://github.com/thedaviddias/Front-End-Checklist
+- https://codeburst.io/the-front-end-checklist-8b2292fdda44
+- https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 
 ## GENERATOR BLOCK
-bootstrap : https://www.froala.com/design-blocks
-web : https://webcode.tools/
-favicon : http://realfavicongenerator.net/
+- https://www.froala.com/design-blocks
+- https://webcode.tools/
+- http://realfavicongenerator.net/
 
 ## TOOLS
 - https://tiny-helpers.dev/
