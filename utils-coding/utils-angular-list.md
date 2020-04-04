@@ -641,18 +641,6 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 - https://www.youtube.com/watch?v=S0LxogWSMzE
 - https://www.youtube.com/watch?v=7JucMlrs3dQ
-- https://github.com/ike18t/ng-mocks
-- https://github.com/getsaf/shallow-render
-- https://github.com/Ninja-Squad/ngx-speculoos
-- https://github.com/ngneat/spectator
-- https://github.com/youdz/dry-angular-testing
-- https://stackblitz.com/edit/angular-testing-v7
-- https://github.com/juristr/angular-testing-recipes
-- https://github.com/wallabyjs/public
-- https://github.com/storybookjs/storybook
-- https://github.com/amcdnl/angular-storybook
-- https://github.com/duluca/angular-unit-test-helper
-- https://github.com/testing-library/angular-testing-library
 - https://dev.to/rfornal/bad-test-bad-1og7
 - https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
 - https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/
@@ -864,18 +852,6 @@ Learn about the way to make your object immutable.
 - https://github.com/mgechev/ng2lint
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 
-
-## ECOSYSTEM: LIB: ELEMENTS
-
-- https://www.youtube.com/watch?v=t1ohOAyA_sI
-- https://github.com/frintjs/frint
-- https://github.com/CanopyTax/single-spa
-- https://github.com/ng-packagr/ng-packagr
-- https://github.com/aelbore/ngx-elements
-- https://github.com/aelbore/ngx-elements-demo
-- https://github.com/angular-extensions/elements
-- https://angular-extensions.github.io/elements/#/examples/advanced
-
 ## ECOSYSTEM: MICROFRONTEND
 
 - https://custom-elements-everywhere.com/
@@ -1086,6 +1062,32 @@ Learn how to make your own angular lib, build, distribute.
 - https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 - http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
 - http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
+
+## ECOSYSTEM: LIB: ELEMENTS
+
+- https://www.youtube.com/watch?v=t1ohOAyA_sI
+- https://github.com/frintjs/frint
+- https://github.com/CanopyTax/single-spa
+- https://github.com/ng-packagr/ng-packagr
+- https://github.com/aelbore/ngx-elements
+- https://github.com/aelbore/ngx-elements-demo
+- https://github.com/angular-extensions/elements
+- https://angular-extensions.github.io/elements/#/examples/advanced
+
+## ECOSYSTEM: UNIT TESTS
+
+- https://github.com/ike18t/ng-mocks
+- https://github.com/getsaf/shallow-render
+- https://github.com/Ninja-Squad/ngx-speculoos
+- https://github.com/ngneat/spectator
+- https://github.com/youdz/dry-angular-testing
+- https://stackblitz.com/edit/angular-testing-v7
+- https://github.com/juristr/angular-testing-recipes
+- https://github.com/wallabyjs/public
+- https://github.com/storybookjs/storybook
+- https://github.com/amcdnl/angular-storybook
+- https://github.com/duluca/angular-unit-test-helper
+- https://github.com/testing-library/angular-testing-library
 
 ## ECOSYSTEM: LIB: UPLOAD
 
