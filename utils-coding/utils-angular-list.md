@@ -3,7 +3,7 @@
 - [XP / NEW PROJECT / QUESTIONS](#xp--new-project--questions)
 - [HISTORY](#history)
 - [BEST PRACTICE](#best-practice)
-- [HACK ONLINE IDE / STARTER / FAST CODING](#hack-online-ide--starter--fast-coding)
+- [ONLINE IDE](#online-ide)
 - [LIST / LINKS / AWESOME](#list--links--awesome)
 - [PROXY](#proxy)
 - [PWA](#pwa)
@@ -53,7 +53,7 @@
 - [IMMUTABLE / IMMUTABILITY VS ENCAPSULATION](#immutable--immutability-vs-encapsulation)
 - [CHANGE DETECTION NGZONE ZONE](#change-detection-ngzone-zone)
 - [GENERATE SCHEMATICS GENERATOR](#generate-schematics-generator)
-- [DEPENDENCY INJECTION](#dependency-injection)
+- [DEPENDENCY INJECTION / SERVICES](#dependency-injection--services)
 - [SEEDS](#seeds)
 - [CSS / CLASS / UI LIB](#css--class--ui-lib)
 - [SINGLETON](#singleton)
@@ -71,7 +71,7 @@
 - [LIB MODAL](#lib-modal)
 - [LIB PROGRESS / LOADING / LOADER / BAR](#lib-progress--loading--loader--bar)
 - [LIB FORM](#lib-form)
-- [LIB / REUSE / UTILS / GENERAL](#lib--reuse--utils--general)
+- [LIB GENERAL](#lib-general)
 - [LIB CDK](#lib-cdk)
 - [CSS LIB / THEME / STYLE / CSS](#css-lib--theme--style--css)
 - [PLUG & PLAY:](#plug--play)
@@ -84,8 +84,7 @@
 - [DATA VIZ](#data-viz)
 - [ANGULAR/ANGULAR1 COMPARAISON + MIGRATION NG1](#angularangular1-comparaison--migration-ng1)
 - [MIGRATION NG1 TO NG2](#migration-ng1-to-ng2)
-- [/ REACT / VUE / COMPARAISON](#-react--vue--comparaison)
-- [PAYMENT](#payment)
+- [ANGULAR / REACT / VUE / COMPARAISON](#angular--react--vue--comparaison)
 - [COMMUNITY / BLOG](#community--blog)
 - [OTHERS ARTICLES](#others-articles)
 - [VERSION](#version)
@@ -160,7 +159,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
 
-## HACK ONLINE IDE / STARTER / FAST CODING
+## ONLINE IDE
 
 - https://ng-run.com/
 - https://codesandbox.io/
@@ -170,18 +169,15 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## LIST / LINKS / AWESOME
 
+- https://web.dev/angular
+- https://www.reddit.com/r/Angular2/
 - https://github.com/swirlycheetah/awesome-angular2
 - https://github.com/timjacobi/angular2-education
 - https://github.com/jonrimmer/angular-2-examples
 - https://github.com/PatrickJS/awesome-angular
-- https://github.com/typebytes/angular-checklist
-- https://web.dev/angular
 - https://github.com/jmcunningham/AngularJS2-Learning
 - https://github.com/timjacobi/angular2-education
-- https://www.reddit.com/r/Angular2/
 - http://whatpixel.com/learn-angular2-from-scratch/
-- https://www.reddit.com/r/Angular2/comments/4cvwjr/helpful_github_repos_curated_through_april_2016/
-- https://www.reddit.com/r/Angular2/comments/5alp3z/helpful_github_repos_curated_through_november_2016/
 
 ## PROXY
 
@@ -643,8 +639,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## 2 SECURE / AUTH / GUARD / INTERCEPTOR
 
-https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
-
+- https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 - https://itnext.io/handle-restricted-routes-in-angular-with-route-guards-95c93be9d05e
 - https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
 - https://ryanchenkie.com/angular-authentication-using-route-guards
@@ -713,6 +708,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 
 ## RXJS EXTERNAL LIB
 
+- https://github.com/cartant/rxjs-etc
 - https://github.com/wardbell/subsink
 - https://github.com/nilsmehlhorn/ngx-operators
 
@@ -894,12 +890,13 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
 - https://github.com/schuchard/ng-schematics
 
-## DEPENDENCY INJECTION
+## DEPENDENCY INJECTION / SERVICES
 
 - https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
 - https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.63fqu1f7r
 - http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
 - http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/
+- https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
 
 ## SEEDS
 
@@ -930,9 +927,6 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://vmware.github.io/clarity/
 - https://teradata.github.io/covalent/#/
 
-## SINGLETON
-
-- https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
 
 ## ANIMATE ANIMATIONS DESIGN
 
@@ -1135,11 +1129,8 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://alligator.io/angular/infinite-scroll
 - https://alligator.io/angular/custom-svg-icons-angular-material
 
-## LIB LIBST
-
+## LIB GENERAL
 - https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
-
-## LIB / REUSE / UTILS / GENERAL
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/mgechev/ngx-circular-player
@@ -1186,6 +1177,7 @@ https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450
 - https://akveo.github.io/ngx-admin/
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://ornamentum.app/
+- https://alligator.io/angular/stripe-elements
 - https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
   -- old
 - https://swimlane.github.io/ng2d3/
@@ -1357,7 +1349,7 @@ https://xlayers.app/#/home
 - http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/
 - https://toddmotto.com/angular-1-6-is-here
 
-## / REACT / VUE / COMPARAISON
+## ANGULAR / REACT / VUE / COMPARAISON
 
 - https://framework.watch/
 - https://www.toptal.com/front-end/angular-vs-react-for-web-development
@@ -1372,12 +1364,11 @@ https://xlayers.app/#/home
 - https://tech.evojam.com/2016/03/31/react-vs-angular2-the-fight-rages-on/
 - https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
 
-## PAYMENT
-
-- https://alligator.io/angular/stripe-elements
-
 ## COMMUNITY / BLOG
 
+- https://dev.to/angular
+- https://nxplaybook.com/
+- https://nrwlcommunity.slack.com/
 - https://angularconferences.com/
 - http://brianflove.com/
 - https://julienrenaux.fr/
