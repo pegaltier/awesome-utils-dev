@@ -238,6 +238,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 - https://itnext.io/understanding-angular-modules-5f1215130bc8
 - https://indepth.dev/stop-using-shared-material-module/
+- https://indepth.dev/avoiding-common-confusions-with-modules-in-angular/
 
 ## CORE: PIPES
 
@@ -534,6 +535,7 @@ Learn the schematics tool to automatize and be more efficient.
 Learn the built-in dependency injection mecanism and how to use it to inject your services accoss the differents components.
 
 - https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
+- https://christiankohler.net/angular-dependency-injection-infographic
 - https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.63fqu1f7r
 - http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
 - http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/
