@@ -686,8 +686,10 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 ## CORE: E2E TESTS
 
-- https://screenster.io/
-- https://testrec.com/
+- https://angular.io/cli/e2e
+- https://medium.com/@TammyTorres/e2e-testing-on-angular-app-with-protractor-tips-included-f3d5f65a8816
+- https://dev.to/francisca80s/automation-e2e-testing-in-angular-with-protractor-72d
+- https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor
 
 ## CORE: MIGRATION
 
@@ -1074,7 +1076,11 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/angular-extensions/elements
 - https://angular-extensions.github.io/elements/#/examples/advanced
 
-## ECOSYSTEM: UNIT TESTS
+## ECOSYSTEM: LIB: E2E TESTS
+- https://screenster.io/
+- https://testrec.com/
+
+## ECOSYSTEM: LIB: UNIT TESTS
 
 - https://github.com/ike18t/ng-mocks
 - https://github.com/getsaf/shallow-render
