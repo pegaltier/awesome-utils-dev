@@ -135,7 +135,12 @@ holo github>>
 - https://github.com/travol-platform/air_shopping
 - https://github.com/sdelvalle57/holochain_multisig
 - https://github.com/eyss/holo-invaders-back
+- https://github.com/eyss/holochain_roles
+- https://github.com/uprtcl/js-uprtcl
 
+holo tools>>
+- https://github.com/eyss/holochain_roles
+- https://github.com/holochain/holochain-anchors
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
