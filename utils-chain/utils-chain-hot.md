@@ -139,6 +139,7 @@ holo github>>
 - https://github.com/uprtcl/js-uprtcl
 
 holo tools>>
+- https://github.com/holochain-open-dev
 - https://github.com/eyss/holochain_roles
 - https://github.com/holochain/holochain-anchors
 
