@@ -103,6 +103,7 @@
 - Ngrx or another ? (context store?)
 - UI boostrap, material, ant, cdk?
 - Rules ? lint, commits, formatting...
+- strictNullChecks in tsconfig.json.
 
 ## HELPER: BEST PRACTICES
 
@@ -311,6 +312,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 
 ## CORE: ELEMENTS
 
+- https://dev.to/stephenradams/using-angular-elements-for-a-micro-frontend-fgf
 - https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007
 - https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
 - https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019?slide=1
@@ -480,6 +482,7 @@ Learn the reactive programming using rxjs.
 - https://github.com/nilsmehlhorn/ngx-operators
 
 ## CORE: HTTP
+- https://dev.to/florimondmanca/consuming-apis-in-angular--the-model-adapter-pattern-3fk5
 - https://medium.com/better-programming/a-generic-http-service-approach-for-angular-applications-a7bd8ff6a068
 - http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular
 - https://github.com/seeschweiler/angular2-http-client-tutorial
@@ -787,6 +790,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 Discover alternative to ngrx for the state management of your objects.
 
+- https://github.com/BioPhoton/ngx-rx
 - https://github.com/lacolaco/reactive-store
 - https://github.com/ngxs/store
 - https://github.com/ngxs-labs/emitter
@@ -848,12 +852,13 @@ Learn about the way to make your object immutable.
 
 ## ECOSYSTEM: LINT
 
+- https://github.com/mgechev/ngrev
+- https://github.com/mgechev/ng2lint
 - https://github.com/mgechev/tslint-angular
 - https://github.com/ReactiveX/rxjs-tslint
+- https://github.com/cyrilletuzi/typescript-strictly-typed
 - https://www.npmjs.com/package/rxjs-tslint-rules
-- https://github.com/mgechev/ngrev
 - https://palantir.github.io/tslint/
-- https://github.com/mgechev/ng2lint
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 
 ## ECOSYSTEM: MICROFRONTEND
@@ -1395,6 +1400,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison
 - https://egghead.io/series/angular-2-fundamentals
 
+## ECOSYSTEM: MEDIAS
+
+- https://soundcloud.com/angularlicious/angular-architecture-part-2-with-lars-still-getting-rid-of-modules
 
 ## ECOSYSTEM: ARTICLES
 

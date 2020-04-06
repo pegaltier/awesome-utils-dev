@@ -1,9 +1,11 @@
 
  ## UTILS
+
 - https://github.com/palmerhq/tsdx
 - https://github.com/runem/ts-simple-type
 - https://mgv.io/deep-readonly-play
 - https://twitter.com/mgechev/status/1240178886979223552
+- https://dev.to/ruslanchek_17/some-useful-typescript-snippets-2278
 - https://gist.github.com/busypeoples/b2d9ecda58ff25f3206e8c171f04b087
 - https://gist.github.com/busypeoples/eebd1f893671959162df97cc8a6292e0
 
