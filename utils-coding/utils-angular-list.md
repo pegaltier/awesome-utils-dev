@@ -1166,6 +1166,7 @@ PROGRESS / LOADING / LOADER / BAR
 
 ## ECOSYSTEM: LIB: IMAGE
 
+- https://github.com/kevoj/angular-editor-fabric-js
 - http://czeckd.github.io/angular2-svg-icon/demo/
 - https://github.com/fengyuanchen/cropperjs
 - thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
