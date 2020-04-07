@@ -1301,18 +1301,6 @@ ANGULAR / REACT / VUE...
 - https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
 
 
-## ECOSYSTEM: AWESOME
-
-- https://web.dev/angular
-- https://www.reddit.com/r/Angular2/
-- https://github.com/swirlycheetah/awesome-angular2
-- https://github.com/timjacobi/angular2-education
-- https://github.com/jonrimmer/angular-2-examples
-- https://github.com/PatrickJS/awesome-angular
-- https://github.com/jmcunningham/AngularJS2-Learning
-- https://github.com/timjacobi/angular2-education
-- http://whatpixel.com/learn-angular2-from-scratch/
-
 ## ECOSYSTEM: PLUGINS
 
 Find here plugins for different browser.
@@ -1375,8 +1363,24 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/johnpapa/vscode-angular2-snippets
 - https://github.com/evanplaice/angular2-snippets
 
+
+## ECOSYSTEM: AWESOME
+
+- https://github.com/brillout/awesome-angular-components
+- https://github.com/swirlycheetah/awesome-angular2
+- https://github.com/timjacobi/angular2-education
+- https://github.com/jonrimmer/angular-2-examples
+- https://github.com/PatrickJS/awesome-angular
+- https://github.com/jmcunningham/AngularJS2-Learning
+- https://github.com/timjacobi/angular2-education
+- http://whatpixel.com/learn-angular2-from-scratch/
+
+
 ## ECOSYSTEM: COMMUNITY
 
+- https://indepth.dev/
+- https://web.dev/angular
+- https://www.reddit.com/r/Angular2/
 - https://dev.to/angular
 - http://blog.mgechev.com/
 - https://angularconferences.com/
@@ -1394,6 +1398,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 - https://angularair.com/
 - https://ng-book.com/2
+- https://angulararchitecture.com/
 - https://books.ninja-squad.com/angular2
 - https://leanpub.com/angular2-book
 - https://www.packtpub.com/web-development/switching-angular-2/
@@ -1403,6 +1408,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## ECOSYSTEM: MEDIAS
 
+- https://angularair.com/
+- https://happy-angular.de/
+- https://devchat.tv/adv-in-angular/
+- https://github.com/ngRuAir/ngruair
 - https://soundcloud.com/angularlicious/angular-architecture-part-2-with-lars-still-getting-rid-of-modules
 
 ## ECOSYSTEM: ARTICLES
