@@ -616,9 +616,14 @@ nx serve my-project-my-app # start the new project
 - https://github.com/Bielik20/nx-mean-starter/commit/aacbfa66dbd6465a0e0087fe6dcccd1b805619c3
 - https://medium.com/@gregor.woiwode/how-to-setup-jest-in-an-ionic-4-project-ff1e5b72dd79
 
-## LAZY MODULES
+## MODULES
 
-### Benefits
+- App module: it's the root module used to bootstrap the application. There should not be a lot of content because we must encapsulate features into domain-specific modules.
+- Core module: app-level components like header, footer, breadcrumb, navigation and singleton services.
+- Shared module: shared components, directives, guards, & pipes used throughout the application. It's common to import and export Angular built modules, Common Module or Material module inside your Shared Module if you really need to access them in multiple locations like in Feature modules.
+- Feature module: Breaking things up into domain-specific lazy loaded modules will help run in the long term.
+
+### Benefits of lazy modules
 
 - faster rebuilds in dev mode
 - feature isolation/guarantees

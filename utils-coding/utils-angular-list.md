@@ -364,14 +364,15 @@ translusions, ng-content...
 
 ## CORE: MODULES
 
+- https://www.thetombomb.com/2019/11/13/app-module-vs-core-module-vs-shared-module-vs-feature-modules-in-angular/
 - http://blog.angular-university.io/angular2-ngmodule/
 - https://johnpapa.net/introducing-angular-modules-feature-modules-2/
-
 
 ## CORE: FORMS
 
 Learn how to build perfect form using reactive forms.
 
+- https://indepth.dev/angular-forms-story-strong-types/
 - https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
 - https://blog.angularindepth.com/dont-reinvent-the-wheel-when-implementing-controlvalueaccessor-a0ed4ad0fafd
 - https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
@@ -385,12 +386,12 @@ Learn how to build perfect form using reactive forms.
 - https://coryrylan.com/blog/angular-form-builder-and-validation-management
 - http://learnangular2.com/forms/
 - https://toddmotto.com/angular-2-forms-template-driven
+- https://toddmotto.com/angular-dynamic-components-forms
 - https://toddmotto.com/angular-2-forms-reactive
 - https://toddmotto.com/reactive-formgroup-validation-angular-2
-- https://scotch.io/tutorials/angular-2-form-validation
 - https://toddmotto.com/angular-ng-errors-form-validation
+- https://scotch.io/tutorials/angular-2-form-validation
 - https://devdactic.com/dynamic-components-ionic
-- https://toddmotto.com/angular-dynamic-components-forms
 - https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c
 - https://slides.com/juanstoppa/dynamic-reactive-forms-angular-denver
 - https://medium.com/@oojhaajay/dynamic-validation-in-angular-dynamic-forms-aca8df20ece0
@@ -719,6 +720,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/ngrx/platform/tree/master/example-app
 - https://github.com/ngrx/platform/tree/master/projects/example-app
 - https://github.com/co-IT/ngrx-ducks
+- https://github.com/co-IT/ngrx-vis
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/briebug/ngrx-auto-entity
@@ -773,6 +775,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 - http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 - http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1
+- https://indepth.dev/understanding-the-magic-behind-ngrx-store/
 - https://github.com/Wykks/wonderful-todo-list
 - https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
 - https://www.youtube.com/watch?v=T-vQoI_AM9E Magical TypeScript features for NgRx
@@ -861,6 +864,7 @@ Learn about the way to make your object immutable.
 - https://www.npmjs.com/package/rxjs-tslint-rules
 - https://palantir.github.io/tslint/
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
+- https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
 
 ## ECOSYSTEM: MICROFRONTEND
 
@@ -973,13 +977,15 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 Learn how to make your own angular lib, build, distribute.
 
-- https://medium.com/angular-in-depth/step-by-step-guide-to-creating-your-first-library-in-angular-6827276bfc9f
+- https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+- https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121
+- https://blog.angularindepth.com/the-angular-library-series-publishing-ce24bb673275
 - https://blog.angularindepth.com/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5
+- https://medium.com/angular-in-depth/step-by-step-guide-to-creating-your-first-library-in-angular-6827276bfc9f
 - https://next.angular.io/guide/creating-libraries
 - http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
 - https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266
 - https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
-- https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
 - https://github.com/jvandemo/generator-angular2-library
 - https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
 - https://github.com/angular/angular-cli/issues/3580
@@ -1102,6 +1108,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/duluca/angular-unit-test-helper
 - https://github.com/testing-library/angular-testing-library
+- https://github.com/gparlakov/scuri/blob/master/README.md
 
 ## ECOSYSTEM: LIB: UPLOAD
 
@@ -1148,6 +1155,9 @@ PROGRESS / LOADING / LOADER / BAR
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/JohannesHoppe/angular-date-value-accessor
+- https://github.com/gparlakov/forms-typed/blob/master/projects/forms/
+- https://github.com/gparlakov/forms-typed/blob/master/projects/show-form-control/
+- https://bit.dev/kevinrodbe/utils/helpers/angular/~code#frm-validators.ts
 - https://stackblitz.com/@formqlx
 
 ## ECOSYSTEM: LIB: CDK MATERIAL
@@ -1186,7 +1196,6 @@ PROGRESS / LOADING / LOADER / BAR
 - http://ng-lightning.github.io/ng-lightning/
 - https://vmware.github.io/clarity/
 - https://teradata.github.io/covalent/#/
-
 
 
 ## ECOSYSTEM: CI/CD
@@ -1300,7 +1309,7 @@ ANGULAR / REACT / VUE...
 - http://blog.scalac.io/2016/02/16/react-vs-angular-2.html
 - https://tech.evojam.com/2016/03/31/react-vs-angular2-the-fight-rages-on/
 - https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
-
+- https://indepth.dev/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react/
 
 ## ECOSYSTEM: PLUGINS
 
@@ -1443,6 +1452,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ### ANGULAR9
 
+- https://trilon.io/blog/angular-universal-v9-whats-new
 - https://dev.to/angular/angular-9-lazy-loading-components-o04
 - https://alexzuza.github.io/angular-9-ivy-change-detection-preview/
 - https://www.softwarearchitekt.at/aktuelles/architecture-with-ivy-a-possible-future-without-angular-modules/

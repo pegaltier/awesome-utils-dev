@@ -29,3 +29,4 @@ https://github.com/railto/realworld-slim
 
 ## JAVASCRIPT
 https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397

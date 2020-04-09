@@ -46,6 +46,7 @@ git revert d42c389f (revert any commit on current branch)
 git remote prune origin (clean local branches that have been deleted from remote)
 git branch -D branchname (delete local branch)
 git config --get remote.origin.url (check the remote url)
+git commit --amend -m "New commit msg" (edit wrong unpushed commit message)
 ```
 
 ## CLONE 

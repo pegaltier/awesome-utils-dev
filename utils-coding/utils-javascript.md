@@ -17,10 +17,12 @@
 - https://learnjavascript.online/ 
 
 ## ARTICLES BEST PRACTICES
+- https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397
 - https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
 - https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
 - https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
+- https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/
 
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
@@ -74,8 +76,6 @@
 - https://github.com/vendure-ecommerce/vendure
 
 ## IMPORTANT
-
-###
 
 ### PURE FUNCTIONS
 - https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3
