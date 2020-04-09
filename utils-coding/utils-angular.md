@@ -640,6 +640,7 @@ nx serve my-project-my-app # start the new project
 
 - Core services (not lazy) must be in the core folder and can use the providedIn: 'root' syntax from their @Injectable() decorators and then can be used in all kind of modules (lazy or not) without putting them in providers: [ ] of any module...
 - Shared services (shared by multiple lazy or core modules) if you put your services inside the provider array of the shared module and then use shared like its intented to use in multiple lazy modules then every lazy loaded module would get its own service instance and not the intented singleton. In this case (only for shared modules) you can also use forRoot/forChild with providers that are going to be imported into both eager and lazy module modules.
+- Tree-shaking services are now possible by using the providedIn: 'root', 'platform', 'any', ExampleModule, like that if the service is never injected it will be removed of the bundle at compilation.
 - Feature services (lazy module) can be scoped to that feature by removing the providedIn: 'root' from their @Injectable() decorators and adding them to the providers: [ ] array of the lazy feature module instead.
 - Shared services between multiple apps or Angular Elements. You can use the providedIn: 'platform' in order to make a service available between multiple apps or Angular Elements.
 - Non singleton services. You can use the providedIn: 'any' in order to create isolated (not singleton) services for every child injector.
@@ -704,6 +705,16 @@ Design for immutability :
 - don't use reactive for view / presentation components
 - their interface is plain data (@input/@output)
 - eventually use ngOnChanges to get derived data
+
+
+## DEBUG
+
+### CIRCULAR DEPENDENCIES
+
+Can be caused by:
+- wrong usage of barrel imports. IE: imports inside a module must be relative and outside module must use the barrel reference
+- wrong usage of services. IE: usage inside the constructor of others services which are mutually linked.
+- wrong usage of providedIn. IE: the service must not belong to the module you want to provide it to.
 
 ## INTERVIEW
 

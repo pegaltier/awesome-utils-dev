@@ -1194,7 +1194,7 @@ PROGRESS / LOADING / LOADER / BAR
 Find here useful tips for managing your continious integration and delivery process.
 
 - https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
-
+- https://gitlab.com/gitlab-org/gitlab-runner/issues/1797
 
 ## ECOSYSTEM: PLUG & PLAY:
 
