@@ -305,6 +305,8 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 - https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
 - https://github.com/angular/angular-cli/issues/6137
+- https://github.com/ngx-builders/angular-builder
+- https://github.com/ngx-builders/source-map-analyzer
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
 - https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
 - https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-build-chain-without-ejecting.aspx
@@ -728,6 +730,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload
 - https://github.com/MrWolfZ/ngrx-forms
+- https://github.com/nilsmehlhorn/ngrx-wieder
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/tomastrajan/angular-ngrx-material-starter
