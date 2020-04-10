@@ -925,6 +925,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://nstudio.io/xplat/getting-started/getting-started
 - https://ordina-jworks.github.io/architecture/2020/01/23/Nx.html
 - https://ordina-jworks.github.io/architecture/2020/03/31/nx-sparse-checkout.html
+- https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/
 - https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
 - https://blog.devget.net/development/angular-8-ionic-4-monorepo-part-1-the-setup/
 - https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870
