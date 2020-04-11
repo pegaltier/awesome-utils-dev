@@ -863,8 +863,8 @@ Learn about the way to make your object immutable.
 - https://github.com/mgechev/ng2lint
 - https://github.com/mgechev/tslint-angular
 - https://github.com/ReactiveX/rxjs-tslint
+- https://github.com/cartant/rxjs-tslint-rules
 - https://github.com/cyrilletuzi/typescript-strictly-typed
-- https://www.npmjs.com/package/rxjs-tslint-rules
 - https://palantir.github.io/tslint/
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
