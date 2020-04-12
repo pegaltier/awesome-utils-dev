@@ -123,6 +123,7 @@ holo github>>
 - https://github.com/ogu83/holochain_photos
 - https://github.com/holochain-devcamp/learning-pathways
 - https://github.com/HedayatAbedijoo/holochain_art_game
+- https://github.com/HedayatAbedijoo/holocontract
 - https://github.com/freesig/cc_tuts
 - https://github.com/eyss/h-wiki-back
 - https://github.com/eyss/h-wiki-front
