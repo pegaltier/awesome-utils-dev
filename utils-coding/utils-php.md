@@ -35,6 +35,7 @@
 - https://github.com/semhoun/slim-skeleton-mvc
 - https://github.com/odan/slim4-skeleton
 - https://github.com/slimphp/Slim-Csrf
+- https://github.com/selective-php/basepath
 - https://github.com/maurobonfietti/slim4-api-skeleton
 - https://github.com/maurobonfietti/slim4-api-skeleton-crud-generator
 - http://www.slimframework.com/docs/v4/
