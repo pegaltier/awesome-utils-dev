@@ -98,12 +98,13 @@
  
  Fundamental decisions to take when new project start.
 
-- Official I18N/transloco or ngx-translate?
-- Nx project or default CLI ?
-- Ngrx or another ? (context store?)
-- UI boostrap, material, ant, cdk?
-- Rules ? lint, commits, formatting...
-- strictNullChecks in tsconfig.json.
+- Automatization? hooks, ci, cd...
+- Typescript config? strictNullChecks
+- Workspace? Nx project or default cli
+- UI lib? boostrap, material, ant, cdk
+- Rules? linting, committing, formatting...
+- Store lib? Ngrx or another ? shared context store?
+- Translations? Official i18n, transloco, ngx-translate
 
 ## HELPER: BEST PRACTICES
 

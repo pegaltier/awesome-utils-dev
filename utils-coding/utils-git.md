@@ -16,6 +16,7 @@
   - [ALIAS](#alias)
 
 ## TUTORIAL LIST
+- https://githooks.com/
 - http://learngitbranching.js.org
 - https://trunkbaseddevelopment.com
 - https://blog.octo.com/git-dans-la-pratique-22
@@ -27,6 +28,7 @@
 - https://github.com/conventional-changelog/commitlint
 - https://github.com/jesseduffield/lazygit
 - https://github.com/commitizen/cz-cli
+- https://github.com/typicode/husky
 - https://gitexplorer.com/
 - https://projectr.io/
 
