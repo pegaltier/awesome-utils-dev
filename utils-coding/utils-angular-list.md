@@ -725,6 +725,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/co-IT/ngrx-vis
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
+- https://github.com/timdeschryver/ngrx-etc
 - https://github.com/briebug/ngrx-auto-entity
 - https://github.com/larscom/ngrx-store-storagesync
 - https://github.com/brandonroberts/ngrx-store-freeze
