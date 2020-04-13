@@ -860,13 +860,16 @@ Learn about the way to make your object immutable.
 
 ## ECOSYSTEM: LINT
 
+- https://github.com/stylelint/stylelint
+- https://github.com/htmlhint/HTMLHint
+- https://github.com/palantir/tslint
 - https://github.com/mgechev/ngrev
 - https://github.com/mgechev/ng2lint
+- https://github.com/mgechev/codelyzer
 - https://github.com/mgechev/tslint-angular
 - https://github.com/ReactiveX/rxjs-tslint
 - https://github.com/cartant/rxjs-tslint-rules
 - https://github.com/cyrilletuzi/typescript-strictly-typed
-- https://palantir.github.io/tslint/
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
 
@@ -961,22 +964,18 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 ## ECOSYSTEM: SEEDS
 
-- https://github.com/NathanWalker/angular2-seed-advanced
-- http://mgechev.github.io/angular2-seed/
-- https://github.com/mgechev/angular2-seed
 - https://github.com/angular/angular-cli
-- https://github.com/angular/universal-starter
+- https://github.com/ngx-rocket/generator-ngx-rocket
+- https://github.com/NathanWalker/angular2-seed-advanced
+- https://github.com/mgechev/angular2-seed
 - https://github.com/juliemr/ng2-test-seed
 - https://github.com/kolorobot/angular2-typescript-gulp
-- https://angularclass.github.io/angular2-webpack-starter/
 - https://github.com/mitsuruog/angular2-minimum-starter
 - https://github.com/jgodi/angular2-fullstack-starter
 - https://github.com/preboot/angular2-webpack
 - https://github.com/pkozlowski-opensource/ng2-play
 - https://github.com/ocombe/ng2-play/tree/ng2-translate
 - https://github.com/ocombe/angular2-seed/tree/ng2-translate
-- http://stackoverflow.com/questions/29649578/available-yeoman-generator-for-angular-2/29844571
-
 
 ## ECOSYSTEM: LIB: MAKE 
 
