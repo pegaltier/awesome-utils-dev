@@ -73,6 +73,7 @@ holo github>>
 - https://github.com/OmniProject/omni
 - https://github.com/juntofoundation/Junto
 - https://github.com/juntofoundation/Junto-Holochain-Alpha-API
+- https://github.com/juntofoundation/Holochain-Trait-Definitions
 - https://github.com/uprtcl/hc-uprtcl
 - https://github.com/holo-rea/holo-rea
 - https://github.com/guillemcordoba/hc-custody
@@ -127,6 +128,9 @@ holo github>>
 - https://github.com/freesig/cc_tuts
 - https://github.com/eyss/h-wiki-back
 - https://github.com/eyss/h-wiki-front
+- https://github.com/eyss/h-pacman
+- https://github.com/eyss/holo-invaders-back
+- https://github.com/eyss/holochain_roles
 - https://github.com/sdelvalle57/hUdemy
 - https://github.com/milkyklim/into-pieces
 - https://github.com/HedayatAbedijoo/hc-sample-apps
@@ -135,9 +139,9 @@ holo github>>
 - https://github.com/h-be/acorn-hc
 - https://github.com/travol-platform/air_shopping
 - https://github.com/sdelvalle57/holochain_multisig
-- https://github.com/eyss/holo-invaders-back
-- https://github.com/eyss/holochain_roles
 - https://github.com/uprtcl/js-uprtcl
+- https://github.com/Qubeo/hcmin
+- https://github.com/miyazakid/coreconcepts
 
 holo tools>>
 - https://github.com/holochain-open-dev
