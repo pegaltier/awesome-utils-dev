@@ -475,6 +475,11 @@ this.\_renderer2.setElementProperty(this.\_elementRef,'add-property-here',true);
 - Test actions and impact on the store
 - Create custom validators for forms
 
+### TOOLING
+
+- Jest is faster but is not testing the rendering so html + css but just the dom tree
+- Karma is slower but is testing the rendering so html + css
+
 ### EXAMPLE TYPE OF TESTS
 my-comp.ui.spec.ts
 my-comp.io.spec.ts
