@@ -882,6 +882,7 @@ Learn about the way to make your object immutable.
 - https://single-spa.js.org/
 - https://frint.js.org/
 - https://github.com/manfredsteyer/angular-microfrontend
+- https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
 - https://leanpub.com/enterprise-angular
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
@@ -907,6 +908,8 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://www.youtube.com/watch?v=pcTSDMid-aE AngularAir - Advanced Nx
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
+- https://nstudio.io/xplat
+- https://bit.dev
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/lerna/lerna
@@ -959,9 +962,6 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/duncanhunter/Enterprise-Angular-applications-with-ngrx-and-nx/blob/master/chapter1.md
 - https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157
 - https://docs.google.com/presentation/d/1pBh13OQlNU014ImABfP-8MXJL3eIuXLdBdMvp9ZVIuc/edit#slide=id.g41a47c59d4_0_3
-- https://nstudio.io/xplat
-- https://bit.dev
-
 
 ## ECOSYSTEM: SEEDS
 
@@ -1109,6 +1109,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://stackblitz.com/edit/angular-testing-v7
 - https://github.com/juristr/angular-testing-recipes
 - https://github.com/wallabyjs/public
+- https://github.com/briebug/jest-schematic
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/duluca/angular-unit-test-helper

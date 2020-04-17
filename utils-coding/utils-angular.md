@@ -480,6 +480,8 @@ this.\_renderer2.setElementProperty(this.\_elementRef,'add-property-here',true);
 - Jest is faster but is not testing the rendering so html + css but just the dom tree
 - Karma is slower but is testing the rendering so html + css
 
+in the context of a large application with a lot of tests we need a quick tool so Jest seem adapted, the html rendering will then be tested with e2e tests.
+
 ### EXAMPLE TYPE OF TESTS
 my-comp.ui.spec.ts
 my-comp.io.spec.ts
