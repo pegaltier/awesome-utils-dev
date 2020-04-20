@@ -3,6 +3,8 @@
 
 - https://github.com/palmerhq/tsdx
 - https://github.com/runem/ts-simple-type
+- https://github.com/piotrwitek/utility-types
+- https://github.com/ostrowr/ts-json-validator
 - https://mgv.io/deep-readonly-play
 - https://twitter.com/mgechev/status/1240178886979223552
 - https://dev.to/ruslanchek_17/some-useful-typescript-snippets-2278
