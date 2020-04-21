@@ -1069,13 +1069,9 @@ Learn how to make your own angular lib, build, distribute.
 - http://juristr.com/blog/2016/02/learning-ng2-creating-tab-component/
 - https://github.com/threesquared/ng2-disqus
 - https://github.com/czeckd/angular2-svg-icon
-- https://github.com/akserg/ng2-slim-loading-bar
-- https://github.com/akserg/ng2-toasty
+- http://www.angulartypescript.com/angular-2-datepicker/
 - https://github.com/fabianweb/gulp-ng2-relative-path
 - https://github.com/laxa1986/gulp-angular-embed-templates
-- http://www.angulartypescript.com/angular-2-datepicker/
-- http://valor-software.com/ng2-charts/
-- https://github.com/akserg/ng2-slim-loading-bar
 - https://github.com/czeckd/angular2-simple-modal
 - http://demos.wijmo.com/5/angular2/FlexGridIntro/FlexGridIntro/
 - https://github.com/WoltersKluwerPL/ng2-spin-kit
@@ -1115,6 +1111,14 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/duluca/angular-unit-test-helper
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/gparlakov/scuri/blob/master/README.md
+
+## ECOSYSTEM: LIB: COMPONENTS
+- https://github.com/bithost-gmbh/ngx-mat-select-search
+- https://github.com/softsimon/angular-2-dropdown-multiselect
+- https://github.com/NileshPatel17/ng-multiselect-dropdown
+- https://github.com/ngx-lib/multiselect
+- https://github.com/akserg/ng2-slim-loading-bar
+- https://github.com/akserg/ng2-toasty
 
 ## ECOSYSTEM: LIB: UPLOAD
 
