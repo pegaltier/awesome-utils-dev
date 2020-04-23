@@ -696,6 +696,8 @@ Learn the angular error handler in order to catch the front-end and back-end err
 ## CORE: E2E TESTS
 
 - https://angular.io/cli/e2e
+- https://github.com/cypress-io/cypress
+- https://github.com/NetanelBasal/cyrun
 - https://medium.com/@TammyTorres/e2e-testing-on-angular-app-with-protractor-tips-included-f3d5f65a8816
 - https://dev.to/francisca80s/automation-e2e-testing-in-angular-with-protractor-72d
 - https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor
@@ -736,6 +738,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/tomastrajan/angular-ngrx-material-starter
+- https://blog.strongbrew.io/how-to-write-clean-reducers-and-test-them/
 - https://dev.to/alfredoperez/my-notes-from-ngrx-workshop-from-ngconf-2020-part-1-introduction-h8l
 - https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
 - https://nx.dev/angular/guides/misc-data-persistence
@@ -873,6 +876,7 @@ Learn about the way to make your object immutable.
 - https://github.com/cyrilletuzi/typescript-strictly-typed
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
+- https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 
 ## ECOSYSTEM: MICROFRONTEND
 
@@ -881,12 +885,13 @@ Learn about the way to make your object immutable.
 - https://webcomponents.dev/
 - https://single-spa.js.org/
 - https://frint.js.org/
-- https://github.com/manfredsteyer/angular-microfrontend
-- https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
 - https://leanpub.com/enterprise-angular
+- https://github.com/worktile/ngx-planet
+- https://github.com/manfredsteyer/angular-microfrontend
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
 - https://www.infoq.com/podcasts/micro-frontends-dazn/
+- https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
 - https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-angular-e6828a0a049c
 - https://blog.angularindepth.com/how-to-compile-your-angular-components-library-into-web-components-47ff0ac73bd7
 - https://blog.angularindepth.com/angular-and-react-together-with-ivy-5c77d1f48204
@@ -1097,20 +1102,21 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: UNIT TESTS
 
+- https://github.com/facebook/jest
 - https://github.com/ike18t/ng-mocks
-- https://github.com/getsaf/shallow-render
-- https://github.com/Ninja-Squad/ngx-speculoos
 - https://github.com/ngneat/spectator
-- https://github.com/youdz/dry-angular-testing
-- https://stackblitz.com/edit/angular-testing-v7
-- https://github.com/juristr/angular-testing-recipes
 - https://github.com/wallabyjs/public
+- https://github.com/getsaf/shallow-render
 - https://github.com/briebug/jest-schematic
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
+- https://github.com/Ninja-Squad/ngx-speculoos
+- https://github.com/youdz/dry-angular-testing
+- https://github.com/juristr/angular-testing-recipes
 - https://github.com/duluca/angular-unit-test-helper
-- https://github.com/testing-library/angular-testing-library
 - https://github.com/gparlakov/scuri/blob/master/README.md
+- https://github.com/testing-library/angular-testing-library
+- https://stackblitz.com/edit/angular-testing-v7
 
 ## ECOSYSTEM: LIB: COMPONENTS
 - https://github.com/bithost-gmbh/ngx-mat-select-search
@@ -1119,6 +1125,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/ngx-lib/multiselect
 - https://github.com/akserg/ng2-slim-loading-bar
 - https://github.com/akserg/ng2-toasty
+- https://github.com/ag-grid/ag-grid
+- https://github.com/swimlane/ngx-datatable
 
 ## ECOSYSTEM: LIB: UPLOAD
 
@@ -1128,6 +1136,8 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: DATA VIZ
 
+- https://github.com/swimlane/ngx-graph
+- https://github.com/swimlane/ngx-charts
 - https://github.com/valor-software/ng2-charts
 - https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
 
@@ -1199,12 +1209,17 @@ PROGRESS / LOADING / LOADER / BAR
 - https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components
 - https://github.com/valor-software/ngx-bootstrap
 - https://github.com/ng-bootstrap/ng-bootstrap
+- https://github.com/akveo/nebular/
+- https://github.com/vmware/clarity
 - https://github.com/akveo/ngx-admin
 - https://github.com/ng-alain/ng-alain
+- https://github.com/rdkmaster/jigsaw
+- https://github.com/primefaces/primeng
 - https://github.com/angular/components
+- https://github.com/DevCloudFE/ng-devui
 - https://github.com/NG-ZORRO/ng-zorro-antd
-- http://ng-lightning.github.io/ng-lightning/
-- https://vmware.github.io/clarity/
+- https://github.com/NG-ZORRO/ng-zorro-antd-mobile
+- https://github.com/ng-lightning/ng-lightning
 - https://teradata.github.io/covalent/#/
 
 
@@ -1213,6 +1228,7 @@ PROGRESS / LOADING / LOADER / BAR
 Find here useful tips for managing your continious integration and delivery process.
 
 - https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
+- https://medium.com/dev-thought/introducing-nx-deployit-e5cfe89b810c
 - https://gitlab.com/gitlab-org/gitlab-runner/issues/1797
 
 ## ECOSYSTEM: PLUG & PLAY:
@@ -1220,6 +1236,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/aviabird/angularspree
 - https://github.com/scullyio/scully
 - https://angularexpo.com
+- https://ng-alain.com
 
 ## ECOSYSTEM: DEMO: SOURCES
 
@@ -1403,6 +1420,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.reddit.com/r/Angular2/
 - https://dev.to/angular
 - http://blog.mgechev.com/
+- https://blog.thoughtram.io/
 - https://angularconferences.com/
 - http://brianflove.com/
 - https://julienrenaux.fr/
@@ -1412,7 +1430,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://toddmotto.com/
 - https://nxplaybook.com/
 - https://nrwlcommunity.slack.com/
-
+- https://voidcosmos.github.io/angular-communities/
 
 ## ECOSYSTEM: BOOK
 
@@ -1459,6 +1477,8 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - http://juristr.com/blog/
 
 ## EVOLUTION
+
+- http://g.co/ng/weekly-notes
 
 ### ANGULAR9
 

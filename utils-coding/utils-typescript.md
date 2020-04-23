@@ -2,6 +2,7 @@
  ## UTILS
 
 - https://github.com/palmerhq/tsdx
+- https://github.com/compodoc/ts-stats
 - https://github.com/runem/ts-simple-type
 - https://github.com/piotrwitek/utility-types
 - https://github.com/ostrowr/ts-json-validator

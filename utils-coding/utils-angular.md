@@ -49,6 +49,11 @@
 
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
 
+## CSS
+
+::ng-deep .mat-option  { ... } without :host then it's not isolated and it apply to all mat-option in the app...
+
+
 ## CLI
 
 ```
@@ -312,6 +317,15 @@ choose the appropriate operator based on the use case:
 1. Effects
    Ngrx/effects is middleware for handling side effects in ngrx/store. It listens for dispatched actions in an observable stream, performs side effects, and returns new actions either immediately or asynchronously. The returned actions get passed along to the reducer.
 
+
+### Tips
+
+Large effects are problematic.  When you're deciding where to re-allocate business logic put it (in priority order): Selectors are easier to test and easier to understand. Services are slightly harder in both categories.Effects are the hardest of all.  Only put code there that absolutely needs to go there (asynchronous call for instance)
+
+1. In a selector
+2. In a service
+3. In an effect
+
 ## PIPES
 
 ``
@@ -512,88 +526,6 @@ my-comp.bu.spec.ts
 - https://github.com/ngx-translate/core/issues/636
 - https://github.com/ngx-translate/example/blob/master/src/app/app.component.spec.ts
 
-### TESTINT EXAMPLE
-
-cas sans asynchrone (promise/observable)
-
-import { TestBed } from '@angular/core/testing';
-describe('RaceService', () => {    
- let service: RaceService;
-	let service: RaceService; 
- let service: RaceService;
-	let service: RaceService; 
- let service: RaceService;
-	let service: RaceService; 
- let service: RaceService;
-  beforeEach(() => TestBed.configureTestingModule({   providers: [RaceService]   }));
-  beforeEach(() => service = TestBed.get(RaceService));
-  it('should return races when list() is called', () => {    
- expect(service.list().length).toBe(2);    
-		expect(service.list().length).toBe(2);    
- expect(service.list().length).toBe(2);    
-		expect(service.list().length).toBe(2);    
- expect(service.list().length).toBe(2);    
-		expect(service.list().length).toBe(2);    
- expect(service.list().length).toBe(2);    
- });  
-});
-
-cas avec asynchorne (promise/observable)
-
-import { async, TestBed } from '@angular/core/testing';
-describe('RaceService', () => {   let service: RaceService;
-  beforeEach(() => TestBed.configureTestingModule({   providers: [RaceService]   }));
-  beforeEach(() => service = TestBed.get(RaceService));
-  it('should return a promise of 2 races', async(() => {
-  service.list().then(races => {
-  expect(races.length).toBe(2);    
- });    
-	 });    
- });    
-	 });    
- });    
-	 });    
- });    
- }));  
-});
-
-cas espionner appel et remplacer par factice
-```
-import { TestBed } from '@angular/core/testing';
-describe('RaceService', () => {
-  const localStorage = jasmine.createSpyObj('LocalStorageService', ['get']);
-  beforeEach(() => TestBed.configureTestingModule({   providers: [   { provide: LocalStorageService, useValue: localStorage },   RaceService   ]   }));
-  it('should return 2 races from localStorage', () => {    
- localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]);
-	localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]); 
- localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]);
-	localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]); 
- localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]);
-	localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]); 
- localStorage.get.and.returnValue([{ name: 'Lyon' }, { name: 'London' }]);
-  const service = TestBed.get(RaceService);    
- const races = service.list();
-	const races = service.list(); 
- const races = service.list();
-	const races = service.list(); 
- const races = service.list();
-	const races = service.list(); 
- const races = service.list();
-  expect(races.length).toBe(2);    
- expect(localStorage.get).toHaveBeenCalledWith('races');    
- });  
-  });  
- });  
-  });  
-}); 
-  });  
- });  
-  });  
-}); 
-  });  
- });  
-});
-```
 test end to end (voir ninja angular page 157)
 
 ## MONOREPO

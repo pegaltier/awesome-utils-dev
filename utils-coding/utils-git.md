@@ -79,21 +79,22 @@ git fetch --prune
 ```
 git fetch origin
 git reset --hard origin/master
-```
-```
+git reset --hard 3c74a11530697214cbcc4b7b98bf7a65
 git reset --hard # Reset any changes
-git clean -fd # Delete newly added files and directories
 ```
-- Remove local files
+
+- Remove local files and dir
 ```
 git clean -n -f (to see)
 git clean -f (to execute)
+git clean -fd (and dir)
 ```
 
 - Reset local
 ```
 rm -Force -Recurse .git
 ```
+
 - all resets possible
 https://stackoverflow.com/a/42903805
 

@@ -75,6 +75,9 @@
 ## ALLIN FRAMEWORK
 - https://github.com/vendure-ecommerce/vendure
 
+## BOOKS
+- https://exploringjs.com/impatient-js/
+
 ## IMPORTANT
 
 ### PURE FUNCTIONS
