@@ -729,6 +729,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/timdeschryver/ngrx-etc
+- https://github.com/meeroslav/ng-helpers
 - https://github.com/briebug/ngrx-auto-entity
 - https://github.com/larscom/ngrx-store-storagesync
 - https://github.com/brandonroberts/ngrx-store-freeze
@@ -737,6 +738,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/nilsmehlhorn/ngrx-wieder
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
+- https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 - https://blog.strongbrew.io/how-to-write-clean-reducers-and-test-them/
 - https://dev.to/alfredoperez/my-notes-from-ngrx-workshop-from-ngconf-2020-part-1-introduction-h8l
@@ -760,7 +762,6 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://codeburst.io/state-management-in-angular-ee2ccb81c283
 - https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da
 - https://itnext.io/reactive-programming-in-angular-reactive-components-part-1-7291882e352c
-- https://www.youtube.com/watch?v=1hlXlsaMeTs (simple login/logout)
 - https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
 - https://medium.com/@gregor.woiwode/ngrx-ducks-dynamic-facades-improving-coding-experience-3bf5f832f21c
 - https://devchat.tv/adv-in-angular/aia-260-ngrx-the-mystical-machine-with-wes-grimes/
@@ -777,16 +778,17 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://blog.dmbcllc.com/how-to-really-use-ngrx
 - https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
 - https://appendto.com/2016/08/handling-the-challenge-of-shared-state-with-ngrxstore-in-angular-2/
-- https://www.youtube.com/watch?v=UEcdQR-NoNA
 - https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661
 - https://julienrenaux.fr/2017/02/16/from-redux-to-angular-ngrxstore
 - http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 - http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 - http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1
 - https://indepth.dev/understanding-the-magic-behind-ngrx-store/
-- https://github.com/Wykks/wonderful-todo-list
-- https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
+- https://www.youtube.com/watch?v=LesJdh4uRmk Hello generics, goodbye boilerplate
 - https://www.youtube.com/watch?v=T-vQoI_AM9E Magical TypeScript features for NgRx
+- https://www.youtube.com/watch?v=UEcdQR-NoNA Using Redux in Angular 2+ Apps
+- https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
+- https://www.youtube.com/watch?v=1hlXlsaMeTs Simple login/logout
 
 ## ECOSYSTEM: STORE: NGRX/DATA
 
