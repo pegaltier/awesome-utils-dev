@@ -899,6 +899,7 @@ Learn about the way to make your object immutable.
 - https://blog.angularindepth.com/angular-and-react-together-with-ivy-5c77d1f48204
 - https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
 - https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
+- https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/
 
 ## ECOSYSTEM: MONOREPO
 
@@ -965,6 +966,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://medium.com/agorapulse-stories/sharing-ngrx-based-logic-between-angular5-web-app-and-ionic3-mobile-app-77c19470cccc
 - https://cdn2.hubspot.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf
 - https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b
+- https://www.netlify.com/blog/2020/04/21/deploying-nx-monorepos-to-netlify/
 - https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 - https://github.com/duncanhunter/Enterprise-Angular-applications-with-ngrx-and-nx/blob/master/chapter1.md
 - https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157

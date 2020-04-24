@@ -38,6 +38,7 @@
 - https://github.com/selective-php/basepath
 - https://github.com/maurobonfietti/slim4-api-skeleton
 - https://github.com/maurobonfietti/slim4-api-skeleton-crud-generator
+- https://github.com/zhorton34/authorize-slim-4
 - http://www.slimframework.com/docs/v4/
 
 ## PSR15
