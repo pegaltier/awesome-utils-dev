@@ -725,6 +725,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/ngrx/platform/tree/master/projects/example-app
 - https://github.com/co-IT/ngrx-ducks
 - https://github.com/co-IT/ngrx-vis
+- https://github.com/cartant/ts-action
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/timdeschryver/ngrx-etc
@@ -1119,6 +1120,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://testrec.com/
 - https://github.com/cypress-io/cypress
 - https://github.com/NetanelBasal/cyrun
+- https://github.com/deanius/storybook-animate
 - https://itnext.io/cypress-storybook-keeping-test-scenario-data-and-component-rendering-in-one-place-c57b23cc1640
 
 ## ECOSYSTEM: LIB: UNIT TESTS
