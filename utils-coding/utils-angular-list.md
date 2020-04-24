@@ -98,11 +98,11 @@
  
  Fundamental decisions to take when new project start.
 
-- Automatization? hooks, ci, cd...
-- Typescript config? strictNullChecks
-- Workspace? Nx project or default cli
-- UI lib? boostrap, material, ant, cdk
+- Automation? hooks, ci, cd...
+- Typescript config? strictNullChecks...
 - Rules? linting, committing, formatting...
+- Workspace? Nx, ngx-rocket, jhipster, cli...
+- UI lib? boostrap, material, ant, cdk, primeng...
 - Store lib? Ngrx or another ? shared context store?
 - Translations? Official i18n, transloco, ngx-translate
 - Change detection? default (zone), onpush+ngrx/component?
@@ -697,8 +697,6 @@ Learn the angular error handler in order to catch the front-end and back-end err
 ## CORE: E2E TESTS
 
 - https://angular.io/cli/e2e
-- https://github.com/cypress-io/cypress
-- https://github.com/NetanelBasal/cyrun
 - https://medium.com/@TammyTorres/e2e-testing-on-angular-app-with-protractor-tips-included-f3d5f65a8816
 - https://dev.to/francisca80s/automation-e2e-testing-in-angular-with-protractor-72d
 - https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor
@@ -809,6 +807,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 - https://hackmd.io/zLKrFIadTMS2T6zCYGyHew?view
 - https://github.com/ngrx/platform/issues/2489
+- https://www.youtube.com/watch?v=EeNMGhLnBGg
 
 ## ECOSYSTEM: STORE: ALTERNATIVE
 
@@ -984,7 +983,9 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 ## ECOSYSTEM: SEEDS
 
+- https://github.com/nrwl/nx
 - https://github.com/angular/angular-cli
+- https://github.com/jhipster/generator-jhipster
 - https://github.com/ngx-rocket/generator-ngx-rocket
 - https://github.com/NathanWalker/angular2-seed-advanced
 - https://github.com/mgechev/angular2-seed
@@ -1111,8 +1112,12 @@ Learn how to make your own angular lib, build, distribute.
 - https://angular-extensions.github.io/elements/#/examples/advanced
 
 ## ECOSYSTEM: LIB: E2E TESTS
+
 - https://screenster.io/
 - https://testrec.com/
+- https://github.com/cypress-io/cypress
+- https://github.com/NetanelBasal/cyrun
+- https://itnext.io/cypress-storybook-keeping-test-scenario-data-and-component-rendering-in-one-place-c57b23cc1640
 
 ## ECOSYSTEM: LIB: UNIT TESTS
 
