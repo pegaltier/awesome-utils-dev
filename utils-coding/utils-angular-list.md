@@ -105,6 +105,7 @@
 - Rules? linting, committing, formatting...
 - Store lib? Ngrx or another ? shared context store?
 - Translations? Official i18n, transloco, ngx-translate
+- Change detection? default (zone), onpush+ngrx/component?
 
 ## HELPER: BEST PRACTICES
 
@@ -799,6 +800,15 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/fpl1976/ngrx-data
 - https://github.com/ershad1/ngrx-data
 - https://github.com/sithelo/hlc-web
+
+## ECOSYSTEM: STORE: NGRX/COMPONENT
+
+- https://ngrx.io/guide/component
+
+## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
+
+- https://hackmd.io/zLKrFIadTMS2T6zCYGyHew?view
+- https://github.com/ngrx/platform/issues/2489
 
 ## ECOSYSTEM: STORE: ALTERNATIVE
 
