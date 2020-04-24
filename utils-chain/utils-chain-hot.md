@@ -142,6 +142,8 @@ holo github>>
 - https://github.com/uprtcl/js-uprtcl
 - https://github.com/Qubeo/hcmin
 - https://github.com/miyazakid/coreconcepts
+- https://github.com/aimparency/mprnc-on-holochain
+- https://github.com/felixniemeyer/trait_implementations
 
 holo tools>>
 - https://github.com/holochain-open-dev
