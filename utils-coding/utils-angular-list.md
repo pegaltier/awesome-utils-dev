@@ -364,7 +364,7 @@ translusions, ng-content...
 - https://matthewross.me/blog/posts/notifications-an-angular-2-component
 - http://tombuyse.com/creating-a-loading-indicator-in-angular-2-ionic-2/
 - https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-component-angular-2/
-
+- https://youtu.be/3BOP1KCJq6g?t=4243 Nir Kaufman: Build your own portal with Angular Embedded views
 
 ## CORE: MODULES
 
@@ -1122,6 +1122,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/cypress-io/cypress
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/deanius/storybook-animate
+- https://webdave.de/blog/cypress
+- https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
 - https://itnext.io/cypress-storybook-keeping-test-scenario-data-and-component-rendering-in-one-place-c57b23cc1640
 
 ## ECOSYSTEM: LIB: UNIT TESTS
