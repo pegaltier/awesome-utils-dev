@@ -902,6 +902,7 @@ Learn about the way to make your object immutable.
 - https://leanpub.com/enterprise-angular
 - https://github.com/worktile/ngx-planet
 - https://github.com/manfredsteyer/angular-microfrontend
+- https://github.com/manfredsteyer/module-federation-with-angular
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
 - https://www.infoq.com/podcasts/micro-frontends-dazn/

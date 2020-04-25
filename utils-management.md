@@ -1,4 +1,9 @@
 <h1>MANAGEMENT</h1>
+
+<h2>TOOLS</h2>
+- https://www.odoo.com
+- https://www.dolibarr.org/
+
 <h2>MANAGEMENT RULES</h2>
 <ol>
 <li>entreprise libéré (frederic leloup)</li>
