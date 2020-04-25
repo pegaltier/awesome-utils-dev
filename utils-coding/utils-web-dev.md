@@ -60,22 +60,20 @@
 - https://www.gitpod.io/
 - https://stackblitz.com
  
-## HTML/HEAD/CHECKLIST
-- https://github.com/thedaviddias/Front-End-Checklist
-- https://github.com/joshbuchea/HEAD
+## CHECKLIST
 - https://frontendchecklist.io
 - http://webdevchecklist.com/
+- https://github.com/joshbuchea/HEAD
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://codeburst.io/the-front-end-checklist-8b2292fdda44
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 
-## GENERATOR BLOCK
-- https://www.froala.com/design-blocks
-- https://webcode.tools/
-- http://realfavicongenerator.net/
-
 ## TOOLS
 - https://tiny-helpers.dev/
+- https://webcode.tools/
+- http://realfavicongenerator.net/
+- https://www.froala.com/design-blocks
+- https://github.com/wwebdev/static-website-template
 
 ## PLUGINS
 https://developers.google.com/web/tools/chrome-devtools/

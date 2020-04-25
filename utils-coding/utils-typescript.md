@@ -1,4 +1,6 @@
 
+# TYPESCRIPT UTILS DEV
+
  ## UTILS
 
 - https://github.com/palmerhq/tsdx
@@ -13,21 +15,26 @@
 - https://gist.github.com/busypeoples/eebd1f893671959162df97cc8a6292e0
 
 ## LIB
+
 - https://github.com/typestack/class-validator
 - https://github.com/eonarheim/TypeState
 
 ## TYPESCRIPT GUIDES
+
+- https://sulco.stackblitz.io/
 - https://github.com/intocare/style-guide
 - https://github.com/microsoft/TypeScript-Handbook
+- https://2ality.com/2020/04/migrating-to-typescript.html
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
-- https://sulco.stackblitz.io/
 
 ## TYPESCRIPT TIPS
+
 - https://twitter.com/mgechev/status/1219884973328621570/photo/1
 - https://twitter.com/sulco/status/1219982511180263424/photo/1
 - https://twitter.com/mgechev/status/1220246042807078912/photo/1
 
 ## ES2015/ES6 + TYPESCRIPT COURSES
+
 - https://gist.github.com/busypeoples/270f29ec6cdd45780889c53e7b52884a
 - https://hughfdjackson.com/javascript/arrow-function-semantics/  
 - http://babeljs.io/docs/learn-es2015/  
