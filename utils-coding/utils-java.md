@@ -28,6 +28,8 @@
 
 ## TESTS
 - https://site.mockito.org/
+- https://github.com/cbeust/testng/
+- https://github.com/junit-team/junit5/
 
 ## REACTIVE
 - https://github.com/ReactiveX/RxJava

@@ -12,8 +12,11 @@
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## LIB
-- https://jdan.github.io/98.css/
+- todo add boostrap etc...
 
+## FUN
+- https://jdan.github.io/98.css/
+- https://github.com/AbimaelAndrade/twitter-flexbox
 
 ## WEIGHT
 - https://uxengineer.com/css-specificity-avoid-important-css/
