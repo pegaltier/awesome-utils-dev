@@ -490,10 +490,10 @@ Cypress is very efficient tools for e2e. At the beginning to see how it goes you
 
 ### UNIT TESTS
 
-- Jest is faster because is not testing the rendering so html + css but just the dom tree. Since Jest does not run on a real browser instead it uses jsdom. there is a potential risk that jsdom differs from your targetted browser.
+- Jest is faster because it does not run on a real browser instead it uses jsdom. It's not testing the rendering (html/css) but just the dom tree. So there is a potential risk that jsdom differs from your targetted browser.
 - Karma is slower because is testing using a real browser so the unit test are certainly working as expected in a real browser.
 
-in the context of a large application with a lot of tests we need a quick tool so Jest seem adapted, the html rendering will then be tested with e2e tests.
+In the context of a large application with a lot of tests we need a quick tool so Jest seem adapted, the html rendering will then be tested with e2e tests.
 
 ### STRATEGY
 
@@ -504,6 +504,7 @@ in the context of a large application with a lot of tests we need a quick tool s
 - Create custom validators for forms
 
 ### EXAMPLE TYPE OF TESTS
+
 my-comp.ui.spec.ts
 my-comp.io.spec.ts
 my-comp.bu.spec.ts
