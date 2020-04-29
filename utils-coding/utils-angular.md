@@ -484,23 +484,31 @@ this.\_renderer2.setElementProperty(this.\_elementRef,'add-property-here',true);
 
 ## ANGULAR TESTING
 
+### E2E TESTS
+
+Cypress is very efficient tools for e2e. At the beginning to see how it goes you can start testing the app using real backend request for the GET requests and using mock for the others method (POST,PATCH, DELETE)
+
+### UNIT TESTS
+
+- Jest is faster because is not testing the rendering so html + css but just the dom tree. Since Jest does not run on a real browser instead it uses jsdom. there is a potential risk that jsdom differs from your targetted browser.
+- Karma is slower because is testing using a real browser so the unit test are certainly working as expected in a real browser.
+
+in the context of a large application with a lot of tests we need a quick tool so Jest seem adapted, the html rendering will then be tested with e2e tests.
+
+### STRATEGY
+
 - Separate business logic from UI
 - Use more dumb components
 - Test business logic and UI separately
 - Test actions and impact on the store
 - Create custom validators for forms
 
-### TOOLING
-
-- Jest is faster but is not testing the rendering so html + css but just the dom tree
-- Karma is slower but is testing the rendering so html + css
-
-in the context of a large application with a lot of tests we need a quick tool so Jest seem adapted, the html rendering will then be tested with e2e tests.
-
 ### EXAMPLE TYPE OF TESTS
 my-comp.ui.spec.ts
 my-comp.io.spec.ts
 my-comp.bu.spec.ts
+
+
 
 - https://angular.io/guide/testing
 - http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/

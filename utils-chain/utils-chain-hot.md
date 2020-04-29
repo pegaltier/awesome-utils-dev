@@ -72,6 +72,7 @@ holo github>>
 - https://github.com/Holo-Host
 - https://github.com/OmniProject/omni
 - https://github.com/juntofoundation/Junto
+- https://github.com/juntofoundation/Inter-DNA
 - https://github.com/juntofoundation/Junto-Holochain-Alpha-API
 - https://github.com/juntofoundation/Holochain-Trait-Definitions
 - https://github.com/uprtcl/hc-uprtcl
@@ -230,6 +231,7 @@ https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 
 - https://holochain-community-resources.github.io/design-workshop/#0
 - https://developer.holochain.org/start.html
+- https://github.com/rust-analyzer/rust-analyzer
 
 ## Install permenently
 - nix-env -f https://holochain.love -iA holochain.hc
