@@ -80,6 +80,7 @@ holo github>>
 - https://github.com/guillemcordoba/hc-custody
 - https://github.com/guillemcordoba/hc-tags
 - https://github.com/guillemcordoba/hc-mutual-credit
+- https://github.com/guillemcordoba/holochain-graphql-demo
 - https://github.com/Hylozoic/hylo-holo-dnas
 - https://github.com/vanarchist/holochain-point-of-interest
 - https://github.com/vanarchist/holochain-mutual-credit-clearing
