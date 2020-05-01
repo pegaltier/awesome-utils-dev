@@ -76,6 +76,8 @@ holo github>>
 - https://github.com/OmniProject/omni
 - https://github.com/juntofoundation/Junto
 - https://github.com/juntofoundation/Inter-DNA
+- https://github.com/juntofoundation/Short-Form-Expression
+- https://github.com/juntofoundation/Public-Social-Context
 - https://github.com/juntofoundation/Junto-Holochain-Alpha-API
 - https://github.com/juntofoundation/Holochain-Trait-Definitions
 - https://github.com/uprtcl/hc-uprtcl
