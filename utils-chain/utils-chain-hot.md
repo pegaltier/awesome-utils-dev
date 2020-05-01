@@ -6,6 +6,7 @@
 post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distributed apps, scalable blockchain, after bitcoin
 
 ## HOLO DEV LINKS
+
 - https://developer.holochain.org/
 - https://github.com/holochain/HoloWorld
 - https://github.com/holochain/dna-to-openapi
@@ -14,9 +15,11 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/holosqape
 - https://www.youtube.com/watch?v=BvhBfpT7JHo
 
-## HOLO  TUTOS
-https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/rJJbk6yoN?type=view 
-https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
+## HOLO TUTOS
+
+- https://holochain-open-dev.github.io/blog/graphql-holochain/
+- https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/rJJbk6yoN?type=view 
+- https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
 
 ## HOLO DAPPS
 
@@ -179,8 +182,9 @@ holo tools>>
 - https://twitter.com/artbrock
 
 ## YOUTUBE
-https://www.youtube.com/channel/UCSRJRJvkZHk3f1PemqT-R0g
-https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
+
+- https://www.youtube.com/channel/UCSRJRJvkZHk3f1PemqT-R0g
+- https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ
 
 ## HOLO TRADING
 - https://idex.market/eth/hot
