@@ -174,7 +174,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - http://www.sitepoint.com/introduction-angularjs-style-guides
 - http://johnpapa.net/angular-2-styles/
 - https://github.com/mgechev/angular2-style-guide
-
+- https://ultimatecourses.com/blog/master-your-next-angular-job-interview-with-these-questions
 
 ## HELPER: ONLINE IDE
 

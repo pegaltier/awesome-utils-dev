@@ -113,3 +113,25 @@ npm install @ionic/app-scripts@latest --save-dev
 http://blog.ionic.io/announcing-ionic-cli-v3
 Second, update your Ionic CLI using
 npm install -g ionic
+
+## CAPACITOR
+
+
+- https://ionicframework.com/blog/announcing-capacitor-1-0/
+- https://ionicframework.com/blog/announcing-capacitor-2-0/
+- https://capacitor.ionicframework.com/docs/apis/
+
+Unlike Cordova Capacitor expects you to commit your native app project (Xcode, Android Studio, etc.) as a source artifact. This means it’s easy to add custom native code, build “plugins” to expose native functionality to your web app without having to actually build a standalone plugin, and also debug and manage your app in the way that embraces the best tooling for that platform.
+
+Capacitor embraces NPM for every dependency in your project, including plugins and platforms. That means you never capacitor install plugin-x, you just npm install plugin-x
+
+Cordova was copying plugin files directly into a project. Instead Capacitor requires your plugins to be Cocoa Pods for iOS or typical android libraries for Android. Then, capacitor comes with a plugin:generate command to quickly scaffold out plugin projects, complete with Xcode and Android Studio projects and unit tests.
+
+Capacitor provides a tiny CLI that is installed locally to each app. That means there are no global dependencies to manage and it’s easy to use different versions of Capacitor across every app you build.
+
+```
+npx cap init
+npx cap add ios
+npx cap add android
+npx cap add electron
+```
