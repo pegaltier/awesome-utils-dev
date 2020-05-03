@@ -32,13 +32,23 @@ http://www.restapitutorial.com/lessons/httpmethods.html
 - http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 
 
-## GENERATE PDF
+## PDF GENERATION
+
 - https://docspring.com
 - https://pdfshift.io
 - https://pdflayer.com
 - https://htmlpdfapi.com
 - https://www.html2pdfrocket.com
 - https://restpack.io/html2pdf
+
+## GEOLOCATION
+
+- https://ip-api.com/
+- https://ipstack.com/
+- https://opencagedata.com/
+- https://ipgeolocationapi.com/
+- https://github.com/hlaw/codegrid-js
+- https://www.geonames.org/
 
 ## LIST
 - https://www.humanapi.co
