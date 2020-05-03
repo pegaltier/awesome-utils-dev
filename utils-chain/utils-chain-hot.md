@@ -138,6 +138,7 @@ holo github>>
 - https://github.com/eyss/h-pacman
 - https://github.com/eyss/holo-invaders-back
 - https://github.com/eyss/holochain_roles
+- https://github.com/eyss/holochain-turn-based-game
 - https://github.com/sdelvalle57/hUdemy
 - https://github.com/milkyklim/into-pieces
 - https://github.com/HedayatAbedijoo/hc-sample-apps
@@ -151,6 +152,9 @@ holo github>>
 - https://github.com/miyazakid/coreconcepts
 - https://github.com/aimparency/mprnc-on-holochain
 - https://github.com/felixniemeyer/trait_implementations
+- https://github.com/holochain-open-dev/social-triangulation
+- https://github.com/holochain-open-dev/community-mutual-credit
+
 
 holo tools>>
 - https://github.com/holochain-open-dev

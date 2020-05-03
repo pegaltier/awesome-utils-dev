@@ -45,6 +45,10 @@ Stephane Ceaux-Dutheil.
 </p>
 
 ## CRYPTO QUOTES:
-https://fuserleer.online/exchange_data/
-https://www.youtube.com/watch?v=myydDX-us4o
-https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
+- https://fuserleer.online/exchange_data/
+- https://www.youtube.com/watch?v=myydDX-us4o
+- https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
+
+## TRADINGVIEW
+
+- https://github.com/f13end/tradingview-custom-indicators
