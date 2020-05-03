@@ -46,7 +46,9 @@ http://www.restapitutorial.com/lessons/httpmethods.html
 - https://ip-api.com/
 - https://ipstack.com/
 - https://opencagedata.com/
+- https://locationiq.com/
 - https://ipgeolocationapi.com/
+- https://developer.mapquest.com/
 - https://github.com/hlaw/codegrid-js
 - https://www.geonames.org/
 
