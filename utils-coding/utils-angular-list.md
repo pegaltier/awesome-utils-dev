@@ -918,6 +918,7 @@ Learn about the way to make your object immutable.
 - https://egghead.io/lessons/angular-transform-an-angular-component-into-a-native-custom-element
 - https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/
+- https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
 
 ## ECOSYSTEM: MONOREPO
 
@@ -1030,84 +1031,45 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/jvandemo/generator-angular2-library
 - https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
 
-## ECOSYSTEM: LIB: GENERAL
+## ECOSYSTEM: LIB: UTIL
 
-- https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
-- https://github.com/willmendesneto/ngx-feature-toggle
-- https://github.com/MurhafSousli/ngx-scrollbar
-- https://github.com/mgechev/ngx-circular-player
-- https://github.com/Zak-C/ngx-loading
-- https://github.com/angelnikolov/ngx-cacheable
-- https://github.com/gund/ng-dynamic-component
-- https://github.com/JsDaddy/ngx-mask
-- https://github.com/ng-bootstrap/ng-bootstrap
-- https://github.com/dbfannin/ngx-logger
-- https://github.com/Angular-RU/angular-logger
-- https://github.com/kreuzerk/ng-sortgrid
+- https://github.com/ngneat/cashew
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
-- https://github.com/Greentube/ngx-modal
-- https://github.com/ThomasBurleson/mindspace-utils
-- https://github.com/Gbuomprisco/ngx-chips
-- https://github.com/orizens/ngx-infinite-scroll
-- https://github.com/Gbuomprisco/ngx-content-loading
-- https://github.com/BioPhoton/angular-star-rating
-- https://github.com/BioPhoton/angular-signature-pad
-- https://github.com/BioPhoton/angular-formatter-parser
-- https://github.com/damienbod/angular-auth-oidc-client
-- https://github.com/chrisguttandin/angular-audio-context
-- https://github.com/omridevk/ng-keyboard-shortcuts
-- https://github.com/ngneat/cashew
-- https://github.com/ngx-translate/core
-- https://github.com/ngneat/transloco/
-- https://github.com/aitboudad/ngx-loading-bar
-- https://github.com/Ninja-Squad/ngx-valdemort
-- https://github.com/Asymmetrik/ngx-leaflet
-- https://github.com/text-mask/text-mask
-- https://github.com/KillerCodeMonkey/ngx-quill
-- https://github.com/georgipeltekov/ngx-file-drop
-- https://github.com/vadimdez/ng2-pdf-viewer/
-- https://github.com/danrevah/typeserializer
-- https://github.com/zhaosiyang/property-watch-decorator
-- https://github.com/typebytes/ngx-template-streams
-- https://github.com/mgechev/data-adapter
-- https://github.com/manfredsteyer/angular-oauth2-oidc
+- https://github.com/dbfannin/ngx-logger
+- https://github.com/Angular-RU/angular-logger
+- https://github.com/ngdevelop-tech/ngx-fancy-logger
+- https://github.com/angelnikolov/ngx-cacheable
+- https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/ChristianKohler/ng-resize-observer
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/w11k/ngx-componentdestroyed
-- https://github.com/osahner/ngx-show-hide-password
-- https://akveo.github.io/ngx-admin/
-- https://github.com/lon-yang/ngx-markdown-editor
-- https://ornamentum.app/
-- https://alligator.io/angular/stripe-elements
+- https://github.com/danrevah/typeserializer
+- https://github.com/chrisguttandin/angular-audio-context
+- https://github.com/omridevk/ng-keyboard-shortcuts
+- https://github.com/ThomasBurleson/mindspace-utils
+- https://github.com/typebytes/ngx-template-streams
+- https://github.com/mgechev/data-adapter
+- https://github.com/manfredsteyer/angular-oauth2-oidc
+- https://github.com/damienbod/angular-auth-oidc-client
+- https://github.com/gund/ng-dynamic-component
+- https://github.com/zhaosiyang/property-watch-decorator
+- https://github.com/BioPhoton/angular-formatter-parser
+- https://github.com/Ninja-Squad/ngx-valdemort
+
+## ECOSYSTEM: LIB: GENERAL
+
+- https://medium.com/flatlogic/top-angular-open-source-projects-6e9b91a455c0
 - https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
+- https://alligator.io/angular/stripe-elements
 - https://swimlane.github.io/ng2d3/
 - https://github.com/basvandenberg/angular2-select
 - https://github.com/michaelbromley/ng2-pagination
-- http://amcdnl.github.io/angular2-demo/ PARALLAX
 - https://github.com/flauc/angular2-notifications
-- http://flauc.github.io/angular2-notifications/
 - https://github.com/tjoskar/ng2-lazyload-image
 - https://github.com/stabzs/Angular2-Toaster
-- https://justindujardin.github.io/ng2-material/
-- https://github.com/akserg/ng2-dnd
 - https://github.com/ksachdeva/angular2-swiper
-- https://github.com/ksachdeva/angular2-swiper-example
-- http://www.primefaces.org/primeng/#/datascrollerinfinite
-- http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html
-- http://juristr.com/blog/2016/02/learning-ng2-creating-tab-component/
-- https://github.com/threesquared/ng2-disqus
-- https://github.com/czeckd/angular2-svg-icon
-- http://www.angulartypescript.com/angular-2-datepicker/
-- https://github.com/fabianweb/gulp-ng2-relative-path
-- https://github.com/laxa1986/gulp-angular-embed-templates
-- https://github.com/czeckd/angular2-simple-modal
-- http://demos.wijmo.com/5/angular2/FlexGridIntro/FlexGridIntro/
-- https://github.com/WoltersKluwerPL/ng2-spin-kit
-- https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5
-- https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
-- http://jasonwatmore.com/post/2017/01/24/angular-2-custom-modal-window-dialog-box
-- http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
+- https://github.com/akserg/ng2-dnd
 
 ## ECOSYSTEM: LIB: ELEMENTS
 
@@ -1151,14 +1113,37 @@ Learn how to make your own angular lib, build, distribute.
 - https://stackblitz.com/edit/angular-testing-v7
 
 ## ECOSYSTEM: LIB: COMPONENTS
+
 - https://github.com/bithost-gmbh/ngx-mat-select-search
 - https://github.com/softsimon/angular-2-dropdown-multiselect
 - https://github.com/NileshPatel17/ng-multiselect-dropdown
 - https://github.com/ngx-lib/multiselect
 - https://github.com/akserg/ng2-slim-loading-bar
 - https://github.com/akserg/ng2-toasty
+- https://github.com/JsDaddy/ngx-mask
+- https://github.com/mgechev/ngx-circular-player
+- https://github.com/Gbuomprisco/ngx-chips
+- https://github.com/BioPhoton/angular-star-rating
+- https://github.com/BioPhoton/angular-signature-pad
+- https://github.com/Asymmetrik/ngx-leaflet
+- https://github.com/text-mask/text-mask
+- https://github.com/KillerCodeMonkey/ngx-quill
+- https://github.com/georgipeltekov/ngx-file-drop
+- https://github.com/vadimdez/ng2-pdf-viewer/
+- https://github.com/osahner/ngx-show-hide-password
+- https://github.com/lon-yang/ngx-markdown-editor
+
+## ECOSYSTEM: LIB: GRID/TABLE
+
 - https://github.com/ag-grid/ag-grid
 - https://github.com/swimlane/ngx-datatable
+- https://github.com/yohangz/ornamentum
+- https://github.com/kreuzerk/ng-sortgrid
+
+## ECOSYSTEM: LIB: SCROLL
+
+- https://github.com/MurhafSousli/ngx-scrollbar
+- https://github.com/orizens/ngx-infinite-scroll
 
 ## ECOSYSTEM: LIB: UPLOAD
 
@@ -1176,6 +1161,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: MODAL
 
+- https://github.com/Greentube/ngx-modal
 - https://github.com/biig-io/ngx-smart-modal
 - https://github.com/shlomiassaf/ngx-modialog
 - https://matthewross.me/blog/posts/minimal-angular-2-modal
@@ -1183,11 +1169,13 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: LOADER
 
-PROGRESS / LOADING / LOADER / BAR
+Add a progressbar for displaying a loader during the different async task like http requests...
 
+- https://github.com/aitboudad/ngx-loading-bar
+- https://github.com/Zak-C/ngx-loading
+- https://github.com/Gbuomprisco/ngx-content-loading
 - https://github.com/willmendesneto/ngx-skeleton-loader
 - https://github.com/MurhafSousli/ngx-progressbar
-- https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/biig-io/ngx-smart-loader
 
 ## ECOSYSTEM: LIB: FORM
@@ -1230,9 +1218,9 @@ PROGRESS / LOADING / LOADER / BAR
 ## ECOSYSTEM: LIB: IMAGE
 
 - https://github.com/kevoj/angular-editor-fabric-js
-- http://czeckd.github.io/angular2-svg-icon/demo/
+- https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
-- thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
+- https://www.thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
 
 ## ECOSYSTEM: LIB: UI
 
@@ -1243,8 +1231,6 @@ PROGRESS / LOADING / LOADER / BAR
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/akveo/nebular/
 - https://github.com/vmware/clarity
-- https://github.com/akveo/ngx-admin
-- https://github.com/ng-alain/ng-alain
 - https://github.com/rdkmaster/jigsaw
 - https://github.com/primefaces/primeng
 - https://github.com/angular/components
@@ -1267,6 +1253,8 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/aviabird/angularspree
 - https://github.com/scullyio/scully
+- https://github.com/akveo/ngx-admin
+- https://github.com/ng-alain/ng-alain
 - https://angularexpo.com
 - https://ng-alain.com
 

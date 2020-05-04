@@ -614,13 +614,17 @@ nx serve my-project-my-app # start the new project
 Only rerender template if:
 
 - One of its input properties has gotten a new ref
-- An event from the component of one of its chilidren (click...)
+- An event from the component of one of is childrens (click...)
 - Explicit trigger of CD (detectChanges/markForCheck)
 
 Design for immutability :
 
 - Presentational comp <-> Container com <-> Redux store
 - Eventually use facade in your container comp
+
+Trigger details:
+- ChangeDetectorRef.markForCheck() to cause change detection to execute on the component itself and all ancestor components up to the root component.
+- ChangeDetectorRef.detectChanges() if state changes are local to the component and its descendants
 
 ### Pipes instead of methods in template
 
