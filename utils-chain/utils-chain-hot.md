@@ -240,8 +240,9 @@ holo tools>>
 - WSL2 (Ubuntu) + VSCode with Remote WSL, rust-analyzer, crates, Search crates.io
 ## HAPP DEVELOPMENT
 
-- https://holochain-community-resources.github.io/design-workshop/#0
-- https://developer.holochain.org/start.html
+- https://doc.rust-lang.org/book
+- https://www.buyholo.net/en/build
+- https://developer.holochain.org
 - https://github.com/rust-analyzer/rust-analyzer
 
 ## Install permenently
