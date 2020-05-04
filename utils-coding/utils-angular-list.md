@@ -159,6 +159,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
+- https://medium.com/volosoft/strategy-pattern-implementation-with-typescript-and-angular-9ad8b1929e9c
 
 ## HELPER: CHEAT-SHEETS
 
@@ -390,6 +391,7 @@ translusions, ng-content...
 
 Learn how to build perfect form using reactive forms.
 
+- https://offering.solutions/blog/articles/2020/05/03/cross-field-validation-using-angular-reactive-forms/
 - https://indepth.dev/angular-forms-story-strong-types/
 - https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
 - https://blog.angularindepth.com/dont-reinvent-the-wheel-when-implementing-controlvalueaccessor-a0ed4ad0fafd
@@ -415,6 +417,7 @@ Learn how to build perfect form using reactive forms.
 - https://medium.com/@oojhaajay/dynamic-validation-in-angular-dynamic-forms-aca8df20ece0
 - https://medium.com/@tomastrajan/angular-reactive-sub-forms-type-safe-without-duplication-dbd24225e1e8
 - https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
+
 
 ## CORE: PLATFORM
 
@@ -707,6 +710,8 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/tomastrajan/angular-js-es6-testing-example
 - https://blog.nrwl.io/rxjs-advanced-techniques-testing-race-conditions-using-rxjs-marbles-53e7e789fba5
 - https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522
+- https://dev.to/qarunqb/tdd-in-angular-the-basics-of-general-testing-2bfb
+- https://indepth.dev/create-your-angular-unit-test-spies-automagically/
 
 ## CORE: E2E TESTS
 
@@ -1065,6 +1070,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/Ninja-Squad/ngx-valdemort
+- https://github.com/BioPhoton/rx-angular
 
 ## ECOSYSTEM: LIB: GENERAL
 

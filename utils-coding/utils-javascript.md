@@ -23,6 +23,7 @@
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
 - https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
 - https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/
+- https://codesource.io/javascript-design-patterns/
 
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/

@@ -1,12 +1,12 @@
 
 
 ## STATUS
-https://flagtheory.com
-https://residencies.io
-https://e-resident.gov.ee
+- https://flagtheory.com
+- https://residencies.io
+- https://e-resident.gov.ee
 
 ## INSURANCE 
-https://www.wemind.io (french)
+- https://www.wemind.io (french)
 
 ## JOB
-
+- https://dev.to/caroso1222/honest-advice-to-ace-the-hardest-remote-work-interview-at-toptal-3hej
