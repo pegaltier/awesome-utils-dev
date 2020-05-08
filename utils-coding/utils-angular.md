@@ -306,10 +306,29 @@ more infos: - https://ncjamieson.com/avoiding-switchmap-related-bugs/
 
 ## REDUX / NGRX
 
+
 ### Summary
 
 - store.dispatch = trigger an action
 - store.select = get current state
+- effects = async task like http request
+- reducer = switch where state is updated
+
+### New projects
+
+- When you start a new project consider enabling all the runtime checks:
+- https://ngrx.io/guide/store/configuration/runtime-checks
+
+```
+runtimeChecks: {
+  strictStateImmutability: true,
+  strictActionImmutability: true,
+  strictStateSerializability: true,
+  strictActionSerializability: true,
+  strictActionWithinNgZone: true
+}
+```
+
 
 ### Cycle
 
