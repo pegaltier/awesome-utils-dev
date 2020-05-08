@@ -29,7 +29,6 @@
   - [CORE: PLATFORM](#core-platform)
   - [CORE: GUARD](#core-guard)
   - [CORE: RXJS](#core-rxjs)
-  - [CORE: RXJS: EXTERNAL](#core-rxjs-external)
   - [CORE: HTTP](#core-http)
   - [CORE: CHANGE DETECTION](#core-change-detection)
   - [CORE: SCHEMATICS](#core-schematics)
@@ -57,6 +56,7 @@
   - [ECOSYSTEM: SEEDS](#ecosystem-seeds)
   - [ECOSYSTEM: LIB: MAKE](#ecosystem-lib-make)
   - [ECOSYSTEM: LIB: UTIL](#ecosystem-lib-util)
+  - [ECOSYSTEM: LIB: RXJS](#ecosystem-lib-rxjs)
   - [ECOSYSTEM: LIB: GENERAL](#ecosystem-lib-general)
   - [ECOSYSTEM: LIB: ELEMENTS](#ecosystem-lib-elements)
   - [ECOSYSTEM: LIB: E2E TESTS](#ecosystem-lib-e2e-tests)
@@ -306,6 +306,7 @@ env files...
 production, build, bundle...
 
 - https://alligator.io/angular/bundle-size/
+- https://indepth.dev/under-the-hood-of-web-bundlers-e-g-webpack/
 - https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
 - https://medium.com/@richavyas/webpack-new-way-of-building-ng2-app-a34a3bdabb17#.gcouo6jme
 - https://hackernoon.com/rxjs-reduce-bundle-size-using-lettable-operators-418307295e85
@@ -501,12 +502,6 @@ Learn the reactive programming using rxjs.
 - http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
 - http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html
 - https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md
-
-## CORE: RXJS: EXTERNAL
-
-- https://github.com/cartant/rxjs-etc
-- https://github.com/wardbell/subsink
-- https://github.com/nilsmehlhorn/ngx-operators
 
 ## CORE: HTTP
 - https://dev.to/florimondmanca/consuming-apis-in-angular--the-model-adapter-pattern-3fk5
@@ -928,6 +923,7 @@ Learn about the way to make your object immutable.
 - https://github.com/worktile/ngx-planet
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-with-angular
+- https://github.com/newvladimirov/module-federation-with-angular-universal
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
 - https://www.infoq.com/podcasts/micro-frontends-dazn/
@@ -1078,6 +1074,13 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/BioPhoton/rx-angular
 - https://github.com/stupidawesome/ng-effects
+
+## ECOSYSTEM: LIB: RXJS
+
+- https://github.com/cartant/rxjs-etc
+- https://github.com/wardbell/subsink
+- https://github.com/tanepiper/rxjs-primitives
+- https://github.com/nilsmehlhorn/ngx-operators
 
 ## ECOSYSTEM: LIB: GENERAL
 
