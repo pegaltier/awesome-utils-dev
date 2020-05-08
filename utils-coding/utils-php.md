@@ -17,6 +17,10 @@
 
 ## SLIM PHP UTILS
 - https://github.com/xssc/awesome-slim
+- https://github.com/zhorton34/authorize-slim-4
+- https://github.com/bryanjhv/slim-session
+- https://github.com/selective-php/basepath
+- https://github.com/slimphp/Slim-Csrf
 - http://php-di.org/doc/frameworks/slim.html
 - https://aimeos.org/slim-ecommerce-package/
 
@@ -34,11 +38,8 @@
 - https://github.com/slimphp/Slim-Skeleton
 - https://github.com/semhoun/slim-skeleton-mvc
 - https://github.com/odan/slim4-skeleton
-- https://github.com/slimphp/Slim-Csrf
-- https://github.com/selective-php/basepath
 - https://github.com/maurobonfietti/slim4-api-skeleton
 - https://github.com/maurobonfietti/slim4-api-skeleton-crud-generator
-- https://github.com/zhorton34/authorize-slim-4
 - http://www.slimframework.com/docs/v4/
 
 ## PSR15
