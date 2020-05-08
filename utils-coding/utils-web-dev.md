@@ -74,11 +74,14 @@
 - http://realfavicongenerator.net/
 - https://www.froala.com/design-blocks
 - https://github.com/wwebdev/static-website-template
+- https://html-to-svg.as-a-service.dev/?url=https://steren.fr
 
 ## PLUGINS
-https://developers.google.com/web/tools/chrome-devtools/
-https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
-https://crossorigin.me/
+
+- https://crossorigin.me/
+- https://developers.google.com/web/tools/chrome-devtools/
+- https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
+- https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha
 
 ## DEBUG
 https://css-tricks.com/debugging-tips-tricks

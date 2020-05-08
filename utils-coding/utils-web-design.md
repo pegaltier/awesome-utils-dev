@@ -14,6 +14,10 @@ http://kushagragour.in/lab/hint/
 https://picons.me/
 https://www.svgator.com svg animate
 
+## AWESOME
+
+- https://github.com/bradtraversy/design-resources-for-developers
+
 ## FONT
 https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
 http://bashooka.com/freebie/50-free-fonts-2018-that-will-rock-your-design-project/

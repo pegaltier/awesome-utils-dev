@@ -1,6 +1,7 @@
 # JAVASCRIPT
 
 ## GUIDE / TOOLS
+- https://1loc.dev/
 - https://devhints.io/lodash
 - https://airbnb.io/javascript/
 - https://sulco.stackblitz.io/
@@ -47,6 +48,7 @@
 - https://github.com/pshihn/rough
 
 ## LIB FRONTEND
+- https://github.com/alvarotrigo/fullpage.js
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
@@ -103,3 +105,29 @@
 
 ### SREAD
 - https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c
+
+## EXAMPLES
+
+Useful object methods: keys, values, and entries.
+
+```
+const data = {
+    name: 'Pierre',
+    age: 32
+}
+
+// Give me the keys in an array
+Object.keys(data);
+// ['name', 'age']
+
+// Give me the values in an array
+Object.values(data);
+// ['Pierre', 32]
+
+// Give me the keys and the values in an array
+// [['name', 'Pierre'], ['age', 32]]
+
+// Give me the key-value pairs in an object.
+Object.fromEntries(data)
+// 
+```
