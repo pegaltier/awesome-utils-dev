@@ -100,3 +100,6 @@
 
 ### ARRAYS
 - https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8
+
+### SREAD
+- https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c

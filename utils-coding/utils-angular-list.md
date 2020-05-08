@@ -242,6 +242,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 ## CORE: CLI
 
+- https://medium.com/angular-in-depth/angular-cli-flows-big-picture-9ed1a0d1930
 - https://blog.ninja-squad.com/2019/01/31/angular-cli-7.3/
 - https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8
 - https://github.com/angular/angular-cli
@@ -452,9 +453,11 @@ Learn the reactive programming using rxjs.
 - https://rxjs.tools/
 - https://www.learnrxjs.io/
 - https://learnreactive.com/
+- https://www.rxjs-fruits.com/
 - https://github.com/btroncone/learn-rxjs
 - https://github.com/jsonberry/rxjs-examples
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
+- https://medium.com/javascript-in-plain-english/more-rxjs-transformation-operators-mergescan-and-pluck-2f09510abef
 - https://ncjamieson.com/avoiding-switchmap-related-bugs/
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 - https://blog.angular-university.io/rxjs-higher-order-mapping/
@@ -580,6 +583,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 
 Learn about the angular router, lazy load your modules.
 
+- https://medium.com/ngconf/routing-to-angular-material-dialogs-c3fb7231c177
 - https://medium.com/angular-in-depth/angular-code-splitting-or-how-to-share-components-between-lazy-modules-432c755e389c
 - https://timdeschryver.dev/blog/guarding-your-angular-modules
 - https://dev.to/angular/angular-9-lazy-loading-components-o04
@@ -1073,6 +1077,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/BioPhoton/rx-angular
+- https://github.com/stupidawesome/ng-effects
 
 ## ECOSYSTEM: LIB: GENERAL
 

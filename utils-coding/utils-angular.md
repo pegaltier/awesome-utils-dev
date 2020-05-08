@@ -260,19 +260,23 @@ They are pure functions. The function always returns the same result if the same
 
 #### TRANSFORMATION
 
-- https://ncjamieson.com/avoiding-switchmap-related-bugs/
+- mapTop map emissions to constant value.
+- map apply projection with each value from source.
+- mergeScan allow to accumulate value over time via merged observables.
+- pluck map each emitted value from the source Observable to its specified nested property.
 
 - mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
 - switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
 - concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained.
 - exhaustMap is like mergeMap but it ignore new Observables until the current one is still not completed.
 
-
 choose the appropriate operator based on the use case:
-- concatMap: for doing things in sequence while waiting for completion
 - mergeMap: for doing things in parallel
-- switchMap: in case we need cancellation logic
+- switchMap: for doing cancellation of the previous
+- concatMap: for doing things in sequence while waiting for completion
 - exhaustMap: for ignoring new Observables while the current one is still ongoing
+
+more infos: - https://ncjamieson.com/avoiding-switchmap-related-bugs/
 
 #### COMBINATION
 
@@ -280,7 +284,8 @@ choose the appropriate operator based on the use case:
 - forkJoin: don’t let me know until all the Observables are complete, then give me all the values at once
 - merge: combine multiple Observables into one. So if one of the observables emit a value the combined one will emit as well
 - concat: subscribe to Observables in order but only when the previous completes, let me know, then move to the next one.
-- pairWise: let me know when the Observable emits, but also give me the previous value
+- pairWise: let me know when the Observable emits, but also give me the previous value.
+- partition: splits the source Observable into 2, where one has the values that satisfy a predicate and the other with values that doesn't.
 
 #### CREATION
 
