@@ -1047,6 +1047,12 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/jvandemo/generator-angular2-library
 - https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
 
+## ECOSYSTEM: LIB: LAZY
+
+- https://github.com/ded/script.js
+- https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
+- https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
+
 ## ECOSYSTEM: LIB: UTIL
 
 - https://github.com/ngneat/cashew

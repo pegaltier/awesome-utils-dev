@@ -46,6 +46,7 @@
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
 - https://github.com/pshihn/rough
+- https://github.com/ded/script.js
 
 ## LIB FRONTEND
 - https://github.com/alvarotrigo/fullpage.js
