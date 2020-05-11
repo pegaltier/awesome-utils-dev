@@ -922,6 +922,7 @@ Learn about the way to make your object immutable.
 - https://leanpub.com/enterprise-angular
 - https://github.com/worktile/ngx-planet
 - https://github.com/manfredsteyer/angular-microfrontend
+- https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/module-federation-with-angular
 - https://github.com/newvladimirov/module-federation-with-angular-universal
 - https://martinfowler.com/articles/micro-frontends.html
@@ -1085,6 +1086,7 @@ Learn how to make your own angular lib, build, distribute.
 
 - https://github.com/cartant/rxjs-etc
 - https://github.com/wardbell/subsink
+- https://github.com/loreanvictor/rxmetics
 - https://github.com/tanepiper/rxjs-primitives
 - https://github.com/nilsmehlhorn/ngx-operators
 
