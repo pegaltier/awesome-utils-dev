@@ -1,4 +1,6 @@
-# Ubuntu
+# Unix
+
+Ubuntu & co
 
 ## UTILS
 
