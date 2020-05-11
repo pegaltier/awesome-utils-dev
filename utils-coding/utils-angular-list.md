@@ -1030,24 +1030,25 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 Learn how to make your own angular lib, build, distribute.
 
+- https://github.com/kreuzerk/ng-samurai
+- https://github.com/ng-packagr/ng-packagr
+- https://github.com/mattlewis92/generator-angular-library
+- https://github.com/jvandemo/generator-angular2-library
+- https://github.com/rangle/angular-2-aot-sandbox
+- https://github.com/angular/angular-cli/issues/3580
+- https://next.angular.io/guide/creating-libraries
 - https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
 - https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121
 - https://blog.angularindepth.com/the-angular-library-series-publishing-ce24bb673275
 - https://blog.angularindepth.com/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5
 - https://medium.com/angular-in-depth/step-by-step-guide-to-creating-your-first-library-in-angular-6827276bfc9f
-- https://next.angular.io/guide/creating-libraries
 - http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types
 - https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266
 - https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
-- https://github.com/jvandemo/generator-angular2-library
 - https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
-- https://github.com/angular/angular-cli/issues/3580
 - http://www.gistia.com/optimize-angular-2-applications
 - https://medium.com/spektrakel-blog/angular-writing-aot-friendly-applications-7b64c8afbe3f
 - http://dbarnes.me/writing-an-aot-compliant-angular-library
-- https://github.com/mattlewis92/generator-angular-library
-- https://github.com/jvandemo/generator-angular2-library
-- https://github.com/rangle/angular-2-aot-sandbox#aot-dos-and-donts
 
 ## ECOSYSTEM: LIB: LAZY
 
@@ -1241,13 +1242,16 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://alligator.io/angular/custom-svg-icons-angular-material
 
 ## ECOSYSTEM: LIB: INTERNATIONALIZATION
-
-- https://github.com/ngx-translate/core
-- https://github.com/ngneat/transloco
-- https://github.com/loclapp/locl
 - https://angular.io/cli/xi18n
-- https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
+- https://github.com/loclapp/locl
+- https://github.com/ngneat/transloco
+- https://github.com/ngx-translate/core
+- https://github.com/biesbjerg/ngx-translate-extract
+- https://github.com/Tuizi/i18n-split-example
+- https://itnext.io/lazy-load-translation-files-in-angular-using-transloco-2d3afed116ce
 - https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
+- https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
+- https://medium.com/@TuiZ/how-to-split-your-i18n-file-per-lazy-loaded-module-with-ngx-translate-3caef57a738f
 
 ## ECOSYSTEM: LIB: IMAGE
 

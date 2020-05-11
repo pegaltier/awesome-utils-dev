@@ -19,6 +19,7 @@ CTRL (de droite) + / 		==>		 commenter/decommenter
 - https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu
 - https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview
 - https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
+- https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
 ## OTHERS EXTENSIONS
 - https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
