@@ -33,10 +33,12 @@
 - https://github.com/kozhevnikov/proxymise
 
 ## TOOLS
+
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
 
 ## LIB UTILS
+
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://github.com/vvo/javascript-library-template
 - https://github.com/stoeffel/awesome-fp-js
@@ -47,8 +49,11 @@
 - https://github.com/stryker-mutator/stryker
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
+- https://github.com/ramda/ramda
+- https://github.com/lodash/lodash
 
 ## LIB FRONTEND
+
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
@@ -56,7 +61,6 @@
 - https://www.npmjs.com/package/livr
 - https://github.com/immerjs/immer
 - https://github.com/angus-c/just
-- https://github.com/lodash/lodash
 
 ## LIB AI
 - https://github.com/BrainJS/brain.js
