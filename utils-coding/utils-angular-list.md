@@ -554,6 +554,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
 - https://github.com/schuchard/ng-schematics
 - https://github.com/manfredsteyer/angular-crud
+- https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
 
 ## CORE: DEPENDENCY INJECTION
 
@@ -758,6 +759,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/nilsmehlhorn/ngrx-wieder
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
+- https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 - https://blog.strongbrew.io/how-to-write-clean-reducers-and-test-them/
@@ -852,6 +854,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/universal-model/universal-model-angular
 - https://github.com/davidkpiano/xstate/
 - https://github.com/georgebatalinski/localstatetodo
+- https://github.com/NetanelBasal/akita-ng-forms-manager
 - https://stackblitz.com/edit/rxjs-arjn1h
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b
@@ -1083,6 +1086,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/BioPhoton/rx-angular
 - https://github.com/stupidawesome/ng-effects
+- https://github.com/ngrx-utils/ngrx-utils
 
 ## ECOSYSTEM: LIB: RXJS
 
@@ -1121,10 +1125,12 @@ Learn how to make your own angular lib, build, distribute.
 
 - https://screenster.io/
 - https://testrec.com/
+- https://github.com/appium/appium
 - https://github.com/cypress-io/cypress
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/deanius/storybook-animate
 - https://webdave.de/blog/cypress
+- https://www.youtube.com/watch?v=UHgtUSAROtc Comparing Testing Tools
 - https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
 - https://medium.com/@charith.rhettiarachchi/why-use-jest-over-karma-for-angular-testing-b56ffa82f8
 - https://itnext.io/cypress-storybook-keeping-test-scenario-data-and-component-rendering-in-one-place-c57b23cc1640
@@ -1146,6 +1152,12 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/gparlakov/scuri/blob/master/README.md
 - https://github.com/testing-library/angular-testing-library
 - https://stackblitz.com/edit/angular-testing-v7
+
+## ECOSYSTEM: LIB: WEB PREF
+
+- https://github.com/puppeteer/puppeteer
+- https://github.com/addyosmani/puppeteer-webperf
+
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
@@ -1475,6 +1487,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 - https://indepth.dev/
 - https://web.dev/angular
+- https://www.angularnation.net/
 - https://www.reddit.com/r/Angular2/
 - https://dev.to/angular
 - http://blog.mgechev.com/
