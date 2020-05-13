@@ -4,6 +4,11 @@ Trouvez un job ici ! JAVA, ANGULAR, ANDROID, REACT, PHP, NODEJS, IOS, HTML, CSS,
 Agent pour développeurs haut-niveau
 
 ## REMOTE
+- https://stackoverflow.com/jobs/remote-developer-jobs
+- https://www.freelancer.com/
+- https://remoteok.io/
+- https://www.toptal.com/
+- https://www.upwork.com/
 - https://frontendremotejobs.com/
 - https://breakout.careers/
 - https://remoteleaf.com/
