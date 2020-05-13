@@ -223,6 +223,7 @@ git revert -m 1 <merge-commit-id>
 ```
 
 ## ALIAS
+
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 ```
 git config --global alias.pul "pull origin master"
@@ -231,4 +232,17 @@ git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit
 git config --global alias.st status
+```
+
+## SUBMODULES
+
+```
+# go to the branch with gitmodules conf
+git checkout integration
+# get the latest changes
+git pull
+# copy the new URL to your local config
+git submodule sync --recursive
+# update the submodule from the new URL
+git submodule update --init --recursive
 ```

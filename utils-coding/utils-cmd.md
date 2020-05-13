@@ -1,6 +1,8 @@
 
 ## COMMAND LINE UTILS
 
+- https://github.com/alebcay/awesome-shell
+
 ### remove directory
 
 ```
