@@ -198,10 +198,15 @@ git push -u origin 1109-issue-name
 ## MERGE BRANCH
 
 Example for merging master into custom_branch
-- Solution1. git checkout custom_branch && git merge master
-- Solution2. git checkout custom_branch && git rebase master
 
-You can also use Gitlab/Bitbucker explorer or VSCode plugin "Git merger":
+```
+git checkout custom_branch
+git merge master (solution 1)
+git rebase master (solution 2)
+git merge --abort (cancel)
+```
+
+You can also use Gitlab/Bitbucket explorer or VSCode plugin "Git merger":
 - from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
 
 More infos

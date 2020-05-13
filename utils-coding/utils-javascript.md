@@ -61,6 +61,7 @@
 - https://www.npmjs.com/package/livr
 - https://github.com/immerjs/immer
 - https://github.com/angus-c/just
+- https://github.com/Leaflet/Leaflet
 
 ## LIB AI
 - https://github.com/BrainJS/brain.js

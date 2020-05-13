@@ -351,11 +351,6 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.nt2t38q9n
 - https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
 
-## CORE: ANIMATIONS
-
-- http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
-- https://medium.com/google-developer-experts/angular-applying-motion-principles-to-a-list-d5cdd35c899e
-
 ## CORE: TEMPLATE
 
 - https://codeburst.io/angular-interview-question-what-are-ng-container-ng-content-and-ng-template-9fafbbc255d5
@@ -574,6 +569,8 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 - http://www.dzurico.com/angular-animate
 - https://blog.thecodecampus.de/angular-2-animate-creating-sliding-side-navigation
 - https://www.youtube.com/watch?v=mVqQDEtRBwA
+- http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
+- https://medium.com/google-developer-experts/angular-applying-motion-principles-to-a-list-d5cdd35c899e
 
 ## CORE: ROUTING
 
@@ -1127,6 +1124,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://testrec.com/
 - https://github.com/appium/appium
 - https://github.com/cypress-io/cypress
+- https://github.com/agoldis/sorry-cypress
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/deanius/storybook-animate
 - https://webdave.de/blog/cypress

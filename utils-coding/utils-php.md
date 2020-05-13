@@ -21,6 +21,7 @@
 - https://github.com/bryanjhv/slim-session
 - https://github.com/selective-php/basepath
 - https://github.com/slimphp/Slim-Csrf
+- https://github.com/slimphp/Slim-Http
 - http://php-di.org/doc/frameworks/slim.html
 - https://aimeos.org/slim-ecommerce-package/
 
