@@ -22,9 +22,6 @@
 - [Android](utils-coding/utils-android.md)
 - [Ionic](utils-coding/utils-ionic.md)
 
-## Computer: Microservices
-- [Microservices](utils-coding/utils-git.md)
-
 ## Computer: GraphQL
 - [GraphQL](utils-coding/utils-graphql.md)
 
@@ -44,6 +41,8 @@
 ## Contributing
 Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
 
+- https://github.com/pegaltier
+- https://github.com/Rebaiahmed
 
 ## :two_hearts: Follow me
 
