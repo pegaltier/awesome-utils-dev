@@ -1,7 +1,10 @@
 
-## WINDOWS
+## COMMAND LINE UTILS
 
 ### remove directory
-rd /s /q "path"
 
-rmdir /s/q node_modules
+```
+rmdir /s /q node_modules (windows)
+rm -r -f node_modules (linux)
+```
+

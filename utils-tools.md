@@ -55,6 +55,14 @@
 
 # Desktop
 
+## [Flux](https://justgetflux.com/) - Adapt screen color depending on the luminosity
+
+## [Screentogif](https://www.screentogif.com/) - Screen, webcam and drawing recorder with integrated editor.
+
+## [Screentogif](https://www.lwks.com/) - Freemium video editing software
+
+## [Terminus](https://eugeny.github.io/terminus/) - A terminal for a more modern age
+
 ## [CloudApp](https://www.getcloudapp.com/) - Screenshots, GIFs, and videos with annotation, security controls, and cloud storage
 
 ## [ShiftIt](https://github.com/fikovnik/ShiftIt) - Window sizing and positioning
@@ -167,6 +175,10 @@
 ## Chrome
 
 ### Extensions
+
+#### [Chrome Capture](https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe)
+
+#### [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 
 #### [Tab Wrangler](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh) - Auto clean up inactive tabs
 

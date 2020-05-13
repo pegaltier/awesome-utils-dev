@@ -23,9 +23,9 @@
 - [Ionic](utils-coding/utils-ionic.md)
 
 ## Computer: GraphQL
-- [GraphQL](utils-coding/utils-graphql.md)
 
 ## Computer: Various
+- [GraphQL](utils-coding/utils-graphql.md)
 - [Git](utils-coding/utils-git.md)
 - [Api](utils-coding/utils-api.md)
 - [More](utils-coding/)
