@@ -5,7 +5,7 @@
 ![github](https://badgen.net/github/stars/pegaltier/utils-dev)
 ![twitter](https://badgen.net/twitter/follow/pegaltier)
 
-## Computer: Programming Languages
+## Programming Languages
 - [Javascript](utils-coding/utils-javascript.md)
 - [Typescript](utils-coding/utils-typescript.md)
 - [Java](utils-coding/utils-java.md)
@@ -14,21 +14,21 @@
 - [Python](utils-coding/utils-python.md)
 - [Sql](utils-coding/utils-sql.md)
 
-## Computer: Web Frameworks 
+## Web Frameworks 
 - [Angular](utils-coding/utils-angular-list.md)
 - [Vue](utils-coding/utils-vue.md)
 
-## Computer: Mobile Development 
+## Mobile Development 
 - [Android](utils-coding/utils-android.md)
 - [Ionic](utils-coding/utils-ionic.md)
 
-## Computer: Various
+## Various
 - [GraphQL](utils-coding/utils-graphql.md)
 - [Git](utils-coding/utils-git.md)
 - [Api](utils-coding/utils-api.md)
 - [More](utils-coding/)
 
-## Computer: Blockchain
+## Blockchain
 - [General](utils-chain/utils-chain-all.md)
 - [Bitcoin](utils-chain/utils-chain-btc.md)
 - [Ethereum](utils-chain/utils-chain-eth.md)
