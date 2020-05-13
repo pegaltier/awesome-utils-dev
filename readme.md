@@ -22,8 +22,6 @@
 - [Android](utils-coding/utils-android.md)
 - [Ionic](utils-coding/utils-ionic.md)
 
-## Computer: GraphQL
-
 ## Computer: Various
 - [GraphQL](utils-coding/utils-graphql.md)
 - [Git](utils-coding/utils-git.md)
