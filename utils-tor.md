@@ -1,3 +1,3 @@
 
-https://www.torproject.org/
-https://snowflake.torproject.org/
+- https://www.torproject.org/
+- https://snowflake.torproject.org/
