@@ -957,8 +957,10 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/lerna/lerna
+- https://github.com/nrwl/nx
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
+- https://github.com/nxpm/nxpm-cli
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
@@ -972,6 +974,9 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nstudio/xplat-sample-ionic-web
+- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-1/
+- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-2/
+- https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://devdactic.com/ionic-multi-app-shared-library/
 - https://nstudio.io/xplat/getting-started/getting-started
@@ -1105,6 +1110,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/tjoskar/ng2-lazyload-image
 - https://github.com/stabzs/Angular2-Toaster
 - https://github.com/ksachdeva/angular2-swiper
+- https://github.com/easy-two/ngx-child-injector
 - https://github.com/akserg/ng2-dnd
 
 ## ECOSYSTEM: LIB: ELEMENTS

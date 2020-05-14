@@ -154,9 +154,16 @@ ng build --target=production --base-href '/enterprise/'
 
 ## REACTIVE / RXJS
 
-- Observable: represents the idea of an invokable collection of future values or events.
-- Observer: is a collection of callbacks that knows how to listen to values delivered by the Observable.
-- Subscription: represents the execution of an Observable, is primarily useful for cancelling the execution.
+### What is RxJS?
+
+- Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change - Wikipedia
+- RxJS is a library for reactive programming using observables that makes it easier to compose asynchronous or callback-based code - RxJS docs
+
+### 
+
+- Observable: is the stream of data. It represents the idea of an invokable collection of future values or events.
+- Observer: is a collection of up to 3 callbacks (next, error, complete) that knows how to listen to values delivered by the Observable.
+- Subscription: represents the execution of an Observable, is primarily useful for starting the execution in case of a cold observable and for cancelling the execution in case of hot observable.
 - Operators: are pure functions that enable a functional programming style of dealing with collections with operations like map, filter, concat, flatMap, etc.
 - Subject: is the equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
 - Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
@@ -260,15 +267,15 @@ They are pure functions. The function always returns the same result if the same
 
 #### TRANSFORMATION
 
-- mapTop map emissions to constant value.
-- map apply projection with each value from source.
-- mergeScan allow to accumulate value over time via merged observables.
-- pluck map each emitted value from the source Observable to its specified nested property.
+- mapTop: map emissions to constant value.
+- map: apply projection with each value from source.
+- mergeScan: allow to accumulate value over time via merged observables.
+- pluck: map each emitted value from the source Observable to its specified nested property.
 
-- mergeMap/flatMap when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
-- switchMap is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
-- concatMap is like mergeMap but it keep the order in which the Observables are emitting is maintained.
-- exhaustMap is like mergeMap but it ignore new Observables until the current one is still not completed.
+- mergeMap/flatMap: when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
+- switchMap: is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
+- concatMap: is like mergeMap but it keep the order in which the Observables are emitting is maintained.
+- exhaustMap: is like mergeMap but it ignore new Observables until the current one is still not completed.
 
 choose the appropriate operator based on the use case:
 - mergeMap: for doing things in parallel
@@ -280,9 +287,13 @@ more infos: - https://ncjamieson.com/avoiding-switchmap-related-bugs/
 
 #### COMBINATION
 
-- combineLatest: the Observable will emit an array of value when the list of observables he got all emitted at least a single value
-- forkJoin: don’t let me know until all the Observables are complete, then give me all the values at once
-- merge: combine multiple Observables into one. So if one of the observables emit a value the combined one will emit as well
+They enable us to join information from multiple observables. Order, time, and structure of emitted values are the primary differences among them.
+
+- combineLatest: it emits an array of value when the list of observables he got all emitted at least a single value. Then when any inner observable emits a value, it emit the last emitted value from each.
+- zip: emits values as an array like combineLatest but it doesn’t start to emit until each inner observable emits at least one value and emits as long as emitted values can be collected from all inner observables.
+- forkJoin: emits the last emitted value from each inner observables after they all complete. So it doesn't emit until all the observables are complete, it means it give the values at the end only. If one of the inner observables throws an error, all values are lost except if you catch errors from every single inner observable.
+- withLatestFrom: Combines the source Observable with other Observables to create an Observable whose values are calculated from the latest values of each, only when the source emits.
+- merge: combine multiple Observables into one. So if one of the observables emit a value the combined one will emit as well.
 - concat: subscribe to Observables in order but only when the previous completes, let me know, then move to the next one.
 - pairWise: let me know when the Observable emits, but also give me the previous value.
 - partition: splits the source Observable into 2, where one has the values that satisfy a predicate and the other with values that doesn't.
@@ -303,6 +314,8 @@ more infos: - https://ncjamieson.com/avoiding-switchmap-related-bugs/
 ### MORE OPERATORS
 
 - http://reactivex.io/rxjs/manual/overview.html#operators
+- https://www.freecodecamp.org/news/understand-rxjs-operators-by-eating-a-pizza/
+- https://stackoverflow.com/questions/41797439/rxjs-observable-combinelatest-vs-observable-forkjoin
 
 ## REDUX / NGRX
 

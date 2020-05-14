@@ -236,6 +236,13 @@ git config --global alias.st status
 
 ## SUBMODULES
 
+- switch branch:
+```
+git pull origin name
+git submodule update
+```
+
+- reset config:
 ```
 # go to the branch with gitmodules conf
 git checkout integration

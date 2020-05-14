@@ -2,6 +2,21 @@
 
 Ubuntu & co
 
+## Update
+
+```
+sudo apt update
+sudo apt-get update  
+```
+
+## Bash
+
+```
+gedit ~/.bashrc
+. ~/.bashrc
+echo $PATH
+```
+
 ## Tools
 
 - https://github.com/nvm-sh/nvm
