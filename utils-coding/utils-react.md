@@ -44,4 +44,6 @@ https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-li
 
 
 
-## COMPILE
+## LIBS
+
+- https://github.com/facebookexperimental/Recoil
