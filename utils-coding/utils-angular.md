@@ -711,6 +711,16 @@ Can be caused by:
 - wrong usage of services. IE: usage inside the constructor of others services which are mutually linked.
 - wrong usage of providedIn. IE: the service must not belong to the module you want to provide it to.
 
+## BAD PRACTICES
+
+- usage of ::ng-deep without :host is going to affect the css of the others components, the style isolation principle is broken, the way to avoid that is using :host ::ng-deep
+
+## JOIN AN EXISTING PROJECTS
+
+- review the rooting modules in order to understand the architecture of the app
+- check all the mixin and variables scss files in order to know what should be reused
+
+
 ## INTERVIEW
 
 ### BREAKING ICE QUESTIONS:

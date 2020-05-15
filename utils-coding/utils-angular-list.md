@@ -924,6 +924,8 @@ Learn about the way to make your object immutable.
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/module-federation-with-angular
+- https://github.com/manfredsteyer/microfrontend-prototype
+- https://github.com/module-federation
 - https://github.com/newvladimirov/module-federation-with-angular-universal
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
@@ -965,7 +967,6 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
-- https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/manfredsteyer/demo-workspace-schematics
 - https://github.com/angularbuilders/angular-blueprint
 - https://github.com/lydemann/Todo-monorepo
@@ -1242,6 +1243,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/formql/formql
 - https://github.com/formql/formql/tree/master/examples
 - https://github.com/UltimateAngular/ngxerrors
+- https://github.com/rsaenen/ngx-custom-validators
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
