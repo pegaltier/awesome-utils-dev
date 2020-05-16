@@ -67,6 +67,7 @@
 - https://github.com/BrainJS/brain.js
 
 ## FRAMEWORK FRONTEND
+- https://github.com/sindresorhus/awesome-electron
 - https://github.com/Tencent/omi
 - https://electronjs.org/
 - https://nwjs.io/  
