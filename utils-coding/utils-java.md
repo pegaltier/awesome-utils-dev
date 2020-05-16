@@ -3,6 +3,7 @@
 
 ## LEARN
 - https://github.com/iluwatar/java-design-patterns
+- https://github.com/akullpp/awesome-java
 
 ## SPRING 5 REST
 - https://spring.io/
