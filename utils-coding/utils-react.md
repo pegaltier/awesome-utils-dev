@@ -42,8 +42,10 @@ https://github.com/facebook/react-native
 http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html
 
-
-
 ## LIBS
 
 - https://github.com/facebookexperimental/Recoil
+
+## LIST
+
+- https://github.com/enaqx/awesome-react

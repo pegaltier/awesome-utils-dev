@@ -1,8 +1,8 @@
 
 # JAVA
 
-## FEATURES
-- https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/
+## LEARN
+- https://github.com/iluwatar/java-design-patterns
 
 ## SPRING 5 REST
 - https://spring.io/
@@ -38,3 +38,4 @@
 ## BASICS
 - https://www.w3schools.com/java/default.asp
 - https://www.geeksforgeeks.org/differences-treemap-hashmap-linkedhashmap-java/
+- https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/
