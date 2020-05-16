@@ -713,7 +713,10 @@ Can be caused by:
 
 ## BAD PRACTICES
 
-- usage of ::ng-deep without :host is going to affect the css of the others components, the style isolation principle is broken, the way to avoid that is using :host ::ng-deep
+- usage of ::ng-deep without :host is going to affect the css of the others components, the style isolation principle is broken, the way to avoid that is using :host ::ng-deep.
+- forget usage of clear design pattern such as smart/dumb components results in hard to read, debug, test and maintain codebase. The smart/dumb components pattern should be used everywhere.
+- forget usage of application monitoring and error tracking at the beginning of the project such as sentry. It results in a tons of bugs the day you install it and you then have to work for months in order to clear the app of all the bugs.
+
 
 ## JOIN AN EXISTING PROJECTS
 
