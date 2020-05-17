@@ -446,10 +446,12 @@ Learn how to secure your app with guards and interceptors.
 
 Learn the reactive programming using rxjs.
 
+- https://rxviz.com/
 - https://rxjs.tools/
 - https://www.learnrxjs.io/
 - https://learnreactive.com/
 - https://www.rxjs-fruits.com/
+- https://github.com/moroshko/rxviz
 - https://github.com/btroncone/learn-rxjs
 - https://github.com/jsonberry/rxjs-examples
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
