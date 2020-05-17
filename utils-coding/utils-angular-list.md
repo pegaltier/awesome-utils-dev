@@ -968,6 +968,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
 - https://github.com/manfredsteyer/demo-workspace-schematics
+- https://github.com/manfredsteyer/nx-plugin-example
 - https://github.com/angularbuilders/angular-blueprint
 - https://github.com/lydemann/Todo-monorepo
 - https://github.com/korfuri/awesome-monorepo
@@ -1064,6 +1065,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: UTIL
 
+- https://github.com/ng-web-apis
 - https://github.com/ngneat/cashew
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
@@ -1166,6 +1168,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
+- https://github.com/ng2-ui/auto-complete
 - https://github.com/bithost-gmbh/ngx-mat-select-search
 - https://github.com/softsimon/angular-2-dropdown-multiselect
 - https://github.com/NileshPatel17/ng-multiselect-dropdown

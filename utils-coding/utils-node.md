@@ -35,3 +35,11 @@ https://github.com/localtunnel/localtunnel
 
 1. download & install node : latest version from official website
 2. use npm-windows-upgrade to update npm
+
+## COMMANDS
+
+```
+npm list -g --depth 0 (list the global package installed)
+npx ... (run directly a local package from the node_modules)
+npx ngcc (example to run angular ngcc in an angular (v9) project)
+```
