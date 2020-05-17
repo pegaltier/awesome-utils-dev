@@ -1,9 +1,11 @@
-# :books: IT Awesome List
+# :books: Awesome IT List
 
 ![apache](https://badgen.net/badge/license/Apache-2.0/blue)
 ![stars](https://badgen.net/badge/stars/★★★★★)
 ![github](https://badgen.net/github/stars/pegaltier/utils-dev)
 ![twitter](https://badgen.net/twitter/follow/pegaltier)
+
+📔 📚 A curated list of awesome resources, utils, links, notes, tools, tips, helpers made by a developer and for developers...
 
 ## Programming Languages
 - [Javascript](utils-coding/utils-javascript.md)
