@@ -1088,10 +1088,11 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
+- https://github.com/ndr/ngx-route-params-input
 - https://github.com/Ninja-Squad/ngx-valdemort
-- https://github.com/BioPhoton/rx-angular
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
+- https://github.com/BioPhoton/rx-angular
 
 ## ECOSYSTEM: LIB: RXJS
 
