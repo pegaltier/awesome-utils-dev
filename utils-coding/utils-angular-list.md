@@ -460,6 +460,7 @@ Learn the reactive programming using rxjs.
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
 - https://blog.angular-university.io/rxjs-higher-order-mapping/
 - https://blog.angular-university.io/rxjs-error-handling/
+- https://indepth.dev/power-of-rxjs-when-using-exponential-backoff/
 - https://medium.com/razroo/rxjs-pitfalls-and-how-to-avoid-them-870e54bea467
 - https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff
 - https://www.nerdeez.com/articles/rxjs/top-operators
@@ -1103,6 +1104,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/loreanvictor/rxmetics
 - https://github.com/tanepiper/rxjs-primitives
 - https://github.com/nilsmehlhorn/ngx-operators
+- https://github.com/alex-okrushko/backoff-rxjs
 
 ## ECOSYSTEM: LIB: GENERAL
 

@@ -41,6 +41,7 @@
 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://github.com/vvo/javascript-library-template
+- https://github.com/JSMonk/hegel
 - https://github.com/stoeffel/awesome-fp-js
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/date-fns/date-fns
