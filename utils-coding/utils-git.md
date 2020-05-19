@@ -78,9 +78,10 @@ git fetch --prune
 - Reset to match the remote branch
 ```
 git fetch origin
-git reset --hard origin/master
+git reset --soft HEAD~1 (Undo last local commit)
+git reset --hard origin/master (Undo all the local commits)
 git reset --hard 3c74a11530697214cbcc4b7b98bf7a65
-git reset --hard # Reset any changes
+git reset --hard (Reset any local changes)
 ```
 
 - Remove local files and dir

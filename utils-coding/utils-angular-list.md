@@ -11,7 +11,6 @@
   - [HELPER: DEBUG](#helper-debug)
   - [CORE: PWA](#core-pwa)
   - [CORE: CLI](#core-cli)
-  - [CORE: MODULE](#core-module)
   - [CORE: PIPES](#core-pipes)
   - [CORE: OPTIMIZATION](#core-optimization)
   - [CORE: DATAFLOW](#core-dataflow)
@@ -136,6 +135,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.bitsrc.io/an-opinionated-styleguide-for-angular-af623d54e2b8
 - https://speakerdeck.com/kuncevic/how-to-architect-your-angular-app-like-a-pro
 - https://indepth.dev/supercharge-event-management-in-your-angular-application/
+- https://medium.com/@yiupang.ch/get-rid-of-if-statements-in-your-angular-app-with-oop-1efdf91da577
 - https://medium.com/javascript-in-plain-english/angular-accessibility-81736ab4f1c4
 - https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a
 - https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
@@ -254,12 +254,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md
 - https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
 
-## CORE: MODULE
-
-- https://itnext.io/understanding-angular-modules-5f1215130bc8
-- https://indepth.dev/stop-using-shared-material-module/
-- https://indepth.dev/avoiding-common-confusions-with-modules-in-angular/
-
 ## CORE: PIPES
 
 - http://www.angulartypescript.com/angular-2-pipes/
@@ -353,6 +347,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 
 ## CORE: TEMPLATE
 
+- https://medium.com/wizdm-genesys/teleporting-content-in-angular-4cbd9ba8427f
 - https://codeburst.io/angular-interview-question-what-are-ng-container-ng-content-and-ng-template-9fafbbc255d5
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
@@ -385,6 +380,9 @@ translusions, ng-content...
 - https://www.thetombomb.com/2019/11/13/app-module-vs-core-module-vs-shared-module-vs-feature-modules-in-angular/
 - http://blog.angular-university.io/angular2-ngmodule/
 - https://johnpapa.net/introducing-angular-modules-feature-modules-2/
+- https://itnext.io/understanding-angular-modules-5f1215130bc8
+- https://indepth.dev/stop-using-shared-material-module/
+- https://indepth.dev/avoiding-common-confusions-with-modules-in-angular/
 
 ## CORE: FORMS
 
@@ -1022,6 +1020,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 ## ECOSYSTEM: SEEDS
 
 - https://github.com/nrwl/nx
+- https://github.com/wizdmio/wizdm
 - https://github.com/angular/angular-cli
 - https://github.com/jhipster/generator-jhipster
 - https://github.com/ngx-rocket/generator-ngx-rocket
@@ -1141,6 +1140,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/agoldis/sorry-cypress
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/deanius/storybook-animate
+- https://github.com/gkushang/cucumber-html-reporter
+- https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
 - https://webdave.de/blog/cypress
 - https://www.youtube.com/watch?v=UHgtUSAROtc Comparing Testing Tools
 - https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
@@ -1192,6 +1193,11 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/vadimdez/ng2-pdf-viewer/
 - https://github.com/osahner/ngx-show-hide-password
 - https://github.com/lon-yang/ngx-markdown-editor
+- https://github.com/kekeh/angular-mydatepicker
+- https://github.com/mattlewis92/angular-calendar
+- https://github.com/mattlewis92/angular-confirmation-popover
+- https://github.com/mattlewis92/angular-draggable-droppable
+- https://github.com/mattlewis92/angular-resizable-element
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 
@@ -1317,6 +1323,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/aviabird/angularspree
 - https://github.com/scullyio/scully
+- https://github.com/wizdmio/wizdm
 - https://github.com/akveo/ngx-admin
 - https://github.com/ng-alain/ng-alain
 - https://angularexpo.com

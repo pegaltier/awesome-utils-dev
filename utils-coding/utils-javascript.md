@@ -52,6 +52,7 @@
 - https://github.com/ded/script.js
 - https://github.com/ramda/ramda
 - https://github.com/lodash/lodash
+- https://github.com/getcrft/jsonizer
 
 ## LIB FRONTEND
 
