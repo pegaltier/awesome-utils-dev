@@ -33,3 +33,7 @@ CTRL (de droite) + / 		==>		 commenter/decommenter
 
 ## TOOLS
 - https://github.com/liximomo/vscode-sftp
+
+## UTILS
+
+- SELECT TO BRACKET
