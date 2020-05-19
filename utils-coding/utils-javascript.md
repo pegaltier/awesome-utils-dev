@@ -115,6 +115,21 @@
 ### SREAD
 - https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c
 
+### MORE
+
+- Type coercion
+- Hoisting 
+- Callstack
+- IIFE
+- Scope
+- Callbacks
+- Async await
+- Promises
+- Closures
+- Iterators
+- Generators
+- apply(), .call() and .bind()
+
 ## EXAMPLES
 
 Useful object methods: keys, values, and entries.

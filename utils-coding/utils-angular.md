@@ -713,11 +713,11 @@ Can be caused by:
 
 ## BAD PRACTICES
 
-- usage of ::ng-deep without :host is going to affect the css of the others components, the style isolation principle is broken, the way to avoid that is using :host ::ng-deep. Those errors are also due to the fact that angular material must render part of the components outside of the components, that means there is a panel detached which pop on top of the view, for instance when mat-select is open.
+- usage of ::ng-deep without :host is going to affect the css of the others components, the style isolation principle is broken, the way to avoid that is using :host ::ng-deep. Those errors are also due to the fact that angular material must render part of the components outside of the components, that means there is a overlay panel detached which pop on top of the view, for instance when mat-select is open.
 - forget usage of clear design pattern such as smart/dumb components results in hard to read, debug, test and maintain codebase. The smart/dumb components pattern should be used everywhere.
 - forget usage of application monitoring and error tracking at the beginning of the project such as sentry. It results in a tons of bugs the day you install it and you then have to work for months in order to clear the app of all the bugs.
 - not write pure functions, the developers are used to write impure functions which are changing the state of the component variable inside the function, this results in side effects and function are not testable. It's harder to write pure function but it results in easier to maintain code.
-- override the existing
+- override the existing theme using a clean pattern, naming convention, for instance if you want to override material, there are many different cases to know: (theming variables, overlay components, regular components...) you must check the articles written by razroo called customize angular material design.
 
 ## JOIN AN EXISTING PROJECTS
 

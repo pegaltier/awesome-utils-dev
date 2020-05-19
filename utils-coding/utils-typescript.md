@@ -7,6 +7,7 @@
 - https://github.com/compodoc/ts-stats
 - https://github.com/runem/ts-simple-type
 - https://github.com/piotrwitek/utility-types
+- https://github.com/vedantroy/typecheck.macro
 - https://github.com/ostrowr/ts-json-validator
 - https://mgv.io/deep-readonly-play
 - https://twitter.com/mgechev/status/1240178886979223552
@@ -26,6 +27,10 @@
 - https://github.com/microsoft/TypeScript-Handbook
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
+
+## TYPESCRIPT NEWS
+
+- https://medium.com/javascript-in-plain-english/whats-coming-with-typescript-4-0-language-features-3a98fc8db48f
 
 ## TYPESCRIPT TIPS
 
