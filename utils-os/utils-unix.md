@@ -25,6 +25,10 @@ echo $PATH
 - https://snapcraft.io/
 - https://github.com/ohmyzsh/ohmyzsh
 
+## List
+
+- https://github.com/madbob/awesome-linux-dev
+
 ## MORE
 
 See also [tools](https://github.com/pegaltier/utils-dev/blob/master/utils-tools.md)
