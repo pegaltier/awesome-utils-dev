@@ -26,6 +26,7 @@ CTRL (de droite) + / 		==>		 commenter/decommenter
 - https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
 - https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor
 - https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype
+- https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 - https://www.youtube.com/watch?v=u21W_tfPVrY
 
 ## STACKBLITZ

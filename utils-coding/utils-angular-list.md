@@ -50,6 +50,7 @@
   - [ECOSYSTEM: STORE: ALTERNATIVE](#ecosystem-store-alternative)
   - [ECOSYSTEM: IMMUTABLE](#ecosystem-immutable)
   - [ECOSYSTEM: LINT](#ecosystem-lint)
+  - [ECOSYSTEM: WEB-COMPONENTS](#ecosystem-web-components)
   - [ECOSYSTEM: MICROFRONTEND](#ecosystem-microfrontend)
   - [ECOSYSTEM: MONOREPO](#ecosystem-monorepo)
   - [ECOSYSTEM: SEEDS](#ecosystem-seeds)
@@ -918,11 +919,15 @@ Learn about the way to make your object immutable.
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 
+## ECOSYSTEM: WEB-COMPONENTS
+
+- https://webcomponents.dev/
+- https://github.com/open-wc/open-wc
+- https://custom-elements-everywhere.com/
+
 ## ECOSYSTEM: MICROFRONTEND
 
-- https://custom-elements-everywhere.com/
 - https://micro-frontends.org/
-- https://webcomponents.dev/
 - https://single-spa.js.org/
 - https://frint.js.org/
 - https://leanpub.com/enterprise-angular

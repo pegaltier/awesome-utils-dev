@@ -111,6 +111,7 @@
 
 ### ARRAYS
 - https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8
+- https://medium.com/hackernoon/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951
 
 ### SREAD
 - https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c

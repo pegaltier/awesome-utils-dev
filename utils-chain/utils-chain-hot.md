@@ -143,6 +143,7 @@ holo github>>
 - https://github.com/milkyklim/into-pieces
 - https://github.com/HedayatAbedijoo/hc-sample-apps
 - https://github.com/ddd-mtl/snapmail-dna
+- https://github.com/ddd-mtl/snapmail-ui
 - https://github.com/zo-el/peer-vis-2.0
 - https://github.com/h-be/acorn-hc
 - https://github.com/travol-platform/air_shopping

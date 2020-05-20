@@ -704,6 +704,12 @@ Trigger details:
 
 ## DEBUG
 
+### PERFORMANCE
+
+console.time('test1');
+console.timeEnd('test2);
+
+
 ### CIRCULAR DEPENDENCIES
 
 Can be caused by:
@@ -721,6 +727,7 @@ Can be caused by:
 
 ## JOIN AN EXISTING PROJECTS
 
+- review the redux store in order to understand the data/entities of the app
 - review the rooting modules in order to understand the architecture of the app
 - check all the mixin and variables scss files in order to know what should be reused
 
