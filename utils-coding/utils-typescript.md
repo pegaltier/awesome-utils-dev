@@ -6,6 +6,7 @@
 - https://github.com/palmerhq/tsdx
 - https://github.com/compodoc/ts-stats
 - https://github.com/runem/ts-simple-type
+- https://github.com/jun-sheaf/ts-japi
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/ostrowr/ts-json-validator
@@ -14,10 +15,12 @@
 - https://dev.to/ruslanchek_17/some-useful-typescript-snippets-2278
 - https://gist.github.com/busypeoples/b2d9ecda58ff25f3206e8c171f04b087
 - https://gist.github.com/busypeoples/eebd1f893671959162df97cc8a6292e0
+- https://dev.to/phenomnominal/stricter-typescript-compilation-with-betterer-dp7
 
 ## LIB
 
 - https://github.com/typestack/class-validator
+- https://github.com/phenomnomnominal/betterer
 - https://github.com/eonarheim/TypeState
 
 ## TYPESCRIPT GUIDES

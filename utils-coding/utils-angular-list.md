@@ -922,6 +922,7 @@ Learn about the way to make your object immutable.
 ## ECOSYSTEM: WEB-COMPONENTS
 
 - https://webcomponents.dev/
+- https://open-wc.org/publishing/
 - https://github.com/open-wc/open-wc
 - https://custom-elements-everywhere.com/
 
@@ -974,6 +975,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
 - https://github.com/nxpm/nxpm-cli
+- https://github.com/ZachJW34/nx-plus
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
@@ -987,8 +989,6 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nstudio/xplat-sample-ionic-web
-- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-1/
-- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-2/
 - https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://devdactic.com/ionic-multi-app-shared-library/
@@ -1024,6 +1024,10 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://www.netlify.com/blog/2020/04/21/deploying-nx-monorepos-to-netlify/
 - https://blog.angularindepth.com/why-angular-teams-fail-at-code-sharing-and-how-this-monorepo-approach-will-fix-it-7a29e366a1f9
 - https://github.com/duncanhunter/Enterprise-Angular-applications-with-ngrx-and-nx/blob/master/chapter1.md
+- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-1/
+- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-2/
+- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-3/
+- https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-4/
 - https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157
 - https://docs.google.com/presentation/d/1pBh13OQlNU014ImABfP-8MXJL3eIuXLdBdMvp9ZVIuc/edit#slide=id.g41a47c59d4_0_3
 
@@ -1100,6 +1104,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
+- https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/ndr/ngx-route-params-input
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/stupidawesome/ng-effects
@@ -1111,6 +1116,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/cartant/rxjs-etc
 - https://github.com/wardbell/subsink
 - https://github.com/loreanvictor/rxmetics
+- https://github.com/benlesh/rxjs-for-await
 - https://github.com/tanepiper/rxjs-primitives
 - https://github.com/nilsmehlhorn/ngx-operators
 - https://github.com/alex-okrushko/backoff-rxjs

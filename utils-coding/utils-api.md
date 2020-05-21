@@ -55,4 +55,5 @@ http://www.restapitutorial.com/lessons/httpmethods.html
 ## LIST
 - https://www.humanapi.co
 - https://github.com/public-apis/public-apis
+- https://dev.to/biplov/15-fun-apis-for-your-next-project-5053
 - https://datanova.legroupe.laposte.fr/api/v1/console/datasets/1.0/search/
