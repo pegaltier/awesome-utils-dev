@@ -23,6 +23,7 @@
   - [CORE: ANIMATIONS](#core-animations)
   - [CORE: TEMPLATE](#core-template)
   - [CORE: COMPONENTS](#core-components)
+  - [CORE: ARCHITECTURE](#core-architecture)
   - [CORE: MODULES](#core-modules)
   - [CORE: FORMS](#core-forms)
   - [CORE: PLATFORM](#core-platform)
@@ -349,7 +350,6 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 
 ## CORE: TEMPLATE
 
-- https://medium.com/wizdm-genesys/teleporting-content-in-angular-4cbd9ba8427f
 - https://codeburst.io/angular-interview-question-what-are-ng-container-ng-content-and-ng-template-9fafbbc255d5
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
@@ -358,7 +358,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 
 ## CORE: COMPONENTS
 
-translusions, ng-content...
+create your first components, learn how to use translusions, ng-content...
 
 - https://scotch.io/tutorials/creating-your-first-angular-2-components
 - https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
@@ -374,8 +374,12 @@ translusions, ng-content...
 - https://matthewross.me/blog/posts/notifications-an-angular-2-component
 - http://tombuyse.com/creating-a-loading-indicator-in-angular-2-ionic-2/
 - https://www.eduonix.com/blog/web-programming-tutorials/learn-create-zippy-component-angular-2/
+
+## CORE: ARCHITECTURE
+
 - https://youtu.be/3BOP1KCJq6g?t=4243 Nir Kaufman: Build your own portal with Angular Embedded views
 - https://github.com/nirkaufman/angular-nyc-january Example Angular Embedded views
+- https://medium.com/wizdm-genesys/teleporting-content-in-angular-4cbd9ba8427f
 
 ## CORE: MODULES
 
@@ -950,6 +954,7 @@ Learn about the way to make your object immutable.
 - https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
+- https://www.youtube.com/watch?v=-ThsrA8hRLc AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 
 ## ECOSYSTEM: MONOREPO
 
