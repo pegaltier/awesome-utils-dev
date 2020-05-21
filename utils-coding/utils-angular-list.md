@@ -954,6 +954,7 @@ Learn about the way to make your object immutable.
 - https://fr.slideshare.net/AmadouSall3/web-components-and-angular-gdg-toulouse-23022017
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
+- https://www.angulararchitects.io/konferenzen/the-microfrontend-revolution-module-federation-with-angular/
 - https://www.youtube.com/watch?v=-ThsrA8hRLc AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 
 ## ECOSYSTEM: MONOREPO
