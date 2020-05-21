@@ -322,6 +322,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 - https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
 - https://github.com/angular/angular-cli/issues/6137
+- https://github.com/manfredsteyer/ngx-build-plus
 - https://github.com/ngx-builders/angular-builder
 - https://github.com/ngx-builders/source-map-analyzer
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
