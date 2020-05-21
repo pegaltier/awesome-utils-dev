@@ -583,6 +583,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 ## CORE: MATERIAL
 
 - https://material.angular.io/guide/customizing-component-styles
+- https://stackblitz.com/edit/material-wihtout-viewencapsulation-1?embed=1&file=src/app/example.theme.scss
 
 ## CORE: ROUTING
 

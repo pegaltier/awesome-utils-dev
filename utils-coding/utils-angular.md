@@ -731,6 +731,22 @@ Can be caused by:
 - review the rooting modules in order to understand the architecture of the app
 - check all the mixin and variables scss files in order to know what should be reused
 
+## JAMSTACK
+
+JamStack is a new way to build static website using javascript, apis, markups. contrary to LAMPStack everything is generated at the build time. It helps for the SEO and for the performance, loading time...
+
+There is two way to develop those websites:
+- server side rendering: do the rendering on a server, behind a cache. it's more complex and recommended only if you have very dynamic content in your page.
+- pre rendering: do the rendering at the build and then deploy static files online, it's the simpler and the easy to go solution.
+
+
+ In angular there is 2 solutions to build those static websites: 
+ - universal: official solution provided by angular 
+ - scully: community driven project, it's using a headless browser (puppeteer) and it's more complete and also provides also a plugin adapter.
+ 
+
+There is a new module called @angular/fire which helps to automatize the whole deployment process.
+ 
 
 ## INTERVIEW
 

@@ -10,6 +10,7 @@
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/ostrowr/ts-json-validator
+- https://github.com/valentinkononov/ts-runtime-checker
 - https://mgv.io/deep-readonly-play
 - https://twitter.com/mgechev/status/1240178886979223552
 - https://dev.to/ruslanchek_17/some-useful-typescript-snippets-2278
