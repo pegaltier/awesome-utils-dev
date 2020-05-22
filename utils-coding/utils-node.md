@@ -30,6 +30,7 @@ https://github.com/localtunnel/localtunnel
 - https://github.com/strongloop/loopback-next
 - https://github.com/nestjs/nest
 - https://github.com/lukeautry/tsoa
+- https://github.com/strapi/strapi
 
 ## NODE UPDATE WINDOWS
 

@@ -53,6 +53,7 @@
 ## CMS / HEADLESS
 - https://github.com/directus/directus
 - https://github.com/flextype/flextype
+- https://github.com/agentejo/cockpit
 
 ## ASYNCRONOUS ASYNCRONOUS
 - https://amphp.org
