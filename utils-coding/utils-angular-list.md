@@ -982,6 +982,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nrwl/nx
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
+- https://github.com/nrwl/nx-custom-layout
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/orjandesmet/nx-sparse-checkout
@@ -1036,6 +1037,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-2/
 - https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-3/
 - https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-4/
+- https://juristr.com/blog/2020/05/nx-libs-with-assets/
 - https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157
 - https://docs.google.com/presentation/d/1pBh13OQlNU014ImABfP-8MXJL3eIuXLdBdMvp9ZVIuc/edit#slide=id.g41a47c59d4_0_3
 
@@ -1121,6 +1123,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: RXJS
 
+- https://github.com/cartant/rxjs-xyz
 - https://github.com/cartant/rxjs-etc
 - https://github.com/wardbell/subsink
 - https://github.com/loreanvictor/rxmetics
