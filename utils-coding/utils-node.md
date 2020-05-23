@@ -29,6 +29,7 @@ https://github.com/localtunnel/localtunnel
 ## FRAMEWORKS
 - https://github.com/strongloop/loopback-next
 - https://github.com/nestjs/nest
+- https://github.com/javascript-dragons/nest-event
 - https://github.com/lukeautry/tsoa
 - https://github.com/strapi/strapi
 
