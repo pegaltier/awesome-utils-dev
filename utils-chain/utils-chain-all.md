@@ -481,3 +481,6 @@ PANTOS — - https://pantos.io
 ## CLOTHES
 - https://hodlmoon.com/
 - https://hodlers.shopping/
+
+## BROWSER
+- https://beakerbrowser.com/
