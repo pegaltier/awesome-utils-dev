@@ -1,3 +1,24 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DESIGN](#design)
+  - [TOOLS](#tools)
+  - [ICONS](#icons)
+  - [WEBDESIGN](#webdesign)
+  - [COLOR](#color)
+  - [PHOTOS](#photos)
+  - [PATTERN](#pattern)
+  - [RESOURCES](#resources)
+  - [ARTICLES](#articles)
+  - [CODE](#code)
+  - [SVG](#svg)
+  - [AWESOME](#awesome)
+  - [FONT](#font)
+  - [SKETCH](#sketch)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # DESIGN
 
@@ -38,7 +59,7 @@
 - https://colordrop.io
 - http://www.colorhunt.co/
 - http://paletton.com/  
-- http://flatuicolors.com/  
+- https://flatuicolors.com/
 - http://lukyvj.github.io/colofilter.css/ 
 - https://color.adobe.com/fr/create/color-wheel/
 - http://blog.visme.co/color-harmony-tips-on-selecting-colors-in-design/
@@ -223,7 +244,7 @@
 - https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
 - http://bashooka.com/freebie/50-free-fonts-2018-that-will-rock-your-design-project/
 
-## SKETCH CODE CONVERT
+## SKETCH
 - https://github.com/airbnb/Lona
 - https://github.com/Dynatrace/sketchmine
 - https://airbnb.design/the-evolution-of-tools/
