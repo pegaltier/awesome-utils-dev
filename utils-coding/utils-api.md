@@ -52,6 +52,10 @@ http://www.restapitutorial.com/lessons/httpmethods.html
 - https://github.com/hlaw/codegrid-js
 - https://www.geonames.org/
 
+## FORMS
+- https://getform.io
+- https://www.typeform.com
+
 ## LIST
 - https://www.humanapi.co
 - https://github.com/public-apis/public-apis

@@ -28,6 +28,7 @@
 - [GraphQL](utils-coding/utils-graphql.md)
 - [Git](utils-coding/utils-git.md)
 - [Api](utils-coding/utils-api.md)
+- [Design](utils-coding/utils-design.md)
 - [More](utils-coding/)
 
 ## Blockchain
