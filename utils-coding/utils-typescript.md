@@ -23,6 +23,7 @@
 - https://github.com/typestack/class-validator
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/eonarheim/TypeState
+- https://github.com/krzkaczor/earl
 
 ## TYPESCRIPT GUIDES
 
