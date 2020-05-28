@@ -1176,6 +1176,9 @@ Learn how to make your own angular lib, build, distribute.
 - https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
 - https://medium.com/@charith.rhettiarachchi/why-use-jest-over-karma-for-angular-testing-b56ffa82f8
 - https://itnext.io/cypress-storybook-keeping-test-scenario-data-and-component-rendering-in-one-place-c57b23cc1640
+- https://blog.checklyhq.com/easy-automated-e2e-testing-monitoring-for-your-frontend-with-vercel-and-checkly-3/
+- https://www.checklyhq.com/docs/puppeteer-recorder/
+
 
 ## ECOSYSTEM: LIB: UNIT TESTS
 

@@ -61,6 +61,7 @@
 - https://stackblitz.com
  
 ## CHECKLIST
+- https://web.dev/vitals-tools/
 - https://frontendchecklist.io
 - http://webdevchecklist.com/
 - https://github.com/joshbuchea/HEAD

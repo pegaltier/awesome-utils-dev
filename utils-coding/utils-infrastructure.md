@@ -14,7 +14,9 @@
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 
 ## SERVICES
+- https://vercel.com/
 - https://www.netlify.com/
+- https://www.checklyhq.com/
 
 ## KUBERNETES
 - https://github.com/cloudmelon/melonkube
