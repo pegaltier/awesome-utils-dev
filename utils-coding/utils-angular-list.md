@@ -1114,6 +1114,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
+- https://github.com/aackerman/circular-dependency-plugin
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/ndr/ngx-route-params-input
 - https://github.com/Ninja-Squad/ngx-valdemort
@@ -1183,6 +1184,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/ngneat/spectator
 - https://github.com/wallabyjs/public
 - https://github.com/getsaf/shallow-render
+- https://github.com/just-jeb/jest-marbles
 - https://github.com/briebug/jest-schematic
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook

@@ -33,6 +33,7 @@
 - https://github.com/gothinkster/slim-php-realworld-example-app
 - https://github.com/railto/realworld-slim
 - https://github.com/maurobonfietti/rest-api-slim-php
+- https://github.com/codecourse/slender
 
 ## SLIM PHP V4 SKELETON
 - https://github.com/adriansuter/Slim4-Skeleton

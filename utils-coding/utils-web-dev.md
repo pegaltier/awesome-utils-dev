@@ -74,7 +74,9 @@
 - http://realfavicongenerator.net/
 - https://www.froala.com/design-blocks
 - https://github.com/wwebdev/static-website-template
-- https://html-to-svg.as-a-service.dev/?url=https://steren.fr
+- https://github.com/manojVivek/responsively-appA
+- https://html-to-svg.as-a-service.dev/
+
 
 ## PLUGINS
 

@@ -25,8 +25,10 @@
 - https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
 ## TOOLS
+- https://github.com/conventional-changelog/standard-version
 - https://github.com/conventional-changelog/commitlint
 - https://github.com/jesseduffield/lazygit
+- https://github.com/observing/pre-commit
 - https://github.com/commitizen/cz-cli
 - https://github.com/typicode/husky
 - https://gitexplorer.com/
@@ -43,6 +45,7 @@ git stash pop (restore the stashed diff on current branch)
 git fetch origin <sha1-of-commit-> (fetch a commit or branch or tag)
 git rev-parse HEAD (get last commit hash)
 git cherry-pick d42c389f (apply any commit on current branch)
+git cherry-pick -e d42c389f (same as above + change commit message)
 git cherry-pick -m 1 d42c389f (apply any merge commit on current branch)
 git revert d42c389f (revert any commit on current branch)
 git remote prune origin (clean local branches that have been deleted from remote)

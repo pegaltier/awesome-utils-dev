@@ -10,6 +10,8 @@
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/ostrowr/ts-json-validator
+- https://github.com/renke/import-sort
+- https://github.com/ggascoigne/prettier-plugin-import-sort
 - https://github.com/valentinkononov/ts-runtime-checker
 - https://mgv.io/deep-readonly-play
 - https://twitter.com/mgechev/status/1240178886979223552
@@ -24,6 +26,7 @@
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/eonarheim/TypeState
 - https://github.com/krzkaczor/earl
+- https://github.com/adelsz/pgtyped
 
 ## TYPESCRIPT GUIDES
 
