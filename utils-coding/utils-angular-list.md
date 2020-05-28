@@ -983,6 +983,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
 - https://github.com/nrwl/nx-custom-layout
+- https://github.com/devinshoemaker/nxtend
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/orjandesmet/nx-sparse-checkout
