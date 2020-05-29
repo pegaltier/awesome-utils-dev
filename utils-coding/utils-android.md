@@ -104,7 +104,7 @@ https://android-developers.googleblog.com/2016/06/security-crypto-provider-depre
 Bouncy Castle : https://stackoverflow.com/questions/6788018/android-encryption-decryption-with-aes?rq=1
 Https : https://stackoverflow.com/questions/40093004/how-do-you-encrypt-hide-the-body-of-an-https-call-using-retrofit-2-okhttp-3
 Https : https://github.com/square/okhttp/wiki/HTTPS
-
+gradle: https://github.com/gradle/wrapper-validation-action
 
 ## BUILD
 buildType + productFlavor + minSDK

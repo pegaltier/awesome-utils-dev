@@ -53,6 +53,7 @@
 - https://github.com/ramda/ramda
 - https://github.com/lodash/lodash
 - https://github.com/getcrft/jsonizer
+- https://github.com/stalniy/casl
 
 ## LIB FRONTEND
 
@@ -64,6 +65,7 @@
 - https://github.com/immerjs/immer
 - https://github.com/angus-c/just
 - https://github.com/Leaflet/Leaflet
+- https://github.com/pshihn/rough-notation
 
 ## LIB AI
 - https://github.com/BrainJS/brain.js

@@ -5,6 +5,7 @@
 - [ANGULAR LIST](#angular-list)
   - [HELPER: NEW](#helper-new)
   - [HELPER: BEST PRACTICES](#helper-best-practices)
+  - [HELPER: DESIGN PATTERN](#helper-design-pattern)
   - [HELPER: CHEAT-SHEETS](#helper-cheat-sheets)
   - [HELPER: ONLINE IDE](#helper-online-ide)
   - [HELPER: START](#helper-start)
@@ -133,7 +134,6 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/mgechev/angular-performance-checklist
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
-- https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 - https://blog.bitsrc.io/an-opinionated-styleguide-for-angular-af623d54e2b8
 - https://speakerdeck.com/kuncevic/how-to-architect-your-angular-app-like-a-pro
 - https://indepth.dev/supercharge-event-management-in-your-angular-application/
@@ -162,17 +162,28 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
+
+## HELPER: DESIGN PATTERN
+
+Learn about the most useful design patterns in Angular.
+
+- https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 - https://medium.com/volosoft/strategy-pattern-implementation-with-typescript-and-angular-9ad8b1929e9c
+- https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
+- https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
+- https://medium.com/angular-athens/working-with-state-machines-in-angular-2817441e26bf
+- https://dev.to/florimondmanca/consuming-apis-in-angular--the-model-adapter-pattern-3fk5
+- https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
+- https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
 
 ## HELPER: CHEAT-SHEETS
 
+- https://angular.io/docs/ts/latest/api/
+- https://angular.io/docs/ts/latest/guide/cheatsheet.html
 - https://codeburst.io/angular-bad-practices-eab0e594ce92
 - http://angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html
 - http://www.wintellect.com/devcenter/dbaskin/big-ideas-behind-angular2
 - http://www.angulartypescript.com
-- https://angular.io/docs/ts/latest/guide/cheatsheet.html
-- https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
-- https://angular.io/docs/ts/latest/api/
 - https://learnxinyminutes.com/docs/typescript/
 - http://www.typescriptlang.org/Handbook
 - https://acadgild.com/blog/typescript-functions/
@@ -260,6 +271,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 ## CORE: PIPES
 
 - http://www.angulartypescript.com/angular-2-pipes/
+- https://medium.com/javascript-in-plain-english/6-pure-angular-pipes-for-human-readable-ui-c76b4e6fafa1
+- https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
 
 ## CORE: OPTIMIZATION
 
@@ -357,6 +370,10 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://medium.com/javascript-everyday/reusable-components-with-configurable-templates-in-angular-3c55741c97f3
 - https://medium.com/@liutingchun_95744/angular-using-ngtemplateoutlet-to-communicate-between-parent-and-dynamic-child-components-4d74ca9ba9b
 
+## CORE: RESPONSIVE
+
+- https://www.smashingmagazine.com/2019/02/image-breakpoints-angular/#top
+
 ## CORE: COMPONENTS
 
 create your first components, learn how to use translusions, ng-content...
@@ -446,6 +463,14 @@ Learn how to secure your app with guards and interceptors.
 - https://auth0.com/authenticate/angular2/facebook
 - https://github.com/firebase/php-jwt
 - https://stormpath.com/blog/jjwt-how-it-works-why/
+
+## CORE: ACL
+
+Access Control List is a service that allows you to protect/show content based on the current user's assigned role(s)
+
+- https://medium.com/swlh/restraint-access-by-acl-on-angular-9-7ebe71e34a13
+- https://medium.com/dailyjs/managing-user-permissions-in-angular-application-504c83752f83
+- https://devblogs.microsoft.com/premier-developer/angular-how-to-implement-role-based-security/
 
 ## CORE: RXJS
 
@@ -1123,6 +1148,12 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/BioPhoton/rx-angular
 
+## ECOSYSTEM: LIB: ACL
+
+- https://github.com/stalniy/casl
+- https://github.com/AlexKhymenko/ngx-permissions
+
+
 ## ECOSYSTEM: LIB: RXJS
 
 - https://github.com/cartant/rxjs-xyz
@@ -1196,6 +1227,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/youdz/dry-angular-testing
 - https://github.com/juristr/angular-testing-recipes
 - https://github.com/duluca/angular-unit-test-helper
+- https://github.com/Idered/typescript-expect-plugin
 - https://github.com/gparlakov/scuri/blob/master/README.md
 - https://github.com/testing-library/angular-testing-library
 - https://stackblitz.com/edit/angular-testing-v7

@@ -10,7 +10,9 @@
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/ostrowr/ts-json-validator
+- https://github.com/Idered/typescript-expect-plugin
 - https://github.com/renke/import-sort
+- https://github.com/stalniy/casl
 - https://github.com/ggascoigne/prettier-plugin-import-sort
 - https://github.com/valentinkononov/ts-runtime-checker
 - https://mgv.io/deep-readonly-play
