@@ -76,15 +76,17 @@
 - https://electronjs.org/
 - https://nwjs.io/  
 
-## LIB/FRAMEWORK BACKEND
+## FRAMEWORK BACKEND
 - https://nestjs.com/
 - https://github.com/strapi/strapi
 - https://github.com/typeorm/typeorm
 - https://github.com/strapi/strapi
-- https://github.com/GoogleChrome/puppeteer
-
-## LIB/FRAMEWORK DATABASE
+- https://github.com/amark/gun
 - https://github.com/pubkey/rxdb
+-  https://github.com/pouchdb/pouchdb
+
+## LIB
+- https://github.com/GoogleChrome/puppeteer
 
 ## ALLIN FRAMEWORK
 - https://github.com/vendure-ecommerce/vendure
@@ -152,6 +154,7 @@ Object.values(data);
 // ['Pierre', 32]
 
 // Give me the keys and the values in an array
+Object.entries(data)
 // [['name', 'Pierre'], ['age', 32]]
 
 // Give me the key-value pairs in an object.

@@ -21,6 +21,7 @@ CTRL (de droite) + / 		==>		 commenter/decommenter
 - https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
 - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.rxjs-cheatsheet
+- https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 
 ## OTHERS EXTENSIONS
 - https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory

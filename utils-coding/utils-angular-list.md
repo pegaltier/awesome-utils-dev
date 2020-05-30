@@ -1327,6 +1327,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
+- https://github.com/ngneat/dirty-check-forms
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/gparlakov/forms-typed/blob/master/projects/forms/
 - https://github.com/gparlakov/forms-typed/blob/master/projects/show-form-control/

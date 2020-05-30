@@ -1,31 +1,32 @@
 
 ## PAPERS
-https://guidovranken.files.wordpress.com/2018/07/vrankenfuzz.pdf
-https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
+- guidovranken.files.wordpress.com/2018/07/vrankenfuzz.pdf
+- crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
 
 ## ENCRYPTION
-https://en.wikipedia.org/wiki/Caesar_cipher
-https://www.bouncycastle.org/
+- en.wikipedia.org/wiki/Caesar_cipher
+- www.bouncycastle.org/
 
 ## TOOLS
-https://www.srihash.org/
-https://securityheaders.com
-https://www.dashlane.com/fr/
-https://guardianproject.info/apps/pixelknot/
-https://github.com/Authenticator-Extension/Authenticator
-https://keepass.info/
-https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
-https://www.virustotal.com
-https://github.com/ndelphit/apkurlgrep
-https://github.com/chenjj/CORScanner
+- www.srihash.org/
+- securityheaders.com
+- www.dashlane.com/fr/
+- guardianproject.info/apps/pixelknot/
+- github.com/Authenticator-Extension/Authenticator
+- keepass.info/
+- security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
+- www.virustotal.com
+- github.com/ndelphit/apkurlgrep
+- github.com/chenjj/CORScanner
+- github.com/th3unkn0n/facebash-termux
 
 ## WEB SCAM / VIRUS
-https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en
+- safebrowsing.google.com/safebrowsing/report_phish/?hl=en
 
 ## BUG BOUNTY / SECURITY BOUNTY
-https://www.hackerone.com/
-https://www.bugcrowd.com/
-https://www.yogosha.com/
+- www.hackerone.com/
+- www.bugcrowd.com/
+- www.yogosha.com/
 
 ## FRONTEND SECURITY
 - Same-Origin Policy (SOP)
