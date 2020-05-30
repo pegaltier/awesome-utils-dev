@@ -1156,6 +1156,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/BioPhoton/rx-angular
+- https://github.com/k3nsei/ng-in-viewport
 
 ## ECOSYSTEM: LIB: ACL
 

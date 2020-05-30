@@ -728,6 +728,8 @@ Can be caused by:
 - lack of pure functions, the developers are used to write impure functions which are changing the state of the component variable inside the function, this results in side effects and function are not testable. It's harder to write pure function but it results in easier to maintain code.
 - lack of clear pattern for overriding the existing theme. A clear convention should be used, for instance if you want to override material, there are many different cases to know: (theming variables, overlay components, regular components...) you must check the articles written by razroo called customize angular material design.
 - lack of readonly and deapreadonly typings it results in unsafe code and possible mutation of any attributes in the codebase, functions will have potentially side effects.
+- lack of splitting in modules, especially lazy modules, it will results in big main bundle but also it will makes the app more and more coupled and later it will be almost impossible to split the codebase in lazy modules.
+- wrong usage of ngrx, indeed this library should be used only for a certains types of entities which are shared, hydrated, available, retrieved, impacted. That's also why in 2020 multiples new solutions emerged in order to give developers the ability to store data in a local state instead of the global ngrx state.
 
 ## JOIN AN EXISTING PROJECTS
 
