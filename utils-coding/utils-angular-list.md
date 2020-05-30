@@ -175,6 +175,7 @@ Learn about the most useful design patterns in Angular.
 - https://dev.to/florimondmanca/consuming-apis-in-angular--the-model-adapter-pattern-3fk5
 - https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
 - https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
+- https://indepth.dev/presenters-with-angular/
 
 ## HELPER: CHEAT-SHEETS
 
@@ -369,6 +370,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
 - https://medium.com/javascript-everyday/reusable-components-with-configurable-templates-in-angular-3c55741c97f3
 - https://medium.com/@liutingchun_95744/angular-using-ngtemplateoutlet-to-communicate-between-parent-and-dynamic-child-components-4d74ca9ba9b
+- https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 
 ## CORE: RESPONSIVE
 
@@ -1085,6 +1087,12 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/ocombe/ng2-play/tree/ng2-translate
 - https://github.com/ocombe/angular2-seed/tree/ng2-translate
 
+## ECOSYSTEM: JAMSTACK
+
+- https://samvloeberghs.be/posts/custom-plugins-for-scully-angular-static-site-generator
+- https://dev.to/bitovi/server-side-rendering-dynamic-routes-in-angular-with-scully-6m8
+- https://dev.to/bitovi/why-you-should-be-using-transferstate-to-cache-your-api-calls-in-angular-3nn7
+
 ## ECOSYSTEM: LIB: MAKE 
 
 Learn how to make your own angular lib, build, distribute.
@@ -1111,6 +1119,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: LAZY
 
+- https://github.com/mgechev/ngx-quicklink
 - https://github.com/ded/script.js
 - https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
@@ -1199,6 +1208,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
 - https://github.com/NetanelBasal/cyrun
+- https://github.com/DevExpress/testcafe
 - https://github.com/deanius/storybook-animate
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor

@@ -8,6 +8,7 @@
 
 - https://github.com/idank/explainshell
 - https://github.com/alebcay/awesome-shell
+- https://github.com/jlevy/the-art-of-command-line
 
 ## Remove
 

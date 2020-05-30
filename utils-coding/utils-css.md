@@ -10,6 +10,7 @@
 - https://github.com/samanthaming/Flexbox30
 - https://dev.to/ladybug/css-cheat-sheets-3ee0
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://github.com/j9t/css-optimization-basics
 
 ## LIB
 - todo add boostrap etc...

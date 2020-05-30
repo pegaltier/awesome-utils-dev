@@ -24,6 +24,7 @@
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
 - https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
 - https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/
+- https://typeofnan.dev/10-javascript-quiz-questions-and-answers/
 - https://codesource.io/javascript-design-patterns/
 
 ## CONTEXT / SCOPES
@@ -153,11 +154,13 @@ Object.keys(data);
 Object.values(data);
 // ['Pierre', 32]
 
-// Give me the keys and the values in an array
+// Give me the keys and the values in an array (converts an object → array)
 Object.entries(data)
 // [['name', 'Pierre'], ['age', 32]]
 
-// Give me the key-value pairs in an object.
-Object.fromEntries(data)
-// 
+// Give me the key-value pairs in an object. (converts an array → object)
+const a = Object.entries(data);
+// [['name', 'Pierre'], ['age', 32]]
+const b = Object.fromEntries(data);
+// { name: 'Pierre', age: 32 }
 ```

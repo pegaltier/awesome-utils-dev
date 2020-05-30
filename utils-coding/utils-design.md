@@ -234,7 +234,8 @@
 ## SVG
 - https://github.com/dai-shi/excalidraw-animate
 - https://github.com/maxwellito/vivus
-- https://www.svgator.com svg animate
+- https://undraw.co/illustrations
+- https://www.svgator.com
 
 ## AWESOME
 - https://github.com/bradtraversy/design-resources-for-developers

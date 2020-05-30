@@ -19,6 +19,7 @@
 - https://githooks.com/
 - http://learngitbranching.js.org
 - https://trunkbaseddevelopment.com
+- https://maggieappleton.com/git-mistakes
 - https://blog.octo.com/git-dans-la-pratique-22
 - https://guides.github.com/features/mastering-markdown
 - https://juristr.com/blog/2019/04/productive-git-for-developers

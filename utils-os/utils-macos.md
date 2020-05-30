@@ -9,3 +9,10 @@
 # Swift
 
 - https://github.com/bow-swift/bow-arch
+
+# Tips
+
+Wanna speed up your MacOSX by telling Spotlight NOT to index 10k node_modules? Use and run my shell alias...
+```
+alias npm_ignore_indexing='find . -type d -name "node_modules" -exec touch "{}/.metadata_never_index" \; -exec echo "✔ {}" \;'
+```
