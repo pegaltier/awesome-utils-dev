@@ -1,9 +1,7 @@
 
-VSCODE WINDOWS SHORTCUT
+# VSCODE
 
-CTRL (de droite) + / 		==>		 commenter/decommenter
-
-
+## WEBSITES
 - https://vscodecandothat.com/
 
 ## BEST EXTENSIONS / PLUGINS / LIST
@@ -36,6 +34,19 @@ CTRL (de droite) + / 		==>		 commenter/decommenter
 ## TOOLS
 - https://github.com/liximomo/vscode-sftp
 
-## UTILS
+## TIPS
+
+- https://www.youtube.com/watch?v=xvouNGp7erI
+
+### SHORTCUTS
+
+- NEW FILE: CTRL+N
+- FIND FILE: CTRL+P
+- POINTER MODE: CTRL+D
+- FIND COMMAND: CTRL+SHIFT+P
+- COMMENT/UNCOMMENT: CTRL+/
+
+### COMMANDS
 
 - SELECT TO BRACKET
+- SELECT ALL OCCURENCES
