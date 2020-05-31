@@ -11,6 +11,8 @@
 - https://dev.to/ladybug/css-cheat-sheets-3ee0
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://github.com/j9t/css-optimization-basics
+- https://www.taniarascia.com/overview-of-css-concepts/
+- https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
 
 ## LIB
 - todo add boostrap etc...
@@ -29,3 +31,7 @@ SCORE	SELECTOR
 0.0.1.0.0	ID
 0.1.0.0.0	Inline style
 1.0.0.0.0	!important
+
+## RESPONSIVE
+
+- https://css-tricks.com/min-max-and-clamp-are-css-magic/

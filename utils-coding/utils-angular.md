@@ -271,9 +271,10 @@ They are pure functions. The function always returns the same result if the same
 - map: apply projection with each value from source.
 - mergeScan: allow to accumulate value over time via merged observables.
 - pluck: map each emitted value from the source Observable to its specified nested property.
-- reduce: Reduces the values from source observable to a single value that's emitted when the source completes.
-- scan: Reduce over time. It applies an accumulator function to each of the emitted values. scan() emits the result for each value, whilst reduce() only emits the final result.
-
+- reduce: reduces the values from source observable to a single value that's emitted when the source completes.
+- scan: reduce over time. It applies an accumulator function to each of the emitted values. scan emits the result for each value, whilst reduce only emits the final result.
+buffer: collect output values until provided observable emits, emit as array.
+toArray: collects all of the emitted values, and when the source Observable completes, emits them inside an array.
 
 - mergeMap/flatMap: when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
 - switchMap: is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
