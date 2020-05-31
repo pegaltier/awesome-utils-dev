@@ -998,7 +998,8 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://youtu.be/EqqNexmu3Ug Super Powered, Server Rendered Progressive Native Apps - Nathan Walker, Jeff Whelpley
 - https://youtu.be/0I8D25nab5c xplat multi-platform tools for Nx workspaces with Nathan Walker
 - https://youtu.be/uUSe0QZm6AE Cross Platform with Angular and Ionic 4 by Mike Hartington
-- https://www.youtube.com/watch?v=pcTSDMid-aE AngularAir - Advanced Nx
+- https://youtu.be/pcTSDMid-aE AngularAir - Advanced Nx
+- https://www.twitch.tv/videos/636354209 NX plugin example: NX Ionic React
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
 - https://nstudio.io/xplat
@@ -1026,6 +1027,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nstudio/xplat-sample-ionic-web
+- https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6
 - https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://devdactic.com/ionic-multi-app-shared-library/
@@ -1092,6 +1094,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://samvloeberghs.be/posts/custom-plugins-for-scully-angular-static-site-generator
 - https://dev.to/bitovi/server-side-rendering-dynamic-routes-in-angular-with-scully-6m8
 - https://dev.to/bitovi/why-you-should-be-using-transferstate-to-cache-your-api-calls-in-angular-3nn7
+- https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDE3NTIyMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvMjc0MTMxNDY?ved=0CA0QzsICahcKEwi47Mi1lNnpAhUAAAAAHQAAAAAQBQ
 
 ## ECOSYSTEM: LIB: MAKE 
 

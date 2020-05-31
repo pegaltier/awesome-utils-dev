@@ -17,6 +17,16 @@ retour à la moyenne<br>
 momentum<br>
 indicateur: ratio rendement potentiel / risque (Sharpe et Sortino)<br>diversification : reduction risque<br>
 
+## Tradingview
+
+- https://kodify.net/tradingview/plots/line-plot/
+- https://kodify.net/tradingview/colours/iff-conditional-colours/
+- https://www.tradingview.com/script/NjuWGg3o-Weekly-Moving-Average/
+- https://www.tradingview.com/script/o5kgHBQ0-Multi-Timeframe-Bollinger-Bands/
+- https://www.tradingview.com/script/R8ByYRUS-RSI-with-Moving-Averages-UO/
+- https://www.tradingview.com/pine-script-docs/en/v4/essential/Sessions_and_time_functions.html
+
+
 <p><a href="http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/">http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/</a><br>
 <a href="https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371">https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371</a><br>
 <a href="https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15">https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15</a><br>
