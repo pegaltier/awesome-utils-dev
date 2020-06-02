@@ -17,6 +17,7 @@ https://github.com/localtunnel/localtunnel
 - https://github.com/depcheck/depcheck
 - https://www.npmjs.com/package/depcheck
 - https://github.com/typicode/husky
+- https://github.com/davglass/license-checker
 
 ## MONITORING
 - http://pm2.keymetrics.io/

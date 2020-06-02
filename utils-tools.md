@@ -22,6 +22,11 @@
   - Paste cURL commands into the URL bar (including those copied from Chrome Network tab)
   - Organize commands into folders, and quickly search the folders by folder name, URI, command name
   
+- [Joplin](https://github.com/laurent22/joplin) Note and to-do
+
+- Note taking and to-do application with synchronization 
+- Windows, macOS, Linux, Android and iOS
+
 <img src="https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-f3479.webp">
 
 - [Alfred](https://www.alfredapp.com/) - Spotlight search alternative

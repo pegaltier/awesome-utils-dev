@@ -38,6 +38,7 @@
 - https://blockfolio.com
 
 - https://coincheckup.com
+- https://coins95.web.app
 - http://demonocracy.info
 - http://blocktivity.info
 - http://beta.adfunnel.tech
