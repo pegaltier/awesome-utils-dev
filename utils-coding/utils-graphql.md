@@ -32,11 +32,6 @@
 ## FAST
 - https://marmelab.com/blog/2017/07/12/json-graphql-server.html
 
-## TEST KO
-
-
-
---
 
 ## STARTER GRAPHQL/MONGODB BACKEND
 ```
@@ -55,10 +50,7 @@ node server.js
 http://todomvc.com/
 ```
 
-
-
-
 ## CONVERT MYSQL TO MONGO
-http://www.querymongo.com/
-http://mongify.com/
+- http://www.querymongo.com/
+- http://mongify.com/
 - https://github.com/lovette/mysql-to-mongo
