@@ -149,6 +149,7 @@ holo github>>
 - https://github.com/travol-platform/air_shopping
 - https://github.com/sdelvalle57/holochain_multisig
 - https://github.com/uprtcl/js-uprtcl
+- https://github.com/uprtcl/spec
 - https://github.com/Qubeo/hcmin
 - https://github.com/miyazakid/coreconcepts
 - https://github.com/aimparency/mprnc-on-holochain
