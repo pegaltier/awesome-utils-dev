@@ -52,14 +52,14 @@
   - [ECOSYSTEM: STORE: NGRX/COMPONENT](#ecosystem-store-ngrxcomponent)
   - [ECOSYSTEM: STORE: NGRX/COMPONENT-STORE](#ecosystem-store-ngrxcomponent-store)
   - [ECOSYSTEM: STORE: ALTERNATIVE](#ecosystem-store-alternative)
-  - [ECOSYSTEM: IMMUTABLE](#ecosystem-immutable)
-  - [ECOSYSTEM: LINT](#ecosystem-lint)
   - [ECOSYSTEM: WEB-COMPONENTS](#ecosystem-web-components)
   - [ECOSYSTEM: MICROFRONTEND](#ecosystem-microfrontend)
   - [ECOSYSTEM: MONOREPO](#ecosystem-monorepo)
   - [ECOSYSTEM: SEEDS](#ecosystem-seeds)
   - [ECOSYSTEM: JAMSTACK](#ecosystem-jamstack)
   - [ECOSYSTEM: LIB: MAKE](#ecosystem-lib-make)
+  - [ECOSYSTEM: LIB: IMMUTABLE](#ecosystem-lib-immutable)
+  - [ECOSYSTEM: LIB: LINT](#ecosystem-lib-lint)
   - [ECOSYSTEM: LIB: LAZY](#ecosystem-lib-lazy)
   - [ECOSYSTEM: LIB: UTIL](#ecosystem-lib-util)
   - [ECOSYSTEM: LIB: ACL](#ecosystem-lib-acl)
@@ -919,49 +919,6 @@ Discover alternative to ngrx for the state management of your objects.
 - https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 - https://www.youtube.com/watch?v=fBQnDSeN8r8 Brew your own state management vs NgRx
 
-## ECOSYSTEM: IMMUTABLE
-
-Learn about the way to make your object immutable.
-
-- https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
-- https://www.imkrish.com/immutable-object-array-using-typescript/ \*
-- https://mgv.io/deep-readonly-play
-- https://twitter.com/mgechev/status/1240178886979223552
-- https://houssein.me/angular2-with-immutablejs-and-redux \*
-- https://github.com/immutable-js/immutable-js
-- https://github.com/rtfeldman/seamless-immutable
-- https://github.com/immerjs/immer
-- https://github.com/jonaskello/tslint-immutable
-- https://github.com/jonaskello/eslint-plugin-functional
-- https://github.com/microsoft/TypeScript/issues/13923
-- https://github.com/microsoft/TypeScript/issues/29566
-- https://medium.com/@bamieh/immutablejs-records-bd369137da06
-- https://medium.com/@ezequiel/immutability-and-builders-with-typescript-b69a51c94e8c
-- https://leocode.com/blog/you-may-not-need-immutable-js/
-- https://juejin.im/post/5d7c9e54e51d4561cb5ddf46
-- https://vsavkin.com/immutability-vs-encapsulation-90549ab74487
-- https://blog.scottlogic.com/2016/01/05/angular2-with-immutablejs.html
-- https://blog.mayflower.de/6630-typescript-redux-immutablejs.html
-- https://angular-2-training-book.rangle.io/immutable/immutable-js/official_documentation
-
-
-## ECOSYSTEM: LINT
-
-- https://github.com/stylelint/stylelint
-- https://github.com/htmlhint/HTMLHint
-- https://github.com/palantir/tslint
-- https://github.com/mgechev/ngrev
-- https://github.com/mgechev/ng2lint
-- https://github.com/mgechev/codelyzer
-- https://github.com/mgechev/tslint-angular
-- https://github.com/ReactiveX/rxjs-tslint
-- https://github.com/cartant/rxjs-tslint-rules
-- https://github.com/cyrilletuzi/typescript-strictly-typed
-- https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
-- http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
-- https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
-- https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
-
 ## ECOSYSTEM: WEB-COMPONENTS
 
 - https://webcomponents.dev/
@@ -1129,6 +1086,51 @@ Learn how to make your own angular lib, build, distribute.
 - http://www.gistia.com/optimize-angular-2-applications
 - https://medium.com/spektrakel-blog/angular-writing-aot-friendly-applications-7b64c8afbe3f
 - http://dbarnes.me/writing-an-aot-compliant-angular-library
+
+
+## ECOSYSTEM: LIB: IMMUTABLE
+
+Learn the best way to make your objects immutable.
+
+- https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
+- https://www.imkrish.com/immutable-object-array-using-typescript/ \*
+- https://mgv.io/deep-readonly-play
+- https://twitter.com/mgechev/status/1240178886979223552
+- https://houssein.me/angular2-with-immutablejs-and-redux \*
+- https://github.com/immutable-js/immutable-js
+- https://github.com/rtfeldman/seamless-immutable
+- https://github.com/immerjs/immer
+- https://github.com/jonaskello/tslint-immutable
+- https://github.com/jonaskello/eslint-plugin-functional
+- https://github.com/microsoft/TypeScript/issues/13923
+- https://github.com/microsoft/TypeScript/issues/29566
+- https://medium.com/@bamieh/immutablejs-records-bd369137da06
+- https://medium.com/@ezequiel/immutability-and-builders-with-typescript-b69a51c94e8c
+- https://leocode.com/blog/you-may-not-need-immutable-js/
+- https://juejin.im/post/5d7c9e54e51d4561cb5ddf46
+- https://vsavkin.com/immutability-vs-encapsulation-90549ab74487
+- https://blog.scottlogic.com/2016/01/05/angular2-with-immutablejs.html
+- https://blog.mayflower.de/6630-typescript-redux-immutablejs.html
+- https://angular-2-training-book.rangle.io/immutable/immutable-js/official_documentation
+
+
+## ECOSYSTEM: LIB: LINT
+
+- https://github.com/stylelint/stylelint
+- https://github.com/htmlhint/HTMLHint
+- https://github.com/palantir/tslint
+- https://github.com/mgechev/ngrev
+- https://github.com/mgechev/ng2lint
+- https://github.com/mgechev/codelyzer
+- https://github.com/mgechev/tslint-angular
+- https://github.com/ReactiveX/rxjs-tslint
+- https://github.com/cartant/rxjs-tslint-rules
+- https://github.com/cyrilletuzi/typescript-strictly-typed
+- https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
+- http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
+- https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
+- https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
+
 
 ## ECOSYSTEM: LIB: LAZY
 
