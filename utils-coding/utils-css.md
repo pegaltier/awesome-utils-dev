@@ -12,6 +12,7 @@
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://github.com/j9t/css-optimization-basics
 - https://www.taniarascia.com/overview-of-css-concepts/
+- https://www.sarasoueidan.com/blog/style-settings-with-css-variables/
 - https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
 
 ## LIB

@@ -174,6 +174,7 @@ Learn about the most useful design patterns in Angular.
 - https://medium.com/angular-athens/working-with-state-machines-in-angular-2817441e26bf
 - https://dev.to/florimondmanca/consuming-apis-in-angular--the-model-adapter-pattern-3fk5
 - https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
+- https://itnext.io/get-rid-of-if-statements-in-your-angular-app-with-oop-1efdf91da577
 - https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
 - https://indepth.dev/presenters-with-angular/
 
@@ -286,6 +287,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://zizzamia.github.io/perfume/
 - https://alligator.io/angular/bundle-size/
 - https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
+- https://indepth.dev/are-you-using-scss-properly/
 - https://github.com/mgechev/angular-performance-checklist
 - http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/
 - https://github.com/mgechev/scalable-architecture-demo
@@ -440,7 +442,7 @@ Learn how to build perfect form using reactive forms.
 - https://medium.com/@oojhaajay/dynamic-validation-in-angular-dynamic-forms-aca8df20ece0
 - https://medium.com/@tomastrajan/angular-reactive-sub-forms-type-safe-without-duplication-dbd24225e1e8
 - https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
-
+- https://netbasal.com/implementing-grouping-checkbox-behavior-with-angular-reactive-forms-9ba4e3ab3965
 
 ## CORE: PLATFORM
 
@@ -590,6 +592,7 @@ Learn the schematics tool to automatize and be more efficient.
 
 Learn the built-in dependency injection mecanism and how to use it to inject your services accoss the differents components.
 
+- https://www.bennadel.com/blog/3836-using-abstract-classes-as-dependency-injection-tokens-with-providedin-semantics-in-angular-9-1-9.htm
 - https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
 - https://christiankohler.net/angular-dependency-injection-infographic
 - https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.63fqu1f7r
@@ -948,9 +951,10 @@ Learn about the way to make your object immutable.
 - https://github.com/ReactiveX/rxjs-tslint
 - https://github.com/cartant/rxjs-tslint-rules
 - https://github.com/cyrilletuzi/typescript-strictly-typed
+- https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
-- https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
+- https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
 
 ## ECOSYSTEM: WEB-COMPONENTS
 
@@ -1246,11 +1250,14 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/testing-library/angular-testing-library
 - https://stackblitz.com/edit/angular-testing-v7
 
-## ECOSYSTEM: LIB: WEB PREF
+## ECOSYSTEM: LIB: OPTIMIZATION
+
+Analyze and optimize the performance of your app
 
 - https://github.com/puppeteer/puppeteer
 - https://github.com/addyosmani/puppeteer-webperf
-
+- https://github.com/ngx-builders/source-map-analyzer
+- https://github.com/webpack-contrib/webpack-bundle-analyzer
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
@@ -1259,7 +1266,6 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/softsimon/angular-2-dropdown-multiselect
 - https://github.com/NileshPatel17/ng-multiselect-dropdown
 - https://github.com/ngx-lib/multiselect
-- https://github.com/akserg/ng2-slim-loading-bar
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/mgechev/ngx-circular-player
@@ -1323,6 +1329,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/willmendesneto/ngx-skeleton-loader
 - https://github.com/MurhafSousli/ngx-progressbar
 - https://github.com/biig-io/ngx-smart-loader
+- https://github.com/HackAfro/angular-epic-spinners
+- https://github.com/akserg/ng2-slim-loading-bar
 
 ## ECOSYSTEM: LIB: FORM
 
@@ -1355,6 +1363,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://alligator.io/angular/custom-svg-icons-angular-material
 
 ## ECOSYSTEM: LIB: INTERNATIONALIZATION
+
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
 - https://github.com/ngneat/transloco

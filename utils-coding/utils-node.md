@@ -23,16 +23,19 @@ https://github.com/localtunnel/localtunnel
 - http://pm2.keymetrics.io/
 
 ## LIBS
+
 - https://github.com/azz/pretty-quick
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/microsoft/playwright
 
 ## FRAMEWORKS
-- https://github.com/strongloop/loopback-next
+
 - https://github.com/nestjs/nest
-- https://github.com/javascript-dragons/nest-event
-- https://github.com/lukeautry/tsoa
 - https://github.com/strapi/strapi
+- https://github.com/lukeautry/tsoa
+- https://github.com/sequelize/sequelize
+- https://github.com/strongloop/loopback-next
+- https://github.com/javascript-dragons/nest-event
 
 ## NODE UPDATE WINDOWS
 
