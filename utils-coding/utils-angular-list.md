@@ -181,6 +181,7 @@ Learn about the most useful design patterns in Angular.
 - https://dev.to/florimondmanca/consuming-apis-in-angular--the-model-adapter-pattern-3fk5
 - https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
 - https://itnext.io/get-rid-of-if-statements-in-your-angular-app-with-oop-1efdf91da577
+- https://medium.com/javascript-in-plain-english/selective-angular-component-rendering-with-ngswitch-4ec3a2b5e05e
 - https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
 - https://indepth.dev/presenters-with-angular/
 
@@ -1055,6 +1056,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/pkozlowski-opensource/ng2-play
 - https://github.com/ocombe/ng2-play/tree/ng2-translate
 - https://github.com/ocombe/angular2-seed/tree/ng2-translate
+- https://github.com/pregular
 
 ## ECOSYSTEM: JAMSTACK
 

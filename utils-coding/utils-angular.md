@@ -545,6 +545,10 @@ In the context of a large application with a lot of tests we need a quick tool s
 - Test actions and impact on the store
 - Create custom validators for forms
 
+Services (NgRx effects, business logic, sandboxes/facades) - unit test, 100% coverage
+Pure functions (Pipes and helpers) - unit test, 100% coverage
+Container component - integration tests, happy paths
+
 ### EXAMPLE TYPE OF TESTS
 
 my-comp.ui.spec.ts
@@ -735,11 +739,17 @@ Can be caused by:
 - usage of ::ng-deep without :host is going to affect the css of the others components, the style isolation principle is broken, the way to avoid that is by using :host ::ng-deep. Those errors are also due to the fact that angular material must render part of the components outside of the components, that means there is a overlay panel detached which pop on top of the view, for instance when mat-select is open.
 - usage of scss imports in each components produces a lot of duplicated code.
 
+## BEST PRACTICES
+
+- usage of feature toggle in environment files in order to be able to enable or disable a new features in each environment, it can be very useful if a feature is buggy or not finished.
+
 ## JOIN AN EXISTING PROJECTS
 
+- ask for an existing bookmark links list of create my own bookmark links
 - review the redux store in order to understand the data/entities of the app
-- review the rooting modules in order to understand the architecture of the app
+- review the routing modules in order to understand the architecture of the app
 - check all the mixin and variables scss files in order to know what should be reused
+- use tools such as bundle-analyzer and ngrx-vis in order to understand the current archi
 
 ## JAMSTACK
 

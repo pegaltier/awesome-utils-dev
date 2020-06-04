@@ -50,6 +50,7 @@
 
 ## ES2015/ES6 + TYPESCRIPT COURSES
 
+- https://github.com/mdevils/typescript-exercises
 - https://gist.github.com/busypeoples/270f29ec6cdd45780889c53e7b52884a
 - https://hughfdjackson.com/javascript/arrow-function-semantics/  
 - http://babeljs.io/docs/learn-es2015/  
