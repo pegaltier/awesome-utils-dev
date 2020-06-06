@@ -16,3 +16,8 @@
 <p>
 https://jatins.gitlab.io/me/why-startup/
 </p>
+
+## Indie
+
+- https://github.com/mezod/awesome-indie
+- https://www.indiehackers.com/

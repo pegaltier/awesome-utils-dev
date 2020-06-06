@@ -77,6 +77,7 @@ holo github>>
 - https://github.com/juntofoundation/Junto
 - https://github.com/juntofoundation/Inter-DNA
 - https://github.com/juntofoundation/Short-Form-Expression
+- https://github.com/juntofoundation/Social-Context
 - https://github.com/juntofoundation/Public-Social-Context
 - https://github.com/juntofoundation/Junto-Holochain-Alpha-API
 - https://github.com/juntofoundation/Holochain-Trait-Definitions
@@ -139,6 +140,7 @@ holo github>>
 - https://github.com/eyss/holo-invaders-back
 - https://github.com/eyss/holochain_roles
 - https://github.com/eyss/holochain-turn-based-game
+- https://github.com/eyss/d-chess-front
 - https://github.com/sdelvalle57/hUdemy
 - https://github.com/milkyklim/into-pieces
 - https://github.com/HedayatAbedijoo/hc-sample-apps
@@ -156,12 +158,20 @@ holo github>>
 - https://github.com/felixniemeyer/trait_implementations
 - https://github.com/holochain-open-dev/social-triangulation
 - https://github.com/holochain-open-dev/community-mutual-credit
-
+- https://github.com/HexaField/conjure
+- https://github.com/bayramlcm/holo-me
+- https://github.com/hc-institute-japan/Kizuna
+- https://github.com/aimparency/mprnc-gui
 
 holo tools>>
 - https://github.com/holochain-open-dev
 - https://github.com/eyss/holochain_roles
 - https://github.com/holochain/holochain-anchors
+- https://github.com/holochain-open-dev/remote-bridge
+- https://github.com/holochain-open-dev/cloned-dnas-tracker
+- https://github.com/holochain-open-dev/agent-registration
+- https://github.com/holochain-open-dev/social-triangulation
+- https://github.com/holochain-open-dev/cloned-dnas-tracker
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
