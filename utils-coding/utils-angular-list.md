@@ -1219,6 +1219,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/aelbore/ngx-elements
 - https://github.com/aelbore/ngx-elements-demo
 - https://github.com/angular-extensions/elements
+- https://github.com/BioPhoton/angular-element-variants
 - https://angular-extensions.github.io/elements/#/examples/advanced
 
 ## ECOSYSTEM: LIB: E2E TESTS

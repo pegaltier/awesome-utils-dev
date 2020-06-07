@@ -1,11 +1,14 @@
 
+# NODEJS
+
 ## BASIC
-https://github.com/i0natan/nodebestpractices
-https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
-https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
-https://github.com/localtunnel/localtunnel
+
+- https://github.com/i0natan/nodebestpractices
+- https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
+- https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
 
 ## NVM
+
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/nvm-sh/nvm
 
@@ -18,8 +21,10 @@ https://github.com/localtunnel/localtunnel
 - https://www.npmjs.com/package/depcheck
 - https://github.com/typicode/husky
 - https://github.com/davglass/license-checker
+- https://github.com/localtunnel/localtunnel
 
 ## MONITORING
+
 - http://pm2.keymetrics.io/
 
 ## LIBS
@@ -35,6 +40,10 @@ https://github.com/localtunnel/localtunnel
 - https://github.com/lukeautry/tsoa
 - https://github.com/sequelize/sequelize
 - https://github.com/strongloop/loopback-next
+
+## NEST
+
+- https://github.com/ntegral/nestjs-sentry
 - https://github.com/javascript-dragons/nest-event
 
 ## NODE UPDATE WINDOWS
