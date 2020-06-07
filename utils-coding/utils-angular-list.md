@@ -184,6 +184,7 @@ Learn about the most useful design patterns in Angular.
 - https://medium.com/javascript-in-plain-english/selective-angular-component-rendering-with-ngswitch-4ec3a2b5e05e
 - https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
 - https://indepth.dev/presenters-with-angular/
+- https://medium.com/swlh/basic-reactive-patterns-in-angular-b404bc127a0a
 - https://medium.com/weekly-webtips/generating-dynamic-templates-from-json-in-angular-fe6322b93d5b
 
 ## HELPER: CHEAT-SHEETS
