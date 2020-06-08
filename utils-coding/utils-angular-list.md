@@ -250,7 +250,6 @@ Learn about the most useful design patterns in Angular.
 - http://juristr.com/blog/2016/02/debugging-angular2-console
 - https://manuel-rauber.com/2016/09/30/how-to-debug-angular-2-with-webstorm/
 - https://medium.com/better-programming/expressionchangedafterithasbeencheckederror-in-angular-what-why-and-how-to-fix-it-c6bdc0b22787
--
 
 ## CORE: PWA
 
@@ -1151,9 +1150,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/cashew
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
-- https://github.com/dbfannin/ngx-logger
-- https://github.com/Angular-RU/angular-logger
-- https://github.com/ngdevelop-tech/ngx-fancy-logger
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/ChristianKohler/ng-resize-observer
@@ -1325,6 +1321,14 @@ Analyze and optimize the performance of your app
 - https://github.com/swimlane/ngx-charts
 - https://github.com/valor-software/ng2-charts
 - https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
+
+## ECOSYSTEM: LIB: DEBUG
+
+- https://github.com/getsentry/sentry
+- https://github.com/LogRocket/logrocket
+- https://github.com/dbfannin/ngx-logger
+- https://github.com/Angular-RU/angular-logger
+- https://github.com/ngdevelop-tech/ngx-fancy-logger
 
 
 ## ECOSYSTEM: LIB: MODAL
