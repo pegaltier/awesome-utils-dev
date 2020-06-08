@@ -1,31 +1,38 @@
 
 # TYPESCRIPT UTILS DEV
 
- ## UTILS
+## USEFUL
 
-- https://github.com/palmerhq/tsdx
-- https://github.com/compodoc/ts-stats
-- https://github.com/runem/ts-simple-type
-- https://github.com/jun-sheaf/ts-japi
-- https://github.com/piotrwitek/utility-types
-- https://github.com/vedantroy/typecheck.macro
-- https://github.com/ostrowr/ts-json-validator
-- https://github.com/Idered/typescript-expect-plugin
-- https://github.com/renke/import-sort
-- https://github.com/stalniy/casl
-- https://github.com/ggascoigne/prettier-plugin-import-sort
-- https://github.com/valentinkononov/ts-runtime-checker
 - https://mgv.io/deep-readonly-play
+- https://rmolinamir.github.io/typescript-cheatsheet/
 - https://twitter.com/mgechev/status/1240178886979223552
 - https://dev.to/ruslanchek_17/some-useful-typescript-snippets-2278
 - https://gist.github.com/busypeoples/b2d9ecda58ff25f3206e8c171f04b087
 - https://gist.github.com/busypeoples/eebd1f893671959162df97cc8a6292e0
+- https://nehalist.io/5-typescript-tips-to-improve-your-architecture/
+- https://www.sitepoint.com/10-essential-typescript-tips-tricks-angular/
 - https://dev.to/phenomnominal/stricter-typescript-compilation-with-betterer-dp7
+
+
+ ## UTILS
+
+- https://github.com/palmerhq/tsdx
+- https://github.com/jun-sheaf/ts-japi
+- https://github.com/renke/import-sort
+- https://github.com/compodoc/ts-stats
+- https://github.com/runem/ts-simple-type
+- https://github.com/piotrwitek/utility-types
+- https://github.com/vedantroy/typecheck.macro
+- https://github.com/ostrowr/ts-json-validator
+- https://github.com/Idered/typescript-expect-plugin
+- https://github.com/ggascoigne/prettier-plugin-import-sort
+- https://github.com/valentinkononov/ts-runtime-checker
 
 ## LIB
 
 - https://github.com/typestack/class-validator
 - https://github.com/phenomnomnominal/betterer
+- https://github.com/stalniy/casl
 - https://github.com/eonarheim/TypeState
 - https://github.com/krzkaczor/earl
 - https://github.com/adelsz/pgtyped
@@ -38,11 +45,11 @@
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
-## TYPESCRIPT NEWS
+## NEWS
 
 - https://medium.com/javascript-in-plain-english/whats-coming-with-typescript-4-0-language-features-3a98fc8db48f
 
-## TYPESCRIPT TIPS
+## TIPS
 
 - https://twitter.com/mgechev/status/1219884973328621570/photo/1
 - https://twitter.com/sulco/status/1219982511180263424/photo/1
