@@ -18,9 +18,11 @@
 http://www.restapitutorial.com/lessons/httpmethods.html
 
 ## TOOLS
+- https://apis.guru/
 - http://postman.com/
 - https://insomnia.rest/
 - https://github.com/liyasthomas/postwoman
+- https://github.com/APIs-guru
 
 ## OTHERS
 - https://aip.dev/

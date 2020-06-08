@@ -347,6 +347,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 - https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
 - https://github.com/angular/angular-cli/issues/6137
+- https://github.com/mgechev/cli-builders-demo
 - https://github.com/manfredsteyer/ngx-build-plus
 - https://github.com/ngx-builders/angular-builder
 - https://github.com/ngx-builders/netlify-builder
@@ -1177,6 +1178,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/BioPhoton/rx-angular
 - https://github.com/k3nsei/ng-in-viewport
+- https://github.com/jscutlery/convoyr
 
 ## ECOSYSTEM: LIB: ACL
 

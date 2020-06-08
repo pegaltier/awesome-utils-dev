@@ -1,21 +1,25 @@
 # PHP
 
+## STANDARD
 
-## STANDART
 - http://eilgin.github.io/php-the-right-way/
 - https://github.com/dseguy/clearPHP
+- https://github.com/odan/learn-php
 - https://phpbestpractices.org
 
 ## SECURITY
+
 - https://www.acunetix.com/websitesecurity/php-security-1/
 - http://phpsecurity.readthedocs.io/en/latest/index.html
 - http://securingphp.com
 
 ## LISTS
+
 - https://github.com/ziadoz/awesome-php
 - https://www.cloudways.com/blog/top-php-github-projects/
 
 ## SLIM PHP UTILS
+
 - https://github.com/xssc/awesome-slim
 - https://github.com/zhorton34/authorize-slim-4
 - https://github.com/bryanjhv/slim-session
@@ -26,6 +30,7 @@
 - https://aimeos.org/slim-ecommerce-package/
 
 ## SLIM PHP V3 SKELETON
+
 - https://github.com/adriansuter/Slim4-Skeleton
 - https://github.com/slimphp/Slim-Skeleton
 - https://github.com/odan/prisma
@@ -36,6 +41,7 @@
 - https://github.com/codecourse/slender
 
 ## SLIM PHP V4 SKELETON
+
 - https://github.com/adriansuter/Slim4-Skeleton
 - https://github.com/slimphp/Slim-Skeleton
 - https://github.com/semhoun/slim-skeleton-mvc
@@ -43,12 +49,15 @@
 - https://github.com/maurobonfietti/slim4-api-skeleton
 - https://github.com/maurobonfietti/slim4-api-skeleton-crud-generator
 - http://www.slimframework.com/docs/v4/
+- https://github.com/odan/slim4-tutorial
 
 ## PSR15
+
 - https://github.com/middlewares/awesome-psr15-middlewares
 
 
 ## SLIM PHP TEST
+
 - https://medium.com/@Andela/writing-testable-api-apps-in-slim-framework-29905970941b
 
 ## CMS / HEADLESS
@@ -60,15 +69,18 @@
 - https://amphp.org
 
 ## AUTODEPLOY
+
 - http://rocketeer.autopergamene.eu/
 - https://deployer.org/
 - https://github.com/dg/ftp-deployment
 - https://github.com/git-ftp/git-ftp
+- https://github.com/deployphp/deployer
 
 ## IDE + EXTENSION
 - http://calebporzio.com/my-vs-code-setup-2/
 
 ## CQRS / DDD / EventSourcing
+
 - https://github.com/real34/cqrs-es-camboui
 - https://gist.github.com/jsor/6e79afb989c866915f20
 - http://martinfowler.com/eaaDev/EventSourcing.html
@@ -76,6 +88,7 @@
 - https://dddcommunity.org/resources/ddd_terms/
 
 ## XAMPP
+
 xampp multiple !: 
 - http://webdevzoom.com/install-run-multiple-xampp-windows/
 

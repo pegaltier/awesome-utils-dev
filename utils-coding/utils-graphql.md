@@ -9,6 +9,8 @@
 
 ## LIB
 - https://github.com/oslabs-beta/portara
+- https://github.com/APIs-guru/graphql-faker
+- https://github.com/APIs-guru/graphql-voyager
 
 ## ARTICLES
 - https://css-tricks.com/front-end-developers-guide-graphql/
