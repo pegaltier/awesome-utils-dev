@@ -24,6 +24,7 @@
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/ostrowr/ts-json-validator
+- https://github.com/jonaskello/tslint-immutable
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/ggascoigne/prettier-plugin-import-sort
 - https://github.com/valentinkononov/ts-runtime-checker
