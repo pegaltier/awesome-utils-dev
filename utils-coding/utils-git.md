@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [GIT](#git)
+  - [TUTORIAL](#tutorial)
+  - [TOOLS](#tools)
+  - [MOST USED](#most-used)
+  - [CLONE](#clone)
+  - [INIT](#init)
+  - [RESET](#reset)
+  - [STASH](#stash)
+  - [HASH](#hash)
+  - [CREATE BRANCH](#create-branch)
+  - [MERGE BRANCH](#merge-branch)
+  - [CONFIG](#config)
+  - [ALIAS](#alias)
+  - [VSCODE SSH](#vscode-ssh)
+  - [SUBMODULES](#submodules)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # GIT
 
 ## TUTORIAL

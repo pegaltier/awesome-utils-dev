@@ -742,14 +742,22 @@ Can be caused by:
 ## BEST PRACTICES
 
 - usage of feature toggle in environment files in order to be able to enable or disable a new features in each environment, it can be very useful if a feature is buggy or not finished.
+- usage of template to follow for the gitlab MRs + the jira tickets. Us a much as possible generic model for the processing like that the team will be used and will naturally start to follow those best practices.
+- improve the testability by making a backdoor to test all the different conditional templates in the UI.
+- test the screen with any kind of data, for instance a short text and a long text in order to check the layout responsiveness.
 
 ## JOIN AN EXISTING PROJECTS
 
 - ask for an existing bookmark links list of create my own bookmark links
+- ask which extensions are used by the team ex: vscode-gitlab + angular-essential
 - review the redux store in order to understand the data/entities of the app
 - review the routing modules in order to understand the architecture of the app
 - check all the mixin and variables scss files in order to know what should be reused
 - use tools such as bundle-analyzer and ngrx-vis in order to understand the current archi
+
+## MICROFRONTEND
+
+In order to communicate between multiple microfrontend initialized in a same webpage you can create a messageBus using a BehaviorSubject and attach it to the window or use the dispatchEvent already in the window object: ex: window.dispatchEvent(new CustomEvent('myCustomEvent'));
 
 ## JAMSTACK
 
