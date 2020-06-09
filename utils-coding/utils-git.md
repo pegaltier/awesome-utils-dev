@@ -1,21 +1,6 @@
-# GIT TIPS & HELPERS
+# GIT
 
-- [GIT TIPS & HELPERS](#git-tips--helpers)
-  - [TUTORIAL LIST](#tutorial-list)
-  - [TOOLS](#tools)
-  - [MOST USED](#most-used)
-  - [CLONE](#clone)
-  - [RESET / CLEAN](#reset--clean)
-  - [NEW REPO](#new-repo)
-  - [CONFIG](#config)
-  - [STASH ADVANCED](#stash-advanced)
-  - [HASH](#hash)
-  - [VSCODE GIT SSH](#vscode-git-ssh)
-  - [CREATE BRANCH](#create-branch)
-  - [MERGE BRANCH](#merge-branch)
-  - [ALIAS](#alias)
-
-## TUTORIAL LIST
+## TUTORIAL
 - https://githooks.com/
 - http://learngitbranching.js.org
 - https://trunkbaseddevelopment.com
@@ -35,7 +20,8 @@
 - https://gitexplorer.com/
 - https://projectr.io/
 
-## MOST USED 
+## MOST USED
+
 ```
 git init (new blank repository)
 git remote add origin url://to/source/repository (add a remote)
@@ -49,8 +35,9 @@ git cherry-pick d42c389f (apply any commit on current branch)
 git cherry-pick -e d42c389f (same as above + change commit message)
 git cherry-pick -m 1 d42c389f (apply any merge commit on current branch)
 git revert d42c389f (revert any commit on current branch)
+git revert -m 1 d42c389f (revert any merge commit on current branch)
 git remote prune origin (clean local branches that have been deleted from remote)
-git branch -d branchname (delete local branch force)
+git branch -d branchname (delete local branch)
 git branch -D branchname (delete local branch force)
 git config --get remote.origin.url (check the remote url)
 git commit --amend -m "New commit msg" (edit wrong unpushed commit message)
@@ -73,7 +60,23 @@ git clone -b my-branch git@github.com:whatever .
 git clone -b my-branch git@github.com:whatever my-name
 ```
 
-## RESET / CLEAN
+## INIT
+
+1. Setting up a remote repository using web github/bitbucket
+2. Setting up your local repository and commit
+```
+git init
+git add *
+git commit -m "init project"
+```
+3. Add origin bitbucket or git
+```
+git remote add origin https/or/git/url
+git push origin master
+git push -u origin --all
+```
+
+## RESET
 
 - Clean deleted branch:  
 ```
@@ -105,34 +108,7 @@ rm -Force -Recurse .git
 https://stackoverflow.com/a/42903805
 
 
-## NEW REPO
-
-1. Setting up a remote repository using web github/bitbucket
-2. Setting up your local repository and commit
-```
-git init
-git add *
-git commit -m "init project"
-```
-3. Add origin bitbucket or git
-```
-git remote add origin https/or/git/url
-git push origin master
-git push -u origin --all
-```
-
-## CONFIG 
-Switch credentiel method (token)
-```
-git config user.email
-
-git config --global credential.helper wincred
-git config --global credential.helper manager
-
-git remote rm origin
-git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
-```
-## STASH ADVANCED
+## STASH
 
 Find advanced command to use stash feature as much as possible:
 ```
@@ -163,13 +139,6 @@ To get the shortened version:
 ```
 $ git rev-parse --short HEAD
 cbf1b9a
-```
-
-## VSCODE GIT SSH
-
-```
-start-ssh-agent
-code
 ```
 
 ## CREATE BRANCH
@@ -221,16 +190,23 @@ More infos
 - https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
 - https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
 
-## REVERT
+## CONFIG
 
+Switch credentiel method (token)
 ```
-git revert <commit-id>
-git revert -m 1 <merge-commit-id>
+git config user.email
+
+git config --global credential.helper wincred
+git config --global credential.helper manager
+
+git remote rm origin
+git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 ```
 
 ## ALIAS
 
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+
 ```
 git config --global alias.pul "pull origin master"
 git config --global alias.pus "push origin master"
@@ -238,6 +214,14 @@ git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit
 git config --global alias.st status
+```
+
+
+## VSCODE SSH
+
+```
+start-ssh-agent
+code
 ```
 
 ## SUBMODULES
