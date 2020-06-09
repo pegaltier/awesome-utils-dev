@@ -13,6 +13,9 @@
 - https://github.com/Ninja-Squad/springmockk
 - http://www.baeldung.com/rest-with-spring-course#new-modules
 
+## TUTORIALS
+- https://developer.okta.com/blog/2020/05/29/angular-deployment
+
 ## QUARKUS
 - https://github.com/lordofthejars/quarkus-cheat-sheet/
 

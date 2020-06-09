@@ -24,6 +24,7 @@
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
 - https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
 - https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/
+- https://thewebdev.info/2020/06/09/more-javascript-habits-we-can-follow/
 - https://typeofnan.dev/10-javascript-quiz-questions-and-answers/
 - https://codesource.io/javascript-design-patterns/
 

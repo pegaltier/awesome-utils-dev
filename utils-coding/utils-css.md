@@ -45,9 +45,9 @@
 - Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied
 
 SCORE	    SELECTOR
-0.0.0.0.0	all (*)
+0.0.0.0.0	universal (*)
 0.0.0.0.1	element or pseudo-element (h1) 
-0.0.0.1.0	class, pseudo-class, attribute (.example/:hover/\[type="radio"])
+0.0.0.1.0	class, pseudo-class, pseudo-element, attribute (.example/:hover/:after/\[type="radio"])
 0.0.1.0.0	id (#example)
 0.1.0.0.0	Inline style (style="...")
 1.0.0.0.0	overrides (!important)

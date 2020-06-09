@@ -23,6 +23,7 @@
   - [CORE: RENDERING](#core-rendering)
   - [CORE: TEMPLATE](#core-template)
   - [CORE: RESPONSIVE](#core-responsive)
+  - [CORE: DIRECTIVES](#core-directives)
   - [CORE: COMPONENTS](#core-components)
   - [CORE: ARCHITECTURE](#core-architecture)
   - [CORE: MODULES](#core-modules)
@@ -387,6 +388,10 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 ## CORE: RESPONSIVE
 
 - https://www.smashingmagazine.com/2019/02/image-breakpoints-angular/#top
+
+## CORE: DIRECTIVES
+
+- https://stackblitz.com/edit/repeat-times-directive
 
 ## CORE: COMPONENTS
 
@@ -764,6 +769,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522
 - https://dev.to/qarunqb/tdd-in-angular-the-basics-of-general-testing-2bfb
 - https://indepth.dev/create-your-angular-unit-test-spies-automagically/
+- https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 
 ## CORE: E2E TESTS
 
@@ -1224,6 +1230,7 @@ Learn the best way to make your objects immutable.
 
 - https://screenster.io/
 - https://testrec.com/
+- https://testing-playground.com/
 - https://github.com/appium/appium
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
@@ -1238,8 +1245,8 @@ Learn the best way to make your objects immutable.
 - https://medium.com/@charith.rhettiarachchi/why-use-jest-over-karma-for-angular-testing-b56ffa82f8
 - https://itnext.io/cypress-storybook-keeping-test-scenario-data-and-component-rendering-in-one-place-c57b23cc1640
 - https://blog.checklyhq.com/easy-automated-e2e-testing-monitoring-for-your-frontend-with-vercel-and-checkly-3/
+- https://christianlydemann.com/the-most-common-cypress-mistakes/
 - https://www.checklyhq.com/docs/puppeteer-recorder/
-
 
 ## ECOSYSTEM: LIB: UNIT TESTS
 
@@ -1496,9 +1503,9 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: GAMES
 
 - https://github.com/melcor76/ng-tetris
+- https://focused-mestorf-930f82.netlify.app/
 - https://blog.angularindepth.com/how-to-get-started-with-canvas-animations-in-angular-2f797257e5b4
 - https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7
-
 
 ## ECOSYSTEM: MOBILE
 

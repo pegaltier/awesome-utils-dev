@@ -16,6 +16,19 @@ Agent pour développeurs haut-niveau
 - https://workfromhomejobs.me/remote-developer-jobs/
 - https://gist.github.com/stowball/26fb03aeaa0e8de1def00dcb5d8f425e
 
+* Toptal
+* Upwork
+* Freelancer
+* PeoplePerHour
+* Simply Hired
+* Envato
+* Guru
+* Fiverr
+* Hireable
+* 6nomads
+* Taskenator
+* TapChief
+
 ## ALL
 agentdedeveloppeur
 top-five

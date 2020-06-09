@@ -273,14 +273,19 @@ They are pure functions. The function always returns the same result if the same
 - pluck: map each emitted value from the source Observable to its specified nested property.
 - reduce: reduces the values from source observable to a single value that's emitted when the source completes.
 - scan: reduce over time. It applies an accumulator function to each of the emitted values. scan emits the result for each value, whilst reduce only emits the final result.
-buffer: collect output values until provided observable emits, emit as array.
-toArray: collects all of the emitted values, and when the source Observable completes, emits them inside an array.
-bufferCount: stores emitted values into an array, until the array reaches the provided length.
+- buffer: collect output values until provided observable emits, emit as array.
+- toArray: collects all of the emitted values, and when the source Observable completes, emits them inside an array.
+- bufferCount: stores emitted values into an array, until the array reaches the provided length.
+
+All *Map operators below consist of two parts — producing a stream of observables through mapping and applying combination logic on the inner streams produced by this higher order observable.
 
 - mergeMap/flatMap: when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
 - switchMap: is like mergeMap but when the 'outer' emits it cancels the previous subscription of the 'inner' and subscribes to the new one.
 - concatMap: is like mergeMap but it keep the order in which the Observables are emitting is maintained.
 - exhaustMap: is like mergeMap but it ignore new Observables until the current one is still not completed.
+
+All *All operators below corresponds to the combination logic (the second part of the *Map) operators above. Ex: Map operator produces a stream of observables and mergeAll combines values from these observables and so we can easily replace map and mergeAll with the simpler mergeMap.
+- concatAll/mergeAll/switchAll
 
 choose the appropriate operator based on the use case:
 - mergeMap: for doing things in parallel
@@ -776,6 +781,7 @@ There is two way to develop those websites:
 
 There is a new module called @angular/fire which helps to automatize the whole deployment process.
  
+- https://samvloeberghs.be/posts/scully-or-angular-universal-what-is-the-difference
 
 ## INTERVIEW
 
