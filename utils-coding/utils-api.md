@@ -10,6 +10,7 @@
 
 ## API RESTFULL 
 - https://github.com/mulesoft/api-console
+- https://github.com/marmicode/rest-api-checklist
 - https://restfulapi.net/http-status-codes/
 - http://www.restapitutorial.com/lessons/httpmethods.html
 - https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
