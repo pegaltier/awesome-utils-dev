@@ -73,8 +73,10 @@
   - [ECOSYSTEM: LIB: COMPONENTS](#ecosystem-lib-components)
   - [ECOSYSTEM: LIB: GRID/TABLE](#ecosystem-lib-gridtable)
   - [ECOSYSTEM: LIB: SCROLL](#ecosystem-lib-scroll)
+  - [ECOSYSTEM: LIB: SELECT](#ecosystem-lib-select)
   - [ECOSYSTEM: LIB: UPLOAD](#ecosystem-lib-upload)
   - [ECOSYSTEM: LIB: DATA VIZ](#ecosystem-lib-data-viz)
+  - [ECOSYSTEM: LIB: DEBUG](#ecosystem-lib-debug)
   - [ECOSYSTEM: LIB: MODAL](#ecosystem-lib-modal)
   - [ECOSYSTEM: LIB: LOADER](#ecosystem-lib-loader)
   - [ECOSYSTEM: LIB: FORM](#ecosystem-lib-form)
@@ -1281,10 +1283,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: COMPONENTS
 
 - https://github.com/ng2-ui/auto-complete
-- https://github.com/bithost-gmbh/ngx-mat-select-search
-- https://github.com/softsimon/angular-2-dropdown-multiselect
-- https://github.com/NileshPatel17/ng-multiselect-dropdown
-- https://github.com/ngx-lib/multiselect
+- https://github.com/oferh/ng2-completer
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/mgechev/ngx-circular-player
@@ -1317,6 +1316,15 @@ Analyze and optimize the performance of your app
 
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/orizens/ngx-infinite-scroll
+
+## ECOSYSTEM: LIB: SELECT
+
+- https://github.com/HaidarZ/ng-mat-select-infinite-scroll
+- https://github.com/bithost-gmbh/ngx-mat-select-search
+- https://github.com/softsimon/angular-2-dropdown-multiselect
+- https://github.com/NileshPatel17/ng-multiselect-dropdown
+- https://github.com/mdlivingston/mat-select-filter
+- https://github.com/ngx-lib/multiselect
 
 ## ECOSYSTEM: LIB: UPLOAD
 
