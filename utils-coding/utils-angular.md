@@ -737,6 +737,7 @@ Can be caused by:
 - lack of splitting in modules, especially lazy modules, it will results in big main bundle but also it will makes the app more and more coupled and later it will be almost impossible to split the codebase in lazy modules.
 - wrong usage of ngrx, indeed this library should be used only for a certains types of entities which are shared, hydrated, available, retrieved, impacted. That's also why in 2020 multiples new solutions emerged in order to give developers the ability to store data in a local state instead of the global ngrx state.
 - usage of ::ng-deep without :host is going to affect the css of the others components, the style isolation principle is broken, the way to avoid that is by using :host ::ng-deep. Those errors are also due to the fact that angular material must render part of the components outside of the components, that means there is a overlay panel detached which pop on top of the view, for instance when mat-select is open.
+- accumulation of circular dependencies warnings will make your app less and less maintenable. Each time you detect a circular dependencies it's recommended to take time and fix it.
 - usage of scss imports in each components produces a lot of duplicated code.
 
 ## BEST PRACTICES
