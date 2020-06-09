@@ -172,6 +172,7 @@ holo tools>>
 - https://github.com/holochain-open-dev/agent-registration
 - https://github.com/holochain-open-dev/social-triangulation
 - https://github.com/holochain-open-dev/cloned-dnas-tracker
+- https://github.com/holochain-open-dev/messages-zome
 
 ## UNOFFICIAL SITES
 - https://holofuel.best

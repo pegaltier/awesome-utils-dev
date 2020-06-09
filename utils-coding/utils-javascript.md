@@ -86,10 +86,11 @@
 - https://github.com/strapi/strapi
 - https://github.com/amark/gun
 - https://github.com/pubkey/rxdb
--  https://github.com/pouchdb/pouchdb
+- https://github.com/pouchdb/pouchdb
 
 ## LIB
 - https://github.com/GoogleChrome/puppeteer
+- https://github.com/NectarJS/nectarjs
 
 ## ALLIN FRAMEWORK
 - https://github.com/vendure-ecommerce/vendure
