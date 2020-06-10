@@ -460,6 +460,7 @@ Learn how to build perfect form using reactive forms.
 - https://medium.com/@tomastrajan/angular-reactive-sub-forms-type-safe-without-duplication-dbd24225e1e8
 - https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 - https://netbasal.com/implementing-grouping-checkbox-behavior-with-angular-reactive-forms-9ba4e3ab3965
+- https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5
 
 ## CORE: PLATFORM
 
@@ -574,6 +575,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://medium.com/angular-in-depth/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb
 - https://indepth.dev/a-gentle-introduction-into-change-detection-in-angular/
 - https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4
 - https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
@@ -1057,6 +1059,8 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/angular/angular-cli
 - https://github.com/jhipster/generator-jhipster
 - https://github.com/ngx-rocket/generator-ngx-rocket
+- https://github.com/DanWahlin/Angular-JumpStart
+- https://github.com/DanWahlin/angular-architecture
 - https://github.com/NathanWalker/angular2-seed-advanced
 - https://github.com/mgechev/angular2-seed
 - https://github.com/juliemr/ng2-test-seed
@@ -1184,6 +1188,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/k3nsei/ng-in-viewport
 - https://github.com/jscutlery/convoyr
 - https://github.com/wishtack/wishtack-steroids
+- https://github.com/zoomsphere/ngx-store
 
 ## ECOSYSTEM: LIB: ACL
 
@@ -1196,6 +1201,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cartant/rxjs-xyz
 - https://github.com/cartant/rxjs-etc
 - https://github.com/wardbell/subsink
+- https://github.com/hirezio/observer-spy
 - https://github.com/loreanvictor/rxmetics
 - https://github.com/benlesh/rxjs-for-await
 - https://github.com/tanepiper/rxjs-primitives
@@ -1233,6 +1239,7 @@ Learn the best way to make your objects immutable.
 
 - https://screenster.io/
 - https://testrec.com/
+- https://angularplayground.it/
 - https://testing-playground.com/
 - https://github.com/appium/appium
 - https://github.com/cypress-io/cypress
@@ -1240,6 +1247,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
 - https://github.com/deanius/storybook-animate
+- https://github.com/smeijer/testing-playground
+- https://github.com/socreate/angular-playground
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
 - https://webdave.de/blog/cypress
@@ -1258,6 +1267,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ike18t/ng-mocks
 - https://github.com/ngneat/spectator
 - https://github.com/wallabyjs/public
+- https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
 - https://github.com/just-jeb/jest-marbles
 - https://github.com/briebug/jest-schematic
@@ -1388,6 +1398,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/ngneat/dirty-check-forms
+- https://github.com/ngneat/error-tailor
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/gparlakov/forms-typed/blob/master/projects/forms/
 - https://github.com/gparlakov/forms-typed/blob/master/projects/show-form-control/

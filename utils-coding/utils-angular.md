@@ -374,6 +374,13 @@ runtimeChecks: {
 6. Overly smart conponents: instead of waiting actions success in your components, you should use the state instead, also think you can do router in your effects, you can trigger toaster from your effects
 7. Large effects are problematic: When you're deciding where to re-allocate business logic put it (in priority order: (1. In external pure function > 2. In a selector > 3. In a service > 4. In an effect)): Selectors are easier to test and easier to understand. Services are slightly harder in both categories. Effects are the hardest of all. Only put code there that absolutely needs to go there (asynchronous call for instance).
 
+### Components
+
+So @ngrx/component (and partly @ngrx/component-store) are all about leveraging the observable as the primary means of change detection in Angular apps. The goal is to enable fully reactive Angular applications to run without Zone.js. Right now we accomplish this with two APIs:
+
+- observable$ | ngrxPush is a drop-in replacement for the async pipe. Unlike the async pipe the ngrxPush pipe will run change detection for you when the provided observable emits. It also handles errors a little more gracefully than the async pipe.
+- *ngrxLet="observable$ as value" is an alternative for *ngIf="observable$ | async as value" that handles falsey values correctly, lets you handle errors, and also runs change detection when the provided observable emits.
+
 ## PIPES
 
 ``
@@ -751,6 +758,7 @@ Can be caused by:
 - usage of template to follow for the gitlab MRs + the jira tickets. Us a much as possible generic model for the processing like that the team will be used and will naturally start to follow those best practices.
 - improve the testability by making a backdoor to test all the different conditional templates in the UI.
 - test the screen with any kind of data, for instance a short text and a long text in order to check the layout responsiveness.
+- extract the conditional templates logic in a component function, for instance if you have to display a text depending on many conditions then make a switch(true) function to handle this. In some case if the template is big enough then you can use a ngSwitch in order to render different components.
 
 ## JOIN AN EXISTING PROJECTS
 
@@ -764,6 +772,8 @@ Can be caused by:
 ## MICROFRONTEND
 
 In order to communicate between multiple microfrontend initialized in a same webpage you can create a messageBus using a BehaviorSubject and attach it to the window or use the dispatchEvent already in the window object: ex: window.dispatchEvent(new CustomEvent('myCustomEvent'));
+
+- https://github.com/DanWahlin/angular-architecture/blob/master/demos/src/app/core/services/event-bus.service.ts
 
 ## JAMSTACK
 

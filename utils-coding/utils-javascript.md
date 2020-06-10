@@ -23,6 +23,7 @@
 - https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
 - https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
+- https://medium.com/trabe/using-switch-true-in-javascript-986e8ad8ae4f
 - https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/
 - https://thewebdev.info/2020/06/09/more-javascript-habits-we-can-follow/
 - https://typeofnan.dev/10-javascript-quiz-questions-and-answers/
