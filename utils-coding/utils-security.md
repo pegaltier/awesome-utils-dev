@@ -34,6 +34,10 @@
 - www.bugcrowd.com/
 - www.yogosha.com/
 
+## UTILS
+- https://kaimi.io/en/2019/03/pentest-101-web-wordlists/
+- https://github.com/kaimi-io/web-fuzz-wordlists
+
 ## FRONTEND SECURITY
 - Same-Origin Policy (SOP)
 - Cross-Origin Resource Sharing (CORS)
