@@ -44,9 +44,6 @@ crontab -l ==> show
 book:
 - https://store.rpipress.cc/products/official-raspberry-pi-beginner-s-guide-2nd-edition
 
-arduino:
-- https://store.arduino.cc/genuino-starter-kit
-
 buy r4:
 - https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/ 
 - https://fr.farnell.com/MarketingProductList?orderCode=3051885,3051886,3051887
@@ -125,3 +122,9 @@ http://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20
 
 - https://kodaizen.com/posts/detection-presence-mtsystem
 - https://www.woodenhouse.tech/category/objets-connectes/
+
+
+
+## Arduino
+- https://store.arduino.cc/genuino-starter-kit
+- https://github.com/rwaldron/johnny-five
