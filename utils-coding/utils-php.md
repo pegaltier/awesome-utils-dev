@@ -65,6 +65,7 @@
 - https://github.com/directus/directus
 - https://github.com/flextype/flextype
 - https://github.com/agentejo/cockpit
+- https://github.com/quantacms/quanta
 
 ## ASYNCRONOUS ASYNCRONOUS
 - https://amphp.org
@@ -79,6 +80,7 @@
 
 ## IDE + EXTENSION
 - http://calebporzio.com/my-vs-code-setup-2/
+- https://github.com/tightenco/tlint
 
 ## CQRS / DDD / EventSourcing
 
@@ -127,6 +129,12 @@ composer update (update dependecies & generate import class)
 ## MYSQL
 - https://github.com/hholzgra/mysql-udf-regexp/tree/master/regexp
 - https://www.codeproject.com/Articles/1221422/Importance-of-Logging-in-MySQL
+
+## LIBS
+
+- https://github.com/matrix-msu/kora
+- https://github.com/nette/forms
+- https://github.com/dcarbone/php-object-merge
 
 
 ## ORM
