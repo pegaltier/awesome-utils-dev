@@ -10,9 +10,6 @@ salary-comparisons-survey-2018.pdf
 <p><a href="https://entreprise.pole-emploi.fr/cout-salarie/" target="_blank">fr/cout-salarie</p>
 <p><a href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/">https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/</a><br>
 <a href="https://www.interrail.eu/fr/pass-interrail/global-pass">https://www.interrail.eu/fr/pass-interrail/global-pass</a></p>
-<a href="https://bruttonetto.arbeiterkammer.at/">Salary in Austria</a>
-<a href="https://www.karriere.at/">Job in Austria</a>
-<a href="https://www.vienna-expats.at/">Expats in Austria</a>
 </p>
 
 <h2>LANGS</h2>
@@ -20,19 +17,7 @@ https://languagelearningwithnetflix.com
 
 <h2>LODGING</h2>
 <p>hostelsworld+apparthotel+couchsurfing+airbnb+yestudent+booking</p>
-<h2>AUSTRIA</h2>
-<p><a href="http://74living.at">http://74living.at</a><br>
-<a href="https://www.the-fizz.com/">https://www.the-fizz.com/</a>
-<a href="https://www.immodirekt.at">https://www.immodirekt.at</a><br>
-<a href="https://www.willhaben.at">https://www.willhaben.at</a><br>
-<a href="https://www.jobwohnen.at">https://www.jobwohnen.at</a><br>
-<a href="https://www.nestpick.com">https://www.nestpick.com</a><br>
-<a href="https://www.wg-gesucht.de">https://www.wg-gesucht.de</a><br>
-<a href="https://www.thehomelike.com">https://www.thehomelike.com</a><br>
-<a href="https://linked-living.com/">https://linked-living.com/</a><br>
-<a href="https://www.spotahome.com/vienna">https://www.spotahome.com/vienna</a><br>
-<a href="https://www.mein-wien-apartment.at">https://www.mein-wien-apartment.at</a><br>
-<a href="https://www.virtualvienna.net/moving-to-vienna/accommodation/how-to-find-an-apartment/">https://www.virtualvienna.net/moving-to-vienna/accommodation/how-to-find-an-apartment/</a></p>
+
 <h2>LINKS</h2>
 <p><a href="http://www.petitstripsentreamis.com/">http://www.petitstripsentreamis.com/</a><br>
 <a href="https://www.loisirsencheres.com/all/">https://www.loisirsencheres.com/all/</a><br>
