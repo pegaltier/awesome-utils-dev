@@ -1280,6 +1280,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/gparlakov/scuri/blob/master/README.md
 - https://github.com/testing-library/angular-testing-library
+- https://github.com/hirezio/jasmine-auto-spies
 - https://stackblitz.com/edit/angular-testing-v7
 
 ## ECOSYSTEM: LIB: OPTIMIZATION
