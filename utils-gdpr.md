@@ -4,7 +4,8 @@
 
 - Technical cookies
 - User preference cookies (last viewed products, preferred categories, selected clothing size)
-- Navigation measurement cookies (e.g. Analytics)
+- Customization cookies (chatbot, livechat...)
+- Navigation measurement cookies (analytics)
 - Advertising cookies (adwords, critéo etc ...)
 
 ## OPEN SOURCE
