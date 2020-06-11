@@ -71,6 +71,10 @@
 - https://github.com/Leaflet/Leaflet
 - https://github.com/pshihn/rough-notation
 
+## LIB MEDIAS
+- https://github.com/openseadragon/openseadragon
+- https://github.com/google/model-viewer
+
 ## LIB AI
 - https://github.com/BrainJS/brain.js
 

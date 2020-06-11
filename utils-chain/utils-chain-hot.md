@@ -173,6 +173,7 @@ holo tools>>
 - https://github.com/holochain-open-dev/social-triangulation
 - https://github.com/holochain-open-dev/cloned-dnas-tracker
 - https://github.com/holochain-open-dev/messages-zome
+- https://github.com/sacredcapital/Reputation-likes
 
 ## UNOFFICIAL SITES
 - https://holofuel.best
