@@ -97,6 +97,7 @@
 ## LIB
 - https://github.com/GoogleChrome/puppeteer
 - https://github.com/NectarJS/nectarjs
+- https://github.com/juliangarnier/anime
 
 ## ALLIN FRAMEWORK
 - https://github.com/vendure-ecommerce/vendure
