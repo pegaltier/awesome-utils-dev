@@ -93,6 +93,7 @@
 - https://github.com/pubkey/rxdb
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
+- https://github.com/xgenecloud/xgenecloud
 
 ## LIB
 - https://github.com/GoogleChrome/puppeteer
