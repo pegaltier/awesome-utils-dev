@@ -30,6 +30,11 @@
 ## NEWS
 - https://java.libhunt.com/newsletter/186
 
+## DI
+- https://github.com/google/dagger
+- https://github.com/google/guice
+- https://github.com/Netflix/governator
+
 ## TESTS
 - https://site.mockito.org/
 - https://github.com/cbeust/testng/
@@ -38,6 +43,10 @@
 ## REACTIVE
 - https://github.com/ReactiveX/RxJava
 - https://vertx.io/
+
+## LIBS
+- https://java.libhunt.com/categories
+- https://github.com/apache/thrift
 
 ## BASICS
 - https://www.w3schools.com/java/default.asp

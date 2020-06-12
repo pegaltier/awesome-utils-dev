@@ -92,6 +92,7 @@
 - https://github.com/amark/gun
 - https://github.com/pubkey/rxdb
 - https://github.com/pouchdb/pouchdb
+- https://github.com/cdaringe/pouchy
 
 ## LIB
 - https://github.com/GoogleChrome/puppeteer
