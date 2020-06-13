@@ -17,6 +17,10 @@ retour à la moyenne<br>
 momentum<br>
 indicateur: ratio rendement potentiel / risque (Sharpe et Sortino)<br>diversification : reduction risque<br>
 
+### Fractale
+
+- when the trend is positive on many timeframes (at least 3): m15,h1,h4,d,w,m
+
 ## Tradingview
 
 - https://kodify.net/tradingview/plots/line-plot/
