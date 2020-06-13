@@ -25,6 +25,7 @@ indicateur: ratio rendement potentiel / risque (Sharpe et Sortino)<br>diversific
 
 - https://kodify.net/tradingview/plots/line-plot/
 - https://kodify.net/tradingview/colours/iff-conditional-colours/
+- https://github.com/f13end/tradingview-custom-indicators
 - https://www.tradingview.com/script/NjuWGg3o-Weekly-Moving-Average/
 - https://www.tradingview.com/script/o5kgHBQ0-Multi-Timeframe-Bollinger-Bands/
 - https://www.tradingview.com/script/R8ByYRUS-RSI-with-Moving-Averages-UO/
@@ -62,7 +63,3 @@ Stephane Ceaux-Dutheil.
 - https://fuserleer.online/exchange_data/
 - https://www.youtube.com/watch?v=myydDX-us4o
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
-
-## TRADINGVIEW
-
-- https://github.com/f13end/tradingview-custom-indicators
