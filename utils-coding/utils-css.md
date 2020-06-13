@@ -6,6 +6,7 @@
 - https://flukeout.github.io/
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
+- https://github.com/picturepan2/devices.css
 
 ## BEST PRACTIVES
 
