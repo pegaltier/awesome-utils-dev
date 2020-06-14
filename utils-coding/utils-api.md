@@ -23,6 +23,7 @@
 - https://insomnia.rest/
 - https://github.com/liyasthomas/postwoman
 - https://github.com/APIs-guru
+- https://pipedream.com/
 
 ## OTHERS
 - https://aip.dev/
@@ -58,6 +59,9 @@
 ## FORMS
 - https://getform.io
 - https://www.typeform.com
+
+## AI
+- https://beta.openai.com/
 
 ## LIST
 - https://www.humanapi.co
