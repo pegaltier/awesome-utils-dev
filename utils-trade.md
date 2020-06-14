@@ -11,11 +11,16 @@ STRATEGY2: minimum time market buy stop<br>
 STRATEGY3: UP = REPLACE BUY STOP + STOP LOSS<br>
 STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT = 0% BULL</p>
 
-<p>A EXPLOITER:<br>
-suivi de tendance<br>
-retour à la moyenne<br>
-momentum<br>
-indicateur: ratio rendement potentiel / risque (Sharpe et Sortino)<br>diversification : reduction risque<br>
+## COMMON STRATEGY
+- long only
+- long/short
+- trend following (suivi de tendance)
+- mean reversion (retour à la moyenne)
+
+
+## INDICATOR
+- ratio rendement potentiel / risque (Sharpe et Sortino)
+- diversification : reduction risque
 
 ### Fractale
 
