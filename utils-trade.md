@@ -17,6 +17,10 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - trend following (suivi de tendance)
 - mean reversion (retour à la moyenne)
 
+## GAPS
+
+- gap downs have a higher proba of filling than gap ups
+
 
 ## INDICATOR
 - ratio rendement potentiel / risque (Sharpe et Sortino)
