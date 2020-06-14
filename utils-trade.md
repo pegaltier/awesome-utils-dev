@@ -27,11 +27,11 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - ratio rendement potentiel / risque (Sharpe et Sortino)
 - diversification : reduction risque
 
-### Fractale
+## FRACTALE
 
 - when the trend is positive on many timeframes (at least 3): m15,h1,h4,d,w,m
 
-## Tradingview
+## TRADINGVIEW
 
 - https://kodify.net/tradingview/plots/line-plot/
 - https://kodify.net/tradingview/colours/iff-conditional-colours/
@@ -41,6 +41,13 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - https://www.tradingview.com/script/R8ByYRUS-RSI-with-Moving-Averages-UO/
 - https://www.tradingview.com/pine-script-docs/en/v4/essential/Sessions_and_time_functions.html
 
+
+## BOTS 
+
+- https://diabolo.io/
+- https://www.kryll.io/
+- https://napoleonx.ai/
+- https://www.napbots.com/
 
 <p><a href="http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/">http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/</a><br>
 <a href="https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371">https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371</a><br>
