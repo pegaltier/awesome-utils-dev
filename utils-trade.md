@@ -48,6 +48,9 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - https://www.kryll.io/
 - https://napoleonx.ai/
 - https://www.napbots.com/
+- https://www.shrimpy.io/
+- https://www.cryptohopper.com/
+
 
 <p><a href="http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/">http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/</a><br>
 <a href="https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371">https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371</a><br>
