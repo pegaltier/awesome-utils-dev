@@ -9,9 +9,9 @@
 - https://certbot.eff.org/
 - https://jmeter.apache.org/
 
-## DOCKER
-- https://github.com/veggiemonk/awesome-docker
-- https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
+## VIM
+
+- https://www.fprintf.net/vimCheatSheet.html
 
 ## SERVICES
 - https://vercel.com/
@@ -20,3 +20,83 @@
 
 ## KUBERNETES
 - https://github.com/cloudmelon/melonkube
+
+## DOCKER
+- https://github.com/veggiemonk/awesome-docker
+- https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
+
+## VAGRANT
+sudo vagrant up				>> ensure that .vagrant/machines/default/virtualbox/creator_uid is 0
+sudo vagrant halt
+sudo vagrant ssh
+sudo yum -y install phpmyadmin
+mysql -u root example -- just test
+ifconfig (add IP ADRESS 192.168.50.52 + remote DENY )
+sudo vim /etc/httpd/conf.d/phpMyAdmin.conf			>> KEYS: INSERT +  CTRL C + :w + :q
+sudo service httpd restart
+
+vim /etc/phpMyAdmin/config.inc.php
+$cfg['Servers'][$i]['AllowNoPassword'] = TRUE;
++ MODIFY USER : root + secret
+
+http://192.168.50.52/phpmyadmin 
+root secret
+exit
+
+## CRON
+
+crontab -e
+
+Once you enter the above command you will be asked to choose a text editor. Choose nano if you are first time editing or go with your choice.
+
+In the crontab, the m h dom mon dow user header has the following meaning
+
+* m = The minute when the cron job will run. (0 to 59)
+* h = A integer determining the hour when the tasks will run. (0 to 23)
+* dom = Day of the Month when the cron job will run. (1 to 31).
+* mon = The month when the cron job will run. (1 to 12)
+* dow = Day of the Week from 0-6 with Sunday at 0. (0 to 6)
+* user = The User under which the cron will run.
+* command = The Linux command you wish to execute.
+
+
+## DOMAIN CHECK
+
+nslookup
+set type=TXT
+domain.fr
+
+
+## PROCESS + UTIL
+
+PUTTY
+
+## SUPERVISION
+htop
+
+## UPDATE
+aptitude update
+aptitude upgrade
+
+## UPDATE DATE
+aptitude install ntp ntpdate
+sudo nano /etc/ntp.conf
+
+server 0.fr.pool.ntp.org
+server 1.fr.pool.ntp.org
+server 2.fr.pool.ntp.org
+server 3.fr.pool.ntp.org
+	   
+service ntp start
+
+## FIREWALLING 
+iptable
+
+vps1 et vps2  		> entree  22 pour tout le monde . et 80 si origin load balancer
+sql					> entree  3389 depuis vps. et le 22 tout le monde
+
+
+## DOCKER 
+play-with-docker.com
+https://github.com/JeremyLikness/usda-microservice
+https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
