@@ -20,7 +20,8 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 ## GAPS
 
 - gap downs have a higher proba of filling than gap ups
-
+- gap on individual stocks are not good for trading
+- gap on indices are good for trading, much more probability
 
 ## INDICATOR
 - ratio rendement potentiel / risque (Sharpe et Sortino)
