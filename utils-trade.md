@@ -41,7 +41,10 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - https://www.tradingview.com/script/R8ByYRUS-RSI-with-Moving-Averages-UO/
 - https://www.tradingview.com/pine-script-docs/en/v4/essential/Sessions_and_time_functions.html
 
-
+### STRATEGY
+- https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
+- https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
+- https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
 ## BOTS 
 
 - https://diabolo.io/
