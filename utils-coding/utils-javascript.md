@@ -70,6 +70,7 @@
 - https://github.com/angus-c/just
 - https://github.com/Leaflet/Leaflet
 - https://github.com/pshihn/rough-notation
+- https://github.com/fast-average-color/fast-average-color
 
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon

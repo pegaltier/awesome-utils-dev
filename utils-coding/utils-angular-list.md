@@ -1316,6 +1316,7 @@ Analyze and optimize the performance of your app
 - https://github.com/mattlewis92/angular-resizable-element
 - https://github.com/angular-slider/ng5-slider
 - https://github.com/surveyjs/survey-library
+- https://github.com/ngneat/helipopper
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 
