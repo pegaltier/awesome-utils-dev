@@ -598,18 +598,31 @@ test end to end (voir ninja angular page 157)
 
 ## MONOREPO
 
-### Quickstart
+### INSTALL
 
 ```
 nvm install 12.16.1 # install the latest npm using nvm
 npm install -g @nrwl/cli # install the latest nrwl cli using npm
 node -v # check that the good version of node is selected
 npx create-nx-workspace@latest my-project # init the repo
+```
+
+### ADD ANGULAR
+
+```
 npm install --save-dev @nrwl/angular # add angular capability
-nx g @nrwl/angular:app my-project/my-app # or just "nx g myapp" 
+nx g @nrwl/angular:app my-project/my-app # or just ng g myapp
 nx update @angular/core # or ng update @angular/core
 ```
 
+### ADD SCULLY
+
+```
+nx add @scullyio/init # todo run inside the project path
+ng generate @scullyio/init:blog # create a blog module with scully
+```
+
+### START
 ```
 nvm use v12.16.1 # select the good version of node
 nx serve my-project-my-app # start the new project

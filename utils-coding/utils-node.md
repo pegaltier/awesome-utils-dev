@@ -57,6 +57,6 @@
 
 ```
 npm list -g --depth 0 (list the global package installed)
-npx ... (run directly a local package from the node_modules)
+npx ... (run directly a global or local package from the node_modules)
 npx ngcc (example to run angular ngcc in an angular (v9) project)
 ```
