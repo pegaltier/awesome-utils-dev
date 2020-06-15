@@ -35,16 +35,22 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 
 - https://kodify.net/tradingview/plots/line-plot/
 - https://kodify.net/tradingview/colours/iff-conditional-colours/
+- https://kodify.net/tradingview/orders/strategy-entry/
+- https://kodify.net/tradingview/orders/percentage-profit/
 - https://github.com/f13end/tradingview-custom-indicators
 - https://www.tradingview.com/script/NjuWGg3o-Weekly-Moving-Average/
 - https://www.tradingview.com/script/o5kgHBQ0-Multi-Timeframe-Bollinger-Bands/
 - https://www.tradingview.com/script/R8ByYRUS-RSI-with-Moving-Averages-UO/
 - https://www.tradingview.com/pine-script-docs/en/v4/essential/Sessions_and_time_functions.html
+- https://www.tradingview.com/pine-script-docs/en/v4/appendix/HOWTOs.html
+- https://www.tradingview.com/pine-script-docs/en/v4/language/Operators.html
+
 
 ### STRATEGY
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
+
 ## BOTS 
 
 - https://diabolo.io/
