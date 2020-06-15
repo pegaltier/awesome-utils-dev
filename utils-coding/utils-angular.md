@@ -628,6 +628,12 @@ nvm use v12.16.1 # select the good version of node
 nx serve my-project-my-app # start the new project
 ```
 
+```
+npm run build # Angular build
+npm run scully -- --scanRoutes  # generate static build and force checking new routes
+npm run scully serve # serve the scully results
+```
+
 ### Resources
 
 - https://nx.dev/angular/getting-started/getting-started
@@ -803,8 +809,7 @@ There is two way to develop those websites:
  
 
 There is a new module called @angular/fire which helps to automatize the whole deployment process.
- 
-- https://samvloeberghs.be/posts/scully-or-angular-universal-what-is-the-difference
+
 
 ## INTERVIEW
 

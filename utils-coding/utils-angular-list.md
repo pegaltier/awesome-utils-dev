@@ -1075,7 +1075,12 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 ## ECOSYSTEM: JAMSTACK
 
+
+- https://d-koppenhagen.de/blog/2020-01-angular-scully 
+- https://snipcart.com/blog/angular-static-site-generator-scully
+- https://samvloeberghs.be/posts/scully-or-angular-universal-what-is-the-difference
 - https://samvloeberghs.be/posts/custom-plugins-for-scully-angular-static-site-generator
+- https://www.netlify.com/blog/2019/12/17/building-an-angular-jamstack-app-with-scully/
 - https://dev.to/bitovi/server-side-rendering-dynamic-routes-in-angular-with-scully-6m8
 - https://dev.to/bitovi/why-you-should-be-using-transferstate-to-cache-your-api-calls-in-angular-3nn7
 - https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDE3NTIyMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvMjc0MTMxNDY?ved=0CA0QzsICahcKEwi47Mi1lNnpAhUAAAAAHQAAAAAQBQ
