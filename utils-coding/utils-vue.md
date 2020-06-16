@@ -3,3 +3,4 @@
 ## AWESOME
 
 - https://github.com/vuejs/awesome-vue
+- https://github.com/blacksonic/awesome-vue-3

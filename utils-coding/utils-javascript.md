@@ -28,6 +28,7 @@
 - https://thewebdev.info/2020/06/09/more-javascript-habits-we-can-follow/
 - https://typeofnan.dev/10-javascript-quiz-questions-and-answers/
 - https://codesource.io/javascript-design-patterns/
+- https://github.com/lydiahallie/javascript-questions#readme
 
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
@@ -71,6 +72,9 @@
 - https://github.com/Leaflet/Leaflet
 - https://github.com/pshihn/rough-notation
 - https://github.com/fast-average-color/fast-average-color
+- https://github.com/mamunhpath/josh.js
+- https://github.com/tradingview/lightweight-charts
+- https://github.com/juliangarnier/anime
 
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon
@@ -99,7 +103,7 @@
 ## LIB
 - https://github.com/GoogleChrome/puppeteer
 - https://github.com/NectarJS/nectarjs
-- https://github.com/juliangarnier/anime
+- https://github.com/josdejong/mathjs
 
 ## ALLIN FRAMEWORK
 - https://github.com/vendure-ecommerce/vendure

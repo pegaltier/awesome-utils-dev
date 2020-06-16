@@ -994,6 +994,9 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/devinshoemaker/nxtend
 - https://github.com/nxpm/nxpm-cli
+- https://github.com/kachkaev/njt
+- https://github.com/flowaccount/nx-plugins
+- https://github.com/DominikPieper/nx-extensions
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
@@ -1076,7 +1079,9 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 ## ECOSYSTEM: JAMSTACK
 
 
-- https://d-koppenhagen.de/blog/2020-01-angular-scully 
+- https://d-koppenhagen.de/blog/2020-01-angular-scully
+- https://d-koppenhagen.de/blog/2020-03-dig-deeper-into-scully-ssg
+- https://github.com/d-koppenhagen/d-koppenhagen.de/tree/master/src/app
 - https://snipcart.com/blog/angular-static-site-generator-scully
 - https://samvloeberghs.be/posts/scully-or-angular-universal-what-is-the-difference
 - https://samvloeberghs.be/posts/custom-plugins-for-scully-angular-static-site-generator
@@ -1473,6 +1478,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/wizdmio/wizdm
 - https://github.com/akveo/ngx-admin
 - https://github.com/ng-alain/ng-alain
+- https://github.com/SAP/spartacus
 - https://angularexpo.com
 - https://ng-alain.com
 
