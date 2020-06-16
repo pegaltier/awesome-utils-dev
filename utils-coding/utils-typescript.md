@@ -31,6 +31,7 @@
 
 ## LIB
 
+- https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/typestack/class-validator
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/stalniy/casl

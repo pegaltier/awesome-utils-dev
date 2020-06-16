@@ -24,6 +24,7 @@
 - https://github.com/typicode/husky
 - https://github.com/davglass/license-checker
 - https://github.com/localtunnel/localtunnel
+- https://github.com/vercel/ncc
 
 ## MONITORING
 
