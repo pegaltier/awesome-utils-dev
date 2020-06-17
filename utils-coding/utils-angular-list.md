@@ -888,6 +888,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 ## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
 
+- https://github.com/dsebastien/ngrx-component-store-demo
 - https://github.com/alex-okrushko/component-store-demo
 - https://stackblitz.com/edit/github-component-store-demo
 - https://hackmd.io/zLKrFIadTMS2T6zCYGyHew?view
