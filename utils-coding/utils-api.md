@@ -3,10 +3,12 @@
 - [API RESTFULL](#api-restfull)
 - [HTTP](#http)
 - [OTHERS](#others)
-- [OPINION](#opinion)
+- [ARTICLES](#articles)
 - [GENERATE PDF](#generate-pdf)
 - [LIST](#list)
 - [FRANCE](#france)
+
+# API
 
 ## API RESTFULL 
 - https://github.com/mulesoft/api-console
@@ -32,9 +34,12 @@
 - https://www.quickdatabasediagrams.com/
 - http://feathersjs.com/
 
-## OPINION
+## ARTICLES
 - http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 
+## PAYMENT
+
+- https://truelayer.com/
 
 ## PDF GENERATION
 
