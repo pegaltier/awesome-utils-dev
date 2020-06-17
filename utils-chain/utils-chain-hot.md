@@ -162,6 +162,7 @@ holo github>>
 - https://github.com/bayramlcm/holo-me
 - https://github.com/hc-institute-japan/Kizuna
 - https://github.com/aimparency/mprnc-gui
+- https://github.com/nphias/ng-graphql-hc-starter
 
 holo tools>>
 - https://github.com/holochain-open-dev
