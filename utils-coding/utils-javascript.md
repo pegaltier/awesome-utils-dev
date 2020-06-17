@@ -9,6 +9,7 @@
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://github.com/lydiahallie/javascript-questions
+- https://github.com/getify/You-Dont-Know-JS
 - https://learnvanillajs.com/roadmap/ 
 - https://learnjavascript.online/
 - https://github.com/leonardomso/33-js-concepts
