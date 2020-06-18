@@ -304,6 +304,10 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://github.com/mgechev/scalable-architecture-demo
 - http://amcdnl.com/2017/10/02/angular-performance-tip-preserve-whitespace
 - https://medium.com/ag-grid/5-tips-for-fixing-a-memory-leak-in-angular-debfc9ef9821
+- https://blog.ninja-squad.com/2018/09/06/angular-performances-part-1/
+- https://blog.ninja-squad.com/2018/09/13/angular-performances-part-2/
+- https://blog.ninja-squad.com/2018/09/20/angular-performances-part-3/
+- https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/
 
 ## CORE: DATAFLOW
 
