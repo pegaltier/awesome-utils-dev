@@ -75,6 +75,10 @@ PUTTY
 ## SUPERVISION
 htop
 
+## MONITORING
+
+- https://github.com/grafana/grafana
+
 ## UPDATE
 aptitude update
 aptitude upgrade

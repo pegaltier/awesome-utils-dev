@@ -746,6 +746,12 @@ Trigger details:
 
 ### PERFORMANCE
 
+chrome dev tools > performance tab > record+stop
+- check then summary if scripting take more than 60% of the time then you found the issue, maybe change detection is triggered in a loop or maybe a function with high level of computation is triggered many times.
+- check bottom-up and call tree to understand more about the issue, you will see if there is any function from your codebase which is called many times or if the issue is due to the change detection then you will see zone.js.
+
+### MEASURE
+
 console.time('test1');
 console.timeEnd('test2);
 

@@ -1255,6 +1255,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/appium/appium
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
+- https://github.com/NoriSte/cypress-wait-until
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
 - https://github.com/deanius/storybook-animate
