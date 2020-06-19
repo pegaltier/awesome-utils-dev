@@ -41,6 +41,7 @@
 - https://github.com/nestjs/nest
 - https://github.com/strapi/strapi
 - https://github.com/lukeautry/tsoa
+- https://github.com/typeorm/typeorm
 - https://github.com/sequelize/sequelize
 - https://github.com/strongloop/loopback-next
 

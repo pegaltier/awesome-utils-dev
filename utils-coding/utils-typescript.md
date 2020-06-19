@@ -50,6 +50,7 @@
 ## NEWS
 
 - https://medium.com/javascript-in-plain-english/whats-coming-with-typescript-4-0-language-features-3a98fc8db48f
+- https://fettblog.eu/variadic-tuple-types-preview/
 
 ## TIPS
 

@@ -277,6 +277,11 @@ They are pure functions. The function always returns the same result if the same
 - toArray: collects all of the emitted values, and when the source Observable completes, emits them inside an array.
 - bufferCount: stores emitted values into an array, until the array reaches the provided length.
 
+
+- windowWhen: collects values into an Observable (window), which is emitted (and a new one is created) whenever the Observable returned by the provided function emits.
+- windowCount: collects values into an Observable (window) that can contain a maximum of n values.
+- window: collects emitted values into Observables (called windows).
+
 All *Map operators below consist of two parts — producing a stream of observables through mapping and applying combination logic on the inner streams produced by this higher order observable.
 
 - mergeMap/flatMap: when the inner Observable emits it merges the value(s) of the ‘inner’ Observable into the ‘outer’ Observable.
@@ -787,7 +792,7 @@ Can be caused by:
 
 ## JOIN AN EXISTING PROJECTS
 
-- ask for an existing bookmark links list of create my own bookmark links
+- ask for an existing bookmark links list of create my own bookmark links (envs, gitlab, jira, api, tools, perso)
 - ask which extensions are used by the team ex: vscode-gitlab + angular-essential
 - review the redux store in order to understand the data/entities of the app
 - review the routing modules in order to understand the architecture of the app

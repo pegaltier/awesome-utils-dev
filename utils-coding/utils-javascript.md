@@ -10,6 +10,7 @@
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/getify/You-Dont-Know-JS
+- https://exploringjs.com/deep-js/
 - https://learnvanillajs.com/roadmap/ 
 - https://learnjavascript.online/
 - https://github.com/leonardomso/33-js-concepts
@@ -60,6 +61,7 @@
 - https://github.com/lodash/lodash
 - https://github.com/getcrft/jsonizer
 - https://github.com/stalniy/casl
+- https://github.com/typeorm/typeorm
 
 ## LIB FRONTEND
 

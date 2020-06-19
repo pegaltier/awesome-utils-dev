@@ -189,6 +189,7 @@ Learn about the most useful design patterns in Angular.
 - https://indepth.dev/presenters-with-angular/
 - https://medium.com/swlh/basic-reactive-patterns-in-angular-b404bc127a0a
 - https://medium.com/weekly-webtips/generating-dynamic-templates-from-json-in-angular-fe6322b93d5b
+- https://blog.logrocket.com/how-typescript-design-patterns-help-you-write-better-code/
 
 ## HELPER: CHEAT-SHEETS
 
@@ -308,6 +309,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://blog.ninja-squad.com/2018/09/13/angular-performances-part-2/
 - https://blog.ninja-squad.com/2018/09/20/angular-performances-part-3/
 - https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/
+- https://nx.app/angular-cli-faster
 
 ## CORE: DATAFLOW
 
@@ -579,6 +581,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/
 - https://medium.com/angular-in-depth/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb
 - https://indepth.dev/a-gentle-introduction-into-change-detection-in-angular/
 - https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4
@@ -609,6 +612,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
 - https://github.com/schuchard/ng-schematics
 - https://github.com/manfredsteyer/angular-crud
+- https://github.com/niklas-wortmann/ngx-pact
 - https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
 
 ## CORE: DEPENDENCY INJECTION
@@ -898,6 +902,8 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://hackmd.io/zLKrFIadTMS2T6zCYGyHew?view
 - https://github.com/ngrx/platform/issues/2489
 - https://www.youtube.com/watch?v=EeNMGhLnBGg
+- https://medium.com/javascript-in-plain-english/introducing-ngrx-component-store-part-1-67019dba0cb0
+- https://medium.com/javascript-in-plain-english/ngrx-component-store-deep-dive-947c0a5be6dc
 
 ## ECOSYSTEM: STORE: ALTERNATIVE
 
@@ -1062,13 +1068,17 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 ## ECOSYSTEM: SEEDS
 
+Starter samples, seeds, alternative to the default Angular CLI tools in order to help to bootstrap a new Angular project.
+
 - https://github.com/nrwl/nx
 - https://github.com/wizdmio/wizdm
 - https://github.com/angular/angular-cli
 - https://github.com/jhipster/generator-jhipster
+- https://github.com/maximegris/angular-electron
 - https://github.com/ngx-rocket/generator-ngx-rocket
 - https://github.com/DanWahlin/Angular-JumpStart
 - https://github.com/DanWahlin/angular-architecture
+- https://github.com/TinkoffCreditSystems/angular-open-source-starter
 - https://github.com/NathanWalker/angular2-seed-advanced
 - https://github.com/mgechev/angular2-seed
 - https://github.com/juliemr/ng2-test-seed
@@ -1204,6 +1214,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/jscutlery/convoyr
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/zoomsphere/ngx-store
+- https://github.com/TinkoffCreditSystems/ng-polymorpheus
+- https://github.com/TinkoffCreditSystems/ng-dompurify
 
 ## ECOSYSTEM: LIB: ACL
 
@@ -1256,6 +1268,7 @@ Learn the best way to make your objects immutable.
 - https://testrec.com/
 - https://angularplayground.it/
 - https://testing-playground.com/
+- https://github.com/mswjs/msw
 - https://github.com/appium/appium
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
@@ -1466,6 +1479,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NG-ZORRO/ng-zorro-antd
 - https://github.com/NG-ZORRO/ng-zorro-antd-mobile
 - https://github.com/ng-lightning/ng-lightning
+- https://github.com/vladotesanovic/ngSemantic
 - https://teradata.github.io/covalent/#/
 
 
