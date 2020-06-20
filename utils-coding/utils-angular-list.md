@@ -190,6 +190,7 @@ Learn about the most useful design patterns in Angular.
 - https://medium.com/swlh/basic-reactive-patterns-in-angular-b404bc127a0a
 - https://medium.com/weekly-webtips/generating-dynamic-templates-from-json-in-angular-fe6322b93d5b
 - https://blog.logrocket.com/how-typescript-design-patterns-help-you-write-better-code/
+- https://medium.com/volosoft/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates-f681127e2537
 
 ## HELPER: CHEAT-SHEETS
 
@@ -782,6 +783,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://dev.to/qarunqb/tdd-in-angular-the-basics-of-general-testing-2bfb
 - https://indepth.dev/create-your-angular-unit-test-spies-automagically/
 - https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
+- https://dev.to/nas5w/generate-all-possible-combinations-in-javascript-using-combinate-1713
 
 ## CORE: E2E TESTS
 
@@ -1275,6 +1277,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/NoriSte/cypress-wait-until
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
+- https://github.com/nas5w/combinate
 - https://github.com/deanius/storybook-animate
 - https://github.com/smeijer/testing-playground
 - https://github.com/socreate/angular-playground
@@ -1296,6 +1299,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ike18t/ng-mocks
 - https://github.com/ngneat/spectator
 - https://github.com/wallabyjs/public
+- https://github.com/nas5w/combinate
 - https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
 - https://github.com/just-jeb/jest-marbles
@@ -1501,6 +1505,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/SAP/spartacus
 - https://angularexpo.com
 - https://ng-alain.com
+- https://abp.io/
 
 ## ECOSYSTEM: DEMO: SOURCES
 

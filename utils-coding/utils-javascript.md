@@ -8,6 +8,7 @@
 - https://vanillajstoolkit.com/
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/getify/You-Dont-Know-JS
 - https://exploringjs.com/deep-js/
@@ -62,6 +63,8 @@
 - https://github.com/getcrft/jsonizer
 - https://github.com/stalniy/casl
 - https://github.com/typeorm/typeorm
+- https://github.com/nas5w/combinate
+- https://github.com/vvo/tzdb/
 
 ## LIB FRONTEND
 
@@ -82,6 +85,7 @@
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon
 - https://github.com/google/model-viewer
+- https://github.com/aeroheim/midori
 
 ## LIB AI
 - https://github.com/BrainJS/brain.js

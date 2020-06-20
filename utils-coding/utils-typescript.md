@@ -12,7 +12,7 @@
 - https://nehalist.io/5-typescript-tips-to-improve-your-architecture/
 - https://www.sitepoint.com/10-essential-typescript-tips-tricks-angular/
 - https://dev.to/phenomnominal/stricter-typescript-compilation-with-betterer-dp7
-
+- https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414
 
  ## UTILS
 
