@@ -52,3 +52,7 @@ https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-sn
 
 - https://github.com/enaqx/awesome-react
 - https://github.com/brillout/awesome-react-components
+
+## JAMSTACK
+
+- https://github.com/gatsbyjs/gatsby
