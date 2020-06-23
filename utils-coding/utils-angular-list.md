@@ -880,6 +880,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://www.youtube.com/watch?v=T-vQoI_AM9E Magical TypeScript features for NgRx
 - https://www.youtube.com/watch?v=UEcdQR-NoNA Using Redux in Angular 2+ Apps
 - https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
+- https://www.youtube.com/watch?v=YbYj4b2yIN8 Advanced NgRx Techniques
 - https://www.youtube.com/watch?v=1hlXlsaMeTs Simple login/logout
 
 ## ECOSYSTEM: STORE: NGRX/DATA
