@@ -379,6 +379,12 @@ runtimeChecks: {
 6. Overly smart conponents: instead of waiting actions success in your components, you should use the state instead, also think you can do router in your effects, you can trigger toaster from your effects
 7. Large effects are problematic: When you're deciding where to re-allocate business logic put it (in priority order: (1. In external pure function > 2. In a selector > 3. In a service > 4. In an effect)): Selectors are easier to test and easier to understand. Services are slightly harder in both categories. Effects are the hardest of all. Only put code there that absolutely needs to go there (asynchronous call for instance).
 
+### Tips
+
+- don't forget to release when you use a selector with parameter ex: 
+- selectTotal(state); // returns the memoized value of 8
+- selectTotal.release(); // memoized value of selectTotal is now null
+
 ### Components
 
 So @ngrx/component (and partly @ngrx/component-store) are all about leveraging the observable as the primary means of change detection in Angular apps. The goal is to enable fully reactive Angular applications to run without Zone.js. Right now we accomplish this with two APIs:
