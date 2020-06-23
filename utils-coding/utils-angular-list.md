@@ -822,6 +822,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/timdeschryver/ngrx-etc
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/briebug/ngrx-auto-entity
+- https://github.com/briebug/ngrx-entity-schematic
 - https://github.com/larscom/ngrx-store-storagesync
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload

@@ -381,9 +381,13 @@ runtimeChecks: {
 
 ### Tips
 
-- don't forget to release when you use a selector with parameter ex: 
+1. Don't forget to release when you use a selector with parameter, you can eventually release in the effect when you get a new value. ex: 
 - selectTotal(state); // returns the memoized value of 8
 - selectTotal.release(); // memoized value of selectTotal is now null
+2. Split nested data apart for store: split directly in service or effect or helper functions
+3. Use NgRx Entity if you load data from api and you are dealing with array of objects. You will get many utility functions. ex: find by id, fast shortcuts like that...
+4. Use NgRx Data if you have a very big app with many entities (+40).
+5. Use NgRx Entity Schematic to skaffold entities with actions, effects, reducer, model, service, and passing specs.
 
 ### Components
 
