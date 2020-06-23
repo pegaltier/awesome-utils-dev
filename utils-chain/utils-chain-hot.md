@@ -164,6 +164,7 @@ holo github>>
 - https://github.com/aimparency/mprnc-gui
 - https://github.com/nphias/ng-graphql-hc-starter
 - https://github.com/nphias/liquidDemocracy
+- https://github.com/LunarPunk-Labs/social-graph
 
 holo tools>>
 - https://github.com/holochain-open-dev
