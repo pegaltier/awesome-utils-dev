@@ -81,6 +81,7 @@
 - https://github.com/mamunhpath/josh.js
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/juliangarnier/anime
+- https://github.com/greensock/GSAP
 
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon

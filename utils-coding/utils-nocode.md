@@ -10,6 +10,7 @@
 - https://www.newco.app
 - https://zeroqode.com
 - https://bubble.is
+- https://www.duda.co/
 
 ## api
 - https://github.com/xgenecloud/xgenecloud

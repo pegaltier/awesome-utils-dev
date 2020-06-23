@@ -25,6 +25,7 @@
 - https://github.com/davglass/license-checker
 - https://github.com/localtunnel/localtunnel
 - https://github.com/vercel/ncc
+- https://github.com/sezna/nps
 
 ## MONITORING
 
@@ -44,6 +45,11 @@
 - https://github.com/typeorm/typeorm
 - https://github.com/sequelize/sequelize
 - https://github.com/strongloop/loopback-next
+
+## CLI
+
+- https://docs.npmjs.com/cli/ci.html
+- https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
 
 ## NEST
 
