@@ -20,7 +20,14 @@
 
 ## LIB
 
-- todo add boostrap etc...
+- https://github.com/troxler/awesome-css-frameworks
+
+## BAD
+
+- https://github.com/ffoodd/a11y.css
+- https://github.com/Heydon/REVENGE.CSS
+- https://github.com/imbrianj/debugCSS
+- https://github.com/nternetinspired/debug-css
 
 ## FUN
 

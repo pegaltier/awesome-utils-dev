@@ -32,6 +32,7 @@
 - https://typeofnan.dev/10-javascript-quiz-questions-and-answers/
 - https://codesource.io/javascript-design-patterns/
 - https://github.com/lydiahallie/javascript-questions#readme
+- https://levelup.gitconnected.com/javascript-best-practices-functions-and-mutations-43d76e280cfe
 
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/

@@ -191,6 +191,7 @@ Learn about the most useful design patterns in Angular.
 - https://medium.com/weekly-webtips/generating-dynamic-templates-from-json-in-angular-fe6322b93d5b
 - https://blog.logrocket.com/how-typescript-design-patterns-help-you-write-better-code/
 - https://medium.com/volosoft/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates-f681127e2537
+- https://angular-academy.com/angular-architecture-best-practices/
 
 ## HELPER: CHEAT-SHEETS
 
@@ -401,11 +402,13 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 ## CORE: DIRECTIVES
 
 - https://stackblitz.com/edit/repeat-times-directive
+- https://www.newline.co/@krishna/angular-directives-demystified--effcda6a
 
 ## CORE: COMPONENTS
 
 create your first components, learn how to use translusions, ng-content...
 
+- https://speakerdeck.com/eliraneliassy/custom-components-templates
 - https://scotch.io/tutorials/creating-your-first-angular-2-components
 - https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
 - http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/
@@ -1437,6 +1440,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/ngneat/dirty-check-forms
 - https://github.com/ngneat/error-tailor
+- https://github.com/xtreamsrl/ngx-validation-errors
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/gparlakov/forms-typed/blob/master/projects/forms/
 - https://github.com/gparlakov/forms-typed/blob/master/projects/show-form-control/

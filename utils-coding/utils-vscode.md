@@ -41,10 +41,13 @@
 
 - https://github.com/liximomo/vscode-sftp
 
-## TIPS
+## TIPS1
 
 - https://www.youtube.com/watch?v=xvouNGp7erI
 - https://www.youtube.com/watch?v=u21W_tfPVrY
+
+## TIPS2
+- https://dev.to/cooperdev/regex-search-and-replace-with-vs-code-4911
 
 ### SHORTCUTS
 
