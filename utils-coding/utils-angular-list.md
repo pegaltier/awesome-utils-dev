@@ -1357,6 +1357,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kamiazya/ngx-speech-recognition
 - https://github.com/angular-slider/ng5-slider
 - https://github.com/surveyjs/survey-library
+- https://github.com/leifermendez/ngx-copilot
 - https://github.com/ngneat/helipopper
 
 ## ECOSYSTEM: LIB: GRID/TABLE
