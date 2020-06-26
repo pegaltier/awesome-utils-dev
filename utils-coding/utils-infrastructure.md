@@ -26,6 +26,15 @@
 - https://github.com/veggiemonk/awesome-docker
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 
+1) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐭𝐨𝐩:  Displays the container's running processes
+$ docker top <container>
+
+2) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐩𝐨𝐫𝐭: Lists container's port mappings
+$ docker port <container>
+
+3) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐤𝐢𝐥𝐥: Kills the process! (not ideal)
+$ docker kill <container>
+
 ## VAGRANT
 sudo vagrant up				>> ensure that .vagrant/machines/default/virtualbox/creator_uid is 0
 sudo vagrant halt

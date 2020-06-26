@@ -11,11 +11,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-REACT UTILS
+# REACT
 
 ## STYLE GUIDE
-utils : https://github.com/airbnb/javascript/tree/master/react
-https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets&WT.mc_id=simplereactsnippets-twitter-buhollan
+https://github.com/airbnb/javascript/tree/master/react
+https://khalilstemmler.com/articles/client-side-architecture/introduction/
+https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
 ## HTTP PROMISE 
 libs : http://andrewhfarmer.com/ajax-libraries/

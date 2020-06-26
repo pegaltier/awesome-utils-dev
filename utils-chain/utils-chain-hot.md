@@ -156,8 +156,6 @@ holo github>>
 - https://github.com/miyazakid/coreconcepts
 - https://github.com/aimparency/mprnc-on-holochain
 - https://github.com/felixniemeyer/trait_implementations
-- https://github.com/holochain-open-dev/social-triangulation
-- https://github.com/holochain-open-dev/community-mutual-credit
 - https://github.com/HexaField/conjure
 - https://github.com/bayramlcm/holo-me
 - https://github.com/hc-institute-japan/Kizuna
@@ -167,9 +165,12 @@ holo github>>
 - https://github.com/LunarPunk-Labs/social-graph
 
 holo tools>>
+- https://github.com/holochain/RAD-Tools-Phase-2
 - https://github.com/holochain-open-dev
 - https://github.com/eyss/holochain_roles
 - https://github.com/holochain/holochain-anchors
+- https://github.com/holochain-open-dev/community-mutual-credit
+- https://github.com/holochain-open-dev/allowed-members-zome
 - https://github.com/holochain-open-dev/remote-bridge
 - https://github.com/holochain-open-dev/cloned-dnas-tracker
 - https://github.com/holochain-open-dev/agent-registration

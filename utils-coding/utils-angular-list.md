@@ -634,6 +634,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 ## CORE: ANIMATIONS
 
 - https://dev.to/angular/angular-animate-css-in-five-easy-steps-8o6
+- https://netbasal.com/creating-reusable-animations-in-angular-6a2350d6191a
 - https://medium.com/google-developer-experts/angular-supercharge-your-router-transitions-using-new-animation-features-v4-3-3eb341ede6c8
 - http://www.dzurico.com/angular-animate
 - https://blog.thecodecampus.de/angular-2-animate-creating-sliding-side-navigation
@@ -1080,6 +1081,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/nrwl/nx
 - https://github.com/wizdmio/wizdm
 - https://github.com/angular/angular-cli
+- https://github.com/martinoppitz/leanup
 - https://github.com/jhipster/generator-jhipster
 - https://github.com/maximegris/angular-electron
 - https://github.com/ngx-rocket/generator-ngx-rocket
@@ -1352,6 +1354,7 @@ Analyze and optimize the performance of your app
 - https://github.com/mattlewis92/angular-confirmation-popover
 - https://github.com/mattlewis92/angular-draggable-droppable
 - https://github.com/mattlewis92/angular-resizable-element
+- https://github.com/kamiazya/ngx-speech-recognition
 - https://github.com/angular-slider/ng5-slider
 - https://github.com/surveyjs/survey-library
 - https://github.com/ngneat/helipopper
@@ -1492,6 +1495,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/vladotesanovic/ngSemantic
 - https://teradata.github.io/covalent/#/
 
+## ECOSYSTEM: LIB: PWA
+- https://github.com/cyrilletuzi/ngx-pwa-offline
 
 ## ECOSYSTEM: CI/CD
 
@@ -1587,6 +1592,7 @@ Learn how to build mobile applications using angular. You will find many cross p
 - https://github.com/NativeScript/template-hello-world-ng
 - https://github.com/NativeScript/sample-ng-todomvc
 - https://www.nativescript.org
+- https://nativescript.org/ionic/
 - https://www.nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular
 - http://www.telerik.com/nativescript-ui
 - https://github.com/telerik/nativescript-ui-samples
