@@ -56,4 +56,5 @@ https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-sn
 
 ## JAMSTACK
 
+- https://github.com/sanity-io
 - https://github.com/gatsbyjs/gatsby
