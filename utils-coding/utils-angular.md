@@ -298,8 +298,6 @@ choose the appropriate operator based on the use case:
 - concatMap: for doing things in sequence while waiting for completion
 - exhaustMap: for ignoring new Observables while the current one is still ongoing
 
-more infos: - https://ncjamieson.com/avoiding-switchmap-related-bugs/
-
 #### COMBINATION
 
 They enable us to join information from multiple observables. Order, time, and structure of emitted values are the primary differences among them.
@@ -329,7 +327,9 @@ They enable us to join information from multiple observables. Order, time, and s
 ### MORE OPERATORS
 
 - http://reactivex.io/rxjs/manual/overview.html#operators
+- https://ncjamieson.com/avoiding-switchmap-related-bugs/
 - https://www.freecodecamp.org/news/understand-rxjs-operators-by-eating-a-pizza/
+- https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
 - https://stackoverflow.com/questions/41797439/rxjs-observable-combinelatest-vs-observable-forkjoin
 
 ## REDUX / NGRX
