@@ -999,6 +999,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://youtu.be/0I8D25nab5c xplat multi-platform tools for Nx workspaces with Nathan Walker
 - https://youtu.be/uUSe0QZm6AE Cross Platform with Angular and Ionic 4 by Mike Hartington
 - https://youtu.be/pcTSDMid-aE AngularAir - Advanced Nx
+- https://youtu.be/hQ5qCK9-n2Q Angular Monorepo Diaries | Balazs Korossy-Khayll
 - https://www.twitch.tv/videos/636354209 NX plugin example: NX Ionic React
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
@@ -1026,6 +1027,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/angularbuilders/angular-blueprint
 - https://github.com/lydemann/Todo-monorepo
 - https://github.com/korfuri/awesome-monorepo
+- https://github.com/balazsconf/monodemo
 - https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
