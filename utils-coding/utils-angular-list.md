@@ -1496,7 +1496,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NG-ZORRO/ng-zorro-antd-mobile
 - https://github.com/ng-lightning/ng-lightning
 - https://github.com/vladotesanovic/ngSemantic
-- https://teradata.github.io/covalent/#/
+- https://github.com/kikstart-ui/kikstart-ui
+- https://github.com/Teradata/covalent
 
 ## ECOSYSTEM: LIB: PWA
 - https://github.com/cyrilletuzi/ngx-pwa-offline
