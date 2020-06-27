@@ -30,6 +30,7 @@
 - https://github.com/slimphp/Slim-Console
 - http://php-di.org/doc/frameworks/slim.html
 - https://github.com/laminas/laminas-hydrator
+- https://github.com/laminas/laminas-permissions-acl/
 - https://aimeos.org/slim-ecommerce-package/
 
 ## SLIM PHP V3 SKELETON
