@@ -1486,6 +1486,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components
 - https://github.com/valor-software/ngx-bootstrap
 - https://github.com/ng-bootstrap/ng-bootstrap
+- https://github.com/swimlane/ngx-ui
 - https://github.com/akveo/nebular/
 - https://github.com/vmware/clarity
 - https://github.com/rdkmaster/jigsaw
