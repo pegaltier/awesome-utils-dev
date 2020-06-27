@@ -14,27 +14,26 @@
 # REACT
 
 ## STYLE GUIDE
-https://github.com/airbnb/javascript/tree/master/react
-https://khalilstemmler.com/articles/client-side-architecture/introduction/
-https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
+- https://github.com/airbnb/javascript/tree/master/react
+- https://khalilstemmler.com/articles/client-side-architecture/introduction/
+- https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
 ## HTTP PROMISE 
-libs : http://andrewhfarmer.com/ajax-libraries/
-fetch (standard): https://developer.mozilla.org/en-US/docs/Web/API/GlobalFetch/fetch
-axios (lib) : https://github.com/mzabriskie/axios
+-  http://andrewhfarmer.com/ajax-libraries/
+- https://developer.mozilla.org/en-US/docs/Web/API/GlobalFetch/fetch
+- https://github.com/mzabriskie/axios
 
 ## COMPONENT
 http://boundless.js.org
 
 ## CLI
-react-create-app : https://github.com/facebookincubator/create-react-app
-react-create-app : https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
+- https://github.com/facebookincubator/create-react-app
+- https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 
 
 ## THEME TOOLS PLUGIN IDE MARKET
-https://reactstrap.github.io/
-https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
-
+- https://reactstrap.github.io/
+- https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
 
 ## NATIVE
