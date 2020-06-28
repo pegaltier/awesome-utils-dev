@@ -114,6 +114,11 @@
 - https://patterncooler.com  ****
 - https://pattern.flaticon.com
 - http://www.patternify.com
+- https://svgeez.com/
+- https://patterninja.com/
+- https://loading.io/pattern/
+- https://www.wowpatterns.com
+- https://philiprogers.com/svgpatterns/
 - https://www.patternous.com/free
 - http://www.texturemate.com
 - http://www.colourlovers.com/patterns
