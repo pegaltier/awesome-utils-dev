@@ -46,6 +46,7 @@ http://boundless.js.org
 ## LIBS
 
 - https://github.com/moroshko/basis
+- https://github.com/re-rxjs/re-rxjs
 - https://github.com/facebookexperimental/Recoil
 
 ## LIST
