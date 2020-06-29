@@ -1104,6 +1104,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 ## ECOSYSTEM: JAMSTACK
 
+- https://scully.io/docs/plugins/
 - https://github.com/snipcart/scully-snipcart-store
 - https://d-koppenhagen.de/blog/2020-01-angular-scully
 - https://d-koppenhagen.de/blog/2020-03-dig-deeper-into-scully-ssg
@@ -1145,6 +1146,10 @@ Learn how to make your own angular lib, build, distribute.
 
 - https://github.com/scullyio/scully
 - https://github.com/chrisguttandin/angular-prerender
+- https://github.com/scullyio/scully/tree/main/libs/plugins
+- https://github.com/scullyio/scully/tree/main/libs/plugins/extra
+- https://github.com/scullyio/scully/tree/main/libs/plugins/from-data
+- https://github.com/scullyio/scully/tree/main/libs/plugins/base-href-rewrite
 - https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-disable-angular
 - https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-minify-html
 
