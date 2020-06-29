@@ -1,7 +1,10 @@
 
 # DOC
 
+Generate documentation from markdown files.
 
 ## LIBS
 
-- https://dokz.site/
+- https://github.com/remorses/dokz
+- https://github.com/honkit/honkit
+- https://github.com/thlorenz/doctoc

@@ -265,3 +265,11 @@ git submodule sync --recursive
 # update the submodule from the new URL
 git submodule update --init --recursive
 ```
+
+- pin a submodule
+```
+cd submodule
+git checkout 1eeda2931087d0d9ab693484e0b0d41e13cd9cb1
+cd ..
+git commit -m "pins latest @submodule"
+```

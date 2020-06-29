@@ -1104,7 +1104,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 ## ECOSYSTEM: JAMSTACK
 
-
+- https://github.com/snipcart/scully-snipcart-store
 - https://d-koppenhagen.de/blog/2020-01-angular-scully
 - https://d-koppenhagen.de/blog/2020-03-dig-deeper-into-scully-ssg
 - https://github.com/d-koppenhagen/d-koppenhagen.de/tree/master/src/app
@@ -1139,7 +1139,14 @@ Learn how to make your own angular lib, build, distribute.
 - http://www.gistia.com/optimize-angular-2-applications
 - https://medium.com/spektrakel-blog/angular-writing-aot-friendly-applications-7b64c8afbe3f
 - http://dbarnes.me/writing-an-aot-compliant-angular-library
+- https://www.netlify.com/blog/2020/02/24/update-on-scully-angulars-static-site-generator/
 
+## ECOSYSTEM: LIB: JAMSTACK
+
+- https://github.com/scullyio/scully
+- https://github.com/chrisguttandin/angular-prerender
+- https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-disable-angular
+- https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-minify-html
 
 ## ECOSYSTEM: LIB: IMMUTABLE
 
@@ -1521,6 +1528,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/akveo/ngx-admin
 - https://github.com/ng-alain/ng-alain
 - https://github.com/SAP/spartacus
+- https://github.com/snipcart
 - https://angularexpo.com
 - https://ng-alain.com
 - https://abp.io/

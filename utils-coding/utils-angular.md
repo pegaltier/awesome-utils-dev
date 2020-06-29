@@ -645,7 +645,8 @@ nx serve my-project-my-app # start the new project
 
 ```
 npm run build # Angular build
-npm run scully -- --scanRoutes  # generate static build and force checking new routes
+npm run scully -- --scanRoutes # generate static build and force checking new routes
+npm run scully:serve -- --scanRoutes # serve static build and force checking new routes
 npm run scully serve # serve the scully results
 ```
 
