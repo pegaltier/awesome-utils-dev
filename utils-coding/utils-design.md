@@ -128,6 +128,7 @@
 - https://css-tricks.com/websites-generate-svg-patterns/
 - https://unsplash.com/search/photos/texture
 - https://unsplash.com/search/photos/pattern
+- https://products.ls.graphics/paaatterns/
 - https://1stwebdesigner.com/pattern-generator-online/
 - https://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
 
