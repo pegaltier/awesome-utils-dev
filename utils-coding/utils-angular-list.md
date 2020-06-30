@@ -1382,6 +1382,7 @@ Analyze and optimize the performance of your app
 - https://github.com/swimlane/ngx-datatable
 - https://github.com/yohangz/ornamentum
 - https://github.com/kreuzerk/ng-sortgrid
+- https://github.com/SheetJS/sheetjs
 
 ## ECOSYSTEM: LIB: SCROLL
 
