@@ -2,6 +2,7 @@
 
 ## GUIDE / TOOLS
 - https://1loc.dev/
+- https://bestofjs.org/
 - https://devhints.io/lodash
 - https://airbnb.io/javascript/
 - https://sulco.stackblitz.io/

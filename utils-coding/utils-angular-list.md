@@ -1084,6 +1084,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/wizdmio/wizdm
 - https://github.com/angular/angular-cli
 - https://github.com/martinoppitz/leanup
+- https://github.com/maximegris/angular-electron
 - https://github.com/jhipster/generator-jhipster
 - https://github.com/maximegris/angular-electron
 - https://github.com/ngx-rocket/generator-ngx-rocket
@@ -1296,6 +1297,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
 - https://github.com/NoriSte/cypress-wait-until
+- https://github.com/cypress-io/cypress-xpath
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
 - https://github.com/nas5w/combinate
@@ -1516,6 +1518,7 @@ Add a progressbar for displaying a loader during the different async task like h
 ## ECOSYSTEM: LIB: PWA
 - https://github.com/cyrilletuzi/ngx-pwa-offline
 - https://ionicframework.com/docs/angular/pwa
+- https://github.com/OnsenUI/OnsenUI
 
 ## ECOSYSTEM: CI/CD
 

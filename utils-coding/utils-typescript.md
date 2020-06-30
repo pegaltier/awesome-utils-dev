@@ -16,6 +16,7 @@
 
  ## UTILS
 
+- https://github.com/hqoss/guards
 - https://github.com/palmerhq/tsdx
 - https://github.com/jun-sheaf/ts-japi
 - https://github.com/renke/import-sort
@@ -23,6 +24,7 @@
 - https://github.com/runem/ts-simple-type
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
+- https://github.com/kreuzerk/import-conductor
 - https://github.com/ostrowr/ts-json-validator
 - https://github.com/jonaskello/tslint-immutable
 - https://github.com/Idered/typescript-expect-plugin

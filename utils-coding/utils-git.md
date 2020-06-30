@@ -35,6 +35,9 @@
 ## TOOLS
 - https://github.com/conventional-changelog/standard-version
 - https://github.com/conventional-changelog/commitlint
+- https://github.com/kreuzerk/import-conductor
+- https://github.com/okonet/lint-staged
+- https://github.com/alibaba/hooks
 - https://github.com/jesseduffield/lazygit
 - https://github.com/observing/pre-commit
 - https://github.com/commitizen/cz-cli
