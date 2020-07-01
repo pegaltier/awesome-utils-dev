@@ -1385,6 +1385,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/SheetJS/sheetjs
 - https://github.com/paulhodel/jexcel
+- https://github.com/sbstjn/timesheet.js
 
 ## ECOSYSTEM: LIB: SCROLL
 

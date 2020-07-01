@@ -1,25 +1,30 @@
 # JAVASCRIPT
 
-## GUIDE / TOOLS
-- https://1loc.dev/
-- https://bestofjs.org/
-- https://devhints.io/lodash
-- https://airbnb.io/javascript/
+## GUIDE-WEB
+
+- https://javascript.info/ 
 - https://sulco.stackblitz.io/
+- https://airbnb.io/javascript/
 - https://vanillajstoolkit.com/
+- https://learnjavascript.online/
+- https://learnjavascript.online/ 
+- https://exploringjs.com/deep-js/
+- https://learnvanillajs.com/roadmap/
+- https://learn.co/courses/introduction-to-javascript
+- https://watchandcode.com/p/practical-javascript
+
+## GUIDE-OPEN
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/getify/You-Dont-Know-JS
-- https://exploringjs.com/deep-js/
-- https://learnvanillajs.com/roadmap/ 
-- https://learnjavascript.online/
 - https://github.com/leonardomso/33-js-concepts
-- https://learn.co/courses/introduction-to-javascript
-- https://watchandcode.com/p/practical-javascript
-- https://javascript.info/ 
-- https://learnjavascript.online/ 
+
+## CHEAT-SHEETS
+
+- https://1loc.dev/
+- https://devhints.io/lodash
 
 ## ARTICLES BEST PRACTICES
 - https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397
@@ -45,6 +50,11 @@
 
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
+
+## LIB LIST
+
+- https://awesomeopensource.com/
+- https://bestofjs.org/
 
 ## LIB UTILS
 
