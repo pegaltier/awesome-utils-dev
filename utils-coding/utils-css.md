@@ -34,11 +34,11 @@
 - https://jdan.github.io/98.css/
 - https://github.com/AbimaelAndrade/twitter-flexbox
 
-## POSITIONING
+## POSITION
 
 - position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
 - by default html elements are position: static; in this case these adjusting properties above will not do anything.
-- after choosing a position then html elements are then positioned using the adjusting properties: top, bottom, left and right. But those adjusting properties will work differently depending on the position value :
+- after choosing a position then html elements are then positioned using the adjusting properties: top, bottom, left and right. But those adjusting properties will work differently depending on the position value:
 
 - position: static; # element is not affected by the adjusting properties.
 - position: relative; # element is positioned relative to its normal position.
@@ -47,6 +47,13 @@
 - position: sticky; # element is positioned relative to its normal position and toggle to fixed based on the user's scroll position.
 
 - learn more: https://www.w3schools.com/css/css_positioning.asp
+
+## DISPLAY
+
+- it's recommended to use `grid` for layout tags and then `flex` for component level. Because grid can allow simple and powerful adjustement based on the width. Flex will adjust automatically depending on the size so it's perfect for avoiding adjustement issue on small components.
+- it's recommended to use `div (section, article, header, footer)` for layout, `p` for text content and then `span` for component level. Because div and p are `block` (full width and equivalant to line-break before and after it). Span is `inline` so your things will stays on the same line. Even better you can avoid `span` with others specific in-line such as: `b,i,em...` 
+
+- learn more: https://www.w3schools.com/cssref/pr_class_display.asp
 
 ## SPECIFICITY
 
