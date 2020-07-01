@@ -934,6 +934,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/davidkpiano/xstate/
 - https://github.com/georgebatalinski/localstatetodo
 - https://github.com/NetanelBasal/akita-ng-forms-manager
+- https://github.com/trungk18/jira-clone-angular
 - https://stackblitz.com/edit/rxjs-arjn1h
 - http://www.getbreezenow.com/
 - https://medium.com/ngxs/ngxs-facade-3aa90c41497b
@@ -1383,6 +1384,7 @@ Analyze and optimize the performance of your app
 - https://github.com/yohangz/ornamentum
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/SheetJS/sheetjs
+- https://github.com/paulhodel/jexcel
 
 ## ECOSYSTEM: LIB: SCROLL
 
