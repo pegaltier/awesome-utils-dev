@@ -36,6 +36,7 @@
 - https://github.com/azz/pretty-quick
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/microsoft/playwright
+- https://github.com/arcanis/clipanion
 
 ## FRAMEWORKS
 

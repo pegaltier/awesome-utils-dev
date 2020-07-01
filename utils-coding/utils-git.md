@@ -45,6 +45,9 @@
 - https://gitexplorer.com/
 - https://projectr.io/
 
+## TEMPLATES
+- https://github.com/stevemao/github-issue-templates
+
 ## MOST USED
 
 ```

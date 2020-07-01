@@ -40,6 +40,7 @@
 ## TOOLS
 
 - https://github.com/liximomo/vscode-sftp
+- https://github.com/foambubble/foam
 
 ## TIPS1
 
