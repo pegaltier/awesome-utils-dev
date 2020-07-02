@@ -1798,6 +1798,11 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 - http://g.co/ng/weekly-notes
 
+### ANGULAR10
+
+- https://blog.angular.io/version-10-of-angular-now-available-78960babd41
+- https://volosoft.com/blog/what-is-new-in-angular-10
+
 ### ANGULAR9
 
 - https://trilon.io/blog/angular-universal-v9-whats-new
