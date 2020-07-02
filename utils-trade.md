@@ -17,6 +17,12 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - trend following (suivi de tendance)
 - mean reversion (retour à la moyenne)
 
+## FILTER STRATEGY
+- detect the asset to focus on for a swing (3 days to 30 days)
+- the best TA pattern
+- the best risk/rewards ratio
+- take position and wait confirmation
+
 ## GAPS
 
 - gap downs have a higher proba of filling than gap ups
