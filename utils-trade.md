@@ -23,6 +23,17 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - the best risk/rewards ratio
 - take position and wait confirmation
 
+## VOLATILITY
+- when the volatility is high it's risky so just do day-trading and secure gain after few hours
+- when the volatility is low it's safe so just do swing-trading and secure gain after few days
+
+## TREND
+- bull market usually takes many years (24 months to 72 months)
+- bear market usually takes few months (8 months to 18 months)
+- you can make more money in bear (assets falls 7 times faster than they rise)
+- then you have a lot of money to buy the bottom with simple technical analysis
+- you can focus on stock which offers a very good dividends (7/10 percents)
+
 ## GAPS
 
 - gap downs have a higher proba of filling than gap ups
