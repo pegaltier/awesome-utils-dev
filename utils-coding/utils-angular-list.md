@@ -193,6 +193,7 @@ Learn about the most useful design patterns in Angular.
 - https://medium.com/volosoft/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates-f681127e2537
 - https://angular-academy.com/angular-architecture-best-practices/
 - https://dev.to/gc_psk/composing-angular-components-with-typescript-mixins-dn3
+- https://medium.com/angular-in-depth/agnostic-components-in-angular-2427923b742d
 - https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
 
 ## HELPER: CHEAT-SHEETS
@@ -410,11 +411,15 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 
 create your first components, learn how to use translusions, ng-content...
 
+- https://indepth.dev/heres-what-you-should-know-when-creating-flexible-and-reusable-components-in-angular/
+- https://dev.to/gc_psk/composing-angular-components-with-typescript-mixins-dn3
+- https://medium.com/angular-in-depth/agnostic-components-in-angular-2427923b742d
+- https://blog.bitsrc.io/component-reusability-techniques-with-angular-727a6c603ad2
+- https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
 - https://speakerdeck.com/eliraneliassy/custom-components-templates
 - https://scotch.io/tutorials/creating-your-first-angular-2-components
 - https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
 - http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/
-- https://blog.bitsrc.io/component-reusability-techniques-with-angular-727a6c603ad2
 - https://blog.angularindepth.com/creating-reusable-angular-components-how-to-avoid-the-painful-trap-most-go-in-d531761d6c7a
 - https://coryrylan.com/blog/angular-custom-form-controls-with-reactive-forms-and-ngmodel
 - https://embed.plnkr.co/Yj93mh5ZnX6ONtaMQPAQ/

@@ -97,6 +97,7 @@
 
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon
+- https://github.com/team-video/tragopan
 - https://github.com/google/model-viewer
 - https://github.com/aeroheim/midori
 

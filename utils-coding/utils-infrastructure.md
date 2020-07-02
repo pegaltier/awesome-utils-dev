@@ -35,6 +35,19 @@ $ docker port <container>
 3) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐤𝐢𝐥𝐥: Kills the process! (not ideal)
 $ docker kill <container>
 
+4) 𝗱𝗼𝗰𝗸𝗲𝗿 𝗱𝗶𝗳𝗳: An handy command to check any changes to:
+-files
+-directories 
+
+on the container’s filesystem
+
+A: added file or directory
+C: changed file or directory was 
+D: deleted file or directory
+
+Usage:
+docker diff <container_ID/container_name>
+
 ## VAGRANT
 sudo vagrant up				>> ensure that .vagrant/machines/default/virtualbox/creator_uid is 0
 sudo vagrant halt

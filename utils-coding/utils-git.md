@@ -31,6 +31,7 @@
 - https://guides.github.com/features/mastering-markdown
 - https://juristr.com/blog/2019/04/productive-git-for-developers
 - https://www.atlassian.com/git/tutorials/setting-up-a-repository
+- https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/
 
 ## TOOLS
 - https://github.com/conventional-changelog/standard-version
