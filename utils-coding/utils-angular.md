@@ -683,12 +683,13 @@ npm run scully serve # serve the scully results
 
 - Shared modules will be imported by many lazy loaded features so they must only contain declarables (components, directives and pipes) and modules (which only contain declarables) and must NEVER implement any services (providers: [ ]).
 
-### Services
+### DI Services
 
 - Core services (not lazy) must be in the core folder and can use the providedIn: 'root' syntax from their @Injectable() decorators and then can be used in all kind of modules (lazy or not) without putting them in providers: [ ] of any module...
 - Shared services (shared by multiple lazy or core modules) if you put your services inside the provider array of the shared module and then use shared like its intented to use in multiple lazy modules then every lazy loaded module would get its own service instance and not the intented singleton. In this case (only for shared modules) you can also use forRoot/forChild with providers that are going to be imported into both eager and lazy module modules.
 - Tree-shaking services are now possible by using the providedIn: 'root', 'platform', 'any', ExampleModule, like that if the service is never injected it will be removed of the bundle at compilation.
 - Feature services (lazy module) can be scoped to that feature by removing the providedIn: 'root' from their @Injectable() decorators and adding them to the providers: [ ] array of the lazy feature module instead.
+- Component services can be scoped to that component by removing the providedIn: 'root' from their @Injectable() decorators and adding them to the providers: [ ] array of the component. The service will be available in all child components, the view child and the content child. In addition to providers you can add viewProviders array if you want to scope the same token (with different class) only for the component view itself and consequently the content children (ng-content) will use the service from the providers array defined first.
 - Shared services between multiple apps or Angular Elements. You can use the providedIn: 'platform' in order to make a service available between multiple apps or Angular Elements.
 - Non singleton services. You can use the providedIn: 'any' in order to create isolated (not singleton) services for every child injector.
 

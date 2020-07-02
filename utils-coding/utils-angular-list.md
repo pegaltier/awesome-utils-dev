@@ -192,6 +192,8 @@ Learn about the most useful design patterns in Angular.
 - https://blog.logrocket.com/how-typescript-design-patterns-help-you-write-better-code/
 - https://medium.com/volosoft/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates-f681127e2537
 - https://angular-academy.com/angular-architecture-best-practices/
+- https://dev.to/gc_psk/composing-angular-components-with-typescript-mixins-dn3
+- https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
 
 ## HELPER: CHEAT-SHEETS
 
@@ -630,6 +632,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 - http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
 - http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/
 - https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
+- https://debugmode.net/2020/06/24/when-to-use-viewproviders-in-angular-simplified/
 
 ## CORE: ANIMATIONS
 
