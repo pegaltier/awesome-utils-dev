@@ -909,6 +909,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 ## ECOSYSTEM: STORE: NGRX/COMPONENT
 
 - https://ngrx.io/guide/component
+- https://medium.com/ngconf/a-first-look-at-ngrx-component-f7fcbf83669a
 
 ## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
 
@@ -1384,6 +1385,7 @@ Analyze and optimize the performance of your app
 - https://github.com/surveyjs/survey-library
 - https://github.com/leifermendez/ngx-copilot
 - https://github.com/ngneat/helipopper
+- https://github.com/coryrylan/ngx-lite
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 
