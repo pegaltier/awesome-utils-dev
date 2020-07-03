@@ -155,6 +155,11 @@ debut de l'article contient le mot clef ciblé (50 – 100, de préférence mêm
 - https://ludwig.im/en/projects/html5-and-schema.org-seo-best-practices-for-microdata
 - https://www.alsacreations.com/article/lire/1509-microdata-microformats-schema-semantique.html
 
+## JSON-LD
+- https://jsonld.com/blog-post/
+- https://json-ld.org/playground/index.html
+- https://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/
+
 # WORPRESS RICH SNIPPETS
 BEST : https://en-gb.wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/
 BEST : https://fr.wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/
