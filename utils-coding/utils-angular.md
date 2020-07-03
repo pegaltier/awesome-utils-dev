@@ -267,6 +267,9 @@ They are pure functions. The function always returns the same result if the same
 
 #### TRANSFORMATION
 
+- first order mapping transforms each emitted value and emits the result (ex: map, pluck...)
+- higher-order mapping transforms each emitted value to an observable (ex: mergeMap, switchMap...)
+
 - mapTop: map emissions to constant value.
 - map: apply projection with each value from source.
 - mergeScan: allow to accumulate value over time via merged observables.
@@ -292,11 +295,16 @@ All *Map operators below consist of two parts — producing a stream of observab
 All *All operators below corresponds to the combination logic (the second part of the *Map) operators above. Ex: Map operator produces a stream of observables and mergeAll combines values from these observables and so we can easily replace map and mergeAll with the simpler mergeMap.
 - concatAll/mergeAll/switchAll
 
+- PROCESS:
+- map each value from the source/outter obs to a new inner obs
+- automatically subscribe and unsubscribe from the inner obs
+- emits the resulting values to the output observable
+
 choose the appropriate operator based on the use case:
-- mergeMap: for doing things in parallel
-- switchMap: for doing cancellation of the previous
-- concatMap: for doing things in sequence while waiting for completion
-- exhaustMap: for ignoring new Observables while the current one is still ongoing
+- concatMap is ideal to process items in sequence while waiting for completion and when the order is important
+- mergeMap is ideal to process items in parallel and when the order is not important
+- switchMap is ideal to cancel the previous task and process only the most recent
+- exhaustMap is ideal for ignoring new observables while the current one is still ongoing
 
 #### COMBINATION
 

@@ -979,6 +979,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/module-federation-with-angular
+- https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/module-federation
 - https://github.com/newvladimirov/module-federation-with-angular-universal
@@ -1268,6 +1269,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/tanepiper/rxjs-primitives
 - https://github.com/nilsmehlhorn/ngx-operators
 - https://github.com/alex-okrushko/backoff-rxjs
+- https://github.com/timdeschryver/rxjs-operator-counter
 
 ## ECOSYSTEM: LIB: GENERAL
 

@@ -47,6 +47,7 @@ http://boundless.js.org
 
 - https://github.com/moroshko/basis
 - https://github.com/re-rxjs/re-rxjs
+- https://github.com/tajo/react-movable
 - https://github.com/facebookexperimental/Recoil
 
 ## LIST

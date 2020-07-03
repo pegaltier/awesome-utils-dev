@@ -107,6 +107,9 @@ xampp multiple !:
 - https://github.com/jasny/sso
 - http://stackoverflow.com/questions/4061537/best-way-to-implement-single-sign-on-with-all-major-providers
 
+## VALIDATION
+- https://github.com/vlucas/valitron
+- https://github.com/selective-php/validation
 
 ## IMAGE
 - https://github.com/eventviva/php-image-resize
