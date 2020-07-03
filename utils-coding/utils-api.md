@@ -27,6 +27,13 @@
 - https://github.com/APIs-guru
 - https://pipedream.com/
 
+## MOCKS
+- https://beeceptor.com/
+- https://www.mockapi.io/
+- https://designer.mocky.io/
+- https://www.mockable.io/a/#/
+- https://jsonplaceholder.typicode.com/
+
 ## OTHERS
 - https://aip.dev/
 - https://tools.ietf.org/html/rfc6749

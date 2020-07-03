@@ -1127,6 +1127,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://www.netlify.com/blog/2019/12/17/building-an-angular-jamstack-app-with-scully/
 - https://dev.to/bitovi/server-side-rendering-dynamic-routes-in-angular-with-scully-6m8
 - https://dev.to/bitovi/why-you-should-be-using-transferstate-to-cache-your-api-calls-in-angular-3nn7
+- https://jenniferwadella.com/blog/rendering-static-pages-from-dynamic-routes-in-angular-with-scully
 - https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDE3NTIyMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvMjc0MTMxNDY?ved=0CA0QzsICahcKEwi47Mi1lNnpAhUAAAAAHQAAAAAQBQ
 
 ## ECOSYSTEM: LIB: MAKE 
