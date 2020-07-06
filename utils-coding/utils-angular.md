@@ -292,7 +292,7 @@ All *Map operators below consist of two parts — producing a stream of observab
 - concatMap: is like mergeMap but it keep the order in which the Observables are emitting is maintained.
 - exhaustMap: is like mergeMap but it ignore new Observables until the current one is still not completed.
 
-All *All operators below corresponds to the combination logic (the second part of the *Map) operators above. Ex: Map operator produces a stream of observables and mergeAll combines values from these observables and so we can easily replace map and mergeAll with the simpler mergeMap.
+All *All operators below corresponds to the combination logic (the second part of the *Map) operators above. Ex: Map operator produces a stream of observables and mergeAll combines values from these observables and so we can easily replace map and mergeAll with the simpler mergeMap. Indeed concatMap uses concatAll under the hood.
 - concatAll/mergeAll/switchAll
 
 - PROCESS:

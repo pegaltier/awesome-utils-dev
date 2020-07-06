@@ -247,14 +247,11 @@ They had a mobile app at one point, but it is defunct. They plan on doing a rewr
 - Snippets
 - Notes
 
-
-
-# Dotfiles
+## Dotfiles
 
   - [Shawn Axsom](https://github.com/axs221/dotfiles)
     - neovim, fish shell, tmuxinator, Hyper.js, etc
 
-# Third Party Lists
+## List
 
-  - https://github.com/nikitavoloboev/my-mac-os
-  - https://github.com/alebcay/awesome-shell
+- https://untools.co/

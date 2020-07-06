@@ -94,6 +94,8 @@
 - https://undraw.co/illustrations
 
 ## PATTERN
+
+- https://patternico.com/
 - https://www.novapattern.com
 - http://www.lisbonazulejos.com/
 - http://www.patternhead.com

@@ -357,8 +357,6 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 
 - https://ngx.tools/
 - https://angular-builders.dev/home
-- https://blog.angular.io/introducing-cli-builders-d012d4489f1b
-- https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
 - https://github.com/angular/angular-cli/issues/6137
 - https://github.com/mgechev/cli-builders-demo
 - https://github.com/manfredsteyer/ngx-build-plus
@@ -369,6 +367,9 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
 - https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-build-chain-without-ejecting.aspx
 - https://webpack.js.org/plugins/context-replacement-plugin/
+- https://medium.com/javascript-in-plain-english/customizing-your-angular-apps-webpack-configuration-4099144949fc
+- https://blog.angular.io/introducing-cli-builders-d012d4489f1b
+- https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
 
 ## CORE: ELEMENTS
 
@@ -975,6 +976,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://single-spa.js.org/
 - https://frint.js.org/
 - https://leanpub.com/enterprise-angular
+- https://github.com/umijs/qiankun
 - https://github.com/worktile/ngx-planet
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
@@ -1252,6 +1254,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/zoomsphere/ngx-store
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/TinkoffCreditSystems/ng-dompurify
+- https://github.com/ManuCutillas/ngx-responsive
 
 ## ECOSYSTEM: LIB: ACL
 
@@ -1327,6 +1330,7 @@ Learn the best way to make your objects immutable.
 - https://blog.checklyhq.com/easy-automated-e2e-testing-monitoring-for-your-frontend-with-vercel-and-checkly-3/
 - https://christianlydemann.com/the-most-common-cypress-mistakes/
 - https://www.checklyhq.com/docs/puppeteer-recorder/
+- https://timdeschryver.dev/blog/using-msw-in-an-angular-project
 
 ## ECOSYSTEM: LIB: UNIT TESTS
 
@@ -1478,6 +1482,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngneat/dirty-check-forms
 - https://github.com/ngneat/error-tailor
 - https://github.com/xtreamsrl/ngx-validation-errors
+- https://github.com/zebzhao/Angular-QueryBuilder
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/gparlakov/forms-typed/blob/master/projects/forms/
 - https://github.com/gparlakov/forms-typed/blob/master/projects/show-form-control/
@@ -1503,11 +1508,13 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
 - https://medium.com/@TuiZ/how-to-split-your-i18n-file-per-lazy-loaded-module-with-ngx-translate-3caef57a738f
 
-## ECOSYSTEM: LIB: IMAGE
+## ECOSYSTEM: LIB: MEDIA
 
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
+- https://github.com/videogular/ngx-videogular
+- https://github.com/ng-web-apis/canvas
 - https://www.thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
 
 ## ECOSYSTEM: LIB: UI
@@ -1561,6 +1568,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES
 
+- https://github.com/trungk18/jira-clone-angular
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example
 - https://github.com/brechtbilliet/winecellar (backend and auth)
@@ -1640,7 +1648,7 @@ Learn how to build mobile applications using angular. You will find many cross p
 - http://blog.backand.com/angular-2-nativescript-vs-react-native/
 - https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript
 - http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0
-
+- https://dev.to/devinshoemaker/build-cross-platform-applications-in-a-monorepo-with-nx-ionic-and-capacitor-6f8
 
 ## ECOSYSTEM: COMPARAISON
 
