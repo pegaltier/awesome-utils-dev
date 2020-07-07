@@ -69,6 +69,7 @@
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
+- https://github.com/mgechev/injection-js
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
 - https://github.com/ramda/ramda
@@ -161,17 +162,21 @@
 
 ### MORE
 
-- Type coercion
-- Hoisting 
-- Callstack
 - IIFE
 - Scope
+- Hoisting 
+- Callstack
+- Currying
 - Callbacks
-- Async await
 - Promises
 - Closures
 - Iterators
 - Generators
+- Async await
+- Type coercion
+- DOM Manipulation
+- Prototype inheritance 
+- Understanding "this" keyword
 - apply(), .call() and .bind()
 
 ## EXAMPLES

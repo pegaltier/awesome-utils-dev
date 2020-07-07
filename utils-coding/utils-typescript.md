@@ -18,8 +18,10 @@
 
 - https://github.com/hqoss/guards
 - https://github.com/palmerhq/tsdx
+- https://github.com/kutyel/linq.ts
 - https://github.com/jun-sheaf/ts-japi
 - https://github.com/renke/import-sort
+- https://github.com/radarsu/ts-import
 - https://github.com/compodoc/ts-stats
 - https://github.com/runem/ts-simple-type
 - https://github.com/piotrwitek/utility-types

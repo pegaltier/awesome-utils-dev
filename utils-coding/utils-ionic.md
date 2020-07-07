@@ -135,3 +135,7 @@ npx cap add ios
 npx cap add android
 npx cap add electron
 ```
+
+## PLUGINS
+
+- https://github.com/bot101/capacitor-paystack

@@ -12,8 +12,12 @@
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/APIs-guru/graphql-voyager
 
+## LEARN
+- https://github.com/dabit3/graphql-recipes
+
 ## ARTICLES
 - https://css-tricks.com/front-end-developers-guide-graphql/
+- https://dev.to/open-graphql/graphql-recipes-building-apis-with-graphql-transform-3jp0
 - https://dev.to/beavearony/getting-started-with-a-angularnx-workspace-backed-by-an-aws-amplify-graphql-api---part-1-24m0
 - https://dev.to/aershov24/5-graphql-interview-questions-and-answers-you-should-know-4ajb
 - https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
