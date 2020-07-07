@@ -639,6 +639,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 - http://www.captaincodeman.com/2016/04/03/angular2-di-service-decorator/
 - https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722
 - https://debugmode.net/2020/06/24/when-to-use-viewproviders-in-angular-simplified/
+- https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42
 
 ## CORE: ANIMATIONS
 
