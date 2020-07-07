@@ -1256,6 +1256,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/TinkoffCreditSystems/ng-dompurify
 - https://github.com/ManuCutillas/ngx-responsive
+- https://github.com/cyrilletuzi/angular-async-local-storage
 
 ## ECOSYSTEM: LIB: ACL
 
