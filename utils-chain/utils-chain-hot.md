@@ -163,6 +163,7 @@ holo github>>
 - https://github.com/nphias/ng-graphql-hc-starter
 - https://github.com/nphias/liquidDemocracy
 - https://github.com/LunarPunk-Labs/social-graph
+- https://github.com/llavors-mutues/private-slow-transactor
 
 holo tools>>
 - https://github.com/holochain/RAD-Tools-Phase-2
