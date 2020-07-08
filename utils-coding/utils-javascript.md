@@ -102,6 +102,7 @@
 - https://github.com/team-video/tragopan
 - https://github.com/google/model-viewer
 - https://github.com/aeroheim/midori
+- https://github.com/Hopding/pdf-lib
 
 ## LIB AI
 - https://github.com/BrainJS/brain.js

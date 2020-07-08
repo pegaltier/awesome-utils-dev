@@ -124,6 +124,7 @@ optimize gif https://bitsofco.de/optimising-gifs/
 
 
 ## VARIOUS CSS/JS/HTML/EFFECT UX
+examples: https://github.com/bradtraversy/vanillawebprojects
 best lib : https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43
 waypoint animation : http://www.oxygenna.com/tutorials/scroll-animations-using-waypoints-js-animate-css  
 parallax animation : http://pixelcog.github.io/parallax.js/  
