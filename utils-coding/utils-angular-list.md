@@ -1240,8 +1240,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/willmendesneto/ngx-feature-toggle
-- https://github.com/NetanelBasal/ngx-take-until-destroy
-- https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/danrevah/typeserializer
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ThomasBurleson/mindspace-utils
@@ -1251,7 +1249,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/aackerman/circular-dependency-plugin
-- https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/ndr/ngx-route-params-input
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
@@ -1274,6 +1271,9 @@ Learn the best way to make your objects immutable.
 - https://github.com/nilsmehlhorn/ngx-operators
 - https://github.com/alex-okrushko/backoff-rxjs
 - https://github.com/timdeschryver/rxjs-operator-counter
+- https://github.com/NetanelBasal/ngx-take-until-destroy
+- https://github.com/w11k/ngx-componentdestroyed
+- https://github.com/cloudnc/ngx-observable-lifecycle
 
 ## ECOSYSTEM: LIB: GENERAL
 
