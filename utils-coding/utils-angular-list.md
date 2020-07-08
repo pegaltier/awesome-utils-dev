@@ -1161,7 +1161,9 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: JAMSTACK
 
 - https://github.com/scullyio/scully
+- https://github.com/ng-web-apis/universal
 - https://github.com/chrisguttandin/angular-prerender
+- https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
 - https://github.com/scullyio/scully/tree/main/libs/plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
 - https://github.com/scullyio/scully/tree/main/libs/plugins/from-data
@@ -1222,11 +1224,12 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: UTIL
 
-- https://github.com/ng-web-apis
 - https://github.com/ngneat/cashew
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/angelnikolov/ngx-cacheable
+- https://github.com/ng-web-apis/resize-observer
+- https://github.com/ng-web-apis/intersection-observer
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/ChristianKohler/ng-resize-observer
 - https://github.com/NetanelBasal/ngx-take-until-destroy
@@ -1251,21 +1254,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/TinkoffCreditSystems/ng-dompurify
 - https://github.com/ManuCutillas/ngx-responsive
-
-## ECOSYSTEM: LIB: STORAGE
-- https://github.com/zoomsphere/ngx-store
-- https://github.com/cyrilletuzi/angular-async-local-storage
-
-## ECOSYSTEM: LIB: AUTH
-
-- https://github.com/manfredsteyer/angular-oauth2-oidc
-- https://github.com/damienbod/angular-auth-oidc-client
-
-## ECOSYSTEM: LIB: ACL
-
-- https://github.com/stalniy/casl
-- https://github.com/AlexKhymenko/ngx-permissions
-
 
 ## ECOSYSTEM: LIB: RXJS
 
@@ -1526,6 +1514,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/videogular/ngx-videogular
 - https://github.com/ng-web-apis/canvas
+- https://github.com/ng-web-apis/midi
+- https://github.com/ng-web-apis/audio
 - https://www.thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
 
 ## ECOSYSTEM: LIB: UI
@@ -1551,6 +1541,31 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/IgniteUI/igniteui-angular
 - https://github.com/ngx-builders/ngx-bulma
 - https://github.com/Teradata/covalent
+
+
+## ECOSYSTEM: LIB: STORAGE
+- https://github.com/zoomsphere/ngx-store
+- https://github.com/cyrilletuzi/angular-async-local-storage
+
+## ECOSYSTEM: LIB: AUTH
+
+- https://github.com/manfredsteyer/angular-oauth2-oidc
+- https://github.com/damienbod/angular-auth-oidc-client
+
+## ECOSYSTEM: LIB: PAYMENT
+
+- https://github.com/ng-web-apis/payment-request
+
+## ECOSYSTEM: LIB: GEOLOCATION
+
+- https://github.com/ng-web-apis/geolocation
+
+## ECOSYSTEM: LIB: ACL
+
+- https://github.com/stalniy/casl
+- https://github.com/AlexKhymenko/ngx-permissions
+
+
 
 ## ECOSYSTEM: LIB: PWA
 - https://github.com/cyrilletuzi/ngx-pwa-offline
