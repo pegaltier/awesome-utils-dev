@@ -1228,10 +1228,10 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-web-apis/resize-observer
 - https://github.com/ng-web-apis/intersection-observer
 - https://github.com/ChristianKohler/ng-resize-observer
-- https://github.com/k3nsei/ng-in-viewport
-- https://github.com/fidian/ngx-visibility/
 - https://github.com/fidian/ngx-resize-observer
-- https://github.com/fidian/ngx-mutation-observer/
+- https://github.com/fidian/ngx-mutation-observer
+- https://github.com/fidian/ngx-visibility
+- https://github.com/k3nsei/ng-in-viewport
 
 ## ECOSYSTEM: LIB: UTIL
 
