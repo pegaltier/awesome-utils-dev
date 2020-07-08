@@ -19,6 +19,7 @@
 - https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu
 - https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview
 - https://marketplace.visualstudio.com/items?itemName=d-koppenhagen.vscode-code-review
+- https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
 - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.rxjs-cheatsheet
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock

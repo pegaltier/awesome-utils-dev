@@ -1086,9 +1086,9 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-2/
 - https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-3/
 - https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-4/
-- https://juristr.com/blog/2020/05/nx-libs-with-assets/
 - https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157
 - https://docs.google.com/presentation/d/1pBh13OQlNU014ImABfP-8MXJL3eIuXLdBdMvp9ZVIuc/edit#slide=id.g41a47c59d4_0_3
+- https://juristr.com/blog/2020/05/nx-libs-with-assets/
 
 ## ECOSYSTEM: SEEDS
 
@@ -1395,6 +1395,7 @@ Analyze and optimize the performance of your app
 - https://github.com/leifermendez/ngx-copilot
 - https://github.com/ngneat/helipopper
 - https://github.com/coryrylan/ngx-lite
+- https://github.com/jdjuan/ng-notyf
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 

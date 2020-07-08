@@ -4,6 +4,7 @@
 
 - http://pxtoem.com/
 - https://flukeout.github.io/
+- http://1linelayouts.glitch.me/
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
 - https://github.com/picturepan2/devices.css
