@@ -1399,13 +1399,15 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 
-- https://github.com/ag-grid/ag-grid
-- https://github.com/swimlane/ngx-datatable
-- https://github.com/yohangz/ornamentum
-- https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/SheetJS/sheetjs
+- https://github.com/ag-grid/ag-grid
 - https://github.com/paulhodel/jexcel
+- https://github.com/yohangz/ornamentum
 - https://github.com/sbstjn/timesheet.js
+- https://github.com/kreuzerk/ng-sortgrid
+- https://github.com/swimlane/ngx-datatable
+- https://github.com/SortableJS/ngx-sortablejs
+
 
 ## ECOSYSTEM: LIB: SCROLL
 
@@ -1429,6 +1431,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: DATA VIZ
 
+- https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
 - https://github.com/swimlane/ngx-charts
 - https://github.com/valor-software/ng2-charts
@@ -1479,6 +1482,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/formql/formql/tree/master/examples
 - https://github.com/UltimateAngular/ngxerrors
 - https://github.com/rsaenen/ngx-custom-validators
+- https://github.com/why520crazy/ngx-validator
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
