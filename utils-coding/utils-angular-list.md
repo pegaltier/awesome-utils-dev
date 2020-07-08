@@ -1232,31 +1232,34 @@ Learn the best way to make your objects immutable.
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/danrevah/typeserializer
-- https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/typebytes/ngx-template-streams
 - https://github.com/mgechev/data-adapter
-- https://github.com/manfredsteyer/angular-oauth2-oidc
-- https://github.com/damienbod/angular-auth-oidc-client
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/aackerman/circular-dependency-plugin
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/ndr/ngx-route-params-input
-- https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/BioPhoton/rx-angular
 - https://github.com/k3nsei/ng-in-viewport
 - https://github.com/jscutlery/convoyr
 - https://github.com/wishtack/wishtack-steroids
-- https://github.com/zoomsphere/ngx-store
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/TinkoffCreditSystems/ng-dompurify
 - https://github.com/ManuCutillas/ngx-responsive
+
+## ECOSYSTEM: LIB: STORAGE
+- https://github.com/zoomsphere/ngx-store
 - https://github.com/cyrilletuzi/angular-async-local-storage
+
+## ECOSYSTEM: LIB: AUTH
+
+- https://github.com/manfredsteyer/angular-oauth2-oidc
+- https://github.com/damienbod/angular-auth-oidc-client
 
 ## ECOSYSTEM: LIB: ACL
 
@@ -1517,6 +1520,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 ## ECOSYSTEM: LIB: MEDIA
 
+- https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
@@ -1773,7 +1777,6 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## ECOSYSTEM: BOOK
 
-- https://angularair.com/
 - https://ng-book.com/2
 - https://angulararchitecture.com/
 - https://books.ninja-squad.com/angular2
