@@ -149,8 +149,11 @@ debut de l'article contient le mot clef ciblé (50 – 100, de préférence mêm
 # RICH SNIPPETS MICRODATA
 
 ## BASICS
+- https://github.com/JayHoltslander/Structured-Data-JSON-LD
 - https://developers.google.com/search/docs/data-types/breadcrumb
 - https://search.google.com/structured-data/testing-tool
+- https://search.google.com/test/rich-results
+- https://classyschema.org/Visualisation#
 - http://www.w3resource.com/schema.org/Article.php
 - https://ludwig.im/en/projects/html5-and-schema.org-seo-best-practices-for-microdata
 - https://www.alsacreations.com/article/lire/1509-microdata-microformats-schema-semantique.html
