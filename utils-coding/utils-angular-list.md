@@ -1222,16 +1222,24 @@ Learn the best way to make your objects immutable.
 - https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
 
+
+## ECOSYSTEM: LIB: DOM
+
+- https://github.com/ng-web-apis/resize-observer
+- https://github.com/ng-web-apis/intersection-observer
+- https://github.com/ChristianKohler/ng-resize-observer
+- https://github.com/k3nsei/ng-in-viewport
+- https://github.com/fidian/ngx-visibility/
+- https://github.com/fidian/ngx-resize-observer
+- https://github.com/fidian/ngx-mutation-observer/
+
 ## ECOSYSTEM: LIB: UTIL
 
 - https://github.com/ngneat/cashew
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/angelnikolov/ngx-cacheable
-- https://github.com/ng-web-apis/resize-observer
-- https://github.com/ng-web-apis/intersection-observer
 - https://github.com/willmendesneto/ngx-feature-toggle
-- https://github.com/ChristianKohler/ng-resize-observer
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/danrevah/typeserializer
@@ -1248,7 +1256,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/BioPhoton/rx-angular
-- https://github.com/k3nsei/ng-in-viewport
 - https://github.com/jscutlery/convoyr
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
