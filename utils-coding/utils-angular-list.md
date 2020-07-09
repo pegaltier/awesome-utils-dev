@@ -1241,6 +1241,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/danrevah/typeserializer
+- https://github.com/danrevah/segal-decorators
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/typebytes/ngx-template-streams
