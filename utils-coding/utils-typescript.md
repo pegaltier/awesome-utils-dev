@@ -23,6 +23,7 @@
 - https://github.com/renke/import-sort
 - https://github.com/radarsu/ts-import
 - https://github.com/compodoc/ts-stats
+- https://github.com/nobrainr/morphism
 - https://github.com/runem/ts-simple-type
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
