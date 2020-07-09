@@ -127,6 +127,7 @@ weissratings
 - http://tokensmash.io
 - https://coinlib.io/
 - https://coinlib.io/global-crypto-charts
+- https://github.com/emeraldpay/hashicon
 
 ## TAX / TAXATION
 - https://blockpit.io/help/en/c/austria
