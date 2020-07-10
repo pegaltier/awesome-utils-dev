@@ -644,6 +644,7 @@ nx update @angular/core # or ng update @angular/core
 
 ```
 nx add @scullyio/init # todo run inside the project path
+nx add @scully/init:install -- --project=<projectName> # or run from root
 ng generate @scullyio/init:blog # create a blog module with scully
 ```
 
