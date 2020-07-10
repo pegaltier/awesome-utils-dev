@@ -1234,12 +1234,16 @@ Learn the best way to make your objects immutable.
 - https://github.com/k3nsei/ng-in-viewport
 - https://github.com/TinkoffCreditSystems/ng-dompurify
 
-## ECOSYSTEM: LIB: UTIL
+## ECOSYSTEM: LIB: HTTP
 
 - https://github.com/ngneat/cashew
+- https://github.com/angelnikolov/ngx-cacheable
+- https://github.com/jscutlery/convoyr
+
+## ECOSYSTEM: LIB: UTIL
+
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
-- https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ThomasBurleson/mindspace-utils
@@ -1247,12 +1251,10 @@ Learn the best way to make your objects immutable.
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
-- https://github.com/aackerman/circular-dependency-plugin
 - https://github.com/ndr/ngx-route-params-input
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/BioPhoton/rx-angular
-- https://github.com/jscutlery/convoyr
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/ManuCutillas/ngx-responsive
@@ -1440,6 +1442,7 @@ Analyze and optimize the performance of your app
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/Angular-RU/angular-logger
 - https://github.com/ngdevelop-tech/ngx-fancy-logger
+- https://github.com/aackerman/circular-dependency-plugin
 
 
 ## ECOSYSTEM: LIB: MODAL
