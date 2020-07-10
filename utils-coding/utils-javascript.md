@@ -75,6 +75,9 @@
 - https://github.com/ramda/ramda
 - https://github.com/lodash/lodash
 - https://github.com/getcrft/jsonizer
+- https://github.com/danrevah/typeserializer
+- https://github.com/danrevah/segal-decorators
+- https://github.com/mgechev/data-adapter
 - https://github.com/stalniy/casl
 - https://github.com/typeorm/typeorm
 - https://github.com/nas5w/combinate

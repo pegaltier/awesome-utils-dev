@@ -1232,6 +1232,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/fidian/ngx-mutation-observer
 - https://github.com/fidian/ngx-visibility
 - https://github.com/k3nsei/ng-in-viewport
+- https://github.com/TinkoffCreditSystems/ng-dompurify
 
 ## ECOSYSTEM: LIB: UTIL
 
@@ -1240,12 +1241,9 @@ Learn the best way to make your objects immutable.
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/willmendesneto/ngx-feature-toggle
-- https://github.com/danrevah/typeserializer
-- https://github.com/danrevah/segal-decorators
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/typebytes/ngx-template-streams
-- https://github.com/mgechev/data-adapter
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
@@ -1257,7 +1255,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/jscutlery/convoyr
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
-- https://github.com/TinkoffCreditSystems/ng-dompurify
 - https://github.com/ManuCutillas/ngx-responsive
 
 ## ECOSYSTEM: LIB: RXJS
