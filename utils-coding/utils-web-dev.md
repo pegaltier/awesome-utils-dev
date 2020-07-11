@@ -303,3 +303,7 @@ https://webofthings.org/standards/
 
 ## CONFIG
 - https://prettier.io/docs/en/precommit.html
+
+## LIB
+
+- https://github.com/ixartz/Eleventy-Starter-Boilerplate

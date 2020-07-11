@@ -152,6 +152,7 @@ debut de l'article contient le mot clef ciblé (50 – 100, de préférence mêm
 - https://github.com/JayHoltslander/Structured-Data-JSON-LD
 - https://developers.google.com/search/docs/data-types/breadcrumb
 - https://search.google.com/structured-data/testing-tool
+- https://redirection.io/tools/structured-data
 - https://search.google.com/test/rich-results
 - https://classyschema.org/Visualisation#
 - http://www.w3resource.com/schema.org/Article.php
