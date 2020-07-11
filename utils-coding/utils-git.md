@@ -36,6 +36,7 @@
 ## TOOLS
 - https://github.com/conventional-changelog/standard-version
 - https://github.com/conventional-changelog/commitlint
+- https://prettier.io/docs/en/precommit.html
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/okonet/lint-staged
 - https://github.com/alibaba/hooks
