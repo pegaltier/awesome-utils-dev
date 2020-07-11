@@ -20,12 +20,15 @@
 - https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview
 - https://marketplace.visualstudio.com/items?itemName=d-koppenhagen.vscode-code-review
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
+- https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
 - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+- https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.rxjs-cheatsheet
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 - https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
+- https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 
@@ -38,6 +41,13 @@
 - https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow
 - https://marketplace.visualstudio.com/items?itemName=jakearl.search-editor-apply-changes
 - https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
+- https://marketplace.visualstudio.com/items?itemName=Stalinbalraj.timestamp-converter
+- https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+- https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts
+- https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+- https://marketplace.visualstudio.com/items?itemName=sygene.auto-correct
+- https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker
+- https://marketplace.visualstudio.com/items?itemName=cyansprite.smoothscroll
 
 ## TOOLS
 

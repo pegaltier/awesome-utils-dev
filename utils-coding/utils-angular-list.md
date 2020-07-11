@@ -1261,19 +1261,24 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: RXJS
 
+- https://github.com/NetanelBasal/ngx-take-until-destroy
+- https://github.com/cloudnc/ngx-observable-lifecycle
+- https://github.com/w11k/ngx-componentdestroyed
+- https://github.com/wardbell/subsink
 - https://github.com/cartant/rxjs-xyz
 - https://github.com/cartant/rxjs-etc
-- https://github.com/wardbell/subsink
+- https://github.com/cartant/rxjs-spy
+- https://github.com/cartant/rxjs-interop
+- https://github.com/kwonoj/rx-sandbox
 - https://github.com/hirezio/observer-spy
 - https://github.com/loreanvictor/rxmetics
 - https://github.com/benlesh/rxjs-for-await
 - https://github.com/tanepiper/rxjs-primitives
 - https://github.com/nilsmehlhorn/ngx-operators
 - https://github.com/alex-okrushko/backoff-rxjs
+- https://github.com/kievsash/rxjs-toolbox
 - https://github.com/timdeschryver/rxjs-operator-counter
-- https://github.com/NetanelBasal/ngx-take-until-destroy
-- https://github.com/w11k/ngx-componentdestroyed
-- https://github.com/cloudnc/ngx-observable-lifecycle
+- https://github.com/chrisguttandin/subscribable-things
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -1340,6 +1345,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/spectator
 - https://github.com/wallabyjs/public
 - https://github.com/nas5w/combinate
+- https://github.com/kwonoj/rx-sandbox
 - https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
 - https://github.com/just-jeb/jest-marbles
