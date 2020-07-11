@@ -209,10 +209,10 @@ weissratings
 - http://joystream.co
 - https://www.openbazaar.org/
 
-## NFT
-
+## NFT / TOKENIZING
 - https://www.cryptomotors.io/
 - https://opensea.io/
+- https://www.fyooz.io/
 
 ## DERIVATIVE / CFD
 - https://www.bitmex.com
