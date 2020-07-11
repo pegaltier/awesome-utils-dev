@@ -209,6 +209,11 @@ weissratings
 - http://joystream.co
 - https://www.openbazaar.org/
 
+## NFT
+
+- https://www.cryptomotors.io/
+- https://opensea.io/
+
 ## DERIVATIVE / CFD
 - https://www.bitmex.com
 - https://leverj.io
