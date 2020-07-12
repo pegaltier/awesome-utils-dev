@@ -1400,6 +1400,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngneat/helipopper
 - https://github.com/coryrylan/ngx-lite
 - https://github.com/jdjuan/ng-notyf
+- https://github.com/beeman/ngx-split
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 
