@@ -1402,6 +1402,7 @@ Analyze and optimize the performance of your app
 - https://github.com/coryrylan/ngx-lite
 - https://github.com/jdjuan/ng-notyf
 - https://github.com/beeman/ngx-split
+- https://github.com/exportarts/ngx-cookie-banner
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 
@@ -1598,6 +1599,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: PLUG & PLAY:
 
+- https://github.com/exportarts/ngx-prismic
 - https://github.com/aviabird/angularspree
 - https://github.com/scullyio/scully
 - https://github.com/wizdmio/wizdm
