@@ -221,6 +221,7 @@ Learn about the most useful design patterns in Angular.
 - https://ultimatecourses.com/blog/master-your-next-angular-job-interview-with-these-questions
 - https://blog.bitsrc.io/6-concepts-to-master-to-be-an-angular-architect-807314e31ef3
 - https://dev.to/caroso1222/what-do-you-look-for-in-a-pr-review-21gb
+- https://angular.io/api/core/global
 
 ## HELPER: ONLINE IDE
 
@@ -1259,6 +1260,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/ManuCutillas/ngx-responsive
+- https://github.com/brandonroberts/angular-routing
 
 ## ECOSYSTEM: LIB: RXJS
 
