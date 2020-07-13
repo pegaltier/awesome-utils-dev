@@ -1239,6 +1239,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/cashew
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/jscutlery/convoyr
+- https://github.com/timdeschryver/rx-query
 
 ## ECOSYSTEM: LIB: UTIL
 

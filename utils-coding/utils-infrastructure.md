@@ -24,6 +24,7 @@
 
 ## DOCKER
 - https://github.com/veggiemonk/awesome-docker
+- https://github.com/jesseduffield/lazydocker
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 
 1) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐭𝐨𝐩:  Displays the container's running processes
