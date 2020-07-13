@@ -1416,7 +1416,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/swimlane/ngx-datatable
 - https://github.com/SortableJS/ngx-sortablejs
-
+- https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
 ## ECOSYSTEM: LIB: SCROLL
 
