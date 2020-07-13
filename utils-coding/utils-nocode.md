@@ -15,6 +15,9 @@
 ## api
 - https://github.com/xgenecloud/xgenecloud
 
+## headless cms
+- https://prismic.io/
+
 ## landing
 - https://www.landen.co
 
