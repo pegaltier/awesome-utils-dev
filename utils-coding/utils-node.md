@@ -6,6 +6,7 @@
 - https://github.com/i0natan/nodebestpractices
 - https://github.com/goldbergyoni/nodebestpractices
 - https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
+- https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6
 - https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
 
 ## NVM

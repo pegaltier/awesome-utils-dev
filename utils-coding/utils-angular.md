@@ -102,6 +102,7 @@ npm install -g @angular/cli
 ```
 npm outdated # Check for out of date modules
 ng update @angular/core @angular/cli # Update Angular
+ng update --all --force # Update all Angular and force
 npm update # Update non-Angular dependencies
 ```
 
