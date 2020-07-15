@@ -1096,6 +1096,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 Starter samples, seeds, alternative to the default Angular CLI tools in order to help to bootstrap a new Angular project.
 
 - https://github.com/nrwl/nx
+- https://github.com/ngneat/lib
 - https://github.com/wizdmio/wizdm
 - https://github.com/angular/angular-cli
 - https://github.com/martinoppitz/leanup
