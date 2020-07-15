@@ -921,7 +921,8 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://stackblitz.com/edit/github-component-store-demo
 - https://hackmd.io/zLKrFIadTMS2T6zCYGyHew?view
 - https://github.com/ngrx/platform/issues/2489
-- https://www.youtube.com/watch?v=EeNMGhLnBGg
+- https://www.youtube.com/watch?v=EeNMGhLnBGg component store - april 24
+- https://www.youtube.com/watch?v=6H31VLtS4ZA component store - july 15
 - https://medium.com/javascript-in-plain-english/introducing-ngrx-component-store-part-1-67019dba0cb0
 - https://medium.com/javascript-in-plain-english/ngrx-component-store-deep-dive-947c0a5be6dc
 
