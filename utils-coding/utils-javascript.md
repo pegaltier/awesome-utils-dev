@@ -78,6 +78,8 @@
 - https://github.com/danrevah/typeserializer
 - https://github.com/danrevah/segal-decorators
 - https://github.com/mgechev/data-adapter
+- https://github.com/francisrstokes/super-expressive
+- https://github.com/unshiftio/url-parse
 - https://github.com/stalniy/casl
 - https://github.com/typeorm/typeorm
 - https://github.com/nas5w/combinate
