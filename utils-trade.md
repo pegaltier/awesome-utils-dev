@@ -24,8 +24,10 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - take position and wait confirmation
 
 ## INDICATORS
-- is above the weelkly 21 MA (if it hold above it's bullish)
-- is bellow the weelkly 21 MA (if it hold below it's bearish)
+- bullish if price is above the weelkly 21 MA (if it hold above it's bullish)
+- bullish if price is bellow the weelkly 21 MA (if it hold below it's bearish)
+- adx is below 20 then it's a ranging cycle (choppy)
+- adx is above 20 then it's a trending cycle (directionnal)
 
 ## VOLATILITY
 - when the volatility is high it's risky so just do day-trading and secure gain after few hours
