@@ -23,6 +23,10 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - the best risk/rewards ratio
 - take position and wait confirmation
 
+## INDICATORS
+- is above the weelkly 21 MA (if it hold above it's bullish)
+- is bellow the weelkly 21 MA (if it hold below it's bearish)
+
 ## VOLATILITY
 - when the volatility is high it's risky so just do day-trading and secure gain after few hours
 - when the volatility is low it's safe so just do swing-trading and secure gain after few days
