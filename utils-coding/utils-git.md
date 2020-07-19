@@ -49,6 +49,8 @@
 
 ## TEMPLATES
 - https://github.com/stevemao/github-issue-templates
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/kautukkundan/Awesome-Profile-README-templates
 
 ## MOST USED
 
