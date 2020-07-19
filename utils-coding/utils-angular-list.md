@@ -214,10 +214,11 @@ Learn about the most useful design patterns in Angular.
 - http://blogs.walkingtree.in/2016/03/22/thinking-in-angular-2/
 - https://medium.com/@NetanelBasal/angular-2-improve-performance-with-trackby-cc147b5104e5#.74fiumqt7
 - https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1
-- https://github.com/rangle/angular2-guidelines
 - http://www.sitepoint.com/introduction-angularjs-style-guides
 - http://johnpapa.net/angular-2-styles/
+- https://github.com/rangle/angular2-guidelines
 - https://github.com/mgechev/angular2-style-guide
+- https://github.com/sksaifuddin/angular-rxjs-tips
 - https://ultimatecourses.com/blog/master-your-next-angular-job-interview-with-these-questions
 - https://blog.bitsrc.io/6-concepts-to-master-to-be-an-angular-architect-807314e31ef3
 - https://dev.to/caroso1222/what-do-you-look-for-in-a-pr-review-21gb
