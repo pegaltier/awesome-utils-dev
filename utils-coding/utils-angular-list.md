@@ -1418,6 +1418,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/swimlane/ngx-datatable
 - https://github.com/SortableJS/ngx-sortablejs
+- https://github.com/swiety85/angular2gridster
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
 ## ECOSYSTEM: LIB: SCROLL
@@ -1453,6 +1454,7 @@ Analyze and optimize the performance of your app
 - https://github.com/getsentry/sentry
 - https://github.com/LogRocket/logrocket
 - https://github.com/dbfannin/ngx-logger
+- https://github.com/ngworker/lumberjack
 - https://github.com/Angular-RU/angular-logger
 - https://github.com/ngdevelop-tech/ngx-fancy-logger
 - https://github.com/aackerman/circular-dependency-plugin
