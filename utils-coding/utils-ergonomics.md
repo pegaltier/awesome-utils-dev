@@ -1,17 +1,22 @@
 # ERGONOMICS
 
 ## COLOR
-https://webaim.org/resources/contrastchecker/
+- https://webaim.org/resources/contrastchecker/
 
 ## OTHERS
-http://webgazer.cs.brown.edu/
+- http://webgazer.cs.brown.edu/
 
-## ACCESSIBILITY RULES 
+## ACCESSIBILITY  
+- https://github.com/brunopulis/awesome-a11y
+
+### RULES
 use anchor + form elements
 use the less possible tabindex=0
 never use positive tabindex
 
-## ACCESSIBILITY COMPARATIVE
+### COMPARATIVE
+
+#### FOCUS
 with tabindex=0 
 - all the informations will be read
 - doesn't work when your card contains multiple elements
