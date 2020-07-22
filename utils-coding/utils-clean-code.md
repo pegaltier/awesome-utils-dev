@@ -20,13 +20,16 @@ jamais retourner null
 if/switch -> polymorphisme
 
 
-base
-https://thinkster.io/
-https://github.com/gothinkster
+## BASE
+- https://thinkster.io/
+- https://github.com/gothinkster
+
+## CHECK
+- https://github.com/returntocorp/semgrep
 
 ## PHP
-https://github.com/railto/realworld-slim
+- https://github.com/railto/realworld-slim
 
 ## JAVASCRIPT
-https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
-https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397
+- https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397
