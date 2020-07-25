@@ -1168,6 +1168,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/ng-web-apis/universal
 - https://github.com/chrisguttandin/angular-prerender
 - https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
+- https://github.com/gammastream/scully-plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
 - https://github.com/scullyio/scully/tree/main/libs/plugins/from-data
