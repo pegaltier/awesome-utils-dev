@@ -1024,13 +1024,13 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://bit.dev
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
-- https://github.com/lerna/lerna
 - https://github.com/nrwl/nx
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/devinshoemaker/nxtend
 - https://github.com/nxpm/nxpm-cli
+- https://github.com/nx-go/nx-go
 - https://github.com/kachkaev/njt
 - https://github.com/flowaccount/nx-plugins
 - https://github.com/DominikPieper/nx-extensions
@@ -1049,6 +1049,8 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nstudio/xplat-sample-ionic-web
+- https://github.com/lerna/lerna
+- https://github.com/preconstruct/preconstruct
 - https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6
 - https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
 - https://izifortune.com/share-angular-libraries-with-lerna/
