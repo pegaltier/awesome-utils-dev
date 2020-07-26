@@ -1824,6 +1824,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://angulararchitecture.com/
 - https://books.ninja-squad.com/angular2
 - https://leanpub.com/angular2-book
+- https://angular.institute
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://manning.com/books/angular-2-development-with-typescript
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison
