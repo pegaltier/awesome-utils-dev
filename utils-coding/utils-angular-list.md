@@ -1125,11 +1125,13 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 ## ECOSYSTEM: JAMSTACK
 
-- https://scully.io/docs/plugins/
+- https://scully.io
+- https://github.com/scullyio/scully
+- https://github.com/samvloeberghs/scully-universal
 - https://github.com/snipcart/scully-snipcart-store
+- https://github.com/d-koppenhagen/d-koppenhagen.de
 - https://d-koppenhagen.de/blog/2020-01-angular-scully
 - https://d-koppenhagen.de/blog/2020-03-dig-deeper-into-scully-ssg
-- https://github.com/d-koppenhagen/d-koppenhagen.de/tree/master/src/app
 - https://snipcart.com/blog/angular-static-site-generator-scully
 - https://samvloeberghs.be/posts/scully-or-angular-universal-what-is-the-difference
 - https://samvloeberghs.be/posts/custom-plugins-for-scully-angular-static-site-generator
