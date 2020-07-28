@@ -1493,6 +1493,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/rxweb/rxweb
 - https://github.com/ngx-meta/rules
 - https://github.com/formql/formql
+- https://github.com/ngneat/reactive-forms
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/udos86/ng-dynamic-forms
 - https://github.com/Ninja-Squad/ngx-valdemort
