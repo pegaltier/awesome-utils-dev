@@ -91,6 +91,29 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - https://stackedinvest.com/
 - https://www.cryptohopper.com/
 
+
+## DIARY
+
+- never precipitate (fomo)
+- accept small win to reduce risk
+
+## RULES
+
+make 10 to 15 rules:
+
+1. wait 1 trading day before buying or selling a thing
+2. sell half on a double (100%)
+3. buy value / be contrarien
+4. be skeptikal 
+5. the smaller the better (small portfolio under 10)
+6. don't speculate with mortage payment
+7. don't be afraid to sell (understand flaw)
+8. read the positive and negative (confirmation biasis)
+9. do not listen others people (your own opinion is the most)
+10. diversification (10 cryptos + 10 stocks (better to use ETF))
+11. mean reversing / 
+
+
 <p><a href="http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/">http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/</a><br>
 <a href="https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371">https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371</a><br>
 <a href="https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15">https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15</a><br>
