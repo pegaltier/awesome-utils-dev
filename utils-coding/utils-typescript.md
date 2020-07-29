@@ -49,6 +49,7 @@
 - https://sulco.stackblitz.io/
 - https://github.com/intocare/style-guide
 - https://github.com/microsoft/TypeScript-Handbook
+- https://github.com/microsoft/TypeScript-New-Handbook
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
