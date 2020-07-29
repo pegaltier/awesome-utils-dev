@@ -244,6 +244,7 @@ Learn about the most useful design patterns in Angular.
 
 ## HELPER: DEBUG
 
+- https://github.com/rrweb-io/rrweb
 - https://code.visualstudio.com/docs/nodejs/angular-tutorial debug with vscode and chrome
 - https://medium.com/angular-in-depth/how-to-create-a-memory-leak-in-angular-4c583ad78b8b
 - https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
@@ -1327,6 +1328,7 @@ Learn the best way to make your objects immutable.
 - https://testing-playground.com/
 - https://github.com/mswjs/msw
 - https://github.com/appium/appium
+- https://github.com/rrweb-io/rrweb
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
 - https://github.com/NoriSte/cypress-wait-until
