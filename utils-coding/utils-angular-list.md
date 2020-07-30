@@ -223,6 +223,7 @@ Learn about the most useful design patterns in Angular.
 - https://blog.bitsrc.io/6-concepts-to-master-to-be-an-angular-architect-807314e31ef3
 - https://dev.to/caroso1222/what-do-you-look-for-in-a-pr-review-21gb
 - https://angular.io/api/core/global
+- https://indepth.dev/best-angular-tips/
 
 ## HELPER: ONLINE IDE
 
@@ -440,6 +441,8 @@ create your first components, learn how to use translusions, ng-content...
 - https://youtu.be/3BOP1KCJq6g?t=4243 Nir Kaufman: Build your own portal with Angular Embedded views
 - https://github.com/nirkaufman/angular-nyc-january Example Angular Embedded views
 - https://medium.com/wizdm-genesys/teleporting-content-in-angular-4cbd9ba8427f
+- https://netbasal.com/beam-me-up-scotty-on-teleporting-templates-in-angular-a924f1a7798
+- https://stackblitz.com/edit/angular-template-teleporter
 
 ## CORE: MODULES
 
@@ -454,6 +457,7 @@ create your first components, learn how to use translusions, ng-content...
 
 Learn how to build perfect form using reactive forms.
 
+- https://indepth.dev/creating-elegant-reactive-forms-with-rxwebvalidators/
 - https://offering.solutions/blog/articles/2020/05/03/cross-field-validation-using-angular-reactive-forms/
 - https://indepth.dev/angular-forms-story-strong-types/
 - https://dev.to/maxime1992/building-scalable-robust-and-type-safe-forms-with-angular-3nf9
@@ -596,6 +600,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://indepth.dev/supercharge-event-management-in-your-angular-application/
 - https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/
 - https://medium.com/angular-in-depth/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb
 - https://indepth.dev/a-gentle-introduction-into-change-detection-in-angular/
@@ -1111,7 +1116,6 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/ngx-rocket/generator-ngx-rocket
 - https://github.com/DanWahlin/Angular-JumpStart
 - https://github.com/DanWahlin/angular-architecture
-- https://github.com/TinkoffCreditSystems/angular-open-source-starter
 - https://github.com/NathanWalker/angular2-seed-advanced
 - https://github.com/mgechev/angular2-seed
 - https://github.com/juliemr/ng2-test-seed
@@ -1148,6 +1152,7 @@ Learn how to make your own angular lib, build, distribute.
 
 - https://github.com/kreuzerk/ng-samurai
 - https://github.com/ng-packagr/ng-packagr
+- https://github.com/TinkoffCreditSystems/angular-open-source-starter
 - https://github.com/mattlewis92/generator-angular-library
 - https://github.com/jvandemo/generator-angular2-library
 - https://github.com/rangle/angular-2-aot-sandbox
@@ -1244,6 +1249,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/fidian/ngx-visibility
 - https://github.com/k3nsei/ng-in-viewport
 - https://github.com/TinkoffCreditSystems/ng-dompurify
+- https://github.com/TinkoffCreditSystems/ng-event-plugins
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -1271,6 +1277,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/ManuCutillas/ngx-responsive
 - https://github.com/brandonroberts/angular-routing
+- https://github.com/cristiammercado/ng-event-bus
 
 ## ECOSYSTEM: LIB: RXJS
 
@@ -1471,6 +1478,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: MODAL
 
+- https://github.com/ngneat/dialog
 - https://github.com/Greentube/ngx-modal
 - https://github.com/biig-io/ngx-smart-modal
 - https://github.com/shlomiassaf/ngx-modialog
@@ -1515,8 +1523,10 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/xtreamsrl/ngx-validation-errors
 - https://github.com/zebzhao/Angular-QueryBuilder
 - https://github.com/JohannesHoppe/angular-date-value-accessor
+- https://github.com/TinkoffCreditSystems/angular-contenteditable-accessor
 - https://github.com/gparlakov/forms-typed/blob/master/projects/forms/
 - https://github.com/gparlakov/forms-typed/blob/master/projects/show-form-control/
+- https://github.com/rxweb/rxweb/tree/master/client-side/angular/packages/reactive-form-validators
 - https://bit.dev/kevinrodbe/utils/helpers/angular/~code#frm-validators.ts
 - https://stackblitz.com/@formqlx
 
