@@ -303,6 +303,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 
 - https://www.youtube.com/watch?v=ybNj-id0kjY Optimizing an Angular application runtime - Minko Gechev
 - https://timdeschryver.dev/blog/help-angular-to-make-your-application-faster
+- https://medium.com/@dmitrymogilko/profiling-angular-change-detection-c00605862b9f
 - https://speakerdeck.com/mgechev/tools-for-fast-angular-applications
 - https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db
 - https://zizzamia.github.io/perfume/
