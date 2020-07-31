@@ -32,6 +32,7 @@
 - https://github.com/laminas/laminas-hydrator
 - https://github.com/laminas/laminas-permissions-acl/
 - https://aimeos.org/slim-ecommerce-package/
+- https://github.com/selective-php/session
 
 ## SLIM PHP V3 SKELETON
 

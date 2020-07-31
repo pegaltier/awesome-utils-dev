@@ -78,6 +78,9 @@
 - https://github.com/manojVivek/responsively-appA
 - https://html-to-svg.as-a-service.dev/
 
+## AWESOME
+- https://github.com/lindelof/awesome-web-effect
+- https://github.com/FancyGrid/awesome-grid
 
 ## PLUGINS
 

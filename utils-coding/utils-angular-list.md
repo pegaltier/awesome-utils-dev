@@ -302,6 +302,7 @@ Learn about the most useful design patterns in Angular.
 SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 
 - https://www.youtube.com/watch?v=ybNj-id0kjY Optimizing an Angular application runtime - Minko Gechev
+- https://www.youtube.com/watch?v=moUCZoJfhwY Angular Performance: Your App at the Speed of Light - Christian Liebel | NG-DE 2019
 - https://timdeschryver.dev/blog/help-angular-to-make-your-application-faster
 - https://medium.com/@dmitrymogilko/profiling-angular-change-detection-c00605862b9f
 - https://speakerdeck.com/mgechev/tools-for-fast-angular-applications
