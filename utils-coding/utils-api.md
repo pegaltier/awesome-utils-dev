@@ -84,3 +84,4 @@
 ## FUN
 
 - https://www.disneyapi.dev/
+- https://github.com/skolakoda/programming-quotes-api
