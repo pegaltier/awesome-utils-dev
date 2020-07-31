@@ -1389,6 +1389,7 @@ Analyze and optimize the performance of your app
 
 - https://github.com/puppeteer/puppeteer
 - https://github.com/addyosmani/puppeteer-webperf
+- https://github.com/danvk/source-map-explorer
 - https://github.com/ngx-builders/source-map-analyzer
 - https://github.com/webpack-contrib/webpack-bundle-analyzer
 
