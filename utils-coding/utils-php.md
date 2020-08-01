@@ -33,6 +33,7 @@
 - https://github.com/laminas/laminas-permissions-acl/
 - https://aimeos.org/slim-ecommerce-package/
 - https://github.com/selective-php/session
+- https://github.com/HavenShen/slim-born
 
 ## SLIM PHP V3 SKELETON
 
