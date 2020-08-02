@@ -87,6 +87,7 @@
 - https://github.com/typeorm/typeorm
 - https://github.com/nas5w/combinate
 - https://github.com/vvo/tzdb/
+- https://github.com/scurker/currency.js
 
 ## LIB FRONTEND
 
@@ -161,6 +162,7 @@
 ### IMMUTABILITY
 - https://ultimatecourses.com/blog/all-about-immutable-arrays-and-objects-in-javascript
 - https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l
+- https://www.samanthaming.com/tidbits/50-how-to-deep-clone-an-array/
 
 ### DESTRUCTURING
 - https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f

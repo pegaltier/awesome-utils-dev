@@ -3,6 +3,7 @@
 ## TOOLS
 - https://graphql.org/
 - https://www.graph.cool/
+- https://www.graphqleditor.com/
 - https://graphql-code-generator.com/
 - https://www.graphile.org/postgraphile/
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
@@ -15,7 +16,12 @@
 ## LEARN
 - https://github.com/dabit3/graphql-recipes
 
+## MIGRATION
+- https://the-guild.dev/blog/migrating-from-rest
+
 ## ARTICLES
+- https://the-guild.dev/blog/typed-document-node
+- https://blog.graphqleditor.com/graphql-query-generator/
 - https://css-tricks.com/front-end-developers-guide-graphql/
 - https://dev.to/open-graphql/graphql-recipes-building-apis-with-graphql-transform-3jp0
 - https://dev.to/beavearony/getting-started-with-a-angularnx-workspace-backed-by-an-aws-amplify-graphql-api---part-1-24m0

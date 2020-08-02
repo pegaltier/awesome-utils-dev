@@ -192,6 +192,7 @@ Learn about the most useful design patterns in Angular.
 - https://blog.logrocket.com/how-typescript-design-patterns-help-you-write-better-code/
 - https://medium.com/volosoft/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates-f681127e2537
 - https://angular-academy.com/angular-architecture-best-practices/
+- https://slides.com/tuantrungvo/angular-using-visitor-design-pattern-with-typescript
 - https://dev.to/gc_psk/composing-angular-components-with-typescript-mixins-dn3
 - https://medium.com/angular-in-depth/agnostic-components-in-angular-2427923b742d
 - https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
@@ -223,6 +224,7 @@ Learn about the most useful design patterns in Angular.
 - https://blog.bitsrc.io/6-concepts-to-master-to-be-an-angular-architect-807314e31ef3
 - https://dev.to/caroso1222/what-do-you-look-for-in-a-pr-review-21gb
 - https://angular.io/api/core/global
+- https://indepth.dev/5-tips-to-boost-your-angular-skills/
 - https://indepth.dev/best-angular-tips/
 
 ## HELPER: ONLINE IDE
@@ -1593,6 +1595,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/kikstart-ui/kikstart-ui
 - https://github.com/IgniteUI/igniteui-angular
 - https://github.com/ngx-builders/ngx-bulma
+- https://github.com/morrisjdev/ng-metro4
 - https://github.com/Teradata/covalent
 
 
@@ -1702,9 +1705,11 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://hackernoon.com/chatbot-with-angular-5-dialogflow-fdac97fef681
 
 ## ECOSYSTEM: GAMES
-
+- https://jamigo.app/
 - https://github.com/melcor76/ng-tetris
+- https://github.com/trungk18/angular-tetris
 - https://focused-mestorf-930f82.netlify.app/
+- https://tetris.trungk18.com/
 - https://blog.angularindepth.com/how-to-get-started-with-canvas-animations-in-angular-2f797257e5b4
 - https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7
 
