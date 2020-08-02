@@ -699,6 +699,8 @@ npm run scully serve # serve the scully results
 
 Injectors are inherited, which means that if a given injector can't resolve a dependency, it asks the parent injector. A component/directives can get services from its own injector, from the injectors of its component ancestors, from the injector of its parent NgModule, or from the root injector (created from the app module).
 
+### Types
+
 - Tree-shaking services are possible by using the providedIn: 'root', 'platform', 'any', like that if the service is never injected it will be removed of the bundle at compilation.
 
 - Core services (not lazy) must be in the core folder and can declared either in the providers: [ ] array of the core module or better by using the providedIn: 'root' syntax from their @Injectable() decorators and then can be used in all kind of modules (lazy or not) without putting them in providers: [ ] array of any other module.
@@ -707,6 +709,25 @@ Injectors are inherited, which means that if a given injector can't resolve a de
 - Component services can be scoped to that component by removing the providedIn: 'root' from their @Injectable() decorators and adding them to the providers: [ ] array of the component. The service will be available in all child components, the view child and the content child. In addition to providers you can add viewProviders array if you want to scope the same token (with different class) only for the component view itself and consequently the content children (ng-content) will use the service from the providers array defined first.
 - Shared services between multiple apps or Angular Elements. You can use the providedIn: 'platform' in order to make a service available between multiple apps or Angular Elements.
 - Non singleton services. You can use the providedIn: 'any' in order to create isolated (contrary to a singleton) services for every child injector.
+
+### Providing
+- Then you must understand the different kind of injection you can do, in fact you can inject either a class, a value, a factory and even more:
+- class: { provide: MyService, useClass: MyService } // It is a shortcut for MyService
+- value: { provide: MY_CONST,  useValue: "https://my.text" } // MY_CONST must be declared as InjectionToken<string>
+- factory: { provide: MyObs, deps: [DOCUMENT], useFactory: doThingFactory } // MyObs must be declared as InjectionToken<Observable<string>> and doThingFactory is a function which return the observable. You can also create your factory using the 2ng argument of InjectionToken.
+- existing: { provide: MyInterface, useExisting: forwardRef(() => MyDirective) } // MyDirective implements MyInterface and so forwardRef returns a directive after its instance is created
+
+### Decorators
+
+Those decorators below can be used to configure more precisely the injection behavior. They can be used in the constructor method or also in the deps array while providing a factory.
+
+- default: inject without any decorator, looking up the injectors hierarchy...
+- self: inject using only the provider from the component itself (@Self())
+- skipSelf: inject by skipping the provider from the component itself (@SkipSelf())
+- optional: inject if is provided else return null (@Optional())
+- host: inject looking in the component itself first and if is not found there, it looks for the injector up to its host component. (@Host()). Special case with directives and content projection.
+
+
 
 
 ## CHANGE DETECTION
@@ -825,6 +846,7 @@ Can be caused by:
 - review the redux store in order to understand the data/entities of the app
 - review the routing modules in order to understand the architecture of the app
 - check all the mixin and variables scss files in order to know what should be reused
+- check all keywords such as InjectionToken, readonly, as const in order to know the current state
 - use tools such as bundle-analyzer and ngrx-vis in order to understand the current archi
 
 ## MICROFRONTEND
