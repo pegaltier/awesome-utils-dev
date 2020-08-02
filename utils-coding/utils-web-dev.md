@@ -93,6 +93,7 @@
 - https://developers.google.com/web/tools/chrome-devtools/
 - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 - https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha
+- https://chrome.google.com/webstore/detail/z-context/jigamimbjojkdgnlldajknogfgncplbh
 
 ## DEBUG
 https://css-tricks.com/debugging-tips-tricks

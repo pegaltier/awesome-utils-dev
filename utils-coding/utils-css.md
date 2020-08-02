@@ -7,6 +7,7 @@
 - http://1linelayouts.glitch.me/
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
+- https://9elements.github.io/fancy-border-radius
 - https://github.com/picturepan2/devices.css
 
 ## BEST PRACTIVES
@@ -36,6 +37,16 @@
 
 - https://jdan.github.io/98.css/
 - https://github.com/AbimaelAndrade/twitter-flexbox
+
+## EXAMPLE
+
+- https://codepen.io/argyleink/pen/wvMxEXM scroll contextual conic gradient text
+
+## STACKING CONTEXT
+
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context
+- https://philipwalton.com/articles/what-no-one-told-you-about-z-index/
+- https://www.theguild.nl/how-the-css-stacking-context-works/
 
 ## POSITION
 
@@ -77,7 +88,7 @@ SCORE	    SELECTOR
 
 ## HELPER
 
-- margin is like a clock
+- margin,padding is like a clock
 - margin: 10px 5px 30px 40px
 - top right bottom left
 
