@@ -58,6 +58,7 @@
 - https://www.emberfund.io/
 - https://www.trendspider.com/
 - https://cryptofinance.jbuty.com/
+- https://github.com/andresilvasantos/bitprophet
 - https://github.com/f13end/Crypto-Investor-Tools
 - https://github.com/f13end/tradingview-custom-indicators
 - https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96

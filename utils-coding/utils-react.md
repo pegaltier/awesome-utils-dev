@@ -45,6 +45,7 @@ http://boundless.js.org
 
 ## LIBS
 
+- https://github.com/uber/baseweb
 - https://github.com/Hotell/rea-di
 - https://github.com/moroshko/basis
 - https://github.com/re-rxjs/re-rxjs
