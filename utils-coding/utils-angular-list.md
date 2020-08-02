@@ -729,9 +729,10 @@ Learn about the angular router, lazy load your modules.
 ## CORE: CSS
 - https://blog.angular-university.io/angular-host-context/
 - https://blog.angular-university.io/angular-ngclass-ngstyle
-- https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
-- https://coryrylan.com/blog/css-encapsulation-with-angular-2-components
 - https://angular.io/docs/ts/latest/guide/component-styles.html
+- https://coryrylan.com/blog/css-encapsulation-with-angular-2-components
+- https://medium.com/swlh/how-to-structure-scss-in-an-angular-app-a1b8a759a028
+- https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
 
 ## CORE: UNIVERSAL
 
@@ -1138,6 +1139,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/samvloeberghs/scully-universal
 - https://github.com/snipcart/scully-snipcart-store
 - https://github.com/d-koppenhagen/d-koppenhagen.de
+- https://indepth.dev/how-to-migrate-wordpress-to-scully/
 - https://d-koppenhagen.de/blog/2020-01-angular-scully
 - https://d-koppenhagen.de/blog/2020-03-dig-deeper-into-scully-ssg
 - https://snipcart.com/blog/angular-static-site-generator-scully
@@ -1227,6 +1229,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/tslint-angular
 - https://github.com/ReactiveX/rxjs-tslint
 - https://github.com/cartant/rxjs-tslint-rules
+- https://github.com/angular-extensions/lint-rules
 - https://github.com/cyrilletuzi/typescript-strictly-typed
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
@@ -1281,6 +1284,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ManuCutillas/ngx-responsive
 - https://github.com/brandonroberts/angular-routing
 - https://github.com/cristiammercado/ng-event-bus
+- https://github.com/obenjiro/create-angular-components
 
 ## ECOSYSTEM: LIB: RXJS
 
@@ -1381,6 +1385,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/juristr/angular-testing-recipes
 - https://github.com/duluca/angular-unit-test-helper
 - https://github.com/Idered/typescript-expect-plugin
+- https://github.com/angular-extensions/pretty-html-log
 - https://github.com/gparlakov/scuri/blob/master/README.md
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/hirezio/jasmine-auto-spies
@@ -1518,6 +1523,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/formql/formql/tree/master/examples
 - https://github.com/UltimateAngular/ngxerrors
 - https://github.com/rsaenen/ngx-custom-validators
+- https://github.com/verizonconnect/ngx-form-generator
 - https://github.com/why520crazy/ngx-validator
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngx-formly/ngx-formly
@@ -1856,6 +1862,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://happy-angular.de/
 - https://devchat.tv/adv-in-angular/
 - https://github.com/ngRuAir/ngruair
+- https://www.twitch.tv/brandontroberts
 - https://soundcloud.com/angularlicious/angular-architecture-part-2-with-lars-still-getting-rid-of-modules
 
 ## ECOSYSTEM: ARTICLES

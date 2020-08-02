@@ -14,8 +14,10 @@
 - https://watchandcode.com/p/practical-javascript
 
 ## GUIDE-OPEN
+
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/getify/You-Dont-Know-JS
@@ -51,6 +53,7 @@
 
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
+- https://github.com/evanw/esbuild
 
 ## LIB LIST
 
@@ -134,8 +137,17 @@
 - https://github.com/NectarJS/nectarjs
 - https://github.com/josdejong/mathjs
 
-## ALLIN FRAMEWORK
+## ALLIN
+
 - https://github.com/vendure-ecommerce/vendure
+
+## CANVAS 
+
+- https://joshbradley.me/object-collisions-with-canvas/
+
+## MEDIAS
+
+- https://realtalkjavascript.simplecast.com/
 
 ## BOOKS
 - https://exploringjs.com/impatient-js/
