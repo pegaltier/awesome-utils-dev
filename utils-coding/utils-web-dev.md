@@ -78,6 +78,9 @@
 - https://github.com/manojVivek/responsively-appA
 - https://html-to-svg.as-a-service.dev/
 - http://jsoneditoronline.org/
+- https://bundlers.tooling.report/
+- https://free-for.dev
+- https://debuild.co/
 
 ## AWESOME
 - https://github.com/lindelof/awesome-web-effect

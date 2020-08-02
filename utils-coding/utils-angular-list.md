@@ -176,6 +176,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 Learn about the most useful design patterns in Angular.
 
+- https://dev.to/lifelongthinker/the-strategy-pattern-exemplified-in-typescript-3pmi
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 - https://medium.com/volosoft/strategy-pattern-implementation-with-typescript-and-angular-9ad8b1929e9c
 - https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
@@ -1029,6 +1030,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://youtu.be/uUSe0QZm6AE Cross Platform with Angular and Ionic 4 by Mike Hartington
 - https://youtu.be/pcTSDMid-aE AngularAir - Advanced Nx
 - https://youtu.be/hQ5qCK9-n2Q Angular Monorepo Diaries | Balazs Korossy-Khayll
+- https://youtu.be/gybfda4UsI4 mono-repos for frontend
 - https://www.twitch.tv/videos/636354209 NX plugin example: NX Ionic React
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
@@ -1434,6 +1436,7 @@ Analyze and optimize the performance of your app
 - https://github.com/jdjuan/ng-notyf
 - https://github.com/beeman/ngx-split
 - https://github.com/exportarts/ngx-cookie-banner
+- https://github.com/angular-split/angular-split
 
 ## ECOSYSTEM: LIB: GRID/TABLE
 
@@ -1491,6 +1494,7 @@ Analyze and optimize the performance of your app
 
 - https://github.com/ngneat/dialog
 - https://github.com/Greentube/ngx-modal
+- https://github.com/caroso1222/ng-popups
 - https://github.com/biig-io/ngx-smart-modal
 - https://github.com/shlomiassaf/ngx-modialog
 - https://matthewross.me/blog/posts/minimal-angular-2-modal
@@ -1706,6 +1710,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: GAMES
 - https://jamigo.app/
+- https://js-rocks.web.app/
 - https://github.com/melcor76/ng-tetris
 - https://github.com/trungk18/angular-tetris
 - https://focused-mestorf-930f82.netlify.app/

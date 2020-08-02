@@ -32,6 +32,7 @@ http://boundless.js.org
 
 
 ## THEME TOOLS PLUGIN IDE MARKET
+- https://www.plasmic.app/
 - https://reactstrap.github.io/
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 

@@ -7,11 +7,14 @@ Agent pour développeurs haut-niveau
 - https://stackoverflow.com/jobs/remote-developer-jobs
 - https://www.freelancer.com/
 - https://remoteok.io/
+- https://jobspresso.co/
 - https://www.toptal.com/
 - https://www.upwork.com/
 - https://frontendremotejobs.com/
 - https://breakout.careers/
 - https://remoteleaf.com/
+- https://weworkremotely.com/
+- https://talent.hubstaff.com/
 - https://github.com/Hellnar/openings
 - https://workfromhomejobs.me/remote-developer-jobs/
 - https://remotive.io/remote-jobs/software-dev

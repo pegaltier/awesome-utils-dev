@@ -199,6 +199,14 @@
 - Understanding "this" keyword
 - apply(), .call() and .bind()
 
+## ARRAY
+
+use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do I use a for loop.
+
+Exceptions include
+- break (can't even remember the last time I used one)
+- async/await
+
 ## EXAMPLES
 
 Useful object methods: keys, values, and entries.

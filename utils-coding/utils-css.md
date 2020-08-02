@@ -74,6 +74,13 @@ SCORE	    SELECTOR
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 - https://uxengineer.com/css-specificity-avoid-important-css/
 
+
+## HELPER
+
+- margin is like a clock
+- margin: 10px 5px 30px 40px
+- top right bottom left
+
 ## RESPONSIVE
 
 - https://css-tricks.com/min-max-and-clamp-are-css-magic/
