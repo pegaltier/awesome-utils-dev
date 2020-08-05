@@ -97,6 +97,7 @@ holo github>>
 - https://github.com/holochain/dev-camp-tests-rust
 - https://github.com/holochain-devcamp/generic-game
 - https://github.com/holochain-devcamp/holochain-games-ui
+- https://github.com/holochain-devcamp/devcamp7-leap
 - https://github.com/petersgrandadventure/dev-camp-playground/tree/idea-machine
 - https://github.com/willemolding/holochain_graphql_starter_kit
 - https://github.com/willemolding/holochain-collections
