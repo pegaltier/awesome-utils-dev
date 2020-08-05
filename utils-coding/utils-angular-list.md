@@ -1559,6 +1559,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngneat/transloco
 - https://github.com/ngx-translate/core
 - https://github.com/biesbjerg/ngx-translate-extract
+- https://github.com/ngx-translate/i18n-polyfill
 - https://github.com/Tuizi/i18n-split-example
 - https://itnext.io/lazy-load-translation-files-in-angular-using-transloco-2d3afed116ce
 - https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
