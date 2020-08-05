@@ -24,6 +24,8 @@
 - https://github.com/zhorton34/authorize-slim-4
 - https://github.com/bryanjhv/slim-session
 - https://github.com/selective-php/basepath
+- https://github.com/selective-php/session
+- https://github.com/selective-php/validation
 - https://github.com/slimphp/Slim-Csrf
 - https://github.com/slimphp/Slim-Http
 - https://github.com/slimphp/Twig-View
@@ -32,7 +34,6 @@
 - https://github.com/laminas/laminas-hydrator
 - https://github.com/laminas/laminas-permissions-acl/
 - https://aimeos.org/slim-ecommerce-package/
-- https://github.com/selective-php/session
 - https://github.com/HavenShen/slim-born
 - https://github.com/awurth/SlimValidation
 
@@ -144,6 +145,9 @@ composer update (update dependecies & generate import class)
 - https://github.com/matrix-msu/kora
 - https://github.com/nette/forms
 - https://github.com/dcarbone/php-object-merge
+- https://github.com/selective-php/image-type
+- https://github.com/selective-php/video-type
+- https://github.com/selective-php/audio-type
 
 ## TESTS
 
