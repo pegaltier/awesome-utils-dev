@@ -80,6 +80,7 @@
 - https://html-to-svg.as-a-service.dev/
 - http://jsoneditoronline.org/
 - https://bundlers.tooling.report/
+- http://www.perf-tooling.today/
 - https://free-for.dev
 - https://debuild.co/
 
