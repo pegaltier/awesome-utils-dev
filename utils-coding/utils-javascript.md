@@ -105,6 +105,7 @@
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/juliangarnier/anime
 - https://github.com/greensock/GSAP
+- https://github.com/willmendesneto/perf-marks
 
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon
