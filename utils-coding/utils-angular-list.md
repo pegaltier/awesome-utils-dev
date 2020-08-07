@@ -841,8 +841,6 @@ Learn the angular error handler in order to catch the front-end and back-end err
 ## ECOSYSTEM: STORE: NGRX
 
 - https://github.com/ngrx/platform
-- https://github.com/ngrx/platform/tree/master/example-app
-- https://github.com/ngrx/platform/tree/master/projects/example-app
 - https://github.com/co-IT/ngrx-ducks
 - https://github.com/co-IT/ngrx-vis
 - https://github.com/cartant/ts-action
@@ -850,16 +848,20 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/timdeschryver/ngrx-etc
 - https://github.com/meeroslav/ng-helpers
+- https://github.com/MrWolfZ/ngrx-forms
+- https://github.com/satanTime/ngrx-graphql
 - https://github.com/briebug/ngrx-auto-entity
 - https://github.com/briebug/ngrx-entity-schematic
+- https://github.com/satanTime/ngrx-entity-relationship
 - https://github.com/larscom/ngrx-store-storagesync
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload
-- https://github.com/MrWolfZ/ngrx-forms
 - https://github.com/nilsmehlhorn/ngrx-wieder
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/ngrx-utils/ngrx-utils
+- https://github.com/blove/ngrx-testing
+
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 - https://blog.strongbrew.io/how-to-write-clean-reducers-and-test-them/
@@ -1392,8 +1394,11 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-extensions/pretty-html-log
 - https://github.com/gparlakov/scuri/blob/master/README.md
 - https://github.com/testing-library/angular-testing-library
+- https://github.com/synapse-wireless-labs/jasmine-marbles
+- https://github.com/cartant/rxjs-marbles
 - https://github.com/hirezio/jasmine-auto-spies
 - https://stackblitz.com/edit/angular-testing-v7
+- https://github.com/blove/ngrx-testing
 
 ## ECOSYSTEM: LIB: OPTIMIZATION
 
@@ -1429,6 +1434,7 @@ Analyze and optimize the performance of your app
 - https://github.com/mattlewis92/angular-resizable-element
 - https://github.com/kamiazya/ngx-speech-recognition
 - https://github.com/angular-slider/ng5-slider
+- https://github.com/reppners/ngx-drag-drop
 - https://github.com/surveyjs/survey-library
 - https://github.com/leifermendez/ngx-copilot
 - https://github.com/ngneat/helipopper
