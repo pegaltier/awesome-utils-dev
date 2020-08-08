@@ -1359,6 +1359,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/deanius/storybook-animate
 - https://github.com/smeijer/testing-playground
 - https://github.com/socreate/angular-playground
+- https://github.com/bahmutov/cypress-angular-unit-test
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
 - https://webdave.de/blog/cypress
