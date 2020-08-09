@@ -1,21 +1,27 @@
-
+# AI
 
 ## TENSOR FIRE
-https://tenso.rs/demos/fast-neural-style/
-http://www.infoworld.com/article/3212884/machine-learning/machine-learning-comes-to-your-browser-via-javascript.html
+- https://tenso.rs/demos/fast-neural-style/
+- http://www.infoworld.com/article/3212884/machine-learning/machine-learning-comes-to-your-browser-via-javascript.html
 
 ## ARTICLES
-https://www.kissmyfrogs.com/stephane-mallard-blu-age/
+- https://www.kissmyfrogs.com/stephane-mallard-blu-age/
 
 ## AWESOME
 
 - https://github.com/heartexlabs/awesome-data-labeling
 
 ## IMAGES API
-https://dzone.com/articles/mimic-snapchat-filters-programmatically-1
-https://cloud.google.com/vision/
-https://azure.microsoft.com/en-gb/services/cognitive-services/
-https://pixlab.io/home
+
+- https://cloud.google.com/vision/
+- https://pixlab.io/home
+- https://dzone.com/articles/mimic-snapchat-filters-programmatically-1
+- https://azure.microsoft.com/en-gb/services/cognitive-services/
 
 ## OTHERS
-https://www.theneura.com
+
+- https://www.theneura.com
+
+## LIB
+
+- https://github.com/the-new-sky/Wisty.js
