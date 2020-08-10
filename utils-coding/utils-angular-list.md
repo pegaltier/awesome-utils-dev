@@ -1445,6 +1445,8 @@ Analyze and optimize the performance of your app
 - https://github.com/beeman/ngx-split
 - https://github.com/exportarts/ngx-cookie-banner
 - https://github.com/angular-split/angular-split
+- https://github.com/ngfelixl/ng-write/
+- https://github.com/ngfelixl/pro-widgets
 
 ## ECOSYSTEM: LIB: STATS
 
