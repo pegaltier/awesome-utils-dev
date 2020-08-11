@@ -725,9 +725,10 @@ Learn about the angular router, lazy load your modules.
 - https://www.youtube.com/watch?v=GaJ71V28woY Angular Vienna, Web Application Security for Frontend Devs, July 2019
 - https://www.youtube.com/watch?v=WN-XczmI-LY Martin Probst (@martin_probst) , Raphaël Jamet: Security in Angular
 - https://www.youtube.com/watch?v=l89acmnGMSc Philippe De Ryck - Boosting the security of your Angular
-- https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
+- https://snyk.io/blog/angular-security-best-practices/
 - http://www.gistia.com/talk-backend-services-angular-2s-http-client
 - https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.qyagk4j6f
+- https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
 
 ## CORE: CSS
 - https://blog.angular-university.io/angular-host-context/
@@ -1821,6 +1822,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## ECOSYSTEM: VSCODE OTHERS
 
 - https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
+- https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 - https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
