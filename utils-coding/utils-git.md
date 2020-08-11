@@ -203,25 +203,40 @@ git push --set-upstream origin 1109-issue-name
 git push -u origin 1109-issue-name
 ```
 
+## MERGE/REBASE
+
+- https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
+- https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+- https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
+- https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
+
 ## MERGE BRANCH
 
 Example for merging master into custom_branch
 
 ```
+git checkout master
+git pull
 git checkout custom_branch
-git merge master (solution 1)
-git rebase master (solution 2)
+git merge master
 git merge --abort (cancel)
 ```
 
 You can also use Gitlab/Bitbucket explorer or VSCode plugin "Git merger":
 - from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
 
-More infos
-- https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
-- https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-- https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
-- https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
+## REBASE BRANCH
+
+Example for rebasing master into custom_branch
+
+```
+git checkout master
+git pull
+git rebase master
+git rebase --continue (continue the rebase)
+git rebase --abort (cancel the rebase)
+git push --force (send to remote)
+```
 
 ## CONFIG
 
