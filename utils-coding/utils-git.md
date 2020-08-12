@@ -48,10 +48,12 @@
 - https://projectr.io/
 
 ## TEMPLATES
+
+- https://github.com/anuraghazra/github-readme-stats
 - https://github.com/stevemao/github-issue-templates
+- https://github.com/sindresorhus/css-in-readme-like-wat
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - https://github.com/kautukkundan/Awesome-Profile-README-templates
-- https://github.com/sindresorhus/css-in-readme-like-wat
 
 ## MOST USED
 
