@@ -36,6 +36,7 @@
 - https://aimeos.org/slim-ecommerce-package/
 - https://github.com/HavenShen/slim-born
 - https://github.com/awurth/SlimValidation
+- https://github.com/Neoflow/Session
 
 ## SLIM PHP V3 SKELETON
 

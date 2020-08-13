@@ -1231,6 +1231,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/stylelint/stylelint
 - https://github.com/htmlhint/HTMLHint
 - https://github.com/palantir/tslint
+- https://github.com/eslint/eslint
 - https://github.com/mgechev/ngrev
 - https://github.com/mgechev/ng2lint
 - https://github.com/mgechev/codelyzer
@@ -1238,6 +1239,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/ReactiveX/rxjs-tslint
 - https://github.com/cartant/rxjs-tslint-rules
 - https://github.com/angular-extensions/lint-rules
+- https://github.com/angular-eslint/angular-eslint
+- https://github.com/typescript-eslint/typescript-eslint
 - https://github.com/cyrilletuzi/typescript-strictly-typed
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript

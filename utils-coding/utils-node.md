@@ -67,8 +67,28 @@
 
 ## COMMANDS
 
+
+## NPM
+
+### Helper
+
 ```
 npm list -g --depth 0 (list the global package installed)
 npx ... (run directly a global or local package from the node_modules)
 npx ngcc (example to run angular ngcc in an angular (v9) project)
+```
+
+### Versions
+
+- package version has 3 parts - major.minor.patch
+- ^ = latest minor version will be installed
+- ~ = latest patch version will be installed
+
+```
+npm outdated # check the dep to update
+npm update # update all to the wanted
+npm update mypackage1 # update one to the wanted
+npm update mypackage1 mypackage2 # update many to the wanted
+npm install mypackage1@latest # update one to the latest (major)
+npx npm-check-updates -u # update all to the latest (major)
 ```
