@@ -54,13 +54,28 @@
 - by default html elements are position: static; in this case these adjusting properties above will not do anything.
 - after choosing a position then html elements are then positioned using the adjusting properties: top, bottom, left and right. But those adjusting properties will work differently depending on the position value:
 
-- position: static; # element is not affected by the adjusting properties.
+- position: static; # element is not affected by the adjusting properties. (they are shown in order they are defined, top to bottom, z-index is automaticly defined as 0)
 - position: relative; # element is positioned relative to its normal position.
 - position: fixed; # element is positioned relative to the viewport, scroll has no effect.
-- position: absolute; # element is positioned relative to the nearest positioned ancestor.
+- position: absolute; # element is positioned relative to the nearest positioned ancestor. (using adjusting properties, if multiple elements are absolute at the same position then they are stacked in the order they are written in the html, z-index can be modified to customize the display of those absolute elements, if z-index is defined to less than 0 then statics elements will be shown above)
 - position: sticky; # element is positioned relative to its normal position and toggle to fixed based on the user's scroll position.
 
 - learn more: https://www.w3schools.com/css/css_positioning.asp
+
+## STACKING CONTEXT
+
+- z-index has utility only if position is specified
+- z-index is working only between elements at same level
+- z-index itself is causing the creation of a stacking context
+- then stacking context is taking effects for child elements
+- even if a child element has the higher z-index it will stay below because of his parent z-index
+- others attribute are creating a stacking context such as: transform, filter, perspective, clip-path...
+
+- a idea is to add z-index to the higher parent possible so not on child items... more infos about stacking context: 
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context
+- https://www.youtube.com/watch?v=uS8l4YRXbaw CSS Z-Index and Stacking Context
+- https://www.youtube.com/watch?v=qblxToPBY7Y Z-index CSS Tutorial ( Position and Stacking Order )
+
 
 ## DISPLAY
 
