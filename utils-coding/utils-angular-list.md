@@ -953,6 +953,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 Discover alternative to ngrx for the state management of your objects.
 
+- https://github.com/kuncevic/rx-service
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/lacolaco/reactive-store
 - https://github.com/ngxs/store
