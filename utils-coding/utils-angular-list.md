@@ -956,7 +956,9 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/kuncevic/rx-service
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/lacolaco/reactive-store
+- https://github.com/mobxjs/mobx
 - https://github.com/ngxs/store
+- https://github.com/ngxs-labs/data
 - https://github.com/ngxs-labs/emitter
 - https://github.com/ngxs-labs/immer-adapter
 - https://github.com/reclarejs/reclare
