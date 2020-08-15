@@ -234,6 +234,7 @@ Example for rebasing master into custom_branch
 ```
 git checkout master
 git pull
+git checkout custom_branch
 git rebase master
 git rebase --continue (continue the rebase)
 git rebase --abort (cancel the rebase)
