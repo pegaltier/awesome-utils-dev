@@ -1663,6 +1663,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: PLUG & PLAY:
 
+- https://github.com/javascript-dragons/ionic-ecommerce
 - https://github.com/exportarts/ngx-prismic
 - https://github.com/aviabird/angularspree
 - https://github.com/scullyio/scully

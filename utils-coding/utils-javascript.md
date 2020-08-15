@@ -88,6 +88,7 @@
 - https://github.com/nas5w/combinate
 - https://github.com/vvo/tzdb/
 - https://github.com/scurker/currency.js
+- https://github.com/ajv-validator/ajv
 
 ## LIB FRONTEND
 
