@@ -11,6 +11,8 @@
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 
 ## LIB
+
+- https://github.com/RustScan/RustScan
 - https://github.com/mit-pdos/noria
 - https://github.com/riker-rs/riker
 - https://github.com/actix/actix
