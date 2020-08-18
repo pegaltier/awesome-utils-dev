@@ -118,12 +118,19 @@ git push -u origin --all
 git fetch --prune
 ```
 
-- Reset to match the remote branch
+- Different reset possible
 ```
 git fetch origin
+git reset --soft  (Uncommit changes, changes are left staged (index))
+git reset --mixed (default) (Uncommit + unstage changes, changes are left in working tree)
+git reset --hard: (Uncommit + unstage + delete changes, nothing left)
+```
+
+- Reset to match the remote branch
+```
 git reset --soft HEAD~1 (Undo last local commit)
 git reset --hard origin/master (Undo all the local commits)
-git reset --hard 3c74a11530697214cbcc4b7b98bf7a65
+git reset --hard 3c74a11530697214cbcc4b7b98bf7a65 (Reset to commit)
 git reset --hard (Reset any local changes)
 ```
 
@@ -140,8 +147,8 @@ rm -Force -Recurse .git
 ```
 
 - all resets possible
-https://stackoverflow.com/a/42903805
-
+- https://stackoverflow.com/a/42903805
+- https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard
 
 ## STASH
 

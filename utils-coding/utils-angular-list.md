@@ -1426,6 +1426,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
+- https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/oferh/ng2-completer
 - https://github.com/akserg/ng2-toasty
