@@ -44,6 +44,7 @@
 - https://github.com/observing/pre-commit
 - https://github.com/commitizen/cz-cli
 - https://github.com/typicode/husky
+- https://www.gitkraken.com/
 - https://gitexplorer.com/
 - https://projectr.io/
 

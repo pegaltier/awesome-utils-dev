@@ -1436,6 +1436,7 @@ Analyze and optimize the performance of your app
 - https://github.com/BioPhoton/angular-star-rating
 - https://github.com/BioPhoton/angular-signature-pad
 - https://github.com/Asymmetrik/ngx-leaflet
+- https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/text-mask/text-mask
 - https://github.com/KillerCodeMonkey/ngx-quill
 - https://github.com/georgipeltekov/ngx-file-drop
@@ -1854,6 +1855,12 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/johnpapa/vscode-angular2-snippets
 - https://github.com/evanplaice/angular2-snippets
 
+## ECOSYSTEM: VSCODE PERSO
+https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
+https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
+https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
+https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
 ## ECOSYSTEM: AWESOME
 
