@@ -50,6 +50,7 @@
 
 ## TEMPLATES
 
+- https://github.com/kefranabg/readme-md-generator
 - https://github.com/anuraghazra/github-readme-stats
 - https://github.com/stevemao/github-issue-templates
 - https://github.com/sindresorhus/css-in-readme-like-wat
