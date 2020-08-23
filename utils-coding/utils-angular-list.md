@@ -861,6 +861,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/btroncone/ngrx-store-logger
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/timdeschryver/ngrx-tslint-rules
+- https://github.com/timdeschryver/eslint-plugin-ngrx
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/blove/ngrx-testing
 
