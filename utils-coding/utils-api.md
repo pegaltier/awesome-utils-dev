@@ -22,8 +22,10 @@
 ## TOOLS
 - https://apis.guru/
 - http://postman.com/
+- https://hoppscotch.io/
 - https://insomnia.rest/
 - https://github.com/liyasthomas/postwoman
+- https://github.com/hoppscotch/hoppscotch
 - https://github.com/APIs-guru
 - https://pipedream.com/
 

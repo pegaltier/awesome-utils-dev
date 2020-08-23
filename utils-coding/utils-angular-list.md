@@ -1412,6 +1412,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-extensions/pretty-html-log
 - https://github.com/gparlakov/scuri/blob/master/README.md
 - https://github.com/testing-library/angular-testing-library
+- https://github.com/testing-library/jest-dom
 - https://github.com/synapse-wireless-labs/jasmine-marbles
 - https://github.com/cartant/rxjs-marbles
 - https://github.com/hirezio/jasmine-auto-spies
