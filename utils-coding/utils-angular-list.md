@@ -956,6 +956,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/kuncevic/rx-service
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/lacolaco/reactive-store
+- https://github.com/stanimirovic/juliette
 - https://github.com/mobxjs/mobx
 - https://github.com/ngxs/store
 - https://github.com/ngxs-labs/data
@@ -1599,6 +1600,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 ## ECOSYSTEM: LIB: MEDIA
 
+- https://github.com/FortAwesome/angular-fontawesome
 - https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/czeckd/angular2-svg-icon
