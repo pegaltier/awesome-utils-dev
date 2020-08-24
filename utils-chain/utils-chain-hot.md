@@ -68,6 +68,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 holo list>>
 - https://github.com/zaunders/apps
 - https://github.com/f13end/Holochain-Projects
+- https://github.com/wimpheling/awesome-holochain
 - https://github.com/holochain-community-resources
 
 holo github>>
