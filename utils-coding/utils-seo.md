@@ -30,14 +30,15 @@ https://moz.com/search-ranking-factors
 
 WHEN: at the beginning of each new campaign or each trimester
 
-https://rankgen.com/
-http://seositecheckup.com/
-https://fr.majestic.com/
-https://ranxplorer.com
-https://myrankingmetrics.com/
-https://www.thomascubel.com/audit-seo-gratuit/
-https://www.drujokweb.fr/blog/audit-seo/
-https://github.com/ovh/summit2016-RankingPredict
+- https://sitechecker.pro
+- https://rankgen.com/
+- https://ranxplorer.com
+- https://fr.majestic.com/
+- http://seositecheckup.com/
+- https://myrankingmetrics.com/
+- https://www.drujokweb.fr/blog/audit-seo/
+- https://www.thomascubel.com/audit-seo-gratuit/
+- https://github.com/ovh/summit2016-RankingPredict
 
 ## SEO LIST
 https://curatedseotools.com/

@@ -404,7 +404,7 @@ runtimeChecks: {
 
 So @ngrx/component (and partly @ngrx/component-store) are all about leveraging the observable as the primary means of change detection in Angular apps. The goal is to enable fully reactive Angular applications to run without Zone.js. Right now we accomplish this with two APIs:
 
-- observable$ | ngrxPush is a drop-in replacement for the async pipe. Unlike the async pipe the ngrxPush pipe will run change detection for you when the provided observable emits. It also handles errors a little more gracefully than the async pipe.
+- observable$ | ngrxPush is a drop-in replacement for the async pipe. ngrxPush pipe will run change detection for you when the provided observable emits. It also handles errors a little more gracefully than the async pipe. Unlike the Angular async pipe it triggers change detection and rendering ONLY in the very component where the change got introduced, and the child components effected by the change.
 - *ngrxLet="observable$ as value" is an alternative for *ngIf="observable$ | async as value" that handles falsey values correctly, lets you handle errors, and also runs change detection when the provided observable emits.
 
 ## PIPES

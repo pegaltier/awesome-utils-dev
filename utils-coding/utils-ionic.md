@@ -120,6 +120,7 @@ npm install -g ionic
 - https://ionicframework.com/blog/announcing-capacitor-1-0/
 - https://ionicframework.com/blog/announcing-capacitor-2-0/
 - https://capacitor.ionicframework.com/docs/apis/
+- https://github.com/capacitor-community
 
 Unlike Cordova Capacitor expects you to commit your native app project (Xcode, Android Studio, etc.) as a source artifact. This means it’s easy to add custom native code, build “plugins” to expose native functionality to your web app without having to actually build a standalone plugin, and also debug and manage your app in the way that embraces the best tooling for that platform.
 

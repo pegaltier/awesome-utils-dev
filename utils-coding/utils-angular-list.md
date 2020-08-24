@@ -931,7 +931,9 @@ Learn the angular error handler in order to catch the front-end and back-end err
 ## ECOSYSTEM: STORE: NGRX/COMPONENT
 
 - https://ngrx.io/guide/component
+- https://indepth.dev/angulars-push-pipe-part-1/
 - https://medium.com/ngconf/a-first-look-at-ngrx-component-f7fcbf83669a
+
 
 ## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
 
