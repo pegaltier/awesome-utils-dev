@@ -108,6 +108,7 @@
 - https://github.com/juliangarnier/anime
 - https://github.com/greensock/GSAP
 - https://github.com/willmendesneto/perf-marks
+- https://github.com/mikecao/umami
 
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon
