@@ -1309,6 +1309,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/brandonroberts/angular-routing
 - https://github.com/cristiammercado/ng-event-bus
 - https://github.com/obenjiro/create-angular-components
+- https://github.com/MTobisch/ngx-dynamic-hooks
 
 ## ECOSYSTEM: LIB: RXJS
 
