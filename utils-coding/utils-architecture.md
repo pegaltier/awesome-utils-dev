@@ -16,3 +16,8 @@
 
 ## ARTICLES
 - https://blog.ippon.fr/2018/09/12/quest-ce-quun-metarchitecte/
+
+## OPINION
+
+-sql: create table with prefix for the project + prefix for the order ex: box_001_member / box_001_event.. It helps to scale and to understand...
+-code: create a custom facade for all the important modules. ex: CustomHttp, CustomStore, CustomModal... It helps to scale, refactor, migrate to new modules...
