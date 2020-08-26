@@ -1,3 +1,28 @@
 {
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "run-commands-view.commands": {
+        "💤 Toggle Status Bar": "workbench.action.toggleStatusbarVisibility",
+        "🔶 Insert text": {
+            "command": "editor.action.insertSnippet",
+            "args": { "snippet": "text" }
+        },
+        "📒 Toggle Minimap & Status Bar": [
+            "editor.action.toggleMinimap",
+            "workbench.action.toggleStatusbarVisibility"
+        ],
+        "📜 Toggle sidebar and minimap": {
+            "registerId": "toggleSidebarMinimap",// <=====
+            "sequence": [
+                "workbench.action.toggleSidebarVisibility",
+                "editor.action.toggleMinimap"
+            ]
+        },
+        "⏳ Delay": [
+            "workbench.action.toggleSidebarVisibility",
+            {
+                "command": "workbench.action.toggleSidebarVisibility",
+                "delayBefore": 1000,// <=====
+            }
+        ],
+    }
 }
