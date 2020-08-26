@@ -5,7 +5,7 @@
 ![github](https://badgen.net/github/stars/pegaltier/utils-dev)
 ![twitter](https://badgen.net/twitter/follow/pegaltier)
 
-📔 📚 A curated list of awesome resources, utils, links, notes, tools, tips, helpers made by a developer and for developers...
+📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 
 ## Programming Languages
 - [Javascript](utils-coding/utils-javascript.md)
@@ -41,6 +41,7 @@
 
 
 ## Contributing
+
 Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
 
 - https://github.com/pegaltier
