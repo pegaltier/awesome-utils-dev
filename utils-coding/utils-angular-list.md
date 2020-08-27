@@ -1866,12 +1866,14 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/evanplaice/angular2-snippets
 
 ## ECOSYSTEM: VSCODE PERSO
+
+- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+- https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+- https://marketplace.visualstudio.com/items?itemName=usernamehw.snippets-view
+- https://marketplace.visualstudio.com/items?itemName=usernamehw.run-commands-view
 - https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
 - https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.run-commands-view
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.snippets-view
 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
 ## ECOSYSTEM: AWESOME
