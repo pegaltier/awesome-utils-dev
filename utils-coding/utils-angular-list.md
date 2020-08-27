@@ -1651,6 +1651,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://github.com/damienbod/angular-auth-oidc-client
+- https://github.com/auth0/angular2-jwt
 
 ## ECOSYSTEM: LIB: PAYMENT
 
