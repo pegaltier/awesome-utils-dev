@@ -1703,6 +1703,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brechtbilliet/winecellar (backend and auth)
 - https://github.com/amcdnl/angular2-demo
 - https://github.com/r-park/todo-angular2-firebase WITH BACKEND and OAUTH
+- https://github.com/HybridShivam/pokedex-angular-app
 - https://github.com/orizens/echoes-ng2
 - https://github.com/johnpapa/angular2-first-look-launcher
 - https://github.com/johnpapa/angular2-tour-of-heroes
