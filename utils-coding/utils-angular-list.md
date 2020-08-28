@@ -1255,6 +1255,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/typescript-eslint/typescript-eslint
 - https://github.com/cyrilletuzi/typescript-strictly-typed
+- https://github.com/danielnixon/eslint-plugin-total-functions
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
@@ -1700,6 +1701,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: SOURCES
 
 - https://github.com/trungk18/jira-clone-angular
+- https://github.com/ganatan/angular-example-pwa
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example
 - https://github.com/brechtbilliet/winecellar (backend and auth)
@@ -1860,6 +1862,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
 - https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
 - https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
+- https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
 - http://brianflove.com/2017/04/11/angular-language-service/
 - https://github.com/angular/vscode-ng-language-service
 - https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
