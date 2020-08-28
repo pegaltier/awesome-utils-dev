@@ -90,6 +90,7 @@
 - https://github.com/scurker/currency.js
 - https://github.com/ajv-validator/ajv
 - https://github.com/cabinjs/sensitive-fields
+- https://github.com/xxczaki/light-date
 
 ## LIB FRONTEND
 
