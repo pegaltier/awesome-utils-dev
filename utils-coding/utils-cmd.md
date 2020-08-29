@@ -25,3 +25,9 @@ rm -r -f node_modules (linux)
 alias ..="cd .."
 alias ...="cd ../.."
 ```
+
+# Wsl
+
+```
+explorer.exe .
+```
