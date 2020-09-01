@@ -27,6 +27,10 @@
 - Note taking and to-do application with synchronization 
 - Windows, macOS, Linux, Android and iOS
 
+- [Keeweb](https://github.com/keeweb/keeweb)
+- Free cross-platform password manager compatible with KeePass
+- Windows, macOS, Linux, Web
+
 <img src="https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-f3479.webp">
 
 - [Alfred](https://www.alfredapp.com/) - Spotlight search alternative
@@ -201,9 +205,6 @@ I've heard a lot of buzz about Airtable lately and finally tried it out. It live
 Like Nuclino + Airtable.
 
 Instead of spreadsheets being the central model, an outliner knowledge base is. But they seemed to have stole much of Airtable's Kanban capabilities. While Airtable has a few additional features, Notion integrates with its building block/knowledge base approach, such that you can have essentially an outliner/wiki within each task, and you can also use double-square-brackets to link to other permanent nodes in the knowledge base.
-
-
-
 
 
 ## Documentation Tools

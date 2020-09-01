@@ -46,6 +46,7 @@
 - https://github.com/eonarheim/TypeState
 - https://github.com/krzkaczor/earl
 - https://github.com/adelsz/pgtyped
+- https://github.com/ronami/meta-typing
 
 ## TYPESCRIPT GUIDES
 
