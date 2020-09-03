@@ -1,4 +1,6 @@
-## PWA 
+# PWA 
+
+## LINKS
 tricks : http://deanhume.com/home/blogpost/a-big-list-of-progressive-web-app-tips-and-tricks
 myth : https://medium.com/samsung-internet-dev/6-myths-of-progressive-web-apps-81e28ca9d2b1
 news : https://mobiforge.com/news-comment/safari-service-workers-and-other-pwa-good-news-stories
@@ -24,3 +26,8 @@ ionic : http://blog.ionic.io/announcing-pwa-support-in-ionic-2/
 ionic : http://blog.ionic.io/tag/progressive-web-apps/
 resilient : https://resilientwebdesign.com/
 idea : https://adactio.com/journal/12015?utm_term=0_df65b6d7c8-8fe1469542-42764681
+
+
+## TOOLS
+
+- https://github.com/onderceylan/pwa-asset-generator
