@@ -25,6 +25,7 @@
 
 - https://github.com/jgthms/bulma
 - https://github.com/troxler/awesome-css-frameworks
+- https://github.com/vasanthv/stylize.css
 
 ## BAD
 

@@ -1274,6 +1274,7 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/ng-web-apis/resize-observer
 - https://github.com/ng-web-apis/intersection-observer
+- https://github.com/ng-web-apis/mutation-observer
 - https://github.com/ChristianKohler/ng-resize-observer
 - https://github.com/fidian/ngx-resize-observer
 - https://github.com/fidian/ngx-mutation-observer

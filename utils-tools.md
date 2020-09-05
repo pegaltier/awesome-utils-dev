@@ -31,6 +31,10 @@
 - Free cross-platform password manager compatible with KeePass
 - Windows, macOS, Linux, Web
 
+- [Talk](https://talk.vasanthv.com/)
+- A group video call for the web. No signups. No downloads.
+- Web
+
 <img src="https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-f3479.webp">
 
 - [Alfred](https://www.alfredapp.com/) - Spotlight search alternative
