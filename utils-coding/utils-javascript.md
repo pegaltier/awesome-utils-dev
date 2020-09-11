@@ -110,6 +110,7 @@
 - https://github.com/greensock/GSAP
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/mikecao/umami
+- https://github.com/giuseppeg/screensaver
 
 ## LIB MEDIAS
 - https://github.com/openseadragon/openseadragon

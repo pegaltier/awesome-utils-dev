@@ -1206,6 +1206,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
+- https://github.com/d-koppenhagen/scully-plugin-mermaid
 - https://github.com/scullyio/scully/tree/main/libs/plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
 - https://github.com/scullyio/scully/tree/main/libs/plugins/from-data
@@ -1312,6 +1313,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cristiammercado/ng-event-bus
 - https://github.com/obenjiro/create-angular-components
 - https://github.com/MTobisch/ngx-dynamic-hooks
+- https://github.com/ng-web-apis/workers
 
 ## ECOSYSTEM: LIB: RXJS
 
