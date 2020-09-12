@@ -38,6 +38,7 @@ https://app.eosstudio.io/
 https://www.everythingeos.io/dev/
 https://github.com/EOSIO/eosio-web-ide
 https://www.udemy.com/course/starting-with-eos/
+https://github.com/klevoya/eosio-wcr-registry
 https://ivanontech.teachable.com/courses/eos-smart-contract-programming-101/lectures/11571376
 https://medium.com/@shankqr/how-to-deploy-and-run-a-smart-contract-on-the-eos-blockchain-from-zero-to-hero-72ca592803ba
 https://medium.com/@shankqr/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c
