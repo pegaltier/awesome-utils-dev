@@ -12,6 +12,11 @@
 - https://github.com/alebcay/awesome-shell
 - https://github.com/jlevy/the-art-of-command-line
 
+## ZSH
+
+- https://github.com/zplug/zplug
+
+
 ## Remove
 
 ```

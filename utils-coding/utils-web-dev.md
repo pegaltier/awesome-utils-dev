@@ -314,3 +314,4 @@ https://webofthings.org/standards/
 ## LIB
 
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
+- https://github.com/cbracco/html5-test-page
