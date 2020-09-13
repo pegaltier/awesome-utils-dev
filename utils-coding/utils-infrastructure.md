@@ -21,6 +21,7 @@
 
 ## KUBERNETES
 - https://github.com/cloudmelon/melonkube
+- https://github.com/tomhuang12/awesome-k8s-resources
 
 ## DOCKER
 - https://github.com/veggiemonk/awesome-docker
