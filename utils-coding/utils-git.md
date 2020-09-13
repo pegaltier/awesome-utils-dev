@@ -314,3 +314,7 @@ git checkout 1eeda2931087d0d9ab693484e0b0d41e13cd9cb1
 cd ..
 git commit -m "pins latest @submodule"
 ```
+
+## PAGES
+
+- https://richpauloo.github.io/2019-11-17-Linking-a-Custom-Domain-to-Github-Pages/
