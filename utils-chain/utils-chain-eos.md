@@ -47,6 +47,10 @@ https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-ver
 https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
 https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
 https://visionary.life/eos-ecosystem-for-developers-infographics/
+https://github.com/GetScatter/scatter-js/
+https://github.com/conr2d/scatter-js
+https://github.com/EOSEssentials/Scatter-Demos
+https://gist.github.com/miguelmota/c2a12cb4ed938d2d6f93146903390065
 
 ## EOS EXPLORER
 https://www.eosgo.io
