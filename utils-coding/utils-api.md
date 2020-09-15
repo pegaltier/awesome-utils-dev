@@ -30,6 +30,7 @@
 - https://pipedream.com/
 
 ## MOCKS
+- https://jsonbox.io/
 - https://beeceptor.com/
 - https://www.mockapi.io/
 - https://designer.mocky.io/

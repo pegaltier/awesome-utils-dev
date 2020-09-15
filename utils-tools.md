@@ -35,6 +35,10 @@
 - A group video call for the web. No signups. No downloads.
 - Web
 
+- [SnapCamera](https://snapcamera.snapchat.com/)
+- Bring the magic of Lenses to your live streams and video chats
+- PC & Mac
+
 <img src="https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-f3479.webp">
 
 - [Alfred](https://www.alfredapp.com/) - Spotlight search alternative

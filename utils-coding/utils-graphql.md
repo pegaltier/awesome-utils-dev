@@ -13,6 +13,7 @@
 - https://github.com/hasura/graphql-engine
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/APIs-guru/graphql-voyager
+- https://github.com/ef-eng/graphql-query-rewriter
 
 ## LEARN
 - https://github.com/dabit3/graphql-recipes

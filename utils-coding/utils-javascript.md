@@ -91,6 +91,7 @@
 - https://github.com/ajv-validator/ajv
 - https://github.com/cabinjs/sensitive-fields
 - https://github.com/xxczaki/light-date
+- https://github.com/country-regions/country-region-data
 
 ## LIB FRONTEND
 

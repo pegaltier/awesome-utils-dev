@@ -1314,6 +1314,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/obenjiro/create-angular-components
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/ng-web-apis/workers
+- https://github.com/joanllenas/ngx-date-fns
 
 ## ECOSYSTEM: LIB: RXJS
 
