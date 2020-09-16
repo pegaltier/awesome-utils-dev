@@ -18,6 +18,11 @@
 - https://github.com/ziadoz/awesome-php
 - https://www.cloudways.com/blog/top-php-github-projects/
 
+## FRAMEWORKS
+
+- https://github.com/laminas/laminas-mvc
+
+
 ## SLIM PHP UTILS
 
 - https://github.com/xssc/awesome-slim

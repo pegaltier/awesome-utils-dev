@@ -14,6 +14,7 @@
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/APIs-guru/graphql-voyager
 - https://github.com/ef-eng/graphql-query-rewriter
+- https://github.com/graphql-editor/graphql-zeus
 
 ## LEARN
 - https://github.com/dabit3/graphql-recipes
