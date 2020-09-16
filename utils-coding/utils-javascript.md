@@ -92,6 +92,7 @@
 - https://github.com/cabinjs/sensitive-fields
 - https://github.com/xxczaki/light-date
 - https://github.com/country-regions/country-region-data
+- https://github.com/niklasvh/html2canvas
 
 ## LIB FRONTEND
 

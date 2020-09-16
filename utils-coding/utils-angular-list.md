@@ -1477,6 +1477,9 @@ Analyze and optimize the performance of your app
 - https://github.com/ngfelixl/pro-widgets
 - https://github.com/stevermeister/ngx-wig
 - https://github.com/udayvunnam/xng-breadcrumb
+- https://github.com/bootsoon/ng-circle-progress
+- https://github.com/DethAriel/ng-recaptcha
+- https://github.com/scttcper/ngx-toastr
 
 ## ECOSYSTEM: LIB: STATS
 

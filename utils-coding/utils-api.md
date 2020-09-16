@@ -51,6 +51,11 @@
 
 - https://truelayer.com/
 
+## IMG GENERATION
+
+- https://convertio.co/fr/image-converter/
+
+
 ## PDF GENERATION
 
 - https://docspring.com
