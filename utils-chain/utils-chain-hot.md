@@ -65,13 +65,15 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 ## GITHUB HAPPS
 
-holo list>>
+### HOLO LIST GITHUB
+
 - https://github.com/zaunders/apps
 - https://github.com/f13end/Holochain-Projects
 - https://github.com/wimpheling/awesome-holochain
 - https://github.com/holochain-community-resources
 
-holo github>>
+### HOLOCHAIN-RUST GITHUB
+
 - https://github.com/HC-Interns
 - https://github.com/Holo-Host
 - https://github.com/OmniProject/omni
@@ -168,9 +170,13 @@ holo github>>
 - https://github.com/LunarPunk-Labs/social-graph
 - https://github.com/llavors-mutues/private-slow-transactor
 - https://github.com/guillemcordoba/ng-graphql-hc-starter
+
+### HOLOCHAIN-RSR GITHUB
+
 - https://github.com/holochain-open-dev/resource-booking-zome
 
-holo tools>>
+### HOLOCHAIN TOOLS GITHUB
+
 - https://github.com/holochain/RAD-Tools-Phase-2
 - https://github.com/holochain-open-dev
 - https://github.com/eyss/holochain_roles
