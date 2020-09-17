@@ -1198,6 +1198,12 @@ Learn how to make your own angular lib, build, distribute.
 - http://dbarnes.me/writing-an-aot-compliant-angular-library
 - https://www.netlify.com/blog/2020/02/24/update-on-scully-angulars-static-site-generator/
 
+## ECOSYSTEM: LIB: LIST
+
+- https://github.com/PatrickJS/awesome-angular
+- https://github.com/brillout/awesome-angular-components
+- https://github.com/anubhavsrivastava/awesome-ui-component-library#angular
+
 ## ECOSYSTEM: LIB: JAMSTACK
 
 - https://github.com/scullyio/scully

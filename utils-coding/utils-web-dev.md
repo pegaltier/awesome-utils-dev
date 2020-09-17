@@ -85,6 +85,8 @@
 - https://debuild.co/
 
 ## AWESOME
+
+- https://github.com/anubhavsrivastava/awesome-ux-design-styles
 - https://github.com/lindelof/awesome-web-effect
 - https://github.com/FancyGrid/awesome-grid
 
