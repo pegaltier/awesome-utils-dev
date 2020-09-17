@@ -26,6 +26,7 @@
 - https://insomnia.rest/
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
+- https://github.com/swagger-api/swagger-codegen
 - https://github.com/APIs-guru
 - https://pipedream.com/
 

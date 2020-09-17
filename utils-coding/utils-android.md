@@ -267,7 +267,7 @@ System.out.println(func(test));
 ## decompile apk
 
 - https://ibotpeaches.github.io/Apktool/documentation/
-
+- https://github.com/BenitoJedai/Dexer
 
 ## android buy in app V3
 - https://android-developers.googleblog.com/2017/06/money-made-easily-with-new-google-play.html

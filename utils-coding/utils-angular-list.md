@@ -1619,6 +1619,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/FortAwesome/angular-fontawesome
 - https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/kevoj/angular-editor-fabric-js
+- https://github.com/jannicz/ng-svg-icon-sprite
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/videogular/ngx-videogular
