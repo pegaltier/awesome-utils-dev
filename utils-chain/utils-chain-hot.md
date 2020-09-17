@@ -168,6 +168,7 @@ holo github>>
 - https://github.com/LunarPunk-Labs/social-graph
 - https://github.com/llavors-mutues/private-slow-transactor
 - https://github.com/guillemcordoba/ng-graphql-hc-starter
+- https://github.com/holochain-open-dev/resource-booking-zome
 
 holo tools>>
 - https://github.com/holochain/RAD-Tools-Phase-2
