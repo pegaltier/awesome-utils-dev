@@ -93,6 +93,7 @@
 - https://github.com/xxczaki/light-date
 - https://github.com/country-regions/country-region-data
 - https://github.com/niklasvh/html2canvas
+- https://github.com/lukeed/clsx
 
 ## LIB FRONTEND
 

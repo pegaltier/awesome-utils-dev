@@ -1311,7 +1311,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ndr/ngx-route-params-input
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
-- https://github.com/BioPhoton/rx-angular
+- https://github.com/rx-angular/rx-angular
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/ManuCutillas/ngx-responsive
