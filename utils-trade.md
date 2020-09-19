@@ -113,6 +113,9 @@ make 10 to 15 rules:
 10. diversification (10 cryptos + 10 stocks (better to use ETF))
 11. mean reversing / 
 
+## BOOKS
+
+- market wizards by Jack Schwager
 
 <p><a href="http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/">http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/</a><br>
 <a href="https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371">https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371</a><br>
