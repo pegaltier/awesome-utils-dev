@@ -47,6 +47,7 @@
 - https://github.com/krzkaczor/earl
 - https://github.com/adelsz/pgtyped
 - https://github.com/ronami/meta-typing
+- https://github.com/codemix/ts-sql
 
 ## TYPESCRIPT GUIDES
 
