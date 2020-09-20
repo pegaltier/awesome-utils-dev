@@ -197,6 +197,7 @@ Learn about the most useful design patterns in Angular.
 - https://dev.to/gc_psk/composing-angular-components-with-typescript-mixins-dn3
 - https://medium.com/angular-in-depth/agnostic-components-in-angular-2427923b742d
 - https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
+- https://medium.com/javascript-in-plain-english/why-you-should-generally-prefer-typescript-interfaces-and-custom-types-over-classes-d145814218ce
 
 ## HELPER: CHEAT-SHEETS
 
