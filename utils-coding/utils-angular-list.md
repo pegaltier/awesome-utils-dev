@@ -1716,8 +1716,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://ng-alain.com
 - https://abp.io/
 
-## ECOSYSTEM: DEMO: SOURCES
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES
 
+- https://github.com/retarsis/angular-warehouse
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
