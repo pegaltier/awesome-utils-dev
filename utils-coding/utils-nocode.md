@@ -6,11 +6,12 @@
 
 ## webapp
 - https://www.skaffolder.com
-- https://scaffoldhub.io/
+- https://scaffoldhub.io
 - https://www.newco.app
+- https://www.hapify.io
 - https://zeroqode.com
+- https://www.duda.co
 - https://bubble.is
-- https://www.duda.co/
 
 ## api
 - https://github.com/xgenecloud/xgenecloud
