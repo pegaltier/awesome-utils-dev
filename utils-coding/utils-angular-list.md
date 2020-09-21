@@ -1180,6 +1180,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/kreuzerk/ng-samurai
 - https://github.com/ng-packagr/ng-packagr
 - https://github.com/TinkoffCreditSystems/angular-open-source-starter
+- https://github.com/tomastrajan/angular-library-architecture-example
 - https://github.com/mattlewis92/generator-angular-library
 - https://github.com/jvandemo/generator-angular2-library
 - https://github.com/rangle/angular-2-aot-sandbox
