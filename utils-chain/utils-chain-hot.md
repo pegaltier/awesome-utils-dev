@@ -174,6 +174,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 ### HOLOCHAIN-RSR GITHUB
 
 - https://github.com/holochain-open-dev/resource-booking-zome
+- https://github.com/holochain-open-dev/module-template
 
 ### HOLOCHAIN TOOLS GITHUB
 
