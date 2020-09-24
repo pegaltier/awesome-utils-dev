@@ -16,6 +16,7 @@
 
 ## UTILS
 
+- https://github.com/juliangruber/npm-diff
 - https://github.com/amio/npm-why
 - https://github.com/voidcosmos/npkill
 - https://github.com/sindresorhus/np

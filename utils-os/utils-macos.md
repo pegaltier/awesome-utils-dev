@@ -7,16 +7,21 @@
 - https://github.com/serhii-londar/open-source-mac-os-apps
 - https://github.com/herrbischoff/awesome-macos-command-line
 
-# Swift
+## Swift
 
 - https://github.com/bow-swift/bow-arch
 
-# Tips
+## Tips
 
 - https://www.maketecheasier.com/show-current-path-finder-mac/
 - https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
 - https://stackoverflow.com/questions/31374085/installing-adb-on-macos
 - https://www.browserstack.com/guide/how-to-debug-on-iphone
+
+## Tools
+
+- https://github.com/iina/iina
+- https://apps.apple.com/us/app/magnet/id441258766?mt=12
 
 ## Spotlight
 
