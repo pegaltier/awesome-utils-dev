@@ -94,6 +94,7 @@
 - https://github.com/country-regions/country-region-data
 - https://github.com/niklasvh/html2canvas
 - https://github.com/lukeed/clsx
+- https://github.com/101arrowz/fflate
 
 ## LIB FRONTEND
 
