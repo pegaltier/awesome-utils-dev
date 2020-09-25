@@ -1664,7 +1664,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngx-builders/ngx-bulma
 - https://github.com/morrisjdev/ng-metro4
 - https://github.com/Teradata/covalent
-
+- https://github.com/aposin/ng-aquila
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
