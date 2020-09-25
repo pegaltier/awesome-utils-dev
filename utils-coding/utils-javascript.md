@@ -28,6 +28,8 @@
 - https://1loc.dev/
 - https://devhints.io/lodash
 - https://surma.github.io/underdash/
+- https://wweb.dev/resources/js-array-functions-cheatsheet
+- https://wweb.dev/resources/js-object-functions-cheatsheet
 
 ## ARTICLES BEST PRACTICES
 - https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397

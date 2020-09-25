@@ -27,6 +27,8 @@
 - https://tinypng.com
 - https://www.remove.bg
 - https://imagecompressor.com
+- https://shapeshifter.design
+- https://goanimate.com
 
 ## ICONS
 - https://picons.me
@@ -91,7 +93,6 @@
 - https://pixabay.com  *******
 - http://www.coverr.co  
 - https://giphy.com
-- https://undraw.co/illustrations
 
 ## PATTERN
 
@@ -135,11 +136,6 @@
 - https://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
 
 ## RESOURCES
-- http://www.heropatterns.com/
-- https://shapeshifter.design
-- https://goanimate.com
-- http://www.flixapp.co/  
-- http://vidlogs.com/  
 - http://startupstash.com/  
 - http://fribly.com/  
 - http://www.bookstck.com/  
@@ -207,6 +203,7 @@
 - https://loading.io
 - http://www.bittbox.com
 - http://www.designfreebies.com
+- https://wweb.dev/resources/animated-css-background-generator
 
 ## ARTICLES
 
@@ -245,6 +242,11 @@
 - https://undraw.co/illustrations
 - https://www.svgator.com
 - https://svgporn.com
+- https://bgjar.com/
+- https://getwaves.io/
+- https://blobmaker.app
+- https://squircley.app
+- https://shapefest.com
 
 ## AWESOME
 - https://github.com/bradtraversy/design-resources-for-developers
