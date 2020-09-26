@@ -147,9 +147,13 @@
 - https://github.com/xgenecloud/xgenecloud
 
 ## LIB
-- https://github.com/GoogleChrome/puppeteer
 - https://github.com/NectarJS/nectarjs
 - https://github.com/josdejong/mathjs
+
+## AUTOMATION
+- https://github.com/GoogleChrome/puppeteer
+- https://github.com/mrWh1te/Botmation
+- https://github.com/segmentio/nightmare
 
 ## ALLIN
 

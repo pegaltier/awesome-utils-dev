@@ -849,6 +849,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/timdeschryver/ngrx-etc
+- https://github.com/markostanimirovic/ngrx-handlers
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/MrWolfZ/ngrx-forms
 - https://github.com/satanTime/ngrx-graphql
@@ -961,7 +962,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/kuncevic/rx-service
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/lacolaco/reactive-store
-- https://github.com/stanimirovic/juliette
+- https://github.com/markostanimirovic/juliette
 - https://github.com/mobxjs/mobx
 - https://github.com/ngxs/store
 - https://github.com/ngxs-labs/data
