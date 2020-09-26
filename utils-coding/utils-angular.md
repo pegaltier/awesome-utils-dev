@@ -407,6 +407,11 @@ So @ngrx/component (and partly @ngrx/component-store) are all about leveraging t
 - observable$ | ngrxPush is a drop-in replacement for the async pipe. ngrxPush pipe will run change detection for you when the provided observable emits. It also handles errors a little more gracefully than the async pipe. Unlike the Angular async pipe it triggers change detection and rendering ONLY in the very component where the change got introduced, and the child components effected by the change.
 - *ngrxLet="observable$ as value" is an alternative for *ngIf="observable$ | async as value" that handles falsey values correctly, lets you handle errors, and also runs change detection when the provided observable emits.
 
+- *ngIf="state$ | async as vm" (old syntax)
+- *ngrxLet="state$ as vm" (no typing at the moment)
+- *ngIf="state$ | ngrxPush as vm" (no typing at the moment)
+- *ngrxLet="state$; let vm" (typing work)
+
 ## PIPES
 
 ``
