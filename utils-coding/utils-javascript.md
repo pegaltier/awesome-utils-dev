@@ -97,6 +97,7 @@
 - https://github.com/niklasvh/html2canvas
 - https://github.com/lukeed/clsx
 - https://github.com/101arrowz/fflate
+- https://github.com/crossfilter/crossfilter
 
 ## LIB FRONTEND
 
@@ -161,6 +162,10 @@
 ## MEDIAS
 
 - https://realtalkjavascript.simplecast.com/
+
+## FOUNDATION
+
+- https://github.com/openjs-foundation/cross-project-council
 
 ## BOOKS
 - https://exploringjs.com/impatient-js/
