@@ -975,6 +975,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/cerebral/overmind
 - https://github.com/maktarsis/routeshub
 - https://github.com/danwahlin/observable-store
+- https://github.com/redux-observable/redux-observable
 - https://github.com/angular-extensions/model
 - https://github.com/universal-model/universal-model-angular
 - https://github.com/davidkpiano/xstate/
