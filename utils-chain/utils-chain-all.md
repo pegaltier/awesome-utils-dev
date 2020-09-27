@@ -61,6 +61,8 @@
 - https://github.com/andresilvasantos/bitprophet
 - https://github.com/f13end/Crypto-Investor-Tools
 - https://github.com/f13end/tradingview-custom-indicators
+- https://github.com/jaggedsoft/node-binance-api
+- https://github.com/jsappme/node-binance-trader
 - https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96
 - http://beacon.by/ninjahacks/bullish-on-bitcoin-resources-and-recommendations
 - https://mishayurchenko.me/wp-content/uploads/2018/12/Chart-Patterns-Cheat-Sheet.pdf
