@@ -93,4 +93,5 @@
 ## FUN
 
 - https://www.disneyapi.dev/
+- https://github.com/apilayer/restcountries
 - https://github.com/skolakoda/programming-quotes-api

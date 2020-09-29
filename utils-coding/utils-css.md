@@ -112,3 +112,7 @@ SCORE	    SELECTOR
 ## RESPONSIVE
 
 - https://css-tricks.com/min-max-and-clamp-are-css-magic/
+
+## ANIMATION
+
+- utiliser la proriété transform pour faire des animations en css avec @keyframes car si vous utilisez une proriété css standard tel que margin-left alors cela déclenche le processus de rendering du layout.

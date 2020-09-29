@@ -1163,6 +1163,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://scully.io
 - https://github.com/scullyio/scully
 - https://github.com/samvloeberghs/scully-universal
+- https://github.com/chrisguttandin/angular-prerender
 - https://github.com/snipcart/scully-snipcart-store
 - https://github.com/d-koppenhagen/d-koppenhagen.de
 - https://indepth.dev/how-to-migrate-wordpress-to-scully/
@@ -1329,6 +1330,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/ng-web-apis/workers
 - https://github.com/joanllenas/ngx-date-fns
+- https://github.com/PatrickJS/angular-hmr
 
 ## ECOSYSTEM: LIB: RXJS
 

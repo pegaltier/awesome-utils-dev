@@ -196,6 +196,7 @@ weissratings
 ## DAPPS 
 - https://acrypto.io
 - https://dappradar.com
+- https://dapptotal.com
 - https://superdapps.com
 - https://gameunculus.io
 - http://www.dappcapitulation.com
@@ -239,6 +240,7 @@ weissratings
 - https://celsius.network
 - https://dai.makerdao.com
 - https://compound.finance
+- https://dapptotal.com/defi
 - https://mintr.synthetix.io
 - http://www.saltlending.com
 - https://ripiocredit.network

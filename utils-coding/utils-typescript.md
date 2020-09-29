@@ -39,6 +39,7 @@
 
 ## LIB
 
+- https://github.com/yangshun/lago
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/typestack/class-validator
 - https://github.com/phenomnomnominal/betterer

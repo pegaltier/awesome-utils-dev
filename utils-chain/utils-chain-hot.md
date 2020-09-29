@@ -175,6 +175,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 - https://github.com/holochain-open-dev/resource-booking-zome
 - https://github.com/holochain-open-dev/module-template
+- https://github.com/holochain-open-dev/profiles-module
 
 ### HOLOCHAIN TOOLS GITHUB
 
@@ -268,7 +269,10 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://forum.holochain.org/t/vscode-rls-support-on-wsl2/2102
 - https://www.thomasmaurer.ch/2019/06/install-wsl-2-on-windows-10/
 - https://docs.microsoft.com/en-us/windows/wsl/wsl2-install
+- https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+
 - WSL2 (Ubuntu) + VSCode with Remote WSL, rust-analyzer, crates, Search crates.io
+
 ## HAPP DEVELOPMENT
 
 - https://doc.rust-lang.org/book
