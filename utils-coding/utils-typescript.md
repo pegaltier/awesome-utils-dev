@@ -15,6 +15,9 @@
 - https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414
 - https://dev.to/aminejvm/cool-stuff-with-typescript-2aah
 
+## STARTER
+- https://github.com/stemmlerjs/simple-typescript-starter
+
  ## UTILS
 
 - https://github.com/hqoss/guards

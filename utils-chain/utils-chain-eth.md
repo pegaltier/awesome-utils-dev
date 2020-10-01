@@ -16,6 +16,7 @@ https://github.com/embark-framework/embark
 https://github.com/mithio/mithril-smart-contract
 
 ## ETH TOOLS/EXPLORER
+https://www.gasnow.org/
 https://trivial.co
 https://etherscan.io
 https://ethplorer.io

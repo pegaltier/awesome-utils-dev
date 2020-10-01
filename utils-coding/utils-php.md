@@ -21,7 +21,8 @@
 ## FRAMEWORKS
 
 - https://github.com/laminas/laminas-mvc
-
+- https://github.com/psr7-sessions/storageless
+- https://github.com/willdurand/Negotiation
 
 ## SLIM PHP UTILS
 

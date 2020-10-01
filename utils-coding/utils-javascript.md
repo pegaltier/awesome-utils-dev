@@ -98,6 +98,7 @@
 - https://github.com/lukeed/clsx
 - https://github.com/101arrowz/fflate
 - https://github.com/crossfilter/crossfilter
+- https://github.com/eligrey/l10n.js
 
 ## LIB FRONTEND
 

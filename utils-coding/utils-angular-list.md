@@ -1404,6 +1404,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/bahmutov/cypress-angular-unit-test
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
+- https://github.com/cypress-io/cypress-realworld-app
 - https://webdave.de/blog/cypress
 - https://www.youtube.com/watch?v=UHgtUSAROtc Comparing Testing Tools
 - https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
@@ -1457,6 +1458,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
+- https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/oferh/ng2-completer
