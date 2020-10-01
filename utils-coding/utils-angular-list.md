@@ -1350,6 +1350,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/nilsmehlhorn/ngx-operators
 - https://github.com/alex-okrushko/backoff-rxjs
 - https://github.com/kievsash/rxjs-toolbox
+- https://github.com/niklas-wortmann/rxjs-web
 - https://github.com/timdeschryver/rxjs-operator-counter
 - https://github.com/chrisguttandin/subscribable-things
 
@@ -1876,6 +1877,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack
+- https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools
 
 ## ECOSYSTEM: VSCODE OTHERS
 
