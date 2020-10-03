@@ -1304,6 +1304,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/jscutlery/convoyr
 - https://github.com/timdeschryver/rx-query
+- https://github.com/ytilis/ngx-batch-requests
 
 ## ECOSYSTEM: LIB: UTIL
 
@@ -1354,6 +1355,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/niklas-wortmann/rxjs-web
 - https://github.com/timdeschryver/rxjs-operator-counter
 - https://github.com/chrisguttandin/subscribable-things
+- https://github.com/ftischler/ngx-rxjs-zone-scheduler
 
 ## ECOSYSTEM: LIB: GENERAL
 
