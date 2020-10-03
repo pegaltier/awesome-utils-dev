@@ -1437,7 +1437,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/duluca/angular-unit-test-helper
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/angular-extensions/pretty-html-log
-- https://github.com/gparlakov/scuri/blob/master/README.md
+- https://github.com/gparlakov/scuri
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/testing-library/jest-dom
 - https://github.com/synapse-wireless-labs/jasmine-marbles
@@ -1602,11 +1602,13 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/ngneat/dirty-check-forms
+- https://github.com/ngneat/forms-manager
 - https://github.com/ngneat/error-tailor
 - https://github.com/xtreamsrl/ngx-validation-errors
 - https://github.com/zebzhao/Angular-QueryBuilder
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/TinkoffCreditSystems/angular-contenteditable-accessor
+- https://github.com/gparlakov/forms-typed
 - https://github.com/gparlakov/forms-typed/blob/master/projects/forms/
 - https://github.com/gparlakov/forms-typed/blob/master/projects/show-form-control/
 - https://github.com/rxweb/rxweb/tree/master/client-side/angular/packages/reactive-form-validators
