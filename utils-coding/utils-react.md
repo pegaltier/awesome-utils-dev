@@ -57,6 +57,7 @@ http://boundless.js.org
 ## LIB: UI
 - https://github.com/mui-org/material-ui
 - https://github.com/arwes/arwes
+- https://github.com/airbnb/visx
 
 ## LIST
 
