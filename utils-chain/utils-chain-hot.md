@@ -171,11 +171,12 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/llavors-mutues/private-slow-transactor
 - https://github.com/guillemcordoba/ng-graphql-hc-starter
 
-### HOLOCHAIN-RSR GITHUB
+### HOLOCHAIN-RSM GITHUB
 
 - https://github.com/holochain-open-dev/resource-booking-zome
 - https://github.com/holochain-open-dev/module-template
 - https://github.com/holochain-open-dev/profiles-module
+- https://github.com/nphias/transactor
 
 ### HOLOCHAIN TOOLS GITHUB
 
