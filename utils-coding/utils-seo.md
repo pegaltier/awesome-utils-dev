@@ -66,7 +66,7 @@ https://lsigraph.com
 
 - Cluster page: organize your content for the visitors
 - Blog post: educationnal, give free quality content to get authority
-- Landing page: rank on google on one specific keyword and create lead and make money, usually it's useful in order to rank on a specific location and or industry: ex NYC SEO. Landing page are not accessible via the main menu on the website, there is just small links from time to time in articles with a similar anchor to the landing page in order to help ranking.
+- Landing page: rank on google on one specific keyword and create lead and make money, usually it's useful in order to rank on a specific location and or industry: ex NYC SEO. Landing page are not accessible via the main menu on the website, there is just small links from time to time in articles with a similar anchor to the landing page in order to help ranking. Then promote this page on social media.
 
 
 ## TOOLS
