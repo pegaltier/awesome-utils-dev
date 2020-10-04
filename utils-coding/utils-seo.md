@@ -9,14 +9,11 @@
 https://medium.com/@barthbamasta/devenir-un-expert-en-seo-en-30min-7cd6d1e23de
 https://www.youtube.com/watch?v=CG5DL0a9xg0 (3 mois pour ranker en SEO: cas pratique - WEB2DAY 2017)
 
-
-
 ## AGENCY + SERVICES + FREELANCER
 http://www.agence-ska.com/fr/le-referencement-google
 https://www.refzone.info/communiques-de-presse-2-0.html
 https://5euros.com/service/8274/reecrire-et-optimiser-seo-votre-article
 https://www.redacteur.com/
-
 
 ## GENERAL
 https://static.googleusercontent.com/media/www.google.fr/fr/fr/intl/fr/webmasters/docs/search-engine-optimization-starter-guide-fr.pdf
@@ -28,7 +25,7 @@ https://moz.com/search-ranking-factors
 
 ## SEO AUDIT
 
-WHEN: at the beginning of each new campaign or each trimester
+WHEN: at the beginning of each new campaign or each trimester. You can also do reverse engineer success: enter keyword on google, check the first on google: number of words, number of keywords...
 
 - https://sitechecker.pro
 - https://rankgen.com/
@@ -65,6 +62,12 @@ http://www.seo-hero.tech
 https://cocolyze.com/
 https://lsigraph.com
 
+## SEO ARCHITECTURE
+
+- Cluster page: organize your content for the visitors
+- Blog post: educationnal, give free quality content to get authority
+- Landing page: rank on google on one specific keyword and create lead and make money, usually it's useful in order to rank on a specific location and or industry: ex NYC SEO. Landing page are not accessible via the main menu on the website, there is just small links from time to time in articles with a similar anchor to the landing page in order to help ranking.
+
 
 ## TOOLS
 https://github.com/remibacha/kwClustersR
@@ -93,7 +96,7 @@ https://support.google.com/webmasters/answer/2620865?hl=fr
 https://support.google.com/webmasters/answer/189077?hl=fr  hreflang		> 
 
 
-## COCON SEMANTIQUE
+## COCON SEMANTIQUE / CLUSTER / THEMATIQUE
 
 voir vidéo abondance cocon sémantique (voir les 5 videos) : 
 https://www.youtube.com/watch?v=3zVcsN-6J-U
