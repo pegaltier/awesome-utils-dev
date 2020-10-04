@@ -632,6 +632,7 @@ Learn everything about the change detection with or without zone.js.
 
 Learn the schematics tool to automatize and be more efficient.
 
+- https://indepth.dev/speed-up-your-angular-schematics-development-with-useful-helper-functions/
 - https://medium.com/swlh/automate-your-teams-boilerplates-by-building-your-own-schematics-640949001d46
 - https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
 - https://auth0.com/blog/create-custom-schematics-with-nx/

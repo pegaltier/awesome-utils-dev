@@ -222,6 +222,23 @@
 - Understanding "this" keyword
 - apply(), .call() and .bind()
 
+## FUNCTION
+
+A function can be created in 4 ways
+
+👉function as a declaration
+👉function as an expression
+👉arrow function
+
+## OBJECT
+
+An object can be created in 4 ways
+
+👉using object literals
+👉using new or constructor
+👉 using Object.create()
+👉using a class
+
 ## ARRAY
 
 use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do I use a for loop.
