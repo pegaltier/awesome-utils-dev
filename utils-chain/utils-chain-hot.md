@@ -114,6 +114,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Qubeo/_bak_cointoss-rust
 - https://github.com/adria0/workshop-holochain
 - https://github.com/ThinkBigEg/Holoster (angular)
+- https://github.com/nphias/mutualize (angular)
 - https://github.com/orionprotocol/orion-holochain
 - https://github.com/orionprotocol
 - https://github.com/SetMatchGames
