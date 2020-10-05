@@ -1569,6 +1569,7 @@ Analyze and optimize the performance of your app
 - https://github.com/Greentube/ngx-modal
 - https://github.com/caroso1222/ng-popups
 - https://github.com/biig-io/ngx-smart-modal
+è https://github.com/maximelafarie/ngx-smart-modal
 - https://github.com/shlomiassaf/ngx-modialog
 - https://matthewross.me/blog/posts/minimal-angular-2-modal
 - https://malcoded.com/posts/angular-dynamic-components/
