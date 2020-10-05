@@ -16,6 +16,8 @@
 - https://github.com/samanthaming/Flexbox30
 - https://github.com/j9t/css-optimization-basics
 - https://dev.to/ladybug/css-cheat-sheets-3ee0
+- https://github.com/philipwalton/flexbugs
+- https://github.com/philipwalton/solved-by-flexbox
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://www.taniarascia.com/overview-of-css-concepts/
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables/

@@ -56,6 +56,7 @@
 - https://internetingishard.com/html-and-css/
 - https://github.com/kamranahmedse/developer-roadmap
 - https://learn-the-web.algonquindesign.ca/topics/
+- https://github.com/bendc/frontend-guidelines
 
 ## ONLINE IDE
 - https://www.gitpod.io/

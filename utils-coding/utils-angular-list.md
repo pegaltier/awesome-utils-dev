@@ -524,6 +524,7 @@ Access Control List is a service that allows you to protect/show content based o
 
 - https://medium.com/swlh/restraint-access-by-acl-on-angular-9-7ebe71e34a13
 - https://medium.com/dailyjs/managing-user-permissions-in-angular-application-504c83752f83
+- https://jasonwatmore.com/post/2020/09/09/angular-10-role-based-authorization-tutorial-with-example
 - https://devblogs.microsoft.com/premier-developer/angular-how-to-implement-role-based-security/
 
 ## CORE: RXJS
@@ -1548,6 +1549,7 @@ Analyze and optimize the performance of your app
 - https://github.com/swimlane/ngx-graph
 - https://github.com/swimlane/ngx-charts
 - https://github.com/valor-software/ng2-charts
+- https://github.com/highcharts/highcharts-angular
 - https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
 
 ## ECOSYSTEM: LIB: DEBUG

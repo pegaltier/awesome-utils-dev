@@ -100,9 +100,8 @@
 - https://github.com/crossfilter/crossfilter
 - https://github.com/eligrey/l10n.js
 
-## LIB FRONTEND
+## LIB FRONTEND: ALL
 
-- https://github.com/alvarotrigo/fullpage.js
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
@@ -110,15 +109,23 @@
 - https://github.com/immerjs/immer
 - https://github.com/angus-c/just
 - https://github.com/Leaflet/Leaflet
+- https://github.com/codex-team/editor.js
 - https://github.com/pshihn/rough-notation
-- https://github.com/fast-average-color/fast-average-color
 - https://github.com/mamunhpath/josh.js
 - https://github.com/tradingview/lightweight-charts
-- https://github.com/juliangarnier/anime
 - https://github.com/greensock/GSAP
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/mikecao/umami
 - https://github.com/giuseppeg/screensaver
+
+## LIB FRONTEND: DESIGN
+
+- https://github.com/dixonandmoe/rellax
+- https://github.com/wagerfield/parallax
+- https://github.com/juliangarnier/anime
+- https://github.com/alvarotrigo/fullpage.js
+- https://github.com/michaelvillar/dynamics.js
+- https://github.com/fast-average-color/fast-average-color
 
 ## LIB MEDIAS
 - https://github.com/steveruizok/perfect-arrows
