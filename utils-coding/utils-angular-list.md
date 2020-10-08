@@ -1435,6 +1435,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/briebug/jest-schematic
 - https://github.com/skovhus/jest-codemods
 - https://github.com/storybookjs/storybook
+- https://github.com/stryker-mutator/stryker
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/Ninja-Squad/ngx-speculoos
 - https://github.com/youdz/dry-angular-testing
