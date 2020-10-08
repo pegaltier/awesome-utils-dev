@@ -53,6 +53,7 @@
 
 ## TEMPLATES
 
+- https://github.com/vgpena/gh-docs-boilerplate
 - https://github.com/kefranabg/readme-md-generator
 - https://github.com/anuraghazra/github-readme-stats
 - https://github.com/stevemao/github-issue-templates

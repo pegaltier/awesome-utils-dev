@@ -31,6 +31,7 @@
 - https://github.com/airbnb/ts-migrate
 - https://github.com/SamVerschueren/tsd
 - https://github.com/runem/ts-simple-type
+- https://github.com/Rich-Harris/object-cull
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/kreuzerk/import-conductor

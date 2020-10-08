@@ -243,18 +243,20 @@ An object can be created in 4 ways
 
 👉using object literals
 👉using new or constructor
-👉 using Object.create()
+👉using Object.create()
 👉using a class
 
 ## ARRAY
 
-use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do I use a for loop.
+- use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do use a for loop. Exceptions include break (can't even remember the last time I used one) or async/await.
+- the best way to turn one Array into another is by using map. Array.map walks through each element in an Array, does something to that element, and gives you a new Array back containing the resulting elements.
+On the contrary forEach return void so if you modify the current element is doing a mutation on the array, it mutate the original array directly and thus is only the good approach for doing side effect such as writing the dom or doing an api call. You should not use it when you want to generate or build a value to keep using in your JavaScript code.
 
-Exceptions include
-- break (can't even remember the last time I used one)
-- async/await
+- https://vgpena.github.io/js-arrays/#
 
 ## EXAMPLES
+
+### OBJECTS
 
 Useful object methods: keys, values, and entries.
 
@@ -281,4 +283,12 @@ const a = Object.entries(data);
 // [['name', 'Pierre'], ['age', 32]]
 const b = Object.fromEntries(data);
 // { name: 'Pierre', age: 32 }
+```
+
+### PROMISE
+
+```
+let promise = new Promise(function(resolve, reject) { 
+    resolve(123); // immediately give the result: 123
+});
 ```

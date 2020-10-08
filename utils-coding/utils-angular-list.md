@@ -1674,6 +1674,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NG-ZORRO/ng-zorro-antd
 - https://github.com/NG-ZORRO/ng-zorro-antd-mobile
 - https://github.com/TinkoffCreditSystems/taiga-ui
+- https://github.com/alvarotrigo/angular-fullpage
 - https://github.com/ng-lightning/ng-lightning
 - https://github.com/vladotesanovic/ngSemantic
 - https://github.com/kikstart-ui/kikstart-ui
@@ -1742,6 +1743,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/retarsis/angular-warehouse
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
+- https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example

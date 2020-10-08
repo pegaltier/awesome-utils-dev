@@ -1,5 +1,11 @@
+# Tools
 
-# Desktop
+
+## Web
+
+- https://metatags.io/font-generator
+
+## Desktop
 
 - [Flux](https://justgetflux.com/) - Adapt screen color depending on the luminosity
 
