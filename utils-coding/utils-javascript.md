@@ -1,3 +1,46 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [JAVASCRIPT](#javascript)
+  - [GUIDE-WEB](#guide-web)
+  - [GUIDE-OPEN](#guide-open)
+  - [CHEAT-SHEETS](#cheat-sheets)
+  - [ARTICLES BEST PRACTICES](#articles-best-practices)
+  - [CONTEXT / SCOPES](#context--scopes)
+  - [PROMISE THEN VS AWAIT VS CHAINABLE](#promise-then-vs-await-vs-chainable)
+  - [TOOLS](#tools)
+  - [LIB LIST](#lib-list)
+  - [LIB UTILS](#lib-utils)
+  - [LIB FRONTEND: ALL](#lib-frontend-all)
+  - [LIB FRONTEND: DESIGN](#lib-frontend-design)
+  - [LIB MEDIAS](#lib-medias)
+  - [LIB AI](#lib-ai)
+  - [FRAMEWORK FRONTEND](#framework-frontend)
+  - [FRAMEWORK BACKEND](#framework-backend)
+  - [LIB](#lib)
+  - [AUTOMATION](#automation)
+  - [ALLIN](#allin)
+  - [CANVAS](#canvas)
+  - [MEDIAS](#medias)
+  - [FOUNDATION](#foundation)
+  - [BOOKS](#books)
+  - [IMPORTANT](#important)
+    - [FUNCTION](#function)
+    - [PURE FUNCTIONS](#pure-functions)
+    - [IMMUTABILITY](#immutability)
+    - [DESTRUCTURING](#destructuring)
+    - [ALGORITHM](#algorithm)
+    - [OBJECT LITERALS](#object-literals)
+    - [ARRAYS](#arrays)
+    - [OBJECTS](#objects)
+    - [MORE](#more)
+  - [EXAMPLES](#examples)
+    - [OBJECTS](#objects-1)
+    - [PROMISE](#promise)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # JAVASCRIPT
 
 ## GUIDE-WEB
@@ -186,6 +229,14 @@
 
 ## IMPORTANT
 
+### FUNCTION
+
+A function can be created in 4 ways
+
+👉function as a declaration
+👉function as an expression
+👉arrow function
+
 ### PURE FUNCTIONS
 - https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3
 - https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c
@@ -205,11 +256,24 @@
 - https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
 
 ### ARRAYS
+
+- use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do use a for loop. Exceptions include break (can't even remember the last time I used one) or async/await.
+- the best way to turn one Array into another is by using map. Array.map walks through each element in an Array, does something to that element, and gives you a new Array back containing the resulting elements.
+On the contrary forEach return void so if you modify the current element is doing a mutation on the array, it mutate the original array directly and thus is only the good approach for doing side effect such as writing the dom or doing an api call. You should not use it when you want to generate or build a value to keep using in your JavaScript code.
+
 - https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8
 - https://medium.com/hackernoon/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951
-
-### SREAD
 - https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c
+- https://vgpena.github.io/js-arrays/#
+
+### OBJECTS
+
+An object can be created in 4 ways
+
+👉using object literals
+👉using new or constructor
+👉using Object.create()
+👉using a class
 
 ### MORE
 
@@ -229,31 +293,6 @@
 - Prototype inheritance 
 - Understanding "this" keyword
 - apply(), .call() and .bind()
-
-## FUNCTION
-
-A function can be created in 4 ways
-
-👉function as a declaration
-👉function as an expression
-👉arrow function
-
-## OBJECT
-
-An object can be created in 4 ways
-
-👉using object literals
-👉using new or constructor
-👉using Object.create()
-👉using a class
-
-## ARRAY
-
-- use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do use a for loop. Exceptions include break (can't even remember the last time I used one) or async/await.
-- the best way to turn one Array into another is by using map. Array.map walks through each element in an Array, does something to that element, and gives you a new Array back containing the resulting elements.
-On the contrary forEach return void so if you modify the current element is doing a mutation on the array, it mutate the original array directly and thus is only the good approach for doing side effect such as writing the dom or doing an api call. You should not use it when you want to generate or build a value to keep using in your JavaScript code.
-
-- https://vgpena.github.io/js-arrays/#
 
 ## EXAMPLES
 
