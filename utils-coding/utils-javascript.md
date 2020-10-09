@@ -160,6 +160,7 @@
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/mikecao/umami
 - https://github.com/giuseppeg/screensaver
+- https://github.com/easylogic/codemirror-colorpicker
 
 ## LIB FRONTEND: DESIGN
 

@@ -54,6 +54,7 @@
 - https://github.com/moroshko/basis
 - https://github.com/re-rxjs/re-rxjs
 - https://github.com/tajo/react-movable
+- https://github.com/kitze/react-hanger
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/eclipsesource/jsonforms
 
