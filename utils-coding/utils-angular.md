@@ -803,6 +803,27 @@ Trigger details:
 
 ## DEBUG
 
+### DEVTOOLS
+
+```
+$0 # most recent selection from the elements tabng.getComponent($0)
+ng.getDirectives($0) # get directives applied to this angular component
+ng.getListeners($0) # get listeners applied to this angular component
+ng.applyChanges($0) # trigger change detection for this specific component
+ng.getContext($0); # get context ex: are you inside ngIf or ngFor
+ng.getOwningComponent($0) # parent angular component of any element
+ng.getRootComponents($0)  # get root component from any element
+```
+
+- ex: Modify value in live 
+
+```
+let c = ng.getComponent($0)
+c.title = 'test';ng.applyChanges($0)
+```
+
+- More: https://medium.com/wizpanda/new-ways-to-debug-components-in-angular-9-e866e41ed23f
+
 ### PERFORMANCE
 
 chrome dev tools > performance tab > record+stop

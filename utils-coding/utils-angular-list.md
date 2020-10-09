@@ -1044,6 +1044,7 @@ Discover alternative to ngrx for the state management of your objects.
 ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
 
 - https://youtu.be/piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
+- https://youtu.be/tTR9OVMC0VE ngConf & Nx Webinar: Never Build the Same Code Twice with Nx Cloud
 - https://youtu.be/YU-fMRs-ZYU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
@@ -1084,6 +1085,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/lydemann/Todo-monorepo
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/balazsconf/monodemo
+- https://github.com/nxpm/stack
 - https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit

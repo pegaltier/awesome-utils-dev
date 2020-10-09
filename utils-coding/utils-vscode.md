@@ -22,6 +22,7 @@
 - https://marketplace.visualstudio.com/items?itemName=d-koppenhagen.vscode-code-review
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
 - https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
+- https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 - https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.rxjs-cheatsheet
@@ -49,6 +50,10 @@
 - https://marketplace.visualstudio.com/items?itemName=sygene.auto-correct
 - https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker
 - https://marketplace.visualstudio.com/items?itemName=cyansprite.smoothscroll
+
+## OPENSOURCE
+
+- https://github.com/microsoft/vscode-extension-samples
 
 ## TOOLS
 
