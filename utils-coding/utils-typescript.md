@@ -18,7 +18,13 @@
 ## STARTER
 - https://github.com/stemmlerjs/simple-typescript-starter
 
- ## UTILS
+## DEVTOOLS
+
+- https://github.com/Microsoft/tsdoc
+- https://github.com/microsoft/rushstack
+
+
+## UTILS
 
 - https://github.com/hqoss/guards
 - https://github.com/palmerhq/tsdx

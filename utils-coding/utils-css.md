@@ -4,7 +4,7 @@
 
 - http://pxtoem.com/
 - https://flukeout.github.io/
-- http://1linelayouts.glitch.me/
+- https://1linelayouts.glitch.me/
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
 - https://9elements.github.io/fancy-border-radius

@@ -54,8 +54,8 @@
 
 ## IMG GENERATION
 
+- https://www.bannerbear.com/
 - https://convertio.co/fr/image-converter/
-
 
 ## PDF GENERATION
 

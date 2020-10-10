@@ -316,6 +316,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://stenciljs.com/
 - https://dev.to/melcor76/the-state-of-web-components-ab3
 - https://github.com/joist-framework/joist
+- https://github.com/microsoft/fast
 
 ## IOT
 https://webofthings.org/standards/
