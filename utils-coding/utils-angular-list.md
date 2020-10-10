@@ -740,6 +740,8 @@ Learn about the angular router, lazy load your modules.
 - https://coryrylan.com/blog/css-encapsulation-with-angular-2-components
 - https://medium.com/swlh/how-to-structure-scss-in-an-angular-app-a1b8a759a028
 - https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.g5ibd8z4y
+- https://dev.to/themeticulist/everything-you-should-know-about-styles-in-angular-12ab
+- https://medium.com/@hardikpthv/viewencapsulations-in-angular-component-ce48fedcf94c
 
 ## CORE: UNIVERSAL
 

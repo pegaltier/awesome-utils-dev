@@ -26,6 +26,7 @@
 - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 - https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.rxjs-cheatsheet
+- https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
