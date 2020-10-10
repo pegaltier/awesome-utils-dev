@@ -105,6 +105,10 @@
 - https://awesomeopensource.com/
 - https://bestofjs.org/
 
+## LIB DEVTOOLS
+
+- https://github.com/addyosmani/critical
+
 ## LIB UTILS
 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
