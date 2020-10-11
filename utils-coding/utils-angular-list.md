@@ -1019,10 +1019,12 @@ Discover alternative to ngrx for the state management of your objects.
 - https://leanpub.com/enterprise-angular
 - https://github.com/umijs/qiankun
 - https://github.com/worktile/ngx-planet
+- https://github.com/angular-architects/module-federation-plugin
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/module-federation-with-angular
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic
+- https://github.com/manfredsteyer/module-federation-plugin-example
 - https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/module-federation
