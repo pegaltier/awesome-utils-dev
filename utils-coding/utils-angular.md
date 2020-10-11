@@ -893,10 +893,14 @@ There is two way to develop those websites:
  In angular there is 2 solutions to build those static websites: 
  - universal: official solution provided by angular 
  - scully: community driven project, it's using a headless browser (puppeteer) and it's more complete and also provides also a plugin adapter.
- 
 
 There is a new module called @angular/fire which helps to automatize the whole deployment process.
 
+### SCULLY
+
+- use isScullyRunning to know if the prerendering is running, like that you can adapt different logic depending on if this is the angular app or scully rendering or static website...
+- ignore route using type: 'ignored' instead of type: 'contentFolder' in the scully config of the project
+- build only the route you are asking for using the command line route filter: ex: npm run scully -- --watch --routeFilter=/donuts/*
 
 ## TIPS
 
