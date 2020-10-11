@@ -1752,6 +1752,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/thenaim/ionic-tk-social-network
+- https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example
