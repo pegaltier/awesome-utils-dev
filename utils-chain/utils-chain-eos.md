@@ -33,61 +33,76 @@ https://github.com/eoscafe/eos-key
 https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys
 
 ## EOS TUTOS DEV
-https://learneos.dev/
-https://app.eosstudio.io/
-https://www.everythingeos.io/dev/
-https://github.com/EOSIO/eosio-web-ide
-https://www.udemy.com/course/starting-with-eos/
-https://github.com/klevoya/eosio-wcr-registry
-https://blog.slyon.de/2018/11/18/simple-eos-dev-environment/
-https://ivanontech.teachable.com/courses/eos-smart-contract-programming-101/lectures/11571376
-https://medium.com/@shankqr/how-to-deploy-and-run-a-smart-contract-on-the-eos-blockchain-from-zero-to-hero-72ca592803ba
-https://medium.com/@shankqr/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c
-https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
-https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
-https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
-https://visionary.life/eos-ecosystem-for-developers-infographics/
-https://github.com/GetScatter/scatter-js/
-https://github.com/conr2d/scatter-js
-https://github.com/EOSEssentials/Scatter-Demos
-https://gist.github.com/miguelmota/c2a12cb4ed938d2d6f93146903390065
+- https://learneos.dev/
+- https://app.eosstudio.io/
+- https://www.everythingeos.io/dev/
+- https://github.com/EOSIO/eosio-web-ide
+- https://www.udemy.com/course/starting-with-eos/
+- https://github.com/klevoya/eosio-wcr-registry
+- https://blog.slyon.de/2018/11/18/simple-eos-dev-environment/
+- https://ivanontech.teachable.com/courses/eos-smart-contract-programming-101/lectures/11571376
+- https://medium.com/@shankqr/how-to-deploy-and-run-a-smart-contract-on-the-eos-blockchain-from-zero-to-hero-72ca592803ba
+- https://medium.com/@shankqr/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c
+- https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
+- https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
+- https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
+- https://visionary.life/eos-ecosystem-for-developers-infographics/
+- https://github.com/GetScatter/scatter-js/
+- https://github.com/conr2d/scatter-js
+- https://github.com/EOSEssentials/Scatter-Demos
+- https://gist.github.com/miguelmota/c2a12cb4ed938d2d6f93146903390065
+
+## EOS SMART CONTRACT
+- https://github.com/eosdac/eosdac-contracts
+- https://github.com/defis-net/defis-network
+- https://github.com/rabbits-finance/rabbits-finance
+- https://github.com/coral-finance/coral-contracts
+- https://github.com/sugarfinance/sugartokensa
+- https://github.com/EOSArgentina/evolutiondex
+- https://github.com/flamingo-finance
 
 ## EOS EXPLORER
-https://www.eosgo.io
-https://mereo.io/
-https://bloks.io
-https://www.eosrp.io/
-https://eosweb.net
-https://eosmonitor.io/
-https://eosquery.com
-https://eospark.com/
-https://eosflare.io/
-https://eosscan.io/
-http://bios.eostracker.io/
-http://eosnetworkmonitor.io
-https://eos.feexplorer.io
-https://windshield.cypherglass.com/
-https://www.cypherblock.io/eosmarketcap
+- https://www.eosgo.io
+- https://mereo.io/
+- https://bloks.io
+- https://www.eosrp.io/
+- https://eosweb.net
+- https://eosmonitor.io/
+- https://eosquery.com
+- https://eospark.com/
+- https://eosflare.io/
+- https://eosscan.io/
+- http://bios.eostracker.io/
+- http://eosnetworkmonitor.io
+- https://eos.feexplorer.io
+- https://windshield.cypherglass.com/
+- https://www.cypherblock.io/eosmarketcap
 
 ## EOS TRACK
-http://dev.cryptolions.io/mainnet/
-https://eosauthority.com/timeline
-https://eosnodes.privex.io
-https://eosportal.io
-https://eosnation.io/
+- http://dev.cryptolions.io/mainnet/
+- https://eosauthority.com/timeline
+- https://eosnodes.privex.io
+- https://eosportal.io
+- https://eosnation.io/
+
+## EOS SISTERCHAIN
+- https://www.telosfoundation.io/
+- https://europechain.io/
+- https://ultra.io/
+- https://wax.io/
 
 ## EOS NEWS
 https://www.theeoswriter.io
 
 ## EOS DAPPS LIST
-https://www.eosdividends.com
-http://www.eoslist.io
-https://dapp.review
-https://eosapps.net
-https://dapphub.co
-https://eosindex.io
-https://eosprojects.org
-https://eosforum.org/t/eos-dapp-collection-31-listed-currently/309/17
+- https://www.eosdividends.com
+- http://www.eoslist.io
+- https://dapp.review
+- https://eosapps.net
+- https://dapphub.co
+- https://eosindex.io
+- https://eosprojects.org
+- https://eosforum.org/t/eos-dapp-collection-31-listed-currently/309/17
 
 ## EOS DAPPS DEX
 https://chaince.com
