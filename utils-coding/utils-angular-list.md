@@ -1749,6 +1749,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/retarsis/angular-warehouse
+- https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/thenaim/ionic-tk-social-network
