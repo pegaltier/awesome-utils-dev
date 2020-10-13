@@ -164,12 +164,6 @@
 
   - Good to use with Tab Wrangler, since Tab Wrangler doesn't close pinned tabs
 
-- [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Vim hotkeys for Chrome
-
-  - Navigate page with h/j/k/l/g/G
-  - Open files with "f" key and an assigned letter for hyperlinks
-  - Search browser history or bookmarks
-
 
 # Text Editors
 
