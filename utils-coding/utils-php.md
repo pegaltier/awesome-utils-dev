@@ -155,6 +155,7 @@ composer update (update dependecies & generate import class)
 - https://github.com/selective-php/image-type
 - https://github.com/selective-php/video-type
 - https://github.com/selective-php/audio-type
+- https://github.com/spekulatius/phpscraper
 
 ## TESTS
 
