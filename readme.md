@@ -46,6 +46,7 @@ Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/
 
 - https://github.com/pegaltier
 - https://github.com/Rebaiahmed
+- https://github.com/spekulatius
 
 ## :two_hearts: Follow me
 
