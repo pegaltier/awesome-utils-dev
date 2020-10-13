@@ -381,6 +381,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://medium.com/javascript-in-plain-english/customizing-your-angular-apps-webpack-configuration-4099144949fc
 - https://blog.angular.io/introducing-cli-builders-d012d4489f1b
 - https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
+- https://www.youtube.com/watch?v=hX0KLxMJVyU Unleash the power of Angular CLI Builders - Nir Kaufman
 
 ## CORE: ELEMENTS
 
