@@ -198,6 +198,7 @@ Learn about the most useful design patterns in Angular.
 - https://medium.com/angular-in-depth/agnostic-components-in-angular-2427923b742d
 - https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
 - https://medium.com/javascript-in-plain-english/why-you-should-generally-prefer-typescript-interfaces-and-custom-types-over-classes-d145814218ce
+- https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
 
 ## HELPER: CHEAT-SHEETS
 
@@ -1748,6 +1749,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES
 
+- https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/retarsis/angular-warehouse
 - https://github.com/maximegris/angular-electron
