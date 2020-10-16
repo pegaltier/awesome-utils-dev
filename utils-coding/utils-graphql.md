@@ -10,13 +10,15 @@
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
 ## LIB
+- https://github.com/graphql/dataloader
 - https://github.com/oslabs-beta/portara
 - https://github.com/hasura/graphql-engine
 - https://github.com/APIs-guru/graphql-faker
+- https://github.com/MichalLytek/type-graphql
 - https://github.com/APIs-guru/graphql-voyager
-- https://github.com/ef-eng/graphql-query-rewriter
 - https://github.com/graphql-editor/graphql-zeus
-- https://github.com/graphql/dataloader
+- https://github.com/ef-eng/graphql-query-rewriter
+- https://github.com/dangcuuson/graphql-schema-typescript
 
 ## LEARN
 - https://github.com/dabit3/graphql-recipes

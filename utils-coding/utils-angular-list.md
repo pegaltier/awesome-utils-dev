@@ -1028,6 +1028,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/module-federation-with-angular
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/manfredsteyer/module-federation-plugin-example
+- https://github.com/manfredsteyer/module-federation-plugin-example-nx
 - https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/module-federation
@@ -1487,6 +1488,7 @@ Analyze and optimize the performance of your app
 - https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/text-mask/text-mask
 - https://github.com/KillerCodeMonkey/ngx-quill
+- https://github.com/ayush013/ngx-quill-upload
 - https://github.com/georgipeltekov/ngx-file-drop
 - https://github.com/vadimdez/ng2-pdf-viewer/
 - https://github.com/osahner/ngx-show-hide-password
@@ -1512,6 +1514,7 @@ Analyze and optimize the performance of your app
 - https://github.com/stevermeister/ngx-wig
 - https://github.com/udayvunnam/xng-breadcrumb
 - https://github.com/bootsoon/ng-circle-progress
+- https://github.com/scttcper/ngx-emoji-mart
 - https://github.com/DethAriel/ng-recaptcha
 - https://github.com/scttcper/ngx-toastr
 
@@ -1644,6 +1647,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/loclapp/locl
 - https://github.com/ngneat/transloco
 - https://github.com/ngx-translate/core
+- https://github.com/robisim74/angular-l10n
 - https://github.com/biesbjerg/ngx-translate-extract
 - https://github.com/ngx-translate/i18n-polyfill
 - https://github.com/Tuizi/i18n-split-example

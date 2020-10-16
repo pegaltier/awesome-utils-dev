@@ -99,6 +99,7 @@
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
 - https://github.com/evanw/esbuild
+- https://github.com/lirantal/is-website-vulnerable
 
 ## LIB LIST
 
@@ -146,6 +147,7 @@
 - https://github.com/101arrowz/fflate
 - https://github.com/crossfilter/crossfilter
 - https://github.com/eligrey/l10n.js
+- https://github.com/dcodeIO/bcrypt.js
 
 ## LIB FRONTEND: ALL
 
