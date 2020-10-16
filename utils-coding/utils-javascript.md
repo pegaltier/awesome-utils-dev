@@ -151,6 +151,7 @@
 
 ## LIB FRONTEND: ALL
 
+- https://github.com/xdan/jodit
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
