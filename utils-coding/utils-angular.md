@@ -644,6 +644,7 @@ npx create-nx-workspace@latest my-project # init the repo
 npm install --save-dev @nrwl/angular # add angular capability
 nx g @nrwl/angular:app my-project/my-app # or just ng g myapp
 nx update @angular/core # or ng update @angular/core
+nx migrate # better to use migrate instead of update
 ```
 
 ### ADD SCULLY
@@ -660,11 +661,20 @@ nvm use v12.16.1 # select the good version of node
 nx serve my-project-my-app # start the new project
 ```
 
+### BUILD&SERVE
+
 ```
 npm run build # Angular build
 npm run scully -- --scanRoutes # generate static build and force checking new routes
 npm run scully:serve -- --scanRoutes # serve static build and force checking new routes
 npm run scully serve # serve the scully results
+```
+
+### BUILD&SERVE (+WATCH)
+
+```
+ng build --watch
+npm run scully -- --watch
 ```
 
 ### Resources
@@ -901,6 +911,7 @@ There is a new module called @angular/fire which helps to automatize the whole d
 - use isScullyRunning to know if the prerendering is running, like that you can adapt different logic depending on if this is the angular app or scully rendering or static website...
 - ignore route using type: 'ignored' instead of type: 'contentFolder' in the scully config of the project
 - build only the route you are asking for using the command line route filter: ex: npm run scully -- --watch --routeFilter=/donuts/*
+- use state transfer to cache api data in the same server and in plain json object.
 
 ## TIPS
 

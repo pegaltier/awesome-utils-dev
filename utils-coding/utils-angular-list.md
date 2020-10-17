@@ -1053,6 +1053,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 - https://youtu.be/piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 - https://youtu.be/tTR9OVMC0VE ngConf & Nx Webinar: Never Build the Same Code Twice with Nx Cloud
+- https://youtu.be/LEqJ1xKf_1w Smarter & Faster Angular Development with Nx | ng-conf & Nx
 - https://youtu.be/YU-fMRs-ZYU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/shqVhPJGEZU Manfred Steyer: Architectures for huge Angular based enterprise applications
 - https://youtu.be/hozkdCsP2fs Angular Vienna, Architecting large angular solutions, May 2019
