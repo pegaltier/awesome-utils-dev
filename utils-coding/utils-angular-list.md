@@ -1232,6 +1232,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
+- https://github.com/etavener/scully-tools
 - https://github.com/d-koppenhagen/scully-plugin-mermaid
 - https://github.com/scullyio/scully/tree/main/libs/plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
@@ -1405,6 +1406,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mswjs/msw
 - https://github.com/appium/appium
 - https://github.com/rrweb-io/rrweb
+- https://github.com/Netflix/pollyjs
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
 - https://github.com/NoriSte/cypress-wait-until
@@ -1482,6 +1484,7 @@ Analyze and optimize the performance of your app
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/mgechev/ngx-circular-player
 - https://github.com/Gbuomprisco/ngx-chips
+- https://github.com/sanjayV/ng-image-slider
 - https://github.com/BioPhoton/angular-star-rating
 - https://github.com/BioPhoton/angular-signature-pad
 - https://github.com/Asymmetrik/ngx-leaflet
@@ -1761,6 +1764,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/vagnersabadi/awesome-components-ionic
+- https://github.com/ionicthemes/ionic5-starter-app-tutorial
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example

@@ -1,6 +1,16 @@
 
 # TYPESCRIPT UTILS DEV
 
+## TYPESCRIPT GUIDES
+
+- https://sulco.stackblitz.io/
+- https://github.com/intocare/style-guide
+- https://github.com/basarat/typescript-book
+- https://github.com/microsoft/TypeScript-Handbook
+- https://github.com/microsoft/TypeScript-New-Handbook
+- https://2ality.com/2020/04/migrating-to-typescript.html
+- https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
+
 ## USEFUL
 
 - https://mgv.io/deep-readonly-play
@@ -59,15 +69,6 @@
 - https://github.com/adelsz/pgtyped
 - https://github.com/ronami/meta-typing
 - https://github.com/codemix/ts-sql
-
-## TYPESCRIPT GUIDES
-
-- https://sulco.stackblitz.io/
-- https://github.com/intocare/style-guide
-- https://github.com/microsoft/TypeScript-Handbook
-- https://github.com/microsoft/TypeScript-New-Handbook
-- https://2ality.com/2020/04/migrating-to-typescript.html
-- https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
 ## NEWS
 
