@@ -1484,6 +1484,7 @@ Analyze and optimize the performance of your app
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/mgechev/ngx-circular-player
+- https://github.com/angular-material-extensions
 - https://github.com/Gbuomprisco/ngx-chips
 - https://github.com/sanjayV/ng-image-slider
 - https://github.com/BioPhoton/angular-star-rating
