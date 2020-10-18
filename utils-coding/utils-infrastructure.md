@@ -23,6 +23,7 @@
 
 ## KUBERNETES
 - https://github.com/cloudmelon/melonkube
+- https://github.com/eldada/kubernetes-scripts
 - https://github.com/tomhuang12/awesome-k8s-resources
 
 ## DOCKER

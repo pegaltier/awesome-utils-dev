@@ -155,19 +155,20 @@
 - https://github.com/matthewp/robot
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
-- https://www.npmjs.com/package/livr
+- https://github.com/scottaohara/accessible_modal_window
+- https://github.com/tradingview/lightweight-charts
+- https://github.com/koorchik/js-validator-livr
+- https://github.com/easylogic/codemirror-colorpicker
+- https://github.com/willmendesneto/perf-marks
+- https://github.com/giuseppeg/screensaver
 - https://github.com/immerjs/immer
 - https://github.com/angus-c/just
 - https://github.com/Leaflet/Leaflet
 - https://github.com/codex-team/editor.js
 - https://github.com/pshihn/rough-notation
 - https://github.com/mamunhpath/josh.js
-- https://github.com/tradingview/lightweight-charts
 - https://github.com/greensock/GSAP
-- https://github.com/willmendesneto/perf-marks
 - https://github.com/mikecao/umami
-- https://github.com/giuseppeg/screensaver
-- https://github.com/easylogic/codemirror-colorpicker
 
 ## LIB FRONTEND: DESIGN
 
@@ -213,6 +214,8 @@
 - https://github.com/josdejong/mathjs
 
 ## AUTOMATION
+- https://github.com/checkly/theheadless.dev
+- https://github.com/checkly/headless-recorder
 - https://github.com/GoogleChrome/puppeteer
 - https://github.com/mrWh1te/Botmation
 - https://github.com/segmentio/nightmare
