@@ -254,6 +254,20 @@ git rebase --abort (cancel the rebase)
 git push --force (send to remote)
 ```
 
+## CONTRIBUTE
+
+1. Fork the github remote repository
+2. Checkout your fork in your machine
+3. Set the source repository as upstream
+4. Fetch the full upstream repository.
+
+```
+Fork the repository in question (called ‘upstream’) on the GitHub website
+git clone https://github.com/{user}/{source-repo}.git # step 2
+git remote add upstream https://github.com/{user}/{source-repo}.git # step 3
+git fetch upstream # step 4
+```
+
 ## CONFIG
 
 Switch credentiel method (token)
