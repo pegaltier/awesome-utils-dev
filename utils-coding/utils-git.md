@@ -45,6 +45,7 @@
 - https://github.com/alibaba/hooks
 - https://github.com/jesseduffield/lazygit
 - https://github.com/observing/pre-commit
+- https://github.com/bahmutov/npm-install
 - https://github.com/commitizen/cz-cli
 - https://github.com/typicode/husky
 - https://www.gitkraken.com/
