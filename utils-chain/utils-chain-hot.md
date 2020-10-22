@@ -171,6 +171,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/LunarPunk-Labs/social-graph
 - https://github.com/llavors-mutues/private-slow-transactor
 - https://github.com/guillemcordoba/ng-graphql-hc-starter
+- https://github.com/holo-rea/app-offers-needs-marketplace
 
 ### HOLOCHAIN-RSM GITHUB
 
