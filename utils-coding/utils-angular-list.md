@@ -1176,10 +1176,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 ## ECOSYSTEM: JAMSTACK
 
-- https://scully.io
-- https://github.com/scullyio/scully
 - https://github.com/samvloeberghs/scully-universal
-- https://github.com/chrisguttandin/angular-prerender
 - https://github.com/snipcart/scully-snipcart-store
 - https://github.com/d-koppenhagen/d-koppenhagen.de
 - https://indepth.dev/how-to-migrate-wordpress-to-scully/
