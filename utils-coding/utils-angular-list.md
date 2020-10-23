@@ -549,6 +549,7 @@ Learn the reactive programming using rxjs.
 - https://blog.angular-university.io/rxjs-error-handling/
 - https://indepth.dev/power-of-rxjs-when-using-exponential-backoff/
 - https://medium.com/razroo/rxjs-pitfalls-and-how-to-avoid-them-870e54bea467
+- https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255
 - https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff
 - https://www.nerdeez.com/articles/rxjs/top-operators
 - https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0
@@ -644,6 +645,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/schuchard/ng-schematics
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/niklas-wortmann/ngx-pact
+- https://github.com/ngneat/tailwind
 - https://github.com/d-koppenhagen/schematics-helpers-playground
 - https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
 
@@ -1442,6 +1444,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/wallabyjs/public
 - https://github.com/nas5w/combinate
 - https://github.com/kwonoj/rx-sandbox
+- https://github.com/hirezio/auto-spies
 - https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
 - https://github.com/just-jeb/jest-marbles
@@ -1522,6 +1525,8 @@ Analyze and optimize the performance of your app
 - https://github.com/scttcper/ngx-emoji-mart
 - https://github.com/DethAriel/ng-recaptcha
 - https://github.com/scttcper/ngx-toastr
+- https://github.com/tinesoft/ngx-cookieconsent
+- https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 
 ## ECOSYSTEM: LIB: STATS
 

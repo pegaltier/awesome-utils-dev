@@ -17,6 +17,12 @@
 ## ARTICLES
 - https://blog.ippon.fr/2018/09/12/quest-ce-quun-metarchitecte/
 
+## DATA MANIPULATION
+
+Whether writing websites, softwares, apps or anything involving sending data back and forth there’s always this chore to serialize/deserialize from one format to another, whether it be JS object to/from JSON, plain JS object to/from typed JS class object, Java POJO to/from JSON,  AMF, Protobuf, XML, YML, etc… Now aside from serialization/deserialization, there’s also this fact that some data can cross boundaries or not. Boundaries can be anything like your backend as opposed to your frontend for example. So there’s also this one another chore like sanitization and hydration :
+- sanitization : best example here would be the password from your user which is typically the data that you want to strip away from being inadvertently sent to your frontend.
+- hydration : reverse process, when sometimes you receive user data from the frontend and want to feed its missing properties from database to carry out some more logic. And so what ? So it’s a lot of boilerplate
+
 ## OPINION
 
 -sql: create table with prefix for the project + prefix for the order ex: box_001_member / box_001_event.. It helps to scale and to understand...

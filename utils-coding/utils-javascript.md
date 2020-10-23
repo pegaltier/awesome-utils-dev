@@ -101,16 +101,34 @@
 - https://github.com/evanw/esbuild
 - https://github.com/lirantal/is-website-vulnerable
 
-## LIB LIST
+## FRAMEWORK: FRONTEND
+- https://github.com/sindresorhus/awesome-electron
+- https://github.com/Tencent/omi
+- https://github.com/kbrsh/moon
+- https://electronjs.org/
+- https://nwjs.io/  
+
+## FRAMEWORK: BACKEND
+- https://nestjs.com/
+- https://github.com/strapi/strapi
+- https://github.com/typeorm/typeorm
+- https://github.com/strapi/strapi
+- https://github.com/amark/gun
+- https://github.com/pubkey/rxdb
+- https://github.com/pouchdb/pouchdb
+- https://github.com/cdaringe/pouchy
+- https://github.com/xgenecloud/xgenecloud
+
+## LIB: LIST
 
 - https://awesomeopensource.com/
 - https://bestofjs.org/
 
-## LIB DEVTOOLS
+## LIB: DEVTOOLS
 
 - https://github.com/addyosmani/critical
 
-## LIB UTILS
+## LIB: UTILS
 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
@@ -149,7 +167,7 @@
 - https://github.com/eligrey/l10n.js
 - https://github.com/dcodeIO/bcrypt.js
 
-## LIB FRONTEND: ALL
+## LIB: FRONTEND ALL
 
 - https://github.com/xdan/jodit
 - https://github.com/matthewp/robot
@@ -170,7 +188,7 @@
 - https://github.com/greensock/GSAP
 - https://github.com/mikecao/umami
 
-## LIB FRONTEND: DESIGN
+## LIB: FRONTEND DESIGN
 
 - https://github.com/wentin/underlineJS
 - https://github.com/dixonandmoe/rellax
@@ -180,7 +198,7 @@
 - https://github.com/michaelvillar/dynamics.js
 - https://github.com/fast-average-color/fast-average-color
 
-## LIB MEDIAS
+## LIB: MEDIAS
 - https://github.com/steveruizok/perfect-arrows
 - https://github.com/openseadragon/openseadragon
 - https://github.com/team-video/tragopan
@@ -188,32 +206,18 @@
 - https://github.com/aeroheim/midori
 - https://github.com/Hopding/pdf-lib
 
-## LIB AI
+## LIB: AI
 - https://github.com/BrainJS/brain.js
 
-## FRAMEWORK FRONTEND
-- https://github.com/sindresorhus/awesome-electron
-- https://github.com/Tencent/omi
-- https://github.com/kbrsh/moon
-- https://electronjs.org/
-- https://nwjs.io/  
-
-## FRAMEWORK BACKEND
-- https://nestjs.com/
-- https://github.com/strapi/strapi
-- https://github.com/typeorm/typeorm
-- https://github.com/strapi/strapi
-- https://github.com/amark/gun
-- https://github.com/pubkey/rxdb
-- https://github.com/pouchdb/pouchdb
-- https://github.com/cdaringe/pouchy
-- https://github.com/xgenecloud/xgenecloud
-
-## LIB
+## LIB: 
 - https://github.com/NectarJS/nectarjs
 - https://github.com/josdejong/mathjs
 
-## AUTOMATION
+## LIB: PDF
+- https://github.com/bpampuch/pdfmake
+- https://github.com/Hopding/pdf-lib
+
+## LIB: AUTOMATION
 - https://github.com/checkly/theheadless.dev
 - https://github.com/checkly/headless-recorder
 - https://github.com/GoogleChrome/puppeteer

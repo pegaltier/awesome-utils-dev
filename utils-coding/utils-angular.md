@@ -178,10 +178,10 @@ ng build --target=production --base-href '/enterprise/'
 
 ### HOT VS COLD
 
-- COLD (i.e http obserable) ==> when your observable creates the producer
+- COLD (i.e interval, http requests) ==> are unicast as each subscriber gets data from different producer. It's cold when your observable creates the producer.
 Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. Well another definition: An Observable is cold when data is produced inside the Observable.
 
-- HOT (event click) ==> when your observable closes over the producer
+- HOT (fromEvent click, ngrx selectors) ==> are multicast as all subscribers get data from the same producer. It's hot when your observable closes over the producer. 
 Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical). Well another definition: Observable is hot when the data is produced outside the Observable.
 
 ### OBSERVABLE
@@ -321,6 +321,13 @@ They enable us to join information from multiple observables. Order, time, and s
 - concat: subscribe to Observables in order but only when the previous completes, let me know, then move to the next one.
 - pairWise: let me know when the Observable emits, but also give me the previous value.
 - partition: splits the source Observable into 2, where one has the values that satisfy a predicate and the other with values that doesn't.
+
+#### MULTICASTING
+
+helpful to cache cold observables such as http requests.
+
+- share: share source among multiple subscribers.
+- shareReplay: Share source and replay specified number of emissions on subscription.
 
 #### CREATION
 

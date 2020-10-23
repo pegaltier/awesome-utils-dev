@@ -62,6 +62,7 @@
 - https://github.com/yangshun/lago
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/typestack/class-validator
+- https://github.com/typestack/class-transformer
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/stalniy/casl
 - https://github.com/eonarheim/TypeState
@@ -69,6 +70,11 @@
 - https://github.com/adelsz/pgtyped
 - https://github.com/ronami/meta-typing
 - https://github.com/codemix/ts-sql
+
+## LIB DATABASE
+
+- https://github.com/typeorm/typeorm
+- https://github.com/typegoose/typegoose
 
 ## NEWS
 

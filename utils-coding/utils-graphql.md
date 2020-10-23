@@ -73,3 +73,10 @@ http://todomvc.com/
 - http://www.querymongo.com/
 - http://mongify.com/
 - https://github.com/lovette/mysql-to-mongo
+
+## CONCEPTS
+
+```
+query { ... } read data
+mutation { ... } write data
+```
