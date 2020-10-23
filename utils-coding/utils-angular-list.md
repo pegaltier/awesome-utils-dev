@@ -1233,6 +1233,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/ng-web-apis/universal
 - https://github.com/chrisguttandin/angular-prerender
 - https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
+- https://github.com/fulls1z3/ngx-meta
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
 - https://github.com/etavener/scully-tools
@@ -1438,6 +1439,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: UNIT TESTS
 
 - https://github.com/mswjs/msw
+- https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
 - https://github.com/ike18t/ng-mocks
 - https://github.com/ngneat/spectator

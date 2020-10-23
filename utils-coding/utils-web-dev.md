@@ -55,6 +55,7 @@
 - https://google.github.io/styleguide/htmlcssguide.xml
 - https://internetingishard.com/html-and-css/
 - https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/MarkoDenic/web-development-resources
 - https://learn-the-web.algonquindesign.ca/topics/
 - https://github.com/bendc/frontend-guidelines
 
@@ -323,5 +324,8 @@ https://webofthings.org/standards/
 
 ## LIB
 
+- https://github.com/google/eleventy-high-performance-blog
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
 - https://github.com/cbracco/html5-test-page
+
+## BLOG
