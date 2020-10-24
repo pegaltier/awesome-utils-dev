@@ -1472,6 +1472,7 @@ Learn the best way to make your objects immutable.
 
 Analyze and optimize the performance of your app
 
+- https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
 - https://github.com/addyosmani/puppeteer-webperf
 - https://github.com/danvk/source-map-explorer
