@@ -53,8 +53,9 @@
 - https://learnjavascript.online/ 
 - https://exploringjs.com/deep-js/
 - https://learnvanillajs.com/roadmap/
-- https://learn.co/courses/introduction-to-javascript
 - https://watchandcode.com/p/practical-javascript
+- https://learn.co/courses/introduction-to-javascript
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/#
 
 ## GUIDE-OPEN
 
@@ -268,9 +269,6 @@ A function can be created in 4 ways
 ### ALGORITHM
 - https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html
 
-### OBJECT LITERALS
-- https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
-
 ### ARRAYS
 
 - use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do use a for loop. Exceptions include break (can't even remember the last time I used one) or async/await.
@@ -286,10 +284,27 @@ On the contrary forEach return void so if you modify the current element is doin
 
 An object can be created in 4 ways
 
-👉using object literals
-👉using new or constructor
-👉using Object.create()
-👉using a class
+👉using object literals => let newObject = {};
+👉using new or constructor => let newObject = new Object();
+👉using Object.create() => let newObject = Object.create( Object.prototype );
+👉using a class => let newObject = new User();
+
+#### LITERALS
+
+In plain English, an object literal is a comma-separated list of name-value pairs inside of curly braces.
+Those values can be properties and functions. Here’s a snippet of an object literal with one property and one function.
+
+- https://medium.com/better-programming/object-literal-in-javascript-d3e0e7d58f3b
+- https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
+
+```
+let greeting = {
+    fullname: "Michael Jackson",
+    greet: (message, name) => {
+        console.log(message + " " + name + "!!");
+    }
+};
+```
 
 ### MORE
 

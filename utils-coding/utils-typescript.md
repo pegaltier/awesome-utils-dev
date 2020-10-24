@@ -39,7 +39,6 @@
 - https://github.com/hqoss/guards
 - https://github.com/palmerhq/tsdx
 - https://github.com/kutyel/linq.ts
-- https://github.com/jun-sheaf/ts-japi
 - https://github.com/renke/import-sort
 - https://github.com/radarsu/ts-import
 - https://github.com/compodoc/ts-stats
@@ -47,7 +46,6 @@
 - https://github.com/airbnb/ts-migrate
 - https://github.com/SamVerschueren/tsd
 - https://github.com/runem/ts-simple-type
-- https://github.com/Rich-Harris/object-cull
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/kreuzerk/import-conductor
@@ -61,8 +59,6 @@
 
 - https://github.com/yangshun/lago
 - https://github.com/DefinitelyTyped/DefinitelyTyped
-- https://github.com/typestack/class-validator
-- https://github.com/typestack/class-transformer
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/stalniy/casl
 - https://github.com/eonarheim/TypeState
@@ -70,6 +66,14 @@
 - https://github.com/adelsz/pgtyped
 - https://github.com/ronami/meta-typing
 - https://github.com/codemix/ts-sql
+
+## LIB: DATA TRANSFORMATION
+- https://github.com/mu-io/ts-japi
+- https://github.com/muellerbbm-vas/grivet
+- https://github.com/Rich-Harris/object-cull
+- https://github.com/typestack/class-validator
+- https://github.com/typestack/class-transformer
+- https://github.com/pichillilorenzo/jackson-js
 
 ## LIB DATABASE
 

@@ -10,6 +10,7 @@
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
 ## LIB
+- https://github.com/jagql/framework
 - https://github.com/graphql/dataloader
 - https://github.com/oslabs-beta/portara
 - https://github.com/hasura/graphql-engine

@@ -1520,6 +1520,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngfelixl/ng-write/
 - https://github.com/ngfelixl/pro-widgets
 - https://github.com/stevermeister/ngx-wig
+- https://github.com/sibiraj-s/ngx-editor
 - https://github.com/udayvunnam/xng-breadcrumb
 - https://github.com/bootsoon/ng-circle-progress
 - https://github.com/scttcper/ngx-emoji-mart

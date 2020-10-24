@@ -13,6 +13,15 @@
 - https://github.com/Ninja-Squad/springmockk
 - http://www.baeldung.com/rest-with-spring-course#new-modules
 
+
+## FRAMEWORK
+- https://github.com/quarkusio/quarkus
+- https://github.com/crnk-project/crnk-framework
+- https://github.com/playframework/playframework
+
+## EXAMPLE
+- https://github.com/crnk-project/crnk-example
+
 ## TUTORIALS
 - https://developer.okta.com/blog/2020/05/29/angular-deployment
 
@@ -23,9 +32,6 @@
 - https://quarkus.io/
 - https://github.com/agoncal
 - https://antoniogoncalves.org/tag/micro-services/
-
-## OTHERS
-- https://github.com/playframework/playframework
 
 ## NEWS
 - https://java.libhunt.com/newsletter/186
