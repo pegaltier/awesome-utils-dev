@@ -168,6 +168,7 @@
 - https://github.com/eligrey/l10n.js
 - https://github.com/dcodeIO/bcrypt.js
 - https://github.com/jhchen/fast-diff
+- https://github.com/esfx/esfx
 
 ## LIB: FRONTEND ALL
 

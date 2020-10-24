@@ -46,7 +46,9 @@
 - https://github.com/jesseduffield/lazygit
 - https://github.com/observing/pre-commit
 - https://github.com/bahmutov/npm-install
+- https://github.com/github/super-linter
 - https://github.com/commitizen/cz-cli
+- https://github.com/eth0izzle/shhgit
 - https://github.com/typicode/husky
 - https://www.gitkraken.com/
 - https://gitexplorer.com/
