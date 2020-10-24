@@ -10,6 +10,7 @@
 ## EXAMPLE
 
 - https://github.com/TimurRK/nestjs-example
+- https://github.com/lujakob/nestjs-realworld-example-app
 - https://github.com/0xb4lamx/nestjs-boilerplate-microservice
 - https://github.com/Roms1383/nest-combining-decorators-sample
 
