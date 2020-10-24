@@ -167,6 +167,7 @@
 - https://github.com/crossfilter/crossfilter
 - https://github.com/eligrey/l10n.js
 - https://github.com/dcodeIO/bcrypt.js
+- https://github.com/jhchen/fast-diff
 
 ## LIB: FRONTEND ALL
 
@@ -205,7 +206,6 @@
 - https://github.com/team-video/tragopan
 - https://github.com/google/model-viewer
 - https://github.com/aeroheim/midori
-- https://github.com/Hopding/pdf-lib
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js
@@ -289,7 +289,7 @@ An object can be created in 4 ways
 👉using Object.create() => let newObject = Object.create( Object.prototype );
 👉using a class => let newObject = new User();
 
-#### LITERALS
+#### OBJECT LITERALS
 
 In plain English, an object literal is a comma-separated list of name-value pairs inside of curly braces.
 Those values can be properties and functions. Here’s a snippet of an object literal with one property and one function.
