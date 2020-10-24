@@ -7,10 +7,6 @@
 - https://github.com/serhii-londar/open-source-mac-os-apps
 - https://github.com/herrbischoff/awesome-macos-command-line
 
-## Swift
-
-- https://github.com/bow-swift/bow-arch
-
 ## Tips
 
 - https://www.maketecheasier.com/show-current-path-finder-mac/
@@ -36,3 +32,12 @@ Settings > Spotlight > exclude folders
 ```
 alias npm_ignore_indexing='find . -type d -name "node_modules" -exec touch "{}/.metadata_never_index" \; -exec echo "✔ {}" \;'
 ```
+
+## Programming
+
+### Swift
+
+- https://github.com/bow-swift/bow-arch
+
+# Ror
+- https://github.com/MikeMcQuaid/strap
