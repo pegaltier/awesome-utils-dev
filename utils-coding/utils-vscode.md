@@ -33,6 +33,7 @@
 - https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
 - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
+- https://marketplace.visualstudio.com/items?itemName=bierner.docs-view
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 
 ## EXTENSIONS: OTHERS

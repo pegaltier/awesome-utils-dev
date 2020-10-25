@@ -81,12 +81,50 @@
 - https://www.youtube.com/watch?v=qblxToPBY7Y Z-index CSS Tutorial ( Position and Stacking Order )
 
 
-## DISPLAY
+## DISPLAY 
 
-- it's recommended to use `grid` for layout tags and then `flex` for component level. Because grid can allow simple and powerful adjustement based on the width. Flex will adjust automatically depending on the size so it's perfect for avoiding adjustement issue on small components.
+- https://www.w3schools.com/cssref/pr_class_display.asp
+- https://www.w3schools.com/cssref/playit.asp?filename=playcss_display
+- https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf
+- https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/
+- https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184
+
+### COMMON
+
+- inline: Displays an element as an inline element (like <span>). Any height and width properties will have no effect.
+- block: Displays an element as a block element (like <p>). It starts on a new line, and takes up the whole width
+- flex: Displays an element as a block-level flex container
+- grid:	Displays an element as a block-level grid container
+- table: Let the element behave like a <table> element
+
+### OCCASIONAL
+
+inline-block: Displays an element as an inline-level block container. The element itself is formatted as an inline element, but you can apply height and width values	
+inline-flex: Displays an element as an inline-level flex container	
+inline-grid: Displays an element as an inline-level grid container	
+inline-table: The element is displayed as an inline-level table
+
+### TIPS
+
+- The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time. It's recommended to use `grid` for layout tags and then `flex` for component level. Because grid can allow simple and powerful adjustement based on the width. Flex will adjust automatically depending on the size so it's perfect for avoiding adjustement issue on small components. 
 - it's recommended to use `div (section, article, header, footer)` for layout, `p` for text content and then `span` for component level. Because div and p are `block` (full width and equivalant to line-break before and after it). Span is `inline` so your things will stays on the same line. Even better you can avoid `span` with others specific in-line such as: `b,i,em...` 
 
-- learn more: https://www.w3schools.com/cssref/pr_class_display.asp
+### COMPARAISON
+
+1. Flexbox is One Dimensional, Grid is Two Dimensional
+2. Grid is Container-Based, Flexbox is Content-Based
+
+### GRID
+
+CSS Grid focuses on precise content placement. Each item is a grid cell, lined up along both a horizontal and a vertical axis. If you want to accurately control the position of items within a layout, CSS Grid is the way to go.
+
+“It provides a mechanism for authors to divide available space for layout into columns and rows using a set of predictable sizing behaviors. Authors can then precisely position and size the building block elements of their application into the grid areas defined by the intersections of these columns and rows.”
+
+### FLEXBOX
+
+Flexbox focuses on content flow rather than content placement. Widths (or heights) of flex items are determined by the content of the item. Flex items grow and shrink according to their inner content and the available space. This is how W3C’s flexbox docs explain the goals of the layout module:
+
+“Flexbox gains simple and powerful tools for distributing space and aligning content in ways that web apps and complex web pages often need.”
 
 ## SPECIFICITY
 
