@@ -11,6 +11,7 @@
 - https://www.marcobehler.com/guides/spring-boot
 - https://github.com/jhipster/generator-jhipster
 - https://github.com/Ninja-Squad/springmockk
+- https://github.com/s0l0c0ding/spring-tips
 - http://www.baeldung.com/rest-with-spring-course#new-modules
 
 

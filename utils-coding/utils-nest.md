@@ -12,6 +12,7 @@
 - https://github.com/ntegral/nestjs-sentry
 - https://github.com/TimurRK/nestjs-example
 - https://github.com/javascript-dragons/nest-event
+- https://github.com/fivethree-team/nestjs-prisma-starter
 - https://github.com/lujakob/nestjs-realworld-example-app
 - https://github.com/0xb4lamx/nestjs-boilerplate-microservice
 - https://github.com/Roms1383/nest-combining-decorators-sample

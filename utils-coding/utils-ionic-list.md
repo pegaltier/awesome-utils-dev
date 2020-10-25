@@ -12,6 +12,9 @@
 - https://showcase.ionicframework.com/apps/top
 - https://github.com/Alexintosh/Awesome-Ionic
 
+## TOOLS
+- https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets
+
 ## STARTER / SEED
 http://blog.ionic.io/help-us-test-the-super-starter/
 

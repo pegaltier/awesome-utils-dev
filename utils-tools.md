@@ -4,6 +4,7 @@
 ## Web
 
 - https://metatags.io/font-generator
+- https://github.com/alyssaxuu/flowy
 
 ## Desktop
 
