@@ -25,3 +25,24 @@
 ## LIB
 
 - https://github.com/the-new-sky/Wisty.js
+
+## GPT3
+
+### LIST
+
+- https://github.com/elyase/awesome-gpt3
+
+### CODING
+
+- https://debuild.co/
+- https://gpt-tailwind.com/
+
+### TEXT
+- https://www.taglines.ai/
+- https://www.simplify.so/
+- https://learnfromanyone.com/
+- https://app.fitnessai.com/knowledge/
+- https://play.aidungeon.io/main/landing
+- https://beta.storymapr.com/users/sign_in
+- https://www.dover.io/tools/job-description-rewriter
+- https://philosopherai.com/philosopher/technology-5f713c

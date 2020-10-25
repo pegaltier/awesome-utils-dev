@@ -944,3 +944,7 @@ There is a new module called @angular/fire which helps to automatize the whole d
 ### CLOSED QUESTIONS:
 - what is the spread operator in javascript?
 - what is the destructuring in javascript?
+
+### TEST:
+
+- https://github.com/cloudnc/frontend-interview

@@ -326,6 +326,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 - https://github.com/google/eleventy-high-performance-blog
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
+- https://github.com/deviousdodo/elevenpack
 - https://github.com/cbracco/html5-test-page
 
 ## EMAIL

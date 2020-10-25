@@ -1357,6 +1357,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-web-apis/workers
 - https://github.com/joanllenas/ngx-date-fns
 - https://github.com/PatrickJS/angular-hmr
+- https://github.com/cloudnc/observable-webworker
+- https://github.com/cloudnc/ngx-favicon
 
 ## ECOSYSTEM: LIB: RXJS
 
@@ -1626,6 +1628,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/rxweb/rxweb
 - https://github.com/ngx-meta/rules
 - https://github.com/formql/formql
+- https://github.com/cloudnc/ngx-sub-form
 - https://github.com/ngneat/reactive-forms
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/udos86/ng-dynamic-forms

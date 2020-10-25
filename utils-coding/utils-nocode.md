@@ -12,6 +12,7 @@
 - https://zeroqode.com
 - https://www.duda.co
 - https://xlayers.dev
+- https://uizard.io
 - https://bubble.is
 
 ## api
