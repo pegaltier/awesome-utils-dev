@@ -112,7 +112,7 @@ https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c584
 
 
 ## NPM
-tricks : https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/?utm_source=nodeweekly&utm_medium=email
+tricks : https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off
 tips : https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.v1jfn4pb5
 bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
 
@@ -320,7 +320,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/microsoft/fast
 
 ## IOT
-https://webofthings.org/standards/
+- https://webofthings.org/standards/
 
 ## LIB
 
@@ -328,4 +328,6 @@ https://webofthings.org/standards/
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
 - https://github.com/cbracco/html5-test-page
 
-## BLOG
+## EMAIL
+
+- https://codedmails.com/

@@ -267,10 +267,8 @@ http://interestingengineering.com/
 
 
 ### ANNUAIRE MEMBER/LINK
-https://forum.pragmaticentrepreneurs.com/t/la-boite-a-outils-pour-start-ups/1326?utm_source=AvecMonCafé&utm_campaign=8eefbbe10a-AvecMonCafe_Fr&utm_medium=email&utm_term=0_f60dad0472-8eefbbe10a-60670513
+https://forum.pragmaticentrepreneurs.com/t/la-boite-a-outils-pour-start-ups/1326
 http://www.meetup.com/fr/Toulouse-Android-User-Group/events/221808977/*
-
-
 
 ## TECH
 http://www.influencia.net/fr/  
