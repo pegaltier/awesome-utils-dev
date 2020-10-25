@@ -7,8 +7,10 @@
 - https://1linelayouts.glitch.me/
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
+- https://www.magicpattern.design/tools/css-backgrounds/
 - https://9elements.github.io/fancy-border-radius
 - https://github.com/picturepan2/devices.css
+- https://cssbuttons.vercel.app/
 
 ## BEST PRACTIVES
 
@@ -28,6 +30,8 @@
 - https://github.com/jgthms/bulma
 - https://github.com/troxler/awesome-css-frameworks
 - https://github.com/vasanthv/stylize.css
+- https://github.com/yogurt-foundation/yogurt-css
+- https://github.com/r1/cssbuttons
 
 ## BAD
 

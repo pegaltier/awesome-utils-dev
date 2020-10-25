@@ -14,6 +14,9 @@
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/nvm-sh/nvm
 
+## LIST
+- https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
+
 ## UTILS
 
 - https://github.com/juliangruber/npm-diff
@@ -56,10 +59,6 @@
 - https://docs.npmjs.com/cli/ci.html
 - https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
 
-## NEST
-
-- https://github.com/ntegral/nestjs-sentry
-- https://github.com/javascript-dragons/nest-event
 
 ## NODE UPDATE WINDOWS
 
