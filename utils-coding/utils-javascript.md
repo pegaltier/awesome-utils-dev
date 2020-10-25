@@ -180,6 +180,7 @@
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/koorchik/js-validator-livr
 - https://github.com/easylogic/codemirror-colorpicker
+- https://github.com/colxi/css-global-variables
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/giuseppeg/screensaver
 - https://github.com/immerjs/immer

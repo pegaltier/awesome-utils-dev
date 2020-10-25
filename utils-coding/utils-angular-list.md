@@ -1292,6 +1292,12 @@ Learn the best way to make your objects immutable.
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
 - https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
 
+## ECOSYSTEM: LIB: DEVTOOLS
+- https://github.com/omniboard-dev/analyzer
+- https://github.com/xlayers/version-stamp
+- https://github.com/irustm/ng-app-counter
+- https://github.com/compodoc/compodoc
+- https://github.com/ng-ast/ngast
 
 ## ECOSYSTEM: LIB: LAZY
 

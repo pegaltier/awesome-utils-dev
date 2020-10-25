@@ -24,6 +24,9 @@
 - https://github.com/psr7-sessions/storageless
 - https://github.com/willdurand/Negotiation
 
+## DEVTOOLS
+- https://github.com/xdebug/xdebug
+
 ## SLIM PHP UTILS
 
 - https://github.com/xssc/awesome-slim
