@@ -28,14 +28,40 @@ event.push(
 
 ## Google Tag Manager
 
+Google Tag Manager is used to track the user interactions and thanks to that the project can use the data collected to improve the user experience. That means when you create a new screen or update an existing screen you have to take care to tag the possible interactions of the user. Basically the routing events should be tracked automatically and you must add the custom directive called gtmEvent each time you use a click event.
 
+Now you must configure your directive in order to correctly tag the event:
+
+- eventCategory is a fixed value depending on the screen, it must corresponds to one of the screens mentioned in the tag manager spreadsheet file
+- eventSubcategory is a fixed value depending on the sub-screen, for example when we have a screen with tabs or sections or child screens. If no tab / section / subscreen and main screen then use: main
+- eventAction is a value which corresponds to the action of the event, what does the link/button do. It must contains a variable and 'clicked', ex: 'send question clicked'. If the action aims to redirect to another internal screen then the value must be the name of the destination screen used in eventCategory, ex: 'invoices clicked'. This naming allows you to create conversion funnels.
+- eventLabel allows you to pass additional information on the origin of the action, for example if you are in the menu: statistics menu, if you are in a list, the item id. The origin of the action can also be passed here. Performance teams use it to target conversion tunnel exit points in combination with 'eventAction.
+
+### CODE HELPER
+
+#### ANGULAR DIRECTIVE
 
 ```
-events type:
+[gtmEvent]="{
+    eventCategory: 'profile',
+    eventSubcategory: 'main',
+    eventAction: 'tab clicked',
+    eventLabel: tab?.label?.toLowerCase()
+}"
+```
+
+#### GTM EVENTS
+
+```
 gtm.load
 gtm.dom
 optimize.activate
 gtm.js
+```
+
+#### GTM WITH REGEX
+
+```
 .* (enable regex)
 REGEX for cookies
 ^(true|false|undefined)$
