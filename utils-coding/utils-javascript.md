@@ -106,6 +106,7 @@
 - https://github.com/sindresorhus/awesome-electron
 - https://github.com/Tencent/omi
 - https://github.com/kbrsh/moon
+- https://github.com/cyclejs/cyclejs
 - https://electronjs.org/
 - https://nwjs.io/  
 
@@ -119,6 +120,7 @@
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
 - https://github.com/xgenecloud/xgenecloud
+- https://github.com/microsoft/FluidFramework
 
 ## LIB: LIST
 
@@ -128,6 +130,7 @@
 ## LIB: DEVTOOLS
 
 - https://github.com/addyosmani/critical
+- https://github.com/NectarJS/nectarjs
 
 ## LIB: UTILS
 
@@ -212,8 +215,7 @@
 ## LIB: AI
 - https://github.com/BrainJS/brain.js
 
-## LIB: 
-- https://github.com/NectarJS/nectarjs
+## LIB: CALC
 - https://github.com/josdejong/mathjs
 
 ## LIB: PDF
@@ -226,6 +228,9 @@
 - https://github.com/GoogleChrome/puppeteer
 - https://github.com/mrWh1te/Botmation
 - https://github.com/segmentio/nightmare
+
+## LIB: TESTING
+- https://github.com/Marak/faker.js
 
 ## ALLIN
 

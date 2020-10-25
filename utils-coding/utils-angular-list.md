@@ -802,6 +802,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://codecraft.tv/courses/angular/unit-testing/overview/
 - https://alligator.io/angular/testing-async-fakeasync/
 - https://github.com/codecraft-tv/angular-course/tree/current/13.unit-testing
+- https://github.com/marmicode/farmicode/tree/master/docs/angular-unit-testing-fundamentals
 - http://slides.com/gerardsans/ng-stockholm-testing-recipes
 - https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
 - https://gist.github.com/michaelbromley/bb4291200c25196507d12d2fd948a13e
@@ -1104,6 +1105,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nstudio/xplat-sample-ionic-web
 - https://github.com/lerna/lerna
 - https://github.com/preconstruct/preconstruct
+- https://github.com/bcabanes/nxCloudTravisCi
 - https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6
 - https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
 - https://izifortune.com/share-angular-libraries-with-lerna/

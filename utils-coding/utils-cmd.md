@@ -9,6 +9,7 @@
 - https://github.com/sharkdp/bat
 - https://github.com/ohmyzsh/ohmyzsh
 - https://github.com/idank/explainshell
+- https://github.com/shellspec/shellspec
 - https://github.com/alebcay/awesome-shell
 - https://github.com/jlevy/the-art-of-command-line
 

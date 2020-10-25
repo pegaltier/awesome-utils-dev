@@ -36,6 +36,7 @@
 - https://www.mockapi.io/
 - https://designer.mocky.io/
 - https://www.mockable.io/a/#/
+- https://my-json-server.typicode.com/
 - https://jsonplaceholder.typicode.com/
 
 ## OTHERS
