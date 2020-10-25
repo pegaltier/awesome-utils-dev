@@ -16,8 +16,8 @@
 - https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets
 
 ## STARTER / SEED
-http://blog.ionic.io/help-us-test-the-super-starter/
-
+- https://github.com/fivethree-team/ionic-4-components
+- https://github.com/thenaim/ionic-tk-social-network
 
 ## PWA
 https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/
@@ -39,7 +39,7 @@ https://chrisgriffith.wordpress.com/2017/07/05/announcing-ionic-native-mocks
 https://ionicthemes.com/tutorials/about/ionic2-form-handling-and-validation
 
 
-##INFINITE SCROLL
+## INFINITE SCROLL
 https://ionicframework.com/docs/v2/api/components/infinite-scroll/InfiniteScroll/
 
 ## AUTH
