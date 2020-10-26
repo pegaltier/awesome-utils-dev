@@ -1102,7 +1102,9 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/xmlking/ngx-starter-kit
+- https://github.com/nrwl/nx/issues/2633 ionic5 support
 - https://github.com/nstudio/xplat-sample-ionic-web
+- https://github.com/warrendugan/ionic-capacitor-nx-monorepo
 - https://github.com/lerna/lerna
 - https://github.com/preconstruct/preconstruct
 - https://github.com/bcabanes/nxCloudTravisCi
