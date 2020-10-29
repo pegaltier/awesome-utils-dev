@@ -695,9 +695,9 @@ npm run scully -- --watch
 ## MODULES
 
 - App module: it's the root module used to bootstrap the application. There should not be a lot of content because we must encapsulate features into domain-specific modules.
-- Core module: app-level components like header, footer, breadcrumb, navigation and singleton services.
-- Shared module: shared components, directives, guards, & pipes used throughout the application. It's common to import and export Angular built modules, Common Module or Material module inside your Shared Module if you really need to access them in multiple locations like in Feature modules.
-- Feature module: Breaking things up into domain-specific lazy loaded modules will help run in the long term.
+- Core module: app-level components like header, footer, breadcrumb, navigation and singleton services. This module should be imported once in app module and the module should not export anything because only the core use those components.
+- Shared module: shared components, directives, guards, & pipes used throughout the application must be inside this module and exported to be able to be used by others modules which are importing it. It's common to import and export Angular built modules, Common Module or Material module inside your Shared Module if you really need to access them in multiple locations like in many Feature modules.
+- Feature module: Breaking things up into domain-specific lazy loaded modules will help run in the long term. Those modules must be isolated and export nothing except the module itself for the lazyloading
 
 ### Benefits of lazy modules
 
