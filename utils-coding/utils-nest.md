@@ -2,6 +2,7 @@
 
 ## LIBS
 
+- https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
 - https://github.com/nestjs/ng-universal
 - https://github.com/BeerMoneyDev/nest-monk

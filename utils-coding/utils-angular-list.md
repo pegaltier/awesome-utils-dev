@@ -1362,6 +1362,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cloudnc/observable-webworker
 - https://github.com/cloudnc/ngx-favicon
 - https://github.com/ng-web-apis/speech
+- https://github.com/codediodeio/angular-gtag
 
 ## ECOSYSTEM: LIB: RXJS
 
