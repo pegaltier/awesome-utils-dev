@@ -1150,6 +1150,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://indepth.dev/how-to-set-up-an-nx-style-monorepo-workspace-with-the-angular-cli-part-4/
 - https://docs.google.com/presentation/d/1MknPww1MdwzreFvDh086TzqaB5yyQga0PaoRR9bgCXs/edit#slide=id.g2fa7fd70ec_0_2157
 - https://docs.google.com/presentation/d/1pBh13OQlNU014ImABfP-8MXJL3eIuXLdBdMvp9ZVIuc/edit#slide=id.g41a47c59d4_0_3
+- https://courses.nativescripting.com/courses/nativescript-with-nx-workspaces-and-xplat/lectures/25021523
 - https://juristr.com/blog/2020/05/nx-libs-with-assets/
 
 ## ECOSYSTEM: SEEDS
