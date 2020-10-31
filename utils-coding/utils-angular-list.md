@@ -374,7 +374,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
 - https://github.com/manfredsteyer/ngx-build-plus
 - https://github.com/ngx-builders/angular-builder
 - https://github.com/ngx-builders/netlify-builder
-- https://github.com/ngx-builders/source-map-analyzer
+- https://github.com/mauriziovitale/angular-plugins
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
 - https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
 - https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-build-chain-without-ejecting.aspx
