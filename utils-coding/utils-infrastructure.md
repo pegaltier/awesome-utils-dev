@@ -33,7 +33,11 @@
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/felixfbecker/semantic-release-docker
 - https://github.com/buildkite/docker-puppeteer
+- https://github.com/JeremyLikness/usda-microservice
+- https://labs.play-with-docker.com/
+- https://youtu.be/3c-iBn73dDE Docker Tutorial for Beginners [Full Course in 3 Hours]
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
+- https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
 
 1) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐭𝐨𝐩:  Displays the container's running processes
 $ docker top <container>
@@ -130,9 +134,3 @@ iptable
 
 vps1 et vps2  		> entree  22 pour tout le monde . et 80 si origin load balancer
 sql					> entree  3389 depuis vps. et le 22 tout le monde
-
-
-## DOCKER 
-play-with-docker.com
-https://github.com/JeremyLikness/usda-microservice
-https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
