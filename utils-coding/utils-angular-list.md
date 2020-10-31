@@ -1364,7 +1364,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-web-apis/speech
 
 ## ECOSYSTEM: LIB: RXJS
-
+- https://github.com/NetanelBasal/ngx-auto-unsubscribe
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/w11k/ngx-componentdestroyed
@@ -1396,7 +1396,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/michaelbromley/ng2-pagination
 - https://github.com/flauc/angular2-notifications
 - https://github.com/tjoskar/ng2-lazyload-image
-- https://github.com/stabzs/Angular2-Toaster
 - https://github.com/ksachdeva/angular2-swiper
 - https://github.com/easy-two/ngx-child-injector
 - https://github.com/akserg/ng2-dnd
@@ -1410,6 +1409,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/aelbore/ngx-elements
 - https://github.com/aelbore/ngx-elements-demo
 - https://github.com/angular-extensions/elements
+- https://github.com/brunob15/ngx-element
 - https://github.com/BioPhoton/angular-element-variants
 - https://angular-extensions.github.io/elements/#/examples/advanced
 
@@ -1518,6 +1518,8 @@ Analyze and optimize the performance of your app
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/kekeh/angular-mydatepicker
 - https://github.com/mattlewis92/angular-calendar
+- https://github.com/stabzs/Angular2-Toaster
+- https://github.com/dominique-mueller/angular-notifier
 - https://github.com/mattlewis92/angular-confirmation-popover
 - https://github.com/mattlewis92/angular-draggable-droppable
 - https://github.com/mattlewis92/angular-resizable-element
@@ -1542,6 +1544,9 @@ Analyze and optimize the performance of your app
 - https://github.com/DethAriel/ng-recaptcha
 - https://github.com/scttcper/ngx-toastr
 - https://github.com/tinesoft/ngx-cookieconsent
+- https://github.com/aavanzyl/ngx-tiny
+- https://github.com/ngx-lib/multiselect
+- https://github.com/livechat/angular-livechat
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 
 ## ECOSYSTEM: LIB: STATS
