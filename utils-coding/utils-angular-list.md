@@ -1155,16 +1155,16 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 ## ECOSYSTEM: SEEDS
 
-Starter samples, seeds, alternative to the default Angular CLI tools in order to help to bootstrap a new Angular project.
+Starter samples, seeds, alternative to the default Angular CLI tools in order to help to bootstrap a new Angular project in different platforms (web, mobile, desktop)
 
 - https://github.com/nrwl/nx
 - https://github.com/ngneat/lib
 - https://github.com/wizdmio/wizdm
 - https://github.com/angular/angular-cli
 - https://github.com/martinoppitz/leanup
+- https://github.com/irustm/angular-nodegui
 - https://github.com/maximegris/angular-electron
 - https://github.com/jhipster/generator-jhipster
-- https://github.com/maximegris/angular-electron
 - https://github.com/ngx-rocket/generator-ngx-rocket
 - https://github.com/DanWahlin/Angular-JumpStart
 - https://github.com/DanWahlin/angular-architecture
@@ -1733,6 +1733,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/morrisjdev/ng-metro4
 - https://github.com/Teradata/covalent
 - https://github.com/aposin/ng-aquila
+- https://github.com/oblique-bit/oblique
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
@@ -1920,6 +1921,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://augury.angular.io/
 - https://xlayers.app/#/home
 - https://github.com/Dynatrace/sketchmine
+- https://github.com/irustm/figma-to-angular
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
 - https://github.com/d-koppenhagen/ngx-semantic-version
 - https://github.com/mgechev/ngrev
