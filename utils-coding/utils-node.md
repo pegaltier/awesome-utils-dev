@@ -30,6 +30,7 @@
 - https://github.com/davglass/license-checker
 - https://github.com/localtunnel/localtunnel
 - https://github.com/radarsu/types-package-json
+- https://github.com/SBoudrias/Inquirer.js
 - https://github.com/vercel/ncc
 - https://github.com/sezna/nps
 

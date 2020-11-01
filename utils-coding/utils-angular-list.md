@@ -1301,7 +1301,9 @@ Learn the best way to make your objects immutable.
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/xlayers/version-stamp
 - https://github.com/irustm/ng-app-counter
+- https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
+- https://github.com/compodoc/ngd
 - https://github.com/ng-ast/ngast
 
 ## ECOSYSTEM: LIB: LAZY
@@ -1549,6 +1551,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lib/multiselect
 - https://github.com/livechat/angular-livechat
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
+- https://github.com/bfwg/ngx-drag-scroll
 
 ## ECOSYSTEM: LIB: STATS
 

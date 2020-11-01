@@ -4,6 +4,7 @@
 ## WEBSITES
 
 - https://code.visualstudio.com/docs
+- https://snippet-generator.app
 - https://code.visualstudio.com
 - https://vscodecandothat.com
 - https://vscodethemes.com
