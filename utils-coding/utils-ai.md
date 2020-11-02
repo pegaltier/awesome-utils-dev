@@ -24,6 +24,7 @@
 
 ## LIB
 
+- https://github.com/ml5js/ml5-library
 - https://github.com/the-new-sky/Wisty.js
 
 ## GPT3

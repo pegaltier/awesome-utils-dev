@@ -7,6 +7,7 @@
 ## Utils
 
 - https://github.com/sharkdp/bat
+- https://github.com/tldr-pages/tldr
 - https://github.com/ohmyzsh/ohmyzsh
 - https://github.com/idank/explainshell
 - https://github.com/shellspec/shellspec
