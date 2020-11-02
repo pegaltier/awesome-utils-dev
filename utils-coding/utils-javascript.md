@@ -220,6 +220,7 @@
 
 ## LIB: CALC
 - https://github.com/josdejong/mathjs
+- https://github.com/ebradyjobory/finance.js
 
 ## LIB: PDF
 - https://github.com/bpampuch/pdfmake
