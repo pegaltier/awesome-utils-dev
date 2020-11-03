@@ -18,6 +18,7 @@
 ## STARTER / SEED
 - https://github.com/fivethree-team/ionic-4-components
 - https://github.com/thenaim/ionic-tk-social-network
+- https://github.com/ionic-team/ionic-training-decks
 
 ## PWA
 https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/
