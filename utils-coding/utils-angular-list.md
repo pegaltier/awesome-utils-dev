@@ -970,6 +970,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 Discover alternative to ngrx for the state management of your objects.
 
+- https://github.com/stefanoslig/xstate-angular
 - https://github.com/kuncevic/rx-service
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/lacolaco/reactive-store
@@ -1087,6 +1088,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/MansaGroup/nrwl-nx-action
 - https://github.com/devinshoemaker/nxtend
 - https://github.com/nxtend-team/nxtend
+- https://github.com/tinesoft/nxrocks
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
@@ -1303,6 +1305,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/irustm/ng-app-counter
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
+- https://github.com/ngneat/inspector
 - https://github.com/compodoc/ngd
 - https://github.com/ng-ast/ngast
 
@@ -1553,9 +1556,12 @@ Analyze and optimize the performance of your app
 - https://github.com/livechat/angular-livechat
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 - https://github.com/bfwg/ngx-drag-scroll
+- https://github.com/tinymce/tinymce-angular
+- https://github.com/MurhafSousli/ngx-bar-rating
 
-## ECOSYSTEM: LIB: STATS
+## ECOSYSTEM: LIB: MARKETING
 
+- https://github.com/scttcper/ng2-adsense
 - https://github.com/codediodeio/angular-gtag
 - https://github.com/angulartics/angulartics2
 - https://github.com/maxandriani/ngx-google-analytics
@@ -1708,6 +1714,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ng-web-apis/canvas
 - https://github.com/ng-web-apis/midi
 - https://github.com/ng-web-apis/audio
+- https://github.com/irustm/angular-canvas
 - https://www.thepolyglotdeveloper.com/2019/06/image-cropping-zooming-scaling-angular-javascript/
 
 ## ECOSYSTEM: LIB: UI
@@ -1967,6 +1974,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
 - https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
 - https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
+- https://marketplace.visualstudio.com/items?itemName=bilelmsekni.componizer
 - http://brianflove.com/2017/04/11/angular-language-service/
 - https://github.com/angular/vscode-ng-language-service
 - https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
