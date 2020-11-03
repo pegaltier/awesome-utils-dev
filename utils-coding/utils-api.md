@@ -27,6 +27,8 @@
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
 - https://github.com/swagger-api/swagger-codegen
+- https://github.com/OAI/OpenAPI-Specification
+- https://github.com/Azure/autorest
 - https://github.com/APIs-guru
 - https://pipedream.com/
 
