@@ -58,6 +58,7 @@
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/eclipsesource/jsonforms
+- https://github.com/pmndrs/react-use-gesture
 - https://github.com/DoneDeal0/Talkr
 
 ## LIB: UI
