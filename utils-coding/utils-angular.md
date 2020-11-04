@@ -684,13 +684,25 @@ ng build --watch
 npm run scully -- --watch
 ```
 
-### Resources
+### RESOURCES
 
 - https://nx.dev/angular/getting-started/getting-started
 - https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console
 - https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
 - https://github.com/Bielik20/nx-mean-starter/commit/aacbfa66dbd6465a0e0087fe6dcccd1b805619c3
 - https://medium.com/@gregor.woiwode/how-to-setup-jest-in-an-ionic-4-project-ff1e5b72dd79
+
+### REUSABLE LIB
+
+- In the specific app: develop components that will be injected with this.router.resetConfig
+- In the same generic lib: use the ng-content to integrate visual components
+- In the same generic lib: create a specific module + routing (in app or lib) 
+- In a new specific lib: import the generic lib and add the specific behavior
+
+##### To try
+- Create a factory for routing and switching components
+- Create an injection token and pass specific components/routing through it
+- Use a third parties lib to dynamically instantiate components
 
 ## MODULES
 
