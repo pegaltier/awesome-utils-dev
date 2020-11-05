@@ -1369,6 +1369,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cloudnc/ngx-favicon
 - https://github.com/ng-web-apis/speech
 - https://github.com/arkon/ng-inline-svg
+- https://github.com/angular/flex-layout
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
@@ -1706,6 +1707,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 - https://github.com/FortAwesome/angular-fontawesome
 - https://github.com/chrisguttandin/angular-audio-context
+- https://github.com/NorthwoodsSoftware/gojs-angular
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/jannicz/ng-svg-icon-sprite
 - https://github.com/czeckd/angular2-svg-icon
