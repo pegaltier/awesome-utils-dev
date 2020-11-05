@@ -374,3 +374,12 @@ let promise = new Promise(function(resolve, reject) {
     resolve(123); // immediately give the result: 123
 });
 ```
+
+### DEFINITION
+
+- nullish coalescing operator (??) is a logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined, and otherwise returns its left-hand side operand. Best practices to use it instead of (||) to provide default value because of the fasly potential issue (eg. '' or 0).
+- logical nullish assignment (x ??= y) operator only assigns if x is nullish (null or undefined).
+- logical OR assignment (x ||= y) operator only assigns if x is falsy.
+- optional chaining operator (?.) permits reading the value of a property located deep within a chain of connected objects without having to expressly validate that each reference in the chain. Instead of causing an error if a reference is nullish (null or undefined), the expression short-circuits with a return value of undefined.
+- typeof operator returns a string indicating the type of the unevaluated operand
+- non-null assertion operator (myExpr!;) tell the Typescript compiler explicitly that an expression has value other than null or undefined
