@@ -17,6 +17,7 @@
 
 ## FRAMEWORK
 - https://github.com/quarkusio/quarkus
+- https://github.com/micronaut-projects
 - https://github.com/crnk-project/crnk-framework
 - https://github.com/playframework/playframework
 
@@ -59,3 +60,6 @@
 - https://www.w3schools.com/java/default.asp
 - https://www.geeksforgeeks.org/differences-treemap-hashmap-linkedhashmap-java/
 - https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/
+
+## JVM
+- https://www.azul.com/products/zing/

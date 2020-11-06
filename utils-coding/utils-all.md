@@ -11,6 +11,7 @@
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/sindresorhus/awesome
 - https://github.com/topics/awesome-list
+- https://github.com/zudochkin/awesome-newsletters
 - https://www.prettyawesomelists.com/lists
 - https://project-awesome.org/
 - https://awesomelists.top/
