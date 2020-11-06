@@ -1336,10 +1336,11 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: HTTP
 
 - https://github.com/ngneat/cashew
-- https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/jscutlery/convoyr
 - https://github.com/timdeschryver/rx-query
 - https://github.com/ytilis/ngx-batch-requests
+- https://github.com/angelnikolov/ngx-cacheable
+- https://github.com/alexzuza/angular-refresh-token
 
 ## ECOSYSTEM: LIB: UTIL
 
