@@ -1027,7 +1027,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://leanpub.com/enterprise-angular
 - https://github.com/umijs/qiankun
 - https://github.com/worktile/ngx-planet
-- https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
+- https://github.com/alexzuza/angular-plugin-architecture-with-module-federation-
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
@@ -1309,6 +1309,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/inspector
 - https://github.com/compodoc/ngd
 - https://github.com/ng-ast/ngast
+- https://github.com/pahen/madge
 
 ## ECOSYSTEM: LIB: LAZY
 
@@ -1328,6 +1329,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/fidian/ngx-mutation-observer
 - https://github.com/fidian/ngx-visibility
 - https://github.com/k3nsei/ng-in-viewport
+- https://github.com/arkon/ng-click-outside
 - https://github.com/TinkoffCreditSystems/ng-dompurify
 - https://github.com/TinkoffCreditSystems/ng-event-plugins
 

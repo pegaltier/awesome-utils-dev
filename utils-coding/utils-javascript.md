@@ -222,6 +222,11 @@
 - https://github.com/josdejong/mathjs
 - https://github.com/ebradyjobory/finance.js
 
+## LIB: DATA TRANSFORMATION
+- https://github.com/Leonidas-from-XIV/node-xml2js
+- https://github.com/pichillilorenzo/jackson-js
+- https://github.com/ibmruntimes/yieldable-json
+
 ## LIB: PDF
 - https://github.com/bpampuch/pdfmake
 - https://github.com/Hopding/pdf-lib

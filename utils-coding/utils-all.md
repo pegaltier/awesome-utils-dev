@@ -6,17 +6,19 @@
 - https://app.diagrams.net/
 - https://jsbin.com/?html,output
 
-## AWESOME LIST
-- https://github.com/orsinium/generated-awesomeness
-- https://github.com/LeCoupa/awesome-cheatsheets
-- https://github.com/sindresorhus/awesome
+## AWESOME LIST OSS
 - https://github.com/topics/awesome-list
+- https://github.com/sindresorhus/awesome
+- https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/zudochkin/awesome-newsletters
-- https://www.prettyawesomelists.com/lists
-- https://project-awesome.org/
+- https://github.com/orsinium/generated-awesomeness
+- https://github.com/developer-resources/frontend-development
+
+## AWESOME LIST WWW
 - https://awesomelists.top/
+- https://project-awesome.org/
 - https://awesomeopensource.com/
-- https://awesomeopensource.com/projects/awesome-list
+- https://www.prettyawesomelists.com
 
 ## OPEN STANDARD
 - https://openapi-generator.tech/docs/generators

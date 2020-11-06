@@ -39,8 +39,12 @@
 - Windows, macOS, Linux, Web
 
 - [Talk](https://talk.vasanthv.com/)
-- A group video call for the web. No signups. No downloads.
+- An open-source group video call for the web using webrtc. No signups. No downloads.
 - Web
+
+- [Jitsi](https://github.com/jitsi/jitsi-meet)
+- Another open-source video call sing webrtc.
+- Web, Android, iOS
 
 - [SnapCamera](https://snapcamera.snapchat.com/)
 - Bring the magic of Lenses to your live streams and video chats

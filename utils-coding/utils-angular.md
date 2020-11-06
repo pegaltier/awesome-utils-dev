@@ -935,6 +935,7 @@ There is a new module called @angular/fire which helps to automatize the whole d
 ## TIPS
 
 - role system: use the data property in the routing to pass role restriction enum and then you can check if the user has this role (route.data.roles) in the canActivate of the guard. You can extend role feature with a dedicated ACL lib such as: CASL.
+- check the quality of you code using the various open-source tools such as: bundle-analyzer, madge... `madge --circular --extensions ts ./`
 
 ## INTERVIEW
 

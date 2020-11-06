@@ -26,6 +26,7 @@
 
 ## TUTORIALS
 - https://developer.okta.com/blog/2020/05/29/angular-deployment
+- https://developer.okta.com/blog/2020/08/17/micronaut-jhipster-heroku
 
 ## QUARKUS
 - https://github.com/lordofthejars/quarkus-cheat-sheet/

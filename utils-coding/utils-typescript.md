@@ -73,7 +73,6 @@
 - https://github.com/Rich-Harris/object-cull
 - https://github.com/typestack/class-validator
 - https://github.com/typestack/class-transformer
-- https://github.com/pichillilorenzo/jackson-js
 
 ## LIB DATABASE
 
