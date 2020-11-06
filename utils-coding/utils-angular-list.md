@@ -1395,6 +1395,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/alex-okrushko/backoff-rxjs
 - https://github.com/kievsash/rxjs-toolbox
 - https://github.com/niklas-wortmann/rxjs-web
+- https://github.com/nilsmehlhorn/ngx-observe
 - https://github.com/timdeschryver/rxjs-operator-counter
 - https://github.com/chrisguttandin/subscribable-things
 - https://github.com/ftischler/ngx-rxjs-zone-scheduler
