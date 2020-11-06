@@ -1111,6 +1111,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/lerna/lerna
 - https://github.com/preconstruct/preconstruct
 - https://github.com/bcabanes/nxCloudTravisCi
+- https://angularbites.com/building-scalable-multi-platform-projects-with-angular-and-nx/
 - https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6
 - https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
 - https://izifortune.com/share-angular-libraries-with-lerna/
