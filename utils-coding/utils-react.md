@@ -63,8 +63,17 @@
 - https://github.com/DoneDeal0/Talkr
 
 ## LIB: UI
+
+- https://github.com/react-bootstrap/react-bootstrap
+- https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/ant-design/ant-design
 - https://github.com/mui-org/material-ui
+- https://github.com/chakra-ui/chakra-ui
+- https://github.com/segmentio/evergreen
+- https://github.com/palantir/blueprint
+- https://github.com/microsoft/fluentui
+- https://github.com/grommet/grommet
+- https://github.com/rebassjs/rebass
 - https://github.com/arwes/arwes
 - https://github.com/airbnb/visx
 

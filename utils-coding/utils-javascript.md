@@ -299,6 +299,21 @@ On the contrary forEach return void so if you modify the current element is doin
 - https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c
 - https://vgpena.github.io/js-arrays/#
 
+
+### IMPURE (avoid)
+
+```
+fill
+pop
+push
+reverse
+shift
+sort
+splice
+unshift
+reverse
+```
+
 ### OBJECTS
 
 An object can be created in 4 ways

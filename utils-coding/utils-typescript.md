@@ -71,6 +71,9 @@
 - https://github.com/ronami/meta-typing
 - https://github.com/codemix/ts-sql
 
+## LIB: FUNCTIONNAL PROGRAMMING
+- https://github.com/gcanti/fp-ts
+
 ## LIB: DATA TRANSFORMATION
 - https://github.com/mu-io/ts-japi
 - https://github.com/muellerbbm-vas/grivet
