@@ -142,7 +142,6 @@
 - https://github.com/JSMonk/hegel
 - https://github.com/stoeffel/awesome-fp-js
 - https://github.com/sorrycc/awesome-javascript
-- https://github.com/date-fns/date-fns
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
@@ -164,7 +163,6 @@
 - https://github.com/scurker/currency.js
 - https://github.com/ajv-validator/ajv
 - https://github.com/cabinjs/sensitive-fields
-- https://github.com/xxczaki/light-date
 - https://github.com/country-regions/country-region-data
 - https://github.com/niklasvh/html2canvas
 - https://github.com/lukeed/clsx
@@ -174,6 +172,11 @@
 - https://github.com/dcodeIO/bcrypt.js
 - https://github.com/jhchen/fast-diff
 - https://github.com/esfx/esfx
+
+## LIB: DATE
+- https://github.com/date-fns/date-fns
+- https://github.com/xxczaki/light-date
+- https://github.com/spencermountain/spacetime
 
 ## LIB: FRONTEND ALL
 
