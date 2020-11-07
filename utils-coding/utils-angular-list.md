@@ -198,6 +198,10 @@ Learn about the most useful design patterns in Angular.
 - https://medium.com/angular-in-depth/agnostic-components-in-angular-2427923b742d
 - https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
 - https://medium.com/javascript-in-plain-english/why-you-should-generally-prefer-typescript-interfaces-and-custom-types-over-classes-d145814218ce
+- https://carloscaballero.io/understanding-mvc-services-for-frontend-angular/
+- https://blog.fullstacktraining.com/adapter-pattern-in-typescript/
+- https://refactoring.guru/design-patterns/bridge/typescript/example
+- https://refactoring.guru/design-patterns/catalog
 - https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
 
 ## HELPER: CHEAT-SHEETS
