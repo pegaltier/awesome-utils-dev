@@ -1333,6 +1333,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/arkon/ng-click-outside
 - https://github.com/TinkoffCreditSystems/ng-dompurify
 - https://github.com/TinkoffCreditSystems/ng-event-plugins
+- https://github.com/cloudnc/ngx-favicon
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -1371,7 +1372,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/joanllenas/ngx-date-fns
 - https://github.com/PatrickJS/angular-hmr
 - https://github.com/cloudnc/observable-webworker
-- https://github.com/cloudnc/ngx-favicon
 - https://github.com/ng-web-apis/speech
 - https://github.com/arkon/ng-inline-svg
 - https://github.com/angular/flex-layout
