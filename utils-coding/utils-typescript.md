@@ -11,6 +11,10 @@
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
+## TOOLS
+
+- http://json2ts.com/
+
 ## USEFUL
 
 - https://mgv.io/deep-readonly-play
