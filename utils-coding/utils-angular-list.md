@@ -1819,6 +1819,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
+- https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial

@@ -359,6 +359,11 @@ let greeting = {
 - Understanding "this" keyword
 - apply(), .call() and .bind()
 
+## OBSERVER API
+
+- https://indepth.dev/observer-apis-in-javascript-part-i/
+- https://indepth.dev/observer-apis-in-javascript-part-ii
+
 ## EXAMPLES
 
 ### OBJECTS
