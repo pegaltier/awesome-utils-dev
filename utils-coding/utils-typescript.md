@@ -7,6 +7,7 @@
 - https://github.com/intocare/style-guide
 - https://github.com/basarat/typescript-book
 - https://github.com/microsoft/TypeScript-Handbook
+- https://github.com/type-challenges/type-challenges
 - https://github.com/microsoft/TypeScript-New-Handbook
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
