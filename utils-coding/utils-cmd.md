@@ -12,6 +12,7 @@
 - https://github.com/idank/explainshell
 - https://github.com/shellspec/shellspec
 - https://github.com/alebcay/awesome-shell
+- https://github.com/dylanaraps/pure-sh-bible
 - https://github.com/jlevy/the-art-of-command-line
 
 ## ZSH
