@@ -11,6 +11,7 @@
 
 ## LIB
 - https://github.com/jagql/framework
+- https://github.com/dgraph-io/dgraph
 - https://github.com/graphql/dataloader
 - https://github.com/oslabs-beta/portara
 - https://github.com/hasura/graphql-engine
@@ -29,6 +30,7 @@
 - https://the-guild.dev/blog/migrating-from-rest
 
 ## ARTICLES
+- https://product.voxmedia.com/2020/11/2/21494865/to-federate-or-stitch-a-graphql-gateway-revisited
 - https://the-guild.dev/blog/typed-document-node
 - https://blog.graphqleditor.com/graphql-query-generator/
 - https://css-tricks.com/front-end-developers-guide-graphql/

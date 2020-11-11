@@ -980,6 +980,8 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/lacolaco/reactive-store
 - https://github.com/markostanimirovic/juliette
+- https://github.com/aikoven/typescript-fsa
+- https://github.com/nullpub/dux
 - https://github.com/mobxjs/mobx
 - https://github.com/ngxs/store
 - https://github.com/ngxs-labs/data
@@ -997,6 +999,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/universal-model/universal-model-angular
 - https://github.com/davidkpiano/xstate/
 - https://github.com/georgebatalinski/localstatetodo
+- https://github.com/codethatstack/cqrx
 - https://github.com/NetanelBasal/akita-ng-forms-manager
 - https://github.com/trungk18/jira-clone-angular
 - https://stackblitz.com/edit/rxjs-arjn1h
@@ -1357,7 +1360,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/typebytes/ngx-template-streams
-- https://github.com/gund/ng-dynamic-component
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/ndr/ngx-route-params-input
@@ -1371,8 +1373,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/retarsis/routerkit
 - https://github.com/retarsis/routeshub
 - https://github.com/cristiammercado/ng-event-bus
-- https://github.com/obenjiro/create-angular-components
-- https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/ng-web-apis/workers
 - https://github.com/joanllenas/ngx-date-fns
 - https://github.com/PatrickJS/angular-hmr
@@ -1380,6 +1380,10 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-web-apis/speech
 - https://github.com/arkon/ng-inline-svg
 - https://github.com/angular/flex-layout
+- https://github.com/codethatstack/platform
+- https://github.com/gund/ng-dynamic-component
+- https://github.com/obenjiro/create-angular-components
+- https://github.com/MTobisch/ngx-dynamic-hooks
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
@@ -1453,6 +1457,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/deanius/storybook-animate
 - https://github.com/smeijer/testing-playground
 - https://github.com/socreate/angular-playground
+- https://github.com/maximilianschmitt/cypress-routines
 - https://github.com/bahmutov/cypress-angular-unit-test
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
@@ -1473,6 +1478,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
 - https://github.com/ike18t/ng-mocks
+- https://github.com/google/intermock
 - https://github.com/ngneat/spectator
 - https://github.com/wallabyjs/public
 - https://github.com/nas5w/combinate
@@ -1758,6 +1764,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Teradata/covalent
 - https://github.com/aposin/ng-aquila
 - https://github.com/oblique-bit/oblique
+- https://github.com/SAP/fundamental-ngx
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
@@ -1767,6 +1774,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://github.com/damienbod/angular-auth-oidc-client
+- https://github.com/mauriciovigolo/keycloak-angular
 - https://github.com/auth0/angular2-jwt
 
 ## ECOSYSTEM: LIB: PAYMENT

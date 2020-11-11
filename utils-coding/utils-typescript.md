@@ -82,11 +82,14 @@
 - https://github.com/typestack/class-validator
 - https://github.com/typestack/class-transformer
 
-## LIB DATABASE
+## LIB: DATABASE
 
 - https://github.com/typeorm/typeorm
 - https://github.com/typegoose/typegoose
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository
+
+## LIB: TEST
+- https://github.com/google/intermock
 
 ## NEWS
 

@@ -7,6 +7,7 @@
 - https://github.com/nestjs/ng-universal
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/BeerMoneyDev/nest-monk
+- https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/hardyscc/nestjs-cqrs-starter
 
 ## EXAMPLE

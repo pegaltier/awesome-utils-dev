@@ -67,6 +67,7 @@
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/getify/You-Dont-Know-JS
+- https://github.com/denysdovhan/wtfjs
 
 ## CHEAT-SHEETS
 
@@ -172,6 +173,7 @@
 - https://github.com/dcodeIO/bcrypt.js
 - https://github.com/jhchen/fast-diff
 - https://github.com/esfx/esfx
+- https://github.com/mgechev/injection-js
 
 ## LIB: DATE
 - https://github.com/date-fns/date-fns
@@ -218,6 +220,7 @@
 - https://github.com/google/model-viewer
 - https://github.com/graphery/graphery
 - https://github.com/aeroheim/midori
+- https://github.com/markedjs/marked
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js
@@ -234,6 +237,7 @@
 ## LIB: PDF
 - https://github.com/bpampuch/pdfmake
 - https://github.com/Hopding/pdf-lib
+- https://github.com/pdffillerjs/pdffiller
 
 ## LIB: AUTOMATION
 - https://github.com/checkly/theheadless.dev
