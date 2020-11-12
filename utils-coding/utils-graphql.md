@@ -21,6 +21,7 @@
 - https://github.com/contrawork/graphql-helix
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/ef-eng/graphql-query-rewriter
+- https://github.com/pipedrive/graphql-schema-registry
 - https://github.com/dangcuuson/graphql-schema-typescript
 
 ## LEARN
