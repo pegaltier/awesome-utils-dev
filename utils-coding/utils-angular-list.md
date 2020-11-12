@@ -1503,6 +1503,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/angular-extensions/pretty-html-log
 - https://github.com/gparlakov/scuri
+- https://github.com/brandonroberts/angular-testing-library
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/testing-library/jest-dom
 - https://github.com/synapse-wireless-labs/jasmine-marbles

@@ -65,6 +65,7 @@
 - https://github.com/pmndrs/react-use-gesture
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
+- https://github.com/sylvaindubus/react-prismazoom
 - https://github.com/aaronhayes/react-use-hubspot-form
 
 ## LIB: UI
