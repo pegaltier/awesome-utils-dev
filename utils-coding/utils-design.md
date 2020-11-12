@@ -39,6 +39,7 @@
 - https://www.flaticon.com
 - http://www.littlewalden.com
 - http://kushagragour.in/lab/hint/
+- https://wweb.dev/resources/free-icon-sets
 
 ## WEBDESIGN
 - https://niice.co
@@ -96,6 +97,7 @@
 
 ## PATTERN
 
+- https://pattern.monster/
 - https://patternico.com/
 - https://www.novapattern.com
 - http://www.lisbonazulejos.com/
@@ -204,6 +206,10 @@
 - http://www.bittbox.com
 - http://www.designfreebies.com
 - https://wweb.dev/resources/animated-css-background-generator
+
+## OSS
+
+- https://github.com/edent/SuperTinyIcons
 
 ## ARTICLES
 

@@ -19,8 +19,8 @@
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
 ## HTTP PROMISE 
--  http://andrewhfarmer.com/ajax-libraries/
 - https://developer.mozilla.org/en-US/docs/Web/API/GlobalFetch/fetch
+- http://andrewhfarmer.com/ajax-libraries/
 - https://github.com/mzabriskie/axios
 
 ## COMPONENT
@@ -36,31 +36,36 @@
 - https://reactstrap.github.io/
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
+## EXAMPLES
 
-## NATIVE
-- https://facebook.github.io/react-native/
-- https://github.com/facebook/react-native
-- https://github.com/expo/create-react-native-app
-- http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
-- https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html
+- https://github.com/konstantinmuenster/notion-clone
 
-## FRAMEWORK
+## STARTER
+- https://github.com/facebook/create-react-app
+
+## JAMSTACK
+
+- https://github.com/sanity-io
+- https://github.com/vercel/next.js
+- https://github.com/gatsbyjs/gatsby
 - https://github.com/blitz-js/blitz
 
 ## LIBS
 
 - https://github.com/uber/baseweb
 - https://github.com/Hotell/rea-di
+- https://github.com/TimboKZ/Chonky
 - https://github.com/moroshko/basis
+- https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
 - https://github.com/tajo/react-movable
 - https://github.com/kitze/react-hanger
+- https://github.com/JedWatson/classnames
+- https://github.com/eclipsesource/jsonforms
+- https://github.com/pmndrs/react-use-gesture
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/aaronhayes/react-use-hubspot-form
-- https://github.com/eclipsesource/jsonforms
-- https://github.com/pmndrs/react-use-gesture
-- https://github.com/DoneDeal0/Talkr
 
 ## LIB: UI
 
@@ -82,13 +87,11 @@
 - https://github.com/enaqx/awesome-react
 - https://github.com/brillout/awesome-react-components
 
-## JAMSTACK
-
-- https://github.com/sanity-io
-- https://github.com/gatsbyjs/gatsby
-
 ## NATIVE
 
 - https://github.com/facebook/react-native
 - https://github.com/react-native-menu/menu
 - https://github.com/ravirupareliya/rn-in-app-review
+- https://github.com/expo/create-react-native-app
+- http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
+- https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html

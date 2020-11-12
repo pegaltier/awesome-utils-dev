@@ -73,18 +73,21 @@
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 
 ## TOOLS
-- https://tiny-helpers.dev/
-- https://webcode.tools/
-- http://realfavicongenerator.net/
+- https://webcode.tools
+- https://fontofweb.com
+- https://deviceshots.com
+- https://tiny-helpers.dev
+- https://cssspider.fresalabs.com
+- http://realfavicongenerator.net
 - https://www.froala.com/design-blocks
 - https://github.com/wwebdev/static-website-template
 - https://github.com/manojVivek/responsively-appA
-- https://html-to-svg.as-a-service.dev/
-- http://jsoneditoronline.org/
-- https://bundlers.tooling.report/
-- http://www.perf-tooling.today/
+- https://html-to-svg.as-a-service.dev
+- http://jsoneditoronline.org
+- https://bundlers.tooling.report
+- http://www.perf-tooling.today
 - https://free-for.dev
-- https://debuild.co/
+- https://debuild.co
 
 ## AWESOME
 

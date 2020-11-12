@@ -68,6 +68,7 @@
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/denysdovhan/wtfjs
+- https://github.com/standard/standard
 
 ## CHEAT-SHEETS
 
@@ -174,6 +175,7 @@
 - https://github.com/jhchen/fast-diff
 - https://github.com/esfx/esfx
 - https://github.com/mgechev/injection-js
+- https://github.com/naman03malhotra/match-rules
 
 ## LIB: DATE
 - https://github.com/date-fns/date-fns
@@ -228,6 +230,7 @@
 ## LIB: CALC
 - https://github.com/josdejong/mathjs
 - https://github.com/ebradyjobory/finance.js
+- https://github.com/dcousens/haversine-distance
 
 ## LIB: DATA TRANSFORMATION
 - https://github.com/Leonidas-from-XIV/node-xml2js

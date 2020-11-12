@@ -879,11 +879,13 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/btroncone/ngrx-store-localstorage
 - https://github.com/timdeschryver/ngrx-tslint-rules
 - https://github.com/timdeschryver/eslint-plugin-ngrx
+- https://github.com/NetanelBasal/ngrx-generator
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/blove/ngrx-testing
-
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
+
+- https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210
 - https://blog.strongbrew.io/how-to-write-clean-reducers-and-test-them/
 - https://dev.to/alfredoperez/my-notes-from-ngrx-workshop-from-ngconf-2020-part-1-introduction-h8l
 - https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l
@@ -1302,6 +1304,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/cartant/eslint-plugin-rxjs-angular
 - https://github.com/typescript-eslint/typescript-eslint
+- https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/cyrilletuzi/typescript-strictly-typed
 - https://github.com/danielnixon/eslint-plugin-total-functions
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
@@ -1316,6 +1319,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
 - https://github.com/ngneat/inspector
+- https://github.com/swimlane/DocSPA
 - https://github.com/compodoc/ngd
 - https://github.com/ng-ast/ngast
 - https://github.com/pahen/madge
@@ -1824,12 +1828,14 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
+- https://github.com/bbaia/gdgtoulouse-ngrx
 - https://github.com/retarsis/angular-warehouse
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/thenaim/ionic-tk-social-network
+- https://github.com/DavideViolante/Angular-Full-Stack
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
