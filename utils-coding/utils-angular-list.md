@@ -299,6 +299,7 @@ Learn about the most useful design patterns in Angular.
 - http://www.dzurico.com/angular-cli-with-the-super-powers/
 - https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md
 - https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
+- https://github.com/cexbrayat/angular-cli-diff
 
 ## CORE: PIPES
 
@@ -1384,6 +1385,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-web-apis/speech
 - https://github.com/arkon/ng-inline-svg
 - https://github.com/angular/flex-layout
+- https://github.com/angular/angularfire
 - https://github.com/codethatstack/platform
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/obenjiro/create-angular-components
@@ -1770,6 +1772,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/aposin/ng-aquila
 - https://github.com/oblique-bit/oblique
 - https://github.com/SAP/fundamental-ngx
+- https://github.com/dxc-technology/halstack-angular
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
@@ -1780,6 +1783,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://github.com/damienbod/angular-auth-oidc-client
 - https://github.com/mauriciovigolo/keycloak-angular
+- https://github.com/angular/angularfire
 - https://github.com/auth0/angular2-jwt
 
 ## ECOSYSTEM: LIB: PAYMENT
@@ -1836,6 +1840,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/thenaim/ionic-tk-social-network
+- https://github.com/StephenFluin/angular-update-guide
 - https://github.com/DavideViolante/Angular-Full-Stack
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial

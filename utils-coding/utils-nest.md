@@ -12,6 +12,7 @@
 
 ## EXAMPLE
 
+- https://github.com/nartc/nest-mean
 - https://github.com/ntegral/nestjs-sentry
 - https://github.com/TimurRK/nestjs-example
 - https://github.com/javascript-dragons/nest-event
