@@ -651,6 +651,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/niklas-wortmann/ngx-pact
 - https://github.com/Teebo/scss-migrate
+- https://github.com/ngxs/schematics
 - https://github.com/ngneat/tailwind
 - https://github.com/d-koppenhagen/schematics-helpers-playground
 - https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
