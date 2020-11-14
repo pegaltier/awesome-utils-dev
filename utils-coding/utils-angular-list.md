@@ -171,6 +171,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
+- https://dev.to/joerter/10-tips-for-awesome-angular-apps-a2b
 
 ## HELPER: DESIGN PATTERN
 
@@ -203,6 +204,8 @@ Learn about the most useful design patterns in Angular.
 - https://refactoring.guru/design-patterns/bridge/typescript/example
 - https://refactoring.guru/design-patterns/catalog
 - https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
+- https://dev.to/humberd/context-menu-actions-at-scale-command-pattern-in-a-real-life-scenario-9o0
+- https://github.com/Humberd/command-pattern-in-angular
 
 ## HELPER: CHEAT-SHEETS
 
@@ -690,6 +693,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 
 Learn about the angular router, lazy load your modules.
 
+- https://dev.to/angular/angular-router-getting-to-know-urltree-activatedroutesnapshot-and-activatedroute-5dd1
 - https://medium.com/ngconf/routing-to-angular-material-dialogs-c3fb7231c177
 - https://medium.com/angular-in-depth/angular-code-splitting-or-how-to-share-components-between-lazy-modules-432c755e389c
 - https://timdeschryver.dev/blog/guarding-your-angular-modules
@@ -728,6 +732,8 @@ Learn about the angular router, lazy load your modules.
 
 ## CORE: LAZY
 
+- https://dev.to/humberd/angular-architecture-lazy-loaded-dialogs-59di
+- https://github.com/Humberd/lazy-loaded-dialogs-in-angular
 - https://stackoverflow.com/questions/46240293/how-to-lazyload-library-in-angular-4-module
 - https://stackoverflow.com/questions/44200434/in-angular-cli-how-does-the-lazy-attribute-work-to-load-global-libraries
 - https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/global-scripts.md
