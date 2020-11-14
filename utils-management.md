@@ -4,6 +4,9 @@
 - https://www.odoo.com
 - https://www.dolibarr.org/
 
+<h2>AGILE</h2>
+- https://github.com/wishtack/gitbook-guide-agile
+
 <h2>MANAGEMENT RULES</h2>
 <ol>
 <li>entreprise libéré (frederic leloup)</li>
