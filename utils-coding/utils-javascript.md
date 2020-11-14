@@ -207,6 +207,7 @@
 
 ## LIB: FRONTEND DESIGN
 
+- https://github.com/rikschennink/fitty
 - https://github.com/wentin/underlineJS
 - https://github.com/dixonandmoe/rellax
 - https://github.com/wagerfield/parallax
