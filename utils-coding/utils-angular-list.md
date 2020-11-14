@@ -1588,6 +1588,9 @@ Analyze and optimize the performance of your app
 - https://github.com/bfwg/ngx-drag-scroll
 - https://github.com/tinymce/tinymce-angular
 - https://github.com/MurhafSousli/ngx-bar-rating
+- https://github.com/MurhafSousli/ngx-sharebuttons
+- https://github.com/MurhafSousli/ngx-scrollbar
+- https://github.com/MurhafSousli/ngx-gallery
 
 ## ECOSYSTEM: LIB: MARKETING
 
@@ -1636,6 +1639,7 @@ Analyze and optimize the performance of your app
 - https://github.com/swimlane/ngx-graph
 - https://github.com/swimlane/ngx-charts
 - https://github.com/valor-software/ng2-charts
+- https://github.com/MurhafSousli/ngx-highlightjs
 - https://github.com/highcharts/highcharts-angular
 - https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
 
