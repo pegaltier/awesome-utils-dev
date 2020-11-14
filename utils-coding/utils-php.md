@@ -68,6 +68,7 @@
 - https://github.com/maurobonfietti/slim4-api-skeleton-crud-generator
 - http://www.slimframework.com/docs/v4/
 - https://github.com/odan/slim4-tutorial
+- https://odan.github.io/2019/11/05/slim4-tutorial.html
 
 ## PSR15
 

@@ -1468,6 +1468,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
 - https://github.com/cypress-io/cypress-realworld-app
+- https://github.com/gothinkster/angular-realworld-example-app
+- https://github.com/CypressCecelia/cypress-testing-angular-workshop
 - https://webdave.de/blog/cypress
 - https://www.youtube.com/watch?v=UHgtUSAROtc Comparing Testing Tools
 - https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
