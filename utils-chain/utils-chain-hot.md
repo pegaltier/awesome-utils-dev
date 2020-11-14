@@ -176,7 +176,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 ### HOLOCHAIN-RSM GITHUB
 
 - https://github.com/holochain-open-dev/reusable-module-template
-- https://github.com/holochain-open-dev/resource-booking-zome
+- https://github.com/holochain-open-dev/mutual-commitments-module
+- https://github.com/holochain-open-dev/resource-bookings-module
 - https://github.com/holochain-open-dev/file-storage-module
 - https://github.com/holochain-open-dev/module-template
 - https://github.com/holochain-open-dev/profiles-module
