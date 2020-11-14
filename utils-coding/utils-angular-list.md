@@ -2107,6 +2107,13 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.ag-grid.com/understanding-packaging-for-javascript-typescript-commonjs-and-everything-else/
 - http://juristr.com/blog/
 
+## ECOSYSTEM: TRAINING
+
+- https://oasisdigital.com/class/angular-for-architects
+- https://thoughtram.io/angular-master-class.html
+- https://tomastrajan.com/workshops/angular-mastery
+- https://ultimatecourses.com/courses/angular
+
 ## EVOLUTION
 
 - http://g.co/ng/weekly-notes
