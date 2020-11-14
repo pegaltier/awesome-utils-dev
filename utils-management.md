@@ -5,6 +5,7 @@
 - https://www.dolibarr.org/
 
 <h2>AGILE</h2>
+- https://guide-agile.wishtack.io/
 - https://github.com/wishtack/gitbook-guide-agile
 
 <h2>MANAGEMENT RULES</h2>

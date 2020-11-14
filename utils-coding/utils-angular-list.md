@@ -1486,6 +1486,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
 - https://github.com/ike18t/ng-mocks
+- https://github.com/ng-mocks/examples
 - https://github.com/google/intermock
 - https://github.com/ngneat/spectator
 - https://github.com/wallabyjs/public
