@@ -14,6 +14,7 @@
 ## TOOLS OSS
 - https://github.com/Qovery/engine
 - https://github.com/alexfernandez/loadtest
+- https://github.com/ripienaar/free-for-dev
 
 ## VIM
 
