@@ -1461,6 +1461,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
 - https://github.com/nas5w/combinate
+- https://github.com/microsoft/playwright-test
 - https://github.com/deanius/storybook-animate
 - https://github.com/smeijer/testing-playground
 - https://github.com/socreate/angular-playground
