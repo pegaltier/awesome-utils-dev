@@ -8,3 +8,7 @@
 ## TEST
 
 - https://github.com/testing-library/vue-testing-library
+
+## LIB
+
+- https://github.com/quatrochan/Equal

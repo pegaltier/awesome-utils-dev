@@ -119,9 +119,6 @@
 - https://github.com/typeorm/typeorm
 - https://github.com/strapi/strapi
 - https://github.com/amark/gun
-- https://github.com/pubkey/rxdb
-- https://github.com/pouchdb/pouchdb
-- https://github.com/cdaringe/pouchy
 - https://github.com/xgenecloud/xgenecloud
 - https://github.com/microsoft/FluidFramework
 
@@ -135,6 +132,12 @@
 
 - https://github.com/addyosmani/critical
 - https://github.com/NectarJS/nectarjs
+
+## LIB: DATABASE
+- https://github.com/pubkey/rxdb
+- https://github.com/typicode/lowdb
+- https://github.com/pouchdb/pouchdb
+- https://github.com/cdaringe/pouchy
 
 ## LIB: UTILS
 
