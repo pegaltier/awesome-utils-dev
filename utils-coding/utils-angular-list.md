@@ -541,11 +541,12 @@ Access Control List is a service that allows you to protect/show content based o
 
 Learn the reactive programming using rxjs.
 
-- https://rxviz.com/
-- https://rxjs.tools/
-- https://www.learnrxjs.io/
-- https://learnreactive.com/
-- https://www.rxjs-fruits.com/
+- https://rxviz.com
+- https://thinkrx.io
+- https://rxjs.tools
+- https://www.learnrxjs.io
+- https://learnreactive.com
+- https://www.rxjs-fruits.com
 - https://github.com/moroshko/rxviz
 - https://github.com/btroncone/learn-rxjs
 - https://github.com/jsonberry/rxjs-examples
@@ -1410,6 +1411,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cartant/rxjs-spy
 - https://github.com/cartant/rxjs-interop
 - https://github.com/kwonoj/rx-sandbox
+- https://github.com/kosich/rxjs-proxify
 - https://github.com/hirezio/observer-spy
 - https://github.com/loreanvictor/rxmetics
 - https://github.com/benlesh/rxjs-for-await
