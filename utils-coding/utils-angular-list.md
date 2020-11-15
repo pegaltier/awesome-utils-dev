@@ -656,6 +656,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/Teebo/scss-migrate
 - https://github.com/ngxs/schematics
 - https://github.com/ngneat/tailwind
+- https://github.com/angular-architects/module-federation-plugin
 - https://github.com/d-koppenhagen/schematics-helpers-playground
 - https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
 
@@ -1531,8 +1532,9 @@ Analyze and optimize the performance of your app
 
 - https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
-- https://github.com/addyosmani/puppeteer-webperf
+- https://github.com/willmendesneto/perf-marks
 - https://github.com/danvk/source-map-explorer
+- https://github.com/addyosmani/puppeteer-webperf
 - https://github.com/ngx-builders/source-map-analyzer
 - https://github.com/webpack-contrib/webpack-bundle-analyzer
 
