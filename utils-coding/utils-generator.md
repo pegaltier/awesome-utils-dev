@@ -14,3 +14,4 @@
 ## YEOMAN
 
 - https://github.com/pnp/generator-teams
+- https://github.com/dsebastien/word-plugin-angular-template

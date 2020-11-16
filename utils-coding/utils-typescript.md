@@ -76,9 +76,13 @@
 - https://github.com/gcanti/fp-ts
 
 ## LIB: DATA TRANSFORMATION
+- https://github.com/gcanti/io-ts
 - https://github.com/mu-io/ts-japi
+- https://github.com/gcanti/monocle-ts
+- https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
 - https://github.com/Rich-Harris/object-cull
+- https://github.com/data-forge/data-forge-ts
 - https://github.com/typestack/class-validator
 - https://github.com/typestack/class-transformer
 

@@ -895,6 +895,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 
+- https://timdeschryver.dev/blog/nested-ngrx-entity-state
 - https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210
 - https://blog.strongbrew.io/how-to-write-clean-reducers-and-test-them/
 - https://dev.to/alfredoperez/my-notes-from-ngrx-workshop-from-ngconf-2020-part-1-introduction-h8l
@@ -969,6 +970,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 - https://github.com/dsebastien/ngrx-component-store-demo
 - https://github.com/alex-okrushko/component-store-demo
+- https://stackblitz.com/edit/heroes-component-store
 - https://stackblitz.com/edit/github-component-store-demo
 - https://stackblitz.com/edit/angular-ivy-hdkz19
 - https://stackblitz.com/edit/angular-ivy-p9cgc9
@@ -1602,6 +1604,7 @@ Analyze and optimize the performance of your app
 - https://github.com/MurhafSousli/ngx-sharebuttons
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/MurhafSousli/ngx-gallery
+- https://github.com/ngx-lottie/ngx-lottie
 
 ## ECOSYSTEM: LIB: MARKETING
 

@@ -13,6 +13,7 @@
 
 ## TOOLS OSS
 - https://github.com/Qovery/engine
+- https://github.com/loadimpact/k6
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
 
@@ -45,6 +46,11 @@
 - https://youtu.be/3c-iBn73dDE Docker Tutorial for Beginners [Full Course in 3 Hours]
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 - https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
+
+## DOCKER IMAGES
+- https://github.com/bunkerity/bunkerized-nginx
+- https://github.com/bunkerity/bunkerized-mariadb
+- https://github.com/bunkerity/bunkerized-php
 
 1) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐭𝐨𝐩:  Displays the container's running processes
 $ docker top <container>
@@ -85,6 +91,10 @@ $cfg['Servers'][$i]['AllowNoPassword'] = TRUE;
 http://192.168.50.52/phpmyadmin 
 root secret
 exit
+
+## NGINX
+
+- https://github.com/agile6v/awesome-nginx
 
 ## CRON
 

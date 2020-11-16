@@ -61,6 +61,7 @@
 
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://github.com/MostlyAdequate/mostly-adequate-guide
 - https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
@@ -177,7 +178,6 @@
 - https://github.com/dcodeIO/bcrypt.js
 - https://github.com/jhchen/fast-diff
 - https://github.com/esfx/esfx
-- https://github.com/mgechev/injection-js
 - https://github.com/naman03malhotra/match-rules
 
 ## LIB: DATE
@@ -210,6 +210,7 @@
 
 ## LIB: FRONTEND DESIGN
 
+- https://github.com/airbnb/lottie-web
 - https://github.com/rikschennink/fitty
 - https://github.com/wentin/underlineJS
 - https://github.com/dixonandmoe/rellax
