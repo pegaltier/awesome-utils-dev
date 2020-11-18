@@ -767,6 +767,7 @@ Learn about the angular router, lazy load your modules.
 
 Learn everything about angular universal, make a good SEO.
 
+- https://www.loom.com/share/35330a858cd741ba92e8be0c0496ffbb
 - https://slides.com/craigspence/angular-universal-in-the-real-world-15
 - https://www.youtube.com/watch?v=-VDOAjzLcvQ SSR
 - https://www.npmjs.com/package/ngx-seo

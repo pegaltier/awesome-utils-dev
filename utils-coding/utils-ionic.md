@@ -33,6 +33,7 @@ ionic start cutePuppyPics --v2					> start new project
 cd cutePuppyPics											 
 ionic serve										> test web project 
 ionic serve --lab								> test web and simulate android/ios mobile
+ionic serve -- --hmr                            > enable HMR with Angular11
 ionic platform add android						> add android platform to project 
 ionic platform add browser						> add browser platform to project 
 ionic info 
@@ -41,6 +42,7 @@ ionic run android  								> run project on android device
 ionic run android --prod 						> run project on android device + minify 
 ionic run android --prod --release				> run project on android device + minify + certificate
 ionic build browser --prod
+
 ```
 
 #### CLI REAL DEVICE

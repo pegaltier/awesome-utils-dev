@@ -77,16 +77,16 @@
 - https://dsgn.link
 - https://roadmap.sh
 - https://debuild.co
+- https://staticbox.io
 - https://free-for.dev
 - https://webcode.tools
 - https://fontofweb.com
 - https://deviceshots.com
+- https://responsively.app
 - https://tiny-helpers.dev
 - https://cssspider.fresalabs.com
 - http://realfavicongenerator.net
-- https://www.froala.com/design-blocks
-- https://github.com/wwebdev/static-website-template
-- https://github.com/manojVivek/responsively-appA
+- https://www.froala.com/design-block
 - https://html-to-svg.as-a-service.dev
 - http://jsoneditoronline.org
 - https://bundlers.tooling.report
@@ -333,6 +333,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 - https://github.com/cbracco/html5-test-page
 - https://github.com/jamesgeorge007/scaffold-static
+- https://github.com/wwebdev/static-website-template
 
 ## STARTER: SSG
 - https://github.com/google/eleventy-high-performance-blog
@@ -344,3 +345,17 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 - https://codedmails.com/
 - https://github.com/tomayac/dark-mode-email
+
+## TIPS
+
+development team velocity:
+
+- Mock APIs
+- Static types
+- Fast CI builds
+- Fast feedback loops
+- Small, focused tickets
+- Frequent, small releases
+- Comprehensive, fast tests
+- Automated code quality checks
+- Automatic code formatting on save

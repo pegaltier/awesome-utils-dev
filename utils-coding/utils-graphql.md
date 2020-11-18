@@ -7,6 +7,7 @@
 - https://www.graphqleditor.com/
 - https://graphql-code-generator.com/
 - https://www.graphile.org/postgraphile/
+- https://dev.to/graphqleditor/graphql-tools-libraries-3bbc
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
 ## LIB
