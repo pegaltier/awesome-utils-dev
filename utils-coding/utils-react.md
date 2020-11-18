@@ -58,6 +58,7 @@
 - https://github.com/moroshko/basis
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
+- https://github.com/BuilderIO/jsx-lite
 - https://github.com/tajo/react-movable
 - https://github.com/kitze/react-hanger
 - https://github.com/JedWatson/classnames

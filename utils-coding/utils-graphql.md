@@ -18,6 +18,7 @@
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/MichalLytek/type-graphql
 - https://github.com/APIs-guru/graphql-voyager
+- https://github.com/calmonr/typegraphql-relay
 - https://github.com/contrawork/graphql-helix
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/ef-eng/graphql-query-rewriter

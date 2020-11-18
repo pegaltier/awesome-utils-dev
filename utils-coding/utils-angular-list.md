@@ -1652,6 +1652,7 @@ Analyze and optimize the performance of your app
 - https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
 - https://github.com/swimlane/ngx-charts
+- https://github.com/apexcharts/ng-apexcharts
 - https://github.com/valor-software/ng2-charts
 - https://github.com/MurhafSousli/ngx-highlightjs
 - https://github.com/highcharts/highcharts-angular

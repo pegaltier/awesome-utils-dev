@@ -4,6 +4,11 @@
 
 - https://www.explainshell.com/
 
+## Terminal
+
+- https://eugeny.github.io/terminus/
+- https://github.com/vercel/hyper
+
 ## Utils
 
 - https://github.com/sharkdp/bat

@@ -76,6 +76,7 @@
 - https://1loc.dev/
 - https://devhints.io/lodash
 - https://surma.github.io/underdash/
+- https://joshwcomeau.com/operator-lookup/
 - https://wweb.dev/resources/js-array-functions-cheatsheet
 - https://wweb.dev/resources/js-object-functions-cheatsheet
 

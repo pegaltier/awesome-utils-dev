@@ -14,6 +14,8 @@
 
 - [Lightworks](https://www.lwks.com/) - Freemium video editing software
 
+- [Hyper](https://hyper.is/) - Hyper is an Electron-based terminal
+
 - [Terminus](https://eugeny.github.io/terminus/) - A terminal for a more modern age
 
 - [CloudApp](https://www.getcloudapp.com/) - Screenshots, GIFs, and videos with annotation, security controls, and cloud storage

@@ -51,6 +51,7 @@
 - https://github.com/eth0izzle/shhgit
 - https://github.com/typicode/husky
 - https://www.gitkraken.com/
+- https://socialify.git.ci/
 - https://gitexplorer.com/
 - https://projectr.io/
 

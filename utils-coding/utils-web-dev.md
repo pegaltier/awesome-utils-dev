@@ -73,6 +73,11 @@
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 
 ## TOOLS
+
+- https://dsgn.link
+- https://roadmap.sh
+- https://debuild.co
+- https://free-for.dev
 - https://webcode.tools
 - https://fontofweb.com
 - https://deviceshots.com
@@ -86,8 +91,6 @@
 - http://jsoneditoronline.org
 - https://bundlers.tooling.report
 - http://www.perf-tooling.today
-- https://free-for.dev
-- https://debuild.co
 
 ## AWESOME
 
@@ -326,13 +329,16 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 ## IOT
 - https://webofthings.org/standards/
 
-## LIB
+## STARTER: WEB
 
+- https://github.com/cbracco/html5-test-page
+- https://github.com/jamesgeorge007/scaffold-static
+
+## STARTER: SSG
 - https://github.com/google/eleventy-high-performance-blog
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
 - https://github.com/11ty/eleventy-base-blog
 - https://github.com/deviousdodo/elevenpack
-- https://github.com/cbracco/html5-test-page
 
 ## EMAIL
 

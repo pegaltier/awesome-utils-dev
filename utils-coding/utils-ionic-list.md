@@ -19,6 +19,9 @@
 - https://github.com/fivethree-team/ionic-4-components
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/ionic-team/ionic-training-decks
+- https://github.com/brandonroberts/ionic-http-plugin-examples
+- https://enappd.com/blog/firebase-with-ionic-4-overview/8/
+- https://store.enappd.com/product/ionic-full-app/
 
 ## PWA
 https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/
