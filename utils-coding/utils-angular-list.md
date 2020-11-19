@@ -657,6 +657,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/Teebo/scss-migrate
 - https://github.com/ngxs/schematics
 - https://github.com/ngneat/tailwind
+- https://github.com/bennymeg/nx-electron
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/d-koppenhagen/schematics-helpers-playground
 - https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
@@ -1108,6 +1109,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nx-go/nx-go
 - https://github.com/kachkaev/njt
 - https://github.com/flowaccount/nx-plugins
+- https://github.com/bennymeg/nx-electron
 - https://github.com/DominikPieper/nx-extensions
 - https://github.com/MansaGroup/nrwl-nx-action
 - https://github.com/devinshoemaker/nxtend
