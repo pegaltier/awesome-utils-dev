@@ -152,9 +152,11 @@
 
 ### Extensions
 
-- [Chrome Capture](https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe)
+- [Screenity Video Recording](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 
-- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [Chrome Image Capture](https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe)
+
+- [Break Timer](https://chrome.google.com/webstore/detail/break-timer/hklkdbpicdmlpoiellngedpejjkmapei?hl=en)
 
 - [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en)
 

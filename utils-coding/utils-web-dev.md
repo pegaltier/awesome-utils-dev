@@ -110,7 +110,7 @@
 - https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha
 - https://chrome.google.com/webstore/detail/z-context/jigamimbjojkdgnlldajknogfgncplbh
 - https://chrome.google.com/webstore/detail/spantree-gitlab-tree/gcjikeldobhnaglcoaejmdlmbienoocg
-
+- https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
 ## DEBUG
 https://css-tricks.com/debugging-tips-tricks
 https://www.youtube.com/watch?v=xkzDaKwinA8 14 Must Know Chrome Dev Tools Tricks (chrome debug tools )
