@@ -1412,6 +1412,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cartant/rxjs-xyz
 - https://github.com/cartant/rxjs-etc
 - https://github.com/cartant/rxjs-spy
+- https://github.com/rxjs-debug/rxjs-debug
 - https://github.com/cartant/rxjs-interop
 - https://github.com/kwonoj/rx-sandbox
 - https://github.com/kosich/rxjs-proxify

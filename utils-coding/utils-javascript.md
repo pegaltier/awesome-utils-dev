@@ -153,6 +153,7 @@
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
 - https://github.com/mgechev/injection-js
+- https://github.com/staltz/promisify-4loc
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
 - https://github.com/ramda/ramda

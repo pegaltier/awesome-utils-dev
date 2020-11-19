@@ -3,6 +3,7 @@
 ## TOOLS
 
 - https://graphql.org/
+- https://hasura.io/
 - https://www.graph.cool/
 - https://www.graphqleditor.com/
 - https://graphql-code-generator.com/
