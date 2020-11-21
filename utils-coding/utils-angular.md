@@ -77,48 +77,6 @@ git subtree push --prefix dist/ origin gh-pages
 - https://www.amadousall.com/my-favourite-angular-cli-commands-and-options/
 - https://github.com/angular/angular-cli#proxy-to-backend
 
-## UPGRADE
-
-### CLEAN NODE_MODULES
-
-```
-rmdir /s /q node_modules (windows)
-rm -r -f node_modules (linux)
-```
-
-### UPGRADE CLI VERSION
-
-- https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli
-- https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
-
-```
-npm uninstall -g angular-cli
-npm cache clean
-npm install -g @angular/cli
-```
-
-### UPGRADE NG VERSION
-
-```
-npm outdated # Check for out of date modules
-ng update @angular/core @angular/cli # Update Angular
-ng update --all --force # Update all Angular and force
-npm update # Update non-Angular dependencies
-```
-
-- https://update.angular.io
-- https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
-- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4 <<< OFFICIAL
-- https://www.techiediaries.com/updating-angular-cli-projects/
-- https://appdividend.com/2018/10/20/how-to-update-angular-cli-to-version-7/
-- https://blog.angularindepth.com/angular-5-or-angular-6-yes-please-d71b08b5e59b
-- https://stackoverflow.com/questions/43931986/how-to-upgrade-angular-cli-to-the-latest-version
-- https://medium.com/@timdeschryver/ng-update-the-setup-2d2c54d05a0e (update libs)
-- http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html
-- http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
-- http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
-- http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
-
 ### AUTO UPDATE
 
 ```
@@ -147,6 +105,122 @@ ng build --target=production --base-href '/enterprise/'
 - ajouter un fichier css ou lib js :
 - installer via npm --save
 - ajouter dans angular-cli.json > balises styles + scripts
+
+
+## UPGRADE
+
+### CLEAN NODE_MODULES
+
+```
+rmdir /s /q node_modules (windows)
+rm -r -f node_modules (linux)
+```
+
+### UPGRADE CLI VERSION
+
+- https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli
+- https://github.com/angular/angular-cli/wiki/Upgrading-from-Beta.10-to-Beta.14
+
+```
+npm uninstall -g angular-cli
+npm cache clean
+npm install -g @angular/cli
+```
+
+### UPGRADE NG VERSION
+
+```
+npm outdated # Check for out of date modules
+ng update @angular/core @angular/cli # Update Angular
+ng update --all --force # Update all Angular and force
+npm update # Update non-Angular dependencies
+nx migrate @nrwl/workspace@x.x.x # Update with NX Workspace
+```
+
+- https://update.angular.io
+- https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
+- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4 <<< OFFICIAL
+- https://www.techiediaries.com/updating-angular-cli-projects/
+- https://appdividend.com/2018/10/20/how-to-update-angular-cli-to-version-7/
+- https://blog.angularindepth.com/angular-5-or-angular-6-yes-please-d71b08b5e59b
+- https://stackoverflow.com/questions/43931986/how-to-upgrade-angular-cli-to-the-latest-version
+- https://medium.com/@timdeschryver/ng-update-the-setup-2d2c54d05a0e (update libs)
+- http://angularjs.blogspot.fr/2017/03/angular-400-now-available.html
+- http://stackoverflow.com/questions/36597780/how-do-i-correctly-upgrade-angular-2-npm-to-the-latest-version
+- http://stackoverflow.com/questions/41274341/upgrading-from-angular-2-2-3-to-2-4-0
+- http://stackoverflow.com/questions/186737/whats-the-fastest-way-to-delete-a-large-folder-in-windows
+
+
+## MONOREPO
+
+### INSTALL
+
+```
+nvm install 12.16.1 # install the latest npm using nvm
+npm install -g @nrwl/cli # install the latest nrwl cli using npm
+node -v # check that the good version of node is selected
+npx create-nx-workspace@latest my-project # init the repo
+```
+
+### ADD ANGULAR
+
+```
+npm install --save-dev @nrwl/angular # add angular capability
+nx g @nrwl/angular:app my-project/my-app # or just ng g myapp
+nx update @angular/core # or ng update @angular/core
+nx migrate @nrwl/workspace@x.x.x # better to use migrate instead of update
+```
+
+### ADD SCULLY
+
+```
+nx add @scullyio/init # todo run inside the project path
+nx add @scully/init:install -- --project=<projectName> # or run from root
+ng generate @scullyio/init:blog # create a blog module with scully
+```
+
+### START
+```
+nvm use v12.16.1 # select the good version of node
+nx serve my-project-my-app # start the new project
+```
+
+### BUILD&SERVE
+
+```
+npm run build # Angular build
+npm run scully -- --scanRoutes # generate static build and force checking new routes
+npm run scully:serve -- --scanRoutes # serve static build and force checking new routes
+npm run scully serve # serve the scully results
+```
+
+### BUILD&SERVE (+WATCH)
+
+```
+ng build --watch
+npm run scully -- --watch
+```
+
+### RESOURCES
+
+- https://nx.dev/angular/getting-started/getting-started
+- https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console
+- https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
+- https://github.com/Bielik20/nx-mean-starter/commit/aacbfa66dbd6465a0e0087fe6dcccd1b805619c3
+- https://medium.com/@gregor.woiwode/how-to-setup-jest-in-an-ionic-4-project-ff1e5b72dd79
+
+### REUSABLE LIB
+
+- In the specific app: develop components that will be injected with this.router.resetConfig
+- In the same generic lib: use the ng-content to integrate visual components
+- In the same generic lib: create a specific module + routing (in app or lib) 
+- In a new specific lib: import the generic lib and add the specific behavior
+
+##### To try
+- Create a factory for routing and switching components
+- Create an injection token and pass specific components/routing through it
+- Use a third parties lib to dynamically instantiate components
+
 
 ## HTTP POST PARAMS
 
@@ -439,76 +513,6 @@ my-comp.bu.spec.ts
 - https://github.com/ngx-translate/example/blob/master/src/app/app.component.spec.ts
 
 test end to end (voir ninja angular page 157)
-
-## MONOREPO
-
-### INSTALL
-
-```
-nvm install 12.16.1 # install the latest npm using nvm
-npm install -g @nrwl/cli # install the latest nrwl cli using npm
-node -v # check that the good version of node is selected
-npx create-nx-workspace@latest my-project # init the repo
-```
-
-### ADD ANGULAR
-
-```
-npm install --save-dev @nrwl/angular # add angular capability
-nx g @nrwl/angular:app my-project/my-app # or just ng g myapp
-nx update @angular/core # or ng update @angular/core
-nx migrate # better to use migrate instead of update
-```
-
-### ADD SCULLY
-
-```
-nx add @scullyio/init # todo run inside the project path
-nx add @scully/init:install -- --project=<projectName> # or run from root
-ng generate @scullyio/init:blog # create a blog module with scully
-```
-
-### START
-```
-nvm use v12.16.1 # select the good version of node
-nx serve my-project-my-app # start the new project
-```
-
-### BUILD&SERVE
-
-```
-npm run build # Angular build
-npm run scully -- --scanRoutes # generate static build and force checking new routes
-npm run scully:serve -- --scanRoutes # serve static build and force checking new routes
-npm run scully serve # serve the scully results
-```
-
-### BUILD&SERVE (+WATCH)
-
-```
-ng build --watch
-npm run scully -- --watch
-```
-
-### RESOURCES
-
-- https://nx.dev/angular/getting-started/getting-started
-- https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console
-- https://medium.com/mean-fire/nx-nrwl-ionic-1baf3a43db74
-- https://github.com/Bielik20/nx-mean-starter/commit/aacbfa66dbd6465a0e0087fe6dcccd1b805619c3
-- https://medium.com/@gregor.woiwode/how-to-setup-jest-in-an-ionic-4-project-ff1e5b72dd79
-
-### REUSABLE LIB
-
-- In the specific app: develop components that will be injected with this.router.resetConfig
-- In the same generic lib: use the ng-content to integrate visual components
-- In the same generic lib: create a specific module + routing (in app or lib) 
-- In a new specific lib: import the generic lib and add the specific behavior
-
-##### To try
-- Create a factory for routing and switching components
-- Create an injection token and pass specific components/routing through it
-- Use a third parties lib to dynamically instantiate components
 
 ## MODULES
 
