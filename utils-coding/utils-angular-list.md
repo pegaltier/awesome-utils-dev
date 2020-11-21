@@ -620,6 +620,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://github.com/nirkaufman/starter-angular/blob/master/ref/ref.md
 - https://indepth.dev/supercharge-event-management-in-your-angular-application/
 - https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/
 - https://medium.com/angular-in-depth/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb

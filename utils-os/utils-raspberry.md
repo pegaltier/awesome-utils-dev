@@ -128,3 +128,5 @@ http://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20
 ## Arduino
 - https://store.arduino.cc/genuino-starter-kit
 - https://github.com/rwaldron/johnny-five
+- https://github.com/ngfelixl/ngrc-platform
+- https://github.com/RetroPie/RetroPie-Setup/

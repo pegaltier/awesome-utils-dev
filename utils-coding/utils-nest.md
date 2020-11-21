@@ -4,6 +4,7 @@
 
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
+- https://github.com/nestjs/throttler
 - https://github.com/nestjs/ng-universal
 - https://github.com/nestjs/event-emitter
 - https://github.com/iamolegga/nestjs-pino
