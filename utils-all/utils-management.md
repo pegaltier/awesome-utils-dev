@@ -2,7 +2,9 @@
 
 <h2>TOOLS</h2>
 - https://www.odoo.com
+- https://clickup.com/
 - https://www.dolibarr.org/
+- https://www.atlassian.com/software/jira
 
 <h2>AGILE</h2>
 - https://guide-agile.wishtack.io/

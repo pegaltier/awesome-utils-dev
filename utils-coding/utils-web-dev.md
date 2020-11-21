@@ -111,6 +111,10 @@
 - https://chrome.google.com/webstore/detail/z-context/jigamimbjojkdgnlldajknogfgncplbh
 - https://chrome.google.com/webstore/detail/spantree-gitlab-tree/gcjikeldobhnaglcoaejmdlmbienoocg
 - https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+- https://chrome.google.com/webstore/detail/css-spider/eneakgbflmejjpkogbdmebjbfcdebjik
+- https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
+
+
 ## DEBUG
 https://css-tricks.com/debugging-tips-tricks
 https://www.youtube.com/watch?v=xkzDaKwinA8 14 Must Know Chrome Dev Tools Tricks (chrome debug tools )
@@ -257,7 +261,6 @@ example : http://www.hongkiat.com/blog/svg-animations/
 inner html : https://thenewcode.com/1151/Understanding-the-SVG-viewBox
 inner html : http://fvsch.com/code/svg-icons/how-to/  
 parallax image : http://www.sitepoint.com/parallax-burns-converting-photographs-2d-3d-svg/  
-animate svg : https://maxwellito.github.io/vivus/  
 animate svg : https://www.oreilly.com/learning/introduction-to-svg-animation
 animate svg : https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js
 animate svg : https://medium.com/bitmatica-lab/svg-line-animation-for-the-uninitiated-5a65d91c6044#.ydo9a7u1l
@@ -345,6 +348,16 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 - https://codedmails.com/
 - https://github.com/tomayac/dark-mode-email
+
+## CREATIVE
+
+- https://www.aristidebenoist.com/
+- https://tympanus.net/Development/InlineMenuLayout/
+- https://github.com/codrops/InlineMenuLayout/
+- https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
+- https://github.com/crnacura/AmbientCanvasBackgrounds
+- https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
+- https://github.com/brunoimbrizi/interactive-particles
 
 ## TIPS
 

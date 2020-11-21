@@ -659,6 +659,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/ngxs/schematics
 - https://github.com/ngneat/tailwind
 - https://github.com/bennymeg/nx-electron
+- https://github.com/angular-architects/nx-ddd-plugin
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/d-koppenhagen/schematics-helpers-playground
 - https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
@@ -1319,6 +1320,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/cartant/eslint-plugin-rxjs-angular
+- https://github.com/sindresorhus/eslint-plugin-unicorn
 - https://github.com/typescript-eslint/typescript-eslint
 - https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/cyrilletuzi/typescript-strictly-typed
@@ -1371,6 +1373,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ytilis/ngx-batch-requests
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/alexzuza/angular-refresh-token
+- https://github.com/kamilkisiela/apollo-angular
 
 ## ECOSYSTEM: LIB: UTIL
 
@@ -1489,7 +1492,12 @@ Learn the best way to make your objects immutable.
 - https://github.com/cypress-io/cypress-realworld-app
 - https://github.com/gothinkster/angular-realworld-example-app
 - https://github.com/CypressCecelia/cypress-testing-angular-workshop
+- https://github.com/ceceliacreates/ionic-cypress
+- https://github.com/cypress-io/cypress-example-recipes
+- https://cypress.slides.com/amirrustam/patterns-practices
+- https://cypress.slides.com/cecelia/testing-angular-applications-with-cypress#/1
 - https://webdave.de/blog/cypress
+- https://www.youtube.com/watch?v=V-o8WzlwKmM Cypress Patterns and Practices
 - https://www.youtube.com/watch?v=UHgtUSAROtc Comparing Testing Tools
 - https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
 - https://medium.com/@charith.rhettiarachchi/why-use-jest-over-karma-for-angular-testing-b56ffa82f8
@@ -1550,12 +1558,14 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
+- https://github.com/verizonconnect/ngx-panels
 - https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/oferh/ng2-completer
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
+- https://github.com/cipchk/ngx-filesaver
 - https://github.com/mgechev/ngx-circular-player
 - https://github.com/angular-material-extensions
 - https://github.com/Gbuomprisco/ngx-chips
@@ -1814,6 +1824,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/mauriciovigolo/keycloak-angular
 - https://github.com/angular/angularfire
 - https://github.com/auth0/angular2-jwt
+- https://github.com/auth0/auth0-angular
 
 ## ECOSYSTEM: LIB: PAYMENT
 
@@ -1860,6 +1871,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES
 
+- https://next.angular.io/guide/example-apps-list
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/bbaia/gdgtoulouse-ngrx
@@ -1983,7 +1995,6 @@ Find here plugins for different browser.
 
 - https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 - https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
-- https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 - https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
 - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 
@@ -2014,6 +2025,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## ECOSYSTEM: VSCODE BEST
 
+- https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
@@ -2038,6 +2050,8 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
 - https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
 - https://marketplace.visualstudio.com/items?itemName=bilelmsekni.componizer
+- https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
+- https://marketplace.visualstudio.com/items?itemName=folke.vscode-monorepo-workspace
 - http://brianflove.com/2017/04/11/angular-language-service/
 - https://github.com/angular/vscode-ng-language-service
 - https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
@@ -2093,6 +2107,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://ng-book.com/2
 - https://angulararchitecture.com/
 - https://books.ninja-squad.com/angular2
+- https://gumroad.com/l/angular-universal/
 - https://leanpub.com/angular2-book
 - https://angular.institute
 - https://www.packtpub.com/web-development/switching-angular-2/
@@ -2143,6 +2158,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## EVOLUTION
 
 - http://g.co/ng/weekly-notes
+
+### ANGULAR11
+
+- https://indepth.dev/angular-11-towards-type-safety
 
 ### ANGULAR10
 

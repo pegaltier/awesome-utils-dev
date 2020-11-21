@@ -77,7 +77,6 @@
 - http://nos.twnsnd.co/
 - http://superfamous.com/
 - http://picjumbo.com/
-- http://thepatternlibrary.com/
 - http://www.gratisography.com/
 - http://getrefe.tumblr.com/
 - http://imcreator.com/free
@@ -97,9 +96,12 @@
 
 ## PATTERN
 
+- https://patterncollect.com/
+- https://notchris.net/patterns/
 - https://pattern.monster/
 - https://patternico.com/
 - https://www.novapattern.com
+- http://thepatternlibrary.com/
 - http://www.lisbonazulejos.com/
 - http://www.patternhead.com
 - http://bgrepeat.com
@@ -244,6 +246,7 @@
 
 ## SVG
 - https://github.com/dai-shi/excalidraw-animate
+- https://yqnn.github.io/svg-path-editorw
 - https://github.com/maxwellito/vivus
 - https://undraw.co/illustrations
 - https://www.svgator.com
