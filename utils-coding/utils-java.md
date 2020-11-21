@@ -38,6 +38,7 @@
 
 ## NEWS
 - https://java.libhunt.com/newsletter/186
+- https://advancedweb.hu/new-language-features-since-java-8-to-15/
 
 ## DI
 - https://github.com/google/dagger

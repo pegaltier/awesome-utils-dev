@@ -56,6 +56,7 @@
 - https://watchandcode.com/p/practical-javascript
 - https://learn.co/courses/introduction-to-javascript
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#
+- https://dev.to/rahxuls/the-ultimate-and-free-javascript-resources-278i
 
 ## GUIDE-OPEN
 
