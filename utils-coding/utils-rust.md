@@ -16,6 +16,7 @@
 - https://github.com/mit-pdos/noria
 - https://github.com/riker-rs/riker
 - https://github.com/actix/actix
+- https://github.com/0x20F/paris
 
 ## VARIOUS
 
