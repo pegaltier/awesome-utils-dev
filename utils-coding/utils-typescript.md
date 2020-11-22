@@ -14,7 +14,8 @@
 
 ## TOOLS
 
-- http://json2ts.com/
+- http://json2ts.com
+- https://ts-ast-viewer.com
 
 ## USEFUL
 
@@ -51,6 +52,7 @@
 - https://github.com/airbnb/ts-migrate
 - https://github.com/SamVerschueren/tsd
 - https://github.com/runem/ts-simple-type
+- https://github.com/dsherret/ts-ast-viewer
 - https://github.com/piotrwitek/utility-types
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/kreuzerk/import-conductor
