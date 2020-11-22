@@ -1199,6 +1199,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/maximegris/angular-electron
 - https://github.com/jhipster/generator-jhipster
 - https://github.com/ngx-rocket/generator-ngx-rocket
+- https://github.com/just-jeb/electron-angular-native
 - https://github.com/DanWahlin/Angular-JumpStart
 - https://github.com/DanWahlin/angular-architecture
 - https://github.com/NathanWalker/angular2-seed-advanced

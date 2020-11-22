@@ -23,6 +23,7 @@
 - https://enappd.com/blog/firebase-with-ionic-4-overview/8/
 - https://store.enappd.com/product/ionic-full-app/
 - https://github.com/brandonroberts/ionic-http-plugin-examples
+- https://github.com/javebratt/ionic-angular-firebase-authentication-starter
 
 ## LIBS
 - https://github.com/hsuanxyz/ion2-calendar
