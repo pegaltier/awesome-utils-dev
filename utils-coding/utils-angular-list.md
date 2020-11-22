@@ -1111,6 +1111,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/nx-go/nx-go
 - https://github.com/kachkaev/njt
+- https://github.com/NativeScript/nx
 - https://github.com/flowaccount/nx-plugins
 - https://github.com/bennymeg/nx-electron
 - https://github.com/DominikPieper/nx-extensions
