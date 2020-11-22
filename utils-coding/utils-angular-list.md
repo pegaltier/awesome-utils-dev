@@ -206,6 +206,7 @@ Learn about the most useful design patterns in Angular.
 - https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
 - https://dev.to/humberd/context-menu-actions-at-scale-command-pattern-in-a-real-life-scenario-9o0
 - https://github.com/Humberd/command-pattern-in-angular
+- https://github.com/nirkaufman/patterns-starters
 
 ## HELPER: CHEAT-SHEETS
 
@@ -1379,6 +1380,7 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
+- https://github.com/Nolanus/ngx-page-scroll
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/ThomasBurleson/mindspace-utils

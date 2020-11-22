@@ -7,6 +7,7 @@
 - https://snippet-generator.app
 - https://code.visualstudio.com
 - https://vscodecandothat.com
+- https://devfonts.gafi.dev
 - https://vscodethemes.com
 
 ## EXTENSIONS: LIST
