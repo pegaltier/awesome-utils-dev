@@ -1212,6 +1212,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/pkozlowski-opensource/ng2-play
 - https://github.com/ocombe/ng2-play/tree/ng2-translate
 - https://github.com/ocombe/angular2-seed/tree/ng2-translate
+- https://github.com/angular-cms/angular-cms
 - https://github.com/pregular
 
 ## ECOSYSTEM: JAMSTACK
@@ -1378,6 +1379,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/kamilkisiela/apollo-angular
+- https://github.com/flowup/api-client-generator
 
 ## ECOSYSTEM: LIB: UTIL
 
@@ -1386,6 +1388,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Nolanus/ngx-page-scroll
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
+- https://github.com/brtnshrdr/angular2-hotkeys
 - https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/typebytes/ngx-template-streams
 - https://github.com/zhaosiyang/property-watch-decorator
@@ -1486,6 +1489,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
 - https://github.com/nas5w/combinate
+- https://github.com/ComponentDriven/csf
 - https://github.com/microsoft/playwright-test
 - https://github.com/deanius/storybook-animate
 - https://github.com/smeijer/testing-playground
@@ -1566,6 +1570,7 @@ Analyze and optimize the performance of your app
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/KensingtonTech/ng2-panzoom
+- https://github.com/wittlock/ngx-image-zoom
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/oferh/ng2-completer
 - https://github.com/akserg/ng2-toasty
