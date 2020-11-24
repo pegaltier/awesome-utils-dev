@@ -852,6 +852,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/@TammyTorres/e2e-testing-on-angular-app-with-protractor-tips-included-f3d5f65a8816
 - https://dev.to/francisca80s/automation-e2e-testing-in-angular-with-protractor-72d
 - https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor
+- https://medium.com/@lukas.klement/implementing-code-coverage-with-angular-and-cypress-6ed08ed7e617
 
 ## CORE: MIGRATION
 
