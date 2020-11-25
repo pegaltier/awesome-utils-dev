@@ -12,6 +12,7 @@
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/zudochkin/awesome-newsletters
 - https://github.com/orsinium/generated-awesomeness
+- https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development
 
 ## AWESOME LIST WWW
