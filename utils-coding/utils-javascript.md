@@ -240,7 +240,7 @@
 - https://github.com/ebradyjobory/finance.js
 - https://github.com/dcousens/haversine-distance
 
-## LIB: DATA TRANSFORMATION
+## LIB: DATA OBJECT
 - https://github.com/Leonidas-from-XIV/node-xml2js
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json

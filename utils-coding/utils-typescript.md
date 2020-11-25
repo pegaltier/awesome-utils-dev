@@ -5,6 +5,7 @@
 
 - https://sulco.stackblitz.io/
 - https://github.com/intocare/style-guide
+- https://github.com/sindresorhus/type-fest
 - https://github.com/basarat/typescript-book
 - https://github.com/microsoft/TypeScript-Handbook
 - https://github.com/type-challenges/type-challenges
@@ -77,13 +78,15 @@
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/gcanti/fp-ts
 
-## LIB: DATA TRANSFORMATION
+## LIB: DATA OBJECT
 - https://github.com/gcanti/io-ts
 - https://github.com/mu-io/ts-japi
 - https://github.com/gcanti/monocle-ts
+- https://github.com/maleet/marshal.ts
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
 - https://github.com/Rich-Harris/object-cull
+- https://github.com/woutervh-/typescript-is
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/typestack/class-validator
 - https://github.com/typestack/class-transformer
