@@ -1101,6 +1101,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://www.twitch.tv/videos/636354209 NX plugin example: NX Ionic React
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
+- https://github.com/microsoft/rushstack
 - https://nstudio.io/xplat
 - https://bit.dev
 - https://nxplaybook.com/
@@ -1484,26 +1485,27 @@ Learn the best way to make your objects immutable.
 - https://github.com/Netflix/pollyjs
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
-- https://github.com/NoriSte/cypress-wait-until
-- https://github.com/cypress-io/cypress-xpath
-- https://github.com/briebug/cypress-schematic
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
 - https://github.com/nas5w/combinate
 - https://github.com/ComponentDriven/csf
+- https://github.com/cypress-io/cypress-xpath
+- https://github.com/briebug/cypress-schematic
 - https://github.com/microsoft/playwright-test
 - https://github.com/deanius/storybook-animate
+- https://github.com/NoriSte/cypress-wait-until
 - https://github.com/smeijer/testing-playground
 - https://github.com/socreate/angular-playground
+- https://github.com/ceceliacreates/ionic-cypress
+- https://github.com/gkushang/cucumber-html-reporter
+- https://github.com/cypress-io/cypress-realworld-app
+- https://github.com/cypress-io/cypress-example-recipes
 - https://github.com/maximilianschmitt/cypress-routines
 - https://github.com/bahmutov/cypress-angular-unit-test
-- https://github.com/gkushang/cucumber-html-reporter
-- https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
-- https://github.com/cypress-io/cypress-realworld-app
 - https://github.com/gothinkster/angular-realworld-example-app
+- https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
+- https://github.com/Flaxline/angular-nx-cypress-coverage-example
 - https://github.com/CypressCecelia/cypress-testing-angular-workshop
-- https://github.com/ceceliacreates/ionic-cypress
-- https://github.com/cypress-io/cypress-example-recipes
 - https://cypress.slides.com/amirrustam/patterns-practices
 - https://cypress.slides.com/cecelia/testing-angular-applications-with-cypress#/1
 - https://webdave.de/blog/cypress
@@ -1568,8 +1570,9 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
-- https://github.com/verizonconnect/ngx-panels
 - https://github.com/milantenk/ngx-interactive-paycard
+- https://github.com/dig-platform/ngx-stackblitz
+- https://github.com/verizonconnect/ngx-panels
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/wittlock/ngx-image-zoom
 - https://github.com/ng2-ui/auto-complete

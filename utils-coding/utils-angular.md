@@ -47,7 +47,17 @@
 - '#' pour la déclaration de variable
 - '\*' pour les directives structurelles (for/if...)
 
+Template binding works with properties and events of DOM elements, components, and directives, not HTML, not attributes. When you write a data-binding, you're dealing exclusively with the DOM properties and events of the target object.
+
+- Attributes (are defined by HTML) initialize DOM properties and directive state and then they are done. 
+- Property (are accessed from DOM nodes) values can change; attribute values can't.
+- A few HTML attributes have 1:1 mapping to properties; for example, id. Some HTML attributes don't have corresponding properties; for example, aria-*. 
+
+There is one exception to this rule. Attributes can be changed by setAttribute(), which re-initializes corresponding DOM properties.
+
+- https://angular.io/guide/binding-syntax
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
+
 
 ## CSS
 
@@ -333,7 +343,7 @@ ngTemplate
 <h2>Welcome {{user?.name}}</h2> 
  
 ngIf 
-<div *ngIf="races.length > 0"><h2>Races</h2></div> 
+<div *ngIf="races.length > 0"><h2>Races</h2></div>  So, it’s important to understand that the Angular ngIf directive actually creates and destroys DOM elements. T
  
 ngFor 
 <ul> <li *ngFor="let race of races; let i=index">{{i}} - {{race.name}}</li> </ul> 
@@ -444,7 +454,16 @@ export class App implements OnInit, AfterViewInit, AfterContentInit {
 }
 ```
 
+## API
+
+ViewChild and ContentChild are two very important features of Angular. It is used to access Child Component in the Parent Component.
+
+Any directive, component, and element which is part of component template is accessed as ViewChild. Whereas, any element or component which is projected inside is accessed as ContentChild for instance when using ng-content. In case if you project a list of components using ngFor you can still access the ContentChild using the type QueryList. You can then access it in the ngAfterContentInit hook.
+
+
 ## ANGULAR DOM
+
+Angular Suggests to use its own Renderer2 API instead of Native DOM Manipulations because it will make your app compatible with different rendering method such as Server Side Rendering (Angular Universal). In addition to that it's for a security question.
 
 - https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
 
@@ -453,6 +472,11 @@ private \_renderer2:Renderer2
 avoidAngularBugs(){
 this.\_renderer2.setElementProperty(this.\_elementRef,'add-property-here',true);
 }
+
+## FORM
+
+- Template-driven (FormsModule) most of the logic is driven from the template
+- Reactive-driven (ReactiveFormsModule)  the logic resides mainly in the component or typescript code. 
 
 ## ANGULAR TESTING
 
@@ -466,6 +490,10 @@ Cypress is very efficient tools for e2e. At the beginning to see how it goes you
 - Karma is slower because is testing using a real browser so the unit test are certainly working as expected in a real browser.
 
 In the context of a large application with a lot of tests we need a quick tool so Jest seem adapted, the html rendering will then be tested with e2e tests.
+
+In unit test there are different way of simulating a function or an object : Spy, Mock... The difference is that in mock, you are creating a complete mock or fake object while in spy, there is the real object and you just spying or stubbing specific methods of it. While in spy objects, of course, since it is a real method, when you are not stubbing the method, then it will call the real method behavior. When stubbing you can create a dynamic responsive and return a different response depending on the call.
+
+A stub is also a dummy class providing some more specific, prepared or pre-recorded, replayed results to certain requests under test. ... A spy is kind of a hybrid between real object and stub, i.e. it is basically the real object with some (not all) methods shadowed by stub methods
 
 ### STRATEGY
 

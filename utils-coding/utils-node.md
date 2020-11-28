@@ -16,6 +16,7 @@
 
 ## LIST
 - https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
+- https://github.com/parro-it/awesome-micro-npm-packages
 
 ## UTILS
 
@@ -33,6 +34,7 @@
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/vercel/ncc
 - https://github.com/sezna/nps
+- https://github.com/lirantal/npq
 
 ## MONITORING
 

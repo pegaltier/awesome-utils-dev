@@ -181,11 +181,13 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/file-storage-module
 - https://github.com/holochain-open-dev/module-template
 - https://github.com/holochain-open-dev/profiles-module
+- https://github.com/holochain-open-dev/common
 - https://github.com/guillemcordoba/membrane-roles-module
 - https://github.com/holochain/holochain-dna-build-tutorial
 - https://github.com/holochain-gym/developer-exercises
 - https://github.com/holochain/elemental-chat
 - https://github.com/nphias/transactor
+- https://github.com/Sprillow/cmdchatter
 
 ### HOLOCHAIN TOOLS GITHUB
 

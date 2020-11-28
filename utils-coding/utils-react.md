@@ -65,13 +65,16 @@
 - https://github.com/mfrachet/rn-placeholder
 - https://github.com/eclipsesource/jsonforms
 - https://github.com/pmndrs/react-use-gesture
+- https://github.com/kettanaito/atomic-layout
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/sylvaindubus/react-prismazoom
+- https://github.com/kettanaito/react-advanced-form
 - https://github.com/aaronhayes/react-use-hubspot-form
 
 ## LIB: UI
 
+- https://github.com/styled-components/styled-components
 - https://github.com/react-bootstrap/react-bootstrap
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/ant-design/ant-design

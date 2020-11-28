@@ -231,6 +231,7 @@
 - https://github.com/graphery/graphery
 - https://github.com/aeroheim/midori
 - https://github.com/markedjs/marked
+- https://github.com/varkor/quiver
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js

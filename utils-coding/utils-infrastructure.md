@@ -14,9 +14,9 @@
 ## TOOLS OSS
 - https://github.com/Qovery/engine
 - https://github.com/loadimpact/k6
+- https://github.com/kruize/kruize
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
-
 ## VIM
 
 - https://www.fprintf.net/vimCheatSheet.html

@@ -26,6 +26,7 @@ if/switch -> polymorphisme
 
 ## CHECK
 - https://github.com/returntocorp/semgrep
+- https://github.com/kettanaito/naming-cheatsheet
 
 ## PHP
 - https://github.com/railto/realworld-slim
