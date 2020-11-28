@@ -8,6 +8,9 @@
 
 ## Desktop
 
+
+- [Zettlr](https://www.zettlr.com/) - Markdown editor
+
 - [Flux](https://justgetflux.com/) - Adapt screen color depending on the luminosity
 
 - [Screentogif](https://www.screentogif.com/) - Screen, webcam and drawing recorder with integrated editor.
