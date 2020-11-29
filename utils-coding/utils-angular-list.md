@@ -1101,6 +1101,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://www.twitch.tv/videos/636354209 NX plugin example: NX Ionic React
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
+- https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/microsoft/rushstack
 - https://nstudio.io/xplat
 - https://bit.dev
@@ -1895,6 +1896,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/thenaim/ionic-tk-social-network
+- https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/StephenFluin/angular-update-guide
 - https://github.com/DavideViolante/Angular-Full-Stack
 - https://github.com/vagnersabadi/awesome-components-ionic

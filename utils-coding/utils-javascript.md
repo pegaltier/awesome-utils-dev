@@ -154,6 +154,7 @@
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
 - https://github.com/mgechev/injection-js
+- https://github.com/inversify/InversifyJS
 - https://github.com/staltz/promisify-4loc
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
@@ -250,6 +251,7 @@
 - https://github.com/bpampuch/pdfmake
 - https://github.com/Hopding/pdf-lib
 - https://github.com/pdffillerjs/pdffiller
+- https://github.com/simonhaenisch/md-to-pdf
 
 ## LIB: AUTOMATION
 - https://github.com/checkly/theheadless.dev
@@ -356,6 +358,21 @@ let greeting = {
     }
 };
 ```
+### SCOPE
+
+Scope determines the accessibility (visibility) of variables.
+- Local scope: Variables declared within a JavaScript function, become LOCAL to the function. They can only be accessed from within the function. They are deleted when the function is completed. Variables declared with var and let are quite similar when declared inside a function. They will both have Function Scope.
+- Global scope: A variable declared outside a function, becomes GLOBAL. A global variable has global scope: All scripts and functions on a web page can access it.  Variables declared with var and let are quite similar when declared outside a block. They will both have Global Scope. In a web browser, global variables are deleted when you close the browser window (or tab).
+- Block scope: Variables declared with let inside a block {} cannot be accessed from outside the block.
+
+With JavaScript, the global scope is the complete JavaScript environment.
+In HTML, the global scope is the window object. All global variables belong to the window object. 
+
+### HOISTING
+
+All declarations, both functions and variables, are hoisted to the top of the containing scope, before any part of your code is executed.
+- Functions are hoisted first, and then variables.
+- Function declarations have priority over variable declarations, but not over variable assignments.
 
 ### MORE
 
