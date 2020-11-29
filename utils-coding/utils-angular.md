@@ -21,8 +21,8 @@
     - [BUILD&SERVE](#buildserve)
     - [BUILD&SERVE (+WATCH)](#buildserve-watch)
     - [RESOURCES](#resources)
+    - [STRUCTURE](#structure)
     - [REUSABLE LIB](#reusable-lib)
-        - [To try](#to-try)
   - [HTTP POST PARAMS](#http-post-params)
   - [REDUX / NGRX](#redux--ngrx)
     - [Summary](#summary)
@@ -399,7 +399,7 @@ ngTemplate
 Welcome {{user?.name}} 
  
 ngIf 
-<div *ngIf="races.length > 0"><h2>Races</h2></div>  So, it’s important to understand that the Angular ngIf directive actually creates and destroys DOM elements. T
+<div *ngIf="races.length > 0">Races</div>  So, it’s important to understand that the Angular ngIf directive actually creates and destroys DOM elements. T
  
 ngFor 
 <ul> <li *ngFor="let race of races; let i=index">{{i}} - {{race.name}}</li> </ul> 
