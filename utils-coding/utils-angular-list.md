@@ -1887,19 +1887,21 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES
 
-- https://next.angular.io/guide/example-apps-list
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/bbaia/gdgtoulouse-ngrx
+- https://angular.io/guide/example-apps-list
 - https://github.com/retarsis/angular-warehouse
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/thenaim/ionic-tk-social-network
+- https://github.com/DenysVuika/medium-angular-docker
 - https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/StephenFluin/angular-update-guide
 - https://github.com/DavideViolante/Angular-Full-Stack
+- https://github.com/DenysVuika/developing-with-angular
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
