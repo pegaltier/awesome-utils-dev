@@ -81,19 +81,21 @@
 
 - https://github.com/harryheman/Modern-HTML-Starter-Template
 
-## TOOLS
+## TOOLS: LIST
 
 - https://dsgn.link
+- https://free-for.dev
+
+## TOOLS: CODE
+
 - https://roadmap.sh
 - https://debuild.co
 - https://staticbox.io
-- https://free-for.dev
 - https://webcode.tools
-- https://fontofweb.com
-- https://deviceshots.com
 - https://validator.w3.org
 - https://responsively.app
 - https://tiny-helpers.dev
+- https://grid.layoutit.com
 - http://jsoneditoronline.org
 - http://www.perf-tooling.today
 - https://cssspider.fresalabs.com
@@ -104,6 +106,20 @@
 - https://html-to-svg.as-a-service.dev
 - https://codepen.io/stoumann/full/abZxoOM
 
+## TOOLS: IMAGE
+
+- https://www.jpeg.io
+- https://tinypng.com
+- https://images.weserv.nl
+
+## TOOLS: DESIGN
+- https://colors.lol
+- http://cssicon.space
+- https://fontofweb.com
+- https://simpleicons.org
+- https://deviceshots.com
+- https://webgradients.com
+
 ## AWESOME
 
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
@@ -113,6 +129,8 @@
 ## BEST
 
 - https://wweb.dev/
+- http://jsawards.org/
+- http://bestof.js.org/
 
 ## PLUGINS
 
@@ -148,9 +166,6 @@ https://github.com/Lullabot/amp-library
 console. https://developers.google.com/web/tools/chrome-devtools/console/console-write
 
 ## IMAGE
-optimize : https://www.jpeg.io
-optimize : https://tinypng.com/
-proxy : https://images.weserv.nl/
 background : https://css-tricks.com/the-blur-up-technique-for-loading-background-images
 performance : http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images
 responsive : https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.f0zcv3ttb
@@ -174,19 +189,8 @@ barba js : http://barbajs.org/demos.html
 barba js : https://github.com/luruke/barba.js
 
 
-## ICONS
-css icons : http://cssicon.space/
-
-
 ## COMMENTS
 habits : http://www.sitepoint.com/how-good-are-your-html-and-css-comments  
-
-## FONTS 
-google type : https://femmebot.github.io/google-type/
-
-## DESIGN
-https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/
-https://webgradients.com
 
 ## CANVAS
 inspiration https://www.dwitter.net/
@@ -284,11 +288,6 @@ generator : https://eliorshalev.github.io/sprite-spirit
 
 ## FORM / HTML FORM
 https://www.codeproject.com/Articles/1221189/Formidable-Forms-with-HTML
-
-## JAVASCRIPT AWARDS
-best : https://risingstars2016.js.org
-best : http://bestof.js.org/
-best : http://jsawards.org/
 
 ## JAVASCRIPT
 functions : https://bocoup.com/blog/the-many-faces-of-functions-in-javascript
