@@ -410,7 +410,12 @@ export class InputDecoratorOnSetterDirective {
   	@Input('logText')    
 	set text(value) {     console.log(value);   }  
 } 
- 
+
+## DECORATORS
+
+- @HostListener() function decorator allows you to handle events of the host element in the directive class. For example, it can be used to change the color of the host element if you hover over the host element with the mouse.
+- @HostBinding() function decorator allows you to set the properties of the host element from the directive class. In this directive class, we can change any style property like height, width, color, margin, border, etc.
+
 ## LIFECYCLE
 
 • ngOnChanges sera la première appelée quand la valeur d’une propriété bindée est modifiée. Elle recevra une map changes, contenant les valeurs courante et précédente du binding, emballées dans un SimpleChange. Elle ne sera pas appelée s’il n’y a pas de changement.  
@@ -798,6 +803,8 @@ There is a new module called @angular/fire which helps to automatize the whole d
 - what is the spread operator in javascript?
 - what is the destructuring in javascript?
 
-### TEST:
-- https://github.com/Yonet/Angular-Interview-Questions
+### TEST
 - https://github.com/cloudnc/frontend-interview
+- https://github.com/Yonet/Angular-Interview-Questions
+- https://github.com/sudheerj/angular-interview-questions
+- https://dev.to/mokkapps/my-top-angular-interview-questions-237h

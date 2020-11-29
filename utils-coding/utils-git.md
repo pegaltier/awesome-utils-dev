@@ -73,6 +73,7 @@
 ## MOST USED
 
 ```
+ssh-keygen -t rsa (create a ssh certificate then import it:account>setting)
 git init (new blank repository)
 git remote add origin url://to/source/repository (add a remote)
 git status (get infos)

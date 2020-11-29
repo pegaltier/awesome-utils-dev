@@ -52,18 +52,23 @@
 
 
 ## SUMMARY
-- https://google.github.io/styleguide/htmlcssguide.xml
+
 - https://internetingishard.com/html-and-css/
-- https://github.com/kamranahmedse/developer-roadmap
-- https://github.com/MarkoDenic/web-development-resources
-- https://learn-the-web.algonquindesign.ca/topics/
 - https://github.com/bendc/frontend-guidelines
+- https://learn-the-web.algonquindesign.ca/topics/
+- https://github.com/microsoft/Web-Dev-For-Beginners
+- https://github.com/kamranahmedse/developer-roadmap
+- https://google.github.io/styleguide/htmlcssguide.xml
+- https://github.com/MarkoDenic/web-development-resources
+- https://ishadeed.com/article/thinking-like-a-front-end-developer/
 
 ## ONLINE IDE
+
 - https://www.gitpod.io/
 - https://stackblitz.com
  
 ## CHECKLIST
+
 - https://web.dev/vitals-tools/
 - https://frontendchecklist.io
 - http://webdevchecklist.com/
@@ -71,6 +76,10 @@
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://codeburst.io/the-front-end-checklist-8b2292fdda44
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
+
+## STARTER
+
+- https://github.com/harryheman/Modern-HTML-Starter-Template
 
 ## TOOLS
 
@@ -82,15 +91,18 @@
 - https://webcode.tools
 - https://fontofweb.com
 - https://deviceshots.com
+- https://validator.w3.org
 - https://responsively.app
 - https://tiny-helpers.dev
+- http://jsoneditoronline.org
+- http://www.perf-tooling.today
 - https://cssspider.fresalabs.com
+- https://bundlers.tooling.report
 - http://realfavicongenerator.net
+- https://testmysite.withgoogle.com
 - https://www.froala.com/design-block
 - https://html-to-svg.as-a-service.dev
-- http://jsoneditoronline.org
-- https://bundlers.tooling.report
-- http://www.perf-tooling.today
+- https://codepen.io/stoumann/full/abZxoOM
 
 ## AWESOME
 
@@ -126,10 +138,6 @@ https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c584
 tricks : https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off
 tips : https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.v1jfn4pb5
 bad practices : https://www.youtube.com/watch?v=pGFQ02qtJ7w
-
-## AUDIT
-https://testmysite.withgoogle.com
-https://validator.w3.org/
 
 ## AMP
 https://validator.ampproject.org
@@ -359,6 +367,11 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - https://github.com/brunoimbrizi/interactive-particles
+- https://tympanus.net/Development/ImageStackGrid/index.html
+- https://tympanus.net/Development/ExplodingObjects/
+- https://github.com/akella/ExplodingObjects
+- https://codyhouse.co/nuggets/text-gradients
+- https://codepen.io/cassie-codes/full/RwRORqB
 
 ## TIPS
 

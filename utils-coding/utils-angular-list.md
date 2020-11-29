@@ -1497,6 +1497,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/NoriSte/cypress-wait-until
 - https://github.com/smeijer/testing-playground
 - https://github.com/socreate/angular-playground
+- https://github.com/component-driven/cypress-axe
 - https://github.com/ceceliacreates/ionic-cypress
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/cypress-io/cypress-realworld-app
