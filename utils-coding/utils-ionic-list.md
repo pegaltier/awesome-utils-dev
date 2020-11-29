@@ -16,12 +16,14 @@
 - https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets
 
 ## STARTER / SEED / EXAMPLES
-- https://github.com/fivethree-team/ionic-4-components
+
+- https://store.enappd.com/product/ionic-full-app/
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/ionic-team/ionic-training-decks
-- https://github.com/brandonroberts/ionic-http-plugin-examples
+- https://github.com/fivethree-team/ionic-4-components
+- https://github.com/thedevclass/ionic-components-library
 - https://enappd.com/blog/firebase-with-ionic-4-overview/8/
-- https://store.enappd.com/product/ionic-full-app/
+- https://github.com/brandonroberts/ionic-http-plugin-examples
 - https://github.com/brandonroberts/ionic-http-plugin-examples
 - https://github.com/javebratt/ionic-angular-firebase-authentication-starter
 

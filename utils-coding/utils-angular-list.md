@@ -1500,6 +1500,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/component-driven/cypress-axe
 - https://github.com/ceceliacreates/ionic-cypress
 - https://github.com/gkushang/cucumber-html-reporter
+- https://github.com/ksocha/cypress-circleci-reporter
 - https://github.com/cypress-io/cypress-realworld-app
 - https://github.com/cypress-io/cypress-example-recipes
 - https://github.com/maximilianschmitt/cypress-routines
