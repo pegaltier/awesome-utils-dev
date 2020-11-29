@@ -1,43 +1,95 @@
-- [TEMPLATES](#templates)
-- [CLI](#cli)
-- [UPGRADE](#upgrade)
-  - [CLEAN NODE_MODULES](#clean-nodemodules)
-  - [UPGRADE CLI VERSION](#upgrade-cli-version)
-  - [UPGRADE NG VERSION](#upgrade-ng-version)
-  - [AUTO UPDATE](#auto-update)
-  - [BUILD PROD](#build-prod)
-  - [EXTENDS](#extends)
-- [HTTP POST PARAMS](#http-post-params)
-- [REACTIVE / RXJS](#reactive--rxjs)
-  - [HOT VS COLD](#hot-vs-cold)
-  - [OBSERVABLE](#observable)
-  - [OBSERVER](#observer)
-  - [SUBSCRIPTION](#subscription)
-  - [SUBJECT](#subject)
-  - [EVENT EMITTER](#event-emitter)
-  - [OPERATORS (FRENCH)](#operators-french)
-  - [OPERATORS (ENGLISH)](#operators-english)
-    - [TRANSFORMATION](#transformation)
-    - [COMBINATION](#combination)
-    - [CREATION](#creation)
-    - [UTILITY](#utility)
-    - [ERROR HANDLING](#error-handling)
-  - [MORE OPERATORS](#more-operators)
-- [REDUX / NGRX](#redux--ngrx)
-- [PIPES](#pipes)
-- [DIRECTIVES](#directives)
-  - [ANGULAR DIRECTIVES](#angular-directives)
-  - [CUSTOM DIRECTIVES](#custom-directives)
-- [LIFECYCLE](#lifecycle)
-- [ANGULAR TESTING](#angular-testing)
-  - [TESTING FACTORIZE/IMPORTS](#testing-factorizeimports)
-  - [TESTING TRANSLATE](#testing-translate)
-  - [TESTINT EXAMPLE](#testint-example)
-- [MONOREPO](#monorepo)
-- [LAZY MODULES](#lazy-modules)
-- [CHANGE DETECTION](#change-detection)
-- [CODING RULES](#coding-rules)
-- [INTERVIEW](#interview)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [ANGULAR](#angular)
+  - [TEMPLATES](#templates)
+  - [CSS](#css)
+  - [CLI](#cli)
+    - [AUTO UPDATE](#auto-update)
+    - [BUILD PROD](#build-prod)
+    - [EXTENDS](#extends)
+  - [UPGRADE](#upgrade)
+    - [CLEAN NODE_MODULES](#clean-node_modules)
+    - [UPGRADE CLI VERSION](#upgrade-cli-version)
+    - [UPGRADE NG VERSION](#upgrade-ng-version)
+  - [MONOREPO](#monorepo)
+    - [INSTALL](#install)
+    - [ADD ANGULAR](#add-angular)
+    - [ADD SCULLY](#add-scully)
+    - [START](#start)
+    - [BUILD&SERVE](#buildserve)
+    - [BUILD&SERVE (+WATCH)](#buildserve-watch)
+    - [RESOURCES](#resources)
+    - [REUSABLE LIB](#reusable-lib)
+        - [To try](#to-try)
+  - [HTTP POST PARAMS](#http-post-params)
+  - [REDUX / NGRX](#redux--ngrx)
+    - [Summary](#summary)
+    - [New projects](#new-projects)
+    - [Cycle](#cycle)
+    - [Issues](#issues)
+    - [Pitfalls](#pitfalls)
+    - [Tips](#tips)
+    - [Components](#components)
+  - [PIPES](#pipes)
+  - [DIRECTIVES](#directives)
+    - [ANGULAR DIRECTIVES](#angular-directives)
+  - [Races](#races)
+  - [DECORATORS](#decorators)
+  - [LIFECYCLE](#lifecycle)
+  - [API](#api)
+  - [ANGULAR DOM](#angular-dom)
+  - [FORM](#form)
+  - [ANGULAR TESTING](#angular-testing)
+    - [E2E TESTS](#e2e-tests)
+    - [UNIT TESTS](#unit-tests)
+    - [STRATEGY](#strategy)
+    - [EXAMPLE TYPE OF TESTS](#example-type-of-tests)
+    - [MOCKING](#mocking)
+    - [TESTING FACTORIZE/IMPORTS](#testing-factorizeimports)
+    - [TESTING TRANSLATE](#testing-translate)
+  - [MODULES](#modules)
+    - [Benefits of lazy modules](#benefits-of-lazy-modules)
+    - [One shared module](#one-shared-module)
+    - [Multiple shared modules](#multiple-shared-modules)
+    - [Shared modules part](#shared-modules-part)
+    - [Dependency injection (DI)](#dependency-injection-di)
+    - [Types](#types)
+    - [Providing](#providing)
+    - [Decorators](#decorators)
+  - [CHANGE DETECTION](#change-detection)
+    - [Optimization](#optimization)
+    - [OnPush and immutability](#onpush-and-immutability)
+    - [Pipes instead of methods in template](#pipes-instead-of-methods-in-template)
+    - [Cahing](#cahing)
+    - [TrackBy in ngFor](#trackby-in-ngfor)
+    - [Detach change detection](#detach-change-detection)
+    - [Others optimization](#others-optimization)
+  - [CODING RULES](#coding-rules)
+    - [Reactive programming](#reactive-programming)
+  - [DEBUG](#debug)
+    - [DEVTOOLS](#devtools)
+    - [PERFORMANCE](#performance)
+    - [MEASURE](#measure)
+    - [CIRCULAR DEPENDENCIES](#circular-dependencies)
+  - [BAD PRACTICES](#bad-practices)
+  - [BEST PRACTICES](#best-practices)
+  - [JOIN AN EXISTING PROJECTS](#join-an-existing-projects)
+  - [MICROFRONTEND](#microfrontend)
+  - [JAMSTACK](#jamstack)
+    - [SCULLY](#scully)
+  - [TIPS](#tips)
+  - [INTERVIEW](#interview)
+    - [BREAKING ICE QUESTIONS:](#breaking-ice-questions)
+    - [OPEN QUESTIONS:](#open-questions)
+    - [TECHNICAL QUESTIONS:](#technical-questions)
+    - [CLOSED QUESTIONS:](#closed-questions)
+    - [TEST](#test)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# ANGULAR
 
 ## TEMPLATES
 
@@ -219,6 +271,10 @@ npm run scully -- --watch
 - https://github.com/Bielik20/nx-mean-starter/commit/aacbfa66dbd6465a0e0087fe6dcccd1b805619c3
 - https://medium.com/@gregor.woiwode/how-to-setup-jest-in-an-ionic-4-project-ff1e5b72dd79
 
+### STRUCTURE
+
+- The libs must be split in two part: data-access-namefeature and feature-shell-namefeature. The data-access-namefeature will probably export via the barrel file the models, services, ngrx selectors... On the contrary the feature-shell-namefeature should not export that much except the module itself.
+
 ### REUSABLE LIB
 
 - In the specific app: develop components that will be injected with this.router.resetConfig
@@ -226,7 +282,7 @@ npm run scully -- --watch
 - In the same generic lib: create a specific module + routing (in app or lib) 
 - In a new specific lib: import the generic lib and add the specific behavior
 
-##### To try
+To try:
 - Create a factory for routing and switching components
 - Create an injection token and pass specific components/routing through it
 - Use a third parties lib to dynamically instantiate components
@@ -340,7 +396,7 @@ So @ngrx/component (and partly @ngrx/component-store) are all about leveraging t
 
 ngTemplate
 
-<h2>Welcome {{user?.name}}</h2> 
+Welcome {{user?.name}} 
  
 ngIf 
 <div *ngIf="races.length > 0"><h2>Races</h2></div>  So, it’s important to understand that the Angular ngIf directive actually creates and destroys DOM elements. T
