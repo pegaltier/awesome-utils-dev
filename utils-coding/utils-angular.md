@@ -35,7 +35,6 @@
   - [PIPES](#pipes)
   - [DIRECTIVES](#directives)
     - [ANGULAR DIRECTIVES](#angular-directives)
-  - [Races](#races)
   - [DECORATORS](#decorators)
   - [LIFECYCLE](#lifecycle)
   - [API](#api)
