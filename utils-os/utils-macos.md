@@ -52,6 +52,12 @@ Array []: Option + 5/6
 Object {}: Option + 8/9
 Pipe |: Option + 7
 
+## Mobile dev Tips (iOS/Android)
+
+- Debug iOS app: open safari > develop > find your device
+- Debug Android app: open chrome > go to: chrome://inspect#devices > find your device
+
+- https://developers.google.com/web/tools/chrome-devtools/remote-debugging
 
 ## Mobile dev Setup (iOS/Android)
 

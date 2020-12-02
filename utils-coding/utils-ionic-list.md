@@ -28,7 +28,10 @@
 - https://github.com/javebratt/ionic-angular-firebase-authentication-starter
 
 ## LIBS
+
+- https://github.com/Nodonisko/ionic-cache
 - https://github.com/hsuanxyz/ion2-calendar
+- https://github.com/Nodonisko/capacitor-rate-app
 
 ## PWA
 https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/

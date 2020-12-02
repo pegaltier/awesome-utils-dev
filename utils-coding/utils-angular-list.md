@@ -1279,6 +1279,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/samvloeberghs/kwerri-oss
 - https://github.com/etavener/scully-tools
 - https://github.com/d-koppenhagen/scully-plugin-mermaid
+- https://github.com/pjlamb12/scully-plugin-amp-css*
 - https://github.com/scullyio/scully/tree/main/libs/plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
 - https://github.com/scullyio/scully/tree/main/libs/plugins/from-data
@@ -1425,6 +1426,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/w11k/ngx-componentdestroyed
+- https://github.com/gcanti/fp-ts-rxjs
 - https://github.com/wardbell/subsink
 - https://github.com/cartant/rxjs-xyz
 - https://github.com/cartant/rxjs-etc
@@ -1486,6 +1488,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Netflix/pollyjs
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
+- https://github.com/jscutlery/test-utils
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
 - https://github.com/nas5w/combinate
@@ -1637,6 +1640,7 @@ Analyze and optimize the performance of your app
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/MurhafSousli/ngx-gallery
 - https://github.com/ngx-lottie/ngx-lottie
+- https://github.com/ngneat/dag
 
 ## ECOSYSTEM: LIB: MARKETING
 
@@ -1793,6 +1797,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/videogular/ngx-videogular
+- https://github.com/tjoskar/ng-lazyload-image
 - https://github.com/ng-web-apis/canvas
 - https://github.com/ng-web-apis/midi
 - https://github.com/ng-web-apis/audio
@@ -1839,6 +1844,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://github.com/damienbod/angular-auth-oidc-client
 - https://github.com/mauriciovigolo/keycloak-angular
+- https://github.com/IdentityModel/oidc-client-js
 - https://github.com/angular/angularfire
 - https://github.com/auth0/angular2-jwt
 - https://github.com/auth0/auth0-angular

@@ -102,6 +102,7 @@
 - https://bundlers.tooling.report
 - http://realfavicongenerator.net
 - https://testmysite.withgoogle.com
+- https://cors-anywhere.herokuapp.com
 - https://www.froala.com/design-block
 - https://html-to-svg.as-a-service.dev
 - https://codepen.io/stoumann/full/abZxoOM
@@ -135,6 +136,7 @@
 ## PLUGINS
 
 - https://crossorigin.me/
+- https://github.com/Rob--W/cors-anywhere/
 - https://developers.google.com/web/tools/chrome-devtools/
 - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 - https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha
@@ -351,6 +353,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
 - https://github.com/11ty/eleventy-base-blog
 - https://github.com/deviousdodo/elevenpack
+- https://github.com/shuding/nextra
 
 ## EMAIL
 

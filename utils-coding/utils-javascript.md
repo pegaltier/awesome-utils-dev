@@ -183,6 +183,7 @@
 - https://github.com/jhchen/fast-diff
 - https://github.com/esfx/esfx
 - https://github.com/naman03malhotra/match-rules
+- https://github.com/bvaughn/js-search
 
 ## LIB: DATE
 - https://github.com/date-fns/date-fns
