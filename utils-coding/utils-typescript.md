@@ -37,9 +37,9 @@
 
 ## DEVTOOLS
 
+- https://github.com/formium/tsdx
 - https://github.com/Microsoft/tsdoc
 - https://github.com/microsoft/rushstack
-
 
 ## UTILS
 
@@ -81,10 +81,13 @@
 ## LIB: DATA OBJECT
 - https://github.com/gcanti/io-ts
 - https://github.com/mu-io/ts-japi
+- https://github.com/colinhacks/zod
 - https://github.com/gcanti/monocle-ts
 - https://github.com/maleet/marshal.ts
+- https://github.com/millsp/ts-toolbelt
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
+- https://github.com/krzkaczor/ts-essentials
 - https://github.com/Rich-Harris/object-cull
 - https://github.com/woutervh-/typescript-is
 - https://github.com/data-forge/data-forge-ts

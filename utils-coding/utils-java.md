@@ -68,3 +68,4 @@
 
 ## TOOLS
 - http://www.javadecompilers.com/
+- https://github.com/jhipster/prettier-java

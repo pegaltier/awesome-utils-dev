@@ -19,7 +19,7 @@
 ## EXTENSIONS: TOP
 
 - https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu
-- https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector
+- https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools
 - https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview
 - https://marketplace.visualstudio.com/items?itemName=d-koppenhagen.vscode-code-review
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet

@@ -1297,6 +1297,8 @@ Learn the best way to make your objects immutable.
 - https://twitter.com/mgechev/status/1240178886979223552
 - https://houssein.me/angular2-with-immutablejs-and-redux \*
 - https://github.com/immutable-js/immutable-js
+- https://github.com/krzkaczor/ts-essentials
+- https://github.com/millsp/ts-toolbelt
 - https://github.com/rtfeldman/seamless-immutable
 - https://github.com/immerjs/immer
 - https://github.com/jonaskello/tslint-immutable
@@ -1837,6 +1839,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
+- https://github.com/PillowPillow/ng2-webstorage
 - https://github.com/cyrilletuzi/angular-async-local-storage
 
 ## ECOSYSTEM: LIB: AUTH
@@ -2059,7 +2062,18 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack
-- https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools
+- https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector
+
+## ECOSYSTEM: VSCODE PERSO
+
+- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+- https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+- https://marketplace.visualstudio.com/items?itemName=usernamehw.snippets-view
+- https://marketplace.visualstudio.com/items?itemName=usernamehw.run-commands-view
+- https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
+- https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
+- https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
+- https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
 ## ECOSYSTEM: VSCODE OTHERS
 
@@ -2084,17 +2098,6 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/nwinkler/atom-keyboard-shortcuts ATOM shortcut
 - https://github.com/johnpapa/vscode-angular2-snippets
 - https://github.com/evanplaice/angular2-snippets
-
-## ECOSYSTEM: VSCODE PERSO
-
-- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.snippets-view
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.run-commands-view
-- https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
-- https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
-- https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
-- https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
 ## ECOSYSTEM: AWESOME
 
@@ -2140,6 +2143,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://manning.com/books/angular-2-development-with-typescript
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison
 - https://egghead.io/series/angular-2-fundamentals
+- http://AngularAdvocate.com
+- https://leanpub.com/developing-with-angular
+
 
 ## ECOSYSTEM: MEDIAS
 
