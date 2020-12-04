@@ -184,6 +184,8 @@
 - https://github.com/esfx/esfx
 - https://github.com/naman03malhotra/match-rules
 - https://github.com/bvaughn/js-search
+- https://github.com/ansman/validate.js
+- https://github.com/koorchik/js-validator-livr
 
 ## LIB: DATE
 - https://github.com/date-fns/date-fns
@@ -194,11 +196,9 @@
 
 - https://github.com/xdan/jodit
 - https://github.com/matthewp/robot
-- https://github.com/ansman/validate.js
-- https://github.com/koorchik/js-validator-livr
+- https://github.com/needim/noty
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/tradingview/lightweight-charts
-- https://github.com/koorchik/js-validator-livr
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables

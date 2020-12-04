@@ -11,16 +11,19 @@
 ## BEST
 - https://showcase.ionicframework.com/apps/top
 - https://github.com/Alexintosh/Awesome-Ionic
+- https://github.com/vagnersabadi/awesome-components-ionic
 
 ## TOOLS
 - https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets
 
 ## STARTER / SEED / EXAMPLES
 
+- https://github.com/thenaim/ionic-whatsapp-clone
 - https://store.enappd.com/product/ionic-full-app/
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/ionic-team/ionic-training-decks
 - https://github.com/fivethree-team/ionic-4-components
+- https://github.com/vagnersabadi/ionic-task-planner-app
 - https://github.com/thedevclass/ionic-components-library
 - https://enappd.com/blog/firebase-with-ionic-4-overview/8/
 - https://github.com/brandonroberts/ionic-http-plugin-examples

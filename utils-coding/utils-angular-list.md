@@ -1327,6 +1327,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/tslint-angular
 - https://github.com/ReactiveX/rxjs-tslint
 - https://github.com/cartant/rxjs-tslint-rules
+- https://github.com/wesbos/eslint-config-wesbos
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/SonarSource/eslint-plugin-sonarjs
@@ -1386,6 +1387,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/kamilkisiela/apollo-angular
 - https://github.com/flowup/api-client-generator
+- https://github.com/kukhariev/ngx-uploadx
 
 ## ECOSYSTEM: LIB: UTIL
 
@@ -1422,6 +1424,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/gund/ng-dynamic-component
 - https://github.com/obenjiro/create-angular-components
 - https://github.com/MTobisch/ngx-dynamic-hooks
+- https://github.com/pjlamb12/runtime-config-loader
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
@@ -1579,6 +1582,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: COMPONENTS
 
 - https://github.com/milantenk/ngx-interactive-paycard
+- https://github.com/drozhzhin-n-e/ng2-tooltip-directive
 - https://github.com/dig-platform/ngx-stackblitz
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/KensingtonTech/ng2-panzoom
