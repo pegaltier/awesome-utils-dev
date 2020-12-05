@@ -1833,6 +1833,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/vladotesanovic/ngSemantic
 - https://github.com/kikstart-ui/kikstart-ui
 - https://github.com/IgniteUI/igniteui-angular
+- https://github.com/IgniteUI/igniteui-angular-wrappers
 - https://github.com/ngx-builders/ngx-bulma
 - https://github.com/morrisjdev/ng-metro4
 - https://github.com/Teradata/covalent

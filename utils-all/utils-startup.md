@@ -19,5 +19,6 @@ https://jatins.gitlab.io/me/why-startup/
 
 ## Indie
 
+- https://github.com/squareboat/growth-hacking-guide
 - https://github.com/mezod/awesome-indie
 - https://www.indiehackers.com/

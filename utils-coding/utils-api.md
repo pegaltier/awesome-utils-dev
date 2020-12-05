@@ -10,8 +10,10 @@
 
 # API
 
-## API RESTFULL 
+## API RESTFULL
+
 - https://github.com/mulesoft/api-console
+- https://github.com/squareboat/api-guidelines
 - https://github.com/marmicode/rest-api-checklist
 - https://restfulapi.net/http-status-codes/
 - http://www.restapitutorial.com/lessons/httpmethods.html

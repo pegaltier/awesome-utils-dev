@@ -7,6 +7,7 @@
 - https://github.com/nestjs/throttler
 - https://github.com/nestjs/ng-universal
 - https://github.com/nestjs/event-emitter
+- https://github.com/squareboat/nest-queue
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/BeerMoneyDev/nest-monk
 - https://github.com/ToonvanStrijp/nestjs-i18n
@@ -16,8 +17,13 @@
 ## EXAMPLE
 
 - https://github.com/nartc/nest-mean
+- https://github.com/rfprod/nx-ng-starter
 - https://github.com/ntegral/nestjs-sentry
 - https://github.com/TimurRK/nestjs-example
+- https://github.com/squareboat/nest-mailman
+- https://github.com/squareboat/nest-storage
+- https://github.com/squareboat/nest-eyewitness
+- https://github.com/squareboat/nest-notifications
 - https://github.com/squareboat/nestjs-boilerplate
 - https://github.com/javascript-dragons/nest-event
 - https://github.com/fivethree-team/nestjs-prisma-starter
