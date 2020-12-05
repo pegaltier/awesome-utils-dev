@@ -3,6 +3,7 @@
 ## Online
 
 - https://www.explainshell.com/
+- https://github.com/cli-guidelines/cli-guidelines
 
 ## Terminal
 
