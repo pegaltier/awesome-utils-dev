@@ -1108,6 +1108,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/nrwl/nx
+- https://github.com/jscutlery/semver
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
 - https://github.com/nrwl/nx-custom-layout
