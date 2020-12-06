@@ -177,6 +177,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 Learn about the most useful design patterns in Angular.
 
+- https://indepth.dev/posts/1404/declarative-reactive-data-and-action-streams-in-angular
 - https://dev.to/lifelongthinker/the-strategy-pattern-exemplified-in-typescript-3pmi
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 - https://medium.com/volosoft/strategy-pattern-implementation-with-typescript-and-angular-9ad8b1929e9c
@@ -1846,6 +1847,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
+- https://github.com/UlisesHllSk/ng-indexed-db
 - https://github.com/PillowPillow/ng2-webstorage
 - https://github.com/cyrilletuzi/angular-async-local-storage
 

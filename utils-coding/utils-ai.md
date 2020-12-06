@@ -11,6 +11,10 @@
 
 - https://github.com/heartexlabs/awesome-data-labeling
 
+## TOOLS
+
+- http://playground.tensorflow.org/
+
 ## IMAGES API
 
 - https://cloud.google.com/vision/
