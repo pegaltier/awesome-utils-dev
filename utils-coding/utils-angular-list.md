@@ -1426,6 +1426,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/obenjiro/create-angular-components
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/pjlamb12/runtime-config-loader
+- https://github.com/KostyaTretyak/ng-stack
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
