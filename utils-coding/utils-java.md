@@ -9,11 +9,13 @@
 - https://spring.io/
 - https://start.spring.io/
 - https://stratospheric.dev/
-- https://www.marcobehler.com/guides/spring-boot
-- https://github.com/jhipster/generator-jhipster
 - https://github.com/Ninja-Squad/springmockk
 - https://github.com/s0l0c0ding/spring-tips
-- http://www.baeldung.com/rest-with-spring-course#new-modules
+- https://www.marcobehler.com/guides/spring-boot
+- https://github.com/jhipster/generator-jhipster
+- http://www.baeldung.com/rest-with-spring-course
+- https://github.com/RameshMF/spring-boot-tutorial
+- https://github.com/RameshMF/Hibernate-ORM-Tutorials
 
 ## FRAMEWORK
 - https://github.com/quarkusio/quarkus

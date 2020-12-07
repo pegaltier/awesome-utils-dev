@@ -15,6 +15,7 @@
 - https://github.com/RustScan/RustScan
 - https://github.com/mit-pdos/noria
 - https://github.com/riker-rs/riker
+- https://github.com/rxRust/rxRust
 - https://github.com/actix/actix
 - https://github.com/0x20F/paris
 

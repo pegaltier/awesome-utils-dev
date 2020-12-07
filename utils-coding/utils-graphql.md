@@ -2,12 +2,13 @@
 
 ## TOOLS
 
-- https://graphql.org/
-- https://hasura.io/
-- https://www.graph.cool/
-- https://www.graphqleditor.com/
-- https://graphql-code-generator.com/
-- https://www.graphile.org/postgraphile/
+- https://hasura.io
+- https://graphql.org
+- https://www.graph.cool
+- https://www.graphql-tools.com
+- https://www.graphqleditor.com
+- https://graphql-code-generator.com
+- https://www.graphile.org/postgraphile
 - https://dev.to/graphqleditor/graphql-tools-libraries-3bbc
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
@@ -24,6 +25,7 @@
 - https://github.com/contrawork/graphql-helix
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/ef-eng/graphql-query-rewriter
+- https://github.com/rahmanfadhil/learn-typegraphql
 - https://github.com/pipedrive/graphql-schema-registry
 - https://github.com/dangcuuson/graphql-schema-typescript
 
@@ -34,6 +36,7 @@
 - https://the-guild.dev/blog/migrating-from-rest
 
 ## ARTICLES
+- https://blog.logrocket.com/how-build-graphql-api-typegraphql-typeorm/
 - https://product.voxmedia.com/2020/11/2/21494865/to-federate-or-stitch-a-graphql-gateway-revisited
 - https://the-guild.dev/blog/typed-document-node
 - https://blog.graphqleditor.com/graphql-query-generator/

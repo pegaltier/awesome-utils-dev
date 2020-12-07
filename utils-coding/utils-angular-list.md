@@ -654,6 +654,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://auth0.com/blog/create-custom-schematics-with-nx/
 - https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
 - https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
+- https://github.com/nitayneeman/schematics-utilities
 - https://github.com/schuchard/ng-schematics
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/niklas-wortmann/ngx-pact
@@ -1358,8 +1359,10 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: LAZY
 
-- https://github.com/mgechev/ngx-quicklink
 - https://github.com/ded/script.js
+- https://github.com/mgechev/ngx-quicklink
+- https://github.com/angular-extensions/elements
+- https://github.com/mohammedzamakhan/ngx-loadable
 - https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
 
@@ -1389,6 +1392,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/kamilkisiela/apollo-angular
 - https://github.com/flowup/api-client-generator
+- https://github.com/vugar005/ngx-awesome-uploader
 - https://github.com/kukhariev/ngx-uploadx
 
 ## ECOSYSTEM: LIB: UTIL
@@ -1613,6 +1617,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kekeh/angular-mydatepicker
 - https://github.com/mattlewis92/angular-calendar
 - https://github.com/stabzs/Angular2-Toaster
+- https://github.com/JsDaddy/ngx-copypaste
 - https://github.com/dominique-mueller/angular-notifier
 - https://github.com/mattlewis92/angular-confirmation-popover
 - https://github.com/mattlewis92/angular-draggable-droppable
@@ -1729,6 +1734,7 @@ Analyze and optimize the performance of your app
 
 Add a progressbar for displaying a loader during the different async task like http requests...
 
+- https://github.com/JsDaddy/ngx-loader-indicator
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/Zak-C/ngx-loading
 - https://github.com/Gbuomprisco/ngx-content-loading
@@ -1915,6 +1921,8 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/LayZeeDK/ngx-stryker-robobar
+- https://github.com/ganatan/angular11-app
+- https://github.com/ganatan/angular-example-seo
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/DenysVuika/medium-angular-docker
 - https://github.com/alan-agius4/ng-mono-repo-starter
