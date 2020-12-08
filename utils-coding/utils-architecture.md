@@ -19,6 +19,10 @@
 - https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code
 - https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-debt-reclaiming-tech-equity
 
+## AUTHENTICATION
+
+It's important to integrate from the beginning a clean architecture for the authentication and roles for the project. for instance using a CAS, SAML, OAuth2(JWT)/OpenID, PassportJS...
+ 
 ## DATA MANIPULATION
 
 Whether writing websites, softwares, apps or anything involving sending data back and forth there’s always this chore to serialize/deserialize from one format to another, whether it be JS object to/from JSON, plain JS object to/from typed JS class object, Java POJO to/from JSON,  AMF, Protobuf, XML, YML, etc… Now aside from serialization/deserialization, there’s also this fact that some data can cross boundaries or not. Boundaries can be anything like your backend as opposed to your frontend for example. So there’s also this one another chore like sanitization and hydration :

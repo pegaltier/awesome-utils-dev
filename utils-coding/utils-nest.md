@@ -6,6 +6,7 @@
 - https://github.com/nestjs/swagger
 - https://github.com/nestjs/throttler
 - https://github.com/nestjs/ng-universal
+- https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter
 - https://github.com/squareboat/nest-queue
 - https://github.com/iamolegga/nestjs-pino

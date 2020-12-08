@@ -466,6 +466,8 @@ create your first components, learn how to use translusions, ng-content...
 ## CORE: MODULES
 
 - https://www.thetombomb.com/2019/11/13/app-module-vs-core-module-vs-shared-module-vs-feature-modules-in-angular/
+- https://monolithcode.co.uk/angular-app_initializer-and-multiple-instances-of-a-service
+- https://angular.io/guide/module-types#guidelines-for-creating-ngmodules
 - http://blog.angular-university.io/angular2-ngmodule/
 - https://johnpapa.net/introducing-angular-modules-feature-modules-2/
 - https://itnext.io/understanding-angular-modules-5f1215130bc8
