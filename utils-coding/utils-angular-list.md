@@ -315,7 +315,7 @@ Learn about the most useful design patterns in Angular.
 ## CORE: OPTIMIZATION
 
 SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
-
+- https://www.youtube.com/watch?v=FjyX_hkscII Profiling Angular Applications
 - https://www.youtube.com/watch?v=ybNj-id0kjY Optimizing an Angular application runtime - Minko Gechev
 - https://www.youtube.com/watch?v=moUCZoJfhwY Angular Performance: Your App at the Speed of Light - Christian Liebel | NG-DE 2019
 - https://www.youtube.com/watch?v=ZI_MC3YdSo4 Angular Performance Workshop - Manfred Steyer
@@ -673,6 +673,7 @@ Learn the schematics tool to automatize and be more efficient.
 
 Learn the built-in dependency injection mecanism and how to use it to inject your services accoss the differents components.
 
+- https://netbasal.com/the-hidden-power-of-injectiontoken-factory-functions-in-angular-d42d5575859b
 - https://www.bennadel.com/blog/3836-using-abstract-classes-as-dependency-injection-tokens-with-providedin-semantics-in-angular-9-1-9.htm
 - https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
 - https://christiankohler.net/angular-dependency-injection-infographic
@@ -978,6 +979,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 ## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
 
+- https://github.com/beeman/component-store-playground
 - https://github.com/dsebastien/ngrx-component-store-demo
 - https://github.com/alex-okrushko/component-store-demo
 - https://stackblitz.com/edit/heroes-component-store
@@ -1434,6 +1436,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/pjlamb12/runtime-config-loader
 - https://github.com/KostyaTretyak/ng-stack
+- https://github.com/KoderLabs/ngx-device-detector
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
@@ -1925,6 +1928,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/ganatan/angular11-app
 - https://github.com/ganatan/angular-example-seo
+- https://github.com/mgechev/angular-hybrid-rendering
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/DenysVuika/medium-angular-docker
 - https://github.com/alan-agius4/ng-mono-repo-starter
@@ -2053,6 +2057,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - http://codelyzer.com/
 - https://augury.angular.io/
 - https://xlayers.app/#/home
+- https://github.com/pregular
 - https://github.com/Dynatrace/sketchmine
 - https://github.com/irustm/figma-to-angular
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
@@ -2077,7 +2082,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+- https://marketplace.visualstudio.com/items?itemName=bilelmsekni.componizer
 - https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
+- https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack
@@ -2108,7 +2115,6 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
 - https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
 - https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
-- https://marketplace.visualstudio.com/items?itemName=bilelmsekni.componizer
 - https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 - https://marketplace.visualstudio.com/items?itemName=folke.vscode-monorepo-workspace
 - http://brianflove.com/2017/04/11/angular-language-service/

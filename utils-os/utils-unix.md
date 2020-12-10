@@ -2,6 +2,17 @@
 
 Ubuntu & co
 
+## Directories
+
+```
+usr  -> unix system resources
+bin  -> binaries
+sbin -> super binaries
+var  -> variable
+dev  -> device
+opt  -> optional
+```
+
 ## Update
 
 ```

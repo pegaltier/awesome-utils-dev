@@ -45,12 +45,13 @@ https://www.youtube.com/watch?v=lyiikzjg9a0
 ## SEO KEYWORDS / LSI TOOLS
 
 seo phase de rédaction :
-https://answerthepublic.com
-https://neilpatel.com/ubersuggest/
-https://keywordtool.io
-http://www.seo-hero.tech
-https://app.kparser.com
-https://lsigraph.com
+- https://answerthepublic.com
+- https://neilpatel.com/ubersuggest
+- https://www.articleforge.com
+- https://keywordtool.io
+- http://www.seo-hero.tech
+- https://app.kparser.com
+- https://lsigraph.com
 
 seo spinning :
 http://seo-quartz.fr

@@ -74,10 +74,12 @@
 
 ## CHEAT-SHEETS
 
-- https://1loc.dev/
+- https://1loc.dev
+- https://devdocs.io
+- https://codetogo.io
 - https://devhints.io/lodash
-- https://surma.github.io/underdash/
-- https://joshwcomeau.com/operator-lookup/
+- https://surma.github.io/underdash
+- https://joshwcomeau.com/operator-lookup
 - https://wweb.dev/resources/js-array-functions-cheatsheet
 - https://wweb.dev/resources/js-object-functions-cheatsheet
 
@@ -101,11 +103,12 @@
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
 
-## TOOLS
+## TOOLS OSS
 
+- https://github.com/evanw/esbuild
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
-- https://github.com/evanw/esbuild
+- https://github.com/pastelsky/bundlephobia
 - https://github.com/lirantal/is-website-vulnerable
 
 ## FRAMEWORK: FRONTEND
@@ -135,6 +138,7 @@
 
 - https://github.com/addyosmani/critical
 - https://github.com/NectarJS/nectarjs
+- https://github.com/sverweij/dependency-cruiser
 
 ## LIB: DATABASE
 - https://github.com/pubkey/rxdb
@@ -153,8 +157,6 @@
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
-- https://github.com/mgechev/injection-js
-- https://github.com/inversify/InversifyJS
 - https://github.com/staltz/promisify-4loc
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
@@ -187,7 +189,13 @@
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
 
+## LIB: ARCHI
+- https://github.com/mgechev/injection-js
+- https://github.com/inversify/InversifyJS
+- https://github.com/microsoft/tsyringe
+
 ## LIB: DATE
+- https://github.com/iamkun/dayjs
 - https://github.com/date-fns/date-fns
 - https://github.com/xxczaki/light-date
 - https://github.com/spencermountain/spacetime

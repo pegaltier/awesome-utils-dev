@@ -646,7 +646,7 @@ Injectors are inherited, which means that if a given injector can't resolve a de
 - Then you must understand the different kind of injection you can do, in fact you can inject either a class, a value, a factory and even more:
 - class: { provide: MyService, useClass: MyService } // It is a shortcut for MyService
 - value: { provide: MY_CONST,  useValue: "https://my.text" } // MY_CONST must be declared as InjectionToken<string>
-- factory: { provide: MyObs, deps: [DOCUMENT], useFactory: doThingFactory } // MyObs must be declared as InjectionToken<Observable<string>> and doThingFactory is a function which return the observable. You can also create your factory using the 2ng argument of InjectionToken.
+- factory: { provide: MyObs, deps: [DOCUMENT], useFactory: doThingFactory } // MyObs must be declared as InjectionToken<Observable<string>> and doThingFactory is a function which return the observable. You can also create your factory using the 2ng argument of InjectionToken. With useFactory you can easily switch between different implementation but with factory from InjectionToken the token is automatically provided in root so it's not modulable.
 - existing: { provide: MyInterface, useExisting: forwardRef(() => MyDirective) } // MyDirective implements MyInterface and so forwardRef returns a directive after its instance is created
 
 ### Decorators

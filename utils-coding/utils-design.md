@@ -34,17 +34,20 @@
 - https://picons.me
 - https://logojoy.com
 - http://iconstore.co
+- https://heroicons.com
 - https://fonticons.com
 - https://iconmonstr.com
 - https://www.flaticon.com
+- https://feathericons.com
 - http://www.littlewalden.com
-- http://kushagragour.in/lab/hint/
+- http://kushagragour.in/lab/hint
 - https://wweb.dev/resources/free-icon-sets
 
 ## WEBDESIGN
 - https://niice.co
 - https://coolors.co
 - https://sidebar.io
+- https://www.remove.bg
 - https://code4app.net
 - https://dribbble.com
 - https://inspiredm.com
@@ -58,13 +61,13 @@
 - https://talkaboutdesign.com/preview
 
 ## COLOR
-- https://coolors.co/
+- https://coolors.co
+- http://paletton.com
 - https://colordrop.io
-- http://www.colorhunt.co/
-- http://paletton.com/  
-- https://flatuicolors.com/
-- http://lukyvj.github.io/colofilter.css/ 
-- https://color.adobe.com/fr/create/color-wheel/
+- http://www.colorhunt.co
+- https://flatuicolors.com
+- http://lukyvj.github.io/colofilter.css/
+- https://color.adobe.com/fr/create/color-wheel
 - http://blog.visme.co/color-harmony-tips-on-selecting-colors-in-design/
 - http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
 

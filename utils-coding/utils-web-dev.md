@@ -92,6 +92,7 @@
 - https://debuild.co
 - https://staticbox.io
 - https://webcode.tools
+- https://bundlephobia.com
 - https://validator.w3.org
 - https://responsively.app
 - https://tiny-helpers.dev
@@ -102,6 +103,7 @@
 - https://bundlers.tooling.report
 - http://realfavicongenerator.net
 - https://testmysite.withgoogle.com
+- https://mfcar.github.io/TextTools
 - https://cors-anywhere.herokuapp.com
 - https://www.froala.com/design-block
 - https://html-to-svg.as-a-service.dev
