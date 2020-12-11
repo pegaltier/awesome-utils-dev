@@ -8,9 +8,11 @@
 - https://github.com/nestjs/ng-universal
 - https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter
+- https://github.com/skunight/nestjs-redis
 - https://github.com/squareboat/nest-queue
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/BeerMoneyDev/nest-monk
+- https://github.com/panva/node-oidc-provider
 - https://github.com/ToonvanStrijp/nestjs-i18n
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/hardyscc/nestjs-cqrs-starter

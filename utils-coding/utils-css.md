@@ -161,4 +161,6 @@ SCORE	    SELECTOR
 
 ## ANIMATION
 
+- https://jst.hashnode.dev/css-animation-tutorial
+
 - utiliser la proriété transform pour faire des animations en css avec @keyframes car si vous utilisez une proriété css standard tel que margin-left alors cela déclenche le processus de rendering du layout.

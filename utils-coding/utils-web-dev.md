@@ -53,6 +53,7 @@
 
 ## SUMMARY
 
+- https://almanac.httparchive.org/en/2020/
 - https://internetingishard.com/html-and-css/
 - https://github.com/bendc/frontend-guidelines
 - https://learn-the-web.algonquindesign.ca/topics/
@@ -98,6 +99,7 @@
 - https://tiny-helpers.dev
 - https://grid.layoutit.com
 - http://jsoneditoronline.org
+- https://www.beautifulcodes.in
 - http://www.perf-tooling.today
 - https://cssspider.fresalabs.com
 - https://bundlers.tooling.report
@@ -122,6 +124,10 @@
 - https://simpleicons.org
 - https://deviceshots.com
 - https://webgradients.com
+
+## TOOLS: PAYING
+- https://www.hotjar.com/
+- https://spline.design/
 
 ## AWESOME
 
@@ -363,6 +369,9 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://codedmails.com/
 - https://github.com/tomayac/dark-mode-email
 
+## BEST PRACTICES
+- https://ishadeed.com/article/css-scroll-snap/
+
 ## CREATIVE
 
 - https://www.aristidebenoist.com/
@@ -374,9 +383,11 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/brunoimbrizi/interactive-particles
 - https://tympanus.net/Development/ImageStackGrid/index.html
 - https://tympanus.net/Development/ExplodingObjects/
+- https://tympanus.net/Development/HorizontalSmoothScrollLayout/
 - https://github.com/akella/ExplodingObjects
 - https://codyhouse.co/nuggets/text-gradients
 - https://codepen.io/cassie-codes/full/RwRORqB
+- https://codepen.io/cobra_winfrey/pen/zYKGePx
 
 ## TIPS
 

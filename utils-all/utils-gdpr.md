@@ -10,10 +10,12 @@
 
 ## OPEN SOURCE
 
+- https://github.com/kiprotect/klaro
+- https://github.com/LINCnil/CookieViz
 - https://github.com/erichard/awesome-gdpr
 - https://github.com/AmauriC/tarteaucitron.js
+- https://github.com/empreinte-digitale/orejime
 - https://github.com/LINCnil/GDPR-Developer-Guide
-- https://github.com/LINCnil/CookieViz
 
 ## SAAS
 

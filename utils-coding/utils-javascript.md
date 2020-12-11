@@ -243,6 +243,10 @@
 - https://github.com/markedjs/marked
 - https://github.com/varkor/quiver
 
+## LIB: 3D
+- https://github.com/mrdoob/three.js/
+- https://github.com/KhronosGroup/glTF
+
 ## LIB: AI
 - https://github.com/BrainJS/brain.js
 

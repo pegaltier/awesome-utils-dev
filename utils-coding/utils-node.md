@@ -44,6 +44,7 @@
 
 - https://github.com/azz/pretty-quick
 - https://github.com/theophilusx/ssh2-sftp-client
+- https://github.com/panva/node-oidc-provider
 - https://github.com/microsoft/playwright
 - https://github.com/arcanis/clipanion
 - https://github.com/sindresorhus/got
@@ -54,6 +55,7 @@
 - https://github.com/strapi/strapi
 - https://github.com/lukeautry/tsoa
 - https://github.com/typeorm/typeorm
+- https://github.com/mikro-orm/mikro-orm
 - https://github.com/sequelize/sequelize
 - https://github.com/strongloop/loopback-next
 

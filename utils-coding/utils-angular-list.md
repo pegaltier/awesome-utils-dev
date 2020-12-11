@@ -555,6 +555,7 @@ Learn the reactive programming using rxjs.
 - https://github.com/btroncone/learn-rxjs
 - https://github.com/jsonberry/rxjs-examples
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
+- https://blog.briebug.com/blog/what-can-i-do-with-observables
 - https://medium.com/javascript-in-plain-english/more-rxjs-transformation-operators-mergescan-and-pluck-2f09510abef
 - https://ncjamieson.com/avoiding-switchmap-related-bugs/
 - https://stackblitz.com/edit/rxjs-ev5no4?file=index.ts (Observable)
@@ -624,6 +625,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://github.com/Mokkapps/angular-change-detection-demo
 - https://github.com/nirkaufman/starter-angular/blob/master/ref/ref.md
 - https://indepth.dev/supercharge-event-management-in-your-angular-application/
 - https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/
@@ -1055,27 +1057,29 @@ Discover alternative to ngrx for the state management of your objects.
 
 ## ECOSYSTEM: MICROFRONTEND
 
-- https://micro-frontends.org/
-- https://single-spa.js.org/
-- https://frint.js.org/
-- https://leanpub.com/enterprise-angular
 - https://github.com/umijs/qiankun
+- https://github.com/module-federation
 - https://github.com/worktile/ngx-planet
-- https://github.com/alexzuza/angular-plugin-architecture-with-module-federation-
-- https://github.com/angular-architects/module-federation-plugin
+- https://github.com/valorkin/ng-mf-submodules
+- https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
+- https://github.com/manfredsteyer/microfrontend-prototype
+- https://github.com/angular-architects/module-federation-plugin
 - https://github.com/manfredsteyer/module-federation-with-angular
-- https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/manfredsteyer/module-federation-plugin-example
 - https://github.com/manfredsteyer/module-federation-plugin-example-nx
-- https://github.com/manfredsteyer/microfrontend-prototype
-- https://github.com/valorkin/ng-mf-submodules
-- https://github.com/module-federation
+- https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/newvladimirov/module-federation-with-angular-universal
+- https://github.com/alexzuza/angular-plugin-architecture-with-module-federation-
+- https://frint.js.org/
+- https://single-spa.js.org/
+- https://micro-frontends.org/
+- https://leanpub.com/enterprise-angular
+- https://www.infoq.com/podcasts/micro-frontends-dazn/
+- https://ruairidh.dev/introduction-to-micro-frontends
 - https://martinfowler.com/articles/micro-frontends.html
 - https://slides.com/williamgrasel/a-era-dos-micro-frontends#/
-- https://www.infoq.com/podcasts/micro-frontends-dazn/
 - https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
 - https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-angular-e6828a0a049c
 - https://blog.angularindepth.com/how-to-compile-your-angular-components-library-into-web-components-47ff0ac73bd7
@@ -1122,6 +1126,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nx-go/nx-go
 - https://github.com/kachkaev/njt
 - https://github.com/NativeScript/nx
+- https://github.com/Dev-Thought/nx-plugins
 - https://github.com/flowaccount/nx-plugins
 - https://github.com/bennymeg/nx-electron
 - https://github.com/DominikPieper/nx-extensions
@@ -1130,6 +1135,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nxtend-team/nxtend
 - https://github.com/tinesoft/nxrocks
 - https://github.com/ZachJW34/nx-plus
+- https://github.com/nxext/nx-extensions
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
@@ -1565,6 +1571,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/Ninja-Squad/ngx-speculoos
 - https://github.com/youdz/dry-angular-testing
+- https://github.com/topnotch48/ng-bullet-workspace
 - https://github.com/juristr/angular-testing-recipes
 - https://github.com/duluca/angular-unit-test-helper
 - https://github.com/Idered/typescript-expect-plugin
@@ -1595,6 +1602,7 @@ Analyze and optimize the performance of your app
 
 - https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/drozhzhin-n-e/ng2-tooltip-directive
+- https://github.com/qgrid/ng2-expression-builder
 - https://github.com/dig-platform/ngx-stackblitz
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/KensingtonTech/ng2-panzoom
@@ -1934,6 +1942,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/StephenFluin/angular-update-guide
 - https://github.com/DavideViolante/Angular-Full-Stack
+- https://github.com/santoshyadavdev/threejsAngularDemo
 - https://github.com/DenysVuika/developing-with-angular
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
