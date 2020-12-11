@@ -1929,6 +1929,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list
+- https://github.com/enten/angular-universal
 - https://github.com/retarsis/angular-warehouse
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
