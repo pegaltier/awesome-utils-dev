@@ -62,6 +62,7 @@
 
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://github.com/javascript-tutorial/en.javascript.info
 - https://github.com/MostlyAdequate/mostly-adequate-guide
 - https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/nas5w/javascript-tips-and-tidbits

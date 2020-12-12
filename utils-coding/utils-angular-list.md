@@ -1291,6 +1291,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
 - https://github.com/etavener/scully-tools
+- https://github.com/pjlamb12/scully-plugin-page-title
 - https://github.com/d-koppenhagen/scully-plugin-mermaid
 - https://github.com/pjlamb12/scully-plugin-amp-css*
 - https://github.com/scullyio/scully/tree/main/libs/plugins
