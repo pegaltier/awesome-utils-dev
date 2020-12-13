@@ -271,12 +271,16 @@ git push --force (send to remote)
 2. Checkout your fork in your machine
 3. Set the source repository as upstream
 4. Fetch the full upstream repository.
+5. Create branch, do your changes, push
+6. Create a PR from your repo to the upstream
 
 ```
-Fork the repository in question (called ‘upstream’) on the GitHub website
+on the GitHub website fork the repository in question (called ‘upstream’) # step 1
 git clone https://github.com/{user}/{source-repo}.git # step 2
 git remote add upstream https://github.com/{user}/{source-repo}.git # step 3
 git fetch upstream # step 4
+git checkout -b my-branch & git commit & git push # step 5
+on the GitHub website open a PR for your branch: my-branch # step 6
 ```
 
 ## CONFIG
