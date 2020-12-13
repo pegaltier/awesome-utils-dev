@@ -37,6 +37,7 @@
 - https://heroicons.com
 - https://fonticons.com
 - https://iconmonstr.com
+- https://simpleicons.org
 - https://www.flaticon.com
 - https://feathericons.com
 - http://www.littlewalden.com

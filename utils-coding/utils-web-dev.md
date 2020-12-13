@@ -101,7 +101,6 @@
 - http://jsoneditoronline.org
 - https://www.beautifulcodes.in
 - http://www.perf-tooling.today
-- https://cssspider.fresalabs.com
 - https://bundlers.tooling.report
 - http://realfavicongenerator.net
 - https://testmysite.withgoogle.com
@@ -111,17 +110,37 @@
 - https://html-to-svg.as-a-service.dev
 - https://codepen.io/stoumann/full/abZxoOM
 
+## TOOLS: SVG
+- https://getwaves.io
+
+## TOOLS: CSS
+
+- https://glassmorphism.com
+- https://bennettfeely.com/clippy
+- https://cssspider.fresalabs.com
+- https://9elements.github.io/fancy-border-radius
+
 ## TOOLS: IMAGE
 
+- https://pixlr.com
 - https://www.jpeg.io
 - https://tinypng.com
+- https://www.fotor.com
+- https://www.taler.app
 - https://images.weserv.nl
+
+## TOOLS: PROTOTYPING
+
+- https://vectr.com
+- https://wireframe.cc
+- https://www.framer.com
 
 ## TOOLS: DESIGN
 - https://colors.lol
 - http://cssicon.space
+- https://www.figma.com
+- https://www.canva.com
 - https://fontofweb.com
-- https://simpleicons.org
 - https://deviceshots.com
 - https://webgradients.com
 
