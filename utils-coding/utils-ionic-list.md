@@ -35,6 +35,7 @@
 
 - https://github.com/Nodonisko/ionic-cache
 - https://github.com/hsuanxyz/ion2-calendar
+- https://github.com/eakoriakin/ionic-selectable
 - https://github.com/Nodonisko/capacitor-rate-app
 
 ## PWA

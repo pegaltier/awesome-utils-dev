@@ -64,9 +64,11 @@
 - https://github.com/tajo/react-movable
 - https://github.com/kitze/react-hanger
 - https://github.com/JedWatson/classnames
+- https://github.com/alampros/react-confetti
 - https://github.com/voliva/reactive-rx-form
 - https://github.com/mfrachet/rn-placeholder
 - https://github.com/eclipsesource/jsonforms
+- https://github.com/casesandberg/react-color
 - https://github.com/pmndrs/react-use-gesture
 - https://github.com/aaronvanston/react-flexa
 - https://github.com/kettanaito/atomic-layout

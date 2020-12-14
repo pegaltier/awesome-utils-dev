@@ -512,25 +512,30 @@ Learn how to build perfect form using reactive forms.
 
 - https://github.com/Tibing/platform-terminal
 
+## CORE: INTERCEPTOR
+
+Learn how to extend your app with interceptors.
+
+- https://github.com/gbumanzordev/angular-interceptors
+- https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
+- https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
 
 ## CORE: GUARD
 
-Learn how to secure your app with guards and interceptors.
+Learn how to secure your app with guards.
 
-- https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
-- https://itnext.io/handle-restricted-routes-in-angular-with-route-guards-95c93be9d05e
-- https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
-- https://ryanchenkie.com/angular-authentication-using-route-guards
-- http://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
-- https://github.com/Ekito/angular-sandbox/blob/master/src/app/shared/auth/auth.guard.ts
-- https://github.com/auth0-blog/angular2-authentication-sample
-- https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.qhvo193ie <<
 - https://jwt.io/introduction/
+- https://github.com/firebase/php-jwt
+- https://stormpath.com/blog/jjwt-how-it-works-why/
 - https://auth0.com/authenticate/angular2/oauth2
 - https://auth0.com/authenticate/angular2/google-apps
 - https://auth0.com/authenticate/angular2/facebook
-- https://github.com/firebase/php-jwt
-- https://stormpath.com/blog/jjwt-how-it-works-why/
+- https://github.com/auth0-blog/angular2-authentication-sample
+- https://ryanchenkie.com/angular-authentication-using-route-guards
+- http://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
+- https://itnext.io/handle-restricted-routes-in-angular-with-route-guards-95c93be9d05e
+- https://github.com/Ekito/angular-sandbox/blob/master/src/app/shared/auth/auth.guard.ts
+- https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.qhvo193ie
 
 ## CORE: ACL
 
@@ -1133,9 +1138,11 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/MansaGroup/nrwl-nx-action
 - https://github.com/devinshoemaker/nxtend
 - https://github.com/nxtend-team/nxtend
+- https://github.com/TriPSs/nx-extend
 - https://github.com/tinesoft/nxrocks
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/nxext/nx-extensions
+- https://github.com/gagle/nx-check-changes
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
@@ -1291,6 +1298,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
 - https://github.com/etavener/scully-tools
+- https://github.com/Gorniv/ngx-universal
 - https://github.com/pjlamb12/scully-plugin-page-title
 - https://github.com/pjlamb12/scully-plugin-canonical
 - https://github.com/d-koppenhagen/scully-plugin-mermaid
@@ -1613,6 +1621,7 @@ Analyze and optimize the performance of your app
 - https://github.com/oferh/ng2-completer
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
+- https://github.com/daybrush/moveable
 - https://github.com/cipchk/ngx-filesaver
 - https://github.com/mgechev/ngx-circular-player
 - https://github.com/angular-material-extensions
@@ -1932,6 +1941,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list
 - https://github.com/enten/angular-universal
+- https://github.com/Angular-RU/universal-starter
 - https://github.com/retarsis/angular-warehouse
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
@@ -1945,6 +1955,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/StephenFluin/angular-update-guide
 - https://github.com/DavideViolante/Angular-Full-Stack
+- https://github.com/gbumanzordev/ng-docker-boilerplate
 - https://github.com/santoshyadavdev/threejsAngularDemo
 - https://github.com/DenysVuika/developing-with-angular
 - https://github.com/vagnersabadi/awesome-components-ionic

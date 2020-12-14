@@ -159,6 +159,8 @@
 
 - [Chrome Image Capture](https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe)
 
+- [Chrome Full Page Capture](https://chrome.google.com/webstore/detail/screenshot-full-page-scre/ejkbkgbliokmbblkklofdehalgbplkfg)
+
 - [Break Timer](https://chrome.google.com/webstore/detail/break-timer/hklkdbpicdmlpoiellngedpejjkmapei?hl=en)
 
 - [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en)
