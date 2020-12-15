@@ -897,6 +897,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/MrWolfZ/ngrx-forms
 - https://github.com/satanTime/ngrx-graphql
 - https://github.com/briebug/ngrx-auto-entity
+- https://github.com/satanTime/ngrx-correlation-id
 - https://github.com/briebug/ngrx-entity-schematic
 - https://github.com/satanTime/ngrx-entity-relationship
 - https://github.com/larscom/ngrx-store-storagesync
@@ -1119,6 +1120,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/microsoft/rushstack
 - https://nstudio.io/xplat
+- https://nxpm.dev/
 - https://bit.dev
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
@@ -1143,6 +1145,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/nxext/nx-extensions
 - https://github.com/gagle/nx-check-changes
+- https://github.com/nrwl/nx-workshop
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
 - https://github.com/manfredsteyer/angular-ddd
@@ -1431,6 +1434,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/stupidawesome/ng-effects
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/rx-angular/rx-angular
+- https://github.com/rarmatei/ngx-reexportr
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/ManuCutillas/ngx-responsive
