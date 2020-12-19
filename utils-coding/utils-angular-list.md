@@ -1138,6 +1138,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/bennymeg/nx-electron
 - https://github.com/DominikPieper/nx-extensions
 - https://github.com/MansaGroup/nrwl-nx-action
+- https://github.com/gperdomor/nx-tools
 - https://github.com/devinshoemaker/nxtend
 - https://github.com/nxtend-team/nxtend
 - https://github.com/TriPSs/nx-extend
