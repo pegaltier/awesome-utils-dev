@@ -106,9 +106,9 @@ kit board:
 - https://pi-plates.com/
 - https://www.tartssensors.com/ (bad customer service)
 - https://www.postscapes.com/raspberry-pi-iot-handbook/
-http://www.doctormonk.com/2012/06/raspberry-pi-and-wireless-sensor.html
+- http://www.doctormonk.com/2012/06/raspberry-pi-and-wireless-sensor.html
 - https://www.hackster.io/dante/home-monitoring-with-wireless-sensor-nodes-866bbe
-http://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20
+- http://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20
 
 ### XBee
 - https://www.youtube.com/watch?v=odekkumB3WQ
