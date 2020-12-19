@@ -74,6 +74,7 @@
 - https://github.com/adelsz/pgtyped
 - https://github.com/ronami/meta-typing
 - https://github.com/codemix/ts-sql
+- https://github.com/thi-ng/umbrella
 
 ## LIB: COMPONENTS
 

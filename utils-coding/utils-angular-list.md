@@ -2242,6 +2242,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## EVOLUTION
 
 - http://g.co/ng/weekly-notes
+- https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
 
 ### ANGULAR11
 

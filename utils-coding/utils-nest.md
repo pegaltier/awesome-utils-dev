@@ -26,6 +26,7 @@
 - https://github.com/squareboat/nest-mailman
 - https://github.com/squareboat/nest-storage
 - https://github.com/squareboat/nest-eyewitness
+- https://github.com/Aginix/nestjs-firebase-admin
 - https://github.com/squareboat/nest-notifications
 - https://github.com/squareboat/nestjs-boilerplate
 - https://github.com/javascript-dragons/nest-event
