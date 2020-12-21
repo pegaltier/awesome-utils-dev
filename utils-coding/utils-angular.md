@@ -227,7 +227,9 @@ npx create-nx-workspace@latest my-project # init the repo
 
 ```
 npm install --save-dev @nrwl/angular # add angular capability
-nx g @nrwl/angular:app my-project/my-app # or just ng g myapp
+npm install --save-dev @nstudio/xplat # add xplat capability
+nx g @nrwl/angular:app my-project/my-app # or just ng g myapp if angular default
+nx g @nstudio/xplat my-project/my-app # or just ng g myapp if xplat default
 nx update @angular/core # or ng update @angular/core
 nx migrate @nrwl/workspace@x.x.x # better to use migrate instead of update
 ```

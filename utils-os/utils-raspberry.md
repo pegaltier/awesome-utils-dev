@@ -75,6 +75,9 @@ camera:
 - https://electronics.semaf.at/navi.php?a=773&lang=eng
 - https://timelapse.woodenhouse.fr/
 - https://www.sgbotic.com/products/datasheets/development/IR-CUT%20Mode%20Setting.pdf
+- https://learn.adafruit.com/raspberry-pi-hq-camera-case
+- https://www.pi-shop.ch/pi-zero-camera-box
+
 
 debug camera:
 - https://picamera.readthedocs.io/en/release-1.10/install3.html
@@ -122,7 +125,11 @@ kit board:
 
 - https://kodaizen.com/posts/detection-presence-mtsystem
 - https://www.woodenhouse.tech/category/objets-connectes/
-
+- https://gladysassistant.com/fr/blog/detecter-presence-porte-cle-bluetooth/
+- https://www.objetrama.fr/porte-cles-connecte-bluetooth-publicitaire-vinden.html
+- https://www.domo-blog.fr/test-de-tibe-porte-cle-connecte-a-faire/
+- https://www.giftcampaign.fr/porte-cle-publicitaire/porte-cle-publicitaire-pas-cher/localisateur-bluetooth-personnalise.html
+- https://github.com/gladysassistant/gladys-bluetooth
 
 
 ## Arduino
