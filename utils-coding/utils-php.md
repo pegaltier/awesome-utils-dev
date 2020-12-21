@@ -7,6 +7,48 @@
 - https://github.com/odan/learn-php
 - https://phpbestpractices.org
 
+## COMPOSER
+```
+composer dump-autoload (GENERATE import class)
+composer update (update dependecies & generate import class)
+```
+## XAMP VIRTUAL HOST
+
+- C:/xampp/apache/conf/extra
+- open and edit httpd-vhosts.conf
+
+```
+<VirtualHost *:80>
+ServerAdmin webmaster@localhost.com
+DocumentRoot "C:/xampp3/htdocs/projectfolder/public"
+ServerName myurl.test
+</VirtualHost>
+```
+
+- C:\Windows\System32\drivers\etc\hosts
+- Add the following line in the Host file.
+
+```
+127.0.0.1      myurl.test
+```
+
+More infos: https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/
+
+## XAMPP INCLUDE HTML PAGES
+```
+c:/xampp/apache/conf/httpd.conf
+Search for:
+AddType text/html .shtml
+Add the below two lines:
+AddType text/html .html
+AddOutputFilter INCLUDES .html
+Go to Xampp Control Panel and stop the session and restart again.
+Refresh the page in browser and see, the virtual includes will start working.
+<!--#include virtual="/fr/header.html" -->
+<!--#include virtual="/se/site/as-html-web/site/fr/header.html" -->
+```
+
+
 ## SECURITY
 
 - https://www.acunetix.com/websitesecurity/php-security-1/
@@ -26,6 +68,10 @@
 
 ## DEVTOOLS
 - https://github.com/xdebug/xdebug
+
+## LIB:
+- https://github.com/firebase/php-jwt
+- https://github.com/docusign/docusign-php-client
 
 ## SLIM PHP UTILS
 
@@ -69,6 +115,15 @@
 - http://www.slimframework.com/docs/v4/
 - https://github.com/odan/slim4-tutorial
 - https://odan.github.io/2019/11/05/slim4-tutorial.html
+
+## SLIM PHP AUTH JWT
+- https://github.com/tuupola/slim-jwt-auth
+- https://github.com/tuupola/slim-api-skeleton
+- https://github.com/letsila/slim3-jwt-auth-example
+- https://appelsiini.net/projects/slim-jwt-auth/
+- https://github.com/akrabat/slim-bookshelf-api
+- https://speakerdeck.com/akrabat/2017-04-08-phpyorkshire-slim-oauth2
+- https://arjunphp.com/secure-web-services-using-jwt-slim3-framework/
 
 ## PSR15
 
@@ -114,7 +169,6 @@
 xampp multiple !: 
 - http://webdevzoom.com/install-run-multiple-xampp-windows/
 
-
 ## ENV CONF
 - http://jgrundner.com/slim-oo-003-decoupling-the-configuration/
 - https://www.ekito.fr/people/setup-a-development-configuration-for-angularjs-and-a-php-mysql-rest-server-solving-the-cors-issue/
@@ -130,28 +184,10 @@ xampp multiple !:
 ## IMAGE
 - https://github.com/eventviva/php-image-resize
 
-## AUTH JWT
-- https://github.com/firebase/php-jwt
-- https://github.com/tuupola/slim-jwt-auth
-- https://github.com/tuupola/slim-api-skeleton
-- https://github.com/letsila/slim3-jwt-auth-example
-- https://appelsiini.net/projects/slim-jwt-auth/
-- https://arjunphp.com/secure-web-services-using-jwt-slim3-framework/
-
-## OAUTH2
-- https://github.com/akrabat/slim-bookshelf-api
-- https://speakerdeck.com/akrabat/2017-04-08-phpyorkshire-slim-oauth2
-
 ## PUSH
 - https://github.com/edamov/pushok
 - https://samauto.nl/en/apple-push-notification-service-ios/
 - https://dev.to/samauto/connect-to-apns-via-http-2-with-php-57oj
-
-## COMPOSER
-```
-composer dump-autoload (GENERATE import class)
-composer update (update dependecies & generate import class)
-```
 
 ## MYSQL
 - https://github.com/hholzgra/mysql-udf-regexp/tree/master/regexp
@@ -200,41 +236,6 @@ composer update (update dependecies & generate import class)
 - https://github.com/phan/phan
 - https://www.exakat.io
 
-## XAMP VIRTUAL HOST
-
-- C:/xampp/apache/conf/extra
-- open and edit httpd-vhosts.conf
-
-```
-<VirtualHost *:80>
-ServerAdmin webmaster@localhost.com
-DocumentRoot "C:/xampp3/htdocs/projectfolder/public"
-ServerName myurl.test
-</VirtualHost>
-```
-
-- C:\Windows\System32\drivers\etc\hosts
-- Add the following line in the Host file.
-
-```
-127.0.0.1      myurl.test
-```
-
-More infos: https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/
-
-## XAMPP INCLUDE HTML PAGES
-```
-c:/xampp/apache/conf/httpd.conf
-Search for:
-AddType text/html .shtml
-Add the below two lines:
-AddType text/html .html
-AddOutputFilter INCLUDES .html
-Go to Xampp Control Panel and stop the session and restart again.
-Refresh the page in browser and see, the virtual includes will start working.
-<!--#include virtual="/fr/header.html" -->
-<!--#include virtual="/se/site/as-html-web/site/fr/header.html" -->
-```
 
 ## PHP VSCODE EXTENSIONS
 Apache Conf
