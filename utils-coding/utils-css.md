@@ -5,6 +5,7 @@
 - http://pxtoem.com/
 - https://flukeout.github.io/
 - https://1linelayouts.glitch.me/
+- https://dailydevlinks.com/minimal-css-loader-collection
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
 - https://www.magicpattern.design/tools/css-backgrounds/
@@ -15,15 +16,19 @@
 
 ## BEST PRACTIVES
 
+- https://web.dev/centering-in-css/
 - https://github.com/getbem/awesome-bem
-- https://github.com/samanthaming/Flexbox30
-- https://github.com/j9t/css-optimization-basics
-- https://dev.to/ladybug/css-cheat-sheets-3ee0
 - https://github.com/philipwalton/flexbugs
+- https://github.com/samanthaming/Flexbox30
+- https://dev.to/ladybug/css-cheat-sheets-3ee0
+- https://github.com/j9t/css-optimization-basics
+- https://melanie-richards.com/blog/css-grid-sticky
 - https://github.com/philipwalton/solved-by-flexbox
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://www.taniarascia.com/overview-of-css-concepts/
-- https://www.sarasoueidan.com/blog/style-settings-with-css-variables/
+- https://ishadeed.com/article/css-short-long-content
+- https://www.taniarascia.com/overview-of-css-concepts
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox
+- https://www.sarasoueidan.com/blog/style-settings-with-css-variables
+- https://timseverien.com/posts/2020-12-06-what-makes-css-hard-to-master
 - https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
 
 ## LIB

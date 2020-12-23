@@ -60,6 +60,11 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/ziadoz/awesome-php
 - https://www.cloudways.com/blog/top-php-github-projects/
 
+## LIBS: ALL
+- https://github.com/nuwave/lighthouse
+- https://github.com/phpstan/phpdoc-parser
+- https://github.com/matomo-org/device-detector
+
 ## FRAMEWORKS
 
 - https://github.com/laminas/laminas-mvc
@@ -128,7 +133,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 ## PSR15
 
 - https://github.com/middlewares/awesome-psr15-middlewares
-
+- https://github.com/chubbyphp/chubbyphp-framework
 
 ## SLIM PHP TEST
 

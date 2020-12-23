@@ -7,6 +7,7 @@
 - https://github.com/intocare/style-guide
 - https://github.com/sindresorhus/type-fest
 - https://github.com/basarat/typescript-book
+- https://github.com/danvk/effective-typescript
 - https://github.com/microsoft/TypeScript-Handbook
 - https://github.com/type-challenges/type-challenges
 - https://github.com/microsoft/TypeScript-New-Handbook
@@ -85,6 +86,7 @@
 
 ## LIB: DATA OBJECT
 - https://github.com/gcanti/io-ts
+- https://github.com/pfgray/ts-adt
 - https://github.com/mu-io/ts-japi
 - https://github.com/colinhacks/zod
 - https://github.com/gcanti/monocle-ts

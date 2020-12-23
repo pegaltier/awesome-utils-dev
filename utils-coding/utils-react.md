@@ -57,6 +57,7 @@
 - https://github.com/Hotell/rea-di
 - https://github.com/TimboKZ/Chonky
 - https://github.com/moroshko/basis
+- https://github.com/Swizec/useAuth
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
 - https://github.com/formium/formik
@@ -75,6 +76,7 @@
 - https://github.com/kettanaito/atomic-layout
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
+- https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/sylvaindubus/react-prismazoom
 - https://github.com/kettanaito/react-advanced-form
 - https://github.com/aaronhayes/react-use-hubspot-form

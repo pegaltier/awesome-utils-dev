@@ -11,6 +11,7 @@
 - https://stratospheric.dev/
 - https://github.com/Ninja-Squad/springmockk
 - https://github.com/s0l0c0ding/spring-tips
+- https://github.com/springdoc/springdoc-openapi
 - https://www.marcobehler.com/guides/spring-boot
 - https://github.com/jhipster/generator-jhipster
 - http://www.baeldung.com/rest-with-spring-course
@@ -20,6 +21,7 @@
 ## FRAMEWORK
 - https://github.com/quarkusio/quarkus
 - https://github.com/micronaut-projects
+- https://github.com/domaframework/doma
 - https://github.com/crnk-project/crnk-framework
 - https://github.com/playframework/playframework
 
@@ -29,6 +31,7 @@
 ## TUTORIALS
 - https://developer.okta.com/blog/2020/05/29/angular-deployment
 - https://developer.okta.com/blog/2020/08/17/micronaut-jhipster-heroku
+- https://piotrminkowski.com/2020/12/14/microprofile-java-microservices-on-wildfly/
 
 ## QUARKUS
 - https://github.com/lordofthejars/quarkus-cheat-sheet/
@@ -41,24 +44,38 @@
 ## NEWS
 - https://java.libhunt.com/newsletter/186
 - https://advancedweb.hu/new-language-features-since-java-8-to-15/
+- https://dev.to/wejdi_gh/how-java-has-advanced-in-the-past-6-years-from-java-8-to-java-15-4gj3
 
-## DI
+## LIBS: ALL
+- https://github.com/supertokens/supertokens-core
+- https://github.com/eclipse/deeplearning4j
+- https://java.libhunt.com/categories
+- https://github.com/alibaba/arthas
+- https://github.com/apache/thrift
+- https://github.com/apache/druid
+
+## LIBS: TOOLS
+- https://github.com/facebook/infer
+- http://www.javadecompilers.com/
+- https://github.com/jhipster/prettier-java
+
+## LIBS: DI
 - https://github.com/google/dagger
 - https://github.com/google/guice
 - https://github.com/Netflix/governator
 
-## TESTS
+## LIBS: PUBSUB
+- https://github.com/apache/pulsar
+- https://github.com/apache/kafka
+
+## LIBS: TESTS
 - https://site.mockito.org/
 - https://github.com/cbeust/testng/
 - https://github.com/junit-team/junit5/
 
-## REACTIVE
+## LIBS: REACTIVE
 - https://github.com/ReactiveX/RxJava
 - https://vertx.io/
-
-## LIBS
-- https://java.libhunt.com/categories
-- https://github.com/apache/thrift
 
 ## BASICS
 - https://www.w3schools.com/java/default.asp
@@ -67,7 +84,3 @@
 
 ## JVM
 - https://www.azul.com/products/zing/
-
-## TOOLS
-- http://www.javadecompilers.com/
-- https://github.com/jhipster/prettier-java

@@ -1075,6 +1075,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/module-federation-with-angular
 - https://github.com/manfredsteyer/module-federation-plugin-example
 - https://github.com/manfredsteyer/module-federation-plugin-example-nx
+- https://github.com/TinkoffCreditSystems/shared-library-webpack-plugin
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/newvladimirov/module-federation-with-angular-universal
 - https://github.com/alexzuza/angular-plugin-architecture-with-module-federation-

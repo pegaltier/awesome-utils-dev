@@ -13,10 +13,13 @@
 
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/nvm-sh/nvm
+- https://github.com/pnpm/pnpm
+- https://github.com/tj/n
 
 ## LIST
-- https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
 - https://github.com/parro-it/awesome-micro-npm-packages
+- https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
+- https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020
 
 ## UTILS
 

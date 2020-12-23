@@ -154,6 +154,7 @@
 - https://github.com/vvo/javascript-library-template
 - https://github.com/JSMonk/hegel
 - https://github.com/nuxt-contrib/consola
+- https://github.com/GoogleChromeLabs/estimator.dev
 - https://github.com/stoeffel/awesome-fp-js
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/fengyuanchen/cropperjs
@@ -201,6 +202,12 @@
 - https://github.com/date-fns/date-fns
 - https://github.com/xxczaki/light-date
 - https://github.com/spencermountain/spacetime
+
+## LIB: PARSER
+- https://github.com/fb55/htmlparser2
+
+## LIB: UI
+- https://github.com/joe223/tiny-swiper
 
 ## LIB: FRONTEND ALL
 

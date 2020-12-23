@@ -407,6 +407,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://codyhouse.co/nuggets/text-gradients
 - https://codepen.io/cassie-codes/full/RwRORqB
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
+- https://codepen.io/smpnjn/pen/mdrWPpK
 
 ## TIPS
 

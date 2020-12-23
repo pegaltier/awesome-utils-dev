@@ -28,6 +28,7 @@
 - https://www.remove.bg
 - https://imagecompressor.com
 - https://shapeshifter.design
+- https://studio.polotno.dev
 - https://goanimate.com
 
 ## ICONS
