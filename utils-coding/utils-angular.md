@@ -188,14 +188,34 @@ npm cache clean
 npm install -g @angular/cli
 ```
 
-### UPGRADE NG VERSION
+### UPGRADE CLASSIC APP 
 
 ```
 npm outdated # Check for out of date modules
 ng update @angular/core @angular/cli # Update Angular
 ng update --all --force # Update all Angular and force
 npm update # Update non-Angular dependencies
-nx migrate @nrwl/workspace@x.x.x # Update with NX Workspace
+```
+
+### UPGRADE NX/XPLAT
+
+```
+nx migrate @nrwl/workspace@x.x.x # Update with NX Workspace (sol:1)
+nx migrate latest # Update with latest NX (sol:2)
+npm install
+nx migrate --run-migrations=migrations.json
+```
+
+NOTE: The packages you update may differ depending on your xplat workspace but this shows an example of a workspace that had web and nativescript platforms configured. It will usually be all the @nstudio packages in devDependencies.
+
+```
+nx migrate @nstudio/angular@11.0.3-rc.3
+nx migrate @nstudio/nativescript-angular@11.0.3-rc.3
+nx migrate @nstudio/nativescript@11.0.3-rc.3
+nx migrate @nstudio/web-angular@11.0.3-rc.3 
+nx migrate @nstudio/web@11.0.3-rc.3
+nx migrate @nstudio/xplat@11.0.3-rc.3
+npm install
 ```
 
 - https://update.angular.io
