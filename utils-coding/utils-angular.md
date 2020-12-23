@@ -218,9 +218,37 @@ nx migrate @nstudio/xplat@11.0.3-rc.3
 npm install
 ```
 
+Now that the latest versions installed, kick off the xplat architecture init to add the new xplat lib separations.
+
+You will want to pass just the platforms which you currently use in your workspace.
+The prefix you use can be the same your workspace is currently configured to use. This can be found in package.json under the xplat key.
+
+```
+nx g @nstudio/xplat:init --prefix=abc --platforms=web,nativescript --framework=angular
+```
+
+With the new architecture in place and the latest all installed, you can now kick off the workspace migration:
+```
+nx migrate --run-migrations=migrations.json
+```
+
+This will handle a lot of laborious manual update tasks like:
+
+Updating your tsconfig path mappings
+Updating imports throughout all shared and app code to match the new xplat lib barrels
+Update app configurations to use the latest Nx 11 has to offer
+Update nx.json and workspace to clean out old retired references and update to new ones
+Lastly move all your shared code into the new structure
+Lastly do a full clean of your workspace to ensure you're in good updated shape now:
+
+```
+npm run clean
+```
+
+### UPGRADE LINKS
 - https://update.angular.io
-- https://github.com/angular/angular-cli#updating-angular-cli <<< OFFICIAL
-- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4 <<< OFFICIAL
+- https://github.com/angular/angular-cli#updating-angular-cli
+- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 - https://www.techiediaries.com/updating-angular-cli-projects/
 - https://appdividend.com/2018/10/20/how-to-update-angular-cli-to-version-7/
 - https://blog.angularindepth.com/angular-5-or-angular-6-yes-please-d71b08b5e59b
