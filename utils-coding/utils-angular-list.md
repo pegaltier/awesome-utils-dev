@@ -1096,6 +1096,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
 - https://www.angulararchitects.io/konferenzen/the-microfrontend-revolution-module-federation-with-angular/
+- https://dev.to/manfredsteyer/tutorial-getting-started-with-webpack-module-federation-and-angular-2edd?utm_source=dormosheio&utm_campaign=dormosheio
 - https://www.youtube.com/watch?v=-ThsrA8hRLc AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 
 ## ECOSYSTEM: MONOREPO
