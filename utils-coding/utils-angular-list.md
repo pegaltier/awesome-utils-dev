@@ -1967,6 +1967,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/DenysVuika/developing-with-angular
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
+- https://github.com/nativescript-community/expo-nativescript
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example
