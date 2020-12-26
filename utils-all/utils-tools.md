@@ -7,6 +7,10 @@
 - https://metatags.io/font-generator
 - https://github.com/alyssaxuu/flowy
 
+## Setup
+
+- https://voiceofracismreplica.netlify.app/
+
 ## Desktop
 
 

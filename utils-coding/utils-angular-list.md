@@ -1822,6 +1822,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
 - https://github.com/ngneat/transloco
+- https://github.com/fkirc/attranslate
 - https://github.com/ngneat/transloco-keys-manager
 - https://github.com/ngx-translate/core
 - https://github.com/robisim74/angular-l10n

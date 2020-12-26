@@ -393,7 +393,9 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 ## CREATIVE
 
+- https://book-of-flowers.com/
 - https://www.aristidebenoist.com/
+- https://voiceofracismreplica.netlify.app/
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://github.com/codrops/InlineMenuLayout/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
