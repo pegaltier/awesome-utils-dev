@@ -92,6 +92,7 @@
 - https://github.com/gcanti/monocle-ts
 - https://github.com/maleet/marshal.ts
 - https://github.com/millsp/ts-toolbelt
+- https://github.com/sledorze/morphic-ts
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
 - https://github.com/krzkaczor/ts-essentials

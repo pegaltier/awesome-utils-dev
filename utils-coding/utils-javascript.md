@@ -205,9 +205,11 @@
 
 ## LIB: PARSER
 - https://github.com/fb55/htmlparser2
+- https://github.com/fb55/entities
 
 ## LIB: UI
 - https://github.com/joe223/tiny-swiper
+
 
 ## LIB: FRONTEND ALL
 
