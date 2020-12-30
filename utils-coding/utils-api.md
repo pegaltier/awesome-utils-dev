@@ -26,13 +26,16 @@
 - http://postman.com/
 - https://hoppscotch.io/
 - https://insomnia.rest/
+- https://pipedream.com/
+- https://github.com/APIs-guru
+- https://github.com/Azure/autorest
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
+
+## OPENAPI
 - https://github.com/swagger-api/swagger-codegen
 - https://github.com/OAI/OpenAPI-Specification
-- https://github.com/Azure/autorest
-- https://github.com/APIs-guru
-- https://pipedream.com/
+- https://github.com/drwpow/openapi-typescript
 
 ## MOCKS
 - https://jsonbox.io/

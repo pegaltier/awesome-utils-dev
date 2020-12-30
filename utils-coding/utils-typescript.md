@@ -56,6 +56,7 @@
 - https://github.com/runem/ts-simple-type
 - https://github.com/dsherret/ts-ast-viewer
 - https://github.com/piotrwitek/utility-types
+- https://github.com/drwpow/openapi-typescript
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/ostrowr/ts-json-validator
