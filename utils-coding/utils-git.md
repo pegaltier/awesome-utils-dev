@@ -44,6 +44,7 @@
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/jesseduffield/lazygit
 - https://github.com/observing/pre-commit
+- https://github.com/release-it/release-it
 - https://github.com/bahmutov/npm-install
 - https://github.com/github/super-linter
 - https://github.com/okonet/lint-staged

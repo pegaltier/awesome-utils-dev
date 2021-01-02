@@ -1882,6 +1882,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/oblique-bit/oblique
 - https://github.com/SAP/fundamental-ngx
 - https://github.com/dxc-technology/halstack-angular
+- https://github.com/positive-js/mosaic
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
@@ -1946,6 +1947,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
+- https://github.com/tieppt/angular-docker
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list
 - https://github.com/enten/angular-universal
