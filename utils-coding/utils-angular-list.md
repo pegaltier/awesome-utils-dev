@@ -1421,6 +1421,13 @@ Learn the best way to make your objects immutable.
 - https://github.com/vugar005/ngx-awesome-uploader
 - https://github.com/kukhariev/ngx-uploadx
 
+## ECOSYSTEM: LIB: ROUTING
+
+- https://github.com/brandonroberts/angular-routing
+- https://github.com/retarsis/routerkit
+- https://github.com/retarsis/routeshub
+- https://github.com/benwinding/ngext
+
 ## ECOSYSTEM: LIB: UTIL
 
 - https://github.com/danrevah/ngx-pipes
@@ -1441,9 +1448,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
 - https://github.com/ManuCutillas/ngx-responsive
-- https://github.com/brandonroberts/angular-routing
-- https://github.com/retarsis/routerkit
-- https://github.com/retarsis/routeshub
 - https://github.com/cristiammercado/ng-event-bus
 - https://github.com/ng-web-apis/workers
 - https://github.com/joanllenas/ngx-date-fns
