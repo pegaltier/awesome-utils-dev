@@ -61,6 +61,7 @@
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
 - https://github.com/formium/formik
+- https://github.com/clauderic/dnd-kit
 - https://github.com/BuilderIO/jsx-lite
 - https://github.com/tajo/react-movable
 - https://github.com/kitze/react-hanger
