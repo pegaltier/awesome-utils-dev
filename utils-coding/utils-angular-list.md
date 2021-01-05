@@ -911,6 +911,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/NetanelBasal/ngrx-generator
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/blove/ngrx-testing
+- https://github.com/timdeschryver/ngrx-immer
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 
@@ -1009,15 +1010,16 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 Discover alternative to ngrx for the state management of your objects.
 
-- https://github.com/stefanoslig/xstate-angular
-- https://github.com/kuncevic/rx-service
-- https://github.com/BioPhoton/ngx-rx
-- https://github.com/lacolaco/reactive-store
-- https://github.com/markostanimirovic/juliette
-- https://github.com/aikoven/typescript-fsa
 - https://github.com/nullpub/dux
 - https://github.com/mobxjs/mobx
 - https://github.com/ngxs/store
+- https://github.com/BioPhoton/ngx-rx
+- https://github.com/kuncevic/rx-service
+- https://github.com/spierala/mini-rx-store
+- https://github.com/aikoven/typescript-fsa
+- https://github.com/lacolaco/reactive-store
+- https://github.com/stefanoslig/xstate-angular
+- https://github.com/markostanimirovic/juliette
 - https://github.com/ngxs-labs/data
 - https://github.com/ngxs-labs/emitter
 - https://github.com/ngxs-labs/immer-adapter
@@ -1641,6 +1643,7 @@ Analyze and optimize the performance of your app
 - https://github.com/BioPhoton/angular-star-rating
 - https://github.com/BioPhoton/angular-signature-pad
 - https://github.com/Asymmetrik/ngx-leaflet
+- https://github.com/francoisromain/leaflet-markers-canvas
 - https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/text-mask/text-mask
 - https://github.com/KillerCodeMonkey/ngx-quill

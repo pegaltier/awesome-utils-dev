@@ -47,11 +47,12 @@
 - https://jsonplaceholder.typicode.com/
 
 ## OTHERS
-- https://aip.dev/
-- https://tools.ietf.org/html/rfc6749
+- https://aip.dev
+- http://feathersjs.com
+- https://www.gravitee.io
 - https://github.com/Netflix/falcor
-- https://www.quickdatabasediagrams.com/
-- http://feathersjs.com/
+- https://tools.ietf.org/html/rfc6749
+- https://www.quickdatabasediagrams.com
 
 ## ARTICLES
 - http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/

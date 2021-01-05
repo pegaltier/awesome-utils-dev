@@ -10,6 +10,7 @@
 ## AWESOME
 
 - https://github.com/heartexlabs/awesome-data-labeling
+- https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 
 ## TOOLS
 

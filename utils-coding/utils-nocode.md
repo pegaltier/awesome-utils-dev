@@ -30,6 +30,7 @@
 
 ## opensource
 - https://github.com/retejs/rete
+- https://github.com/google/blockly
 - https://github.com/xlayers/xlayers
 - https://github.com/BuilderIO/builder
 - https://github.com/SoftwareBrothers/admin-bro
