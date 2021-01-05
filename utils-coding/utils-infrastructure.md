@@ -34,6 +34,7 @@
 - https://github.com/appvia/kev
 - https://github.com/Portshift/kubei
 - https://github.com/cloudmelon/melonkube
+- https://github.com/kubernetes/dashboard
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/tomhuang12/awesome-k8s-resources
 - https://github.com/kubernauts/jmeter-kubernetes
