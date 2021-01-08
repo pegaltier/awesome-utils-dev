@@ -48,6 +48,7 @@
 - https://github.com/release-it/release-it
 - https://github.com/bahmutov/npm-install
 - https://github.com/github/super-linter
+- https://github.com/lowlighter/metrics
 - https://github.com/okonet/lint-staged
 - https://github.com/commitizen/cz-cli
 - https://github.com/eth0izzle/shhgit

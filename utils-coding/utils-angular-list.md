@@ -1429,12 +1429,14 @@ Learn the best way to make your objects immutable.
 - https://github.com/retarsis/routerkit
 - https://github.com/retarsis/routeshub
 - https://github.com/benwinding/ngext
+- https://github.com/ui-router/angular
 
 ## ECOSYSTEM: LIB: UTIL
 
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/Nolanus/ngx-page-scroll
+- https://github.com/nicky-lenaers/ngx-scroll-to
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/brtnshrdr/angular2-hotkeys

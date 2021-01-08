@@ -17,6 +17,7 @@
 - http://www.baeldung.com/rest-with-spring-course
 - https://github.com/RameshMF/spring-boot-tutorial
 - https://github.com/RameshMF/Hibernate-ORM-Tutorials
+- https://github.com/livelessons-spring/building-microservices
 
 ## FRAMEWORK
 - https://github.com/quarkusio/quarkus
@@ -40,6 +41,7 @@
 - https://quarkus.io/
 - https://github.com/agoncal
 - https://antoniogoncalves.org/tag/micro-services/
+- https://github.com/livelessons-spring/building-microservices
 
 ## NEWS
 - https://java.libhunt.com/newsletter/186

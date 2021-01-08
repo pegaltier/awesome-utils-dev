@@ -35,6 +35,7 @@
 - https://picons.me
 - https://logojoy.com
 - http://iconstore.co
+- https://openmoji.org
 - https://heroicons.com
 - https://fonticons.com
 - https://iconmonstr.com
