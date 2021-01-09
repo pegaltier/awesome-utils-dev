@@ -47,6 +47,7 @@
 - https://github.com/hqoss/guards
 - https://github.com/palmerhq/tsdx
 - https://github.com/kutyel/linq.ts
+- https://github.com/microsoft/tsdoc
 - https://github.com/renke/import-sort
 - https://github.com/radarsu/ts-import
 - https://github.com/compodoc/ts-stats

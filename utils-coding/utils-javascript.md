@@ -231,6 +231,7 @@
 - https://github.com/mamunhpath/josh.js
 - https://github.com/greensock/GSAP
 - https://github.com/mikecao/umami
+- https://github.com/zenorocha/clipboard.js
 
 ## LIB: FRONTEND DESIGN
 
