@@ -188,6 +188,7 @@ weissratings
 ## COLD WALLET
 - https://billfodl.com/
 - https://coldbit.com/
+- https://hodlr.swiss/
 - https://coinstorage.guru/
 - https://cryptokeystack.com/
 - https://protectingcoin.com/

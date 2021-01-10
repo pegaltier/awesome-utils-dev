@@ -232,6 +232,7 @@
 - https://github.com/greensock/GSAP
 - https://github.com/mikecao/umami
 - https://github.com/zenorocha/clipboard.js
+- https://github.com/grid-js/gridjs
 
 ## LIB: FRONTEND DESIGN
 
