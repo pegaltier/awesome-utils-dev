@@ -78,6 +78,7 @@
 - https://github.com/ronami/meta-typing
 - https://github.com/codemix/ts-sql
 - https://github.com/thi-ng/umbrella
+- https://github.com/jpbulman/Advanced-Sets
 
 ## LIB: COMPONENTS
 
