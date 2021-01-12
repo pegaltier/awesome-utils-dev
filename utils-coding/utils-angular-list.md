@@ -1633,6 +1633,7 @@ Analyze and optimize the performance of your app
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/wittlock/ngx-image-zoom
 - https://github.com/ng2-ui/auto-complete
+- https://github.com/ngneat/edit-in-place
 - https://github.com/oferh/ng2-completer
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
