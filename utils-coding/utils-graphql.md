@@ -13,6 +13,7 @@
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
 ## LIB
+- https://github.com/imolorhe/altair
 - https://github.com/jagql/framework
 - https://github.com/dgraph-io/dgraph
 - https://github.com/graphql/dataloader
@@ -23,6 +24,7 @@
 - https://github.com/APIs-guru/graphql-voyager
 - https://github.com/calmonr/typegraphql-relay
 - https://github.com/contrawork/graphql-helix
+- https://github.com/dabit3/cdk-graphql-backend
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/ef-eng/graphql-query-rewriter
 - https://github.com/rahmanfadhil/learn-typegraphql

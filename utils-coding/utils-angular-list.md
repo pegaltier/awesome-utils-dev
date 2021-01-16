@@ -1031,6 +1031,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/maktarsis/routeshub
 - https://github.com/danwahlin/observable-store
 - https://github.com/redux-observable/redux-observable
+- https://github.com/markerikson/redux-ecosystem-links
 - https://github.com/angular-extensions/model
 - https://github.com/universal-model/universal-model-angular
 - https://github.com/davidkpiano/xstate/
@@ -1130,6 +1131,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/nrwl/nx
 - https://github.com/jscutlery/semver
+- https://github.com/atlassian/changesets
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
 - https://github.com/nrwl/nx-custom-layout
@@ -1610,6 +1612,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/hirezio/jasmine-auto-spies
 - https://stackblitz.com/edit/angular-testing-v7
 - https://github.com/blove/ngrx-testing
+- https://github.com/ngworker/ngworker
 
 ## ECOSYSTEM: LIB: OPTIMIZATION
 
@@ -1810,6 +1813,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngneat/dirty-check-forms
 - https://github.com/ngneat/forms-manager
 - https://github.com/ngneat/error-tailor
+- https://github.com/ngneat/bind-query-params
 - https://github.com/xtreamsrl/ngx-validation-errors
 - https://github.com/zebzhao/Angular-QueryBuilder
 - https://github.com/JohannesHoppe/angular-date-value-accessor
