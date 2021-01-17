@@ -876,9 +876,11 @@ There is a new module called @angular/fire which helps to automatize the whole d
 ### SCULLY
 
 - use isScullyRunning to know if the prerendering is running, like that you can adapt different logic depending on if this is the angular app or scully rendering or static website...
+- use isScullyGenerated to know if the app has been prerendered and it's the final static angular webapp that is running. In this case you can get state from the transferState feature else the app will be in angular mode or in prerendering mode and in this case you can set the transferState by getting the data from the api...
 - ignore route using type: 'ignored' instead of type: 'contentFolder' in the scully config of the project
 - build only the route you are asking for using the command line route filter: ex: npm run scully -- --watch --routeFilter=/donuts/*
 - use state transfer to cache api data in the same server and in plain json object.
+- use the scully utility called herodevs/scully-plugin-the-vault in order to cache your api requests, for instance if two pages make the same call the api is called only once. Consequently it speed up the build time and also save resources and money.
 
 ## TIPS
 

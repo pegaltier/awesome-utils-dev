@@ -190,6 +190,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/elemental-chat
 - https://github.com/nphias/transactor
 - https://github.com/Sprillow/cmdchatter
+- https://github.com/kristoferlund/hc-graphql-todo
 
 ### HOLOCHAIN TOOLS GITHUB
 

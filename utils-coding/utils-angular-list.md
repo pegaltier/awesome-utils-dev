@@ -198,6 +198,7 @@ Learn about the most useful design patterns in Angular.
 - https://slides.com/tuantrungvo/angular-using-visitor-design-pattern-with-typescript
 - https://dev.to/gc_psk/composing-angular-components-with-typescript-mixins-dn3
 - https://medium.com/angular-in-depth/agnostic-components-in-angular-2427923b742d
+- https://indepth.dev/posts/1417/demystifying-taiga-ui-root-component-portals-pattern-in-angular
 - https://paulrobertlloyd.com/2017/03/designing_systems_part_3/
 - https://medium.com/javascript-in-plain-english/why-you-should-generally-prefer-typescript-interfaces-and-custom-types-over-classes-d145814218ce
 - https://carloscaballero.io/understanding-mvc-services-for-frontend-angular/
@@ -206,6 +207,7 @@ Learn about the most useful design patterns in Angular.
 - https://refactoring.guru/design-patterns/catalog
 - https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
 - https://dev.to/humberd/context-menu-actions-at-scale-command-pattern-in-a-real-life-scenario-9o0
+- https://dev.to/carlillo/understanding-design-patterns-factory-method-52fc
 - https://github.com/Humberd/command-pattern-in-angular
 - https://github.com/nirkaufman/patterns-starters
 
@@ -375,12 +377,15 @@ production, build, bundle...
 
 ## CORE: BUILDER
 
-CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK
+CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 
 - https://ngx.tools/
 - https://angular-builders.dev/home
 - https://github.com/angular/angular-cli/issues/6137
+- https://github.com/bampakoa/ngx-electronify
 - https://github.com/mgechev/cli-builders-demo
+- https://github.com/bikecoders/ngx-deploy-npm
+- https://github.com/Azure/ng-deploy-azure
 - https://github.com/manfredsteyer/ngx-build-plus
 - https://github.com/ngx-builders/angular-builder
 - https://github.com/ngx-builders/netlify-builder
@@ -1002,6 +1007,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://www.youtube.com/watch?v=6H31VLtS4ZA component store - july 15
 - https://www.twitch.tv/videos/710076459 Angular Unfiltered - NgRx V10 
 
+- https://indepth.dev/posts/1408/how-to-manage-angular-state-in-your-components
 - https://medium.com/javascript-in-plain-english/introducing-ngrx-component-store-part-1-67019dba0cb0
 - https://medium.com/javascript-in-plain-english/ngrx-component-store-deep-dive-947c0a5be6dc
 - https://medium.com/ngrx/announcing-ngrx-version-10-new-packages-for-local-component-state-and-reactive-components-swag-62bedda0be91
@@ -1066,6 +1072,13 @@ Discover alternative to ngrx for the state management of your objects.
 
 ## ECOSYSTEM: MICROFRONTEND
 
+- https://frint.js.org
+- https://www.mosaic9.org
+- https://single-spa.js.org
+- https://micro-frontends.org
+- https://github.com/SAP/luigi
+- https://github.com/phodal/mooa
+- https://github.com/smapiot/piral
 - https://github.com/umijs/qiankun
 - https://github.com/module-federation
 - https://github.com/worktile/ngx-planet
@@ -1074,6 +1087,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/microfrontend-prototype
+- https://github.com/manfredsteyer/multi-framework-micro-frontend
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/manfredsteyer/module-federation-with-angular
 - https://github.com/manfredsteyer/module-federation-plugin-example
@@ -1081,10 +1095,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/TinkoffCreditSystems/shared-library-webpack-plugin
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/newvladimirov/module-federation-with-angular-universal
-- https://github.com/alexzuza/angular-plugin-architecture-with-module-federation-
-- https://frint.js.org/
-- https://single-spa.js.org/
-- https://micro-frontends.org/
+- https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
 - https://leanpub.com/enterprise-angular
 - https://www.infoq.com/podcasts/micro-frontends-dazn/
 - https://ruairidh.dev/introduction-to-micro-frontends
@@ -1105,6 +1116,10 @@ Discover alternative to ngrx for the state management of your objects.
 ## ECOSYSTEM: MONOREPO
 
 ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
+
+Since NX11 The @nrwl/devkit package naming is different:
+- builders are now executors in fact builder execute a kind of command
+- schematics are now generators in fact schematics are just a tool for code genarator automation
 
 - https://youtu.be/piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 - https://youtu.be/tTR9OVMC0VE ngConf & Nx Webinar: Never Build the Same Code Twice with Nx Cloud
@@ -1250,6 +1265,9 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 ## ECOSYSTEM: JAMSTACK
 
+- https://github.com/stewones/scully-demo
+- https://github.com/yangjunhan/scully-example
+- https://github.com/samvloeberghs/ng-v9-localized-scullyio
 - https://github.com/samvloeberghs/scully-universal
 - https://github.com/snipcart/scully-snipcart-store
 - https://github.com/d-koppenhagen/d-koppenhagen.de
@@ -1257,6 +1275,9 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://d-koppenhagen.de/blog/2020-01-angular-scully
 - https://d-koppenhagen.de/blog/2020-03-dig-deeper-into-scully-ssg
 - https://snipcart.com/blog/angular-static-site-generator-scully
+- https://solocoding.dev/blog/eng_angular_angular_ci_cd_githupactions
+- https://solocoding.dev/blog/eng_angular_title_meta_tags_Angular_Scully 
+- https://www.netlify.com/blog/2020/02/24/update-on-scully-angulars-static-site-generator/  
 - https://samvloeberghs.be/posts/scully-or-angular-universal-what-is-the-difference
 - https://samvloeberghs.be/posts/custom-plugins-for-scully-angular-static-site-generator
 - https://www.netlify.com/blog/2019/12/17/building-an-angular-jamstack-app-with-scully/
@@ -1304,6 +1325,10 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/ng-web-apis/universal
 - https://github.com/chrisguttandin/angular-prerender
 - https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
+
+## ECOSYSTEM: LIB: SCULLY
+
+- https://www.npmjs.com/search?q=scully
 - https://github.com/fulls1z3/ngx-meta
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
@@ -1319,6 +1344,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/scullyio/scully/tree/main/libs/plugins/base-href-rewrite
 - https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-disable-angular
 - https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-minify-html
+- https://github.com/scullyio/scully/blob/main/scully.sample-blog.config.ts
+- https://github.com/samvloeberghs/ng-v9-localized-scullyio/blob/master/scully.ng-v9-localized-scullyio.config.js 
 
 ## ECOSYSTEM: LIB: IMMUTABLE
 
@@ -1391,11 +1418,11 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/ded/script.js
 - https://github.com/mgechev/ngx-quicklink
+- https://github.com/mgechev/ngx-hover-preload
 - https://github.com/angular-extensions/elements
 - https://github.com/mohammedzamakhan/ngx-loadable
 - https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
-
 
 ## ECOSYSTEM: LIB: DOM
 
@@ -1470,6 +1497,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/pjlamb12/runtime-config-loader
 - https://github.com/KostyaTretyak/ng-stack
 - https://github.com/KoderLabs/ngx-device-detector
+- https://github.com/herodevs/herodevs-packages
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
@@ -1897,6 +1925,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/SAP/fundamental-ngx
 - https://github.com/dxc-technology/halstack-angular
 - https://github.com/positive-js/mosaic
+- https://github.com/src-zone/material
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/zoomsphere/ngx-store
@@ -2209,16 +2238,17 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## ECOSYSTEM: BOOK
 
 - https://ng-book.com/2
-- https://angulararchitecture.com/
-- https://books.ninja-squad.com/angular2
-- https://gumroad.com/l/angular-universal/
-- https://leanpub.com/angular2-book
 - https://angular.institute
+- http://AngularAdvocate.com
+- https://angulararchitecture.com
+- https://leanpub.com/angular2-book
+- https://books.ninja-squad.com/angular2
+- https://gumroad.com/l/angular-universal
+- https://github.com/codecraft-tv/angular-course
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://manning.com/books/angular-2-development-with-typescript
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison
 - https://egghead.io/series/angular-2-fundamentals
-- http://AngularAdvocate.com
 - https://leanpub.com/developing-with-angular
 
 

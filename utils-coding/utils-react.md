@@ -13,7 +13,8 @@
 
 # REACT
 
-## STYLE GUIDE
+## GUIDE
+- https://2ality.com/2020/08/minimal-react.html
 - https://github.com/airbnb/javascript/tree/master/react
 - https://khalilstemmler.com/articles/client-side-architecture/introduction/
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
@@ -29,7 +30,6 @@
 ## CLI
 - https://github.com/facebookincubator/create-react-app
 - https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
-
 
 ## TOOLS
 - https://www.plasmic.app/
