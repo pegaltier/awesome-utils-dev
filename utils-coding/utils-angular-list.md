@@ -1292,6 +1292,7 @@ Learn how to make your own angular lib, build, distribute.
 
 - https://github.com/kreuzerk/ng-samurai
 - https://github.com/ng-packagr/ng-packagr
+- https://github.com/robisim74/angular-library-starter
 - https://github.com/TinkoffCreditSystems/angular-open-source-starter
 - https://github.com/tomastrajan/angular-library-architecture-example
 - https://github.com/mattlewis92/generator-angular-library
@@ -1438,6 +1439,9 @@ Learn the best way to make your objects immutable.
 - https://github.com/TinkoffCreditSystems/ng-dompurify
 - https://github.com/TinkoffCreditSystems/ng-event-plugins
 - https://github.com/cloudnc/ngx-favicon
+- https://github.com/dhilt/ngx-ui-scroll
+- https://github.com/Nolanus/ngx-page-scroll
+- https://github.com/nicky-lenaers/ngx-scroll-to
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -1464,8 +1468,6 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
-- https://github.com/Nolanus/ngx-page-scroll
-- https://github.com/nicky-lenaers/ngx-scroll-to
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/brtnshrdr/angular2-hotkeys
