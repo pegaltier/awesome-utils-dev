@@ -55,6 +55,7 @@
 
 - https://github.com/uber/baseweb
 - https://github.com/Hotell/rea-di
+- https://github.com/pmndrs/valtio
 - https://github.com/TimboKZ/Chonky
 - https://github.com/moroshko/basis
 - https://github.com/Swizec/useAuth

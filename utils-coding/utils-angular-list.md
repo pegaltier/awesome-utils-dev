@@ -563,6 +563,7 @@ Learn the reactive programming using rxjs.
 - https://www.rxjs-fruits.com
 - https://github.com/moroshko/rxviz
 - https://github.com/btroncone/learn-rxjs
+- https://github.com/ichpuchtli/awesome-rxjs
 - https://github.com/jsonberry/rxjs-examples
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 - https://blog.briebug.com/blog/what-can-i-do-with-observables
@@ -1506,6 +1507,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/w11k/ngx-componentdestroyed
+- https://github.com/w11k/rx-ninja
 - https://github.com/gcanti/fp-ts-rxjs
 - https://github.com/wardbell/subsink
 - https://github.com/cartant/rxjs-xyz
