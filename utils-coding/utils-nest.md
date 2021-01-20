@@ -16,6 +16,11 @@
 - https://github.com/ToonvanStrijp/nestjs-i18n
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/hardyscc/nestjs-cqrs-starter
+- https://github.com/silicon-hills/nestjs-crud-prisma
+- https://github.com/jmcdo29/nest-docker-template
+- https://github.com/jmcdo29/nestjs-commander
+- https://github.com/jmcdo29/nestjs-spelunker
+- https://github.com/jmcdo29/testing-nestjs
 
 ## EXAMPLE
 

@@ -137,9 +137,10 @@
 
 ## LIB: DEVTOOLS
 
+- https://github.com/sverweij/dependency-cruiser
 - https://github.com/addyosmani/critical
 - https://github.com/NectarJS/nectarjs
-- https://github.com/sverweij/dependency-cruiser
+- https://github.com/projen/projen
 
 ## LIB: DATABASE
 - https://github.com/pubkey/rxdb
@@ -216,6 +217,7 @@
 - https://github.com/xdan/jodit
 - https://github.com/matthewp/robot
 - https://github.com/needim/noty
+- https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/easylogic/codemirror-colorpicker

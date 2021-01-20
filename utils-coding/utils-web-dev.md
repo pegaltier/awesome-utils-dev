@@ -398,6 +398,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://voiceofracismreplica.netlify.app/
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://github.com/codrops/InlineMenuLayout/
+- https://github.com/codrops/OnScrollLetterAnimations
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/

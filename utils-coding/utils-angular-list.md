@@ -1325,6 +1325,7 @@ Learn how to make your own angular lib, build, distribute.
 
 - https://github.com/scullyio/scully
 - https://github.com/ng-web-apis/universal
+- https://github.com/TrilonIO/ng-universal
 - https://github.com/chrisguttandin/angular-prerender
 - https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
 
@@ -1459,7 +1460,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: ROUTING
 
-- https://github.com/brandonroberts/angular-routing
+- https://github.com/angular-component/router
 - https://github.com/retarsis/routerkit
 - https://github.com/retarsis/routeshub
 - https://github.com/benwinding/ngext
@@ -1745,6 +1746,7 @@ Analyze and optimize the performance of your app
 - https://github.com/SheetJS/sheetjs
 - https://github.com/ag-grid/ag-grid
 - https://github.com/paulhodel/jexcel
+- https://github.com/shlomiassaf/ngrid
 - https://github.com/yohangz/ornamentum
 - https://github.com/sbstjn/timesheet.js
 - https://github.com/kreuzerk/ng-sortgrid

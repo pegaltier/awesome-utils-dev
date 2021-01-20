@@ -97,6 +97,7 @@
 - https://github.com/microsoft/fluentui
 - https://github.com/grommet/grommet
 - https://github.com/rebassjs/rebass
+- https://github.com/appnexus/lucid
 - https://github.com/arwes/arwes
 - https://github.com/airbnb/visx
 
@@ -109,8 +110,9 @@
 
 - https://github.com/facebook/react-native
 - https://github.com/react-native-menu/menu
-- https://github.com/ravirupareliya/rn-in-app-review
+- https://github.com/facebook/react-native-fbsdk
 - https://github.com/expo/create-react-native-app
 - https://github.com/arnnis/react-native-fast-toast
+- https://github.com/ravirupareliya/rn-in-app-review
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 - https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html
