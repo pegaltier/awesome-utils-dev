@@ -1658,6 +1658,7 @@ Analyze and optimize the performance of your app
 - https://github.com/addyosmani/puppeteer-webperf
 - https://github.com/ngx-builders/source-map-analyzer
 - https://github.com/webpack-contrib/webpack-bundle-analyzer
+- https://github.com/stephencookdev/speed-measure-webpack-plugin
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
@@ -1667,6 +1668,7 @@ Analyze and optimize the performance of your app
 - https://github.com/dig-platform/ngx-stackblitz
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/KensingtonTech/ng2-panzoom
+- https://github.com/vlio20/angular-datepicker
 - https://github.com/wittlock/ngx-image-zoom
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/ngneat/edit-in-place
