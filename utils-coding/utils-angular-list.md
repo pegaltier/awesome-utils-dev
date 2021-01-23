@@ -1337,6 +1337,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/samvloeberghs/kwerri-oss
 - https://github.com/etavener/scully-tools
 - https://github.com/Gorniv/ngx-universal
+- https://github.com/notiz-dev/scully-plugins
 - https://github.com/pjlamb12/scully-plugin-page-title
 - https://github.com/pjlamb12/scully-plugin-canonical
 - https://github.com/d-koppenhagen/scully-plugin-mermaid
@@ -1669,6 +1670,8 @@ Analyze and optimize the performance of your app
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/vlio20/angular-datepicker
+- https://github.com/pjlamb12/angular-loaders
+- https://github.com/pjlamb12/ngx-plug-n-play
 - https://github.com/wittlock/ngx-image-zoom
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/ngneat/edit-in-place
