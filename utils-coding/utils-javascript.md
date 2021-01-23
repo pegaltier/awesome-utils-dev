@@ -117,6 +117,7 @@
 - https://github.com/Tencent/omi
 - https://github.com/kbrsh/moon
 - https://github.com/cyclejs/cyclejs
+- https://github.com/smallbets/userbase
 - https://electronjs.org/
 - https://nwjs.io/  
 
@@ -152,9 +153,10 @@
 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
-- https://github.com/vvo/javascript-library-template
 - https://github.com/JSMonk/hegel
+- https://github.com/ulid/javascript
 - https://github.com/nuxt-contrib/consola
+- https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev
 - https://github.com/stoeffel/awesome-fp-js
 - https://github.com/sorrycc/awesome-javascript

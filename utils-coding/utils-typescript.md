@@ -104,6 +104,7 @@
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/typestack/class-validator
 - https://github.com/typestack/class-transformer
+- https://github.com/YousefED/typescript-json-schema
 - https://github.com/gbumanzordev/payload-transformer
 
 ## LIB: DATABASE
