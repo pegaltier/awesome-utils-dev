@@ -2,6 +2,7 @@
 
 ## STANDARD
 
+- https://github.com/alexeymezenin/laravel-best-practices
 - http://eilgin.github.io/php-the-right-way/
 - https://github.com/dseguy/clearPHP
 - https://github.com/odan/learn-php

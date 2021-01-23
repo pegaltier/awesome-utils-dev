@@ -15,6 +15,8 @@
 
 ## GUIDE
 - https://2ality.com/2020/08/minimal-react.html
+- https://github.com/harryheman/React-Questions
+- https://github.com/iamshaunjp/Complete-React-Tutorial
 - https://github.com/airbnb/javascript/tree/master/react
 - https://khalilstemmler.com/articles/client-side-architecture/introduction/
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
