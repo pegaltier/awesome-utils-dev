@@ -182,6 +182,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/module-template
 - https://github.com/holochain-open-dev/profiles-module
 - https://github.com/holochain-open-dev/membrane-roles
+- https://github.com/holochain-open-dev/interzome
 - https://github.com/holochain-open-dev/common
 - https://github.com/holochain-playground/blockly
 - https://github.com/guillemcordoba/membrane-roles-module
