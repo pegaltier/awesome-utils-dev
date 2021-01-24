@@ -58,6 +58,7 @@ https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-publ
 - https://github.com/rabbits-finance/rabbits-finance
 - https://github.com/coral-finance/coral-contracts
 - https://github.com/coral-finance/shell-contracts
+- https://github.com/PIEOS-Builders/pieos-contracts
 - https://github.com/sugarfinance/sugartokensa
 - https://github.com/EOSArgentina/evolutiondex
 - https://github.com/zhou-blip/chicken-finance
