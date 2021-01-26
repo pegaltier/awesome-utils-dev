@@ -199,6 +199,7 @@
 ## LIB: ARCHI
 - https://github.com/mgechev/injection-js
 - https://github.com/inversify/InversifyJS
+- https://github.com/Livshitz/di.libx.js
 - https://github.com/microsoft/tsyringe
 
 ## LIB: DATE

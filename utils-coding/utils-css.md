@@ -9,6 +9,7 @@
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
 - https://www.magicpattern.design/tools/css-backgrounds/
+- https://github.com/michael-andreuzza/wickedblocks
 - https://9elements.github.io/fancy-border-radius
 - https://github.com/picturepan2/devices.css
 - https://cssbuttons.vercel.app/

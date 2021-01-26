@@ -1088,6 +1088,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/microfrontend-prototype
+- https://github.com/manfredsteyer/nx-and-module-federation
 - https://github.com/manfredsteyer/multi-framework-micro-frontend
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/manfredsteyer/module-federation-with-angular
@@ -1999,6 +2000,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES
 
+- https://github.com/mraible/ng-demo
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/tieppt/angular-docker
@@ -2022,6 +2024,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/gbumanzordev/ng-docker-boilerplate
 - https://github.com/santoshyadavdev/threejsAngularDemo
 - https://github.com/DenysVuika/developing-with-angular
+- https://github.com/start-angular/SB-Admin-BS4-Angular-8
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
 - https://github.com/nativescript-community/expo-nativescript
@@ -2234,6 +2237,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.reddit.com/r/Angular2/
 - https://dev.to/angular
 - http://blog.mgechev.com/
+- https://jameshenry.blog/
 - https://blog.thoughtram.io/
 - https://angularconferences.com/
 - http://brianflove.com/
