@@ -27,6 +27,7 @@
 ## TOP DEV
 - https://github.com/near/create-near-app
 - https://github.com/BlockchainCommons/bc-ur-java
+- https://github.com/steve-vincent/awesome-decentralized
 
 ## QUOTES/ACTIVITY
 - http://charts.woobull.com
