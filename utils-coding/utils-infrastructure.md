@@ -33,6 +33,7 @@
 
 ## KUBERNETES
 - https://github.com/appvia/kev
+- https://github.com/lensapp/lens
 - https://github.com/Portshift/kubei
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard
