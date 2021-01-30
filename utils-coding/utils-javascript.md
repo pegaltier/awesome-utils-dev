@@ -65,6 +65,7 @@
 - https://github.com/javascript-tutorial/en.javascript.info
 - https://github.com/MostlyAdequate/mostly-adequate-guide
 - https://github.com/ryanmcdermott/clean-code-javascript
+- https://github.com/30-seconds/30-seconds-of-interviews
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/trekhleb/javascript-algorithms
@@ -215,6 +216,8 @@
 ## LIB: UI
 - https://github.com/joe223/tiny-swiper
 
+## LIB: HARDWARE
+- https://github.com/svendahlstrand/web-serial-api
 
 ## LIB: FRONTEND ALL
 

@@ -30,6 +30,7 @@
 - github.com/ndelphit/apkurlgrep
 - github.com/chenjj/CORScanner
 - github.com/th3unkn0n/facebash-termux
+- github.com/DontPanicO/jwtXploiter
 
 ## WEB SCAM / VIRUS
 - safebrowsing.google.com/safebrowsing/report_phish/?hl=en

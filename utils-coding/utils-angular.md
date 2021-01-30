@@ -324,6 +324,10 @@ npm run scully -- --watch
 
 - The libs must be split in two part: data-access-namefeature and feature-shell-namefeature. The data-access-namefeature will probably export via the barrel file the models, services, ngrx selectors... On the contrary the feature-shell-namefeature should not export that much except the module itself.
 
+### AFFECTED
+
+NX affected work by default comparing the code affected between the current state and the latest commit in the master branch, it's possible to change the base branch and the head. however there are other special behavior for instance when you pass uncommited or untracked of a files list in input then it works using this file list
+
 ### REUSABLE LIB
 
 - In the specific app: develop components that will be injected with this.router.resetConfig
@@ -336,6 +340,14 @@ To try:
 - Create an injection token and pass specific components/routing through it
 - Use a third parties lib to dynamically instantiate components
 
+## LINTING
+
+```
+npx mrm lint-staged
+rm .git/hooks/pre-commit
+npx husky
+npm rebuild
+```
 
 ## HTTP POST PARAMS
 
@@ -677,6 +689,23 @@ test end to end (voir ninja angular page 157)
 
 - Shared modules will be imported by many lazy loaded features so they must only contain declarables (components, directives and pipes) and modules (which only contain declarables) and must NEVER implement any services (providers: [ ]).
 
+### Module configuration
+
+#### Declarations
+
+The declarations array only takes declarables. Declarables are components, directives and pipes. Declarables must belong to exactly one module. The compiler emits an error. Pipes is a special case. must also be added to the providers array if you use transform function in a component template or if you want to use inject it via a constructor. You can also instead provide your pipe locally to the component or else use the providedIn 'root' if you want to share it globally.
+
+#### Imports
+
+A template can use exported declarables from any imported module, including those from modules that are imported indirectly and re-exported. For example, ModuleA imports ModuleB, and also exports it, which makes the declarables from ModuleB available wherever ModuleA is imported.
+
+#### Exports 
+
+...
+
+#### 
+
+
 ### Dependency injection (DI)
 
 Injectors are inherited, which means that if a given injector can't resolve a dependency, it asks the parent injector. A component/directives can get services from its own injector, from the injectors of its component ancestors, from the injector of its parent NgModule, or from the root injector (created from the app module).
@@ -693,6 +722,7 @@ Injectors are inherited, which means that if a given injector can't resolve a de
 - Non singleton services. You can use the providedIn: 'any' in order to create isolated (contrary to a singleton) services for every child injector.
 
 ### Providing
+
 - Then you must understand the different kind of injection you can do, in fact you can inject either a class, a value, a factory and even more:
 - class: { provide: MyService, useClass: MyService } // It is a shortcut for MyService
 - value: { provide: MY_CONST,  useValue: "https://my.text" } // MY_CONST must be declared as InjectionToken<string>

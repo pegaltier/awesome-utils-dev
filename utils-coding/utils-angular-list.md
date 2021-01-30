@@ -210,6 +210,8 @@ Learn about the most useful design patterns in Angular.
 - https://dev.to/carlillo/understanding-design-patterns-factory-method-52fc
 - https://github.com/Humberd/command-pattern-in-angular
 - https://github.com/nirkaufman/patterns-starters
+- https://github.com/Itchimonji/design-patterns-in-angular
+- https://github.com/Itchimonji/refactoring-switch-statements-in-angular
 
 ## HELPER: CHEAT-SHEETS
 
@@ -673,10 +675,11 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/schuchard/ng-schematics
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/niklas-wortmann/ngx-pact
+- https://github.com/herodevs/material-studies
+- https://github.com/bennymeg/nx-electron
 - https://github.com/Teebo/scss-migrate
 - https://github.com/ngxs/schematics
 - https://github.com/ngneat/tailwind
-- https://github.com/bennymeg/nx-electron
 - https://github.com/angular-architects/nx-ddd-plugin
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/d-koppenhagen/schematics-helpers-playground
@@ -1235,6 +1238,9 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://docs.google.com/presentation/d/1pBh13OQlNU014ImABfP-8MXJL3eIuXLdBdMvp9ZVIuc/edit#slide=id.g41a47c59d4_0_3
 - https://courses.nativescripting.com/courses/nativescript-with-nx-workspaces-and-xplat/lectures/25021523
 - https://juristr.com/blog/2020/05/nx-libs-with-assets/
+- https://medium.com/showpad-engineering/how-to-programmatically-enforce-boundaries-between-applications-and-libraries-in-an-nx-monorepo-39bf8fbec6ba
+- https://codeburst.io/continuous-integration-lint-staged-husky-pre-commit-hook-test-setup-47f8172924fc
+- https://emilyxiong.medium.com/my-nx-project-boilerplate-7e0aa95f848
 
 ## ECOSYSTEM: SEEDS
 
@@ -1395,10 +1401,13 @@ Learn the best way to make your objects immutable.
 - https://github.com/wesbos/eslint-config-wesbos
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
+- https://github.com/prettier/tslint-config-prettier
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://github.com/cartant/eslint-plugin-rxjs-angular
 - https://github.com/sindresorhus/eslint-plugin-unicorn
 - https://github.com/typescript-eslint/typescript-eslint
+- https://github.com/trivago/prettier-plugin-sort-imports
+- https://github.com/MarkKragerup/weblint-eslint-security
 - https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/cyrilletuzi/typescript-strictly-typed
 - https://github.com/danielnixon/eslint-plugin-total-functions
@@ -1657,6 +1666,7 @@ Analyze and optimize the performance of your app
 - https://github.com/puppeteer/puppeteer
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/danvk/source-map-explorer
+- https://github.com/ivanblazevic/ngx-unused-css
 - https://github.com/addyosmani/puppeteer-webperf
 - https://github.com/ngx-builders/source-map-analyzer
 - https://github.com/webpack-contrib/webpack-bundle-analyzer
@@ -1668,6 +1678,7 @@ Analyze and optimize the performance of your app
 - https://github.com/drozhzhin-n-e/ng2-tooltip-directive
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/dig-platform/ngx-stackblitz
+- https://github.com/madoar/angular-archwizard
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/vlio20/angular-datepicker
@@ -1680,6 +1691,8 @@ Analyze and optimize the performance of your app
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/daybrush/moveable
+- https://github.com/sitecore/jss
+- https://github.com/ng-select/ng-select
 - https://github.com/cipchk/ngx-filesaver
 - https://github.com/mgechev/ngx-circular-player
 - https://github.com/angular-material-extensions
@@ -2007,6 +2020,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list
 - https://github.com/enten/angular-universal
+- https://github.com/herodevs/material-studies
 - https://github.com/Angular-RU/universal-starter
 - https://github.com/retarsis/angular-warehouse
 - https://github.com/maximegris/angular-electron

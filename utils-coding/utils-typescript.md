@@ -51,6 +51,7 @@
 - https://github.com/renke/import-sort
 - https://github.com/radarsu/ts-import
 - https://github.com/compodoc/ts-stats
+- https://github.com/jeffijoe/typesync
 - https://github.com/nobrainr/morphism
 - https://github.com/airbnb/ts-migrate
 - https://github.com/SamVerschueren/tsd

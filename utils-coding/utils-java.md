@@ -4,11 +4,13 @@
 ## LEARN
 - https://github.com/iluwatar/java-design-patterns
 - https://github.com/akullpp/awesome-java
+- https://github.com/pragkirk/poma
 
 ## SPRING 5 REST
 - https://spring.io/
 - https://start.spring.io/
 - https://stratospheric.dev/
+- https://github.com/springfox/springfox
 - https://github.com/Ninja-Squad/springmockk
 - https://github.com/s0l0c0ding/spring-tips
 - https://github.com/springdoc/springdoc-openapi
@@ -50,6 +52,7 @@
 
 ## LIBS: ALL
 - https://github.com/supertokens/supertokens-core
+- https://github.com/williamfiset/Algorithms
 - https://github.com/eclipse/deeplearning4j
 - https://java.libhunt.com/categories
 - https://github.com/alibaba/arthas

@@ -6,6 +6,7 @@
 - https://github.com/nestjs/swagger
 - https://github.com/nestjs/throttler
 - https://github.com/nestjs/ng-universal
+- https://github.com/nextauthjs/next-auth
 - https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter
 - https://github.com/skunight/nestjs-redis
@@ -36,6 +37,8 @@
 - https://github.com/squareboat/nestjs-boilerplate
 - https://github.com/javascript-dragons/nest-event
 - https://github.com/johannesschobel/nest-prisma-crud
+- https://github.com/kyhsa93/nestjs-rest-cqrs-example
+- https://github.com/satanTime/nx-nestjs-angular-graphql
 - https://github.com/fivethree-team/nestjs-prisma-starter
 - https://github.com/lujakob/nestjs-realworld-example-app
 - https://github.com/0xb4lamx/nestjs-boilerplate-microservice

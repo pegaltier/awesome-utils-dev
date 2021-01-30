@@ -42,6 +42,7 @@
 ## EXAMPLES
 
 - https://github.com/konstantinmuenster/notion-clone
+- https://github.com/xiongemi/white-label-airline
 
 ## STARTER
 - https://github.com/facebook/create-react-app
@@ -84,6 +85,7 @@
 - https://github.com/styled-system/styled-system
 - https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/sylvaindubus/react-prismazoom
+- https://github.com/danilowoz/react-content-loader
 - https://github.com/kettanaito/react-advanced-form
 - https://github.com/aaronhayes/react-use-hubspot-form
 

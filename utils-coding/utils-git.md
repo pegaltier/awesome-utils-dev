@@ -31,6 +31,7 @@
 - http://learngitbranching.js.org
 - https://trunkbaseddevelopment.com
 - https://maggieappleton.com/git-mistakes
+- https://rogerdudler.github.io/git-guide/
 - https://blog.octo.com/git-dans-la-pratique-22
 - https://guides.github.com/features/mastering-markdown
 - https://github.com/firstcontributions/first-contributions
@@ -41,8 +42,9 @@
 ## TOOLS
 - https://github.com/conventional-changelog/standard-version
 - https://github.com/conventional-changelog/commitlint
-- https://prettier.io/docs/en/precommit.html
 - https://github.com/kreuzerk/import-conductor
+- https://prettier.io/docs/en/precommit.html
+- https://github.com/ad-m/github-push-action
 - https://github.com/jesseduffield/lazygit
 - https://github.com/observing/pre-commit
 - https://github.com/release-it/release-it
@@ -51,6 +53,7 @@
 - https://github.com/lowlighter/metrics
 - https://github.com/okonet/lint-staged
 - https://github.com/commitizen/cz-cli
+- https://github.com/github/git-sizer
 - https://github.com/eth0izzle/shhgit
 - https://github.com/typicode/husky
 - https://github.com/upptime/upptime

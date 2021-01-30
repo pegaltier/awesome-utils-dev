@@ -17,6 +17,7 @@
 ## Tools
 
 - https://github.com/iina/iina
+- https://github.com/leits/MeetingBar
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 
 ## Spotlight
@@ -42,6 +43,18 @@ alias npm_ignore_indexing='find . -type d -name "node_modules" -exec touch "{}/.
 
 Finder > Aller > Aller au dossier
 Terminal > ~/Library
+
+## Symbolik link
+
+- Absolute symbolik link
+```
+ln -s ~/Workspace/website-js/apps/website-js/src/i18n ~/Workspace/website-js/
+```
+- Relative symbolik link
+```
+cd ~/Workspace/website-js/cypress/fixtures/default-context/shared/
+ln -s ../../../../apps/website-js/src/i18n/ i18n
+```
 
 ## Shortcuts
 Lock screen: Control + CMD + Q
