@@ -9,6 +9,7 @@
 - https://github.com/basarat/typescript-book
 - https://github.com/danvk/effective-typescript
 - https://github.com/microsoft/TypeScript-Handbook
+- https://github.com/labs42io/clean-code-typescript
 - https://github.com/type-challenges/type-challenges
 - https://github.com/microsoft/TypeScript-New-Handbook
 - https://2ality.com/2020/04/migrating-to-typescript.html

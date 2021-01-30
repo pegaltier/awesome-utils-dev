@@ -1481,6 +1481,7 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/meeroslav/ng-helpers
+- https://github.com/ng-web-apis/permissions
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/brtnshrdr/angular2-hotkeys
@@ -1647,6 +1648,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/duluca/angular-unit-test-helper
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/angular-extensions/pretty-html-log
+- https://github.com/DmitryEfimenko/jest-given-when-then
 - https://github.com/gparlakov/scuri
 - https://github.com/brandonroberts/angular-testing-library
 - https://github.com/testing-library/angular-testing-library
@@ -1674,8 +1676,10 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
+- https://github.com/maxisam/ngx-progressive-image-loader
 - https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/drozhzhin-n-e/ng2-tooltip-directive
+- https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/dig-platform/ngx-stackblitz
 - https://github.com/madoar/angular-archwizard
@@ -1685,6 +1689,7 @@ Analyze and optimize the performance of your app
 - https://github.com/pjlamb12/angular-loaders
 - https://github.com/pjlamb12/ngx-plug-n-play
 - https://github.com/wittlock/ngx-image-zoom
+- https://github.com/maxisam/ngx-clipboard
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/ngneat/edit-in-place
 - https://github.com/oferh/ng2-completer
@@ -1846,6 +1851,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/rxweb/rxweb
 - https://github.com/ngx-meta/rules
 - https://github.com/formql/formql
+- https://github.com/ngspot/ngx-errors
+- https://github.com/DmitryEfimenko/ngx-messages
 - https://github.com/cloudnc/ngx-sub-form
 - https://github.com/ngneat/reactive-forms
 - https://github.com/ngx-formly/ngx-formly
@@ -1890,9 +1897,10 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/loclapp/locl
 - https://github.com/ngneat/transloco
 - https://github.com/fkirc/attranslate
-- https://github.com/ngneat/transloco-keys-manager
 - https://github.com/ngx-translate/core
 - https://github.com/robisim74/angular-l10n
+- https://github.com/jgpacheco/ngx-translate-cache
+- https://github.com/ngneat/transloco-keys-manager
 - https://github.com/biesbjerg/ngx-translate-extract
 - https://github.com/ngx-translate/i18n-polyfill
 - https://github.com/Tuizi/i18n-split-example
