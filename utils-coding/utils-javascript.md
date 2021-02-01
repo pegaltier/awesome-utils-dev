@@ -105,6 +105,10 @@
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
 
+## EXAMPLE
+
+- https://github.com/atulmy/fullstack-javascript-architecture
+
 ## TOOLS OSS
 
 - https://github.com/evanw/esbuild
@@ -115,10 +119,11 @@
 
 ## FRAMEWORK: FRONTEND
 - https://github.com/sindresorhus/awesome-electron
+- https://github.com/bigskysoftware/htmx
+- https://github.com/smallbets/userbase
+- https://github.com/cyclejs/cyclejs
 - https://github.com/Tencent/omi
 - https://github.com/kbrsh/moon
-- https://github.com/cyclejs/cyclejs
-- https://github.com/smallbets/userbase
 - https://electronjs.org/
 - https://nwjs.io/  
 

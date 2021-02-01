@@ -40,6 +40,7 @@
 - https://github.com/vasanthv/stylize.css
 - https://github.com/yogurt-foundation/yogurt-css
 - https://github.com/troxler/awesome-css-frameworks
+- https://github.com/aniftyco/awesome-tailwindcss
 
 ## BAD
 
@@ -51,6 +52,7 @@
 ## FUN
 
 - https://jdan.github.io/98.css/
+- https://github.com/botoxparty/XP.css
 - https://github.com/AbimaelAndrade/twitter-flexbox
 
 ## EXAMPLE

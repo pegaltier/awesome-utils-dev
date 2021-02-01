@@ -391,6 +391,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://github.com/manfredsteyer/ngx-build-plus
 - https://github.com/ngx-builders/angular-builder
 - https://github.com/ngx-builders/netlify-builder
+- https://github.com/ngx-builders/ngx-heroku-deploy
 - https://github.com/mauriziovitale/angular-plugins
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
 - https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
@@ -2025,6 +2026,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/tieppt/angular-docker
+- https://github.com/gothinkster/realworld
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list
 - https://github.com/enten/angular-universal
@@ -2037,7 +2039,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/ganatan/angular11-app
 - https://github.com/ganatan/angular-example-seo
+- https://github.com/juanmesa2097/angular-boilerplate
 - https://github.com/mgechev/angular-hybrid-rendering
+- https://github.com/FabianGosebrink/auth0-angular-ngrx
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/DenysVuika/medium-angular-docker
 - https://github.com/alan-agius4/ng-mono-repo-starter
@@ -2270,6 +2274,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://toddmotto.com/
 - https://nxplaybook.com/
 - https://nrwlcommunity.slack.com/
+- https://github.com/maartentibau/angular-logos
 - https://voidcosmos.github.io/angular-communities/
 
 ## ECOSYSTEM: BOOK

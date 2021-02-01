@@ -111,6 +111,7 @@
 
 ## LIB: DATABASE
 
+- https://github.com/prisma/prisma
 - https://github.com/typeorm/typeorm
 - https://github.com/typegoose/typegoose
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository

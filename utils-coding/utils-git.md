@@ -41,6 +41,7 @@
 
 ## TOOLS
 - https://github.com/conventional-changelog/standard-version
+- https://github.com/jamesgeorge007/github-activity-readme
 - https://github.com/conventional-changelog/commitlint
 - https://github.com/kreuzerk/import-conductor
 - https://prettier.io/docs/en/precommit.html
