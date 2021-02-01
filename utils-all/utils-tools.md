@@ -8,12 +8,12 @@
 - https://github.com/alyssaxuu/flowy
 - https://github.com/dreampuf/GraphvizOnline
 
-## Setup
-
-- https://voiceofracismreplica.netlify.app/
+## List
+- https://untools.co/
+- https://github.com/iptv-org/iptv
+- https://github.com/learn-anything/books
 
 ## Desktop
-
 
 - [Zettlr](https://www.zettlr.com/) - Markdown editor
 
@@ -280,11 +280,3 @@ They had a mobile app at one point, but it is defunct. They plan on doing a rewr
 
   - [Shawn Axsom](https://github.com/axs221/dotfiles)
     - neovim, fish shell, tmuxinator, Hyper.js, etc
-
-## List
-
-- https://untools.co/
-
-## Books
-
-- https://github.com/learn-anything/books

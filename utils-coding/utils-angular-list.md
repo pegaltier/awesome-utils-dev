@@ -1241,6 +1241,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://juristr.com/blog/2020/05/nx-libs-with-assets/
 - https://medium.com/showpad-engineering/how-to-programmatically-enforce-boundaries-between-applications-and-libraries-in-an-nx-monorepo-39bf8fbec6ba
 - https://codeburst.io/continuous-integration-lint-staged-husky-pre-commit-hook-test-setup-47f8172924fc
+- https://offering.solutions/blog/articles/2021/01/27/starting-angular-projects-with-nx/
 - https://emilyxiong.medium.com/my-nx-project-boilerplate-7e0aa95f848
 
 ## ECOSYSTEM: SEEDS
@@ -1522,12 +1523,12 @@ Learn the best way to make your objects immutable.
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/w11k/rx-ninja
-- https://github.com/cartant/rxjs-traits
 - https://github.com/gcanti/fp-ts-rxjs
 - https://github.com/wardbell/subsink
 - https://github.com/cartant/rxjs-xyz
 - https://github.com/cartant/rxjs-etc
 - https://github.com/cartant/rxjs-spy
+- https://github.com/cartant/rxjs-traits
 - https://github.com/rxjs-debug/rxjs-debug
 - https://github.com/cartant/rxjs-interop
 - https://github.com/kwonoj/rx-sandbox
@@ -1697,6 +1698,7 @@ Analyze and optimize the performance of your app
 - https://github.com/oferh/ng2-completer
 - https://github.com/akserg/ng2-toasty
 - https://github.com/JsDaddy/ngx-mask
+- https://github.com/ngneat/hot-toast
 - https://github.com/daybrush/moveable
 - https://github.com/sitecore/jss
 - https://github.com/ng-select/ng-select
