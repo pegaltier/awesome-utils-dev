@@ -1522,6 +1522,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/w11k/rx-ninja
+- https://github.com/cartant/rxjs-traits
 - https://github.com/gcanti/fp-ts-rxjs
 - https://github.com/wardbell/subsink
 - https://github.com/cartant/rxjs-xyz
