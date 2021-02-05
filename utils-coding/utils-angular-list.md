@@ -1426,6 +1426,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/compodoc/compodoc
 - https://github.com/ngneat/inspector
 - https://github.com/swimlane/DocSPA
+- https://github.com/mgechev/ngrev
 - https://github.com/compodoc/ngd
 - https://github.com/ng-ast/ngast
 - https://github.com/pahen/madge
@@ -1667,6 +1668,7 @@ Learn the best way to make your objects immutable.
 
 Analyze and optimize the performance of your app
 
+- https://github.com/mgechev/ngrev
 - https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
 - https://github.com/willmendesneto/perf-marks
@@ -1903,6 +1905,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/fkirc/attranslate
 - https://github.com/ngx-translate/core
 - https://github.com/robisim74/angular-l10n
+- https://github.com/martinroob/ngx-i18nsupport
 - https://github.com/jgpacheco/ngx-translate-cache
 - https://github.com/ngneat/transloco-keys-manager
 - https://github.com/biesbjerg/ngx-translate-extract

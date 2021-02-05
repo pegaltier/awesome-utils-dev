@@ -69,6 +69,7 @@
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/trekhleb/javascript-algorithms
+- https://github.com/mgechev/javascript-algorithms
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/denysdovhan/wtfjs

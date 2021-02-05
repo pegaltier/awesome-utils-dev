@@ -71,6 +71,7 @@
 - https://github.com/BuilderIO/jsx-lite
 - https://github.com/tajo/react-movable
 - https://github.com/kitze/react-hanger
+- https://github.com/everweij/react-laag
 - https://github.com/JedWatson/classnames
 - https://github.com/alampros/react-confetti
 - https://github.com/voliva/reactive-rx-form

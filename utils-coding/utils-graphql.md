@@ -12,6 +12,9 @@
 - https://dev.to/graphqleditor/graphql-tools-libraries-3bbc
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
+## EXAMPLE
+- https://github.com/APIs-guru/graphql-apis
+
 ## LIB
 - https://github.com/imolorhe/altair
 - https://github.com/jagql/framework
