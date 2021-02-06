@@ -118,6 +118,7 @@
 - https://glassmorphism.com
 - https://bennettfeely.com/clippy
 - https://cssspider.fresalabs.com
+- https://css-scroll-shadows.now.sh/
 - https://9elements.github.io/fancy-border-radius
 
 ## TOOLS: IMAGE
@@ -151,6 +152,8 @@
 ## AWESOME
 
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
+- https://github.com/stefanjudis/tiny-helpers
+- https://github.com/stefanjudis/perf-tooling
 - https://github.com/lindelof/awesome-web-effect
 - https://github.com/FancyGrid/awesome-grid
 
@@ -396,6 +399,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://book-of-flowers.com/
 - https://www.aristidebenoist.com/
 - https://voiceofracismreplica.netlify.app/
+- https://github.com/emmabostian/design-inspiration
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://github.com/codrops/InlineMenuLayout/
 - https://github.com/codrops/OnScrollLetterAnimations

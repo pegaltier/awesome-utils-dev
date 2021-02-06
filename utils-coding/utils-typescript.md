@@ -35,8 +35,10 @@
 - https://dev.to/aminejvm/cool-stuff-with-typescript-2aah
 
 ## STARTER
+
 - https://github.com/stemmlerjs/simple-typescript-starter
 - https://github.com/kettanaito/create-typescript-library
+- https://github.com/xolvio/typescript-event-sourcing
 
 ## DEVTOOLS
 

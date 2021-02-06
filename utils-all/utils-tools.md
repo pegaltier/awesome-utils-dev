@@ -5,7 +5,17 @@
 
 - https://owncast.online/
 - https://metatags.io/font-generator
+
+## Oss
+- https://github.com/schollz/croc
 - https://github.com/alyssaxuu/flowy
+- https://github.com/pavlobu/deskreen
+- https://github.com/justinfrankel/licecap
+
+## Diagram
+- https://excalidraw.com/
+- https://playground.diagram.codes/
+- https://github.com/cowchimp/source-viz
 - https://github.com/dreampuf/GraphvizOnline
 
 ## List

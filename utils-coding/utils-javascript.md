@@ -227,27 +227,28 @@
 
 ## LIB: FRONTEND ALL
 
-- https://github.com/xdan/jodit
-- https://github.com/matthewp/robot
-- https://github.com/needim/noty
-- https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/scottaohara/accessible_modal_window
-- https://github.com/tradingview/lightweight-charts
 - https://github.com/easylogic/codemirror-colorpicker
+- https://github.com/tradingview/lightweight-charts
+- https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables
 - https://github.com/willmendesneto/perf-marks
-- https://github.com/giuseppeg/screensaver
-- https://github.com/immerjs/immer
-- https://github.com/angus-c/just
-- https://github.com/Leaflet/Leaflet
-- https://github.com/codex-team/editor.js
-- https://github.com/pshihn/rough-notation
-- https://github.com/mamunhpath/josh.js
-- https://github.com/greensock/GSAP
-- https://github.com/mikecao/umami
 - https://github.com/zenorocha/clipboard.js
+- https://github.com/pshihn/rough-notation
+- https://github.com/giuseppeg/screensaver
+- https://github.com/codex-team/editor.js
+- https://github.com/focus-trap/tabbable
+- https://github.com/mamunhpath/josh.js
+- https://github.com/Leaflet/Leaflet
+- https://github.com/matthewp/robot
+- https://github.com/greensock/GSAP
 - https://github.com/grid-js/gridjs
+- https://github.com/immerjs/immer
+- https://github.com/mikecao/umami
+- https://github.com/angus-c/just
+- https://github.com/xdan/jodit
+- https://github.com/needim/noty
 
 ## LIB: FRONTEND DESIGN
 

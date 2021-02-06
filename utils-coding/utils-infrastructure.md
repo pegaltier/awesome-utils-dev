@@ -18,6 +18,7 @@
 - https://github.com/loadimpact/k6
 - https://github.com/kruize/kruize
 - https://github.com/grafana/grafana
+- https://github.com/caprover/caprover
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
 
@@ -38,6 +39,7 @@
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard
+- https://github.com/kubernetes/kubernetes
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/tomhuang12/awesome-k8s-resources
 - https://github.com/kubernauts/jmeter-kubernetes

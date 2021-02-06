@@ -21,6 +21,7 @@
 - https://github.com/dgraph-io/dgraph
 - https://github.com/graphql/dataloader
 - https://github.com/oslabs-beta/portara
+- https://github.com/FormidableLabs/urql
 - https://github.com/hasura/graphql-engine
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/MichalLytek/type-graphql

@@ -911,6 +911,8 @@ There is a new module called @angular/fire which helps to automatize the whole d
 - build only the route you are asking for using the command line route filter: ex: npm run scully -- --watch --routeFilter=/donuts/*
 - use state transfer to cache api data in the same server and in plain json object.
 - use the scully utility called herodevs/scully-plugin-the-vault in order to cache your api requests, for instance if two pages make the same call the api is called only once. Consequently it speed up the build time and also save resources and money.
+- the routes config make puppeteer traverses the local source only, so eventually puppeteer will not traverses routes that are lazy loaded or remote routes such as external websites, microfrontends included. You must add the route in the extraRoutes config to make puppeteer traverses routes from external sources, you can even use a slug pattern (ex: "/product/detail/:productId") if you have a dynamic routes config configured.
+- the critical css for each page must be inlined and the other part of the global css should be ideally in a regular css file. if all the page have a very similar css  it would make sense to use viewEncapsulation: 'none' on all your pages, and use a single global CSS file to be cached and reused by the browser across different pages. However, pages are very different. Each page can have its own file. The only cost is some extra disk space at your server.
 
 ## TIPS
 

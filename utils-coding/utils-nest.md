@@ -23,6 +23,7 @@
 - https://github.com/jmcdo29/nestjs-commander
 - https://github.com/jmcdo29/nestjs-spelunker
 - https://github.com/jmcdo29/testing-nestjs
+- https://github.com/kittgen/kittgen-nestjs
 
 ## EXAMPLE
 
@@ -31,6 +32,7 @@
 - https://github.com/ntegral/nestjs-sentry
 - https://github.com/TimurRK/nestjs-example
 - https://github.com/squareboat/nest-mailman
+- https://github.com/xmlking/ngx-starter-kit
 - https://github.com/squareboat/nest-storage
 - https://github.com/squareboat/nest-eyewitness
 - https://github.com/Aginix/nestjs-firebase-admin

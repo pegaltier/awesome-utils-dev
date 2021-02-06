@@ -45,6 +45,7 @@
 - https://www.mockable.io/a/#/
 - https://my-json-server.typicode.com/
 - https://jsonplaceholder.typicode.com/
+- https://github.com/mock-server/mockserver
 - https://github.com/typicode/jsonplaceholder
 
 ## OTHERS

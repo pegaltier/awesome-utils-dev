@@ -824,6 +824,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
 - https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/
 - https://timdeschryver.dev/blog/good-testing-practices-with-angular-testing-library
+- https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html
 - https://netbasal.com/testing-asynchronous-code-in-angular-using-fakeasync-fc777f86ed13
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
@@ -922,6 +923,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/ngrx-utils/ngrx-utils
 - https://github.com/blove/ngrx-testing
 - https://github.com/timdeschryver/ngrx-immer
+- https://github.com/waynegakuo/ngrx-learning
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 
@@ -1172,15 +1174,16 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/tinesoft/nxrocks
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/nxext/nx-extensions
-- https://github.com/gagle/nx-check-changes
 - https://github.com/nrwl/nx-workshop
+- https://github.com/gagle/nx-check-changes
+- https://github.com/manfredsteyer/angular-ddd
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
-- https://github.com/manfredsteyer/angular-ddd
 - https://github.com/manfredsteyer/monorepo_domains
+- https://github.com/pmowrer/semantic-release-monorepo
+- https://github.com/angularbuilders/angular-blueprint
 - https://github.com/manfredsteyer/demo-workspace-schematics
 - https://github.com/manfredsteyer/nx-plugin-example
-- https://github.com/angularbuilders/angular-blueprint
 - https://github.com/lydemann/Todo-monorepo
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/balazsconf/monodemo
@@ -1200,6 +1203,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://izifortune.com/share-angular-libraries-with-lerna/
 - https://devdactic.com/ionic-multi-app-shared-library/
 - https://nstudio.io/xplat/getting-started/getting-started
+- https://egghead.io/lessons/node-js-create-an-nx-workspace-with-prettier-husky-and-lint-staged
 - https://ordina-jworks.github.io/architecture/2020/01/23/Nx.html
 - https://ordina-jworks.github.io/architecture/2020/03/31/nx-sparse-checkout.html
 - https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/
@@ -1692,6 +1696,7 @@ Analyze and optimize the performance of your app
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/vlio20/angular-datepicker
 - https://github.com/pjlamb12/angular-loaders
+- https://github.com/darkoandreev/d-ng-rating
 - https://github.com/pjlamb12/ngx-plug-n-play
 - https://github.com/wittlock/ngx-image-zoom
 - https://github.com/maxisam/ngx-clipboard
@@ -1783,6 +1788,7 @@ Analyze and optimize the performance of your app
 - https://github.com/swimlane/ngx-datatable
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
+- https://github.com/katoid/angular-grid-layout
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
 ## ECOSYSTEM: LIB: SCROLL
@@ -2032,27 +2038,30 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/tieppt/angular-docker
+- https://github.com/ganatan/angular11-app
 - https://github.com/gothinkster/realworld
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list
 - https://github.com/enten/angular-universal
+- https://github.com/waynegakuo/resumebuilder
+- https://github.com/alan-agius4/prune-css-poc
 - https://github.com/herodevs/material-studies
-- https://github.com/Angular-RU/universal-starter
 - https://github.com/retarsis/angular-warehouse
+- https://github.com/ganatan/angular-example-seo
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
+- https://github.com/Angular-RU/universal-starter
+- https://github.com/waynegakuo/angular-dashboard
 - https://github.com/LayZeeDK/ngx-stryker-robobar
-- https://github.com/ganatan/angular11-app
-- https://github.com/ganatan/angular-example-seo
+- https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/juanmesa2097/angular-boilerplate
 - https://github.com/mgechev/angular-hybrid-rendering
-- https://github.com/FabianGosebrink/auth0-angular-ngrx
-- https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/DenysVuika/medium-angular-docker
 - https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/StephenFluin/angular-update-guide
 - https://github.com/DavideViolante/Angular-Full-Stack
+- https://github.com/FabianGosebrink/auth0-angular-ngrx
 - https://github.com/gbumanzordev/ng-docker-boilerplate
 - https://github.com/santoshyadavdev/threejsAngularDemo
 - https://github.com/DenysVuika/developing-with-angular
@@ -2211,6 +2220,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
 - https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
+- https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack
 - https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector
