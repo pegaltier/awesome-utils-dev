@@ -1405,6 +1405,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/tslint-angular
 - https://github.com/ReactiveX/rxjs-tslint
 - https://github.com/cartant/rxjs-tslint-rules
+- https://github.com/ranyitz/eslint-plugin-jest
 - https://github.com/wesbos/eslint-config-wesbos
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint

@@ -23,22 +23,23 @@
 
 ## UTILS
 
-- https://github.com/juliangruber/npm-diff
-- https://github.com/amio/npm-why
-- https://github.com/voidcosmos/npkill
-- https://github.com/sindresorhus/np
-- https://github.com/sindresorhus/fkill-cli
-- https://github.com/depcheck/depcheck
-- https://www.npmjs.com/package/depcheck
-- https://github.com/typicode/husky
+- https://github.com/radarsu/types-package-json
 - https://github.com/davglass/license-checker
 - https://github.com/localtunnel/localtunnel
-- https://github.com/radarsu/types-package-json
+- https://github.com/sindresorhus/fkill-cli
+- https://github.com/juliangruber/npm-diff
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/folke/ultra-runner
+- https://github.com/voidcosmos/npkill
+- https://github.com/depcheck/depcheck
+- https://github.com/sindresorhus/np
+- https://github.com/typicode/husky
+- https://github.com/ranyitz/newsh
+- https://github.com/lirantal/npq
+- https://github.com/amio/npm-why
+- https://github.com/ranyitz/qnm
 - https://github.com/vercel/ncc
 - https://github.com/sezna/nps
-- https://github.com/lirantal/npq
 
 ## MONITORING
 

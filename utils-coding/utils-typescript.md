@@ -45,6 +45,7 @@
 - https://github.com/formium/tsdx
 - https://github.com/Microsoft/tsdoc
 - https://github.com/microsoft/rushstack
+- https://github.com/ranyitz/code-migrate
 
 ## UTILS
 
