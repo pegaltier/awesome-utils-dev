@@ -1337,6 +1337,7 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: JAMSTACK
 
 - https://github.com/scullyio/scully
+- https://github.com/benwinding/ngext
 - https://github.com/ng-web-apis/universal
 - https://github.com/TrilonIO/ng-universal
 - https://github.com/chrisguttandin/angular-prerender
@@ -1651,6 +1652,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/Ninja-Squad/ngx-speculoos
 - https://github.com/youdz/dry-angular-testing
+- https://github.com/jest-community/jest-extended
 - https://github.com/topnotch48/ng-bullet-workspace
 - https://github.com/juristr/angular-testing-recipes
 - https://github.com/duluca/angular-unit-test-helper
@@ -1783,6 +1785,7 @@ Analyze and optimize the performance of your app
 - https://github.com/paulhodel/jexcel
 - https://github.com/shlomiassaf/ngrid
 - https://github.com/yohangz/ornamentum
+- https://github.com/angular-ui/ui-grid
 - https://github.com/sbstjn/timesheet.js
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/swimlane/ngx-datatable

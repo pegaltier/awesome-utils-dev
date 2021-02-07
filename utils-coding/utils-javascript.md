@@ -115,6 +115,7 @@
 - https://github.com/evanw/esbuild
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
+- https://github.com/fkling/astexplorer
 - https://github.com/pastelsky/bundlephobia
 - https://github.com/lirantal/is-website-vulnerable
 

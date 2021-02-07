@@ -16,4 +16,5 @@
 - https://github.com/pnp/generator-teams
 - https://github.com/jhipster/jhipster-ide
 - https://github.com/jhipster/jhipster-kotlin
+- https://github.com/kentcdodds/generator-kcd-oss
 - https://github.com/dsebastien/word-plugin-angular-template
