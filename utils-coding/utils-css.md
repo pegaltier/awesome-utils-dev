@@ -17,6 +17,7 @@
 
 ## BEST PRACTIVES
 
+- https://web.dev/color-scheme/
 - https://web.dev/centering-in-css/
 - https://github.com/getbem/awesome-bem
 - https://github.com/philipwalton/flexbugs

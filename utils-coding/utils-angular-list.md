@@ -248,6 +248,7 @@ Learn about the most useful design patterns in Angular.
 - https://ng-run.com/
 - https://codesandbox.io/
 - https://stackblitz.com
+- https://github.com/conwnet/github1s
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material
 
@@ -776,6 +777,7 @@ Learn about the angular router, lazy load your modules.
 - https://www.youtube.com/watch?v=l89acmnGMSc Philippe De Ryck - Boosting the security of your Angular
 - https://snyk.io/blog/angular-security-best-practices/
 - http://www.gistia.com/talk-backend-services-angular-2s-http-client
+- https://pragmaticwebsecurity.com/articles/spasecurity/angular-xss.html
 - https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.qyagk4j6f
 - https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
 
@@ -928,6 +930,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 
 - https://timdeschryver.dev/blog/nested-ngrx-entity-state
+- https://indepth.dev/posts/1206/understanding-the-magic-behind-ngrx-effects
 - https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210
 - https://blog.strongbrew.io/how-to-write-clean-reducers-and-test-them/
 - https://dev.to/alfredoperez/my-notes-from-ngrx-workshop-from-ngconf-2020-part-1-introduction-h8l
@@ -1033,6 +1036,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/lacolaco/reactive-store
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/markostanimirovic/juliette
+- https://github.com/AmadeusITGroup/ngx-tansu
 - https://github.com/ngxs-labs/data
 - https://github.com/ngxs-labs/emitter
 - https://github.com/ngxs-labs/immer-adapter
@@ -1089,6 +1093,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/umijs/qiankun
 - https://github.com/module-federation
 - https://github.com/worktile/ngx-planet
+- https://github.com/CanopyTax/single-spa
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/angular-microfrontend
@@ -1279,6 +1284,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 ## ECOSYSTEM: JAMSTACK
 
+- https://github.com/brandonroberts/blog
 - https://github.com/stewones/scully-demo
 - https://github.com/yangjunhan/scully-example
 - https://github.com/samvloeberghs/ng-v9-localized-scullyio
@@ -1481,6 +1487,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: ROUTING
 
 - https://github.com/angular-component/router
+- https://github.com/Dankwansere/aop-routing
 - https://github.com/retarsis/routerkit
 - https://github.com/retarsis/routeshub
 - https://github.com/benwinding/ngext
@@ -1572,12 +1579,12 @@ Learn the best way to make your objects immutable.
 
 - https://www.youtube.com/watch?v=t1ohOAyA_sI
 - https://github.com/frintjs/frint
-- https://github.com/CanopyTax/single-spa
-- https://github.com/ng-packagr/ng-packagr
+- https://github.com/ionic-team/stencil
 - https://github.com/aelbore/ngx-elements
+- https://github.com/brunob15/ngx-element
+- https://github.com/ng-packagr/ng-packagr
 - https://github.com/aelbore/ngx-elements-demo
 - https://github.com/angular-extensions/elements
-- https://github.com/brunob15/ngx-element
 - https://github.com/BioPhoton/angular-element-variants
 - https://angular-extensions.github.io/elements/#/examples/advanced
 
@@ -2041,6 +2048,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/mraible/ng-demo
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
+- https://github.com/SanderElias/Samples
 - https://github.com/tieppt/angular-docker
 - https://github.com/ganatan/angular11-app
 - https://github.com/gothinkster/realworld
@@ -2357,6 +2365,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## EVOLUTION
 
 - http://g.co/ng/weekly-notes
+- https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
 
 ### ANGULAR11

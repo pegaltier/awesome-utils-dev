@@ -83,6 +83,7 @@
 - https://github.com/pmndrs/react-use-gesture
 - https://github.com/aaronvanston/react-flexa
 - https://github.com/kettanaito/atomic-layout
+- https://github.com/hupe1980/react-script-hook
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/dayhaysoos/use-shopping-cart
