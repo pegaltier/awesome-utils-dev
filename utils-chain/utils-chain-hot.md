@@ -197,6 +197,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 ### HOLOCHAIN-RSM TOOLS
 - https://compository.github.io/app/
+- https://holochain-gym.github.io/
 
 ### HOLOCHAIN TOOLS GITHUB
 
@@ -219,6 +220,9 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://www.buyholo.net
 - https://holochaincitizen.com
 - https://www.holochain.science
+
+## ALTERNATIVE
+- https://github.com/fluencelabs/
 
 ## UNOFFICIAL DOCS
 - https://docs.google.com/document/d/1BFWVHucWQZo9yfvmKVgEXPTq4Zn94gbKcaMiitTRDg4/edit#

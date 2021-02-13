@@ -24,6 +24,7 @@
 - https://github.com/FormidableLabs/urql
 - https://github.com/hasura/graphql-engine
 - https://github.com/APIs-guru/graphql-faker
+- https://github.com/piglovesyou/graphql-let
 - https://github.com/MichalLytek/type-graphql
 - https://github.com/APIs-guru/graphql-voyager
 - https://github.com/calmonr/typegraphql-relay

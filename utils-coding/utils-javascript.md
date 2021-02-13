@@ -46,6 +46,7 @@
 ## GUIDE-WEB
 
 - https://javascript.info/ 
+- https://www.java5cript.com/
 - https://sulco.stackblitz.io/
 - https://airbnb.io/javascript/
 - https://vanillajstoolkit.com/
@@ -135,6 +136,7 @@
 - https://github.com/typeorm/typeorm
 - https://github.com/strapi/strapi
 - https://github.com/amark/gun
+- https://github.com/exportarts/bullmq-utils
 - https://github.com/xgenecloud/xgenecloud
 - https://github.com/microsoft/FluidFramework
 

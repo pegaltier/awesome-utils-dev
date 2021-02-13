@@ -98,6 +98,7 @@
 - https://github.com/pfgray/ts-adt
 - https://github.com/mu-io/ts-japi
 - https://github.com/colinhacks/zod
+- https://github.com/pelotom/runtypes
 - https://github.com/gcanti/monocle-ts
 - https://github.com/maleet/marshal.ts
 - https://github.com/millsp/ts-toolbelt

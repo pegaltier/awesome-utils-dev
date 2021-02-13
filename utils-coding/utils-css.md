@@ -28,7 +28,10 @@
 - https://github.com/philipwalton/solved-by-flexbox
 - https://ishadeed.com/article/css-short-long-content
 - https://www.taniarascia.com/overview-of-css-concepts
+- https://www.joshwcomeau.com/animation/css-transitions/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox
+- https://moderncss.dev/complete-guide-to-centering-in-css/
+- https://piccalil.li/tutorial/fluid-typography-with-css-clamp
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables
 - https://timseverien.com/posts/2020-12-06-what-makes-css-hard-to-master
 - https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc

@@ -782,6 +782,7 @@ Learn about the angular router, lazy load your modules.
 - https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757#.gue0ycfnm
 
 ## CORE: CSS
+- https://www.youtube.com/watch?v=-oh_4l9qMIQ (Organizing Styles)
 - https://blog.angular-university.io/angular-host-context/
 - https://blog.angular-university.io/angular-ngclass-ngstyle
 - https://angular.io/docs/ts/latest/guide/component-styles.html
@@ -1356,6 +1357,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
 - https://github.com/etavener/scully-tools
+- https://github.com/flowaccount/nx-plugins
 - https://github.com/Gorniv/ngx-universal
 - https://github.com/notiz-dev/scully-plugins
 - https://github.com/pjlamb12/scully-plugin-page-title
@@ -1696,10 +1698,13 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: COMPONENTS
 
 - https://github.com/maxisam/ngx-progressive-image-loader
-- https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/drozhzhin-n-e/ng2-tooltip-directive
 - https://github.com/DmitryEfimenko/ng-expandable-input
+- https://github.com/andreasonny83/angular2-cookie-law
+- https://github.com/milantenk/ngx-interactive-paycard
+- https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/qgrid/ng2-expression-builder
+- https://github.com/exportarts/ngx-cookie-banner
 - https://github.com/dig-platform/ngx-stackblitz
 - https://github.com/madoar/angular-archwizard
 - https://github.com/verizonconnect/ngx-panels
@@ -1709,6 +1714,7 @@ Analyze and optimize the performance of your app
 - https://github.com/darkoandreev/d-ng-rating
 - https://github.com/pjlamb12/ngx-plug-n-play
 - https://github.com/wittlock/ngx-image-zoom
+- https://github.com/exportarts/ngx-prismic
 - https://github.com/maxisam/ngx-clipboard
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/ngneat/edit-in-place
@@ -1800,6 +1806,7 @@ Analyze and optimize the performance of your app
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
 - https://github.com/katoid/angular-grid-layout
+- https://github.com/exportarts/ngx-material-data-table
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
 ## ECOSYSTEM: LIB: SCROLL
@@ -1839,6 +1846,7 @@ Analyze and optimize the performance of your app
 - https://github.com/LogRocket/logrocket
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/ngworker/lumberjack
+- https://github.com/tgure/ngx-loggly-logger
 - https://github.com/Angular-RU/angular-logger
 - https://github.com/ngdevelop-tech/ngx-fancy-logger
 - https://github.com/aackerman/circular-dependency-plugin
@@ -2254,6 +2262,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+- https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra
 - https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
 - https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
 - https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
@@ -2303,6 +2312,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://nxplaybook.com/
 - https://nrwlcommunity.slack.com/
 - https://github.com/maartentibau/angular-logos
+- https://github.com/AngularCommunity/angular-missions
 - https://voidcosmos.github.io/angular-communities/
 
 ## ECOSYSTEM: BOOK

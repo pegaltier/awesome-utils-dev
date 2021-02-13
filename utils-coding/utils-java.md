@@ -16,6 +16,7 @@
 - https://github.com/springdoc/springdoc-openapi
 - https://www.marcobehler.com/guides/spring-boot
 - https://github.com/jhipster/generator-jhipster
+- https://github.com/RameshMF/awesome-spring-boot
 - http://www.baeldung.com/rest-with-spring-course
 - https://github.com/RameshMF/spring-boot-tutorial
 - https://github.com/RameshMF/Hibernate-ORM-Tutorials

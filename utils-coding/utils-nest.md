@@ -2,6 +2,7 @@
 
 ## LIBS
 
+- https://github.com/nestjsx/crud
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
 - https://github.com/nestjs/throttler

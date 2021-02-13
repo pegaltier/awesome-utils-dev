@@ -44,6 +44,7 @@
 - https://github.com/jamesgeorge007/github-activity-readme
 - https://github.com/conventional-changelog/commitlint
 - https://github.com/sindresorhus/refined-github
+- https://github.com/nemisj/git-removed-branches
 - https://github.com/kreuzerk/import-conductor
 - https://prettier.io/docs/en/precommit.html
 - https://github.com/ad-m/github-push-action
@@ -96,7 +97,9 @@ git cherry-pick -e d42c389f (same as above + change commit message)
 git cherry-pick -m 1 d42c389f (apply any merge commit on current branch)
 git revert d42c389f (revert any commit on current branch)
 git revert -m 1 d42c389f (revert any merge commit on current branch)
+git remote prune origin --dry-run (check local branches that have been deleted from remote)
 git remote prune origin (clean local branches that have been deleted from remote)
+npx git-removed-branches --prune --force (clean local branches that have been deleted from remote)
 git branch -d branchname (delete local branch)
 git branch -D branchname (delete local branch force)
 git config --get remote.origin.url (check the remote url)

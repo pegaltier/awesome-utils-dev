@@ -78,6 +78,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 
 ## LIB:
 - https://github.com/firebase/php-jwt
+- https://github.com/RobDWaller/ReallySimpleJWT
 - https://github.com/docusign/docusign-php-client
 
 ## SLIM PHP UTILS

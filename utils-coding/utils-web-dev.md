@@ -105,6 +105,7 @@
 - http://realfavicongenerator.net
 - https://testmysite.withgoogle.com
 - https://mfcar.github.io/TextTools
+- https://www.finisher.co/lab/header
 - https://cors-anywhere.herokuapp.com
 - https://www.froala.com/design-block
 - https://html-to-svg.as-a-service.dev
@@ -112,10 +113,13 @@
 
 ## TOOLS: SVG
 - https://getwaves.io
+- https://svgcrop.com/
+- https://www.softr.io/tools/svg-shape-generator
 
 ## TOOLS: CSS
 
 - https://glassmorphism.com
+- https://stripesgenerator.com/
 - https://bennettfeely.com/clippy
 - https://cssspider.fresalabs.com
 - https://css-scroll-shadows.now.sh/
@@ -398,9 +402,11 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 - https://book-of-flowers.com/
 - https://www.aristidebenoist.com/
+- https://codepen.io/ainalem/full/QWGNzYm
 - https://voiceofracismreplica.netlify.app/
 - https://github.com/emmabostian/design-inspiration
 - https://tympanus.net/Development/InlineMenuLayout/
+- https://github.com/codrops/LineHoverStyles
 - https://github.com/codrops/InlineMenuLayout/
 - https://github.com/codrops/OnScrollLetterAnimations
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
