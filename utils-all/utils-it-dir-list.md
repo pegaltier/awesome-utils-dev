@@ -80,7 +80,6 @@ https://stample.co
 https://tagpacker.com/
 https://www.pearltrees.com/
 http://toplistes.lespetitsentrepreneurs.com/
-https://github.com/sindresorhus/awesome
 
 
 
