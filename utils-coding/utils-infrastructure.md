@@ -50,6 +50,7 @@
 - https://github.com/veggiemonk/awesome-docker
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/buildkite/docker-puppeteer
+- https://github.com/geerlingguy/ansible-role-docker    
 - https://github.com/JeremyLikness/usda-microservice
 - https://github.com/felixfbecker/semantic-release-docker
 - https://labs.play-with-docker.com/
