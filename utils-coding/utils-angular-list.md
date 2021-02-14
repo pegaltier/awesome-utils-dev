@@ -1996,6 +1996,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/zoomsphere/ngx-store
 - https://github.com/UlisesHllSk/ng-indexed-db
 - https://github.com/PillowPillow/ng2-webstorage
+- https://github.com/assuncaocharles/ngx-indexed-db
 - https://github.com/cyrilletuzi/angular-async-local-storage
 
 ## ECOSYSTEM: LIB: AUTH
