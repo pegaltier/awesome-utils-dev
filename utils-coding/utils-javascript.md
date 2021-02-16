@@ -244,6 +244,7 @@
 - https://github.com/focus-trap/tabbable
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
+- https://github.com/omrilotan/isbot
 - https://github.com/Leaflet/Leaflet
 - https://github.com/matthewp/robot
 - https://github.com/greensock/GSAP
