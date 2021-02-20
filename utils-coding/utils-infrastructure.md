@@ -35,6 +35,7 @@
 ## KUBERNETES
 - https://github.com/appvia/kev
 - https://github.com/lensapp/lens
+- https://github.com/kedacore/keda
 - https://github.com/Portshift/kubei
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube

@@ -407,6 +407,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/emmabostian/design-inspiration
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://github.com/codrops/LineHoverStyles
+- https://github.com/codrops/ButtonHoverStyles
 - https://github.com/codrops/InlineMenuLayout/
 - https://github.com/codrops/OnScrollLetterAnimations
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html

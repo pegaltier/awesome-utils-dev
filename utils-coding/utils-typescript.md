@@ -105,6 +105,7 @@
 - https://github.com/millsp/ts-toolbelt
 - https://github.com/willryan/factory.ts
 - https://github.com/sledorze/morphic-ts
+- https://github.com/gvergnaud/ts-pattern
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
 - https://github.com/krzkaczor/ts-essentials

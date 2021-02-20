@@ -1184,6 +1184,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/nx-go/nx-go
+- https://github.com/codeonrocks/nx-python
 - https://github.com/kachkaev/njt
 - https://github.com/NativeScript/nx
 - https://github.com/Dev-Thought/nx-plugins

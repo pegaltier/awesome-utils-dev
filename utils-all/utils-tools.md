@@ -24,6 +24,7 @@
 - https://github.com/learn-anything/books
 - https://github.com/sindresorhus/awesome
 - https://github.com/ossu/computer-science
+- https://github.com/datasciencemasters/go
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/tuvtran/project-based-learning
 

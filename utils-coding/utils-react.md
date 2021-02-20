@@ -43,6 +43,7 @@
 
 - https://github.com/konstantinmuenster/notion-clone
 - https://github.com/xiongemi/white-label-airline
+- https://github.com/UnlyEd/next-right-now
 
 ## STARTER
 - https://github.com/facebook/create-react-app
