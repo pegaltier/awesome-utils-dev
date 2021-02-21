@@ -13,6 +13,7 @@
 ## LIB
 
 - https://github.com/RustScan/RustScan
+- https://github.com/tauri-apps/tauri
 - https://github.com/mit-pdos/noria
 - https://github.com/riker-rs/riker
 - https://github.com/rxRust/rxRust

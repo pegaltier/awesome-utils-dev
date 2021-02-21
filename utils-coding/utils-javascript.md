@@ -234,6 +234,7 @@
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/davidjbradshaw/iframe-resizer
+- https://github.com/steveruizok/perfect-freehand
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables
 - https://github.com/willmendesneto/perf-marks

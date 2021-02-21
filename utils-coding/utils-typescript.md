@@ -51,6 +51,7 @@
 
 - https://github.com/hqoss/guards
 - https://github.com/palmerhq/tsdx
+- https://github.com/danvk/ts-mover
 - https://github.com/kutyel/linq.ts
 - https://github.com/microsoft/tsdoc
 - https://github.com/nadeesha/ts-prune

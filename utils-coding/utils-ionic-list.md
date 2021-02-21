@@ -31,14 +31,18 @@
 - https://github.com/brandonroberts/ionic-http-plugin-examples
 - https://github.com/javebratt/ionic-angular-firebase-authentication-starter
 
-## LIBS
+## LIBS: IONIC
 
 - https://github.com/amarkes/br-mask
 - https://github.com/Nodonisko/ionic-cache
 - https://github.com/hsuanxyz/ion2-calendar
 - https://github.com/ryanehrler/ngx-mask-ionic
 - https://github.com/eakoriakin/ionic-selectable
+
+## LIBS: CAPACITOR
+
 - https://github.com/Nodonisko/capacitor-rate-app
+- https://github.com/CodetrixStudio/CapacitorGoogleAuth
 
 ## PWA
 https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/
