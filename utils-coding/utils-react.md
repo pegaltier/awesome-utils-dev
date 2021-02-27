@@ -87,6 +87,7 @@
 - https://github.com/hupe1980/react-script-hook
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
+- https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/sylvaindubus/react-prismazoom
 - https://github.com/danilowoz/react-content-loader

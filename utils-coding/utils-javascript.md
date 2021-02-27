@@ -164,7 +164,6 @@
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
 - https://github.com/JSMonk/hegel
-- https://github.com/ulid/javascript
 - https://github.com/nuxt-contrib/consola
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev
@@ -222,6 +221,10 @@
 - https://github.com/fb55/htmlparser2
 - https://github.com/fb55/entities
 
+## LIB: ID
+- https://github.com/ulid/javascript
+- https://github.com/crypto-browserify/sha.js
+
 ## LIB: UI
 - https://github.com/joe223/tiny-swiper
 
@@ -245,6 +248,7 @@
 - https://github.com/focus-trap/tabbable
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
+- https://github.com/zxing-js/library
 - https://github.com/omrilotan/isbot
 - https://github.com/Leaflet/Leaflet
 - https://github.com/matthewp/robot

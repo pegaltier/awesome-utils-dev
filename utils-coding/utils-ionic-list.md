@@ -34,6 +34,7 @@
 ## LIBS: IONIC
 
 - https://github.com/amarkes/br-mask
+- https://github.com/zyra/ionic-super-tabs
 - https://github.com/Nodonisko/ionic-cache
 - https://github.com/hsuanxyz/ion2-calendar
 - https://github.com/ryanehrler/ngx-mask-ionic
@@ -43,6 +44,7 @@
 
 - https://github.com/Nodonisko/capacitor-rate-app
 - https://github.com/CodetrixStudio/CapacitorGoogleAuth
+- https://github.com/capacitor-community/firebase-crashlytics
 
 ## PWA
 https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/

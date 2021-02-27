@@ -190,6 +190,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
 - https://dev.to/joerter/10-tips-for-awesome-angular-apps-a2b
+- https://github.com/nirkaufman/bad-practice
 
 ## HELPER: DESIGN PATTERN
 
@@ -1215,6 +1216,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/nxpm/stack
 - https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
+- https://github.com/manfredsteyer/custom-nx-cache
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nrwl/nx/issues/2633 ionic5 support
 - https://github.com/nstudio/xplat-sample-ionic-web
@@ -1553,6 +1555,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/herodevs/herodevs-packages
 
 ## ECOSYSTEM: LIB: RXJS
+- https://github.com/observable-playground/observable-playground
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/cloudnc/ngx-observable-lifecycle
@@ -2106,6 +2109,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/gbumanzordev/ng-docker-boilerplate
 - https://github.com/santoshyadavdev/threejsAngularDemo
 - https://github.com/DenysVuika/developing-with-angular
+- https://github.com/brandonroberts/nx-ngrx-seinfeld-app
 - https://github.com/start-angular/SB-Admin-BS4-Angular-8
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial

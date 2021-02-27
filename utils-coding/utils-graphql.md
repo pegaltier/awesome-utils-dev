@@ -26,6 +26,7 @@
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/piglovesyou/graphql-let
 - https://github.com/MichalLytek/type-graphql
+- https://github.com/Jenyus-Org/graphql-utils
 - https://github.com/APIs-guru/graphql-voyager
 - https://github.com/calmonr/typegraphql-relay
 - https://github.com/contrawork/graphql-helix
