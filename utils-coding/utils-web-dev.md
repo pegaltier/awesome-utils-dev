@@ -93,6 +93,7 @@
 - https://debuild.co
 - https://staticbox.io
 - https://webcode.tools
+- http://browserhacks.com
 - https://bundlephobia.com
 - https://validator.w3.org
 - https://responsively.app

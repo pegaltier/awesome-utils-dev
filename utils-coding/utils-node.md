@@ -39,6 +39,7 @@
 - https://github.com/amio/npm-why
 - https://github.com/ranyitz/qnm
 - https://github.com/vercel/ncc
+- https://github.com/vercel/nft
 - https://github.com/sezna/nps
 
 ## MONITORING

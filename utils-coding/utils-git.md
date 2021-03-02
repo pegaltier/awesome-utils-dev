@@ -49,6 +49,7 @@
 - https://prettier.io/docs/en/precommit.html
 - https://github.com/ad-m/github-push-action
 - https://github.com/jesseduffield/lazygit
+- https://github.com/jevakallio/git-notify
 - https://github.com/observing/pre-commit
 - https://github.com/release-it/release-it
 - https://github.com/bahmutov/npm-install

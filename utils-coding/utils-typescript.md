@@ -49,6 +49,7 @@
 
 ## UTILS
 
+- https://github.com/trpc/trpc
 - https://github.com/hqoss/guards
 - https://github.com/palmerhq/tsdx
 - https://github.com/danvk/ts-mover
@@ -62,6 +63,7 @@
 - https://github.com/nobrainr/morphism
 - https://github.com/airbnb/ts-migrate
 - https://github.com/SamVerschueren/tsd
+- https://github.com/nfriend/ts-key-enum
 - https://github.com/runem/ts-simple-type
 - https://github.com/dsherret/ts-ast-viewer
 - https://github.com/piotrwitek/utility-types
