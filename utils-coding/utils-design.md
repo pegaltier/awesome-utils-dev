@@ -70,6 +70,7 @@
 - http://www.colorhunt.co
 - https://flatuicolors.com
 - http://lukyvj.github.io/colofilter.css/
+- https://dev.di7tazxmp7xob.amplifyapp.com/
 - https://color.adobe.com/fr/create/color-wheel
 - http://blog.visme.co/color-harmony-tips-on-selecting-colors-in-design/
 - http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html

@@ -79,16 +79,17 @@
 ## LIB: ALL
 
 - https://github.com/yangshun/lago
-- https://github.com/DefinitelyTyped/DefinitelyTyped
-- https://github.com/phenomnomnominal/betterer
 - https://github.com/stalniy/casl
-- https://github.com/eonarheim/TypeState
 - https://github.com/krzkaczor/earl
 - https://github.com/adelsz/pgtyped
-- https://github.com/ronami/meta-typing
 - https://github.com/codemix/ts-sql
 - https://github.com/thi-ng/umbrella
+- https://github.com/ronami/meta-typing
+- https://github.com/eonarheim/TypeState
+- https://github.com/graphology/graphology
 - https://github.com/jpbulman/Advanced-Sets
+- https://github.com/phenomnomnominal/betterer
+- https://github.com/DefinitelyTyped/DefinitelyTyped
 
 ## LIB: COMPONENTS
 

@@ -163,3 +163,7 @@ iptable
 
 vps1 et vps2  		> entree  22 pour tout le monde . et 80 si origin load balancer
 sql					> entree  3389 depuis vps. et le 22 tout le monde
+
+## CERTIFICATE
+
+- https://certbot.eff.org/docs/using.html
