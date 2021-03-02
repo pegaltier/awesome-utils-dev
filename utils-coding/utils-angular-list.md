@@ -452,6 +452,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 
 ## CORE: RESPONSIVE
 
+- https://indepth.dev/posts/1383/responsive-angular
 - https://www.smashingmagazine.com/2019/02/image-breakpoints-angular/#top
 
 ## CORE: DIRECTIVES
