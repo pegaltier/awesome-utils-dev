@@ -1726,6 +1726,10 @@ Analyze and optimize the performance of your app
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/webcat12345/ngx-intl-tel-input
+- https://github.com/ivylaboratory/angular-carousel
+- https://github.com/ivylaboratory/angular-gallery
+- https://github.com/ivylaboratory/angular-popover
+- https://github.com/ivylaboratory/ivypinch
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
 - https://github.com/dig-platform/ngx-stackblitz
