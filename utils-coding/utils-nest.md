@@ -40,6 +40,7 @@
 - https://github.com/squareboat/nest-notifications
 - https://github.com/squareboat/nestjs-boilerplate
 - https://github.com/javascript-dragons/nest-event
+- https://github.com/brolag/fullstack-angular-nest-nx
 - https://github.com/johannesschobel/nest-prisma-crud
 - https://github.com/kyhsa93/nestjs-rest-cqrs-example
 - https://github.com/satanTime/nx-nestjs-angular-graphql

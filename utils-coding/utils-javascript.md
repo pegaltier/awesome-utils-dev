@@ -132,12 +132,12 @@
 
 ## FRAMEWORK: BACKEND
 - https://nestjs.com/
+- https://github.com/amark/gun
 - https://github.com/strapi/strapi
 - https://github.com/typeorm/typeorm
-- https://github.com/strapi/strapi
-- https://github.com/amark/gun
-- https://github.com/exportarts/bullmq-utils
+- https://github.com/kuzzleio/kuzzle
 - https://github.com/xgenecloud/xgenecloud
+- https://github.com/exportarts/bullmq-utils
 - https://github.com/microsoft/FluidFramework
 
 ## LIB: LIST

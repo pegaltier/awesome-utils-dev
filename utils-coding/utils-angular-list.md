@@ -2083,6 +2083,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES
 
 - https://github.com/mraible/ng-demo
+- https://github.com/beeman/panng-stack
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/SanderElias/Samples

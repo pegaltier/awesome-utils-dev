@@ -94,6 +94,7 @@
 - https://github.com/danilowoz/react-content-loader
 - https://github.com/kettanaito/react-advanced-form
 - https://github.com/aaronhayes/react-use-hubspot-form
+- https://github.com/JesperLekland/react-native-svg-charts
 
 ## LIB: UI
 
