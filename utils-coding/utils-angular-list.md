@@ -1554,6 +1554,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/KostyaTretyak/ng-stack
 - https://github.com/KoderLabs/ngx-device-detector
 - https://github.com/herodevs/herodevs-packages
+- https://github.com/embarq/safe-pipe
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/observable-playground/observable-playground
@@ -1734,6 +1735,7 @@ Analyze and optimize the performance of your app
 - https://github.com/exportarts/ngx-cookie-banner
 - https://github.com/dig-platform/ngx-stackblitz
 - https://github.com/madoar/angular-archwizard
+- https://github.com/abdulkadirgenc/ng-wizard
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/KensingtonTech/ng2-panzoom
 - https://github.com/vlio20/angular-datepicker

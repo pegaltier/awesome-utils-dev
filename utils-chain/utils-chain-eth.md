@@ -9,8 +9,9 @@
 - https://forum.ethereum.org
 
 ## ETH DEV
-- https://github.com/ethereum/
 - https://etherscan.io/apis
+- https://github.com/ethereum/
+- https://github.com/ethereum-ts/TypeChain
 - https://github.com/bkrem/awesome-solidity
 - https://github.com/embark-framework/embark
 - https://github.com/mithio/mithril-smart-contract
