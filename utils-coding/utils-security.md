@@ -4,6 +4,7 @@
 ## BASICS
 
 - https://websecurity-academy.com/
+- https://github.com/danielmiessler/SecLists
 - https://github.com/tadwhitaker/Security_Engineer_Interview_Questions
 
 ## NEWS

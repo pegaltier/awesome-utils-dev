@@ -19,6 +19,7 @@
 - https://github.com/RameshMF/awesome-spring-boot
 - http://www.baeldung.com/rest-with-spring-course
 - https://github.com/RameshMF/spring-boot-tutorial
+- https://github.com/RameshMF/springboot-validation
 - https://github.com/RameshMF/Hibernate-ORM-Tutorials
 - https://github.com/livelessons-spring/building-microservices
 

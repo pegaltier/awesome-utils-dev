@@ -14,13 +14,16 @@
 - https://github.com/topics/awesome-list
 - https://github.com/sindresorhus/awesome
 - https://github.com/learn-anything/books
+- https://github.com/google/eng-practices
 - https://github.com/sindresorhus/awesome
 - https://github.com/ossu/computer-science
 - https://github.com/datasciencemasters/go
 - https://github.com/LeCoupa/awesome-cheatsheets
+- https://github.com/ryanburgess/engineer-manager
 - https://github.com/zudochkin/awesome-newsletters
 - https://github.com/tuvtran/project-based-learning
 - https://github.com/orsinium/generated-awesomeness
+- https://github.com/dmitryvinn/awesome-dev-advocacy
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development
 

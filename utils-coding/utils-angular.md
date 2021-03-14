@@ -946,4 +946,5 @@ There is a new module called @angular/fire which helps to automatize the whole d
 - https://github.com/cloudnc/frontend-interview
 - https://github.com/Yonet/Angular-Interview-Questions
 - https://github.com/sudheerj/angular-interview-questions
+- https://github.com/yangshun/front-end-interview-handbook
 - https://dev.to/mokkapps/my-top-angular-interview-questions-237h

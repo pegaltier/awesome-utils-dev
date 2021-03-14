@@ -46,8 +46,10 @@
 - https://github.com/troxler/awesome-css-frameworks
 
 ## TAILWIND
-- https://github.com/aniftyco/awesome-tailwindcss
+
 - https://github.com/tailwindlabs/headlessui
+- https://github.com/aniftyco/awesome-tailwindcss
+- https://github.com/windicss/windicss-intellisense
 
 ## BAD
 
@@ -60,6 +62,7 @@
 
 - https://jdan.github.io/98.css/
 - https://github.com/botoxparty/XP.css
+- https://github.com/captbaritone/webamp
 - https://github.com/AbimaelAndrade/twitter-flexbox
 
 ## EXAMPLE

@@ -43,8 +43,10 @@
 ## LIBS: CAPACITOR
 
 - https://github.com/Nodonisko/capacitor-rate-app
-- https://github.com/CodetrixStudio/CapacitorGoogleAuth
+- https://github.com/capacitor-community/date-picker
+- https://github.com/CodetrixStudio/CapacitorGoogleAuthÒ
 - https://github.com/capacitor-community/firebase-crashlytics
+- https://github.com/nativescript-community/capacitor-plugins
 
 ## PWA
 https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/

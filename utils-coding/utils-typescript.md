@@ -97,6 +97,7 @@
 
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/gcanti/fp-ts
+- https://github.com/gcanti/fp-ts-contrib
 
 ## LIB: DATA OBJECT
 - https://github.com/gcanti/io-ts
@@ -112,6 +113,7 @@
 - https://github.com/gvergnaud/ts-pattern
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
+- https://github.com/wix-incubator/as-typed
 - https://github.com/krzkaczor/ts-essentials
 - https://github.com/Rich-Harris/object-cull
 - https://github.com/woutervh-/typescript-is

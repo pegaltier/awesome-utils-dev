@@ -73,6 +73,7 @@
 - https://github.com/mgechev/javascript-algorithms
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/getify/You-Dont-Know-JS
+- https://github.com/serhiisol/awesome-js
 - https://github.com/denysdovhan/wtfjs
 - https://github.com/standard/standard
 
@@ -109,6 +110,7 @@
 
 ## EXAMPLE
 
+- https://github.com/GorvGoyl/Clone-Wars
 - https://github.com/atulmy/fullstack-javascript-architecture
 
 ## TOOLS OSS
@@ -222,6 +224,7 @@
 - https://github.com/fb55/entities
 
 ## LIB: ID
+- https://github.com/ai/nanoid
 - https://github.com/ulid/javascript
 - https://github.com/crypto-browserify/sha.js
 
@@ -283,9 +286,10 @@
 - https://github.com/markedjs/marked
 - https://github.com/varkor/quiver
 
-## LIB: 3D
+## LIB: 3D/VR
 - https://github.com/mrdoob/three.js/
 - https://github.com/KhronosGroup/glTF
+- https://github.com/aframevr/aframe
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js

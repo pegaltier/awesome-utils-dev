@@ -189,7 +189,9 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.ninja-squad.com/2019/03/15/cool-things-we-learned-part-2-frontend-edition/
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
+- https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18
 - https://dev.to/joerter/10-tips-for-awesome-angular-apps-a2b
+- https://github.com/wesleygrimes/angular-routing-best-practices
 - https://github.com/nirkaufman/bad-practice
 
 ## HELPER: DESIGN PATTERN
@@ -816,6 +818,9 @@ Learn about the angular router, lazy load your modules.
 
 Learn everything about angular universal, make a good SEO.
 
+- https://github.com/angular/universal/blob/master/docs/gotchas.md
+- https://dev.to/ikatsuba/angular-universal-real-app-problems-3d2a
+- https://malcoded.com/posts/server-rendering-pitfalls/
 - https://www.loom.com/share/35330a858cd741ba92e8be0c0496ffbb
 - https://slides.com/craigspence/angular-universal-in-the-real-world-15
 - https://www.youtube.com/watch?v=-VDOAjzLcvQ SSR
@@ -2082,7 +2087,24 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://ng-alain.com
 - https://abp.io/
 
-## ECOSYSTEM: DEMO: SOURCES & EXAMPLES
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
+
+- https://github.com/enten/angular-universal
+- https://github.com/TrilonIO/universal-nest
+- https://github.com/TrilonIO/angular-universal-v9
+- https://github.com/TrilonIO/angular-universal-tutorial
+- https://github.com/mehrad-rafigh/nx-angular-universal
+- https://github.com/servrox/nx-ng-nest-universal
+- https://github.com/mgechev/angular-hybrid-rendering
+
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FULL
+
+- https://github.com/rfprod/nx-ng-starter
+- https://github.com/xmlking/ngx-starter-kit
+- https://github.com/brechtbilliet/winecellar
+- https://github.com/r-park/todo-angular2-firebase
+
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SPA
 
 - https://github.com/mraible/ng-demo
 - https://github.com/beeman/panng-stack
@@ -2092,9 +2114,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/tieppt/angular-docker
 - https://github.com/ganatan/angular11-app
 - https://github.com/gothinkster/realworld
+- https://github.com/orizens/echoes-player
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list
-- https://github.com/enten/angular-universal
 - https://github.com/waynegakuo/resumebuilder
 - https://github.com/alan-agius4/prune-css-poc
 - https://github.com/herodevs/material-studies
@@ -2107,8 +2129,8 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/waynegakuo/angular-dashboard
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/thenaim/ionic-tk-social-network
+- https://github.com/HybridShivam/pokedex-angular-app
 - https://github.com/juanmesa2097/angular-boilerplate
-- https://github.com/mgechev/angular-hybrid-rendering
 - https://github.com/DenysVuika/medium-angular-docker
 - https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/StephenFluin/angular-update-guide
@@ -2121,33 +2143,10 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/start-angular/SB-Admin-BS4-Angular-8
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
-- https://github.com/nativescript-community/expo-nativescript
-- https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
-- https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/avatsaev/angular-contacts-app-example
-- https://github.com/brechtbilliet/winecellar (backend and auth)
-- https://github.com/amcdnl/angular2-demo
-- https://github.com/r-park/todo-angular2-firebase WITH BACKEND and OAUTH
-- https://github.com/HybridShivam/pokedex-angular-app
-- https://github.com/orizens/echoes-ng2
-- https://github.com/johnpapa/angular2-first-look-launcher
-- https://github.com/johnpapa/angular2-tour-of-heroes
-- https://github.com/daviddt/angular2-form-validation-example
-- https://github.com/ng-book/angular2-rxjs-chat
-- https://github.com/blacksonic/angular2-es6-starter
-- https://manning.com/books/angular-2-development-with-typescript
-- https://github.com/angular/angular/tree/master/modules/playground/src/upgrade 1VS2
-- https://github.com/ng-book/angular2-rxjs-chat
-- https://github.com/fcoury/angular2-reddit
-- https://github.com/SekibOmazic/angular2-playground
-- https://github.com/auth0/angular2-authentication-sample
-- https://github.com/joeeames/ng2-ps-webinar
-- https://github.com/swirlycheetah/generator-angular2
-- https://github.com/davideast/ng2do
-- https://github.com/angular/templating
-- https://github.com/htmlxprs/angular2-todo
-- https://github.com/hswolff/hn-ng2
-- http://angular2.com/
+- https://github.com/nativescript-community/expo-nativescript
+- https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
+- https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 
 ## ECOSYSTEM: DEMO: LIVE
 

@@ -28,10 +28,12 @@
 - https://github.com/MichalLytek/type-graphql
 - https://github.com/Jenyus-Org/graphql-utils
 - https://github.com/APIs-guru/graphql-voyager
+- https://github.com/dotansimha/graphql-eslint
 - https://github.com/calmonr/typegraphql-relay
 - https://github.com/contrawork/graphql-helix
 - https://github.com/dabit3/cdk-graphql-backend
 - https://github.com/graphql-editor/graphql-zeus
+- https://github.com/prisma-labs/graphql-request
 - https://github.com/ef-eng/graphql-query-rewriter
 - https://github.com/rahmanfadhil/learn-typegraphql
 - https://github.com/pipedrive/graphql-schema-registry

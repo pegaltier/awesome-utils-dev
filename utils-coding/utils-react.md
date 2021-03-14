@@ -16,6 +16,7 @@
 ## GUIDE
 - https://2ality.com/2020/08/minimal-react.html
 - https://github.com/harryheman/React-Questions
+- https://github.com/chentsulin/awesome-react-renderer
 - https://github.com/iamshaunjp/Complete-React-Tutorial
 - https://github.com/airbnb/javascript/tree/master/react
 - https://khalilstemmler.com/articles/client-side-architecture/introduction/
@@ -86,6 +87,7 @@
 - https://github.com/aaronvanston/react-flexa
 - https://github.com/kettanaito/atomic-layout
 - https://github.com/hupe1980/react-script-hook
+- https://github.com/zthxxx/react-dev-inspector
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/duskload/react-device-detect
@@ -102,6 +104,7 @@
 - https://github.com/react-bootstrap/react-bootstrap
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/americanexpress/react-albus
+- https://github.com/italia/design-react-kit
 - https://github.com/ant-design/ant-design
 - https://github.com/mui-org/material-ui
 - https://github.com/chakra-ui/chakra-ui
@@ -132,6 +135,7 @@
 - https://github.com/ravirupareliya/rn-in-app-review
 - https://github.com/callstack/react-native-viewpager
 - https://github.com/callstack/react-native-builder-bob
+- https://github.com/calintamas/react-native-toast-message
 - https://github.com/thebylito/react-native-navigation-bar-color
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 - https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html
