@@ -176,6 +176,7 @@
 - https://github.com/stryker-mutator/stryker
 - https://github.com/staltz/promisify-4loc
 - https://github.com/gustf/js-levenshtein
+- https://github.com/ajv-validator/ajv
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
 - https://github.com/ramda/ramda

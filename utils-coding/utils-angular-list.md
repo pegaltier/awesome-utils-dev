@@ -504,6 +504,7 @@ create your first components, learn how to use translusions, ng-content...
 - https://itnext.io/understanding-angular-modules-5f1215130bc8
 - https://indepth.dev/stop-using-shared-material-module/
 - https://indepth.dev/avoiding-common-confusions-with-modules-in-angular/
+- https://github.com/matheo/ng-providers
 
 ## CORE: FORMS
 
@@ -1757,6 +1758,7 @@ Analyze and optimize the performance of your app
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngneat/hot-toast
 - https://github.com/daybrush/moveable
+- https://github.com/matheo/angular
 - https://github.com/sitecore/jss
 - https://github.com/ng-select/ng-select
 - https://github.com/cipchk/ngx-filesaver
