@@ -120,6 +120,8 @@
 
 ## TOOLS: CSS
 
+- https://tabbied.com/
+- https://css-doodle.com/
 - https://glassmorphism.com
 - https://stripesgenerator.com/
 - https://bennettfeely.com/clippy

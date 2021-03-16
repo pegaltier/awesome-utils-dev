@@ -42,6 +42,7 @@
 - https://github.com/r1/cssbuttons
 - https://github.com/linkedin/css-blocks
 - https://github.com/vasanthv/stylize.css
+- https://github.com/css-doodle/css-doodle
 - https://github.com/yogurt-foundation/yogurt-css
 - https://github.com/troxler/awesome-css-frameworks
 
