@@ -1969,6 +1969,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngx-translate/core
 - https://github.com/robisim74/angular-l10n
 - https://github.com/martinroob/ngx-i18nsupport
+- https://github.com/gilsdav/ngx-translate-router
 - https://github.com/jgpacheco/ngx-translate-cache
 - https://github.com/ngneat/transloco-keys-manager
 - https://github.com/biesbjerg/ngx-translate-extract
@@ -2092,6 +2093,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 
+- https://github.com/nxpm/nxpm-universal
 - https://github.com/enten/angular-universal
 - https://github.com/TrilonIO/universal-nest
 - https://github.com/TrilonIO/angular-universal-v9
