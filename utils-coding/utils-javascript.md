@@ -73,6 +73,7 @@
 - https://github.com/mgechev/javascript-algorithms
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/getify/You-Dont-Know-JS
+- https://github.com/twhite96/js-dev-reads
 - https://github.com/serhiisol/awesome-js
 - https://github.com/denysdovhan/wtfjs
 - https://github.com/standard/standard
