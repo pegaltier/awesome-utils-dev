@@ -322,6 +322,9 @@
 ## LIB: TESTING
 - https://github.com/Marak/faker.js
 
+## LIB: SECURITY
+- https://github.com/travist/jsencrypt
+
 ## ALLIN
 
 - https://github.com/vendure-ecommerce/vendure
