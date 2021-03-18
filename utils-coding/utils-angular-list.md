@@ -1728,6 +1728,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENTS
 
+- https://github.com/fetrarij/ngx-daterangepicker-material
 - https://github.com/maxisam/ngx-progressive-image-loader
 - https://github.com/drozhzhin-n-e/ng2-tooltip-directive
 - https://github.com/DmitryEfimenko/ng-expandable-input
@@ -1737,6 +1738,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/ivylaboratory/angular-gallery
 - https://github.com/ivylaboratory/angular-popover
+- https://github.com/michaelbromley/ngx-pagination
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
@@ -1843,6 +1845,7 @@ Analyze and optimize the performance of your app
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
 - https://github.com/katoid/angular-grid-layout
+- https://github.com/ssuperczynski/ngx-easy-table
 - https://github.com/exportarts/ngx-material-data-table
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
