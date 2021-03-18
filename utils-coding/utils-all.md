@@ -12,6 +12,7 @@
 
 - https://github.com/kuchin/awesome-cto
 - https://github.com/topics/awesome-list
+- https://github.com/dwmkerr/hacker-laws
 - https://github.com/sindresorhus/awesome
 - https://github.com/learn-anything/books
 - https://github.com/google/eng-practices
