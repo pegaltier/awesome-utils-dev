@@ -23,6 +23,7 @@
 - https://github.com/zudochkin/awesome-newsletters
 - https://github.com/tuvtran/project-based-learning
 - https://github.com/orsinium/generated-awesomeness
+- https://github.com/tuvtran/project-based-learning
 - https://github.com/dmitryvinn/awesome-dev-advocacy
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development

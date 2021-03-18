@@ -939,6 +939,8 @@ There is a new module called @angular/fire which helps to automatize the whole d
 - can you describe what is typescript?
 
 ### CLOSED QUESTIONS:
+- what are the different values possible for the position property in css?
+- what are the different values possible for the display property in css?
 - what is the spread operator in javascript?
 - what is the destructuring in javascript?
 

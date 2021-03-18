@@ -15,7 +15,7 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - long only
 - long/short
 - trend following (suivi de tendance)
-- mean reversion (retour à la moyenne)
+- mean reversion (retour à la moyenne) for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
 
 ## FILTER STRATEGY
 - detect the asset to focus on for a swing (3 days to 30 days)

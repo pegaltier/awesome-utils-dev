@@ -21,6 +21,7 @@
 - https://github.com/caprover/caprover
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
+- https://github.com/earthly/earthly
 
 ## VIM
 
@@ -34,6 +35,7 @@
 
 ## KUBERNETES
 - https://github.com/appvia/kev
+- https://github.com/keel-hq/keel
 - https://github.com/lensapp/lens
 - https://github.com/kedacore/keda
 - https://github.com/Portshift/kubei

@@ -62,6 +62,7 @@
 - https://github.com/strapi/strapi
 - https://github.com/lukeautry/tsoa
 - https://github.com/typeorm/typeorm
+- https://github.com/directus/directus
 - https://github.com/mikro-orm/mikro-orm
 - https://github.com/sequelize/sequelize
 - https://github.com/strongloop/loopback-next
