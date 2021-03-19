@@ -18,6 +18,7 @@
 ## LIB
 - https://github.com/imolorhe/altair
 - https://github.com/jagql/framework
+- https://github.com/anvilco/spectaql
 - https://github.com/dgraph-io/dgraph
 - https://github.com/graphql/dataloader
 - https://github.com/oslabs-beta/portara

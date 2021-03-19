@@ -362,3 +362,49 @@ git commit -m "pins latest @submodule"
 ## PAGES
 
 - https://richpauloo.github.io/2019-11-17-Linking-a-Custom-Domain-to-Github-Pages/
+
+## MULTI SSH
+
+https://gist.github.com/jexchan/2351996
+https://www.freecodecamp.org/news/how-to-manage-multiple-ssh-keys/
+https://superuser.com/questions/272465/using-multiple-ssh-public-keys/272613
+https://stackoverflow.com/questions/32212593/multiple-ssh-keys-are-not-working
+
+git encrypts/decrypt network traffic using this private/public key mechanism
+if you have a pr in ~/.ssh/id_rsa then ssh will automaticly use it
+you can also use ssh-agent to manage more keys manually but you have to repeat
+each time you reboot since ssh-agent loose config on restart of your computer
+so best way is to use the ~/.ssh/config file
+in addition to that you can want to configure per repo your user:
+git config user.name "Your Pseudo Here"
+git config user.email your@email.com
+
+
+```
+# multi key config:
+
+# ssh-agent commands:
+# ssh-add -l # list all ssh keys
+# ssh-add -D # delete all ssh keys
+# ssh-add ~/.ssh/id_rsa # add a specific key
+# ssh-add ~/.ssh/id_ed25519
+#
+# ssh-config example:
+# man ssh_config
+#
+Host *github.com
+  Hostname github.com
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentitiesOnly yes
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/id_ed25519_github
+
+Host *leshop.ch
+  Hostname leshop.ch
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentitiesOnly yes
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/id_rsa_leshop
+  ```

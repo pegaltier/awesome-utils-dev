@@ -60,6 +60,7 @@
 - https://github.com/supertokens/supertokens-core
 - https://github.com/williamfiset/Algorithms
 - https://github.com/eclipse/deeplearning4j
+- https://github.com/keycloak/keycloak
 - https://java.libhunt.com/categories
 - https://github.com/alibaba/arthas
 - https://github.com/apache/thrift
