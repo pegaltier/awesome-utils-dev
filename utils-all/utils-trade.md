@@ -37,6 +37,13 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - When RSI goes above 55 on a daily timeframe it's bullish. (above 70 hyper bullish but also expect big reverse)
 
 
+## INFLATION/DEFLATION
+- when bonds are crashing then interest rates are rising => we are going towards inflation
+- when bonds are rising then interest rates are crashing => we are going towards deflation
+
+- https://www.youtube.com/watch?v=3e5LyYzTK4M
+
+
 ## VOLATILITY
 - when the volatility is high it's risky so just do day-trading and secure gain after few hours
 - when the volatility is low it's safe so just do swing-trading and secure gain after few days
