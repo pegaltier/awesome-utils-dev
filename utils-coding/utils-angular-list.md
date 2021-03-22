@@ -1192,6 +1192,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
 - https://github.com/nrwl/nx-custom-layout
+- https://github.com/Phillip9587/nx-stylelint
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/nx-go/nx-go
 - https://github.com/codeonrocks/nx-python
