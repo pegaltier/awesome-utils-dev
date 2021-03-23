@@ -2087,12 +2087,14 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: PLUG & PLAY:
 
 - https://github.com/javascript-dragons/ionic-ecommerce
+- https://github.com/NodeArt/angular-commerce
+- https://github.com/raymond-frontend/eShop
 - https://github.com/exportarts/ngx-prismic
 - https://github.com/aviabird/angularspree
+- https://github.com/ng-alain/ng-alain
+- https://github.com/akveo/ngx-admin
 - https://github.com/scullyio/scully
 - https://github.com/wizdmio/wizdm
-- https://github.com/akveo/ngx-admin
-- https://github.com/ng-alain/ng-alain
 - https://github.com/SAP/spartacus
 - https://github.com/snipcart
 - https://angularexpo.com
