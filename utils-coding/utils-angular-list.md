@@ -1734,6 +1734,8 @@ Analyze and optimize the performance of your app
 - https://github.com/ivylaboratory/angular-gallery
 - https://github.com/ivylaboratory/angular-popover
 - https://github.com/michaelbromley/ngx-pagination
+- https://github.com/Marcelh1983/document-viewer
+- https://github.com/XuPeiYao/ngx-document-view
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
@@ -2120,6 +2122,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FULL
 
+- https://github.com/neekware/fullerstack
 - https://github.com/rfprod/nx-ng-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/brechtbilliet/winecellar
