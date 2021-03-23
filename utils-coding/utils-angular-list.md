@@ -304,6 +304,11 @@ Learn about the most useful design patterns in Angular.
 - https://manuel-rauber.com/2016/09/30/how-to-debug-angular-2-with-webstorm/
 - https://medium.com/better-programming/expressionchangedafterithasbeencheckederror-in-angular-what-why-and-how-to-fix-it-c6bdc0b22787
 
+## CORE: HMR
+
+- https://dev.to/this-is-angular/things-to-watch-out-for-when-using-hmr-with-angular-50j7
+- https://dev.to/iamscottcab/using-hot-module-replacement-in-angular-11-mji
+
 ## CORE: PWA
 
 - https://slides.com/webmax/angular-workbox/#/34
