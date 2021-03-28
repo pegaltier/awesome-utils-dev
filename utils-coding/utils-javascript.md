@@ -122,6 +122,7 @@
 - https://github.com/fkling/astexplorer
 - https://github.com/pastelsky/bundlephobia
 - https://github.com/lirantal/is-website-vulnerable
+- https://github.com/Hopding/js-visualizer-9000-client
 
 ## FRAMEWORK: FRONTEND
 - https://github.com/sindresorhus/awesome-electron
@@ -167,6 +168,7 @@
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
 - https://github.com/JSMonk/hegel
+- https://github.com/blitz-js/superjson
 - https://github.com/nuxt-contrib/consola
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev

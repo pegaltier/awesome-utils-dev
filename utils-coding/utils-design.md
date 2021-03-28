@@ -147,7 +147,8 @@
 - https://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
 
 ## RESOURCES
-- http://startupstash.com/  
+- http://startupstash.com/
+- https://amigos.blush.design/
 - http://fribly.com/  
 - http://www.bookstck.com/  
 - https://randomuser.me/  
