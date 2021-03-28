@@ -8,6 +8,10 @@
 - https://github.com/odan/learn-php
 - https://phpbestpractices.org
 
+## INSTALL
+
+- https://computingforgeeks.com/how-to-install-latest-php-on-debian/
+
 ## COMPOSER
 ```
 composer dump-autoload (GENERATE import class)
