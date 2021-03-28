@@ -36,6 +36,7 @@
 - https://guides.github.com/features/mastering-markdown
 - https://github.com/firstcontributions/first-contributions
 - https://juristr.com/blog/2019/04/productive-git-for-developers
+- https://github.com/githubsatelliteworkshops/ci-cd-with-actions
 - https://www.atlassian.com/git/tutorials/setting-up-a-repository
 - https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/
 

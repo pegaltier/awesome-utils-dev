@@ -89,17 +89,20 @@
 
 ## TOOLS: CODE
 
+- https://ipsm.io
 - https://roadmap.sh
 - https://debuild.co
 - https://staticbox.io
 - https://webcode.tools
 - https://carbon.now.sh
+- https://www.jsv9000.app
 - http://browserhacks.com
 - https://bundlephobia.com
 - https://validator.w3.org
 - https://responsively.app
 - https://tiny-helpers.dev
 - https://grid.layoutit.com
+- https://component.gallery
 - http://jsoneditoronline.org
 - https://www.beautifulcodes.in
 - http://www.perf-tooling.today
@@ -116,6 +119,7 @@
 ## TOOLS: SVG
 - https://getwaves.io
 - https://svgcrop.com/
+- https://app.haikei.app/
 - https://www.softr.io/tools/svg-shape-generator
 
 ## TOOLS: CSS
@@ -127,6 +131,7 @@
 - https://bennettfeely.com/clippy
 - https://cssspider.fresalabs.com
 - https://css-scroll-shadows.now.sh/
+- https://utopia.fyi/space/calculator/
 - https://cssgrid-generator.netlify.app/
 - https://9elements.github.io/fancy-border-radius
 
@@ -403,33 +408,40 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://codedmails.com/
 - https://github.com/tomayac/dark-mode-email
 
-## BEST PRACTICES
-- https://ishadeed.com/article/css-scroll-snap/
+## CREATIVE TOOLS
 
-## CREATIVE
+- https://github.com/luruke/aladino
 
-- https://book-of-flowers.com/
-- https://www.aristidebenoist.com/
-- https://codepen.io/ainalem/full/QWGNzYm
-- https://voiceofracismreplica.netlify.app/
-- https://github.com/emmabostian/design-inspiration
-- https://tympanus.net/Development/InlineMenuLayout/
-- https://github.com/codrops/LineHoverStyles
-- https://github.com/codrops/ButtonHoverStyles
-- https://github.com/codrops/InlineMenuLayout/
-- https://github.com/codrops/OnScrollLetterAnimations
-- https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
-- https://github.com/crnacura/AmbientCanvasBackgrounds
-- https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
-- https://github.com/brunoimbrizi/interactive-particles
-- https://tympanus.net/Development/ImageStackGrid/index.html
-- https://tympanus.net/Development/ExplodingObjects/
-- https://tympanus.net/Development/HorizontalSmoothScrollLayout/
-- https://github.com/akella/ExplodingObjects
+## CREATIVE RESOURCES
+
 - https://codyhouse.co/nuggets/text-gradients
 - https://codepen.io/cassie-codes/full/RwRORqB
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
 - https://codepen.io/smpnjn/pen/mdrWPpK
+- https://codepen.io/ainalem/full/QWGNzYm
+- https://css-irl.info/animating-underlines/
+- https://github.com/emmabostian/design-inspiration
+- https://github.com/codrops/LineHoverStyles
+- https://github.com/codrops/ButtonHoverStyles
+- https://github.com/codrops/InlineMenuLayout/
+- https://github.com/codrops/OnScrollLetterAnimations
+- https://github.com/crnacura/AmbientCanvasBackgrounds
+- https://github.com/brunoimbrizi/interactive-particles
+- https://github.com/akella/ExplodingObjects
+- https://tympanus.net/Development/InlineMenuLayout/
+- https://tympanus.net/Development/ExplodingObjects/
+- https://tympanus.net/Development/LettersAnimationLayout/
+- https://tympanus.net/Development/ImageStackGrid/index.html
+- https://tympanus.net/Development/HorizontalSmoothScrollLayout/
+- https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
+- https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
+- https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
+
+## CREATIVE EXAMPLES
+
+- https://thisispam.com/
+- https://book-of-flowers.com/
+- https://www.aristidebenoist.com/
 
 ## TIPS
 

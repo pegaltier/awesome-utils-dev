@@ -4,6 +4,7 @@
 
 - http://pxtoem.com/
 - https://flukeout.github.io/
+- https://enes.in/sorted-colors/
 - https://1linelayouts.glitch.me/
 - https://dailydevlinks.com/minimal-css-loader-collection
 - https://hugogiraudel.github.io/selectors-explained/
@@ -23,6 +24,8 @@
 - https://github.com/getbem/awesome-bem
 - https://github.com/philipwalton/flexbugs
 - https://github.com/samanthaming/Flexbox30
+- https://calibreapp.com/blog/css-performance
+- https://ishadeed.com/article/css-scroll-snap/
 - https://dev.to/ladybug/css-cheat-sheets-3ee0
 - https://github.com/j9t/css-optimization-basics
 - https://melanie-richards.com/blog/css-grid-sticky
@@ -34,8 +37,13 @@
 - https://moderncss.dev/complete-guide-to-centering-in-css/
 - https://piccalil.li/tutorial/fluid-typography-with-css-clamp
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables
+- https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3
 - https://timseverien.com/posts/2020-12-06-what-makes-css-hard-to-master
 - https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
+
+## WEBSITES
+
+- https://css-irl.info/
 
 ## LIB
 

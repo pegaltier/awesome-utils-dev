@@ -10,9 +10,12 @@
 - https://github.com/schollz/croc
 - https://github.com/alyssaxuu/flowy
 - https://github.com/pavlobu/deskreen
+- https://github.com/chatwoot/chatwoot
+- https://github.com/mattermost/focalboard
 - https://github.com/justinfrankel/licecap
 
 ## Diagram
+- https://flowchart.fun/
 - https://excalidraw.com/
 - https://playground.diagram.codes/
 - https://github.com/cowchimp/source-viz
@@ -21,6 +24,7 @@
 ## List
 - https://untools.co/
 - https://github.com/iptv-org/iptv
+- https://github.com/alexanderisora/startuptoolbox
 - https://github.com/goabstract/Awesome-Design-Tools
 
 ## Desktop

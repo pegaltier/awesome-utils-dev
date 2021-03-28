@@ -22,6 +22,7 @@
 - https://github.com/anvilco/spectaql
 - https://github.com/dgraph-io/dgraph
 - https://github.com/graphql/dataloader
+- https://github.com/graphql-nexus/nexus
 - https://github.com/oslabs-beta/portara
 - https://github.com/FormidableLabs/urql
 - https://github.com/hasura/graphql-engine
@@ -29,11 +30,11 @@
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/piglovesyou/graphql-let
 - https://github.com/MichalLytek/type-graphql
+- https://github.com/contrawork/graphql-helix
 - https://github.com/Jenyus-Org/graphql-utils
 - https://github.com/APIs-guru/graphql-voyager
 - https://github.com/dotansimha/graphql-eslint
 - https://github.com/calmonr/typegraphql-relay
-- https://github.com/contrawork/graphql-helix
 - https://github.com/dabit3/cdk-graphql-backend
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/prisma-labs/graphql-request

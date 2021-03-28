@@ -20,6 +20,7 @@
 - www.bouncycastle.org/
 
 ## TOOLS
+- https://securitytxt.org/
 - www.srihash.org/
 - securityheaders.com
 - www.dashlane.com/fr/
