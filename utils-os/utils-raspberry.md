@@ -35,9 +35,10 @@ crontab -l ==> show
 - https://github.com/JamesBarwell/rpi-gpio.js
 
 ## Various
+- https://github.com/blackout314/awesome-raspberry-pi
 - https://github.com/thibmaek/awesome-raspberry-pi
 - https://github.com/dymayday/raspberry-pi
-- https://github.com/blackout314/awesome-raspberry-pi
+- https://github.com/sergkhl/rpi-utils
 
 ##  Sensor / camera
 

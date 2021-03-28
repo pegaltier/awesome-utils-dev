@@ -124,6 +124,10 @@
 - https://github.com/enaqx/awesome-react
 - https://github.com/brillout/awesome-react-components
 
+## NEXT
+
+- https://github.com/one-aalam/next-starter-kit
+
 ## NATIVE
 
 - https://github.com/facebook/react-native

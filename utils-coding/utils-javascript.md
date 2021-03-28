@@ -116,6 +116,7 @@
 
 ## TOOLS OSS
 
+- https://github.com/vercel/hazel
 - https://github.com/evanw/esbuild
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
@@ -162,11 +163,15 @@
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
 
+## LIB: JAMSTACK
+- https://github.com/redwoodjs/redwood
+
 ## LIB: UTILS
 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
 - https://github.com/JSMonk/hegel
+- https://github.com/EricSmekens/jsep
 - https://github.com/nuxt-contrib/consola
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev

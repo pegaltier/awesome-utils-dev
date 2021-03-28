@@ -598,6 +598,7 @@ Learn the reactive programming using rxjs.
 - https://github.com/btroncone/learn-rxjs
 - https://github.com/ichpuchtli/awesome-rxjs
 - https://github.com/jsonberry/rxjs-examples
+- https://github.com/waterplea/rxjs-challenge
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 - https://blog.briebug.com/blog/what-can-i-do-with-observables
 - https://medium.com/javascript-in-plain-english/more-rxjs-transformation-operators-mergescan-and-pluck-2f09510abef
@@ -1440,9 +1441,10 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/ngrev
 - https://github.com/mgechev/ng2lint
 - https://github.com/mgechev/codelyzer
-- https://github.com/mgechev/tslint-angular
 - https://github.com/ReactiveX/rxjs-tslint
+- https://github.com/mgechev/tslint-angular
 - https://github.com/cartant/rxjs-tslint-rules
+- https://github.com/NativeScript/eslint-plugin
 - https://github.com/ranyitz/eslint-plugin-jest
 - https://github.com/wesbos/eslint-config-wesbos
 - https://github.com/angular-extensions/lint-rules
@@ -2148,7 +2150,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/gothinkster/realworld
 - https://github.com/orizens/echoes-player
 - https://github.com/bbaia/gdgtoulouse-ngrx
-- https://angular.io/guide/example-apps-list
+- https://angular.io/guide/example-apps-list  
 - https://github.com/waynegakuo/resumebuilder
 - https://github.com/MSakamaki/multiple-stores
 - https://github.com/alan-agius4/prune-css-poc
@@ -2176,6 +2178,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/start-angular/SB-Admin-BS4-Angular-8
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
+- https://github.com/frederiksen/angular-electron-boilerplate
 - https://github.com/avatsaev/angular-contacts-app-example
 - https://github.com/nativescript-community/expo-nativescript
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app

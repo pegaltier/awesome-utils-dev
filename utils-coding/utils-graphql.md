@@ -16,6 +16,7 @@
 - https://github.com/APIs-guru/graphql-apis
 
 ## LIB
+- https://github.com/movio/bramble
 - https://github.com/imolorhe/altair
 - https://github.com/jagql/framework
 - https://github.com/anvilco/spectaql
@@ -24,6 +25,7 @@
 - https://github.com/oslabs-beta/portara
 - https://github.com/FormidableLabs/urql
 - https://github.com/hasura/graphql-engine
+- https://github.com/wp-graphql/wp-graphql
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/piglovesyou/graphql-let
 - https://github.com/MichalLytek/type-graphql
