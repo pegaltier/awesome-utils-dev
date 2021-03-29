@@ -2151,6 +2151,8 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/orizens/echoes-player
 - https://github.com/bbaia/gdgtoulouse-ngrx
 - https://angular.io/guide/example-apps-list  
+- https://github.com/intershop/intershop-pwa
+- https://github.com/trungk18/angular-spotify
 - https://github.com/waynegakuo/resumebuilder
 - https://github.com/MSakamaki/multiple-stores
 - https://github.com/alan-agius4/prune-css-poc
