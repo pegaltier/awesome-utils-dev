@@ -259,6 +259,7 @@
 - https://github.com/giuseppeg/screensaver
 - https://github.com/codex-team/editor.js
 - https://github.com/focus-trap/tabbable
+- https://github.com/datalog/qrcode-svg
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/zxing-js/library

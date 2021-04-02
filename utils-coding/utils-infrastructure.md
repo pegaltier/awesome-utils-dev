@@ -4,6 +4,7 @@
 - https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/
 - https://github.com/sathishvj/awesome-gcp-certifications
 - https://github.com/binhnguyennus/awesome-scalability
+- https://github.com/jdauphant/awesome-ansible
 
 ## TOOLS
 - https://crontab.guru/

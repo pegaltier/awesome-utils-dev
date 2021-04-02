@@ -942,6 +942,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/markostanimirovic/ngrx-child-selectors
 - https://github.com/markostanimirovic/ngrx-handlers
 - https://github.com/meeroslav/ng-helpers
+- https://github.com/SaulMoro/ngrx-rtk-query
 - https://github.com/MrWolfZ/ngrx-forms
 - https://github.com/satanTime/ngrx-graphql
 - https://github.com/briebug/ngrx-auto-entity
