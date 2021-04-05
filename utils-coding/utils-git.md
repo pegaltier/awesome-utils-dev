@@ -32,6 +32,7 @@
 - https://trunkbaseddevelopment.com
 - https://maggieappleton.com/git-mistakes
 - https://rogerdudler.github.io/git-guide/
+- https://github.com/fffaraz/awesome-github
 - https://blog.octo.com/git-dans-la-pratique-22
 - https://guides.github.com/features/mastering-markdown
 - https://github.com/firstcontributions/first-contributions

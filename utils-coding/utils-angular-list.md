@@ -1467,6 +1467,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: DEVTOOLS
 - https://github.com/omniboard-dev/analyzer
+- https://github.com/angular/dgeni-packages
 - https://github.com/xlayers/version-stamp
 - https://github.com/irustm/ng-app-counter
 - https://github.com/compodoc/ts-stats
@@ -2166,6 +2167,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/Angular-RU/universal-starter
 - https://github.com/waynegakuo/angular-dashboard
 - https://github.com/LayZeeDK/ngx-stryker-robobar
+- https://github.com/twerske/material-theme-builder
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/HybridShivam/pokedex-angular-app
 - https://github.com/juanmesa2097/angular-boilerplate
@@ -2398,6 +2400,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://books.ninja-squad.com/angular2
 - https://gumroad.com/l/angular-universal
 - https://github.com/codecraft-tv/angular-course
+- https://github.com/PacktPublishing/Angular-Projects
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://manning.com/books/angular-2-development-with-typescript
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison

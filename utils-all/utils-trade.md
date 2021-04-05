@@ -25,7 +25,8 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 
 ## INDICATORS
 
-2²1EMA DAILY
+21EMA DAILY
+
 ## Strat 1
 - bullish if price is above the weelkly 21 MA (if it hold above it's bullish)
 - bullish if price is bellow the weelkly 21 MA (if it hold below it's bearish)
@@ -47,6 +48,10 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 ## VOLATILITY
 - when the volatility is high it's risky so just do day-trading and secure gain after few hours
 - when the volatility is low it's safe so just do swing-trading and secure gain after few days
+
+## MOMENTUM4
+
+Momentum is the speed or velocity of price changes in a stock, security, or tradable instrument.
 
 ## TREND
 - bull market usually takes many years (24 months to 72 months)
