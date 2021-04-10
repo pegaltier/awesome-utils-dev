@@ -23,6 +23,7 @@
 ## USEFUL
 
 - https://mgv.io/deep-readonly-play
+- https://github.com/orta/typescript-notes
 - https://rmolinamir.github.io/typescript-cheatsheet/
 - https://twitter.com/mgechev/status/1240178886979223552
 - https://dev.to/ruslanchek_17/some-useful-typescript-snippets-2278
