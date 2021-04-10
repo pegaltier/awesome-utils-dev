@@ -61,6 +61,7 @@
 - https://github.com/kamranahmedse/developer-roadmap
 - https://google.github.io/styleguide/htmlcssguide.xml
 - https://github.com/MarkoDenic/web-development-resources
+- https://github.com/shrutikapoor08/Learn-Web-Dvelopment-Checklist
 - https://ishadeed.com/article/thinking-like-a-front-end-developer/
 
 ## ONLINE IDE

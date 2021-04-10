@@ -140,6 +140,7 @@
 - https://github.com/arnnis/react-native-fast-toast
 - https://github.com/ravirupareliya/rn-in-app-review
 - https://github.com/callstack/react-native-viewpager
+- https://github.com/cuvent/react-native-vision-camera
 - https://github.com/callstack/react-native-builder-bob
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/thebylito/react-native-navigation-bar-color

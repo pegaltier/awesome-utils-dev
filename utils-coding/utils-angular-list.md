@@ -564,6 +564,7 @@ Learn how to secure your app with guards.
 
 - https://jwt.io/introduction/
 - https://github.com/firebase/php-jwt
+- https://github.com/melcor76/interceptors
 - https://stormpath.com/blog/jjwt-how-it-works-why/
 - https://auth0.com/authenticate/angular2/oauth2
 - https://auth0.com/authenticate/angular2/google-apps
@@ -1073,6 +1074,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/markostanimirovic/juliette
 - https://github.com/AmadeusITGroup/ngx-tansu
+- https://github.com/state-adapt/state-adapt
 - https://github.com/ngxs-labs/data
 - https://github.com/ngxs-labs/emitter
 - https://github.com/ngxs-labs/immer-adapter
@@ -2451,6 +2453,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## EVOLUTION
 
 - http://g.co/ng/weekly-notes
+- https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
 

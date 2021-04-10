@@ -249,6 +249,7 @@
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/OktaSecurityLabs/passprotect-js
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
 - https://github.com/alias-rahil/handwritten.js

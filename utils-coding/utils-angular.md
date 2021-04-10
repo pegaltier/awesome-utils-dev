@@ -941,6 +941,7 @@ There is a new module called @angular/fire which helps to automatize the whole d
 ### CLOSED QUESTIONS:
 - what are the different values possible for the position property in css?
 - what are the different values possible for the display property in css?
+- whats is the immutability in javascript?
 - what is the spread operator in javascript?
 - what is the destructuring in javascript?
 

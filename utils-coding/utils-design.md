@@ -26,6 +26,7 @@
 - https://squoosh.app
 - https://tinypng.com
 - https://www.remove.bg
+- https://www.photopea.com
 - https://imagecompressor.com
 - https://shapeshifter.design
 - https://studio.polotno.dev

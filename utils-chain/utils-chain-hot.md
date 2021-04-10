@@ -176,6 +176,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 ### HOLOCHAIN-RSM GITHUB
 
 - https://github.com/juntofoundation/Shared-Perspective-Index
+- https://github.com/holochain-open-dev/dna-auth-resolver
 - https://github.com/holochain-open-dev/reusable-module-template
 - https://github.com/holochain-open-dev/mutual-commitments-module
 - https://github.com/holochain-open-dev/resource-bookings-module

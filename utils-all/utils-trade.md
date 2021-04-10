@@ -90,6 +90,7 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 
 
 ### STRATEGY
+- https://github.com/freqtrade/freqtrade-strategies
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
