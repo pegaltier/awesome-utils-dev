@@ -25,7 +25,7 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 
 ## INDICATORS
 
-21EMA DAILY
+21 EMA DAILY
 
 ## Strat 1
 - bullish if price is above the weelkly 21 MA (if it hold above it's bullish)
