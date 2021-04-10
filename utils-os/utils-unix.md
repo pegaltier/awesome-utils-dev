@@ -13,6 +13,13 @@ dev  -> device
 opt  -> optional
 ```
 
+## Debug
+
+```
+/var/log/apache2/error.log
+/var/log/rabbitmq/rabbit.log
+```
+
 ## Update
 
 ```
