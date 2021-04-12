@@ -30,6 +30,7 @@
 - https://github.com/asgardex/asgard-exchange
 - https://github.com/BlockchainCommons/bc-ur-java
 - https://github.com/steve-vincent/awesome-decentralized
+- https://github.com/project-serum/awesome-serum
 
 ## QUOTES/ACTIVITY
 - http://charts.woobull.com

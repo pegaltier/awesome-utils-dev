@@ -170,6 +170,7 @@
 ## AWESOME
 
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
+- https://github.com/bradtraversy/design-resources-for-developers
 - https://github.com/stefanjudis/tiny-helpers
 - https://github.com/stefanjudis/perf-tooling
 - https://github.com/lindelof/awesome-web-effect

@@ -50,6 +50,9 @@
 - https://github.com/tomhuang12/awesome-k8s-resources
 - https://github.com/kubernauts/jmeter-kubernetes
 
+## REDIS
+- https://github.com/JamzyWang/awesome-redis
+
 ## DOCKER
 - https://github.com/qdm12/devtainr
 - https://github.com/tomMoulard/make-my-server

@@ -1326,6 +1326,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 ## ECOSYSTEM: JAMSTACK
 
+- https://github.com/Jefiozie/scully-101
 - https://indepth.dev/how-to-migrate-wordpress-to-scully/
 - https://d-koppenhagen.de/blog/2020-01-angular-scully
 - https://d-koppenhagen.de/blog/2020-03-dig-deeper-into-scully-ssg
@@ -2005,6 +2006,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/NorthwoodsSoftware/gojs-angular
 - https://github.com/kevoj/angular-editor-fabric-js
+- https://github.com/makimenko/angular-template-for-threejs
 - https://github.com/jannicz/ng-svg-icon-sprite
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
@@ -2078,6 +2080,7 @@ Add a progressbar for displaying a loader during the different async task like h
 ## ECOSYSTEM: LIB: ACL
 
 - https://github.com/stalniy/casl
+- https://github.com/chihab/ngx-access
 - https://github.com/AlexKhymenko/ngx-permissions
 
 
