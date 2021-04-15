@@ -239,6 +239,7 @@
 
 ## LIB: UI
 - https://github.com/joe223/tiny-swiper
+- https://github.com/shikijs/shiki
 
 ## LIB: HARDWARE
 - https://github.com/svendahlstrand/web-serial-api

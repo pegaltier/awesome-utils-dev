@@ -79,7 +79,7 @@
   - [ECOSYSTEM: LIB: OPTIMIZATION](#ecosystem-lib-optimization)
   - [ECOSYSTEM: LIB: COMPONENTS](#ecosystem-lib-components)
   - [ECOSYSTEM: LIB: MARKETING](#ecosystem-lib-marketing)
-  - [ECOSYSTEM: LIB: GRID/TABLE](#ecosystem-lib-gridtable)
+  - [ECOSYSTEM: LIB: LAYOUT](#ecosystem-lib-layout)
   - [ECOSYSTEM: LIB: SCROLL](#ecosystem-lib-scroll)
   - [ECOSYSTEM: LIB: SELECT](#ecosystem-lib-select)
   - [ECOSYSTEM: LIB: UPLOAD](#ecosystem-lib-upload)
@@ -1133,7 +1133,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/worktile/ngx-planet
 - https://github.com/CanopyTax/single-spa
 - https://github.com/valorkin/ng-mf-submodules
-- https://github.com/TinkoffCreditSystems/shiva
+- https://github.com/TinkoffCreditSystems/roofer
 - https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
@@ -1844,7 +1844,7 @@ Analyze and optimize the performance of your app
 - https://github.com/maxandriani/ngx-google-analytics
 - https://github.com/dottedsquirrel/AngularGoogleAnalytics
 
-## ECOSYSTEM: LIB: GRID/TABLE
+## ECOSYSTEM: LIB: LAYOUT
 
 - https://github.com/SheetJS/sheetjs
 - https://github.com/ag-grid/ag-grid
@@ -1858,6 +1858,7 @@ Analyze and optimize the performance of your app
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
 - https://github.com/katoid/angular-grid-layout
+- https://github.com/golden-layout/golden-layout
 - https://github.com/ssuperczynski/ngx-easy-table
 - https://github.com/exportarts/ngx-material-data-table
 - https://github.com/marinantonio/angular-mat-table-crud
@@ -2049,6 +2050,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/oblique-bit/oblique
 - https://github.com/SAP/fundamental-ngx
 - https://github.com/dxc-technology/halstack-angular
+- https://github.com/kirbydesign/designsystem
 - https://github.com/positive-js/mosaic
 - https://github.com/src-zone/material
 
