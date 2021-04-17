@@ -14,6 +14,7 @@
 
 ## EXAMPLE
 - https://github.com/APIs-guru/graphql-apis
+- https://github.com/benawad/node-ts-graphql-boilerplate
 
 ## LIB
 - https://github.com/sikanhe/gqtx

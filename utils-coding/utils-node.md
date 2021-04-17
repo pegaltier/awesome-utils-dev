@@ -55,6 +55,7 @@
 - https://github.com/arcanis/clipanion
 - https://github.com/sindresorhus/got
 - https://github.com/expressjs/multer
+- https://github.com/verdaccio/verdaccio
 
 ## FRAMEWORKS
 

@@ -174,8 +174,9 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holo-rea/app-offers-needs-marketplace
 
 ### HOLOCHAIN-RSM GITHUB
-
+- https://github.com/holochain/devhub-dnas
 - https://github.com/holochain-in-action/peer-share
+- https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
 - https://github.com/juntofoundation/Shared-Perspective-Index
 - https://github.com/holochain-open-dev/dna-auth-resolver
 - https://github.com/holochain-open-dev/reusable-module-template
@@ -203,6 +204,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lucksus/perspectivism
 
 ### HOLOCHAIN-RSM TOOLS
+- https://developer.holochain.org/
 - https://compository.github.io/app/
 - https://holochain-gym.github.io/
 

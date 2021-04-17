@@ -1854,6 +1854,7 @@ Analyze and optimize the performance of your app
 - https://github.com/angular-ui/ui-grid
 - https://github.com/sbstjn/timesheet.js
 - https://github.com/kreuzerk/ng-sortgrid
+- https://github.com/sinedied/ngx-foldable
 - https://github.com/swimlane/ngx-datatable
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
