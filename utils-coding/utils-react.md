@@ -97,6 +97,7 @@
 - https://github.com/kettanaito/react-advanced-form
 - https://github.com/wellyshen/react-cool-dimensions
 - https://github.com/aaronhayes/react-use-hubspot-form
+- https://github.com/welldone-software/why-did-you-render
 - https://github.com/JesperLekland/react-native-svg-charts
 
 ## LIB: UI
