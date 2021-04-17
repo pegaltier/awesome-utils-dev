@@ -944,6 +944,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/markostanimirovic/ngrx-handlers
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/SaulMoro/ngrx-rtk-query
+- https://github.com/rtk-incubator/rtk-query
 - https://github.com/MrWolfZ/ngrx-forms
 - https://github.com/satanTime/ngrx-graphql
 - https://github.com/briebug/ngrx-auto-entity
@@ -1569,6 +1570,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/KostyaTretyak/ng-stack
 - https://github.com/KoderLabs/ngx-device-detector
 - https://github.com/herodevs/herodevs-packages
+- https://github.com/myndpm/open-source
 - https://github.com/embarq/safe-pipe
 
 ## ECOSYSTEM: LIB: RXJS
@@ -1627,6 +1629,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/aelbore/ngx-elements-demo
 - https://github.com/angular-extensions/elements
 - https://github.com/BioPhoton/angular-element-variants
+- https://github.com/MarsiBarsi/angular-library-to-web-components-demo
 - https://angular-extensions.github.io/elements/#/examples/advanced
 
 ## ECOSYSTEM: LIB: E2E TESTS
@@ -2050,6 +2053,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/oblique-bit/oblique
 - https://github.com/SAP/fundamental-ngx
 - https://github.com/dxc-technology/halstack-angular
+- https://github.com/DevExpress/devextreme-angular
 - https://github.com/kirbydesign/designsystem
 - https://github.com/positive-js/mosaic
 - https://github.com/src-zone/material
@@ -2170,6 +2174,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ganatan/angular-example-seo
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
+- https://github.com/spierala/jira-clone-angular
 - https://github.com/ganatan/angular-example-pwa
 - https://github.com/Angular-RU/universal-starter
 - https://github.com/waynegakuo/angular-dashboard
@@ -2532,3 +2537,6 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes/
 - https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
 
+## TOSYNC
+- https://github.com/myndpm/open-source
+- https://github.com/DevExpress/devextreme-angular

@@ -21,6 +21,7 @@
 - https://github.com/kruize/kruize
 - https://github.com/grafana/grafana
 - https://github.com/caprover/caprover
+- https://github.com/nicolargo/glances
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/earthly/earthly

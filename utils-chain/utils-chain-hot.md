@@ -190,6 +190,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/common
 - https://github.com/hc-institute-japan/Kizuna
 - https://github.com/holochain-playground/blockly
+- https://github.com/holochain-playground/happ
 - https://github.com/guillemcordoba/rea-inventory
 - https://github.com/guillemcordoba/membrane-roles-module
 - https://github.com/holochain/holochain-dna-build-tutorial

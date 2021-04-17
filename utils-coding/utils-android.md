@@ -79,6 +79,7 @@ zipalign (optimize RAM) :
 - https://romannurik.github.io/AndroidAssetStudio/index.html
 - https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html > Round icons generate
 - http://inloop.github.io/svg2android/
+- https://github.com/SamVerschueren/mobicon-cli
 
 ## SCREENSHOT STORE
 - https://theapplaunchpad.com/
