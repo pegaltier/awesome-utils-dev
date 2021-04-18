@@ -113,6 +113,59 @@ http://192.168.50.52/phpmyadmin
 root secret
 exit
 
+## LAMP
+
+### Check
+
+```
+mysql -V
+php -m
+php -version
+```
+
+### Migrate
+
+```
+sudo apt install zip
+sudo zip -r filename.zip foldername/
+sudo unzip filename.zip -d directory
+```
+
+### Installation
+
+- https://wiki.debian.org/LaMp
+- https://www.tecmint.com/list-php-modules-in-linux/
+- https://phoenixnap.com/kb/how-to-install-phpmyadmin-on-debian-10
+- https://phoenixnap.com/kb/how-to-create-mariadb-user-grant-privileges
+- https://stackoverflow.com/questions/869092/how-to-enable-mod-rewrite-for-apache-2-2
+- https://www.howtoforge.com/tutorial/install-apache-with-php-and-mysql-lamp-on-debian-stretch/
+
+```
+sudo apt-get install php7.2-xml # add all the php package here
+sudo apt install mariadb-server # install the mariaDB
+sudo mysql_secure_installation # configure the mariaDB
+sudo mysql # enter the mysql command line
+sudo chmod 660 /var/www/html/phpmyadmin/config.inc.php
+sudo chown -R www-data:www-data /var/www/html/phpMyAdmin/
+sudo service apache2 restart # check status of the apache server
+sudo systemctl status apache2 # restart of the apache server
+mysql -u pmauser -p dbname < dbfile.sql # execute sql file
+sudo chown -R debian www # change file or folder owner (user:debian)
+```
+
+
+### Certificate
+
+- https://www.snel.com/support/lets-encrypt-on-debian-9-with-apache-webserver/
+- https://community.letsencrypt.org/t/the-requested-apache-plugin-does-not-appear-to-be-installed/95682/10
+
+```
+sudo apt-get install certbot
+sudo apt-get install python-certbot-apache
+sudo certbot --apache
+
+```
+
 ## NGINX
 
 - https://github.com/agile6v/awesome-nginx
