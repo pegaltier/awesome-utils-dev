@@ -4,6 +4,7 @@
 ## BASIC
 
 - https://github.com/i0natan/nodebestpractices
+- https://github.com/microsoft/nodejs-guidelines
 - https://github.com/goldbergyoni/nodebestpractices
 - https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
 - https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6

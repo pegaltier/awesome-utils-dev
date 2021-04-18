@@ -37,6 +37,7 @@ https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-publ
 - https://app.eosstudio.io/
 - https://www.everythingeos.io/dev/
 - https://github.com/EOSIO/eosio-web-ide
+- https://github.com/pur3miish/smartql
 - https://www.udemy.com/course/starting-with-eos/
 - https://github.com/klevoya/eosio-wcr-registry
 - https://blog.slyon.de/2018/11/18/simple-eos-dev-environment/

@@ -144,6 +144,7 @@
 - https://github.com/cuvent/react-native-vision-camera
 - https://github.com/callstack/react-native-builder-bob
 - https://github.com/calintamas/react-native-toast-message
+- https://github.com/Flair-Dev/react-native-awesome-gallery
 - https://github.com/thebylito/react-native-navigation-bar-color
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 - https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html
