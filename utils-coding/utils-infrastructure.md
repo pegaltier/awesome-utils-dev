@@ -12,6 +12,7 @@
 - https://certbot.eff.org/
 - https://jmeter.apache.org/
 - https://www.netdata.cloud/
+- https://www.whatsmydns.net/
 - https://sshreach.me/
 - https://ngrok.com/
 
@@ -162,8 +163,9 @@ sudo chown -R debian www # change file or folder owner (user:debian)
 ```
 sudo apt-get install certbot
 sudo apt-get install python-certbot-apache
-sudo certbot --apache
-
+sudo certbot --apache # new configuration
+sudo certbot --apache -d example.com -d www.example.com # reconfigure
+sudo certbot --apache -d hotelub.com -d www.hotelub.com # reconfigure
 ```
 
 ## NGINX
