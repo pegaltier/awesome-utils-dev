@@ -154,6 +154,10 @@ mysql -u pmauser -p dbname < dbfile.sql # execute sql file
 sudo chown -R debian www # change file or folder owner (user:debian)
 ```
 
+```
+CREATE USER 'pmauser'@localhost IDENTIFIED BY 'mypwd';
+GRANT ALL PRIVILEGES ON *.* TO 'pmauser'@localhost IDENTIFIED BY 'mypwd';
+```
 
 ### Certificate
 
