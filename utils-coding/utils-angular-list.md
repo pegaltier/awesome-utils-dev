@@ -832,7 +832,34 @@ Learn about the angular router, lazy load your modules.
 
 Learn everything about angular universal, make a good SEO.
 
+- https://web.dev/optimize-lcp/
+- https://github.com/maciejtreder/ng-toolkit/issues/327
+- https://www.willtaylor.blog/angular-universal-gotchas/
+- https://medium.com/5bayt/angular-universal-d2254645c96e
+- https://indepth.dev/posts/1440/global-objects-in-angular
+- https://brianflove.com/2020-06-05/angular-transfer-state/
 - https://github.com/angular/universal/blob/master/docs/gotchas.md
+- https://indepth.dev/posts/1437/angular-universal-real-app-problems
+- https://developers.google.com/search/docs/guides/dynamic-rendering
+- https://stackoverflow.com/questions/61188853/angular-ssr-page-rerender-issue
+- https://hackernoon.com/angular-server-side-rendering-state-transfer-for-http-requests-wu263t3h
+- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints
+- https://medium.com/@dsimmons_23530/frustrated-with-angular-universal-ssr-heres-the-answer-35bf37d70cee
+- https://www.w3resource.com/angular/server-side-rendering-an-intro-to-angular-universal.php
+- https://www.positronx.io/angular-seo-set-dynamic-page-title-meta-tags-in-universal-app/
+- https://medium.com/codestory/seo-in-angular-without-server-side-rendering-fa7d984dd44b
+- https://samvloeberghs.be/posts/better-sharing-on-social-media-platforms-with-angular-universal/
+- https://bcodes.io/blog/post/angular-universal-relative-to-absolute-http-interceptor
+- https://dev.to/deekshithrajbasa/angular-server-side-rendering-ssr-the-browser-is-not-the-server-30a5
+- https://www.thirdrocktechkno.com/blog/server-side-rendering-with-angular-10/
+- https://www.digitalocean.com/community/tutorials/angular-angular-universal
+- https://itnext.io/dont-let-angular-universal-break-you-or-your-app-some-tips-to-keep-your-sanity-5bf263495bb9
+- https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal
+- https://nichola.dev/optimizing-angular-applications/
+- https://nichola.dev/user-experience-core-web-vitals-optimization-angular-universal/
+- https://davidea.st/articles/measuring-server-side-rendering-performance-is-tricky
+- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints
+- https://developers.google.com/web/updates/2019/02/rendering-on-the-web
 - https://dev.to/ikatsuba/angular-universal-real-app-problems-3d2a
 - https://malcoded.com/posts/server-rendering-pitfalls/
 - https://www.loom.com/share/35330a858cd741ba92e8be0c0496ffbb
