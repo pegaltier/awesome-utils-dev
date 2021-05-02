@@ -76,6 +76,7 @@
 - https://github.com/kitze/react-hanger
 - https://github.com/everweij/react-laag
 - https://github.com/JedWatson/classnames
+- https://github.com/omgovich/react-colorful
 - https://github.com/STRML/react-grid-layout
 - https://github.com/alampros/react-confetti
 - https://github.com/voliva/reactive-rx-form

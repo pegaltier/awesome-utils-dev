@@ -53,6 +53,7 @@
 - https://the-guild.dev/blog/migrating-from-rest
 
 ## ARTICLES
+- https://christianlydemann.com/graphql-cache-updates-made-easy/
 - https://blog.logrocket.com/how-build-graphql-api-typegraphql-typeorm/
 - https://product.voxmedia.com/2020/11/2/21494865/to-federate-or-stitch-a-graphql-gateway-revisited
 - https://the-guild.dev/blog/typed-document-node

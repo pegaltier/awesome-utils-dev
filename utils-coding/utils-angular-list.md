@@ -190,6 +190,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.angularindepth.com/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 - https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890
 - https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18
+- https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 - https://dev.to/joerter/10-tips-for-awesome-angular-apps-a2b
 - https://github.com/wesleygrimes/angular-routing-best-practices
 - https://github.com/nirkaufman/bad-practice
@@ -557,6 +558,8 @@ Learn how to extend your app with interceptors.
 - https://github.com/gbumanzordev/angular-interceptors
 - https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 - https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
+- https://github.com/angular/angular/issues/20203#issuecomment-368680437
+- https://stackoverflow.com/questions/46469349/how-to-make-an-angular-module-to-ignore-http-interceptor-added-in-a-core-module/49013534#49013534
 
 ## CORE: GUARD
 
@@ -600,6 +603,7 @@ Learn the reactive programming using rxjs.
 - https://github.com/ichpuchtli/awesome-rxjs
 - https://github.com/jsonberry/rxjs-examples
 - https://github.com/waterplea/rxjs-challenge
+- https://github.com/AngularWave/rxjs-challenge
 - https://juristr.com/blog/2019/04/rxjs-finalize-operator/
 - https://blog.briebug.com/blog/what-can-i-do-with-observables
 - https://medium.com/javascript-in-plain-english/more-rxjs-transformation-operators-mergescan-and-pluck-2f09510abef
@@ -1079,6 +1083,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/ngxs-labs/data
 - https://github.com/ngxs-labs/emitter
 - https://github.com/ngxs-labs/immer-adapter
+- https://github.com/profanis/ngxs-history-pluginma
 - https://github.com/reclarejs/reclare
 - https://github.com/storeon/angular
 - https://github.com/datorama/akita
@@ -1119,6 +1124,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://open-wc.org/publishing/
 - https://github.com/open-wc/open-wc
 - https://custom-elements-everywhere.com/
+- https://github.com/HTMLElements/smart-webcomponents
 
 ## ECOSYSTEM: MICROFRONTEND
 
@@ -1750,6 +1756,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ivylaboratory/angular-gallery
 - https://github.com/ivylaboratory/angular-popover
 - https://github.com/michaelbromley/ngx-pagination
+- https://github.com/isaacplmann/ngx-contextmenu
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
 - https://github.com/ivylaboratory/ivypinch
@@ -2017,6 +2024,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/videogular/ngx-videogular
 - https://github.com/tjoskar/ng-lazyload-image
+- https://github.com/scaleflex/ng-cloudimage-responsive
 - https://github.com/ng-web-apis/canvas
 - https://github.com/ng-web-apis/midi
 - https://github.com/ng-web-apis/audio
@@ -2124,6 +2132,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/vthinkxie/ng-pull-refresh
+- https://github.com/pankajparkar/lazy-loading-recipes
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 
@@ -2352,6 +2361,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules
+- https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 - https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra
 - https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher

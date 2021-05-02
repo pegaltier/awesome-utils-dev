@@ -96,6 +96,7 @@
 - https://staticbox.io
 - https://webcode.tools
 - https://carbon.now.sh
+- https://www.mydevice.io
 - https://www.jsv9000.app
 - http://browserhacks.com
 - https://bundlephobia.com
@@ -423,6 +424,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://codepen.io/smpnjn/pen/mdrWPpK
 - https://codepen.io/ainalem/full/QWGNzYm
 - https://css-irl.info/animating-underlines/
+- https://ishadeed.com/article/handling-text-over-image-css/
 - https://github.com/emmabostian/design-inspiration
 - https://github.com/codrops/LineHoverStyles
 - https://github.com/codrops/ButtonHoverStyles
@@ -439,6 +441,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
+- https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/
 
 ## CREATIVE EXAMPLES
 
