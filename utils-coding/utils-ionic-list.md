@@ -42,6 +42,7 @@
 
 ## LIBS: CAPACITOR
 
+- https://github.com/capacitor-community/sqlite
 - https://github.com/Nodonisko/capacitor-rate-app
 - https://github.com/capacitor-community/date-picker
 - https://github.com/CodetrixStudio/CapacitorGoogleAuthÒ

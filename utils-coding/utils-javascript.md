@@ -218,6 +218,9 @@
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
 
+## LIB: POLYFILL
+- https://github.com/jsxtools/cqfill
+
 ## LIB: ARCHI
 - https://github.com/mgechev/injection-js
 - https://github.com/inversify/InversifyJS

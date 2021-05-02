@@ -2055,6 +2055,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/videogular/ngx-videogular
 - https://github.com/tjoskar/ng-lazyload-image
 - https://github.com/scaleflex/ng-cloudimage-responsive
+- https://github.com/bennymeg/ngx-embedded-media
 - https://github.com/ng-web-apis/canvas
 - https://github.com/ng-web-apis/midi
 - https://github.com/ng-web-apis/audio
