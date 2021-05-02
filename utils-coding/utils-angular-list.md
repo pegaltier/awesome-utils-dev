@@ -467,6 +467,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 ## CORE: DIRECTIVES
 
 - https://stackblitz.com/edit/repeat-times-directive
+- https://github.com/SanderElias/an-sample-compose-directives
 - https://www.newline.co/@krishna/angular-directives-demystified--effcda6a
 
 ## CORE: COMPONENTS
@@ -1076,6 +1077,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/beeman/component-store-playground
 - https://github.com/dsebastien/ngrx-component-store-demo
 - https://github.com/alex-okrushko/component-store-demo
+- https://github.com/tomwhite007/ngrx-component-store-experiment
 - https://stackblitz.com/edit/heroes-component-store
 - https://stackblitz.com/edit/github-component-store-demo
 - https://stackblitz.com/edit/angular-ivy-hdkz19
