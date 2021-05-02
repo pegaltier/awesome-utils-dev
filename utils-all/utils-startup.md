@@ -22,3 +22,4 @@ https://jatins.gitlab.io/me/why-startup/
 - https://github.com/squareboat/growth-hacking-guide
 - https://github.com/mezod/awesome-indie
 - https://www.indiehackers.com/
+- https://startupaffiliate.io/

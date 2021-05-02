@@ -37,9 +37,10 @@
 
 ## STARTER
 
+- https://github.com/metachris/typescript-boilerplate
+- https://github.com/xolvio/typescript-event-sourcing
 - https://github.com/stemmlerjs/simple-typescript-starter
 - https://github.com/kettanaito/create-typescript-library
-- https://github.com/xolvio/typescript-event-sourcing
 
 ## DEVTOOLS
 

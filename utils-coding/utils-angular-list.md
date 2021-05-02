@@ -1207,6 +1207,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/nx-go/nx-go
+- https://github.com/ctx-core/ctx-core
 - https://github.com/codeonrocks/nx-python
 - https://github.com/kachkaev/njt
 - https://github.com/NativeScript/nx
