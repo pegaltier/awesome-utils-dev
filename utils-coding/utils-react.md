@@ -66,6 +66,7 @@
 - https://github.com/moroshko/basis
 - https://github.com/vazco/uniforms
 - https://github.com/Swizec/useAuth
+- https://github.com/preactjs/preact
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
 - https://github.com/formium/formik

@@ -50,6 +50,7 @@
 - https://github.com/roya0045/Pentest-practice
 - https://github.com/onlurking/awesome-infosec
 - https://github.com/crowdsecurity/crowdsec
+- https://github.com/NullArray/DorkNet
 - https://github.com/B-i-t-K/PwnFox
 - https://github.com/m4ll0k/Atlas
 - https://github.com/f13end

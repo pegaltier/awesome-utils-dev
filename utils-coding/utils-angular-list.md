@@ -713,6 +713,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/niklas-wortmann/ngx-pact
 - https://github.com/herodevs/material-studies
+- https://github.com/TinkoffCreditSystems/ng-morph
 - https://github.com/bennymeg/nx-electron
 - https://github.com/Teebo/scss-migrate
 - https://github.com/ngxs/schematics
@@ -1212,6 +1213,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/nx-go/nx-go
+- https://github.com/ctx-core/ctx-core
 - https://github.com/codeonrocks/nx-python
 - https://github.com/kachkaev/njt
 - https://github.com/NativeScript/nx
@@ -1476,6 +1478,7 @@ Learn the best way to make your objects immutable.
 - https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
 
 ## ECOSYSTEM: LIB: DEVTOOLS
+- https://github.com/expertly-simple/angular-evergreen
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
 - https://github.com/xlayers/version-stamp

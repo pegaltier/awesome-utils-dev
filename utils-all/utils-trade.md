@@ -23,6 +23,14 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - the best risk/rewards ratio
 - take position and wait confirmation
 
+## CRYPTO STRATEGY
+- sell at resistance and get usd or the other pair
+- sell only 25% / 50% and divide in many other main assets: usd, btc, eth
+- buy at support with the other currency 
+- keep 10% of the portfolio in usd to buy the dips
+- buy at the sound of the cannon sell at the sound of the violin
+- place order at low price in usd(x) pairs with low liquidity
+
 ## INDICATORS
 
 21 EMA DAILY

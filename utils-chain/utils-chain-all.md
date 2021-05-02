@@ -12,6 +12,7 @@
 
 ## TOP TOOLS
 - https://solume.io
+- https://vfat.tools
 - https://coin360.com
 - https://datalight.me
 - https://cryptolinks.com

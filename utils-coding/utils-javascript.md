@@ -223,6 +223,7 @@
 - https://github.com/inversify/InversifyJS
 - https://github.com/Livshitz/di.libx.js
 - https://github.com/microsoft/tsyringe
+- https://github.com/developit/mitt
 
 ## LIB: DATE
 - https://github.com/iamkun/dayjs
@@ -310,6 +311,7 @@
 
 ## LIB: CALC
 - https://github.com/josdejong/mathjs
+- https://github.com/stdlib-js/stdlib
 - https://github.com/ebradyjobory/finance.js
 - https://github.com/dcousens/haversine-distance
 

@@ -13,6 +13,8 @@
 - https://jmeter.apache.org/
 - https://www.netdata.cloud/
 - https://www.whatsmydns.net/
+- https://www.cdn77.com/tls-test
+- https://www.sslshopper.com/ssl-checker.html
 - https://sshreach.me/
 - https://ngrok.com/
 
@@ -148,7 +150,7 @@ sudo apt install mariadb-server # install the mariaDB
 sudo mysql_secure_installation # configure the mariaDB
 sudo mysql # enter the mysql command line
 sudo chmod 660 /var/www/html/phpmyadmin/config.inc.php
-sudo chown -R www-data:www-data /var/www/html/phpMyAdmin/
+sudo chown -R www-data:www-data /var/www/html/phpmyadmin/
 sudo service apache2 restart # check status of the apache server
 sudo systemctl status apache2 # restart of the apache server
 mysql -u pmauser -p dbname < dbfile.sql # execute sql file
