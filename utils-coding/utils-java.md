@@ -24,6 +24,7 @@
 - https://github.com/RameshMF/Hibernate-ORM-Tutorials
 - https://github.com/livelessons-spring/building-microservices
 - https://github.com/spring-projects-experimental/spring-native
+- https://github.com/spring-projects-experimental/spring-graphql
 
 ## FRAMEWORK
 - https://github.com/quarkusio/quarkus
