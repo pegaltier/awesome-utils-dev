@@ -116,6 +116,7 @@
 - https://github.com/segmentio/evergreen
 - https://github.com/palantir/blueprint
 - https://github.com/microsoft/fluentui
+- https://github.com/mantinedev/mantine
 - https://github.com/grommet/grommet
 - https://github.com/rebassjs/rebass
 - https://github.com/appnexus/lucid
@@ -148,6 +149,7 @@
 - https://github.com/callstack/react-native-builder-bob
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/Flair-Dev/react-native-awesome-gallery
+- https://github.com/Rapsssito/react-native-background-actions
 - https://github.com/thebylito/react-native-navigation-bar-color
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 - https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html

@@ -127,6 +127,7 @@
 
 ## FRAMEWORK: FRONTEND
 - https://github.com/sindresorhus/awesome-electron
+- https://github.com/rough-stuff/rough-notation
 - https://github.com/bigskysoftware/htmx
 - https://github.com/smallbets/userbase
 - https://github.com/cyclejs/cyclejs

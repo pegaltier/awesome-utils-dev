@@ -26,6 +26,12 @@
 - https://ethgasstation.info
 - https://etherscan.io/gastracker
 
+## ETH SCALING
+
+- https://www.bprotocol.org/
+- https://ipfs.leapdao.org/
+- https://truebit.io/
+
 ## ETH NEWS
 - https://ethereumworldnews.com
 

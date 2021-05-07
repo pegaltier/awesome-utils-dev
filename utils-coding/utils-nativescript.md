@@ -38,3 +38,4 @@ Publish to Google Play for beta testing or public distribution.
 ## LIB
 
 - https://github.com/FinanzRitter/nativescript-share-file
+- https://github.com/bgrand-ch/nativescript-getters

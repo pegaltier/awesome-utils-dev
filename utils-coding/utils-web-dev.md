@@ -77,6 +77,10 @@
 - https://github.com/joshbuchea/HEAD
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://codeburst.io/the-front-end-checklist-8b2292fdda44
+
+## OPTIMIZATION
+
+- https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 
 ## STARTER
@@ -96,6 +100,7 @@
 - https://staticbox.io
 - https://webcode.tools
 - https://carbon.now.sh
+- https://waterfaller.dev
 - https://www.mydevice.io
 - https://www.jsv9000.app
 - http://browserhacks.com
@@ -183,6 +188,7 @@
 - https://wweb.dev/
 - http://jsawards.org/
 - http://bestof.js.org/
+- https://www.frontendpractice.com/
 
 ## PLUGINS
 
@@ -415,6 +421,14 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 ## CREATIVE TOOLS
 
 - https://github.com/luruke/aladino
+- https://github.com/martinlaxenaire/curtainsjs
+
+## CREATIVE EXAMPLES
+
+- https://thisispam.com/
+- https://book-of-flowers.com/
+- https://www.aristidebenoist.com/
+- https://www.martin-laxenaire.fr/
 
 ## CREATIVE RESOURCES
 
@@ -442,12 +456,9 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
 - https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/
-
-## CREATIVE EXAMPLES
-
-- https://thisispam.com/
-- https://book-of-flowers.com/
-- https://www.aristidebenoist.com/
+- https://www.bram.us/2021/04/30/scroll-linked-animations-with-css-scroll-timeline-css-cafe/
+- https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/
+- https://martinlaxenaire.medium.com/portfolio-2021-technical-case-study-rendering-a-whole-html-website-in-webgl-1cd2982c2050
 
 ## TIPS
 

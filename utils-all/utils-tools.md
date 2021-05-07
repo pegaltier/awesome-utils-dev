@@ -8,6 +8,7 @@
 
 ## Oss
 - https://github.com/schollz/croc
+- https://github.com/slidevjs/slidev
 - https://github.com/alyssaxuu/flowy
 - https://github.com/pavlobu/deskreen
 - https://github.com/chatwoot/chatwoot

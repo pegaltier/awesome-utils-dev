@@ -357,6 +357,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db
 - https://zizzamia.github.io/perfume/
 - https://alligator.io/angular/bundle-size/
+- https://www.debugbear.com/blog/devtools-performance
 - https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
 - https://indepth.dev/are-you-using-scss-properly/
 - https://github.com/mgechev/angular-performance-checklist
@@ -518,6 +519,7 @@ create your first components, learn how to use translusions, ng-content...
 
 Learn how to build perfect form using reactive forms.
 
+- https://medium.com/ngconf/managing-complex-forms-in-angular-167e4141ee0f
 - https://indepth.dev/creating-elegant-reactive-forms-with-rxwebvalidators/
 - https://offering.solutions/blog/articles/2020/05/03/cross-field-validation-using-angular-reactive-forms/
 - https://indepth.dev/angular-forms-story-strong-types/
@@ -557,6 +559,7 @@ Learn how to build perfect form using reactive forms.
 Learn how to extend your app with interceptors.
 
 - https://github.com/gbumanzordev/angular-interceptors
+- https://medium.com/mikes-fullstack-ladder/how-to-skip-http-interceptor-dee136e54a5f
 - https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 - https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors
 - https://github.com/angular/angular/issues/20203#issuecomment-368680437
@@ -834,6 +837,7 @@ Learn about the angular router, lazy load your modules.
 Learn everything about angular universal, make a good SEO.
 
 - https://web.dev/optimize-lcp/
+- https://www.youtube.com/watch?v=-VDOAjzLcvQ
 - https://github.com/maciejtreder/ng-toolkit/issues/327
 - https://www.willtaylor.blog/angular-universal-gotchas/
 - https://medium.com/5bayt/angular-universal-d2254645c96e
@@ -873,6 +877,7 @@ Learn everything about angular universal, make a good SEO.
 - https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
 - https://blog.pusher.com/make-angular-4-app-seo-friendly
 - https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
+- https://stackoverflow.com/questions/53677419/add-static-pre-rendering-to-ng-add-nguniversal-express-engine
 
 
 ## CORE: ERROR HANDLER
@@ -1010,6 +1015,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://tomastrajan.github.io/angular-ngrx-material-starter
 - https://dev.to/itnext/ngrx-store-and-5-silly-mistakes-2nho
 - https://christianlydemann.com/top-5-ngrx-mistakes/
+- https://dev.to/this-is-angular/why-you-should-definitely-use-ngrx-2pf2
 - https://www.katesky.com/2020/06/22/angular-ngrx-enabling-devtools-at-runtime/
 - https://medium.com/@gregor.woiwode/ngrx-ducks-9-the-new-api-a3a4be242309
 - https://medium.com/@haldun7/caching-http-requests-while-using-ngrx-effects-98abd50c5c78
@@ -1153,6 +1159,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://webcomponents.dev/
 - https://open-wc.org/publishing/
 - https://github.com/open-wc/open-wc
+- https://github.com/BuilderIO/jsx-lite
 - https://custom-elements-everywhere.com/
 - https://github.com/HTMLElements/smart-webcomponents
 
@@ -1445,6 +1452,23 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-minify-html
 - https://github.com/scullyio/scully/blob/main/scully.sample-blog.config.ts
 - https://github.com/samvloeberghs/ng-v9-localized-scullyio/blob/master/scully.ng-v9-localized-scullyio.config.js 
+
+## ECOSYSTEM: LIB: SSR
+- https://github.com/IKatsuba/ngx-ssr
+- https://github.com/enten/udk
+- https://github.com/trellisorg/platform
+- https://github.com/angular/preboot
+- https://github.com/salemdar/ngx-cookie
+- https://github.com/ngx-utils/cookies
+- https://github.com/aescarcha/cookies
+- https://github.com/maciejtreder/ng-toolkit
+- https://github.com/angular/in-memory-web-api
+- https://github.com/ng-web-apis/universal
+- https://github.com/trellisorg/platform
+- https://github.com/nxpm/nxpm-universal
+- https://github.com/avivharuzi/ngx-seo
+- https://github.com/nimesko/ngx-seo-page
+- https://npm.io/search/keyword:angular+universal
 
 ## ECOSYSTEM: LIB: IMMUTABLE
 
@@ -1791,6 +1815,7 @@ Analyze and optimize the performance of your app
 - https://github.com/isaacplmann/ngx-contextmenu
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
+- https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
@@ -2056,6 +2081,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/videogular/ngx-videogular
 - https://github.com/tjoskar/ng-lazyload-image
+- https://github.com/greg-md/ng-lazy-load
 - https://github.com/scaleflex/ng-cloudimage-responsive
 - https://github.com/bennymeg/ngx-embedded-media
 - https://github.com/ng-web-apis/canvas
@@ -2164,8 +2190,10 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://abp.io/
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
+- https://github.com/yjaaidi/ng-experiments
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/pankajparkar/lazy-loading-recipes
+- https://github.com/ultrasonicsoft/ng-application-builder
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 
@@ -2175,6 +2203,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/servrox/nx-ng-nest-universal
 - https://github.com/TrilonIO/angular-universal-v9
 - https://github.com/mgechev/angular-hybrid-rendering
+- https://github.com/angular-schule/demo-ssr-playground
 - https://github.com/TrilonIO/angular-universal-tutorial
 - https://github.com/mehrad-rafigh/nx-angular-universal
 
@@ -2313,6 +2342,7 @@ Learn how to build mobile applications using angular. You will find many cross p
 ANGULAR / REACT / VUE...
 
 - https://framework.watch/
+- https://dev.to/cloudx/react-thoughts-from-an-angular-developer-hbb
 - https://www.toptal.com/front-end/angular-vs-react-for-web-development
 - http://blog.krawaller.se/posts/angular2-versus-react-comparing-components/
 - http://tutorials.pluralsight.com/front-end-javascript/react-vs-angular-2
@@ -2513,6 +2543,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
+
+### ANGULAR12
+
+- https://javascript.plainenglish.io/whats-new-for-the-angular-ecosystem-ng-conf-21-update-56f365cc12bc
 
 ### ANGULAR11
 

@@ -13,6 +13,7 @@
 - https://github.com/type-challenges/type-challenges
 - https://github.com/microsoft/TypeScript-New-Handbook
 - https://2ality.com/2020/04/migrating-to-typescript.html
+- https://kentcdodds.com/blog/typescript-function-syntaxes
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
 ## TOOLS

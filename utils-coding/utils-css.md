@@ -6,6 +6,7 @@
 - https://flukeout.github.io/
 - https://enes.in/sorted-colors/
 - https://1linelayouts.glitch.me/
+- https://fluid-typography.netlify.app/
 - https://dailydevlinks.com/minimal-css-loader-collection
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
@@ -14,6 +15,8 @@
 - https://9elements.github.io/fancy-border-radius
 - https://github.com/picturepan2/devices.css
 - https://github.com/sdras/cssgridgenerator
+- https://css-shorthands.netlify.app/
+- https://markodenic.com/css-tips/
 - https://cssbuttons.vercel.app/
 - https://cssarrowplease.com/
 
