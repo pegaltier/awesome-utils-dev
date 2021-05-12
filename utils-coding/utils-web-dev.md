@@ -53,6 +53,7 @@
 
 ## SUMMARY
 
+- https://markodenic.com/html-tips/
 - https://almanac.httparchive.org/en/2020/
 - https://internetingishard.com/html-and-css/
 - https://github.com/bendc/frontend-guidelines

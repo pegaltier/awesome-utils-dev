@@ -1002,9 +1002,13 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/blove/ngrx-testing
 - https://github.com/timdeschryver/ngrx-immer
 - https://github.com/waynegakuo/ngrx-learning
-- https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 
+## ECOSYSTEM: STORE: NGRX: DEMO
+- https://github.com/Wykks/wonderful-todo-list
+- https://github.com/bbaia/todomvc-angular-ngrx
+
+## ECOSYSTEM: STORE: NGRX: ARTICLES
 - https://timdeschryver.dev/blog/nested-ngrx-entity-state
 - https://indepth.dev/posts/1206/understanding-the-magic-behind-ngrx-effects
 - https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210
@@ -1810,6 +1814,7 @@ Analyze and optimize the performance of your app
 - https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/ivylaboratory/angular-gallery
+- https://github.com/adisreyaj/angular-star-rating
 - https://github.com/ivylaboratory/angular-popover
 - https://github.com/michaelbromley/ngx-pagination
 - https://github.com/isaacplmann/ngx-contextmenu
@@ -2002,6 +2007,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/MurhafSousli/ngx-progressbar
 - https://github.com/HackAfro/angular-epic-spinners
 - https://github.com/Gbuomprisco/ngx-content-loading
+- https://github.com/adisreyaj/angular-shimmer-effect
 - https://github.com/willmendesneto/ngx-skeleton-loader
 
 ## ECOSYSTEM: LIB: FORM
