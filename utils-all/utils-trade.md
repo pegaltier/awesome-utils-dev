@@ -30,6 +30,8 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - keep 10% of the portfolio in usd to buy the dips
 - buy at the sound of the cannon sell at the sound of the violin
 - place order at low price in usd(x) pairs with low liquidity
+- rise duration is between 40 and 60 days and 10 to 14 are parabolic
+- then we have a range
 
 ## INDICATORS
 

@@ -154,6 +154,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/glassbeadsoftware/snapmail-release
 - https://github.com/zo-el/peer-vis-2.0
 - https://github.com/h-be/acorn-hc
+- https://github.com/h-be/acorn
 - https://github.com/travol-platform/air_shopping
 - https://github.com/sdelvalle57/holochain_multisig
 - https://github.com/uprtcl/js-uprtcl
