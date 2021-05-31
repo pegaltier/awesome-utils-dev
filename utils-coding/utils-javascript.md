@@ -247,6 +247,7 @@
 - https://github.com/crypto-browserify/sha.js
 
 ## LIB: UI
+- https://github.com/boringdesigners/boring-avatars
 - https://github.com/joe223/tiny-swiper
 - https://github.com/shikijs/shiki
 

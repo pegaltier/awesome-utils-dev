@@ -3,9 +3,13 @@
 ## TOOLS 
 
 - http://pxtoem.com/
+- https://animista.net/
+- https://shadows.brumm.af/
 - https://flukeout.github.io/
+- https://accordionslider.com/
 - https://enes.in/sorted-colors/
 - https://1linelayouts.glitch.me/
+- http://www.menucool.com/css-menu
 - https://fluid-typography.netlify.app/
 - https://dailydevlinks.com/minimal-css-loader-collection
 - https://hugogiraudel.github.io/selectors-explained/

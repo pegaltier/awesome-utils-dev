@@ -6,21 +6,21 @@
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## SIMPLE
-https://medium.com/@barthbamasta/devenir-un-expert-en-seo-en-30min-7cd6d1e23de
-https://www.youtube.com/watch?v=CG5DL0a9xg0 (3 mois pour ranker en SEO: cas pratique - WEB2DAY 2017)
+- https://medium.com/@barthbamasta/devenir-un-expert-en-seo-en-30min-7cd6d1e23de
+- https://www.youtube.com/watch?v=CG5DL0a9xg0 (3 mois pour ranker en SEO: cas pratique - WEB2DAY 2017)
 
 ## AGENCY + SERVICES + FREELANCER
-http://www.agence-ska.com/fr/le-referencement-google
-https://www.refzone.info/communiques-de-presse-2-0.html
-https://5euros.com/service/8274/reecrire-et-optimiser-seo-votre-article
-https://www.redacteur.com/
+- http://www.agence-ska.com/fr/le-referencement-google
+- https://www.refzone.info/communiques-de-presse-2-0.html
+- https://5euros.com/service/8274/reecrire-et-optimiser-seo-votre-article
+- https://www.redacteur.com/
 
 ## GENERAL
-https://static.googleusercontent.com/media/www.google.fr/fr/fr/intl/fr/webmasters/docs/search-engine-optimization-starter-guide-fr.pdf
-http://www.webrankinfo.com/dossiers/techniques/idees-seo
-http://www.webrankinfo.com/dossiers/outils/bookmarklets
-https://ahrefs.com/blog/how-to-drive-traffic-to-your-website/
-https://moz.com/search-ranking-factors
+- https://static.googleusercontent.com/media/www.google.fr/fr/fr/intl/fr/webmasters/docs/search-engine-optimization-starter-guide-fr.pdf
+- http://www.webrankinfo.com/dossiers/techniques/idees-seo
+- http://www.webrankinfo.com/dossiers/outils/bookmarklets
+- https://ahrefs.com/blog/how-to-drive-traffic-to-your-website/
+- https://moz.com/search-ranking-factors
 
 
 ## SEO AUDIT
@@ -38,8 +38,8 @@ WHEN: at the beginning of each new campaign or each trimester. You can also do r
 - https://github.com/ovh/summit2016-RankingPredict
 
 ## SEO LIST
-https://curatedseotools.com/
-https://www.youtube.com/watch?v=lyiikzjg9a0
+- https://curatedseotools.com/
+- https://www.youtube.com/watch?v=lyiikzjg9a0
 
 
 ## SEO KEYWORDS / LSI TOOLS
@@ -54,14 +54,16 @@ seo phase de rédaction :
 - https://lsigraph.com
 
 seo spinning :
-http://seo-quartz.fr
+- http://seo-quartz.fr
 
 seo phase d'optimisation :
-https://1.fr
-https://seo-hero.ninja
-http://www.seo-hero.tech
-https://cocolyze.com/
-https://lsigraph.com
+- https://1.fr
+- https://seo-hero.ninja
+- http://www.seo-hero.tech
+- https://cocolyze.com/
+- https://lsigraph.com
+- https://www.babbar.tech/
+- https://yourtext.guru/en
 
 ## SEO ARCHITECTURE
 
@@ -71,58 +73,58 @@ https://lsigraph.com
 
 
 ## TOOLS
-https://github.com/remibacha/kwClustersR
+- https://github.com/remibacha/kwClustersR
 
 ## CONCURRENCE
-https://www.changedetection.com/
+- https://www.changedetection.com/
 
 
 ## DEV AUTOMATTE 
-https://www.npmjs.com/package/gulp-markdown
-http://www.metalsmith.io/
-https://belenalbeza.com/building-a-static-multi-language-site-with-metalsmith-part-i/
-https://www.sitepoint.com/6-static-blog-generators-arent-jekyll/
+- https://www.npmjs.com/package/gulp-markdown
+- http://www.metalsmith.io/
+- https://belenalbeza.com/building-a-static-multi-language-site-with-metalsmith-part-i/
+- https://www.sitepoint.com/6-static-blog-generators-arent-jekyll/
 
 ## HTTPS
-http://www.webrankinfo.com/dossiers/techniques/redirection-http-https
+- http://www.webrankinfo.com/dossiers/techniques/redirection-http-https
 
 
 ## X-ROBOT
-http://robots-txt.com/x-robots-tag/
-http://www.yapasdequoi.com/apache/2983-len-tete-x-robot-tag-ou-comment-vite-desindexer-des-pages.html
+- http://robots-txt.com/x-robots-tag/
+- http://www.yapasdequoi.com/apache/2983-len-tete-x-robot-tag-ou-comment-vite-desindexer-des-pages.html
 
 ## HREFLANG 
-https://www.googlefight.fr/ voir example code source sur : 
-https://support.google.com/webmasters/answer/2620865?hl=fr
-https://support.google.com/webmasters/answer/189077?hl=fr  hreflang		> 
+- https://www.googlefight.fr/ voir example code source sur : 
+- https://support.google.com/webmasters/answer/2620865?hl=fr
+- https://support.google.com/webmasters/answer/189077?hl=fr  hreflang		> 
 
 
 ## COCON SEMANTIQUE / CLUSTER / THEMATIQUE
 
 voir vidéo abondance cocon sémantique (voir les 5 videos) : 
-https://www.youtube.com/watch?v=3zVcsN-6J-U
+- https://www.youtube.com/watch?v=3zVcsN-6J-U
 
 ## IMAGE
-https://bitsofco.de/alternative-text-and-images/
+- https://bitsofco.de/alternative-text-and-images/
 
 ## OFF-PAGE
-https://blog.alexa.com/off-page-seo-techniques/
-http://www.myback.link
-https://www.fiverr.com (backlink)
+- https://blog.alexa.com/off-page-seo-techniques/
+- http://www.myback.link
+- https://www.fiverr.com (backlink)
 
 ## ON-PAGE
 
-https://ahrefs.com/blog/on-page-seo/
-http://www.guerillaweb.ca/optimisation-seo-dune-page-web/
-https://referencement-pme.ca/texte-web-structurer-seo/
-https://www.youtube.com/watch?v=EceSgY9bDnc
-https://www.drujokweb.fr/blog/technique-de-la-fourmiliere/
+- https://ahrefs.com/blog/on-page-seo/
+- http://www.guerillaweb.ca/optimisation-seo-dune-page-web/
+- https://referencement-pme.ca/texte-web-structurer-seo/
+- https://www.youtube.com/watch?v=EceSgY9bDnc
+- https://www.drujokweb.fr/blog/technique-de-la-fourmiliere/
 
 ## ON PAGE BASICS : TITLE + DESCRIPTION 
 
 voir sur tools le CTR, il doit être supérieur a x% suivant la position actuelle, sinon : optimisation
-https://www.seoquantum.com/billet/optimisation-balise-title
-http://www.webrankinfo.com/dossiers/conseils/meta-description-seo (voir tres detaillé)
+- https://www.seoquantum.com/billet/optimisation-balise-title
+- http://www.webrankinfo.com/dossiers/conseils/meta-description-seo (voir tres detaillé)
 
 
 éviter les sujets dupliqués (un seul article par sujet : fusionner les articles)
@@ -170,35 +172,35 @@ debut de l'article contient le mot clef ciblé (50 – 100, de préférence mêm
 - https://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/
 
 # WORPRESS RICH SNIPPETS
-BEST : https://en-gb.wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/
-BEST : https://fr.wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/
-BEST : https://premium.wpmudev.org/blog/schema-wordpress-seo/
-https://fr.wordpress.org/plugins/wordpress-seo/
-https://wordpress.org/plugins/schema/
-https://www.sourcewp.com/rich-snippets-wordpress-plugins/
+BEST : - https://en-gb.wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/
+BEST : - https://fr.wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/
+BEST : - https://premium.wpmudev.org/blog/schema-wordpress-seo/
+- https://fr.wordpress.org/plugins/wordpress-seo/
+- https://wordpress.org/plugins/schema/
+- https://www.sourcewp.com/rich-snippets-wordpress-plugins/
 
 ## SOCIAL RICH SNIPPETS
-https://www.skyminds.net/les-balises-meta-indispensables-pour-les-reseaux-sociaux-facebook-twitter-google-pinterest/
+- https://www.skyminds.net/les-balises-meta-indispensables-pour-les-reseaux-sociaux-facebook-twitter-google-pinterest/
 
 ## BIG TIPS SCHEMA RICH SNIPPETS
-https://www.distilled.net/resources/5-common-schema-problems-and-what-to-do-about-them/
+- https://www.distilled.net/resources/5-common-schema-problems-and-what-to-do-about-them/
 
 ## GUIDELINE RICH SNIPPETS
-https://developers.google.com/search/docs/guides/intro-structured-data#structured-data-guidelines
-https://developers.google.com/search/docs/guides/mark-up-content
+- https://developers.google.com/search/docs/guides/intro-structured-data#structured-data-guidelines
+- https://developers.google.com/search/docs/guides/mark-up-content
 
 ## ARTICLE SCHEMA RICH SNIPPETS
-https://developers.google.com/search/docs/data-types/articles
-https://developers.google.com/search/docs/data-types/videos
-https://support.google.com/webmasters/answer/79812?hl=fr Balises Meta acceptées par Google
-https://developers.google.com/search/docs/guides/intro-structured-data
-https://developers.google.com/search/docs/data-types/software-apps
-https://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/
+- https://developers.google.com/search/docs/data-types/articles
+- https://developers.google.com/search/docs/data-types/videos
+- https://support.google.com/webmasters/answer/79812?hl=fr Balises Meta acceptées par Google
+- https://developers.google.com/search/docs/guides/intro-structured-data
+- https://developers.google.com/search/docs/data-types/software-apps
+- https://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/
 
 
 ## TOOLS SCHEMA RICH SNIPPETS
-https://www.google.com/webmasters/markup-helper/
-https://search.google.com/structured-data/testing-tool
+- https://www.google.com/webmasters/markup-helper/
+- https://search.google.com/structured-data/testing-tool
 
 
 ## HELPER RICH SNIPPETS 
@@ -242,21 +244,21 @@ At the moment, Google will only show date markup if the date actually exists in 
 
 
 ## Netlinking / Spinning / Spining
-http://www.netlinking.net/
-http://seo-quartz.fr/
-https://www.supinfo.com/articles/single/4518-outil-seo-seo-quartz
-https://www.quicksprout.com/the-advanced-guide-to-link-building-chapter-1/
-https://tools.deux.io/content-spinning (bug)
-http://www.infowebmaster.fr/outils/content-spinning.php (ok)
-http://outils-seo.alwaysdata.net/outils-contenu-editorial/content-spinner/ (ok)
+- http://www.netlinking.net/
+- http://seo-quartz.fr/
+- https://www.supinfo.com/articles/single/4518-outil-seo-seo-quartz
+- https://www.quicksprout.com/the-advanced-guide-to-link-building-chapter-1/
+- https://tools.deux.io/content-spinning (bug)
+- http://www.infowebmaster.fr/outils/content-spinning.php (ok)
+- http://outils-seo.alwaysdata.net/outils-contenu-editorial/content-spinner/ (ok)
 
 RESTRUCTURATION 
 maillage interne / silos
 
 STRATEGIE
 netlinking, sujets, contenu, spinning 
-http://seo-quartz.fr/
-http://www.seo-hero.tech/
+- http://seo-quartz.fr/
+- http://www.seo-hero.tech/
 
 2 TYPES DE STRATEGIE :
 
@@ -274,7 +276,7 @@ MOT CLEF LONGUE TRAINTE :  très longue, très précise
 MOT CLEF COURTE TRAINE : générique, bcp de volume de recherche
 
 ### CONF
-https://www.youtube.com/watch?v=CG5DL0a9xg0 (3 mois pour ranker en SEO: cas pratique - WEB2DAY 2017)
+- https://www.youtube.com/watch?v=CG5DL0a9xg0 (3 mois pour ranker en SEO: cas pratique - WEB2DAY 2017)
 position dans l'index pas fixe dans la journée,  varie entre la 40 et 60eme 
 liens c'est des images
 réseau de site
@@ -291,14 +293,14 @@ commentaire sur articles
 
 Cocon Sémantique ? Maillage interne par silo : 
 mind map / carte mentale / carte heuristique
-http://www.mindmapexpress.com/mindmap-generator.php
-https://deepdreamgenerator.com/
-http://keywordshitter.com/
-http://www.seo-hero.tech/ : mot clef > extraire expression / incremente presence pour chaque terme
+- http://www.mindmapexpress.com/mindmap-generator.php
+- https://deepdreamgenerator.com/
+- http://keywordshitter.com/
+- http://www.seo-hero.tech/ : mot clef > extraire expression / incremente presence pour chaque terme
 
-récupérer mot cléf sur http://keywordshitter.com/ et extraire les clusters / regrouper mot cléf par famille sur excel / repérer les themes qui 
-http://www.mindmapexpress.com/mindmap-generator.php / ensuite envoyer les mots clefs dans  /
-https://answerthepublic.com/ mot clé recherché 
+récupérer mot cléf sur - http://keywordshitter.com/ et extraire les clusters / regrouper mot cléf par famille sur excel / repérer les themes qui 
+- http://www.mindmapexpress.com/mindmap-generator.php / ensuite envoyer les mots clefs dans  /
+- https://answerthepublic.com/ mot clé recherché 
 
 
 
@@ -321,10 +323,10 @@ géo localisée
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-https://palevesque.com/outil-blog-comment/
-http://www.ninjalinker.com/footprint/
-http://www.rankspirit.com/commandes-google.php
-http://www.webrankinfo.com/commandes/
+- https://palevesque.com/outil-blog-comment/
+- http://www.ninjalinker.com/footprint/
+- http://www.rankspirit.com/commandes-google.php
+- http://www.webrankinfo.com/commandes/
 
 
 Footprint pour commentaires de blogs  :
@@ -352,14 +354,14 @@ Forum Expressionengine <=> "powered by expressionengine" intitle:"votre mot clé
 “mot-clé” + “forums”
  “ mot-clé ” + “forum »
 
-http://boardreader.com/ moteur de recherche pour forum
+- http://boardreader.com/ moteur de recherche pour forum
  
  
 ## USAGE FOOTPRINT :
 parser les mails d'une page : inurl:contact "ostéopathe" "marseille"
 
 ## GOOGLE CHECK
-https://www.abondance.com/actualites/20160927-17070-syntaxe-avancee-dinterrogation-de-google-video-seo.html
+- https://www.abondance.com/actualites/20160927-17070-syntaxe-avancee-dinterrogation-de-google-video-seo.html
 
 site:mydomain.com		(avec ou sans www pris en compte + sous domaine confondu)
 site:mydomain.com filetype:pdf
@@ -634,4 +636,4 @@ de données provenant de beaucoup de sources. Je le recommande très fortement.
 
 ## TWITTER
 
-https://twitter.com/patrickstox
+- https://twitter.com/patrickstox

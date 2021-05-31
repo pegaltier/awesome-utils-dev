@@ -981,6 +981,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/markostanimirovic/ngrx-child-selectors
 - https://github.com/markostanimirovic/ngrx-handlers
 - https://github.com/meeroslav/ng-helpers
+- https://github.com/nartc/ngrx-slice
 - https://github.com/SaulMoro/ngrx-rtk-query
 - https://github.com/rtk-incubator/rtk-query
 - https://github.com/MrWolfZ/ngrx-forms
@@ -2227,6 +2228,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/snipcart/scully-snipcart-store
 - https://github.com/d-koppenhagen/d-koppenhagen.de
 - https://github.com/samvloeberghs/ng-v9-localized-scullyio
+- https://github.com/this-is-learning/this-is-learning-website
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FULL
 
@@ -2372,6 +2374,7 @@ Find here plugins for different browser.
 
 - https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 - https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
+- https://chrome.google.com/webstore/detail/angular-component-overvie/ffaclkhkellkeknodafdgeaapdniahhh
 - https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
 - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 
@@ -2415,6 +2418,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack
 - https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector
+- https://marketplace.visualstudio.com/items?itemName=ThorstenRintelen.angular-spec-generator
 
 ## ECOSYSTEM: VSCODE PERSO
 
