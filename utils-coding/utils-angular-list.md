@@ -1002,9 +1002,13 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/blove/ngrx-testing
 - https://github.com/timdeschryver/ngrx-immer
 - https://github.com/waynegakuo/ngrx-learning
-- https://github.com/Wykks/wonderful-todo-list
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 
+## ECOSYSTEM: STORE: NGRX: DEMO
+- https://github.com/Wykks/wonderful-todo-list
+- https://github.com/bbaia/todomvc-angular-ngrx
+
+## ECOSYSTEM: STORE: NGRX: ARTICLES
 - https://timdeschryver.dev/blog/nested-ngrx-entity-state
 - https://indepth.dev/posts/1206/understanding-the-magic-behind-ngrx-effects
 - https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210
@@ -1284,6 +1288,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/manfredsteyer/custom-nx-cache
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nrwl/nx/issues/2633 ionic5 support
+- https://github.com/nrwl/nx-incremental-large-repo
 - https://github.com/nstudio/xplat-sample-ionic-web
 - https://github.com/warrendugan/ionic-capacitor-nx-monorepo
 - https://github.com/lerna/lerna
@@ -1532,6 +1537,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: DEVTOOLS
 - https://github.com/expertly-simple/angular-evergreen
+- https://github.com/rangle/angular-devtools
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
 - https://github.com/xlayers/version-stamp
@@ -1572,6 +1578,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/dhilt/ngx-ui-scroll
 - https://github.com/Nolanus/ngx-page-scroll
 - https://github.com/nicky-lenaers/ngx-scroll-to
+- https://github.com/meeroslav/ng-motion
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -1810,6 +1817,7 @@ Analyze and optimize the performance of your app
 - https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/ivylaboratory/angular-gallery
+- https://github.com/adisreyaj/angular-star-rating
 - https://github.com/ivylaboratory/angular-popover
 - https://github.com/michaelbromley/ngx-pagination
 - https://github.com/isaacplmann/ngx-contextmenu
@@ -1830,6 +1838,7 @@ Analyze and optimize the performance of your app
 - https://github.com/darkoandreev/d-ng-rating
 - https://github.com/pjlamb12/ngx-plug-n-play
 - https://github.com/MSakamaki/ngx-onesignal
+- https://github.com/Greentube/ngx-typeahead
 - https://github.com/wittlock/ngx-image-zoom
 - https://github.com/exportarts/ngx-prismic
 - https://github.com/maxisam/ngx-clipboard
@@ -2002,6 +2011,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/MurhafSousli/ngx-progressbar
 - https://github.com/HackAfro/angular-epic-spinners
 - https://github.com/Gbuomprisco/ngx-content-loading
+- https://github.com/adisreyaj/angular-shimmer-effect
 - https://github.com/willmendesneto/ngx-skeleton-loader
 
 ## ECOSYSTEM: LIB: FORM
@@ -2057,6 +2067,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/fkirc/attranslate
 - https://github.com/ngx-translate/core
 - https://github.com/robisim74/angular-l10n
+- https://github.com/Greentube/localize-router
 - https://github.com/martinroob/ngx-i18nsupport
 - https://github.com/gilsdav/ngx-translate-router
 - https://github.com/jgpacheco/ngx-translate-cache
@@ -2156,7 +2167,6 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/stalniy/casl
 - https://github.com/chihab/ngx-access
 - https://github.com/AlexKhymenko/ngx-permissions
-
 
 
 ## ECOSYSTEM: LIB: PWA

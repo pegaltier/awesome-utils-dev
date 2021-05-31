@@ -36,6 +36,7 @@
 - https://picons.me
 - https://logojoy.com
 - http://iconstore.co
+- https://iconoir.com
 - https://openmoji.org
 - https://heroicons.com
 - https://fonticons.com
@@ -217,6 +218,10 @@
 - http://www.bittbox.com
 - http://www.designfreebies.com
 - https://wweb.dev/resources/animated-css-background-generator
+
+### 3D
+
+- https://market.pmnd.rs/
 
 ## OSS
 
