@@ -25,6 +25,7 @@
 ## List
 - https://untools.co/
 - https://github.com/iptv-org/iptv
+- https://github.com/pluja/awesome-privacy
 - https://github.com/alexanderisora/startuptoolbox
 - https://github.com/goabstract/Awesome-Design-Tools
 
