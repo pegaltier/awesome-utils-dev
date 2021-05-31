@@ -22,6 +22,7 @@
 
 ## BEST PRACTIVES
 
+- https://web.dev/learn/css/
 - https://web.dev/color-scheme/
 - https://web.dev/centering-in-css/
 - https://github.com/getbem/awesome-bem
@@ -60,6 +61,7 @@
 
 ## TAILWIND
 
+- https://tailblend.vercel.app/
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/aniftyco/awesome-tailwindcss
 - https://github.com/windicss/windicss-intellisense

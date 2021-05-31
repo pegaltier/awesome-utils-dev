@@ -46,6 +46,7 @@
 ## GUIDE-WEB
 
 - https://javascript.info/ 
+- https://beginnerwebdev.com/
 - https://www.java5cript.com/
 - https://sulco.stackblitz.io/
 - https://airbnb.io/javascript/
@@ -54,6 +55,7 @@
 - https://learnjavascript.online/ 
 - https://exploringjs.com/deep-js/
 - https://learnvanillajs.com/roadmap/
+- https://scrimba.com/learn/learnjavascript
 - https://watchandcode.com/p/practical-javascript
 - https://learn.co/courses/introduction-to-javascript
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#

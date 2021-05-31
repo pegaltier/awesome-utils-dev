@@ -57,6 +57,7 @@
 - https://almanac.httparchive.org/en/2020/
 - https://internetingishard.com/html-and-css/
 - https://github.com/bendc/frontend-guidelines
+- https://fifty.user-interface.io/50_ui_tips.pdf
 - https://learn-the-web.algonquindesign.ca/topics/
 - https://github.com/microsoft/Web-Dev-For-Beginners
 - https://github.com/kamranahmedse/developer-roadmap
