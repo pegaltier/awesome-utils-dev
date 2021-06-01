@@ -715,6 +715,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
 - https://github.com/nitayneeman/schematics-utilities
 - https://github.com/schuchard/ng-schematics
+- https://github.com/kroeder/ngx-cli-toolkit
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/niklas-wortmann/ngx-pact
 - https://github.com/herodevs/material-studies
