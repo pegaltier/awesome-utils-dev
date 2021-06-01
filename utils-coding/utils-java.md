@@ -63,6 +63,7 @@
 - https://github.com/williamfiset/Algorithms
 - https://github.com/eclipse/deeplearning4j
 - https://github.com/keycloak/keycloak
+- https://github.com/tinesoft/nxrocks
 - https://java.libhunt.com/categories
 - https://github.com/alibaba/arthas
 - https://github.com/apache/thrift

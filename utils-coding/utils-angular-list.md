@@ -679,6 +679,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://github.com/waynegakuo/angular-change-detection
 - https://github.com/Mokkapps/angular-change-detection-demo
 - https://github.com/nirkaufman/starter-angular/blob/master/ref/ref.md
 - https://indepth.dev/supercharge-event-management-in-your-angular-application/
@@ -904,6 +905,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://netbasal.com/spectator-v4-a-powerful-tool-to-simplify-your-angular-tests-bd65a0bf317e
 - https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210
 - https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer
+- https://medium.com/ngconf/how-to-override-component-providers-in-angular-unit-tests-b73b47b582e3
 - https://medium.com/javascript-in-plain-english/unit-testing-angular-component-testing-f0c478de3dd8
 - https://medium.com/@kevinkreuzer/test-your-components-using-angular-materials-component-harnesses-f9c1deebdf5d
 - https://medium.com/@pattferraggi/how-i-found-a-problem-with-angular-unit-testing-and-decided-to-fix-it-myself-7c00b58d57a7
@@ -1112,6 +1114,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/nullpub/dux
 - https://github.com/mobxjs/mobx
 - https://github.com/ngxs/store
+- https://github.com/logux/state
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/kuncevic/rx-service
 - https://github.com/spierala/mini-rx-store
@@ -1128,6 +1131,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/reclarejs/reclare
 - https://github.com/storeon/angular
 - https://github.com/datorama/akita
+- https://github.com/dappsnation/akita-ng-fire
 - https://github.com/zerobias/effector
 - https://github.com/cerebral/overmind
 - https://github.com/maktarsis/routeshub
@@ -1247,6 +1251,8 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/nrwl/nx
 - https://github.com/jscutlery/semver
+- https://github.com/nx-dotnet/nx-dotnet
+- https://github.com/simondotm/nx-firebase
 - https://github.com/atlassian/changesets
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-jenkins-build
@@ -1289,7 +1295,6 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/manfredsteyer/custom-nx-cache
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nrwl/nx/issues/2633 ionic5 support
-- https://github.com/nrwl/nx-incremental-large-repo
 - https://github.com/nstudio/xplat-sample-ionic-web
 - https://github.com/warrendugan/ionic-capacitor-nx-monorepo
 - https://github.com/lerna/lerna
@@ -1345,6 +1350,12 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://codeburst.io/continuous-integration-lint-staged-husky-pre-commit-hook-test-setup-47f8172924fc
 - https://offering.solutions/blog/articles/2021/01/27/starting-angular-projects-with-nx/
 - https://emilyxiong.medium.com/my-nx-project-boilerplate-7e0aa95f848
+
+## ECOSYSTEM: INCREMENTAL
+
+- https://github.com/nrwl/nx-incremental-large-repo
+- https://nx.dev/previous/angular/structure/buildable-and-publishable-libraries
+- https://tech.trellis.org/Coverting-Legacy-Codebase-to-Nx-Incremental-Builds/
 
 ## ECOSYSTEM: SEEDS
 

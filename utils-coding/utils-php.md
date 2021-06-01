@@ -68,6 +68,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 ## LIBS: ALL
 - https://github.com/nuwave/lighthouse
 - https://github.com/phpstan/phpdoc-parser
+- https://github.com/selective-php/image-type
 - https://github.com/gossi/php-code-generator
 - https://github.com/matomo-org/device-detector
 - https://github.com/selective-php/zip-responder

@@ -106,6 +106,7 @@
 ## LIB: UI
 
 - https://github.com/styled-components/styled-components
+- https://github.com/calibreapp/react-live-chat-loader
 - https://github.com/react-bootstrap/react-bootstrap
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/americanexpress/react-albus
@@ -128,6 +129,7 @@
 
 - https://github.com/enaqx/awesome-react
 - https://github.com/brillout/awesome-react-components
+- https://github.com/sudheerj/reactjs-interview-questions
 
 ## NEXT
 

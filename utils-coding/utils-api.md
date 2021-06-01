@@ -29,6 +29,7 @@
 - https://pipedream.com/
 - https://github.com/APIs-guru
 - https://github.com/Azure/autorest
+- https://github.com/slatedocs/slate
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
 

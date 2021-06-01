@@ -29,6 +29,7 @@
 - https://github.com/FormidableLabs/urql
 - https://github.com/hasura/graphql-engine
 - https://github.com/wp-graphql/wp-graphql
+- https://github.com/nearform/graphql-hooks
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/piglovesyou/graphql-let
 - https://github.com/prisma-labs/graphql-yoga
