@@ -679,6 +679,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://chriskohler.dev/angular-change-detection-infographic
 - https://github.com/waynegakuo/angular-change-detection
 - https://github.com/Mokkapps/angular-change-detection-demo
 - https://github.com/nirkaufman/starter-angular/blob/master/ref/ref.md
@@ -2293,10 +2294,11 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/DenysVuika/developing-with-angular
 - https://github.com/brandonroberts/nx-ngrx-seinfeld-app
 - https://github.com/start-angular/SB-Admin-BS4-Angular-8
+- https://github.com/avatsaev/angular-contacts-app-example
+- https://github.com/laarrrx/angular-bootstrap-boilerplate
 - https://github.com/vagnersabadi/awesome-components-ionic
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
 - https://github.com/frederiksen/angular-electron-boilerplate
-- https://github.com/avatsaev/angular-contacts-app-example
 - https://github.com/nativescript-community/expo-nativescript
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
