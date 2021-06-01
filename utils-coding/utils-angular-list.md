@@ -1995,6 +1995,7 @@ Analyze and optimize the performance of your app
 - https://github.com/Angular-RU/angular-logger
 - https://github.com/chigix/linked-data-graphic
 - https://github.com/ngdevelop-tech/ngx-fancy-logger
+- https://github.com/TinkoffCreditSystems/micro-sentry
 - https://github.com/aackerman/circular-dependency-plugin
 
 
