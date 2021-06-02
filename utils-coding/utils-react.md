@@ -105,6 +105,7 @@
 
 ## LIB: UI
 
+- https://github.com/City-of-Helsinki/helsinki-design-system
 - https://github.com/styled-components/styled-components
 - https://github.com/calibreapp/react-live-chat-loader
 - https://github.com/react-bootstrap/react-bootstrap
