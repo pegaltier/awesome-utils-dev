@@ -54,6 +54,7 @@
 ## SUMMARY
 
 - https://markodenic.com/html-tips/
+- https://github.com/andreasbm/web-skills
 - https://almanac.httparchive.org/en/2020/
 - https://internetingishard.com/html-and-css/
 - https://github.com/bendc/frontend-guidelines
