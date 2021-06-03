@@ -1,5 +1,11 @@
 # Google Tag Manager
 
+## Tools
+
+- https://tagassistant.google.com/
+- https://chrome.google.com/webstore/detail/dataslayer/ikbablmmjldhamhcldjjigniffkkjgpo
+- https://chrome.google.com/webstore/detail/tag-assistant-companion/jmekfmbnaedfebfnmakmokmlfpblbfdm/related
+
 ## Summary
 
 - GA = google analytics
@@ -11,11 +17,17 @@
 - dimensions vs metrics: https://www.searchenginepeople.com/blog/16081-analytics-metrics-dimensions.html
 - dimensions & metrics examples: https://support.google.com/analytics/answer/1033861?hl=en
 
+## Helpers
+
+```
+console.log(dataLayer.slice(-1).pop())
+```
 
 ## Google Analytics
 
 - https://www.optimizesmart.com/event-tracking-guide-google-analytics-simplified-version/#a3
 
+```
 event.push(
 {
     eventCategory: 'favorite:tabnaame', <<<< standard
@@ -25,6 +37,7 @@ event.push(
     eventValue: '#id' <<<< standard
     more: [] <<<< custom complex js object
 })
+```
 
 ## Google Tag Manager
 
