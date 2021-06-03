@@ -1224,10 +1224,6 @@ Discover alternative to ngrx for the state management of your objects.
 
 ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBASE
 
-Since NX11 The @nrwl/devkit package naming is different:
-- builders are now executors in fact builder execute a kind of command
-- schematics are now generators in fact schematics are just a tool for code genarator automation
-
 - https://youtu.be/piQ0EZhtus0 Angular at Large Organizations - Victor Savkin
 - https://youtu.be/tTR9OVMC0VE ngConf & Nx Webinar: Never Build the Same Code Twice with Nx Cloud
 - https://youtu.be/LEqJ1xKf_1w Smarter & Faster Angular Development with Nx | ng-conf & Nx
@@ -1261,6 +1257,7 @@ Since NX11 The @nrwl/devkit package naming is different:
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/nxpm/nxpm-cli
+- https://github.com/twittwer/nx-tools
 - https://github.com/nx-go/nx-go
 - https://github.com/ctx-core/ctx-core
 - https://github.com/codeonrocks/nx-python
