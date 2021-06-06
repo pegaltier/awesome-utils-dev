@@ -14,8 +14,9 @@
 - https://github.com/ethereum-ts/TypeChain
 - https://github.com/bkrem/awesome-solidity
 - https://github.com/embark-framework/embark
-- https://github.com/mithio/mithril-smart-contract
 - https://github.com/antonnell/veToken-voting
+- https://github.com/mithio/mithril-smart-contract
+- https://github.com/eSwapping/ESWAP-Limit-Order-Bot
 
 ## ETH TOOLS/EXPLORER
 - https://trivial.co
