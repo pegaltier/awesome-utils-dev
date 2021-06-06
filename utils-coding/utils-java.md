@@ -46,6 +46,7 @@
 
 ## QUARKUS
 - https://github.com/lordofthejars/quarkus-cheat-sheet/
+- https://github.com/jhipster/generator-jhipster-quarkus
 
 ## MICROSERVICES
 - https://quarkus.io/
