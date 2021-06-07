@@ -19,12 +19,13 @@
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/underfisk/nestjs-asyncapi
 - https://github.com/hardyscc/nestjs-cqrs-starter
+- https://github.com/MetinSeylan/Nestjs-OpenTelemetry
 - https://github.com/silicon-hills/nestjs-crud-prisma
 - https://github.com/jmcdo29/nest-docker-template
 - https://github.com/jmcdo29/nestjs-commander
 - https://github.com/jmcdo29/nestjs-spelunker
 - https://github.com/jmcdo29/testing-nestjs
-- https://github.com/kittgen/kittgen-nestjs
+    - https://github.com/kittgen/kittgen-nestjs
 
 ## EXAMPLE
 

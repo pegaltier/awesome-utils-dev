@@ -13,6 +13,7 @@
 - https://github.com/alyssaxuu/flowy
 - https://github.com/pavlobu/deskreen
 - https://github.com/chatwoot/chatwoot
+- https://github.com/obsproject/obs-studio
 - https://github.com/mattermost/focalboard
 - https://github.com/justinfrankel/licecap
 
