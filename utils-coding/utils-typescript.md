@@ -67,6 +67,7 @@
 - https://github.com/jeffijoe/typesync
 - https://github.com/nobrainr/morphism
 - https://github.com/airbnb/ts-migrate
+- https://github.com/rikukissa/typehole
 - https://github.com/SamVerschueren/tsd
 - https://github.com/nfriend/ts-key-enum
 - https://github.com/runem/ts-simple-type

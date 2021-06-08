@@ -157,7 +157,9 @@
 ## LIB: DEVTOOLS
 
 - https://github.com/sverweij/dependency-cruiser
+- https://github.com/facebook/jscodeshift
 - https://github.com/addyosmani/critical
+- https://github.com/fkling/astexplorer
 - https://github.com/NectarJS/nectarjs
 - https://github.com/projen/projen
 

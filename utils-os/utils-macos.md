@@ -21,6 +21,31 @@
 - https://github.com/sickcodes/Docker-OSX
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 
+## Brew
+
+```
+brew update
+brew install nginx
+brew services list
+```
+## Nginx
+
+```
+nginx -V
+sudo nano /private/etc/hosts
+launchctl load /usr/local/cellar/nginx/1.21.0/homebrew.mxcl.nginx.plist
+launchctl unload /usr/local/cellar/nginx/1.21.0/homebrew.mxcl.nginx.plist
+```
+
+Important locations:
+``` 
+Add configs in -> /usr/local/etc/nginx/servers/
+Default config -> /usr/local/etc/nginx/nginx.conf
+Logs will be in -> /usr/local/var/log/nginx/
+Default webroot is -> /usr/local/var/www/
+Default listen address -> http://localhost:8080
+```
+
 ## Spotlight
 
 Wanna speed up your MacOSX by telling Spotlight NOT to index 10k node_modules? Use and run my shell alias...
