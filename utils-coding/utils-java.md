@@ -45,11 +45,13 @@
 - https://piotrminkowski.com/2020/12/14/microprofile-java-microservices-on-wildfly/
 
 ## QUARKUS
+- https://github.com/agoncal/code-with-quarkus
 - https://github.com/lordofthejars/quarkus-cheat-sheet/
 - https://github.com/jhipster/generator-jhipster-quarkus
 
 ## MICROSERVICES
 - https://quarkus.io/
+- https://code.quarkus.io/
 - https://github.com/agoncal
 - https://antoniogoncalves.org/tag/micro-services/
 - https://github.com/livelessons-spring/building-microservices
