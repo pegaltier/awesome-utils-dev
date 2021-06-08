@@ -1249,6 +1249,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/nrwl/nx
 - https://github.com/jscutlery/semver
+- https://github.com/eulerrapp/nx-python
 - https://github.com/nx-dotnet/nx-dotnet
 - https://github.com/simondotm/nx-firebase
 - https://github.com/atlassian/changesets
