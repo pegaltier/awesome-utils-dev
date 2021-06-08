@@ -7,6 +7,7 @@
 - https://www.graph.cool
 - https://www.graphql-tools.com
 - https://www.graphqleditor.com
+- https://graphql-inspector.com
 - https://graphql-code-generator.com
 - https://www.graphile.org/postgraphile
 - https://dev.to/graphqleditor/graphql-tools-libraries-3bbc
@@ -23,11 +24,14 @@
 - https://github.com/jagql/framework
 - https://github.com/anvilco/spectaql
 - https://github.com/dgraph-io/dgraph
+- https://github.com/Urigo/graphql-mesh
+- https://github.com/dotansimha/envelop
 - https://github.com/graphql/dataloader
 - https://github.com/graphql-nexus/nexus
 - https://github.com/oslabs-beta/portara
 - https://github.com/FormidableLabs/urql
 - https://github.com/hasura/graphql-engine
+- https://github.com/Urigo/graphql-modules
 - https://github.com/wp-graphql/wp-graphql
 - https://github.com/nearform/graphql-hooks
 - https://github.com/maticzav/graphql-shield
@@ -44,7 +48,9 @@
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/prisma-labs/graphql-request
 - https://github.com/ef-eng/graphql-query-rewriter
+- https://github.com/kamilkisiela/graphql-inspector
 - https://github.com/rahmanfadhil/learn-typegraphql
+- https://github.com/dotansimha/graphql-code-generator
 - https://github.com/pipedrive/graphql-schema-registry
 - https://github.com/dangcuuson/graphql-schema-typescript
 
