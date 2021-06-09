@@ -2,6 +2,7 @@
 
 ## LIBS
 
+- https://github.com/nestjs/cqrs
 - https://github.com/nestjsx/crud
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
@@ -25,7 +26,7 @@
 - https://github.com/jmcdo29/nestjs-commander
 - https://github.com/jmcdo29/nestjs-spelunker
 - https://github.com/jmcdo29/testing-nestjs
-    - https://github.com/kittgen/kittgen-nestjs
+- https://github.com/kittgen/kittgen-nestjs
 
 ## EXAMPLE
 
