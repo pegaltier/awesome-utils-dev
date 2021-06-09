@@ -7,6 +7,9 @@
 ## API NORMALIZATION
 - https://app.swaggerhub.com
 
+## OSS
+- https://github.com/ivan-bilan/The-Microservices-Pandect
+
 ## DDD / CQRS
 - https://speakerdeck.com/akrabat/ddd-for-beginners
 - http://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie-1/

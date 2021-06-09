@@ -46,15 +46,18 @@
 - https://github.com/lensapp/lens
 - https://github.com/kedacore/keda
 - https://github.com/Portshift/kubei
+- https://github.com/hobby-kube/guide
 - https://github.com/godaddy/terminus
 - https://github.com/porter-dev/porter
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard
 - https://github.com/kubernetes/kubernetes
+- https://github.com/eon01/kubernetes-workshop
 - https://github.com/eldada/kubernetes-scripts
-- https://github.com/tomhuang12/awesome-k8s-resources
 - https://github.com/kubernauts/jmeter-kubernetes
+- https://github.com/tomhuang12/awesome-k8s-resources
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
 ## REDIS
 - https://github.com/JamzyWang/awesome-redis

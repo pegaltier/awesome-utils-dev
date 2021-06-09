@@ -88,6 +88,7 @@
 - https://github.com/pmndrs/react-use-gesture
 - https://github.com/aaronvanston/react-flexa
 - https://github.com/kettanaito/atomic-layout
+- https://github.com/tannerlinsley/react-query
 - https://github.com/hupe1980/react-script-hook
 - https://github.com/zthxxx/react-dev-inspector
 - https://github.com/facebookexperimental/Recoil
@@ -151,7 +152,9 @@
 - https://github.com/callstack/react-native-viewpager
 - https://github.com/RonRadtke/react-native-blob-util
 - https://github.com/cuvent/react-native-vision-camera
+- https://github.com/alpha0010/react-native-file-access
 - https://github.com/callstack/react-native-builder-bob
+- https://github.com/meliorence/react-native-render-html
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/Flair-Dev/react-native-awesome-gallery
 - https://github.com/Rapsssito/react-native-background-actions

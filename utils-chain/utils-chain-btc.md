@@ -7,5 +7,6 @@
 
 ## Lib
 - https://github.com/bitcoinjs/bip39
+- https://github.com/DeFiCh/jellyfish
 - https://github.com/bitcoinj/bitcoinj
 - https://github.com/btcpayserver/btcpayserver
