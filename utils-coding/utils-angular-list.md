@@ -995,6 +995,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/briebug/ngrx-auto-entity
 - https://github.com/satanTime/ngrx-correlation-id
 - https://github.com/briebug/ngrx-entity-schematic
+- https://github.com/IliaIdakiev/ngrx-action-bundles
 - https://github.com/satanTime/ngrx-entity-relationship
 - https://github.com/larscom/ngrx-store-storagesync
 - https://github.com/brandonroberts/ngrx-store-freeze
@@ -1284,6 +1285,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
+- https://github.com/Quramy/npm-ts-workspaces-example
 - https://github.com/manfredsteyer/monorepo_domains
 - https://github.com/pmowrer/semantic-release-monorepo
 - https://github.com/angularbuilders/angular-blueprint
