@@ -748,6 +748,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 
 ## CORE: ANIMATIONS
 
+- https://github.com/williamjuan027/angular-animations-explorer
 - https://dev.to/angular/angular-animate-css-in-five-easy-steps-8o6
 - https://netbasal.com/creating-reusable-animations-in-angular-6a2350d6191a
 - https://medium.com/google-developer-experts/angular-supercharge-your-router-transitions-using-new-animation-features-v4-3-3eb341ede6c8
