@@ -761,6 +761,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 ## CORE: MATERIAL
 
 - https://material.angular.io/guide/customizing-component-styles
+- https://medium.com/web-factory-llc/an-approach-to-dynamic-theme-color-generation-in-angular-5bc7acf2a8e6
 - https://stackblitz.com/edit/material-wihtout-viewencapsulation-1?embed=1&file=src/app/example.theme.scss
 
 ## CORE: ROUTING
@@ -1017,6 +1018,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/bbaia/todomvc-angular-ngrx
 
 ## ECOSYSTEM: STORE: NGRX: ARTICLES
+- https://dev.to/angular/nested-ngrx-entity-state-211k
 - https://timdeschryver.dev/blog/nested-ngrx-entity-state
 - https://indepth.dev/posts/1206/understanding-the-magic-behind-ngrx-effects
 - https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210
@@ -1069,6 +1071,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://www.youtube.com/watch?v=LesJdh4uRmk Hello generics, goodbye boilerplate
 - https://www.youtube.com/watch?v=T-vQoI_AM9E Magical TypeScript features for NgRx
 - https://www.youtube.com/watch?v=UEcdQR-NoNA Using Redux in Angular 2+ Apps
+- https://www.youtube.com/watch?v=4YKrBTQykzA NgRx Tree Like Shaped Data
 - https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
 - https://www.youtube.com/watch?v=YbYj4b2yIN8 Advanced NgRx Techniques
 - https://www.youtube.com/watch?v=1hlXlsaMeTs Simple login/logout
@@ -2277,6 +2280,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/alan-agius4/prune-css-poc
 - https://github.com/herodevs/material-studies
 - https://github.com/retarsis/angular-warehouse
+- https://github.com/Peshou/dynamic-theming-demo
 - https://github.com/ganatan/angular-example-seo
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular
