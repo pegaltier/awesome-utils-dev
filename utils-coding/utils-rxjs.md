@@ -166,10 +166,14 @@ They enable us to join information from multiple observables. Order, time, and s
 
 #### MULTICASTING
 
-helpful to cache cold observables such as http requests.
+helpful to cache cold observables (transform to hot) such as http requests.
 
 - share: share source among multiple subscribers.
 - shareReplay: Share source and replay specified number of emissions on subscription.
+
+Both shareReplay and publishReplay (+ calling connect on it) will make the observable behind it hot.
+- shareReplay: won't stop emitting until it's completed, no matter if there are no subscriptions anymore or not.
+- publishReplay: will stop after the last subscriber unsubscribes if used together with refCount
 
 #### CREATION
 
@@ -188,6 +192,8 @@ helpful to cache cold observables such as http requests.
 
 - http://reactivex.io/rxjs/manual/overview.html#operators
 - https://ncjamieson.com/avoiding-switchmap-related-bugs/
+- https://medium.com/javascript-everyday/behaviorsubject-vs-replaysubject-1-beware-of-edge-cases-b361153d9ccf
 - https://www.freecodecamp.org/news/understand-rxjs-operators-by-eating-a-pizza/
+- https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255
 - https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
 - https://stackoverflow.com/questions/41797439/rxjs-observable-combinelatest-vs-observable-forkjoin

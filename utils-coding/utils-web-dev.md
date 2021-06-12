@@ -435,6 +435,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://book-of-flowers.com/
 - https://www.aristidebenoist.com/
 - https://www.martin-laxenaire.fr/
+- https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES
 
@@ -450,6 +451,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/codrops/ButtonHoverStyles
 - https://github.com/codrops/InlineMenuLayout/
 - https://github.com/codrops/OnScrollLetterAnimations
+- https://github.com/codrops/ThumbHoverSVGFilter/
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://github.com/brunoimbrizi/interactive-particles
 - https://github.com/akella/ExplodingObjects
@@ -458,6 +460,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://tympanus.net/Development/LettersAnimationLayout/
 - https://tympanus.net/Development/ImageStackGrid/index.html
 - https://tympanus.net/Development/HorizontalSmoothScrollLayout/
+- https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40

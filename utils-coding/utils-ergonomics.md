@@ -7,6 +7,8 @@
 - http://webgazer.cs.brown.edu/
 
 ## ACCESSIBILITY  
+- https://fixa11y.com
+- https://polypane.app/
 - https://github.com/brunopulis/awesome-a11y
 
 ### RULES

@@ -102,6 +102,8 @@ npx ngcc (example to run angular ngcc in an angular (v9) project)
 - ~ = latest patch version will be installed
 
 ```
+rm -rf package-lock.json
+rm -rf node_modules
 npm outdated # check the dep to update
 npm update # update all to the wanted
 npm update mypackage1 # update one to the wanted

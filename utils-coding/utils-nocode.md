@@ -21,6 +21,7 @@
 
 ## headless cms
 - https://prismic.io/
+- https://www.contentful.com/
 
 ## landing
 - https://www.landen.co

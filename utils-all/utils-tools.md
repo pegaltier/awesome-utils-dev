@@ -31,6 +31,9 @@
 - https://github.com/alexanderisora/startuptoolbox
 - https://github.com/goabstract/Awesome-Design-Tools
 
+## New
+- https://fig.io/
+
 ## Desktop
 
 - [Zettlr](https://www.zettlr.com/) - Markdown editor

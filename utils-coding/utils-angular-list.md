@@ -423,6 +423,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://github.com/ngx-builders/ngx-heroku-deploy
 - https://github.com/mauriziovitale/angular-plugins
 - https://github.com/angular-schule/angular-cli-ghpages
+- https://www.smashingmagazine.com/2021/06/getting-started-webpack/
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
 - https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
 - https://www.softwarearchitekt.at/post/2018/12/12/extending-the-angular-cli-s-build-chain-without-ejecting.aspx
@@ -1278,6 +1279,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nxext/nx-extensions
 - https://github.com/nrwl/nx-workshop
 - https://github.com/gagle/nx-check-changes
+- https://github.com/sevenwestmedia-labs/nx-plugins
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
