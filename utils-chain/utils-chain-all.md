@@ -32,6 +32,7 @@
 - https://github.com/BlockchainCommons/bc-ur-java
 - https://github.com/steve-vincent/awesome-decentralized
 - https://github.com/project-serum/awesome-serum
+- https://github.com/dfinity/awesome-dfinity
 
 ## QUOTES/ACTIVITY
 - http://charts.woobull.com

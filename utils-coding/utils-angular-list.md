@@ -1830,6 +1830,7 @@ Analyze and optimize the performance of your app
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
+- https://github.com/AlexMiniApps/angular-code-input
 - https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/ivylaboratory/angular-gallery

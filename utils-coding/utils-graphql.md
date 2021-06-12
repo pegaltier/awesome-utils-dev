@@ -14,6 +14,7 @@
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
 ## EXAMPLE
+- https://github.com/alan345/naperg
 - https://github.com/APIs-guru/graphql-apis
 - https://github.com/benawad/node-ts-graphql-boilerplate
 
@@ -47,6 +48,7 @@
 - https://github.com/dabit3/cdk-graphql-backend
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/prisma-labs/graphql-request
+- https://github.com/zalando-incubator/graphql-jit
 - https://github.com/ef-eng/graphql-query-rewriter
 - https://github.com/kamilkisiela/graphql-inspector
 - https://github.com/rahmanfadhil/learn-typegraphql

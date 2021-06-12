@@ -19,6 +19,7 @@
 - https://github.com/sindresorhus/awesome
 - https://github.com/ossu/computer-science
 - https://github.com/datasciencemasters/go
+- https://github.com/ZYSzys/awesome-captcha
 - https://github.com/devpato/tech-podcasts-list
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/ryanburgess/engineer-manager

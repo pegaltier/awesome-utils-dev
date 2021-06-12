@@ -18,6 +18,7 @@
 
 - https://github.com/iina/iina
 - https://github.com/leits/MeetingBar
+- https://github.com/rxhanson/Rectangle
 - https://github.com/sickcodes/Docker-OSX
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 
