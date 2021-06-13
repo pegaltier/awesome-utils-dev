@@ -31,11 +31,13 @@
 - https://web.dev/color-scheme/
 - https://web.dev/centering-in-css/
 - https://github.com/getbem/awesome-bem
+- https://github.com/necolas/idiomatic-css
 - https://github.com/philipwalton/flexbugs
 - https://github.com/samanthaming/Flexbox30
 - https://calibreapp.com/blog/css-performance
 - https://ishadeed.com/article/css-scroll-snap/
 - https://dev.to/ladybug/css-cheat-sheets-3ee0
+- https://github.com/AllThingsSmitty/css-protips
 - https://github.com/j9t/css-optimization-basics
 - https://melanie-richards.com/blog/css-grid-sticky
 - https://github.com/philipwalton/solved-by-flexbox

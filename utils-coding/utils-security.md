@@ -44,6 +44,7 @@
 
 ## UTILS
 - https://github.com/OWASP/www-project-vulnerable-web-applications-directory
+- https://github.com/payloadbox/sql-injection-payload-list
 - https://kaimi.io/en/2019/03/pentest-101-web-wordlists/
 - https://github.com/correlatedsecurity/Awesome-SOAR
 - https://github.com/kaimi-io/web-fuzz-wordlists
