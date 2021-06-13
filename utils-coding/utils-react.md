@@ -138,6 +138,7 @@
 
 - https://github.com/application-research/next-bucket
 - https://github.com/one-aalam/next-starter-kit
+- https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
 
 ## NATIVE

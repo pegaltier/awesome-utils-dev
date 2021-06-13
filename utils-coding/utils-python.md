@@ -16,9 +16,10 @@ Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, c
 
 ## LIB
 
+- https://github.com/django/django
 - https://github.com/allegroai/trains
 - https://github.com/tiangolo/fastapi
-- https://github.com/django/django
+- https://github.com/pennersr/pulsus
 
 ## UTIL
 

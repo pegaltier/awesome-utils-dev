@@ -38,6 +38,7 @@
 
 ## STARTER
 
+- https://github.com/egoist/ts-lib-starter
 - https://github.com/metachris/typescript-boilerplate
 - https://github.com/xolvio/typescript-event-sourcing
 - https://github.com/stemmlerjs/simple-typescript-starter
