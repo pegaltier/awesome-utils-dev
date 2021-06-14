@@ -73,6 +73,7 @@
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/mgechev/javascript-algorithms
+- https://github.com/getify/Functional-Light-JS
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/twhite96/js-dev-reads

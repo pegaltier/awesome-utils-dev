@@ -91,6 +91,7 @@
 - https://github.com/tannerlinsley/react-query
 - https://github.com/hupe1980/react-script-hook
 - https://github.com/zthxxx/react-dev-inspector
+- https://github.com/thedevelobear/react-rewards
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/duskload/react-device-detect
@@ -135,7 +136,9 @@
 
 ## NEXT
 
+- https://github.com/application-research/next-bucket
 - https://github.com/one-aalam/next-starter-kit
+- https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
 
 ## NATIVE

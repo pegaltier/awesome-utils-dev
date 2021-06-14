@@ -761,6 +761,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 ## CORE: MATERIAL
 
 - https://material.angular.io/guide/customizing-component-styles
+- https://medium.com/web-factory-llc/an-approach-to-dynamic-theme-color-generation-in-angular-5bc7acf2a8e6
 - https://stackblitz.com/edit/material-wihtout-viewencapsulation-1?embed=1&file=src/app/example.theme.scss
 
 ## CORE: ROUTING
@@ -995,6 +996,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/briebug/ngrx-auto-entity
 - https://github.com/satanTime/ngrx-correlation-id
 - https://github.com/briebug/ngrx-entity-schematic
+- https://github.com/IliaIdakiev/ngrx-action-bundles
 - https://github.com/satanTime/ngrx-entity-relationship
 - https://github.com/larscom/ngrx-store-storagesync
 - https://github.com/brandonroberts/ngrx-store-freeze
@@ -1016,6 +1018,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/bbaia/todomvc-angular-ngrx
 
 ## ECOSYSTEM: STORE: NGRX: ARTICLES
+- https://dev.to/angular/nested-ngrx-entity-state-211k
 - https://timdeschryver.dev/blog/nested-ngrx-entity-state
 - https://indepth.dev/posts/1206/understanding-the-magic-behind-ngrx-effects
 - https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210
@@ -1068,6 +1071,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://www.youtube.com/watch?v=LesJdh4uRmk Hello generics, goodbye boilerplate
 - https://www.youtube.com/watch?v=T-vQoI_AM9E Magical TypeScript features for NgRx
 - https://www.youtube.com/watch?v=UEcdQR-NoNA Using Redux in Angular 2+ Apps
+- https://www.youtube.com/watch?v=4YKrBTQykzA NgRx Tree Like Shaped Data
 - https://www.youtube.com/watch?v=OZam9fNNwSE The Facade of NgRx Facades
 - https://www.youtube.com/watch?v=YbYj4b2yIN8 Advanced NgRx Techniques
 - https://www.youtube.com/watch?v=1hlXlsaMeTs Simple login/logout
@@ -1284,6 +1288,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/manfredsteyer/angular-ddd
 - https://github.com/orjandesmet/nx-sparse-checkout
 - https://github.com/manfredsteyer/strategic-design
+- https://github.com/Quramy/npm-ts-workspaces-example
 - https://github.com/manfredsteyer/monorepo_domains
 - https://github.com/pmowrer/semantic-release-monorepo
 - https://github.com/angularbuilders/angular-blueprint
@@ -1831,6 +1836,7 @@ Analyze and optimize the performance of your app
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
+- https://github.com/AlexMiniApps/angular-code-input
 - https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/ivylaboratory/angular-gallery
@@ -2276,6 +2282,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/alan-agius4/prune-css-poc
 - https://github.com/herodevs/material-studies
 - https://github.com/retarsis/angular-warehouse
+- https://github.com/Peshou/dynamic-theming-demo
 - https://github.com/ganatan/angular-example-seo
 - https://github.com/maximegris/angular-electron
 - https://github.com/trungk18/jira-clone-angular

@@ -32,6 +32,7 @@
 - https://github.com/BlockchainCommons/bc-ur-java
 - https://github.com/steve-vincent/awesome-decentralized
 - https://github.com/project-serum/awesome-serum
+- https://github.com/dfinity/awesome-dfinity
 
 ## QUOTES/ACTIVITY
 - http://charts.woobull.com
@@ -70,6 +71,7 @@
 - https://github.com/f13end/Crypto-Investor-Tools
 - https://github.com/f13end/tradingview-custom-indicators
 - https://github.com/jaggedsoft/node-binance-api
+- https://github.com/chrisleekr/binance-trading-bot
 - https://github.com/jsappme/node-binance-trader
 - https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96
 - http://beacon.by/ninjahacks/bullish-on-bitcoin-resources-and-recommendations
