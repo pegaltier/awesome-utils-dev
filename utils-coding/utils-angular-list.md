@@ -1541,6 +1541,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/sindresorhus/eslint-plugin-unicorn
 - https://github.com/typescript-eslint/typescript-eslint
 - https://github.com/trivago/prettier-plugin-sort-imports
+- https://github.com/lydell/eslint-plugin-simple-import-sort
 - https://github.com/MarkKragerup/weblint-eslint-security
 - https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/cyrilletuzi/typescript-strictly-typed
@@ -2155,6 +2156,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/src-zone/material
 
 ## ECOSYSTEM: LIB: STORAGE
+- https://github.com/ngneat/storage
 - https://github.com/zoomsphere/ngx-store
 - https://github.com/UlisesHllSk/ng-indexed-db
 - https://github.com/PillowPillow/ng2-webstorage
