@@ -1726,6 +1726,7 @@ Learn the best way to make your objects immutable.
 
 - https://screenster.io/
 - https://testrec.com/
+- https://www.browserstack.com/
 - https://angularplayground.it/
 - https://testing-playground.com/
 - https://github.com/mswjs/msw
@@ -2001,6 +2002,7 @@ Analyze and optimize the performance of your app
 - https://github.com/LogRocket/logrocket
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/ngworker/lumberjack
+- https://github.com/hyperjumptech/monika
 - https://github.com/tgure/ngx-loggly-logger
 - https://github.com/Angular-RU/angular-logger
 - https://github.com/chigix/linked-data-graphic

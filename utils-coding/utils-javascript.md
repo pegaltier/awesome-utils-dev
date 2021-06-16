@@ -51,6 +51,7 @@
 - https://sulco.stackblitz.io/
 - https://airbnb.io/javascript/
 - https://vanillajstoolkit.com/
+- https://wesbos.com/javascript
 - https://learnjavascript.online/
 - https://learnjavascript.online/ 
 - https://exploringjs.com/deep-js/
@@ -158,6 +159,7 @@
 ## LIB: DEVTOOLS
 
 - https://github.com/sverweij/dependency-cruiser
+- https://github.com/siddharthkp/bundlesize
 - https://github.com/facebook/jscodeshift
 - https://github.com/addyosmani/critical
 - https://github.com/fkling/astexplorer

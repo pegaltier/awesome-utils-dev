@@ -1,9 +1,13 @@
 
 
 ## TOOLS
-https://www.staticgen.com/
-https://jamstatic.fr/
-https://gohugo.io/
+- https://www.staticgen.com/
+- https://jamstatic.fr/
+- https://astro.build/
+- https://gohugo.io/
+
+## OSS
+- https://github.com/snowpackjs/astro
 
 ## ARTICLES
-https://www.creativebloq.com/features/10-best-static-site-generators
+- https://www.creativebloq.com/features/10-best-static-site-generators

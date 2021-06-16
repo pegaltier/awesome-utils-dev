@@ -693,8 +693,9 @@ https://www.georges.tech/
 
 
 ## TEMPLATE EMAIL DESIGN
-https://mosaico.io
-https://beefree.io
+- https://mosaico.io
+- https://beefree.io
+- https://mailstudio.app
 
 ## TEST APP TEST BUG 
 https://bugathon.99tests.com

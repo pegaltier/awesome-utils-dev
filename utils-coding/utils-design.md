@@ -26,11 +26,12 @@
 - https://squoosh.app
 - https://tinypng.com
 - https://www.remove.bg
+- https://goanimate.com
 - https://www.photopea.com
+- https://studio.polotno.dev
 - https://imagecompressor.com
 - https://shapeshifter.design
-- https://studio.polotno.dev
-- https://goanimate.com
+- https://www.handwriting-generator.com
 
 ## ICONS
 - https://picons.me

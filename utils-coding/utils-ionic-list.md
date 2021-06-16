@@ -50,7 +50,8 @@
 - https://github.com/nativescript-community/capacitor-plugins
 
 ## PWA
-https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/
+- https://github.com/ionic-team/pwa-elements
+- https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/
 
 
 ## NEWS

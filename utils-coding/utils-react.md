@@ -159,6 +159,8 @@
 - https://github.com/edeckers/react-native-blob-courier
 - https://github.com/callstack/react-native-builder-bob
 - https://github.com/meliorence/react-native-render-html
+- https://github.com/marcocesarato/react-native-big-list
+- https://github.com/react-native-modal/react-native-modal
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/Flair-Dev/react-native-awesome-gallery
 - https://github.com/Rapsssito/react-native-background-actions

@@ -117,6 +117,7 @@
 - https://grid.layoutit.com
 - https://component.gallery
 - http://jsoneditoronline.org
+- https://www.bootstarters.com
 - https://www.beautifulcodes.in
 - http://www.perf-tooling.today
 - https://bundlers.tooling.report
@@ -379,6 +380,7 @@ input validation : http://webdesign.tutsplus.com/tutorials/how-to-make-floating-
 html5 elements : http://www.html5accessibility.com/html5elements/  
 form elements : https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types
 figure elements : http://www.sitepoint.com/quick-tip-the-right-way-to-use-figure-and-figcaption-elements/  
+tags: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
 
 ## EXPERIMENT
 - http://david.li/paint

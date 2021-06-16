@@ -27,12 +27,13 @@
 
 WHEN: at the beginning of each new campaign or each trimester. You can also do reverse engineer success: enter keyword on google, check the first on google: number of words, number of keywords...
 
-- https://sitechecker.pro
-- https://rankgen.com/
+- https://opentags.io
+- https://rankgen.com
 - https://ranxplorer.com
-- https://fr.majestic.com/
-- http://seositecheckup.com/
-- https://myrankingmetrics.com/
+- https://sitechecker.pro
+- https://fr.majestic.com
+- http://seositecheckup.com
+- https://myrankingmetrics.com
 - https://www.drujokweb.fr/blog/audit-seo/
 - https://www.thomascubel.com/audit-seo-gratuit/
 - https://github.com/ovh/summit2016-RankingPredict
