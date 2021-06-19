@@ -1869,6 +1869,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/ngneat/edit-in-place
 - https://github.com/cipchk/ngx-filesaver
+- https://github.com/nolimits4web/swiper
 - https://github.com/oferh/ng2-completer
 - https://github.com/ng-select/ng-select
 - https://github.com/dappsnation/ng-rive
