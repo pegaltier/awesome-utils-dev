@@ -31,6 +31,7 @@
 ## EXAMPLE
 
 - https://github.com/nartc/nest-mean
+- https://github.com/jmcdo29/nest-samples
 - https://github.com/rfprod/nx-ng-starter
 - https://github.com/ntegral/nestjs-sentry
 - https://github.com/TimurRK/nestjs-example

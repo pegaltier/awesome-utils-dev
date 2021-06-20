@@ -114,6 +114,7 @@
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/americanexpress/react-albus
 - https://github.com/italia/design-react-kit
+- https://github.com/radix-ui/design-system
 - https://github.com/ant-design/ant-design
 - https://github.com/mui-org/material-ui
 - https://github.com/chakra-ui/chakra-ui
@@ -140,6 +141,9 @@
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
+
+## DEMO: EXAMPLE
+- https://github.com/Ninjas-Code-official/shopping-cart
 
 ## NATIVE
 

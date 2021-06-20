@@ -14,7 +14,7 @@
 - https://github.com/EthicalML/awesome-production-machine-learning
 
 ## TOOLS
-
+- https://play.botscript.ai/
 - http://playground.tensorflow.org/
 
 ## IMAGES API
@@ -29,7 +29,7 @@
 - https://www.theneura.com
 
 ## LIB
-
+- https://github.com/yeuai/botscript
 - https://github.com/ml5js/ml5-library
 - https://github.com/the-new-sky/Wisty.js
 - https://github.com/deepset-ai/FARM
