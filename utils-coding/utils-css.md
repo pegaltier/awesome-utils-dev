@@ -30,6 +30,7 @@
 - https://web.dev/learn/css/
 - https://web.dev/color-scheme/
 - https://web.dev/centering-in-css/
+- https://web.dev/font-best-practices/
 - https://github.com/getbem/awesome-bem
 - https://github.com/necolas/idiomatic-css
 - https://github.com/philipwalton/flexbugs
