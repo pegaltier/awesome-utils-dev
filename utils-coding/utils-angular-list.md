@@ -193,6 +193,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 - https://dev.to/joerter/10-tips-for-awesome-angular-apps-a2b
 - https://github.com/wesleygrimes/angular-routing-best-practices
+- https://github.com/this-is-angular/angular-guides
 - https://github.com/nirkaufman/bad-practice
 
 ## HELPER: DESIGN PATTERN
@@ -1662,6 +1663,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/herodevs/herodevs-packages
 - https://github.com/myndpm/open-source
 - https://github.com/embarq/safe-pipe
+- https://github.com/glebmachine/ngx-betalabs
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/observable-playground/observable-playground
@@ -2250,6 +2252,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/brandonroberts/blog
 - https://github.com/stewones/scully-demo
+- https://github.com/Jefiozie/scully-notion
 - https://github.com/yangjunhan/scully-example
 - https://github.com/MSakamaki/scully-homepage
 - https://github.com/samvloeberghs/scully-universal
@@ -2295,6 +2298,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/Angular-RU/universal-starter
 - https://github.com/waynegakuo/angular-dashboard
 - https://github.com/LayZeeDK/ngx-stryker-robobar
+- https://github.com/ikismail/Angular-ShoppingCart
 - https://github.com/twerske/material-theme-builder
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/HybridShivam/pokedex-angular-app

@@ -27,7 +27,10 @@
 - https://github.com/nicolargo/glances
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
+- https://github.com/ClementTsang/bottom
 - https://github.com/earthly/earthly
+- https://github.com/SigNoz/signoz
+- https://github.com/six-ddc/plow
 
 ## VIM
 

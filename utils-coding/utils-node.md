@@ -6,6 +6,7 @@
 - https://github.com/i0natan/nodebestpractices
 - https://github.com/microsoft/nodejs-guidelines
 - https://github.com/goldbergyoni/nodebestpractices
+- https://github.com/lirantal/nodejs-cli-apps-best-practices
 - https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
 - https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6
 - https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
@@ -18,6 +19,7 @@
 - https://github.com/tj/n
 
 ## LIST
+- https://github.com/lirantal/awesome-nodejs-security
 - https://github.com/parro-it/awesome-micro-npm-packages
 - https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
 - https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020

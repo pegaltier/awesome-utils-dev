@@ -228,6 +228,7 @@
 - https://github.com/bvaughn/js-search
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
+- https://github.com/Unleash/unleash
 
 ## LIB: POLYFILL
 - https://github.com/jsxtools/cqfill
