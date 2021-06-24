@@ -30,6 +30,7 @@
 - https://github.com/dmitryvinn/awesome-dev-advocacy
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 ## AWESOME LIST WWW
 

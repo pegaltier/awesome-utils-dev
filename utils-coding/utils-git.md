@@ -35,6 +35,7 @@
 - https://github.com/fffaraz/awesome-github
 - https://blog.octo.com/git-dans-la-pratique-22
 - https://github.com/mundimark/awesome-markdown
+- https://github.com/GoldinGuy/UltimateGitResource
 - https://guides.github.com/features/mastering-markdown
 - https://github.com/firstcontributions/first-contributions
 - https://juristr.com/blog/2019/04/productive-git-for-developers
