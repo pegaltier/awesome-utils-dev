@@ -1482,7 +1482,6 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: SSR
 - https://github.com/IKatsuba/ngx-ssr
 - https://github.com/enten/udk
-- https://github.com/trellisorg/platform
 - https://github.com/angular/preboot
 - https://github.com/salemdar/ngx-cookie
 - https://github.com/ngx-utils/cookies
@@ -1665,6 +1664,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/myndpm/open-source
 - https://github.com/embarq/safe-pipe
 - https://github.com/glebmachine/ngx-betalabs
+- https://github.com/trellisorg/platform
+
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/observable-playground/observable-playground
@@ -2474,6 +2475,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules
 - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+- https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 - https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra
 - https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher

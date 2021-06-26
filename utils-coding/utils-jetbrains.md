@@ -7,6 +7,8 @@ https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_Referenc
 
 push and commit  : CTRL + K + ALT + P / ENTER /  ALT P
 
+## PLUGINS
+- https://jetbrains.developpez.com/tutoriel/top-dix-plugins-intellij-idea/
 
 ## FILE AND CODE TEMPLATE (Apache Velocity)
 https://www.jetbrains.com/help/idea/settings-file-and-code-templates.html
