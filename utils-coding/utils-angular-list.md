@@ -1576,6 +1576,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: LAZY
 
 - https://github.com/ded/script.js
+- https://github.com/IndigoSoft/ngxd
 - https://github.com/mgechev/ngx-quicklink
 - https://github.com/mgechev/ngx-hover-preload
 - https://github.com/angular-extensions/elements

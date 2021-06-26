@@ -36,6 +36,7 @@ low-code tooling to prototype fastly.
 - https://github.com/retejs/rete
 - https://github.com/google/blockly
 - https://github.com/xlayers/xlayers
+- https://github.com/BuilderIO/qwik
 - https://github.com/BuilderIO/builder
 - https://github.com/directus/directus
 - https://github.com/SoftwareBrothers/admin-bro

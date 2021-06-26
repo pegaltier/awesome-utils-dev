@@ -68,10 +68,11 @@
 
 ## DOCKER
 - https://github.com/qdm12/devtainr
+- https://github.com/jesseduffield/lazydocker
 - https://github.com/tomMoulard/make-my-server
 - https://github.com/veggiemonk/awesome-docker
-- https://github.com/jesseduffield/lazydocker
 - https://github.com/buildkite/docker-puppeteer
+- https://github.com/ufoscout/docker-compose-wait
 - https://github.com/geerlingguy/ansible-role-docker    
 - https://github.com/JeremyLikness/usda-microservice
 - https://github.com/felixfbecker/semantic-release-docker

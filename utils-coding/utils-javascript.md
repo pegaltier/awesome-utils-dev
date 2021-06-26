@@ -224,6 +224,7 @@
 - https://github.com/dcodeIO/bcrypt.js
 - https://github.com/jhchen/fast-diff
 - https://github.com/esfx/esfx
+- https://github.com/yahoo/serialize-javascript
 - https://github.com/naman03malhotra/match-rules
 - https://github.com/bvaughn/js-search
 - https://github.com/ansman/validate.js
