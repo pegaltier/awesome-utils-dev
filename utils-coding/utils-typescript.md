@@ -110,6 +110,7 @@
 
 ## LIB: DATA OBJECT
 - https://github.com/gcanti/io-ts
+- https://github.com/nartc/mapper
 - https://github.com/pfgray/ts-adt
 - https://github.com/mu-io/ts-japi
 - https://github.com/colinhacks/zod

@@ -3,6 +3,7 @@
 ## LIBS
 
 - https://github.com/nestjs/cqrs
+- https://github.com/nartc/mapper
 - https://github.com/nestjsx/crud
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger

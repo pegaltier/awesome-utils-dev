@@ -79,6 +79,7 @@
 - https://github.com/actions/toolkit
 - https://github.com/sdras/awesome-actions
 - https://github.com/ad-m/github-push-action
+- https://github.com/benc-uk/workflow-dispatch
 - https://github.com/actions/typescript-action
 - https://github.com/styfle/cancel-workflow-action
 
