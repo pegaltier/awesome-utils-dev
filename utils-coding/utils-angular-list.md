@@ -2461,12 +2461,15 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+- https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.snippets-view
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.run-commands-view
 - https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
+- https://marketplace.visualstudio.com/items?itemName=usernamehw.run-commands-view
 - https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
 - https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet
+- https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+- https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.snippets-viewer
 
 ## ECOSYSTEM: VSCODE OTHERS
 
@@ -2476,8 +2479,6 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules
 - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
-- https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
-- https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 - https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra
 - https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
