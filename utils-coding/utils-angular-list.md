@@ -2477,6 +2477,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules
 - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+- https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 - https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra
 - https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher
