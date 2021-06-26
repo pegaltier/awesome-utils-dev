@@ -167,6 +167,7 @@
 - https://github.com/react-native-modal/react-native-modal
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/Flair-Dev/react-native-awesome-gallery
+- https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
 - https://github.com/thebylito/react-native-navigation-bar-color
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
