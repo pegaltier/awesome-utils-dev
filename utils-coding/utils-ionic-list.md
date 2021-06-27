@@ -50,6 +50,7 @@
 - https://github.com/robingenz/capacitor-background-task
 - https://github.com/capacitor-community/firebase-crashlytics
 - https://github.com/nativescript-community/capacitor-plugins
+- https://github.com/capacitor-community/background-geolocation
 
 ## PWA
 - https://github.com/ionic-team/pwa-elements
