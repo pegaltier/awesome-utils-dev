@@ -1570,6 +1570,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/compodoc/compodoc
 - https://github.com/ngneat/inspector
 - https://github.com/swimlane/DocSPA
+- https://github.com/docgeni/docgeni
 - https://github.com/mgechev/ngrev
 - https://github.com/compodoc/ngd
 - https://github.com/ng-ast/ngast
