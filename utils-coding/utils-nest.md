@@ -9,6 +9,7 @@
 - https://github.com/nestjs/swagger
 - https://github.com/nestjs/throttler
 - https://github.com/nestjs/ng-universal
+- https://github.com/Papooch/decorate-all
 - https://github.com/nextauthjs/next-auth
 - https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter

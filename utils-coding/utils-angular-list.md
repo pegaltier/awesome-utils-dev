@@ -722,6 +722,7 @@ Learn the schematics tool to automatize and be more efficient.
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/niklas-wortmann/ngx-pact
 - https://github.com/herodevs/material-studies
+- https://github.com/ng-builders/ng-builders
 - https://github.com/TinkoffCreditSystems/ng-morph
 - https://github.com/bennymeg/nx-electron
 - https://github.com/Teebo/scss-migrate
@@ -990,6 +991,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/markostanimirovic/ngrx-handlers
 - https://github.com/meeroslav/ng-helpers
 - https://github.com/nartc/ngrx-slice
+- https://github.com/rx-mind/ngrx-plugins
 - https://github.com/SaulMoro/ngrx-rtk-query
 - https://github.com/rtk-incubator/rtk-query
 - https://github.com/MrWolfZ/ngrx-forms
@@ -1610,6 +1612,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/timdeschryver/rx-query
 - https://github.com/ytilis/ngx-batch-requests
 - https://github.com/angelnikolov/ngx-cacheable
+- https://github.com/angelnikolov/ts-cacheable
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/kamilkisiela/apollo-angular
 - https://github.com/flowup/api-client-generator
@@ -1618,6 +1621,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: ROUTING
 
+- https://github.com/ngspot/route-path-builder
 - https://github.com/angular-component/router
 - https://github.com/Dankwansere/aop-routing
 - https://github.com/retarsis/routerkit
@@ -2036,6 +2040,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngneat/loadoff
 - https://github.com/Zak-C/ngx-loading
 - https://github.com/t-ho/ngx-ui-loader
+- https://github.com/kuuurt13/ng-block-ui
 - https://github.com/biig-io/ngx-smart-loader
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/akserg/ng2-slim-loading-bar
