@@ -149,6 +149,7 @@
 ## NATIVE
 
 - https://github.com/facebook/react-native
+- https://github.com/rescript-react-native
 - https://github.com/react-native-menu/menu
 - https://github.com/gorhom/react-native-portal
 - https://github.com/facebook/react-native-fbsdk
