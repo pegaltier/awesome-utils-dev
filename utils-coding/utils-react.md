@@ -171,5 +171,6 @@
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
 - https://github.com/thebylito/react-native-navigation-bar-color
+- https://github.com/MoOx/react-native-transparent-status-and-navigation-bar
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 - https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html
