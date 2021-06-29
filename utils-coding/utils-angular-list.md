@@ -1625,10 +1625,11 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngspot/route-path-builder
 - https://github.com/angular-component/router
 - https://github.com/Dankwansere/aop-routing
+- https://github.com/phhien203/ngx-router
 - https://github.com/retarsis/routerkit
 - https://github.com/retarsis/routeshub
-- https://github.com/benwinding/ngext
 - https://github.com/ui-router/angular
+- https://github.com/benwinding/ngext
 
 ## ECOSYSTEM: LIB: UTIL
 
