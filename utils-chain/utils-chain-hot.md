@@ -227,6 +227,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/agent-registration
 - https://github.com/holochain-open-dev/social-triangulation
 - https://github.com/holochain-open-dev/cloned-dnas-tracker
+- https://github.com/holochain-open-dev/geolocation
 - https://github.com/holochain-open-dev/messages-zome
 - https://github.com/sacredcapital/Reputation-likes
 
