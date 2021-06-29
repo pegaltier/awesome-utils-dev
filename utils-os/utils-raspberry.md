@@ -37,6 +37,7 @@ crontab -l ==> show
 ## Various
 - https://github.com/blackout314/awesome-raspberry-pi
 - https://github.com/thibmaek/awesome-raspberry-pi
+- https://github.com/geerlingguy/internet-pi
 - https://github.com/dymayday/raspberry-pi
 - https://github.com/sergkhl/rpi-utils
 

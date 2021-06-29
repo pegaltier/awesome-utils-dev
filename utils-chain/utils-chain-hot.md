@@ -202,8 +202,11 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/nphias/nPersonas
 - https://github.com/Sprillow/cmdchatter
 - https://github.com/kristoferlund/hc-graphql-todo
+- https://github.com/eyss/holochain-turn-based-game
 - https://github.com/juntofoundation/Acai-API
 - https://github.com/lucksus/perspectivism
+- https://github.com/eyss/elemental-chess
+
 - https://ad4m.dev/
 
 ### HOLOCHAIN-RSM TOOLS
