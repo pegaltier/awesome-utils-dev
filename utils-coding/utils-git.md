@@ -411,11 +411,11 @@ Host *github.com
   PreferredAuthentications publickey
   IdentityFile ~/.ssh/id_ed25519_github
 
-Host *leshop.ch
-  Hostname leshop.ch
+Host *company.com
+  Hostname company.com
   AddKeysToAgent yes
   UseKeychain yes
   IdentitiesOnly yes
   PreferredAuthentications publickey
-  IdentityFile ~/.ssh/id_rsa_leshop
-  ```
+  IdentityFile ~/.ssh/id_rsa_company
+```

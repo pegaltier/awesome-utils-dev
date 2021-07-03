@@ -823,6 +823,7 @@ Learn about the angular router, lazy load your modules.
 - https://www.youtube.com/watch?v=GaJ71V28woY Angular Vienna, Web Application Security for Frontend Devs, July 2019
 - https://www.youtube.com/watch?v=WN-XczmI-LY Martin Probst (@martin_probst) , Raphaël Jamet: Security in Angular
 - https://www.youtube.com/watch?v=l89acmnGMSc Philippe De Ryck - Boosting the security of your Angular
+- https://github.com/gbumanzordev/angular-security
 - https://snyk.io/blog/angular-security-best-practices/
 - http://www.gistia.com/talk-backend-services-angular-2s-http-client
 - https://pragmaticwebsecurity.com/articles/spasecurity/angular-xss.html
@@ -1270,6 +1271,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/twittwer/nx-tools
 - https://github.com/nx-go/nx-go
+- https://github.com/nrwl/nx-orb
 - https://github.com/ctx-core/ctx-core
 - https://github.com/codeonrocks/nx-python
 - https://github.com/kachkaev/njt
@@ -1390,6 +1392,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/juliemr/ng2-test-seed
 - https://github.com/kolorobot/angular2-typescript-gulp
 - https://github.com/mitsuruog/angular2-minimum-starter
+- https://github.com/juanmesa2097/angular-boilerplate
 - https://github.com/jgodi/angular2-fullstack-starter
 - https://github.com/preboot/angular2-webpack
 - https://github.com/pkozlowski-opensource/ng2-play
@@ -1445,7 +1448,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://www.netlify.com/blog/2020/02/24/update-on-scully-angulars-static-site-generator/
 
 ## ECOSYSTEM: LIB: LIST
-
+- https://github.com/ngxtools/ngx.tools
 - https://github.com/PatrickJS/awesome-angular
 - https://github.com/brillout/awesome-angular-components
 - https://github.com/anubhavsrivastava/awesome-ui-component-library#angular
@@ -1615,6 +1618,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/angelnikolov/ts-cacheable
 - https://github.com/alexzuza/angular-refresh-token
+- https://github.com/juanmesa2097/ngx-generic-rest-service
 - https://github.com/kamilkisiela/apollo-angular
 - https://github.com/flowup/api-client-generator
 - https://github.com/vugar005/ngx-awesome-uploader
@@ -1650,10 +1654,11 @@ Learn the best way to make your objects immutable.
 - https://github.com/rarmatei/ngx-reexportr
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
-- https://github.com/ManuCutillas/ngx-responsive
+- *https://github.com/ManuCutillas/ngx-responsive*
 - https://github.com/cristiammercado/ng-event-bus
 - https://github.com/ng-web-apis/workers
 - https://github.com/joanllenas/ngx-date-fns
+- https://github.com/urish/ngx-moment
 - https://github.com/PatrickJS/angular-hmr
 - https://github.com/cloudnc/observable-webworker
 - https://github.com/ng-web-apis/speech
@@ -1744,6 +1749,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/appium/appium
 - https://github.com/rrweb-io/rrweb
 - https://github.com/Netflix/pollyjs
+- https://github.com/TradeMe/tractor
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
 - https://github.com/jscutlery/test-utils
@@ -1859,6 +1865,8 @@ Analyze and optimize the performance of your app
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
 - https://github.com/mikyaj/ngx-rough-notation
+- https://github.com/uiuniversal/ngu-carousel
+- https://github.com/matteobruni/tsparticles
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
@@ -2242,6 +2250,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/vthinkxie/ng-pull-refresh
+- https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/lacolaco/angular-testing-recipes
 - https://github.com/pankajparkar/lazy-loading-recipes
 - https://github.com/ultrasonicsoft/ng-application-builder
@@ -2329,6 +2338,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
 - https://github.com/frederiksen/angular-electron-boilerplate
 - https://github.com/nativescript-community/expo-nativescript
+- https://github.com/tomastrajan/angular-architecture-example
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 

@@ -7,6 +7,7 @@
 - https://github.com/nestjsx/crud
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
+- https://github.com/jmcdo29/nest-lab
 - https://github.com/nestjs/throttler
 - https://github.com/nestjs/ng-universal
 - https://github.com/Papooch/decorate-all
@@ -18,6 +19,7 @@
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/BeerMoneyDev/nest-monk
 - https://github.com/panva/node-oidc-provider
+- https://github.com/pragmaticivan/nestjs-otel
 - https://github.com/ToonvanStrijp/nestjs-i18n
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/underfisk/nestjs-asyncapi
@@ -45,6 +47,7 @@
 - https://github.com/squareboat/nest-notifications
 - https://github.com/squareboat/nestjs-boilerplate
 - https://github.com/javascript-dragons/nest-event
+- https://github.com/juanmesa2097/nestjs-boilerplate
 - https://github.com/brolag/fullstack-angular-nest-nx
 - https://github.com/johannesschobel/nest-prisma-crud
 - https://github.com/kyhsa93/nestjs-rest-cqrs-example

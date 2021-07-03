@@ -27,6 +27,7 @@
 - https://tinypng.com
 - https://www.remove.bg
 - https://goanimate.com
+- https://david.li/paint
 - https://www.photopea.com
 - https://studio.polotno.dev
 - https://imagecompressor.com

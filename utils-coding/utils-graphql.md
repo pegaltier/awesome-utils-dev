@@ -8,6 +8,7 @@
 - https://www.graphql-tools.com
 - https://www.graphqleditor.com
 - https://graphql-inspector.com
+- https://www.graphql-portal.com
 - https://graphql-code-generator.com
 - https://www.graphile.org/postgraphile
 - https://dev.to/graphqleditor/graphql-tools-libraries-3bbc
@@ -51,6 +52,7 @@
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/prisma-labs/graphql-request
 - https://github.com/zalando-incubator/graphql-jit
+- https://github.com/GraphQL-Portal/graphql-portal
 - https://github.com/ef-eng/graphql-query-rewriter
 - https://github.com/kamilkisiela/graphql-inspector
 - https://github.com/rahmanfadhil/learn-typegraphql

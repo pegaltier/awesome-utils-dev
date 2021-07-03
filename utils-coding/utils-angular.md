@@ -689,7 +689,7 @@ test end to end (voir ninja angular page 157)
 - App module: it's the root module used to bootstrap the application. There should not be a lot of content because we must encapsulate features into domain-specific modules.
 - Core module: app-level components like header, footer, breadcrumb, navigation and singleton services. This module should be imported once in app module and the module should not export anything because only the core use those components.
 - Shared module: shared components, directives, guards, & pipes used throughout the application must be inside this module and exported to be able to be used by others modules which are importing it. It's common to import and export Angular built modules, Common Module or Material module inside your Shared Module if you really need to access them in multiple locations like in many Feature modules.
-- Feature module: Breaking things up into domain-specific lazy loaded modules will help run in the long term. Those modules must be isolated and export nothing except the module itself for the lazyloading
+- Feature module: Breaking things up into domain-specific lazy loaded modules will help run in the long term. Those modules must be isolated and export nothing except the module itself for doing the lazyloading.
 
 ### Benefits of lazy modules
 
@@ -713,15 +713,15 @@ test end to end (voir ninja angular page 157)
 
 #### Declarations
 
-The declarations array only takes declarables. Declarables are components, directives and pipes. Declarables must belong to exactly one module. The compiler emits an error. Pipes is a special case. must also be added to the providers array if you use transform function in a component template or if you want to use inject it via a constructor. You can also instead provide your pipe locally to the component or else use the providedIn 'root' if you want to share it globally.
+The declarations array only takes declarables. Declarables are components, directives and pipes. Declarables must belong to exactly one module else the compiler emits an error. Declarables are private by default so they can be used only in the template of any component that is part of this same NgModule, if you want to use it outside you must uses the export array. Pipes is a special case. must also be added to the providers array if you use transform function in a component template or if you want to use inject it via a constructor. You can also instead provide your pipe locally to the component or else use the providedIn 'root' if you want to share it globally.
 
 #### Imports
 
-A template can use exported declarables from any imported module, including those from modules that are imported indirectly and re-exported. For example, ModuleA imports ModuleB, and also exports it, which makes the declarables from ModuleB available wherever ModuleA is imported.
+Other modules whose exported classes are needed by component templates declared in this NgModule. Basically this is useful in order to use declarables that are exported in others modules. For instance if ModuleA imports ModuleB then ModuleA will be allowed to use any declarable exported by ModuleB.
 
 #### Exports 
 
-...
+ The subset of declarations that should be visible and usable in the component templates of other NgModules. It means that a template external to this module can use exported declarables from any imported module. For instance if you want to use in your app template a modal component declared in a modal module then this modal component should be declared and exported in your modal module first and of course modal module should be imported in your app module. Also another more complex case is the indirect principles made possible by exporting a whole module instead of a single declarable. Indeed if ModuleA imports ModuleB, and also exports it, this makes the declarables from ModuleB available wherever ModuleA is imported.
 
 #### 
 

@@ -39,3 +39,7 @@ Publish to Google Play for beta testing or public distribution.
 
 - https://github.com/FinanzRitter/nativescript-share-file
 - https://github.com/bgrand-ch/nativescript-getters
+
+## EXAMPLE
+- https://github.com/mahmoudajawad/nx-ns-shared
+- https://github.com/nawah-io/sdks

@@ -19,6 +19,7 @@
 - https://github.com/chentsulin/awesome-react-renderer
 - https://github.com/iamshaunjp/Complete-React-Tutorial
 - https://github.com/airbnb/javascript/tree/master/react
+- https://www.taniarascia.com/react-architecture-directory-structure/
 - https://khalilstemmler.com/articles/client-side-architecture/introduction/
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
@@ -144,6 +145,7 @@
 - https://github.com/maticzav/nookies
 
 ## DEMO: EXAMPLE
+- https://github.com/Th3Wall/Fakeflix
 - https://github.com/Ninjas-Code-official/shopping-cart
 - https://github.com/Unity-Technologies/frontend-developer-test
 

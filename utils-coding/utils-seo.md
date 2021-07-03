@@ -38,6 +38,10 @@ WHEN: at the beginning of each new campaign or each trimester. You can also do r
 - https://www.thomascubel.com/audit-seo-gratuit/
 - https://github.com/ovh/summit2016-RankingPredict
 
+## SEO PERF
+- https://webpagetest.org/
+- https://www.bytecheck.com/
+
 ## SEO LIST
 - https://curatedseotools.com/
 - https://www.youtube.com/watch?v=lyiikzjg9a0

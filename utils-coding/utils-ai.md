@@ -9,12 +9,14 @@
 
 ## AWESOME
 
+- https://github.com/microsoft/ML-For-Beginners
 - https://github.com/heartexlabs/awesome-data-labeling
 - https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 - https://github.com/EthicalML/awesome-production-machine-learning
 
 ## TOOLS
 - https://play.botscript.ai/
+- https://copilot.github.com/
 - http://playground.tensorflow.org/
 
 ## IMAGES API

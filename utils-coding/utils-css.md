@@ -71,6 +71,7 @@
 ## TAILWIND
 
 - https://tailblend.vercel.app/
+- https://github.com/mertJF/tailblocks
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/aniftyco/awesome-tailwindcss
 - https://github.com/windicss/windicss-intellisense
