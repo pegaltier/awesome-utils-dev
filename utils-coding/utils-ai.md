@@ -35,6 +35,7 @@
 - https://github.com/ml5js/ml5-library
 - https://github.com/the-new-sky/Wisty.js
 - https://github.com/deepset-ai/FARM
+- https://github.com/obsei/obsei
 
 ## GPT3
 
