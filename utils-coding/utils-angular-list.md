@@ -2005,6 +2005,7 @@ Analyze and optimize the performance of your app
 - https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 - https://github.com/ribizli/ng2-imageupload
 - https://github.com/jkuri/ng2-uploader
+- https://github.com/flowjs/ngx-flow
 
 ## ECOSYSTEM: LIB: DATA VIZ
 
