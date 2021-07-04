@@ -2250,6 +2250,10 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://ng-alain.com
 - https://abp.io/
 
+## ECOSYSTEM: DEMO: TRAINING
+- https://github.com/alcfeoh/ng2-training
+- https://github.com/alcfeoh/ng-advanced-workshop
+
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/vthinkxie/ng-pull-refresh
