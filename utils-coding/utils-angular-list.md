@@ -1638,23 +1638,18 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: UTIL
 
 - https://github.com/danrevah/ngx-pipes
-- https://github.com/meeroslav/ng-helpers
 - https://github.com/ng-web-apis/permissions
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/brtnshrdr/angular2-hotkeys
-- https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/typebytes/ngx-template-streams
 - https://github.com/zhaosiyang/property-watch-decorator
 - https://github.com/BioPhoton/angular-formatter-parser
 - https://github.com/ndr/ngx-route-params-input
 - https://github.com/stupidawesome/ng-effects
-- https://github.com/ngrx-utils/ngrx-utils
-- https://github.com/rx-angular/rx-angular
 - https://github.com/rarmatei/ngx-reexportr
-- https://github.com/wishtack/wishtack-steroids
 - https://github.com/TinkoffCreditSystems/ng-polymorpheus
-- *https://github.com/ManuCutillas/ngx-responsive*
+- https://github.com/ManuCutillas/ngx-responsive
 - https://github.com/cristiammercado/ng-event-bus
 - https://github.com/ng-web-apis/workers
 - https://github.com/joanllenas/ngx-date-fns
@@ -1670,14 +1665,20 @@ Learn the best way to make your objects immutable.
 - https://github.com/obenjiro/create-angular-components
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/pjlamb12/runtime-config-loader
-- https://github.com/KostyaTretyak/ng-stack
 - https://github.com/KoderLabs/ngx-device-detector
-- https://github.com/herodevs/herodevs-packages
-- https://github.com/myndpm/open-source
 - https://github.com/embarq/safe-pipe
-- https://github.com/glebmachine/ngx-betalabs
-- https://github.com/trellisorg/platform
 
+## ECOSYSTEM: LIB: MIXED
+- https://github.com/myndpm/open-source
+- https://github.com/trellisorg/platform
+- https://github.com/meeroslav/ng-helpers
+- https://github.com/rx-angular/rx-angular
+- https://github.com/ngrx-utils/ngrx-utils
+- https://github.com/KostyaTretyak/ng-stack
+- https://github.com/glebmachine/ngx-betalabs
+- https://github.com/herodevs/herodevs-packages
+- https://github.com/wishtack/wishtack-steroids
+- https://github.com/ThomasBurleson/mindspace-utils
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/observable-playground/observable-playground
@@ -2067,6 +2068,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngx-meta/rules
 - https://github.com/formql/formql
 - https://github.com/ngspot/ngx-errors
+- https://github.com/myndpm/open-source
 - https://github.com/DmitryEfimenko/ngx-messages
 - https://github.com/cloudnc/ngx-sub-form
 - https://github.com/ngneat/reactive-forms

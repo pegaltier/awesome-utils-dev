@@ -9,6 +9,7 @@
 <h2>AGILE</h2>
 - https://guide-agile.wishtack.io/
 - https://github.com/wishtack/gitbook-guide-agile
+- https://github.com/kdeldycke/awesome-engineering-team-management
 
 <h2>MANAGEMENT RULES</h2>
 <ol>
