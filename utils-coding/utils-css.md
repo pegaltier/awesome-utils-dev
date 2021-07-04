@@ -74,6 +74,7 @@
 - https://github.com/mertJF/tailblocks
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/aniftyco/awesome-tailwindcss
+- https://github.com/tailwindlabs/tailwindcss-forms
 - https://github.com/windicss/windicss-intellisense
 
 ## BAD
