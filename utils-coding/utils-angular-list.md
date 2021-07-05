@@ -1289,6 +1289,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/nxext/nx-extensions
 - https://github.com/nrwl/nx-workshop
+- https://github.com/nrwl/last-successful-commit-action
 - https://github.com/gagle/nx-check-changes
 - https://github.com/sevenwestmedia-labs/nx-plugins
 - https://github.com/manfredsteyer/angular-ddd
@@ -1724,6 +1725,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ksachdeva/angular2-swiper
 - https://github.com/easy-two/ngx-child-injector
 - https://github.com/akserg/ng2-dnd
+- https://github.com/mgechev/ngx-tfjs
 
 ## ECOSYSTEM: LIB: ELEMENTS
 

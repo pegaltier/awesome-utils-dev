@@ -97,6 +97,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/selective-php/basepath
 - https://github.com/selective-php/session
 - https://github.com/selective-php/validation
+- https://github.com/slimphp/Slim-Flash
 - https://github.com/slimphp/Slim-Csrf
 - https://github.com/slimphp/Slim-Http
 - https://github.com/slimphp/Twig-View

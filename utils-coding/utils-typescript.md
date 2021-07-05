@@ -134,6 +134,7 @@
 - https://github.com/typestack/class-transformer
 - https://github.com/YousefED/typescript-json-schema
 - https://github.com/gbumanzordev/payload-transformer
+- https://github.com/moltar/typescript-runtime-type-benchmarks
 
 ## LIB: DATABASE
 
