@@ -65,6 +65,7 @@
 - https://github.com/supertokens/supertokens-core
 - https://github.com/williamfiset/Algorithms
 - https://github.com/eclipse/deeplearning4j
+- https://github.com/JanusGraph/janusgraph
 - https://github.com/keycloak/keycloak
 - https://github.com/tinesoft/nxrocks
 - https://java.libhunt.com/categories

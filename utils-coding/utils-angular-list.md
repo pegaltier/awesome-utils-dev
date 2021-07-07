@@ -1669,6 +1669,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/pjlamb12/runtime-config-loader
 - https://github.com/KoderLabs/ngx-device-detector
 - https://github.com/embarq/safe-pipe
+- https://github.com/adisreyaj/ng-directives
 
 ## ECOSYSTEM: LIB: MIXED
 - https://github.com/myndpm/open-source

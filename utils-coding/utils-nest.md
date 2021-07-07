@@ -4,11 +4,14 @@
 
 - https://github.com/nestjs/cqrs
 - https://github.com/nartc/mapper
+- https://github.com/nestjs/axios
 - https://github.com/nestjsx/crud
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
 - https://github.com/jmcdo29/nest-lab
 - https://github.com/nestjs/throttler
+- https://github.com/nestjsx/nest-router
+- https://github.com/nestjsx/nestjs-amqp
 - https://github.com/nestjs/ng-universal
 - https://github.com/Papooch/decorate-all
 - https://github.com/nextauthjs/next-auth
@@ -18,12 +21,14 @@
 - https://github.com/squareboat/nest-queue
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/BeerMoneyDev/nest-monk
+- https://github.com/nestjsx/nestjs-braintree
 - https://github.com/panva/node-oidc-provider
 - https://github.com/pragmaticivan/nestjs-otel
 - https://github.com/ToonvanStrijp/nestjs-i18n
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/underfisk/nestjs-asyncapi
 - https://github.com/hardyscc/nestjs-cqrs-starter
+- https://github.com/nestjsx/nestjs-typeorm-paginate
 - https://github.com/MetinSeylan/Nestjs-OpenTelemetry
 - https://github.com/silicon-hills/nestjs-crud-prisma
 - https://github.com/jmcdo29/nest-docker-template
