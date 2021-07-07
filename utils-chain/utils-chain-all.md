@@ -31,6 +31,7 @@
 - https://github.com/asgardex/asgard-exchange
 - https://github.com/BlockchainCommons/bc-ur-java
 - https://github.com/steve-vincent/awesome-decentralized
+- https://github.com/paul-schaaf/awesome-solana
 - https://github.com/project-serum/awesome-serum
 - https://github.com/dfinity/awesome-dfinity
 
@@ -69,6 +70,7 @@
 - https://cryptofinance.jbuty.com/
 - https://github.com/andresilvasantos/bitprophet
 - https://github.com/f13end/Crypto-Investor-Tools
+- https://github.com/CyberPunkMetalHead/reddit-cryptocurrency-trading
 - https://github.com/f13end/tradingview-custom-indicators
 - https://github.com/jaggedsoft/node-binance-api
 - https://github.com/chrisleekr/binance-trading-bot

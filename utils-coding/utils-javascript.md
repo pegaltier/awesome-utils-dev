@@ -259,6 +259,7 @@
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
 - https://github.com/joe223/tiny-swiper
+- https://github.com/reach/observe-rect
 - https://github.com/Splidejs/splide
 - https://github.com/shikijs/shiki
 

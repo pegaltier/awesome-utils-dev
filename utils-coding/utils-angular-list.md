@@ -1588,6 +1588,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/ngx-hover-preload
 - https://github.com/angular-extensions/elements
 - https://github.com/mohammedzamakhan/ngx-loadable
+- https://github.com/trellisorg/platform/tree/master/packages/rx-dynamic-component
 - https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
 
@@ -1896,6 +1897,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ng-select/ng-select
 - https://github.com/dappsnation/ng-rive
 - https://github.com/akserg/ng2-toasty
+- https://github.com/ngneat/input-mask
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngneat/hot-toast
 - https://github.com/daybrush/moveable
@@ -2188,6 +2190,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/kirbydesign/designsystem
 - https://github.com/positive-js/mosaic
 - https://github.com/src-zone/material
+- https://github.com/tiaguinho/material-community-components
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
