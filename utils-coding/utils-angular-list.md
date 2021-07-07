@@ -1369,6 +1369,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 ## ECOSYSTEM: INCREMENTAL
 
 - https://github.com/nrwl/nx-incremental-large-repo
+- https://github.com/leosvelperez/inc-build-ng-libraries-lazy-load
 - https://nx.dev/previous/angular/structure/buildable-and-publishable-libraries
 - https://tech.trellis.org/Coverting-Legacy-Codebase-to-Nx-Incremental-Builds/
 
@@ -1639,7 +1640,6 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: UTIL
 
-- https://github.com/danrevah/ngx-pipes
 - https://github.com/ng-web-apis/permissions
 - https://github.com/willmendesneto/ngx-feature-toggle
 - https://github.com/omridevk/ng-keyboard-shortcuts
@@ -1654,8 +1654,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/ManuCutillas/ngx-responsive
 - https://github.com/cristiammercado/ng-event-bus
 - https://github.com/ng-web-apis/workers
-- https://github.com/joanllenas/ngx-date-fns
-- https://github.com/urish/ngx-moment
 - https://github.com/PatrickJS/angular-hmr
 - https://github.com/cloudnc/observable-webworker
 - https://github.com/ng-web-apis/speech
@@ -1668,8 +1666,15 @@ Learn the best way to make your objects immutable.
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/pjlamb12/runtime-config-loader
 - https://github.com/KoderLabs/ngx-device-detector
+
+## ECOSYSTEM: LIB: PIPES&DIRECTIVES
+- https://github.com/urish/ngx-moment
 - https://github.com/embarq/safe-pipe
+- https://github.com/ngneat/helipopper
+- https://github.com/danrevah/ngx-pipes
 - https://github.com/adisreyaj/ng-directives
+- https://github.com/joanllenas/ngx-date-fns
+- https://github.com/drozhzhin-n-e/ng2-tooltip-directive
 
 ## ECOSYSTEM: LIB: MIXED
 - https://github.com/myndpm/open-source
@@ -1855,7 +1860,6 @@ Analyze and optimize the performance of your app
 
 - https://github.com/fetrarij/ngx-daterangepicker-material
 - https://github.com/maxisam/ngx-progressive-image-loader
-- https://github.com/drozhzhin-n-e/ng2-tooltip-directive
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
@@ -1933,7 +1937,6 @@ Analyze and optimize the performance of your app
 - https://github.com/reppners/ngx-drag-drop
 - https://github.com/surveyjs/survey-library
 - https://github.com/leifermendez/ngx-copilot
-- https://github.com/ngneat/helipopper
 - https://github.com/coryrylan/ngx-lite
 - https://github.com/jdjuan/ng-notyf
 - https://github.com/beeman/ngx-split
