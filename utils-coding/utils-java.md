@@ -72,6 +72,7 @@
 - https://github.com/alibaba/arthas
 - https://github.com/apache/thrift
 - https://github.com/apache/druid
+- https://github.com/crate/crate
 
 ## LIBS: TOOLS
 - https://github.com/facebook/infer

@@ -1276,6 +1276,8 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/codeonrocks/nx-python
 - https://github.com/kachkaev/njt
 - https://github.com/NativeScript/nx
+- https://github.com/nxrs/cargo
+- https://github.com/Bielik20/nx-plugins
 - https://github.com/Dev-Thought/nx-plugins
 - https://github.com/flowaccount/nx-plugins
 - https://github.com/bennymeg/nx-electron

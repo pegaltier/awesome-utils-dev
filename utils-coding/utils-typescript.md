@@ -50,6 +50,7 @@
 - https://github.com/Microsoft/tsdoc
 - https://github.com/microsoft/rushstack
 - https://github.com/ranyitz/code-migrate
+- https://github.com/phenomnomnominal/betterer
 
 ## UTILS
 
@@ -93,12 +94,6 @@
 - https://github.com/adelsz/pgtyped
 - https://github.com/codemix/ts-sql
 - https://github.com/thi-ng/umbrella
-- https://github.com/ronami/meta-typing
-- https://github.com/eonarheim/TypeState
-- https://github.com/graphology/graphology
-- https://github.com/jpbulman/Advanced-Sets
-- https://github.com/phenomnomnominal/betterer
-- https://github.com/DefinitelyTyped/DefinitelyTyped
 
 ## LIB: COMPONENTS
 
@@ -119,11 +114,15 @@
 - https://github.com/gcanti/monocle-ts
 - https://github.com/maleet/marshal.ts
 - https://github.com/millsp/ts-toolbelt
+- https://github.com/ronami/meta-typing
+- https://github.com/eonarheim/TypeState
 - https://github.com/willryan/factory.ts
 - https://github.com/sledorze/morphic-ts
 - https://github.com/gvergnaud/ts-pattern
+- https://github.com/graphology/graphology
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
+- https://github.com/jpbulman/Advanced-Sets
 - https://github.com/wix-incubator/as-typed
 - https://github.com/krzkaczor/ts-essentials
 - https://github.com/Rich-Harris/object-cull
@@ -132,6 +131,7 @@
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/typestack/class-validator
 - https://github.com/typestack/class-transformer
+- https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/YousefED/typescript-json-schema
 - https://github.com/gbumanzordev/payload-transformer
 - https://github.com/moltar/typescript-runtime-type-benchmarks
