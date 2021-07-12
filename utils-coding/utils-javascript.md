@@ -254,6 +254,7 @@
 ## LIB: ID
 - https://github.com/ai/nanoid
 - https://github.com/ulid/javascript
+- https://github.com/jedisct1/js-base64-ct
 - https://github.com/crypto-browserify/sha.js
 
 ## LIB: UI

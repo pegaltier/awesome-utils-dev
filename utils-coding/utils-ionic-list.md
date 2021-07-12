@@ -39,6 +39,7 @@
 - https://github.com/hsuanxyz/ion2-calendar
 - https://github.com/ryanehrler/ngx-mask-ionic
 - https://github.com/eakoriakin/ionic-selectable
+- https://github.com/fivethree-team/ngxs-ionic-router-plugin
 
 ## LIBS: CAPACITOR
 

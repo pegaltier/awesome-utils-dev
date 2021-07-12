@@ -155,6 +155,7 @@
 Avoid common mistakes, bugs, find tips and checklist for good development...
 
 - https://angular-checklist.io/
+- https://angular.io/guide/cheatsheet
 - https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
 - https://indepth.dev/angular-bad-practices-revisited/
@@ -1134,6 +1135,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/lacolaco/reactive-store
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/iliasbhal/xstate-builder
+- https://github.com/mattpocock/xstate-catalogue
 - https://github.com/markostanimirovic/juliette
 - https://github.com/AmadeusITGroup/ngx-tansu
 - https://github.com/state-adapt/state-adapt
@@ -1271,6 +1273,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/twittwer/nx-tools
+- https://github.com/atlassian/changesets
 - https://github.com/nx-go/nx-go
 - https://github.com/nrwl/nx-orb
 - https://github.com/ctx-core/ctx-core
@@ -1291,7 +1294,6 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/tinesoft/nxrocks
 - https://github.com/ZachJW34/nx-plus
 - https://github.com/nxext/nx-extensions
-- https://github.com/nrwl/nx-workshop
 - https://github.com/nrwl/last-successful-commit-action
 - https://github.com/gagle/nx-check-changes
 - https://github.com/sevenwestmedia-labs/nx-plugins
@@ -2049,6 +2051,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: MODAL
 
 - https://github.com/ngneat/dialog
+- https://github.com/ncstate-sat/popover
 - https://github.com/Greentube/ngx-modal
 - https://github.com/caroso1222/ng-popups
 - https://github.com/shenweiliu/ngex-dialog
@@ -2265,7 +2268,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://abp.io/
 
 ## ECOSYSTEM: DEMO: TRAINING
+- https://github.com/nrwl/nx-workshop
 - https://github.com/alcfeoh/ng2-training
+- https://github.com/BioPhoton/angular-basic-ws
 - https://github.com/alcfeoh/ng-advanced-workshop
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
