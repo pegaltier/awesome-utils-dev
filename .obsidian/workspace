@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b7ba91bd924e092a",
+    "type": "split",
+    "children": [
+      {
+        "id": "db3c7b0961057d22",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "utils-coding/utils-angular-list.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08a64398242fbd9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd94c5ac4355ab1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a38fe11e8fd0378",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94b827575919b954",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0896a67f88c40555",
+    "type": "split",
+    "children": [
+      {
+        "id": "107c143f296d8c13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113ab2ba6f639cc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "utils-coding/utils-angular-list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db3c7b0961057d22",
+  "lastOpenFiles": [
+    "utils-coding/utils-angular-list.md",
+    "utils-all/utils-tools.md",
+    "readme.md"
+  ]
+}

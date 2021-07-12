@@ -15,6 +15,7 @@
 - https://github.com/chatwoot/chatwoot
 - https://github.com/obsproject/obs-studio
 - https://github.com/mattermost/focalboard
+- https://github.com/tanepiper/obsidian-garden
 - https://github.com/justinfrankel/licecap
 
 ## Diagram

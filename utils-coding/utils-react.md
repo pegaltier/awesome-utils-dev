@@ -156,6 +156,7 @@
 - https://github.com/facebook/react-native
 - https://github.com/rescript-react-native
 - https://github.com/react-native-menu/menu
+- https://github.com/necolas/react-native-web
 - https://github.com/gorhom/react-native-portal
 - https://github.com/facebook/react-native-fbsdk
 - https://github.com/Polidea/react-native-ble-plx

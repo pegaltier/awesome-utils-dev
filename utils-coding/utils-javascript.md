@@ -278,6 +278,7 @@
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables
 - https://github.com/willmendesneto/perf-marks
+- https://github.com/metafizzy/infinite-scroll
 - https://github.com/zenorocha/clipboard.js
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver

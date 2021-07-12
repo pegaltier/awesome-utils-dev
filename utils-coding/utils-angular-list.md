@@ -1198,6 +1198,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/module-federation
 - https://github.com/worktile/ngx-planet
 - https://github.com/CanopyTax/single-spa
+- https://github.com/manfredsteyer/mf-ssr
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/TinkoffCreditSystems/roofer
 - https://github.com/flash-me/angular-micro-frontends
@@ -1692,6 +1693,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cloudnc/ngx-observable-lifecycle
 - https://github.com/w11k/ngx-componentdestroyed
 - https://github.com/w11k/rx-ninja
+- https://github.com/rxjs-ninja/rxjs-ninja
 - https://github.com/gcanti/fp-ts-rxjs
 - https://github.com/wardbell/subsink
 - https://github.com/cartant/rxjs-xyz
@@ -1780,6 +1782,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cypress-io/cypress-example-recipes
 - https://github.com/maximilianschmitt/cypress-routines
 - https://github.com/bahmutov/cypress-angular-unit-test
+- https://github.com/NoriSte/ui-testing-best-practices
 - https://github.com/gothinkster/angular-realworld-example-app
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
 - https://github.com/Flaxline/angular-nx-cypress-coverage-example
@@ -2315,6 +2318,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/gothinkster/realworld
 - https://github.com/orizens/echoes-player
 - https://github.com/bbaia/gdgtoulouse-ngrx
+- https://github.com/huajian123/ng-ant-admin
 - https://angular.io/guide/example-apps-list  
 - https://github.com/intershop/intershop-pwa
 - https://github.com/trungk18/angular-spotify
