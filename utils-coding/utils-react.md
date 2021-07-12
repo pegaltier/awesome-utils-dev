@@ -141,6 +141,7 @@
 
 - https://github.com/application-research/next-bucket
 - https://github.com/module-federation/nextjs-mf
+- https://github.com/ixartz/Next-js-Boilerplate
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
@@ -155,6 +156,7 @@
 - https://github.com/facebook/react-native
 - https://github.com/rescript-react-native
 - https://github.com/react-native-menu/menu
+- https://github.com/necolas/react-native-web
 - https://github.com/gorhom/react-native-portal
 - https://github.com/facebook/react-native-fbsdk
 - https://github.com/Polidea/react-native-ble-plx
@@ -165,6 +167,7 @@
 - https://github.com/ravirupareliya/rn-in-app-review
 - https://github.com/callstack/react-native-viewpager
 - https://github.com/RonRadtke/react-native-blob-util
+- https://github.com/oblador/react-native-vector-icons
 - https://github.com/cuvent/react-native-vision-camera
 - https://github.com/alpha0010/react-native-file-access
 - https://github.com/edeckers/react-native-blob-courier

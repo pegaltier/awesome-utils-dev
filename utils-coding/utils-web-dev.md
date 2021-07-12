@@ -64,6 +64,7 @@
 - https://github.com/microsoft/Web-Dev-For-Beginners
 - https://github.com/kamranahmedse/developer-roadmap
 - https://google.github.io/styleguide/htmlcssguide.xml
+- https://github.com/NoriSte/ui-testing-best-practices
 - https://github.com/MarkoDenic/web-development-resources
 - https://github.com/shrutikapoor08/Learn-Web-Dvelopment-Checklist
 - https://ishadeed.com/article/thinking-like-a-front-end-developer/
@@ -103,6 +104,8 @@
 - https://ipsm.io
 - https://roadmap.sh
 - https://debuild.co
+- https://htmldom.dev
+- https://thisthat.dev
 - https://staticbox.io
 - https://webcode.tools
 - https://carbon.now.sh

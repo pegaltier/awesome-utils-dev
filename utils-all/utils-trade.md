@@ -70,6 +70,9 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 - then you have a lot of money to buy the bottom with simple technical analysis
 - you can focus on stock which offers a very good dividends (7/10 percents)
 
+## DUMB MONEY
+- they usually do trend following strategy and the issue arises when they become so confident that they establish their largest long positions after markets have rallied hard and their smallest after markets have declined. so they are most exposed at the peak and the least at the bottom. we can also call ignorant money.
+
 ## GAPS
 
 - gap downs have a higher proba of filling than gap ups

@@ -44,6 +44,7 @@
 
 - https://github.com/capacitor-community/sqlite
 - https://github.com/Nodonisko/capacitor-rate-app
+- https://github.com/capacitor-community/keep-awake
 - https://github.com/capacitor-community/date-picker
 - https://github.com/CodetrixStudio/CapacitorGoogleAuth
 - https://github.com/brandonroberts/nx-capacitor-plugins

@@ -13,6 +13,7 @@
 - https://github.com/nestjsx/nest-router
 - https://github.com/nestjsx/nestjs-amqp
 - https://github.com/nestjs/ng-universal
+- https://github.com/nest-modules/mailer
 - https://github.com/Papooch/decorate-all
 - https://github.com/nextauthjs/next-auth
 - https://github.com/jaredhanson/passport
