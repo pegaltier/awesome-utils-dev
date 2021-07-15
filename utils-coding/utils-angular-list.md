@@ -2469,9 +2469,10 @@ ANGULAR / REACT / VUE...
 
 Find here plugins for different browser.
 
-- https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 - https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
 - https://chrome.google.com/webstore/detail/angular-component-overvie/ffaclkhkellkeknodafdgeaapdniahhh
+- https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+- https://chrome.google.com/webstore/detail/jsonview/gmegofmjomhknnokphhckolhcffdaihd
 - https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
 - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 
