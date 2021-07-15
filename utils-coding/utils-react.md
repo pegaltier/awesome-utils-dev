@@ -139,6 +139,7 @@
 
 ## NEXT
 
+- https://github.com/belgattitude/nextjs-monorepo-example
 - https://github.com/application-research/next-bucket
 - https://github.com/module-federation/nextjs-mf
 - https://github.com/ixartz/Next-js-Boilerplate
@@ -158,6 +159,7 @@
 - https://github.com/rescript-react-native
 - https://github.com/react-native-menu/menu
 - https://github.com/necolas/react-native-web
+- https://github.com/luggit/react-native-config
 - https://github.com/gorhom/react-native-portal
 - https://github.com/facebook/react-native-fbsdk
 - https://github.com/Polidea/react-native-ble-plx

@@ -2217,6 +2217,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/src-zone/material
 - https://github.com/tiaguinho/material-community-components
 - https://github.com/acidb/mobiscroll
+- https://github.com/deepkit/deepkit-framework
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
