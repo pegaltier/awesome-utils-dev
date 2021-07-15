@@ -719,21 +719,6 @@ Learn the schematics tool to automatize and be more efficient.
 - https://auth0.com/blog/create-custom-schematics-with-nx/
 - https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
 - https://softwarearchitekt.at/post/2017/10/29/generating-custom-code-with-the-angular-cli-and-schematics.aspx
-- https://github.com/nitayneeman/schematics-utilities
-- https://github.com/schuchard/ng-schematics
-- https://github.com/kroeder/ngx-cli-toolkit
-- https://github.com/manfredsteyer/angular-crud
-- https://github.com/niklas-wortmann/ngx-pact
-- https://github.com/herodevs/material-studies
-- https://github.com/ng-builders/ng-builders
-- https://github.com/TinkoffCreditSystems/ng-morph
-- https://github.com/bennymeg/nx-electron
-- https://github.com/Teebo/scss-migrate
-- https://github.com/ngxs/schematics
-- https://github.com/ngneat/tailwind
-- https://github.com/angular-architects/nx-ddd-plugin
-- https://github.com/angular-architects/module-federation-plugin
-- https://github.com/d-koppenhagen/schematics-helpers-playground
 - https://www.youtube.com/watch?v=S_XxDC4WdKI Angular Schematics
 
 ## CORE: DEPENDENCY INJECTION
@@ -1759,6 +1744,25 @@ Learn the best way to make your objects immutable.
 - https://github.com/BioPhoton/angular-element-variants
 - https://github.com/MarsiBarsi/angular-library-to-web-components-demo
 - https://angular-extensions.github.io/elements/#/examples/advanced
+
+## ECOSYSTEM: LIB: SCHEMATICS
+
+- https://github.com/angular-architects/module-federation-plugin
+- https://github.com/d-koppenhagen/schematics-helpers-playground
+- https://github.com/angular-architects/nx-ddd-plugin
+- https://github.com/nitayneeman/schematics-utilities
+- https://github.com/TinkoffCreditSystems/ng-morph
+- https://github.com/manfredsteyer/angular-crud
+- https://github.com/herodevs/material-studies
+- https://github.com/niklas-wortmann/ngx-pact
+- https://github.com/schuchard/ng-schematics
+- https://github.com/kroeder/ngx-cli-toolkit
+- https://github.com/ng-builders/ng-builders
+- https://github.com/bennymeg/nx-electron
+- https://github.com/Teebo/scss-migrate
+- https://github.com/ngxs/schematics
+- https://github.com/ngneat/tailwind
+- https://github.com/ngneat/scam
 
 ## ECOSYSTEM: LIB: E2E TESTS
 
