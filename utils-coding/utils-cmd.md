@@ -19,6 +19,7 @@
 - https://github.com/shellspec/shellspec
 - https://github.com/alebcay/awesome-shell
 - https://github.com/romkatv/powerlevel10k
+- https://github.com/ibraheemdev/modern-unix
 - https://github.com/dylanaraps/pure-sh-bible
 - https://github.com/gruntwork-io/bash-commons
 - https://github.com/jlevy/the-art-of-command-line

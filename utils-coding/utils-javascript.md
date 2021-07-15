@@ -72,6 +72,7 @@
 - https://github.com/30-seconds/30-seconds-of-interviews
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
+- https://github.com/elsewhencode/project-guidelines
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/mgechev/javascript-algorithms
 - https://github.com/getify/Functional-Light-JS
@@ -259,6 +260,7 @@
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
+- https://github.com/junhoyeo/use-color
 - https://github.com/joe223/tiny-swiper
 - https://github.com/reach/observe-rect
 - https://github.com/Splidejs/splide

@@ -51,6 +51,7 @@
 - https://github.com/microsoft/rushstack
 - https://github.com/ranyitz/code-migrate
 - https://github.com/phenomnomnominal/betterer
+- https://github.com/saurabhdaware/typescript-run
 
 ## UTILS
 

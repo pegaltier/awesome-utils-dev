@@ -145,6 +145,7 @@
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
+- https://github.com/shuding/nextra
 
 ## DEMO: EXAMPLE
 - https://github.com/Th3Wall/Fakeflix

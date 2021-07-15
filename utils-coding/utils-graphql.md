@@ -59,6 +59,7 @@
 - https://github.com/rahmanfadhil/learn-typegraphql
 - https://github.com/dotansimha/graphql-code-generator
 - https://github.com/pipedrive/graphql-schema-registry
+- https://github.com/n1ru4l/graphql-public-schema-filter
 - https://github.com/dangcuuson/graphql-schema-typescript
 
 ## LEARN

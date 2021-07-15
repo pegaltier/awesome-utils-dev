@@ -6,7 +6,9 @@
 - https://csslayout.io/
 - https://animista.net/
 - https://justcode.today/
+- https://ui-snippets.dev/
 - https://shadows.brumm.af/
+- https://copy-paste-css.com/
 - https://flukeout.github.io/
 - https://accordionslider.com/
 - https://enes.in/sorted-colors/

@@ -68,6 +68,7 @@
 - https://github.com/MarkoDenic/web-development-resources
 - https://github.com/shrutikapoor08/Learn-Web-Dvelopment-Checklist
 - https://ishadeed.com/article/thinking-like-a-front-end-developer/
+- https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/
 
 ## ONLINE IDE
 

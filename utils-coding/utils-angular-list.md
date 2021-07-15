@@ -160,6 +160,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/typebytes/angular-checklist
 - https://indepth.dev/angular-bad-practices-revisited/
 - https://github.com/mgechev/angular-performance-checklist
+- https://github.com/Angular-community-collab/angular-study-guide
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
 - https://blog.bitsrc.io/an-opinionated-styleguide-for-angular-af623d54e2b8
@@ -1317,6 +1318,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://github.com/nrwl/nx/issues/2633 ionic5 support
 - https://github.com/nstudio/xplat-sample-ionic-web
 - https://github.com/warrendugan/ionic-capacitor-nx-monorepo
+- https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example
 - https://github.com/lerna/lerna
 - https://github.com/preconstruct/preconstruct
 - https://github.com/bcabanes/nxCloudTravisCi
@@ -2203,6 +2205,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/positive-js/mosaic
 - https://github.com/src-zone/material
 - https://github.com/tiaguinho/material-community-components
+- https://github.com/acidb/mobiscroll
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2253,6 +2256,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: PLUG & PLAY:
 
 - https://github.com/javascript-dragons/ionic-ecommerce
+- https://github.com/NationalBankBelgium/stark
 - https://github.com/NodeArt/angular-commerce
 - https://github.com/raymond-frontend/eShop
 - https://github.com/exportarts/ngx-prismic
@@ -2312,6 +2316,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/rfprod/nx-ng-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/brechtbilliet/winecellar
+- https://github.com/NationalBankBelgium/stark
 - https://github.com/r-park/todo-angular2-firebase
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SPA
@@ -2643,6 +2648,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ### ANGULAR12
 
+- https://dsebastien.net/blog/2021-05-13-angular-12-in-depth
 - https://javascript.plainenglish.io/whats-new-for-the-angular-ecosystem-ng-conf-21-update-56f365cc12bc
 
 ### ANGULAR11
