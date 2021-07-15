@@ -53,6 +53,7 @@
 
 ## SUMMARY
 
+- http://html5doctor.com/
 - https://markodenic.com/html-tips/
 - https://github.com/andreasbm/web-skills
 - https://almanac.httparchive.org/en/2020/
@@ -66,6 +67,7 @@
 - https://google.github.io/styleguide/htmlcssguide.xml
 - https://github.com/NoriSte/ui-testing-best-practices
 - https://github.com/MarkoDenic/web-development-resources
+- https://github.com/ericwbailey/accessible-html-content-patterns
 - https://github.com/shrutikapoor08/Learn-Web-Dvelopment-Checklist
 - https://ishadeed.com/article/thinking-like-a-front-end-developer/
 - https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/
