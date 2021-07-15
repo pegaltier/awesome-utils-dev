@@ -74,6 +74,7 @@
 ## FRAMEWORKS
 
 - https://github.com/nestjs/nest
+- https://github.com/tsedio/tsed
 - https://github.com/strapi/strapi
 - https://github.com/lukeautry/tsoa
 - https://github.com/typeorm/typeorm
