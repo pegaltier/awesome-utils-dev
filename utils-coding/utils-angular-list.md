@@ -1652,7 +1652,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/PatrickJS/angular-hmr
 - https://github.com/cloudnc/observable-webworker
 - https://github.com/ng-web-apis/speech
-- https://github.com/arkon/ng-inline-svg
 - https://github.com/angular/flex-layout
 - https://github.com/angular/angularfire
 - https://github.com/codethatstack/platform
@@ -1668,12 +1667,13 @@ Learn the best way to make your objects immutable.
 - https://github.com/urish/ngx-moment
 - https://github.com/embarq/safe-pipe
 - https://github.com/ngneat/helipopper
+- https://github.com/ngneat/from-event
 - https://github.com/danrevah/ngx-pipes
+- https://github.com/arkon/ng-inline-svg
 - https://github.com/adisreyaj/ng-directives
 - https://github.com/joanllenas/ngx-date-fns
 - https://github.com/ngneat/copy-to-clipboard
 - https://github.com/drozhzhin-n-e/ng2-tooltip-directive
-- https://github.com/ngneat/from-event
 
 ## ECOSYSTEM: LIB: MIXED
 - https://github.com/myndpm/open-source
