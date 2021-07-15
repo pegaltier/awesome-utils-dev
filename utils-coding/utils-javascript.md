@@ -189,6 +189,8 @@
 - https://github.com/faisalman/ua-parser-js
 - https://github.com/Jimbly/timezone-mock
 - https://github.com/uNmAnNeR/imaskjs
+- https://github.com/petkaantonov/bluebird
+- https://github.com/freesoftwarefactory/parse-multipart
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev
 - https://github.com/stoeffel/awesome-fp-js

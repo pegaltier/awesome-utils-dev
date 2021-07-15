@@ -169,6 +169,7 @@
 - https://github.com/callstack/react-native-viewpager
 - https://github.com/RonRadtke/react-native-blob-util
 - https://github.com/oblador/react-native-vector-icons
+- https://github.com/alpha0010/react-native-pdf-viewer
 - https://github.com/cuvent/react-native-vision-camera
 - https://github.com/alpha0010/react-native-file-access
 - https://github.com/edeckers/react-native-blob-courier

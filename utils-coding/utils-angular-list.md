@@ -202,6 +202,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 Learn about the most useful design patterns in Angular.
 
+- https://netbasal.com/better-code-organization-with-angular-di-multi-option-31f691918655
 - https://indepth.dev/posts/1404/declarative-reactive-data-and-action-streams-in-angular
 - https://dev.to/lifelongthinker/the-strategy-pattern-exemplified-in-typescript-3pmi
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
@@ -772,6 +773,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 
 Learn about the angular router, lazy load your modules.
 
+- https://netbasal.com/best-route-forward-declarative-route-path-management-in-angular-apps-a44c7e39c340
 - https://dev.to/angular/angular-router-getting-to-know-urltree-activatedroutesnapshot-and-activatedroute-5dd1
 - https://medium.com/ngconf/routing-to-angular-material-dialogs-c3fb7231c177
 - https://medium.com/angular-in-depth/angular-code-splitting-or-how-to-share-components-between-lazy-modules-432c755e389c
@@ -1385,7 +1387,6 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 Starter samples, seeds, alternative to the default Angular CLI tools in order to help to bootstrap a new Angular project in different platforms (web, mobile, desktop)
 
 - https://github.com/nrwl/nx
-- https://github.com/ngneat/lib
 - https://github.com/wizdmio/wizdm
 - https://github.com/angular/angular-cli
 - https://github.com/martinoppitz/leanup
@@ -1432,6 +1433,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 Learn how to make your own angular lib, build, distribute.
 
+- https://github.com/ngneat/lib
 - https://github.com/kreuzerk/ng-samurai
 - https://github.com/ng-packagr/ng-packagr
 - https://github.com/robisim74/angular-library-starter
@@ -1549,6 +1551,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/codelyzer
 - https://github.com/ReactiveX/rxjs-tslint
 - https://github.com/mgechev/tslint-angular
+- https://github.com/Phillip9587/nx-stylelint
 - https://github.com/cartant/rxjs-tslint-rules
 - https://github.com/NativeScript/eslint-plugin
 - https://github.com/ranyitz/eslint-plugin-jest
@@ -1673,6 +1676,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/pjlamb12/runtime-config-loader
 - https://github.com/KoderLabs/ngx-device-detector
+- https://github.com/ngneat/overview
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES
 - https://github.com/urish/ngx-moment
@@ -2559,9 +2563,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 
 ## ECOSYSTEM: COMMUNITY
-
 - https://indepth.dev/
 - https://web.dev/angular
+- https://netbasal.com/
 - https://www.angularnation.net/
 - https://www.reddit.com/r/Angular2/
 - https://dev.to/angular

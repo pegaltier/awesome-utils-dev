@@ -94,6 +94,7 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 - https://kodify.net/tradingview/orders/strategy-entry/
 - https://kodify.net/tradingview/orders/percentage-profit/
 - https://github.com/f13end/tradingview-custom-indicators
+- https://www.pinecoders.com/faq_and_code/#built-in-variables
 - https://www.tradingview.com/script/NjuWGg3o-Weekly-Moving-Average/
 - https://www.tradingview.com/script/o5kgHBQ0-Multi-Timeframe-Bollinger-Bands/
 - https://www.tradingview.com/script/R8ByYRUS-RSI-with-Moving-Averages-UO/

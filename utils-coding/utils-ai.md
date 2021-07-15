@@ -9,10 +9,13 @@
 
 ## AWESOME
 
+- https://github.com/eugeneyan/applied-ml
+- https://github.com/visenger/awesome-mlops
 - https://github.com/microsoft/ML-For-Beginners
 - https://github.com/heartexlabs/awesome-data-labeling
 - https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 - https://github.com/EthicalML/awesome-production-machine-learning
+- https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
 - https://play.botscript.ai/
