@@ -1662,15 +1662,18 @@ Learn the best way to make your objects immutable.
 - https://github.com/pjlamb12/runtime-config-loader
 - https://github.com/KoderLabs/ngx-device-detector
 - https://github.com/ngneat/overview
+- https://github.com/ngneat/hotkeys
 
-## ECOSYSTEM: LIB: PIPES&DIRECTIVES
+## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
 - https://github.com/embarq/safe-pipe
 - https://github.com/ngneat/helipopper
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/adisreyaj/ng-directives
 - https://github.com/joanllenas/ngx-date-fns
+- https://github.com/ngneat/copy-to-clipboard
 - https://github.com/drozhzhin-n-e/ng2-tooltip-directive
+- https://github.com/ngneat/from-event
 
 ## ECOSYSTEM: LIB: MIXED
 - https://github.com/myndpm/open-source
