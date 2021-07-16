@@ -968,6 +968,7 @@ There is a new module called @angular/fire which helps to automatize the whole d
 ### TEST
 - https://github.com/cloudnc/frontend-interview
 - https://github.com/Yonet/Angular-Interview-Questions
+- https://github.com/danieldelcore/mega-interview-guide
 - https://github.com/sudheerj/angular-interview-questions
 - https://github.com/yangshun/front-end-interview-handbook
 - https://github.com/learning-zone/angular-interview-questions

@@ -20,6 +20,7 @@
 
 ## LIST
 - https://github.com/lirantal/awesome-nodejs-security
+- https://github.com/bcoe/awesome-cross-platform-nodejs
 - https://github.com/parro-it/awesome-micro-npm-packages
 - https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
 - https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020

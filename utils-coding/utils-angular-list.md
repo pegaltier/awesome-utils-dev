@@ -2330,6 +2330,8 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brechtbilliet/winecellar
 - https://github.com/NationalBankBelgium/stark
 - https://github.com/r-park/todo-angular2-firebase
+- https://github.com/bezkoder/angular-12-node-js-project
+- https://github.com/bezkoder/spring-boot-angular-11-mysql
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SPA
 
@@ -2575,6 +2577,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://indepth.dev/
 - https://web.dev/angular
 - https://netbasal.com/
+- https://houseofangular.io/
 - https://www.angularnation.net/
 - https://www.reddit.com/r/Angular2/
 - https://dev.to/angular

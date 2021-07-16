@@ -208,7 +208,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lucksus/perspectivism
 - https://github.com/perspect3vism/agent-language
 - https://github.com/eyss/elemental-chess
-
+- https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/
 
 ### HOLOCHAIN-RSM TOOLS
