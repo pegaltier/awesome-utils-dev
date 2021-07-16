@@ -161,6 +161,7 @@
 
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/siddharthkp/bundlesize
+- https://github.com/developit/microbundle
 - https://github.com/facebook/jscodeshift
 - https://github.com/addyosmani/critical
 - https://github.com/fkling/astexplorer

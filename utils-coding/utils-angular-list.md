@@ -1249,66 +1249,6 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://bit.dev
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
-- https://github.com/nrwl/nx
-- https://github.com/jscutlery/semver
-- https://github.com/eulerrapp/nx-python
-- https://github.com/nx-dotnet/nx-dotnet
-- https://github.com/simondotm/nx-firebase
-- https://github.com/atlassian/changesets
-- https://github.com/nrwl/nx-examples
-- https://github.com/nrwl/nx-jenkins-build
-- https://github.com/nrwl/nx-custom-layout
-- https://github.com/Phillip9587/nx-stylelint
-- https://github.com/nxpm/nxpm-cli
-- https://github.com/twittwer/nx-tools
-- https://github.com/atlassian/changesets
-- https://github.com/nx-go/nx-go
-- https://github.com/nrwl/nx-orb
-- https://github.com/ctx-core/ctx-core
-- https://github.com/codeonrocks/nx-python
-- https://github.com/kachkaev/njt
-- https://github.com/NativeScript/nx
-- https://github.com/nxrs/cargo
-- https://github.com/Bielik20/nx-plugins
-- https://github.com/Dev-Thought/nx-plugins
-- https://github.com/flowaccount/nx-plugins
-- https://github.com/bennymeg/nx-electron
-- https://github.com/DominikPieper/nx-extensions
-- https://github.com/MansaGroup/nrwl-nx-action
-- https://github.com/gperdomor/nx-tools
-- https://github.com/devinshoemaker/nxtend
-- https://github.com/nxtend-team/nxtend
-- https://github.com/TriPSs/nx-extend
-- https://github.com/tinesoft/nxrocks
-- https://github.com/ZachJW34/nx-plus
-- https://github.com/nxext/nx-extensions
-- https://github.com/nrwl/last-successful-commit-action
-- https://github.com/gagle/nx-check-changes
-- https://github.com/sevenwestmedia-labs/nx-plugins
-- https://github.com/manfredsteyer/angular-ddd
-- https://github.com/orjandesmet/nx-sparse-checkout
-- https://github.com/manfredsteyer/strategic-design
-- https://github.com/Quramy/npm-ts-workspaces-example
-- https://github.com/manfredsteyer/monorepo_domains
-- https://github.com/pmowrer/semantic-release-monorepo
-- https://github.com/angularbuilders/angular-blueprint
-- https://github.com/manfredsteyer/demo-workspace-schematics
-- https://github.com/manfredsteyer/nx-plugin-example
-- https://github.com/lydemann/Todo-monorepo
-- https://github.com/korfuri/awesome-monorepo
-- https://github.com/balazsconf/monodemo
-- https://github.com/nxpm/stack
-- https://github.com/jsonberry/pentacle
-- https://github.com/Bielik20/nx-mean-starter
-- https://github.com/manfredsteyer/custom-nx-cache
-- https://github.com/xmlking/ngx-starter-kit
-- https://github.com/nrwl/nx/issues/2633 ionic5 support
-- https://github.com/nstudio/xplat-sample-ionic-web
-- https://github.com/warrendugan/ionic-capacitor-nx-monorepo
-- https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example
-- https://github.com/lerna/lerna
-- https://github.com/preconstruct/preconstruct
-- https://github.com/bcabanes/nxCloudTravisCi
 - https://angularbites.com/building-scalable-multi-platform-projects-with-angular-and-nx/
 - https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6
 - https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
@@ -1448,6 +1388,75 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/PatrickJS/awesome-angular
 - https://github.com/brillout/awesome-angular-components
 - https://github.com/anubhavsrivastava/awesome-ui-component-library#angular
+
+## ECOSYSTEM: LIB: MONOREPO
+- https://github.com/nrwl/nx
+- https://github.com/lerna/lerna
+- https://github.com/pnpm/pnpm
+- https://github.com/yarnpkg/berry
+- https://github.com/preconstruct/preconstruct
+- https://github.com/jscutlery/semver
+- https://github.com/atlassian/changesets
+
+## ECOSYSTEM: LIB: MONOREPO: NX PLUGINS
+- https://github.com/nxrs/cargo
+- https://github.com/nx-go/nx-go
+- https://github.com/eulerrapp/nx-python
+- https://github.com/nx-dotnet/nx-dotnet
+- https://github.com/simondotm/nx-firebase
+- https://github.com/Phillip9587/nx-stylelint
+- https://github.com/bennymeg/nx-electron
+- https://github.com/NativeScript/nx
+
+## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/bcabanes/nxCloudTravisCi
+- https://github.com/nrwl/nx-examples
+- https://github.com/nrwl/nx-jenkins-build
+- https://github.com/nrwl/nx-custom-layout
+- https://github.com/nxpm/nxpm-cli
+- https://github.com/twittwer/nx-tools
+- https://github.com/atlassian/changesets
+- https://github.com/nrwl/nx-orb
+- https://github.com/ctx-core/ctx-core
+- https://github.com/codeonrocks/nx-python
+- https://github.com/kachkaev/njt
+- https://github.com/Bielik20/nx-plugins
+- https://github.com/Dev-Thought/nx-plugins
+- https://github.com/flowaccount/nx-plugins
+- https://github.com/DominikPieper/nx-extensions
+- https://github.com/MansaGroup/nrwl-nx-action
+- https://github.com/gperdomor/nx-tools
+- https://github.com/devinshoemaker/nxtend
+- https://github.com/nxtend-team/nxtend
+- https://github.com/TriPSs/nx-extend
+- https://github.com/tinesoft/nxrocks
+- https://github.com/ZachJW34/nx-plus
+- https://github.com/nxext/nx-extensions
+- https://github.com/nrwl/last-successful-commit-action
+- https://github.com/gagle/nx-check-changes
+- https://github.com/sevenwestmedia-labs/nx-plugins
+- https://github.com/manfredsteyer/angular-ddd
+- https://github.com/orjandesmet/nx-sparse-checkout
+- https://github.com/manfredsteyer/strategic-design
+- https://github.com/Quramy/npm-ts-workspaces-example
+- https://github.com/manfredsteyer/monorepo_domains
+- https://github.com/pmowrer/semantic-release-monorepo
+- https://github.com/angularbuilders/angular-blueprint
+- https://github.com/manfredsteyer/demo-workspace-schematics
+- https://github.com/manfredsteyer/nx-plugin-example
+- https://github.com/lydemann/Todo-monorepo
+- https://github.com/korfuri/awesome-monorepo
+- https://github.com/balazsconf/monodemo
+- https://github.com/nxpm/stack
+- https://github.com/jsonberry/pentacle
+- https://github.com/Bielik20/nx-mean-starter
+- https://github.com/manfredsteyer/custom-nx-cache
+- https://github.com/xmlking/ngx-starter-kit
+- https://github.com/nrwl/nx/issues/2633 ionic5 support
+- https://github.com/nstudio/xplat-sample-ionic-web
+- https://github.com/warrendugan/ionic-capacitor-nx-monorepo
+- https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example
+
 
 ## ECOSYSTEM: LIB: JAMSTACK
 
