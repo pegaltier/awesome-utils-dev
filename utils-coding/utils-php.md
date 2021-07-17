@@ -90,7 +90,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/docusign/docusign-php-client
 
 ## SLIM PHP UTILS
-
+- https://github.com/odan/slim-checker
 - https://github.com/xssc/awesome-slim
 - https://github.com/zhorton34/authorize-slim-4
 - https://github.com/bryanjhv/slim-session

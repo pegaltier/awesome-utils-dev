@@ -1398,33 +1398,37 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/jscutlery/semver
 - https://github.com/atlassian/changesets
 
-## ECOSYSTEM: LIB: MONOREPO: NX PLUGINS
+## ECOSYSTEM: LIB: MONOREPO: NX LANGAGES PLUGINS
 - https://github.com/nxrs/cargo
 - https://github.com/nx-go/nx-go
 - https://github.com/eulerrapp/nx-python
+- https://github.com/codeonrocks/nx-python
 - https://github.com/nx-dotnet/nx-dotnet
+
+## ECOSYSTEM: LIB: MONOREPO: NX FRAMEWORKS PLUGINS
 - https://github.com/simondotm/nx-firebase
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/bennymeg/nx-electron
 - https://github.com/NativeScript/nx
 
+## ECOSYSTEM: LIB: MONOREPO: NX CI/CD PLUGINS
+- https://github.com/MansaGroup/nrwl-nx-action
+- https://github.com/nrwl/nx-jenkins-build
+- https://github.com/nrwl/nx-orb
+
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/bcabanes/nxCloudTravisCi
 - https://github.com/nrwl/nx-examples
-- https://github.com/nrwl/nx-jenkins-build
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/nxpm/nxpm-cli
 - https://github.com/twittwer/nx-tools
 - https://github.com/atlassian/changesets
-- https://github.com/nrwl/nx-orb
 - https://github.com/ctx-core/ctx-core
-- https://github.com/codeonrocks/nx-python
 - https://github.com/kachkaev/njt
 - https://github.com/Bielik20/nx-plugins
 - https://github.com/Dev-Thought/nx-plugins
 - https://github.com/flowaccount/nx-plugins
 - https://github.com/DominikPieper/nx-extensions
-- https://github.com/MansaGroup/nrwl-nx-action
 - https://github.com/gperdomor/nx-tools
 - https://github.com/devinshoemaker/nxtend
 - https://github.com/nxtend-team/nxtend
