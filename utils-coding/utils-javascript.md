@@ -167,6 +167,7 @@
 - https://github.com/fkling/astexplorer
 - https://github.com/NectarJS/nectarjs
 - https://github.com/projen/projen
+- https://github.com/vitejs/vite
 
 ## LIB: DATABASE
 - https://github.com/pubkey/rxdb

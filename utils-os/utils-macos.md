@@ -20,6 +20,7 @@
 - https://github.com/leits/MeetingBar
 - https://github.com/rxhanson/Rectangle
 - https://github.com/sickcodes/Docker-OSX
+- https://github.com/minamarkham/formation
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 
 ## Brew

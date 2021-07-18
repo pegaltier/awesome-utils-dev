@@ -73,6 +73,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/gossi/php-code-generator
 - https://github.com/matomo-org/device-detector
 - https://github.com/selective-php/zip-responder
+- https://github.com/selective-php
 
 ## FRAMEWORKS
 
@@ -93,6 +94,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/odan/slim-checker
 - https://github.com/xssc/awesome-slim
 - https://github.com/zhorton34/authorize-slim-4
+- https://github.com/selective-php/samesite-cookie
 - https://github.com/bryanjhv/slim-session
 - https://github.com/selective-php/basepath
 - https://github.com/selective-php/session
