@@ -1091,6 +1091,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/beeman/component-store-playground
 - https://github.com/dsebastien/ngrx-component-store-demo
 - https://github.com/alex-okrushko/component-store-demo
+- https://github.com/ngfelixl/ngrx-component-store-testing
 - https://github.com/tomwhite007/ngrx-component-store-experiment
 - https://stackblitz.com/edit/heroes-component-store
 - https://stackblitz.com/edit/github-component-store-demo

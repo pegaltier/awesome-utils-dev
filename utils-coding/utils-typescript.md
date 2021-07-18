@@ -82,6 +82,7 @@
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/ostrowr/ts-json-validator
 - https://github.com/jonaskello/tslint-immutable
+- https://github.com/ngfelixl/typescript-algorithms
 - https://github.com/NetanelBasal/helpful-decorators
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/valentinkononov/ts-runtime-checker
