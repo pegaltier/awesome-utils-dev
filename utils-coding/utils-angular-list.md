@@ -1124,6 +1124,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/lacolaco/reactive-store
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/iliasbhal/xstate-builder
+- https://github.com/ngfelixl/reactive-entity-store
 - https://github.com/mattpocock/xstate-catalogue
 - https://github.com/markostanimirovic/juliette
 - https://github.com/AmadeusITGroup/ngx-tansu
