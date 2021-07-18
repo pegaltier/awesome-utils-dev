@@ -269,6 +269,7 @@
 - https://github.com/reach/observe-rect
 - https://github.com/Splidejs/splide
 - https://github.com/shikijs/shiki
+- https://github.com/Qix-/color
 
 ## LIB: HARDWARE
 - https://github.com/svendahlstrand/web-serial-api
