@@ -1191,6 +1191,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/worktile/ngx-planet
 - https://github.com/CanopyTax/single-spa
 - https://github.com/manfredsteyer/mf-ssr
+- https://github.com/manfredsteyer/mf-pitfalls
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/TinkoffCreditSystems/roofer
 - https://github.com/flash-me/angular-micro-frontends
