@@ -2237,6 +2237,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/tiaguinho/material-community-components
 - https://github.com/acidb/mobiscroll
 - https://github.com/deepkit/deepkit-framework
+- https://github.com/ng-matero/extensions
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2287,6 +2288,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: PLUG & PLAY:
 
 - https://github.com/javascript-dragons/ionic-ecommerce
+- https://github.com/vendure-ecommerce/storefront
 - https://github.com/NationalBankBelgium/stark
 - https://github.com/NodeArt/angular-commerce
 - https://github.com/raymond-frontend/eShop
@@ -2359,6 +2361,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ionic-team/ionifits
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/SanderElias/Samples
+- https://github.com/ng-matero/ng-matero
 - https://github.com/tieppt/angular-docker
 - https://github.com/ganatan/angular11-app
 - https://github.com/gothinkster/realworld

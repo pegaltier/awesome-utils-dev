@@ -18,6 +18,7 @@
 - https://github.com/alan345/naperg
 - https://github.com/keystonejs/keystone
 - https://github.com/APIs-guru/graphql-apis
+- https://github.com/vendure-ecommerce/vendure
 - https://github.com/benawad/node-ts-graphql-boilerplate
 
 ## LIB
