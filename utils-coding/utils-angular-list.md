@@ -204,6 +204,7 @@ Learn about the most useful design patterns in Angular.
 
 - https://netbasal.com/better-code-organization-with-angular-di-multi-option-31f691918655
 - https://indepth.dev/posts/1404/declarative-reactive-data-and-action-streams-in-angular
+- https://dev.to/davelosert/mock-factory-pattern-in-typescript-44l9
 - https://dev.to/lifelongthinker/the-strategy-pattern-exemplified-in-typescript-3pmi
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 - https://medium.com/volosoft/strategy-pattern-implementation-with-typescript-and-angular-9ad8b1929e9c
