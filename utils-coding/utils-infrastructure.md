@@ -50,6 +50,7 @@
 - https://github.com/lensapp/lens
 - https://github.com/kedacore/keda
 - https://github.com/Portshift/kubei
+- https://github.com/loft-sh/jspolicy
 - https://github.com/hobby-kube/guide
 - https://github.com/godaddy/terminus
 - https://github.com/porter-dev/porter

@@ -192,6 +192,7 @@
 - https://github.com/Jimbly/timezone-mock
 - https://github.com/uNmAnNeR/imaskjs
 - https://github.com/petkaantonov/bluebird
+- https://github.com/ajitid/fzf-for-js
 - https://github.com/freesoftwarefactory/parse-multipart
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev
@@ -238,6 +239,9 @@
 
 ## LIB: POLYFILL
 - https://github.com/jsxtools/cqfill
+
+## LIB: REGEX
+- https://github.com/devongovett/regexgen
 
 ## LIB: ARCHI
 - https://github.com/mgechev/injection-js
