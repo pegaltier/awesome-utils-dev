@@ -52,7 +52,7 @@
 - https://clinicjs.org/
 - http://pm2.keymetrics.io/
 
-## LIBS
+## LIBS: ALL
 
 - https://github.com/azz/pretty-quick
 - https://github.com/clinicjs/node-clinic
@@ -65,6 +65,9 @@
 - https://github.com/verdaccio/verdaccio
 - https://github.com/mcollina/on-exit-leak-free
 - https://github.com/Unitech/pm2
+
+## LIBS: DB
+- https://github.com/ndaidong/flat-db
 
 ## SERVER: EXPRESS/ITTY
 - https://github.com/YahooArchive/express-state

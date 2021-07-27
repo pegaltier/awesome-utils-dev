@@ -52,6 +52,7 @@
 - https://github.com/dotansimha/graphql-eslint
 - https://github.com/calmonr/typegraphql-relay
 - https://github.com/dabit3/cdk-graphql-backend
+- https://github.com/maticzav/graphql-middleware
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/prisma-labs/graphql-request
 - https://github.com/serverless-components/graphql
