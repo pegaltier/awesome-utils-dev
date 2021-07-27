@@ -303,7 +303,6 @@
 - https://github.com/omrilotan/isbot
 - https://github.com/Leaflet/Leaflet
 - https://github.com/matthewp/robot
-- https://github.com/greensock/GSAP
 - https://github.com/grid-js/gridjs
 - https://github.com/immerjs/immer
 - https://github.com/mikecao/umami
@@ -326,6 +325,7 @@
 ## LIB: MEDIAS
 - https://github.com/steveruizok/perfect-arrows
 - https://github.com/openseadragon/openseadragon
+- https://github.com/greensock/GSAP
 - https://github.com/team-video/tragopan
 - https://github.com/google/model-viewer
 - https://github.com/graphery/graphery
@@ -335,6 +335,7 @@
 
 ## LIB: 3D/VR
 - https://github.com/mrdoob/three.js/
+- https://github.com/badzong/meshspin.js
 - https://github.com/KhronosGroup/glTF
 - https://github.com/aframevr/aframe
 

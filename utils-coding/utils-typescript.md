@@ -137,6 +137,7 @@
 - https://github.com/seek-oss/vanilla-extract
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/typestack/class-validator
+- https://github.com/devexperts/remote-data-ts
 - https://github.com/typestack/class-transformer
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/YousefED/typescript-json-schema
@@ -152,6 +153,7 @@
 
 ## LIB: TEST
 - https://github.com/google/intermock
+- https://github.com/Goldziher/interfaceForge
 
 ## NEWS
 

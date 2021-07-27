@@ -54,6 +54,7 @@
 - https://github.com/dabit3/cdk-graphql-backend
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/prisma-labs/graphql-request
+- https://github.com/serverless-components/graphql
 - https://github.com/zalando-incubator/graphql-jit
 - https://github.com/GraphQL-Portal/graphql-portal
 - https://github.com/ef-eng/graphql-query-rewriter

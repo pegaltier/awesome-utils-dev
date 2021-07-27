@@ -2189,7 +2189,9 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/videogular/ngx-videogular
+- https://github.com/Mawi137/ngx-image-cropper
 - https://github.com/tjoskar/ng-lazyload-image
+- https://github.com/kubadospial/ngx-is-image-loaded
 - https://github.com/greg-md/ng-lazy-load
 - https://github.com/scaleflex/ng-cloudimage-responsive
 - https://github.com/bennymeg/ngx-embedded-media
@@ -2271,6 +2273,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/chihab/ngx-access
 - https://github.com/AlexKhymenko/ngx-permissions
 
+## ECOSYSTEM: LIB: ANIMATIONS
+- https://github.com/greensock/GSAP
 
 ## ECOSYSTEM: LIB: PWA
 - https://github.com/cyrilletuzi/ngx-pwa-offline
@@ -2497,6 +2501,7 @@ Find here plugins for different browser.
 - https://chrome.google.com/webstore/detail/angular-profiler-devtools/eiicmpipobbbfnmmbggcjnnfaionccbp
 - https://chrome.google.com/webstore/detail/angular-component-overvie/ffaclkhkellkeknodafdgeaapdniahhh
 - https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+- https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden
 - https://chrome.google.com/webstore/detail/jsonview/gmegofmjomhknnokphhckolhcffdaihd
 - https://blog.angularindepth.com/chrome-extension-with-angular-why-and-how-778200b87575
 - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg

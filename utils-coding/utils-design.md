@@ -23,10 +23,12 @@
 # DESIGN
 
 ## TOOLS
+- https://loading.io
 - https://squoosh.app
 - https://tinypng.com
 - https://www.remove.bg
 - https://goanimate.com
+- https://png-pixel.com
 - https://david.li/paint
 - https://www.photopea.com
 - https://studio.polotno.dev
@@ -228,6 +230,7 @@
 
 ## OSS
 
+- https://github.com/SamHerbert/SVG-Loaders
 - https://github.com/edent/SuperTinyIcons
 
 ## ARTICLES
