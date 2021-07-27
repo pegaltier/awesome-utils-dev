@@ -1433,7 +1433,10 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-set-shas
+- https://github.com/e-square-io/nx-github-actions
+- https://github.com/e-square-io/nx-distributed-task
 - https://github.com/NativeScript/plugin-tools
+- https://github.com/e-square-io/nx-plugins
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/atlassian/changesets
 - https://github.com/ctx-core/ctx-core
@@ -2165,6 +2168,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
+- https://github.com/e-square-io/bdir
 - https://github.com/ngneat/transloco
 - https://github.com/fkirc/attranslate
 - https://github.com/ngx-translate/core
