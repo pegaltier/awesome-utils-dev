@@ -113,7 +113,10 @@
 - https://github.com/bezkoder/react-refresh-token-hooks
 - https://github.com/welldone-software/why-did-you-render
 - https://github.com/JesperLekland/react-native-svg-charts
+- https://github.com/LonelyCpp/react-native-youtube-iframe
 - https://github.com/webscopeio/react-textarea-autocomplete
+- https://github.com/smallcase/react-native-simple-biometrics
+- https://github.com/hyochan/react-native-audio-recorder-player
 
 ## LIB: UI
 

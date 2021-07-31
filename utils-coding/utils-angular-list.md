@@ -1589,6 +1589,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: DEVTOOLS
 - https://github.com/expertly-simple/angular-evergreen
 - https://github.com/rangle/angular-devtools
+- https://github.com/ng-easy/renovate-config
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
 - https://github.com/xlayers/version-stamp

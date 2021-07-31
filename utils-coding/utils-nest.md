@@ -48,6 +48,7 @@
 - https://github.com/squareboat/nest-mailman
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/squareboat/nest-storage
+- https://github.com/coollerwind/nestjs-graphql
 - https://github.com/squareboat/nest-eyewitness
 - https://github.com/Aginix/nestjs-firebase-admin
 - https://github.com/squareboat/nest-notifications
