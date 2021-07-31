@@ -330,12 +330,13 @@
 ## LIB: MEDIAS
 - https://github.com/steveruizok/perfect-arrows
 - https://github.com/openseadragon/openseadragon
-- https://github.com/greensock/GSAP
+- https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
 - https://github.com/google/model-viewer
 - https://github.com/graphery/graphery
 - https://github.com/aeroheim/midori
 - https://github.com/markedjs/marked
+- https://github.com/greensock/GSAP
 - https://github.com/varkor/quiver
 
 ## LIB: 3D/VR
