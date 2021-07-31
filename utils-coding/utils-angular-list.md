@@ -1209,6 +1209,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/newvladimirov/module-federation-with-angular-universal
 - https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
+- https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer
 - https://leanpub.com/enterprise-angular
 - https://www.infoq.com/podcasts/micro-frontends-dazn/
 - https://ruairidh.dev/introduction-to-micro-frontends
@@ -1430,6 +1431,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/trumbitta/nx-trumbitta
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/atlassian/changesets
@@ -1757,6 +1759,7 @@ Learn the best way to make your objects immutable.
 
 - https://www.youtube.com/watch?v=t1ohOAyA_sI
 - https://github.com/frintjs/frint
+- https://github.com/BuilderIO/mitosis
 - https://github.com/ionic-team/stencil
 - https://github.com/aelbore/ngx-elements
 - https://github.com/brunob15/ngx-element
@@ -1857,6 +1860,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/just-jeb/jest-marbles
 - https://github.com/briebug/jest-schematic
 - https://github.com/skovhus/jest-codemods
+- https://github.com/bencompton/jest-cucumber
 - https://github.com/storybookjs/storybook
 - https://github.com/stryker-mutator/stryker
 - https://github.com/amcdnl/angular-storybook
@@ -2355,6 +2359,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brechtbilliet/winecellar
 - https://github.com/NationalBankBelgium/stark
 - https://github.com/r-park/todo-angular2-firebase
+- https://github.com/nhaancs/realworld-nx-nestjs-angular
 - https://github.com/bezkoder/angular-12-node-js-project
 - https://github.com/bezkoder/spring-boot-angular-11-mysql
 

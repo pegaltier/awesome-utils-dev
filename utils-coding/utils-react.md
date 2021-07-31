@@ -43,12 +43,17 @@
 
 ## EXAMPLES
 
+- https://github.com/Unity-Technologies/frontend-developer-test
+- https://github.com/Ninjas-Code-official/shopping-cart
 - https://github.com/konstantinmuenster/notion-clone
 - https://github.com/xiongemi/white-label-airline
 - https://github.com/UnlyEd/next-right-now
+- https://github.com/Th3Wall/Fakeflix
 
 ## STARTER
+
 - https://github.com/facebook/create-react-app
+- https://github.com/salvia-kit/salvia-kit-website
 
 ## JAMSTACK
 
@@ -67,10 +72,10 @@
 - https://github.com/moroshko/basis
 - https://github.com/vazco/uniforms
 - https://github.com/Swizec/useAuth
+- https://github.com/formium/formik
 - https://github.com/preactjs/preact
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
-- https://github.com/formium/formik
 - https://github.com/nmn/react-timeago
 - https://github.com/clauderic/dnd-kit
 - https://github.com/BuilderIO/jsx-lite
@@ -79,6 +84,7 @@
 - https://github.com/everweij/react-laag
 - https://github.com/mbrn/material-table
 - https://github.com/JedWatson/classnames
+- https://github.com/InseeFrLab/keycloakify
 - https://github.com/omgovich/react-colorful
 - https://github.com/STRML/react-grid-layout
 - https://github.com/alampros/react-confetti
@@ -125,6 +131,7 @@
 - https://github.com/palantir/blueprint
 - https://github.com/microsoft/fluentui
 - https://github.com/mantinedev/mantine
+- https://github.com/ZEISS/precise-ui
 - https://github.com/grommet/grommet
 - https://github.com/rebassjs/rebass
 - https://github.com/appnexus/lucid
@@ -145,14 +152,10 @@
 - https://github.com/module-federation/nextjs-mf
 - https://github.com/ixartz/Next-js-Boilerplate
 - https://github.com/one-aalam/next-starter-kit
+- https://github.com/graphlatte/graphlatte
 - https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
 - https://github.com/shuding/nextra
-
-## DEMO: EXAMPLE
-- https://github.com/Th3Wall/Fakeflix
-- https://github.com/Ninjas-Code-official/shopping-cart
-- https://github.com/Unity-Technologies/frontend-developer-test
 
 ## NATIVE
 
@@ -179,12 +182,14 @@
 - https://github.com/callstack/react-native-builder-bob
 - https://github.com/meliorence/react-native-render-html
 - https://github.com/marcocesarato/react-native-big-list
+- https://github.com/ospfranco/react-native-quick-sqlite
 - https://github.com/react-native-modal/react-native-modal
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/NataliaLinnik/react-native-nested-list
 - https://github.com/Flair-Dev/react-native-awesome-gallery
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
+- https://github.com/JustLance/react-native-iovation-deviceprint
 - https://github.com/thebylito/react-native-navigation-bar-color
 - https://github.com/conorhastings/react-native-syntax-highlighter
 - https://github.com/MoOx/react-native-transparent-status-and-navigation-bar

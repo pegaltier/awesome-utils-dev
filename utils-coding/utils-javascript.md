@@ -235,6 +235,7 @@
 - https://github.com/bvaughn/js-search
 - https://github.com/ansman/validate.js
 - https://github.com/koorchik/js-validator-livr
+- https://github.com/fingerprintjs/fingerprintjs
 - https://github.com/Unleash/unleash
 
 ## LIB: POLYFILL
@@ -345,6 +346,7 @@
 ## LIB: CALC
 - https://github.com/josdejong/mathjs
 - https://github.com/stdlib-js/stdlib
+- https://github.com/dinerojs/dinero.js
 - https://github.com/ebradyjobory/finance.js
 - https://github.com/dcousens/haversine-distance
 

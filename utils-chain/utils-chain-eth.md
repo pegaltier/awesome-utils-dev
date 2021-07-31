@@ -11,6 +11,7 @@
 ## ETH DEV
 - https://etherscan.io/apis
 - https://github.com/ethereum/
+- https://github.com/ethers-io/ethers.js
 - https://github.com/ethereum-ts/TypeChain
 - https://github.com/bkrem/awesome-solidity
 - https://github.com/embark-framework/embark

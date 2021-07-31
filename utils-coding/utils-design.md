@@ -266,6 +266,7 @@
 
 ## SVG
 - https://github.com/dai-shi/excalidraw-animate
+- https://github.com/dai-shi/excalidraw-claymate
 - https://yqnn.github.io/svg-path-editorw
 - https://github.com/maxwellito/vivus
 - https://undraw.co/illustrations

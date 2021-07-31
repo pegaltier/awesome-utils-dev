@@ -453,6 +453,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
 - https://codepen.io/smpnjn/pen/mdrWPpK
 - https://codepen.io/ainalem/full/QWGNzYm
+- https://codepen.io/cassie-codes/pen/GRmrogP
 - https://css-irl.info/animating-underlines/
 - https://ishadeed.com/article/handling-text-over-image-css/
 - https://github.com/emmabostian/design-inspiration

@@ -58,6 +58,7 @@
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard
 - https://github.com/kubernetes/kubernetes
+- https://github.com/viralpoetry/kubesurveyor
 - https://github.com/eon01/kubernetes-workshop
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/kubernauts/jmeter-kubernetes
