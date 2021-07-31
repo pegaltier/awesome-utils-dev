@@ -1103,6 +1103,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/ngrx/platform/issues/2489
 - https://www.youtube.com/watch?v=EeNMGhLnBGg component store - april 24
 - https://www.youtube.com/watch?v=6H31VLtS4ZA component store - july 15
+- https://www.youtube.com/watch?v=O_CkyqVMFH4 ng-conf - filling the gap
 - https://www.twitch.tv/videos/710076459 Angular Unfiltered - NgRx V10 
 
 - https://indepth.dev/posts/1408/how-to-manage-angular-state-in-your-components
@@ -1433,6 +1434,11 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/trumbitta/nx-trumbitta
 - https://github.com/nrwl/nx-examples
+- https://github.com/nrwl/nx-set-shas
+- https://github.com/e-square-io/nx-github-actions
+- https://github.com/e-square-io/nx-distributed-task
+- https://github.com/NativeScript/plugin-tools
+- https://github.com/e-square-io/nx-plugins
 - https://github.com/nrwl/nx-custom-layout
 - https://github.com/atlassian/changesets
 - https://github.com/ctx-core/ctx-core
@@ -1458,6 +1464,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/lydemann/Todo-monorepo
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/balazsconf/monodemo
+- https://github.com/vsavkin/interstellar
 - https://github.com/nxpm/stack
 - https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
@@ -2165,6 +2172,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
+- https://github.com/e-square-io/bdir
 - https://github.com/ngneat/transloco
 - https://github.com/fkirc/attranslate
 - https://github.com/ngx-translate/core
@@ -2331,6 +2339,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/nxpm/nxpm-universal
 - https://github.com/enten/angular-universal
 - https://github.com/TrilonIO/universal-nest
+- https://github.com/brandonroberts/nx-ng-ssr
 - https://github.com/servrox/nx-ng-nest-universal
 - https://github.com/TrilonIO/angular-universal-v9
 - https://github.com/mgechev/angular-hybrid-rendering
@@ -2345,6 +2354,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/Jefiozie/scully-notion
 - https://github.com/yangjunhan/scully-example
 - https://github.com/MSakamaki/scully-homepage
+- https://github.com/NicolasDesnoust/Desnote-Book
 - https://github.com/samvloeberghs/scully-universal
 - https://github.com/snipcart/scully-snipcart-store
 - https://github.com/d-koppenhagen/d-koppenhagen.de

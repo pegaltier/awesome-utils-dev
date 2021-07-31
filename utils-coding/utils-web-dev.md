@@ -431,6 +431,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 ## EMAIL
 
 - https://codedmails.com/
+- https://github.com/mjmlio/mjml
 - https://github.com/tomayac/dark-mode-email
 
 ## CREATIVE TOOLS

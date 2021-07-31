@@ -140,6 +140,7 @@
 - https://github.com/devexperts/remote-data-ts
 - https://github.com/gbumanzordev/utility-types
 - https://github.com/typestack/class-transformer
+- https://github.com/sfkiwi/linked-list-typescript
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/YousefED/typescript-json-schema
 - https://github.com/gbumanzordev/payload-transformer

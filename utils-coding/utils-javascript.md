@@ -244,6 +244,9 @@
 ## LIB: REGEX
 - https://github.com/devongovett/regexgen
 
+## LIB: VALIDATION
+- https://github.com/sideway/joi
+
 ## LIB: ARCHI
 - https://github.com/mgechev/injection-js
 - https://github.com/inversify/InversifyJS
@@ -300,6 +303,7 @@
 - https://github.com/datalog/qrcode-svg
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
+- https://github.com/ueberdosis/tiptap
 - https://github.com/zxing-js/library
 - https://github.com/omrilotan/isbot
 - https://github.com/Leaflet/Leaflet
@@ -370,6 +374,7 @@
 
 ## LIB: TESTING
 - https://github.com/Marak/faker.js
+- https://github.com/boblauer/MockDate
 
 ## LIB: SECURITY
 - https://github.com/travist/jsencrypt
