@@ -136,6 +136,7 @@
 - https://github.com/microsoft/fluentui
 - https://github.com/mantinedev/mantine
 - https://github.com/ZEISS/precise-ui
+- https://github.com/WTTJ/welcome-ui
 - https://github.com/grommet/grommet
 - https://github.com/rebassjs/rebass
 - https://github.com/appnexus/lucid
@@ -153,9 +154,11 @@
 
 - https://github.com/belgattitude/nextjs-monorepo-example
 - https://github.com/application-research/next-bucket
+- https://github.com/ixartz/Next-js-Blog-Boilerplate
 - https://github.com/module-federation/nextjs-mf
 - https://github.com/ixartz/Next-js-Boilerplate
 - https://github.com/one-aalam/next-starter-kit
+- https://github.com/vercel/next-learn-starter
 - https://github.com/graphlatte/graphlatte
 - https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies

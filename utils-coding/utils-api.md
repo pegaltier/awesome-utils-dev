@@ -39,6 +39,9 @@
 - https://github.com/drwpow/openapi-typescript
 - https://github.com/devexperts/swagger-codegen-ts
 
+## POSTMAN
+- https://github.com/transferwise/public-api-postman-collection
+
 ## MOCKS
 - https://jsonbox.io/
 - https://beeceptor.com/

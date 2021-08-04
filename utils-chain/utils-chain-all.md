@@ -76,6 +76,7 @@
 - https://github.com/CyberPunkMetalHead/reddit-cryptocurrency-trading
 - https://github.com/f13end/tradingview-custom-indicators
 - https://github.com/jaggedsoft/node-binance-api
+- https://github.com/edeng23/binance-trade-bot
 - https://github.com/chrisleekr/binance-trading-bot
 - https://github.com/jsappme/node-binance-trader
 - https://www.shrimpy.io/backtest?c=EBAaAGWAAA==&p=1w&r=96

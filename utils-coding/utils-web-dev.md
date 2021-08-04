@@ -59,6 +59,7 @@
 - https://almanac.httparchive.org/en/2020/
 - https://internetingishard.com/html-and-css/
 - https://github.com/bendc/frontend-guidelines
+- https://github.com/styfle/breaking-changes-web
 - https://fifty.user-interface.io/50_ui_tips.pdf
 - https://github.com/stackblitz/webcontainer-core
 - https://learn-the-web.algonquindesign.ca/topics/
@@ -140,7 +141,9 @@
 ## TOOLS: SVG
 - https://getwaves.io
 - https://svgcrop.com/
+- https://www.blobbb.fun/
 - https://app.haikei.app/
+- https://wickedbackgrounds.com/
 - https://www.softr.io/tools/svg-shape-generator
 
 ## TOOLS: CSS
@@ -443,6 +446,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 - https://thisispam.com/
 - https://book-of-flowers.com/
+- https://etiennebarbedette.com/
 - https://www.aristidebenoist.com/
 - https://www.martin-laxenaire.fr/
 - https://tympanus.net/codrops/category/articles/websites-roundups/
@@ -455,6 +459,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://codepen.io/smpnjn/pen/mdrWPpK
 - https://codepen.io/ainalem/full/QWGNzYm
 - https://codepen.io/cassie-codes/pen/GRmrogP
+- https://codepen.io/creativeocean/pen/poPexje
 - https://css-irl.info/animating-underlines/
 - https://ishadeed.com/article/handling-text-over-image-css/
 - https://github.com/emmabostian/design-inspiration
@@ -480,16 +485,6 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/
 - https://martinlaxenaire.medium.com/portfolio-2021-technical-case-study-rendering-a-whole-html-website-in-webgl-1cd2982c2050
 
-## TIPS
+## TRAINING
 
-development team velocity:
-
-- Mock APIs
-- Static types
-- Fast CI builds
-- Fast feedback loops
-- Small, focused tickets
-- Frequent, small releases
-- Comprehensive, fast tests
-- Automated code quality checks
-- Automatic code formatting on save
+- https://dev-concepts.dev/

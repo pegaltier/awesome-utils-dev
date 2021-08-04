@@ -7,6 +7,7 @@
 - https://metatags.io/font-generator
 
 ## Oss
+- https://github.com/yjs/yjs
 - https://github.com/schollz/croc
 - https://github.com/nocodb/nocodb
 - https://github.com/slidevjs/slidev

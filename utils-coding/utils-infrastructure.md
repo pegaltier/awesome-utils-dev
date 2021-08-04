@@ -54,10 +54,12 @@
 - https://github.com/hobby-kube/guide
 - https://github.com/godaddy/terminus
 - https://github.com/porter-dev/porter
+- https://github.com/yogeshkk/K8sPurger
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard
 - https://github.com/kubernetes/kubernetes
+- https://github.com/shank-git/metal-kubes
 - https://github.com/viralpoetry/kubesurveyor
 - https://github.com/eon01/kubernetes-workshop
 - https://github.com/eldada/kubernetes-scripts

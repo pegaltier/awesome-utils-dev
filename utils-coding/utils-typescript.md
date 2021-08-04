@@ -116,6 +116,7 @@
 - https://github.com/pfgray/ts-adt
 - https://github.com/mu-io/ts-japi
 - https://github.com/colinhacks/zod
+- https://github.com/pelotom/unionize
 - https://github.com/pelotom/runtypes
 - https://github.com/arcanis/typanion
 - https://github.com/stephenh/ts-proto

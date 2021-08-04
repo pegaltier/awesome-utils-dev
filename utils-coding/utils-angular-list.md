@@ -1435,6 +1435,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/trumbitta/nx-trumbitta
 - https://github.com/nrwl/nx-examples
 - https://github.com/nrwl/nx-set-shas
+- https://github.com/guiseek/nx-clean
 - https://github.com/e-square-io/nx-github-actions
 - https://github.com/e-square-io/nx-distributed-task
 - https://github.com/NativeScript/plugin-tools
@@ -1644,6 +1645,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ytilis/ngx-batch-requests
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/angelnikolov/ts-cacheable
+- https://github.com/fulls1z3/ngx-cache
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/juanmesa2097/ngx-generic-rest-service
 - https://github.com/kamilkisiela/apollo-angular
@@ -1691,6 +1693,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/KoderLabs/ngx-device-detector
 - https://github.com/ngneat/overview
 - https://github.com/ngneat/hotkeys
+- https://github.com/fulls1z3/ngx-config
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -1928,6 +1931,7 @@ Analyze and optimize the performance of your app
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
 - https://github.com/ivylaboratory/ivypinch
+- https://github.com/leNicDev/ng-hcaptcha
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
 - https://github.com/dig-platform/ngx-stackblitz
@@ -2337,6 +2341,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 
+- https://github.com/fulls1z3/universal
 - https://github.com/nxpm/nxpm-universal
 - https://github.com/enten/angular-universal
 - https://github.com/TrilonIO/universal-nest

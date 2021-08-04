@@ -97,19 +97,23 @@
 ## ARTICLES BEST PRACTICES
 - https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397
 - https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
-- https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
 - https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9
+- https://levelup.gitconnected.com/javascript-best-practices-functions-and-mutations-43d76e280cfe
 - https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
+- https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
+- https://thewebdev.info/2020/06/09/more-javascript-habits-we-can-follow/
 - https://medium.com/trabe/using-switch-true-in-javascript-986e8ad8ae4f
 - https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/
-- https://thewebdev.info/2020/06/09/more-javascript-habits-we-can-follow/
 - https://typeofnan.dev/10-javascript-quiz-questions-and-answers/
-- https://codesource.io/javascript-design-patterns/
 - https://github.com/lydiahallie/javascript-questions#readme
-- https://levelup.gitconnected.com/javascript-best-practices-functions-and-mutations-43d76e280cfe
+- https://www.javatpoint.com/static-vs-const-in-javascript
+- https://codesource.io/javascript-design-patterns/
 
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
+- https://www.w3schools.com/js/js_hoisting.asp
+
+Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
 
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
@@ -262,6 +266,7 @@
 
 ## LIB: PARSER
 - https://github.com/fb55/htmlparser2
+- https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
 
 ## LIB: ID
@@ -326,6 +331,9 @@
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
 - https://github.com/fast-average-color/fast-average-color
+
+## LIB: MAP
+- https://github.com/alyssaxuu/mapus
 
 ## LIB: MEDIAS
 - https://github.com/steveruizok/perfect-arrows

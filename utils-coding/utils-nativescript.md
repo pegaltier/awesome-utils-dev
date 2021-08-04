@@ -37,7 +37,9 @@ Publish to Google Play for beta testing or public distribution.
 
 ## LIB
 
+- https://github.com/nativescript-community/ui-collectionview
 - https://github.com/FinanzRitter/nativescript-share-file
+- https://github.com/nativescript-community/ui-mapbox
 - https://github.com/bgrand-ch/nativescript-getters
 
 ## EXAMPLE
