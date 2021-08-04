@@ -31,6 +31,7 @@
 - https://github.com/Urigo/graphql-mesh
 - https://github.com/dotansimha/envelop
 - https://github.com/graphql/dataloader
+- https://github.com/StarpTech/GraphCDN
 - https://github.com/graphql-nexus/nexus
 - https://github.com/PabloSzx/graphql-ez
 - https://github.com/oslabs-beta/portara

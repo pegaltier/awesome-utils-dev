@@ -2658,6 +2658,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/PacktPublishing/Angular-Projects
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://manning.com/books/angular-2-development-with-typescript
+- https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison
 - https://egghead.io/series/angular-2-fundamentals
 - https://leanpub.com/developing-with-angular
