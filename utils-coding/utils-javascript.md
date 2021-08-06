@@ -370,8 +370,9 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/ibmruntimes/yieldable-json
 
 ## LIB: PDF
-- https://github.com/bpampuch/pdfmake
 - https://github.com/Hopding/pdf-lib
+- https://github.com/bpampuch/pdfmake
+- https://github.com/hand-dot/labelmake
 - https://github.com/pdffillerjs/pdffiller
 - https://github.com/simonhaenisch/md-to-pdf
 
