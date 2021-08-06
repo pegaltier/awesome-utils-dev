@@ -422,6 +422,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://github.com/mgechev/cli-builders-demo
 - https://github.com/bikecoders/ngx-deploy-npm
 - https://github.com/Azure/ng-deploy-azure
+- https://github.com/just-jeb/angular-builders
 - https://github.com/manfredsteyer/ngx-build-plus
 - https://github.com/ngx-builders/angular-builder
 - https://github.com/ngx-builders/netlify-builder
@@ -1932,6 +1933,7 @@ Analyze and optimize the performance of your app
 - https://github.com/matteobruni/tsparticles
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/leNicDev/ng-hcaptcha
+- https://github.com/cormacrelf/angular-skyhook
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
 - https://github.com/dig-platform/ngx-stackblitz

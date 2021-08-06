@@ -120,6 +120,7 @@
 - https://github.com/pelotom/runtypes
 - https://github.com/arcanis/typanion
 - https://github.com/stephenh/ts-proto
+- https://github.com/syntax-tree/unist
 - https://github.com/gcanti/monocle-ts
 - https://github.com/maleet/marshal.ts
 - https://github.com/millsp/ts-toolbelt
@@ -153,6 +154,7 @@
 - https://github.com/prisma/prisma
 - https://github.com/typeorm/typeorm
 - https://github.com/typegoose/typegoose
+- https://github.com/liberation-data/drivine
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository
 
 ## LIB: TEST
