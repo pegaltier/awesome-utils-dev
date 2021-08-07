@@ -11,6 +11,7 @@
 - https://github.com/microsoft/TypeScript-Handbook
 - https://github.com/labs42io/clean-code-typescript
 - https://github.com/type-challenges/type-challenges
+- https://github.com/DanWahlin/typescript-fundamentals
 - https://github.com/microsoft/TypeScript-New-Handbook
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://github.com/enricopolanski/functional-programming
