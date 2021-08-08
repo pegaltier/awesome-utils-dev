@@ -10,7 +10,9 @@
 ## Example
 
 ```
+("C:\\Users\\pegal\\folder\\(.*)")
 (.*)'@modules/customer/(.*)/(.*)';
 (.*)'@modules/customer/(.*)';
+(- https:\/\/(.*))
 
 ```

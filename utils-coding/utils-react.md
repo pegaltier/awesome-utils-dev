@@ -85,6 +85,7 @@
 - https://github.com/everweij/react-laag
 - https://github.com/mbrn/material-table
 - https://github.com/JedWatson/classnames
+- https://github.com/twobin/react-lazyload
 - https://github.com/InseeFrLab/keycloakify
 - https://github.com/omgovich/react-colorful
 - https://github.com/STRML/react-grid-layout
