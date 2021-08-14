@@ -110,6 +110,7 @@
 
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/gcanti/fp-ts
+- https://github.com/gigobyte/purify
 - https://github.com/gcanti/fp-ts-contrib
 
 ## LIB: DATA OBJECT

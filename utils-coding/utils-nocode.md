@@ -40,6 +40,7 @@ low-code tooling to prototype fastly.
 - https://github.com/BuilderIO/qwik
 - https://github.com/BuilderIO/builder
 - https://github.com/directus/directus
+- https://github.com/kelseyhightower/nocode
 - https://github.com/api-platform/api-platform
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/HansSchouten/PHPageBuilder

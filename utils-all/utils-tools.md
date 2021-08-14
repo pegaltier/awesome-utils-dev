@@ -18,6 +18,7 @@
 - https://github.com/justinfrankel/licecap
 - https://github.com/obsproject/obs-studio
 - https://github.com/mattermost/focalboard
+- https://github.com/adisreyaj/cartella-web
 - https://github.com/tanepiper/obsidian-garden
 
 ## Diagram

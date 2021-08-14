@@ -80,8 +80,10 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 - gap on indices are good for trading, much more probability
 
 ## INDICATOR
-- ratio rendement potentiel / risque (Sharpe et Sortino)
-- diversification : reduction risque
+- correlation: helps to be more accurate and eliminate false signals: gold/silver | gdx/sil | btc/eth | s&p/nasdaq
+- forces: longer it remains near support the more dangerous it becomes
+- ratio: rendement potentiel / risque (Sharpe et Sortino)
+- diversification: reduction risque
 
 ## FRACTALE
 

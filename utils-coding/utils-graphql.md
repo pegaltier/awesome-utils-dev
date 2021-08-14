@@ -37,6 +37,7 @@
 - https://github.com/PabloSzx/graphql-ez
 - https://github.com/oslabs-beta/portara
 - https://github.com/FormidableLabs/urql
+- https://github.com/enisdenjo/graphql-ws
 - https://github.com/graphile/postgraphile
 - https://github.com/hasura/graphql-engine
 - https://github.com/Urigo/graphql-modules

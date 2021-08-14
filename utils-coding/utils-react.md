@@ -77,6 +77,7 @@
 - https://github.com/preactjs/preact
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
+- https://github.com/devpato/react-NFC
 - https://github.com/nmn/react-timeago
 - https://github.com/clauderic/dnd-kit
 - https://github.com/reactjs/react-tabs
@@ -95,6 +96,7 @@
 - https://github.com/mfrachet/rn-placeholder
 - https://github.com/eclipsesource/jsonforms
 - https://github.com/LouisBarranqueiro/reapop
+- https://github.com/gilbarbara/react-joyride
 - https://github.com/casesandberg/react-color
 - https://github.com/pmndrs/react-use-gesture
 - https://github.com/aaronvanston/react-flexa
@@ -197,6 +199,7 @@
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/NataliaLinnik/react-native-nested-list
 - https://github.com/Flair-Dev/react-native-awesome-gallery
+- https://github.com/software-mansion/react-native-reanimated
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
 - https://github.com/JustLance/react-native-iovation-deviceprint
