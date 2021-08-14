@@ -277,6 +277,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
+- https://github.com/shoelace-style/shoelace
 - https://github.com/junhoyeo/use-color
 - https://github.com/joe223/tiny-swiper
 - https://github.com/reach/observe-rect

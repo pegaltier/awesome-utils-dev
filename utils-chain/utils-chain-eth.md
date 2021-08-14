@@ -18,7 +18,9 @@
 - https://github.com/paulrberg/create-eth-app
 - https://github.com/antonnell/veToken-voting
 - https://github.com/mithio/mithril-smart-contract
+- https://github.com/ethereumjs/ethereumjs-monorepo
 - https://github.com/eSwapping/ESWAP-Limit-Order-Bot
+- https://github.com/dabit3/polygon-ethereum-nextjs-marketplace
 
 ## ETH TOOLS/EXPLORER
 - https://trivial.co

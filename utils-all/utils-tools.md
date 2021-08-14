@@ -14,10 +14,11 @@
 - https://github.com/alyssaxuu/flowy
 - https://github.com/pavlobu/deskreen
 - https://github.com/chatwoot/chatwoot
+- https://github.com/justinfrankel/licecap
 - https://github.com/obsproject/obs-studio
 - https://github.com/mattermost/focalboard
+- https://github.com/adisreyaj/cartella-web
 - https://github.com/tanepiper/obsidian-garden
-- https://github.com/justinfrankel/licecap
 
 ## Diagram
 - https://flowchart.fun/

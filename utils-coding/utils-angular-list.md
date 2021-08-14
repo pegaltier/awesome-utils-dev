@@ -1116,6 +1116,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 Discover alternative to ngrx for the state management of your objects.
 
+- https://github.com/ngneat/elf
 - https://github.com/nullpub/dux
 - https://github.com/mobxjs/mobx
 - https://github.com/ngxs/store
@@ -1435,8 +1436,10 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/trumbitta/nx-trumbitta
 - https://github.com/nrwl/nx-examples
+- https://github.com/studds/nx-aws
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
+- https://github.com/deepkit-community/nx-plugins
 - https://github.com/e-square-io/nx-github-actions
 - https://github.com/e-square-io/nx-distributed-task
 - https://github.com/NativeScript/plugin-tools
@@ -1934,6 +1937,7 @@ Analyze and optimize the performance of your app
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
 - https://github.com/ivylaboratory/ivypinch
+- https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
 - https://github.com/cormacrelf/angular-skyhook
 - https://github.com/qgrid/ng2-expression-builder
@@ -1966,6 +1970,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngneat/hot-toast
 - https://github.com/daybrush/moveable
 - https://github.com/matheo/angular
+- https://github.com/ng-dnd/ng-dnd
 - https://github.com/sitecore/jss
 - https://github.com/chigix/rengular
 - https://github.com/angular-material-extensions
@@ -2206,6 +2211,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NorthwoodsSoftware/gojs-angular
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/makimenko/angular-template-for-threejs
+- https://github.com/nartc/angular-three
 - https://github.com/jannicz/ng-svg-icon-sprite
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
@@ -2589,6 +2595,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## ECOSYSTEM: VSCODE OTHERS
 
+- https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 - https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser

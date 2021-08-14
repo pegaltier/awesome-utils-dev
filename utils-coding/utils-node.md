@@ -29,6 +29,7 @@
 
 - https://github.com/radarsu/types-package-json
 - https://github.com/davglass/license-checker
+- https://github.com/adisreyaj/cartella-web
 - https://github.com/localtunnel/localtunnel
 - https://github.com/sindresorhus/fkill-cli
 - https://github.com/juliangruber/npm-diff
@@ -93,6 +94,8 @@
 - https://docs.npmjs.com/cli/ci.html
 - https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
 
+## STARTER
+- https://github.com/bezkoder/node-js-mssql-crud-example
 
 ## NODE UPDATE WINDOWS
 
