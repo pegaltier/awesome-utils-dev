@@ -63,3 +63,7 @@
 - https://beta.storymapr.com/users/sign_in
 - https://www.dover.io/tools/job-description-rewriter
 - https://philosopherai.com/philosopher/technology-5f713c
+
+## TENSORFLOW
+- https://github.com/tensorflow/tensorboard
+- https://github.com/huggingface/transformers

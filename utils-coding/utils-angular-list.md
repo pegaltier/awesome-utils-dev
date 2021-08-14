@@ -159,6 +159,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
 - https://indepth.dev/angular-bad-practices-revisited/
+- https://github.com/evoytenkoapps/angular-best-practices
 - https://github.com/mgechev/angular-performance-checklist
 - https://github.com/Angular-community-collab/angular-study-guide
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1

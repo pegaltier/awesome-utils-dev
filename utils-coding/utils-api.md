@@ -35,6 +35,7 @@
 
 ## OPENAPI
 - https://github.com/swagger-api/swagger-codegen
+- https://github.com/apideck-libraries/portman
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/drwpow/openapi-typescript
 - https://github.com/devexperts/swagger-codegen-ts

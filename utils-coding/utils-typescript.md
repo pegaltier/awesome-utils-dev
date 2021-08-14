@@ -54,6 +54,7 @@
 - https://github.com/ranyitz/code-migrate
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/saurabhdaware/typescript-run
+- https://github.com/LeDDGroup/typescript-transform-paths
 
 ## UTILS
 

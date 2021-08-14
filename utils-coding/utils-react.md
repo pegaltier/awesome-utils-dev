@@ -52,6 +52,7 @@
 
 ## STARTER
 
+- https://github.com/wesbos/Advanced-React
 - https://github.com/facebook/create-react-app
 - https://github.com/salvia-kit/salvia-kit-website
 
