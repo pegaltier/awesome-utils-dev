@@ -844,6 +844,7 @@ Learn everything about angular universal, make a good SEO.
 - https://medium.com/5bayt/angular-universal-d2254645c96e
 - https://indepth.dev/posts/1440/global-objects-in-angular
 - https://brianflove.com/2020-06-05/angular-transfer-state/
+- https://github.com/onespeed-articles/angular-universal-gotchas
 - https://github.com/angular/universal/blob/master/docs/gotchas.md
 - https://indepth.dev/posts/1437/angular-universal-real-app-problems
 - https://developers.google.com/search/docs/guides/dynamic-rendering
@@ -1437,6 +1438,7 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/trumbitta/nx-trumbitta
 - https://github.com/nrwl/nx-examples
+- https://github.com/srleecode/domain
 - https://github.com/studds/nx-aws
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
@@ -2275,6 +2277,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/UlisesHllSk/ng-indexed-db
 - https://github.com/PillowPillow/ng2-webstorage
 - https://github.com/assuncaocharles/ngx-indexed-db
+- https://github.com/stevermeister/ngx-cookie-service
 - https://github.com/cyrilletuzi/angular-async-local-storage
 
 ## ECOSYSTEM: LIB: AUTH
