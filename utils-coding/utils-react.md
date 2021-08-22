@@ -117,11 +117,7 @@
 - https://github.com/aaronhayes/react-use-hubspot-form
 - https://github.com/bezkoder/react-refresh-token-hooks
 - https://github.com/welldone-software/why-did-you-render
-- https://github.com/JesperLekland/react-native-svg-charts
-- https://github.com/LonelyCpp/react-native-youtube-iframe
 - https://github.com/webscopeio/react-textarea-autocomplete
-- https://github.com/smallcase/react-native-simple-biometrics
-- https://github.com/hyochan/react-native-audio-recorder-player
 
 ## LIB: UI
 
@@ -131,6 +127,7 @@
 - https://github.com/react-bootstrap/react-bootstrap
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/americanexpress/react-albus
+- https://github.com/plouc/nivo
 - https://github.com/italia/design-react-kit
 - https://github.com/radix-ui/design-system
 - https://github.com/ant-design/ant-design
@@ -195,13 +192,17 @@
 - https://github.com/meliorence/react-native-render-html
 - https://github.com/marcocesarato/react-native-big-list
 - https://github.com/ospfranco/react-native-quick-sqlite
+- https://github.com/JesperLekland/react-native-svg-charts
+- https://github.com/LonelyCpp/react-native-youtube-iframe
 - https://github.com/react-native-modal/react-native-modal
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/NataliaLinnik/react-native-nested-list
 - https://github.com/Flair-Dev/react-native-awesome-gallery
+- https://github.com/smallcase/react-native-simple-biometrics
 - https://github.com/software-mansion/react-native-reanimated
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
+- https://github.com/hyochan/react-native-audio-recorder-player
 - https://github.com/JustLance/react-native-iovation-deviceprint
 - https://github.com/thebylito/react-native-navigation-bar-color
 - https://github.com/conorhastings/react-native-syntax-highlighter

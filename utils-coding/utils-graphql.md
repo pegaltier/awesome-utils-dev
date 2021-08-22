@@ -28,6 +28,7 @@
 - https://github.com/google/rejoiner
 - https://github.com/jagql/framework
 - https://github.com/anvilco/spectaql
+- https://github.com/graphql/graphiql
 - https://github.com/dgraph-io/dgraph
 - https://github.com/Urigo/graphql-mesh
 - https://github.com/dotansimha/envelop

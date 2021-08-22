@@ -56,6 +56,9 @@
 - https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker
 - https://marketplace.visualstudio.com/items?itemName=cyansprite.smoothscroll
 
+## EXTENSIONS: THEMES
+- https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave
+
 ## OPENSOURCE
 
 - https://github.com/microsoft/vscode-extension-samples

@@ -80,6 +80,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/laminas/laminas-mvc
 - https://github.com/psr7-sessions/storageless
 - https://github.com/willdurand/Negotiation
+- https://github.com/galousis/cqrs-ddd-php-example
 
 ## DEVTOOLS
 - https://github.com/xdebug/xdebug

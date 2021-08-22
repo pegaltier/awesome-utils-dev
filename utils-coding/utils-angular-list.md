@@ -1197,9 +1197,11 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/worktile/ngx-planet
 - https://github.com/CanopyTax/single-spa
 - https://github.com/manfredsteyer/mf-ssr
+- https://github.com/tieppt/nx-micro-frontends
 - https://github.com/manfredsteyer/mf-pitfalls
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/TinkoffCreditSystems/roofer
+- https://github.com/billyjov/microfrontend-resources
 - https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
@@ -1596,6 +1598,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: DEVTOOLS
 - https://github.com/expertly-simple/angular-evergreen
+- https://github.com/angular/ngcc-validation
 - https://github.com/rangle/angular-devtools
 - https://github.com/ng-easy/renovate-config
 - https://github.com/aholachek/bundle-wizard
@@ -2267,6 +2270,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/positive-js/mosaic
 - https://github.com/src-zone/material
 - https://github.com/tiaguinho/material-community-components
+- https://github.com/h2qutc/angular-material-components
 - https://github.com/acidb/mobiscroll
 - https://github.com/deepkit/deepkit-framework
 - https://github.com/ng-matero/extensions
@@ -2348,6 +2352,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/vthinkxie/ng-pull-refresh
+- https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/lacolaco/angular-testing-recipes
 - https://github.com/pankajparkar/lazy-loading-recipes

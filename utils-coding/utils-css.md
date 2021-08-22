@@ -76,6 +76,7 @@
 ## TAILWIND
 
 - https://tailblend.vercel.app/
+- https://github.com/tw-in-js/twind
 - https://github.com/mertJF/tailblocks
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/aniftyco/awesome-tailwindcss

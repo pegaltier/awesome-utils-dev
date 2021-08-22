@@ -364,6 +364,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/stdlib-js/stdlib
 - https://github.com/dinerojs/dinero.js
 - https://github.com/ebradyjobory/finance.js
+- https://github.com/handsontable/hyperformula
 - https://github.com/dcousens/haversine-distance
 
 ## LIB: DATA OBJECT
