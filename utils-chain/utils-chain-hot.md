@@ -182,6 +182,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-in-action/peer-share
 - https://github.com/lightningrodlabs/where-new
 - https://github.com/lightningrodlabs/hdk_crud
+- https://github.com/Sprillow/public-happ-challenge
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
 - https://github.com/juntofoundation/Shared-Perspective-Index
 - https://github.com/holochain-open-dev/dna-auth-resolver

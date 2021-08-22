@@ -55,6 +55,10 @@
 - https://github.com/mock-server/mockserver
 - https://github.com/typicode/jsonplaceholder
 
+## SERVERLESS
+- https://github.com/firebase/
+- https://github.com/supabase/supabase
+
 ## OTHERS
 - https://aip.dev
 - http://feathersjs.com

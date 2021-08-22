@@ -54,6 +54,7 @@
 
 - https://github.com/wesbos/Advanced-React
 - https://github.com/facebook/create-react-app
+- https://github.com/coolerwind/react-ecommerce
 - https://github.com/salvia-kit/salvia-kit-website
 
 ## JAMSTACK
@@ -127,7 +128,6 @@
 - https://github.com/react-bootstrap/react-bootstrap
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/americanexpress/react-albus
-- https://github.com/plouc/nivo
 - https://github.com/italia/design-react-kit
 - https://github.com/radix-ui/design-system
 - https://github.com/ant-design/ant-design
@@ -145,6 +145,7 @@
 - https://github.com/reaviz/reaflow
 - https://github.com/arwes/arwes
 - https://github.com/airbnb/visx
+- https://github.com/plouc/nivo
 
 ## LIST
 
@@ -165,6 +166,7 @@
 - https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
 - https://github.com/shuding/nextra
+- https://github.com/alii/nextkit
 
 ## NATIVE
 

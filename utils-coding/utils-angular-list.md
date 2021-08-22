@@ -1013,6 +1013,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 ## ECOSYSTEM: STORE: NGRX: DEMO
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/bbaia/todomvc-angular-ngrx
+- https://github.com/this-is-angular/ngrx-course
 
 ## ECOSYSTEM: STORE: NGRX: ARTICLES
 - https://dev.to/angular/nested-ngrx-entity-state-211k
@@ -1119,12 +1120,13 @@ Learn the angular error handler in order to catch the front-end and back-end err
 Discover alternative to ngrx for the state management of your objects.
 
 - https://github.com/ngneat/elf
+- https://github.com/ngxs/store
 - https://github.com/nullpub/dux
 - https://github.com/mobxjs/mobx
-- https://github.com/ngxs/store
 - https://github.com/logux/state
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/kuncevic/rx-service
+- https://github.com/nanostores/nanostores
 - https://github.com/spierala/mini-rx-store
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
@@ -1586,11 +1588,13 @@ Learn the best way to make your objects immutable.
 - https://github.com/sindresorhus/eslint-plugin-unicorn
 - https://github.com/typescript-eslint/typescript-eslint
 - https://github.com/trivago/prettier-plugin-sort-imports
-- https://github.com/lydell/eslint-plugin-simple-import-sort
 - https://github.com/MarkKragerup/weblint-eslint-security
-- https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/cyrilletuzi/typescript-strictly-typed
+- https://github.com/lydell/eslint-plugin-simple-import-sort
+- https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/danielnixon/eslint-plugin-total-functions
+- https://github.com/stormwarning/stylelint-config-recess-order
+- https://github.com/constverum/stylelint-config-rational-order
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
