@@ -43,6 +43,9 @@
 - https://www.checklyhq.com/
 - https://www.compose.com/
 
+## AWS
+- https://github.com/dwyl/learn-aws-lambda
+
 ## KUBERNETES
 - https://helm.sh/
 - https://github.com/appvia/kev

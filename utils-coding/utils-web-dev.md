@@ -471,6 +471,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://github.com/brunoimbrizi/interactive-particles
 - https://github.com/akella/ExplodingObjects
+- https://tympanus.net/Tutorials/TriangleSlideshow/
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://tympanus.net/Development/ExplodingObjects/
 - https://tympanus.net/Development/LettersAnimationLayout/

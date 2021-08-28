@@ -1583,6 +1583,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/prettier/tslint-config-prettier
+- https://github.com/aotaduy/eslint-plugin-spellcheck
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://github.com/cartant/eslint-plugin-rxjs-angular
 - https://github.com/sindresorhus/eslint-plugin-unicorn
@@ -2196,6 +2197,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
+- https://github.com/i18next/i18next
 - https://github.com/e-square-io/bdir
 - https://github.com/ngneat/transloco
 - https://github.com/fkirc/attranslate
@@ -2727,6 +2729,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://thoughtram.io/angular-master-class.html
 - https://tomastrajan.com/workshops/angular-mastery
 - https://ultimatecourses.com/courses/angular
+- https://github.com/loiane/curso-angular
 
 ## EVOLUTION
 

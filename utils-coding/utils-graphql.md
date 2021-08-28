@@ -14,6 +14,12 @@
 - https://dev.to/graphqleditor/graphql-tools-libraries-3bbc
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 
+## COURSES
+- https://github.com/dabit3/graphql-recipes
+- https://github.com/graphql/graphql-landscape
+- https://github.com/howtographql/howtographql
+- https://github.com/dotansimha/graphql-typescript-node-tutorial
+
 ## EXAMPLE
 - https://github.com/alan345/naperg
 - https://github.com/keystonejs/keystone
@@ -72,9 +78,6 @@
 - https://github.com/n1ru4l/graphql-public-schema-filter
 - https://github.com/dangcuuson/graphql-schema-typescript
 - https://github.com/dotansimha/graphql-typed-document-node
-
-## LEARN
-- https://github.com/dabit3/graphql-recipes
 
 ## MIGRATION
 - https://the-guild.dev/blog/migrating-from-rest

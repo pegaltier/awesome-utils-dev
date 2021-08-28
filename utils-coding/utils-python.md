@@ -14,6 +14,9 @@ Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, c
 
 - https://www.geeksforgeeks.org/get-post-requests-using-python/
 
+## STARTER
+- https://github.com/mirumee/saleor
+
 ## LIB
 
 - https://github.com/django/django

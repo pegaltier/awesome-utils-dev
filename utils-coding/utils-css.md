@@ -56,6 +56,7 @@
 - https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3
 - https://timseverien.com/posts/2020-12-06-what-makes-css-hard-to-master
 - https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
+- https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max/
 
 ## WEBSITES
 
@@ -77,6 +78,7 @@
 
 - https://tailblend.vercel.app/
 - https://github.com/tw-in-js/twind
+- https://github.com/saadeghi/daisyui
 - https://github.com/mertJF/tailblocks
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/aniftyco/awesome-tailwindcss
@@ -163,7 +165,8 @@ inline-table: The element is displayed as an inline-level table
 ### TIPS
 
 - The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time. It's recommended to use `grid` for layout tags and then `flex` for component level. Because grid can allow simple and powerful adjustement based on the width. Flex will adjust automatically depending on the size so it's perfect for avoiding adjustement issue on small components. 
-- it's recommended to use `div (section, article, header, footer)` for layout, `p` for text content and then `span` for component level. Because div and p are `block` (full width and equivalant to line-break before and after it). Span is `inline` so your things will stays on the same line. Even better you can avoid `span` with others specific in-line such as: `b,i,em...` 
+- it's recommended to use `div (section, article, header, footer)` for layout, `p` for text content and then `span` for component level. Because div and p are `block` (full width and equivalant to line-break before and after it). Span is `inline` so your things will stays on the same line. Even better you can avoid `span` with others specific in-line such as: `b,i,em...`
+- if you use sass or less it's recommended to use nested css class, it is good practive, however you must avoid to nest to deeply, for instance you should limit this nested to 3 or 4 levels maximum. If you have more you can group it and extract in another nested block. Or move it to another isolated component.
 
 ### COMPARAISON
 
@@ -212,5 +215,6 @@ SCORE	    SELECTOR
 ## ANIMATION
 
 - https://jst.hashnode.dev/css-animation-tutorial
+- https://dev.to/afif/adding-100-underline-overlay-animations-the-impressive-css-collection-1a93
 
 - utiliser la proriété transform pour faire des animations en css avec @keyframes car si vous utilisez une proriété css standard tel que margin-left alors cela déclenche le processus de rendering du layout.
