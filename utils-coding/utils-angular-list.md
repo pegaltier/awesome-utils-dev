@@ -1444,6 +1444,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/nrwl/nx-examples
 - https://github.com/srleecode/domain
 - https://github.com/studds/nx-aws
+- https://github.com/danmt/nx-anchor
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
 - https://github.com/deepkit-community/nx-plugins
@@ -1602,6 +1603,7 @@ Learn the best way to make your objects immutable.
 - https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
 
 ## ECOSYSTEM: LIB: DEVTOOLS
+- https://github.com/TrilonIO/angular-application-insights
 - https://github.com/expertly-simple/angular-evergreen
 - https://github.com/angular/ngcc-validation
 - https://github.com/rangle/angular-devtools
@@ -1941,6 +1943,7 @@ Analyze and optimize the performance of your app
 - https://github.com/adisreyaj/angular-star-rating
 - https://github.com/ivylaboratory/angular-popover
 - https://github.com/michaelbromley/ngx-pagination
+- https://github.com/MurhafSousli/ngx-highlightjs
 - https://github.com/isaacplmann/ngx-contextmenu
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
@@ -2095,9 +2098,9 @@ Analyze and optimize the performance of your app
 - https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
 - https://github.com/swimlane/ngx-charts
+- https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/apexcharts/ng-apexcharts
 - https://github.com/valor-software/ng2-charts
-- https://github.com/MurhafSousli/ngx-highlightjs
 - https://github.com/highcharts/highcharts-angular
 - https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
 
@@ -2154,29 +2157,28 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/formql/formql
 - https://github.com/ngspot/ngx-errors
 - https://github.com/myndpm/open-source
-- https://github.com/DmitryEfimenko/ngx-messages
 - https://github.com/cloudnc/ngx-sub-form
 - https://github.com/ngneat/reactive-forms
 - https://github.com/ngx-formly/ngx-formly
+- https://github.com/jstoppa/dynamic-forms
 - https://github.com/udos86/ng-dynamic-forms
 - https://github.com/Ninja-Squad/ngx-valdemort
-- https://github.com/jstoppa/dynamic-forms
+- https://github.com/DmitryEfimenko/ngx-messages
 - https://github.com/SanderElias/ngObservableForm
+- https://github.com/exportarts/ngx-pending-changes
 - https://github.com/maximelafarie/angular-dynamic-forms
-- https://github.com/formql/formql
 - https://github.com/formql/formql/tree/master/examples
-- https://github.com/UltimateAngular/ngxerrors
-- https://github.com/rsaenen/ngx-custom-validators
 - https://github.com/verizonconnect/ngx-form-generator
+- https://github.com/xtreamsrl/ngx-validation-errors
+- https://github.com/rsaenen/ngx-custom-validators
+- https://github.com/UltimateAngular/ngxerrors
 - https://github.com/why520crazy/ngx-validator
-- https://github.com/JsDaddy/ngx-mask
-- https://github.com/ngx-formly/ngx-formly
-- https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/ngneat/dirty-check-forms
+- https://github.com/ngneat/bind-query-params
+- https://github.com/ngx-formly/ngx-formly
 - https://github.com/ngneat/forms-manager
 - https://github.com/ngneat/error-tailor
-- https://github.com/ngneat/bind-query-params
-- https://github.com/xtreamsrl/ngx-validation-errors
+- https://github.com/JsDaddy/ngx-mask
 - https://github.com/zebzhao/Angular-QueryBuilder
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/TinkoffCreditSystems/angular-contenteditable-accessor
@@ -2356,6 +2358,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/alcfeoh/ng-advanced-workshop
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
+- https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/ajitsinghkaler/devto-clone

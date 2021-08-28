@@ -449,6 +449,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://etiennebarbedette.com/
 - https://www.aristidebenoist.com/
 - https://www.martin-laxenaire.fr/
+- https://github.com/jagracar/webgl-shader-examples
 - https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES

@@ -17,6 +17,7 @@
 - https://github.com/marmicode/rest-api-checklist
 - https://restfulapi.net/http-status-codes/
 - http://www.restapitutorial.com/lessons/httpmethods.html
+- https://github.com/NationalBankBelgium/REST-API-Design-Guide
 - https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
 - https://github.com/OAI/OpenAPI-Specification/blob/OpenAPI.next/versions/3.0.0.md
