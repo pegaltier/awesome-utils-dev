@@ -26,6 +26,7 @@
 - https://github.com/grafana/grafana
 - https://github.com/caprover/caprover
 - https://github.com/nicolargo/glances
+- https://github.com/cloudcomponents/cdk-constructs
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/ClementTsang/bottom
@@ -57,6 +58,7 @@
 - https://github.com/hobby-kube/guide
 - https://github.com/godaddy/terminus
 - https://github.com/porter-dev/porter
+- https://github.com/armosec/kubescape
 - https://github.com/yogeshkk/K8sPurger
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube

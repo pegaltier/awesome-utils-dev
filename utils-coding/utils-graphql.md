@@ -54,6 +54,7 @@
 - https://github.com/mercurius-js/mercurius
 - https://github.com/graphql/vscode-graphql
 - https://github.com/maticzav/graphql-shield
+- https://github.com/kitten/graphql-web-lite
 - https://github.com/APIs-guru/graphql-faker
 - https://github.com/piglovesyou/graphql-let
 - https://github.com/mcollina/openapi-graphql

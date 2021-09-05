@@ -114,6 +114,7 @@
 - https://github.com/gcanti/fp-ts-contrib
 
 ## LIB: DATA OBJECT
+- https://github.com/jquense/yup
 - https://github.com/gcanti/io-ts
 - https://github.com/nartc/mapper
 - https://github.com/pfgray/ts-adt
@@ -151,6 +152,7 @@
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/YousefED/typescript-json-schema
 - https://github.com/gbumanzordev/payload-transformer
+- https://github.com/dsherret/conditional-type-checks
 - https://github.com/moltar/typescript-runtime-type-benchmarks
 
 ## LIB: DATABASE

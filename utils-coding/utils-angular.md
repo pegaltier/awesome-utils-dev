@@ -908,6 +908,11 @@ In order to communicate between multiple microfrontend initialized in a same web
 
 - https://github.com/DanWahlin/angular-architecture/blob/master/demos/src/app/core/services/event-bus.service.ts
 
+### IDEAS
+
+- manage version compatibility to be sure cached shell version use the right compatible mf
+- how to detect what need to be delivered? only one mf or multiple mf or the full app: shell+mfs
+
 ## JAMSTACK
 
 JamStack is a new way to build static website using javascript, apis, markups. contrary to LAMPStack everything is generated at the build time. It helps for the SEO and for the performance, loading time...

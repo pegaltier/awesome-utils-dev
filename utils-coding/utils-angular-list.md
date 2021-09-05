@@ -1203,6 +1203,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/mf-pitfalls
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/TinkoffCreditSystems/roofer
+- https://github.com/TinkoffCreditSystems/microzord
 - https://github.com/billyjov/microfrontend-resources
 - https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/angular-microfrontend
@@ -2158,6 +2159,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngspot/ngx-errors
 - https://github.com/myndpm/open-source
 - https://github.com/cloudnc/ngx-sub-form
+- https://github.com/eclipsesource/jsonforms
 - https://github.com/ngneat/reactive-forms
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/jstoppa/dynamic-forms
@@ -2226,6 +2228,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/makimenko/angular-template-for-threejs
 - https://github.com/nartc/angular-three
+- https://github.com/chartbrew/chartbrew
 - https://github.com/jannicz/ng-svg-icon-sprite
 - https://github.com/czeckd/angular2-svg-icon
 - https://github.com/fengyuanchen/cropperjs
@@ -2282,6 +2285,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/acidb/mobiscroll
 - https://github.com/deepkit/deepkit-framework
 - https://github.com/ng-matero/extensions
+- https://github.com/IBM/carbon-components-angular
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2461,6 +2465,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/nativescript-community/expo-nativescript
 - https://github.com/tomastrajan/angular-architecture-example
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
+- https://github.com/SaulMoro/poc-angular-pwa-ngrx-rtk-redux-toolkit-formly
 - https://github.com/BioPhoton/Reactive-Architecture-and-UX-Patterns_Angular
 
 ## ECOSYSTEM: DEMO: LIVE
