@@ -161,6 +161,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://indepth.dev/angular-bad-practices-revisited/
 - https://github.com/evoytenkoapps/angular-best-practices
 - https://github.com/mgechev/angular-performance-checklist
+- https://github.com/mathisGarberg/angular-folder-structure
 - https://github.com/Angular-community-collab/angular-study-guide
 - https://blog.angularindepth.com/lean-angular-components-252bcb6ea6c1
 - https://blog.angularindepth.com/angular-tools-you-should-be-aware-of-a6d37ad39f4e
@@ -273,6 +274,7 @@ Learn about the most useful design patterns in Angular.
 
 ## HELPER: ONLINE IDE
 
+- https://replit.com/
 - https://ng-run.com/
 - https://codesandbox.io/
 - https://stackblitz.com
@@ -429,6 +431,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://github.com/ngx-builders/netlify-builder
 - https://github.com/ngx-builders/ngx-heroku-deploy
 - https://github.com/mauriziovitale/angular-plugins
+- https://github.com/studiohyperdrive/angular_builders
 - https://github.com/angular-schule/angular-cli-ghpages
 - https://www.smashingmagazine.com/2021/06/getting-started-webpack/
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
@@ -1098,6 +1101,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/alex-okrushko/component-store-demo
 - https://github.com/ngfelixl/ngrx-component-store-testing
 - https://github.com/tomwhite007/ngrx-component-store-experiment
+- https://github.com/brandonroberts/ngrx-store-component-store
 - https://stackblitz.com/edit/heroes-component-store
 - https://stackblitz.com/edit/github-component-store-demo
 - https://stackblitz.com/edit/angular-ivy-hdkz19
@@ -1442,6 +1446,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/trumbitta/nx-trumbitta
+- https://github.com/jscutlery/nx-completion
 - https://github.com/nrwl/nx-examples
 - https://github.com/srleecode/domain
 - https://github.com/studds/nx-aws
@@ -1517,6 +1522,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
 - https://github.com/scullyio/scully/tree/main/libs/plugins/from-data
 - https://github.com/scullyio/scully/tree/main/libs/plugins/base-href-rewrite
+- https://github.com/nartc/notion-stuff/tree/main/libs/scully-plugin-notion
 - https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-disable-angular
 - https://github.com/samvloeberghs/kwerri-oss/tree/master/projects/scully-plugin-minify-html
 - https://github.com/scullyio/scully/blob/main/scully.sample-blog.config.ts
@@ -1678,8 +1684,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-component/router
 - https://github.com/Dankwansere/aop-routing
 - https://github.com/phhien203/ngx-router
-- https://github.com/retarsis/routerkit
-- https://github.com/retarsis/routeshub
+- https://github.com/untaggable/routerkit
+- https://github.com/untaggable/routeshub
 - https://github.com/ui-router/angular
 - https://github.com/benwinding/ngext
 
@@ -1713,6 +1719,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/overview
 - https://github.com/ngneat/hotkeys
 - https://github.com/fulls1z3/ngx-config
+- https://github.com/mmuscat/angular-composition-api
+- https://github.com/studiohyperdrive/ngx-tools
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment

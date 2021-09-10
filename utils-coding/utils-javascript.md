@@ -136,6 +136,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## FRAMEWORK: FRONTEND
 - https://github.com/sindresorhus/awesome-electron
+- https://github.com/TinkoffCreditSystems/tramvai
 - https://github.com/rough-stuff/rough-notation
 - https://github.com/bigskysoftware/htmx
 - https://github.com/smallbets/userbase
@@ -197,6 +198,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/uNmAnNeR/imaskjs
 - https://github.com/petkaantonov/bluebird
 - https://github.com/ajitid/fzf-for-js
+- https://github.com/mwilliamson/mammoth.js
 - https://github.com/freesoftwarefactory/parse-multipart
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev

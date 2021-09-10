@@ -96,6 +96,7 @@
 
 ## STARTER
 - https://github.com/bezkoder/node-js-mssql-crud-example
+- https://github.com/studiohyperdrive/nodejs-boilerplate
 
 ## NODE UPDATE WINDOWS
 

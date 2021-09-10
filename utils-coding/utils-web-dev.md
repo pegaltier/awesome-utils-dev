@@ -53,7 +53,10 @@
 
 ## SUMMARY
 
+- https://devdocs.io/
+- https://thisthat.dev/
 - http://html5doctor.com/
+- https://grids.obys.agency/
 - https://markodenic.com/html-tips/
 - https://github.com/andreasbm/web-skills
 - https://almanac.httparchive.org/en/2020/
@@ -125,6 +128,7 @@
 - https://component.gallery
 - http://jsoneditoronline.org
 - https://www.bootstarters.com
+- https://markodenic.com/tools
 - https://www.beautifulcodes.in
 - http://www.perf-tooling.today
 - https://bundlers.tooling.report
@@ -471,12 +475,14 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 - https://github.com/codrops/ThumbHoverSVGFilter/
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://github.com/brunoimbrizi/interactive-particles
+- https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel
 - https://github.com/akella/ExplodingObjects
 - https://tympanus.net/Tutorials/TriangleSlideshow/
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://tympanus.net/Development/ExplodingObjects/
 - https://tympanus.net/Development/LettersAnimationLayout/
 - https://tympanus.net/Development/ImageStackGrid/index.html
+- https://tympanus.net/Tutorials/SurfaceSampling/index3.html
 - https://tympanus.net/Development/HorizontalSmoothScrollLayout/
 - https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html

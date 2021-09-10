@@ -53,6 +53,7 @@
 - https://github.com/keel-hq/keel
 - https://github.com/lensapp/lens
 - https://github.com/kedacore/keda
+- https://github.com/mkimuram/k8sviz
 - https://github.com/Portshift/kubei
 - https://github.com/loft-sh/jspolicy
 - https://github.com/hobby-kube/guide
@@ -78,6 +79,7 @@
 
 ## DOCKER
 - https://github.com/qdm12/devtainr
+- https://github.com/containerd/nerdctl
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/tomMoulard/make-my-server
 - https://github.com/veggiemonk/awesome-docker
@@ -231,6 +233,7 @@ htop
 
 ## MONITORING
 
+- https://github.com/louislam/uptime-kuma
 - https://github.com/grafana/grafana
 
 ## UPDATE

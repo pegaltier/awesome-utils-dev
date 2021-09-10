@@ -70,6 +70,7 @@
 - https://talkaboutdesign.com/preview
 
 ## COLOR
+- https://couleur.io
 - https://coolors.co
 - http://paletton.com
 - https://colordrop.io
@@ -82,6 +83,22 @@
 - http://blog.visme.co/color-harmony-tips-on-selecting-colors-in-design/
 - http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
 
+
+## SVG
+- https://github.com/dai-shi/excalidraw-animate
+- https://github.com/dai-shi/excalidraw-claymate
+- https://awesome-illustrations.vercel.app
+- https://yqnn.github.io/svg-path-editorw
+- https://github.com/maxwellito/vivus
+- https://undraw.co/illustrations
+- https://www.svgator.com
+- https://squircley.app
+- https://shapefest.com
+- https://blobmaker.app
+- https://openmoji.org
+- https://getwaves.io
+- https://svgporn.com
+- https://bgjar.com
 
 ## PHOTOS
 - https://imagefinder.co
@@ -264,21 +281,6 @@
 - http://tympanus.net/Development/AnimatedSVGIcons/
 - https://colorlib.com/wp/free-bootstrap-4-website-templates/
 - https://getbootstrap.com/docs/4.1/examples/
-
-## SVG
-- https://github.com/dai-shi/excalidraw-animate
-- https://github.com/dai-shi/excalidraw-claymate
-- https://awesome-illustrations.vercel.app
-- https://yqnn.github.io/svg-path-editorw
-- https://github.com/maxwellito/vivus
-- https://undraw.co/illustrations
-- https://www.svgator.com
-- https://svgporn.com
-- https://bgjar.com/
-- https://getwaves.io/
-- https://blobmaker.app
-- https://squircley.app
-- https://shapefest.com
 
 ## AWESOME
 - https://github.com/bradtraversy/design-resources-for-developers

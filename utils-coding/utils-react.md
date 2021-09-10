@@ -89,6 +89,7 @@
 - https://github.com/everweij/react-laag
 - https://github.com/mbrn/material-table
 - https://github.com/JedWatson/classnames
+- https://github.com/ngneat/use-observable
 - https://github.com/twobin/react-lazyload
 - https://github.com/InseeFrLab/keycloakify
 - https://github.com/omgovich/react-colorful
@@ -113,6 +114,7 @@
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/sylvaindubus/react-prismazoom
+- https://github.com/snitin315/react-hide-component
 - https://github.com/danilowoz/react-content-loader
 - https://github.com/kettanaito/react-advanced-form
 - https://github.com/wellyshen/react-cool-dimensions
@@ -133,6 +135,7 @@
 - https://github.com/radix-ui/design-system
 - https://github.com/ant-design/ant-design
 - https://github.com/mui-org/material-ui
+- https://github.com/radix-ui/primitives
 - https://github.com/chakra-ui/chakra-ui
 - https://github.com/segmentio/evergreen
 - https://github.com/palantir/blueprint
@@ -206,6 +209,7 @@
 - https://github.com/software-mansion/react-native-reanimated
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
+- https://github.com/mmazzarolo/react-native-universal-monorepo
 - https://github.com/hyochan/react-native-audio-recorder-player
 - https://github.com/JustLance/react-native-iovation-deviceprint
 - https://github.com/thebylito/react-native-navigation-bar-color

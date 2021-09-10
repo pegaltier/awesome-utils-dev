@@ -14,10 +14,13 @@
 - https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
 - https://stackoverflow.com/questions/31374085/installing-adb-on-macos
 - https://www.browserstack.com/guide/how-to-debug-on-iphone
+- https://www.wiserfirst.com/blog/how-to-use-asdf-on-macos/
 
 ## Tools
 
 - https://github.com/iina/iina
+- https://github.com/lima-vm/lima
+- https://github.com/asdf-community
 - https://github.com/leits/MeetingBar
 - https://github.com/rxhanson/Rectangle
 - https://github.com/sickcodes/Docker-OSX
@@ -31,6 +34,28 @@ brew update
 brew install nginx
 brew services list
 ```
+
+## Adfs
+
+- https://www.wiserfirst.com/blog/install-java-with-asdf/
+- https://www.wiserfirst.com/blog/how-to-use-asdf-on-macos/
+
+```
+asdf list-all java
+asdf list java
+asdf install java openjdk-11.0.2 
+asdf global java openjdk-11.0.2
+```
+
+## Java
+
+```
+which java
+/usr/libexec/java_home
+/usr/libexec/java_home -V
+echo $JAVA_HOME
+```
+
 ## Nginx
 
 ```

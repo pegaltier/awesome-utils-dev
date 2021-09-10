@@ -4,6 +4,7 @@
 ## LEARN
 - https://dev.to/tamerlang/oop-principles-for-dummies-2mbd
 - https://github.com/iluwatar/java-design-patterns
+- https://github.com/aalmiray/java-champions
 - https://github.com/akullpp/awesome-java
 - https://github.com/pragkirk/poma
 
@@ -88,6 +89,7 @@
 ## LIBS: PUBSUB
 - https://github.com/apache/pulsar
 - https://github.com/apache/kafka
+- https://github.com/zalando/nakadi
 
 ## LIBS: TESTS
 - https://site.mockito.org/

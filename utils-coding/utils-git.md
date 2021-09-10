@@ -50,6 +50,7 @@
 - https://github.com/toplenboren/simple-git-hooks
 - https://github.com/sindresorhus/refined-github
 - https://github.com/nemisj/git-removed-branches
+- https://github.com/githubocto/repo-visualizer
 - https://github.com/kreuzerk/import-conductor
 - https://prettier.io/docs/en/precommit.html
 - https://github.com/jesseduffield/lazygit
@@ -79,6 +80,7 @@
 - https://github.com/garronej/ts_ci
 - https://github.com/actions/toolkit
 - https://github.com/sdras/awesome-actions
+- https://github.com/jonico/awesome-runners
 - https://github.com/ad-m/github-push-action
 - https://github.com/benc-uk/workflow-dispatch
 - https://github.com/actions/typescript-action

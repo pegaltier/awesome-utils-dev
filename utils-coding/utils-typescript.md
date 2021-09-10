@@ -78,6 +78,7 @@
 - https://github.com/nfriend/ts-key-enum
 - https://github.com/runem/ts-simple-type
 - https://github.com/dsherret/ts-ast-viewer
+- https://github.com/tannerntannern/ts-mixer
 - https://github.com/seek-oss/vanilla-extract
 - https://github.com/piotrwitek/utility-types
 - https://github.com/drwpow/openapi-typescript
