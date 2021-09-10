@@ -114,23 +114,25 @@
 - https://www.investinblockchain.com
 
 ## NFT MARKETPLACE
-- https://opensea.io/
-- https://async.art/
-- https://www.fyooz.io/
-- https://rarible.com/
-- https://foundation.app/
-- https://knownorigin.io/
-- https://superrare.com/
-- https://makersplace.com/
+- https://opensea.io
+- https://async.art
+- https://www.veve.me
+- https://rarible.com
+- https://www.fyooz.io
+- https://curate.style
+- https://superrare.com
+- https://foundation.app
+- https://knownorigin.io
+- https://makersplace.com
 
-- https://www.protonmarket.com/
-- https://pet.zoocoin.cash/
-- https://eos.atomichub.io/
-- https://wax.atomichub.io/
-- https://neftyblocks.com/
-- https://app.babylons.io/
-- https://nftsrealm.com/
-- https://wdny.io/
+- https://www.protonmarket.com
+- https://pet.zoocoin.cash
+- https://eos.atomichub.io
+- https://wax.atomichub.io
+- https://neftyblocks.com
+- https://app.babylons.io
+- https://nftsrealm.com
+- https://wdny.io
 
 ## NFT CREATORS
 - https://www.cryptomotors.io/
