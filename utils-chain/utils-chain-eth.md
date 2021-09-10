@@ -27,6 +27,7 @@
 - https://trivial.co
 - https://etherscan.io
 - https://ethplorer.io
+- https://chainlist.org
 - https://www.gasnow.org
 - https://ethplorer.io/top
 - https://www.etherchain.org

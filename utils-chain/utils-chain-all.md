@@ -63,7 +63,6 @@
 - https://sanbase-low.santiment.net/projects
 - https://coingolive.com/en/coin/change-history
 
-
 ## TRADING / PORTFOLIO
 - https://kryll.io/
 - https://napbots.com/
@@ -114,9 +113,25 @@
 - https://dailyhodl.com
 - https://www.investinblockchain.com
 
+## NFT
+https://opensea.io/
+https://async.art/
+https://rarible.com/
+https://foundation.app/
+https://knownorigin.io/
+https://superrare.com/
+https://makersplace.com/
+
+https://www.protonmarket.com/
+https://eos.atomichub.io/
+https://wax.atomichub.io/
+https://neftyblocks.com/
+https://wdny.io/
+
 ## PODCAST
 - https://evolvement.io/
 - https://offthechain.libsyn.com/
+- https://www.twoboredapes.com/
 
 ## DIRECTORY / CURATOR
 - https://cryptominded.com/
