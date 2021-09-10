@@ -113,20 +113,27 @@
 - https://dailyhodl.com
 - https://www.investinblockchain.com
 
-## NFT
-https://opensea.io/
-https://async.art/
-https://rarible.com/
-https://foundation.app/
-https://knownorigin.io/
-https://superrare.com/
-https://makersplace.com/
+## NFT MARKETPLACE
+- https://opensea.io/
+- https://async.art/
+- https://www.fyooz.io/
+- https://rarible.com/
+- https://foundation.app/
+- https://knownorigin.io/
+- https://superrare.com/
+- https://makersplace.com/
 
-https://www.protonmarket.com/
-https://eos.atomichub.io/
-https://wax.atomichub.io/
-https://neftyblocks.com/
-https://wdny.io/
+- https://www.protonmarket.com/
+- https://pet.zoocoin.cash/
+- https://eos.atomichub.io/
+- https://wax.atomichub.io/
+- https://neftyblocks.com/
+- https://app.babylons.io/
+- https://nftsrealm.com/
+- https://wdny.io/
+
+## NFT CREATORS
+- https://www.cryptomotors.io/
 
 ## PODCAST
 - https://evolvement.io/
@@ -245,11 +252,6 @@ weissratings
 - https://cointext.io
 - http://joystream.co
 - https://www.openbazaar.org/
-
-## NFT / TOKENIZING
-- https://www.cryptomotors.io/
-- https://opensea.io/
-- https://www.fyooz.io/
 
 ## DERIVATIVE / CFD
 - https://www.bitmex.com
