@@ -66,6 +66,7 @@
 - https://github.com/kubernetes/dashboard
 - https://github.com/kubernetes/kubernetes
 - https://github.com/shank-git/metal-kubes
+- https://github.com/kubernetes/ingress-nginx
 - https://github.com/viralpoetry/kubesurveyor
 - https://github.com/eon01/kubernetes-workshop
 - https://github.com/eldada/kubernetes-scripts
