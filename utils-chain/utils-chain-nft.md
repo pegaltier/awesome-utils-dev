@@ -23,6 +23,7 @@
 - https://app.babylons.io
 - https://www.apenft.org
 - https://nftsrealm.com
+- https://scarce.city
 - https://syfin.art
 - https://meme.com
 - https://wdny.io
