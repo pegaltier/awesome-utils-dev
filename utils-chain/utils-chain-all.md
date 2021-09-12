@@ -126,13 +126,16 @@
 - https://knownorigin.io
 - https://makersplace.com
 
+- https://paintswap.finance/nfts
 - https://www.protonmarket.com
 - https://pet.zoocoin.cash
 - https://eos.atomichub.io
 - https://wax.atomichub.io
 - https://neftyblocks.com
 - https://app.babylons.io
+- https://www.apenft.org
 - https://nftsrealm.com
+- https://syfin.art
 - https://meme.com
 - https://wdny.io
 
