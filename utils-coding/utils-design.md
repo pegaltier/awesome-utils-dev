@@ -96,6 +96,8 @@
 - https://shapefest.com
 - https://blobmaker.app
 - https://openmoji.org
+- https://svgsilh.com
+- https://freesvg.org
 - https://getwaves.io
 - https://svgporn.com
 - https://bgjar.com
