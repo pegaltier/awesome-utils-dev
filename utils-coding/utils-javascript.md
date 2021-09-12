@@ -53,7 +53,8 @@
 - https://vanillajstoolkit.com/
 - https://wesbos.com/javascript
 - https://learnjavascript.online/
-- https://learnjavascript.online/ 
+- https://learnjavascript.online/
+- https://www.w3schools.com/w3js/
 - https://exploringjs.com/deep-js/
 - https://learnvanillajs.com/roadmap/
 - https://scrimba.com/learn/learnjavascript
@@ -64,6 +65,7 @@
 
 ## GUIDE-OPEN
 
+- https://github.com/goldbergyoni/javascript-testing-best-practices
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://github.com/javascript-tutorial/en.javascript.info
@@ -313,6 +315,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/ueberdosis/tiptap
+- https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
 - https://github.com/omrilotan/isbot
 - https://github.com/Leaflet/Leaflet
@@ -364,6 +367,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 ## LIB: CALC
 - https://github.com/josdejong/mathjs
 - https://github.com/stdlib-js/stdlib
+- https://github.com/Jam3/math-as-code
 - https://github.com/dinerojs/dinero.js
 - https://github.com/ebradyjobory/finance.js
 - https://github.com/handsontable/hyperformula

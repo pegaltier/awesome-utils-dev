@@ -17,6 +17,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 ## HOLO TUTOS
 
+- https://github.com/holochain-open-dev/wiki/wiki
 - https://holochain-open-dev.github.io/blog/graphql-holochain/
 - https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/rJJbk6yoN?type=view 
 - https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs

@@ -2458,6 +2458,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/DenysVuika/medium-angular-docker
 - https://github.com/alan-agius4/ng-mono-repo-starter
 - https://github.com/StephenFluin/angular-update-guide
+- https://github.com/creativetimofficial/notus-angular
 - https://github.com/DavideViolante/Angular-Full-Stack
 - https://github.com/FabianGosebrink/auth0-angular-ngrx
 - https://github.com/gbumanzordev/ng-docker-boilerplate
