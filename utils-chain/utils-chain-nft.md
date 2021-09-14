@@ -29,6 +29,8 @@
 - https://neftyblocks.com
 - https://waxstash.com
 - https://waxarena.io
+- https://nfthive.io
+- https://lgnd.art
 - https://wdny.io
 
 ## NFT CREATORS
@@ -47,5 +49,7 @@
 
 ## NFT NEWS
 - https://nftinsider.io/
-- https://lgnd.art/
 - https://wdny.io/
+
+## NFT CODING
+- https://github.com/pinknetworkx/atomicassets-js
