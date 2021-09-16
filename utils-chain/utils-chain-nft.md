@@ -25,6 +25,7 @@
 - https://syfin.art
 - https://meme.com
 - https://nftb.io
+- https://nftx.io
 
 ## NFT WAX
 - https://wax.atomichub.io
@@ -41,6 +42,11 @@
 - https://www.cryptomotors.io/
 - http://rarepepedirectory.com/
 
+## NFT COLLECTION
+- https://www.larvalabs.com/cryptopunks
+- https://www.cryptodadsnft.com/
+- https://boredapeyachtclub.com/
+
 ## NFT GAMES
 - https://www.mobox.io/
 - https://app.gala.games/
@@ -54,6 +60,10 @@
 ## NFT NEWS
 - https://nftinsider.io/
 - https://wdny.io/
+
+## NFT TOOLS
+- https://nftpricefloor.com/
+- http://paribus.io/
 
 ## NFT CODING
 - https://github.com/pinknetworkx/atomicassets-js
