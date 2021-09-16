@@ -13,6 +13,7 @@
 - https://foundation.app
 - https://knownorigin.io
 - https://makersplace.com
+- https://market.blitmap.com
 - https://paintswap.finance/nfts
 - https://www.protonmarket.com
 - https://pet.zoocoin.cash
@@ -23,10 +24,12 @@
 - https://scarce.city
 - https://syfin.art
 - https://meme.com
+- https://nftb.io
 
 ## NFT WAX
 - https://wax.atomichub.io
 - https://neftyblocks.com
+- https://nftrippy.com
 - https://waxstash.com
 - https://waxarena.io
 - https://nfthive.io
@@ -39,6 +42,7 @@
 - http://rarepepedirectory.com/
 
 ## NFT GAMES
+- https://www.mobox.io/
 - https://app.gala.games/
 - https://axieinfinity.com/
 - https://www.myneighboralice.com/

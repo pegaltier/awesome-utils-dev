@@ -1721,6 +1721,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/fulls1z3/ngx-config
 - https://github.com/mmuscat/angular-composition-api
 - https://github.com/studiohyperdrive/ngx-tools
+- https://github.com/rednez/angular-user-idle
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
