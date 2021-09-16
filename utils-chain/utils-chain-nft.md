@@ -28,6 +28,7 @@
 - https://nftx.io
 
 ## NFT WAX
+- https://www.yoshidrops.com
 - https://wax.atomichub.io
 - https://neftyblocks.com
 - https://nftrippy.com
@@ -64,6 +65,9 @@
 ## NFT TOOLS
 - https://nftpricefloor.com/
 - http://paribus.io/
+
+## NFT WAXCOLLECTION
+- https://wax.atomichub.io/market?collection_name=yoshidrops&order=asc&sort=price&symbol=WAX
 
 ## NFT CODING
 - https://github.com/pinknetworkx/atomicassets-js
