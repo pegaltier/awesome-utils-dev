@@ -19,6 +19,7 @@
 - https://github.com/tj/n
 
 ## LIST
+- https://github.com/sindresorhus/awesome-nodejs
 - https://github.com/lirantal/awesome-nodejs-security
 - https://github.com/bcoe/awesome-cross-platform-nodejs
 - https://github.com/parro-it/awesome-micro-npm-packages

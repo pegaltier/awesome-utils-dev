@@ -13,8 +13,8 @@
 - https://start.spring.io/
 - https://stratospheric.dev/
 - https://github.com/springfox/springfox
-- https://github.com/Ninja-Squad/springmockk
 - https://github.com/s0l0c0ding/spring-tips
+- https://github.com/Ninja-Squad/springmockk
 - https://github.com/springdoc/springdoc-openapi
 - https://www.marcobehler.com/guides/spring-boot
 - https://github.com/jhipster/generator-jhipster
@@ -22,6 +22,7 @@
 - http://www.baeldung.com/rest-with-spring-course
 - https://github.com/RameshMF/spring-boot-tutorial
 - https://github.com/RameshMF/springboot-validation
+- https://github.com/RameshMF/springboot-dto-tutorial
 - https://github.com/RameshMF/Hibernate-ORM-Tutorials
 - https://github.com/livelessons-spring/building-microservices
 - https://github.com/spring-projects-experimental/spring-native

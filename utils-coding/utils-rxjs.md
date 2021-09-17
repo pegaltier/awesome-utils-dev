@@ -92,7 +92,7 @@ subscription.unsubscribe(); // unsubscribe
 ```
 ### OPERATORS (FRENCH)
 
-• take(n) va piocher les n premiers éléments.  
+• take(n) va piocher les n premiers éléments. take(1) est presque similaire a first() L'opérateur first() prend une fonction de prédicat facultative et émet une notification d'erreur lorsqu'aucune valeur ne correspond lors du complete.
 • map(fn) va appliquer la fonction fn sur chaque événement et retourner le résultat.  
 • filter(predicate) laissera passer les seuls événements qui répondent positivement au prédicat.  
 • reduce(fn) appliquera la fonction fn à chaque événement pour réduire le flux à une seule valeur unique.  

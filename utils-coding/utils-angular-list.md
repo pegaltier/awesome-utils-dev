@@ -1722,6 +1722,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mmuscat/angular-composition-api
 - https://github.com/studiohyperdrive/ngx-tools
 - https://github.com/rednez/angular-user-idle
+- https://github.com/ng-web-apis/storage
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -1958,6 +1959,7 @@ Analyze and optimize the performance of your app
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
 - https://github.com/mikyaj/ngx-rough-notation
+- https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
 - https://github.com/ivylaboratory/ivypinch

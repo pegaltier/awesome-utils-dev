@@ -345,11 +345,13 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 ## LIB: MEDIAS
 - https://github.com/steveruizok/perfect-arrows
 - https://github.com/openseadragon/openseadragon
+- https://github.com/desandro/imagesloaded
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
 - https://github.com/google/model-viewer
 - https://github.com/graphery/graphery
 - https://github.com/nzbin/photoviewer
+- https://github.com/transloadit/uppy
 - https://github.com/aeroheim/midori
 - https://github.com/markedjs/marked
 - https://github.com/greensock/GSAP
@@ -370,6 +372,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/Jam3/math-as-code
 - https://github.com/dinerojs/dinero.js
 - https://github.com/ebradyjobory/finance.js
+- https://github.com/TheAlgorithms/Javascript
 - https://github.com/handsontable/hyperformula
 - https://github.com/dcousens/haversine-distance
 

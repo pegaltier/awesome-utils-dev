@@ -121,6 +121,40 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 - https://stackedinvest.com/
 - https://www.cryptohopper.com/
 
+## TUTOS
+
+- https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ
+
+## OSS
+
+- https://github.com/botcrypto-io/awesome-crypto-trading-bots
+- https://github.com/CryptoMF/frostybot-js
+- https://github.com/paulcpk/freqtrade-strategies-that-work
+- https://github.com/cassandre-tech/cassandre-trading-bot
+- https://github.com/dk4jo3/abnormal-crypto-volume-alert
+- https://github.com/MohammedRashad/Crypto-Copy-Trader
+- https://github.com/SamPom100/UnusualVolumeDetector
+- https://github.com/iterativv/NostalgiaForInfinity
+- https://github.com/freqtrade/freqtrade-strategies
+- https://github.com/johndpope/CryptoCurrencyTrader
+- https://github.com/JulyIghor/QtBitcoinTrader
+- https://github.com/dk4jo3/are-alts-bleeding
+- https://github.com/fremantle-industries/tai
+- https://github.com/nicolasbonnici/cryptobot
+- https://github.com/taniman/profit-trailer
+- https://github.com/grantcolley/tradeview
+- https://github.com/Superalgos/Superalgos
+- https://github.com/StockSharp/StockSharp
+- https://github.com/gabriel-milan/btrader
+- https://github.com/steeply/gbot-trader
+- https://github.com/markusaksli/TradeBot
+- https://github.com/CoinAlpha/hummingbot
+- https://github.com/magic8bot/magic8bot
+- https://github.com/jrmeier/fast-trade
+- https://github.com/Ekliptor/WolfBot
+- https://github.com/ldmonko/wolfinch
+- https://github.com/jesse-ai/jesse
+- https://github.com/stellar/kelp
 
 ## DIARY
 

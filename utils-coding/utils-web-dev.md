@@ -218,6 +218,7 @@
 - https://developers.google.com/web/tools/chrome-devtools/
 - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.imf6priwg
 - https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha
+- https://chrome.google.com/webstore/detail/pixelzoomer/fogkjckfkdcnmnnfmbieljpkmmihhpao/related
 - https://chrome.google.com/webstore/detail/z-context/jigamimbjojkdgnlldajknogfgncplbh
 - https://chrome.google.com/webstore/detail/spantree-gitlab-tree/gcjikeldobhnaglcoaejmdlmbienoocg
 - https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
@@ -448,6 +449,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 
 ## CREATIVE EXAMPLES
 
+- https://mrousavy.com/
 - https://thisispam.com/
 - https://book-of-flowers.com/
 - https://etiennebarbedette.com/

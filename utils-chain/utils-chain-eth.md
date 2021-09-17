@@ -22,6 +22,10 @@
 - https://github.com/ethereumjs/ethereumjs-monorepo
 - https://github.com/eSwapping/ESWAP-Limit-Order-Bot
 - https://github.com/dabit3/polygon-ethereum-nextjs-marketplace
+- https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+
+## ETH DEV EXAMPLE
+- https://github.com/ultiarena/ulti-coin
 
 ## ETH TOOLS/EXPLORER
 - https://trivial.co

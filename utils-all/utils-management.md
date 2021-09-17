@@ -11,6 +11,9 @@
 - https://github.com/wishtack/gitbook-guide-agile
 - https://github.com/kdeldycke/awesome-engineering-team-management
 
+<h2>LEARN</h2>
+- https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
+
 <h2>MANAGEMENT RULES</h2>
 <ol>
 <li>entreprise libéré (frederic leloup)</li>
