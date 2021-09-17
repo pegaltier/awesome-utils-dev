@@ -53,6 +53,7 @@
 - https://www.larvalabs.com/cryptopunks
 - https://www.cryptodadsnft.com/
 - https://boredapeyachtclub.com/
+- https://cryptomoonboys.com/
 
 ## NFT GAMES
 - https://www.mobox.io/
@@ -79,6 +80,9 @@
 - https://wax.atomichub.io/market?collection_name=aetherfaucet&order=asc&sort=price&symbol=WAX
 
 - https://neftyblocks.com/c/aetherfaucet
+- https://neftyblocks.com/c/dabitcoinkid
+- https://neftyblocks.com/c/natalysketch
+- https://neftyblocks.com/c/jrgtradecard
 
 ## NFT COMMUNITY
 - https://discord.com/invite/59M9CtsnsY
