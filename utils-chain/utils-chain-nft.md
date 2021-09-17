@@ -13,21 +13,27 @@
 - https://foundation.app
 - https://knownorigin.io
 - https://makersplace.com
+- https://www.chronicle.io
 - https://market.blitmap.com
+- https://www.wilderworld.com
 - https://paintswap.finance/nfts
 - https://www.protonmarket.com
+- https://wax.simplemarket.io
 - https://pet.zoocoin.cash
 - https://eos.atomichub.io
 - https://app.babylons.io
 - https://www.apenft.org
 - https://nftsrealm.com
 - https://scarce.city
+- https://tokapi.com
 - https://syfin.art
+- https://paras.id
 - https://meme.com
 - https://nftb.io
 - https://nftx.io
 
 ## NFT WAX
+- https://wax.simplemarket.io
 - https://www.yoshidrops.com
 - https://wax.atomichub.io
 - https://neftyblocks.com
@@ -66,8 +72,17 @@
 - https://nftpricefloor.com/
 - http://paribus.io/
 
+
 ## NFT WAXCOLLECTION
+- https://wax.atomichub.io/market?collection_name=dabitcoinkid&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=yoshidrops&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=aetherfaucet&order=asc&sort=price&symbol=WAX
+
+- https://neftyblocks.com/c/aetherfaucet
+
+## NFT COMMUNITY
+- https://discord.com/invite/59M9CtsnsY
+- https://discord.com/invite/graffiti-kings
 
 ## NFT CODING
 - https://github.com/pinknetworkx/atomicassets-js

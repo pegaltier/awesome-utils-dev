@@ -116,6 +116,7 @@
 ## ALL PODCAST
 - https://evolvement.io/
 - https://offthechain.libsyn.com/
+- https://www.buzzsprout.com/1851524
 
 ## DIRECTORY / CURATOR
 - https://cryptominded.com/
