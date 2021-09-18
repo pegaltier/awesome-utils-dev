@@ -44,6 +44,9 @@
 - https://lgnd.art
 - https://wdny.io
 
+## NFT EOS
+- https://eosnation.io/gems/
+
 ## NFT CREATORS
 - https://finney.world
 - https://www.cryptomotors.io/
@@ -78,6 +81,12 @@
 - https://metalink.com/
 - http://paribus.io/
 
+## NFT EOSCOLLECTION
+- https://eos.atomichub.io/market?collection_name=writer&order=asc&sort=price&symbol=EOS
+- https://eos.atomichub.io/market?collection_name=eostarternft&order=asc&sort=price&symbol=EOS
+- https://eos.atomichub.io/market?collection_name=.gems&order=asc&sort=price&symbol=EOS
+- https://eos.atomichub.io/market?collection_name=gbk.gems&order=asc&sort=price&symbol=EOS
+- https://eos.atomichub.io/market?collection_name=chllnge.gems&order=asc&sort=price&symbol=EOS
 
 ## NFT WAXCOLLECTION
 - https://wax.atomichub.io/market?collection_name=dabitcoinkid&order=asc&sort=price&symbol=WAX
@@ -92,6 +101,10 @@
 - https://wax.atomichub.io/market?collection_name=colonizemars&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=bitcoinorign&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=gnomeseries1&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=drzammsydolo&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=nftdraft2121&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=kogsofficial&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=centurytrain&order=asc&sort=price&symbol=WAX
 
 - https://neftyblocks.com/c/aetherfaucet
 - https://neftyblocks.com/c/dabitcoinkid
