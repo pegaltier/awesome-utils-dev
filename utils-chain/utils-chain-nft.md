@@ -46,9 +46,14 @@
 
 ## NFT EOS
 - https://eosnation.io/gems/
+- https://alcor.exchange/nft-market
+
+## NFT ADA
+- https://www.claynation.io/
 
 ## NFT CREATORS
 - https://finney.world
+- https://nftgenius.com/
 - https://www.cryptomotors.io/
 - http://rarepepedirectory.com/
 
@@ -60,6 +65,9 @@
 - https://www.wearedorkis.com/
 - https://cryptomoonboys.com/
 - https://www.btcorigins.com/
+- https://www.cyberkongz.com/
+- https://www.lootproject.com/
+- https://www.lootwatcher.com/
 
 ## NFT GAMES
 - https://www.mobox.io/
@@ -73,7 +81,9 @@
 
 ## NFT NEWS
 - https://crypto.writer.io/s/nft
+- https://www.secondrealm.com/
 - https://nftinsider.io/
+- https://nftplazas.com/
 - https://wdny.io/
 
 ## NFT TOOLS
@@ -82,7 +92,9 @@
 - https://www.mintgate.io/
 - https://airdrop.anyo.io/
 - https://metalink.com/
+- https://gallery.so/
 - http://paribus.io/
+- https://yup.io/
 
 ## NFT EOSCOLLECTION
 - https://eos.atomichub.io/market?collection_name=writer&order=asc&sort=price&symbol=EOS (F:3.3)
@@ -129,8 +141,51 @@
 - https://github.com/pinknetworkx/atomicassets-js
 
 ## NFT TWITTER
-- https://twitter.com/CryptoMoongirls
-- https://twitter.com/BigBenBusiness
-- https://twitter.com/CorpWorld_NFT
-- https://twitter.com/sarahpu51fly
-- https://twitter.com/nftbuster
+
+CryptoMoongirls
+BigBenBusiness
+SimonartOnline
+CorpWorld_NFT
+cryptowriter_
+sarahpu51fly
+luiscartista
+CryptoFinney
+SlyguiseNFT
+RealmissNFT
+nftbuster
+nftfreaks
+elrokk
+nftvillage
+WillyTheDegen
+GeniusNft
+BitcoinOrigins
+four77one
+yup_io
+ChronicleXNL
+andrwwang
+codyboston19
+JoshMcGruff
+fvckrender
+paribus_io
+0x_fxnction
+catheadpunks
+NFTInsider_io
+AtomicHub
+dotgems_
+toomingos
+codybayne
+apenftorg
+secondrealm
+robnessofficial
+theouterrealm
+kreepture1
+NoKapRich
+ape_g4ng
+jdotcolombo
+fungibles3
+mevcollector
+gcockfoster
+curateproject
+BabylonsNFT
+VikingXBT
+
