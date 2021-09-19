@@ -2,8 +2,9 @@
 # NFT
 
 ## NFT MARKETPLACE
-- https://opensea.io
+- https://unxd.com
 - https://async.art
+- https://opensea.io
 - https://www.veve.me
 - https://rarible.com
 - https://www.fyooz.io
@@ -16,7 +17,6 @@
 - https://www.chronicle.io
 - https://market.blitmap.com
 - https://www.wilderworld.com
-- https://paintswap.finance/nfts
 - https://www.protonmarket.com
 - https://wax.simplemarket.io
 - https://pet.zoocoin.cash
@@ -31,6 +31,9 @@
 - https://meme.com
 - https://nftb.io
 - https://nftx.io
+
+## NFT ETH
+- https://ethblock.art/
 
 ## NFT WAX
 - https://wax.simplemarket.io
@@ -48,8 +51,18 @@
 - https://eosnation.io/gems/
 - https://alcor.exchange/nft-market
 
+## NFT FTM
+- https://www.raritymanifested.com/
+- https://paintswap.finance/nfts
+
 ## NFT ADA
 - https://www.claynation.io/
+
+## NFT XTZ
+- https://www.hicetnunc.xyz/
+
+## NFT LUNA
+- https://terravirtua.io/
 
 ## NFT CREATORS
 - https://finney.world
@@ -70,7 +83,10 @@
 - https://www.lootwatcher.com/
 
 ## NFT GAMES
+- https://blankos.com/
 - https://www.mobox.io/
+- https://www.mtvrs.app/
+- https://parallel.life/
 - https://app.gala.games/
 - https://axieinfinity.com/
 - https://www.myneighboralice.com/
@@ -78,6 +94,7 @@
 ## NFT PODCATS
 - https://www.theouterrealm.io/
 - https://www.twoboredapes.com/
+- https://anchor.fm/propsanddrops
 
 ## NFT NEWS
 - https://crypto.writer.io/s/nft
@@ -87,6 +104,7 @@
 - https://wdny.io/
 
 ## NFT TOOLS
+- https://dapp.ptokens.io/nfts
 - https://www.cryptoslam.io/
 - https://nftpricefloor.com/
 - https://www.mintgate.io/
@@ -105,7 +123,7 @@
 - https://eos.atomichub.io/market?collection_name=shufanpenink&order=asc&sort=price&symbol=EOS (F:8.-)
 - https://eos.atomichub.io/market?collection_name=thezombieart&order=asc&sort=price&symbol=EOS (F:0.5)
 - https://eos.atomichub.io/explorer/account/reeeeeeeeekt?buyer=reeeeeeeeekt&order=desc&sort=updated
-- 
+
 ## NFT WAXCOLLECTION
 - https://wax.atomichub.io/market?collection_name=dabitcoinkid&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=yoshidrops&order=asc&sort=price&symbol=WAX
@@ -131,6 +149,9 @@
 - https://neftyblocks.com/c/jrgtradecard
 - https://neftyblocks.com/c/thebigbennft
 - https://neftyblocks.com/c/popcorpcards
+
+## OTHERS COLLECTION
+- https://linktr.ee/clokkworky
 
 ## NFT COMMUNITY
 - https://discord.com/invite/59M9CtsnsY
@@ -188,4 +209,5 @@ gcockfoster
 curateproject
 BabylonsNFT
 VikingXBT
-
+ilan_katin
+DCLBlogger

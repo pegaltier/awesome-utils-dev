@@ -59,7 +59,7 @@ STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT
 - when the volatility is high it's risky so just do day-trading and secure gain after few hours
 - when the volatility is low it's safe so just do swing-trading and secure gain after few days
 
-## MOMENTUM4
+## MOMENTUM
 
 Momentum is the speed or velocity of price changes in a stock, security, or tradable instrument.
 
@@ -84,6 +84,10 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 - forces: longer it remains near support the more dangerous it becomes
 - ratio: rendement potentiel / risque (Sharpe et Sortino)
 - diversification: reduction risque
+
+## OBV
+
+Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV divergences and support/resistance are more reliable than on the RSI and it's breakout often precede price breakout.
 
 ## FRACTALE
 
