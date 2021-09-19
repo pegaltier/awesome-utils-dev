@@ -18,6 +18,7 @@
 - https://market.blitmap.com
 - https://www.wilderworld.com
 - https://www.protonmarket.com
+- https://www.binance.com/en/nft
 - https://wax.simplemarket.io
 - https://pet.zoocoin.cash
 - https://eos.atomichub.io
@@ -70,6 +71,7 @@
 ## NFT CREATORS
 - https://finney.world
 - https://nftgenius.com/
+- https://www.nftboxes.io/
 - https://www.cryptomotors.io/
 - http://rarepepedirectory.com/
 
