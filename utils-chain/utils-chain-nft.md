@@ -61,6 +61,9 @@
 ## NFT XTZ
 - https://www.hicetnunc.xyz/
 
+## NFT AVAX
+- https://snowflake.market/
+
 ## NFT LUNA
 - https://terravirtua.io/
 
@@ -142,6 +145,8 @@
 - https://wax.atomichub.io/market?collection_name=kogsofficial&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=centurytrain&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=boysterousco&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=goodnewscoin&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=tailleferart&order=asc&sort=price&symbol=WAX
 
 - https://neftyblocks.com/c/aetherfaucet
 - https://neftyblocks.com/c/dabitcoinkid
