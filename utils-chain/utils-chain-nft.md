@@ -136,10 +136,12 @@
 - https://wax.atomichub.io/market?collection_name=dabitcoinkid&order=asc&sort=price&symbol=WAX  (F:120)
 - https://wax.atomichub.io/market?collection_name=lgnd.art&order=asc&sort=price&symbol=WAX      (F:12.0)
 - https://wax.atomichub.io/market?collection_name=cryptotwerpz&order=asc&sort=price&symbol=WAX  (F:8.0)
+- https://wax.atomichub.io/market?collection_name=bunnvalegirl&order=asc&sort=price&symbol=WAX  (F:4.22)
 - https://wax.atomichub.io/market?collection_name=cryptomoonie&order=asc&sort=price&symbol=WAX  (F:1.98)
-- https://wax.atomichub.io/market?collection_name=bitcoinorign&order=asc&sort=price&symbol=WAX  (F:1.4)
-- https://wax.atomichub.io/market?collection_name=popcorpcards&order=asc&sort=price&symbol=WAX  (F:0.9)
+- https://wax.atomichub.io/market?collection_name=bitcoinorign&order=asc&sort=price&symbol=WAX  (F:1.40)
+- https://wax.atomichub.io/market?collection_name=popcorpcards&order=asc&sort=price&symbol=WAX  (F:0.90)
 - https://wax.atomichub.io/market?collection_name=kennbosakgif&order=asc&sort=price&symbol=WAX  (F:0.75)
+- https://wax.atomichub.io/market?collection_name=artvndngmchn&order=asc&sort=price&symbol=WAX  (F:0.61)
 - https://wax.atomichub.io/market?collection_name=corpworldhel&order=asc&sort=price&symbol=WAX  (F:0.39)
 - https://wax.atomichub.io/market?collection_name=pixellabs123&order=asc&sort=price&symbol=WAX  (F:0.30)
 - https://wax.atomichub.io/market?collection_name=kogsofficial&order=asc&sort=price&symbol=WAX  (F:0.29)
@@ -158,6 +160,7 @@
 - https://wax.atomichub.io/market?collection_name=colonizemars&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=gnomeseries1&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=drzammsydolo&order=asc&sort=price&symbol=WAX
+- https://wax.atomichub.io/market?collection_name=oldworldmney&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=centurytrain&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=boysterousco&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=goodnewscoin&order=asc&sort=price&symbol=WAX
@@ -173,6 +176,7 @@
 - https://neftyblocks.com/c/popcorpcards
 - https://neftyblocks.com/c/talesofcrypt
 - https://neftyblocks.com/c/earlyibmfans
+- https://neftyblocks.com/c/bunnvalegirl
 
 ## OTHERS COLLECTION
 - https://linktr.ee/clokkworky
