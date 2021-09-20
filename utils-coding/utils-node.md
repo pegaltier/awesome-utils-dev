@@ -36,6 +36,7 @@
 - https://github.com/juliangruber/npm-diff
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/styfle/packagephobia
+- https://github.com/privatenumber/tasuku
 - https://github.com/folke/ultra-runner
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
