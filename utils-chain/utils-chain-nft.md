@@ -14,6 +14,7 @@
 - https://superrare.com
 - https://foundation.app
 - https://knownorigin.io
+- https://tryshowtime.com
 - https://makersplace.com
 - https://www.chronicle.io
 - https://niftygateway.com
@@ -204,6 +205,7 @@
 - https://wax.bloks.io/account/4u1aw.wam#nfts
 - https://wax.bloks.io/account/xbequ.wam#nfts
 - https://wax.bloks.io/account/33mdq.wam#nfts
+- https://wax.bloks.io/account/composerhodl#nfts
 
 ## OTHERS COLLECTION
 - https://linktr.ee/clokkworky
