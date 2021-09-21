@@ -1975,7 +1975,6 @@ Analyze and optimize the performance of your app
 - https://github.com/abdulkadirgenc/ng-wizard
 - https://github.com/verizonconnect/ngx-panels
 - https://github.com/vlio20/angular-datepicker
-- https://github.com/pjlamb12/angular-loaders
 - https://github.com/darkoandreev/d-ng-rating
 - https://github.com/pjlamb12/ngx-plug-n-play
 - https://github.com/MSakamaki/ngx-onesignal
@@ -2152,6 +2151,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Zak-C/ngx-loading
 - https://github.com/t-ho/ngx-ui-loader
 - https://github.com/kuuurt13/ng-block-ui
+- https://github.com/Napster2210/ngx-spinner
+- https://github.com/pjlamb12/angular-loaders
 - https://github.com/biig-io/ngx-smart-loader
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/akserg/ng2-slim-loading-bar
