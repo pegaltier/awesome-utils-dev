@@ -11,6 +11,7 @@
 - https://www.fyooz.io
 - https://curate.style
 - https://nft.lympo.io
+- https://artverse.vip
 - https://superrare.com
 - https://foundation.app
 - https://knownorigin.io
@@ -40,7 +41,9 @@
 
 ## NFT BSC
 - https://nftblackmarket.io
-- https://app.babylons.io
+- https://scv.finance/market
+- https://www.airnfts.com
+- https://www.babylons.io
 - https://nftb.io
 
 ## NFT WAX
@@ -68,6 +71,7 @@
 
 ## NFT XTZ
 - https://www.hicetnunc.xyz/
+- https://www.henext.xyz/
 
 ## NFT AVAX
 - https://snowflake.market/
@@ -96,6 +100,7 @@
 
 ## NFT GAMES
 - https://blankos.com/
+- https://cryptobay.vip/
 - https://www.mobox.io/
 - https://www.mtvrs.app/
 - https://parallel.life/
@@ -117,6 +122,7 @@
 - https://wdny.io/
 
 ## NFT TOOLS
+- https://dappradar.com/rankings/category/marketplaces
 - https://dapp.ptokens.io/nfts
 - https://www.cryptoslam.io/
 - https://nftpricefloor.com/
@@ -139,9 +145,12 @@
 - https://eos.atomichub.io/explorer/account/reeeeeeeeekt?buyer=reeeeeeeeekt&order=desc&sort=updated
 
 ## NFT WAXCOLLECTION
-- https://wax.atomichub.io/market?collection_name=dabitcoinkid&order=asc&sort=price&symbol=WAX  (F:120/170)
+- https://wax.atomichub.io/market?collection_name=dabitcoinkid&order=asc&sort=price&symbol=WAX  (F:120/170/219.17)
+- https://wax.atomichub.io/market?collection_name=nippyztripps&order=asc&sort=price&symbol=WAX  (F:14.5)
 - https://wax.atomichub.io/market?collection_name=lgnd.art&order=asc&sort=price&symbol=WAX      (F:12.0)
 - https://wax.atomichub.io/market?collection_name=cryptotwerpz&order=asc&sort=price&symbol=WAX  (F:8.0)
+- https://wax.atomichub.io/market?collection_name=offroadpaint&order=asc&sort=price&symbol=WAX  (F:8.0)
+- https://wax.atomichub.io/market?collection_name=myzombiecats&order=asc&sort=price&symbol=WAX  (F:5.0)
 - https://wax.atomichub.io/market?collection_name=bunnvalegirl&order=asc&sort=price&symbol=WAX  (F:4.5)
 - https://wax.atomichub.io/market?collection_name=lewdmomoko22&order=asc&sort=price&symbol=WAX  (F:2.9)
 - https://wax.atomichub.io/market?collection_name=crypto5tache&order=asc&sort=price&symbol=WAX  (F:2.05)
@@ -153,6 +162,7 @@
 - https://wax.atomichub.io/market?collection_name=kennbosakgif&order=asc&sort=price&symbol=WAX  (F:0.75)
 - https://wax.atomichub.io/market?collection_name=artvndngmchn&order=asc&sort=price&symbol=WAX  (F:0.61)
 - https://wax.atomichub.io/market?collection_name=bmac4artsake&order=asc&sort=price&symbol=WAX  (F:0.60)
+- https://wax.atomichub.io/market?collection_name=waxpaperfold&order=asc&sort=price&symbol=WAX  (F:0.50)
 - https://wax.atomichub.io/market?collection_name=pizzaslice2u&order=asc&sort=price&symbol=WAX  (F:0.40)
 - https://wax.atomichub.io/market?collection_name=corpworldhel&order=asc&sort=price&symbol=WAX  (F:0.39)
 - https://wax.atomichub.io/market?collection_name=pixellabs123&order=asc&sort=price&symbol=WAX  (F:0.30)
@@ -161,6 +171,7 @@
 - https://wax.atomichub.io/market?collection_name=konceptonwax&order=asc&sort=price&symbol=WAX  (F:0.29)
 - https://wax.atomichub.io/market?collection_name=postfuture&order=asc&sort=price&symbol=WAX    (F:0.28)
 - https://wax.atomichub.io/market?collection_name=yoshidrops&order=asc&sort=price&symbol=WAX    (F:0.23)
+- https://wax.atomichub.io/market?collection_name=humbledrawin&order=asc&sort=price&symbol=WAX  (F:0.22)
 - https://wax.atomichub.io/market?collection_name=paintingsnft&order=asc&sort=price&symbol=WAX  (F:0.20)
 - https://wax.atomichub.io/market?collection_name=aetherfaucet&order=asc&sort=price&symbol=WAX  (F:0.14)
 - https://wax.atomichub.io/market?collection_name=grimfolkscol&order=asc&sort=price&symbol=WAX  (F:0.15)
@@ -169,6 +180,7 @@
 - https://wax.atomichub.io/market?collection_name=yazingdotcom&order=asc&sort=price&symbol=WAX  (F:0.07)
 - https://wax.atomichub.io/market?collection_name=thebigbennft&order=asc&sort=price&symbol=WAX  (F:0.07)
 - https://wax.atomichub.io/market?collection_name=natalysketch&order=asc&sort=price&symbol=WAX  (F:0.05)
+- https://wax.atomichub.io/market?collection_name=byronartset1&order=asc&sort=price&symbol=WAX  (F:0.04)
 - https://wax.atomichub.io/market?collection_name=tokengirlslv&order=asc&sort=price&symbol=WAX  (F:0.04)
 - https://wax.atomichub.io/market?collection_name=royaldexnfts&order=asc&sort=price&symbol=WAX  (F:0.03)
 - https://wax.atomichub.io/market?collection_name=zendodoparty&order=asc&sort=price&symbol=WAX
@@ -191,7 +203,9 @@
 - https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Legendary&order=asc&sort=price&symbol=WAX  (F:277)
 - https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Moving%20Wave&order=asc&sort=price&symbol=WAX (F:30)
 - https://wax.atomichub.io/market?collection_name=robotech&data:text.rarity=Silver&order=asc&sort=price&symbol=WAX (F:19)
+
 ## NFT WAXCOLLECTION DROPS
+- https://neftyblocks.com/c/nippyztripps
 - https://neftyblocks.com/c/aetherfaucet
 - https://neftyblocks.com/c/dabitcoinkid
 - https://neftyblocks.com/c/natalysketch
@@ -202,6 +216,8 @@
 - https://neftyblocks.com/c/earlyibmfans
 - https://neftyblocks.com/c/bunnvalegirl
 - https://neftyblocks.com/c/cryptoswatch
+- https://neftyblocks.com/c/myzombiecats
+- https://neftyblocks.com/c/offroadpaint
 
 ## NFT WAXCOLLECTION HOLDERS
 - https://wax.bloks.io/account/4u1aw.wam#nfts
