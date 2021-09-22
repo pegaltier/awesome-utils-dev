@@ -22,6 +22,7 @@
 - https://www.wilderworld.com
 - https://www.protonmarket.com
 - https://www.binance.com/en/nft
+- https://market.x.immutable.com
 - https://wax.simplemarket.io
 - https://pet.zoocoin.cash
 - https://eos.atomichub.io
@@ -99,6 +100,7 @@
 - https://www.mtvrs.app/
 - https://parallel.life/
 - https://app.gala.games/
+- https://www.illuvium.io/
 - https://axieinfinity.com/
 - https://www.myneighboralice.com/
 

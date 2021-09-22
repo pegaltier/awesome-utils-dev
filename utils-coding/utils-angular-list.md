@@ -2118,6 +2118,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: DEBUG
 
 - https://github.com/getsentry/sentry
+- https://github.com/rollbar/rollbar.js
 - https://github.com/LogRocket/logrocket
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/ngworker/lumberjack

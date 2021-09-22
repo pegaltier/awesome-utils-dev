@@ -61,6 +61,7 @@
 - https://github.com/trpc/trpc
 - https://github.com/antfu/utils
 - https://github.com/hqoss/guards
+- https://github.com/dolanmiu/docx
 - https://github.com/palmerhq/tsdx
 - https://github.com/danvk/ts-mover
 - https://github.com/kutyel/linq.ts
@@ -137,6 +138,7 @@
 - https://github.com/graphology/graphology
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
+- https://github.com/rhys-vdw/ts-auto-guard
 - https://github.com/jpbulman/Advanced-Sets
 - https://github.com/wix-incubator/as-typed
 - https://github.com/krzkaczor/ts-essentials

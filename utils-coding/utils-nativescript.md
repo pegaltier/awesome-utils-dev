@@ -41,6 +41,7 @@ Publish to Google Play for beta testing or public distribution.
 - https://github.com/FinanzRitter/nativescript-share-file
 - https://github.com/nativescript-community/ui-mapbox
 - https://github.com/bgrand-ch/nativescript-getters
+- https://github.com/NathanaelA/nativescript-sqlite
 
 ## EXAMPLE
 - https://github.com/mahmoudajawad/nx-ns-shared

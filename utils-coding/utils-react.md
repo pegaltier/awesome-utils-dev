@@ -98,6 +98,7 @@
 - https://github.com/voliva/reactive-rx-form
 - https://github.com/mfrachet/rn-placeholder
 - https://github.com/eclipsesource/jsonforms
+- https://github.com/pmndrs/react-three-fiber
 - https://github.com/LouisBarranqueiro/reapop
 - https://github.com/gilbarbara/react-joyride
 - https://github.com/casesandberg/react-color
@@ -178,6 +179,7 @@
 - https://github.com/facebook/react-native
 - https://github.com/rescript-react-native
 - https://github.com/react-native-menu/menu
+- https://github.com/onubo/react-native-logs
 - https://github.com/necolas/react-native-web
 - https://github.com/luggit/react-native-config
 - https://github.com/gorhom/react-native-portal
