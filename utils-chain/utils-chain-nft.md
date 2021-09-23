@@ -12,6 +12,7 @@
 - https://curate.style
 - https://nft.lympo.io
 - https://artverse.vip
+- https://www.mynft.com
 - https://superrare.com
 - https://foundation.app
 - https://knownorigin.io
@@ -100,12 +101,13 @@
 
 ## NFT GAMES
 - https://blankos.com/
-- https://cryptobay.vip/
 - https://www.mobox.io/
+- https://cryptobay.vip/
 - https://www.mtvrs.app/
 - https://parallel.life/
 - https://app.gala.games/
 - https://www.illuvium.io/
+- https://www.duelverse.io/
 - https://axieinfinity.com/
 - https://www.myneighboralice.com/
 
@@ -124,8 +126,9 @@
 ## NFT TOOLS
 - https://dappradar.com/rankings/category/marketplaces
 - https://dapp.ptokens.io/nfts
-- https://www.cryptoslam.io/
 - https://nftpricefloor.com/
+- https://www.cryptoslam.io/
+- https://www.nftstudios.io/
 - https://www.mintgate.io/
 - https://airdrop.anyo.io/
 - https://metalink.com/
@@ -152,10 +155,12 @@
 - https://wax.atomichub.io/market?collection_name=offroadpaint&order=asc&sort=price&symbol=WAX  (F:8.0)
 - https://wax.atomichub.io/market?collection_name=myzombiecats&order=asc&sort=price&symbol=WAX  (F:5.0)
 - https://wax.atomichub.io/market?collection_name=bunnvalegirl&order=asc&sort=price&symbol=WAX  (F:4.5)
+- https://wax.atomichub.io/market?collection_name=atomikings2x&order=asc&sort=price&symbol=WAX  (F:4.0)
+- https://wax.atomichub.io/market?collection_name=cartoonfami1&order=asc&sort=price&symbol=WAX  (F:3.9)
 - https://wax.atomichub.io/market?collection_name=lewdmomoko22&order=asc&sort=price&symbol=WAX  (F:2.9)
 - https://wax.atomichub.io/market?collection_name=crypto5tache&order=asc&sort=price&symbol=WAX  (F:2.05)
+- https://wax.atomichub.io/market?collection_name=upliftart&order=asc&sort=price&symbol=WAX     (F:1.99)
 - https://wax.atomichub.io/market?collection_name=cryptomoonie&order=asc&sort=price&symbol=WAX  (F:1.98)
-- https://wax.atomichub.io/market?collection_name=upliftart&order=asc&sort=price&symbol=WAX     (F:1.70)
 - https://wax.atomichub.io/market?collection_name=bitcoinorign&order=asc&sort=price&symbol=WAX  (F:1.40)
 - https://wax.atomichub.io/market?collection_name=newworldnft1&order=asc&sort=price&symbol=WAX  (F:1.00)
 - https://wax.atomichub.io/market?collection_name=popcorpcards&order=asc&sort=price&symbol=WAX  (F:0.90)
