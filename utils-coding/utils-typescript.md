@@ -141,6 +141,7 @@
 - https://github.com/rhys-vdw/ts-auto-guard
 - https://github.com/jpbulman/Advanced-Sets
 - https://github.com/wix-incubator/as-typed
+- https://github.com/pksilen/validated-types
 - https://github.com/krzkaczor/ts-essentials
 - https://github.com/Rich-Harris/object-cull
 - https://github.com/woutervh-/typescript-is

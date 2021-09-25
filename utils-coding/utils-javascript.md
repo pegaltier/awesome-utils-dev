@@ -198,6 +198,8 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/faisalman/ua-parser-js
 - https://github.com/Jimbly/timezone-mock
 - https://github.com/uNmAnNeR/imaskjs
+- https://github.com/dollarshaveclub/postmate
+- https://github.com/BuilderIO/partytown
 - https://github.com/petkaantonov/bluebird
 - https://github.com/ajitid/fzf-for-js
 - https://github.com/mwilliamson/mammoth.js
@@ -207,7 +209,6 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/stoeffel/awesome-fp-js
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/fengyuanchen/cropperjs
-- https://github.com/ianstormtaylor/superstruct
 - https://github.com/stryker-mutator/stryker
 - https://github.com/staltz/promisify-4loc
 - https://github.com/gustf/js-levenshtein
@@ -254,6 +255,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## LIB: VALIDATION
 - https://github.com/sideway/joi
+- https://github.com/ianstormtaylor/superstruct
 
 ## LIB: ARCHI
 - https://github.com/mgechev/injection-js
