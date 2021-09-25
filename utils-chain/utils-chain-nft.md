@@ -49,6 +49,7 @@
 - https://app.liquidifty.io/
 - https://www.airnfts.com
 - https://www.babylons.io
+- https://bsc.unique.one
 - https://nftrade.com/
 - https://lootex.io
 - https://nftb.io
@@ -101,6 +102,7 @@
 - https://davinci.gallery/
 
 ## NFT CREATORS
+- https://artblocks.io
 - https://finney.world
 - https://nftgenius.com
 - https://volatility.art
