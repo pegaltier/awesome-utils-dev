@@ -33,16 +33,18 @@
 - https://scarce.city
 - https://tokapi.com
 - https://syfin.art
-- https://paras.id
 - https://meme.com
 - https://nftx.io
 
 ## NFT ETH
 - https://ethblock.art/
 
+## NFT CROSSCHAIN
+- https://uniqueone.network/
+- https://nftblackmarket.io
+
 ## NFT BSC
 - https://treasureland.market
-- https://nftblackmarket.io
 - https://scv.finance/market
 - https://app.liquidifty.io/
 - https://www.airnfts.com
@@ -80,6 +82,10 @@
 - https://www.henext.xyz/
 - https://kalamint.io/
 - https://objkt.com/
+
+## NFT NEAR
+- https://uniqueone.network/
+- https://paras.id
 
 ## NFT AVAX
 - https://snowflake.market/

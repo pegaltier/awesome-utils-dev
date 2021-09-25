@@ -10,6 +10,10 @@
 - Balaji S. Srinivasan
 - Gary Basin
 
+## NEWTECH
+- https://agoric.com/
+- https://www.qredo.com/
+
 ## TOP TOOLS
 - https://solume.io
 - https://vfat.tools
