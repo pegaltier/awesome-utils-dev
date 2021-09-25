@@ -78,12 +78,17 @@
 ## NFT XTZ
 - https://www.hicetnunc.xyz/
 - https://www.henext.xyz/
+- https://kalamint.io/
+- https://objkt.com/
 
 ## NFT AVAX
 - https://snowflake.market/
 
 ## NFT LUNA
 - https://terravirtua.io/
+
+## NFT ONE
+- https://davinci.gallery/
 
 ## NFT CREATORS
 - https://finney.world
