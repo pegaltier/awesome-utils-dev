@@ -53,7 +53,6 @@
 - https://www.yoshidrops.com
 - https://wax.atomichub.io
 - https://neftyblocks.com
-- https://nftrippy.com
 - https://waxstash.com
 - https://waxarena.io
 - https://paraffin.io
@@ -110,6 +109,7 @@
 ## NFT CREATORS
 - https://artblocks.io
 - https://finney.world
+- https://www.heni.com
 - https://nftgenius.com
 - https://volatility.art
 - https://www.nftboxes.io
@@ -153,26 +153,34 @@
 
 ## NFT NEWS
 - https://crypto.writer.io/s/nft
-- https://www.secondrealm.com/
-- https://nftinsider.io/
-- https://nftplazas.com/
-- https://wdny.io/
+- https://nonfungible.com/blog
+- https://www.secondrealm.com
+- https://nftinsider.io
+- https://nftplazas.com
+- https://wdny.io
+
+## NFT STATS
+- https://coinranking.com/nfts
+- https://www.cryptoslam.io
+- https://www.nft-stats.com
+- https://nonfungible.com
+
 
 ## NFT TOOLS
 - https://dappradar.com/rankings/category/marketplaces
 - https://dapp.ptokens.io/nfts
 - https://www.metapurse.fund
-- https://nftpricefloor.com/
-- https://www.nftstudios.io/
-- https://www.cryptoslam.io/
-- https://www.tribeone.io/
-- https://www.mintgate.io/
-- https://airdrop.anyo.io/
-- https://metalink.com/
-- https://gallery.so/
-- http://paribus.io/
-- https://palm.io/
-- https://yup.io/
+- https://nftpricefloor.com
+- https://www.nftstudios.io
+- https://www.tribeone.io
+- https://www.mintgate.io
+- https://airdrop.anyo.io
+- https://metalink.com
+- https://facings.io
+- https://gallery.so
+- http://paribus.io
+- https://palm.io
+- https://yup.io
 
 ## NFT LINKTREE
 - https://linktr.ee/clokkworky
