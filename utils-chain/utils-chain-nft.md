@@ -27,15 +27,15 @@
 - https://scarce.city
 - https://tokapi.com
 - https://syfin.art
+
+## NFT CROSSCHAIN
+- https://uniqueone.network/
+- https://nftblackmarket.io
 - https://meme.com
 
 ## NFT ETH
 - https://ethblock.art/
 - https://nftx.io
-
-## NFT CROSSCHAIN
-- https://uniqueone.network/
-- https://nftblackmarket.io
 
 ## NFT BSC
 - https://treasureland.market

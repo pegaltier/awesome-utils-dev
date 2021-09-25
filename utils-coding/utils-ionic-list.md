@@ -43,7 +43,11 @@
 
 ## LIBS: CAPACITOR
 
+- https://github.com/capacitor-community/admob
+- https://github.com/capacitor-community/stripe
 - https://github.com/capacitor-community/sqlite
+- https://github.com/ionic-team/capacitor-docgen
+- https://github.com/capacitor-community/electron
 - https://github.com/Nodonisko/capacitor-rate-app
 - https://github.com/capacitor-community/keep-awake
 - https://github.com/ionic-team/cap-plugin-mock-jest
