@@ -114,6 +114,7 @@
 - https://debuild.co
 - https://htmldom.dev
 - https://thisthat.dev
+- https://htmltidy.net
 - https://staticbox.io
 - https://webcode.tools
 - https://carbon.now.sh

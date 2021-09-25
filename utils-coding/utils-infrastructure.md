@@ -74,7 +74,8 @@
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/kubernauts/jmeter-kubernetes
 - https://github.com/tomhuang12/awesome-k8s-resources
-- https://kubernetes.io/docs/tutorials/kubernetes-basics/
+- https://kubernetes.io/docs/tutorials/kubernetes-basics
+- https://github.com/diegolnasc/kubernetes-best-practices
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ## REDIS
