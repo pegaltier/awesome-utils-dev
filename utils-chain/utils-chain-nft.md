@@ -22,22 +22,16 @@
 - https://niftygateway.com
 - https://market.blitmap.com
 - https://www.wilderworld.com
-- https://www.protonmarket.com
 - https://www.binance.com/en/nft
 - https://market.x.immutable.com
-- https://wax.simplemarket.io
-- https://pet.zoocoin.cash
-- https://eos.atomichub.io
-- https://www.apenft.org
-- https://nftsrealm.com
 - https://scarce.city
 - https://tokapi.com
 - https://syfin.art
 - https://meme.com
-- https://nftx.io
 
 ## NFT ETH
 - https://ethblock.art/
+- https://nftx.io
 
 ## NFT CROSSCHAIN
 - https://uniqueone.network/
@@ -77,6 +71,7 @@
 
 ## NFT FTM
 - https://artion.io/
+- https://pet.zoocoin.cash
 - https://www.raritymanifested.com/
 - https://paintswap.finance/nfts
 
@@ -104,6 +99,12 @@
 
 ## NFT ONE
 - https://davinci.gallery/
+
+## NFT TRX
+- https://www.apenft.org
+
+## NFT KCS
+- https://nftsrealm.com
 
 ## NFT CREATORS
 - https://artblocks.io
