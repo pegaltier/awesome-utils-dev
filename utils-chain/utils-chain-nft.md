@@ -89,6 +89,7 @@
 
 ## NFT NEAR
 - https://uniqueone.network/
+- https://www.mintbase.io/
 - https://paras.id
 
 ## NFT AVAX
@@ -121,6 +122,7 @@
 ## NFT COLLECTION
 - https://www.larvalabs.com/cryptopunks
 - https://www.fashionnonfungible.com/
+- https://www.pilotproject.dev/
 - https://www.cryptodadsnft.com/
 - https://boredapeyachtclub.com/
 - https://www.wearedorkis.com/
@@ -161,24 +163,30 @@
 
 ## NFT STATS
 - https://coinranking.com/nfts
+- https://nftpricefloor.com
 - https://www.cryptoslam.io
 - https://www.nft-stats.com
 - https://nonfungible.com
+- https://flooredape.io
+- https://wgmi.io
 
 
 ## NFT TOOLS
 - https://dappradar.com/rankings/category/marketplaces
 - https://dapp.ptokens.io/nfts
 - https://www.metapurse.fund
-- https://nftpricefloor.com
 - https://www.nftstudios.io
+- https://www.pinata.cloud
 - https://www.tribeone.io
 - https://www.mintgate.io
 - https://airdrop.anyo.io
 - https://metalink.com
-- https://facings.io
+- https://collab.land
 - https://gallery.so
+- https://facings.io
+- https://nftfi.com
 - http://paribus.io
+- https://r64x.com
 - https://palm.io
 - https://yup.io
 
