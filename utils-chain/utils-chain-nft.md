@@ -111,6 +111,7 @@
 - https://litemint.com/
 
 ## NFT CREATORS
+- https://xcopy.art
 - https://artblocks.io
 - https://finney.world
 - https://www.heni.com
@@ -134,6 +135,8 @@
 - https://www.cyberkongz.com
 - https://www.lootproject.com
 - https://www.lootwatcher.com
+- https://www.cryptochicks.app
+- https://sadgirlsbar.io
 
 ## NFT GAMES
 - https://blankos.com
@@ -173,6 +176,7 @@
 - https://www.cryptoslam.io
 - https://www.nft-stats.com
 - https://nonfungible.com
+- https://collect.social
 - https://flooredape.io
 - https://wgmi.io
 
@@ -221,7 +225,7 @@
 ## NFT WAXCOLLECTION
 - https://wax.atomichub.io/market?collection_name=dabitcoinkid&order=asc&sort=price&symbol=WAX  (F:120/170/219.17/171)
 - https://wax.atomichub.io/market?collection_name=artbyjordanb&order=asc&sort=price&symbol=WAX  (F:50.0)
-- https://wax.atomichub.io/market?collection_name=boneheads444&order=asc&sort=price&symbol=WAX  (F:38.67)
+- https://wax.atomichub.io/market?collection_name=boneheads444&order=asc&sort=price&symbol=WAX  (F:45.0)
 - https://wax.atomichub.io/market?collection_name=offroadpaint&order=asc&sort=price&symbol=WAX  (F:15.0)
 - https://wax.atomichub.io/market?collection_name=nippyztripps&order=asc&sort=price&symbol=WAX  (F:14.5)
 - https://wax.atomichub.io/market?collection_name=lgnd.art&order=asc&sort=price&symbol=WAX      (F:9.0)
@@ -313,8 +317,7 @@
 - https://wax.bloks.io/account/33mdq.wam#nfts
 - https://wax.bloks.io/account/composerhodl#nfts
 
-## NFT TWITTER
-
+## NFT TWITTER ARTISTS
 CryptoMoongirls
 BigBenBusiness
 SimonartOnline
@@ -363,3 +366,12 @@ BabylonsNFT
 VikingXBT
 ilan_katin
 DCLBlogger
+
+## NFT TWITTER GAMES
+AlienWorlds
+boysterous_co
+FarmersWorldNFT
+CenturyTrain
+DarkCountryGame
+RPLANETio
+hodlgodgame
