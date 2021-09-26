@@ -30,16 +30,16 @@
 - https://tokapi.com
 - https://syfin.art
 
-## NFT CROSSCHAIN
+### NFT MULTICHAIN
 - https://uniqueone.network/
 - https://nftblackmarket.io
 - https://meme.com
 
-## NFT ETH
+### NFT ETH
 - https://ethblock.art/
 - https://nftx.io
 
-## NFT BSC
+### NFT BSC
 - https://treasureland.market
 - https://scv.finance/market
 - https://app.liquidifty.io/
@@ -50,7 +50,7 @@
 - https://lootex.io
 - https://nftb.io
 
-## NFT WAX
+### NFT WAX
 - https://wax.simplemarket.io
 - https://www.yoshidrops.com
 - https://wax.atomichub.io
@@ -63,12 +63,12 @@
 - https://lgnd.art
 - https://wdny.io
 
-## NFT EOS
+### NFT EOS
 - https://eos.atomichub.io/
 - https://eosnation.io/gems/
 - https://alcor.exchange/nft-market
 
-## NFT XPR
+### NFT XPR
 - https://protonmint.com/
 - https://www.protonmarket.com/
 
@@ -81,13 +81,13 @@
 ## NFT ADA
 - https://www.claynation.io/
 
-## NFT XTZ
+### NFT XTZ
 - https://www.hicetnunc.xyz/
 - https://www.henext.xyz/
 - https://kalamint.io/
 - https://objkt.com/
 
-## NFT NEAR
+### NFT NEAR
 - https://uniqueone.network/
 - https://www.mintbase.io/
 - https://paras.id
@@ -95,20 +95,23 @@
 ## NFT AVAX
 - https://snowflake.market/
 
-## NFT LUNA
+### NFT LUNA
 - https://terravirtua.io/
 
-## NFT ONE
+### NFT ONE
 - https://davinci.gallery/
 
-## NFT TRX
+### NFT TRX
 - https://www.apenft.org
 
-## NFT KCS
+### NFT KCS
 - https://nftsrealm.com
 
-## NFT XLM
+### NFT XLM
 - https://litemint.com/
+
+### NFT FLOW
+- https://viv3.com/
 
 ## NFT CREATORS
 - https://xcopy.art
@@ -268,6 +271,7 @@
 - https://wax.atomichub.io/market?collection_name=mudgestudios&order=asc&sort=price&symbol=WAX  (F:0.10)
 - https://wax.atomichub.io/market?collection_name=nftdraft2121&order=asc&sort=price&symbol=WAX  (F:0.09)
 - https://wax.atomichub.io/market?collection_name=kaleidabang3&order=asc&sort=price&symbol=WAX  (F:0.09)
+- https://wax.atomichub.io/market?collection_name=cryptocrypt2&order=asc&sort=price&symbol=WAX  (F:0.09)
 - https://wax.atomichub.io/market?collection_name=urbancltnfts&order=asc&sort=price&symbol=WAX  (F:0.08)
 - https://wax.atomichub.io/market?collection_name=tachitachi13&order=asc&sort=price&symbol=WAX  (F:0.07)
 - https://wax.atomichub.io/market?collection_name=yazingdotcom&order=asc&sort=price&symbol=WAX  (F:0.07)
@@ -295,7 +299,9 @@
 
 ## NFT WAXCOLLECTION RARE
 - https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Legendary&order=asc&sort=price&symbol=WAX  (F:277)
-- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Moving%20Wave&order=asc&sort=price&symbol=WAX (F:30)
+- https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Epic&order=asc&sort=price&symbol=WAX (F:35)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Moving%20Wave&order=asc&sort=price&symbol=WAX (F:31)
+- https://wax.atomichub.io/market?collection_name=cryptocrypt2&order=asc&schema_name=familiars&sort=price&symbol=WAX (F:20)
 - https://wax.atomichub.io/market?collection_name=robotech&data:text.rarity=Silver&order=asc&sort=price&symbol=WAX (F:19)
 - https://wax.atomichub.io/market?collection_name=cartombs.r2&data:text.rarity=legendary&order=asc&sort=price&symbol=WAX (F:14.9)
 - https://wax.atomichub.io/market?collection_name=cartombs.r2&data:text.rarity=rare&order=asc&sort=price&symbol=WAX (F:4.9)
@@ -314,6 +320,7 @@
 - https://neftyblocks.com/c/cryptoswatch
 - https://neftyblocks.com/c/myzombiecats
 - https://neftyblocks.com/c/offroadpaint
+- https://neftyblocks.com/c/waxsneakkers
 
 ## NFT WAXCOLLECTION HOLDERS
 - https://wax.bloks.io/account/4u1aw.wam#nfts
