@@ -86,9 +86,6 @@
 - https://kalamint.io/
 - https://objkt.com/
 
-## NFT XLM
-- https://litemint.com/
-
 ## NFT NEAR
 - https://uniqueone.network/
 - https://www.mintbase.io/
@@ -108,6 +105,9 @@
 
 ## NFT KCS
 - https://nftsrealm.com
+
+## NFT XLM
+- https://litemint.com/
 
 ## NFT CREATORS
 - https://artblocks.io
@@ -164,6 +164,7 @@
 - https://wdny.io
 
 ## NFT STATS
+- https://dappradar.com/rankings/category/marketplaces
 - https://coinranking.com/nfts
 - https://nftpricefloor.com
 - https://www.cryptoslam.io
@@ -174,7 +175,6 @@
 
 
 ## NFT TOOLS
-- https://dappradar.com/rankings/category/marketplaces
 - https://dapp.ptokens.io/nfts
 - https://www.metapurse.fund
 - https://www.nftstudios.io
@@ -184,10 +184,10 @@
 - https://airdrop.anyo.io
 - https://metalink.com
 - https://collab.land
+- https://paribus.io
 - https://gallery.so
 - https://facings.io
 - https://nftfi.com
-- http://paribus.io
 - https://r64x.com
 - https://palm.io
 - https://yup.io
