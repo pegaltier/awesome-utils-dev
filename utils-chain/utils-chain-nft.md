@@ -10,6 +10,7 @@
 - https://rarible.com
 - https://www.fyooz.io
 - https://curate.style
+- https://mintable.app
 - https://nft.lympo.io
 - https://artverse.vip
 - https://www.mynft.com
@@ -56,6 +57,7 @@
 - https://waxstash.com
 - https://waxarena.io
 - https://paraffin.io
+- https://myth.market
 - https://nfthive.io
 - https://lgnd.art
 - https://wdny.io

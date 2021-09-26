@@ -16,6 +16,7 @@
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://github.com/enricopolanski/functional-programming
 - https://kentcdodds.com/blog/typescript-function-syntaxes
+- https://github.com/ghoullier/awesome-template-literal-types
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
 ## TOOLS
