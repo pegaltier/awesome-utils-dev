@@ -17,6 +17,7 @@
 - https://superrare.com
 - https://foundation.app
 - https://knownorigin.io
+- https://masterpiece.so
 - https://tryshowtime.com
 - https://makersplace.com
 - https://www.chronicle.io
@@ -123,32 +124,33 @@
 
 ## NFT COLLECTION
 - https://www.larvalabs.com/cryptopunks
-- https://www.fashionnonfungible.com/
-- https://www.pilotproject.dev/
-- https://www.cryptodadsnft.com/
-- https://boredapeyachtclub.com/
-- https://www.wearedorkis.com/
-- https://cryptomoonboys.com/
-- https://www.btcorigins.com/
-- https://www.cyberkongz.com/
-- https://www.lootproject.com/
-- https://www.lootwatcher.com/
+- https://www.fashionnonfungible.com
+- https://www.pilotproject.dev
+- https://www.cryptodadsnft.com
+- https://boredapeyachtclub.com
+- https://www.wearedorkis.com
+- https://cryptomoonboys.com
+- https://www.btcorigins.com
+- https://www.cyberkongz.com
+- https://www.lootproject.com
+- https://www.lootwatcher.com
 
 ## NFT GAMES
-- https://blankos.com/
-- https://nftyplay.io/
-- https://immersys.io/
-- https://www.mobox.io/
-- https://cryptobay.vip/
-- https://www.mtvrs.app/
-- https://parallel.life/
-- https://www.derace.com/
-- https://app.gala.games/
-- https://www.illuvium.io/
-- https://www.ufogaming.io/
-- https://www.duelverse.io/
-- https://axieinfinity.com/
-- https://www.myneighboralice.com/
+- https://blankos.com
+- https://nftyplay.io
+- https://immersys.io
+- https://rarity.game
+- https://www.mobox.io
+- https://cryptobay.vip
+- https://www.mtvrs.app
+- https://parallel.life
+- https://www.derace.com
+- https://app.gala.games
+- https://www.illuvium.io
+- https://www.ufogaming.io
+- https://www.duelverse.io
+- https://axieinfinity.com
+- https://www.myneighboralice.com
 
 ## NFT PODCATS
 - https://www.theouterrealm.io/
@@ -159,6 +161,7 @@
 - https://crypto.writer.io/s/nft
 - https://nonfungible.com/blog
 - https://www.secondrealm.com
+- https://www.arodie.com
 - https://nftinsider.io
 - https://nftplazas.com
 - https://wdny.io
@@ -193,6 +196,7 @@
 - https://yup.io
 
 ## NFT LINKTREE
+- https://linktr.ee/xcopy2089
 - https://linktr.ee/clokkworky
 - https://linktr.ee/Darkfarms
 
