@@ -156,8 +156,9 @@
 - https://www.myneighboralice.com
 
 ## NFT PODCATS
-- https://www.theouterrealm.io/
-- https://www.twoboredapes.com/
+- https://theboringshow.io
+- https://www.theouterrealm.io
+- https://www.twoboredapes.com
 - https://anchor.fm/propsanddrops
 
 ## NFT NEWS
