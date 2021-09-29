@@ -26,13 +26,15 @@
 - https://www.wilderworld.com
 - https://www.binance.com/en/nft
 - https://market.x.immutable.com
+- https://marketplace.draftkings.com
 - https://scarce.city
 - https://tokapi.com
 - https://syfin.art
 
 ### NFT MULTICHAIN
-- https://uniqueone.network/
+- https://uniqueone.network
 - https://nftblackmarket.io
+- https://app.nftrade.com
 - https://meme.com
 
 ### NFT ETH
@@ -46,6 +48,7 @@
 - https://www.airnfts.com
 - https://www.babylons.io
 - https://bsc.unique.one
+- https://www.enter.art
 - https://nftrade.com/
 - https://lootex.io
 - https://nftb.io
@@ -113,6 +116,9 @@
 ### NFT FLOW
 - https://viv3.com/
 
+### NFT FLOW
+- https://airight.io/marketplace
+
 ## NFT CREATORS
 - https://xcopy.art
 - https://artblocks.io
@@ -156,12 +162,14 @@
 - https://www.ufogaming.io
 - https://www.duelverse.io
 - https://axieinfinity.com
+- https://www.sandbox.game
 - https://www.myneighboralice.com
 
 ## NFT PODCATS
 - https://theboringshow.io
 - https://www.theouterrealm.io
 - https://www.twoboredapes.com
+- https://nftnow.com/podcasts
 - https://anchor.fm/propsanddrops
 
 ## NFT NEWS
@@ -171,6 +179,7 @@
 - https://www.arodie.com
 - https://nftinsider.io
 - https://nftplazas.com
+- https://nftnow.com
 - https://wdny.io
 
 ## NFT STATS
@@ -193,11 +202,13 @@
 - https://www.tribeone.io
 - https://www.mintgate.io
 - https://airdrop.anyo.io
+- https://www.niftex.org
 - https://metalink.com
 - https://collab.land
 - https://paribus.io
 - https://gallery.so
 - https://facings.io
+- https://token.art
 - https://nftfi.com
 - https://r64x.com
 - https://palm.io
