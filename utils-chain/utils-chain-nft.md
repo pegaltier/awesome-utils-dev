@@ -58,6 +58,7 @@
 - https://www.yoshidrops.com
 - https://wax.atomichub.io
 - https://neftyblocks.com
+- https://www.agoraltd.io
 - https://waxstash.com
 - https://waxarena.io
 - https://paraffin.io
@@ -259,6 +260,7 @@
 - https://wax.atomichub.io/market?collection_name=deadmau5&order=asc&sort=price&symbol=WAX      (F:0.99)
 - https://wax.atomichub.io/market?collection_name=popcorpcards&order=asc&sort=price&symbol=WAX  (F:0.90)
 - https://wax.atomichub.io/market?collection_name=pizzaslice2u&order=asc&sort=price&symbol=WAX  (F:0.89)
+- https://wax.atomichub.io/market?collection_name=virtualdream&order=asc&sort=price&symbol=WAX  (F:0.79) *
 - https://wax.atomichub.io/market?collection_name=artvndngmchn&order=asc&sort=price&symbol=WAX  (F:0.61)
 - https://wax.atomichub.io/market?collection_name=bmac4artsake&order=asc&sort=price&symbol=WAX  (F:0.60)
 - https://wax.atomichub.io/market?collection_name=bitcoinelite&order=asc&sort=price&symbol=WAX  (F:0.59)
@@ -308,14 +310,41 @@
 - https://wax.atomichub.io/market?collection_name=stonedshawty&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=pngdivingwld&order=asc&sort=price&symbol=WAX
 
-## NFT WAXCOLLECTION RARE
-- https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Legendary&order=asc&sort=price&symbol=WAX  (F:277)
+## NFT WAXCOLLECTION 1
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=promo&order=asc&sort=price&symbol=WAX         (F:0.20)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Pre-Future&order=asc&sort=price&symbol=WAX    (F:1.00)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Serigraph&order=asc&sort=price&symbol=WAX     (F:1.98)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Crazy%20Spray&order=asc&sort=price&symbol=WAX (F:4.0)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Moving%20Wave&order=asc&sort=price&symbol=WAX (F:19.95)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=The%20Endless%20Creation&order=asc&sort=price&symbol=WAX (F:60)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Post-Future&order=asc&sort=price&symbol=WAX   (F:798)
+
+## NFT WAXCOLLECTION 2
+- https://wax.atomichub.io/market?collection_name=cartombs.r2&data:text.rarity=legendary&order=asc&sort=price&symbol=WAX (F:14.9)
+- https://wax.atomichub.io/market?collection_name=cartombs.r2&data:text.rarity=rare&order=asc&sort=price&symbol=WAX      (F:4.9)
+- https://wax.atomichub.io/market?collection_name=cartombs.r2&data:text.rarity=uncommon&order=asc&sort=price&symbol=WAX  (f:4.8)
+
+## NFT WAXCOLLECTION 3
+- https://wax.atomichub.io/market?collection_name=virtualdream&data:text.rarity=Common&order=asc&sort=price&symbol=WAX   (F:2.96)
+- https://wax.atomichub.io/market?collection_name=virtualdream&data:text.rarity=Uncommon&order=asc&sort=price&symbol=WAX (F:1.96)
+- https://wax.atomichub.io/market?collection_name=virtualdream&data:text.rarity=Rare&order=asc&sort=price&symbol=WAX     (F:2.00)
+- https://wax.atomichub.io/market?collection_name=virtualdream&data:text.rarity=Epic&order=asc&sort=price&symbol=WAX     (F:7.0)
+
+## NFT WAXCOLLECTION 4
+- https://r2.atomichub.io/market?collection_name=graffiti.r2
+- https://wax.atomichub.io/market?collection_name=graffiti.r2&data:text.rarity=rare&order=asc&sort=price&symbol=WAX (F:0.44)
+- https://wax.atomichub.io/market?collection_name=graffiti.r2&data:text.rarity=mythic&order=asc&sort=price&symbol=WAX (F:4.3)
+- https://wax.atomichub.io/market?collection_name=graffiti.r2&data:text.rarity=extraordinary&order=asc&sort=price&symbol=WAX (F:15.99)
+- https://wax.atomichub.io/market?collection_name=graffiti.r2&order=asc&schema_name=series1&sort=price&symbol=WAX&template_id=140300 (F:1.6)
+- https://wax.atomichub.io/market?collection_name=graffiti.r2&order=asc&schema_name=series1&sort=price&symbol=WAX&template_id=140500 (F:3.0)
+- https://wax.atomichub.io/market?collection_name=graffiti.r2&order=asc&schema_name=series1&sort=price&symbol=WAX&template_id=140615 (F:40)
+
+## NFT WAXCOLLECTION OTHERS
+- https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Legendary&order=asc&sort=price&symbol=WAX  (F:195)
 - https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Epic&order=asc&sort=price&symbol=WAX (F:35)
-- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Moving%20Wave&order=asc&sort=price&symbol=WAX (F:31)
+- https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Moving%20Wave&order=asc&sort=price&symbol=WAX (F:19.95)
 - https://wax.atomichub.io/market?collection_name=cryptocrypt2&order=asc&schema_name=familiars&sort=price&symbol=WAX (F:20)
 - https://wax.atomichub.io/market?collection_name=robotech&data:text.rarity=Silver&order=asc&sort=price&symbol=WAX (F:19)
-- https://wax.atomichub.io/market?collection_name=cartombs.r2&data:text.rarity=legendary&order=asc&sort=price&symbol=WAX (F:14.9)
-- https://wax.atomichub.io/market?collection_name=cartombs.r2&data:text.rarity=rare&order=asc&sort=price&symbol=WAX (F:4.9)
 
 ## NFT WAXCOLLECTION DROPS
 - https://neftyblocks.com/c/nippyztripps
