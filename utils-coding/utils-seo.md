@@ -41,6 +41,7 @@ WHEN: at the beginning of each new campaign or each trimester. You can also do r
 ## SEO PERF
 - https://webpagetest.org/
 - https://www.bytecheck.com/
+- https://search.google.com/search-console/insights/about?hl=en#what-is-search-console-insights
 
 ## SEO LIST
 - https://curatedseotools.com/

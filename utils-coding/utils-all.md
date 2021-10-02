@@ -8,6 +8,9 @@
 - https://app.diagrams.net/
 - https://jsbin.com/?html,output
 
+## PODCASTS
+- https://webrush.io/
+
 ## AWESOME LIST OSS
 
 - https://github.com/Ja7ad/W3Schools

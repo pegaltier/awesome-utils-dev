@@ -185,6 +185,7 @@
 - https://github.com/gorhom/react-native-portal
 - https://github.com/mrousavy/react-native-mmkv
 - https://github.com/facebook/react-native-fbsdk
+- https://github.com/Giphy/giphy-react-native-sdk
 - https://github.com/Polidea/react-native-ble-plx
 - https://github.com/expo/create-react-native-app
 - https://github.com/cawfree/react-native-wormhole
@@ -223,6 +224,7 @@
 - https://github.com/JustLance/react-native-iovation-deviceprint
 - https://github.com/thebylito/react-native-navigation-bar-color
 - https://github.com/conorhastings/react-native-syntax-highlighter
+- https://github.com/BruceSuperProgramer/react-native-reanimated-accordion
 - https://github.com/MoOx/react-native-transparent-status-and-navigation-bar
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 - https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html

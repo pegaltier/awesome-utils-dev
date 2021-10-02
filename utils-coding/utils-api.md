@@ -31,6 +31,7 @@
 - https://github.com/APIs-guru
 - https://github.com/Azure/autorest
 - https://github.com/slatedocs/slate
+- https://github.com/DataFire/DataFire
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
 
@@ -58,6 +59,7 @@
 
 ## SERVERLESS
 - https://github.com/firebase/
+- https://github.com/appwrite/appwrite
 - https://github.com/supabase/supabase
 
 ## OTHERS
@@ -117,6 +119,11 @@
 ## SIGNING
 - https://www.docusign.com
 - https://www.universign.com
+
+## GATEWAY
+- https://github.com/Kong/kong
+- https://github.com/luraproject/lura
+- https://github.com/TykTechnologies/tyk
 
 ## FUN
 

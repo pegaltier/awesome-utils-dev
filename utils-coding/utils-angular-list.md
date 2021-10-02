@@ -1451,8 +1451,10 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/srleecode/domain
 - https://github.com/studds/nx-aws
 - https://github.com/danmt/nx-anchor
+- https://github.com/anatine/esbuildnx
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
+- https://github.com/meeroslav/circle-ci-affected-from-tag
 - https://github.com/deepkit-community/nx-plugins
 - https://github.com/e-square-io/nx-github-actions
 - https://github.com/e-square-io/nx-distributed-task
@@ -1590,6 +1592,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/wesbos/eslint-config-wesbos
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
+- https://github.com/import-js/eslint-plugin-import
 - https://github.com/prettier/tslint-config-prettier
 - https://github.com/aotaduy/eslint-plugin-spellcheck
 - https://github.com/SonarSource/eslint-plugin-sonarjs
@@ -2348,6 +2351,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826
 - https://medium.com/dev-thought/introducing-nx-deployit-e5cfe89b810c
 - https://gitlab.com/gitlab-org/gitlab-runner/issues/1797
+- https://github.com/ngworker/angular-versions-action
 
 ## ECOSYSTEM: PLUG & PLAY:
 
@@ -2380,9 +2384,11 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/lacolaco/angular-tfjs-sandbox
+- https://github.com/appwrite/demo-todo-with-angular
 - https://github.com/lacolaco/angular-testing-recipes
 - https://github.com/pankajparkar/lazy-loading-recipes
 - https://github.com/ultrasonicsoft/ng-application-builder
+- https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 
