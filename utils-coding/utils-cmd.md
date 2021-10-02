@@ -12,6 +12,7 @@
 
 ## Utils
 
+- https://github.com/cheat/cheat
 - https://github.com/sharkdp/bat
 - https://github.com/tldr-pages/tldr
 - https://github.com/ohmyzsh/ohmyzsh

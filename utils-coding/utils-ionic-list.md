@@ -12,6 +12,7 @@
 - https://ioncheatsheet.com
 - https://showcase.ionicframework.com/apps/top
 - https://github.com/Alexintosh/Awesome-Ionic
+- https://github.com/danielsogl/awesome-cordova-plugins
 - https://github.com/vagnersabadi/awesome-components-ionic
 
 ## TOOLS

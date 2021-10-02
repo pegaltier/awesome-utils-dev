@@ -55,6 +55,7 @@
 - https://learnjavascript.online/
 - https://learnjavascript.online/
 - https://www.w3schools.com/w3js/
+- https://www.30secondsofcode.org/
 - https://exploringjs.com/deep-js/
 - https://learnvanillajs.com/roadmap/
 - https://scrimba.com/learn/learnjavascript
@@ -76,6 +77,7 @@
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/trekhleb/javascript-algorithms
+- https://github.com/30-seconds/30-seconds-of-code
 - https://github.com/mgechev/javascript-algorithms
 - https://github.com/getify/Functional-Light-JS
 - https://github.com/leonardomso/33-js-concepts
@@ -192,6 +194,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
 - https://github.com/JSMonk/hegel
+- https://github.com/krisk/Fuse
 - https://github.com/EricSmekens/jsep
 - https://github.com/blitz-js/superjson
 - https://github.com/nuxt-contrib/consola
@@ -428,6 +431,8 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 ## IMPORTANT
 
 ### FUNCTION
+
+- https://dev.to/sumusiriwardana/javascript-functions-explain-like-i-m-five-5009
 
 A function can be created in 4 ways
 

@@ -8,16 +8,21 @@
 - https://github.com/jdauphant/awesome-ansible
 
 ## TOOLS
+- https://traefik.io/
+- https://ngrok.com/
+- https://sshreach.me/
 - https://crontab.guru/
 - https://cronitor.io/index
 - https://certbot.eff.org/
+- https://www.jenkins.io/
+- https://www.ansible.com/
+- https://www.terraform.io/
 - https://jmeter.apache.org/
 - https://www.netdata.cloud/
 - https://www.whatsmydns.net/
 - https://www.cdn77.com/tls-test
+- https://www.sonatype.com/products/repository-pro
 - https://www.sslshopper.com/ssl-checker.html
-- https://sshreach.me/
-- https://ngrok.com/
 
 ## TOOLS OSS
 - https://github.com/Qovery/engine
@@ -264,3 +269,13 @@ sql					> entree  3389 depuis vps. et le 22 tout le monde
 ## CERTIFICATE
 
 - https://certbot.eff.org/docs/using.html
+
+## DEFINITIONS
+
+- What Is NAT? NAT stands for network address translation. It's a way to map multiple local private addresses to a public one before transferring the information. Organizations that want multiple devices to employ a single IP address use NAT, as do most home routers.
+
+- Virtual Machine vs Container: VM is complete. Container is closer to the host machine. No emulation of hardware. We share a part of the hardware. disk, network. To do that we segment the harware.
+
+- Openshift: receives config file and go to pull docker image on nexus to do the deployment. Internal access or external access: Cloudflare can protect external access but not necessary on internal access. There is one BigIP cluster for each access: internal/external, they are responsible to do the load balancing.
+
+Logging: Fluentd to do the bridge between different log producers. see: kibana, elastic, prometheus (host, memory, cpu, disk), prtg, shinken, pingdom
