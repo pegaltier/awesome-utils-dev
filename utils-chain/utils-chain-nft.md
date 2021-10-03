@@ -48,6 +48,7 @@
 - https://www.airnfts.com
 - https://www.babylons.io
 - https://bsc.unique.one
+- https://www.nftmall.io
 - https://www.enter.art
 - https://nftrade.com/
 - https://lootex.io
@@ -296,6 +297,7 @@
 - https://wax.atomichub.io/market?collection_name=byronartset1&order=asc&sort=price&symbol=WAX  (F:0.04)
 - https://wax.atomichub.io/market?collection_name=tokengirlslv&order=asc&sort=price&symbol=WAX  (F:0.04)
 - https://wax.atomichub.io/market?collection_name=royaldexnfts&order=asc&sort=price&symbol=WAX  (F:0.03)
+- https://wax.atomichub.io/market?collection_name=penartdborjs&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=zendodoparty&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=pixellabs123&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=deckovarmint&order=asc&sort=price&symbol=WAX
