@@ -17,10 +17,9 @@
 composer dump-autoload (GENERATE import class)
 composer update (update dependecies & generate import class)
 ```
-## XAMP VIRTUAL HOST
+## XAMPP VIRTUAL HOST
 
-- C:/xampp/apache/conf/extra
-- open and edit httpd-vhosts.conf
+1. Open and edit like below the file: C:/xampp/apache/conf/extra/httpd-vhosts.conf
 
 ```
 <VirtualHost *:80>
@@ -30,14 +29,23 @@ ServerName myurl.test
 </VirtualHost>
 ```
 
-- C:\Windows\System32\drivers\etc\hosts
-- Add the following line in the Host file.
+If you want to use directory external to your default htdocs then you need to add to the VirtualHost> tag the following:
+```
+<Directory "D:/Work/mypath/example">
+    Require all granted    
+</Directory>
+```
+
+2. Open and edit like below the file: C:\Windows\System32\drivers\etc\hosts
 
 ```
 127.0.0.1      myurl.test
 ```
 
-More infos: https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/
+More infos: 
+- https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/
+- https://tonyfrenzy.medium.com/xampp-serving-from-any-directory-outside-of-htdocs-22a93f1b8815
+- https://stackoverflow.com/questions/27754367/how-to-set-up-apache-virtual-hosts-on-xampp-windows
 
 ## XAMPP INCLUDE HTML PAGES
 ```
