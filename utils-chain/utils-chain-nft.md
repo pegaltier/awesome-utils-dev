@@ -157,6 +157,7 @@
 - https://immersys.io
 - https://rarity.game
 - https://www.mobox.io
+- https://www.realm.art
 - https://cryptobay.vip
 - https://www.mtvrs.app
 - https://parallel.life
@@ -348,6 +349,7 @@
 ## NFT WAXCOLLECTION OTHERS
 - https://wax.atomichub.io/market?collection_name=artvndngmchn&data:text.rarity=Mythic&order=asc&sort=price&symbol=WAX (F:400)
 - https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Legendary&order=asc&sort=price&symbol=WAX  (F:195)
+- https://wax.atomichub.io/market?collection_name=aratadigital&data:text.rarity=deluxe%20edition&order=asc&sort=price&symbol=WAX (F:59)
 - https://wax.atomichub.io/market?collection_name=upliftart&data:text.rarity=Epic&order=asc&sort=price&symbol=WAX (F:35)
 - https://wax.atomichub.io/market?collection_name=postfuture&data:text.rarity=Moving%20Wave&order=asc&sort=price&symbol=WAX (F:19.95)
 - https://wax.atomichub.io/market?collection_name=cryptocrypt2&order=asc&schema_name=familiars&sort=price&symbol=WAX (F:20)
