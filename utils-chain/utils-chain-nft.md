@@ -171,6 +171,7 @@
 - https://www.duelverse.io
 - https://axieinfinity.com
 - https://www.sandbox.game
+- https://www.darkfrontiers.com
 - https://www.myneighboralice.com
 
 ## NFT PODCATS
