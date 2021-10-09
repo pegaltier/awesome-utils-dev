@@ -71,6 +71,7 @@
 - https://wax.atomichub.io/market?collection_name=tokengirlslv&order=asc&sort=price&symbol=WAX  (F:0.04)
 - https://wax.atomichub.io/market?collection_name=royaldexnfts&order=asc&sort=price&symbol=WAX  (F:0.03)
 - https://wax.atomichub.io/market?collection_name=internetcult&order=asc&sort=price&symbol=WAX  (F:0.02)
+- https://wax.atomichub.io/market?collection_name=imposterpunk&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=penartdborjs&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=zendodoparty&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=pixellabs123&order=asc&sort=price&symbol=WAX
@@ -170,6 +171,12 @@
 - https://www.hicetnunc.xyz/_isabelarts	    LOW
 - https://www.hicetnunc.xyz/cnza			LOW
 - https://www.hicetnunc.xyz/masroem		    LOW
+- https://www.hicetnunc.xyz/ubaydhd         LOW
+- https://www.hicetnunc.xyz/gaspard-mono    LOW
+- https://www.hicetnunc.xyz/gaspard-gen
+- https://www.hicetnunc.xyz/Gaspard
+- https://www.hicetnunc.xyz/maria-maria
+- https://www.hicetnunc.xyz/AmandaHomem
 
 - https://www.hicetnunc.xyz/mlibty
 - https://www.hicetnunc.xyz/alisaffari

@@ -1208,6 +1208,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/TinkoffCreditSystems/roofer
 - https://github.com/TinkoffCreditSystems/microzord
+- https://github.com/matt-gold/single-spa-angular-cli
 - https://github.com/billyjov/microfrontend-resources
 - https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/angular-microfrontend
