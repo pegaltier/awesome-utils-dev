@@ -14,6 +14,7 @@
 - https://enes.in/sorted-colors/
 - https://1linelayouts.glitch.me/
 - http://www.menucool.com/css-menu
+- https://www.cssgradienteditor.com/
 - https://fluid-typography.netlify.app/
 - https://dailydevlinks.com/minimal-css-loader-collection
 - https://hugogiraudel.github.io/selectors-explained/

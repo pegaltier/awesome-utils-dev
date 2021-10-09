@@ -14,6 +14,7 @@
 # REACT
 
 ## GUIDE
+- https://github.com/mithi/react-philosophies
 - https://2ality.com/2020/08/minimal-react.html
 - https://github.com/harryheman/React-Questions
 - https://github.com/chentsulin/awesome-react-renderer
