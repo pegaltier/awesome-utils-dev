@@ -20,6 +20,7 @@
 - https://github.com/mattermost/focalboard
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/tanepiper/obsidian-garden
+- https://github.com/uwidev/life-disciplines-projects
 
 ## Diagram
 - https://flowchart.fun/

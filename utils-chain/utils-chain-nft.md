@@ -225,6 +225,12 @@
 - https://palm.io
 - https://yup.io
 
+## NFT DEV
+- https://github.com/yusefnapora/minty
+- https://www.pinata.cloud/
+- https://nftschool.dev/
+- https://nft.storage/
+
 ## NFT LINKTREE
 - https://linktr.ee/xcopy2089
 - https://linktr.ee/clokkworky
