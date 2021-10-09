@@ -142,33 +142,34 @@
 - https://www.hicetnunc.xyz/rosejackson
 
 - https://www.hicetnunc.xyz/dos-punks		VHIGH
-- https://www.hicetnunc.xyz/XXXXXX		VHIGH
+- https://www.hicetnunc.xyz/XXXXXX		    VHIGH
 
-- https://www.hicetnunc.xyz/whatisreal 	HIGH
-- https://www.hicetnunc.xyz/jaknft		HIGH
+- https://www.hicetnunc.xyz/whatisreal 	    HIGH
+- https://www.hicetnunc.xyz/jaknft		    HIGH
 - https://www.hicetnunc.xyz/fiedler.jpeg	HIGH
-- https://www.hicetnunc.xyz/Axstone		HIGH
+- https://www.hicetnunc.xyz/Axstone		    HIGH
 - https://www.hicetnunc.xyz/Darkfarms		HIGH
-- https://www.hicetnunc.xyz/MAIKEUL		HIGH
+- https://www.hicetnunc.xyz/MAIKEUL		    HIGH
+- https://www.hicetnunc.xyz/maxwellinked    HIGH
 
-- https://www.hicetnunc.xyz/summer.bluess 	MEDIUM
-- https://www.hicetnunc.xyz/kubrasuyildirim	MEDIUM
+- https://www.hicetnunc.xyz/summer.bluess 	    MEDIUM
+- https://www.hicetnunc.xyz/kubrasuyildirim	    MEDIUM
 - https://www.hicetnunc.xyz/naju				MEDIUM
-- https://www.hicetnunc.xyz/giomariani		MEDIUM
-- https://www.hicetnunc.xyz/Kmotion			MEDIUM
+- https://www.hicetnunc.xyz/giomariani		    MEDIUM
+- https://www.hicetnunc.xyz/Kmotion			    MEDIUM
 - https://www.hicetnunc.xyz/Sarisa-Kojima		MEDIUM
-- https://www.hicetnunc.xyz/Erryzaldy%20rayhan MEDIUM
-- https://www.hicetnunc.xyz/PRR				MEDIUM
-- https://www.hicetnunc.xyz/spinkdinky		MEDIUM
+- https://www.hicetnunc.xyz/Erryzaldy%20rayhan  MEDIUM
+- https://www.hicetnunc.xyz/PRR				    MEDIUM
+- https://www.hicetnunc.xyz/spinkdinky		    MEDIUM
 
 - https://www.hicetnunc.xyz/mad_hoosh		LOW
-- https://www.hicetnunc.xyz/wanzedu		LOW
+- https://www.hicetnunc.xyz/wanzedu		    LOW
 - https://www.hicetnunc.xyz/ella_art		LOW
 - https://www.hicetnunc.xyz/xavi_			LOW
 - https://www.hicetnunc.xyz/BarbaraRamos	LOW
-- https://www.hicetnunc.xyz/_isabelarts	LOW
+- https://www.hicetnunc.xyz/_isabelarts	    LOW
 - https://www.hicetnunc.xyz/cnza			LOW
-- https://www.hicetnunc.xyz/masroem		LOW
+- https://www.hicetnunc.xyz/masroem		    LOW
 
 - https://www.hicetnunc.xyz/mlibty
 - https://www.hicetnunc.xyz/alisaffari
