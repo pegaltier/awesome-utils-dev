@@ -22,6 +22,10 @@ https://artemlitch.github.io/sputnik/k
 ## PROJECT
 https://thewhitecompanyus.com
 
+## NFT
+- https://nft.kalepail.com/
+- https://litemint.com/
+
 ## ARTICLES
 https://dailyhodl.com/2018/09/11/stellar-xlm-buys-blockchain-startup-backed-by-nasdaq-visa-citi-and-pantera-capital/
 https://coingape.com/stellar-can-replicate-xrp-rally/
