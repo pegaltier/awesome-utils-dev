@@ -246,6 +246,8 @@
 
 ## NFT CODING
 - https://github.com/pinknetworkx/atomicassets-js
+- https://github.com/EatTheBlocks/nft-art-generator
+- https://github.com/EatTheBlocks/nft-101
 
 ## NFT WAXCOLLECTION DROPS
 - https://neftyblocks.com/c/nippyztripps

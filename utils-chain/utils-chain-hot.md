@@ -189,6 +189,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Sprillow/public-happ-challenge
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
 - https://github.com/juntofoundation/Shared-Perspective-Index
+- https://github.com/holochain-devcamp/devcamp8-game-of-commons
 - https://github.com/holochain-open-dev/dna-auth-resolver
 - https://github.com/holochain-open-dev/reusable-module-template
 - https://github.com/holochain-open-dev/mutual-commitments-module
@@ -218,6 +219,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/eyss/holochain-turn-based-game
 - https://github.com/juntofoundation/Acai-API
 - https://github.com/lucksus/perspectivism
+- https://github.com/perspect3vism/ad4m-executor
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-persistence
 - https://github.com/eyss/elemental-chess

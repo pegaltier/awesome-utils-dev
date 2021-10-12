@@ -54,6 +54,7 @@
 - https://wax.atomichub.io/market?collection_name=postfuture&order=asc&sort=price&symbol=WAX    (F:0.22)
 - https://wax.atomichub.io/market?collection_name=humbledrawin&order=asc&sort=price&symbol=WAX  (F:0.22)
 - https://wax.atomichub.io/market?collection_name=paintingsnft&order=asc&sort=price&symbol=WAX  (F:0.20)
+- https://wax.atomichub.io/market?collection_name=ultracomix&order=asc&sort=price&symbol=WAX    (F:0.19)
 - https://wax.atomichub.io/market?collection_name=amigos2space&order=asc&sort=price&symbol=WAX  (F:0.18)
 - https://wax.atomichub.io/market?collection_name=glitchartpro&order=asc&sort=price&symbol=WAX  (F:0.16)
 - https://wax.atomichub.io/market?collection_name=aetherfaucet&order=asc&sort=price&symbol=WAX  (F:0.14)
@@ -146,6 +147,7 @@
 - https://www.hicetnunc.xyz/dos-punks		VHIGH
 - https://www.hicetnunc.xyz/XXXXXX		    VHIGH
 
+- https://www.hicetnunc.xyz/esoteros
 - https://www.hicetnunc.xyz/whatisreal 	 
 - https://www.hicetnunc.xyz/jaknft		    
 - https://www.hicetnunc.xyz/fiedler.jpeg	
@@ -160,8 +162,11 @@
 - https://www.hicetnunc.xyz/omgidrawedit
 - https://www.hicetnunc.xyz/summer.bluess 	    
 - https://www.hicetnunc.xyz/kubrasuyildirim	    
-- https://www.hicetnunc.xyz/naju				
-- https://www.hicetnunc.xyz/giomariani		    
+- https://www.hicetnunc.xyz/naju
+- https://www.hicetnunc.xyz/colorpain
+- https://www.hicetnunc.xyz/giomariani
+- https://www.hicetnunc.xyz/Tompop  
+- https://www.hicetnunc.xyz/yun
 - https://www.hicetnunc.xyz/Kmotion			    
 - https://www.hicetnunc.xyz/Sarisa-Kojima	
 - https://www.hicetnunc.xyz/Erryzaldy%20rayhan 
@@ -174,7 +179,8 @@
 - https://www.hicetnunc.xyz/mad_hoosh		
 - https://www.hicetnunc.xyz/wanzedu
 - https://www.hicetnunc.xyz/hallucan   
-- https://www.hicetnunc.xyz/ella_art		
+- https://www.hicetnunc.xyz/ella_art
+- https://www.hicetnunc.xyz/dimasbkcid
 - https://www.hicetnunc.xyz/xavi_			
 - https://www.hicetnunc.xyz/BarbaraRamos	
 - https://www.hicetnunc.xyz/_isabelarts	    
@@ -189,6 +195,9 @@
 - https://www.hicetnunc.xyz/Gaspard
 - https://www.hicetnunc.xyz/maria-maria
 - https://www.hicetnunc.xyz/AmandaHomem
+- https://www.hicetnunc.xyz/psychedemon
+- https://www.hicetnunc.xyz/fallingup
+- https://www.hicetnunc.xyz/electrocomfort
 - https://www.hicetnunc.xyz/tz/tz1Tn4Ge6DerQAuexnjKu8557S7V36Fo6VYX
 
 - https://www.hicetnunc.xyz/mlibty
@@ -196,7 +205,6 @@
 - https://www.hicetnunc.xyz/cintaacida
 
 - https://www.hicetnunc.xyz/sevda ***
-- https://www.hicetnunc.xyz/colorpain
 - https://www.hicetnunc.xyz/55N
 - https://www.hicetnunc.xyz/HistoricalDem0n ***
 

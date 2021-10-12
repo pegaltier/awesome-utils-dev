@@ -100,6 +100,7 @@
 - https://freesvg.org
 - https://getwaves.io
 - https://svgporn.com
+- https://haikei.app
 - https://bgjar.com
 
 ## PHOTOS
