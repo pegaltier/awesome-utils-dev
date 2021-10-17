@@ -84,6 +84,7 @@
 - https://github.com/ad-m/github-push-action
 - https://github.com/benc-uk/workflow-dispatch
 - https://github.com/actions/typescript-action
+- https://github.com/mtfoley/pr-compliance-action
 - https://github.com/styfle/cancel-workflow-action
 
 ## TEMPLATES

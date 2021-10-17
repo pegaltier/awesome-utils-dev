@@ -195,6 +195,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
 - https://github.com/JSMonk/hegel
 - https://github.com/krisk/Fuse
+- https://github.com/jonschlinkert/clone-deep
 - https://github.com/EricSmekens/jsep
 - https://github.com/blitz-js/superjson
 - https://github.com/nuxt-contrib/consola
@@ -250,6 +251,9 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/fingerprintjs/fingerprintjs
 - https://github.com/Unleash/unleash
 
+## LIB: PIPELINE
+- https://github.com/danger/danger-js
+
 ## LIB: POLYFILL
 - https://github.com/jsxtools/cqfill
 
@@ -299,7 +303,6 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/svendahlstrand/web-serial-api
 
 ## LIB: FRONTEND ALL
-
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/OktaSecurityLabs/passprotect-js
@@ -310,6 +313,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables
 - https://github.com/davidmerfield/randomColor
+- https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/metafizzy/infinite-scroll
 - https://github.com/zenorocha/clipboard.js
@@ -321,6 +325,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/ueberdosis/tiptap
+- https://github.com/xtermjs/xterm.js
 - https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
 - https://github.com/omrilotan/isbot

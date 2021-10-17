@@ -226,7 +226,10 @@
 - https://yup.io
 
 ## NFT DEV
+- https://github.com/msmyers/nft-achievements
 - https://github.com/yusefnapora/minty
+- https://github.com/NFT-Standards-WG
+- https://www.nftstandards.wtf/
 - https://www.pinata.cloud/
 - https://nftschool.dev/
 - https://nft.storage/

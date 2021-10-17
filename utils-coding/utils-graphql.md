@@ -27,6 +27,9 @@
 - https://github.com/vendure-ecommerce/vendure
 - https://github.com/benawad/node-ts-graphql-boilerplate
 
+## SOLUTION
+- https://github.com/slicknode/slicknode
+
 ## LIB
 - https://github.com/sikanhe/gqtx
 - https://github.com/movio/bramble

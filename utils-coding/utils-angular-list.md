@@ -1665,6 +1665,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Nolanus/ngx-page-scroll
 - https://github.com/nicky-lenaers/ngx-scroll-to
 - https://github.com/meeroslav/ng-motion
+- https://github.com/vdolek/angular-resize-event
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -1727,6 +1728,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/studiohyperdrive/ngx-tools
 - https://github.com/rednez/angular-user-idle
 - https://github.com/ng-web-apis/storage
+- https://github.com/xorets/tshtml
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -1865,10 +1867,11 @@ Learn the best way to make your objects immutable.
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/ksocha/cypress-circleci-reporter
 - https://github.com/cypress-io/cypress-realworld-app
+- https://github.com/NoriSte/ui-testing-best-practices
 - https://github.com/cypress-io/cypress-example-recipes
 - https://github.com/maximilianschmitt/cypress-routines
 - https://github.com/bahmutov/cypress-angular-unit-test
-- https://github.com/NoriSte/ui-testing-best-practices
+- https://github.com/LayZeeDK/angular-module-teardown-options
 - https://github.com/gothinkster/angular-realworld-example-app
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
 - https://github.com/Flaxline/angular-nx-cypress-coverage-example
@@ -1966,9 +1969,11 @@ Analyze and optimize the performance of your app
 - https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
+- https://github.com/nbfontana/ngx-currency
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
+- https://github.com/tnicola/ngx-joyride
 - https://github.com/cormacrelf/angular-skyhook
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner

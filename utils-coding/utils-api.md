@@ -41,6 +41,7 @@
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/drwpow/openapi-typescript
 - https://github.com/devexperts/swagger-codegen-ts
+- https://github.com/asyncapi/modelina
 
 ## POSTMAN
 - https://github.com/transferwise/public-api-postman-collection

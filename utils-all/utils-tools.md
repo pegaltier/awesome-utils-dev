@@ -14,6 +14,7 @@
 - https://github.com/alyssaxuu/flowy
 - https://github.com/pavlobu/deskreen
 - https://github.com/chatwoot/chatwoot
+- https://github.com/fosscord/fosscord
 - https://github.com/sniptt-official/ots
 - https://github.com/justinfrankel/licecap
 - https://github.com/obsproject/obs-studio

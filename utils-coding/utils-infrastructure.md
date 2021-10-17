@@ -78,6 +78,7 @@
 - https://github.com/eon01/kubernetes-workshop
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/kubernauts/jmeter-kubernetes
+- https://github.com/Azure/vscode-kubernetes-tools
 - https://github.com/tomhuang12/awesome-k8s-resources
 - https://kubernetes.io/docs/tutorials/kubernetes-basics
 - https://github.com/diegolnasc/kubernetes-best-practices
@@ -86,10 +87,15 @@
 ## REDIS
 - https://github.com/JamzyWang/awesome-redis
 
+## AWS
+- https://github.com/localstack/localstack
+
 ## DOCKER
 - https://github.com/qdm12/devtainr
+- https://github.com/croqaz/browsers
 - https://github.com/containerd/nerdctl
 - https://github.com/jesseduffield/lazydocker
+- https://github.com/leighmcculloch/dockerhost
 - https://github.com/tomMoulard/make-my-server
 - https://github.com/veggiemonk/awesome-docker
 - https://github.com/buildkite/docker-puppeteer
