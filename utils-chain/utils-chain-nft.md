@@ -175,6 +175,8 @@
 - https://www.darkfrontiers.com
 - https://www.myneighboralice.com
 
+- https://www.quora.com/What-are-the-top-3-gaming-NFT-GEM-coins-that-will-be-mega-profitable-5X-to-50X-in-202
+
 ## NFT PODCATS
 - https://theboringshow.io
 - https://www.theouterrealm.io
@@ -212,15 +214,20 @@
 - https://www.tribeone.io
 - https://www.mintgate.io
 - https://airdrop.anyo.io
+- https://batch.xtz.tools
 - https://www.niftex.org
+- https://dono.xtz.tools
 - https://metalink.com
+- https://nftbiker.xyz
 - https://collab.land
+- https://hicdex.com
 - https://oncyber.io
 - https://paribus.io
 - https://gallery.so
 - https://facings.io
 - https://token.art
 - https://nftfi.com
+- https://glry.xyz
 - https://r64x.com
 - https://palm.io
 - https://yup.io
@@ -236,6 +243,7 @@
 
 ## NFT GALLERY
 - https://oncyber.io/vvd
+- https://oncyber.io/reif
 
 ## NFT LINKTREE
 - https://linktr.ee/xcopy2089
@@ -323,6 +331,8 @@ BabylonsNFT
 VikingXBT
 ilan_katin
 DCLBlogger
+KEBY2021
+
 
 ## NFT TWITTER GAMES
 AlienWorlds

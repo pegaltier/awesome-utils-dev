@@ -62,6 +62,7 @@
 - https://wax.atomichub.io/market?collection_name=grimfolkscol&order=asc&sort=price&symbol=WAX  (F:0.15)
 - https://wax.atomichub.io/market?collection_name=noacollector&order=asc&sort=price&symbol=WAX  (F:0.13)
 - https://wax.atomichub.io/market?collection_name=mudgestudios&order=asc&sort=price&symbol=WAX  (F:0.10)
+- https://wax.atomichub.io/market?collection_name=play2metamon&order=asc&sort=price&symbol=WAX  (F:0.10)
 - https://wax.atomichub.io/market?collection_name=nftdraft2121&order=asc&sort=price&symbol=WAX  (F:0.09)
 - https://wax.atomichub.io/market?collection_name=kaleidabang3&order=asc&sort=price&symbol=WAX  (F:0.09)
 - https://wax.atomichub.io/market?collection_name=cryptocrypt2&order=asc&sort=price&symbol=WAX  (F:0.09)
@@ -74,6 +75,7 @@
 - https://wax.atomichub.io/market?collection_name=tokengirlslv&order=asc&sort=price&symbol=WAX  (F:0.04)
 - https://wax.atomichub.io/market?collection_name=royaldexnfts&order=asc&sort=price&symbol=WAX  (F:0.03)
 - https://wax.atomichub.io/market?collection_name=internetcult&order=asc&sort=price&symbol=WAX  (F:0.02)
+- https://wax.atomichub.io/market?collection_name=clubmataseca&order=asc&sort=price&symbol=WAX  (F:0.02)
 - https://wax.atomichub.io/market?collection_name=imposterpunk&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=penartdborjs&order=asc&sort=price&symbol=WAX
 - https://wax.atomichub.io/market?collection_name=zendodoparty&order=asc&sort=price&symbol=WAX
@@ -142,6 +144,7 @@
 - https://www.hicetnunc.xyz/TezosApeClub
 - https://www.hicetnunc.xyz/PixYvonne
 - https://www.hicetnunc.xyz/rosejackson
+- https://www.hicetnunc.xyz/notebooks
 
 ## NFT TEZOS HIGH PRICE
 - https://www.hicetnunc.xyz/dos-punks		VHIGH
@@ -149,19 +152,37 @@
 
 - https://www.hicetnunc.xyz/esoteros
 - https://www.hicetnunc.xyz/whatisreal 	 
+- https://www.hicetnunc.xyz/DethRetina
 - https://www.hicetnunc.xyz/jaknft		    
 - https://www.hicetnunc.xyz/fiedler.jpeg	
-- https://www.hicetnunc.xyz/Axstone		    
+- https://www.hicetnunc.xyz/Axstone
+- https://www.hicetnunc.xyz/AD_AD	    
 - https://www.hicetnunc.xyz/Darkfarms		
 - https://www.hicetnunc.xyz/MAIKEUL		    
-- https://www.hicetnunc.xyz/maxwellinked    
+- https://www.hicetnunc.xyz/maxwellinked
+- https://www.hicetnunc.xyz/laser_eye_punk  
+
+- https://objkt.com/profile/tz1SnahmhRye1aTDGojxTpxZt5JLZr3odmt1/creations?sortBy=askAsc
+- https://objkt.com/profile/tz1hom1UjJesCRiaRo6kEQPikg9Lf9C5FWz7/creations?sortBy=askAsc
+- https://objkt.com/profile/tz1Wcji2P83mGaksCEXJDEoaxRFfnXrnw7bn/creations?sortBy=askAsc
+- https://objkt.com/profile/tz1RNDoqLh5VCqBUXrgmzhwxqcR7ptAfvfNh/creations?sortBy=askAsc
 
 ## NFT TEZOS MEDIUM PRICE
 - https://www.hicetnunc.xyz/OVE
+- https://www.hicetnunc.xyz/Blue
+- https://www.hicetnunc.xyz/smileghost
+- https://www.hicetnunc.xyz/LiffiWongso
 - https://www.hicetnunc.xyz/federico_cogo
 - https://www.hicetnunc.xyz/omgidrawedit
-- https://www.hicetnunc.xyz/summer.bluess 	    
-- https://www.hicetnunc.xyz/kubrasuyildirim	    
+- https://www.hicetnunc.xyz/summer.bluess
+- https://www.hicetnunc.xyz/DavidCheifetz   
+- https://www.hicetnunc.xyz/kubrasuyildirim
+- https://www.hicetnunc.xyz/Bentameleon
+- https://www.hicetnunc.xyz/Kaspar
+- https://www.hicetnunc.xyz/krucifix
+- https://www.hicetnunc.xyz/harimerdeka
+- https://www.hicetnunc.xyz/Mamatism
+- https://www.hicetnunc.xyz/p1xantle   
 - https://www.hicetnunc.xyz/naju
 - https://www.hicetnunc.xyz/colorpain
 - https://www.hicetnunc.xyz/giomariani
@@ -178,8 +199,10 @@
 ## NFT TEZOS LOW PRICE
 - https://www.hicetnunc.xyz/mad_hoosh		
 - https://www.hicetnunc.xyz/wanzedu
-- https://www.hicetnunc.xyz/hallucan   
+- https://www.hicetnunc.xyz/hallucan
+- https://www.hicetnunc.xyz/agil8
 - https://www.hicetnunc.xyz/ella_art
+- https://www.hicetnunc.xyz/Joerawks
 - https://www.hicetnunc.xyz/dimasbkcid
 - https://www.hicetnunc.xyz/xavi_			
 - https://www.hicetnunc.xyz/BarbaraRamos	
@@ -240,16 +263,25 @@
 - https://www.henext.xyz/niozzin/created
 
 - https://www.hicetnunc.xyz/tags/prasajadi
+- https://www.hicetnunc.xyz/techmoney/collection
 - https://www.hicetnunc.xyz/MahendraNazar/collection
 - https://www.hicetnunc.xyz/@dustin_dustino/collection
+- https://www.hicetnunc.xyz/rightclickandsave/collection
 - https://www.hicetnunc.xyz/tz/tz1R4sJxoBxsyiq9ozhQABxkaA5pHSnpeiNb
 - https://www.hicetnunc.xyz/tz/tz1YsCDso4Yxm8iu7PhivSz8s611MkQN5ZVz
+
+- https://objkt.com/profile/tz2XUu5LQBSvv15i7YjpmCotvuK1VjPH8HXn/creations
+- https://objkt.com/profile/tz1ZshmaZCGipAmKVon5UnpH5J9zmtSPvmNs/collection
+- https://objkt.com/profile/tz1Qjn91AB8VHJCjC5FZx89sqAmEYiKnPSWM/collection
+- https://objkt.com/profile/tz1TJMrrzUJYwxvN6iGqKK2ehnmSap2FtHoL/collection
+- https://objkt.com/profile/tz2BqThVffRPNhAf6wTuQtZLj6NEoejnF7Er/collection
+
+- https://objkt.com/profile/tz1MVk1tYoAXm7BRJ7e4CgAfhejMjHZWt37L/creations?sortBy=askAsc
 
 - https://www.hicetnunc.xyz/objkt/370404
 - https://objkt.com/asset/hicetnunc/283880
 - https://objkt.com/collection/tezzardz
 - https://www.hicetnunc.xyz/CMXIVVII/creations
-- https://objkt.com/profile/tz2XUu5LQBSvv15i7YjpmCotvuK1VjPH8HXn/creations
 
 ## NFT XLM
 
