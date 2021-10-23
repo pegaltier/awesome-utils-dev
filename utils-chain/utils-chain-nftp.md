@@ -3,6 +3,7 @@
 
 ## NFT EOSCOLLECTION
 - https://eos.atomichub.io/market?collection_name=shufanpenink&order=asc&sort=price&symbol=EOS  (F:8.0)
+- https://eos.atomichub.io/market?collection_name=shufan.free&order=asc&sort=price&symbol=EOS   (F:6.0)
 - https://eos.atomichub.io/market?collection_name=writer&order=asc&sort=price&symbol=EOS        (F:3.3)
 - https://eos.atomichub.io/market?collection_name=eostarternft&order=asc&sort=price&symbol=EOS  (F:3.25)
 - https://eos.atomichub.io/market?collection_name=gbk.gems&order=asc&sort=price&symbol=EOS      (F:1.99)
