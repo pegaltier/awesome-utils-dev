@@ -286,6 +286,7 @@
 - https://objkt.com/profile/tz1Qjn91AB8VHJCjC5FZx89sqAmEYiKnPSWM/collection
 - https://objkt.com/profile/tz1TJMrrzUJYwxvN6iGqKK2ehnmSap2FtHoL/collection
 - https://objkt.com/profile/tz2BqThVffRPNhAf6wTuQtZLj6NEoejnF7Er/collection
+- https://objkt.com/profile/tz1NTw2eX7otPdEwjCad4Rd7TcEJ6TWUHgBh/collection
 
 - https://objkt.com/profile/tz1MVk1tYoAXm7BRJ7e4CgAfhejMjHZWt37L/creations?sortBy=askAsc
 - https://www.henext.xyz/tz1TJMrrzUJYwxvN6iGqKK2ehnmSap2FtHoL/owned

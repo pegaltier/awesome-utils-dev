@@ -392,6 +392,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/Leonidas-from-XIV/node-xml2js
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
+- https://github.com/francisrstokes/construct-js
 
 ## LIB: PDF
 - https://github.com/Hopding/pdf-lib

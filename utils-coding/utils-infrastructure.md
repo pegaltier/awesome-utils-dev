@@ -7,6 +7,9 @@
 - https://github.com/bregman-arie/devops-exercises
 - https://github.com/jdauphant/awesome-ansible
 
+## COURSES
+- https://github.com/isolutionsag/devops-security-cheat-sheet
+
 ## TOOLS
 - https://traefik.io/
 - https://ngrok.com/
@@ -89,6 +92,9 @@
 
 ## AWS
 - https://github.com/localstack/localstack
+
+## ANSIBLE
+- https://github.com/sovereign/sovereign
 
 ## DOCKER
 - https://github.com/qdm12/devtainr

@@ -195,6 +195,7 @@
 - https://crypto.writer.io/s/nft
 - https://nonfungible.com/blog
 - https://www.secondrealm.com
+- https://nftaggregator.io
 - https://www.nfthunt.fun
 - https://www.arodie.com
 - https://nftinsider.io

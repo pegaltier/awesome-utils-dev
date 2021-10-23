@@ -8,6 +8,7 @@
 - https://github.com/nestjsx/crud
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
+- https://github.com/golevelup/nestjs
 - https://github.com/jmcdo29/nest-lab
 - https://github.com/nestjs/throttler
 - https://github.com/nestjsx/nest-router

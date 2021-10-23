@@ -1455,6 +1455,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/anatine/esbuildnx
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
+- https://github.com/manfredsteyer/nx-libs
 - https://github.com/meeroslav/circle-ci-affected-from-tag
 - https://github.com/deepkit-community/nx-plugins
 - https://github.com/e-square-io/nx-github-actions

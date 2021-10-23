@@ -68,6 +68,7 @@
 - https://github.com/typicode/husky
 - https://github.com/upptime/upptime
 - https://github.com/alibaba/hooks
+- https://github.com/probot/probot
 - https://www.gitkraken.com/
 - https://socialify.git.ci/
 - https://gitexplorer.com/

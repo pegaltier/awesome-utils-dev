@@ -66,6 +66,7 @@
 - https://github.com/contrawork/graphql-helix
 - https://github.com/Jenyus-Org/graphql-utils
 - https://github.com/APIs-guru/graphql-voyager
+- https://github.com/yaacovCR/graphql-executor
 - https://github.com/dotansimha/graphql-eslint
 - https://github.com/calmonr/typegraphql-relay
 - https://github.com/dabit3/cdk-graphql-backend

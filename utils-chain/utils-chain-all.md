@@ -13,6 +13,7 @@
 ## NEWTECH
 - https://agoric.com/
 - https://www.qredo.com/
+- https://worldcoin.org/
 
 ## TOP TOOLS
 - https://solume.io
@@ -31,6 +32,7 @@
 
 ## TOP DEV
 - https://mywish.io/
+- https://github.com/Agoric/agoric-sdk
 - https://github.com/near/create-near-app
 - https://github.com/anders94/blockchain-demo
 - https://github.com/liquality/chainabstractionlayer
