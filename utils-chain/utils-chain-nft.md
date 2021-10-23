@@ -33,6 +33,9 @@
 - https://www.voice.com
 - https://syfin.art
 - https://opulous.org
+- https://magiceden.io
+- https://diamondapp.com/
+- https://areaxnft.com/
 
 ### NFT MULTICHAIN
 - https://uniqueone.network
@@ -52,6 +55,7 @@
 - https://www.babylons.io
 - https://bsc.unique.one
 - https://www.nftmall.io
+- https://explorenft.app
 - https://www.enter.art
 - https://nftrade.com/
 - https://lootex.io
@@ -96,6 +100,7 @@
 - https://kalamint.io
 - https://objkt.com
 - https://hen.radio
+- https://hic.af
 
 ### NFT NEAR
 - https://uniqueone.network
@@ -165,6 +170,7 @@
 - https://cryptobay.vip
 - https://www.mtvrs.app
 - https://parallel.life
+- https://btcorigins.com
 - https://www.derace.com
 - https://app.gala.games
 - https://www.illuvium.io
@@ -189,6 +195,7 @@
 - https://crypto.writer.io/s/nft
 - https://nonfungible.com/blog
 - https://www.secondrealm.com
+- https://www.nfthunt.fun
 - https://www.arodie.com
 - https://nftinsider.io
 - https://nftplazas.com
@@ -217,6 +224,7 @@
 - https://batch.xtz.tools
 - https://www.niftex.org
 - https://dono.xtz.tools
+- https://artcentral.io
 - https://metalink.com
 - https://nftbiker.xyz
 - https://collab.land
@@ -244,6 +252,7 @@
 ## NFT GALLERY
 - https://oncyber.io/vvd
 - https://oncyber.io/reif
+- https://oncyber.io/goddess
 
 ## NFT LINKTREE
 - https://linktr.ee/xcopy2089

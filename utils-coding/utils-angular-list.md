@@ -1608,6 +1608,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/danielnixon/eslint-plugin-total-functions
 - https://github.com/stormwarning/stylelint-config-recess-order
 - https://github.com/constverum/stylelint-config-rational-order
+- https://github.com/NiklasPor/prettier-plugin-organize-attributes
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
