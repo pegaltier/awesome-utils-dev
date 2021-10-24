@@ -368,12 +368,13 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/greensock/GSAP
 - https://github.com/varkor/quiver
 
-## LIB: 3D/VR
+## LIB: 2D/3D/VR
+- https://github.com/ct-js/ct-js
 - https://github.com/aframevr/aframe
-- https://github.com/mrdoob/three.js/
+- https://github.com/mrdoob/three.js
 - https://github.com/KhronosGroup/glTF
-- https://github.com/badzong/meshspin.js
 - https://github.com/ariaminaei/theatre
+- https://github.com/badzong/meshspin.js
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js

@@ -29,7 +29,8 @@
 - https://wax.atomichub.io/market?collection_name=atomikings2x&order=asc&sort=price&symbol=WAX  (F:4.1)
 - https://wax.atomichub.io/market?collection_name=cartoonfami1&order=asc&sort=price&symbol=WAX  (F:3.9)
 - https://wax.atomichub.io/market?collection_name=crypto5tache&order=asc&sort=price&symbol=WAX  (F:2.83)
-- https://wax.atomichub.io/market?collection_name=lewdmomoko22&order=asc&sort=price&symbol=WAX  (F:2.5)
+- https://wax.atomichub.io/market?collection_name=pizzaslice2u&order=asc&sort=price&symbol=WAX  (F:2.80) *
+- https://wax.atomichub.io/market?collection_name=lewdmomoko22&order=asc&sort=price&symbol=WAX  (F:2.50)
 - https://wax.atomichub.io/market?collection_name=waxpaperfold&order=asc&sort=price&symbol=WAX  (F:2.45)
 - https://wax.atomichub.io/market?collection_name=waxiestrace5&order=asc&sort=price&symbol=WAX  (F:2.30)
 - https://wax.atomichub.io/market?collection_name=d1rtyflapjak&order=asc&sort=price&symbol=WAX  (F:2.00)
@@ -39,10 +40,9 @@
 - https://wax.atomichub.io/market?collection_name=virtualdream&order=asc&sort=price&symbol=WAX  (F:1.20) *
 - https://wax.atomichub.io/market?collection_name=newworldnft1&order=asc&sort=price&symbol=WAX  (F:1.00)
 - https://wax.atomichub.io/market?collection_name=snugglefresh&order=asc&sort=price&symbol=WAX  (F:1.00)
-- https://wax.atomichub.io/market?collection_name=deadmau5&order=asc&sort=price&symbol=WAX      (F:0.99)
+- https://wax.atomichub.io/market?collection_name=deadmau5&order=asc&sort=price&symbol=WAX      (F:0.99) *
 - https://wax.atomichub.io/market?collection_name=mrcleverarts&order=asc&sort=price&symbol=WAX  (F:0.95)
-- https://wax.atomichub.io/market?collection_name=popcorpcards&order=asc&sort=price&symbol=WAX  (F:0.90)
-- https://wax.atomichub.io/market?collection_name=pizzaslice2u&order=asc&sort=price&symbol=WAX  (F:0.89)
+- https://wax.atomichub.io/market?collection_name=popcorpcards&order=asc&sort=price&symbol=WAX  (F:0.99) *
 - https://wax.atomichub.io/market?collection_name=artvndngmchn&order=asc&sort=price&symbol=WAX  (F:0.61)
 - https://wax.atomichub.io/market?collection_name=bmac4artsake&order=asc&sort=price&symbol=WAX  (F:0.60)
 - https://wax.atomichub.io/market?collection_name=bitcoinelite&order=asc&sort=price&symbol=WAX  (F:0.59)
@@ -55,9 +55,9 @@
 - https://wax.atomichub.io/market?collection_name=konceptonwax&order=asc&sort=price&symbol=WAX  (F:0.29)
 - https://wax.atomichub.io/market?collection_name=aratadigital&order=asc&sort=price&symbol=WAX  (F:0.29)
 - https://wax.atomichub.io/market?collection_name=natalysketch&order=asc&sort=price&symbol=WAX  (F:0.29)
-- https://wax.atomichub.io/market?collection_name=postfuture&order=asc&sort=price&symbol=WAX    (F:0.22)
+- https://wax.atomichub.io/market?collection_name=postfuture&order=asc&sort=price&symbol=WAX    (F:0.22) *
 - https://wax.atomichub.io/market?collection_name=humbledrawin&order=asc&sort=price&symbol=WAX  (F:0.22)
-- https://wax.atomichub.io/market?collection_name=paintingsnft&order=asc&sort=price&symbol=WAX  (F:0.20)
+- https://wax.atomichub.io/market?collection_name=paintingsnft&order=asc&sort=price&symbol=WAX  (F:0.20) *
 - https://wax.atomichub.io/market?collection_name=ultracomix&order=asc&sort=price&symbol=WAX    (F:0.19)
 - https://wax.atomichub.io/market?collection_name=amigos2space&order=asc&sort=price&symbol=WAX  (F:0.18)
 - https://wax.atomichub.io/market?collection_name=glitchartpro&order=asc&sort=price&symbol=WAX  (F:0.16)
