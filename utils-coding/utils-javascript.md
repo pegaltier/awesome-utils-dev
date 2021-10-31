@@ -77,6 +77,7 @@
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/trekhleb/javascript-algorithms
+- https://github.com/Sairyss/domain-driven-hexagon
 - https://github.com/30-seconds/30-seconds-of-code
 - https://github.com/mgechev/javascript-algorithms
 - https://github.com/getify/Functional-Light-JS
@@ -197,6 +198,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/krisk/Fuse
 - https://github.com/jonschlinkert/clone-deep
 - https://github.com/EricSmekens/jsep
+- https://github.com/kentcdodds/match-sorter
 - https://github.com/blitz-js/superjson
 - https://github.com/nuxt-contrib/consola
 - https://github.com/faisalman/ua-parser-js
@@ -221,6 +223,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/ded/script.js
 - https://github.com/ramda/ramda
 - https://github.com/lodash/lodash
+- https://github.com/jgranstrom/zipson
 - https://github.com/getcrft/jsonizer
 - https://github.com/danrevah/typeserializer
 - https://github.com/danrevah/segal-decorators
@@ -310,6 +313,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
+- https://github.com/timruffles/mobile-drag-drop
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables
 - https://github.com/davidmerfield/randomColor
@@ -340,6 +344,8 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## LIB: FRONTEND DESIGN
 
+- https://github.com/gmrchk/blobity
+- https://github.com/omgovich/colord
 - https://github.com/airbnb/lottie-web
 - https://github.com/rikschennink/fitty
 - https://github.com/wentin/underlineJS
@@ -396,6 +402,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/francisrstokes/construct-js
 
 ## LIB: PDF
+- https://github.com/parallax/jsPDF
 - https://github.com/Hopding/pdf-lib
 - https://github.com/bpampuch/pdfmake
 - https://github.com/hand-dot/labelmake

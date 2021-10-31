@@ -87,6 +87,7 @@
 - https://kubernetes.io/docs/tutorials/kubernetes-basics
 - https://github.com/diegolnasc/kubernetes-best-practices
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
+- https://github.com/ahmetb/kubernetes-network-policy-recipes
 
 ## REDIS
 - https://github.com/JamzyWang/awesome-redis

@@ -243,6 +243,7 @@
 
 ## NFT DEV
 - https://github.com/msmyers/nft-achievements
+- https://github.com/21e8/sol-nft-tools
 - https://github.com/yusefnapora/minty
 - https://github.com/NFT-Standards-WG
 - https://www.nftstandards.wtf/

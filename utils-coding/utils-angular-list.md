@@ -1279,6 +1279,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://ordina-jworks.github.io/architecture/2020/01/23/Nx.html
 - https://ordina-jworks.github.io/architecture/2020/03/31/nx-sparse-checkout.html
 - https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/
+- https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example
 - https://tane.dev/2020/05/publishing-npm-libraries-using-nx-and-github-actions/
 - https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
 - https://blog.devget.net/development/angular-8-ionic-4-monorepo-part-1-the-setup/
@@ -1453,6 +1454,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/studds/nx-aws
 - https://github.com/danmt/nx-anchor
 - https://github.com/anatine/esbuildnx
+- https://github.com/curkovicf/nx-cli
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
 - https://github.com/manfredsteyer/nx-libs
@@ -1731,6 +1733,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/rednez/angular-user-idle
 - https://github.com/ng-web-apis/storage
 - https://github.com/xorets/tshtml
+- https://github.com/tomwhite007/ui-output-bus
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -1825,6 +1828,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-architects/nx-ddd-plugin
 - https://github.com/nitayneeman/schematics-utilities
 - https://github.com/TinkoffCreditSystems/ng-morph
+- https://github.com/schuchard/prettier-schematic
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/herodevs/material-studies
 - https://github.com/niklas-wortmann/ngx-pact
@@ -1907,6 +1911,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
 - https://github.com/just-jeb/jest-marbles
+- https://github.com/atlassian/jest-in-case
 - https://github.com/briebug/jest-schematic
 - https://github.com/skovhus/jest-codemods
 - https://github.com/bencompton/jest-cucumber
@@ -2111,6 +2116,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: UPLOAD
 
 - https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
+- https://github.com/peterfreeman/ngx-dropzone
 - https://github.com/ribizli/ng2-imageupload
 - https://github.com/jkuri/ng2-uploader
 - https://github.com/flowjs/ngx-flow

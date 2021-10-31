@@ -10,6 +10,7 @@
 ## OSS
 - https://github.com/ivan-bilan/The-Microservices-Pandect
 - https://github.com/mhadidg/software-architecture-books
+- https://github.com/Sairyss/domain-driven-hexagon
 
 ## DDD / CQRS
 - https://speakerdeck.com/akrabat/ddd-for-beginners

@@ -448,6 +448,7 @@ webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
 ## CREATIVE TOOLS
 
 - https://github.com/luruke/aladino
+- https://github.com/gmrchk/blobity
 - https://github.com/nolimits4web/atropos/
 - https://github.com/martinlaxenaire/curtainsjs
 

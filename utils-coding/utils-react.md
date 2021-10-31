@@ -77,6 +77,7 @@
 - https://github.com/vazco/uniforms
 - https://github.com/Swizec/useAuth
 - https://github.com/formium/formik
+- https://github.com/pmndrs/zustand
 - https://github.com/preactjs/preact
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
@@ -133,6 +134,7 @@
 - https://github.com/react-bootstrap/react-bootstrap
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/americanexpress/react-albus
+- https://github.com/pmndrs/react-three-flex
 - https://github.com/italia/design-react-kit
 - https://github.com/radix-ui/design-system
 - https://github.com/ant-design/ant-design
@@ -172,6 +174,7 @@
 - https://github.com/vercel/next-learn-starter
 - https://github.com/RevereCRE/relay-nextjs
 - https://github.com/graphlatte/graphlatte
+- https://github.com/ScriptedAlchemy/DLAYS
 - https://github.com/egoist/next-connect
 - https://github.com/maticzav/nookies
 - https://github.com/shuding/nextra
@@ -179,11 +182,13 @@
 
 ## NATIVE
 
+- https://github.com/nandorojo/moti
 - https://github.com/facebook/react-native
 - https://github.com/rescript-react-native
 - https://github.com/react-native-menu/menu
 - https://github.com/onubo/react-native-logs
 - https://github.com/necolas/react-native-web
+- https://github.com/Flipkart/recyclerlistview
 - https://github.com/luggit/react-native-config
 - https://github.com/gorhom/react-native-portal
 - https://github.com/mrousavy/react-native-mmkv
@@ -214,12 +219,15 @@
 - https://github.com/JesperLekland/react-native-svg-charts
 - https://github.com/LonelyCpp/react-native-youtube-iframe
 - https://github.com/react-native-modal/react-native-modal
+- https://github.com/shirakaba/react-native-native-runtime
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/NataliaLinnik/react-native-nested-list
 - https://github.com/Flair-Dev/react-native-awesome-gallery
+- https://github.com/p-syche/react-native-bouncing-preloader
 - https://github.com/react-native-camera/react-native-camera
 - https://github.com/smallcase/react-native-simple-biometrics
 - https://github.com/software-mansion/react-native-reanimated
+- https://github.com/react-native-webrtc/react-native-callkeep
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
 - https://github.com/mmazzarolo/react-native-universal-monorepo
