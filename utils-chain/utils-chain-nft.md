@@ -34,8 +34,10 @@
 - https://syfin.art
 - https://opulous.org
 - https://magiceden.io
-- https://diamondapp.com/
-- https://areaxnft.com/
+- https://diamondapp.com
+- https://areaxnft.com
+- https://tomoe.io
+- https://sweet.io
 
 ### NFT MULTICHAIN
 - https://uniqueone.network
@@ -96,6 +98,7 @@
 
 ### NFT XTZ
 - https://www.hicetnunc.xyz
+- http://www.artcollect.io
 - https://www.henext.xyz
 - https://kalamint.io
 - https://objkt.com

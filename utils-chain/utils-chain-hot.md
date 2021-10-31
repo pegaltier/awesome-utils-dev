@@ -181,6 +181,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 ### HOLOCHAIN-RSM GITHUB
 - https://github.com/holochain/devhub-dnas
+- https://github.com/Sprillow/hdk_unit_testing
 - https://github.com/holochain/happ-build-tutorial
 - https://github.com/holochain-in-action/peer-share
 - https://github.com/lightningrodlabs/where
