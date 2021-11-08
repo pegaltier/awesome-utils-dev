@@ -204,6 +204,7 @@
 - https://nftinsider.io
 - https://nftplazas.com
 - https://nftnow.com
+- https://wax.guide
 - https://wdny.io
 
 ## NFT STATS
@@ -231,7 +232,9 @@
 - https://artcentral.io
 - https://metalink.com
 - https://nftbiker.xyz
+- https://rarity.tools
 - https://collab.land
+- https://howrare.is
 - https://hicdex.com
 - https://oncyber.io
 - https://paribus.io
@@ -258,6 +261,7 @@
 - https://oncyber.io/vvd
 - https://oncyber.io/reif
 - https://oncyber.io/goddess
+- https://oncyber.io/favorite
 
 ## NFT LINKTREE
 - https://linktr.ee/xcopy2089

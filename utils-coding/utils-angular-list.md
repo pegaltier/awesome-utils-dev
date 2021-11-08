@@ -2316,6 +2316,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/deepkit/deepkit-framework
 - https://github.com/ng-matero/extensions
 - https://github.com/IBM/carbon-components-angular
+- https://github.com/sbb-design-systems/sbb-angular
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2396,6 +2397,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/vthinkxie/ng-pull-refresh
+- https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/appwrite/demo-todo-with-angular

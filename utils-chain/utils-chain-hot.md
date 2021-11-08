@@ -208,6 +208,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-playground/blockly
 - https://github.com/holochain-playground/happ
 - https://github.com/guillemcordoba/rea-inventory
+- https://github.com/guillemcordoba/notebooks
 - https://github.com/guillemcordoba/membrane-roles-module
 - https://github.com/holochain/holochain-dna-build-tutorial
 - https://github.com/holochain-gym/developer-exercises
@@ -218,6 +219,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Sprillow/cmdchatter
 - https://github.com/kristoferlund/hc-graphql-todo
 - https://github.com/eyss/holochain-turn-based-game
+- https://github.com/eyss/elo
 - https://github.com/juntofoundation/Acai-API
 - https://github.com/lucksus/perspectivism
 - https://github.com/perspect3vism/ad4m-executor
