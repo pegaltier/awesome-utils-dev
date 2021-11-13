@@ -66,6 +66,7 @@
 
 ## GUIDE-OPEN
 
+- https://github.com/andredesousa/javascript-unit-testing-best-practices
 - https://github.com/goldbergyoni/javascript-testing-best-practices
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
@@ -203,6 +204,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/nuxt-contrib/consola
 - https://github.com/faisalman/ua-parser-js
 - https://github.com/Jimbly/timezone-mock
+- https://github.com/notifirehq/notifire
 - https://github.com/uNmAnNeR/imaskjs
 - https://github.com/dollarshaveclub/postmate
 - https://github.com/BuilderIO/partytown

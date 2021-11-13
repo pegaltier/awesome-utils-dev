@@ -276,8 +276,9 @@ Learn about the most useful design patterns in Angular.
 
 - https://replit.com/
 - https://ng-run.com/
-- https://codesandbox.io/
+- https://vscode.dev/
 - https://stackblitz.com
+- https://codesandbox.io/
 - https://github.com/conwnet/github1s
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material
@@ -1680,6 +1681,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angelnikolov/ngx-cacheable
 - https://github.com/angelnikolov/ts-cacheable
 - https://github.com/fulls1z3/ngx-cache
+- https://github.com/Gbuomprisco/cached-observable
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/juanmesa2097/ngx-generic-rest-service
 - https://github.com/kamilkisiela/apollo-angular
@@ -1927,6 +1929,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/angular-extensions/pretty-html-log
 - https://github.com/DmitryEfimenko/jest-given-when-then
+- https://github.com/smooth-code/jest-puppeteer
 - https://github.com/gparlakov/scuri
 - https://github.com/brandonroberts/angular-testing-library
 - https://github.com/testing-library/angular-testing-library
@@ -1981,6 +1984,7 @@ Analyze and optimize the performance of your app
 - https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
 - https://github.com/tnicola/ngx-joyride
+- https://github.com/alauda/ng-monaco-editor
 - https://github.com/cormacrelf/angular-skyhook
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
@@ -2401,8 +2405,10 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/appwrite/demo-todo-with-angular
+- https://github.com/bezkoder/angular-13-crud-example
 - https://github.com/lacolaco/angular-testing-recipes
 - https://github.com/pankajparkar/lazy-loading-recipes
+- https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
 
@@ -2415,6 +2421,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brandonroberts/nx-ng-ssr
 - https://github.com/servrox/nx-ng-nest-universal
 - https://github.com/TrilonIO/angular-universal-v9
+- https://github.com/adisreyaj/layer0-angular-example
 - https://github.com/mgechev/angular-hybrid-rendering
 - https://github.com/angular-schule/demo-ssr-playground
 - https://github.com/TrilonIO/angular-universal-tutorial

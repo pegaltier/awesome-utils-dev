@@ -13,6 +13,7 @@
 - https://start.spring.io/
 - https://stratospheric.dev/
 - https://github.com/springfox/springfox
+- https://github.com/BNYMellon/spring-kata
 - https://github.com/s0l0c0ding/spring-tips
 - https://github.com/Ninja-Squad/springmockk
 - https://github.com/springdoc/springdoc-openapi

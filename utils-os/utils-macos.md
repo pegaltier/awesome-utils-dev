@@ -7,6 +7,7 @@
 - https://github.com/myspaghetti/macos-virtualbox
 - https://github.com/serhii-londar/open-source-mac-os-apps
 - https://github.com/herrbischoff/awesome-macos-command-line
+- https://github.com/BlockchainCommons/Secure-Development-Setup-macOS
 
 ## Tips
 

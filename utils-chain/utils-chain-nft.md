@@ -248,6 +248,7 @@
 - https://yup.io
 
 ## NFT DEV
+- https://github.com/coolerwind/celo-nft-forking
 - https://github.com/msmyers/nft-achievements
 - https://github.com/21e8/sol-nft-tools
 - https://github.com/yusefnapora/minty

@@ -74,6 +74,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/f13end/Holochain-Projects
 - https://github.com/wimpheling/awesome-holochain
 - https://github.com/holochain-community-resources
+- https://awesomelists.net/67-Rust/1750-Cryptocurrencies/47261-holochain-holochain
+- https://awesomeopensource.com/project/holochain-community-resources/awesome-holochain
 
 ### HOLOCHAIN-RUST GITHUB
 
@@ -213,6 +215,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/holochain-dna-build-tutorial
 - https://github.com/holochain-gym/developer-exercises
 - https://github.com/holochain/elemental-chat
+- https://github.com/holochain/how
 - https://github.com/holochain/happ-client-call-tutorial
 - https://github.com/nphias/transactor
 - https://github.com/nphias/nPersonas
@@ -225,6 +228,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/ad4m-executor
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-persistence
+- https://github.com/juntofoundation/neighbourhood-link-vis
+- https://github.com/nphias/ng-hc-starter (angular)
 - https://github.com/eyss/elemental-chess
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/

@@ -54,6 +54,7 @@
 
 ## STARTER
 
+- https://github.com/saleor/saleor
 - https://github.com/wesbos/Advanced-React
 - https://github.com/facebook/create-react-app
 - https://github.com/coolerwind/react-ecommerce
@@ -93,6 +94,7 @@
 - https://github.com/JedWatson/classnames
 - https://github.com/ngneat/use-observable
 - https://github.com/twobin/react-lazyload
+- https://github.com/zoontek/react-chicane
 - https://github.com/InseeFrLab/keycloakify
 - https://github.com/omgovich/react-colorful
 - https://github.com/STRML/react-grid-layout
@@ -117,6 +119,7 @@
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/sylvaindubus/react-prismazoom
+- https://github.com/kettanaito/react-advanced-form
 - https://github.com/snitin315/react-hide-component
 - https://github.com/danilowoz/react-content-loader
 - https://github.com/kettanaito/react-advanced-form
@@ -192,6 +195,7 @@
 - https://github.com/luggit/react-native-config
 - https://github.com/gorhom/react-native-portal
 - https://github.com/mrousavy/react-native-mmkv
+- https://github.com/tsdmrfth/react-native-steve
 - https://github.com/facebook/react-native-fbsdk
 - https://github.com/Giphy/giphy-react-native-sdk
 - https://github.com/Polidea/react-native-ble-plx
@@ -203,6 +207,7 @@
 - https://github.com/FormidableLabs/react-native-owl
 - https://github.com/ravirupareliya/rn-in-app-review
 - https://github.com/callstack/react-native-viewpager
+- https://github.com/cjam/react-native-spotify-remote
 - https://github.com/RonRadtke/react-native-blob-util
 - https://github.com/oblador/react-native-vector-icons
 - https://github.com/alpha0010/react-native-pdf-viewer
@@ -221,6 +226,7 @@
 - https://github.com/react-native-modal/react-native-modal
 - https://github.com/shirakaba/react-native-native-runtime
 - https://github.com/calintamas/react-native-toast-message
+- https://github.com/peggyrayzis/react-native-create-bridge
 - https://github.com/NataliaLinnik/react-native-nested-list
 - https://github.com/Flair-Dev/react-native-awesome-gallery
 - https://github.com/p-syche/react-native-bouncing-preloader
@@ -232,9 +238,12 @@
 - https://github.com/Rapsssito/react-native-background-actions
 - https://github.com/mmazzarolo/react-native-universal-monorepo
 - https://github.com/hyochan/react-native-audio-recorder-player
+- https://github.com/calvium/react-native-device-screen-switcher
 - https://github.com/JustLance/react-native-iovation-deviceprint
 - https://github.com/thebylito/react-native-navigation-bar-color
 - https://github.com/conorhastings/react-native-syntax-highlighter
+- https://github.com/a7med-mahmoud/react-native-prevent-screenshots
+- https://github.com/react-native-segmented-control/segmented-control
 - https://github.com/BruceSuperProgramer/react-native-reanimated-accordion
 - https://github.com/MoOx/react-native-transparent-status-and-navigation-bar
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/

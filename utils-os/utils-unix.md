@@ -46,6 +46,7 @@ echo $PATH
 ## List
 
 - https://github.com/madbob/awesome-linux-dev
+- https://github.com/luong-komorebi/Awesome-Linux-Software
 
 ## MORE
 
