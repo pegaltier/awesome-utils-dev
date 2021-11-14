@@ -260,6 +260,8 @@
 ## NFT DEV
 - https://github.com/coolerwind/celo-nft-forking
 - https://github.com/msmyers/nft-achievements
+- https://github.com/hicetnunc2000/hicetnunc
+- https://github.com/i3games/hen-timeline
 - https://github.com/21e8/sol-nft-tools
 - https://github.com/yusefnapora/minty
 - https://github.com/NFT-Standards-WG
