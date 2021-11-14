@@ -134,6 +134,9 @@
 ### NFT FLOW
 - https://airight.io/marketplace
 
+## NFT SOL
+- https://magiceden.io/
+
 ## NFT CREATORS
 - https://xcopy.art
 - https://artblocks.io
@@ -186,6 +189,9 @@
 
 - https://www.quora.com/What-are-the-top-3-gaming-NFT-GEM-coins-that-will-be-mega-profitable-5X-to-50X-in-202
 
+## NFT INVESTORS
+- https://www.meta4.capital
+
 ## NFT PODCATS
 - https://theboringshow.io
 - https://www.theouterrealm.io
@@ -203,6 +209,7 @@
 - https://www.arodie.com
 - https://nftinsider.io
 - https://nftplazas.com
+- https://nftcast.io
 - https://nftnow.com
 - https://wax.guide
 - https://wdny.io
@@ -226,26 +233,29 @@
 - https://www.tribeone.io
 - https://www.mintgate.io
 - https://airdrop.anyo.io
-- https://batch.xtz.tools
 - https://www.niftex.org
-- https://dono.xtz.tools
 - https://artcentral.io
 - https://metalink.com
-- https://nftbiker.xyz
 - https://rarity.tools
 - https://collab.land
 - https://howrare.is
-- https://hicdex.com
 - https://oncyber.io
 - https://paribus.io
 - https://gallery.so
 - https://facings.io
 - https://token.art
 - https://nftfi.com
-- https://glry.xyz
 - https://r64x.com
 - https://palm.io
 - https://yup.io
+
+## NFT TOOLS TEZOS
+- https://batch.xtz.tools
+- https://www.fxhash.xyz
+- https://dono.xtz.tools
+- https://nftbiker.xyz
+- https://hicdex.com
+- https://glry.xyz
 
 ## NFT DEV
 - https://github.com/coolerwind/celo-nft-forking
