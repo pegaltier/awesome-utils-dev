@@ -70,6 +70,7 @@
 - https://github.com/goldbergyoni/javascript-testing-best-practices
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://github.com/jamiebuilds/itsy-bitsy-data-structures
 - https://github.com/javascript-tutorial/en.javascript.info
 - https://github.com/MostlyAdequate/mostly-adequate-guide
 - https://github.com/ryanmcdermott/clean-code-javascript
@@ -274,6 +275,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/inversify/InversifyJS
 - https://github.com/Livshitz/di.libx.js
 - https://github.com/microsoft/tsyringe
+- https://github.com/cleandi/cleandi
 - https://github.com/developit/mitt
 
 ## LIB: DATE

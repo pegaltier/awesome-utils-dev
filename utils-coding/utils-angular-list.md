@@ -1459,6 +1459,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
 - https://github.com/manfredsteyer/nx-libs
+- https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
 - https://github.com/deepkit-community/nx-plugins
 - https://github.com/e-square-io/nx-github-actions
@@ -1627,6 +1628,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/aholachek/bundle-wizard
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
+- https://github.com/statoscope/statoscope
 - https://github.com/xlayers/version-stamp
 - https://github.com/irustm/ng-app-counter
 - https://github.com/compodoc/ts-stats
@@ -1676,11 +1678,12 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/ngneat/cashew
 - https://github.com/jscutlery/convoyr
+- https://github.com/fulls1z3/ngx-cache
 - https://github.com/timdeschryver/rx-query
+- https://github.com/grischaerbe/cacheables
+- https://github.com/angelnikolov/ts-cacheable
 - https://github.com/ytilis/ngx-batch-requests
 - https://github.com/angelnikolov/ngx-cacheable
-- https://github.com/angelnikolov/ts-cacheable
-- https://github.com/fulls1z3/ngx-cache
 - https://github.com/Gbuomprisco/cached-observable
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/juanmesa2097/ngx-generic-rest-service
