@@ -36,6 +36,7 @@
 - https://opulous.org
 - https://magiceden.io
 - https://diamondapp.com
+- https://www.ternoa.com
 - https://areaxnft.com
 - https://tomoe.io
 - https://sweet.io
@@ -52,6 +53,7 @@
 
 ### NFT BSC
 - https://treasureland.market
+- https://www.bluehorizon.art
 - https://scv.finance/market
 - https://app.liquidifty.io/
 - https://www.airnfts.com
@@ -212,6 +214,7 @@
 - https://crypto.writer.io/s/nft
 - https://nonfungible.com/blog
 - https://www.secondrealm.com
+- https://www.nftculture.com
 - https://nftaggregator.io
 - https://www.nfthunt.fun
 - https://www.arodie.com
@@ -242,6 +245,7 @@
 - https://www.mintgate.io
 - https://airdrop.anyo.io
 - https://www.niftex.org
+- https://www.uniqly.io
 - https://artcentral.io
 - https://metalink.com
 - https://rarity.tools
@@ -251,10 +255,12 @@
 - https://paribus.io
 - https://gallery.so
 - https://facings.io
+- https://jpg.space
 - https://token.art
 - https://nftfi.com
 - https://r64x.com
 - https://palm.io
+- https://hyy.pe
 - https://yup.io
 
 ## NFT TOOLS TEZOS

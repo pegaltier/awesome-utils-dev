@@ -22,6 +22,7 @@
 - https://github.com/skunight/nestjs-redis
 - https://github.com/squareboat/nest-queue
 - https://github.com/iamolegga/nestjs-pino
+- https://github.com/nestjs-addons/platform
 - https://github.com/BeerMoneyDev/nest-monk
 - https://github.com/nestjs/class-transformer
 - https://github.com/nestjs/class-validator
