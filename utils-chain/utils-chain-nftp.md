@@ -62,6 +62,7 @@
 - https://wax.atomichub.io/market?collection_name=humbledrawin&order=asc&sort=price&symbol=WAX  (F:0.22)
 - https://wax.atomichub.io/market?collection_name=paintingsnft&order=asc&sort=price&symbol=WAX  (F:0.20) *
 - https://wax.atomichub.io/market?collection_name=ultracomix&order=asc&sort=price&symbol=WAX    (F:0.19)
+- https://wax.atomichub.io/market?collection_name=rawrtrading1&order=asc&sort=price&symbol=WAX  (F:0.18) *
 - https://wax.atomichub.io/market?collection_name=amigos2space&order=asc&sort=price&symbol=WAX  (F:0.18)
 - https://wax.atomichub.io/market?collection_name=glitchartpro&order=asc&sort=price&symbol=WAX  (F:0.16)
 - https://wax.atomichub.io/market?collection_name=aetherfaucet&order=asc&sort=price&symbol=WAX  (F:0.14)
@@ -144,6 +145,8 @@
 - https://wax.atomichub.io/market?collection_name=vincevanjoes&data:text.rarity=ultra%20common&order=asc&sort=price&symbol=WAX (F:15)
 - https://wax.atomichub.io/market?collection_name=pixellabs123&data:text.type=Original&order=asc&sort=price&symbol=WAX (F:5)
 - https://wax.atomichub.io/market?collection_name=waxguidenfts&order=asc&schema_name=cryptolgnds&sort=price&symbol=WAX (F:4)
+- https://wax.atomichub.io/market?collection_name=elementalnft&order=asc&schema_name=antimatter&sort=price&symbol=WAX (F:0.69)
+- 
 
 ## NFT TEZOS
 - https://www.hicetnunc.xyz/selfielove

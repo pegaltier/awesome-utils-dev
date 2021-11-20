@@ -27,6 +27,7 @@
 - https://www.binance.com/en/nft
 - https://market.x.immutable.com
 - https://marketplace.draftkings.com
+- https://beta.catalog.works
 - https://infinity.xyz
 - https://scarce.city
 - https://tokapi.com
@@ -117,7 +118,7 @@
 - https://terravirtua.io
 
 ### NFT ONE
-- https://davinci.gallery/
+- https://davinci.gallery
 
 ### NFT TRX
 - https://www.apenft.org
@@ -126,16 +127,19 @@
 - https://nftsrealm.com
 
 ### NFT XLM
-- https://litemint.com/
+- https://litemint.com
 
 ### NFT FLOW
-- https://viv3.com/
+- https://viv3.com
 
 ### NFT FLOW
 - https://airight.io/marketplace
 
 ## NFT SOL
-- https://magiceden.io/
+- https://magiceden.io
+
+## NFT ALGO
+- https://dartroom.xyz
 
 ## NFT CREATORS
 - https://xcopy.art
@@ -184,8 +188,12 @@
 - https://www.duelverse.io
 - https://axieinfinity.com
 - https://www.sandbox.game
+- https://www.costumeclash.com
 - https://www.darkfrontiers.com
 - https://www.myneighboralice.com
+- https://www.minesofdalarnia.com
+- https://www.phantomgalaxies.com
+- https://www.metropolis-origins.com
 
 - https://www.quora.com/What-are-the-top-3-gaming-NFT-GEM-coins-that-will-be-mega-profitable-5X-to-50X-in-202
 
