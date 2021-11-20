@@ -15,6 +15,7 @@
 ## AWESOME LIST OSS
 
 - https://github.com/Ja7ad/W3Schools
+- https://github.com/chubin/cheat.sh
 - https://github.com/kuchin/awesome-cto
 - https://github.com/topics/awesome-list
 - https://github.com/dwmkerr/hacker-laws

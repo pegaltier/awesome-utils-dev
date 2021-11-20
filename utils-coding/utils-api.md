@@ -113,6 +113,7 @@
 ## LIST
 - https://www.humanapi.co
 - https://github.com/public-apis/public-apis
+- https://github.com/chubin/awesome-console-services
 - https://github.com/public-api-lists/public-api-lists
 - https://dev.to/biplov/15-fun-apis-for-your-next-project-5053
 - https://datanova.legroupe.laposte.fr/api/v1/console/datasets/1.0/search/

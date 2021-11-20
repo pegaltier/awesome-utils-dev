@@ -8,6 +8,7 @@
 - https://github.com/sindresorhus/type-fest
 - https://github.com/basarat/typescript-book
 - https://github.com/danvk/effective-typescript
+- https://github.com/typescript-cheatsheets/react
 - https://github.com/microsoft/TypeScript-Handbook
 - https://github.com/labs42io/clean-code-typescript
 - https://github.com/type-challenges/type-challenges
@@ -54,6 +55,7 @@
 - https://github.com/johnlindquist/kit
 - https://github.com/microsoft/rushstack
 - https://github.com/ranyitz/code-migrate
+- https://github.com/alshdavid/BorrowScript
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/saurabhdaware/typescript-run
 - https://github.com/LeDDGroup/typescript-transform-paths
@@ -135,6 +137,7 @@
 - https://github.com/ronami/meta-typing
 - https://github.com/eonarheim/TypeState
 - https://github.com/willryan/factory.ts
+- https://github.com/quicktype/quicktype
 - https://github.com/sledorze/morphic-ts
 - https://github.com/gvergnaud/ts-pattern
 - https://github.com/graphology/graphology

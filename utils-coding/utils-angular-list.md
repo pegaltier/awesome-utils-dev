@@ -235,6 +235,7 @@ Learn about the most useful design patterns in Angular.
 - https://refactoring.guru/design-patterns/bridge/typescript/example
 - https://refactoring.guru/design-patterns/catalog
 - https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
+- https://www.youtube.com/watch?v=50ALR6JRNrk AngularAir | Using composition over inheritance
 - https://dev.to/humberd/context-menu-actions-at-scale-command-pattern-in-a-real-life-scenario-9o0
 - https://dev.to/carlillo/understanding-design-patterns-factory-method-52fc
 - https://github.com/Humberd/command-pattern-in-angular
@@ -1097,6 +1098,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 ## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
 
+- https://github.com/LayZeeDK/ngrx-router-component-store
 - https://github.com/beeman/component-store-playground
 - https://github.com/dsebastien/ngrx-component-store-demo
 - https://github.com/alex-okrushko/component-store-demo
@@ -1242,6 +1244,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://www.angulararchitects.io/konferenzen/the-microfrontend-revolution-module-federation-with-angular/
 - https://dev.to/manfredsteyer/tutorial-getting-started-with-webpack-module-federation-and-angular-2edd?utm_source=dormosheio&utm_campaign=dormosheio
 - https://www.youtube.com/watch?v=-ThsrA8hRLc AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
+- https://www.youtube.com/watch?v=tsIZjUAtF1U Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
 
 ## ECOSYSTEM: MONOREPO
 
@@ -1978,6 +1981,7 @@ Analyze and optimize the performance of your app
 - https://github.com/isaacplmann/ngx-contextmenu
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
+- https://github.com/neojato/ngx-barcode-input
 - https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/uiuniversal/ngu-carousel
@@ -2238,6 +2242,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
+- https://github.com/vendasta/weblate
 - https://github.com/i18next/i18next
 - https://github.com/e-square-io/bdir
 - https://github.com/ngneat/transloco
@@ -2250,6 +2255,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/jgpacheco/ngx-translate-cache
 - https://github.com/ngneat/transloco-keys-manager
 - https://github.com/biesbjerg/ngx-translate-extract
+- https://github.com/martinroob/ngx-i18nsupport-lib
 - https://github.com/ngx-translate/i18n-polyfill
 - https://github.com/Tuizi/i18n-split-example
 - https://itnext.io/lazy-load-translation-files-in-angular-using-transloco-2d3afed116ce
@@ -2666,6 +2672,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 - https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 - https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
+- https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules

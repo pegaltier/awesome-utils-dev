@@ -20,6 +20,7 @@
 - https://github.com/shellspec/shellspec
 - https://github.com/alebcay/awesome-shell
 - https://github.com/romkatv/powerlevel10k
+- https://github.com/adrianscheff/useful-sed
 - https://github.com/ibraheemdev/modern-unix
 - https://github.com/dylanaraps/pure-sh-bible
 - https://github.com/gruntwork-io/bash-commons

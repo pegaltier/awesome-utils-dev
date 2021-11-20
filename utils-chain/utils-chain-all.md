@@ -32,6 +32,7 @@
 
 ## TOP DEV
 - https://mywish.io/
+- https://github.com/chubin/rate.sx
 - https://github.com/Agoric/agoric-sdk
 - https://github.com/near/create-near-app
 - https://github.com/anders94/blockchain-demo

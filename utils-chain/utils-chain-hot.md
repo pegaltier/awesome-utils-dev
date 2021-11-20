@@ -186,7 +186,11 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Sprillow/hdk_unit_testing
 - https://github.com/holochain/happ-build-tutorial
 - https://github.com/holochain-in-action/peer-share
+- https://github.com/harlantwood/hdk-explorations
+- https://github.com/lightningrodlabs/notebooks
+- https://github.com/lightningrodlabs/xyzzy
 - https://github.com/lightningrodlabs/where
+- https://github.com/lightningrodlabs/who
 - https://github.com/lightningrodlabs/we
 - https://github.com/lightningrodlabs/hdk_crud
 - https://github.com/Sprillow/public-happ-challenge

@@ -116,8 +116,11 @@
 - https://github.com/thedevelobear/react-rewards
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
+- https://github.com/outline/rich-markdown-editor
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
+- https://github.com/tannerlinsley/react-location
+- https://github.com/jamesporter/immutable-context
 - https://github.com/sylvaindubus/react-prismazoom
 - https://github.com/kettanaito/react-advanced-form
 - https://github.com/snitin315/react-hide-component

@@ -54,8 +54,13 @@
 - https://www.checklyhq.com/
 - https://www.compose.com/
 
+## CLOUDFARE
+- https://github.com/losfair/blueboat
+- https://github.com/cloudflare/wrangler2
+
 ## AWS
 - https://github.com/dwyl/learn-aws-lambda
+- https://github.com/localstack/localstack
 
 ## KUBERNETES
 - https://helm.sh/
@@ -63,6 +68,7 @@
 - https://github.com/keel-hq/keel
 - https://github.com/lensapp/lens
 - https://github.com/kedacore/keda
+- https://github.com/pixie-io/pixie
 - https://github.com/mkimuram/k8sviz
 - https://github.com/Portshift/kubei
 - https://github.com/loft-sh/jspolicy
@@ -91,9 +97,6 @@
 
 ## REDIS
 - https://github.com/JamzyWang/awesome-redis
-
-## AWS
-- https://github.com/localstack/localstack
 
 ## ANSIBLE
 - https://github.com/sovereign/sovereign

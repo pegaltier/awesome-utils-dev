@@ -136,6 +136,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/evanw/esbuild
 - https://github.com/webhintio/hint
 - https://github.com/miragejs/miragejs
+- https://github.com/lukeed/astray
 - https://github.com/fkling/astexplorer
 - https://github.com/pastelsky/bundlephobia
 - https://github.com/lirantal/is-website-vulnerable
@@ -324,6 +325,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/metafizzy/infinite-scroll
+- https://github.com/sindresorhus/clipboardy
 - https://github.com/zenorocha/clipboard.js
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver
@@ -404,6 +406,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
 - https://github.com/francisrstokes/construct-js
+- https://github.com/quicktype/quicktype
 
 ## LIB: PDF
 - https://github.com/parallax/jsPDF
