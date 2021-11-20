@@ -79,6 +79,7 @@
 - https://github.com/crate/crate
 
 ## LIBS: TOOLS
+- https://github.com/shyiko/jabba
 - https://github.com/facebook/infer
 - http://www.javadecompilers.com/
 - https://github.com/jhipster/prettier-java

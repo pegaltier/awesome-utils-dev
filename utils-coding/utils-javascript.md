@@ -203,6 +203,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/EricSmekens/jsep
 - https://github.com/kentcdodds/match-sorter
 - https://github.com/blitz-js/superjson
+- https://github.com/wmertens/jsurl2
 - https://github.com/nuxt-contrib/consola
 - https://github.com/faisalman/ua-parser-js
 - https://github.com/Jimbly/timezone-mock
@@ -406,6 +407,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
 - https://github.com/francisrstokes/construct-js
+- https://github.com/AsyncBanana/microdiff
 - https://github.com/quicktype/quicktype
 
 ## LIB: PDF

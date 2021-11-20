@@ -194,6 +194,7 @@
 - https://github.com/react-native-menu/menu
 - https://github.com/onubo/react-native-logs
 - https://github.com/necolas/react-native-web
+- https://github.com/zoontek/react-native-bars
 - https://github.com/Flipkart/recyclerlistview
 - https://github.com/luggit/react-native-config
 - https://github.com/gorhom/react-native-portal
@@ -219,6 +220,7 @@
 - https://github.com/alpha0010/react-native-file-access
 - https://github.com/edeckers/react-native-blob-courier
 - https://github.com/callstack/react-native-builder-bob
+- https://github.com/craftzdog/react-native-quick-base64
 - https://github.com/meliorence/react-native-render-html
 - https://github.com/marcocesarato/react-native-big-list
 - https://github.com/ospfranco/react-native-quick-sqlite

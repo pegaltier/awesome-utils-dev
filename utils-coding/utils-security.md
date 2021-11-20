@@ -19,20 +19,23 @@
 - en.wikipedia.org/wiki/Caesar_cipher
 - www.bouncycastle.org/
 
-## TOOLS
+## TOOLS ONLINE
+- https://keepass.info/
 - https://securitytxt.org/
-- www.srihash.org/
-- securityheaders.com
-- www.dashlane.com/fr/
-- guardianproject.info/apps/pixelknot/
-- github.com/Authenticator-Extension/Authenticator
-- keepass.info/
-- security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
-- www.virustotal.com
-- github.com/ndelphit/apkurlgrep
-- github.com/chenjj/CORScanner
-- github.com/th3unkn0n/facebash-termux
-- github.com/DontPanicO/jwtXploiter
+- https://www.srihash.org/
+- https://www.virustotal.com
+- https://securityheaders.com
+- https://www.dashlane.com/fr/
+- https://guardianproject.info/apps/pixelknot/
+- https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
+
+## TOOLS OSS
+- https://github.com/Authenticator-Extension/Authenticator
+- https://github.com/th3unkn0n/facebash-termux
+- https://github.com/DontPanicO/jwtXploiter
+- https://github.com/ndelphit/apkurlgrep
+- https://github.com/chenjj/CORScanner
+- https://github.com/hashcat/hashcat
 
 ## WEB SCAM / VIRUS
 - safebrowsing.google.com/safebrowsing/report_phish/?hl=en
@@ -53,8 +56,10 @@
 - https://github.com/crowdsecurity/crowdsec
 - https://github.com/htr-tech/zphisher
 - https://github.com/NullArray/DorkNet
+- https://github.com/0xffsec/handbook
 - https://github.com/B-i-t-K/PwnFox
 - https://github.com/m4ll0k/Atlas
+- https://github.com/OWASP/Amass
 - https://github.com/f13end
 
 
