@@ -7,6 +7,7 @@
 - https://eos.atomichub.io/market?collection_name=writer&order=asc&sort=price&symbol=EOS        (F:3.3)
 - https://eos.atomichub.io/market?collection_name=eostarternft&order=asc&sort=price&symbol=EOS  (F:3.25)
 - https://eos.atomichub.io/market?collection_name=gbk.gems&order=asc&sort=price&symbol=EOS      (F:1.99)
+- https://eos.atomichub.io/market?collection_name=animalseosio&order=asc&sort=price&symbol=EOS  (F:0.90)
 - https://eos.atomichub.io/market?collection_name=.gems&order=asc&sort=price&symbol=EOS         (F:0.70)
 - https://eos.atomichub.io/market?collection_name=thezombieart&order=asc&sort=price&symbol=EOS  (F:0.50)
 - https://eos.atomichub.io/market?collection_name=chllnge.gems&order=asc&sort=price&symbol=EOS  (F:0.44)
@@ -38,6 +39,7 @@
 - https://wax.atomichub.io/market?collection_name=upliftart&order=asc&sort=price&symbol=WAX     (F:2.00)
 - https://wax.atomichub.io/market?collection_name=cryptomoonie&order=asc&sort=price&symbol=WAX  (F:1.98)
 - https://wax.atomichub.io/market?collection_name=virtualdream&order=asc&sort=price&symbol=WAX  (F:1.87) *
+- https://wax.atomichub.io/market?collection_name=monicarempel&order=asc&sort=price&symbol=WAX  (F:1.68) *
 - https://wax.atomichub.io/market?collection_name=msuniverse&order=asc&sort=price&symbol=WAX    (F:1.60) *
 - https://wax.atomichub.io/market?collection_name=bitcoinorign&order=asc&sort=price&symbol=WAX  (F:1.50)
 - https://wax.atomichub.io/market?collection_name=newworldnft1&order=asc&sort=price&symbol=WAX  (F:1.00)

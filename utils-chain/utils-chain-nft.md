@@ -206,7 +206,6 @@
 - https://theboringshow.io
 - https://www.theouterrealm.io
 - https://www.twoboredapes.com
-- https://theboringshow.io
 - https://nftnow.com/podcasts
 - https://anchor.fm/propsanddrops
 
@@ -234,6 +233,7 @@
 - https://nonfungible.com
 - https://collect.social
 - https://flooredape.io
+- https://artcentral.io
 - https://wgmi.io
 
 ## NFT TOOLS
