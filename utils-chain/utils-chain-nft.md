@@ -55,14 +55,15 @@
 - https://treasureland.market
 - https://www.bluehorizon.art
 - https://scv.finance/market
-- https://app.liquidifty.io/
+- https://app.liquidifty.io
 - https://www.airnfts.com
 - https://www.babylons.io
 - https://bsc.unique.one
 - https://www.nftmall.io
 - https://explorenft.app
+- https://www.pentas.io
 - https://www.enter.art
-- https://nftrade.com/
+- https://nftrade.com
 - https://lootex.io
 - https://nftb.io
 
@@ -238,8 +239,10 @@
 
 ## NFT TOOLS
 - https://dapp.ptokens.io/nfts
+- https://drop.bountyblok.io
 - https://www.metapurse.fund
 - https://www.nftstudios.io
+- https://www.bountyblok.io
 - https://www.pinata.cloud
 - https://www.tribeone.io
 - https://www.mintgate.io
