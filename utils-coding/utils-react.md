@@ -79,6 +79,7 @@
 - https://github.com/Swizec/useAuth
 - https://github.com/formium/formik
 - https://github.com/pmndrs/zustand
+- https://github.com/molefrog/wouter
 - https://github.com/preactjs/preact
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
