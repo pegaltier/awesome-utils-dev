@@ -37,7 +37,10 @@
 - https://magiceden.io
 - https://diamondapp.com
 - https://www.ternoa.com
+- https://www.fanzone.io
+- https://fractional.art
 - https://areaxnft.com
+- https://candy.com
 - https://tomoe.io
 - https://sweet.io
 
@@ -209,6 +212,7 @@
 - https://www.twoboredapes.com
 - https://nftnow.com/podcasts
 - https://anchor.fm/propsanddrops
+- https://podtail.com/en/podcast/nft-catcher-podcast/
 
 ## NFT NEWS
 - https://crypto.writer.io/s/nft
@@ -217,6 +221,7 @@
 - https://www.nftculture.com
 - https://nftaggregator.io
 - https://www.nfthunt.fun
+- https://upcomingnft.art
 - https://www.arodie.com
 - https://nftinsider.io
 - https://nftplazas.com
@@ -250,9 +255,11 @@
 - https://www.niftex.org
 - https://www.uniqly.io
 - https://artcentral.io
+- https://blockparty.co
 - https://metalink.com
 - https://rarity.tools
 - https://collab.land
+- https://www.nft.org
 - https://howrare.is
 - https://oncyber.io
 - https://paribus.io
@@ -261,12 +268,14 @@
 - https://jpg.space
 - https://token.art
 - https://nftfi.com
+- http://genie.xyz
 - https://r64x.com
 - https://palm.io
 - https://hyy.pe
 - https://yup.io
 
 ## NFT TOOLS TEZOS
+- https://henstorefront.xyz
 - https://batch.xtz.tools
 - https://www.fxhash.xyz
 - https://dono.xtz.tools
@@ -276,6 +285,8 @@
 
 ## NFT DEV
 - https://github.com/thuglabs/solana-nft-token-metadata-update
+- https://github.com/lukso-network/tools-erc725-inspect
+- https://github.com/orgs/lukso-network/repositories
 - https://github.com/coolerwind/celo-nft-forking
 - https://github.com/msmyers/nft-achievements
 - https://github.com/hicetnunc2000/hicetnunc
@@ -284,10 +295,17 @@
 - https://github.com/21e8/sol-nft-tools
 - https://github.com/yusefnapora/minty
 - https://github.com/NFT-Standards-WG
+- https://docs.lukso.tech/standards/NFT2.0
+- https://erc725-inspect.lukso.tech/
 - https://www.nftstandards.wtf/
 - https://www.pinata.cloud/
 - https://nftschool.dev/
 - https://nft.storage/
+
+## NFT ARTICLES
+- https://medium.com/fanzone-io/sweet-dreams-are-made-of-standards-the-evolution-of-nft-138c077c0975
+- https://www.youtube.com/watch?v=7u0WGAS1k_Q The New Standard for Blockchain Accounts and NFT 2.0
+- https://www.youtube.com/watch?v=PeBCLlYi8WI https://www.youtube.com/watch?v=PeBCLlYi8WI
 
 ## NFT GALLERY
 - https://oncyber.io/vvd

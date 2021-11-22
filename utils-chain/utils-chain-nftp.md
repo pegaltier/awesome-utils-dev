@@ -73,6 +73,7 @@
 - https://wax.atomichub.io/market?collection_name=noacollector&order=asc&sort=price&symbol=WAX  (F:0.13)
 - https://wax.atomichub.io/market?collection_name=mudgestudios&order=asc&sort=price&symbol=WAX  (F:0.10)
 - https://wax.atomichub.io/market?collection_name=play2metamon&order=asc&sort=price&symbol=WAX  (F:0.10)
+- https://wax.atomichub.io/market?collection_name=stf.capcom&order=asc&sort=price&symbol=WAX    (F:0.10) *
 - https://wax.atomichub.io/market?collection_name=nftdraft2121&order=asc&sort=price&symbol=WAX  (F:0.09)
 - https://wax.atomichub.io/market?collection_name=kaleidabang3&order=asc&sort=price&symbol=WAX  (F:0.09)
 - https://wax.atomichub.io/market?collection_name=cryptocrypt2&order=asc&sort=price&symbol=WAX  (F:0.09)
