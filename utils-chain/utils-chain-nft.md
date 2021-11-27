@@ -39,6 +39,7 @@
 - https://www.ternoa.com
 - https://www.fanzone.io
 - https://fractional.art
+- https://www.pokmi.com
 - https://areaxnft.com
 - https://candy.com
 - https://tomoe.io
@@ -137,6 +138,7 @@
 
 ### NFT FLOW
 - https://viv3.com
+- https://www.versus.auction
 
 ### NFT FLOW
 - https://airight.io/marketplace
@@ -182,6 +184,7 @@
 - https://immersys.io
 - https://rarity.game
 - https://www.mobox.io
+- https://widiland.com
 - https://www.realm.art
 - https://cryptobay.vip
 - https://www.mtvrs.app
@@ -202,6 +205,10 @@
 - https://www.metropolis-origins.com
 
 - https://www.quora.com/What-are-the-top-3-gaming-NFT-GEM-coins-that-will-be-mega-profitable-5X-to-50X-in-202
+
+## NFT EVENTS
+- https://www.nftirl.co
+- https://www.nft.nyc
 
 ## NFT INVESTORS
 - https://www.meta4.capital
@@ -258,6 +265,7 @@
 - https://blockparty.co
 - https://metalink.com
 - https://rarity.tools
+- https://verisart.com
 - https://collab.land
 - https://www.nft.org
 - https://howrare.is
@@ -279,9 +287,13 @@
 - https://batch.xtz.tools
 - https://www.fxhash.xyz
 - https://dono.xtz.tools
+- https://hecticnun.xyz
 - https://nftbiker.xyz
 - https://hicdex.com
 - https://glry.xyz
+
+## NFT TOOLS SOLANA
+- https://sol-nft.tools
 
 ## NFT DEV
 - https://github.com/thuglabs/solana-nft-token-metadata-update
@@ -299,6 +311,7 @@
 - https://docs.lukso.tech/standards/NFT2.0
 - https://erc725-inspect.lukso.tech/
 - https://www.nftstandards.wtf/
+- https://github.com/isikdogan
 - https://www.pinata.cloud/
 - https://nftschool.dev/
 - https://nft.storage/
