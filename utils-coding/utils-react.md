@@ -45,6 +45,7 @@
 ## EXAMPLES
 
 - https://github.com/Unity-Technologies/frontend-developer-test
+- https://github.com/carlosnakane/monorepo-react-webpack
 - https://github.com/Ninjas-Code-official/shopping-cart
 - https://github.com/konstantinmuenster/notion-clone
 - https://github.com/xiongemi/white-label-airline
@@ -55,6 +56,7 @@
 ## STARTER
 
 - https://github.com/saleor/saleor
+- https://github.com/medusajs/medusa
 - https://github.com/wesbos/Advanced-React
 - https://github.com/facebook/create-react-app
 - https://github.com/coolerwind/react-ecommerce

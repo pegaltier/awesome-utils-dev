@@ -289,6 +289,7 @@
 - https://github.com/orgs/lukso-network/repositories
 - https://github.com/coolerwind/celo-nft-forking
 - https://github.com/msmyers/nft-achievements
+- https://github.com/NFT-Standards-WG/Permit
 - https://github.com/hicetnunc2000/hicetnunc
 - https://github.com/i3games/hen-timeline
 - https://github.com/jamesporter/solandra

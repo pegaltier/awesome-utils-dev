@@ -5,10 +5,17 @@
 - https://github.com/sathishvj/awesome-gcp-certifications
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/bregman-arie/devops-exercises
-- https://github.com/jdauphant/awesome-ansible
+
 
 ## COURSES
 - https://github.com/isolutionsag/devops-security-cheat-sheet
+
+## HELPER
+- https://github.com/lebinh/nginx-conf
+- https://github.com/risan/nginx-config
+- https://github.com/h5bp/server-configs
+- https://github.com/h5bp/server-configs-nginx
+- https://github.com/h5bp/server-configs-apache
 
 ## TOOLS
 - https://traefik.io/
@@ -54,6 +61,9 @@
 - https://www.checklyhq.com/
 - https://www.compose.com/
 
+## NGINX
+- https://github.com/fcambus/nginx-resources
+
 ## CLOUDFARE
 - https://github.com/losfair/blueboat
 - https://github.com/cloudflare/wrangler2
@@ -61,6 +71,10 @@
 ## AWS
 - https://github.com/dwyl/learn-aws-lambda
 - https://github.com/localstack/localstack
+- https://github.com/teamplanes/aws-blackbox
+
+## JENKINS
+- https://github.com/jenkins-infra/pipeline-library
 
 ## KUBERNETES
 - https://helm.sh/
@@ -100,8 +114,11 @@
 
 ## ANSIBLE
 - https://github.com/sovereign/sovereign
+- https://github.com/jdauphant/awesome-ansible
+- https://github.com/KeyboardInterrupt/awesome-ansible
 
 ## DOCKER
+- https://github.com/docker/labs
 - https://github.com/qdm12/devtainr
 - https://github.com/croqaz/browsers
 - https://github.com/containerd/nerdctl
@@ -113,6 +130,7 @@
 - https://github.com/ufoscout/docker-compose-wait
 - https://github.com/geerlingguy/ansible-role-docker    
 - https://github.com/JeremyLikness/usda-microservice
+- https://github.com/devopstrainingblr/awesome-docker
 - https://github.com/felixfbecker/semantic-release-docker
 - https://labs.play-with-docker.com/
 - https://youtu.be/3c-iBn73dDE Docker Tutorial for Beginners [Full Course in 3 Hours]

@@ -158,6 +158,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://angular.io/guide/cheatsheet
 - https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
+- https://github.com/avivharuzi/angular-best-practices
 - https://indepth.dev/angular-bad-practices-revisited/
 - https://github.com/evoytenkoapps/angular-best-practices
 - https://github.com/mgechev/angular-performance-checklist
@@ -236,6 +237,7 @@ Learn about the most useful design patterns in Angular.
 - https://refactoring.guru/design-patterns/catalog
 - https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
 - https://www.youtube.com/watch?v=50ALR6JRNrk AngularAir | Using composition over inheritance
+- https://stackblitz.com/github/katesky/angularAir2021/tree/main/ | Using composition over inheritance
 - https://dev.to/humberd/context-menu-actions-at-scale-command-pattern-in-a-real-life-scenario-9o0
 - https://dev.to/carlillo/understanding-design-patterns-factory-method-52fc
 - https://github.com/Humberd/command-pattern-in-angular
@@ -1710,6 +1712,7 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/ng-web-apis/permissions
 - https://github.com/willmendesneto/ngx-feature-toggle
+- https://github.com/Cobiro/ng-feature-flags
 - https://github.com/omridevk/ng-keyboard-shortcuts
 - https://github.com/brtnshrdr/angular2-hotkeys
 - https://github.com/typebytes/ngx-template-streams
@@ -1878,6 +1881,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/component-driven/cypress-axe
 - https://github.com/ceceliacreates/ionic-cypress
 - https://github.com/cypress-io/cypress-skip-test
+- https://github.com/bahmutov/cypress-should-really
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/ksocha/cypress-circleci-reporter
 - https://github.com/cypress-io/cypress-realworld-app
@@ -2101,6 +2105,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/sinedied/ngx-foldable
 - https://github.com/swimlane/ngx-datatable
+- https://github.com/l-lin/angular-datatables
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
 - https://github.com/katoid/angular-grid-layout
