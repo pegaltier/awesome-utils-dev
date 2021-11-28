@@ -135,6 +135,7 @@
 
 ### NFT XLM
 - https://litemint.com
+- https://stellarnft.com/
 
 ### NFT FLOW
 - https://viv3.com
@@ -308,6 +309,7 @@
 - https://github.com/21e8/sol-nft-tools
 - https://github.com/yusefnapora/minty
 - https://github.com/NFT-Standards-WG
+- https://github.com/memo/eco-nft
 - https://docs.lukso.tech/standards/NFT2.0
 - https://erc725-inspect.lukso.tech/
 - https://www.nftstandards.wtf/
@@ -318,6 +320,7 @@
 
 ## NFT ARTICLES
 - https://medium.com/fanzone-io/sweet-dreams-are-made-of-standards-the-evolution-of-nft-138c077c0975
+- https://medium.com/@bdharris/an-overview-of-the-nft-fractionalization-landscape-83487874926b
 - https://www.youtube.com/watch?v=7u0WGAS1k_Q The New Standard for Blockchain Accounts and NFT 2.0
 - https://www.youtube.com/watch?v=PeBCLlYi8WI https://www.youtube.com/watch?v=PeBCLlYi8WI
 

@@ -268,6 +268,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 ## ALTERNATIVE
 - https://github.com/fluencelabs/
+- https://github.com/fluencelabs/fluence-js
 
 ## UNOFFICIAL DOCS
 - https://docs.google.com/document/d/1BFWVHucWQZo9yfvmKVgEXPTq4Zn94gbKcaMiitTRDg4/edit#

@@ -3,6 +3,7 @@
 
 ## Web
 
+- https://www.tldraw.com/
 - https://owncast.online/
 - https://metatags.io/font-generator
 
@@ -38,6 +39,7 @@
 - https://github.com/pluja/awesome-privacy
 - https://github.com/alexanderisora/startuptoolbox
 - https://github.com/goabstract/Awesome-Design-Tools
+- https://github.com/quadeare/selfhosted-software-list
 
 ## New
 - https://fig.io/

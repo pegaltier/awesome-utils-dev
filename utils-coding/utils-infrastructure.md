@@ -67,6 +67,7 @@
 ## CLOUDFARE
 - https://github.com/losfair/blueboat
 - https://github.com/cloudflare/wrangler2
+- https://github.com/artur-ciocanu/odd-cloudflare-workers
 
 ## AWS
 - https://github.com/dwyl/learn-aws-lambda

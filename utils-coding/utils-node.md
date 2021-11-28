@@ -46,6 +46,7 @@
 - https://github.com/lirantal/npq
 - https://github.com/amio/npm-why
 - https://github.com/ranyitz/qnm
+- https://github.com/npm/cacache
 - https://github.com/vercel/ncc
 - https://github.com/vercel/nft
 - https://github.com/sezna/nps

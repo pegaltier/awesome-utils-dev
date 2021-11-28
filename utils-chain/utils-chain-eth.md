@@ -24,8 +24,9 @@
 - https://github.com/dabit3/polygon-ethereum-nextjs-marketplace
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 
-## ETH DEV EXAMPLE
+## ETH SMART CONTRACT EXAMPLE
 - https://github.com/ultiarena/ulti-coin
+- https://github.com/Titano-finance/Titano-contract
 
 ## ETH TOOLS/EXPLORER
 - https://trivial.co

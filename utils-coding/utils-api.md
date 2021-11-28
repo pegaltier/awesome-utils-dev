@@ -29,6 +29,7 @@
 - https://insomnia.rest/
 - https://pipedream.com/
 - https://github.com/APIs-guru
+- https://github.com/Kong/insomnia
 - https://github.com/Azure/autorest
 - https://github.com/slatedocs/slate
 - https://github.com/DataFire/DataFire

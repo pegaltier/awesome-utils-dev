@@ -1969,6 +1969,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: COMPONENTS
 
 - https://github.com/angular-material-extensions/password-strength
+- https://github.com/d-koppenhagen/angular-tag-cloud-module
 - https://github.com/fetrarij/ngx-daterangepicker-material
 - https://github.com/maxisam/ngx-progressive-image-loader
 - https://github.com/DmitryEfimenko/ng-expandable-input
