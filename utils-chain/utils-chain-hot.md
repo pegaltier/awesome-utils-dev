@@ -28,6 +28,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Alls: https://github.com/f13end/Holochain-Projects
 - Alls: https://telegra.ph/Holochain-Projects-10-18
 - Alls: https://docs.google.com/document/d/1fsr-N4Rua4sXUdMshbLh4-2LT3p050P7iQF6L-F0aQU/edit
+- Ethelo: https://docs.google.com/document/d/1ZzzOhK7tq6BE_QMwG3DoWGWq6JJw8ne9bNadgcIE-vo/edit?pli=1#
 - Holosupply: https://www.holosupply.io/
 - Internetofenergy: https://internetofenergy.network/
 - Aeroband: https://www.aeroband.ltd/

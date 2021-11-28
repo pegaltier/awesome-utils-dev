@@ -213,6 +213,8 @@
 
 ## NFT INVESTORS
 - https://www.meta4.capital
+- https://metaversegroup.io
+- https://www.sfermion.io
 
 ## NFT PODCATS
 - https://theboringshow.io
