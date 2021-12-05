@@ -1,6 +1,10 @@
 
 # NFT
 
+## NFT TOPICS
+
+forgeries in NFTs, meta data...
+
 ## NFT MARKETPLACE
 - https://unxd.com
 - https://async.art
@@ -40,6 +44,8 @@
 - https://www.fanzone.io
 - https://fractional.art
 - https://www.pokmi.com
+- https://pianity.com
+- https://www.realfevr.com
 - https://areaxnft.com
 - https://candy.com
 - https://tomoe.io
@@ -78,6 +84,7 @@
 - https://neftyblocks.com
 - https://www.agoraltd.io
 - https://tacocrypto.io
+- https://merchnft.com
 - https://waxstash.com
 - https://waxarena.io
 - https://paraffin.io
@@ -262,6 +269,7 @@
 - https://www.tribeone.io
 - https://www.mintgate.io
 - https://airdrop.anyo.io
+- https://fioprotocol.io
 - https://www.niftex.org
 - https://www.uniqly.io
 - https://artcentral.io
@@ -301,6 +309,7 @@
 ## NFT DEV
 - https://github.com/thuglabs/solana-nft-token-metadata-update
 - https://github.com/lukso-network/tools-erc725-inspect
+- https://github.com/DefiboxTeam/NFT-Standard-on-EOS
 - https://github.com/orgs/lukso-network/repositories
 - https://github.com/coolerwind/celo-nft-forking
 - https://github.com/msmyers/nft-achievements

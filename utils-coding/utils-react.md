@@ -49,6 +49,7 @@
 - https://github.com/Ninjas-Code-official/shopping-cart
 - https://github.com/konstantinmuenster/notion-clone
 - https://github.com/xiongemi/white-label-airline
+- https://github.com/NoQuarterTeam/boilerplate
 - https://github.com/UnlyEd/next-right-now
 - https://github.com/Th3Wall/Fakeflix
 - https://github.com/mirumee/saleor
@@ -196,6 +197,7 @@
 - https://github.com/rescript-react-native
 - https://github.com/react-native-menu/menu
 - https://github.com/onubo/react-native-logs
+- https://github.com/henrhie/react-native-sha
 - https://github.com/necolas/react-native-web
 - https://github.com/zoontek/react-native-bars
 - https://github.com/Flipkart/recyclerlistview
@@ -228,6 +230,7 @@
 - https://github.com/marcocesarato/react-native-big-list
 - https://github.com/ospfranco/react-native-quick-sqlite
 - https://github.com/mrousavy/react-native-vision-camera
+- https://github.com/gorhom/react-native-paper-onboarding
 - https://github.com/mrousavy/react-native-multithreading
 - https://github.com/JesperLekland/react-native-svg-charts
 - https://github.com/LonelyCpp/react-native-youtube-iframe
@@ -237,6 +240,7 @@
 - https://github.com/peggyrayzis/react-native-create-bridge
 - https://github.com/NataliaLinnik/react-native-nested-list
 - https://github.com/Flair-Dev/react-native-awesome-gallery
+- https://github.com/dohooo/react-native-reanimated-carousel
 - https://github.com/p-syche/react-native-bouncing-preloader
 - https://github.com/react-native-camera/react-native-camera
 - https://github.com/smallcase/react-native-simple-biometrics

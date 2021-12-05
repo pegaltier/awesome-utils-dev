@@ -21,6 +21,7 @@
 - https://traefik.io/
 - https://ngrok.com/
 - https://sshreach.me/
+- https://k0sproject.io/
 - https://crontab.guru/
 - https://cronitor.io/index
 - https://certbot.eff.org/
@@ -66,8 +67,14 @@
 
 ## CLOUDFARE
 - https://github.com/losfair/blueboat
+- https://github.com/cfworker/cfworker
 - https://github.com/cloudflare/wrangler2
 - https://github.com/artur-ciocanu/odd-cloudflare-workers
+- https://github.com/xiaoyang-sde/rocket-booster
+- https://github.com/eidam/cf-workers-status-page
+- https://github.com/lukeed/awesome-cloudflare-workers
+- https://github.com/karllhughes/workers-codeship-example
+- https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy
 
 ## AWS
 - https://github.com/dwyl/learn-aws-lambda
@@ -80,10 +87,13 @@
 ## KUBERNETES
 - https://helm.sh/
 - https://github.com/appvia/kev
+- https://github.com/k3s-io/k3s
 - https://github.com/keel-hq/keel
 - https://github.com/lensapp/lens
 - https://github.com/kedacore/keda
+- https://github.com/k0sproject/k0s
 - https://github.com/pixie-io/pixie
+- https://github.com/ubuntu/microk8s
 - https://github.com/mkimuram/k8sviz
 - https://github.com/Portshift/kubei
 - https://github.com/loft-sh/jspolicy
@@ -96,6 +106,7 @@
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard
+- https://github.com/kubernetes-sigs/kind
 - https://github.com/kubernetes/kubernetes
 - https://github.com/shank-git/metal-kubes
 - https://github.com/kubernetes/ingress-nginx

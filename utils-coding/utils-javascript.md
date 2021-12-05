@@ -324,6 +324,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables
 - https://github.com/davidmerfield/randomColor
+- https://github.com/willmcpo/body-scroll-lock
 - https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/metafizzy/infinite-scroll

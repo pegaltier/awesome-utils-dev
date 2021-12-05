@@ -1772,6 +1772,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/observable-playground/observable-playground
+- https://github.com/swissmanu/rxjs-debugging-for-vscode
 - https://github.com/NetanelBasal/ngx-auto-unsubscribe
 - https://github.com/NetanelBasal/ngx-take-until-destroy
 - https://github.com/cloudnc/ngx-observable-lifecycle
@@ -2408,9 +2409,11 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: TRAINING
 - https://github.com/nrwl/nx-workshop
+- https://github.com/jonrimmer/ngrx-saga
 - https://github.com/alcfeoh/ng2-training
 - https://github.com/BioPhoton/angular-basic-ws
 - https://github.com/alcfeoh/ng-advanced-workshop
+- https://github.com/tomastrajan/angular-state-management-workshop
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/SooryaSoorya/slot-fun
