@@ -41,6 +41,7 @@
 - https://github.com/reed-hong/awesome-libra
 - https://github.com/asgardex/asgard-exchange
 - https://github.com/zerotier/ZeroTierOne
+- https://github.com/ipfs/js-ipfs
 - https://github.com/marcj/bitcoin.ts
 - https://github.com/BlockchainCommons/bc-ur-java
 - https://github.com/steve-vincent/awesome-decentralized

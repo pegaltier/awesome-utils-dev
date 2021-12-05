@@ -41,6 +41,7 @@ forgeries in NFTs, meta data...
 - https://magiceden.io
 - https://diamondapp.com
 - https://www.ternoa.com
+- https://www.nftmind.org
 - https://www.fanzone.io
 - https://fractional.art
 - https://www.pokmi.com
@@ -101,6 +102,9 @@ forgeries in NFTs, meta data...
 ### NFT XPR
 - https://protonmint.com/
 - https://www.protonmarket.com/
+
+## NFT TELOS
+- https://luxfi.io/home
 
 ## NFT FTM
 - https://artion.io
@@ -201,10 +205,12 @@ forgeries in NFTs, meta data...
 - https://www.derace.com
 - https://app.gala.games
 - https://www.illuvium.io
+- https://vulcanforged.com
 - https://www.ufogaming.io
 - https://www.duelverse.io
 - https://axieinfinity.com
 - https://www.sandbox.game
+- https://www.nitroleague.com
 - https://www.costumeclash.com
 - https://www.darkfrontiers.com
 - https://www.myneighboralice.com
@@ -322,6 +328,7 @@ forgeries in NFTs, meta data...
 - https://github.com/NFT-Standards-WG
 - https://github.com/memo/eco-nft
 - https://docs.lukso.tech/standards/NFT2.0
+- https://www.youtube.com/watch?v=hg1Ow6u9QVk
 - https://erc725-inspect.lukso.tech/
 - https://www.nftstandards.wtf/
 - https://github.com/isikdogan

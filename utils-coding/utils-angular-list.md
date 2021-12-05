@@ -1463,6 +1463,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/curkovicf/nx-cli
 - https://github.com/nrwl/nx-set-shas
 - https://github.com/guiseek/nx-clean
+- https://github.com/Jordan-Hall/nx-tools
 - https://github.com/manfredsteyer/nx-libs
 - https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
@@ -1993,6 +1994,7 @@ Analyze and optimize the performance of your app
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
 - https://github.com/nbfontana/ngx-currency
+- https://github.com/Harvest-Dev/ng-select2
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
