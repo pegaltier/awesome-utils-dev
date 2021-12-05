@@ -314,6 +314,7 @@ forgeries in NFTs, meta data...
 
 ## NFT DEV
 - https://github.com/thuglabs/solana-nft-token-metadata-update
+- https://github.com/buildspace/nft-drop-starter-project
 - https://github.com/lukso-network/tools-erc725-inspect
 - https://github.com/DefiboxTeam/NFT-Standard-on-EOS
 - https://github.com/orgs/lukso-network/repositories

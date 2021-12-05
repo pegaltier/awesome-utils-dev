@@ -28,6 +28,7 @@
 
 ## UTILS
 
+- https://github.com/sverweij/dependency-cruiser
 - https://github.com/radarsu/types-package-json
 - https://github.com/davglass/license-checker
 - https://github.com/adisreyaj/cartella-web
@@ -43,6 +44,7 @@
 - https://github.com/depcheck/depcheck
 - https://github.com/sindresorhus/np
 - https://github.com/typicode/husky
+- https://github.com/unjs/ohmyfetch
 - https://github.com/ranyitz/newsh
 - https://github.com/lirantal/npq
 - https://github.com/amio/npm-why

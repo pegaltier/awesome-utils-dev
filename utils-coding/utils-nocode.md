@@ -39,6 +39,7 @@ low-code tooling to prototype fastly.
 - https://github.com/google/blockly
 - https://github.com/xlayers/xlayers
 - https://github.com/BuilderIO/qwik
+- https://github.com/BuilderIO/mitosis
 - https://github.com/BuilderIO/builder
 - https://github.com/directus/directus
 - https://github.com/appsmithorg/appsmith
