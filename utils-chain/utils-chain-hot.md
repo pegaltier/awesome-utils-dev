@@ -38,6 +38,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Neighbourhoods: https://neighbourhoods.network/
 - Humm.earth: https://humm.earth/
 - Valueflows: https://www.valueflo.ws/
+- Phax: https://phax.io/
 - Holosupply: https://www.holosupply.io/
 - Aeroband: https://www.aeroband.ltd/
 - Tenderbuzz: https://tender.buzz/
