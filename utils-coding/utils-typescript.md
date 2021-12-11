@@ -70,6 +70,7 @@
 - https://github.com/danvk/ts-mover
 - https://github.com/kutyel/linq.ts
 - https://github.com/microsoft/tsdoc
+- https://github.com/vercel/turborepo
 - https://github.com/contiamo/rhombic
 - https://github.com/zMotivat0r/mrepo
 - https://github.com/nadeesha/ts-prune

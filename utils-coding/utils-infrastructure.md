@@ -40,6 +40,7 @@
 - https://github.com/Qovery/engine
 - https://github.com/loadimpact/k6
 - https://github.com/kruize/kruize
+- https://github.com/pulumi/pulumi
 - https://github.com/tooljet/tooljet
 - https://github.com/grafana/grafana
 - https://github.com/hauxir/errorpush
@@ -63,6 +64,7 @@
 - https://www.netlify.com/
 - https://www.checklyhq.com/
 - https://www.compose.com/
+- https://getenvase.com/
 
 ## NGINX
 - https://github.com/fcambus/nginx-resources
@@ -138,6 +140,7 @@
 - https://github.com/qdm12/devtainr
 - https://github.com/croqaz/browsers
 - https://github.com/containerd/nerdctl
+- https://github.com/ameerthehacker/envase
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/leighmcculloch/dockerhost
 - https://github.com/tomMoulard/make-my-server

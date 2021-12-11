@@ -96,6 +96,7 @@
 - https://github.com/everweij/react-laag
 - https://github.com/mbrn/material-table
 - https://github.com/JedWatson/classnames
+- https://github.com/eBay/nice-modal-react
 - https://github.com/ngneat/use-observable
 - https://github.com/twobin/react-lazyload
 - https://github.com/zoontek/react-chicane
@@ -215,6 +216,7 @@
 - https://github.com/arnnis/react-native-fast-toast
 - https://github.com/FormidableLabs/react-native-owl
 - https://github.com/ravirupareliya/rn-in-app-review
+- https://github.com/getbouncer/react-native-cardscan
 - https://github.com/callstack/react-native-viewpager
 - https://github.com/cjam/react-native-spotify-remote
 - https://github.com/RonRadtke/react-native-blob-util

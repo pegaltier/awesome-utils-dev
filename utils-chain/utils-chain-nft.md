@@ -282,6 +282,7 @@ forgeries in NFTs, meta data...
 - https://www.uniqly.io
 - https://artcentral.io
 - https://blockparty.co
+- https://nafstars.com
 - https://metalink.com
 - https://rarity.tools
 - https://verisart.com
