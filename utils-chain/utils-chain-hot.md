@@ -34,15 +34,16 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Kizuna: https://kizuna.foundation/en/
 - Junto: https://www.junto.love
 - IOEN: https://www.ioen.tech/
-- Holosupply: https://www.holosupply.io/
 - Internetofenergy: https://internetofenergy.network/
+- Neighbourhoods: https://neighbourhoods.network/
+- Humm.earth: https://humm.earth/
+- Holosupply: https://www.holosupply.io/
 - Aeroband: https://www.aeroband.ltd/
 - Tenderbuzz: https://tender.buzz/
 - Orion protocal: https://orionprotocol.io/
 - Fairbnb: https://fairbnb.coop/fr/
 - Bridgit: https://beta.bridgit.io/
 - Wirdworld: https://www.wirdpbc.xyz/
-- Humm.earth: https://humm.earth/
 - Morpheus Network: https://morpheus.network/
 - Sacred Capital: https://www.sacred.capital/
 - Holohouse: https://holohouse.org/
