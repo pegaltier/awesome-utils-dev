@@ -91,6 +91,7 @@ forgeries in NFTs, meta data...
 - https://paraffin.io
 - https://myth.market
 - https://nfthive.io
+- https://dibbs.io
 - https://lgnd.art
 - https://wdny.io
 
@@ -225,6 +226,7 @@ forgeries in NFTs, meta data...
 - https://www.nft.nyc
 
 ## NFT INVESTORS
+- https://starrynight.capital
 - https://www.meta4.capital
 - https://metaversegroup.io
 - https://www.sfermion.io

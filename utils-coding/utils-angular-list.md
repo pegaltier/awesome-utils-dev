@@ -2379,6 +2379,7 @@ Add a progressbar for displaying a loader during the different async task like h
 ## ECOSYSTEM: LIB: PWA
 - https://github.com/cyrilletuzi/ngx-pwa-offline
 - https://ionicframework.com/docs/angular/pwa
+- https://github.com/OneSignal/onesignal-ngx
 - https://github.com/OnsenUI/OnsenUI
 
 ## ECOSYSTEM: CI/CD
