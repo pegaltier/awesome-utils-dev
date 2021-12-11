@@ -25,6 +25,7 @@
 - https://crontab.guru/
 - https://cronitor.io/index
 - https://certbot.eff.org/
+- https://buildpacks.io/
 - https://www.jenkins.io/
 - https://www.ansible.com/
 - https://www.terraform.io/
@@ -43,6 +44,7 @@
 - https://github.com/grafana/grafana
 - https://github.com/hauxir/errorpush
 - https://github.com/caprover/caprover
+- https://github.com/buildpacks/pack
 - https://github.com/nicolargo/glances
 - https://github.com/cloudcomponents/cdk-constructs
 - https://github.com/alexfernandez/loadtest
@@ -115,7 +117,9 @@
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/kubernauts/jmeter-kubernetes
 - https://github.com/Azure/vscode-kubernetes-tools
+- https://github.com/operator-framework/operator-sdk
 - https://github.com/tomhuang12/awesome-k8s-resources
+- https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook
 - https://kubernetes.io/docs/tutorials/kubernetes-basics
 - https://github.com/diegolnasc/kubernetes-best-practices
 - https://github.com/kelseyhightower/kubernetes-the-hard-way

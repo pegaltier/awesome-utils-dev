@@ -2430,6 +2430,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/pankajparkar/lazy-loading-recipes
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
+- https://github.com/oktadev/okta-angular-dynamic-components-example
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR

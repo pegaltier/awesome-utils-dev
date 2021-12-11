@@ -12,6 +12,7 @@
 - https://etherscan.io/apis
 - https://github.com/ethereum/
 - https://github.com/ethers-io/ethers.js
+- https://github.com/ipatka/scaffold-eth
 - https://github.com/ethereum-ts/TypeChain
 - https://github.com/larvalabs/cryptopunks
 - https://github.com/bkrem/awesome-solidity
