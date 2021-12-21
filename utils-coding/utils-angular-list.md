@@ -1528,6 +1528,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 - https://github.com/Gorniv/ngx-universal
 - https://github.com/notiz-dev/scully-plugins
+- https://github.com/k9n-dev/scully-plugins
 - https://github.com/pjlamb12/scully-plugin-page-title
 - https://github.com/pjlamb12/scully-plugin-canonical
 - https://github.com/d-koppenhagen/scully-plugin-mermaid

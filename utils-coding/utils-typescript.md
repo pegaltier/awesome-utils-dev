@@ -82,6 +82,7 @@
 - https://github.com/airbnb/ts-migrate
 - https://github.com/rikukissa/typehole
 - https://github.com/SamVerschueren/tsd
+- https://github.com/true-myth/true-myth
 - https://github.com/nfriend/ts-key-enum
 - https://github.com/runem/ts-simple-type
 - https://github.com/dsherret/ts-ast-viewer

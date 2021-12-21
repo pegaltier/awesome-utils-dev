@@ -158,6 +158,7 @@ forgeries in NFTs, meta data...
 
 ## NFT SOL
 - https://magiceden.io
+- https://exchange.art
 
 ## NFT ALGO
 - https://dartroom.xyz
@@ -189,6 +190,7 @@ forgeries in NFTs, meta data...
 - https://www.lootwatcher.com
 - https://www.cryptochicks.app
 - https://sadgirlsbar.io
+- https://dogami.com
 - https://waxel.net
 
 ## NFT GAMES
