@@ -47,6 +47,7 @@ forgeries in NFTs, meta data...
 - https://www.pokmi.com
 - https://pianity.com
 - https://www.realfevr.com
+- https://www.glorious.digital
 - https://areaxnft.com
 - https://candy.com
 - https://tomoe.io
@@ -56,6 +57,7 @@ forgeries in NFTs, meta data...
 - https://uniqueone.network
 - https://nftblackmarket.io
 - https://app.nftrade.com
+- https://hodooi.com
 - https://meme.com
 
 ### NFT ETH
@@ -159,9 +161,13 @@ forgeries in NFTs, meta data...
 ## NFT SOL
 - https://magiceden.io
 - https://exchange.art
+- https://artrade.app
 
 ## NFT ALGO
 - https://dartroom.xyz
+
+## NFT KDN
+- https://www.kadenartist.io
 
 ## NFT CREATORS
 - https://xcopy.art
@@ -270,6 +276,7 @@ forgeries in NFTs, meta data...
 - https://wgmi.io
 
 ## NFT TOOLS
+- https://www.niftygenerator.xyz
 - https://dapp.ptokens.io/nfts
 - https://drop.bountyblok.io
 - https://www.metapurse.fund

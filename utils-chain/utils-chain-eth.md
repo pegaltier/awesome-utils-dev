@@ -16,6 +16,7 @@
 - https://github.com/ethereum-ts/TypeChain
 - https://github.com/larvalabs/cryptopunks
 - https://github.com/bkrem/awesome-solidity
+- https://github.com/0xperp/defi-derivatives
 - https://github.com/embark-framework/embark
 - https://github.com/paulrberg/create-eth-app
 - https://github.com/antonnell/veToken-voting
