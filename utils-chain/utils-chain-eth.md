@@ -20,9 +20,11 @@
 - https://github.com/embark-framework/embark
 - https://github.com/paulrberg/create-eth-app
 - https://github.com/antonnell/veToken-voting
+- https://github.com/sigp/solidity-security-blog
 - https://github.com/mithio/mithril-smart-contract
 - https://github.com/ethereumjs/ethereumjs-monorepo
 - https://github.com/eSwapping/ESWAP-Limit-Order-Bot
+- https://github.com/Anish-Agnihotri/merkle-airdrop-starter
 - https://github.com/dabit3/polygon-ethereum-nextjs-marketplace
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 

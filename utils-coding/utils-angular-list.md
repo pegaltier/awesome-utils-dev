@@ -1145,6 +1145,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/mattpocock/xstate-catalogue
 - https://github.com/markostanimirovic/juliette
 - https://github.com/AmadeusITGroup/ngx-tansu
+- https://github.com/ZackDeRose/derxjs
 - https://github.com/state-adapt/state-adapt
 - https://github.com/ngxs-labs/data
 - https://github.com/ngxs-labs/emitter
@@ -1845,6 +1846,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TinkoffCreditSystems/ng-morph
 - https://github.com/schuchard/prettier-schematic
 - https://github.com/manfredsteyer/angular-crud
+- https://github.com/patelvimal/ng-vim-devtools
 - https://github.com/herodevs/material-studies
 - https://github.com/niklas-wortmann/ngx-pact
 - https://github.com/schuchard/ng-schematics
@@ -1889,6 +1891,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/ksocha/cypress-circleci-reporter
 - https://github.com/cypress-io/cypress-realworld-app
+- https://github.com/meinaart/cypress-plugin-snapshots
 - https://github.com/NoriSte/ui-testing-best-practices
 - https://github.com/cypress-io/cypress-example-recipes
 - https://github.com/maximilianschmitt/cypress-routines

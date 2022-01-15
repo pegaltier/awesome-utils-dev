@@ -48,6 +48,7 @@
 - https://github.com/buildpacks/pack
 - https://github.com/nicolargo/glances
 - https://github.com/cloudcomponents/cdk-constructs
+- https://github.com/manekinekko/awesome-devcontainers
 - https://github.com/alexfernandez/loadtest
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/ClementTsang/bottom

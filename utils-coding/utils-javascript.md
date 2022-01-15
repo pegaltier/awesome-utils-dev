@@ -159,6 +159,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 ## FRAMEWORK: BACKEND
 - https://nestjs.com/
 - https://github.com/amark/gun
+- https://github.com/expo/entity
 - https://github.com/strapi/strapi
 - https://github.com/typeorm/typeorm
 - https://github.com/kuzzleio/kuzzle
@@ -386,6 +387,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/varkor/quiver
 
 ## LIB: 2D/3D/VR
+- https://github.com/oframe/ogl
 - https://github.com/ct-js/ct-js
 - https://github.com/aframevr/aframe
 - https://github.com/mrdoob/three.js

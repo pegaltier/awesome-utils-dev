@@ -125,6 +125,7 @@
 
 ## LIB: DATA OBJECT
 - https://github.com/jquense/yup
+- https://github.com/funkia/list
 - https://github.com/gcanti/io-ts
 - https://github.com/nartc/mapper
 - https://github.com/pfgray/ts-adt
@@ -133,6 +134,7 @@
 - https://github.com/pelotom/unionize
 - https://github.com/pelotom/runtypes
 - https://github.com/arcanis/typanion
+- https://github.com/tinyplex/tinybase
 - https://github.com/stephenh/ts-proto
 - https://github.com/syntax-tree/unist
 - https://github.com/gcanti/monocle-ts

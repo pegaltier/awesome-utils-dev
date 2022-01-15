@@ -56,6 +56,7 @@
 - https://github.com/onlurking/awesome-infosec
 - https://github.com/crowdsecurity/crowdsec
 - https://github.com/ivan-sincek/forbidden
+- https://github.com/dwmkerr/hacker-laws
 - https://github.com/htr-tech/zphisher
 - https://github.com/NullArray/DorkNet
 - https://github.com/0xffsec/handbook
