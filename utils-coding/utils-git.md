@@ -88,6 +88,7 @@
 - https://github.com/actions/typescript-action
 - https://github.com/mtfoley/pr-compliance-action
 - https://github.com/styfle/cancel-workflow-action
+- https://github.com/fountainhead/action-wait-for-check
 
 ## TEMPLATES
 

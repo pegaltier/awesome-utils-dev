@@ -9,6 +9,7 @@
 
 ## UTILS
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
+- https://github.com/yoshuawuyts/rust-for-js-peeps
 
 ## LIB
 
