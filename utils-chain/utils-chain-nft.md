@@ -38,7 +38,6 @@ forgeries in NFTs, meta data...
 - https://www.voice.com
 - https://syfin.art
 - https://opulous.org
-- https://magiceden.io
 - https://diamondapp.com
 - https://www.ternoa.com
 - https://www.nftmind.org
@@ -124,6 +123,7 @@ forgeries in NFTs, meta data...
 - http://www.artcollect.io
 - https://www.henext.xyz
 - https://kalamint.io
+- https://versum.xyz
 - https://objkt.com
 - https://hen.radio
 - https://hic.af
