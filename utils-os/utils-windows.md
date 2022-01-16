@@ -5,6 +5,7 @@
 
 - https://winstall.app/
 - https://www.getpaint.net/
+- https://github.com/cmderdev/cmder
 - https://github.com/microsoft/PowerToys
 - https://github.com/Awesome-Windows/Awesome
 

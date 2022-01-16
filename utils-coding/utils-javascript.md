@@ -305,9 +305,11 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/shoelace-style/shoelace
 - https://github.com/nolimits4web/atropos
 - https://github.com/atomiks/floating-ui
+- https://github.com/jeremyckahn/shifty
 - https://github.com/junhoyeo/use-color
 - https://github.com/joe223/tiny-swiper
 - https://github.com/reach/observe-rect
+- https://github.com/daybrush/selecto
 - https://github.com/Splidejs/splide
 - https://github.com/shikijs/shiki
 - https://github.com/Qix-/color
@@ -415,6 +417,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/francisrstokes/construct-js
 - https://github.com/AsyncBanana/microdiff
 - https://github.com/quicktype/quicktype
+- https://github.com/calvintwr/issable
 
 ## LIB: PDF
 - https://github.com/parallax/jsPDF

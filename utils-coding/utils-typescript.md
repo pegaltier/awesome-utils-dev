@@ -135,6 +135,7 @@
 - https://github.com/pelotom/runtypes
 - https://github.com/arcanis/typanion
 - https://github.com/tinyplex/tinybase
+- https://github.com/mistlog/typetype
 - https://github.com/stephenh/ts-proto
 - https://github.com/syntax-tree/unist
 - https://github.com/gcanti/monocle-ts
