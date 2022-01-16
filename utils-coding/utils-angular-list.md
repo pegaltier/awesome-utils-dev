@@ -2263,6 +2263,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/fkirc/attranslate
 - https://github.com/ngx-translate/core
 - https://github.com/robisim74/angular-l10n
+- https://github.com/ivanhofer/typesafe-i18n
 - https://github.com/Greentube/localize-router
 - https://github.com/martinroob/ngx-i18nsupport
 - https://github.com/gilsdav/ngx-translate-router
