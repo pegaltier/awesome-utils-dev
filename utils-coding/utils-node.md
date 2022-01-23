@@ -64,6 +64,7 @@
 - https://github.com/azz/pretty-quick
 - https://github.com/clinicjs/node-clinic
 - https://github.com/theophilusx/ssh2-sftp-client
+- https://github.com/frinyvonnick/node-html-to-image
 - https://github.com/panva/node-oidc-provider
 - https://github.com/microsoft/playwright
 - https://github.com/arcanis/clipanion

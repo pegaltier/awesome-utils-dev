@@ -301,6 +301,7 @@ forgeries in NFTs, meta data...
 - https://verisart.com
 - https://collab.land
 - https://www.nft.org
+- https://www.gem.xyz
 - https://howrare.is
 - https://oncyber.io
 - https://paribus.io
