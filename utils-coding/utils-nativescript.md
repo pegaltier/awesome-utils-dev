@@ -37,6 +37,7 @@ Publish to Google Play for beta testing or public distribution.
 
 ## LIB
 
+- https://github.com/nativescript-community/ui-material-components
 - https://github.com/NativeScript/nativescript-app-templates
 - https://github.com/nativescript-community/ui-collectionview
 - https://github.com/nstudio/nativescript-ios-portal-view

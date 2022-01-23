@@ -1167,6 +1167,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/georgebatalinski/localstatetodo
 - https://github.com/codethatstack/cqrx
 - https://github.com/NetanelBasal/akita-ng-forms-manager
+- https://github.com/nartc/nartc-workspace/tree/main/packages/ngx-bang
 - https://github.com/trungk18/jira-clone-angular
 - https://stackblitz.com/edit/rxjs-arjn1h
 - http://www.getbreezenow.com/
@@ -2088,6 +2089,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lib/multiselect
 - https://github.com/livechat/angular-livechat
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
+- https://github.com/nartc/nartc-workspace/tree/main/packages/ngx-lil-gui
 - https://github.com/bfwg/ngx-drag-scroll
 - https://github.com/tinymce/tinymce-angular
 - https://github.com/MurhafSousli/ngx-bar-rating

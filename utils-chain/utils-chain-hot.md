@@ -236,6 +236,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-gym/developer-exercises
 - https://github.com/holochain/elemental-chat
 - https://github.com/holochain/how
+- https://github.com/holochain/holochain-client-js
 - https://github.com/holochain/happ-client-call-tutorial
 - https://github.com/nphias/transactor
 - https://github.com/nphias/nPersonas

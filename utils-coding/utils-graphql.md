@@ -83,6 +83,7 @@
 - https://github.com/ef-eng/graphql-query-rewriter
 - https://github.com/kamilkisiela/graphql-inspector
 - https://github.com/rahmanfadhil/learn-typegraphql
+- https://github.com/charlypoly/graphql-to-json-schema
 - https://github.com/dotansimha/graphql-code-generator
 - https://github.com/pipedrive/graphql-schema-registry
 - https://github.com/n1ru4l/graphql-public-schema-filter
