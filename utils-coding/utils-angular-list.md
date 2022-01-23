@@ -2675,6 +2675,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack
+- https://marketplace.visualstudio.com/items?itemName=tomwhite007.rename-angular-component
 - https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector
 - https://marketplace.visualstudio.com/items?itemName=ThorstenRintelen.angular-spec-generator
 

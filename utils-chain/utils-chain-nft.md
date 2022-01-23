@@ -47,7 +47,7 @@ forgeries in NFTs, meta data...
 - https://pianity.com
 - https://www.realfevr.com
 - https://www.glorious.digital
-- https://areaxnft.com
+- https://autograph.io
 - https://candy.com
 - https://tomoe.io
 - https://sweet.io
@@ -57,6 +57,7 @@ forgeries in NFTs, meta data...
 - https://nftblackmarket.io
 - https://app.nftrade.com
 - https://stargaze.zone
+- https://tofunft.com
 - https://hodooi.com
 - https://meme.com
 
@@ -108,6 +109,7 @@ forgeries in NFTs, meta data...
 
 ## NFT TELOS
 - https://luxfi.io/home
+- https://areaxnft.com
 
 ## NFT FTM
 - https://artion.io
@@ -175,6 +177,7 @@ forgeries in NFTs, meta data...
 - https://artblocks.io
 - https://finney.world
 - https://www.heni.com
+- https://arke-art.com
 - https://nftgenius.com
 - https://volatility.art
 - https://www.nftboxes.io
@@ -362,6 +365,7 @@ forgeries in NFTs, meta data...
 - https://oncyber.io/reif
 - https://oncyber.io/goddess
 - https://oncyber.io/favorite
+- https://oncyber.io/crypto-trap-house
 
 ## NFT LINKTREE
 - https://linktr.ee/xcopy2089
@@ -399,6 +403,7 @@ forgeries in NFTs, meta data...
 - https://wax.bloks.io/account/xbequ.wam#nfts
 - https://wax.bloks.io/account/33mdq.wam#nfts
 - https://wax.bloks.io/account/composerhodl#nfts
+- https://opensea.io/Freezecorleone
 
 ## NFT TWITTER ARTISTS
 CryptoMoongirls
