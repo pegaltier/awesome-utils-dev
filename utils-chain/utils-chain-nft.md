@@ -137,6 +137,7 @@ forgeries in NFTs, meta data...
 
 ## NFT AVAX
 - https://snowflake.market
+- https://kalao.io
 
 ### NFT LUNA
 - https://terravirtua.io
