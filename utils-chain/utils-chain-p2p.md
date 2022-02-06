@@ -9,9 +9,9 @@
 
 ## OSS
 - https://github.com/amark/gun
-- https://github.com/fluencelabs/
-- https://github.com/fluencelabs/fluence-js
-- https://github.com/AgregoreWeb/agregore-browser
+- https://github.com/AgregoreWeb
+- https://github.com/fluencelabs
+- https://github.com/hyperhyperspace
 
 ## Content
 - http://blog.mauve.moe/videos/2022-02-02_01-07-36.mp4
