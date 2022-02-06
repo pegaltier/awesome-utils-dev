@@ -39,6 +39,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Neighbourhoods: https://neighbourhoods.network/
 - Humm.earth: https://humm.earth/
 - Valueflows: https://www.valueflo.ws/
+- TrustGraph: http://trustgraph.net/
 - Koru: https://koru.finance/
 - Holona: https://holona.net
 - Phax: https://phax.io/
@@ -286,10 +287,6 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://www.buyholo.net
 - https://holochaincitizen.com
 - https://www.holochain.science
-
-## ALTERNATIVE
-- https://github.com/fluencelabs/
-- https://github.com/fluencelabs/fluence-js
 
 ## UNOFFICIAL DOCS
 - https://docs.google.com/document/d/1BFWVHucWQZo9yfvmKVgEXPTq4Zn94gbKcaMiitTRDg4/edit#
