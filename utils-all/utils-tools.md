@@ -11,6 +11,7 @@
 - https://github.com/yjs/yjs
 - https://github.com/schollz/croc
 - https://github.com/nocodb/nocodb
+- https://github.com/axa-group/Parsr
 - https://github.com/notable/notable
 - https://github.com/alyssaxuu/omni
 - https://github.com/slidevjs/slidev

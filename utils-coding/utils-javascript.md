@@ -263,6 +263,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/koorchik/js-validator-livr
 - https://github.com/fingerprintjs/fingerprintjs
 - https://github.com/Unleash/unleash
+- https://github.com/kach/nearley
 
 ## LIB: PIPELINE
 - https://github.com/danger/danger-js

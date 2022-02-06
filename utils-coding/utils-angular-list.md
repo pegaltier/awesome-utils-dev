@@ -2142,6 +2142,7 @@ Analyze and optimize the performance of your app
 
 - https://github.com/HaidarZ/ng-mat-select-infinite-scroll
 - https://github.com/bithost-gmbh/ngx-mat-select-search
+- https://github.com/gmerabishvili/angular-ng-autocomplete
 - https://github.com/softsimon/angular-2-dropdown-multiselect
 - https://github.com/NileshPatel17/ng-multiselect-dropdown
 - https://github.com/mdlivingston/mat-select-filter

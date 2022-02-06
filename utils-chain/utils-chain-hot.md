@@ -221,6 +221,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/resource-bookings-module
 - https://github.com/holochain-open-dev/holochain-time-index
 - https://github.com/holochain-open-dev/file-storage-module
+- https://github.com/holochain-open-dev/holochain-client-csharp
 - https://github.com/holochain-open-dev/module-template
 - https://github.com/holochain-open-dev/profiles
 
