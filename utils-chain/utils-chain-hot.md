@@ -33,12 +33,14 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - NitroLeague: https://www.nitroleague.com/
 - Kizuna: https://kizuna.foundation/en/
 - Junto: https://www.junto.love
+- Flux: https://www.fluxsocial.io
 - IOEN: https://www.ioen.tech/
 - Internetofenergy: https://internetofenergy.network/
 - Neighbourhoods: https://neighbourhoods.network/
 - Humm.earth: https://humm.earth/
 - Valueflows: https://www.valueflo.ws/
 - Koru: https://koru.finance/
+- Holona: https://holona.net
 - Phax: https://phax.io/
 - Adappt: https://adappt.io
 - Uprtcl: https://www.uprtcl.io/

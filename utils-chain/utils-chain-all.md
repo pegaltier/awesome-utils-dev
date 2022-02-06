@@ -380,6 +380,7 @@ PANTOS — - https://pantos.io
 # VENTURE / VC / HEDGE FUND
 - http://dcg.co
 - http://lsvp.com
+- https://www.ar.ca
 - https://cluster.vc
 - http://1kx.network
 - https://cyber.fund
