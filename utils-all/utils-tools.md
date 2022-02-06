@@ -23,6 +23,7 @@
 - https://github.com/justinfrankel/licecap
 - https://github.com/obsproject/obs-studio
 - https://github.com/mattermost/focalboard
+- https://github.com/ripienaar/free-for-dev
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/johannesjo/super-productivity

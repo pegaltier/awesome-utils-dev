@@ -258,6 +258,7 @@
 - https://github.com/JustLance/react-native-iovation-deviceprint
 - https://github.com/thebylito/react-native-navigation-bar-color
 - https://github.com/conorhastings/react-native-syntax-highlighter
+- https://github.com/heineiuo/react-native-animated-linear-gradient
 - https://github.com/a7med-mahmoud/react-native-prevent-screenshots
 - https://github.com/react-native-segmented-control/segmented-control
 - https://github.com/BruceSuperProgramer/react-native-reanimated-accordion

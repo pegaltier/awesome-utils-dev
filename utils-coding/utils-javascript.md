@@ -211,7 +211,9 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/faisalman/ua-parser-js
 - https://github.com/Jimbly/timezone-mock
 - https://github.com/notifirehq/notifire
+- https://github.com/smeijer/unimported
 - https://github.com/uNmAnNeR/imaskjs
+- https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
 - https://github.com/dollarshaveclub/postmate
 - https://github.com/BuilderIO/partytown
 - https://github.com/petkaantonov/bluebird

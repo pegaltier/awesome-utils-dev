@@ -32,6 +32,7 @@
 
 ## LIB
 - https://github.com/sikanhe/gqtx
+- https://github.com/hayes/pothos
 - https://github.com/movio/bramble
 - https://github.com/imolorhe/altair
 - https://github.com/google/rejoiner

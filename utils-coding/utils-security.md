@@ -52,6 +52,7 @@
 - https://github.com/aleedhillon/7000-Google-Dork-List
 - https://github.com/correlatedsecurity/Awesome-SOAR
 - https://github.com/kaimi-io/web-fuzz-wordlists
+- https://github.com/dloss/python-pentest-tools
 - https://github.com/roya0045/Pentest-practice
 - https://github.com/onlurking/awesome-infosec
 - https://github.com/crowdsecurity/crowdsec

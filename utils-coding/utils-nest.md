@@ -36,6 +36,7 @@
 - https://github.com/nestjsx/nestjs-typeorm-paginate
 - https://github.com/MetinSeylan/Nestjs-OpenTelemetry
 - https://github.com/silicon-hills/nestjs-crud-prisma
+- https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice
 - https://github.com/jmcdo29/nest-docker-template
 - https://github.com/jmcdo29/nestjs-commander
 - https://github.com/jmcdo29/nestjs-spelunker

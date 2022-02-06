@@ -43,6 +43,7 @@
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
 - https://github.com/sindresorhus/np
+- https://github.com/alallier/reload
 - https://github.com/typicode/husky
 - https://github.com/unjs/ohmyfetch
 - https://github.com/ranyitz/newsh

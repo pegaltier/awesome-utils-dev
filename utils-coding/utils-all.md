@@ -36,6 +36,7 @@
 - https://github.com/dmitryvinn/awesome-dev-advocacy
 - https://github.com/meilisearch/awesome-meilisearch
 - https://github.com/dersvenhesse/awesome-scriptable
+- https://github.com/louelladev/Helpful-Tech-Resources
 - https://github.com/cloudcommunity/Free-Certifications
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development

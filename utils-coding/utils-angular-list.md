@@ -1211,6 +1211,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/CanopyTax/single-spa
 - https://github.com/manfredsteyer/mf-ssr
 - https://github.com/neuland/micro-frontends
+- https://github.com/Vitashev/ng-tiktok-mf-app
 - https://github.com/tieppt/nx-micro-frontends
 - https://github.com/manfredsteyer/mf-pitfalls
 - https://github.com/valorkin/ng-mf-submodules
@@ -1643,6 +1644,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/statoscope/statoscope
 - https://github.com/xlayers/version-stamp
 - https://github.com/irustm/ng-app-counter
+- https://github.com/cherryApp/ngc-esbuild
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
 - https://github.com/ngneat/inspector
@@ -1987,6 +1989,7 @@ Analyze and optimize the performance of your app
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/AlexMiniApps/angular-code-input
+- https://github.com/shipshapecode/angular-shepherd
 - https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/ivylaboratory/angular-gallery
@@ -2002,6 +2005,7 @@ Analyze and optimize the performance of your app
 - https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
+- https://github.com/joejordanbrown/popover
 - https://github.com/nbfontana/ngx-currency
 - https://github.com/Harvest-Dev/ng-select2
 - https://github.com/ivylaboratory/ivypinch
@@ -2157,6 +2161,7 @@ Analyze and optimize the performance of your app
 - https://github.com/swimlane/ngx-graph
 - https://github.com/swimlane/ngx-charts
 - https://github.com/Wykks/ngx-mapbox-gl
+- https://github.com/scttcper/ngx-chartjs
 - https://github.com/apexcharts/ng-apexcharts
 - https://github.com/valor-software/ng2-charts
 - https://github.com/highcharts/highcharts-angular
@@ -2435,6 +2440,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/tastejs/angular-movies
 - https://github.com/vthinkxie/ng-pull-refresh
+- https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/lacolaco/angular-tfjs-sandbox
@@ -2480,6 +2486,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/neekware/fullerstack
 - https://github.com/rfprod/nx-ng-starter
+- https://github.com/wlucha/angular-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/brechtbilliet/winecellar
 - https://github.com/NationalBankBelgium/stark
@@ -2510,6 +2517,8 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/alan-agius4/prune-css-poc
 - https://github.com/herodevs/material-studies
 - https://github.com/retarsis/angular-warehouse
+- https://github.com/bezael/angular-boilerplate
+- https://github.com/BioPhoton/rx-angular-wordle
 - https://github.com/Peshou/dynamic-theming-demo
 - https://github.com/ganatan/angular-example-seo
 - https://github.com/maximegris/angular-electron
@@ -2538,6 +2547,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/avatsaev/angular-contacts-app-example
 - https://github.com/laarrrx/angular-bootstrap-boilerplate
 - https://github.com/vagnersabadi/awesome-components-ionic
+- https://github.com/AntonioCardenas/AngularWeb3Boilerplate
 - https://github.com/ionicthemes/ionic5-starter-app-tutorial
 - https://github.com/frederiksen/angular-electron-boilerplate
 - https://github.com/nativescript-community/expo-nativescript
