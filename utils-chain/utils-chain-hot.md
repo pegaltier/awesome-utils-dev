@@ -45,6 +45,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Phax: https://phax.io/
 - Adappt: https://adappt.io
 - Uprtcl: https://www.uprtcl.io/
+- Ethelo: https://ethelo.com/
+- CommonsEngine: https://commonsengine.org/
 - Holosupply: https://www.holosupply.io/
 - Aeroband: https://www.aeroband.ltd/
 - Tenderbuzz: https://tender.buzz/
