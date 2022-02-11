@@ -136,6 +136,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/paulcpk/freqtrade-strategies-that-work
+- https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/cassandre-tech/cassandre-trading-bot
 - https://github.com/dk4jo3/abnormal-crypto-volume-alert
 - https://github.com/MohammedRashad/Crypto-Copy-Trader
