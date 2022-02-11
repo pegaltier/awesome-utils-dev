@@ -966,6 +966,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 - https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b#.xhk466v64
 - http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/
+- https://github.com/ellamaolson/ngMigration-Assistant
 
 ## ECOSYSTEM: AUTHENTIFICATION
 
@@ -1470,6 +1471,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/guiseek/nx-clean
 - https://github.com/Jordan-Hall/nx-tools
 - https://github.com/manfredsteyer/nx-libs
+- https://github.com/thiagobbt/nx-remotecache-s3
+- https://github.com/wvanderdeijl/nx-remotecache-gcs
 - https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
 - https://github.com/deepkit-community/nx-plugins
@@ -1639,6 +1642,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/rangle/angular-devtools
 - https://github.com/ng-easy/renovate-config
 - https://github.com/aholachek/bundle-wizard
+- https://github.com/rainerhahnekamp/sam4sc
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
 - https://github.com/statoscope/statoscope
@@ -1882,6 +1886,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/DevExpress/testcafe
 - https://github.com/nas5w/combinate
 - https://github.com/ComponentDriven/csf
+- https://github.com/nightwatchjs/nightwatch
 - https://github.com/cypress-io/cypress-xpath
 - https://github.com/briebug/cypress-schematic
 - https://github.com/microsoft/playwright-test
@@ -1996,6 +2001,7 @@ Analyze and optimize the performance of your app
 - https://github.com/adisreyaj/angular-star-rating
 - https://github.com/ivylaboratory/angular-popover
 - https://github.com/michaelbromley/ngx-pagination
+- https://github.com/kuhnroyal/mat-datetimepicker
 - https://github.com/MurhafSousli/ngx-highlightjs
 - https://github.com/isaacplmann/ngx-contextmenu
 - https://github.com/Marcelh1983/document-viewer
@@ -2234,6 +2240,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/DmitryEfimenko/ngx-messages
 - https://github.com/SanderElias/ngObservableForm
 - https://github.com/exportarts/ngx-pending-changes
+- https://github.com/rainerhahnekamp/ngx-formly-helpers
 - https://github.com/maximelafarie/angular-dynamic-forms
 - https://github.com/formql/formql/tree/master/examples
 - https://github.com/verizonconnect/ngx-form-generator
@@ -2356,6 +2363,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ng-matero/extensions
 - https://github.com/IBM/carbon-components-angular
 - https://github.com/sbb-design-systems/sbb-angular
+- https://github.com/Promact/md2
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2446,6 +2454,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/appwrite/demo-todo-with-angular
+- https://github.com/nikosanif/angular-authentication
 - https://github.com/bezkoder/angular-13-crud-example
 - https://github.com/lacolaco/angular-testing-recipes
 - https://github.com/pankajparkar/lazy-loading-recipes
@@ -2796,6 +2805,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://devchat.tv/adv-in-angular/
 - https://github.com/ngRuAir/ngruair
 - https://www.twitch.tv/brandontroberts
+- https://www.youtube.com/c/Angular/videos
+- https://blog.meetupfeed.io/2021-top-angular-meetup-videos/
+- https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw/featured
+- https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/featured
 - https://soundcloud.com/angularlicious/angular-architecture-part-2-with-lars-still-getting-rid-of-modules
 
 ## ECOSYSTEM: ARTICLES
