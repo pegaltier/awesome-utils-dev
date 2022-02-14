@@ -19,6 +19,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 - https://blog.without.hosting/posts/holochain-getting-started/
 - https://github.com/holochain-open-dev/wiki/wiki
+- https://holochain-open-dev.github.io/reusable-modules/
 - https://holochain-open-dev.github.io/blog/graphql-holochain/
 - https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/rJJbk6yoN?type=view 
 - https://humm.earth/blog/post/QmQ6LL1pKhkKrCnXr3k7Ycm8dgiZpFtqz8EWRsXc9ZQSHs
@@ -93,7 +94,82 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://awesomelists.net/67-Rust/1750-Cryptocurrencies/47261-holochain-holochain
 - https://awesomeopensource.com/project/holochain-community-resources/awesome-holochain
 
-### HOLOCHAIN-RUST GITHUB
+
+### HOLOCHAIN-RSM GITHUB (NEW)
+- https://github.com/wimpheling/holochain-getting-started-example
+- https://github.com/holochain/devhub-dnas
+- https://github.com/Holo-Host/web-sdk-ionic-demo
+- https://github.com/Sprillow/hdk_unit_testing
+- https://github.com/holochain/happ-build-tutorial
+- https://github.com/holochain-in-action/peer-share
+- https://github.com/harlantwood/hdk-explorations
+- https://github.com/lightningrodlabs/notebooks
+- https://github.com/mjbrisebois/js-holochain-client
+- https://github.com/mjbrisebois/node-holochain-backdrop
+- https://github.com/mjbrisebois/js-holo-hash
+- https://github.com/lightningrodlabs/xyzzy
+- https://github.com/lightningrodlabs/where
+- https://github.com/lightningrodlabs/who
+- https://github.com/lightningrodlabs/we
+- https://github.com/lightningrodlabs/hdk_crud
+- https://github.com/KoruProtocol/koru
+- https://github.com/holochain-engineers/team-mates
+- https://github.com/Sprillow/public-happ-challenge
+- https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
+- https://github.com/juntofoundation/Shared-Perspective-Index
+- https://github.com/holochain-devcamp/devcamp8-game-of-commons
+- https://github.com/holochain-open-dev/store-adapters
+- https://github.com/holochain-open-dev/dna-auth-resolver
+- https://github.com/holochain-open-dev/reusable-module-template
+- https://github.com/holochain-open-dev/mutual-commitments-module
+- https://github.com/holochain-open-dev/resource-bookings-module
+- https://github.com/holochain-open-dev/holochain-time-index
+- https://github.com/holochain-open-dev/file-storage-module
+- https://github.com/holochain-open-dev/holochain-client-csharp
+- https://github.com/holochain-open-dev/module-template
+- https://github.com/holochain-open-dev/profiles
+
+- https://github.com/holochain-open-dev/membrane-roles
+- https://github.com/holochain-open-dev/interzome
+- https://github.com/holochain-open-dev/common
+- https://github.com/sacredcapital/ReputationDSL
+- https://github.com/hc-institute-japan/Kizuna
+- https://github.com/hc-institute-japan/p2pmessage-zome/
+- https://github.com/holochain-playground/blockly
+- https://github.com/holochain-playground/happ
+- https://github.com/guillemcordoba/rea-inventory
+- https://github.com/guillemcordoba/notebooks
+- https://github.com/guillemcordoba/membrane-roles-module
+- https://github.com/holochain/holochain-dna-build-tutorial
+- https://github.com/holochain-gym/developer-exercises
+- https://github.com/holochain/elemental-chat
+- https://github.com/holochain/devhub-gui
+- https://github.com/holochain/how
+- https://github.com/holochain/holochain-client-js
+- https://github.com/holochain/happ-client-call-tutorial
+- https://github.com/nphias/transactor
+- https://github.com/nphias/nPersonas
+- https://github.com/Sprillow/cmdchatter
+- https://github.com/kristoferlund/hc-graphql-todo
+- https://github.com/eyss/holochain-turn-based-game
+- https://github.com/eyss/elo
+- https://github.com/juntofoundation/Acai-API
+- https://github.com/lucksus/perspectivism
+- https://github.com/perspect3vism/ad4m-executor
+- https://github.com/perspect3vism/agent-language
+- https://github.com/perspect3vism/language-persistence
+- https://github.com/juntofoundation/neighbourhood-link-vis
+- https://github.com/nphias/ng-hc-starter (angular)
+- https://github.com/eyss/elemental-chess
+- https://holochain-ci.github.io/matrix/
+- https://ad4m.dev/
+
+### HOLOCHAIN-RSM GITHUB TOOLS (NEW)
+- https://developer.holochain.org/
+- https://compository.github.io/app/
+- https://holochain-gym.github.io/
+
+### HOLOCHAIN-RUST GITHUB (OLD)
 
 - https://github.com/HC-Interns
 - https://github.com/Holo-Host
@@ -197,77 +273,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/guillemcordoba/ng-graphql-hc-starter
 - https://github.com/holo-rea/app-offers-needs-marketplace
 
-### HOLOCHAIN-RSM GITHUB
-- https://github.com/wimpheling/holochain-getting-started-example
-- https://github.com/holochain/devhub-dnas
-- https://github.com/Holo-Host/web-sdk-ionic-demo
-- https://github.com/Sprillow/hdk_unit_testing
-- https://github.com/holochain/happ-build-tutorial
-- https://github.com/holochain-in-action/peer-share
-- https://github.com/harlantwood/hdk-explorations
-- https://github.com/lightningrodlabs/notebooks
-- https://github.com/lightningrodlabs/xyzzy
-- https://github.com/lightningrodlabs/where
-- https://github.com/lightningrodlabs/who
-- https://github.com/lightningrodlabs/we
-- https://github.com/lightningrodlabs/hdk_crud
-- https://github.com/KoruProtocol/koru
-- https://github.com/holochain-engineers/team-mates
-- https://github.com/Sprillow/public-happ-challenge
-- https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
-- https://github.com/juntofoundation/Shared-Perspective-Index
-- https://github.com/holochain-devcamp/devcamp8-game-of-commons
-- https://github.com/holochain-open-dev/store-adapters
-- https://github.com/holochain-open-dev/dna-auth-resolver
-- https://github.com/holochain-open-dev/reusable-module-template
-- https://github.com/holochain-open-dev/mutual-commitments-module
-- https://github.com/holochain-open-dev/resource-bookings-module
-- https://github.com/holochain-open-dev/holochain-time-index
-- https://github.com/holochain-open-dev/file-storage-module
-- https://github.com/holochain-open-dev/holochain-client-csharp
-- https://github.com/holochain-open-dev/module-template
-- https://github.com/holochain-open-dev/profiles
-
-- https://github.com/holochain-open-dev/membrane-roles
-- https://github.com/holochain-open-dev/interzome
-- https://github.com/holochain-open-dev/common
-- https://github.com/sacredcapital/ReputationDSL
-- https://github.com/hc-institute-japan/Kizuna
-- https://github.com/hc-institute-japan/p2pmessage-zome/
-- https://github.com/holochain-playground/blockly
-- https://github.com/holochain-playground/happ
-- https://github.com/guillemcordoba/rea-inventory
-- https://github.com/guillemcordoba/notebooks
-- https://github.com/guillemcordoba/membrane-roles-module
-- https://github.com/holochain/holochain-dna-build-tutorial
-- https://github.com/holochain-gym/developer-exercises
-- https://github.com/holochain/elemental-chat
-- https://github.com/holochain/how
-- https://github.com/holochain/holochain-client-js
-- https://github.com/holochain/happ-client-call-tutorial
-- https://github.com/nphias/transactor
-- https://github.com/nphias/nPersonas
-- https://github.com/Sprillow/cmdchatter
-- https://github.com/kristoferlund/hc-graphql-todo
-- https://github.com/eyss/holochain-turn-based-game
-- https://github.com/eyss/elo
-- https://github.com/juntofoundation/Acai-API
-- https://github.com/lucksus/perspectivism
-- https://github.com/perspect3vism/ad4m-executor
-- https://github.com/perspect3vism/agent-language
-- https://github.com/perspect3vism/language-persistence
-- https://github.com/juntofoundation/neighbourhood-link-vis
-- https://github.com/nphias/ng-hc-starter (angular)
-- https://github.com/eyss/elemental-chess
-- https://holochain-ci.github.io/matrix/
-- https://ad4m.dev/
-
-### HOLOCHAIN-RSM TOOLS
-- https://developer.holochain.org/
-- https://compository.github.io/app/
-- https://holochain-gym.github.io/
-
-### HOLOCHAIN TOOLS GITHUB
+### HOLOCHAIN GITHUB TOOLS (OLD)
 
 - https://github.com/holochain/RAD-Tools-Phase-2
 - https://github.com/holochain-open-dev
