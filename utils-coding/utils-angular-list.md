@@ -1214,6 +1214,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/CanopyTax/single-spa
 - https://github.com/manfredsteyer/mf-ssr
 - https://github.com/neuland/micro-frontends
+- https://github.com/IgorMinar/stitchapp.dev
 - https://github.com/Vitashev/ng-tiktok-mf-app
 - https://github.com/tieppt/nx-micro-frontends
 - https://github.com/manfredsteyer/mf-pitfalls
@@ -2295,6 +2296,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/martinroob/ngx-i18nsupport-lib
 - https://github.com/ngx-translate/i18n-polyfill
 - https://github.com/Tuizi/i18n-split-example
+- https://github.com/lephyrus/ngx-translate-messageformat-compiler
 - https://itnext.io/lazy-load-translation-files-in-angular-using-transloco-2d3afed116ce
 - https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
 - https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
