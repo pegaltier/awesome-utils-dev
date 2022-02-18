@@ -1,5 +1,8 @@
 # GRAPHQL
 
+## ALT
+- https://github.com/deeprjs/deepr
+
 ## TOOLS
 
 - https://hasura.io

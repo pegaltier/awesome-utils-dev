@@ -113,6 +113,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Sprillow/hdk_unit_testing
 - https://github.com/Sprillow/public-happ-challenge
 - https://github.com/Connoropolous/holo-rea
+- https://github.com/Connoropolous/local-wiki
 - https://github.com/wimpheling/holochain-getting-started-example
 - https://github.com/mjbrisebois/js-holochain-client
 - https://github.com/mjbrisebois/node-holochain-backdrop

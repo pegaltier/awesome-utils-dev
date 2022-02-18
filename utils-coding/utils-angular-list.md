@@ -1223,6 +1223,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/matt-gold/single-spa-angular-cli
 - https://github.com/billyjov/microfrontend-resources
 - https://github.com/flash-me/angular-micro-frontends
+- https://github.com/manfredsteyer/mf-angular-showcase
 - https://github.com/manfredsteyer/angular-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/microfrontend-prototype
@@ -2455,7 +2456,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone
-- https://github.com/ajitsinghkaler/devto-clone
+- https://github.com/ngiakhanh96/angular-youtube
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/appwrite/demo-todo-with-angular
 - https://github.com/nikosanif/angular-authentication
