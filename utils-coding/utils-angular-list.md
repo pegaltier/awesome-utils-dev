@@ -200,6 +200,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/wesleygrimes/angular-routing-best-practices
 - https://github.com/this-is-angular/angular-guides
 - https://github.com/nirkaufman/bad-practice
+- https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
+-  https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
 
 ## HELPER: DESIGN PATTERN
 
@@ -1649,6 +1651,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/xlayers/version-stamp
 - https://github.com/irustm/ng-app-counter
 - https://github.com/cherryApp/ngc-esbuild
+- https://github.com/teambit/bit-angular
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
 - https://github.com/ngneat/inspector
@@ -2367,6 +2370,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
+- https://github.com/voznik/ngx-odm
 - https://github.com/zoomsphere/ngx-store
 - https://github.com/UlisesHllSk/ng-indexed-db
 - https://github.com/PillowPillow/ng2-webstorage
@@ -2458,6 +2462,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/angular-13-crud-example
 - https://github.com/lacolaco/angular-testing-recipes
 - https://github.com/pankajparkar/lazy-loading-recipes
+- https://github.com/rainerhahnekamp/angular-whitelabel
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
 - https://github.com/oktadev/okta-angular-dynamic-components-example

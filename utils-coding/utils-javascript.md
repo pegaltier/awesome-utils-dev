@@ -278,9 +278,12 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/sideway/joi
 - https://github.com/ianstormtaylor/superstruct
 
-## LIB: ARCHI
+## LIB: DI
+- https://github.com/ezzabuzaid/tiny-injector
 - https://github.com/mgechev/injection-js
 - https://github.com/inversify/InversifyJS
+
+## LIB: ARCHI
 - https://github.com/Livshitz/di.libx.js
 - https://github.com/microsoft/tsyringe
 - https://github.com/cleandi/cleandi

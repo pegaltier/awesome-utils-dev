@@ -96,14 +96,24 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 
 ### HOLOCHAIN-RSM GITHUB (NEW)
-- https://github.com/wimpheling/holochain-getting-started-example
-- https://github.com/holochain/devhub-dnas
 - https://github.com/Holo-Host/web-sdk-ionic-demo
-- https://github.com/Sprillow/hdk_unit_testing
+- https://github.com/holochain/hc-zome-lib
+- https://github.com/holochain/holochain-dna-build-tutorial
+- https://github.com/holochain-gym/developer-exercises
+- https://github.com/holochain/elemental-chat
+- https://github.com/holochain/devhub-gui
+- https://github.com/holochain/how
+- https://github.com/holochain/holochain-client-js
+- https://github.com/holochain/happ-client-call-tutorial
+- https://github.com/holochain/devhub-dnas
 - https://github.com/holochain/happ-build-tutorial
+- https://github.com/trustgraph/trustgraph-holochain
 - https://github.com/holochain-in-action/peer-share
 - https://github.com/harlantwood/hdk-explorations
-- https://github.com/lightningrodlabs/notebooks
+- https://github.com/Sprillow/hdk_unit_testing
+- https://github.com/Sprillow/public-happ-challenge
+- https://github.com/Connoropolous/holo-rea
+- https://github.com/wimpheling/holochain-getting-started-example
 - https://github.com/mjbrisebois/js-holochain-client
 - https://github.com/mjbrisebois/node-holochain-backdrop
 - https://github.com/mjbrisebois/js-holo-hash
@@ -111,10 +121,12 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/where
 - https://github.com/lightningrodlabs/who
 - https://github.com/lightningrodlabs/we
+- https://github.com/lightningrodlabs/rea-playspace
 - https://github.com/lightningrodlabs/hdk_crud
+- https://github.com/lightningrodlabs/notebooks
+- https://github.com/lightningrodlabs/attestations
 - https://github.com/KoruProtocol/koru
 - https://github.com/holochain-engineers/team-mates
-- https://github.com/Sprillow/public-happ-challenge
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
 - https://github.com/juntofoundation/Shared-Perspective-Index
 - https://github.com/holochain-devcamp/devcamp8-game-of-commons
@@ -123,12 +135,12 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/reusable-module-template
 - https://github.com/holochain-open-dev/mutual-commitments-module
 - https://github.com/holochain-open-dev/resource-bookings-module
+- https://github.com/holochain-open-dev/calendar-events
 - https://github.com/holochain-open-dev/holochain-time-index
 - https://github.com/holochain-open-dev/file-storage-module
 - https://github.com/holochain-open-dev/holochain-client-csharp
 - https://github.com/holochain-open-dev/module-template
 - https://github.com/holochain-open-dev/profiles
-
 - https://github.com/holochain-open-dev/membrane-roles
 - https://github.com/holochain-open-dev/interzome
 - https://github.com/holochain-open-dev/common
@@ -140,13 +152,6 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/guillemcordoba/rea-inventory
 - https://github.com/guillemcordoba/notebooks
 - https://github.com/guillemcordoba/membrane-roles-module
-- https://github.com/holochain/holochain-dna-build-tutorial
-- https://github.com/holochain-gym/developer-exercises
-- https://github.com/holochain/elemental-chat
-- https://github.com/holochain/devhub-gui
-- https://github.com/holochain/how
-- https://github.com/holochain/holochain-client-js
-- https://github.com/holochain/happ-client-call-tutorial
 - https://github.com/nphias/transactor
 - https://github.com/nphias/nPersonas
 - https://github.com/Sprillow/cmdchatter

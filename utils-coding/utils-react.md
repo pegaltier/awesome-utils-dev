@@ -126,6 +126,7 @@
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/tannerlinsley/react-location
+- https://github.com/YIZHUANG/react-multi-carousel
 - https://github.com/jamesporter/immutable-context
 - https://github.com/sylvaindubus/react-prismazoom
 - https://github.com/kettanaito/react-advanced-form
@@ -137,7 +138,6 @@
 - https://github.com/bezkoder/react-refresh-token-hooks
 - https://github.com/welldone-software/why-did-you-render
 - https://github.com/webscopeio/react-textarea-autocomplete
-
 ## LIB: UI
 
 - https://github.com/City-of-Helsinki/helsinki-design-system
