@@ -2122,7 +2122,7 @@ Analyze and optimize the performance of your app
 - https://github.com/maxandriani/ngx-google-analytics
 - https://github.com/dottedsquirrel/AngularGoogleAnalytics
 
-## ECOSYSTEM: LIB: LAYOUT
+## ECOSYSTEM: LIB: LAYOUT / GRID / TABLE
 
 - https://github.com/SheetJS/sheetjs
 - https://github.com/ag-grid/ag-grid
@@ -2135,6 +2135,7 @@ Analyze and optimize the performance of your app
 - https://github.com/sinedied/ngx-foldable
 - https://github.com/swimlane/ngx-datatable
 - https://github.com/l-lin/angular-datatables
+- https://github.com/handsontable/handsontable
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
 - https://github.com/katoid/angular-grid-layout
