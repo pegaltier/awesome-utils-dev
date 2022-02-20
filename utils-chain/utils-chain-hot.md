@@ -158,6 +158,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Sprillow/cmdchatter
 - https://github.com/kristoferlund/hc-graphql-todo
 - https://github.com/eyss/holochain-turn-based-game
+- https://github.com/eyss/elemental-go
+- https://github.com/eyss/elemental-chess
 - https://github.com/eyss/elo
 - https://github.com/juntofoundation/Acai-API
 - https://github.com/lucksus/perspectivism
@@ -165,9 +167,9 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-persistence
 - https://github.com/juntofoundation/neighbourhood-link-vis
+- https://github.com/shanedeeodonnell/co-learning
 - https://github.com/nphias/ng-hc-starter (angular)
 - https://github.com/artbrock/clutter
-- https://github.com/eyss/elemental-chess
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/
 

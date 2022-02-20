@@ -115,6 +115,9 @@
 - https://github.com/shikijs/twoslash
 - https://github.com/tldraw/tldraw
 
+## LIB: FILE
+- https://github.com/lukeed/mrmime
+
 ## LIB: COMPONENTS
 
 - https://github.com/daybrush/moveable

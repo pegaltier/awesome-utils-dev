@@ -2370,6 +2370,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/IBM/carbon-components-angular
 - https://github.com/sbb-design-systems/sbb-angular
 - https://github.com/Promact/md2
+- https://github.com/alauda/alauda-ui
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
