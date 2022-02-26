@@ -67,6 +67,7 @@
 - https://dev.to/wejdi_gh/how-java-has-advanced-in-the-past-6-years-from-java-8-to-java-15-4gj3
 
 ## LIBS: ALL
+- https://github.com/adorsys/secure-token-service
 - https://github.com/supertokens/supertokens-core
 - https://github.com/williamfiset/Algorithms
 - https://github.com/eclipse/deeplearning4j

@@ -45,6 +45,7 @@ Publish to Google Play for beta testing or public distribution.
 - https://github.com/nativescript-community/ui-mapbox
 - https://github.com/bgrand-ch/nativescript-getters
 - https://github.com/NathanaelA/nativescript-sqlite
+- https://github.com/nativescript-community/perms
 - https://github.com/klippa-app/nativescript-http
 - https://github.com/nstudio/nativescript-ui-kit
 

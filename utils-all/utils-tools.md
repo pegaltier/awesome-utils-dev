@@ -9,6 +9,7 @@
 
 ## Oss
 - https://github.com/yjs/yjs
+- https://github.com/n8n-io/n8n
 - https://github.com/schollz/croc
 - https://github.com/nocodb/nocodb
 - https://github.com/axa-group/Parsr

@@ -39,12 +39,13 @@
 - https://github.com/hoppscotch/hoppscotch
 
 ## OPENAPI
-- https://github.com/swagger-api/swagger-codegen
+- https://github.com/asyncapi/modelina
 - https://github.com/apideck-libraries/portman
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/drwpow/openapi-typescript
+- https://github.com/swagger-api/swagger-codegen
 - https://github.com/devexperts/swagger-codegen-ts
-- https://github.com/asyncapi/modelina
+- https://github.com/OpenAPITools/openapi-generator
 
 ## POSTMAN
 - https://github.com/transferwise/public-api-postman-collection
