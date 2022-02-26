@@ -75,6 +75,7 @@
 - https://github.com/verdaccio/verdaccio
 - https://github.com/mcollina/on-exit-leak-free
 - https://github.com/calipersjs/calipers
+- https://github.com/piscinajs/piscina
 - https://github.com/Unitech/pm2
 - https://github.com/cacjs/cac
 

@@ -19,6 +19,7 @@ https://jatins.gitlab.io/me/why-startup/
 
 ## Indie
 
+- https://github.com/KatherineMichel/tech-and-funding-toolkit
 - https://github.com/squareboat/growth-hacking-guide
 - https://github.com/mezod/awesome-indie
 - https://tinyacquisitions.com/

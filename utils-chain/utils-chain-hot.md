@@ -96,6 +96,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 
 ### HOLOCHAIN-RSM GITHUB (NEW)
+- https://github.com/holochain/scaffolding
 - https://github.com/Holo-Host/web-sdk-ionic-demo
 - https://github.com/holochain/hc-zome-lib
 - https://github.com/holochain/holochain-dna-build-tutorial
@@ -112,6 +113,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/harlantwood/hdk-explorations
 - https://github.com/Sprillow/hdk_unit_testing
 - https://github.com/Sprillow/public-happ-challenge
+- https://github.com/Sprillow/electron-holochain-template
 - https://github.com/Connoropolous/holo-rea
 - https://github.com/Connoropolous/local-wiki
 - https://github.com/wimpheling/holochain-getting-started-example

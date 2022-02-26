@@ -296,6 +296,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/spencermountain/spacetime
 
 ## LIB: PARSER
+- https://github.com/Essent/nativescript-xml2js
 - https://github.com/fb55/htmlparser2
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
