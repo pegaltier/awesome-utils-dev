@@ -26,6 +26,7 @@
 - https://github.com/bezkoder/spring-boot-one-to-many
 - https://github.com/RameshMF/springboot-dto-tutorial
 - https://github.com/RameshMF/Hibernate-ORM-Tutorials
+- https://github.com/bezkoder/spring-jpa-query-example
 - https://github.com/livelessons-spring/building-microservices
 - https://github.com/spring-projects-experimental/spring-native
 - https://github.com/spring-projects-experimental/spring-graphql

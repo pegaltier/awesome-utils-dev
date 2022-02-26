@@ -26,6 +26,7 @@
 - https://github.com/mattermost/focalboard
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/adisreyaj/cartella-web
+- https://github.com/writefreely/writefreely
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects

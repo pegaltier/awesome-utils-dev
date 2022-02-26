@@ -136,6 +136,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/reusable-module-template
 - https://github.com/holochain-open-dev/mutual-commitments-module
 - https://github.com/holochain-open-dev/resource-bookings-module
+- https://github.com/holochain-open-dev/resource-bookings
 - https://github.com/holochain-open-dev/calendar-events
 - https://github.com/holochain-open-dev/holochain-time-index
 - https://github.com/holochain-open-dev/file-storage-module
@@ -168,6 +169,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/language-persistence
 - https://github.com/juntofoundation/neighbourhood-link-vis
 - https://github.com/shanedeeodonnell/co-learning
+- https://github.com/harleygray/holochain-gym-links
 - https://github.com/nphias/ng-hc-starter (angular)
 - https://github.com/artbrock/clutter
 - https://holochain-ci.github.io/matrix/
