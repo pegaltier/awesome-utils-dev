@@ -73,6 +73,7 @@
 - https://github.com/jamiebuilds/itsy-bitsy-data-structures
 - https://github.com/javascript-tutorial/en.javascript.info
 - https://github.com/MostlyAdequate/mostly-adequate-guide
+- https://github.com/dwyl/Javascript-the-Good-Parts-notes
 - https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/30-seconds/30-seconds-of-interviews
 - https://github.com/nas5w/javascript-tips-and-tidbits

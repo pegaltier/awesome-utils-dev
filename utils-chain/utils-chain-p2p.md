@@ -12,6 +12,7 @@
 - https://github.com/AgregoreWeb
 - https://github.com/fluencelabs
 - https://github.com/hyperhyperspace
+- https://github.com/dyne/zenpub-client
 
 ## Content
 - http://blog.mauve.moe/videos/2022-02-02_01-07-36.mp4
