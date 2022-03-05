@@ -38,6 +38,7 @@
 - https://github.com/silicon-hills/nestjs-crud-prisma
 - https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice
 - https://github.com/jmcdo29/nest-docker-template
+- https://github.com/lonestone/nest-sdk-generator
 - https://github.com/jmcdo29/nestjs-commander
 - https://github.com/jmcdo29/nestjs-spelunker
 - https://github.com/jmcdo29/testing-nestjs

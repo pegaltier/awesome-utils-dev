@@ -120,6 +120,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/mjbrisebois/js-holochain-client
 - https://github.com/mjbrisebois/node-holochain-backdrop
 - https://github.com/mjbrisebois/js-holo-hash
+- https://github.com/mjbrisebois/rust-hc-crud-ceps
 - https://github.com/lightningrodlabs/xyzzy
 - https://github.com/lightningrodlabs/where
 - https://github.com/lightningrodlabs/who

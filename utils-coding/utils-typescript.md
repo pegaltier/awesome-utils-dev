@@ -123,6 +123,7 @@
 - https://github.com/daybrush/moveable
 
 ## LIB: FUNCTIONNAL PROGRAMMING
+- https://github.com/marpple/FxTS
 - https://github.com/gcanti/fp-ts
 - https://github.com/gigobyte/purify
 - https://github.com/gcanti/fp-ts-contrib
@@ -178,6 +179,7 @@
 ## LIB: DATABASE
 
 - https://github.com/prisma/prisma
+- https://github.com/koskimas/kysely
 - https://github.com/typeorm/typeorm
 - https://github.com/typegoose/typegoose
 - https://github.com/liberation-data/drivine

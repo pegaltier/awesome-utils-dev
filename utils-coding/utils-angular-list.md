@@ -270,6 +270,8 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/rangle/angular2-guidelines
 - https://github.com/mgechev/angular2-style-guide
 - https://github.com/sksaifuddin/angular-rxjs-tips
+- https://github.com/santoshyadavdev/angular-getting-started
+- https://github.com/codehub-learn/angular-exercises
 - https://ultimatecourses.com/blog/master-your-next-angular-job-interview-with-these-questions
 - https://blog.bitsrc.io/6-concepts-to-master-to-be-an-angular-architect-807314e31ef3
 - https://dev.to/caroso1222/what-do-you-look-for-in-a-pr-review-21gb
@@ -1211,6 +1213,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/umijs/qiankun
 - https://github.com/module-federation
 - https://github.com/worktile/ngx-planet
+- https://github.com/jherr/create-mf-app
 - https://github.com/CanopyTax/single-spa
 - https://github.com/manfredsteyer/mf-ssr
 - https://github.com/neuland/micro-frontends
@@ -1220,6 +1223,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/mf-pitfalls
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/TinkoffCreditSystems/roofer
+- https://github.com/single-spa/single-spa-angular
 - https://github.com/TinkoffCreditSystems/microzord
 - https://github.com/matt-gold/single-spa-angular-cli
 - https://github.com/billyjov/microfrontend-resources
@@ -1696,6 +1700,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/nicky-lenaers/ngx-scroll-to
 - https://github.com/meeroslav/ng-motion
 - https://github.com/vdolek/angular-resize-event
+- https://github.com/ultimatecourses/ngx-pagevisibility
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -2016,6 +2021,7 @@ Analyze and optimize the performance of your app
 - https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
+- https://github.com/KroneCorylus/ngx-colors
 - https://github.com/joejordanbrown/popover
 - https://github.com/nbfontana/ngx-currency
 - https://github.com/Harvest-Dev/ng-select2
@@ -2434,6 +2440,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/raymond-frontend/eShop
 - https://github.com/exportarts/ngx-prismic
 - https://github.com/aviabird/angularspree
+- https://github.com/sterlp/admin-template
 - https://github.com/ng-alain/ng-alain
 - https://github.com/akveo/ngx-admin
 - https://github.com/scullyio/scully
@@ -2461,6 +2468,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/ngiakhanh96/angular-youtube
+- https://github.com/wszgrcy/angular-miniprogram
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/appwrite/demo-todo-with-angular
 - https://github.com/nikosanif/angular-authentication

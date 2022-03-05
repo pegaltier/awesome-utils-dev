@@ -46,6 +46,7 @@
 - https://github.com/alexanderisora/startuptoolbox
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://github.com/quadeare/selfhosted-software-list
+- https://github.com/RunaCapital/awesome-oss-alternatives
 
 ## New
 - https://fig.io/
