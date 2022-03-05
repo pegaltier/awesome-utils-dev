@@ -28,6 +28,7 @@
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/writefreely/writefreely
+- https://github.com/hadynz/obsidian-sidekick
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects
@@ -47,6 +48,7 @@
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://github.com/quadeare/selfhosted-software-list
 - https://github.com/RunaCapital/awesome-oss-alternatives
+- https://github.com/trimstray/the-book-of-secret-knowledge
 
 ## New
 - https://fig.io/

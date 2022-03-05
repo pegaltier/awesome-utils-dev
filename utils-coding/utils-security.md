@@ -65,6 +65,7 @@
 - https://github.com/B-i-t-K/PwnFox
 - https://github.com/m4ll0k/Atlas
 - https://github.com/OWASP/Amass
+- https://github.com/s0md3v/uro
 - https://github.com/f13end
 
 

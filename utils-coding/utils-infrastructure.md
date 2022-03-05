@@ -97,6 +97,7 @@
 - https://github.com/keel-hq/keel
 - https://github.com/lensapp/lens
 - https://github.com/kedacore/keda
+- https://github.com/ahmetb/kubectx
 - https://github.com/k0sproject/k0s
 - https://github.com/pixie-io/pixie
 - https://github.com/ubuntu/microk8s
@@ -109,6 +110,7 @@
 - https://github.com/armosec/kubescape
 - https://github.com/yogeshkk/K8sPurger
 - https://github.com/kubernetes/minikube
+- https://github.com/kubernetes-sigs/krew
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard
