@@ -244,6 +244,7 @@ Learn about the most useful design patterns in Angular.
 - https://dev.to/carlillo/understanding-design-patterns-factory-method-52fc
 - https://github.com/Humberd/command-pattern-in-angular
 - https://github.com/nirkaufman/patterns-starters
+- https://github.com/torokmark/design_patterns_in_typescript
 - https://github.com/Itchimonji/design-patterns-in-angular
 - https://github.com/Itchimonji/refactoring-switch-statements-in-angular
 
