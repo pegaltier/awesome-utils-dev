@@ -1212,6 +1212,9 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/phodal/mooa
 - https://github.com/smapiot/piral
 - https://github.com/umijs/qiankun
+- https://github.com/namecheap/ilc
+- https://github.com/StyleT/tailorx
+- https://github.com/greenpress/microf
 - https://github.com/module-federation
 - https://github.com/worktile/ngx-planet
 - https://github.com/jherr/create-mf-app

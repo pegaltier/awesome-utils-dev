@@ -48,6 +48,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Uprtcl: https://www.uprtcl.io/
 - Ethelo: https://ethelo.com/
 - CommonsEngine: https://commonsengine.org/
+- CryptoCommons: https://cryptocommons.camp/
 - Holosupply: https://www.holosupply.io/
 - Aeroband: https://www.aeroband.ltd/
 - Tenderbuzz: https://tender.buzz/
@@ -82,6 +83,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Our-Credits: https://our-credit.org/
 - Harris-Braun: https://www.harris-braun.com/
 - Terran Collective: https://www.terran.io/
+- FutureScouts: https://futurescouts.cc/
 
 ## GITHUB HAPPS
 
@@ -169,6 +171,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/eyss/elo
 - https://github.com/juntofoundation/Acai-API
 - https://github.com/lucksus/perspectivism
+- https://github.com/perspect3vism/signing-service
 - https://github.com/perspect3vism/ad4m-executor
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-persistence

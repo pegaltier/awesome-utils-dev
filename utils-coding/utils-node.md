@@ -34,6 +34,7 @@
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/localtunnel/localtunnel
 - https://github.com/sindresorhus/fkill-cli
+- https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/styfle/packagephobia
