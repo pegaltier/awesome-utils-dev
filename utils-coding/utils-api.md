@@ -46,6 +46,7 @@
 - https://github.com/swagger-api/swagger-codegen
 - https://github.com/devexperts/swagger-codegen-ts
 - https://github.com/OpenAPITools/openapi-generator
+- https://github.com/OpenAPITools/openapi-generator-cli
 
 ## POSTMAN
 - https://github.com/transferwise/public-api-postman-collection

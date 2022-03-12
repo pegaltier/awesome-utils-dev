@@ -288,6 +288,7 @@ Learn about the most useful design patterns in Angular.
 - https://stackblitz.com
 - https://codesandbox.io/
 - https://github.com/conwnet/github1s
+- https://github.com/google/playground-elements
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material
 
@@ -1197,6 +1198,7 @@ Discover alternative to ngrx for the state management of your objects.
 
 - https://webcomponents.dev/
 - https://open-wc.org/publishing/
+- https://github.com/pregular/core
 - https://github.com/open-wc/open-wc
 - https://github.com/BuilderIO/jsx-lite
 - https://custom-elements-everywhere.com/
@@ -1237,9 +1239,10 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/manfredsteyer/nx-and-module-federation
-- https://github.com/manfredsteyer/multi-framework-micro-frontend
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/manfredsteyer/module-federation-with-angular
+- https://github.com/manfredsteyer/multi-framework-micro-frontend
+- https://github.com/module-federation/automatic-vendor-federation
 - https://github.com/manfredsteyer/module-federation-plugin-example
 - https://github.com/manfredsteyer/module-federation-plugin-example-nx
 - https://github.com/TinkoffCreditSystems/shared-library-webpack-plugin
@@ -2765,6 +2768,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
 - https://github.com/nwinkler/atom-keyboard-shortcuts ATOM shortcut
 - https://github.com/johnpapa/vscode-angular2-snippets
+- https://github.com/antfu/vscode-file-nesting-config
 - https://github.com/evanplaice/angular2-snippets
 
 ## ECOSYSTEM: AWESOME

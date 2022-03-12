@@ -72,8 +72,10 @@
 - https://github.com/gatsbyjs/gatsby
 - https://github.com/blitz-js/blitz
 
-## LIBS
+## LIB: TOOLING
+- https://github.com/yannickcr/eslint-plugin-react
 
+## LIB: ALL
 - https://github.com/uber/baseweb
 - https://github.com/Hotell/rea-di
 - https://github.com/pmndrs/valtio
@@ -175,7 +177,6 @@
 - https://github.com/sudheerj/reactjs-interview-questions
 
 ## NEXT
-
 - https://github.com/belgattitude/nextjs-monorepo-example
 - https://github.com/application-research/next-bucket
 - https://github.com/ixartz/Next-js-Blog-Boilerplate
@@ -189,6 +190,7 @@
 - https://github.com/graphlatte/graphlatte
 - https://github.com/ScriptedAlchemy/DLAYS
 - https://github.com/egoist/next-connect
+- https://github.com/amiroff/NextBook
 - https://github.com/maticzav/nookies
 - https://github.com/shuding/nextra
 - https://github.com/alii/nextkit
