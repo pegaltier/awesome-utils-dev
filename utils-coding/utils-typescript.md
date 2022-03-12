@@ -18,6 +18,7 @@
 - https://github.com/enricopolanski/functional-programming
 - https://kentcdodds.com/blog/typescript-function-syntaxes
 - https://github.com/ghoullier/awesome-template-literal-types
+- https://github.com/typescript-exercises/typescript-exercises
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
 ## TOOLS

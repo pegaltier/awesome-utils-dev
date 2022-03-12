@@ -2124,9 +2124,10 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/ngneat/dag
 
-## ECOSYSTEM: LIB: MARKETING
+## ECOSYSTEM: LIB: MARKETING / TRACKING
 
 - https://github.com/scttcper/ng2-adsense
+- https://github.com/EmmanuelRoux/ngx-matomo
 - https://github.com/codediodeio/angular-gtag
 - https://github.com/angulartics/angulartics2
 - https://github.com/maxandriani/ngx-google-analytics
@@ -2468,6 +2469,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/tastejs/angular-movies
+- https://github.com/brandonroberts/ng-vite
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone

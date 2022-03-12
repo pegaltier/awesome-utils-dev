@@ -178,6 +178,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/juntofoundation/neighbourhood-link-vis
 - https://github.com/shanedeeodonnell/co-learning
 - https://github.com/harleygray/holochain-gym-links
+- https://github.com/harleygray/holochain-gym-anchors
 - https://github.com/harleygray/holochain-ui
 - https://github.com/nphias/ng-hc-starter (angular)
 - https://github.com/artbrock/clutter
