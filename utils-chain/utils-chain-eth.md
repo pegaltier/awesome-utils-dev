@@ -28,6 +28,7 @@
 - https://github.com/ethereumjs/ethereumjs-monorepo
 - https://github.com/eSwapping/ESWAP-Limit-Order-Bot
 - https://github.com/cawfree/create-react-native-dapp
+- https://github.com/drinkius/awesome-solidity-deployments
 - https://github.com/Anish-Agnihotri/merkle-airdrop-starter
 - https://github.com/dabit3/polygon-ethereum-nextjs-marketplace
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py

@@ -124,6 +124,7 @@
 - https://github.com/daybrush/moveable
 
 ## LIB: FUNCTIONNAL PROGRAMMING
+- https://github.com/mobily/ts-belt
 - https://github.com/marpple/FxTS
 - https://github.com/gcanti/fp-ts
 - https://github.com/gigobyte/purify

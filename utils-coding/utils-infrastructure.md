@@ -43,6 +43,7 @@
 - https://github.com/kruize/kruize
 - https://github.com/pulumi/pulumi
 - https://github.com/SigNoz/signoz
+- https://github.com/rapiz1/rathole
 - https://github.com/buildpacks/pack
 - https://github.com/tooljet/tooljet
 - https://github.com/grafana/grafana

@@ -67,7 +67,6 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Promether: https://promether.com
 - S7 Foundation/Noomap/Holoweb: http://noomap.info
 - Holoweb: https://www.youtube.com/watch?v=y2zDSmq60zE
-- Holo-health: https://github.com/evomimic/holo-health 
 - Comet: https://github.com/MightyAlex200/Comet
 - CoGov: http://cogov.startbutton.com/
 - Omniapp: https://ipfs.eternum.io/ipns/omniapp.org/
@@ -257,6 +256,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-devcamp/learning-pathways
 - https://github.com/HedayatAbedijoo/holochain_art_game
 - https://github.com/HedayatAbedijoo/holocontract
+- https://github.com/evomimic/holo-health
 - https://github.com/freesig/cc_tuts
 - https://github.com/eyss/h-wiki-back
 - https://github.com/eyss/h-wiki-front

@@ -1114,6 +1114,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/ngfelixl/ngrx-component-store-testing
 - https://github.com/tomwhite007/ngrx-component-store-experiment
 - https://github.com/brandonroberts/ngrx-store-component-store
+- https://github.com/eneajaho/component-store-crud
 - https://stackblitz.com/edit/heroes-component-store
 - https://stackblitz.com/edit/github-component-store-demo
 - https://stackblitz.com/edit/angular-ivy-hdkz19
@@ -1152,6 +1153,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/mattpocock/xstate-catalogue
 - https://github.com/markostanimirovic/juliette
 - https://github.com/AmadeusITGroup/ngx-tansu
+- https://github.com/eneajaho/observable-store
 - https://github.com/ZackDeRose/derxjs
 - https://github.com/state-adapt/state-adapt
 - https://github.com/ngxs-labs/data
@@ -1473,6 +1475,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/billyjov/awesome-nx
 - https://github.com/trumbitta/nx-trumbitta
 - https://github.com/jscutlery/nx-completion
 - https://github.com/nrwl/nx-examples
@@ -1664,12 +1667,14 @@ Learn the best way to make your objects immutable.
 - https://github.com/xlayers/version-stamp
 - https://github.com/irustm/ng-app-counter
 - https://github.com/cherryApp/ngc-esbuild
+- https://github.com/MurhafSousli/metabook
 - https://github.com/teambit/bit-angular
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
 - https://github.com/ngneat/inspector
 - https://github.com/swimlane/DocSPA
 - https://github.com/docgeni/docgeni
+- https://github.com/urish/ng-lift
 - https://github.com/mgechev/ngrev
 - https://github.com/compodoc/ngd
 - https://github.com/ng-ast/ngast
@@ -2057,6 +2062,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ng2-ui/auto-complete
 - https://github.com/ngneat/edit-in-place
 - https://github.com/cipchk/ngx-filesaver
+- https://github.com/jfcere/ngx-markdown
 - https://github.com/nolimits4web/swiper
 - https://github.com/oferh/ng2-completer
 - https://github.com/ng-select/ng-select
@@ -2494,6 +2500,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/fulls1z3/universal
 - https://github.com/nxpm/nxpm-universal
+- https://github.com/eneajaho/angular-isr
 - https://github.com/enten/angular-universal
 - https://github.com/TrilonIO/universal-nest
 - https://github.com/brandonroberts/nx-ng-ssr
@@ -2519,6 +2526,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/samvloeberghs/ng-v9-localized-scullyio
 - https://github.com/this-is-learning/this-is-learning-website
 
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: INSTALL
+- https://github.com/maximegris/angular-tauri
+
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FULL
 
 - https://github.com/neekware/fullerstack
@@ -2533,7 +2543,6 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/spring-boot-angular-11-mysql
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SPA
-
 - https://github.com/mraible/ng-demo
 - https://github.com/beeman/panng-stack
 - https://github.com/ionic-team/ionifits
@@ -2545,11 +2554,13 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/gothinkster/realworld
 - https://github.com/orizens/echoes-player
 - https://github.com/bbaia/gdgtoulouse-ngrx
+- https://github.com/eneajaho/dating-client
 - https://github.com/huajian123/ng-ant-admin
 - https://angular.io/guide/example-apps-list  
 - https://github.com/intershop/intershop-pwa
 - https://github.com/trungk18/angular-spotify
 - https://github.com/waynegakuo/resumebuilder
+- https://github.com/ganatan/angular-prototype
 - https://github.com/MSakamaki/multiple-stores
 - https://github.com/alan-agius4/prune-css-poc
 - https://github.com/herodevs/material-studies
@@ -2566,6 +2577,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/waynegakuo/angular-dashboard
 - https://github.com/LayZeeDK/ngx-stryker-robobar
 - https://github.com/ikismail/Angular-ShoppingCart
+- https://github.com/eneajaho/point-of-sale-angular
 - https://github.com/twerske/material-theme-builder
 - https://github.com/thenaim/ionic-tk-social-network
 - https://github.com/HybridShivam/pokedex-angular-app

@@ -354,6 +354,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/ueberdosis/tiptap
+- https://github.com/jcubic/sysend.js
 - https://github.com/xtermjs/xterm.js
 - https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
@@ -380,6 +381,9 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
 - https://github.com/fast-average-color/fast-average-color
+
+## LIB: MATH
+- https://github.com/MikeMcl/bignumber.js
 
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus
