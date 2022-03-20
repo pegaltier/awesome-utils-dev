@@ -38,6 +38,7 @@ low-code tooling to prototype fastly.
 - https://github.com/nocodb/nocodb
 - https://github.com/google/blockly
 - https://github.com/BuilderIO/qwik
+- https://github.com/ToolJet/ToolJet
 - https://github.com/xlayers/xlayers
 - https://github.com/processing/p5.js
 - https://github.com/BuilderIO/mitosis
