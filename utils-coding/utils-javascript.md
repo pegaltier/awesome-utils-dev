@@ -85,6 +85,7 @@
 - https://github.com/mgechev/javascript-algorithms
 - https://github.com/getify/Functional-Light-JS
 - https://github.com/leonardomso/33-js-concepts
+- https://github.com/deepa314/JAVASCRIPT_NOTES
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/twhite96/js-dev-reads
 - https://github.com/serhiisol/awesome-js

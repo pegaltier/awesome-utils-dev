@@ -1475,6 +1475,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/IKatsuba/runx
 - https://github.com/billyjov/awesome-nx
 - https://github.com/trumbitta/nx-trumbitta
 - https://github.com/jscutlery/nx-completion
@@ -1583,6 +1584,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/nxpm/nxpm-universal
 - https://github.com/avivharuzi/ngx-seo
 - https://github.com/nimesko/ngx-seo-page
+- https://github.com/eneajaho/ngx-isr
 - https://npm.io/search/keyword:angular+universal
 
 ## ECOSYSTEM: LIB: IMMUTABLE

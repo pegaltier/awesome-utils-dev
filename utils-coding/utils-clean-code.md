@@ -26,6 +26,7 @@ if/switch -> polymorphisme
 
 ## CHECK
 - https://github.com/returntocorp/semgrep
+- https://github.com/JuanCrg90/Clean-Code-Notes
 - https://github.com/kettanaito/naming-cheatsheet
 - https://github.com/kriasoft/Folder-Structure-Conventions
 

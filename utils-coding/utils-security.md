@@ -5,6 +5,7 @@
 
 - https://websecurity-academy.com/
 - https://github.com/danielmiessler/SecLists
+- https://github.com/0x4D31/awesome-threat-detection
 - https://github.com/Lissy93/personal-security-checklist
 - https://github.com/tadwhitaker/Security_Engineer_Interview_Questions
 

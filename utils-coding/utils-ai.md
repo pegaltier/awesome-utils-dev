@@ -48,6 +48,7 @@
 
 - https://github.com/huggingface/datasets
 - https://github.com/elyase/awesome-gpt3
+- https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 ### CODING
 

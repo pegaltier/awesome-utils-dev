@@ -13,6 +13,7 @@
 - https://github.com/fluencelabs
 - https://github.com/hyperhyperspace
 - https://github.com/dyne/zenpub-client
+- https://github.com/hyperswarm/dht-relay
 - https://github.com/ChainSafe/js-libp2p-gossipsub
 
 ## Content
