@@ -104,6 +104,7 @@
 - https://github.com/ubuntu/microk8s
 - https://github.com/mkimuram/k8sviz
 - https://github.com/Portshift/kubei
+- https://github.com/cilium/hubble-ui
 - https://github.com/loft-sh/jspolicy
 - https://github.com/hobby-kube/guide
 - https://github.com/godaddy/terminus

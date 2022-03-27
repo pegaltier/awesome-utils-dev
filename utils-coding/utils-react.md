@@ -96,6 +96,7 @@
 - https://github.com/reactjs/react-tabs
 - https://github.com/BuilderIO/jsx-lite
 - https://github.com/tajo/react-movable
+- https://github.com/rpearce/image-zoom
 - https://github.com/kitze/react-hanger
 - https://github.com/everweij/react-laag
 - https://github.com/mbrn/material-table

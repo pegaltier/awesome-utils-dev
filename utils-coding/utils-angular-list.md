@@ -2019,6 +2019,7 @@ Analyze and optimize the performance of your app
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
+- https://github.com/Developer-Plexscape/ngx-grapesjs
 - https://github.com/AlexMiniApps/angular-code-input
 - https://github.com/shipshapecode/angular-shepherd
 - https://github.com/webcat12345/ngx-intl-tel-input
@@ -2776,6 +2777,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
 - https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
 - https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2
+- https://marketplace.visualstudio.com/items?itemName=antfu.smart-clicks
 - https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools
 - https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter
 - https://marketplace.visualstudio.com/items?itemName=justjavac.teletype
