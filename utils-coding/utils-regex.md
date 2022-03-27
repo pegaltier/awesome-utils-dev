@@ -10,6 +10,7 @@
 
 ## Oss
 - https://github.com/Bowen7/regex-vis
+- https://github.com/francisrstokes/super-expressive
 
 ## Example
 

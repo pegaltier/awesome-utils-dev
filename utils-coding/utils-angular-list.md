@@ -1792,6 +1792,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/from-event
 - https://github.com/danrevah/ngx-pipes
 - https://github.com/arkon/ng-inline-svg
+- https://github.com/dstelljes/luxon-angular
 - https://github.com/adisreyaj/ng-directives
 - https://github.com/joanllenas/ngx-date-fns
 - https://github.com/ngneat/copy-to-clipboard

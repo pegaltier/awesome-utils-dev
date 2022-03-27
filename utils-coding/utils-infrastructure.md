@@ -23,6 +23,7 @@
 - https://sshreach.me/
 - https://k0sproject.io/
 - https://crontab.guru/
+- https://dockersl.im/
 - https://cronitor.io/index
 - https://certbot.eff.org/
 - https://buildpacks.io/
@@ -147,6 +148,7 @@
 - https://github.com/croqaz/browsers
 - https://github.com/containerd/nerdctl
 - https://github.com/ameerthehacker/envase
+- https://github.com/docker-slim/docker-slim
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/leighmcculloch/dockerhost
 - https://github.com/tomMoulard/make-my-server

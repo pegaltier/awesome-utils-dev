@@ -167,6 +167,7 @@ forgeries in NFTs, meta data...
 - https://magiceden.io
 - https://exchange.art
 - https://artrade.app
+- https://www.holaplex.com
 
 ## NFT ALGO
 - https://dartroom.xyz
@@ -346,6 +347,7 @@ forgeries in NFTs, meta data...
 - https://github.com/jamesporter/solandra
 - https://github.com/Flawm/solana_minter
 - https://github.com/21e8/sol-nft-tools
+- https://github.com/holaplex/holaplex
 - https://github.com/yusefnapora/minty
 - https://github.com/NFT-Standards-WG
 - https://github.com/memo/eco-nft
