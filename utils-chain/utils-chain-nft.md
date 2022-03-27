@@ -47,6 +47,7 @@ forgeries in NFTs, meta data...
 - https://pianity.com
 - https://www.realfevr.com
 - https://www.glorious.digital
+- https://bandroyalty.com
 - https://autograph.io
 - https://candy.com
 - https://tomoe.io
