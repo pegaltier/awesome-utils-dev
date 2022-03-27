@@ -2011,12 +2011,62 @@ Analyze and optimize the performance of your app
 - https://github.com/webpack-contrib/webpack-bundle-analyzer
 - https://github.com/stephencookdev/speed-measure-webpack-plugin
 
-## ECOSYSTEM: LIB: COMPONENTS
+## ECOSYSTEM: LIB: MARKETING / TRACKING
+
+- https://github.com/scttcper/ng2-adsense
+- https://github.com/EmmanuelRoux/ngx-matomo
+- https://github.com/codediodeio/angular-gtag
+- https://github.com/angulartics/angulartics2
+- https://github.com/maxandriani/ngx-google-analytics
+- https://github.com/dottedsquirrel/AngularGoogleAnalytics
+
+## ECOSYSTEM: LIB: DEBUG
+
+- https://github.com/getsentry/sentry
+- https://github.com/rollbar/rollbar.js
+- https://github.com/LogRocket/logrocket
+- https://github.com/dbfannin/ngx-logger
+- https://github.com/ngworker/lumberjack
+- https://github.com/hyperjumptech/monika
+- https://github.com/tgure/ngx-loggly-logger
+- https://github.com/Angular-RU/angular-logger
+- https://github.com/chigix/linked-data-graphic
+- https://github.com/ngdevelop-tech/ngx-fancy-logger
+- https://github.com/TinkoffCreditSystems/micro-sentry
+- https://github.com/aackerman/circular-dependency-plugin
+
+## ECOSYSTEM: LIB: INTERNATIONALIZATION
+
+- https://angular.io/cli/xi18n
+- https://github.com/loclapp/locl
+- https://github.com/vendasta/weblate
+- https://github.com/i18next/i18next
+- https://github.com/e-square-io/bdir
+- https://github.com/ngneat/transloco
+- https://github.com/fkirc/attranslate
+- https://github.com/ngx-translate/core
+- https://github.com/robisim74/angular-l10n
+- https://github.com/ivanhofer/typesafe-i18n
+- https://github.com/Greentube/localize-router
+- https://github.com/martinroob/ngx-i18nsupport
+- https://github.com/gilsdav/ngx-translate-router
+- https://github.com/jgpacheco/ngx-translate-cache
+- https://github.com/ngneat/transloco-keys-manager
+- https://github.com/biesbjerg/ngx-translate-extract
+- https://github.com/martinroob/ngx-i18nsupport-lib
+- https://github.com/ngx-translate/i18n-polyfill
+- https://github.com/Tuizi/i18n-split-example
+- https://github.com/lephyrus/ngx-translate-messageformat-compiler
+- https://itnext.io/lazy-load-translation-files-in-angular-using-transloco-2d3afed116ce
+- https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
+- https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
+- https://medium.com/@TuiZ/how-to-split-your-i18n-file-per-lazy-loaded-module-with-ngx-translate-3caef57a738f
+
+## ECOSYSTEM: LIB: COMPONENT: ALL
 
 - https://github.com/angular-material-extensions/password-strength
 - https://github.com/d-koppenhagen/angular-tag-cloud-module
 - https://github.com/fetrarij/ngx-daterangepicker-material
-- https://github.com/maxisam/ngx-progressive-image-loader
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
@@ -2093,7 +2143,6 @@ Analyze and optimize the performance of your app
 - https://github.com/text-mask/text-mask
 - https://github.com/KillerCodeMonkey/ngx-quill
 - https://github.com/ayush013/ngx-quill-upload
-- https://github.com/georgipeltekov/ngx-file-drop
 - https://github.com/vadimdez/ng2-pdf-viewer/
 - https://github.com/osahner/ngx-show-hide-password
 - https://github.com/lon-yang/ngx-markdown-editor
@@ -2120,7 +2169,6 @@ Analyze and optimize the performance of your app
 - https://github.com/stevermeister/ngx-wig
 - https://github.com/sibiraj-s/ngx-editor
 - https://github.com/udayvunnam/xng-breadcrumb
-- https://github.com/bootsoon/ng-circle-progress
 - https://github.com/scttcper/ngx-emoji-mart
 - https://github.com/DethAriel/ng-recaptcha
 - https://github.com/scttcper/ngx-toastr
@@ -2139,16 +2187,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/ngneat/dag
 
-## ECOSYSTEM: LIB: MARKETING / TRACKING
-
-- https://github.com/scttcper/ng2-adsense
-- https://github.com/EmmanuelRoux/ngx-matomo
-- https://github.com/codediodeio/angular-gtag
-- https://github.com/angulartics/angulartics2
-- https://github.com/maxandriani/ngx-google-analytics
-- https://github.com/dottedsquirrel/AngularGoogleAnalytics
-
-## ECOSYSTEM: LIB: LAYOUT / GRID / TABLE
+## ECOSYSTEM: LIB: COMPONENT: LAYOUT / GRID / TABLE
 
 - https://github.com/SheetJS/sheetjs
 - https://github.com/ag-grid/ag-grid
@@ -2172,12 +2211,12 @@ Analyze and optimize the performance of your app
 - https://github.com/marinantonio/angular-mat-table-crud
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
-## ECOSYSTEM: LIB: SCROLL
+## ECOSYSTEM: LIB: COMPONENT: SCROLL
 
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/orizens/ngx-infinite-scroll
 
-## ECOSYSTEM: LIB: SELECT
+## ECOSYSTEM: LIB: COMPONENT: SELECT
 
 - https://github.com/HaidarZ/ng-mat-select-infinite-scroll
 - https://github.com/bithost-gmbh/ngx-mat-select-search
@@ -2187,15 +2226,16 @@ Analyze and optimize the performance of your app
 - https://github.com/mdlivingston/mat-select-filter
 - https://github.com/ngx-lib/multiselect
 
-## ECOSYSTEM: LIB: UPLOAD
+## ECOSYSTEM: LIB: COMPONENT: UPLOAD
 
 - https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
+- https://github.com/georgipeltekov/ngx-file-drop
 - https://github.com/peterfreeman/ngx-dropzone
 - https://github.com/ribizli/ng2-imageupload
 - https://github.com/jkuri/ng2-uploader
 - https://github.com/flowjs/ngx-flow
 
-## ECOSYSTEM: LIB: DATA VIZ
+## ECOSYSTEM: LIB: COMPONENT: DATA VIZ
 
 - https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
@@ -2207,23 +2247,7 @@ Analyze and optimize the performance of your app
 - https://github.com/highcharts/highcharts-angular
 - https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
 
-## ECOSYSTEM: LIB: DEBUG
-
-- https://github.com/getsentry/sentry
-- https://github.com/rollbar/rollbar.js
-- https://github.com/LogRocket/logrocket
-- https://github.com/dbfannin/ngx-logger
-- https://github.com/ngworker/lumberjack
-- https://github.com/hyperjumptech/monika
-- https://github.com/tgure/ngx-loggly-logger
-- https://github.com/Angular-RU/angular-logger
-- https://github.com/chigix/linked-data-graphic
-- https://github.com/ngdevelop-tech/ngx-fancy-logger
-- https://github.com/TinkoffCreditSystems/micro-sentry
-- https://github.com/aackerman/circular-dependency-plugin
-
-
-## ECOSYSTEM: LIB: MODAL
+## ECOSYSTEM: LIB: COMPONENT: MODAL
 
 - https://github.com/ngneat/dialog
 - https://github.com/ncstate-sat/popover
@@ -2236,7 +2260,7 @@ Analyze and optimize the performance of your app
 - https://matthewross.me/blog/posts/minimal-angular-2-modal
 - https://malcoded.com/posts/angular-dynamic-components/
 
-## ECOSYSTEM: LIB: LOADER
+## ECOSYSTEM: LIB: COMPONENT: LOADER
 
 Add a progressbar for displaying a loader during the different async task like http requests...
 
@@ -2248,6 +2272,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/pjlamb12/angular-loaders
 - https://github.com/biig-io/ngx-smart-loader
 - https://github.com/aitboudad/ngx-loading-bar
+- https://github.com/bootsoon/ng-circle-progress
 - https://github.com/akserg/ng2-slim-loading-bar
 - https://github.com/JsDaddy/ngx-loader-indicator
 - https://github.com/MurhafSousli/ngx-progressbar
@@ -2255,8 +2280,9 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Gbuomprisco/ngx-content-loading
 - https://github.com/adisreyaj/angular-shimmer-effect
 - https://github.com/willmendesneto/ngx-skeleton-loader
+- https://github.com/maxisam/ngx-progressive-image-loader
 
-## ECOSYSTEM: LIB: FORM
+## ECOSYSTEM: LIB: COMPONENT: FORM
 
 - https://github.com/rxweb/rxweb
 - https://github.com/ngx-meta/rules
@@ -2297,40 +2323,13 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://bit.dev/kevinrodbe/utils/helpers/angular/~code#frm-validators.ts
 - https://stackblitz.com/@formqlx
 
-## ECOSYSTEM: LIB: CDK MATERIAL
+## ECOSYSTEM: LIB: COMPONENT: CDK MATERIAL
 
 - https://material.angular.io/cdk/a11y/overview
 - https://alligator.io/angular/infinite-scroll
 - https://alligator.io/angular/custom-svg-icons-angular-material
 
-## ECOSYSTEM: LIB: INTERNATIONALIZATION
-
-- https://angular.io/cli/xi18n
-- https://github.com/loclapp/locl
-- https://github.com/vendasta/weblate
-- https://github.com/i18next/i18next
-- https://github.com/e-square-io/bdir
-- https://github.com/ngneat/transloco
-- https://github.com/fkirc/attranslate
-- https://github.com/ngx-translate/core
-- https://github.com/robisim74/angular-l10n
-- https://github.com/ivanhofer/typesafe-i18n
-- https://github.com/Greentube/localize-router
-- https://github.com/martinroob/ngx-i18nsupport
-- https://github.com/gilsdav/ngx-translate-router
-- https://github.com/jgpacheco/ngx-translate-cache
-- https://github.com/ngneat/transloco-keys-manager
-- https://github.com/biesbjerg/ngx-translate-extract
-- https://github.com/martinroob/ngx-i18nsupport-lib
-- https://github.com/ngx-translate/i18n-polyfill
-- https://github.com/Tuizi/i18n-split-example
-- https://github.com/lephyrus/ngx-translate-messageformat-compiler
-- https://itnext.io/lazy-load-translation-files-in-angular-using-transloco-2d3afed116ce
-- https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
-- https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
-- https://medium.com/@TuiZ/how-to-split-your-i18n-file-per-lazy-loaded-module-with-ngx-translate-3caef57a738f
-
-## ECOSYSTEM: LIB: MEDIA
+## ECOSYSTEM: LIB: COMPONENT: MEDIA
 
 - https://github.com/FortAwesome/angular-fontawesome
 - https://github.com/chrisguttandin/angular-audio-context
