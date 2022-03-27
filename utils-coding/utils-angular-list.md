@@ -1238,6 +1238,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/mf-angular-showcase
 - https://github.com/manfredsteyer/angular-microfrontend
+- https://github.com/billyjov/angular-react-microfrontend
 - https://github.com/manfredsteyer/module-federation-light
 - https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/manfredsteyer/nx-and-module-federation
@@ -2157,6 +2158,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/sinedied/ngx-foldable
 - https://github.com/swimlane/ngx-datatable
+- https://github.com/naver/egjs-infinitegrid
 - https://github.com/l-lin/angular-datatables
 - https://github.com/handsontable/handsontable
 - https://github.com/SortableJS/ngx-sortablejs
@@ -2515,6 +2517,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/angular-schule/demo-ssr-playground
 - https://github.com/TrilonIO/angular-universal-tutorial
 - https://github.com/mehrad-rafigh/nx-angular-universal
+- https://github.com/rainerhahnekamp/angular-ssr-assets-folder-httpclient
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SCULLY
 

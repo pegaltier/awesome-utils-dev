@@ -189,6 +189,7 @@
 - https://github.com/RevereCRE/relay-nextjs
 - https://github.com/graphlatte/graphlatte
 - https://github.com/ScriptedAlchemy/DLAYS
+- https://github.com/leerob/on-demand-isr
 - https://github.com/egoist/next-connect
 - https://github.com/amiroff/NextBook
 - https://github.com/maticzav/nookies
@@ -246,6 +247,7 @@
 - https://github.com/shirakaba/react-native-native-runtime
 - https://github.com/calintamas/react-native-toast-message
 - https://github.com/peggyrayzis/react-native-create-bridge
+- https://github.com/alantoa/react-native-reanimated-player
 - https://github.com/NataliaLinnik/react-native-nested-list
 - https://github.com/Flair-Dev/react-native-awesome-gallery
 - https://github.com/dohooo/react-native-reanimated-carousel

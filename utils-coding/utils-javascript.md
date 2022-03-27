@@ -314,6 +314,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
+- https://github.com/floating-ui/floating-ui
 - https://github.com/shoelace-style/shoelace
 - https://github.com/nolimits4web/atropos
 - https://github.com/atomiks/floating-ui

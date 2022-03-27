@@ -112,6 +112,9 @@
 - https://github.com/codemix/ts-sql
 - https://github.com/thi-ng/umbrella
 
+## LIB: REACTIVE
+- https://github.com/poelstra/ts-stream
+
 ## LIB: UI
 - https://github.com/shikijs/twoslash
 - https://github.com/tldraw/tldraw

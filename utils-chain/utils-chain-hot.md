@@ -136,6 +136,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
 - https://github.com/juntofoundation/Shared-Perspective-Index
 - https://github.com/holochain-devcamp/devcamp8-game-of-commons
+- https://github.com/holochain-open-dev/status
 - https://github.com/holochain-open-dev/reactions
 - https://github.com/holochain-open-dev/store-adapters
 - https://github.com/holochain-open-dev/dna-auth-resolver
@@ -176,12 +177,14 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-persistence
 - https://github.com/juntofoundation/neighbourhood-link-vis
+- https://github.com/ddd-mtl/delivery-zome
 - https://github.com/shanedeeodonnell/co-learning
 - https://github.com/harleygray/holochain-gym-links
 - https://github.com/harleygray/holochain-gym-anchors
 - https://github.com/harleygray/holochain-ui
 - https://github.com/nphias/ng-hc-starter (angular)
 - https://github.com/artbrock/clutter
+- https://github.com/felri/doom
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/
 
