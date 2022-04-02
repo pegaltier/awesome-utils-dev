@@ -2,7 +2,8 @@
 
 ## Online
 
-- https://www.explainshell.com/
+- https://www.shell.how
+- https://www.explainshell.com
 - https://github.com/cli-guidelines/cli-guidelines
 
 ## Terminal

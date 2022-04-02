@@ -18,3 +18,4 @@
 
 ## Content
 - http://blog.mauve.moe/videos/2022-02-02_01-07-36.mp4
+- https://github.com/heidihoward/distributed-consensus-reading-list

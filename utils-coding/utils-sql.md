@@ -5,7 +5,8 @@
 - https://github.com/dbgate/dbgate
 - https://github.com/jeremydaly/serverless-mysql
 
-## EXCEL TO SQL
+## TOOLS
+- https://github.com/rickbergfalk/postgrator
 - https://thdoan.github.io/mr-data-converter/
 - https://sqlizer.io/#/
 

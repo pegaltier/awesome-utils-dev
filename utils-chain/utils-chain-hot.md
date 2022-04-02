@@ -42,6 +42,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Valueflows: https://www.valueflo.ws/
 - TrustGraph: http://trustgraph.net/
 - Koru: https://koru.finance/
+- Holovm: https://holoportusb.io/
 - Holona: https://holona.net
 - Phax: https://phax.io/
 - Adappt: https://adappt.io
@@ -149,6 +150,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/file-storage-module
 - https://github.com/holochain-open-dev/holochain-client-csharp
 - https://github.com/holochain-open-dev/threaded-comments
+- https://github.com/holochain-open-dev/comments
 - https://github.com/holochain-open-dev/module-template
 - https://github.com/holochain-open-dev/profiles
 - https://github.com/holochain-open-dev/membrane-roles
@@ -183,6 +185,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/harleygray/holochain-gym-anchors
 - https://github.com/harleygray/holochain-ui
 - https://github.com/nphias/ng-hc-starter (angular)
+- https://github.com/matthme/hc-wednesday-workshop-posts
+- https://github.com/ioen-tech/ioen-micro-ledger
 - https://github.com/artbrock/clutter
 - https://github.com/felri/doom
 - https://holochain-ci.github.io/matrix/

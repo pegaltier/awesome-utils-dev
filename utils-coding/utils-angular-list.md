@@ -2496,6 +2496,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ngiakhanh96/angular-youtube
 - https://github.com/wszgrcy/angular-miniprogram
 - https://github.com/lacolaco/angular-tfjs-sandbox
+- https://github.com/stefanoslig/xstate-angular-demo
 - https://github.com/appwrite/demo-todo-with-angular
 - https://github.com/gitropolis/gitropolis-nx-angular
 - https://github.com/nikosanif/angular-authentication
