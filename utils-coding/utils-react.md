@@ -152,6 +152,7 @@
 - https://github.com/americanexpress/react-albus
 - https://github.com/pmndrs/react-three-flex
 - https://github.com/italia/design-react-kit
+- https://github.com/floating-ui/floating-ui
 - https://github.com/radix-ui/design-system
 - https://github.com/ant-design/ant-design
 - https://github.com/mui-org/material-ui

@@ -91,6 +91,10 @@
 
 ## SERVER: INFRA
 - https://github.com/itteco/graceful-cluster
+- https://github.com/louislam/node-cloudflared-tunnel
+
+## SERVER: TOOLS
+- https://github.com/vercel/og-image
 
 ## FRAMEWORKS
 
@@ -100,6 +104,7 @@
 - https://github.com/strapi/strapi
 - https://github.com/lukeautry/tsoa
 - https://github.com/typeorm/typeorm
+- https://github.com/taskforcesh/bullmq
 - https://github.com/directus/directus
 - https://github.com/mikro-orm/mikro-orm
 - https://github.com/sequelize/sequelize

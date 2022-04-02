@@ -200,8 +200,10 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/wesleygrimes/angular-routing-best-practices
 - https://github.com/this-is-angular/angular-guides
 - https://github.com/nirkaufman/bad-practice
+- https://github.com/rainerhahnekamp/webinar-ngrx-best-practices
+- https://github.com/rainerhahnekamp/webinar-ngrx-best-practices/blob/master/slides.pdf
 - https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
--  https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
+- https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
 
 ## HELPER: DESIGN PATTERN
 
@@ -2207,6 +2209,7 @@ Analyze and optimize the performance of your app
 - https://github.com/katoid/angular-grid-layout
 - https://github.com/golden-layout/golden-layout
 - https://github.com/ssuperczynski/ngx-easy-table
+- https://github.com/tiberiuzuld/angular-gridster2
 - https://github.com/exportarts/ngx-material-data-table
 - https://github.com/marinantonio/angular-mat-table-crud
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
@@ -2218,13 +2221,13 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: SELECT
 
-- https://github.com/HaidarZ/ng-mat-select-infinite-scroll
-- https://github.com/bithost-gmbh/ngx-mat-select-search
-- https://github.com/gmerabishvili/angular-ng-autocomplete
-- https://github.com/softsimon/angular-2-dropdown-multiselect
-- https://github.com/NileshPatel17/ng-multiselect-dropdown
-- https://github.com/mdlivingston/mat-select-filter
 - https://github.com/ngx-lib/multiselect
+- https://github.com/mdlivingston/mat-select-filter
+- https://github.com/bithost-gmbh/ngx-mat-select-search
+- https://github.com/NileshPatel17/ng-multiselect-dropdown
+- https://github.com/gmerabishvili/angular-ng-autocomplete
+- https://github.com/HaidarZ/ng-mat-select-infinite-scroll
+- https://github.com/softsimon/angular-2-dropdown-multiselect
 
 ## ECOSYSTEM: LIB: COMPONENT: UPLOAD
 
@@ -2269,6 +2272,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/t-ho/ngx-ui-loader
 - https://github.com/kuuurt13/ng-block-ui
 - https://github.com/Napster2210/ngx-spinner
+- https://github.com/tiberiuzuld/angular-busy
 - https://github.com/pjlamb12/angular-loaders
 - https://github.com/biig-io/ngx-smart-loader
 - https://github.com/aitboudad/ngx-loading-bar
@@ -2493,6 +2497,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/wszgrcy/angular-miniprogram
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/appwrite/demo-todo-with-angular
+- https://github.com/gitropolis/gitropolis-nx-angular
 - https://github.com/nikosanif/angular-authentication
 - https://github.com/bezkoder/angular-13-crud-example
 - https://github.com/lacolaco/angular-testing-recipes

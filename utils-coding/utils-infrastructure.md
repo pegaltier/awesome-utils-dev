@@ -77,6 +77,7 @@
 - https://github.com/losfair/blueboat
 - https://github.com/cfworker/cfworker
 - https://github.com/cloudflare/wrangler2
+- https://github.com/cloudflare/cloudflared
 - https://github.com/artur-ciocanu/odd-cloudflare-workers
 - https://github.com/xiaoyang-sde/rocket-booster
 - https://github.com/eidam/cf-workers-status-page

@@ -187,6 +187,9 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/projen/projen
 - https://github.com/vitejs/vite
 
+## LIB: FUNCTIONNAL PROGRAMMING
+- https://github.com/TomerAberbach/lfi
+
 ## LIB: DATABASE
 - https://github.com/pubkey/rxdb
 - https://github.com/typicode/lowdb
