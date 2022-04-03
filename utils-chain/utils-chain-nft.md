@@ -49,6 +49,7 @@ forgeries in NFTs, meta data...
 - https://www.glorious.digital
 - https://bandroyalty.com
 - https://autograph.io
+- https://toonft.com
 - https://candy.com
 - https://tomoe.io
 - https://sweet.io
