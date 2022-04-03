@@ -2274,7 +2274,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Napster2210/ngx-spinner
 - https://github.com/tiberiuzuld/angular-busy
 - https://github.com/pjlamb12/angular-loaders
-- https://github.com/biig-io/ngx-smart-loader
+- https://github.com/maximelafarie/ngx-smart-loader
 - https://github.com/aitboudad/ngx-loading-bar
 - https://github.com/bootsoon/ng-circle-progress
 - https://github.com/akserg/ng2-slim-loading-bar
