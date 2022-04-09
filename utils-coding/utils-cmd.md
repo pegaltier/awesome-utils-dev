@@ -32,6 +32,9 @@
 
 - https://github.com/zplug/zplug
 
+## Vim
+
+- https://www.fprintf.net/vimCheatSheet.html
 
 ## Remove
 

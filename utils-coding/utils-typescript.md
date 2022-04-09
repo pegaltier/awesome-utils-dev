@@ -122,8 +122,10 @@
 ## LIB: FILE
 - https://github.com/lukeed/mrmime
 
-## LIB: COMPONENTS
+## LIB: ENCODING
+- https://github.com/msgpack/msgpack-javascript
 
+## LIB: COMPONENTS
 - https://github.com/daybrush/moveable
 
 ## LIB: FUNCTIONNAL PROGRAMMING
@@ -193,6 +195,9 @@
 ## LIB: TEST
 - https://github.com/google/intermock
 - https://github.com/Goldziher/interfaceForge
+
+## LIB: ERROR
+- https://github.com/supermacro/neverthrow
 
 ## NEWS
 

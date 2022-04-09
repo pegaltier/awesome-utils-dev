@@ -83,6 +83,12 @@
 ## LIBS: DB
 - https://github.com/ndaidong/flat-db
 
+## LIBS: INSTALL
+- https://github.com/vercel/pkg
+
+## LIBS: GAME
+- https://github.com/colyseus/colyseus
+
 ## SERVER: EXPRESS/ITTY
 - https://github.com/YahooArchive/express-state
 - https://github.com/mucahitnezir/express-starter
@@ -95,6 +101,7 @@
 
 ## SERVER: TOOLS
 - https://github.com/vercel/og-image
+- https://github.com/trpc/trpc
 
 ## FRAMEWORKS
 

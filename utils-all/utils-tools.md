@@ -22,6 +22,7 @@
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
 - https://github.com/sniptt-official/ots
+- https://github.com/gristlabs/grist-core
 - https://github.com/abhinavsingh/proxy.py
 - https://github.com/justinfrankel/licecap
 - https://github.com/obsproject/obs-studio

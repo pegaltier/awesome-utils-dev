@@ -275,6 +275,7 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/sksaifuddin/angular-rxjs-tips
 - https://github.com/santoshyadavdev/angular-getting-started
 - https://github.com/codehub-learn/angular-exercises
+- https://github.com/push-based/angular-basic-exercises
 - https://ultimatecourses.com/blog/master-your-next-angular-job-interview-with-these-questions
 - https://blog.bitsrc.io/6-concepts-to-master-to-be-an-angular-architect-807314e31ef3
 - https://dev.to/caroso1222/what-do-you-look-for-in-a-pr-review-21gb
@@ -1669,6 +1670,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/rainerhahnekamp/sam4sc
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
+- https://github.com/mgechev/ngx-flamegraph
 - https://github.com/statoscope/statoscope
 - https://github.com/xlayers/version-stamp
 - https://github.com/irustm/ng-app-counter
@@ -2233,6 +2235,7 @@ Analyze and optimize the performance of your app
 
 - https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 - https://github.com/georgipeltekov/ngx-file-drop
+- https://github.com/dfa1234/ngx-image-compress
 - https://github.com/peterfreeman/ngx-dropzone
 - https://github.com/ribizli/ng2-imageupload
 - https://github.com/jkuri/ng2-uploader
@@ -2552,6 +2555,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brechtbilliet/winecellar
 - https://github.com/NationalBankBelgium/stark
 - https://github.com/r-park/todo-angular2-firebase
+- https://github.com/vugar005/youtube-webapp-turborepo
 - https://github.com/nhaancs/realworld-nx-nestjs-angular
 - https://github.com/bezkoder/angular-12-node-js-project
 - https://github.com/bezkoder/spring-boot-angular-11-mysql
@@ -2563,6 +2567,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ngStuttgart/homeboi
 - https://github.com/SanderElias/Samples
 - https://github.com/ng-matero/ng-matero
+- https://github.com/ssunils/angularadmin
 - https://github.com/tieppt/angular-docker
 - https://github.com/ganatan/angular11-app
 - https://github.com/gothinkster/realworld
@@ -2982,4 +2987,5 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## TOSYNC
 - https://github.com/myndpm/open-source
+- https://github.com/johnpapa/angular-what-if
 - https://github.com/DevExpress/devextreme-angular

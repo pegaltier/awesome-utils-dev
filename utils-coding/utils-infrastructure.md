@@ -1,11 +1,16 @@
+# INFRA
 
-##  WEB ARCHITECTURE
+##  SCALING
 - https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 - https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/
+
+## LIST
+- https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/sathishvj/awesome-gcp-certifications
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/bregman-arie/devops-exercises
-
+- https://github.com/kahun/awesome-sysadmin
+- https://github.com/ripienaar/free-for-dev
 
 ## COURSES
 - https://github.com/isolutionsag/devops-security-cheat-sheet
@@ -54,14 +59,12 @@
 - https://github.com/nicolargo/glances
 - https://github.com/ClementTsang/bottom
 - https://github.com/alexfernandez/loadtest
-- https://github.com/ripienaar/free-for-dev
 - https://github.com/cloudcomponents/cdk-constructs
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
 
-## VIM
-
-- https://www.fprintf.net/vimCheatSheet.html
+## PACK
+- https://github.com/tldr-devops/startpack
 
 ## SERVICES
 - https://vercel.com/

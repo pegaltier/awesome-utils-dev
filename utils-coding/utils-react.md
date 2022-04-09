@@ -49,6 +49,7 @@
 - https://github.com/Ninjas-Code-official/shopping-cart
 - https://github.com/konstantinmuenster/notion-clone
 - https://github.com/xiongemi/white-label-airline
+- https://github.com/trindadematheus/future-store
 - https://github.com/NoQuarterTeam/boilerplate
 - https://github.com/UnlyEd/next-right-now
 - https://github.com/Th3Wall/Fakeflix
