@@ -67,6 +67,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Core.Network: https://core.network  I  http://superluminal.is 
 - Promether: https://promether.com
 - S7 Foundation/Noomap/Holoweb: http://noomap.info
+- FederatedBookkeeping: https://federatedbookkeeping.org/
 - Holoweb: https://www.youtube.com/watch?v=y2zDSmq60zE
 - Comet: https://github.com/MightyAlex200/Comet
 - CoGov: http://cogov.startbutton.com/

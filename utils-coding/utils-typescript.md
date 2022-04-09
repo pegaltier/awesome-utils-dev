@@ -112,12 +112,18 @@
 - https://github.com/codemix/ts-sql
 - https://github.com/thi-ng/umbrella
 
+## LIB: PARSER
+- https://github.com/anuraghazra/typelevel-parser
+
 ## LIB: REACTIVE
 - https://github.com/poelstra/ts-stream
 
 ## LIB: UI
 - https://github.com/shikijs/twoslash
 - https://github.com/tldraw/tldraw
+
+## LIB: CALC
+- https://github.com/mathematic-inc/ts-japi
 
 ## LIB: FILE
 - https://github.com/lukeed/mrmime
@@ -176,6 +182,7 @@
 - https://github.com/devexperts/remote-data-ts
 - https://github.com/gbumanzordev/utility-types
 - https://github.com/typestack/class-transformer
+- https://github.com/timocov/dts-bundle-generator
 - https://github.com/sfkiwi/linked-list-typescript
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/YousefED/typescript-json-schema

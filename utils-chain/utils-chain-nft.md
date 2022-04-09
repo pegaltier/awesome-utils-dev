@@ -106,7 +106,9 @@ forgeries in NFTs, meta data...
 - https://alcor.exchange/nft-market
 
 ### NFT XPR
+- https://soon.market/
 - https://protonmint.com/
+- https://www.blocurate.com/
 - https://www.protonmarket.com/
 
 ## NFT TELOS

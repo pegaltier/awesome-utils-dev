@@ -288,6 +288,7 @@ Learn about the most useful design patterns in Angular.
 - https://replit.com/
 - https://ng-run.com/
 - https://vscode.dev/
+- https://webmaker.app/
 - https://stackblitz.com
 - https://codesandbox.io/
 - https://github.com/conwnet/github1s
@@ -2308,6 +2309,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/exportarts/ngx-pending-changes
 - https://github.com/rainerhahnekamp/ngx-formly-helpers
 - https://github.com/maximelafarie/angular-dynamic-forms
+- https://github.com/EndyKaufman/ngx-dynamic-form-builder
 - https://github.com/formql/formql/tree/master/examples
 - https://github.com/verizonconnect/ngx-form-generator
 - https://github.com/xtreamsrl/ngx-validation-errors
@@ -2470,6 +2472,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/aviabird/angularspree
 - https://github.com/sterlp/admin-template
 - https://github.com/ng-alain/ng-alain
+- https://github.com/ng-alain/delon
 - https://github.com/akveo/ngx-admin
 - https://github.com/scullyio/scully
 - https://github.com/wizdmio/wizdm

@@ -318,6 +318,13 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/jedisct1/js-base64-ct
 - https://github.com/crypto-browserify/sha.js
 
+## LIB: IP
+- https://github.com/whitequark/ipaddr.js
+
+## LIB: SEARCH
+- https://github.com/elastic/app-search-javascript
+- https://github.com/elastic/elasticsearch-js
+
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
 - https://github.com/floating-ui/floating-ui
