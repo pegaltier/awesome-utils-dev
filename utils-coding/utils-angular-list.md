@@ -2288,7 +2288,6 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Gbuomprisco/ngx-content-loading
 - https://github.com/adisreyaj/angular-shimmer-effect
 - https://github.com/willmendesneto/ngx-skeleton-loader
-- https://github.com/maxisam/ngx-progressive-image-loader
 
 ## ECOSYSTEM: LIB: COMPONENT: FORM
 
@@ -2353,6 +2352,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/videogular/ngx-videogular
 - https://github.com/Mawi137/ngx-image-cropper
 - https://github.com/tjoskar/ng-lazyload-image
+- https://github.com/maxisam/ngx-progressive-image-loader
 - https://github.com/kubadospial/ngx-is-image-loaded
 - https://github.com/greg-md/ng-lazy-load
 - https://github.com/scaleflex/ng-cloudimage-responsive
