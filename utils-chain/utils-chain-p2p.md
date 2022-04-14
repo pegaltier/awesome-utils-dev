@@ -4,6 +4,7 @@
 - https://libre.space/
 - http://blog.mauve.moe/
 - https://fosdem.org/2022/
+- https://decentpatterns.xyz/
 - https://agregore.mauve.moe/
 - https://earthstar-project.org/
 

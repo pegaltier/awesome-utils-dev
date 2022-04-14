@@ -2096,6 +2096,7 @@ Analyze and optimize the performance of your app
 - https://github.com/matteobruni/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/joejordanbrown/popover
+- https://github.com/ncstate-sat/popover
 - https://github.com/nbfontana/ngx-currency
 - https://github.com/Harvest-Dev/ng-select2
 - https://github.com/ivylaboratory/ivypinch
@@ -2257,11 +2258,9 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: COMPONENT: MODAL
 
 - https://github.com/ngneat/dialog
-- https://github.com/ncstate-sat/popover
 - https://github.com/Greentube/ngx-modal
 - https://github.com/caroso1222/ng-popups
 - https://github.com/shenweiliu/ngex-dialog
-- https://github.com/biig-io/ngx-smart-modal
 - https://github.com/shlomiassaf/ngx-modialog
 - https://github.com/maximelafarie/ngx-smart-modal
 - https://matthewross.me/blog/posts/minimal-angular-2-modal
