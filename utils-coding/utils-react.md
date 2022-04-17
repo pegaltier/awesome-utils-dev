@@ -65,6 +65,7 @@
 - https://github.com/wesbos/Advanced-React
 - https://github.com/facebook/create-react-app
 - https://github.com/coolerwind/react-ecommerce
+- https://github.com/CreativeTechGuy/ReactTemplate
 - https://github.com/salvia-kit/salvia-kit-website
 
 ## JAMSTACK
