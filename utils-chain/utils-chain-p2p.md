@@ -1,6 +1,7 @@
 # P2P
 
 - https://daml.com/
+- https://peerjs.com/
 - https://libre.space/
 - http://blog.mauve.moe/
 - https://fosdem.org/2022/
@@ -14,6 +15,7 @@
 - https://github.com/fluencelabs
 - https://github.com/hyperhyperspace
 - https://github.com/dyne/zenpub-client
+- https://github.com/peers/peerjs-server
 - https://github.com/hyperswarm/dht-relay
 - https://github.com/ChainSafe/js-libp2p-gossipsub
 

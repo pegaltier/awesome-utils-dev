@@ -202,6 +202,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/nirkaufman/bad-practice
 - https://github.com/rainerhahnekamp/webinar-ngrx-best-practices
 - https://github.com/rainerhahnekamp/webinar-ngrx-best-practices/blob/master/slides.pdf
+- https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
 - https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
 - https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
 
@@ -276,6 +277,7 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/santoshyadavdev/angular-getting-started
 - https://github.com/codehub-learn/angular-exercises
 - https://github.com/push-based/angular-basic-exercises
+- https://github.com/tomastrajan/angular-mastery-workshop
 - https://ultimatecourses.com/blog/master-your-next-angular-job-interview-with-these-questions
 - https://blog.bitsrc.io/6-concepts-to-master-to-be-an-angular-architect-807314e31ef3
 - https://dev.to/caroso1222/what-do-you-look-for-in-a-pr-review-21gb
@@ -1991,9 +1993,11 @@ Learn the best way to make your objects immutable.
 - https://github.com/DmitryEfimenko/jest-given-when-then
 - https://github.com/smooth-code/jest-puppeteer
 - https://github.com/gparlakov/scuri
+- https://github.com/playwright-community/jest-playwright
 - https://github.com/brandonroberts/angular-testing-library
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/testing-library/jest-dom
+- https://github.com/nicolo-ribaudo/jest-light-runner
 - https://github.com/synapse-wireless-labs/jasmine-marbles
 - https://github.com/cartant/rxjs-marbles
 - https://github.com/hirezio/jasmine-auto-spies

@@ -62,6 +62,7 @@ forgeries in NFTs, meta data...
 - https://tofunft.com
 - https://hodooi.com
 - https://meme.com
+- https://byt.io
 
 ### NFT ETH
 - https://ethblock.art/
@@ -245,7 +246,7 @@ forgeries in NFTs, meta data...
 - https://www.nftirl.co
 - https://www.nft.nyc
 
-## NFT INVESTORS
+## NFT INVESTORS (VC/VENTURES)
 - https://starrynight.capital
 - https://www.meta4.capital
 - https://metaversegroup.io
@@ -339,6 +340,10 @@ forgeries in NFTs, meta data...
 ## NFT TOOLS SOLANA
 - https://sol-nft.tools
 
+## NFT PRINT
+- https://www.peaknftprinting.com/
+- https://www.flownft.co/
+
 ## NFT DEV
 - https://github.com/thuglabs/solana-nft-token-metadata-update
 - https://github.com/buildspace/nft-drop-starter-project
@@ -365,6 +370,7 @@ forgeries in NFTs, meta data...
 - https://www.pinata.cloud/
 - https://nftschool.dev/
 - https://nft.storage/
+- https://center.dev
 
 ## NFT ARTICLES
 - https://medium.com/fanzone-io/sweet-dreams-are-made-of-standards-the-evolution-of-nft-138c077c0975

@@ -188,6 +188,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/nphias/ng-hc-starter (angular)
 - https://github.com/matthme/hc-wednesday-workshop-posts
 - https://github.com/ioen-tech/ioen-micro-ledger
+- https://github.com/holochain-engineers/REA-Electron-starter
 - https://github.com/artbrock/clutter
 - https://github.com/zo-el/Errand
 - https://github.com/felri/doom

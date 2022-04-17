@@ -118,6 +118,7 @@
 - https://beta.openai.com/
 
 ## LIST
+- https://rapidapi.com
 - https://www.humanapi.co
 - https://github.com/public-apis/public-apis
 - https://github.com/chubin/awesome-console-services

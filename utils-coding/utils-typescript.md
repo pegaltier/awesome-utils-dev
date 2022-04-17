@@ -184,6 +184,7 @@
 - https://github.com/typestack/class-transformer
 - https://github.com/timocov/dts-bundle-generator
 - https://github.com/sfkiwi/linked-list-typescript
+- https://github.com/ThomasAribart/json-schema-to-ts
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/YousefED/typescript-json-schema
 - https://github.com/gbumanzordev/payload-transformer
@@ -205,6 +206,7 @@
 
 ## LIB: ERROR
 - https://github.com/supermacro/neverthrow
+- https://github.com/skarab42/ts-pojo-error
 
 ## NEWS
 

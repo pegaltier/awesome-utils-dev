@@ -85,6 +85,7 @@
 
 ## LIBS: INSTALL
 - https://github.com/vercel/pkg
+- https://github.com/electron/electron-packager
 
 ## LIBS: GAME
 - https://github.com/colyseus/colyseus
