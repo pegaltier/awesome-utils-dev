@@ -82,6 +82,8 @@
 
 ## LIBS: DB
 - https://github.com/ndaidong/flat-db
+- https://github.com/twinlogix/typetta
+- https://github.com/w3tecch/typeorm-seeding
 
 ## LIBS: INSTALL
 - https://github.com/vercel/pkg

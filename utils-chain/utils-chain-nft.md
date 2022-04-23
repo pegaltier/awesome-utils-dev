@@ -59,6 +59,7 @@ forgeries in NFTs, meta data...
 - https://nftblackmarket.io
 - https://app.nftrade.com
 - https://stargaze.zone
+- https://openbisea.io
 - https://tofunft.com
 - https://hodooi.com
 - https://meme.com

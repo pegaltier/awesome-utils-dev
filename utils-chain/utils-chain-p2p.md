@@ -17,6 +17,8 @@
 - https://github.com/dyne/zenpub-client
 - https://github.com/peers/peerjs-server
 - https://github.com/hyperswarm/dht-relay
+- https://github.com/browser-network/network
+- https://github.com/browser-network/database
 - https://github.com/ChainSafe/js-libp2p-gossipsub
 
 ## Content

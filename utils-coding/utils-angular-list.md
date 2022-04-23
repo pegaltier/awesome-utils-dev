@@ -200,6 +200,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/wesleygrimes/angular-routing-best-practices
 - https://github.com/this-is-angular/angular-guides
 - https://github.com/nirkaufman/bad-practice
+- https://github.com/gbumanzordev/component-communication
 - https://github.com/rainerhahnekamp/webinar-ngrx-best-practices
 - https://github.com/rainerhahnekamp/webinar-ngrx-best-practices/blob/master/slides.pdf
 - https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
@@ -1484,6 +1485,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/IKatsuba/runx
+- https://github.com/sudokar/nx-serverless
 - https://github.com/billyjov/awesome-nx
 - https://github.com/trumbitta/nx-trumbitta
 - https://github.com/jscutlery/nx-completion
@@ -1997,7 +1999,9 @@ Learn the best way to make your objects immutable.
 - https://github.com/brandonroberts/angular-testing-library
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/testing-library/jest-dom
+- https://github.com/kulshekhar/ts-jest
 - https://github.com/nicolo-ribaudo/jest-light-runner
+- https://github.com/americanexpress/jest-image-snapshot
 - https://github.com/synapse-wireless-labs/jasmine-marbles
 - https://github.com/cartant/rxjs-marbles
 - https://github.com/hirezio/jasmine-auto-spies

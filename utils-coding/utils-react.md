@@ -158,6 +158,7 @@
 - https://github.com/floating-ui/floating-ui
 - https://github.com/radix-ui/design-system
 - https://github.com/ant-design/ant-design
+- https://github.com/DouyinFE/semi-design
 - https://github.com/mui-org/material-ui
 - https://github.com/radix-ui/primitives
 - https://github.com/chakra-ui/chakra-ui
