@@ -340,6 +340,7 @@ forgeries in NFTs, meta data...
 
 ## NFT TOOLS SOLANA
 - https://sol-nft.tools
+- https://www.metaplex.com
 
 ## NFT PRINT
 - https://www.peaknftprinting.com/

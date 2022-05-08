@@ -124,6 +124,12 @@
 
 Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
 
+## FUNCTIONS BORROWING METHODS
+
+- The call() allows for a function/method belonging to one object to be assigned and called for a different object.
+- The apply() is very similar to call() but the apply method takes arguments as an array instead of separately.
+- The bind() method creates a new function that, when called, has its this keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called. it is not necessary to pass the arguments at the time of `bind`. we can pass it later at the time of invocation.
+
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
 

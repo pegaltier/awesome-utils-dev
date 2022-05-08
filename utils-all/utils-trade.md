@@ -108,8 +108,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tradingview.com/pine-script-docs/en/v4/appendix/HOWTOs.html
 - https://www.tradingview.com/pine-script-docs/en/v4/language/Operators.html
 
+## TOOLS
+- https://www.tradewell.app/
 
-### STRATEGY
+## PORTFOLIO
+- https://ghostfol.io/
+
+## STRATEGY
 - https://github.com/freqtrade/freqtrade-strategies
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
