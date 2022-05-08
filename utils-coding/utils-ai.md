@@ -38,6 +38,7 @@
 - https://github.com/ml5js/ml5-library
 - https://github.com/the-new-sky/Wisty.js
 - https://github.com/deepkit/deepkit-ml
+- https://github.com/axa-group/nlp.js
 - https://github.com/deepset-ai/FARM
 - https://github.com/winkjs/wink-ner
 - https://github.com/obsei/obsei

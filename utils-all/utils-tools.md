@@ -31,6 +31,7 @@
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/writefreely/writefreely
+- https://github.com/AykutSarac/jsonvisio.com
 - https://github.com/hadynz/obsidian-sidekick
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/johannesjo/super-productivity

@@ -120,6 +120,7 @@
 - https://webcode.tools
 - https://carbon.now.sh
 - https://json-diff.com
+- https://jsonvisio.com
 - https://waterfaller.dev
 - https://www.mydevice.io
 - https://www.jsv9000.app
@@ -410,9 +411,10 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## FRAMEWORK
 
-modulr : https://decorator.io/modulr/
-webpack1: https://blog.madewithlove.be/post/webpack-your-bags/
-webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
+- https://decorator.io/modulr/
+- https://github.com/fabiospampinato/voby
+- https://blog.madewithlove.be/post/webpack-your-bags/
+- https://css-tricks.com/css-modules-part-2-getting-started
 
 ## WEBCOMPONENTS
 - https://open-ui.org/

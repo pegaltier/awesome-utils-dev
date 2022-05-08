@@ -39,11 +39,17 @@
 ## Remove
 
 ```
+mv node_modules ../node_modules.bak
 rmdir /s /q node_modules (windows)
 rm -r -f node_modules (linux)
+rm -rf ./node_modules (macos)
+rm -rf ./node_modules/.cache/nx
+rm .git/hooks/pre-commit
+rm .git/hooks/pre-push
+rm -f .git/index.lock
 ```
 
-### Alias
+## Alias
 
 ```
 alias ..="cd .."
@@ -54,4 +60,10 @@ alias ...="cd ../.."
 
 ```
 explorer.exe .
+```
+
+## Various
+
+```
+find . -type f -name '*.service.ts' -exec du -s {} + |sort -n
 ```

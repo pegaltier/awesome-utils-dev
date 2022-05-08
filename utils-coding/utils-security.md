@@ -5,6 +5,7 @@
 
 - https://websecurity-academy.com/
 - https://github.com/danielmiessler/SecLists
+- https://github.com/Igglybuff/awesome-piracy
 - https://github.com/0x4D31/awesome-threat-detection
 - https://github.com/Lissy93/personal-security-checklist
 - https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet

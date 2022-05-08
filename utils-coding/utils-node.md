@@ -28,14 +28,17 @@
 
 ## UTILS
 
+- https://github.com/animir/node-rate-limiter-flexible
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/radarsu/types-package-json
 - https://github.com/davglass/license-checker
-- https://github.com/adisreyaj/cartella-web
+- https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
+- https://github.com/adisreyaj/cartella-web
 - https://github.com/sindresorhus/fkill-cli
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
+- https://github.com/isaacs/node-lru-cache
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/styfle/packagephobia
 - https://github.com/privatenumber/tasuku
@@ -44,6 +47,7 @@
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
 - https://github.com/sindresorhus/np
+- https://github.com/zoontek/valienv
 - https://github.com/alallier/reload
 - https://github.com/typicode/husky
 - https://github.com/unjs/ohmyfetch
@@ -54,6 +58,7 @@
 - https://github.com/npm/cacache
 - https://github.com/vercel/ncc
 - https://github.com/vercel/nft
+- https://github.com/nexe/nexe
 - https://github.com/sezna/nps
 
 ## MONITORING

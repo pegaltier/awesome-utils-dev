@@ -44,6 +44,7 @@
 
 ## TOOLS OSS
 - https://github.com/six-ddc/plow
+- https://github.com/ekzhang/bore
 - https://github.com/Qovery/engine
 - https://github.com/loadimpact/k6
 - https://github.com/kruize/kruize
@@ -152,6 +153,7 @@
 - https://github.com/croqaz/browsers
 - https://github.com/containerd/nerdctl
 - https://github.com/ameerthehacker/envase
+- https://github.com/sigp/lighthouse-metrics
 - https://github.com/docker-slim/docker-slim
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/leighmcculloch/dockerhost

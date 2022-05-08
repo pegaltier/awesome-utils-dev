@@ -12,6 +12,7 @@
 ## ETH DEV
 - https://etherscan.io/apis
 - https://github.com/ethereum/
+- https://github.com/pubkey/eth-crypto
 - https://github.com/ethers-io/ethers.js
 - https://github.com/ipatka/scaffold-eth
 - https://github.com/ethereum-ts/TypeChain

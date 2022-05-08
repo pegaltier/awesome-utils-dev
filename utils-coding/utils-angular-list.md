@@ -1485,6 +1485,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/IKatsuba/runx
+- https://github.com/ng-easy/platform
 - https://github.com/sudokar/nx-serverless
 - https://github.com/billyjov/awesome-nx
 - https://github.com/trumbitta/nx-trumbitta
@@ -1693,6 +1694,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-ast/ngast
 - https://github.com/kachkaev/njt
 - https://github.com/pahen/madge
+- https://github.com/rome/tools
 
 ## ECOSYSTEM: LIB: LAZY
 
@@ -1740,6 +1742,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Gbuomprisco/cached-observable
 - https://github.com/alexzuza/angular-refresh-token
 - https://github.com/juanmesa2097/ngx-generic-rest-service
+- https://github.com/patrikx3/angular-http-cache-interceptor
 - https://github.com/kamilkisiela/apollo-angular
 - https://github.com/flowup/api-client-generator
 - https://github.com/vugar005/ngx-awesome-uploader
@@ -1966,6 +1969,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/falso
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
+- https://github.com/faker-js/faker
 - https://github.com/ike18t/ng-mocks
 - https://github.com/ng-mocks/examples
 - https://github.com/google/intermock
@@ -2080,6 +2084,7 @@ Analyze and optimize the performance of your app
 - https://github.com/angular-material-extensions/password-strength
 - https://github.com/d-koppenhagen/angular-tag-cloud-module
 - https://github.com/fetrarij/ngx-daterangepicker-material
+- https://github.com/naranmistry/angular-typing-animator
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard
@@ -2088,6 +2093,7 @@ Analyze and optimize the performance of your app
 - https://github.com/shipshapecode/angular-shepherd
 - https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/ivylaboratory/angular-carousel
+- https://github.com/LayZeeDK/ngx-foundation-sites
 - https://github.com/ivylaboratory/angular-gallery
 - https://github.com/adisreyaj/angular-star-rating
 - https://github.com/ivylaboratory/angular-popover
@@ -2112,6 +2118,7 @@ Analyze and optimize the performance of your app
 - https://github.com/leNicDev/ng-hcaptcha
 - https://github.com/tnicola/ngx-joyride
 - https://github.com/alauda/ng-monaco-editor
+- https://github.com/push-based/ngx-fast-svg
 - https://github.com/cormacrelf/angular-skyhook
 - https://github.com/qgrid/ng2-expression-builder
 - https://github.com/exportarts/ngx-cookie-banner
@@ -2309,6 +2316,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngx-formly/ngx-formly
 - https://github.com/jstoppa/dynamic-forms
 - https://github.com/udos86/ng-dynamic-forms
+- https://github.com/Nightapes/ngx-validators
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/DmitryEfimenko/ngx-messages
 - https://github.com/SanderElias/ngObservableForm
@@ -2363,6 +2371,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/kubadospial/ngx-is-image-loaded
 - https://github.com/greg-md/ng-lazy-load
 - https://github.com/scaleflex/ng-cloudimage-responsive
+- https://github.com/ngx-xgplayer/ngx-xgplayer
 - https://github.com/bennymeg/ngx-embedded-media
 - https://github.com/ng-web-apis/canvas
 - https://github.com/ng-web-apis/midi
@@ -2499,6 +2508,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/adisreyaj/wfh
+- https://github.com/ng-matero/nx-starter
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/tastejs/angular-movies
@@ -2507,6 +2517,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/ngiakhanh96/angular-youtube
+- https://github.com/IRobot1/ng3-cannon-template
 - https://github.com/wszgrcy/angular-miniprogram
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/stefanoslig/xstate-angular-demo
