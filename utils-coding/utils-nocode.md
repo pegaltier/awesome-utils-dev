@@ -12,6 +12,7 @@ low-code tooling to prototype fastly.
 - https://scaffoldhub.io
 - https://www.builder.io
 - https://www.newco.app
+- https://www.adalo.com
 - https://www.hapify.io
 - https://zeroqode.com
 - https://www.duda.co

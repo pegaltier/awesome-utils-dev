@@ -118,6 +118,7 @@ forgeries in NFTs, meta data...
 - https://areaxnft.com
 
 ## NFT FTM
+- https://ovre.io
 - https://artion.io
 - https://pet.zoocoin.cash
 - https://www.raritymanifested.com

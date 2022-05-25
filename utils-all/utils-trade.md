@@ -127,6 +127,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://napoleonx.ai/
 - https://www.napbots.com/
 - https://www.shrimpy.io/
+- https://www.xorstrategy.com/
 - https://stackedinvest.com/
 - https://www.cryptohopper.com/
 - https://www.darwinex.com/

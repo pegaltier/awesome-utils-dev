@@ -14,6 +14,7 @@
 ## NEWS
 
 - https://www.darkreading.com/
+- https://craphound.com/
 
 ## PAPERS
 - guidovranken.files.wordpress.com/2018/07/vrankenfuzz.pdf
