@@ -50,6 +50,7 @@
 - https://github.com/jmcdo29/nest-samples
 - https://github.com/rfprod/nx-ng-starter
 - https://github.com/ntegral/nestjs-sentry
+- https://github.com/DevMata/angular-tp-api
 - https://github.com/TimurRK/nestjs-example
 - https://github.com/squareboat/nest-mailman
 - https://github.com/xmlking/ngx-starter-kit

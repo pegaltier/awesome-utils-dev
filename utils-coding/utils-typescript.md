@@ -89,11 +89,13 @@
 - https://github.com/dsherret/ts-ast-viewer
 - https://github.com/tannerntannern/ts-mixer
 - https://github.com/seek-oss/vanilla-extract
+- https://github.com/radarsu/options-defaults
 - https://github.com/piotrwitek/utility-types
 - https://github.com/drwpow/openapi-typescript
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/ostrowr/ts-json-validator
+- https://github.com/ts-essentials/ts-essentials
 - https://github.com/jonaskello/tslint-immutable
 - https://github.com/ngfelixl/typescript-algorithms
 - https://github.com/NetanelBasal/helpful-decorators

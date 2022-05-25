@@ -6,12 +6,14 @@
 forgeries in NFTs, meta data...
 
 ## NFT MARKETPLACE
+- https://x2y2.io
 - https://unxd.com
 - https://async.art
 - https://opensea.io
 - https://niftys.com
 - https://www.veve.me
 - https://rarible.com
+- https://www.nft.com
 - https://www.fyooz.io
 - https://curate.style
 - https://mintable.app

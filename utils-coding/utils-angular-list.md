@@ -1667,6 +1667,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: DEVTOOLS
 - https://github.com/TrilonIO/angular-application-insights
+- https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/expertly-simple/angular-evergreen
 - https://github.com/irustm/ng-template-parser
 - https://github.com/angular/ngcc-validation
@@ -1709,7 +1710,7 @@ Learn the best way to make your objects immutable.
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
 
 ## ECOSYSTEM: LIB: DOM
-
+- https://github.com/ultimatecourses/ngx-fullscreen
 - https://github.com/ng-web-apis/resize-observer
 - https://github.com/ng-web-apis/intersection-observer
 - https://github.com/ng-web-apis/mutation-observer
@@ -2519,6 +2520,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ngiakhanh96/angular-youtube
 - https://github.com/IRobot1/ng3-cannon-template
 - https://github.com/wszgrcy/angular-miniprogram
+- https://github.com/hoebbelsB/ng-contextual-state
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/stefanoslig/xstate-angular-demo
 - https://github.com/appwrite/demo-todo-with-angular
@@ -2526,6 +2528,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/nikosanif/angular-authentication
 - https://github.com/bezkoder/angular-13-crud-example
 - https://github.com/lacolaco/angular-testing-recipes
+- https://github.com/markostanimirovic/standalone-ngrx
 - https://github.com/pankajparkar/lazy-loading-recipes
 - https://github.com/rainerhahnekamp/angular-whitelabel
 - https://github.com/bezkoder/angular-13-firebase-storage
