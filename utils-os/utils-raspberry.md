@@ -55,7 +55,11 @@ buy r3 kit:
 - https://fr.farnell.com/raspberry-pi/rpi3-8mp-camera-bundle/raspberry-pi3-8mp-camera/dp/2580632 
 
 sensor:
-- https://raspberry-pi.developpez.com/cours-tutoriels/capteur/mag-pi-utiliser-port-gpio/partie-1-detection-mouvement/ 
+- https://raspberry-pi.fr/rfid-raspberry-pi/
+- https://www.hackster.io/Shafin-Kothia/water-level-monitor-with-raspberry-pi-d509a2
+- https://raspberry-pi.developpez.com/cours-tutoriels/capteur/mag-pi-utiliser-port-gpio/partie-1-detection-mouvement/
+- https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/
+- https://raspberrypi-tutorials.fr/raspberry-pi-mesurez-lhumidite-et-la-temperature-avec-dht11-dht22/
 - https://www.framboise314.fr/raspberry-pi-et-detecteur-de-presence-infra-rouge/
 - https://www.framboise314.fr/scratch-raspberry-pi-composants/module-detecteur-de-presence-pir/  
 - https://www.framboise314.fr/raspifouine-un-piege-a-fouine-a-base-de-raspberry-pi/
