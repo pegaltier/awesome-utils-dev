@@ -2,6 +2,9 @@
 
 # Raspbian + Raspberry
 
+## Utils
+- https://pinout.xyz/
+
 ## RabbitMQ
 - http://www.pihomeserver.fr/2013/10/02/raspberry-pi-home-server-installer-gestionnaire-messages-rabbitmq/
 - http://blog.abarbanell.de/raspberry/2014/08/26/rabbitmq-on-raspberry-pi/
