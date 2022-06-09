@@ -110,6 +110,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TOOLS
 - https://www.tradewell.app/
+- https://strategyquant.com/
+- https://www.tuned.com/
+- https://www.tv-hub.org/
+
+## TRADINGVIEW
+- https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 
 ## PORTFOLIO
 - https://ghostfol.io/
