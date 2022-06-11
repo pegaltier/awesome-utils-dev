@@ -118,6 +118,7 @@
 - https://github.com/tsedio/tsed
 - https://github.com/strapi/strapi
 - https://github.com/lukeautry/tsoa
+- https://github.com/sindresorhus/got
 - https://github.com/typeorm/typeorm
 - https://github.com/taskforcesh/bullmq
 - https://github.com/directus/directus

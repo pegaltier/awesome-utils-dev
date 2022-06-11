@@ -1231,6 +1231,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/jherr/create-mf-app
 - https://github.com/CanopyTax/single-spa
 - https://github.com/manfredsteyer/mf-ssr
+- https://github.com/Enteleform/lazy-portal
 - https://github.com/neuland/micro-frontends
 - https://github.com/IgorMinar/stitchapp.dev
 - https://github.com/Vitashev/ng-tiktok-mf-app
@@ -1484,6 +1485,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/gioragutt/nx-pwm
 - https://github.com/IKatsuba/runx
 - https://github.com/ng-easy/platform
 - https://github.com/sudokar/nx-serverless
@@ -1822,6 +1824,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/herodevs/herodevs-packages
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/ThomasBurleson/mindspace-utils
+- https://github.com/graycoreio/daffodil#packages
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/observable-playground/observable-playground
@@ -1855,6 +1858,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/timdeschryver/rxjs-operator-counter
 - https://github.com/chrisguttandin/subscribable-things
 - https://github.com/ftischler/ngx-rxjs-zone-scheduler
+- https://github.com/rx-angular/rxjs-zone-less
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -1978,6 +1982,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/wallabyjs/public
 - https://github.com/nas5w/combinate
 - https://github.com/kwonoj/rx-sandbox
+- https://github.com/nvh95/jest-preview
 - https://github.com/hirezio/auto-spies
 - https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
@@ -2488,6 +2493,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/exportarts/ngx-prismic
 - https://github.com/aviabird/angularspree
 - https://github.com/sterlp/admin-template
+- https://github.com/graycoreio/daffodil
 - https://github.com/ng-alain/ng-alain
 - https://github.com/ng-alain/delon
 - https://github.com/akveo/ngx-admin

@@ -17,6 +17,7 @@
 - http://rxmarbles.com/
 - https://xgrommx.github.io/rx-book/index.html
 - http://reactivex.io/rxjs/manual/overview.html
+- https://github.com/sindresorhus/awesome-observables
 - https://github.com/this-is-learning/rxjs-fundamentals-course
 - https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
 - https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains

@@ -55,6 +55,7 @@ forgeries in NFTs, meta data...
 - https://candy.com
 - https://tomoe.io
 - https://sweet.io
+- https://www.p00ls.io
 
 ### NFT MULTICHAIN
 - https://uniqueone.network
