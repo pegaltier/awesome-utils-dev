@@ -209,6 +209,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## LIB: BACKEND
 - https://github.com/mailgun/mailgun.js
+- https://github.com/unjs/nitro
 
 ## LIB: JAMSTACK
 - https://github.com/shikijs/twoslash
@@ -284,6 +285,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/jekuer/add-to-calendar-button
 - https://github.com/Unleash/unleash
 - https://github.com/kach/nearley
+- https://github.com/aui/art-template
 
 ## LIB: DESIGN PATTERN
 - https://github.com/douglasgreyling/light-service.js
@@ -352,6 +354,10 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/shikijs/shiki
 - https://github.com/Qix-/color
 
+## LIB: REACTIVE
+- https://github.com/Riim/cellx
+- https://github.com/fynyky/reactor.js
+
 ## LIB: HARDWARE
 - https://github.com/svendahlstrand/web-serial-api
 
@@ -376,6 +382,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/zenorocha/clipboard.js
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver
+- https://github.com/formkit/auto-animate
 - https://github.com/codex-team/editor.js
 - https://github.com/focus-trap/tabbable
 - https://github.com/datalog/qrcode-svg

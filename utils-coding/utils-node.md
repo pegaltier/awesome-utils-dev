@@ -84,6 +84,7 @@
 - https://github.com/piscinajs/piscina
 - https://github.com/Unitech/pm2
 - https://github.com/cacjs/cac
+- https://github.com/eta-dev/eta
 
 ## LIBS: DB
 - https://github.com/ndaidong/flat-db

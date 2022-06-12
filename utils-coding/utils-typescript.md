@@ -8,6 +8,7 @@
 - https://github.com/sindresorhus/type-fest
 - https://github.com/basarat/typescript-book
 - https://github.com/danvk/effective-typescript
+- https://github.com/LearningTypeScript/projects
 - https://github.com/typescript-cheatsheets/react
 - https://github.com/microsoft/TypeScript-Handbook
 - https://github.com/labs42io/clean-code-typescript

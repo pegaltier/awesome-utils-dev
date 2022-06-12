@@ -187,6 +187,7 @@
 - https://github.com/application-research/next-bucket
 - https://github.com/ixartz/Next-js-Blog-Boilerplate
 - https://github.com/slicknode/starter-nextjs-blog
+- https://github.com/developedbyed/styled-frontend
 - https://github.com/juristr/blog-series-nextjs-nx
 - https://github.com/module-federation/nextjs-mf
 - https://github.com/ixartz/Next-js-Boilerplate

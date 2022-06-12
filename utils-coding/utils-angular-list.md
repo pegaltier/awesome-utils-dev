@@ -1148,6 +1148,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/nullpub/dux
 - https://github.com/mobxjs/mobx
 - https://github.com/logux/state
+- https://github.com/effector/effector
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/kuncevic/rx-service
 - https://github.com/nanostores/nanostores
@@ -2520,6 +2521,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/tastejs/angular-movies
 - https://github.com/brandonroberts/ng-vite
+- https://github.com/bampakoa/angular-heroes
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone
