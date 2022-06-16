@@ -1,6 +1,6 @@
 # TRADE
 
-RULES
+## RULES
 
 - Follow long term trendline and close winning trade on a resitance trend line and rebuy if breakout appear.
 - Close winning especially if you are surexposed, you can also close to do a rotation.
@@ -12,9 +12,8 @@ RULES
 ## COMMON STRATEGY
 - long only
 - long/short
-- trend following (suivi de tendance)
-- mean reversion (retour à la moyenne) for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
-- short models turns flat if SP500 fall > -9% during the past 3 sessions.
+- trend following
+- mean reversion for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
 
 ## FILTER STRATEGY
 - detect the asset to focus on for a swing (3 days to 30 days)
@@ -83,6 +82,11 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 - forces: longer it remains near support the more dangerous it becomes
 - ratio: rendement potentiel / risque (Sharpe et Sortino)
 - diversification: reduction risque
+
+## TAKE PROFIT
+
+- short models turns flat if SP500 fall > -9% during the past 3 sessions.
+- long models turns flat if SP500 rise > x% during the past 3 sessions.
 
 ## RANGE
 
