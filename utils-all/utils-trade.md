@@ -100,7 +100,7 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 The classic moving average is generating a lot of whipsaws so you can add an extra filter to get rid of these false signals.
 
 - Ranging: The market is ranging you can ignore the signal to avoid the whipsaw.
-- Extent: The price has to surpass an additional upper band & lower band in order to trigger the signal, the upper&lower can be generated using different ways: adding x percent of the moving average or the moving average of the high/low. It can also be a classic bollinger band, an enveloppe or a keltner channel. Another solution is to have x percent of some other measure, such as the trading range (high/low) of the past y days.
+- Extent: The price has to surpass an additional upper band & lower band in order to trigger the signal, the upper and lower can be generated using different ways: adding x percent of the moving average (ex: Percentage Price Oscillator) or the moving average of the high/low. It can also be a classic bollinger band, an enveloppe or a keltner channel. Another solution is to have x percent of some other measure, such as the trading range (high/low) of the past y days.
 - Extreme sentiment: In an uptrend crossover, the low has to surpass the moving average and not just the close; in a downtrend, the high has to be under the moving average, and not just the close.
 - Time: The close has to remain above (or below) the moving average for an additional x number of periods after the crossover date.
 - Volume: The crossover has to be accompanied by a significant rise in volume.
