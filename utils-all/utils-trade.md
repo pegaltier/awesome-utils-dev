@@ -1,21 +1,20 @@
-<h2>RULES</h2>
-<ol>
-<li>Follow trendline and close winning trade on trend line and rebuy if breakout appear</li>
-<li>Close winning especially if you are surexposed</li>
-<li>Close Stop Loss &#x26; Far away Take Profit</li>
-<li>Follow Trend/ADX/My indicator</li>
-</ol>
-<h2>MY STRATEGY</h2>
-<p>STRATEGY1: follow my indicators > led + trend<br>
-STRATEGY2: minimum time market buy stop<br>
-STRATEGY3: UP = REPLACE BUY STOP + STOP LOSS<br>
-STRATEGY4: volatility: 5% VOLAT = 100% BULL OR 10% VOLAT = 33% BULL OR 15% VOLAT = 0% BULL</p>
+# TRADE
+
+RULES
+
+- Follow long term trendline and close winning trade on a resitance trend line and rebuy if breakout appear.
+- Close winning especially if you are surexposed, you can also close to do a rotation.
+- Backtest & Follow your indicator.
+- Place your stop loss at entry point
+- Minimum time market buy stop & quick take profit 
+- Manage risk according to current volatily: 
 
 ## COMMON STRATEGY
 - long only
 - long/short
 - trend following (suivi de tendance)
 - mean reversion (retour à la moyenne) for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
+- short models turns flat if SP500 fall > -9% during the past 3 sessions.
 
 ## FILTER STRATEGY
 - detect the asset to focus on for a swing (3 days to 30 days)
@@ -84,6 +83,32 @@ Momentum is the speed or velocity of price changes in a stock, security, or trad
 - forces: longer it remains near support the more dangerous it becomes
 - ratio: rendement potentiel / risque (Sharpe et Sortino)
 - diversification: reduction risque
+
+## RANGE
+
+- ADX < X (like 25) / MMI (Market Meanness Index) / Momersion indicator / MA slope
+- If volatility is low, don't trade. Measure it as low ATR or narrow BB bands width etc
+
+- https://www.quora.com/Is-there-any-way-to-reduce-whipsaws-in-a-moving-average-based-trading-system
+
+## WHIPSAWS
+
+The classic moving average is generating a lot of whipsaws so you can add an extra filter to get rid of these false signals.
+
+- Ranging: The market is ranging you can ignore the signal to avoid the whipsaw.
+- Extent: The price has to surpass an additional upper band & lower band in order to trigger the signal, the upper&lower can be generated using different ways: adding x percent of the moving average or the moving average of the high/low. It can also be a classic bollinger band, an enveloppe or a keltner channel. Another solution is to have x percent of some other measure, such as the trading range (high/low) of the past y days.
+- Extreme sentiment: In an uptrend crossover, the low has to surpass the moving average and not just the close; in a downtrend, the high has to be under the moving average, and not just the close.
+- Time: The close has to remain above (or below) the moving average for an additional x number of periods after the crossover date.
+- Volume: The crossover has to be accompanied by a significant rise in volume.
+
+- https://www.dummies.com/article/business-careers-money/personal-finance/investing/general-investing/filter-out-whipsaws-from-your-trading-decisions-189994/
+- https://stockcharts.com/articles/arthurhill/2018/10/systemtrader---reducing-moving-average-whipsaws-with-smoothing-and-quantifying-filters-.html
+- https://stockcharts.com/articles/mailbag/2011/02/how-can-i-reduce-indicator-whipsaws-using-the-percentage-price-oscillator-to-filter-moving-average-s.html
+- https://stockcharts.com/articles/mailbag/2011/02/how-can-i-reduce-indicator-whipsaws-using-the-percentage-price-oscillator-to-filter-moving-average-s.html
+- http://www.traderslaboratory.com/forums/topic/6999-reducing-whipsaws-two-simple-methods/
+
+## RISK MANAGEMENT
+- measure the risk before an entry: % Distance from long MA. Could also be high ATR, bands etc.
 
 ## OBV
 
