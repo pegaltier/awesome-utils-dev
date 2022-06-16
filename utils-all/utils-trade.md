@@ -104,6 +104,7 @@ The classic moving average is generating a lot of whipsaws so you can add an ext
 - Extreme sentiment: In an uptrend crossover, the low has to surpass the moving average and not just the close; in a downtrend, the high has to be under the moving average, and not just the close.
 - Time: The close has to remain above (or below) the moving average for an additional x number of periods after the crossover date.
 - Volume: The crossover has to be accompanied by a significant rise in volume.
+- Smoothing: The shortest the moving average you use the more you will have whipsaws. so in this case you can smooth your signal by adding a first very short moving average (5 period) to the price and then calculate your initial moving average using this smoothed one.
 
 - https://www.dummies.com/article/business-careers-money/personal-finance/investing/general-investing/filter-out-whipsaws-from-your-trading-decisions-189994/
 - https://stockcharts.com/articles/arthurhill/2018/10/systemtrader---reducing-moving-average-whipsaws-with-smoothing-and-quantifying-filters-.html
