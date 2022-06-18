@@ -34,6 +34,7 @@
 - https://github.com/Kong/insomnia
 - https://github.com/Azure/autorest
 - https://github.com/slatedocs/slate
+- https://github.com/f0rb1d/postwoman
 - https://github.com/DataFire/DataFire
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch

@@ -45,6 +45,18 @@
 - When RSI goes below 45 on a daily timeframe it's bearish. (below 30 hyper bearish but also expect big reverse)
 - When RSI goes above 55 on a daily timeframe it's bullish. (above 70 hyper bullish but also expect big reverse)
 
+## Strat 3: bollinger bands: width
+
+Buys when Band Width reaches 20-day low and EMA1 > EMA2.
+Shorts when Band Width reaches 20-day low and EMA1 < EMA2.
+Exits position when EMA reverses.
+
+## Strat 4: bollinger bands: breakout
+
+Buy/short when price moves outside of the inner band (m1).
+Exit when the price moves into the inner band or to the outer bound (m2).
+
+- https://raposa.trade/blog/4-simple-strategies-to-trade-bollinger-bands/
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
@@ -141,6 +153,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## TOOLS
 - https://www.tradewell.app/
 - https://strategyquant.com/
+- https://raposa.trade/
 - https://www.tuned.com/
 - https://www.tv-hub.org/
 
@@ -176,6 +189,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## OSS
 
+### OSS: BOTS
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/paulcpk/freqtrade-strategies-that-work
@@ -205,6 +219,14 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/ldmonko/wolfinch
 - https://github.com/jesse-ai/jesse
 - https://github.com/stellar/kelp
+
+### OSS: BACKTESTS
+
+- https://github.com/ssantoshp/Wizardry
+- https://github.com/tvjsx/trading-vue-js
+- https://github.com/tradingview/lightweight-charts
+- https://github.com/jean-michel-gonet/angular-backtest
+- https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 
 ## DIARY
 

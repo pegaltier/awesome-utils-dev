@@ -376,6 +376,10 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://www.youtube.com/watch?v=ybNj-id0kjY Optimizing an Angular application runtime - Minko Gechev
 - https://www.youtube.com/watch?v=moUCZoJfhwY Angular Performance: Your App at the Speed of Light - Christian Liebel | NG-DE 2019
 - https://www.youtube.com/watch?v=ZI_MC3YdSo4 Angular Performance Workshop - Manfred Steyer
+- https://www.youtube.com/watch?v=34O7mXcWSRw Michael Hladky — Fully zone-less — high-performance Angular applications in post IVY - Feb 11, 2021
+- https://www.youtube.com/watch?v=xZblYz6VT8Y NG-BE 2021 - Michael Hladky - Performance at Scale - Dec 10, 2021
+- https://www.youtube.com/watch?v=adRawKeHi90 Michael Hladky - CSS Rendering Performance - May 9, 2022
+- https://www.youtube.com/watch?v=HTU4WYWGTIk Angular Performance at Scale by Michael Hladky - Apr 19, 2022
 - https://timdeschryver.dev/blog/help-angular-to-make-your-application-faster
 - https://medium.com/@dmitrymogilko/profiling-angular-change-detection-c00605862b9f
 - https://speakerdeck.com/mgechev/tools-for-fast-angular-applications
@@ -388,6 +392,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://github.com/mgechev/angular-performance-checklist
 - http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/
 - https://github.com/mgechev/scalable-architecture-demo
+- https://css-containment-debug.stackblitz.io/
 - http://amcdnl.com/2017/10/02/angular-performance-tip-preserve-whitespace
 - https://medium.com/ag-grid/5-tips-for-fixing-a-memory-leak-in-angular-debfc9ef9821
 - https://blog.ninja-squad.com/2018/09/06/angular-performances-part-1/
@@ -2099,7 +2104,6 @@ Analyze and optimize the performance of your app
 - https://github.com/AlexMiniApps/angular-code-input
 - https://github.com/shipshapecode/angular-shepherd
 - https://github.com/webcat12345/ngx-intl-tel-input
-- https://github.com/ivylaboratory/angular-carousel
 - https://github.com/LayZeeDK/ngx-foundation-sites
 - https://github.com/ivylaboratory/angular-gallery
 - https://github.com/adisreyaj/angular-star-rating
@@ -2113,7 +2117,6 @@ Analyze and optimize the performance of your app
 - https://github.com/neojato/ngx-barcode-input
 - https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/d-koppenhagen/ngx-lipsum
-- https://github.com/uiuniversal/ngu-carousel
 - https://github.com/matteobruni/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/joejordanbrown/popover
@@ -2162,7 +2165,6 @@ Analyze and optimize the performance of your app
 - https://github.com/chigix/rengular
 - https://github.com/angular-material-extensions
 - https://github.com/Gbuomprisco/ngx-chips
-- https://github.com/sanjayV/ng-image-slider
 - https://github.com/BioPhoton/angular-star-rating
 - https://github.com/BioPhoton/angular-signature-pad
 - https://github.com/Asymmetrik/ngx-leaflet
@@ -2183,7 +2185,6 @@ Analyze and optimize the performance of your app
 - https://github.com/mattlewis92/angular-draggable-droppable
 - https://github.com/mattlewis92/angular-resizable-element
 - https://github.com/kamiazya/ngx-speech-recognition
-- https://github.com/angular-slider/ng5-slider
 - https://github.com/reppners/ngx-drag-drop
 - https://github.com/surveyjs/survey-library
 - https://github.com/leifermendez/ngx-copilot
@@ -2204,7 +2205,6 @@ Analyze and optimize the performance of your app
 - https://github.com/aavanzyl/ngx-tiny
 - https://github.com/ngx-lib/multiselect
 - https://github.com/livechat/angular-livechat
-- https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 - https://github.com/nartc/nartc-workspace/tree/main/packages/ngx-lil-gui
 - https://github.com/bfwg/ngx-drag-scroll
 - https://github.com/tinymce/tinymce-angular
@@ -2239,6 +2239,14 @@ Analyze and optimize the performance of your app
 - https://github.com/exportarts/ngx-material-data-table
 - https://github.com/marinantonio/angular-mat-table-crud
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
+
+## ECOSYSTEM: LIB: COMPONENT: CAROUSEL/SLIDER
+- https://github.com/sanjayV/ng-image-slider
+- https://github.com/angular-slider/ng5-slider
+- https://github.com/uiuniversal/ngu-carousel
+- https://github.com/ivylaboratory/angular-carousel
+- https://github.com/JustCommunication-ru/ngx-splide
+- https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 
 ## ECOSYSTEM: LIB: COMPONENT: SCROLL
 
@@ -2512,6 +2520,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/alcfeoh/ng2-training
 - https://github.com/BioPhoton/angular-basic-ws
 - https://github.com/alcfeoh/ng-advanced-workshop
+- https://github.com/eliraneliassy/angular-v14-playground
 - https://github.com/tomastrajan/angular-state-management-workshop
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
@@ -2941,6 +2950,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
+
+### ANGULAR14
+- https://blog.angular.io/angular-v14-is-now-available-391a6db736af
 
 ### ANGULAR12
 
