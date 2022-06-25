@@ -99,6 +99,7 @@
 - https://github.com/colyseus/colyseus
 
 ## SERVER: EXPRESS/ITTY
+- https://github.com/chimurai/http-proxy-middleware
 - https://github.com/YahooArchive/express-state
 - https://github.com/mucahitnezir/express-starter
 - https://github.com/kwhitley/itty-router-extras

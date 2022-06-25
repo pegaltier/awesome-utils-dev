@@ -8,6 +8,7 @@
 
 <h2>AGILE</h2>
 - https://guide-agile.wishtack.io/
+- https://github.com/ksindi/managers-playbook
 - https://github.com/wishtack/gitbook-guide-agile
 - https://github.com/kdeldycke/awesome-engineering-team-management
 

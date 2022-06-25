@@ -457,6 +457,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/gmrchk/blobity
 - https://github.com/veltman/flubber
 - https://github.com/qrohlf/trianglify
+- https://github.com/davidkpiano/flipping
 - https://github.com/nolimits4web/atropos/
 - https://github.com/lucafalasco/scroll-snap
 - https://github.com/martinlaxenaire/curtainsjs
@@ -508,6 +509,9 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://www.bram.us/2021/04/30/scroll-linked-animations-with-css-scroll-timeline-css-cafe/
 - https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/
 - https://martinlaxenaire.medium.com/portfolio-2021-technical-case-study-rendering-a-whole-html-website-in-webgl-1cd2982c2050
+
+## CREATIVE COURSES
+- https://www.youtube.com/watch?v=zVbLR7rI8ZU David Khourshid - Behind the Illusions: Impossibly high-performance layout animations
 
 ## TRAINING
 

@@ -41,6 +41,7 @@
 - https://github.com/ndelphit/apkurlgrep
 - https://github.com/chenjj/CORScanner
 - https://github.com/hashcat/hashcat
+- https://github.com/gchq/CyberChef
 
 ## WEB SCAM / VIRUS
 - safebrowsing.google.com/safebrowsing/report_phish/?hl=en

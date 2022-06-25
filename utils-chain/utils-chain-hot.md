@@ -195,6 +195,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/artbrock/clutter
 - https://github.com/zo-el/Errand
 - https://github.com/felri/doom
+- https://github.com/holochain-immersive
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/
 

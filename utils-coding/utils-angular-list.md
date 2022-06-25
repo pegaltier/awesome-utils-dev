@@ -1578,6 +1578,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/pjlamb12/scully-plugin-page-title
 - https://github.com/pjlamb12/scully-plugin-canonical
 - https://github.com/d-koppenhagen/scully-plugin-mermaid
+- https://github.com/cmgriffing/scully-gh-pages-action
+- https://github.com/cmgriffing/scully-image
 - https://github.com/pjlamb12/scully-plugin-amp-css
 - https://github.com/scullyio/scully/tree/main/libs/plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
@@ -1691,6 +1693,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/irustm/ng-app-counter
 - https://github.com/cherryApp/ngc-esbuild
 - https://github.com/MurhafSousli/metabook
+- https://github.com/push-based/user-flow
 - https://github.com/teambit/bit-angular
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
@@ -1865,6 +1868,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/chrisguttandin/subscribable-things
 - https://github.com/ftischler/ngx-rxjs-zone-scheduler
 - https://github.com/rx-angular/rxjs-zone-less
+- https://github.com/santoshyadavdev/ngx-pwa-offline
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -1916,6 +1920,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngxs/schematics
 - https://github.com/ngneat/tailwind
 - https://github.com/ngneat/scam
+- https://github.com/ngneat/aim
 
 ## ECOSYSTEM: LIB: E2E TESTS
 
@@ -2210,6 +2215,7 @@ Analyze and optimize the performance of your app
 - https://github.com/tinymce/tinymce-angular
 - https://github.com/MurhafSousli/ngx-bar-rating
 - https://github.com/MurhafSousli/ngx-sharebuttons
+- https://github.com/CirclonGroup/angular-tree-component
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/MurhafSousli/ngx-gallery
 - https://github.com/ngx-lottie/ngx-lottie
@@ -2600,6 +2606,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/nhaancs/realworld-nx-nestjs-angular
 - https://github.com/bezkoder/angular-12-node-js-project
 - https://github.com/bezkoder/spring-boot-angular-11-mysql
+- https://github.com/bezkoder/spring-boot-angular-14-mysql-example
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SPA
 - https://github.com/mraible/ng-demo

@@ -29,9 +29,11 @@ WHEN: at the beginning of each new campaign or each trimester. You can also do r
 
 - https://opentags.io
 - https://rankgen.com
+- https://gtmetrix.com
 - https://ranxplorer.com
 - https://sitechecker.pro
 - https://fr.majestic.com
+- https://pagespeed.web.dev
 - http://seositecheckup.com
 - https://myrankingmetrics.com
 - https://www.drujokweb.fr/blog/audit-seo/

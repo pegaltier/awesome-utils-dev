@@ -151,6 +151,9 @@
 - https://github.com/KeyboardInterrupt/awesome-ansible
 
 ## DOCKER
+
+Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
+
 - https://github.com/docker/labs
 - https://github.com/qdm12/devtainr
 - https://github.com/croqaz/browsers
@@ -175,33 +178,28 @@
 
 ## DOCKER IMAGES
 - https://github.com/mailcow/mailcow-dockerized
+- https://github.com/SteveLTN/https-portal
 - https://github.com/bunkerity/bunkerized-nginx
 - https://github.com/bunkerity/bunkerized-mariadb
 - https://github.com/bunkerity/bunkerized-php
 
-1) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐭𝐨𝐩:  Displays the container's running processes
-$ docker top <container>
+```
 
-2) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐩𝐨𝐫𝐭: Lists container's port mappings
-$ docker port <container>
-
-3) 𝐝𝐨𝐜𝐤𝐞𝐫 𝐤𝐢𝐥𝐥: Kills the process! (not ideal)
-$ docker kill <container>
-
-4) 𝗱𝗼𝗰𝗸𝗲𝗿 𝗱𝗶𝗳𝗳: An handy command to check any changes to:
--files
--directories 
-
-on the container’s filesystem
-
-A: added file or directory
-C: changed file or directory was 
-D: deleted file or directory
-
-Usage:
-docker diff <container_ID/container_name>
+docker build . ==> Build the default local Dockerfile
+docker build -f Dockerfile.ssr . ==> Build a specific local Dockerfile
+docker logs <container> ==> Displays the container logs
+docker run -p 4200:8080 -d <sha256:your> ==> Run the image in localhost
+docker run -p 4000:4000 -h host.com -d <sha256:your> ==> Run the image in host.com
+docker run -p 4000:4000 -h host.com -v /host/path/to/certs:/container/path/to/certs -d <sha256:your> "update-ca-certificates" ==> Run the image in host.com with certificate
+docker top <container> ==> Displays the container's running processes
+docker port <container> ==> Lists container's port mappings
+docker kill <container> ==> Kills the process but it's not ideal
+docker diff <container_ID/container_name> ==> check changes to files&didirectories
+```
 
 ## VAGRANT
+
+```
 sudo vagrant up				>> ensure that .vagrant/machines/default/virtualbox/creator_uid is 0
 sudo vagrant halt
 sudo vagrant ssh
@@ -210,8 +208,11 @@ mysql -u root example -- just test
 ifconfig (add IP ADRESS 192.168.50.52 + remote DENY )
 sudo vim /etc/httpd/conf.d/phpMyAdmin.conf			>> KEYS: INSERT +  CTRL C + :w + :q
 sudo service httpd restart
+```
 
+```
 vim /etc/phpMyAdmin/config.inc.php
+```
 $cfg['Servers'][$i]['AllowNoPassword'] = TRUE;
 + MODIFY USER : root + secret
 

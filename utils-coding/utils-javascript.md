@@ -495,6 +495,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/boblauer/MockDate
 
 ## LIB: SECURITY
+- https://github.com/brix/crypto-js
 - https://github.com/travist/jsencrypt
 - https://github.com/paulmillr/scure-bip39
 - https://github.com/paulmillr/noble-ed25519
