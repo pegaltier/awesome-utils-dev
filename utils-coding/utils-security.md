@@ -84,6 +84,9 @@
 ### Anti debugging
 - https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d
 
+## Chrome extensions
+- https://gist.github.com/paulirish/78d6c1406c901be02c2d
+
 ### SOP: What is allowed and what is not?
 -Cross-origin writes are typically allowed: links, redirects, form submissions,
 -Cross-origin embedding is typically allowed: scripts, lib, css, images...

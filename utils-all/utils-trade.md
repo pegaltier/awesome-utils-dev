@@ -136,7 +136,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - when the trend is positive on many timeframes (at least 3): m15,h1,h4,d,w,m
 
 ## TRADINGVIEW
-
 - https://kodify.net/tradingview/plots/line-plot/
 - https://kodify.net/tradingview/colours/iff-conditional-colours/
 - https://kodify.net/tradingview/orders/strategy-entry/
@@ -149,6 +148,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tradingview.com/pine-script-docs/en/v4/essential/Sessions_and_time_functions.html
 - https://www.tradingview.com/pine-script-docs/en/v4/appendix/HOWTOs.html
 - https://www.tradingview.com/pine-script-docs/en/v4/language/Operators.html
+- https://www.tradingview.com/pine-script-docs/en/v5/concepts/Plots.html
+- https://stackoverflow.com/questions/48656195/what-is-the-equivalent-of-console-log-in-pine-script
 
 ## TOOLS
 - https://www.tradewell.app/
