@@ -140,8 +140,8 @@
 
 ## RATINGS
 - https://www.dprating.com/en/
-gcc china
-weissratings
+- gcc china
+- weissratings
 
 
 ## PROJECT

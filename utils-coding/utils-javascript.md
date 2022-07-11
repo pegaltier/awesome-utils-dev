@@ -219,6 +219,9 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/redwoodjs/redwood
 - https://github.com/juliancwirko/create-harold-app
 
+## LIB: AUTH
+- https://github.com/logto-io/logto
+
 ## LIB: UTILS
 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2

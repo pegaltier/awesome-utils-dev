@@ -5,6 +5,7 @@
 - https://regexr.com/
 - https://regex101.com/
 - https://regex-vis.com/
+- https://www.autoregex.xyz/
 - https://www.regextester.com/
 - https://www.textfixer.com/tools/
 

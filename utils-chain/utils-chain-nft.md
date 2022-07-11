@@ -303,6 +303,7 @@ forgeries in NFTs, meta data...
 - https://www.pinata.cloud
 - https://www.tribeone.io
 - https://www.mintgate.io
+- https://www.premint.xyz
 - https://airdrop.anyo.io
 - https://fioprotocol.io
 - https://www.niftex.org

@@ -1491,6 +1491,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/JamieMason/syncpack
 - https://github.com/gioragutt/nx-pwm
 - https://github.com/bit-architect/nx-utils
 - https://github.com/ndrsg/nx-ext
@@ -2516,6 +2517,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/graycoreio/daffodil
 - https://github.com/ng-alain/ng-alain
 - https://github.com/ng-alain/delon
+- https://github.com/analogjs/analog
 - https://github.com/akveo/ngx-admin
 - https://github.com/scullyio/scully
 - https://github.com/wizdmio/wizdm

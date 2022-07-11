@@ -456,6 +456,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/luruke/aladino
 - https://github.com/gmrchk/blobity
 - https://github.com/veltman/flubber
+- https://github.com/benjamminf/warpjs
 - https://github.com/qrohlf/trianglify
 - https://github.com/davidkpiano/flipping
 - https://github.com/nolimits4web/atropos/
