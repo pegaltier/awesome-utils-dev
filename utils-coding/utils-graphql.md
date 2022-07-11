@@ -92,6 +92,7 @@
 - https://github.com/pipedrive/graphql-schema-registry
 - https://github.com/n1ru4l/graphql-public-schema-filter
 - https://github.com/dangcuuson/graphql-schema-typescript
+- https://github.com/kamilkisiela/graphql-breaking-changes
 - https://github.com/dotansimha/graphql-typed-document-node
 
 ## MIGRATION

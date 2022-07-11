@@ -1492,6 +1492,8 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/gioragutt/nx-pwm
+- https://github.com/bit-architect/nx-utils
+- https://github.com/ndrsg/nx-ext
 - https://github.com/IKatsuba/runx
 - https://github.com/ng-easy/platform
 - https://github.com/sudokar/nx-serverless
@@ -2002,6 +2004,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/briebug/jest-schematic
 - https://github.com/skovhus/jest-codemods
 - https://github.com/bencompton/jest-cucumber
+- https://github.com/pact-foundation/pact-js
 - https://github.com/storybookjs/storybook
 - https://github.com/stryker-mutator/stryker
 - https://github.com/amcdnl/angular-storybook
@@ -2037,6 +2040,7 @@ Analyze and optimize the performance of your app
 - https://github.com/mgechev/ngrev
 - https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
+- https://github.com/nucliweb/webperf-snippets
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/danvk/source-map-explorer
 - https://github.com/ivanblazevic/ngx-unused-css
@@ -2410,7 +2414,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ng-bootstrap/ng-bootstrap
 - https://github.com/swimlane/ngx-ui
 - https://github.com/akveo/nebular/
-- https://github.com/vmware/clarity
+- https://github.com/vmware-clarity/ng-clarity
 - https://github.com/rdkmaster/jigsaw
 - https://github.com/primefaces/primeng
 - https://github.com/angular/components
@@ -2502,6 +2506,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/javascript-dragons/ionic-ecommerce
 - https://github.com/vendure-ecommerce/storefront
+- https://github.com/borjapazr/angular-skeleton
 - https://github.com/NationalBankBelgium/stark
 - https://github.com/NodeArt/angular-commerce
 - https://github.com/raymond-frontend/eShop
@@ -2597,6 +2602,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/neekware/fullerstack
 - https://github.com/rfprod/nx-ng-starter
+- https://github.com/DSpace/dspace-angular
 - https://github.com/wlucha/angular-starter
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/brechtbilliet/winecellar

@@ -78,8 +78,10 @@
 - https://github.com/sindresorhus/got
 - https://github.com/expressjs/multer
 - https://github.com/ai/nanocolors
+- https://github.com/nodejs/undici
 - https://github.com/verdaccio/verdaccio
 - https://github.com/mcollina/on-exit-leak-free
+- https://github.com/szmarczak/cacheable-lookup
 - https://github.com/calipersjs/calipers
 - https://github.com/piscinajs/piscina
 - https://github.com/Unitech/pm2

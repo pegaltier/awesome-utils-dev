@@ -83,6 +83,7 @@
 - https://github.com/Hotell/rea-di
 - https://github.com/pmndrs/valtio
 - https://github.com/facebook/relay
+- https://github.com/artsy/fresnel
 - https://github.com/TimboKZ/Chonky
 - https://github.com/moroshko/basis
 - https://github.com/vazco/uniforms
@@ -209,6 +210,7 @@
 - https://github.com/nandorojo/moti
 - https://github.com/facebook/react-native
 - https://github.com/rescript-react-native
+- https://github.com/kanzitelli/rnn-starter
 - https://github.com/react-native-menu/menu
 - https://github.com/onubo/react-native-logs
 - https://github.com/wix/react-native-ui-lib

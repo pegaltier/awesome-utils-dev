@@ -35,6 +35,7 @@
 - https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
 
 ## TOOLS OSS
+- https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/Authenticator-Extension/Authenticator
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/DontPanicO/jwtXploiter

@@ -68,6 +68,7 @@
 
 - https://github.com/andredesousa/javascript-unit-testing-best-practices
 - https://github.com/goldbergyoni/javascript-testing-best-practices
+- https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
 - https://github.com/jamiebuilds/itsy-bitsy-data-structures
@@ -76,6 +77,7 @@
 - https://github.com/dwyl/Javascript-the-Good-Parts-notes
 - https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/30-seconds/30-seconds-of-interviews
+- https://github.com/trekhleb/state-of-the-art-shitcode
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/elsewhencode/project-guidelines
@@ -143,6 +145,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/vercel/hazel
 - https://github.com/evanw/esbuild
 - https://github.com/webhintio/hint
+- https://github.com/Jarred-Sumner/bun
 - https://github.com/miragejs/miragejs
 - https://github.com/lukeed/astray
 - https://github.com/fkling/astexplorer
@@ -326,12 +329,6 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
 
-## LIB: ID
-- https://github.com/ai/nanoid
-- https://github.com/ulid/javascript
-- https://github.com/jedisct1/js-base64-ct
-- https://github.com/crypto-browserify/sha.js
-
 ## LIB: IP
 - https://github.com/whitequark/ipaddr.js
 
@@ -365,7 +362,6 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/OktaSecurityLabs/passprotect-js
-- https://github.com/tradingview/lightweight-charts
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
@@ -428,6 +424,10 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus
 
+## LIB: CHART
+- https://github.com/tradingview/lightweight-charts
+- https://github.com/plotly/plotly.js
+
 ## LIB: MEDIAS
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/openseadragon/openseadragon
@@ -474,6 +474,13 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/AsyncBanana/microdiff
 - https://github.com/quicktype/quicktype
 - https://github.com/calvintwr/issable
+
+## LIB: DATA UTILS
+- https://github.com/ai/nanoid
+- https://github.com/ulid/javascript
+- https://github.com/jedisct1/js-base64-ct
+- https://github.com/crypto-browserify/sha.js
+- https://github.com/GoogleChromeLabs/buffer-backed-object
 
 ## LIB: PDF
 - https://github.com/parallax/jsPDF

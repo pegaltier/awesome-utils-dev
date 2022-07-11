@@ -29,6 +29,7 @@
 - https://github.com/devpato/tech-podcasts-list
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/ryanburgess/engineer-manager
+- https://github.com/kitspace/awesome-electronics
 - https://github.com/zudochkin/awesome-newsletters
 - https://github.com/tuvtran/project-based-learning
 - https://github.com/orsinium/generated-awesomeness

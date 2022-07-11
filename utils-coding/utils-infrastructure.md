@@ -100,6 +100,15 @@
 ## JENKINS
 - https://github.com/jenkins-infra/pipeline-library
 
+## OPENSHIFT
+
+- https://github.com/openshift
+
+Both Kubernetes and OpenShift are popular container management systems, and each has its unique features and benefits. While Kubernetes helps automate application deployment, scaling, and operations, OpenShift is the container platform that works with Kubernetes to help applications run more efficiently.
+
+
+OpenShift Online leverages the Kubernetes concept of a pod, which is one or more containers deployed together on one host, and the smallest compute unit that can be defined, deployed, and managed. Pods are the rough equivalent of a machine instance (physical or virtual) to a container.
+
 ## KUBERNETES
 - https://helm.sh/
 - https://github.com/appvia/kev
@@ -131,6 +140,7 @@
 - https://github.com/kubernetes/ingress-nginx
 - https://github.com/viralpoetry/kubesurveyor
 - https://github.com/eon01/kubernetes-workshop
+- https://github.com/cert-manager/cert-manager
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/kubernauts/jmeter-kubernetes
 - https://github.com/Azure/vscode-kubernetes-tools
@@ -188,6 +198,7 @@ Docker allows you to package an application with its environment and all of its 
 docker build . ==> Build the default local Dockerfile
 docker build -f Dockerfile.ssr . ==> Build a specific local Dockerfile
 docker logs <container> ==> Displays the container logs
+docker run -it $(docker build -q .) ==> Build & Run inline the image in localhost
 docker run -p 4200:8080 -d <sha256:your> ==> Run the image in localhost
 docker run -p 4000:4000 -h host.com -d <sha256:your> ==> Run the image in host.com
 docker run -p 4000:4000 -h host.com -v /host/path/to/certs:/container/path/to/certs -d <sha256:your> "update-ca-certificates" ==> Run the image in host.com with certificate
