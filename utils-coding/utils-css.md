@@ -53,6 +53,7 @@
 - https://www.taniarascia.com/overview-of-css-concepts
 - https://www.joshwcomeau.com/animation/css-transitions/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox
+- https://github.com/learning-zone/css-interview-questions
 - https://moderncss.dev/complete-guide-to-centering-in-css/
 - https://engineering.kablamo.com.au/posts/2021/my-first-css
 - https://piccalil.li/tutorial/fluid-typography-with-css-clamp

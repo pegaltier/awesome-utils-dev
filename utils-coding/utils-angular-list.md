@@ -1811,6 +1811,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-web-apis/storage
 - https://github.com/xorets/tshtml
 - https://github.com/tomwhite007/ui-output-bus
+- https://github.com/chihab/ngx-env
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -1870,7 +1871,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/timdeschryver/rxjs-operator-counter
 - https://github.com/chrisguttandin/subscribable-things
 - https://github.com/ftischler/ngx-rxjs-zone-scheduler
-- https://github.com/rx-angular/rxjs-zone-less
 - https://github.com/santoshyadavdev/ngx-pwa-offline
 
 ## ECOSYSTEM: LIB: GENERAL
@@ -2039,8 +2039,10 @@ Learn the best way to make your objects immutable.
 Analyze and optimize the performance of your app
 
 - https://github.com/mgechev/ngrev
+- https://github.com/ywarezk/zoneless
 - https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
+- https://github.com/rx-angular/rxjs-zone-less
 - https://github.com/nucliweb/webperf-snippets
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/danvk/source-map-explorer
@@ -2470,6 +2472,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/angular/angularfire
 - https://github.com/auth0/angular2-jwt
 - https://github.com/auth0/auth0-angular
+- https://github.com/avatsaev/angular2-jwt
 
 ## ECOSYSTEM: LIB: PAYMENT
 
