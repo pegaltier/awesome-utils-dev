@@ -37,6 +37,7 @@
 ## TOOLS OSS
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/Authenticator-Extension/Authenticator
+- https://github.com/mgeeky/Penetration-Testing-Tools
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/DontPanicO/jwtXploiter
 - https://github.com/ndelphit/apkurlgrep

@@ -162,6 +162,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://raposa.trade/
 - https://www.tuned.com/
 - https://www.tv-hub.org/
+- https://www.mida.org/
+- https://mlalgotrading.com/
 
 ## TRADINGVIEW
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
@@ -198,8 +200,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## OSS
 
-### OSS: BOTS
+### OSS: QUALITY
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
+- https://github.com/Reiryoku-Technologies/Mida
+- https://github.com/Reiryoku-Technologies/Mida-Playground
+- https://github.com/Reiryoku-Technologies/Time-Series-Archive
+
+### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/paulcpk/freqtrade-strategies-that-work
 - https://github.com/thanhnguyennguyen/trading-indicator
