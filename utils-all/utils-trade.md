@@ -15,6 +15,9 @@
 - trend following
 - mean reversion for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
 
+## STOP LOSS/EXIT
+- gradual approach in reducing their position. If it’s a momentum trade they put the max size on and reduce gradually as the trade moves against them
+
 ## FILTER STRATEGY
 - detect the asset to focus on for a swing (3 days to 30 days)
 - the best TA pattern
