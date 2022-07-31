@@ -15,6 +15,9 @@
 - trend following
 - mean reversion for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
 
+## STOP LOSS/EXIT
+- gradual approach in reducing their position. If it’s a momentum trade they put the max size on and reduce gradually as the trade moves against them
+
 ## FILTER STRATEGY
 - detect the asset to focus on for a swing (3 days to 30 days)
 - the best TA pattern
@@ -162,6 +165,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://raposa.trade/
 - https://www.tuned.com/
 - https://www.tv-hub.org/
+- https://www.mida.org/
+- https://mlalgotrading.com/
 
 ## TRADINGVIEW
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
@@ -198,8 +203,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## OSS
 
-### OSS: BOTS
+### OSS: QUALITY
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
+- https://github.com/Reiryoku-Technologies/Mida
+- https://github.com/Reiryoku-Technologies/Mida-Playground
+- https://github.com/Reiryoku-Technologies/Time-Series-Archive
+
+### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/paulcpk/freqtrade-strategies-that-work
 - https://github.com/thanhnguyennguyen/trading-indicator

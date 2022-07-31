@@ -407,6 +407,7 @@ PANTOS — - https://pantos.io
 - https://custody.coinbase.com
 - https://www.zerothcrypto.com
 - https://www.chainfund.capital
+- https://www.1confirmation.com
 - https://www.panteracapital.com
 - http://www.coefficientventures.com
 - https://www.rockawayblockchain.com
