@@ -203,6 +203,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/gbumanzordev/component-communication
 - https://github.com/rainerhahnekamp/webinar-ngrx-best-practices
 - https://github.com/rainerhahnekamp/webinar-ngrx-best-practices/blob/master/slides.pdf
+- https://timdeschryver.dev/blog/why-we-should-verify-http-response-bodies-and-why-we-should-use-zod-for-this#creating-a-zod-schema
 - https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
 - https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
 - https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
@@ -2578,6 +2579,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/TrilonIO/universal-nest
 - https://github.com/brandonroberts/nx-ng-ssr
 - https://github.com/servrox/nx-ng-nest-universal
+- https://github.com/ganatan/angular-transferstate
 - https://github.com/TrilonIO/angular-universal-v9
 - https://github.com/adisreyaj/layer0-angular-example
 - https://github.com/mgechev/angular-hybrid-rendering

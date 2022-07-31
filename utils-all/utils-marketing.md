@@ -5,6 +5,8 @@
 
 ## ABTESTING
 - https://github.com/DigitalOptimizationGroup/cms
+- https://www.digitaloptgroup.com/
+- https://launchdarkly.com/
 
 <h2>Social Media</h2>
 <p><a href="https://www.quuu.co">https://www.quuu.co</a></p>
