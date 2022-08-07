@@ -390,6 +390,8 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://www.debugbear.com/blog/devtools-performance
 - https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
 - https://indepth.dev/are-you-using-scss-properly/
+- https://github.com/push-based/angular-movies-audits
+- https://github.com/push-based/css-contain-and-content-visibility-research
 - https://github.com/mgechev/angular-performance-checklist
 - http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/
 - https://github.com/mgechev/scalable-architecture-demo
@@ -2548,6 +2550,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/tastejs/angular-movies
 - https://github.com/brandonroberts/ng-vite
 - https://github.com/bampakoa/angular-heroes
+- https://github.com/ngneat/ng-standalone-nx
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone

@@ -44,6 +44,7 @@
 - https://github.com/privatenumber/tasuku
 - https://github.com/folke/ultra-runner
 - https://github.com/RetireJS/retire.js
+- https://github.com/enquirer/enquirer
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
 - https://github.com/sindresorhus/np

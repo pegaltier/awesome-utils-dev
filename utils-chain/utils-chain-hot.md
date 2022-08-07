@@ -158,6 +158,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/profiles
 - https://github.com/holochain-open-dev/membrane-roles
 - https://github.com/holochain-open-dev/interzome
+- https://github.com/holochain-open-dev/authority-real-time-sessions
 - https://github.com/holochain-open-dev/common
 - https://github.com/sacredcapital/ReputationDSL
 - https://github.com/hc-institute-japan/Kizuna
@@ -199,6 +200,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-immersive/private-publication
 - https://github.com/holochain-immersive/forum-happ
 - https://github.com/holochain-immersive
+- https://github.com/kaichaosun/ad4m-connect-poc
+- https://github.com/h-REA
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/
 

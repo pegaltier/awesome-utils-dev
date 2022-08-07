@@ -42,6 +42,7 @@
 - https://github.com/DontPanicO/jwtXploiter
 - https://github.com/ndelphit/apkurlgrep
 - https://github.com/chenjj/CORScanner
+- https://github.com/hktalent/scan4all
 - https://github.com/hashcat/hashcat
 - https://github.com/gchq/CyberChef
 
