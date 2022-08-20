@@ -47,6 +47,7 @@
 - https://untools.co/
 - https://github.com/iptv-org/iptv
 - https://github.com/pluja/awesome-privacy
+- https://github.com/neiesc/awesome-minimalist
 - https://github.com/alexanderisora/startuptoolbox
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://github.com/quadeare/selfhosted-software-list
