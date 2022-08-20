@@ -2549,6 +2549,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ng-matero/nx-starter
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
+- https://github.com/SanderElias/AnalogTest
 - https://github.com/tastejs/angular-movies
 - https://github.com/brandonroberts/ng-vite
 - https://github.com/bampakoa/angular-heroes
