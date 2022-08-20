@@ -168,6 +168,7 @@ Docker allows you to package an application with its environment and all of its 
 - https://github.com/docker/labs
 - https://github.com/qdm12/devtainr
 - https://github.com/croqaz/browsers
+- https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
 - https://github.com/ameerthehacker/envase
 - https://github.com/sigp/lighthouse-metrics

@@ -33,8 +33,6 @@
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/writefreely/writefreely
 - https://github.com/AykutSarac/jsonvisio.com
-- https://github.com/hadynz/obsidian-sidekick
-- https://github.com/tanepiper/obsidian-garden
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects
 
@@ -54,6 +52,14 @@
 - https://github.com/quadeare/selfhosted-software-list
 - https://github.com/RunaCapital/awesome-oss-alternatives
 - https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/BrambleXu/knowledge-graph-learning
+
+## Organise
+- https://github.com/dendronhq/dendron
+- https://github.com/hadynz/obsidian-sidekick
+- https://github.com/tanepiper/obsidian-garden
+- https://github.com/graydon/obsidian-html
+- https://github.com/AppFlowy-IO/AppFlowy 
 
 ## New
 - https://fig.io/

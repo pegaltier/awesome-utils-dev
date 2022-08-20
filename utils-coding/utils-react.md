@@ -143,6 +143,7 @@
 - https://github.com/danilowoz/react-content-loader
 - https://github.com/kettanaito/react-advanced-form
 - https://github.com/wellyshen/react-cool-dimensions
+- https://github.com/react-hook-form/react-hook-form
 - https://github.com/aaronhayes/react-use-hubspot-form
 - https://github.com/bezkoder/react-refresh-token-hooks
 - https://github.com/welldone-software/why-did-you-render
@@ -202,6 +203,7 @@
 - https://github.com/graphlatte/graphlatte
 - https://github.com/ScriptedAlchemy/DLAYS
 - https://github.com/leerob/on-demand-isr
+- https://github.com/studio-freight/satus
 - https://github.com/egoist/next-connect
 - https://github.com/amiroff/NextBook
 - https://github.com/maticzav/nookies
@@ -212,6 +214,7 @@
 ## NATIVE
 
 - https://github.com/nandorojo/moti
+- https://github.com/microsoft/rnx-kit
 - https://github.com/facebook/react-native
 - https://github.com/rescript-react-native
 - https://github.com/kanzitelli/rnn-starter

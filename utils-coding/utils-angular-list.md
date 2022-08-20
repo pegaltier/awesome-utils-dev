@@ -1841,6 +1841,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/wishtack/wishtack-steroids
 - https://github.com/ThomasBurleson/mindspace-utils
 - https://github.com/graycoreio/daffodil#packages
+- https://github.com/abdulnijamudeen/ngx-lib-workspace
 
 ## ECOSYSTEM: LIB: RXJS
 - https://github.com/observable-playground/observable-playground
@@ -2229,6 +2230,7 @@ Analyze and optimize the performance of your app
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/MurhafSousli/ngx-gallery
 - https://github.com/ngx-lottie/ngx-lottie
+- https://github.com/ng-icons/ng-icons
 - https://github.com/ngneat/dag
 
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT / GRID / TABLE
