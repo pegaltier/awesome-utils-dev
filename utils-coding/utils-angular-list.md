@@ -1991,6 +1991,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: UNIT TESTS
 
 - https://github.com/mswjs/msw
+- https://github.com/ealush/vest
 - https://github.com/ngneat/falso
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
@@ -2532,6 +2533,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/analogjs/analog
 - https://github.com/akveo/ngx-admin
 - https://github.com/scullyio/scully
+- https://github.com/truenas/webui
 - https://github.com/wizdmio/wizdm
 - https://github.com/SAP/spartacus
 - https://github.com/snipcart

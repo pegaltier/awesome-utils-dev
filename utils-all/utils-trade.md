@@ -181,7 +181,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://ghostfol.io/
 
 ## STRATEGY
-- https://github.com/freqtrade/freqtrade-strategies
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
@@ -203,12 +202,15 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TUTOS
 
-- https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ
-
+- https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ Part Time Larry
+- https://www.youtube.com/watch?v=Jb8l989IzTE Algotrading Frameworks: Overview
 ## OSS
 
 ### OSS: QUALITY
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
+- https://github.com/hummingbot/hummingbot
+- https://github.com/freqtrade/freqtrade
+- https://github.com/jesse-ai/jesse
 - https://github.com/Reiryoku-Technologies/Mida
 - https://github.com/Reiryoku-Technologies/Mida-Playground
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
@@ -218,9 +220,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
 - https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
 
+### OSS: STRATEGY
+- https://github.com/freqtrade/freqtrade-strategies
+- https://github.com/paulcpk/freqtrade-strategies-that-work
+
 ### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js
-- https://github.com/paulcpk/freqtrade-strategies-that-work
 - https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/cassandre-tech/cassandre-trading-bot
 - https://github.com/dk4jo3/abnormal-crypto-volume-alert
@@ -228,7 +233,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/hackingthemarkets/supertrend-crypto-bot
 - https://github.com/SamPom100/UnusualVolumeDetector
 - https://github.com/iterativv/NostalgiaForInfinity
-- https://github.com/freqtrade/freqtrade-strategies
 - https://github.com/johndpope/CryptoCurrencyTrader
 - https://github.com/JulyIghor/QtBitcoinTrader
 - https://github.com/dk4jo3/are-alts-bleeding
