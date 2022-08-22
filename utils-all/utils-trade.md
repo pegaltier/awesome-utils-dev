@@ -168,6 +168,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.mida.org/
 - https://mlalgotrading.com/
 
+## LEARN
+- https://hackingthemarkets.com/
+
 ## TRADINGVIEW
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 
@@ -189,6 +192,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.kryll.io/
 - https://napoleonx.ai/
 - https://www.napbots.com/
+- https://3c.crypttops.com/
 - https://www.shrimpy.io/
 - https://www.xorstrategy.com/
 - https://stackedinvest.com/
@@ -208,6 +212,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/Reiryoku-Technologies/Mida
 - https://github.com/Reiryoku-Technologies/Mida-Playground
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
+- https://github.com/hackingthemarkets?tab=repositories
+
+### OSS: TRADINGVIEW
+- https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
+- https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
 
 ### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js
@@ -216,6 +225,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/cassandre-tech/cassandre-trading-bot
 - https://github.com/dk4jo3/abnormal-crypto-volume-alert
 - https://github.com/MohammedRashad/Crypto-Copy-Trader
+- https://github.com/hackingthemarkets/supertrend-crypto-bot
 - https://github.com/SamPom100/UnusualVolumeDetector
 - https://github.com/iterativv/NostalgiaForInfinity
 - https://github.com/freqtrade/freqtrade-strategies
@@ -245,6 +255,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/jean-michel-gonet/angular-backtest
+- https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 
 ## DIARY

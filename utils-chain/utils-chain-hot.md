@@ -206,6 +206,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/kaichaosun/ad4m-connect-poc
 - https://github.com/neighbour-hoods/holochain_client_wrapper
 - https://github.com/neighbour-hoods/social_sensemaker
+- https://github.com/ddd-mtl/zome-utils
 - https://github.com/h-REA/hREA
 - https://github.com/Connoropolous/hrea-dashboard
 - https://holochain-ci.github.io/matrix/
