@@ -488,6 +488,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/emmabostian/design-inspiration
 - https://github.com/codrops/LineHoverStyles
 - https://github.com/codrops/ButtonHoverStyles
+- https://github.com/codrops/FullscreenScroll
 - https://github.com/codrops/InlineMenuLayout/
 - https://github.com/codrops/OnScrollLetterAnimations
 - https://github.com/codrops/ThumbHoverSVGFilter/

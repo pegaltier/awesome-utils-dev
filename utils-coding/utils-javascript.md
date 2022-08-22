@@ -105,6 +105,12 @@
 - https://wweb.dev/resources/js-array-functions-cheatsheet
 - https://wweb.dev/resources/js-object-functions-cheatsheet
 
+## AWESOME
+- https://github.com/stoeffel/awesome-fp-js
+- https://github.com/sorrycc/awesome-javascript
+- https://github.com/sindresorhus/awesome-electron
+- https://github.com/selfrefactor/useful-javascript-libraries
+
 ## ARTICLES BEST PRACTICES
 - https://dev.to/carlillo/clean-code-applied-to-javascript-part-vii-practical-refactoring-example-ceaser-cipher-2397
 - https://medium.com/better-programming/clean-code-applied-to-javascript-part-5-exceptions-d46e07691c19  
@@ -155,7 +161,6 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## FRAMEWORK: FRONTEND
 - https://github.com/electron-userland/electron-builder
-- https://github.com/sindresorhus/awesome-electron
 - https://github.com/TinkoffCreditSystems/tramvai
 - https://github.com/rough-stuff/rough-notation
 - https://github.com/bigskysoftware/htmx
@@ -248,8 +253,6 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/freesoftwarefactory/parse-multipart
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev
-- https://github.com/stoeffel/awesome-fp-js
-- https://github.com/sorrycc/awesome-javascript
 - https://github.com/fengyuanchen/cropperjs
 - https://github.com/stryker-mutator/stryker
 - https://github.com/staltz/promisify-4loc
@@ -257,8 +260,6 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/ajv-validator/ajv
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
-- https://github.com/ramda/ramda
-- https://github.com/lodash/lodash
 - https://github.com/jgranstrom/zipson
 - https://github.com/getcrft/jsonizer
 - https://github.com/danrevah/typeserializer
@@ -353,6 +354,12 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/Splidejs/splide
 - https://github.com/shikijs/shiki
 - https://github.com/Qix-/color
+
+## LIB: FUNCTIONNAL PROGRAMMING / FP
+- https://github.com/ramda/ramda
+- https://github.com/lodash/lodash
+- https://github.com/selfrefactor/rambda
+- https://github.com/selfrefactor/rambdax
 
 ## LIB: REACTIVE
 - https://github.com/Riim/cellx

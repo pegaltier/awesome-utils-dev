@@ -205,6 +205,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/rainerhahnekamp/webinar-ngrx-best-practices/blob/master/slides.pdf
 - https://timdeschryver.dev/blog/why-we-should-verify-http-response-bodies-and-why-we-should-use-zod-for-this#creating-a-zod-schema
 - https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
+- https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36
 - https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
 - https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
 
@@ -1815,6 +1816,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/xorets/tshtml
 - https://github.com/tomwhite007/ui-output-bus
 - https://github.com/chihab/ngx-env
+- https://github.com/moribvndvs/ng2-idle
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -1994,6 +1996,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/facebook/jest
 - https://github.com/faker-js/faker
 - https://github.com/ike18t/ng-mocks
+- https://github.com/sharkdp/hyperfine
 - https://github.com/ng-mocks/examples
 - https://github.com/google/intermock
 - https://github.com/ngneat/spectator
@@ -2044,6 +2047,7 @@ Analyze and optimize the performance of your app
 
 - https://github.com/mgechev/ngrev
 - https://github.com/ywarezk/zoneless
+- https://github.com/sharkdp/hyperfine
 - https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
 - https://github.com/rx-angular/rxjs-zone-less
