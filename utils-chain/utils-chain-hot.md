@@ -136,6 +136,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/hdk_crud
 - https://github.com/lightningrodlabs/notebooks
 - https://github.com/lightningrodlabs/attestations
+- https://github.com/lightningrodlabs/place
 - https://github.com/KoruProtocol/koru
 - https://github.com/holochain-engineers/team-mates
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md

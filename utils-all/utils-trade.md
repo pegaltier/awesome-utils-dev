@@ -234,6 +234,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/SamPom100/UnusualVolumeDetector
 - https://github.com/iterativv/NostalgiaForInfinity
 - https://github.com/johndpope/CryptoCurrencyTrader
+- https://github.com/DogsTailFarmer/martin-binance
 - https://github.com/JulyIghor/QtBitcoinTrader
 - https://github.com/dk4jo3/are-alts-bleeding
 - https://github.com/fremantle-industries/tai

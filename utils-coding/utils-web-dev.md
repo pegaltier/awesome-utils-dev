@@ -472,6 +472,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://www.aristidebenoist.com/
 - https://www.martin-laxenaire.fr/
 - https://github.com/jagracar/webgl-shader-examples
+- https://github.com/malerba118/react-particle-image
 - https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES
@@ -495,6 +496,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://github.com/brunoimbrizi/interactive-particles
 - https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel
+- https://github.com/adrianhajdin/project_modern_ui_ux_restaurant
 - https://github.com/akella/ExplodingObjects
 - https://tympanus.net/Tutorials/TriangleSlideshow/
 - https://tympanus.net/Development/InlineMenuLayout/
