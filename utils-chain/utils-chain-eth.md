@@ -34,6 +34,9 @@
 - https://github.com/dabit3/polygon-ethereum-nextjs-marketplace
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 
+## ETH SCALABILITY
+- https://github.com/beehive-innovation/rain-protocol
+
 ## ETH SMART CONTRACT EXAMPLE
 - https://github.com/ultiarena/ulti-coin
 - https://github.com/Titano-finance/Titano-contract

@@ -46,6 +46,7 @@
 
 - https://github.com/capacitor-community/admob
 - https://github.com/capacitor-community/stripe
+- https://github.com/Cap-go/capacitor-purchases
 - https://github.com/capacitor-community/sqlite
 - https://github.com/ionic-team/capacitor-docgen
 - https://github.com/capacitor-community/electron

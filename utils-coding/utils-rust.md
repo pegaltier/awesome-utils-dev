@@ -23,6 +23,7 @@
 - https://github.com/0x20F/paris
 
 ## VARIOUS
+- https://github.com/johanhelsing/matchbox
 - https://github.com/huhu/rust-search-extension
 - https://github.com/rust-lang/rustlings
 - https://github.com/rust-unofficial/awesome-rust

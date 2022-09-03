@@ -76,6 +76,9 @@
 - https://github.com/gatsbyjs/gatsby
 - https://github.com/blitz-js/blitz
 
+## GAME
+- https://github.com/cwackerfuss/react-wordle
+
 ## LIB: TOOLING
 - https://github.com/yannickcr/eslint-plugin-react
 

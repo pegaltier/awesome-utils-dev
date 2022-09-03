@@ -137,6 +137,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/kubernetes/dashboard
 - https://github.com/kubernetes-sigs/kind
 - https://github.com/kubernetes/kubernetes
+- https://github.com/kubernetes/autoscaler
 - https://github.com/shank-git/metal-kubes
 - https://github.com/kubernetes/ingress-nginx
 - https://github.com/viralpoetry/kubesurveyor
@@ -151,6 +152,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook
 - https://kubernetes.io/docs/tutorials/kubernetes-basics
 - https://github.com/diegolnasc/kubernetes-best-practices
+- https://github.com/padok-team/dojo-kubernetes-prometheus
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://github.com/ahmetb/kubernetes-network-policy-recipes
 
@@ -295,6 +297,7 @@ sudo certbot --apache -d hotelub.com -d www.hotelub.com # reconfigure
 ## NGINX
 
 - https://github.com/agile6v/awesome-nginx
+- https://github.com/digitalocean/nginxconfig.io
 
 ## CRON
 

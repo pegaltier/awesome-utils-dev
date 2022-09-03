@@ -1585,8 +1585,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/pjlamb12/scully-plugin-page-title
 - https://github.com/pjlamb12/scully-plugin-canonical
 - https://github.com/d-koppenhagen/scully-plugin-mermaid
-- https://github.com/cmgriffing/scully-gh-pages-action
-- https://github.com/cmgriffing/scully-image
+- https://github.com/cmgriffing/scully-gh-pages-action TOADD
+- https://github.com/cmgriffing/scully-image TOADD
 - https://github.com/pjlamb12/scully-plugin-amp-css
 - https://github.com/scullyio/scully/tree/main/libs/plugins
 - https://github.com/scullyio/scully/tree/main/libs/plugins/extra
@@ -1877,7 +1877,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/timdeschryver/rxjs-operator-counter
 - https://github.com/chrisguttandin/subscribable-things
 - https://github.com/ftischler/ngx-rxjs-zone-scheduler
-- https://github.com/santoshyadavdev/ngx-pwa-offline
+- https://github.com/santoshyadavdev/ngx-pwa-offline TOADD
+- https://github.com/ksz-ksz/rxjs-insights TOADD
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -2019,6 +2020,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/Ninja-Squad/ngx-speculoos
 - https://github.com/youdz/dry-angular-testing
+- https://github.com/marchaos/jest-mock-extended
 - https://github.com/jest-community/jest-extended
 - https://github.com/topnotch48/ng-bullet-workspace
 - https://github.com/juristr/angular-testing-recipes
@@ -2140,6 +2142,7 @@ Analyze and optimize the performance of your app
 - https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/matteobruni/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
+- https://github.com/AhsanAyaz/ngx-read-time
 - https://github.com/joejordanbrown/popover
 - https://github.com/ncstate-sat/popover
 - https://github.com/nbfontana/ngx-currency
@@ -2147,6 +2150,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
+- https://github.com/AhsanAyaz/ng2-emoji
 - https://github.com/tnicola/ngx-joyride
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/push-based/ngx-fast-svg
@@ -2222,6 +2226,7 @@ Analyze and optimize the performance of your app
 - https://github.com/scttcper/ngx-emoji-mart
 - https://github.com/DethAriel/ng-recaptcha
 - https://github.com/scttcper/ngx-toastr
+- https://github.com/IOMechs/angular-year-calendar
 - https://github.com/tinesoft/ngx-cookieconsent
 - https://github.com/aavanzyl/ngx-tiny
 - https://github.com/ngx-lib/multiselect
@@ -2574,6 +2579,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/nikosanif/angular-authentication
 - https://github.com/bezkoder/angular-13-crud-example
 - https://github.com/lacolaco/angular-testing-recipes
+- https://github.com/rainerhahnekamp/demo-angular-14-2
 - https://github.com/markostanimirovic/standalone-ngrx
 - https://github.com/pankajparkar/lazy-loading-recipes
 - https://github.com/rainerhahnekamp/angular-whitelabel
