@@ -20,6 +20,7 @@
 - https://kentcdodds.com/blog/typescript-function-syntaxes
 - https://github.com/ghoullier/awesome-template-literal-types
 - https://github.com/typescript-exercises/typescript-exercises
+- https://github.com/total-typescript/beginners-typescript-tutorial
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
 ## TOOLS
@@ -130,6 +131,9 @@
 
 ## LIB: FILE
 - https://github.com/lukeed/mrmime
+
+## LIB: SEARCH
+- https://github.com/LyraSearch/lyra
 
 ## LIB: ENCODING
 - https://github.com/msgpack/msgpack-javascript

@@ -208,6 +208,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36
 - https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
 - https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
+- https://github.com/AngularWave/angular.institute
 
 ## HELPER: DESIGN PATTERN
 
@@ -1263,6 +1264,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/manfredsteyer/module-federation-with-angular
 - https://github.com/manfredsteyer/multi-framework-micro-frontend
+- https://github.com/manfredsteyer/native-federation-core-example
 - https://github.com/module-federation/automatic-vendor-federation
 - https://github.com/manfredsteyer/module-federation-plugin-example
 - https://github.com/manfredsteyer/module-federation-plugin-example-nx
@@ -1932,6 +1934,12 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/scam
 - https://github.com/ngneat/aim
 
+## ECOSYSTEM: LIB: DESIGN SYSTEM
+- https://github.com/oblador/loki
+- https://github.com/storybookjs/storybook
+- https://github.com/amcdnl/angular-storybook
+- https://github.com/deanius/storybook-animate
+
 ## ECOSYSTEM: LIB: E2E TESTS
 
 - https://screenster.io/
@@ -1955,7 +1963,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/cypress-io/cypress-xpath
 - https://github.com/briebug/cypress-schematic
 - https://github.com/microsoft/playwright-test
-- https://github.com/deanius/storybook-animate
 - https://github.com/NoriSte/cypress-wait-until
 - https://github.com/smeijer/testing-playground
 - https://github.com/socreate/angular-playground
@@ -2015,9 +2022,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/skovhus/jest-codemods
 - https://github.com/bencompton/jest-cucumber
 - https://github.com/pact-foundation/pact-js
-- https://github.com/storybookjs/storybook
 - https://github.com/stryker-mutator/stryker
-- https://github.com/amcdnl/angular-storybook
 - https://github.com/Ninja-Squad/ngx-speculoos
 - https://github.com/youdz/dry-angular-testing
 - https://github.com/marchaos/jest-mock-extended
@@ -2534,6 +2539,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/sterlp/admin-template
 - https://github.com/graycoreio/daffodil
 - https://github.com/ng-alain/ng-alain
+- https://github.com/cisstech/nge-ide
 - https://github.com/ng-alain/delon
 - https://github.com/analogjs/analog
 - https://github.com/akveo/ngx-admin
@@ -2557,6 +2563,8 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/adisreyaj/wfh
+- https://github.com/eneajaho/ng-tauri
+- https://github.com/lacolaco/angular-sac
 - https://github.com/ng-matero/nx-starter
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
@@ -2585,6 +2593,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/rainerhahnekamp/angular-whitelabel
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
+- https://github.com/bezkoder/angular-material-14-file-upload
 - https://github.com/oktadev/okta-angular-dynamic-components-example
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
 
@@ -2601,6 +2610,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/TrilonIO/angular-universal-v9
 - https://github.com/adisreyaj/layer0-angular-example
 - https://github.com/mgechev/angular-hybrid-rendering
+- https://github.com/brandonroberts/analog-angular-ssr
 - https://github.com/angular-schule/demo-ssr-playground
 - https://github.com/TrilonIO/angular-universal-tutorial
 - https://github.com/mehrad-rafigh/nx-angular-universal

@@ -23,6 +23,7 @@
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
 - https://github.com/sniptt-official/ots
+- https://github.com/42wim/matterbridge
 - https://github.com/gristlabs/grist-core
 - https://github.com/DSpace/dspace-angular
 - https://github.com/abhinavsingh/proxy.py

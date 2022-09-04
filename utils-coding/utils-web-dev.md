@@ -431,9 +431,11 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## STARTER: WEB
 
+- https://github.com/aidenybai/lucia
 - https://github.com/cbracco/html5-test-page
 - https://github.com/jamesgeorge007/scaffold-static
 - https://github.com/wwebdev/static-website-template
+- https://github.com/manucorporat/qwik-conference-app
 
 ## STARTER: SSG
 - https://github.com/google/eleventy-high-performance-blog

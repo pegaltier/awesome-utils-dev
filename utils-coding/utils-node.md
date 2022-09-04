@@ -11,9 +11,10 @@
 - https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6
 - https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
 
-## NVM
+## PACKAGE MANAGER
 
 - https://github.com/coreybutler/nvm-windows
+- https://github.com/time-loop/only-allow
 - https://github.com/nvm-sh/nvm
 - https://github.com/pnpm/pnpm
 - https://github.com/tj/n
