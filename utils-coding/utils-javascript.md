@@ -487,13 +487,16 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/quicktype/quicktype
 - https://github.com/calvintwr/issable
 
-## LIB: DATA UTILS
+## LIB: DATA ENCODING
+- https://github.com/jedisct1/js-base64-ct
+- https://github.com/protobufjs/protobuf.js
+- https://github.com/crypto-browserify/sha.js
+- https://github.com/msgpack/msgpack-javascript
+- https://github.com/GoogleChromeLabs/buffer-backed-object
+
+## LIB: ID UTILS
 - https://github.com/ai/nanoid
 - https://github.com/ulid/javascript
-- https://github.com/jedisct1/js-base64-ct
-- https://github.com/crypto-browserify/sha.js
-- https://github.com/protobufjs/protobuf.js
-- https://github.com/GoogleChromeLabs/buffer-backed-object
 
 ## LIB: PDF
 - https://github.com/parallax/jsPDF

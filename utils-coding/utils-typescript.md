@@ -135,9 +135,6 @@
 ## LIB: SEARCH
 - https://github.com/LyraSearch/lyra
 
-## LIB: ENCODING
-- https://github.com/msgpack/msgpack-javascript
-
 ## LIB: COMPONENTS
 - https://github.com/daybrush/moveable
 
