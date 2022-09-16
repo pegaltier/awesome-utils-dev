@@ -145,6 +145,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/cert-manager/cert-manager
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/lightrun-platform/koolkits
+- https://github.com/GoogleContainerTools/kaniko
 - https://github.com/kubernauts/jmeter-kubernetes
 - https://github.com/Azure/vscode-kubernetes-tools
 - https://github.com/operator-framework/operator-sdk
@@ -178,6 +179,7 @@ Docker allows you to package an application with its environment and all of its 
 - https://github.com/docker-slim/docker-slim
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/leighmcculloch/dockerhost
+- https://github.com/ContainerSSH/ContainerSSH
 - https://github.com/tomMoulard/make-my-server
 - https://github.com/veggiemonk/awesome-docker
 - https://github.com/buildkite/docker-puppeteer

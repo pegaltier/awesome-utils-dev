@@ -430,12 +430,16 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://webofthings.org/standards/
 
 ## STARTER: WEB
-
 - https://github.com/aidenybai/lucia
+- https://github.com/modernweb-dev/rocket
 - https://github.com/cbracco/html5-test-page
 - https://github.com/jamesgeorge007/scaffold-static
 - https://github.com/wwebdev/static-website-template
+
+## STARTER: SPA GEN 3
 - https://github.com/manucorporat/qwik-conference-app
+- https://www.youtube.com/watch?v=iJZaT-AvJ-o Introducing Qwik w/ Misko Hevery & Shai Reznik
+- https://github.com/robisim74/qwik-speak
 
 ## STARTER: SSG
 - https://github.com/google/eleventy-high-performance-blog

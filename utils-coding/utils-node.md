@@ -13,6 +13,7 @@
 
 ## PACKAGE MANAGER
 
+- https://github.com/frehner/modern-guide-to-packaging-js-library
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/time-loop/only-allow
 - https://github.com/nvm-sh/nvm
@@ -75,6 +76,7 @@
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/frinyvonnick/node-html-to-image
 - https://github.com/panva/node-oidc-provider
+- https://github.com/log4js-node/log4js-node
 - https://github.com/microsoft/playwright
 - https://github.com/arcanis/clipanion
 - https://github.com/sindresorhus/got

@@ -283,6 +283,7 @@
 - https://github.com/calvium/react-native-device-screen-switcher
 - https://github.com/JustLance/react-native-iovation-deviceprint
 - https://github.com/thebylito/react-native-navigation-bar-color
+- https://github.com/software-mansion-labs/react-native-url-router
 - https://github.com/conorhastings/react-native-syntax-highlighter
 - https://github.com/heineiuo/react-native-animated-linear-gradient
 - https://github.com/a7med-mahmoud/react-native-prevent-screenshots

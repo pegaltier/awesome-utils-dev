@@ -23,6 +23,7 @@
 # DESIGN
 
 ## TOOLS
+- https://penpot.app
 - https://loading.io
 - https://squoosh.app
 - https://tinypng.com
@@ -171,6 +172,7 @@
 - https://unsplash.com/search/photos/pattern
 - https://products.ls.graphics/paaatterns/
 - https://1stwebdesigner.com/pattern-generator-online/
+- https://github.com/btmills/geopattern
 - https://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
 
 ## RESOURCES
@@ -253,6 +255,7 @@
 - https://github.com/MrPeker/awesome-illustrations
 - https://github.com/SamHerbert/SVG-Loaders
 - https://github.com/edent/SuperTinyIcons
+- https://github.com/penpot/penpot
 
 ## ARTICLES
 

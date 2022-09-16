@@ -254,6 +254,8 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/torokmark/design_patterns_in_typescript
 - https://github.com/Itchimonji/design-patterns-in-angular
 - https://github.com/Itchimonji/refactoring-switch-statements-in-angular
+- https://dev.to/aurelien_alet/hexagonal-architecture-with-angular-8ll
+- https://github.com/aurelien-alet/angular-toh-hexagonal
 
 ## HELPER: CHEAT-SHEETS
 
@@ -1214,9 +1216,10 @@ Discover alternative to ngrx for the state management of your objects.
 - https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 - https://www.youtube.com/watch?v=fBQnDSeN8r8 Brew your own state management vs NgRx
 
-## ECOSYSTEM: WEB-COMPONENTS
+## ECOSYSTEM: WEB-COMPONENTS WEBCOMPONENTS
 
 - https://webcomponents.dev/
+- https://github.com/11ty/webc
 - https://open-wc.org/publishing/
 - https://github.com/pregular/core
 - https://github.com/open-wc/open-wc
@@ -1249,6 +1252,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/tieppt/nx-micro-frontends
 - https://github.com/manfredsteyer/mf-pitfalls
 - https://github.com/valorkin/ng-mf-submodules
+- https://github.com/awslabs/frontend-discovery
 - https://github.com/TinkoffCreditSystems/roofer
 - https://github.com/single-spa/single-spa-angular
 - https://github.com/TinkoffCreditSystems/microzord
@@ -1954,6 +1958,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TradeMe/tractor
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
+- https://github.com/facebookincubator/memlab
 - https://github.com/jscutlery/test-utils
 - https://github.com/NetanelBasal/cyrun
 - https://github.com/DevExpress/testcafe
@@ -2156,7 +2161,6 @@ Analyze and optimize the performance of your app
 - https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
 - https://github.com/AhsanAyaz/ng2-emoji
-- https://github.com/tnicola/ngx-joyride
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/push-based/ngx-fast-svg
 - https://github.com/cormacrelf/angular-skyhook
@@ -2246,6 +2250,7 @@ Analyze and optimize the performance of your app
 - https://github.com/MurhafSousli/ngx-gallery
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/ng-icons/ng-icons
+- https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
 
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT / GRID / TABLE
@@ -2274,12 +2279,17 @@ Analyze and optimize the performance of your app
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
 ## ECOSYSTEM: LIB: COMPONENT: CAROUSEL/SLIDER
+- https://github.com/naver/egjs-flicking
 - https://github.com/sanjayV/ng-image-slider
 - https://github.com/angular-slider/ng5-slider
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/JustCommunication-ru/ngx-splide
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
+
+## ECOSYSTEM: LIB: COMPONENT: TOUR
+- https://github.com/tnicola/ngx-joyride
+- https://github.com/hakimio/ngx-ui-tour
 
 ## ECOSYSTEM: LIB: COMPONENT: SCROLL
 
@@ -2999,8 +3009,18 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
 
+### ANGULAR15
+- https://coderoasis.com/angular-simplifies-development/
+- https://www.youtube.com/watch?v=oC9Qd9yw3pE Directive Composition API Intro w/ Kristiyan Kostadinov
+
 ### ANGULAR14
 - https://blog.angular.io/angular-v14-is-now-available-391a6db736af
+- https://www.lucaspaganini.com/academy/whats-new-in-angular-14
+- https://dev.to/this-is-angular/angular-revisited-standalone-angular-applications-the-replacement-for-ngmodules-238m
+- https://www.youtube.com/watch?v=kE_zr5ZiPWc Standalone Components w/ Alex Rickabaugh
+
+## ANGULAR13
+- https://medium.com/@vyakymenko/lazy-load-non-routable-modules-with-components-in-angular-13-d99c9ef03a5
 
 ### ANGULAR12
 

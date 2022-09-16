@@ -137,6 +137,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/notebooks
 - https://github.com/lightningrodlabs/attestations
 - https://github.com/lightningrodlabs/place
+- https://github.com/lightningrodlabs/electron-holochain
 - https://github.com/KoruProtocol/koru
 - https://github.com/holochain-engineers/team-mates
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
@@ -179,13 +180,15 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/eyss/elemental-go
 - https://github.com/eyss/elemental-chess
 - https://github.com/eyss/elo
+- https://github.com/juntofoundation/neighbourhood-link-vis
 - https://github.com/juntofoundation/Acai-API
+- https://github.com/fluxsocial/Group-Expression
 - https://github.com/lucksus/perspectivism
 - https://github.com/perspect3vism/signing-service
 - https://github.com/perspect3vism/ad4m-executor
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-persistence
-- https://github.com/juntofoundation/neighbourhood-link-vis
+- https://github.com/perspect3vism/direct-message-language
 - https://github.com/ddd-mtl/delivery-zome
 - https://github.com/shanedeeodonnell/co-learning
 - https://github.com/harleygray/holochain-gym-links

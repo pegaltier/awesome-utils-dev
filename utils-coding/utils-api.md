@@ -17,6 +17,7 @@
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/squareboat/api-guidelines
 - https://github.com/marmicode/rest-api-checklist
+- https://github.com/philsturgeon/api-design-workshop
 - https://github.com/NationalBankBelgium/REST-API-Design-Guide
 
 - https://restfulapi.net/http-status-codes/
@@ -30,6 +31,7 @@
 - https://hoppscotch.io/
 - https://insomnia.rest/
 - https://pipedream.com/
+- https://stoplight.io/studio
 - https://github.com/APIs-guru
 - https://github.com/Kong/insomnia
 - https://github.com/Azure/autorest
@@ -38,6 +40,7 @@
 - https://github.com/DataFire/DataFire
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
+- https://github.com/Apicurio/apicurio-studio
 
 ## OPENAPI
 - https://github.com/asyncapi/modelina
@@ -61,6 +64,7 @@
 - https://my-json-server.typicode.com/
 - https://jsonplaceholder.typicode.com/
 - https://github.com/keploy/keploy
+- https://github.com/stoplightio/prism
 - https://github.com/miragejs/miragejs
 - https://github.com/mock-server/mockserver
 - https://github.com/typicode/jsonplaceholder

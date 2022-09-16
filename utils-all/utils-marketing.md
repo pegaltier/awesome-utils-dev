@@ -6,6 +6,7 @@
 ## ABTESTING
 - https://github.com/DigitalOptimizationGroup/cms
 - https://github.com/growthbook/growthbook
+- https://github.com/PostHog/posthog
 - https://www.digitaloptgroup.com/
 - https://www.growthbook.io/
 - https://launchdarkly.com/

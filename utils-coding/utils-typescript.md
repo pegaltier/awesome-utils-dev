@@ -182,6 +182,7 @@
 - https://github.com/practical-fp/union-types
 - https://github.com/seek-oss/vanilla-extract
 - https://github.com/data-forge/data-forge-ts
+- https://github.com/4lessandrodev/rich-domain
 - https://github.com/typestack/class-validator
 - https://github.com/devexperts/remote-data-ts
 - https://github.com/gbumanzordev/utility-types

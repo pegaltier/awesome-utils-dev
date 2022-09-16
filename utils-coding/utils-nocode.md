@@ -26,6 +26,7 @@ low-code tooling to prototype fastly.
 ## headless cms
 - https://prismic.io/
 - https://www.contentful.com/
+- https://github.com/contentlayerdev/contentlayer
 
 ## landing
 - https://www.landen.co
