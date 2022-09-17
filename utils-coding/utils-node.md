@@ -44,6 +44,7 @@
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/styfle/packagephobia
 - https://github.com/privatenumber/tasuku
+- https://github.com/ds300/patch-package
 - https://github.com/folke/ultra-runner
 - https://github.com/RetireJS/retire.js
 - https://github.com/enquirer/enquirer

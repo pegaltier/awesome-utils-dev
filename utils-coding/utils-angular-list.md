@@ -2011,6 +2011,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/faker-js/faker
 - https://github.com/ike18t/ng-mocks
 - https://github.com/sharkdp/hyperfine
+- https://github.com/mmkal/expect-type
 - https://github.com/ng-mocks/examples
 - https://github.com/google/intermock
 - https://github.com/ngneat/spectator
@@ -2160,6 +2161,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ivylaboratory/ivypinch
 - https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
+- https://github.com/Enngage/ngx-captcha
 - https://github.com/AhsanAyaz/ng2-emoji
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/push-based/ngx-fast-svg
@@ -2492,6 +2494,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/assuncaocharles/ngx-indexed-db
 - https://github.com/stevermeister/ngx-cookie-service
 - https://github.com/cyrilletuzi/angular-async-local-storage
+- https://github.com/ngx-builders/angular-async-local-storage
 
 ## ECOSYSTEM: LIB: AUTH
 

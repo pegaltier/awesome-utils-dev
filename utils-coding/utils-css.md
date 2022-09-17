@@ -74,6 +74,7 @@
 
 - https://github.com/jgthms/bulma
 - https://github.com/r1/cssbuttons
+- https://github.com/jonsuh/hamburgers
 - https://github.com/linkedin/css-blocks
 - https://github.com/vasanthv/stylize.css
 - https://github.com/css-doodle/css-doodle

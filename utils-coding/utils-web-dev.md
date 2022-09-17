@@ -430,6 +430,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://webofthings.org/standards/
 
 ## STARTER: WEB
+- https://github.com/arwes/arwes
 - https://github.com/aidenybai/lucia
 - https://github.com/modernweb-dev/rocket
 - https://github.com/cbracco/html5-test-page

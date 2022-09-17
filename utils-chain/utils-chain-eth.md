@@ -40,6 +40,7 @@
 ## ETH SMART CONTRACT EXAMPLE
 - https://github.com/ultiarena/ulti-coin
 - https://github.com/Titano-finance/Titano-contract
+- https://github.com/EatTheBlocks/smart-contract-security-201
 
 ## ETH TOOLS/EXPLORER
 - https://sourcify.dev

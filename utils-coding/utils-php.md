@@ -106,6 +106,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/xssc/awesome-slim
 - https://github.com/zhorton34/authorize-slim-4
 - https://github.com/selective-php/samesite-cookie
+- https://github.com/akrabat/rka-slim-session-middleware
 - https://github.com/bryanjhv/slim-session
 - https://github.com/selective-php/basepath
 - https://github.com/selective-php/session

@@ -144,6 +144,7 @@
 - https://github.com/gcanti/fp-ts
 - https://github.com/gigobyte/purify
 - https://github.com/gcanti/fp-ts-contrib
+- https://github.com/Effect-TS/core
 
 ## LIB: DATA OBJECT
 - https://github.com/jquense/yup
