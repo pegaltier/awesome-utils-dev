@@ -214,6 +214,7 @@
 - https://wweb.dev/
 - http://jsawards.org/
 - http://bestof.js.org/
+- https://divriots.com/
 - https://www.frontendpractice.com/
 
 ## PLUGINS
@@ -437,10 +438,18 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/jamesgeorge007/scaffold-static
 - https://github.com/wwebdev/static-website-template
 
-## STARTER: SPA GEN 3
+## STARTER: SPA GEN 3 OSS
+- https://github.com/learnwithjason/resumable-apps-qwik
 - https://github.com/manucorporat/qwik-conference-app
-- https://www.youtube.com/watch?v=iJZaT-AvJ-o Introducing Qwik w/ Misko Hevery & Shai Reznik
+- https://github.com/awesome-club/awesome-qwik
 - https://github.com/robisim74/qwik-speak
+
+## STARTER: SPA GEN 3 VIDEOS
+- https://www.youtube.com/watch?v=iJZaT-AvJ-o Introducing Qwik w/ Misko Hevery & Shai Reznik
+- https://www.youtube.com/watch?v=sCPLWf2cEY0 Misko Hevery | Reliable Web Summit 2021
+- https://www.youtube.com/watch?v=cC1Af_79JJI Resumable Frameworks: | Miško Hevery | ng-conf 2022 Webinar
+- https://www.youtube.com/watch?v=x2eF3YLiNhY Qwik… the world's first O(1) JavaScript framework?
+- https://www.youtube.com/watch?v=_PDpoJUacuc Build Resumable Apps with Qwik - Learn With Jason
 
 ## STARTER: SSG
 - https://github.com/google/eleventy-high-performance-blog

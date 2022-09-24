@@ -114,3 +114,8 @@
 
 ## JVM
 - https://www.azul.com/products/zing/
+
+## CHEATSHEETS
+
+
+Use nullable instead of ternary operator: LocalDate dateTime = Optional.ofNullable(offerDate).map(LocalDateTime::toLocalDate).orElseGet(LocalDate::now);

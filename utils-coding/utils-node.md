@@ -18,6 +18,7 @@
 - https://github.com/time-loop/only-allow
 - https://github.com/nvm-sh/nvm
 - https://github.com/pnpm/pnpm
+- https://github.com/antfu/ni
 - https://github.com/tj/n
 
 ## LIST

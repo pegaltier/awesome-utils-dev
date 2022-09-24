@@ -1,6 +1,9 @@
 
 # SQL
 
+## LEARN
+- https://github.com/mwenge/dirtylittlesql.com
+
 ## SCALING
 - https://github.com/dbgate/dbgate
 - https://github.com/jeremydaly/serverless-mysql

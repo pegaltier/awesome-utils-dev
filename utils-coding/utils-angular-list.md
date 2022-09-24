@@ -1218,6 +1218,7 @@ Discover alternative to ngrx for the state management of your objects.
 
 ## ECOSYSTEM: WEB-COMPONENTS WEBCOMPONENTS
 
+- https://components.studio/
 - https://webcomponents.dev/
 - https://github.com/11ty/webc
 - https://open-wc.org/publishing/
@@ -1692,6 +1693,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TrilonIO/angular-application-insights
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/expertly-simple/angular-evergreen
+- https://github.com/nitedani/vite-plugin-angular
 - https://github.com/irustm/ng-template-parser
 - https://github.com/angular/ngcc-validation
 - https://github.com/rangle/angular-devtools
@@ -2832,6 +2834,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/d-koppenhagen/ngx-semantic-version
 - https://github.com/mgechev/ngrev
 - https://github.com/rangle/batarangle/
+- https://github.com/Lowgular/extension-documentation
 - https://github.com/manekinekko/angular2-dependencies-graph
 - https://dev.to/zaklaughton/every-vs-code-extension-a-javascript-web-developer-should-have-in-2020-with-gifs-2b6n
 - https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21
@@ -2850,7 +2853,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+- https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console
 - https://marketplace.visualstudio.com/items?itemName=bilelmsekni.componizer
+- https://marketplace.visualstudio.com/items?itemName=ranyitz.search-presets
 - https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
 - https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials

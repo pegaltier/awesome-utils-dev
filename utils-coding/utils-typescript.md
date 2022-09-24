@@ -14,6 +14,7 @@
 - https://github.com/labs42io/clean-code-typescript
 - https://github.com/type-challenges/type-challenges
 - https://github.com/DanWahlin/typescript-fundamentals
+- https://github.com/santoshyadavdev/typescript-basics
 - https://github.com/microsoft/TypeScript-New-Handbook
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://github.com/enricopolanski/functional-programming
@@ -282,6 +283,16 @@ es6 collections 		const users = new Map(); OU const users = new Set();
 es6 iterer				for (let user of users) {   console.log(user.name); } 
 es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`; 
 
+## CHEATSHEETS
+
+typescript object literal map: { [key: string]: string };
+typescript object literal from enum: {
+	[key in MyEnum]: string;
+} = {
+	[CatalogIdOption.UID]: 'id',
+	[CatalogIdOption.MGBID]: 'migrosId',
+	[CatalogIdOption.MOID]: 'migrosOnlineId'
+};
 
 ## IMPORTS PATH
 

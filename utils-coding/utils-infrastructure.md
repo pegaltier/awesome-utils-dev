@@ -9,6 +9,7 @@
 - https://github.com/sathishvj/awesome-gcp-certifications
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/bregman-arie/devops-exercises
+- https://github.com/nubenetes/awesome-kubernetes
 - https://github.com/kahun/awesome-sysadmin
 - https://github.com/ripienaar/free-for-dev
 

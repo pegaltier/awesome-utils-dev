@@ -16,6 +16,7 @@
 - http://www.menucool.com/css-menu
 - https://www.cssgradienteditor.com/
 - https://fluid-typography.netlify.app/
+- https://www.style-dictionary-play.dev/
 - https://dailydevlinks.com/minimal-css-loader-collection
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
@@ -24,6 +25,7 @@
 - https://9elements.github.io/fancy-border-radius
 - https://github.com/picturepan2/devices.css
 - https://github.com/sdras/cssgridgenerator
+- https://github.com/amzn/style-dictionary
 - https://css-shorthands.netlify.app/
 - https://markodenic.com/css-tips/
 - https://cssbuttons.vercel.app/

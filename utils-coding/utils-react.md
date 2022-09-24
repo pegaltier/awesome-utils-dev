@@ -119,6 +119,7 @@
 - https://github.com/alampros/react-confetti
 - https://github.com/voliva/reactive-rx-form
 - https://github.com/mfrachet/rn-placeholder
+- https://github.com/react-dates/react-dates
 - https://github.com/eclipsesource/jsonforms
 - https://github.com/pmndrs/react-three-fiber
 - https://github.com/LouisBarranqueiro/reapop
