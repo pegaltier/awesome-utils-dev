@@ -32,6 +32,7 @@
 ## UTILS
 
 - https://github.com/animir/node-rate-limiter-flexible
+- https://github.com/bahmutov/start-server-and-test
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/radarsu/types-package-json
 - https://github.com/davglass/license-checker
@@ -56,6 +57,7 @@
 - https://github.com/alallier/reload
 - https://github.com/typicode/husky
 - https://github.com/unjs/ohmyfetch
+- https://github.com/google/wireit
 - https://github.com/ranyitz/newsh
 - https://github.com/lirantal/npq
 - https://github.com/amio/npm-why
@@ -93,6 +95,10 @@
 - https://github.com/Unitech/pm2
 - https://github.com/cacjs/cac
 - https://github.com/eta-dev/eta
+- https://github.com/leeoniya/uFuzzy
+
+## LIBS: AI
+- https://github.com/naptha/tesseract.js
 
 ## LIBS: DB
 - https://github.com/ndaidong/flat-db

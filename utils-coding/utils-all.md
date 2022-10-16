@@ -34,6 +34,7 @@
 - https://github.com/tuvtran/project-based-learning
 - https://github.com/orsinium/generated-awesomeness
 - https://github.com/tuvtran/project-based-learning
+- https://github.com/kamranahmedse/developer-roadmap
 - https://github.com/dmitryvinn/awesome-dev-advocacy
 - https://github.com/meilisearch/awesome-meilisearch
 - https://github.com/dersvenhesse/awesome-scriptable

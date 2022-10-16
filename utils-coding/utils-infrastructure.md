@@ -7,6 +7,7 @@
 ## LIST
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/sathishvj/awesome-gcp-certifications
+- https://github.com/stephrobert/awesome-french-devops
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/bregman-arie/devops-exercises
 - https://github.com/nubenetes/awesome-kubernetes
@@ -15,6 +16,7 @@
 
 ## COURSES
 - https://github.com/isolutionsag/devops-security-cheat-sheet
+- https://github.com/K8sAcademy/Fundamentals-HandsOn
 
 ## HELPER
 - https://github.com/lebinh/nginx-conf
@@ -122,6 +124,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/pixie-io/pixie
 - https://github.com/ubuntu/microk8s
 - https://github.com/mkimuram/k8sviz
+- https://github.com/paralus/paralus
 - https://github.com/Portshift/kubei
 - https://github.com/cilium/hubble-ui
 - https://github.com/loft-sh/jspolicy
@@ -142,6 +145,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/shank-git/metal-kubes
 - https://github.com/kubernetes/ingress-nginx
 - https://github.com/viralpoetry/kubesurveyor
+- https://github.com/edgelesssys/constellation
 - https://github.com/eon01/kubernetes-workshop
 - https://github.com/cert-manager/cert-manager
 - https://github.com/eldada/kubernetes-scripts

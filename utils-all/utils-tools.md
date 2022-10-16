@@ -14,6 +14,8 @@
 - https://github.com/zulip/zulip
 - https://github.com/schollz/croc
 - https://github.com/nocodb/nocodb
+- https://github.com/zedeus/nitter
+- https://github.com/yt-dlp/yt-dlp
 - https://github.com/axa-group/Parsr
 - https://github.com/notable/notable
 - https://github.com/alyssaxuu/omni
@@ -22,8 +24,10 @@
 - https://github.com/pavlobu/deskreen
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
-- https://github.com/sniptt-official/ots
 - https://github.com/42wim/matterbridge
+- https://github.com/sniptt-official/ots
+- https://github.com/syncthing/syncthing
+- https://github.com/iterate-ch/cyberduck
 - https://github.com/gristlabs/grist-core
 - https://github.com/DSpace/dspace-angular
 - https://github.com/abhinavsingh/proxy.py
@@ -32,10 +36,19 @@
 - https://github.com/mattermost/focalboard
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/adisreyaj/cartella-web
+- https://github.com/dani-garcia/vaultwarden
 - https://github.com/writefreely/writefreely
 - https://github.com/AykutSarac/jsonvisio.com
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects
+
+# Photo
+- https://github.com/immich-app/immich
+- https://github.com/electerious/Lychee
+- https://github.com/photoprism/photoprism
+
+# Web
+- https://github.com/iamadamdev/bypass-paywalls-chrome
 
 ## Diagram
 - https://flowchart.fun/

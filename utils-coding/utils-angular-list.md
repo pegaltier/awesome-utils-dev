@@ -1887,6 +1887,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ftischler/ngx-rxjs-zone-scheduler
 - https://github.com/santoshyadavdev/ngx-pwa-offline TOADD
 - https://github.com/ksz-ksz/rxjs-insights TOADD
+- https://github.com/ngneat/subscribe TOADD
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -1958,6 +1959,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/rrweb-io/rrweb
 - https://github.com/Netflix/pollyjs
 - https://github.com/TradeMe/tractor
+- https://github.com/bahmutov/cy-api
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
 - https://github.com/facebookincubator/memlab
@@ -2164,6 +2166,7 @@ Analyze and optimize the performance of your app
 - https://github.com/lars-berger/graphy-ng
 - https://github.com/leNicDev/ng-hcaptcha
 - https://github.com/Enngage/ngx-captcha
+- https://github.com/yp2/ngx-cron-jobs
 - https://github.com/AhsanAyaz/ng2-emoji
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/push-based/ngx-fast-svg
