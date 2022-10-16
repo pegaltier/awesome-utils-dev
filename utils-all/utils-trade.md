@@ -319,3 +319,15 @@ Stephane Ceaux-Dutheil.
 - https://fuserleer.online/exchange_data/
 - https://www.youtube.com/watch?v=myydDX-us4o
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
+
+## TOOLS
+
+Free helpful Stock Market tools🏆
+
+>Screener- Funda Screening
+>Trendlyne -Sector analysis
+>Chartink - Technical screening
+>Tickertape- Funda Analysis
+>StockEdge- Shareholding/Tracking
+>Ratestar- PE/Growth Analysis
+>Tradingview- Charting
