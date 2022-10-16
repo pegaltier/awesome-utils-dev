@@ -39,6 +39,7 @@
 - https://github.com/meilisearch/awesome-meilisearch
 - https://github.com/dersvenhesse/awesome-scriptable
 - https://github.com/louelladev/Helpful-Tech-Resources
+- https://github.com/kitze/awesome-conference-practices
 - https://github.com/cloudcommunity/Free-Certifications
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development
