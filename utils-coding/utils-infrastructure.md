@@ -129,7 +129,9 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/cilium/hubble-ui
 - https://github.com/loft-sh/jspolicy
 - https://github.com/hobby-kube/guide
+- https://github.com/furiko-io/furiko
 - https://github.com/godaddy/terminus
+- https://github.com/jpetazzo/nsplease
 - https://github.com/porter-dev/porter
 - https://github.com/armosec/kubescape
 - https://github.com/yogeshkk/K8sPurger
@@ -175,6 +177,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 
 Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
 
+- https://github.com/quay/clair
 - https://github.com/docker/labs
 - https://github.com/qdm12/devtainr
 - https://github.com/croqaz/browsers
@@ -183,6 +186,7 @@ Docker allows you to package an application with its environment and all of its 
 - https://github.com/ameerthehacker/envase
 - https://github.com/sigp/lighthouse-metrics
 - https://github.com/docker-slim/docker-slim
+- https://github.com/jesseduffield/lazydocker
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/leighmcculloch/dockerhost
 - https://github.com/ContainerSSH/ContainerSSH

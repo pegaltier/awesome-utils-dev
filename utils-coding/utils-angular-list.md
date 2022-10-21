@@ -1125,7 +1125,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 
 ## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
-
+- https://github.com/ngworker/router-component-store
 - https://github.com/LayZeeDK/ngrx-router-component-store
 - https://github.com/beeman/component-store-playground
 - https://github.com/dsebastien/ngrx-component-store-demo
@@ -1187,6 +1187,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/zerobias/effector
 - https://github.com/cerebral/overmind
 - https://github.com/maktarsis/routeshub
+- https://github.com/preactjs/signals
 - https://github.com/danwahlin/observable-store
 - https://github.com/redux-observable/redux-observable
 - https://github.com/markerikson/redux-ecosystem-links
@@ -1470,6 +1471,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/lerna/lerna
 - https://github.com/pnpm/pnpm
 - https://github.com/yarnpkg/berry
+- https://github.com/mateodelnorte/meta
+- https://github.com/platformatic/platformatic
 - https://github.com/preconstruct/preconstruct
 - https://github.com/jscutlery/semver
 - https://github.com/atlassian/changesets
@@ -1511,6 +1514,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/sudokar/nx-serverless
 - https://github.com/billyjov/awesome-nx
 - https://github.com/trumbitta/nx-trumbitta
+- https://github.com/spaceribs/spaceribs
 - https://github.com/jscutlery/nx-completion
 - https://github.com/nrwl/nx-examples
 - https://github.com/srleecode/domain
@@ -1559,6 +1563,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/balazsconf/monodemo
 - https://github.com/vsavkin/interstellar
 - https://github.com/nxpm/stack
+- https://github.com/changesets/changesets
 - https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/manfredsteyer/custom-nx-cache
@@ -1962,6 +1967,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/bahmutov/cy-api
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
+- https://www.herodevs.com/support/endbridge
+- https://github.com/tnicola/cypress-parallel
 - https://github.com/facebookincubator/memlab
 - https://github.com/jscutlery/test-utils
 - https://github.com/NetanelBasal/cyrun
@@ -2049,6 +2056,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/brandonroberts/angular-testing-library
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/testing-library/jest-dom
+- https://github.com/jest-community/jest-junit
 - https://github.com/kulshekhar/ts-jest
 - https://github.com/nicolo-ribaudo/jest-light-runner
 - https://github.com/americanexpress/jest-image-snapshot
@@ -2688,6 +2696,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/waynegakuo/resumebuilder
 - https://github.com/ganatan/angular-prototype
 - https://github.com/MSakamaki/multiple-stores
+- https://github.com/edbzn/rx-angular-todo-mvc
 - https://github.com/alan-agius4/prune-css-poc
 - https://github.com/herodevs/material-studies
 - https://github.com/retarsis/angular-warehouse
@@ -2886,8 +2895,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## ECOSYSTEM: VSCODE OTHERS
 
 - https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+- https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
 - https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
 - https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet
+- https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules

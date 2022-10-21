@@ -82,6 +82,7 @@
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/trekhleb/javascript-algorithms
+- https://github.com/mbeaudru/modern-js-cheatsheet
 - https://github.com/Sairyss/domain-driven-hexagon
 - https://github.com/30-seconds/30-seconds-of-code
 - https://github.com/mgechev/javascript-algorithms
@@ -165,6 +166,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/rough-stuff/rough-notation
 - https://github.com/bigskysoftware/htmx
 - https://github.com/smallbets/userbase
+- https://github.com/LavaMoat/LavaMoat
 - https://github.com/cyclejs/cyclejs
 - https://github.com/remix-run/remix
 - https://github.com/Tencent/omi
@@ -197,6 +199,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/siddharthkp/bundlesize
+- https://github.com/NiGhTTraX/strong-mock
 - https://github.com/developit/microbundle
 - https://github.com/facebook/jscodeshift
 - https://github.com/addyosmani/critical
@@ -336,6 +339,9 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
 
+## LIB: SWIPER
+- https://github.com/nolimits4web/swiper
+
 ## LIB: IP
 - https://github.com/whitequark/ipaddr.js
 
@@ -456,6 +462,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/aeroheim/midori
 - https://github.com/markedjs/marked
 - https://github.com/greensock/GSAP
+- https://github.com/vercel/satori
 - https://github.com/varkor/quiver
 
 ## LIB: 2D/3D/VR
@@ -466,11 +473,13 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/KhronosGroup/glTF
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js
+- https://github.com/samalexander/three-csg-ts
 - https://github.com/0beqz/screen-space-reflections
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js
 - https://github.com/neilgupta/Sherlock
+- https://github.com/facebookresearch/shumai
 
 ## LIB: CALC
 - https://github.com/josdejong/mathjs

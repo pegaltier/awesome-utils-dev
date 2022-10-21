@@ -68,6 +68,7 @@
 
 - https://github.com/trpc/trpc
 - https://github.com/antfu/utils
+- https://github.com/webpro/knip
 - https://github.com/hqoss/guards
 - https://github.com/dolanmiu/docx
 - https://github.com/palmerhq/tsdx
@@ -91,6 +92,7 @@
 - https://github.com/runem/ts-simple-type
 - https://github.com/dsherret/ts-ast-viewer
 - https://github.com/tannerntannern/ts-mixer
+- https://github.com/JoshuaKGoldberg/TypeStat
 - https://github.com/seek-oss/vanilla-extract
 - https://github.com/radarsu/options-defaults
 - https://github.com/piotrwitek/utility-types
@@ -126,6 +128,7 @@
 ## LIB: UI
 - https://github.com/shikijs/twoslash
 - https://github.com/tldraw/tldraw
+- https://github.com/stefanseeger/ts-page-object
 
 ## LIB: CALC
 - https://github.com/mathematic-inc/ts-japi
@@ -146,6 +149,7 @@
 - https://github.com/gigobyte/purify
 - https://github.com/gcanti/fp-ts-contrib
 - https://github.com/Effect-TS/core
+- https://github.com/rayepps/radash
 
 ## LIB: DATA OBJECT
 - https://github.com/jquense/yup
@@ -285,14 +289,37 @@ es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`;
 
 ## CHEATSHEETS
 
-typescript object literal map: { [key: string]: string };
-typescript object literal from enum: {
-	[key in MyEnum]: string;
+- typescript object literal map:
+```
+exampleObject: { [key: string]: string };
+```
+
+- typescript object literal from enum:
+
+```
+exampleObject: {
+	[key in IdOptionEnum]: string;
 } = {
-	[CatalogIdOption.UID]: 'id',
-	[CatalogIdOption.MGBID]: 'migrosId',
-	[CatalogIdOption.MOID]: 'migrosOnlineId'
+	[IdOptionEnum.UID]: 'uid',
+	[IdOptionEnum.UUID]: 'uuid',
+	[IdOptionEnum.YUID]: 'yuid'
 };
+```
+
+- typescript define value from enum
+```
+enum Size {
+	Small = 100
+	Medium = 200
+	Big = 300
+}
+exampleObject: keyof typeof ImageSize = 'Medium';
+```
+
+- typescript generic values type from key of type
+```
+type Values<T> = T[keyof T];
+```
 
 ## IMPORTS PATH
 

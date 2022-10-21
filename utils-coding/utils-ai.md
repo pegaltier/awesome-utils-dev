@@ -42,6 +42,7 @@
 - https://github.com/deepset-ai/FARM
 - https://github.com/winkjs/wink-ner
 - https://github.com/obsei/obsei
+- https://github.com/upscayl/upscayl
 
 ## GPT3
 

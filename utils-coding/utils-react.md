@@ -130,6 +130,7 @@
 - https://github.com/kettanaito/atomic-layout
 - https://github.com/wellyshen/react-cool-form
 - https://github.com/tannerlinsley/react-query
+- https://github.com/meganetaaan/react-moddable
 - https://github.com/hupe1980/react-script-hook
 - https://github.com/zthxxx/react-dev-inspector
 - https://github.com/thedevelobear/react-rewards
@@ -204,6 +205,7 @@
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/vercel/next-learn-starter
 - https://github.com/RevereCRE/relay-nextjs
+- https://github.com/next-boost/next-boost
 - https://github.com/graphlatte/graphlatte
 - https://github.com/ScriptedAlchemy/DLAYS
 - https://github.com/leerob/on-demand-isr
@@ -260,6 +262,7 @@
 - https://github.com/marcocesarato/react-native-big-list
 - https://github.com/ospfranco/react-native-quick-sqlite
 - https://github.com/mrousavy/react-native-vision-camera
+- https://github.com/4TWIGGERS/react-native-fresh-refresh
 - https://github.com/gorhom/react-native-paper-onboarding
 - https://github.com/mrousavy/react-native-multithreading
 - https://github.com/JesperLekland/react-native-svg-charts
@@ -274,6 +277,7 @@
 - https://github.com/dohooo/react-native-reanimated-carousel
 - https://github.com/p-syche/react-native-bouncing-preloader
 - https://github.com/react-native-camera/react-native-camera
+- https://github.com/react-native-google-signin/google-signin
 - https://github.com/smallcase/react-native-simple-biometrics
 - https://github.com/software-mansion/react-native-reanimated
 - https://github.com/react-native-webrtc/react-native-callkeep

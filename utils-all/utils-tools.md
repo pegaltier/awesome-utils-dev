@@ -22,11 +22,13 @@
 - https://github.com/slidevjs/slidev
 - https://github.com/alyssaxuu/flowy
 - https://github.com/pavlobu/deskreen
+- https://github.com/electerious/Ackee
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
 - https://github.com/42wim/matterbridge
 - https://github.com/sniptt-official/ots
 - https://github.com/syncthing/syncthing
+- https://github.com/fosslife/devtools-x
 - https://github.com/iterate-ch/cyberduck
 - https://github.com/gristlabs/grist-core
 - https://github.com/DSpace/dspace-angular

@@ -7,6 +7,7 @@
 - https://github.com/danielmiessler/SecLists
 - https://github.com/Igglybuff/awesome-piracy
 - https://github.com/0x4D31/awesome-threat-detection
+- https://github.com/Hack-with-Github/Awesome-Hacking
 - https://github.com/Lissy93/personal-security-checklist
 - https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
 - https://github.com/tadwhitaker/Security_Engineer_Interview_Questions
@@ -41,11 +42,13 @@
 - https://github.com/mgeeky/Penetration-Testing-Tools
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/DontPanicO/jwtXploiter
+- https://github.com/mitmproxy/mitmproxy
 - https://github.com/ndelphit/apkurlgrep
 - https://github.com/chenjj/CORScanner
 - https://github.com/hktalent/scan4all
 - https://github.com/hashcat/hashcat
 - https://github.com/gchq/CyberChef
+- https://github.com/CISOfy/lynis
 
 ## WEB SCAM / VIRUS
 - safebrowsing.google.com/safebrowsing/report_phish/?hl=en

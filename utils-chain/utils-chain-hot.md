@@ -130,6 +130,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/mjbrisebois/js-holo-hash
 - https://github.com/mjbrisebois/rust-hc-crud-ceps
 - https://github.com/lightningrodlabs/xyzzy
+- https://github.com/lightningrodlabs/ifeasy
 - https://github.com/lightningrodlabs/where
 - https://github.com/lightningrodlabs/who
 - https://github.com/lightningrodlabs/we
@@ -146,6 +147,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/juntofoundation/Shared-Perspective-Index
 - https://github.com/holochain-devcamp/devcamp8-game-of-commons
 - https://github.com/holochain-open-dev/status
+- https://github.com/holochain-open-dev/elements
 - https://github.com/holochain-open-dev/reactions
 - https://github.com/holochain-open-dev/store-adapters
 - https://github.com/holochain-open-dev/dna-auth-resolver

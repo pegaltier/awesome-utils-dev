@@ -503,6 +503,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://css-irl.info/animating-underlines/
 - https://ishadeed.com/article/handling-text-over-image-css/
 - https://github.com/emmabostian/design-inspiration
+- https://github.com/codrops/MenuToGrid
 - https://github.com/codrops/LineHoverStyles
 - https://github.com/codrops/ButtonHoverStyles
 - https://github.com/codrops/FullscreenScroll
