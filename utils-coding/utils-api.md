@@ -83,6 +83,7 @@
 - https://github.com/Netflix/falcor
 - https://tools.ietf.org/html/rfc6749
 - https://www.quickdatabasediagrams.com
+- https://github.com/bitloops/bitloops-language
 
 ## ARTICLES
 - http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/

@@ -442,6 +442,7 @@ emit/receive : https://github.com/quiet/quiet-js
 ## STARTER: SPA GEN 3 OSS
 - https://github.com/learnwithjason/resumable-apps-qwik
 - https://github.com/manucorporat/qwik-conference-app
+- https://github.com/mhevery/qwik-js-poland-workshop
 - https://github.com/awesome-club/awesome-qwik
 - https://github.com/robisim74/qwik-speak
 

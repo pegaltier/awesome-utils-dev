@@ -11,6 +11,8 @@
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/bregman-arie/devops-exercises
 - https://github.com/nubenetes/awesome-kubernetes
+- https://github.com/christianlempa/boilerplates
+- https://github.com/christianlempa/cheat-sheets
 - https://github.com/kahun/awesome-sysadmin
 - https://github.com/ripienaar/free-for-dev
 
@@ -204,6 +206,7 @@ Docker allows you to package an application with its environment and all of its 
 - https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
 
 ## DOCKER IMAGES
+- https://github.com/kylemanna/docker-openvpn
 - https://github.com/mailcow/mailcow-dockerized
 - https://github.com/SteveLTN/https-portal
 - https://github.com/bunkerity/bunkerized-nginx

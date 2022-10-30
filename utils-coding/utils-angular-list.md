@@ -1168,6 +1168,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
 - https://github.com/stefanoslig/xstate-angular
+- https://github.com/ChrisShank/xstate-behaviors
 - https://github.com/iliasbhal/xstate-builder
 - https://github.com/ngfelixl/reactive-entity-store
 - https://github.com/mattpocock/xstate-catalogue
@@ -1737,6 +1738,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/ngx-hover-preload
 - https://github.com/angular-extensions/elements
 - https://github.com/mohammedzamakhan/ngx-loadable
+- https://github.com/Danevandy99/ngx-hover-preload-v2
 - https://github.com/trellisorg/platform/tree/master/packages/rx-dynamic-component
 - https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
@@ -1783,6 +1785,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: ROUTING
 
+- https://github.com/Danevandy99/ngx-advanced-router (TOADD)
 - https://github.com/ngspot/route-path-builder
 - https://github.com/angular-component/router
 - https://github.com/Dankwansere/aop-routing
@@ -1969,6 +1972,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cypress-io/cypress
 - https://github.com/agoldis/sorry-cypress
 - https://www.herodevs.com/support/endbridge
+- https://github.com/mfrachet/cypress-audit
 - https://github.com/tnicola/cypress-parallel
 - https://github.com/component-driven/cypress-axe
 - https://github.com/facebookincubator/memlab

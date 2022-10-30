@@ -83,6 +83,7 @@
 - https://github.com/marcj/css-element-queries
 - https://github.com/projectwallace/wallace-cli
 - https://github.com/yogurt-foundation/yogurt-css
+- https://github.com/sindresorhus/modern-normalize
 - https://github.com/troxler/awesome-css-frameworks
 
 ## TAILWIND
