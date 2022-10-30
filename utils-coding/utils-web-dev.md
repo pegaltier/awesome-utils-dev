@@ -433,6 +433,7 @@ emit/receive : https://github.com/quiet/quiet-js
 ## STARTER: WEB
 - https://github.com/arwes/arwes
 - https://github.com/aidenybai/lucia
+- https://github.com/bigskysoftware/htmx
 - https://github.com/modernweb-dev/rocket
 - https://github.com/cbracco/html5-test-page
 - https://github.com/jamesgeorge007/scaffold-static

@@ -177,6 +177,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/guillemcordoba/rea-inventory
 - https://github.com/guillemcordoba/notebooks
 - https://github.com/guillemcordoba/membrane-roles-module
+- https://github.com/guillemcordoba/assemble
 - https://github.com/nphias/transactor
 - https://github.com/nphias/nPersonas
 - https://github.com/Sprillow/cmdchatter
@@ -194,6 +195,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-persistence
 - https://github.com/perspect3vism/direct-message-language
+- https://github.com/perspect3vism/local-language-persistence
 - https://github.com/ddd-mtl/delivery-zome
 - https://github.com/shanedeeodonnell/co-learning
 - https://github.com/harleygray/holochain-gym-links

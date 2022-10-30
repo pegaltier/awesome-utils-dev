@@ -73,8 +73,9 @@
 
 - https://github.com/sanity-io
 - https://github.com/vercel/next.js
-- https://github.com/gatsbyjs/gatsby
 - https://github.com/blitz-js/blitz
+- https://github.com/gatsbyjs/gatsby
+- https://github.com/avitorio/outstatic
 
 ## GAME
 - https://github.com/cwackerfuss/react-wordle

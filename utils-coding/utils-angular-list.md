@@ -1472,10 +1472,11 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/pnpm/pnpm
 - https://github.com/yarnpkg/berry
 - https://github.com/mateodelnorte/meta
-- https://github.com/platformatic/platformatic
-- https://github.com/preconstruct/preconstruct
+- https://github.com/platformatic/platformatic (TOADD)
+- https://github.com/preconstruct/preconstruct (TOADD)
 - https://github.com/jscutlery/semver
 - https://github.com/atlassian/changesets
+- https://github.com/JamieMason/syncpack (TOADD)
 
 ## ECOSYSTEM: LIB: MONOREPO: NX LANGAGES PLUGINS
 - https://github.com/nxrs/cargo
@@ -1969,6 +1970,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/agoldis/sorry-cypress
 - https://www.herodevs.com/support/endbridge
 - https://github.com/tnicola/cypress-parallel
+- https://github.com/component-driven/cypress-axe
 - https://github.com/facebookincubator/memlab
 - https://github.com/jscutlery/test-utils
 - https://github.com/NetanelBasal/cyrun

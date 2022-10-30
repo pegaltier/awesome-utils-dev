@@ -206,6 +206,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/fkling/astexplorer
 - https://github.com/smeijer/unimported
 - https://github.com/NectarJS/nectarjs
+- https://github.com/fwouts/previewjs
 - https://github.com/projen/projen
 - https://github.com/vitejs/vite
 
@@ -235,7 +236,10 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
 - https://github.com/JSMonk/hegel
+- https://github.com/kieler/elkjs
+- https://github.com/guybedford/es-module-lexer
 - https://github.com/krisk/Fuse
+- https://github.com/Hexagon/croner
 - https://github.com/jonschlinkert/clone-deep
 - https://github.com/EricSmekens/jsep
 - https://github.com/kentcdodds/match-sorter
@@ -278,6 +282,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/cabinjs/sensitive-fields
 - https://github.com/country-regions/country-region-data
 - https://github.com/niklasvh/html2canvas
+- https://github.com/vercel/satori
 - https://github.com/lukeed/clsx
 - https://github.com/101arrowz/fflate
 - https://github.com/crossfilter/crossfilter
@@ -389,6 +394,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/colxi/css-global-variables
 - https://github.com/davidmerfield/randomColor
+- https://github.com/funktechno/texthighlighter
 - https://github.com/willmcpo/body-scroll-lock
 - https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/willmendesneto/perf-marks
@@ -402,6 +408,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/codex-team/editor.js
 - https://github.com/focus-trap/tabbable
 - https://github.com/datalog/qrcode-svg
+- https://github.com/Simonwep/selection
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/ueberdosis/tiptap
@@ -410,6 +417,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 - https://github.com/xtermjs/xterm.js
 - https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
+- https://github.com/alibaba/formily
 - https://github.com/Aaronius/penpal
 - https://github.com/omrilotan/isbot
 - https://github.com/Leaflet/Leaflet
@@ -534,6 +542,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 ## LIB: SECURITY
 - https://github.com/brix/crypto-js
+- https://github.com/pieroxy/lz-string
 - https://github.com/travist/jsencrypt
 - https://github.com/paulmillr/scure-bip39
 - https://github.com/paulmillr/noble-ed25519

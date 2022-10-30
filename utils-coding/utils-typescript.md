@@ -56,6 +56,7 @@
 
 - https://github.com/formium/tsdx
 - https://github.com/Microsoft/tsdoc
+- https://github.com/cevek/ttypescript
 - https://github.com/johnlindquist/kit
 - https://github.com/microsoft/rushstack
 - https://github.com/ranyitz/code-migrate

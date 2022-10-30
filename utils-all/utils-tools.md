@@ -77,6 +77,7 @@
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/graydon/obsidian-html
 - https://github.com/AppFlowy-IO/AppFlowy 
+- https://github.com/nhaouari/obsidian-textgenerator-plugin
 
 ## New
 - https://fig.io/

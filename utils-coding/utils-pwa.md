@@ -32,3 +32,4 @@
 ## TOOLS
 
 - https://github.com/onderceylan/pwa-asset-generator
+- https://github.com/pwafire/pwafire
