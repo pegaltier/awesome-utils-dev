@@ -140,6 +140,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/attestations
 - https://github.com/lightningrodlabs/place
 - https://github.com/lightningrodlabs/electron-holochain
+- https://github.com/lightningrodlabs/holochain-runner
 - https://github.com/KoruProtocol/koru
 - https://github.com/darksoil-studio/mutual-credit
 - https://github.com/holochain-engineers/team-mates
@@ -202,7 +203,9 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/harleygray/holochain-gym-anchors
 - https://github.com/harleygray/holochain-ui
 - https://github.com/nphias/ng-hc-starter (angular)
+- https://github.com/nphias/holon
 - https://github.com/matthme/hc-wednesday-workshop-posts
+- https://github.com/matthme/distreviewed
 - https://github.com/ioen-tech/ioen-micro-ledger
 - https://github.com/holochain-engineers/REA-Electron-starter
 - https://github.com/emerging-integrity/mutual-credit

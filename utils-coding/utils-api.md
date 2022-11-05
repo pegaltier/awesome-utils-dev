@@ -81,6 +81,7 @@
 - http://feathersjs.com
 - https://www.gravitee.io
 - https://github.com/Netflix/falcor
+- https://github.com/thevahidal/soul
 - https://tools.ietf.org/html/rfc6749
 - https://www.quickdatabasediagrams.com
 - https://github.com/bitloops/bitloops-language

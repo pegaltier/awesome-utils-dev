@@ -1582,6 +1582,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/benwinding/ngext
 - https://github.com/ng-web-apis/universal
 - https://github.com/TrilonIO/ng-universal
+- https://github.com/nxarch/nest-nguniversal (TOADD)
 - https://github.com/chrisguttandin/angular-prerender
 - https://github.com/coryrylan/ngx-lite/tree/master/projects/ngx-json-ld
 
