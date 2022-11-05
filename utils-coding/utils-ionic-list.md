@@ -20,6 +20,7 @@
 
 ## STARTER / SEED / EXAMPLES
 
+- https://github.com/rastmob/ionic-ecommerce
 - https://github.com/thenaim/ionic-whatsapp-clone
 - https://store.enappd.com/product/ionic-full-app/
 - https://github.com/thenaim/ionic-tk-social-network
