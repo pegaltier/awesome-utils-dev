@@ -72,6 +72,7 @@
 
 ## SERVERLESS
 - https://github.com/firebase/
+- https://github.com/nhost/nhost
 - https://github.com/appwrite/appwrite
 - https://github.com/supabase/supabase
 - https://github.com/pocketbase/pocketbase
