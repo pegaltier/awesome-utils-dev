@@ -58,6 +58,10 @@ alias ...="cd ../.."
 
 # Wsl
 
+- https://dev.to/equiman/move-wsl-file-system-to-another-drive-2a3d
+- https://blog.iany.me/2020/06/move-wsl-to-another-drive/
+- https://github.com/DDoSolitary/LxRunOffline
+
 ```
 explorer.exe .
 ```
