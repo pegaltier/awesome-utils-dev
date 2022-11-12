@@ -36,6 +36,7 @@
 ## LIBS: IONIC
 
 - https://github.com/amarkes/br-mask
+- https://github.com/ionic-team/trapeze
 - https://github.com/zyra/ionic-super-tabs
 - https://github.com/Nodonisko/ionic-cache
 - https://github.com/hsuanxyz/ion2-calendar

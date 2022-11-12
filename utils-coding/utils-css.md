@@ -75,6 +75,7 @@
 ## LIB
 
 - https://github.com/jgthms/bulma
+- https://github.com/dhg/Skeleton
 - https://github.com/r1/cssbuttons
 - https://github.com/jonsuh/hamburgers
 - https://github.com/linkedin/css-blocks
@@ -89,6 +90,7 @@
 ## TAILWIND
 
 - https://tailblend.vercel.app/
+- https://github.com/ndaba1/twinit
 - https://github.com/tw-in-js/twind
 - https://github.com/saadeghi/daisyui
 - https://github.com/mertJF/tailblocks

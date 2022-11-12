@@ -158,6 +158,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://angular.io/guide/cheatsheet
 - https://github.com/SanderElias/Samples
 - https://github.com/typebytes/angular-checklist
+- https://github.com/tomalaforge/angular-challenges
 - https://github.com/avivharuzi/angular-best-practices
 - https://indepth.dev/angular-bad-practices-revisited/
 - https://github.com/evoytenkoapps/angular-best-practices
@@ -1956,6 +1957,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/deanius/storybook-animate
+- https://github.com/UX-and-I/storybook-design-token
 
 ## ECOSYSTEM: LIB: E2E TESTS
 

@@ -15,6 +15,7 @@
 - https://github.com/schollz/croc
 - https://github.com/nocodb/nocodb
 - https://github.com/zedeus/nitter
+- https://github.com/inoda/ontrack
 - https://github.com/apenwarr/blip
 - https://github.com/yt-dlp/yt-dlp
 - https://github.com/axa-group/Parsr

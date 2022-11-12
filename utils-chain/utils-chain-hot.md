@@ -40,6 +40,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - IOEN: https://www.ioen.tech/
 - Internetofenergy: https://internetofenergy.network/
 - Neighbourhoods: https://neighbourhoods.network/
+- Assemble: https://frugal.systems/assemble/
 - Humm.earth: https://humm.earth/
 - Valueflows: https://www.valueflo.ws
 - NitroLeague: https://www.nitroleague.com
