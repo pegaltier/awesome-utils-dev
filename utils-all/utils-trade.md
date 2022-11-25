@@ -1,5 +1,8 @@
 # TRADE
 
+## BONDS
+- https://www.youtube.com/watch?v=u5YrIuQbfiU
+
 ## RULES
 
 - Follow long term trendline and close winning trade on a resitance trend line and rebuy if breakout appear.
@@ -38,28 +41,33 @@
 
 21 EMA DAILY
 
-## Strat 1
+## Rsi:
 - bullish if price is above the weelkly 21 MA (if it hold above it's bullish)
 - bullish if price is bellow the weelkly 21 MA (if it hold below it's bearish)
 - adx is below 20 then it's a ranging cycle (choppy)
 - adx is above 20 then it's a trending cycle (directionnal)
 
-## Strat 2
+## Strat: Rsi
 - When RSI goes below 45 on a daily timeframe it's bearish. (below 30 hyper bearish but also expect big reverse)
 - When RSI goes above 55 on a daily timeframe it's bullish. (above 70 hyper bullish but also expect big reverse)
 
-## Strat 3: bollinger bands: width
+## Strat: bollinger bands: width
 
 Buys when Band Width reaches 20-day low and EMA1 > EMA2.
 Shorts when Band Width reaches 20-day low and EMA1 < EMA2.
 Exits position when EMA reverses.
 
-## Strat 4: bollinger bands: breakout
+## Strat: bollinger bands: breakout
 
 Buy/short when price moves outside of the inner band (m1).
 Exit when the price moves into the inner band or to the outer bound (m2).
 
 - https://raposa.trade/blog/4-simple-strategies-to-trade-bollinger-bands/
+
+## Strat: Vix
+- buy SP500 when VIX closes above 30 and sell when VIX closes below 20. = +25% in 2022
+- buy SP500 when VIX closes below 20 and sell when VIX closes above 30. = -33% in 2022
+
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation

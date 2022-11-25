@@ -25,6 +25,7 @@
 - https://github.com/ibraheemdev/modern-unix
 - https://github.com/dylanaraps/pure-sh-bible
 - https://github.com/gruntwork-io/bash-commons
+- https://github.com/trinib/Linux-Bash-Commands
 - https://github.com/jlevy/the-art-of-command-line
 - https://github.com/grv231/automation-bash-scripts
 

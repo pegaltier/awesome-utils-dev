@@ -11,6 +11,7 @@
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 - https://github.com/yoshuawuyts/rust-for-js-peeps
 - https://github.com/sunface/rust-by-practice
+- https://github.com/tauri-apps/awesome-tauri
 
 ## LIB
 

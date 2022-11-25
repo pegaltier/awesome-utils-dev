@@ -213,6 +213,7 @@
 - https://elk.cc/
 
 ## COLD WALLET
+- https://slip39.com/
 - https://billfodl.com/
 - https://coldbit.com/
 - https://hodlr.swiss/

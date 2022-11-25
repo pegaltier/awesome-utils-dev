@@ -1,5 +1,7 @@
 #  NESTJS
 
+- https://github.com/nestjs/awesome-nestjs
+
 ## LIBS
 
 - https://github.com/nestjs/cqrs

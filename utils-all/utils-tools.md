@@ -25,6 +25,7 @@
 - https://github.com/alyssaxuu/flowy
 - https://github.com/pavlobu/deskreen
 - https://github.com/electerious/Ackee
+- https://github.com/mastodon/mastodon
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
 - https://github.com/42wim/matterbridge
@@ -41,6 +42,7 @@
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/dani-garcia/vaultwarden
+- https://github.com/firefly-iii/firefly-iii
 - https://github.com/writefreely/writefreely
 - https://github.com/AykutSarac/jsonvisio.com
 - https://github.com/johannesjo/super-productivity

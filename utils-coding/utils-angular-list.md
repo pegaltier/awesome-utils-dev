@@ -256,6 +256,7 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/Itchimonji/design-patterns-in-angular
 - https://github.com/Itchimonji/refactoring-switch-statements-in-angular
 - https://dev.to/aurelien_alet/hexagonal-architecture-with-angular-8ll
+- https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 - https://github.com/aurelien-alet/angular-toh-hexagonal
 
 ## HELPER: CHEAT-SHEETS
@@ -1161,6 +1162,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/nullpub/dux
 - https://github.com/mobxjs/mobx
 - https://github.com/logux/state
+- https://github.com/artalar/reatom
 - https://github.com/effector/effector
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/kuncevic/rx-service
@@ -1472,6 +1474,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/nrwl/nx
 - https://github.com/lerna/lerna
 - https://github.com/pnpm/pnpm
+- https://github.com/moonrepo/moon
 - https://github.com/yarnpkg/berry
 - https://github.com/mateodelnorte/meta
 - https://github.com/platformatic/platformatic (TOADD)
@@ -1532,6 +1535,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/manfredsteyer/nx-libs
 - https://github.com/thiagobbt/nx-remotecache-s3
 - https://github.com/wvanderdeijl/nx-remotecache-gcs
+- https://github.com/atlassian/lerna-semantic-release
 - https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
 - https://github.com/deepkit-community/nx-plugins
@@ -1574,8 +1578,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/nrwl/nx/issues/2633 ionic5 support
 - https://github.com/nstudio/xplat-sample-ionic-web
 - https://github.com/warrendugan/ionic-capacitor-nx-monorepo
+- https://github.com/enio-ireland/enio/tree/develop/packages/typedoc
 - https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example
-
 
 ## ECOSYSTEM: LIB: JAMSTACK
 
@@ -1836,6 +1840,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/tomwhite007/ui-output-bus
 - https://github.com/chihab/ngx-env
 - https://github.com/moribvndvs/ng2-idle
+- https://github.com/Tinkoff/ng-polymorpheus (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -2008,6 +2013,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
 - https://github.com/Flaxline/angular-nx-cypress-coverage-example
 - https://github.com/CypressCecelia/cypress-testing-angular-workshop
+- https://github.com/cypress-visual-regression/cypress-visual-regression
 - https://cypress.slides.com/amirrustam/patterns-practices
 - https://cypress.slides.com/cecelia/testing-angular-applications-with-cypress#/1
 - https://webdave.de/blog/cypress
@@ -2029,20 +2035,24 @@ Learn the best way to make your objects immutable.
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
 - https://github.com/faker-js/faker
-- https://github.com/ike18t/ng-mocks
 - https://github.com/sharkdp/hyperfine
 - https://github.com/mmkal/expect-type
 - https://github.com/ng-mocks/examples
 - https://github.com/google/intermock
 - https://github.com/ngneat/spectator
 - https://github.com/wallabyjs/public
+- https://github.com/gparlakov/scuri
 - https://github.com/nas5w/combinate
 - https://github.com/kwonoj/rx-sandbox
+- https://github.com/omermorad/automock
 - https://github.com/nvh95/jest-preview
 - https://github.com/hirezio/auto-spies
+- https://github.com/help-me-mom/ng-mocks
 - https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
+- https://github.com/omermorad/mockingbird
 - https://github.com/just-jeb/jest-marbles
+- https://github.com/omermorad/jest-gherkin
 - https://github.com/atlassian/jest-in-case
 - https://github.com/briebug/jest-schematic
 - https://github.com/skovhus/jest-codemods
@@ -2060,7 +2070,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-extensions/pretty-html-log
 - https://github.com/DmitryEfimenko/jest-given-when-then
 - https://github.com/smooth-code/jest-puppeteer
-- https://github.com/gparlakov/scuri
 - https://github.com/playwright-community/jest-playwright
 - https://github.com/brandonroberts/angular-testing-library
 - https://github.com/testing-library/angular-testing-library
@@ -2419,6 +2428,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngneat/error-tailor
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/zebzhao/Angular-QueryBuilder
+- https://github.com/pjlamb12/ngx-reactive-forms-utils (TOADD)
+- https://github.com/davidwalschots/angular-reactive-validation (TOADD)
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/TinkoffCreditSystems/angular-contenteditable-accessor
 - https://github.com/gparlakov/forms-typed
@@ -2973,6 +2984,8 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 - https://ng-book.com/2
 - https://angular.institute
+- https://ngauthbook.com (TOADD)
+- https://angularforms.dev (TOADD)
 - http://AngularAdvocate.com
 - https://angulararchitecture.com
 - https://leanpub.com/angular2-book
@@ -3041,7 +3054,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
 
 ### ANGULAR15
+- https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8
 - https://coderoasis.com/angular-simplifies-development/
+- https://www.youtube.com/watch?v=j2_NnV7nU6s Angular v15 Launch Event
 - https://www.youtube.com/watch?v=oC9Qd9yw3pE Directive Composition API Intro w/ Kristiyan Kostadinov
 
 ### ANGULAR14

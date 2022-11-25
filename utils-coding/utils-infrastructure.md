@@ -53,6 +53,7 @@
 ## TOOLS OSS
 - https://github.com/six-ddc/plow
 - https://github.com/ekzhang/bore
+- https://github.com/dagger/dagger
 - https://github.com/Qovery/engine
 - https://github.com/loadimpact/k6
 - https://github.com/kruize/kruize
@@ -127,6 +128,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/ubuntu/microk8s
 - https://github.com/mkimuram/k8sviz
 - https://github.com/paralus/paralus
+- https://github.com/jpca/Boulegueur
 - https://github.com/Portshift/kubei
 - https://github.com/cilium/hubble-ui
 - https://github.com/loft-sh/jspolicy
@@ -156,6 +158,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/cert-manager/cert-manager
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/lightrun-platform/koolkits
+- https://github.com/kubernetes-sigs/kubebuilder
 - https://github.com/NimbleArchitect/kubectl-ice
 - https://github.com/GoogleContainerTools/kaniko
 - https://github.com/kubernauts/jmeter-kubernetes
@@ -181,6 +184,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 
 Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
 
+- https://github.com/depot/cli
 - https://github.com/quay/clair
 - https://github.com/docker/labs
 - https://github.com/qdm12/devtainr
@@ -214,6 +218,7 @@ Docker allows you to package an application with its environment and all of its 
 - https://github.com/bunkerity/bunkerized-nginx
 - https://github.com/bunkerity/bunkerized-mariadb
 - https://github.com/bunkerity/bunkerized-php
+- https://github.com/Monogramm/docker-frappe
 - https://github.com/gotenberg/gotenberg
 
 ```

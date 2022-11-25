@@ -30,6 +30,8 @@
 
 ## Brew
 
+- https://brew.sh/
+
 ```
 brew update
 brew install nginx
@@ -38,6 +40,7 @@ brew services list
 
 ## Adfs
 
+- https://asdf-vm.com/
 - https://www.wiserfirst.com/blog/install-java-with-asdf/
 - https://www.wiserfirst.com/blog/how-to-use-asdf-on-macos/
 
@@ -45,8 +48,14 @@ brew services list
 asdf list-all java
 asdf list java
 asdf install java openjdk-11.0.2 
+asdf install java openjdk-17.0.2
 asdf global java openjdk-11.0.2
+asdf global java openjdk-17.0.2
 ```
+
+## Sdkman
+
+- https://sdkman.io/
 
 ## Java
 

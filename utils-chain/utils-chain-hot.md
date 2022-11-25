@@ -143,6 +143,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/electron-holochain
 - https://github.com/lightningrodlabs/holochain-runner
 - https://github.com/KoruProtocol/koru
+- https://github.com/darksoil-studio/gather
 - https://github.com/darksoil-studio/mutual-credit
 - https://github.com/holochain-engineers/team-mates
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
@@ -169,6 +170,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/membrane-roles
 - https://github.com/holochain-open-dev/interzome
 - https://github.com/holochain-open-dev/rich-data
+- https://github.com/holochain-open-dev/templates
 - https://github.com/holochain-open-dev/authority-real-time-sessions
 - https://github.com/holochain-open-dev/common
 - https://github.com/sacredcapital/ReputationDSL
@@ -221,6 +223,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/kaichaosun/ad4m-connect-poc
 - https://github.com/neighbour-hoods/holochain_client_wrapper
 - https://github.com/neighbour-hoods/social_sensemaker
+- https://github.com/neighbour-hoods/sensemaker-lite
 - https://github.com/ddd-mtl/zome-utils
 - https://github.com/kansmama/hwordle
 - https://github.com/h-REA/hREA

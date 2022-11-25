@@ -48,6 +48,11 @@ echo $PATH
 - https://github.com/madbob/awesome-linux-dev
 - https://github.com/luong-komorebi/Awesome-Linux-Software
 
-## MORE
+## Nixos
+
+- https://github.com/cachix/devenv
+- https://github.com/cachix/cachix
+
+## More
 
 See also [tools](https://github.com/pegaltier/utils-dev/blob/master/utils-tools.md)

@@ -53,6 +53,7 @@
 - https://github.com/oslabs-beta/portara
 - https://github.com/FormidableLabs/urql
 - https://github.com/GraphtonLib/Graphton
+- https://github.com/graphql/graphql-http
 - https://github.com/enisdenjo/graphql-ws
 - https://github.com/graphile/postgraphile
 - https://github.com/hasura/graphql-engine

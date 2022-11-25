@@ -57,6 +57,7 @@
 - https://thisthat.dev/
 - http://html5doctor.com/
 - https://grids.obys.agency/
+- https://component-party.dev/
 - https://markodenic.com/html-tips/
 - https://github.com/andreasbm/web-skills
 - https://almanac.httparchive.org/en/2020/
@@ -64,6 +65,7 @@
 - https://github.com/bendc/frontend-guidelines
 - https://github.com/styfle/breaking-changes-web
 - https://fifty.user-interface.io/50_ui_tips.pdf
+- https://github.com/matschik/component-party
 - https://github.com/stackblitz/webcontainer-core
 - https://learn-the-web.algonquindesign.ca/topics/
 - https://github.com/microsoft/Web-Dev-For-Beginners
