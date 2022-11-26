@@ -141,6 +141,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/attestations
 - https://github.com/lightningrodlabs/place
 - https://github.com/lightningrodlabs/electron-holochain
+- https://github.com/lightningrodlabs/electron-holochain-template
 - https://github.com/lightningrodlabs/holochain-runner
 - https://github.com/KoruProtocol/koru
 - https://github.com/darksoil-studio/gather
@@ -172,7 +173,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-open-dev/rich-data
 - https://github.com/holochain-open-dev/templates
 - https://github.com/holochain-open-dev/authority-real-time-sessions
-- https://github.com/holochain-open-dev/common
+- https://github.com/holochain-open-dev/common (TOLIST)
 - https://github.com/sacredcapital/ReputationDSL
 - https://github.com/hc-institute-japan/Kizuna
 - https://github.com/hc-institute-japan/p2pmessage-zome/

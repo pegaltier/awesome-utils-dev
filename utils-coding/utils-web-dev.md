@@ -416,6 +416,7 @@ emit/receive : https://github.com/quiet/quiet-js
 
 - https://decorator.io/modulr/
 - https://github.com/fabiospampinato/voby
+- https://github.com/justin-schroeder/arrow-js
 - https://blog.madewithlove.be/post/webpack-your-bags/
 - https://css-tricks.com/css-modules-part-2-getting-started
 
@@ -462,6 +463,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/11ty/eleventy-base-blog
 - https://github.com/deviousdodo/elevenpack
 - https://github.com/rakkasjs/rakkasjs
+- https://github.com/retypeapp/retype
 - https://github.com/colinhacks/devii
 - https://github.com/Elderjs/elderjs
 - https://github.com/shuding/nextra
@@ -508,6 +510,8 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://css-irl.info/animating-underlines/
 - https://ishadeed.com/article/handling-text-over-image-css/
 - https://github.com/emmabostian/design-inspiration
+- https://github.com/russellsamora/scrollama
+- https://github.com/developedbyed/3d-scroll-ball
 - https://github.com/codrops/MenuToGrid
 - https://github.com/codrops/LineHoverStyles
 - https://github.com/codrops/ButtonHoverStyles

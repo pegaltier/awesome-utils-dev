@@ -258,6 +258,7 @@ Learn about the most useful design patterns in Angular.
 - https://dev.to/aurelien_alet/hexagonal-architecture-with-angular-8ll
 - https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 - https://github.com/aurelien-alet/angular-toh-hexagonal
+- https://github.com/ddd-crew/context-mapping
 
 ## HELPER: CHEAT-SHEETS
 
@@ -1165,6 +1166,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/artalar/reatom
 - https://github.com/effector/effector
 - https://github.com/BioPhoton/ngx-rx
+- https://github.com/ds300/derivablejs
 - https://github.com/kuncevic/rx-service
 - https://github.com/nanostores/nanostores
 - https://github.com/spierala/mini-rx-store
@@ -1692,6 +1694,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/MarkKragerup/weblint-eslint-security
 - https://github.com/cyrilletuzi/typescript-strictly-typed
 - https://github.com/lydell/eslint-plugin-simple-import-sort
+- https://github.com/chiefmikey/eslint-plugin-disable-autofix
 - https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/danielnixon/eslint-plugin-total-functions
 - https://github.com/stormwarning/stylelint-config-recess-order
@@ -2627,7 +2630,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/wszgrcy/angular-miniprogram
 - https://github.com/hoebbelsB/ng-contextual-state
 - https://github.com/lacolaco/angular-tfjs-sandbox
+- https://github.com/benlesh/add-features-with-rxjs
 - https://github.com/stefanoslig/xstate-angular-demo
+- https://github.com/JiaLiPassion/scoped-zone-sample
 - https://github.com/appwrite/demo-todo-with-angular
 - https://github.com/gitropolis/gitropolis-nx-angular
 - https://github.com/nikosanif/angular-authentication
@@ -2640,6 +2645,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
 - https://github.com/bezkoder/angular-material-14-file-upload
+- https://github.com/jakovljevic-mladen/ng-pagination-rx-streams
 - https://github.com/oktadev/okta-angular-dynamic-components-example
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
 

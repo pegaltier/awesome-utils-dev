@@ -97,6 +97,7 @@
 - https://github.com/cacjs/cac
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
+- https://github.com/unjs/ofetch
 
 ## LIBS: AI
 - https://github.com/naptha/tesseract.js

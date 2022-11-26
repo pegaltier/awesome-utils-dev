@@ -238,6 +238,7 @@
 - https://github.com/Hexagon/croner
 - https://github.com/jonschlinkert/clone-deep
 - https://github.com/EricSmekens/jsep
+- https://github.com/unjs/consola
 - https://github.com/kentcdodds/match-sorter
 - https://github.com/blitz-js/superjson
 - https://github.com/json5/json5
