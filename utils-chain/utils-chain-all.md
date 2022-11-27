@@ -83,6 +83,7 @@
 - https://www.emberfund.io/
 - https://www.trendspider.com/
 - https://cryptofinance.jbuty.com/
+- https://github.com/CompendiumFi/PENDAX-SDK
 - https://github.com/andresilvasantos/bitprophet
 - https://github.com/f13end/Crypto-Investor-Tools
 - https://github.com/CyberPunkMetalHead/reddit-cryptocurrency-trading
