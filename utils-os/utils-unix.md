@@ -2,6 +2,11 @@
 
 Ubuntu & co
 
+## Install
+
+- https://www.balena.io/etcher/
+- https://ubuntu.com/download/desktop
+
 ## Directories
 
 ```
