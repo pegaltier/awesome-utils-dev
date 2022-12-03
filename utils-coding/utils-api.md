@@ -51,6 +51,7 @@
 - https://github.com/swagger-api/swagger-codegen
 - https://github.com/devexperts/swagger-codegen-ts
 - https://github.com/OpenAPITools/openapi-generator
+- https://github.com/postmanlabs/openapi-to-postman
 - https://github.com/OpenAPITools/openapi-generator-cli
 
 ## POSTMAN
@@ -81,6 +82,7 @@
 - https://aip.dev
 - http://feathersjs.com
 - https://www.gravitee.io
+- https://github.com/aiven/klaw
 - https://github.com/Netflix/falcor
 - https://github.com/thevahidal/soul
 - https://tools.ietf.org/html/rfc6749

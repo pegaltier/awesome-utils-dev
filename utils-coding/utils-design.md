@@ -92,6 +92,7 @@
 - https://yqnn.github.io/svg-path-editorw
 - https://github.com/maxwellito/vivus
 - https://undraw.co/illustrations
+- https://fffuel.co/nnneon/
 - https://www.svgator.com
 - https://squircley.app
 - https://shapefest.com
@@ -173,6 +174,7 @@
 - https://products.ls.graphics/paaatterns/
 - https://1stwebdesigner.com/pattern-generator-online/
 - https://github.com/btmills/geopattern
+- https://more.graphics/hexagon-pattern
 - https://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
 
 ## RESOURCES
@@ -211,6 +213,7 @@
 - https://unsplash.com/ 
 - https://visualhunt.com/  
 - http://allthefreestock.com/ 
+- https://resource.fyi/
 - https://picjumbo.com/ 
 - https://www.mockupworld.co
 - https://pixabay.com/  
@@ -246,7 +249,10 @@
 - http://www.designfreebies.com
 - https://wweb.dev/resources/animated-css-background-generator
 
-### 3D
+## PROFILES
+- https://generated.photos/
+
+## 3D
 
 - https://market.pmnd.rs/
 

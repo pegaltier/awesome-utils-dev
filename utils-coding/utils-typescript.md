@@ -219,6 +219,7 @@
 ## LIB: ERROR
 - https://github.com/supermacro/neverthrow
 - https://github.com/skarab42/ts-pojo-error
+- https://github.com/ivanhofer/exceptionally
 
 ## NEWS
 

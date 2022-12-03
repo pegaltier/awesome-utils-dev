@@ -228,6 +228,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/ddd-mtl/zome-utils
 - https://github.com/kansmama/hwordle
 - https://github.com/h-REA/hREA
+- https://github.com/h-REA/hrea-graphql-live
 - https://github.com/Connoropolous/hrea-dashboard
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/

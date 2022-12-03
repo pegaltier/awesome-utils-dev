@@ -170,6 +170,15 @@ ng build --target=production --base-href '/enterprise/'
 
 ## UPGRADE
 
+### CLEAN CACHE
+
+```
+npm run clean
+rm -rf node_modules/.cache
+rm -rf .angular
+nx reset
+```
+
 ### CLEAN NODE_MODULES
 
 ```
@@ -240,10 +249,6 @@ Update app configurations to use the latest Nx 11 has to offer
 Update nx.json and workspace to clean out old retired references and update to new ones
 Lastly move all your shared code into the new structure
 Lastly do a full clean of your workspace to ensure you're in good updated shape now:
-
-```
-npm run clean
-```
 
 ### UPGRADE LINKS
 - https://update.angular.io
@@ -348,7 +353,7 @@ best practices:
 
 NX affected work by default comparing the code affected between the current state and the latest commit in the master branch, it's possible to change the base branch and the head. however there are other special behavior for instance when you pass uncommited or untracked of a files list in input then it works using this file list
 
-### REUSABLE LIB
+### REUSABLE LIB (WIP)
 
 - In the specific app: develop components that will be injected with this.router.resetConfig
 - In the same generic lib: use the ng-content to integrate visual components
@@ -368,6 +373,17 @@ rm .git/hooks/pre-commit
 npx husky
 npm rebuild
 ```
+
+## SECONDARY ENTRY POINTS
+- https://github.com/nrwl/nx/issues/3518
+- https://github.com/nrwl/nx/issues/5952
+- https://github.com/ng-packagr/ng-packagr/issues/987
+- https://github.com/nrwl/nx/issues/5952#issuecomment-998039783
+- https://izifortune.com/multiple-packages-repository-with-angular/
+- https://github.com/ng-packagr/ng-packagr/blob/main/docs/secondary-entrypoints.md
+- https://techmark.pk/multiple-entry-points-for-the-ngxsimplecharts-angular-library/
+- https://medium.com/tunaiku-tech/creating-secondary-entry-points-for-your-angular-library-1d5c0e95600a
+- https://stackoverflow.com/questions/65538963/service-is-not-under-rootdir-in-angular-secondary-entry-point
 
 ## HTTP POST PARAMS
 

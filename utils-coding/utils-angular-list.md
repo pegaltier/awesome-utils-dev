@@ -472,6 +472,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://webpack.js.org/plugins/context-replacement-plugin/
 - https://medium.com/javascript-in-plain-english/customizing-your-angular-apps-webpack-configuration-4099144949fc
 - https://blog.angular.io/introducing-cli-builders-d012d4489f1b
+- https://www.youtube.com/watch?v=VKFQzeswhDM Anatomy of Angular CLI Builders (2022)
 - https://www.youtube.com/watch?v=M1Bk_O49n94 Enhancing the workspace with Custom Builders
 - https://www.youtube.com/watch?v=hX0KLxMJVyU Unleash the power of Angular CLI Builders - Nir Kaufman
 
@@ -1177,6 +1178,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/iliasbhal/xstate-builder
 - https://github.com/ngfelixl/reactive-entity-store
 - https://github.com/mattpocock/xstate-catalogue
+- https://github.com/drivly/state.do
 - https://github.com/markostanimirovic/juliette
 - https://github.com/AmadeusITGroup/ngx-tansu
 - https://github.com/eneajaho/observable-store
@@ -1232,7 +1234,9 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/pregular/core
 - https://github.com/open-wc/open-wc
 - https://github.com/BuilderIO/jsx-lite
+- https://github.com/ionic-team/stencil
 - https://custom-elements-everywhere.com/
+- https://github.com/mateusortiz/webcomponents-the-right-way
 - https://github.com/HTMLElements/smart-webcomponents
 
 ## ECOSYSTEM: MICROFRONTEND
@@ -1672,6 +1676,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/palantir/tslint
 - https://github.com/eslint/eslint
 - https://github.com/mgechev/ngrev
+- https://github.com/google/gts
 - https://github.com/mgechev/ng2lint
 - https://github.com/mgechev/codelyzer
 - https://github.com/ReactiveX/rxjs-tslint
@@ -1685,6 +1690,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/import-js/eslint-plugin-import
 - https://github.com/prettier/tslint-config-prettier
+- https://github.com/xojs/eslint-config-xo-typescript
 - https://github.com/aotaduy/eslint-plugin-spellcheck
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://github.com/cartant/eslint-plugin-rxjs-angular
@@ -2171,6 +2177,7 @@ Analyze and optimize the performance of your app
 - https://github.com/AlexMiniApps/angular-code-input
 - https://github.com/shipshapecode/angular-shepherd
 - https://github.com/webcat12345/ngx-intl-tel-input
+- https://github.com/tonysamperi/ngx-mat-timepicker
 - https://github.com/LayZeeDK/ngx-foundation-sites
 - https://github.com/ivylaboratory/angular-gallery
 - https://github.com/adisreyaj/angular-star-rating
@@ -2184,6 +2191,7 @@ Analyze and optimize the performance of your app
 - https://github.com/neojato/ngx-barcode-input
 - https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/d-koppenhagen/ngx-lipsum
+- https://github.com/tonysamperi/ngx-popperjs
 - https://github.com/matteobruni/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
@@ -2324,6 +2332,7 @@ Analyze and optimize the performance of your app
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 
 ## ECOSYSTEM: LIB: COMPONENT: TOUR
+- https://github.com/tonysamperi/ngx-tour-wizard
 - https://github.com/tnicola/ngx-joyride
 - https://github.com/hakimio/ngx-ui-tour
 
@@ -2610,11 +2619,14 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/eliraneliassy/angular-v14-playground
 - https://github.com/tomastrajan/angular-state-management-workshop
 
+## ECOSYSTEM: DEMO: STARTER
+- https://github.com/ng-matero/nx-starter
+- https://github.com/Tinkoff/angular-open-source-starter
+
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/adisreyaj/wfh
 - https://github.com/eneajaho/ng-tauri
 - https://github.com/lacolaco/angular-sac
-- https://github.com/ng-matero/nx-starter
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
 - https://github.com/SanderElias/AnalogTest

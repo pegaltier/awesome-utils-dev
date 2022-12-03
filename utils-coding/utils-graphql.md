@@ -82,6 +82,7 @@
 - https://github.com/graphql-editor/graphql-zeus
 - https://github.com/prisma-labs/graphql-request
 - https://github.com/kamilkisiela/graphql-config
+- https://github.com/marmelab/json-graphql-server
 - https://github.com/serverless-components/graphql
 - https://github.com/zalando-incubator/graphql-jit
 - https://github.com/GraphQL-Portal/graphql-portal

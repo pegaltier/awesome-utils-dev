@@ -430,6 +430,9 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/JetBrains/web-types
 - https://github.com/microsoft/fast
 
+## CWV
+- https://github.com/pixel-point/fontpie
+
 ## IOT
 - https://webofthings.org/standards/
 

@@ -16,12 +16,14 @@
 
 - https://github.com/Ja7ad/W3Schools
 - https://github.com/chubin/cheat.sh
+- https://github.com/answerdev/answer
 - https://github.com/kuchin/awesome-cto
 - https://github.com/topics/awesome-list
 - https://github.com/dwmkerr/hacker-laws
 - https://github.com/sindresorhus/awesome
 - https://github.com/learn-anything/books
 - https://github.com/google/eng-practices
+- https://github.com/raylene/eng-handbook
 - https://github.com/sindresorhus/awesome
 - https://github.com/ossu/computer-science
 - https://github.com/datasciencemasters/go
@@ -41,8 +43,11 @@
 - https://github.com/louelladev/Helpful-Tech-Resources
 - https://github.com/kitze/awesome-conference-practices
 - https://github.com/cloudcommunity/Free-Certifications
+- https://github.com/mtdvio/every-programmer-should-know
+- https://github.com/bespoyasov/refactor-like-a-superhero
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development
+- https://github.com/qiangmzsx/Software-Engineering-at-Google
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 ## AWESOME LIST WWW

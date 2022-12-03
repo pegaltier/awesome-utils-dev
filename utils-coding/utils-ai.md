@@ -43,6 +43,7 @@
 - https://github.com/winkjs/wink-ner
 - https://github.com/obsei/obsei
 - https://github.com/upscayl/upscayl
+- https://github.com/JaidedAI/EasyOCR
 
 ## GPT3
 

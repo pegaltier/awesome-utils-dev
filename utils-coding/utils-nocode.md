@@ -19,6 +19,7 @@ low-code tooling to prototype fastly.
 - https://www.duda.co
 - https://xlayers.dev
 - https://uizard.io
+- https://olympe.io
 - https://bubble.is
 
 ## api
@@ -29,6 +30,7 @@ low-code tooling to prototype fastly.
 - https://www.contentful.com/
 - https://github.com/payloadcms/payload
 - https://github.com/contentlayerdev/contentlayer
+- https://github.com/marcolink/cf-content-types-generator-app
 
 ## landing
 - https://www.landen.co
@@ -58,6 +60,7 @@ low-code tooling to prototype fastly.
 
 ## lowcode
 - https://github.com/frappe/frappe
+- https://github.com/goldstack/goldstack
 - https://github.com/appsmithorg/appsmith
 - https://github.com/alibaba/lowcode-engine
 

@@ -79,6 +79,7 @@
 - https://github.com/tavyandy97/span-tree
 
 ## ACTIONS
+- https://github.com/nektos/act
 - https://github.com/garronej/ts_ci
 - https://github.com/actions/toolkit
 - https://github.com/sdras/awesome-actions

@@ -103,6 +103,7 @@
 
 ## CHEAT-SHEETS
 
+- https://unjs.io
 - https://1loc.dev
 - https://devdocs.io
 - https://codetogo.io
@@ -148,6 +149,8 @@
 - https://github.com/evanw/esbuild
 - https://github.com/webhintio/hint
 - https://github.com/Jarred-Sumner/bun
+- https://github.com/liriliri/eruda
+- https://github.com/liriliri/chii
 - https://github.com/miragejs/miragejs
 - https://github.com/lukeed/astray
 - https://github.com/fkling/astexplorer
@@ -280,6 +283,7 @@
 - https://github.com/cabinjs/sensitive-fields
 - https://github.com/country-regions/country-region-data
 - https://github.com/niklasvh/html2canvas
+- https://github.com/fathyb/html2svg
 - https://github.com/vercel/satori
 - https://github.com/lukeed/clsx
 - https://github.com/101arrowz/fflate
@@ -420,7 +424,9 @@
 - https://github.com/xtermjs/xterm.js
 - https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
+- https://github.com/svgdotjs/svg.js
 - https://github.com/alibaba/formily
+- https://github.com/TanStack/router
 - https://github.com/Aaronius/penpal
 - https://github.com/omrilotan/isbot
 - https://github.com/Leaflet/Leaflet

@@ -18,6 +18,7 @@
 - https://github.com/inoda/ontrack
 - https://github.com/apenwarr/blip
 - https://github.com/yt-dlp/yt-dlp
+- https://github.com/subnub/myDrive
 - https://github.com/axa-group/Parsr
 - https://github.com/notable/notable
 - https://github.com/alyssaxuu/omni
@@ -28,6 +29,7 @@
 - https://github.com/mastodon/mastodon
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
+- https://github.com/coollabsio/coolify
 - https://github.com/42wim/matterbridge
 - https://github.com/sniptt-official/ots
 - https://github.com/syncthing/syncthing
@@ -82,6 +84,9 @@
 - https://github.com/graydon/obsidian-html
 - https://github.com/AppFlowy-IO/AppFlowy 
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
+
+## Automate
+- https://www.getmagical.com/
 
 ## New
 - https://fig.io/

@@ -16,6 +16,7 @@
 - https://github.com/hyperhyperspace
 - https://github.com/dyne/zenpub-client
 - https://github.com/peers/peerjs-server
+- https://github.com/markqvist/Reticulum
 - https://github.com/hyperswarm/dht-relay
 - https://github.com/browser-network/network
 - https://github.com/browser-network/database

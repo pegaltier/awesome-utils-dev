@@ -69,6 +69,7 @@
 - https://github.com/nicolargo/glances
 - https://github.com/ClementTsang/bottom
 - https://github.com/alexfernandez/loadtest
+- https://github.com/devcontainers/feature-starter
 - https://github.com/cloudcomponents/cdk-constructs
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
@@ -167,6 +168,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/tomhuang12/awesome-k8s-resources
 - https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook
 - https://kubernetes.io/docs/tutorials/kubernetes-basics
+- https://github.com/techiescamp/kubernetes-learning-path
 - https://github.com/diegolnasc/kubernetes-best-practices
 - https://github.com/padok-team/dojo-kubernetes-prometheus
 - https://github.com/kelseyhightower/kubernetes-the-hard-way

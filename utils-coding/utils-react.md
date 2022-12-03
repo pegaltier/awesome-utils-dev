@@ -61,6 +61,7 @@
 - https://github.com/saleor/saleor
 - https://github.com/medusajs/medusa
 - https://github.com/redwoodjs/redwood
+- https://github.com/pankod/superplate
 - https://github.com/neekware/FullestStack
 - https://github.com/wesbos/Advanced-React
 - https://github.com/facebook/create-react-app

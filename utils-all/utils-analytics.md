@@ -117,3 +117,11 @@ adb shell setprop debug.firebase.analytics.app .none. # disabled debug
 -FIRDebugEnabled # enable debug
 -FIRDebugDisabled # disable debug
 ```
+
+## Google Optimize
+
+- At bootstrap website appends « Optimize » script to the page
+- « Optimize » load all the running experiments that matches 
+- « Optimize » determines the variant of these experiments
+- « Optimize » stores in a cookie experiments+variants
+- « Optimize » sends the impression event to « Analytics » 
