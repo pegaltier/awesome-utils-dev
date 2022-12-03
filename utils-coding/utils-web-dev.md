@@ -451,7 +451,10 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/mhevery/qwik-js-poland-workshop
 - https://github.com/awesome-club/awesome-qwik
 - https://github.com/robisim74/qwik-speak
+- https://github.com/onwidget/astrowind
+- https://github.com/qwikifiers/qwik-nx
 - https://github.com/qwikifiers/qwik-ui
+- https://github.com/onwidget/qwind
 
 ## STARTER: SPA GEN 3 VIDEOS
 - https://www.youtube.com/watch?v=iJZaT-AvJ-o Introducing Qwik w/ Misko Hevery & Shai Reznik
