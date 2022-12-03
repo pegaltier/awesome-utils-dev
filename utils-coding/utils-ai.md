@@ -44,6 +44,7 @@
 - https://github.com/obsei/obsei
 - https://github.com/upscayl/upscayl
 - https://github.com/JaidedAI/EasyOCR
+- https://github.com/neuml/txtai
 
 ## GPT3
 

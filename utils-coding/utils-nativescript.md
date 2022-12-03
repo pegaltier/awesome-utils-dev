@@ -48,6 +48,8 @@ Publish to Google Play for beta testing or public distribution.
 - https://github.com/nativescript-community/perms
 - https://github.com/klippa-app/nativescript-http
 - https://github.com/nstudio/nativescript-ui-kit
+- https://github.com/VanderSP/NSCanvasCyberDemo
+- https://github.com/NativeScript/nx
 
 ## EXAMPLE
 - https://github.com/mahmoudajawad/nx-ns-shared

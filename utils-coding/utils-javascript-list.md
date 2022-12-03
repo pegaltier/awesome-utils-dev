@@ -315,6 +315,7 @@
 
 ## LIB: REGEX
 - https://github.com/devongovett/regexgen
+- https://github.com/compose-regexp/compose-regexp.js
 
 ## LIB: VALIDATION
 - https://github.com/hapijs/joi
@@ -329,6 +330,7 @@
 - https://github.com/mgechev/injection-js
 - https://github.com/inversify/InversifyJS
 - https://github.com/mnasyrov/ditox
+- https://github.com/radzserg/rsdi
 
 ## LIB: ARCHI
 - https://github.com/Livshitz/di.libx.js
@@ -474,10 +476,12 @@
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
 - https://github.com/google/model-viewer
+- https://github.com/mapbox/pixelmatch
 - https://github.com/graphery/graphery
 - https://github.com/nzbin/photoviewer
 - https://github.com/transloadit/uppy
 - https://github.com/aeroheim/midori
+- https://github.com/lukeapage/pngjs
 - https://github.com/markedjs/marked
 - https://github.com/greensock/GSAP
 - https://github.com/vercel/satori
@@ -491,6 +495,7 @@
 - https://github.com/KhronosGroup/glTF
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js
+- https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
 - https://github.com/0beqz/screen-space-reflections
 

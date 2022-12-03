@@ -18,6 +18,7 @@
 
 ## COURSES
 - https://github.com/isolutionsag/devops-security-cheat-sheet
+- https://github.com/Artemmkin/infrastructure-as-code-tutorial
 - https://github.com/K8sAcademy/Fundamentals-HandsOn
 
 ## HELPER
@@ -144,6 +145,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/kubernetes/minikube
 - https://github.com/kubescape/kubescape
 - https://github.com/kubernetes-sigs/krew
+- https://github.com/mbaykara/k8s-cluster
 - https://github.com/stackrox/kube-linter
 - https://github.com/cloudmelon/melonkube
 - https://github.com/kubernetes/dashboard

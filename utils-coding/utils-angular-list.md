@@ -207,6 +207,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://timdeschryver.dev/blog/why-we-should-verify-http-response-bodies-and-why-we-should-use-zod-for-this#creating-a-zod-schema
 - https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
 - https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36
+- https://github.com/angular-university/ngrx-course
 - https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
 - https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
 - https://github.com/AngularWave/angular.institute
@@ -1716,6 +1717,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/expertly-simple/angular-evergreen
 - https://github.com/nitedani/vite-plugin-angular
+- https://github.com/angular-experts-io/terminal
+- https://github.com/angular-experts-io/ng-parsel
 - https://github.com/irustm/ng-template-parser
 - https://github.com/angular/ngcc-validation
 - https://github.com/rangle/angular-devtools
@@ -1987,6 +1990,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TradeMe/tractor
 - https://github.com/bahmutov/cy-api
 - https://github.com/cypress-io/cypress
+- https://github.com/YOU54F/cypress-plugins
 - https://github.com/agoldis/sorry-cypress
 - https://www.herodevs.com/support/endbridge
 - https://github.com/mfrachet/cypress-audit
@@ -2004,6 +2008,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/microsoft/playwright-test
 - https://github.com/NoriSte/cypress-wait-until
 - https://github.com/smeijer/testing-playground
+- https://github.com/bahmutov/cypress-failed-log
 - https://github.com/socreate/angular-playground
 - https://github.com/component-driven/cypress-axe
 - https://github.com/ceceliacreates/ionic-cypress
@@ -2633,6 +2638,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/tastejs/angular-movies
 - https://github.com/brandonroberts/ng-vite
 - https://github.com/bampakoa/angular-heroes
+- https://github.com/nartc/ng-pexels-gallery
 - https://github.com/ngneat/ng-standalone-nx
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/mrkpks/nx-optimistic-state

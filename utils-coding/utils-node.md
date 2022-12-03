@@ -137,6 +137,7 @@
 ## FRAMEWORKS
 
 - https://github.com/trpc/trpc
+- https://github.com/hexojs/hexo
 - https://github.com/nestjs/nest
 - https://github.com/tsedio/tsed
 - https://github.com/strapi/strapi

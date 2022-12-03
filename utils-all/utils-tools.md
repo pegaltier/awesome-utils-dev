@@ -27,6 +27,7 @@
 - https://github.com/pavlobu/deskreen
 - https://github.com/electerious/Ackee
 - https://github.com/mastodon/mastodon
+- https://github.com/kevinpapst/kimai2
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
 - https://github.com/coollabsio/coolify
