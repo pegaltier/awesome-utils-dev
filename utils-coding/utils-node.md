@@ -194,3 +194,14 @@ npm update mypackage1 mypackage2 # update many to the wanted
 npm install mypackage1@latest # update one to the latest (major)
 npx npm-check-updates -u # update all to the latest (major)
 ```
+
+## MODULES
+- https://dmitripavlutin.com/ecmascript-modules-nodejs/
+- https://blog.logrocket.com/commonjs-vs-es-modules-node-js/
+- https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2
+- https://adamcoster.com/blog/commonjs-and-esm-importexport-compatibility-examples
+- https://techsparx.com/nodejs/typescript/modules-01.html
+- https://stackoverflow.com/questions/33535879/how-to-run-typescript-files-from-command-line
+- https://www.typescriptlang.org/docs/handbook/esm-node.html
+- https://www.npmjs.com/package/fix-esm
+- https://github.com/standard-things/esm
