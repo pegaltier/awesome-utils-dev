@@ -3017,6 +3017,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://gumroad.com/l/angular-universal
 - https://github.com/codecraft-tv/angular-course
 - https://github.com/PacktPublishing/Angular-Projects
+- https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://manning.com/books/angular-2-development-with-typescript
 - https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy

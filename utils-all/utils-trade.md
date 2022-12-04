@@ -37,6 +37,10 @@
 - rise duration is between 40 and 60 days and 10 to 14 are parabolic
 - then we have a range
 
+## LEVERAGE
+
+- leveraged position can be used only after a big correction like minus 30% and use only a small leverage such as x2 or x3, it will helps reduce your stress.
+
 ## INDICATORS
 
 21 EMA DAILY
@@ -68,6 +72,8 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - buy SP500 when VIX closes above 30 and sell when VIX closes below 20. = +25% in 2022
 - buy SP500 when VIX closes below 20 and sell when VIX closes above 30. = -33% in 2022
 
+## Strat: MA200
+- 
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
@@ -178,6 +184,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## LEARN
 - https://hackingthemarkets.com/
+
+- https://www.youtube.com/watch?v=g9bmgvJkfmQ behavioral finance / cognitive bias (in french)
+
 
 ## TRADINGVIEW
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
