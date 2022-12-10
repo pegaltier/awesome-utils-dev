@@ -39,6 +39,7 @@
 - https://github.com/metlo-labs/metlo
 - https://github.com/f0rb1d/postwoman
 - https://github.com/DataFire/DataFire
+- https://github.com/apihero-run/apihero
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
 - https://github.com/Apicurio/apicurio-studio
@@ -79,6 +80,7 @@
 - https://github.com/serverless-stack/sst
 - https://github.com/serverless/serverless
 - https://github.com/pocketbase/pocketbase
+- https://github.com/risingwavelabs/risingwave
 
 ## OTHERS
 - https://aip.dev

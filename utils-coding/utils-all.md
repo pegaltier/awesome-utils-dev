@@ -69,3 +69,6 @@
 
 - https://www.techs.rocks/
 - https://github.com/ladyleet/tech-community-slacks
+
+## ASSEMBLER
+- https://github.com/Schweigi/assembler-simulator

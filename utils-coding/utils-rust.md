@@ -30,3 +30,9 @@
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/flosse/rust-web-framework-comparison
 - https://github.com/dymayday/bearded-happiness/tree/master/rust
+
+## HELPER
+
+```
+cargo tree -i hdi
+```

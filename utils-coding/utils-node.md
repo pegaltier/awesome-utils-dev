@@ -64,7 +64,6 @@
 - https://github.com/lirantal/npq
 - https://github.com/amio/npm-why
 - https://github.com/ranyitz/qnm
-- https://github.com/npm/cacache
 - https://github.com/vercel/ncc
 - https://github.com/vercel/nft
 - https://github.com/nexe/nexe
@@ -91,7 +90,7 @@
 - https://github.com/nodejs/undici
 - https://github.com/verdaccio/verdaccio
 - https://github.com/mcollina/on-exit-leak-free
-- https://github.com/szmarczak/cacheable-lookup
+- https://github.com/microlinkhq/metascraper
 - https://github.com/calipersjs/calipers
 - https://github.com/piscinajs/piscina
 - https://github.com/Unitech/pm2
@@ -106,7 +105,9 @@
 
 ## LIBS: CACHE
 - https://github.com/node-cache-manager/node-cache-manager
+- https://github.com/szmarczak/cacheable-lookup
 - https://github.com/isaacs/node-lru-cache
+- https://github.com/npm/cacache
 
 ## LIBS: AI
 - https://github.com/naptha/tesseract.js

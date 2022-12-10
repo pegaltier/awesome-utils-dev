@@ -207,6 +207,7 @@
 - https://github.com/developedbyed/styled-frontend
 - https://github.com/juristr/blog-series-nextjs-nx
 - https://github.com/module-federation/nextjs-mf
+- https://github.com/serverless-stack/open-next
 - https://github.com/ixartz/Next-js-Boilerplate
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/vercel/next-learn-starter

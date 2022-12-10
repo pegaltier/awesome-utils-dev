@@ -44,6 +44,7 @@
 - https://github.com/deepset-ai/FARM
 - https://github.com/winkjs/wink-ner
 - https://github.com/obsei/obsei
+- https://github.com/vincelwt/chatgpt-mac
 - https://github.com/upscayl/upscayl
 - https://github.com/JaidedAI/EasyOCR
 - https://github.com/neuml/txtai

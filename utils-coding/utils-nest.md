@@ -32,6 +32,7 @@
 - https://github.com/panva/node-oidc-provider
 - https://github.com/pragmaticivan/nestjs-otel
 - https://github.com/ToonvanStrijp/nestjs-i18n
+- https://github.com/railsstudent/nestjs-health
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/underfisk/nestjs-asyncapi
 - https://github.com/hardyscc/nestjs-cqrs-starter

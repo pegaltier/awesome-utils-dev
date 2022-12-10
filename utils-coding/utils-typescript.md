@@ -51,6 +51,7 @@
 - https://github.com/xolvio/typescript-event-sourcing
 - https://github.com/stemmlerjs/simple-typescript-starter
 - https://github.com/kettanaito/create-typescript-library
+- https://github.com/takuya-motoshima/esm-and-other-format-libraries-starter
 
 ## DEVTOOLS
 - https://github.com/formium/tsdx
@@ -77,7 +78,6 @@
 - https://github.com/danvk/ts-mover
 - https://github.com/kutyel/linq.ts
 - https://github.com/microsoft/tsdoc
-- https://github.com/vercel/turborepo
 - https://github.com/contiamo/rhombic
 - https://github.com/zMotivat0r/mrepo
 - https://github.com/nadeesha/ts-prune

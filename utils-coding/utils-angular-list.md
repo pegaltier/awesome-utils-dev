@@ -1590,6 +1590,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/jsonberry/pentacle
 - https://github.com/Bielik20/nx-mean-starter
 - https://github.com/manfredsteyer/custom-nx-cache
+- https://github.com/vercel/turborepo
+- https://github.com/brunojppb/turbo-racer
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/nrwl/nx/issues/2633 ionic5 support
 - https://github.com/nstudio/xplat-sample-ionic-web
@@ -2382,6 +2384,7 @@ Analyze and optimize the performance of your app
 
 - https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
+- https://github.com/xieziyu/ngx-echarts
 - https://github.com/swimlane/ngx-charts
 - https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/scttcper/ngx-chartjs
@@ -2645,6 +2648,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/adisreyaj/wfh
 - https://github.com/eneajaho/ng-tauri
+- https://github.com/yjaaidi/experiments
 - https://github.com/lacolaco/angular-sac
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
