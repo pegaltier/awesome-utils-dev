@@ -2139,6 +2139,7 @@ Analyze and optimize the performance of your app
 - https://github.com/codediodeio/angular-gtag
 - https://github.com/angulartics/angulartics2
 - https://github.com/maxandriani/ngx-google-analytics
+- https://github.com/mzuccaroli/angular-google-tag-manager
 - https://github.com/dottedsquirrel/AngularGoogleAnalytics
 
 ## ECOSYSTEM: LIB: DEBUG
