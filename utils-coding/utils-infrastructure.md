@@ -59,6 +59,7 @@
 - https://github.com/loadimpact/k6
 - https://github.com/kruize/kruize
 - https://github.com/pulumi/pulumi
+- https://github.com/atkrad/wait4x
 - https://github.com/SigNoz/signoz
 - https://github.com/rapiz1/rathole
 - https://github.com/buildpacks/pack
@@ -68,12 +69,18 @@
 - https://github.com/hauxir/errorpush
 - https://github.com/caprover/caprover
 - https://github.com/nicolargo/glances
+- https://github.com/Infisical/infisical
+- https://github.com/seaweedfs/seaweedfs
 - https://github.com/ClementTsang/bottom
 - https://github.com/alexfernandez/loadtest
+- https://github.com/simao-silva/noip-renewer
 - https://github.com/devcontainers/feature-starter
 - https://github.com/cloudcomponents/cdk-constructs
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
+
+## TOOLS: MESSAGING
+- https://github.com/aiven/klaw
 
 ## PACK
 - https://github.com/tldr-devops/startpack
@@ -91,6 +98,7 @@
 ## CLOUDFARE
 - https://github.com/losfair/blueboat
 - https://github.com/cfworker/cfworker
+- https://github.com/cloudflare/miniflare
 - https://github.com/cloudflare/wrangler2
 - https://github.com/cloudflare/cloudflared
 - https://github.com/artur-ciocanu/odd-cloudflare-workers

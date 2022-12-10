@@ -53,8 +53,8 @@
 - https://github.com/kettanaito/create-typescript-library
 
 ## DEVTOOLS
-
 - https://github.com/formium/tsdx
+- https://github.com/phero-hq/phero
 - https://github.com/Microsoft/tsdoc
 - https://github.com/cevek/ttypescript
 - https://github.com/johnlindquist/kit
@@ -63,6 +63,7 @@
 - https://github.com/alshdavid/BorrowScript
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/saurabhdaware/typescript-run
+- https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/LeDDGroup/typescript-transform-paths
 
 ## UTILS

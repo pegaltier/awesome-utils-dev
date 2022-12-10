@@ -57,6 +57,7 @@ echo $PATH
 
 - https://github.com/cachix/devenv
 - https://github.com/cachix/cachix
+- https://github.com/nix-community/home-manager
 
 ## More
 

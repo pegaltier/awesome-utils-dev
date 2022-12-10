@@ -146,7 +146,6 @@
 ## TOOLS OSS
 
 - https://github.com/vercel/hazel
-- https://github.com/evanw/esbuild
 - https://github.com/webhintio/hint
 - https://github.com/Jarred-Sumner/bun
 - https://github.com/liriliri/eruda
@@ -157,6 +156,10 @@
 - https://github.com/pastelsky/bundlephobia
 - https://github.com/lirantal/is-website-vulnerable
 - https://github.com/Hopding/js-visualizer-9000-client
+
+## TOOLS: BUILD
+- https://github.com/evanw/esbuild
+- https://github.com/egoist/esbuild-register
 
 ## FRAMEWORK: FRONTEND
 - https://github.com/electron-userland/electron-builder
@@ -325,6 +328,9 @@
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/koorchik/js-validator-livr
 
+## LIB: CACHING
+- https://github.com/thinkloop/memoizerific
+
 ## LIB: DI
 - https://github.com/ezzabuzaid/tiny-injector
 - https://github.com/mgechev/injection-js
@@ -416,6 +422,7 @@
 - https://github.com/formkit/auto-animate
 - https://github.com/codex-team/editor.js
 - https://github.com/focus-trap/tabbable
+- https://github.com/missive/emoji-mart
 - https://github.com/datalog/qrcode-svg
 - https://github.com/Simonwep/selection
 - https://github.com/Agezao/confetti-js
@@ -467,6 +474,7 @@
 ## LIB: CHART
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/plotly/plotly.js
+- https://github.com/leeoniya/uPlot
 
 ## LIB: MEDIAS
 - https://github.com/francoischalifour/medium-zoom
@@ -492,6 +500,7 @@
 - https://github.com/ct-js/ct-js
 - https://github.com/aframevr/aframe
 - https://github.com/mrdoob/three.js
+- https://github.com/shakiba/planck.js
 - https://github.com/KhronosGroup/glTF
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js

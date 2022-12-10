@@ -412,8 +412,10 @@ tags: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-us
 ## HTML AUDIO
 emit/receive : https://github.com/quiet/quiet-js  
 
-## FRAMEWORK
+## EXTENSIONS
+- https://github.com/EmailThis/extension-boilerplate
 
+## FRAMEWORK
 - https://decorator.io/modulr/
 - https://github.com/fabiospampinato/voby
 - https://github.com/justin-schroeder/arrow-js
@@ -445,24 +447,6 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/jamesgeorge007/scaffold-static
 - https://github.com/wwebdev/static-website-template
 
-## STARTER: SPA GEN 3 OSS
-- https://github.com/learnwithjason/resumable-apps-qwik
-- https://github.com/manucorporat/qwik-conference-app
-- https://github.com/mhevery/qwik-js-poland-workshop
-- https://github.com/awesome-club/awesome-qwik
-- https://github.com/robisim74/qwik-speak
-- https://github.com/onwidget/astrowind
-- https://github.com/qwikifiers/qwik-nx
-- https://github.com/qwikifiers/qwik-ui
-- https://github.com/onwidget/qwind
-
-## STARTER: SPA GEN 3 VIDEOS
-- https://www.youtube.com/watch?v=iJZaT-AvJ-o Introducing Qwik w/ Misko Hevery & Shai Reznik
-- https://www.youtube.com/watch?v=sCPLWf2cEY0 Misko Hevery | Reliable Web Summit 2021
-- https://www.youtube.com/watch?v=cC1Af_79JJI Resumable Frameworks: | Miško Hevery | ng-conf 2022 Webinar
-- https://www.youtube.com/watch?v=x2eF3YLiNhY Qwik… the world's first O(1) JavaScript framework?
-- https://www.youtube.com/watch?v=_PDpoJUacuc Build Resumable Apps with Qwik - Learn With Jason
-
 ## STARTER: SSG
 - https://github.com/google/eleventy-high-performance-blog
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
@@ -478,6 +462,7 @@ emit/receive : https://github.com/quiet/quiet-js
 
 - https://codedmails.com/
 - https://github.com/mjmlio/mjml
+- https://github.com/zenorocha/react-email
 - https://github.com/tomayac/dark-mode-email
 
 ## CREATIVE TOOLS
@@ -506,6 +491,7 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## CREATIVE RESOURCES
 
+- https://alex.dytry.ch/toys/infinite-scroll/
 - https://codyhouse.co/nuggets/text-gradients
 - https://codepen.io/cassie-codes/full/RwRORqB
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
@@ -519,7 +505,10 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/russellsamora/scrollama
 - https://github.com/developedbyed/3d-scroll-ball
 - https://github.com/codrops/MenuToGrid
+- https://github.com/codrops/RapidImageHoverMenu
 - https://github.com/codrops/LineHoverStyles
+- https://github.com/codrops/TooltipTransition
+- https://github.com/codrops/InlineLayoutSwitch
 - https://github.com/codrops/ButtonHoverStyles
 - https://github.com/codrops/FullscreenScroll
 - https://github.com/codrops/InlineMenuLayout/
