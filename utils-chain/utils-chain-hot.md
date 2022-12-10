@@ -201,6 +201,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-context
 - https://github.com/perspect3vism/language-persistence
+- https://github.com/perspect3vism/perspective-diff-sync
 - https://github.com/perspect3vism/direct-message-language
 - https://github.com/perspect3vism/local-language-persistence
 - https://github.com/ddd-mtl/delivery-zome

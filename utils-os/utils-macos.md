@@ -48,10 +48,12 @@ brew services list
 ```
 asdf list-all java
 asdf list java
+asdf install nodejs latest:18
 asdf install java openjdk-11.0.2 
 asdf install java openjdk-17.0.2
 asdf global java openjdk-11.0.2
 asdf global java openjdk-17.0.2
+asdf global nodejs latest:18
 ```
 
 ## Sdkman

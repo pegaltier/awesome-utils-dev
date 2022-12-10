@@ -27,6 +27,8 @@
 - https://github.com/RameshMF/springboot-dto-tutorial
 - https://github.com/RameshMF/Hibernate-ORM-Tutorials
 - https://github.com/bezkoder/spring-jpa-query-example
+- https://github.com/RameshMF/springboot-microservices
+- https://github.com/bezkoder/spring-boot-image-upload
 - https://github.com/bezkoder/spring-boot-thymeleaf-example
 - https://github.com/livelessons-spring/building-microservices
 - https://github.com/spring-projects-experimental/spring-native

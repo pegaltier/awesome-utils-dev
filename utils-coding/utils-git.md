@@ -54,6 +54,7 @@
 - https://github.com/kreuzerk/import-conductor
 - https://prettier.io/docs/en/precommit.html
 - https://github.com/jesseduffield/lazygit
+- https://github.com/Kikobeats/git-garbage
 - https://github.com/jevakallio/git-notify
 - https://github.com/atlassian/changesets
 - https://github.com/observing/pre-commit
@@ -89,6 +90,7 @@
 - https://github.com/rossjrw/pr-preview-action
 - https://github.com/benc-uk/workflow-dispatch
 - https://github.com/actions/typescript-action
+- https://github.com/githubocto/repo-visualizer
 - https://github.com/softprops/action-gh-release
 - https://github.com/mtfoley/pr-compliance-action
 - https://github.com/styfle/cancel-workflow-action

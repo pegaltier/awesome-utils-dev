@@ -18,9 +18,11 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
+- https://chat.openai.com/
 - https://play.botscript.ai/
 - https://copilot.github.com/
 - http://playground.tensorflow.org/
+- https://github.com/clmnin/summarize.site
 
 ## IMAGES API
 

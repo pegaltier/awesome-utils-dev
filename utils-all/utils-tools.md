@@ -7,7 +7,7 @@
 - https://owncast.online/
 - https://metatags.io/font-generator
 
-## Oss
+## OSS: ALL
 - https://github.com/yjs/yjs
 - https://github.com/n8n-io/n8n
 - https://github.com/rowyio/rowy
@@ -51,10 +51,14 @@
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects
 
-# Photo
+# OSS: PHOTO
 - https://github.com/immich-app/immich
 - https://github.com/electerious/Lychee
 - https://github.com/photoprism/photoprism
+
+## OSS: PASSWORD
+- https://github.com/padloc/padloc
+- https://github.com/keepassx/keepassx
 
 # Web
 - https://github.com/iamadamdev/bypass-paywalls-chrome
@@ -83,7 +87,8 @@
 - https://github.com/hadynz/obsidian-sidekick
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/graydon/obsidian-html
-- https://github.com/AppFlowy-IO/AppFlowy 
+- https://github.com/AppFlowy-IO/AppFlowy
+- https://github.com/AlexW00/obsidian-3d-graph
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
 
 ## Automate

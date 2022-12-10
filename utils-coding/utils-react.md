@@ -57,11 +57,12 @@
 - https://github.com/KATT/zart
 
 ## STARTER
-
 - https://github.com/saleor/saleor
+- https://github.com/shuding/nextra
 - https://github.com/medusajs/medusa
 - https://github.com/redwoodjs/redwood
 - https://github.com/pankod/superplate
+- https://github.com/marmelab/react-admin
 - https://github.com/neekware/FullestStack
 - https://github.com/wesbos/Advanced-React
 - https://github.com/facebook/create-react-app
@@ -192,6 +193,9 @@
 - https://github.com/brillout/awesome-react-components
 - https://github.com/sudheerj/reactjs-interview-questions
 
+## DEMO
+- https://github.com/narendrasss/NotANumber
+
 ## NATIVE
 - https://github.com/expo/expo
 
@@ -297,6 +301,7 @@
 - https://github.com/a7med-mahmoud/react-native-prevent-screenshots
 - https://github.com/react-native-segmented-control/segmented-control
 - https://github.com/BruceSuperProgramer/react-native-reanimated-accordion
+- https://github.com/intergalacticspacehighway/react-native-reanimated-zoom
 - https://github.com/MoOx/react-native-transparent-status-and-navigation-bar
 - http://www.proreactnative.com/How-to-Develop-iOS-Apps-on-Linux-Using-React-Native/
 - https://facebook.github.io/react-native/releases/0.21/docs/getting-started-on-linux.html

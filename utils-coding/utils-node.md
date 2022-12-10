@@ -35,15 +35,16 @@
 - https://github.com/animir/node-rate-limiter-flexible
 - https://github.com/bahmutov/start-server-and-test
 - https://github.com/sverweij/dependency-cruiser
+- https://github.com/sindresorhus/find-cache-dir
 - https://github.com/radarsu/types-package-json
 - https://github.com/davglass/license-checker
 - https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
 - https://github.com/adisreyaj/cartella-web
+- https://github.com/sindresorhus/trash-cli
 - https://github.com/sindresorhus/fkill-cli
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
-- https://github.com/isaacs/node-lru-cache
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/styfle/packagephobia
 - https://github.com/privatenumber/tasuku
@@ -98,6 +99,14 @@
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
 - https://github.com/unjs/ofetch
+
+## LIBS: AUTH
+- https://github.com/google/webauthndemo
+- https://github.com/MasterKale/SimpleWebAuthn
+
+## LIBS: CACHE
+- https://github.com/node-cache-manager/node-cache-manager
+- https://github.com/isaacs/node-lru-cache
 
 ## LIBS: AI
 - https://github.com/naptha/tesseract.js

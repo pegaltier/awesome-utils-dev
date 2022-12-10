@@ -962,6 +962,14 @@ There is a new module called @angular/fire which helps to automatize the whole d
 - circular dep: check the quality of you code using the various open-source tools such as: bundle-analyzer, madge... `madge --circular --extensions ts ./`
 - normalize state: when there is business logic which will duplicate entities. In this case it's the right way to normalize else you can nest entities in the state because it's simpler particulary if you use an entity adapter
 
+## ERROR
+
+- you can override the default global error handler to add your custom behavior
+- try { } catch {} is only catching synchronous errors
+- asynchronous errors are catched via Zone.js error stream (setTimeout, promise.resolve...)
+- asynchronous errors in RxJS needs to be catched differently (tap to get, then catchError to set a default value and you can also throwError to propagate downstream, you can/need to catchError at different place : service and/or component or else it will goes to the global handler)
+- http errors in angular can be catched in a global interceptor where you can for instance retry 3 times before throwing the errors.
+
 ## INTERVIEW
 
 ### BREAKING ICE QUESTIONS:

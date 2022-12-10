@@ -247,6 +247,7 @@ Learn about the most useful design patterns in Angular.
 - https://refactoring.guru/design-patterns/bridge/typescript/example
 - https://refactoring.guru/design-patterns/catalog
 - https://www.youtube.com/watch?v=CVH0v3EmCfs Nir Kaufman | Going SOLID with DI in Angular
+- https://www.youtube.com/watch?v=Y-MRJ9QYCvI SOLID Design Principles in #Angular (Advanced, 2021)
 - https://www.youtube.com/watch?v=50ALR6JRNrk AngularAir | Using composition over inheritance
 - https://stackblitz.com/github/katesky/angularAir2021/tree/main/ | Using composition over inheritance
 - https://dev.to/humberd/context-menu-actions-at-scale-command-pattern-in-a-real-life-scenario-9o0
@@ -466,6 +467,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://github.com/mauriziovitale/angular-plugins
 - https://github.com/studiohyperdrive/angular_builders
 - https://github.com/angular-schule/angular-cli-ghpages
+- https://github.com/cocasts/webpack-retry-chunk-load-plugin
 - https://www.smashingmagazine.com/2021/06/getting-started-webpack/
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
 - https://codeburst.io/customizing-angular-cli-6-build-an-alternative-to-ng-eject-a48304cd3b21
@@ -490,6 +492,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://alligator.io/angular/using-renderer2/
 - https://github.com/Zizzamia/rendering-in-angular-2
 - https://github.com/matsko/angular2-multi-client
+- https://github.com/irustm/angular-canvas
 - http://www.yearofmoo.com/2016/02/rendering-in-angular2.html
 - https://github.com/matsko/angular2-canvas-renderer-experiment
 - https://github.com/bojzi/sound-machine-electron-guide
@@ -594,6 +597,10 @@ Learn how to build perfect form using reactive forms.
 - https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 - https://netbasal.com/implementing-grouping-checkbox-behavior-with-angular-reactive-forms-9ba4e3ab3965
 - https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5
+
+## CORE: FORMS: TEMPLATE
+- https://docs.google.com/presentation/d/1-nBtr0_C9GJG-uw0rMhs5AEubxg8nI-Ga171O7fXrZE/edit?pli=1#slide=id.g1b40d2e37d0_7_596
+- https://timdeschryver.dev/blog/a-practical-guide-to-angular-template-driven-forms
 
 ## CORE: PLATFORM
 
@@ -929,6 +936,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/dailyjs/how-to-send-errors-into-slack-dc552e30506f
 - https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 - https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.q40h2dl73
+- https://www.youtube.com/watch?v=e03EHZIVJtM Error Handling in Angular - Complete Guide (2022)
 
 ## CORE: UNIT TESTS
 
@@ -1130,6 +1138,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 
 ## ECOSYSTEM: STORE: NGRX/COMPONENT-STORE
+- https://github.com/e-oz/ngx-collection
 - https://github.com/ngworker/router-component-store
 - https://github.com/LayZeeDK/ngrx-router-component-store
 - https://github.com/beeman/component-store-playground
@@ -1916,6 +1925,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/santoshyadavdev/ngx-pwa-offline TOADD
 - https://github.com/ksz-ksz/rxjs-insights TOADD
 - https://github.com/ngneat/subscribe TOADD
+- https://github.com/xripcsu/rxjs-watcher TOADD
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -1975,6 +1985,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/deanius/storybook-animate
 - https://github.com/UX-and-I/storybook-design-token
+- https://github.com/hipstersmoothie/storybook-dark-mode
 
 ## ECOSYSTEM: LIB: E2E TESTS
 
@@ -2061,6 +2072,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/omermorad/automock
 - https://github.com/nvh95/jest-preview
 - https://github.com/hirezio/auto-spies
+- https://github.com/cucumber/cucumber-js
 - https://github.com/help-me-mom/ng-mocks
 - https://github.com/hirezio/observer-spy
 - https://github.com/getsaf/shallow-render
@@ -2411,7 +2423,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/adisreyaj/angular-shimmer-effect
 - https://github.com/willmendesneto/ngx-skeleton-loader
 
-## ECOSYSTEM: LIB: COMPONENT: FORM
+## ECOSYSTEM: LIB: COMPONENT: FORMS
 
 - https://github.com/rxweb/rxweb
 - https://github.com/ngx-meta/rules
@@ -2445,6 +2457,8 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngneat/error-tailor
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/zebzhao/Angular-QueryBuilder
+- https://github.com/Tinkoff/maskito (TOADD)
+- https://github.com/wardbell/ngc-validate (TOADD)
 - https://github.com/pjlamb12/ngx-reactive-forms-utils (TOADD)
 - https://github.com/davidwalschots/angular-reactive-validation (TOADD)
 - https://github.com/JohannesHoppe/angular-date-value-accessor
@@ -2675,6 +2689,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/enten/angular-universal
 - https://github.com/TrilonIO/universal-nest
 - https://github.com/brandonroberts/nx-ng-ssr
+- https://github.com/eneajaho/universal-zoneless
 - https://github.com/servrox/nx-ng-nest-universal
 - https://github.com/ganatan/angular-transferstate
 - https://github.com/TrilonIO/angular-universal-v9
@@ -2691,6 +2706,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brandonroberts/blog
 - https://github.com/stewones/scully-demo
 - https://github.com/Jefiozie/scully-notion
+- https://github.com/nelsongutidev/scully-blog
 - https://github.com/yangjunhan/scully-example
 - https://github.com/MSakamaki/scully-homepage
 - https://github.com/NicolasDesnoust/Desnote-Book
