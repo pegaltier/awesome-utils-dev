@@ -160,6 +160,7 @@
 - https://github.com/nartc/mapper
 - https://github.com/pfgray/ts-adt
 - https://github.com/mu-io/ts-japi
+- https://github.com/skarab42/zoxy
 - https://github.com/colinhacks/zod
 - https://github.com/pelotom/unionize
 - https://github.com/pelotom/runtypes

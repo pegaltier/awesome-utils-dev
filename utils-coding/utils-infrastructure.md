@@ -62,6 +62,7 @@
 - https://github.com/atkrad/wait4x
 - https://github.com/SigNoz/signoz
 - https://github.com/rapiz1/rathole
+- https://github.com/traefik/traefik
 - https://github.com/buildpacks/pack
 - https://github.com/tooljet/tooljet
 - https://github.com/grafana/grafana

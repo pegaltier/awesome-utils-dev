@@ -93,10 +93,12 @@ Refresh the page in browser and see, the virtual includes will start working.
 
 ## DEVTOOLS
 - https://github.com/xdebug/xdebug
+- https://github.com/rectorphp/rector
 
 ## LIB:
 - https://github.com/janephp/janephp
 - https://github.com/firebase/php-jwt
+- https://github.com/laminas/laminas-session
 - https://github.com/RobDWaller/ReallySimpleJWT
 - https://github.com/docusign/docusign-php-client
 - https://github.com/jandaryl/simple-php-boilerplate

@@ -216,6 +216,7 @@
 - https://github.com/graphlatte/graphlatte
 - https://github.com/ScriptedAlchemy/DLAYS
 - https://github.com/leerob/on-demand-isr
+- https://github.com/nextauthjs/next-auth
 - https://github.com/studio-freight/satus
 - https://github.com/egoist/next-connect
 - https://github.com/amiroff/NextBook
@@ -241,6 +242,7 @@
 - https://github.com/luggit/react-native-config
 - https://github.com/gorhom/react-native-portal
 - https://github.com/mrousavy/react-native-mmkv
+- https://github.com/fyndx/react-native-gradient
 - https://github.com/tsdmrfth/react-native-steve
 - https://github.com/facebook/react-native-fbsdk
 - https://github.com/Giphy/giphy-react-native-sdk
@@ -291,6 +293,7 @@
 - https://github.com/react-native-webrtc/react-native-callkeep
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions
+- https://github.com/react-native-datetimepicker/datetimepicker
 - https://github.com/mmazzarolo/react-native-universal-monorepo
 - https://github.com/hyochan/react-native-audio-recorder-player
 - https://github.com/calvium/react-native-device-screen-switcher

@@ -1186,6 +1186,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/ChrisShank/xstate-behaviors
 - https://github.com/iliasbhal/xstate-builder
+- https://github.com/angularconsulting/rx-service
 - https://github.com/ngfelixl/reactive-entity-store
 - https://github.com/mattpocock/xstate-catalogue
 - https://github.com/drivly/state.do
@@ -2383,12 +2384,14 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: DATA VIZ
 
+- https://github.com/chartjs/awesome
 - https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
 - https://github.com/xieziyu/ngx-echarts
 - https://github.com/swimlane/ngx-charts
 - https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/scttcper/ngx-chartjs
+- https://github.com/stephenhutchings/shown
 - https://github.com/apexcharts/ng-apexcharts
 - https://github.com/valor-software/ng2-charts
 - https://github.com/highcharts/highcharts-angular
@@ -2570,6 +2573,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/damienbod/angular-auth-oidc-client
 - https://github.com/mauriciovigolo/keycloak-angular
 - https://github.com/IdentityModel/oidc-client-js
+- https://github.com/zitadel/zitadel-angular
 - https://github.com/angular/angularfire
 - https://github.com/auth0/angular2-jwt
 - https://github.com/auth0/auth0-angular
@@ -3040,6 +3044,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/PacktPublishing/Angular-Projects
 - https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/
+- https://www.packtpub.com/product/angular-design-patterns/9781786461728 (TOADD)
 - https://manning.com/books/angular-2-development-with-typescript
 - https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison

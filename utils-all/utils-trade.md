@@ -348,3 +348,6 @@ Free helpful Stock Market tools🏆
 >StockEdge- Shareholding/Tracking
 >Ratestar- PE/Growth Analysis
 >Tradingview- Charting
+
+## BLOGS
+- https://www.satyland.com/
