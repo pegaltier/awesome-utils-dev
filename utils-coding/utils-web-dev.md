@@ -391,11 +391,11 @@ webpack tuto : https://www.smashingmagazine.com/2017/02/a-detailed-introduction-
 async : https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
 
 ## JAVASCRIPT LIBS
-scrolldir : https://dollarshaveclub.github.io/scrolldir
-rythm html : http://okazari.github.io/Rythm.js/
-sticky affix : http://leafo.net/sticky-kit
-ouibounce : https://github.com/carlsednaoui/ouibounce
-
+- https://dollarshaveclub.github.io/scrolldir
+- http://okazari.github.io/Rythm.js/
+- http://leafo.net/sticky-kit
+- https://github.com/carlsednaoui/ouibounce
+- https://github.com/BoxFactura/pulltorefresh.js
 
 ## HTML
 input validation : http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120  
