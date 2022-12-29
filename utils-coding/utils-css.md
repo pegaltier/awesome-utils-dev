@@ -85,6 +85,7 @@
 - https://github.com/vasanthv/stylize.css
 - https://github.com/dbohdan/classless-css
 - https://github.com/css-doodle/css-doodle
+- https://github.com/frontend-joe/css-navbars
 - https://github.com/marcj/css-element-queries
 - https://github.com/projectwallace/wallace-cli
 - https://github.com/yogurt-foundation/yogurt-css

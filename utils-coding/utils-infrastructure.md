@@ -150,6 +150,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/jpetazzo/nsplease
 - https://github.com/porter-dev/porter
 - https://github.com/armosec/kubescape
+- https://github.com/awesome-it/adeploy
 - https://github.com/yogeshkk/K8sPurger
 - https://github.com/kubernetes/minikube
 - https://github.com/kubescape/kubescape

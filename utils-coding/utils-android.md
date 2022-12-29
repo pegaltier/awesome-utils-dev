@@ -100,6 +100,7 @@ zipalign (optimize RAM) :
 - https://www.youtube.com/watch?v=JyVzp7vQLcc  
 - https://ibotpeaches.github.io/Apktool/
 - https://github.com/pxb1988/dex2jar
+- https://github.com/ax/apk.sh
 - https://github.com/skylot/jadx
 - https://www.pnfsoftware.com/jeb/
 - https://github.com/doridori/Android-Security-Reference

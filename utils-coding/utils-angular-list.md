@@ -1736,6 +1736,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/rangle/angular-devtools
 - https://github.com/ng-easy/renovate-config
 - https://github.com/aholachek/bundle-wizard
+- https://github.com/SanderElias/huppeldepup
 - https://github.com/rainerhahnekamp/sam4sc
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
