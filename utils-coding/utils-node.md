@@ -46,6 +46,7 @@
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
 - https://github.com/SBoudrias/Inquirer.js
+- https://github.com/sultan99/sexy-require
 - https://github.com/styfle/packagephobia
 - https://github.com/privatenumber/tasuku
 - https://github.com/ds300/patch-package
@@ -64,6 +65,7 @@
 - https://github.com/lirantal/npq
 - https://github.com/amio/npm-why
 - https://github.com/ranyitz/qnm
+- https://github.com/47ng/sceau
 - https://github.com/vercel/ncc
 - https://github.com/vercel/nft
 - https://github.com/nexe/nexe

@@ -144,6 +144,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/electron-holochain
 - https://github.com/lightningrodlabs/electron-holochain-template
 - https://github.com/lightningrodlabs/holochain-runner
+- https://github.com/lightningrodlabs/glass-bead-game
 - https://github.com/KoruProtocol/koru
 - https://github.com/darksoil-studio/gather
 - https://github.com/darksoil-studio/mutual-credit

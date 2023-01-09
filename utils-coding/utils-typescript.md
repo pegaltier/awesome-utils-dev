@@ -150,6 +150,7 @@
 - https://github.com/gcanti/fp-ts
 - https://github.com/gigobyte/purify
 - https://github.com/gcanti/fp-ts-contrib
+- https://github.com/rametta/pratica
 - https://github.com/Effect-TS/core
 - https://github.com/rayepps/radash
 

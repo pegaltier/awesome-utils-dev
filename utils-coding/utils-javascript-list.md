@@ -240,6 +240,7 @@
 - https://github.com/JSMonk/hegel
 - https://github.com/kieler/elkjs
 - https://github.com/guybedford/es-module-lexer
+- https://github.com/browserslist/browserslist-useragent
 - https://github.com/krisk/Fuse
 - https://github.com/Hexagon/croner
 - https://github.com/jonschlinkert/clone-deep
@@ -317,6 +318,7 @@
 - https://github.com/jsxtools/cqfill
 
 ## LIB: REGEX
+- https://github.com/snd/url-pattern
 - https://github.com/devongovett/regexgen
 - https://github.com/compose-regexp/compose-regexp.js
 
@@ -325,6 +327,7 @@
 - https://github.com/sideway/joi
 - https://github.com/ajv-validator/ajv
 - https://github.com/ansman/validate.js
+- https://github.com/neuledge/computed-types
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/koorchik/js-validator-livr
 
@@ -337,8 +340,6 @@
 - https://github.com/inversify/InversifyJS
 - https://github.com/mnasyrov/ditox
 - https://github.com/radzserg/rsdi
-
-## LIB: ARCHI
 - https://github.com/Livshitz/di.libx.js
 - https://github.com/microsoft/tsyringe
 - https://github.com/cleandi/cleandi

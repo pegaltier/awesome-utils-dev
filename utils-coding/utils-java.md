@@ -33,6 +33,8 @@
 - https://github.com/livelessons-spring/building-microservices
 - https://github.com/spring-projects-experimental/spring-native
 - https://github.com/spring-projects-experimental/spring-graphql
+- https://github.com/bezkoder/spring-boot-angular-15-mysql-example
+- https://github.com/bezkoder/spring-boot-angular-15-crud-example
 
 ## FRAMEWORK
 - https://github.com/quarkusio/quarkus

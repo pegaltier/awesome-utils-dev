@@ -175,6 +175,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.haasonline.com/
 - https://www.tradewell.app/
 - https://strategyquant.com/
+- https://capitalise.ai/
 - https://www.tuned.com/
 - https://raposa.trade/
 - https://www.tuned.com/

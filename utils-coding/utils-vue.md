@@ -9,6 +9,9 @@
 
 - https://github.com/testing-library/vue-testing-library
 
+## NUXT
+- https://github.com/harlan-zw/nuxt-seo-kit
+
 ## LIB
 
 - https://github.com/vueComponent/ant-design-vue

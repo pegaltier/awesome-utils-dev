@@ -60,6 +60,7 @@ low-code tooling to prototype fastly.
 
 ## lowcode
 - https://github.com/frappe/frappe
+- https://github.com/metarank/metarank
 - https://github.com/goldstack/goldstack
 - https://github.com/appsmithorg/appsmith
 - https://github.com/alibaba/lowcode-engine

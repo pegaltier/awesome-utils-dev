@@ -51,6 +51,7 @@
 - https://github.com/chenjj/CORScanner
 - https://github.com/hktalent/scan4all
 - https://github.com/kdzwinel/betwixt
+- https://github.com/ddosify/ddosify
 - https://github.com/hashcat/hashcat
 - https://github.com/gchq/CyberChef
 - https://github.com/CISOfy/lynis

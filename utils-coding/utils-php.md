@@ -129,6 +129,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 ## SLIM PHP V3 SKELETON
 
 - https://github.com/adriansuter/Slim4-Skeleton
+- https://github.com/nbayramberdiyev/slim-4-starter
 - https://github.com/slimphp/Slim-Skeleton
 - https://github.com/odan/prisma
 - https://github.com/tuupola/slim-api-skeleton

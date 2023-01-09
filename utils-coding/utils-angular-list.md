@@ -1281,24 +1281,6 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/TinkoffCreditSystems/microzord
 - https://github.com/matt-gold/single-spa-angular-cli
 - https://github.com/billyjov/microfrontend-resources
-- https://github.com/flash-me/angular-micro-frontends
-- https://github.com/manfredsteyer/mf-angular-showcase
-- https://github.com/manfredsteyer/angular-microfrontend
-- https://github.com/billyjov/angular-react-microfrontend
-- https://github.com/manfredsteyer/module-federation-light
-- https://github.com/manfredsteyer/microfrontend-prototype
-- https://github.com/manfredsteyer/nx-and-module-federation
-- https://github.com/angular-architects/module-federation-plugin
-- https://github.com/manfredsteyer/module-federation-with-angular
-- https://github.com/manfredsteyer/multi-framework-micro-frontend
-- https://github.com/manfredsteyer/native-federation-core-example
-- https://github.com/module-federation/automatic-vendor-federation
-- https://github.com/manfredsteyer/module-federation-plugin-example
-- https://github.com/manfredsteyer/module-federation-plugin-example-nx
-- https://github.com/TinkoffCreditSystems/shared-library-webpack-plugin
-- https://github.com/manfredsteyer/module-federation-with-angular-dynamic
-- https://github.com/manakuro/micro-frontends-single-spa-module-federation
-- https://github.com/newvladimirov/module-federation-with-angular-universal
 - https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer
 - https://leanpub.com/enterprise-angular
@@ -1528,6 +1510,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/nxkit/nxkit
 - https://github.com/JamieMason/syncpack
 - https://github.com/gioragutt/nx-pwm
 - https://github.com/bit-architect/nx-utils
@@ -1556,6 +1539,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
 - https://github.com/deepkit-community/nx-plugins
+- https://github.com/marksandspencer/nx-plugins
 - https://github.com/e-square-io/nx-github-actions
 - https://github.com/e-square-io/nx-distributed-task
 - https://github.com/NativeScript/plugin-tools
@@ -1653,6 +1637,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/nimesko/ngx-seo-page
 - https://github.com/eneajaho/ngx-isr
 - https://npm.io/search/keyword:angular+universal
+- https://github.com/netlify/netlify-plugin-angular-universal
 
 ## ECOSYSTEM: LIB: IMMUTABLE
 
@@ -1668,6 +1653,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/millsp/ts-toolbelt
 - https://github.com/rtfeldman/seamless-immutable
 - https://github.com/immerjs/immer
+- https://github.com/unadlib/mutative
 - https://github.com/jonaskello/tslint-immutable
 - https://github.com/jonaskello/eslint-plugin-functional
 - https://github.com/microsoft/TypeScript/issues/13923
@@ -1689,6 +1675,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/palantir/tslint
 - https://github.com/eslint/eslint
 - https://github.com/mgechev/ngrev
+- https://github.com/Tinkoff/linters
 - https://github.com/google/gts
 - https://github.com/mgechev/ng2lint
 - https://github.com/mgechev/codelyzer
@@ -1728,6 +1715,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TrilonIO/angular-application-insights
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/expertly-simple/angular-evergreen
+- https://github.com/AleksanderBodurri/shield-maker
 - https://github.com/nitedani/vite-plugin-angular
 - https://github.com/angular-experts-io/terminal
 - https://github.com/angular-experts-io/ng-parsel
@@ -1785,8 +1773,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/fidian/ngx-visibility
 - https://github.com/k3nsei/ng-in-viewport
 - https://github.com/arkon/ng-click-outside
-- https://github.com/TinkoffCreditSystems/ng-dompurify
-- https://github.com/TinkoffCreditSystems/ng-event-plugins
+- https://github.com/Tinkoff/ng-dompurify (TOUPDATE)
+- https://github.com/Tinkoff/ng-event-plugins (TOUPDATE)
 - https://github.com/cloudnc/ngx-favicon
 - https://github.com/dhilt/ngx-ui-scroll
 - https://github.com/Nolanus/ngx-page-scroll
@@ -2064,6 +2052,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
 - https://github.com/faker-js/faker
+- https://github.com/vitest-dev/vitest
 - https://github.com/sharkdp/hyperfine
 - https://github.com/mmkal/expect-type
 - https://github.com/ng-mocks/examples
@@ -2124,6 +2113,7 @@ Analyze and optimize the performance of your app
 - https://github.com/sharkdp/hyperfine
 - https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
+- https://github.com/statoscope/statoscope
 - https://github.com/rx-angular/rxjs-zone-less
 - https://github.com/nucliweb/webperf-snippets
 - https://github.com/willmendesneto/perf-marks
@@ -2250,7 +2240,6 @@ Analyze and optimize the performance of your app
 - https://github.com/ngneat/edit-in-place
 - https://github.com/cipchk/ngx-filesaver
 - https://github.com/jfcere/ngx-markdown
-- https://github.com/nolimits4web/swiper
 - https://github.com/oferh/ng2-completer
 - https://github.com/ng-select/ng-select
 - https://github.com/dappsnation/ng-rive
@@ -2267,6 +2256,7 @@ Analyze and optimize the performance of your app
 - https://github.com/Gbuomprisco/ngx-chips
 - https://github.com/BioPhoton/angular-star-rating
 - https://github.com/BioPhoton/angular-signature-pad
+- https://github.com/ng-maps/ng-maps
 - https://github.com/Asymmetrik/ngx-leaflet
 - https://github.com/francoisromain/leaflet-markers-canvas
 - https://github.com/Wykks/ngx-mapbox-gl
@@ -2346,9 +2336,11 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: CAROUSEL/SLIDER
 - https://github.com/naver/egjs-flicking
+- https://github.com/nolimits4web/swiper
 - https://github.com/sanjayV/ng-image-slider
-- https://github.com/angular-slider/ng5-slider
 - https://github.com/uiuniversal/ngu-carousel
+- https://github.com/angular-slider/ngx-slider
+- https://github.com/leo6104/ngx-slick-carousel
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/JustCommunication-ru/ngx-splide
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
@@ -2556,6 +2548,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Promact/md2
 - https://github.com/alauda/alauda-ui
 - https://github.com/atinc/ngx-tethys
+- https://github.com/DevExpress/devextreme-angular (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2567,6 +2560,9 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/stevermeister/ngx-cookie-service
 - https://github.com/cyrilletuzi/angular-async-local-storage
 - https://github.com/ngx-builders/angular-async-local-storage
+
+## ECOSYSTEM: LIB: ANIMATIONS
+- https://github.com/vugar005/ngx-router-animations
 
 ## ECOSYSTEM: LIB: AUTH
 
@@ -2687,6 +2683,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
 - https://github.com/bezkoder/angular-material-14-file-upload
+- https://github.com/bezkoder/angular-15-multiple-file-upload
 - https://github.com/jakovljevic-mladen/ng-pagination-rx-streams
 - https://github.com/oktadev/okta-angular-dynamic-components-example
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
@@ -2739,11 +2736,33 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brechtbilliet/winecellar
 - https://github.com/NationalBankBelgium/stark
 - https://github.com/r-park/todo-angular2-firebase
-- https://github.com/vugar005/youtube-webapp-turborepo
 - https://github.com/nhaancs/realworld-nx-nestjs-angular
 - https://github.com/bezkoder/angular-12-node-js-project
 - https://github.com/bezkoder/spring-boot-angular-11-mysql
 - https://github.com/bezkoder/spring-boot-angular-14-mysql-example
+
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: MICROFRONTENDS
+- https://github.com/vugar005/youtube-webapp-nx
+- https://github.com/vugar005/youtube-webapp-lerna
+- https://github.com/vugar005/youtube-webapp-turborepo
+- https://github.com/flash-me/angular-micro-frontends
+- https://github.com/manfredsteyer/mf-angular-showcase
+- https://github.com/manfredsteyer/angular-microfrontend
+- https://github.com/billyjov/angular-react-microfrontend
+- https://github.com/manfredsteyer/module-federation-light
+- https://github.com/manfredsteyer/microfrontend-prototype
+- https://github.com/manfredsteyer/nx-and-module-federation
+- https://github.com/angular-architects/module-federation-plugin
+- https://github.com/manfredsteyer/module-federation-with-angular
+- https://github.com/manfredsteyer/multi-framework-micro-frontend
+- https://github.com/manfredsteyer/native-federation-core-example
+- https://github.com/module-federation/automatic-vendor-federation
+- https://github.com/manfredsteyer/module-federation-plugin-example
+- https://github.com/manfredsteyer/module-federation-plugin-example-nx
+- https://github.com/TinkoffCreditSystems/shared-library-webpack-plugin
+- https://github.com/manfredsteyer/module-federation-with-angular-dynamic
+- https://github.com/manakuro/micro-frontends-single-spa-module-federation
+- https://github.com/newvladimirov/module-federation-with-angular-universal
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SPA
 - https://github.com/mraible/ng-demo

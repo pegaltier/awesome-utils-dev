@@ -18,6 +18,7 @@
 - https://github.com/inoda/ontrack
 - https://github.com/apenwarr/blip
 - https://github.com/yt-dlp/yt-dlp
+- https://github.com/httpie/desktop
 - https://github.com/subnub/myDrive
 - https://github.com/axa-group/Parsr
 - https://github.com/notable/notable

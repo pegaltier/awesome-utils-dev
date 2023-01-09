@@ -83,7 +83,7 @@ seo phase d'optimisation :
 
 - https://rytr.me/ *
 - https://surferseo.com/ *
-- https://www.jarvis.ai/
+- https://www.jasper.ai/
 - https://contentbot.ai/
 - https://copymatic.ai/
 - https://www.articleforge.com/ *

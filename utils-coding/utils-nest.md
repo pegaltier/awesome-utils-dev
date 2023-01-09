@@ -47,6 +47,12 @@
 - https://github.com/jmcdo29/testing-nestjs
 - https://github.com/kittgen/kittgen-nestjs
 
+## LIBS: LOGIN
+- https://github.com/m-haecker/nestjs-social-login
+- https://github.com/clayrisser/nestjs-keycloak
+- https://github.com/andreacioni/saml2-nest-poc
+- https://github.com/cfsghost/passport-github
+
 ## EXAMPLE
 - https://github.com/adisreyaj/adi
 - https://github.com/nartc/nest-mean
