@@ -2178,9 +2178,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: ALL
 
-- https://github.com/angular-material-extensions/password-strength
 - https://github.com/d-koppenhagen/angular-tag-cloud-module
-- https://github.com/fetrarij/ngx-daterangepicker-material
 - https://github.com/naranmistry/angular-typing-animator
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
@@ -2252,7 +2250,6 @@ Analyze and optimize the performance of your app
 - https://github.com/ng-dnd/ng-dnd
 - https://github.com/sitecore/jss
 - https://github.com/chigix/rengular
-- https://github.com/angular-material-extensions
 - https://github.com/Gbuomprisco/ngx-chips
 - https://github.com/BioPhoton/angular-star-rating
 - https://github.com/BioPhoton/angular-signature-pad
@@ -2308,6 +2305,12 @@ Analyze and optimize the performance of your app
 - https://github.com/ng-icons/ng-icons
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
+
+## ECOSYSTEM: LIB: COMPONENT: MATERIAL
+- https://github.com/angular-material-extensions/password-strength
+- https://github.com/fetrarij/ngx-daterangepicker-material
+- https://github.com/johannesjo/angular-material-css-vars
+- https://github.com/angular-material-extensions
 
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT / GRID / TABLE
 
