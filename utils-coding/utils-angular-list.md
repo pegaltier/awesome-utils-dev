@@ -2306,11 +2306,6 @@ Analyze and optimize the performance of your app
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
 
-## ECOSYSTEM: LIB: COMPONENT: MATERIAL
-- https://github.com/angular-material-extensions/password-strength
-- https://github.com/fetrarij/ngx-daterangepicker-material
-- https://github.com/johannesjo/angular-material-css-vars
-- https://github.com/angular-material-extensions
 
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT / GRID / TABLE
 
@@ -2478,6 +2473,12 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://material.angular.io/cdk/a11y/overview
 - https://alligator.io/angular/infinite-scroll
 - https://alligator.io/angular/custom-svg-icons-angular-material
+- https://github.com/angular-material-extensions/password-strength
+- https://github.com/fetrarij/ngx-daterangepicker-material
+- https://github.com/johannesjo/angular-material-css-vars
+- https://github.com/GeorgDangl/angular-material-shared
+- https://github.com/angular-material-extensions
+- https://github.com/gravitee-io/gravitee-ui-particles
 
 ## ECOSYSTEM: LIB: COMPONENT: MEDIA
 

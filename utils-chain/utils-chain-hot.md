@@ -205,7 +205,6 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/perspective-diff-sync
 - https://github.com/perspect3vism/direct-message-language
 - https://github.com/perspect3vism/local-language-persistence
-- https://github.com/ddd-mtl/delivery-zome
 - https://github.com/shanedeeodonnell/co-learning
 - https://github.com/harleygray/holochain-gym-links
 - https://github.com/harleygray/holochain-gym-anchors
@@ -230,6 +229,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/neighbour-hoods/social_sensemaker
 - https://github.com/neighbour-hoods/sensemaker-lite
 - https://github.com/ddd-mtl/zome-utils
+- https://github.com/ddd-mtl/delivery-zome
+- https://github.com/ddd-mtl/sweettest-utils
 - https://github.com/kansmama/hwordle
 - https://github.com/h-REA/hREA
 - https://github.com/h-REA/hrea-graphql-live

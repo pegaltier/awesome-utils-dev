@@ -51,6 +51,8 @@
 - https://github.com/upscayl/upscayl
 - https://github.com/JaidedAI/EasyOCR
 - https://github.com/neuml/txtai
+- https://github.com/Nutlope/restorePhotos
+- https://github.com/marqo-ai/marqo
 
 ## GPT3
 
