@@ -206,6 +206,8 @@
 - https://www.ledgerwallet.com
 - https://trello.com/b/5nQ1mdzt/ledger-roadmap
 
+## OSS WALLET
+- https://github.com/Someguy123/LiteVault
 
 ## WALLET EXODUS TUTO
 - https://support.exodus.io/article/767-how-do-i-keep-my-money-safe
