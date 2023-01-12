@@ -180,6 +180,7 @@
 - https://www.deepcoin.com/extension
 
 ## WEB WALLET
+- https://guarda.com
 - https://metamask.io
 - https://mycrypto.com
 - https://mymonero.com
