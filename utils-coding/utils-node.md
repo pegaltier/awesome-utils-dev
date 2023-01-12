@@ -38,6 +38,7 @@
 - https://github.com/sindresorhus/find-cache-dir
 - https://github.com/radarsu/types-package-json
 - https://github.com/davglass/license-checker
+- https://github.com/JS-DevTools/npm-publish
 - https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
 - https://github.com/adisreyaj/cartella-web
