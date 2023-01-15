@@ -7,6 +7,10 @@
 - https://github.com/aalmiray/java-champions
 - https://github.com/akullpp/awesome-java
 - https://github.com/pragkirk/poma
+- https://www.libhunt.com/l/java
+
+## EXPERIENCE
+- https://www.blackparrotlabs.io/post/architecture-pitfalls-dont-use-your-orm-entities-for-everything
 
 ## SPRING 5 REST
 - https://spring.io/
@@ -37,6 +41,7 @@
 - https://github.com/bezkoder/spring-boot-angular-15-crud-example
 
 ## FRAMEWORK
+- https://github.com/vaadin/hilla
 - https://github.com/quarkusio/quarkus
 - https://github.com/micronaut-projects
 - https://github.com/domaframework/doma

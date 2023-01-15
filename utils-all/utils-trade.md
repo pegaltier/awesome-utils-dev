@@ -179,8 +179,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tuned.com/
 - https://raposa.trade/
 - https://www.tuned.com/
-- https://www.tv-hub.org/
 - https://www.mida.org/
+- https://3commas.io/
 - https://mlalgotrading.com/
 
 ## LEARN
@@ -190,7 +190,15 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 
 ## TRADINGVIEW
+- https://www.tradingcode.net/tradingview/alert-auto-trade-services/
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
+- https://github.com/alleyway/add-tradingview-alerts-tool
+- https://aleeert.com/
+- https://tradingview.to/
+- https://www.tv-hub.org/
+- https://alertatron.com/
+- https://alertzmanager.io/
+- https://wundertrading.com
 
 ## NINJATRADER
 - https://www.lizardindicators.com/
@@ -214,6 +222,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.xorstrategy.com/
 - https://stackedinvest.com/
 - https://www.cryptohopper.com/
+- https://materialindicators.com/
 - https://www.darwinex.com/
 - https://yuriymatso.com/
 - http://malori.org/

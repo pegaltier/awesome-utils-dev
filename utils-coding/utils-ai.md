@@ -8,7 +8,7 @@
 - https://www.kissmyfrogs.com/stephane-mallard-blu-age/
 
 ## AWESOME
-
+- https://github.com/dair-ai
 - https://github.com/eugeneyan/applied-ml
 - https://github.com/visenger/awesome-mlops
 - https://github.com/f/awesome-chatgpt-prompts

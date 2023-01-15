@@ -9,6 +9,11 @@
 - https://missing.csail.mit.edu/
 - https://jsbin.com/?html,output
 
+## ALL LIBS
+- https://www.libhunt.com/l/java
+- https://www.libhunt.com/l/javascript
+- https://www.libhunt.com/l/typescript
+
 ## PODCASTS
 - https://webrush.io/
 

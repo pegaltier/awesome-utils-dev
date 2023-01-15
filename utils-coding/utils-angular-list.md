@@ -261,6 +261,7 @@ Learn about the most useful design patterns in Angular.
 - https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 - https://github.com/aurelien-alet/angular-toh-hexagonal
 - https://github.com/StephenCooper/ngTemplateOutlets
+- https://github.com/DMezhenskyi/angular-template-outlet-example
 - https://github.com/ddd-crew/context-mapping
 
 ## HELPER: CHEAT-SHEETS
