@@ -8,6 +8,7 @@
 - https://app.diagrams.net/
 - https://missing.csail.mit.edu/
 - https://jsbin.com/?html,output
+- https://github.com/yjose/awesome-new
 
 ## ALL LIBS
 - https://www.libhunt.com/l/java

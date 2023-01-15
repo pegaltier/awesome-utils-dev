@@ -25,6 +25,7 @@
 - https://github.com/alyssaxuu/omni
 - https://github.com/slidevjs/slidev
 - https://github.com/alyssaxuu/flowy
+- https://github.com/AutomaApp/automa
 - https://github.com/pavlobu/deskreen
 - https://github.com/electerious/Ackee
 - https://github.com/mastodon/mastodon
