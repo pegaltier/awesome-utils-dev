@@ -192,7 +192,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## TRADINGVIEW
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
-- https://github.com/alleyway/add-tradingview-alerts-tool
 - https://aleeert.com/
 - https://tradingview.to/
 - https://www.tv-hub.org/
@@ -231,6 +230,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 - https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ Part Time Larry
 - https://www.youtube.com/watch?v=Jb8l989IzTE Algotrading Frameworks: Overview
+
 ## OSS
 
 ### OSS: QUALITY
@@ -244,8 +244,18 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/hackingthemarkets?tab=repositories
 
 ### OSS: TRADINGVIEW
+- https://github.com/topics/tradingview-alert
 - https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
 - https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
+- https://github.com/pAulseperformance/awesome-pinescript
+- https://github.com/alleyway/add-tradingview-alerts-tool
+- https://github.com/fundingrate/tradingview-webhooks
+- https://github.com/akilibots/akili-tradingview
+- https://github.com/nileio/TV_strategynotifier
+- https://github.com/ExchangeDyn/webhook-trader
+- https://github.com/ottodevs/instabot-trader
+- https://github.com/s-brez/HTF-single-strat
+- https://github.com/CryptoMF/frostybot-js
 
 ### OSS: STRATEGY
 - https://github.com/freqtrade/freqtrade-strategies
