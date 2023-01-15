@@ -11,6 +11,7 @@
 - https://github.com/dair-ai
 - https://github.com/eugeneyan/applied-ml
 - https://github.com/visenger/awesome-mlops
+- https://github.com/openai/openai-cookbook
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/humanloop/awesome-chatgpt
 - https://github.com/microsoft/ML-For-Beginners
