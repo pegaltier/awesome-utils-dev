@@ -2190,7 +2190,6 @@ Analyze and optimize the performance of your app
 - https://github.com/milantenk/ngx-interactive-paycard
 - https://github.com/Developer-Plexscape/ngx-grapesjs
 - https://github.com/AlexMiniApps/angular-code-input
-- https://github.com/shipshapecode/angular-shepherd
 - https://github.com/webcat12345/ngx-intl-tel-input
 - https://github.com/tonysamperi/ngx-mat-timepicker
 - https://github.com/LayZeeDK/ngx-foundation-sites
@@ -2350,6 +2349,7 @@ Analyze and optimize the performance of your app
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 
 ## ECOSYSTEM: LIB: COMPONENT: TOUR
+- https://github.com/shipshapecode/angular-shepherd
 - https://github.com/tonysamperi/ngx-tour-wizard
 - https://github.com/tnicola/ngx-joyride
 - https://github.com/hakimio/ngx-ui-tour
