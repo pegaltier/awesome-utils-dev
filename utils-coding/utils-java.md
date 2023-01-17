@@ -118,6 +118,9 @@
 - https://github.com/mgp/effective-rxjava
 - https://vertx.io/
 
+## LIBS: AUTH
+- https://github.com/thomasdarimont/keycloak-health-checks
+
 ## BASICS
 - https://www.w3schools.com/java/default.asp
 - https://www.geeksforgeeks.org/differences-treemap-hashmap-linkedhashmap-java/

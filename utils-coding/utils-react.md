@@ -116,6 +116,7 @@
 - https://github.com/ngneat/use-observable
 - https://github.com/twobin/react-lazyload
 - https://github.com/zoontek/react-chicane
+- https://github.com/paypal/react-paypal-js
 - https://github.com/InseeFrLab/keycloakify
 - https://github.com/omgovich/react-colorful
 - https://github.com/STRML/react-grid-layout

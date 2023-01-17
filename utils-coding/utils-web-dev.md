@@ -428,6 +428,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://skatejs.netlify.com/
 - https://lit-element.polymer-project.org/
 - https://dev.to/melcor76/the-state-of-web-components-ab3
+- https://github.com/mjbrisebois/openstate-js
 - https://github.com/joist-framework/joist
 - https://github.com/JetBrains/web-types
 - https://github.com/microsoft/fast
@@ -474,6 +475,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/qrohlf/trianglify
 - https://github.com/davidkpiano/flipping
 - https://github.com/nolimits4web/atropos/
+- https://github.com/vasturiano/three-globe
 - https://github.com/lucafalasco/scroll-snap
 - https://github.com/martinlaxenaire/curtainsjs
 

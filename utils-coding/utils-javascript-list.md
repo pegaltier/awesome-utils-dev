@@ -349,6 +349,7 @@
 - https://github.com/iamkun/dayjs
 - https://github.com/date-fns/date-fns
 - https://github.com/xxczaki/light-date
+- https://github.com/duetds/date-picker
 - https://github.com/spencermountain/spacetime
 
 ## LIB: PARSER
@@ -358,7 +359,13 @@
 - https://github.com/fb55/entities
 
 ## LIB: SWIPER
+- https://github.com/joe223/tiny-swiper
 - https://github.com/nolimits4web/swiper
+- https://github.com/tannerhodges/snap-slider
+
+## LIB: ESBUILD
+- https://github.com/esbuild-kit/tsx
+- https://github.com/luckycatfactory/esbuild-graphql-loader
 
 ## LIB: IP
 - https://github.com/whitequark/ipaddr.js
@@ -375,7 +382,6 @@
 - https://github.com/atomiks/floating-ui
 - https://github.com/jeremyckahn/shifty
 - https://github.com/junhoyeo/use-color
-- https://github.com/joe223/tiny-swiper
 - https://github.com/reach/observe-rect
 - https://github.com/daybrush/selecto
 - https://github.com/Splidejs/splide
@@ -399,6 +405,7 @@
 
 ## LIB: FRONTEND ALL
 - https://github.com/scottaohara/accessible_modal_window
+- https://github.com/SamVerschueren/decode-uri-component
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/OktaSecurityLabs/passprotect-js
 - https://github.com/francoischalifour/medium-zoom

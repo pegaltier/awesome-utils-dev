@@ -1540,6 +1540,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/atlassian/lerna-semantic-release
 - https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
+- https://github.com/arthurgubaidullin/embed-dependencies
 - https://github.com/deepkit-community/nx-plugins
 - https://github.com/marksandspencer/nx-plugins
 - https://github.com/e-square-io/nx-github-actions
@@ -1784,6 +1785,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/meeroslav/ng-motion
 - https://github.com/vdolek/angular-resize-event
 - https://github.com/ultimatecourses/ngx-pagevisibility
+- https://github.com/nartc/ngx-resize (TOADD)
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -2027,6 +2029,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cypress-io/cypress-example-recipes
 - https://github.com/maximilianschmitt/cypress-routines
 - https://github.com/bahmutov/cypress-angular-unit-test
+- https://github.com/testing-library/cypress-testing-library
 - https://github.com/LayZeeDK/angular-module-teardown-options
 - https://github.com/gothinkster/angular-realworld-example-app
 - https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
@@ -2204,6 +2207,7 @@ Analyze and optimize the performance of your app
 - https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/tonysamperi/ngx-popperjs
+- https://github.com/Cordobo/angularx-qrcode
 - https://github.com/matteobruni/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
@@ -2479,6 +2483,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/fetrarij/ngx-daterangepicker-material
 - https://github.com/johannesjo/angular-material-css-vars
 - https://github.com/GeorgDangl/angular-material-shared
+- https://github.com/diprokon/ng-table-virtual-scroll
 - https://github.com/angular-material-extensions
 - https://github.com/gravitee-io/gravitee-ui-particles
 
@@ -2569,6 +2574,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 ## ECOSYSTEM: LIB: ANIMATIONS
 - https://github.com/vugar005/ngx-router-animations
+- https://github.com/ciriousjoker/ngx-transition-content
 
 ## ECOSYSTEM: LIB: AUTH
 
@@ -2748,6 +2754,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/spring-boot-angular-14-mysql-example
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: MICROFRONTENDS
+- https://github.com/Coly010/nx-ng-dyn-fed
 - https://github.com/vugar005/youtube-webapp-nx
 - https://github.com/vugar005/youtube-webapp-lerna
 - https://github.com/vugar005/youtube-webapp-turborepo
@@ -3122,6 +3129,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://tomastrajan.com/workshops/angular-mastery
 - https://ultimatecourses.com/courses/angular
 - https://github.com/loiane/curso-angular
+- https://github.com/billyjov/angular-training
 
 ## EVOLUTION
 

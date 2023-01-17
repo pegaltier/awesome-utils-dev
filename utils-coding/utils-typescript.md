@@ -178,6 +178,7 @@
 - https://github.com/willryan/factory.ts
 - https://github.com/quicktype/quicktype
 - https://github.com/sledorze/morphic-ts
+- https://github.com/sinclairzx81/typebox
 - https://github.com/gvergnaud/ts-pattern
 - https://github.com/graphology/graphology
 - https://github.com/jamiebuilds/sarcastic

@@ -124,6 +124,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Sprillow/electron-holochain-template
 - https://github.com/Connoropolous/holo-rea
 - https://github.com/Connoropolous/local-wiki
+- https://github.com/Connoropolous/time-tracker
 - https://github.com/wimpheling/holochain-getting-started-example
 - https://github.com/mjbrisebois/js-holochain-client
 - https://github.com/mjbrisebois/node-holochain-backdrop
@@ -145,10 +146,12 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/electron-holochain-template
 - https://github.com/lightningrodlabs/holochain-runner
 - https://github.com/lightningrodlabs/glass-bead-game
+- https://github.com/lightningrodlabs/ludos
 - https://github.com/KoruProtocol/koru
 - https://github.com/darksoil-studio/gather
 - https://github.com/darksoil-studio/mutual-credit
 - https://github.com/holochain-engineers/team-mates
+- https://github.com/holochain/holochain-serialization-js
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md
 - https://github.com/juntofoundation/Shared-Perspective-Index
 - https://github.com/holochain-devcamp/devcamp8-game-of-commons

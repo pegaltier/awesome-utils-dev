@@ -62,6 +62,9 @@
 - https://github.com/padloc/padloc
 - https://github.com/keepassx/keepassx
 
+## OSS: DEV
+- https://github.com/ProxymanApp/Proxyman
+
 # Web
 - https://github.com/iamadamdev/bypass-paywalls-chrome
 

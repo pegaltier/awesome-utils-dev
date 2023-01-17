@@ -6,6 +6,7 @@
 
 ## LIST
 - https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/koslib/awesome-containerized-security
 - https://github.com/sathishvj/awesome-gcp-certifications
 - https://github.com/stephrobert/awesome-french-devops
 - https://github.com/binhnguyennus/awesome-scalability
@@ -224,6 +225,7 @@ Docker allows you to package an application with its environment and all of its 
 - https://github.com/JeremyLikness/usda-microservice
 - https://github.com/devopstrainingblr/awesome-docker
 - https://github.com/felixfbecker/semantic-release-docker
+- https://github.com/JonasAlfredsson/docker-nginx-certbot
 - https://labs.play-with-docker.com/
 - https://youtu.be/3c-iBn73dDE Docker Tutorial for Beginners [Full Course in 3 Hours]
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
