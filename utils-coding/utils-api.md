@@ -43,6 +43,7 @@
 - https://github.com/liyasthomas/postwoman
 - https://github.com/hoppscotch/hoppscotch
 - https://github.com/Apicurio/apicurio-studio
+- https://github.com/curlconverter/curlconverter
 - https://github.com/gravitee-io/gravitee-api-management
 
 ## OPENAPI

@@ -46,6 +46,7 @@
 
 ## LIBS: CAPACITOR
 
+- https://github.com/Cap-go/capgo
 - https://github.com/ionic-team/capacitor-assets
 - https://github.com/capacitor-community/admob
 - https://github.com/capacitor-community/stripe

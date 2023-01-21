@@ -63,6 +63,7 @@
 - https://github.com/ranyitz/code-migrate
 - https://github.com/alshdavid/BorrowScript
 - https://github.com/phenomnomnominal/betterer
+- https://github.com/privatenumber/get-tsconfig
 - https://github.com/saurabhdaware/typescript-run
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/LeDDGroup/typescript-transform-paths

@@ -733,6 +733,7 @@ Learn the reactive programming using rxjs.
 
 Learn everything about the change detection with or without zone.js.
 
+- https://www.youtube.com/watch?v=tWy8zaWvkvk Why use OnPush in Angular? Not for performance...
 - https://chriskohler.dev/angular-change-detection-infographic
 - https://github.com/waynegakuo/angular-change-detection
 - https://github.com/Mokkapps/angular-change-detection-demo
@@ -1651,6 +1652,7 @@ Learn the best way to make your objects immutable.
 - https://mgv.io/deep-readonly-play
 - https://twitter.com/mgechev/status/1240178886979223552
 - https://houssein.me/angular2-with-immutablejs-and-redux \*
+- https://github.com/giusepperaso/structura.js
 - https://github.com/immutable-js/immutable-js
 - https://github.com/krzkaczor/ts-essentials
 - https://github.com/millsp/ts-toolbelt
@@ -2305,7 +2307,6 @@ Analyze and optimize the performance of your app
 - https://github.com/MurhafSousli/ngx-sharebuttons
 - https://github.com/CirclonGroup/angular-tree-component
 - https://github.com/MurhafSousli/ngx-scrollbar
-- https://github.com/MurhafSousli/ngx-gallery
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/ng-icons/ng-icons
 - https://github.com/daybrush/selecto
@@ -2341,6 +2342,7 @@ Analyze and optimize the performance of your app
 - https://github.com/naver/egjs-flicking
 - https://github.com/nolimits4web/swiper
 - https://github.com/sanjayV/ng-image-slider
+- https://github.com/MurhafSousli/ngx-gallery
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/angular-slider/ngx-slider
 - https://github.com/leo6104/ngx-slick-carousel
@@ -2560,6 +2562,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/alauda/alauda-ui
 - https://github.com/atinc/ngx-tethys
 - https://github.com/DevExpress/devextreme-angular (TOADD)
+- https://github.com/syncfusion/ej2-angular-ui-components (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2666,6 +2669,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/lacolaco/angular-sac
 - https://github.com/SooryaSoorya/slot-fun
 - https://github.com/yjaaidi/ng-experiments
+- https://github.com/JancoBH/Angular-Movies
 - https://github.com/SanderElias/AnalogTest
 - https://github.com/tastejs/angular-movies
 - https://github.com/brandonroberts/ng-vite

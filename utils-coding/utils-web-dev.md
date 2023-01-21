@@ -489,6 +489,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://www.martin-laxenaire.fr/
 - https://github.com/jagracar/webgl-shader-examples
 - https://github.com/malerba118/react-particle-image
+- https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
 - https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES
@@ -515,6 +516,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/codrops/FullscreenScroll
 - https://github.com/codrops/InlineMenuLayout/
 - https://github.com/codrops/OnScrollLetterAnimations
+- https://github.com/codrops/OnScrollTypographyAnimations
 - https://github.com/codrops/ThumbHoverSVGFilter/
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://github.com/brunoimbrizi/interactive-particles

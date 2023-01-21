@@ -380,6 +380,7 @@
 - https://github.com/shoelace-style/shoelace
 - https://github.com/nolimits4web/atropos
 - https://github.com/atomiks/floating-ui
+- https://github.com/nextcss/color-tools
 - https://github.com/jeremyckahn/shifty
 - https://github.com/junhoyeo/use-color
 - https://github.com/reach/observe-rect
@@ -539,6 +540,10 @@
 - https://github.com/AsyncBanana/microdiff
 - https://github.com/quicktype/quicktype
 - https://github.com/calvintwr/issable
+
+## LIB: IMMUTABLE OBJECT
+- https://github.com/giusepperaso/structura.js
+- https://github.com/immutable-js/immutable-js
 
 ## LIB: DATA ENCODING
 - https://github.com/openpgpjs/openpgpjs

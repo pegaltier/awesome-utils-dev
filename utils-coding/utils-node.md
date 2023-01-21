@@ -46,6 +46,7 @@
 - https://github.com/sindresorhus/fkill-cli
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/sindresorhus/is-docker
+- https://github.com/coderhammer/backhooks
 - https://github.com/juliangruber/npm-diff
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/sultan99/sexy-require
