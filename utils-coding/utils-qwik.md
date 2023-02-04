@@ -9,6 +9,7 @@
 - https://github.com/wmertens/styled-vanilla-extract
 - https://github.com/rainerhahnekamp/entwickler-qwik
 - https://github.com/gioboa/qwik-vercel-edge-config
+- https://github.com/wmalarski/qwik-music-reviews
 - https://github.com/rainerhahnekamp/qwik-blog
 - https://github.com/awesome-club/awesome-qwik
 - https://github.com/literalpie/qwik-starter

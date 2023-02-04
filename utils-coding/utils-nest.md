@@ -27,6 +27,7 @@
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/nestjs-addons/platform
 - https://github.com/BeerMoneyDev/nest-monk
+- https://github.com/doug-martin/nestjs-query
 - https://github.com/nestjs/class-transformer
 - https://github.com/nestjs/class-validator
 - https://github.com/nestjsx/nestjs-braintree

@@ -1966,10 +1966,12 @@ Learn the best way to make your objects immutable.
 - https://github.com/manfredsteyer/angular-crud
 - https://github.com/patelvimal/ng-vim-devtools
 - https://github.com/herodevs/material-studies
+- https://github.com/briebug/cypress-schematic
 - https://github.com/niklas-wortmann/ngx-pact
 - https://github.com/schuchard/ng-schematics
 - https://github.com/kroeder/ngx-cli-toolkit
 - https://github.com/ng-builders/ng-builders
+- https://github.com/briebug/jest-schematic
 - https://github.com/bennymeg/nx-electron
 - https://github.com/Teebo/scss-migrate
 - https://github.com/ngxs/schematics
@@ -2148,6 +2150,7 @@ Analyze and optimize the performance of your app
 - https://github.com/LogRocket/logrocket
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/ngworker/lumberjack
+- https://github.com/Tinkoff/micro-sentry
 - https://github.com/hyperjumptech/monika
 - https://github.com/tgure/ngx-loggly-logger
 - https://github.com/Angular-RU/angular-logger
@@ -2496,6 +2499,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NorthwoodsSoftware/gojs-angular
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/makimenko/angular-template-for-threejs
+- https://github.com/angular-threejs/soba
 - https://github.com/nartc/angular-three
 - https://github.com/chartbrew/chartbrew
 - https://github.com/jannicz/ng-svg-icon-sprite
@@ -2563,6 +2567,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/atinc/ngx-tethys
 - https://github.com/DevExpress/devextreme-angular (TOADD)
 - https://github.com/syncfusion/ej2-angular-ui-components (TOADD)
+- https://github.com/digipolisantwerp/antwerp-ui_angular (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -2594,6 +2599,9 @@ Add a progressbar for displaying a loader during the different async task like h
 ## ECOSYSTEM: LIB: PAYMENT
 
 - https://github.com/ng-web-apis/payment-request
+
+## ECOSYSTEM: LIB: CRYPTO
+- https://github.com/heavy-duty/wallet-adapter
 
 ## ECOSYSTEM: LIB: GEOLOCATION
 

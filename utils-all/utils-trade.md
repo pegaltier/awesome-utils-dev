@@ -249,7 +249,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
 - https://github.com/pAulseperformance/awesome-pinescript
 - https://github.com/alleyway/add-tradingview-alerts-tool
+- https://github.com/brian-the-dev/python-tradingview-ta
 - https://github.com/fundingrate/tradingview-webhooks
+- https://github.com/tradingview/pine_script_docs
 - https://github.com/akilibots/akili-tradingview
 - https://github.com/nileio/TV_strategynotifier
 - https://github.com/ExchangeDyn/webhook-trader

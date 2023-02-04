@@ -93,6 +93,7 @@
 - https://www.checklyhq.com/
 - https://www.compose.com/
 - https://getenvase.com/
+- https://fly.io/
 
 ## NGINX
 - https://github.com/fcambus/nginx-resources

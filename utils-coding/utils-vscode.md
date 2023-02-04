@@ -43,6 +43,7 @@
 
 - https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
 - https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor
+- https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter
 - https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype
 - https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 - https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow
@@ -62,6 +63,8 @@
 ## OPENSOURCE
 
 - https://github.com/microsoft/vscode-extension-samples
+- https://github.com/estruyf/vscode-front-matter
+
 
 ## TOOLS
 

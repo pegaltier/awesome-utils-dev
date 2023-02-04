@@ -196,6 +196,9 @@
 - https://awesomeopensource.com/
 - https://bestofjs.org/
 
+## LIB: POLYFILL
+- https://github.com/argyleink/scrollyfills
+
 ## LIB: DEVTOOLS
 
 - https://github.com/sverweij/dependency-cruiser
