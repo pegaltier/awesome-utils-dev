@@ -1183,6 +1183,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/ds300/derivablejs
 - https://github.com/kuncevic/rx-service
 - https://github.com/nanostores/nanostores
+- https://github.com/nanostores/router
 - https://github.com/spierala/mini-rx-store
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
@@ -2216,6 +2217,7 @@ Analyze and optimize the performance of your app
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
 - https://github.com/joejordanbrown/popover
+- https://github.com/kolkov/angular-editor
 - https://github.com/ncstate-sat/popover
 - https://github.com/nbfontana/ngx-currency
 - https://github.com/Harvest-Dev/ng-select2
@@ -2499,7 +2501,9 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NorthwoodsSoftware/gojs-angular
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/makimenko/angular-template-for-threejs
+- https://github.com/nphias/ngx-deckgl-globe
 - https://github.com/angular-threejs/soba
+- https://github.com/IRobot1/ng3-vr-examples
 - https://github.com/nartc/angular-three
 - https://github.com/chartbrew/chartbrew
 - https://github.com/jannicz/ng-svg-icon-sprite

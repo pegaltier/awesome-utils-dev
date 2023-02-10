@@ -286,6 +286,7 @@
 - https://github.com/nas5w/combinate
 - https://github.com/vvo/tzdb/
 - https://github.com/scurker/currency.js
+- https://github.com/nolanlawson/marky
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/cabinjs/sensitive-fields
 - https://github.com/country-regions/country-region-data

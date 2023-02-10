@@ -198,6 +198,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 ## ANSIBLE
 - https://github.com/sovereign/sovereign
 - https://github.com/jdauphant/awesome-ansible
+- https://github.com/splunk/ansible-role-for-splunk
 - https://github.com/KeyboardInterrupt/awesome-ansible
 
 ## DOCKER

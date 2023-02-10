@@ -40,6 +40,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - IOEN: https://www.ioen.tech/
 - Internetofenergy: https://internetofenergy.network/
 - Neighbourhoods: https://neighbourhoods.network/
+- Happenings: https://www.happenings.community/
 - Assemble: https://frugal.systems/assemble/
 - Humm.earth: https://humm.earth/
 - Valueflows: https://www.valueflo.ws
@@ -126,6 +127,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Connoropolous/local-wiki
 - https://github.com/Connoropolous/time-tracker
 - https://github.com/wimpheling/holochain-getting-started-example
+- https://github.com/jdeepee/zome-call-roundtrip
 - https://github.com/mjbrisebois/js-holochain-client
 - https://github.com/mjbrisebois/node-holochain-backdrop
 - https://github.com/mjbrisebois/hc-zome-mere-memory
@@ -205,6 +207,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/perspect3vism/agent-language
 - https://github.com/perspect3vism/language-context
 - https://github.com/perspect3vism/language-persistence
+- https://github.com/perspect3vism/file-storage-language
 - https://github.com/perspect3vism/perspective-diff-sync
 - https://github.com/perspect3vism/direct-message-language
 - https://github.com/perspect3vism/local-language-persistence

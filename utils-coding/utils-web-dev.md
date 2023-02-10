@@ -466,6 +466,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/mjmlio/mjml
 - https://github.com/zenorocha/react-email
 - https://github.com/tomayac/dark-mode-email
+- https://github.com/leemunroe/responsive-html-email-template
 
 ## CREATIVE TOOLS
 

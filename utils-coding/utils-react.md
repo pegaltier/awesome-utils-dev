@@ -120,6 +120,7 @@
 - https://github.com/paypal/react-paypal-js
 - https://github.com/InseeFrLab/keycloakify
 - https://github.com/omgovich/react-colorful
+- https://github.com/mariusandra/pigeon-maps
 - https://github.com/STRML/react-grid-layout
 - https://github.com/alampros/react-confetti
 - https://github.com/voliva/reactive-rx-form
