@@ -191,6 +191,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TRADINGVIEW
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
+- https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 - https://aleeert.com/
 - https://tradingview.to/

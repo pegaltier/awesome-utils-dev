@@ -2708,6 +2708,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/markostanimirovic/standalone-ngrx
 - https://github.com/pankajparkar/lazy-loading-recipes
 - https://github.com/rainerhahnekamp/angular-whitelabel
+- https://github.com/markostanimirovic/ngrx-musicians-app
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
 - https://github.com/bezkoder/angular-material-14-file-upload

@@ -337,6 +337,7 @@
 
 ## LIB: CACHING
 - https://github.com/thinkloop/memoizerific
+- https://github.com/erikras/lru-memoize
 
 ## LIB: DI
 - https://github.com/ezzabuzaid/tiny-injector

@@ -180,6 +180,7 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/kubernetes-sigs/kubebuilder
 - https://github.com/NimbleArchitect/kubectl-ice
 - https://github.com/GoogleContainerTools/kaniko
+- https://github.com/kubernetes-client/javascript
 - https://github.com/kubernauts/jmeter-kubernetes
 - https://github.com/Azure/vscode-kubernetes-tools
 - https://github.com/operator-framework/operator-sdk

@@ -77,6 +77,7 @@
 - https://github.com/johannesschobel/nest-prisma-crud
 - https://github.com/kyhsa93/nestjs-rest-cqrs-example
 - https://github.com/EndyKaufman/nest-permissions-seed
+- https://github.com/Tony133/nestjs-api-boilerplate-jwt
 - https://github.com/satanTime/nx-nestjs-angular-graphql
 - https://github.com/fivethree-team/nestjs-prisma-starter
 - https://github.com/lujakob/nestjs-realworld-example-app
