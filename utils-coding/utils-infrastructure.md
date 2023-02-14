@@ -120,15 +120,6 @@
 ## JENKINS
 - https://github.com/jenkins-infra/pipeline-library
 
-## OPENSHIFT
-
-- https://github.com/openshift
-
-Both Kubernetes and OpenShift are popular container management systems, and each has its unique features and benefits. While Kubernetes helps automate application deployment, scaling, and operations, OpenShift is the container platform that works with Kubernetes to help applications run more efficiently.
-
-
-OpenShift Online leverages the Kubernetes concept of a pod, which is one or more containers deployed together on one host, and the smallest compute unit that can be defined, deployed, and managed. Pods are the rough equivalent of a machine instance (physical or virtual) to a container.
-
 ## TERRAFORM
 - https://github.com/gruntwork-io/terragrunt
 
@@ -205,8 +196,6 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 
 ## DOCKER
 
-Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
-
 - https://github.com/depot/cli
 - https://github.com/quay/clair
 - https://github.com/docker/labs
@@ -246,57 +235,13 @@ Docker allows you to package an application with its environment and all of its 
 - https://github.com/SteveLTN/https-portal
 - https://github.com/gotenberg/gotenberg
 
-```
-
-docker build . ==> Build the default local Dockerfile
-docker build -f Dockerfile.ssr . ==> Build a specific local Dockerfile
-docker logs <container> ==> Displays the container logs
-docker run -it $(docker build -q .) ==> Build & Run inline the image in localhost
-docker run -p 4200:8080 -d <sha256:your> ==> Run the image in localhost
-docker run -p 4000:4000 -h host.com -d <sha256:your> ==> Run the image in host.com
-docker run -p 4000:4000 -h host.com -v /host/path/to/certs:/container/path/to/certs -d <sha256:your> "update-ca-certificates" ==> Run the image in host.com with certificate
-docker top <container> ==> Displays the container's running processes
-docker port <container> ==> Lists container's port mappings
-docker kill <container> ==> Kills the process but it's not ideal
-docker diff <container_ID/container_name> ==> check changes to files&didirectories
-```
-
-## VAGRANT
-
-```
-sudo vagrant up				>> ensure that .vagrant/machines/default/virtualbox/creator_uid is 0
-sudo vagrant halt
-sudo vagrant ssh
-sudo yum -y install phpmyadmin
-mysql -u root example -- just test
-ifconfig (add IP ADRESS 192.168.50.52 + remote DENY )
-sudo vim /etc/httpd/conf.d/phpMyAdmin.conf			>> KEYS: INSERT +  CTRL C + :w + :q
-sudo service httpd restart
-```
-
-```
-vim /etc/phpMyAdmin/config.inc.php
-```
-$cfg['Servers'][$i]['AllowNoPassword'] = TRUE;
-+ MODIFY USER : root + secret
-
-http://192.168.50.52/phpmyadmin 
-root secret
-exit
 
 ## LAMP
-
-### Check
 
 ```
 mysql -V
 php -m
 php -version
-```
-
-### Migrate
-
-```
 sudo apt install zip
 sudo zip -r filename.zip foldername/
 sudo unzip filename.zip -d directory
@@ -411,9 +356,3 @@ sql					> entree  3389 depuis vps. et le 22 tout le monde
 ## DEFINITIONS
 
 - What Is NAT? NAT stands for network address translation. It's a way to map multiple local private addresses to a public one before transferring the information. Organizations that want multiple devices to employ a single IP address use NAT, as do most home routers.
-
-- Virtual Machine vs Container: VM is complete. Container is closer to the host machine. No emulation of hardware. We share a part of the hardware. disk, network. To do that we segment the harware.
-
-- Openshift: receives config file and go to pull docker image on nexus to do the deployment. Internal access or external access: Cloudflare can protect external access but not necessary on internal access. There is one BigIP cluster for each access: internal/external, they are responsible to do the load balancing.
-
-Logging: Fluentd to do the bridge between different log producers. see: kibana, elastic, prometheus (host, memory, cpu, disk), prtg, shinken, pingdom
