@@ -59,6 +59,8 @@
 - https://github.com/photoprism/photoprism
 
 ## OSS: PASSWORD
+- https://github.com/drduh/Purse
+- https://github.com/drduh/pwd.sh
 - https://github.com/padloc/padloc
 - https://github.com/keepassx/keepassx
 

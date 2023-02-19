@@ -237,6 +237,7 @@
 - https://github.com/kanzitelli/rnn-starter
 - https://github.com/react-native-menu/menu
 - https://github.com/onubo/react-native-logs
+- https://github.com/LegendApp/legend-motion
 - https://github.com/wix/react-native-ui-lib
 - https://github.com/henrhie/react-native-sha
 - https://github.com/necolas/react-native-web

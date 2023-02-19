@@ -6,6 +6,7 @@
 - https://github.com/iluwatar/java-design-patterns
 - https://github.com/aalmiray/java-champions
 - https://github.com/akullpp/awesome-java
+- https://github.com/joschi/java-metadata
 - https://github.com/pragkirk/poma
 - https://www.libhunt.com/l/java
 

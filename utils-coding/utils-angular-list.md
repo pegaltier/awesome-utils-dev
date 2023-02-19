@@ -1205,6 +1205,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/profanis/ngxs-history-pluginma
 - https://github.com/reclarejs/reclare
 - https://github.com/storeon/angular
+- https://github.com/mnasyrov/rx-effects
 - https://github.com/datorama/akita
 - https://github.com/dappsnation/akita-ng-fire
 - https://github.com/zerobias/effector
@@ -1731,6 +1732,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ng-easy/renovate-config
 - https://github.com/aholachek/bundle-wizard
 - https://github.com/SanderElias/huppeldepup
+- https://github.com/angularconsulting/ngvm
 - https://github.com/rainerhahnekamp/sam4sc
 - https://github.com/omniboard-dev/analyzer
 - https://github.com/angular/dgeni-packages
@@ -2075,6 +2077,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/omermorad/automock
 - https://github.com/nvh95/jest-preview
 - https://github.com/hirezio/auto-spies
+- https://github.com/iambumblehead/esmock
 - https://github.com/cucumber/cucumber-js
 - https://github.com/help-me-mom/ng-mocks
 - https://github.com/hirezio/observer-spy
@@ -2328,6 +2331,7 @@ Analyze and optimize the performance of your app
 - https://github.com/angular-ui/ui-grid
 - https://github.com/sbstjn/timesheet.js
 - https://github.com/kreuzerk/ng-sortgrid
+- https://github.com/ngbrackets/ngx-layout
 - https://github.com/sinedied/ngx-foldable
 - https://github.com/swimlane/ngx-datatable
 - https://github.com/naver/egjs-infinitegrid
@@ -2360,6 +2364,7 @@ Analyze and optimize the performance of your app
 - https://github.com/tonysamperi/ngx-tour-wizard
 - https://github.com/tnicola/ngx-joyride
 - https://github.com/hakimio/ngx-ui-tour
+- https://github.com/usablica/intro.js
 
 ## ECOSYSTEM: LIB: COMPONENT: SCROLL
 
@@ -2660,6 +2665,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://angularexpo.com
 - https://ng-alain.com
 - https://abp.io/
+
+## ECOSYSTEM: DEMO: EXPERIMENT
+- https://github.com/eneajaho/ngx-signal-experimental
 
 ## ECOSYSTEM: DEMO: TRAINING
 - https://github.com/nrwl/nx-workshop
