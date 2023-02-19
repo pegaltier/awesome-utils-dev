@@ -60,6 +60,7 @@ buy r3 kit:
 - https://fr.farnell.com/raspberry-pi/rpi3-8mp-camera-bundle/raspberry-pi3-8mp-camera/dp/2580632 
 
 sensor:
+- https://www.fred-j.org/?p=364
 - https://raspberry-pi.fr/rfid-raspberry-pi/
 - https://www.hackster.io/Shafin-Kothia/water-level-monitor-with-raspberry-pi-d509a2
 - https://raspberry-pi.developpez.com/cours-tutoriels/capteur/mag-pi-utiliser-port-gpio/partie-1-detection-mouvement/

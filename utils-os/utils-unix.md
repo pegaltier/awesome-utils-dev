@@ -42,9 +42,7 @@ echo $PATH
 
 ## Tools
 
-- https://github.com/nvm-sh/nvm
 - https://www.gimp.org/
-- https://sdkman.io/ 
 - https://snapcraft.io/
 - https://github.com/ohmyzsh/ohmyzsh
 

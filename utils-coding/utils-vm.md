@@ -21,3 +21,7 @@ asdf global java openjdk-17.0.2
 ## Sdkman
 
 - https://sdkman.io/
+
+## NVM
+
+- https://github.com/nvm-sh/nvm
