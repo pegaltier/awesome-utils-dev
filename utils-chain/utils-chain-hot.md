@@ -107,6 +107,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/scaffolding
 - https://github.com/Holo-Host/web-sdk-ionic-demo
 - https://github.com/holochain/hc-zome-lib
+- https://github.com/holochain/app-store-gui
 - https://github.com/holochain/holochain-dna-build-tutorial
 - https://github.com/holochain-gym/developer-exercises
 - https://github.com/holochain/elemental-chat
@@ -235,8 +236,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/neighbour-hoods/holochain_client_wrapper
 - https://github.com/neighbour-hoods/social_sensemaker
 - https://github.com/neighbour-hoods/sensemaker-lite
+- https://github.com/neighbour-hoods/applet-template
 - https://github.com/tatssato/nh-applet-template
-
 - https://github.com/ddd-mtl/zome-utils
 - https://github.com/ddd-mtl/delivery-zome
 - https://github.com/ddd-mtl/sweettest-utils

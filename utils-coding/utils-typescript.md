@@ -81,6 +81,7 @@
 - https://github.com/microsoft/tsdoc
 - https://github.com/contiamo/rhombic
 - https://github.com/zMotivat0r/mrepo
+- https://github.com/total-typescript
 - https://github.com/nadeesha/ts-prune
 - https://github.com/renke/import-sort
 - https://github.com/radarsu/ts-import

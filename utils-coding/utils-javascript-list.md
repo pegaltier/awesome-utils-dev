@@ -389,6 +389,7 @@
 - https://github.com/jeremyckahn/shifty
 - https://github.com/junhoyeo/use-color
 - https://github.com/reach/observe-rect
+- https://github.com/camwiegert/typical
 - https://github.com/daybrush/selecto
 - https://github.com/Splidejs/splide
 - https://github.com/shikijs/shiki

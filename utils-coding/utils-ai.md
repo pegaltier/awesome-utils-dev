@@ -55,6 +55,7 @@
 - https://github.com/neuml/txtai
 - https://github.com/Nutlope/restorePhotos
 - https://github.com/marqo-ai/marqo
+- https://github.com/facebookresearch/llama
 
 ## GPT3
 

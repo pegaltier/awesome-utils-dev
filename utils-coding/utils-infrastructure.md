@@ -150,6 +150,8 @@
 - https://github.com/armosec/kubescape
 - https://github.com/awesome-it/adeploy
 - https://github.com/yogeshkk/K8sPurger
+- https://github.com/komodorio/validkube
+- https://github.com/itaysk/kubectl-neat
 - https://github.com/kubernetes/minikube
 - https://github.com/kubescape/kubescape
 - https://github.com/kubernetes-sigs/krew
@@ -203,6 +205,7 @@
 - https://github.com/croqaz/browsers
 - https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
+- https://github.com/louislam/docker-boot
 - https://github.com/ameerthehacker/envase
 - https://github.com/sigp/lighthouse-metrics
 - https://github.com/docker-slim/docker-slim

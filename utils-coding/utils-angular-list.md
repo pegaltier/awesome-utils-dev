@@ -263,6 +263,7 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/StephenCooper/ngTemplateOutlets
 - https://github.com/DMezhenskyi/angular-template-outlet-example
 - https://github.com/ddd-crew/context-mapping
+- https://github.com/kamranahmedse/design-patterns-for-humans
 
 ## HELPER: CHEAT-SHEETS
 
@@ -297,6 +298,7 @@ Learn about the most useful design patterns in Angular.
 - https://angular.io/api/core/global
 - https://indepth.dev/5-tips-to-boost-your-angular-skills/
 - https://indepth.dev/best-angular-tips/
+- https://github.com/santoshyadavdev/angular-snippets
 
 ## HELPER: ONLINE IDE
 
@@ -1868,6 +1870,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/chihab/ngx-env
 - https://github.com/moribvndvs/ng2-idle
 - https://github.com/Tinkoff/ng-polymorpheus (TOADD)
+- https://github.com/manekinekko/angular-web-bluetooth  (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -3107,6 +3110,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/PacktPublishing/Angular-Projects
 - https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/
+- https://angularexperts.io/products/ebook-angular-enterprise-architecture (TOADD)
 - https://www.packtpub.com/product/angular-design-patterns/9781786461728 (TOADD)
 - https://manning.com/books/angular-2-development-with-typescript
 - https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
