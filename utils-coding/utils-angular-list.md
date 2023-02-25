@@ -928,6 +928,11 @@ Learn everything about angular universal, make a good SEO.
 - https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
 - https://stackoverflow.com/questions/53677419/add-static-pre-rendering-to-ng-add-nguniversal-express-engine
 
+## CORE: SIGNALS
+- https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
+- https://github.com/eduardoRoth/rick-and-morty-signals
+- https://github.com/SanderElias/Samples/tree/main/Angular-Signals
+
 
 ## CORE: ERROR HANDLER
 
