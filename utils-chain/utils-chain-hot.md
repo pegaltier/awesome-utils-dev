@@ -117,6 +117,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/happ-client-call-tutorial
 - https://github.com/holochain/devhub-dnas
 - https://github.com/holochain/happ-build-tutorial
+- https://github.com/holochain/hackathon-happs
 - https://github.com/holochain-release-automation
 - https://github.com/trustgraph/trustgraph-holochain
 - https://github.com/holochain-in-action/peer-share

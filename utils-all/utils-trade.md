@@ -44,7 +44,7 @@
 ## TURNING POINT
 
 - https://www.youtube.com/watch?v=J-C9uVyZmOI The Bear Market Ended Months Ago, Says Master of Turning Points | Milton Berg
-- turning point: the 5 days ROC of the SP500 at major market lows has nearly always exceeded 7.4%. This time in June 2022 it was 6.4%.
+- turning point: the 5 days ROC of the SP500 at major market lows has nearly always exceeded 7.4%. This time in June 2022 it was 6.4%. You can also combine with 3 days ROC above 6% and 5 days ROC greatest in 2 years.
 - the market makes low historically and we can use a threshold of 3.75% so price never goes below 3.75% of the previous low. it's just a retest. ex in SP500 we had initial test in september 30th and second on october 12th 
 - momentum indicator: historically SP500 has gained 7.4% at a minimum within the first months or two of a major market low, usually it's even faster: less than 10 days.
 - TRIN indicator is a measurement of downside volume versus upside volume, ie number of stocks that traded up and down in the day, in other words it measures the severity of upside volume or downside volume relative to the daily number of advancing stocks to declining stocks, it's a ratio of the number of stock down to number of stocks up. A TRIN above 1 means that there is more volume in down stocks on relative base to up stocks. A TRIN below 1 means there is more volume in up stocks than there is in down stocks. the idea of turning point is to look at extremes of the TRIN. On October 3th 2022 we had a TRIN above 4 and TRIN above 4 was only 10 times before in history of SP500 and each time except one a major bull followed with median gain of 21.5% in 12 months. It's a panic selling at the end of the move, at the end of the bear market.
