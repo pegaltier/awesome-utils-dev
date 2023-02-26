@@ -203,3 +203,44 @@ Both shareReplay and publishReplay (+ calling connect on it) will make the obser
 ## TEST
 
 - https://twitter.com/bartosz_wasilew/status/1625762614986022914
+
+
+```javascript
+// Done function
+it('done func', (done: DoneCallback) ⇒ {
+      userListComponent.users.subscribe((expectedUsers: User[]) ==> {
+            expect(expectedUsers).toStrictEqual(usersMock);
+            done();
+      });
+});
+
+// Fake Async & Tick
+it('Fake async & tick', fakeAsync(() ⇒ {
+      let expectedUsers;
+      userListComponent.users.subscribe((users: User[]) ⇒
+            setTimeout(() = {
+            expectedUsers = users;
+            }, 2000);
+      );
+      tick (2100);
+      expect (expectedUsers).toStrictEqual(usersMock);
+}));
+
+// First Value From
+it('first value from', async () ⇒ {
+      const expectedUsers: User[] = await firstValueFrom(userListComponent.users);
+      expect(expectedUsers).toStrictEqual(usersMock);
+});
+
+// Test Scheduler (marbles)
+it('marbles', () ⇒ {
+      const testScheduler = new TestScheduler((actual, expected) ⇒ {
+            expect(actual).toStrictEqual(expected);
+      });
+      testScheduler.run(({ expectObservable }) ⇒ { 
+            expectObservable(userListComponent.users).toBe('(a|)', {
+                  a: usersMock,
+            });
+      });
+})
+```
