@@ -521,6 +521,7 @@
 - https://github.com/badzong/meshspin.js
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
+- https://github.com/anvaka/graph-drawing-libraries
 - https://github.com/0beqz/screen-space-reflections
 
 ## LIB: AI

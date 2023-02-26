@@ -177,6 +177,7 @@
 - https://github.com/millsp/ts-toolbelt
 - https://github.com/ronami/meta-typing
 - https://github.com/eonarheim/TypeState
+- https://github.com/gvergnaud/hotscript
 - https://github.com/willryan/factory.ts
 - https://github.com/quicktype/quicktype
 - https://github.com/sledorze/morphic-ts

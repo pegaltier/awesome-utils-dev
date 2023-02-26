@@ -934,7 +934,7 @@ Learn everything about angular universal, make a good SEO.
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://github.com/eduardoRoth/rick-and-morty-signals
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
-
+- https://github.com/nartc/ng-signals-conduit
 
 ## CORE: ERROR HANDLER
 

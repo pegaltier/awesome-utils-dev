@@ -176,6 +176,7 @@
 - https://github.com/GoogleContainerTools/kaniko
 - https://github.com/kubernetes-client/javascript
 - https://github.com/kubernauts/jmeter-kubernetes
+- https://github.com/metacontroller/metacontroller
 - https://github.com/Azure/vscode-kubernetes-tools
 - https://github.com/operator-framework/operator-sdk
 - https://github.com/tomhuang12/awesome-k8s-resources

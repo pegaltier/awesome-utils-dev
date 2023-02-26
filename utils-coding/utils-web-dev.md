@@ -460,6 +460,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/colinhacks/devii
 - https://github.com/Elderjs/elderjs
 - https://github.com/shuding/nextra
+- https://github.com/mdx-js/mdx
 
 ## EMAIL
 
