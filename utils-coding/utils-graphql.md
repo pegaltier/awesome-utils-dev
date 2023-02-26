@@ -7,6 +7,7 @@
 
 - https://hasura.io
 - https://graphql.org
+- https://stellate.co
 - https://www.graph.cool
 - https://www.graphql-tools.com
 - https://www.graphqleditor.com

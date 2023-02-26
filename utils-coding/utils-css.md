@@ -132,16 +132,19 @@
 ## POSITION
 
 - position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
-- by default html elements are position: static; in this case these adjusting properties above will not do anything.
+- by default html elements are position: static; in this case these adjusting properties below will not do anything.
 - after choosing a position then html elements are then positioned using the adjusting properties: top, bottom, left and right. But those adjusting properties will work differently depending on the position value:
 
+### OPTIONS
 - position: static; # element is not affected by the adjusting properties. (they are shown in order they are defined, top to bottom, z-index is automaticly defined as 0)
-- position: relative; # element is positioned relative to its normal position.
-- position: fixed; # element is positioned relative to the viewport, scroll has no effect.
-- position: absolute; # element is positioned relative to the nearest positioned ancestor. (using adjusting properties, if multiple elements are absolute at the same position then they are stacked in the order they are written in the html, z-index can be modified to customize the display of those absolute elements, if z-index is defined to less than 0 then statics elements will be shown above)
-- position: sticky; # element is positioned relative to its normal position and toggle to fixed based on the user's scroll position.
+- position: relative; # element is positioned using adjusting properties relative to its normal position in the view/dom.
+- position: fixed; # element is positioned using adjusting properties relative to the viewport, scroll has no effect.
+- position: absolute; # element is positioned using adjusting properties relative to the nearest positioned ancestor. if multiple elements are absolute at the same position then they are stacked in the order they are written in the html, z-index can be modified to customize the display of those absolute elements, if z-index is defined to less than 0 then statics elements will be shown above
+- position: sticky; # element is positioned relative to its normal position in the view/dom (like relative) and automatically toggle to fixed when a given offset position is met in the viewport
 
-- learn more: https://www.w3schools.com/css/css_positioning.asp
+- learn more: 
+- https://www.w3schools.com/css/css_positioning.asp
+- https://stackblitz.com/edit/css-position?file=index.html
 
 ## STACKING CONTEXT
 

@@ -932,9 +932,13 @@ Learn everything about angular universal, make a good SEO.
 
 ## CORE: SIGNALS
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
-- https://github.com/eduardoRoth/rick-and-morty-signals
+- https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
+- https://github.com/eduardoRoth/rick-and-morty-signals
+- https://stackblitz.com/edit/angular-ng-model-signal
+- https://stackblitz.com/edit/angular-ednkcj
 - https://github.com/nartc/ng-signals-conduit
+- https://angular-signals.netlify.app/
 
 ## CORE: ERROR HANDLER
 
@@ -1521,6 +1525,13 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/Dev-Thought/nx-plugins
 - https://github.com/flowaccount/nx-plugins
 
+## ECOSYSTEM: LIB: MONOREPO: NX CACHE (TOADD)
+- https://github.com/thiagobbt/nx-remotecache-s3
+- https://github.com/NiklasPor/nx-remotecache-azure
+- https://github.com/NiklasPor/nx-remotecache-custom
+- https://github.com/NiklasPor/nx-remotecache-minio
+- https://github.com/wvanderdeijl/nx-remotecache-gcs
+
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/nxkit/nxkit
 - https://github.com/JamieMason/syncpack
@@ -1545,8 +1556,6 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/guiseek/nx-clean
 - https://github.com/Jordan-Hall/nx-tools
 - https://github.com/manfredsteyer/nx-libs
-- https://github.com/thiagobbt/nx-remotecache-s3
-- https://github.com/wvanderdeijl/nx-remotecache-gcs
 - https://github.com/atlassian/lerna-semantic-release
 - https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
@@ -1935,6 +1944,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ksz-ksz/rxjs-insights TOADD
 - https://github.com/ngneat/subscribe TOADD
 - https://github.com/xripcsu/rxjs-watcher TOADD
+- https://github.com/NiklasPor/rxjs-boost TOADD
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -3112,6 +3122,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://angularexperts.io/products/ebook-angular-enterprise-architecture (TOADD)
 - https://www.packtpub.com/product/angular-design-patterns/9781786461728 (TOADD)
+- https://www.packtpub.com/product/learning-angular-third-edition/9781839210662 (TOADD)
 - https://manning.com/books/angular-2-development-with-typescript
 - https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison

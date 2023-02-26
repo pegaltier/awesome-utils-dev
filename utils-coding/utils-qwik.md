@@ -21,6 +21,7 @@
 - https://github.com/onwidget/astrowind
 - https://github.com/qwikifiers/qwik-nx
 - https://github.com/qwikifiers/qwik-ui
+- https://github.com/qwikest/icons
 - https://github.com/onwidget/qwind
 
 ## QWIK COMMUNITY

@@ -1,11 +1,11 @@
 # REACTIVE / RXJS
 
-### What is RxJS?
+## INTRO
 
 - Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change - Wikipedia
 - RxJS is a library for reactive programming using observables that makes it easier to compose asynchronous or callback-based code - RxJS docs
 
-### 
+## DEFINITIONS
 
 - Observable: is the stream of data. It represents the idea of an invokable collection of future values or events.
 - Observer: is a collection of up to 3 callbacks (next, error, complete) that knows how to listen to values delivered by the Observable.
@@ -22,13 +22,13 @@
 - https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
 - https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains
 
-### HOT VS COLD
+## HOT VS COLD
 
 - COLD (i.e interval, http requests) ==> are unicast as each subscriber gets data from different producer. It's cold when your observable creates the producer (data is produced inside the Observable.) Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. Well another definition: An Observable is cold when 
 
 - HOT (fromEvent click, ngrx selectors) ==> are multicast as all subscribers get data from the same producer. It's hot when your observable closes over the producer (data is produced outside the Observable.) Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical).
 
-### OBSERVABLE
+## OBSERVABLE
 
 Observables are lazy Push collections of multiple values.
 a flux = (i.e: collection asynchrone dont les événements arrivent au cours du temps)
@@ -199,3 +199,7 @@ Both shareReplay and publishReplay (+ calling connect on it) will make the obser
 - https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255
 - https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
 - https://stackoverflow.com/questions/41797439/rxjs-observable-combinelatest-vs-observable-forkjoin
+
+## TEST
+
+- https://twitter.com/bartosz_wasilew/status/1625762614986022914

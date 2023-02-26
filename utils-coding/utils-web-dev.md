@@ -162,13 +162,16 @@
 - https://tabbied.com/
 - https://css-doodle.com/
 - https://glassmorphism.com
+- https://css-generators.com/
 - https://stripesgenerator.com/
 - https://bennettfeely.com/clippy
 - https://cssspider.fresalabs.com
 - https://css-scroll-shadows.now.sh/
 - https://utopia.fyi/space/calculator/
 - https://cssgrid-generator.netlify.app/
+- https://omatsuri.app/triangle-generator
 - https://9elements.github.io/fancy-border-radius
+- https://wweb.dev/resources/css-separator-generator/
 
 ## TOOLS: IMAGE
 
@@ -534,6 +537,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/Development/ImageStackGrid/index.html
 - https://tympanus.net/Tutorials/SurfaceSampling/index3.html
 - https://tympanus.net/Development/HorizontalSmoothScrollLayout/
+- https://tympanus.net/Development/OnScrollTypographyAnimations/index2.html
 - https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
