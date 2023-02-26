@@ -95,6 +95,7 @@
 - https://github.com/apache/thrift
 - https://github.com/apache/druid
 - https://github.com/crate/crate
+- https://github.com/my2iu/Jinq
 
 ## LIBS: TOOLS
 - https://github.com/shyiko/jabba
