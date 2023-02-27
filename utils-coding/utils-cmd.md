@@ -57,14 +57,26 @@ alias ..="cd .."
 alias ...="cd ../.."
 ```
 
-# Wsl
+# WSL2
 
 - https://dev.to/equiman/move-wsl-file-system-to-another-drive-2a3d
 - https://blog.iany.me/2020/06/move-wsl-to-another-drive/
 - https://github.com/DDoSolitary/LxRunOffline
 
-```
+```bash
 explorer.exe .
+```
+
+## WSL2/nix
+
+```bash
+# start wsl session & start deamon as root: https://nixos.org/manual/nix/stable/installation/multi-user.html
+wsl
+sudo su -
+nix-daemon
+# start another wsl session and enjoy your nix commands
+wsl
+nix develop --extra-experimental-features nix-command --extra-experimental-features flakes
 ```
 
 ## Various

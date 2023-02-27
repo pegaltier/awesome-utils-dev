@@ -326,6 +326,8 @@ git checkout -b my-branch & git commit & git push # step 5
 on the GitHub website open a PR for your branch: my-branch # step 6
 ```
 
+- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
+
 ## CONFIG
 
 Switch credentiel method (token)
