@@ -405,6 +405,7 @@
 ## LIB: REACTIVE
 - https://github.com/Riim/cellx
 - https://github.com/cujojs/most
+- https://github.com/adamhaile/S
 - https://github.com/fynyky/reactor.js
 
 ## LIB: HARDWARE

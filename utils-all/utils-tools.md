@@ -20,11 +20,12 @@
 - https://github.com/yt-dlp/yt-dlp
 - https://github.com/httpie/desktop
 - https://github.com/subnub/myDrive
-- https://github.com/axa-group/Parsr
-- https://github.com/notable/notable
 - https://github.com/alyssaxuu/omni
 - https://github.com/slidevjs/slidev
 - https://github.com/alyssaxuu/flowy
+- https://github.com/axa-group/Parsr
+- https://github.com/notable/notable
+- https://github.com/lukevella/rallly
 - https://github.com/AutomaApp/automa
 - https://github.com/pavlobu/deskreen
 - https://github.com/electerious/Ackee

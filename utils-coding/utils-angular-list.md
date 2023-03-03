@@ -1204,6 +1204,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/angularconsulting/rx-service
 - https://github.com/ngfelixl/reactive-entity-store
 - https://github.com/mattpocock/xstate-catalogue
+- https://github.com/TanStack/query
 - https://github.com/drivly/state.do
 - https://github.com/markostanimirovic/juliette
 - https://github.com/AmadeusITGroup/ngx-tansu

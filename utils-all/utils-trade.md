@@ -27,6 +27,10 @@
 - the best risk/rewards ratio
 - take position and wait confirmation
 
+## VWAP
+
+- https://twitter.com/stephenharlinmd/status/1630682949292027906
+
 ## CRYPTO STRATEGY
 - sell at resistance and get usd or the other pair
 - sell only 25% / 50% and divide in many other main assets: usd, btc, eth

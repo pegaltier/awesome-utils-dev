@@ -17,6 +17,7 @@
 - https://github.com/sharkdp/bat
 - https://github.com/tldr-pages/tldr
 - https://github.com/ohmyzsh/ohmyzsh
+- https://github.com/natemoo-re/clack
 - https://github.com/idank/explainshell
 - https://github.com/shellspec/shellspec
 - https://github.com/alebcay/awesome-shell

@@ -154,6 +154,7 @@
 - https://github.com/itaysk/kubectl-neat
 - https://github.com/kubernetes/minikube
 - https://github.com/kubescape/kubescape
+- https://github.com/particledecay/kconf
 - https://github.com/kubernetes-sigs/krew
 - https://github.com/mbaykara/k8s-cluster
 - https://github.com/stackrox/kube-linter

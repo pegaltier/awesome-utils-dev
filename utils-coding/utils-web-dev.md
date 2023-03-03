@@ -443,6 +443,9 @@ emit/receive : https://github.com/quiet/quiet-js
 ## IOT
 - https://webofthings.org/standards/
 
+## LIB
+- https://github.com/cure53/DOMPurify
+
 ## STARTER: WEB
 - https://github.com/arwes/arwes
 - https://github.com/aidenybai/lucia

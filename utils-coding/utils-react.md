@@ -202,8 +202,14 @@
 ## NATIVE
 - https://github.com/expo/expo
 
-## NEXT
+## NEXT: STARTER
+- https://github.com/delbaoliveira/website
 - https://github.com/belgattitude/nextjs-monorepo-example
+- https://github.com/ixartz/Next-js-Boilerplate
+- https://github.com/one-aalam/next-starter-kit
+- https://github.com/vercel/next-learn-starter
+
+## NEXT
 - https://github.com/application-research/next-bucket
 - https://github.com/ixartz/Next-js-Blog-Boilerplate
 - https://github.com/slicknode/starter-nextjs-blog
@@ -211,9 +217,7 @@
 - https://github.com/juristr/blog-series-nextjs-nx
 - https://github.com/module-federation/nextjs-mf
 - https://github.com/serverless-stack/open-next
-- https://github.com/ixartz/Next-js-Boilerplate
-- https://github.com/one-aalam/next-starter-kit
-- https://github.com/vercel/next-learn-starter
+
 - https://github.com/RevereCRE/relay-nextjs
 - https://github.com/next-boost/next-boost
 - https://github.com/graphlatte/graphlatte

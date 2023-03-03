@@ -168,6 +168,7 @@
 - https://github.com/pelotom/unionize
 - https://github.com/pelotom/runtypes
 - https://github.com/arcanis/typanion
+- https://github.com/arktypeio/arktype
 - https://github.com/tinyplex/tinybase
 - https://github.com/mistlog/typetype
 - https://github.com/stephenh/ts-proto

@@ -55,9 +55,10 @@
 - https://github.com/neuml/txtai
 - https://github.com/Nutlope/restorePhotos
 - https://github.com/marqo-ai/marqo
-- https://github.com/facebookresearch/llama
 
-## GPT3
+## LIB: LLM
+- https://github.com/facebookresearch/llama
+- https://github.com/hwchase17/langchain
 
 ### LIST
 

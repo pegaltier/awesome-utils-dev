@@ -17,6 +17,7 @@
 - https://github.com/frehner/modern-guide-to-packaging-js-library
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/time-loop/only-allow
+- https://github.com/ije/esm.sh
 - https://github.com/nvm-sh/nvm
 - https://github.com/pnpm/pnpm
 - https://github.com/antfu/ni
