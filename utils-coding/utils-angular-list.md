@@ -1179,6 +1179,10 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/javascript-in-plain-english/ngrx-component-store-deep-dive-947c0a5be6dc
 - https://medium.com/ngrx/announcing-ngrx-version-10-new-packages-for-local-component-state-and-reactive-components-swag-62bedda0be91
 
+## ECOSYSTEM: STORE: NGRX/SIGNAL-STORE
+- https://github.com/markostanimirovic/ngrx-signal-store-playground
+
+
 ## ECOSYSTEM: STORE: ALTERNATIVE
 
 Discover alternative to ngrx for the state management of your objects.
