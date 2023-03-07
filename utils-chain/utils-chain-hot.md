@@ -463,6 +463,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://www.buyholo.net/en/build
 - https://developer.holochain.org
 - https://github.com/rust-analyzer/rust-analyzer
+- https://hackmd.io/BKCt3FckSiSDJ4aSJ1Ur6A
+- https://blog.holochain.org/scaffolding-my-first-happ-in-10-minutes/
 
 ## Install permenently
 - nix-env -f https://holochain.love -iA holochain.hc
