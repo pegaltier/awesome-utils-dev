@@ -324,6 +324,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 
+### OSS: QUOTES
+
+- https://github.com/Leo4815162342/dukascopy-node
+
 ## DIARY
 
 - never precipitate (fomo)

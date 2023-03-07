@@ -68,7 +68,9 @@ alias ...="cd ../.."
 explorer.exe .
 ```
 
-## WSL2/nix
+## WSL2/Nix
+
+### install
 
 ```bash
 # start wsl session & start deamon as root: https://nixos.org/manual/nix/stable/installation/multi-user.html
@@ -78,6 +80,21 @@ nix-daemon
 # start another wsl session and enjoy your nix commands
 wsl
 nix develop --extra-experimental-features nix-command --extra-experimental-features flakes
+```
+
+### uninstall
+
+```bash
+# https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/installation.html
+# https://github.com/NixOS/nix/issues/1402
+# https://github.com/NixOS/nix/issues/5370
+
+# Delete the Nix store (and misc. Nix-related files) as root: 
+rm -rf /nix/
+# Delete the Nix configuration file as root: 
+rm -rf /etc/nix
+# Delete your user links as normal user: 
+rm -rf ~/.nix-channels ~/.nix-defexpr ~/.nix-profile
 ```
 
 ## Various

@@ -308,6 +308,15 @@ git rebase --abort (cancel the rebase)
 git push --force (send to remote)
 ```
 
+## RENAME BRANCH
+
+```bash
+# rename the master branch to another old, then rename seotweaks to master and push force
+git branch -m master old-master
+git branch -m seotweaks master
+git push -f origin master
+```
+
 ## CONTRIBUTE
 
 1. Fork the github remote repository
