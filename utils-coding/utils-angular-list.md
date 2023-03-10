@@ -1202,6 +1202,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/spierala/mini-rx-store
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
+- https://github.com/ultimatecourses/lite-store
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/ChrisShank/xstate-behaviors
 - https://github.com/iliasbhal/xstate-builder
