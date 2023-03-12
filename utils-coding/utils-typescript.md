@@ -201,6 +201,7 @@
 - https://github.com/typestack/class-validator
 - https://github.com/devexperts/remote-data-ts
 - https://github.com/gbumanzordev/utility-types
+- https://github.com/JacobWeisenburger/zod_utilz
 - https://github.com/typestack/class-transformer
 - https://github.com/timocov/dts-bundle-generator
 - https://github.com/sfkiwi/linked-list-typescript

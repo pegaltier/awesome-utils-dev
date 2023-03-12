@@ -211,6 +211,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://gist.github.com/mrmeku/7d8ed87ac1b6d4a36bb91d3d5e2581e9
 - https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
 - https://github.com/AngularWave/angular.institute
+- https://dev.to/this-is-angular/you-dont-want-a-basecomponent-in-your-app-23hn
 
 ## HELPER: DESIGN PATTERN
 
@@ -934,6 +935,9 @@ Learn everything about angular universal, make a good SEO.
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
+- https://github.com/jordanpowell88/angular-counter (cypress)
+- https://github.com/eneajaho/ngx-signal-experimental
+- https://github.com/timdeschryver/ng-signal-forms
 - https://github.com/eduardoRoth/rick-and-morty-signals
 - https://stackblitz.com/edit/angular-ng-model-signal
 - https://stackblitz.com/edit/angular-ednkcj
@@ -1019,6 +1023,11 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b#.xhk466v64
 - http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/
 - https://github.com/ellamaolson/ngMigration-Assistant
+
+## CORE: DIRECTIVE COMPOSITION
+- https://angular.io/guide/directive-composition-api
+- https://www.angularjswiki.com/angular/directive-composition-api-in-angular-15/
+- https://github.com/angular/angular/issues/8785
 
 ## ECOSYSTEM: AUTHENTIFICATION
 
@@ -1257,6 +1266,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308
 - https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 - https://www.youtube.com/watch?v=fBQnDSeN8r8 Brew your own state management vs NgRx
+- https://ultimatecourses.com/blog/custom-reactive-services-stores-angular-behaviorsubject
 
 ## ECOSYSTEM: WEB-COMPONENTS WEBCOMPONENTS
 
@@ -2101,6 +2111,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/omermorad/automock
 - https://github.com/nvh95/jest-preview
 - https://github.com/hirezio/auto-spies
+- https://github.com/colinhacks/typejest
 - https://github.com/iambumblehead/esmock
 - https://github.com/cucumber/cucumber-js
 - https://github.com/help-me-mom/ng-mocks
@@ -2691,7 +2702,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://abp.io/
 
 ## ECOSYSTEM: DEMO: EXPERIMENT
-- https://github.com/eneajaho/ngx-signal-experimental
+
 
 ## ECOSYSTEM: DEMO: TRAINING
 - https://github.com/nrwl/nx-workshop
