@@ -59,6 +59,7 @@
 ## LIB: LLM
 - https://github.com/facebookresearch/llama
 - https://github.com/hwchase17/langchain
+- https://github.com/cocktailpeanut/dalai
 
 ### LIST
 
