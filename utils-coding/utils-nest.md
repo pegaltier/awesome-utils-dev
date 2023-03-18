@@ -19,7 +19,6 @@
 - https://github.com/nestjs/ng-universal
 - https://github.com/nest-modules/mailer
 - https://github.com/Papooch/decorate-all
-- https://github.com/nextauthjs/next-auth
 - https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter
 - https://github.com/skunight/nestjs-redis
@@ -58,6 +57,7 @@
 ## EXAMPLE
 - https://github.com/adisreyaj/adi
 - https://github.com/nartc/nest-mean
+- https://github.com/adisreyaj/compito
 - https://github.com/jmcdo29/nest-samples
 - https://github.com/rfprod/nx-ng-starter
 - https://github.com/ntegral/nestjs-sentry

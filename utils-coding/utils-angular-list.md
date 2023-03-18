@@ -2802,6 +2802,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FULL
 
+- https://github.com/adisreyaj/compito
 - https://github.com/neekware/fullerstack
 - https://github.com/rfprod/nx-ng-starter
 - https://github.com/DSpace/dspace-angular
