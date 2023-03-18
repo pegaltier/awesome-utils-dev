@@ -164,6 +164,7 @@
 - https://github.com/kubernetes/kubernetes
 - https://github.com/kubernetes/autoscaler
 - https://github.com/shank-git/metal-kubes
+- https://github.com/projectcontour/contour
 - https://github.com/kubernetes/ingress-nginx
 - https://github.com/viralpoetry/kubesurveyor
 - https://github.com/steveteuber/kubectl-graph
@@ -207,6 +208,7 @@
 - https://github.com/croqaz/browsers
 - https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
+- https://github.com/goodwithtech/dockle
 - https://github.com/louislam/docker-boot
 - https://github.com/ameerthehacker/envase
 - https://github.com/sigp/lighthouse-metrics

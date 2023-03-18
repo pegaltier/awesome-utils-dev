@@ -67,6 +67,7 @@
 
 ## OSS: DEV
 - https://github.com/ProxymanApp/Proxyman
+- https://github.com/Infisical/infisical
 
 # Web
 - https://github.com/iamadamdev/bypass-paywalls-chrome

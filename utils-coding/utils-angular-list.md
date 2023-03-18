@@ -1713,6 +1713,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/htmlhint/HTMLHint
 - https://github.com/palantir/tslint
 - https://github.com/eslint/eslint
+- https://github.com/bluwy/publint
 - https://github.com/mgechev/ngrev
 - https://github.com/Tinkoff/linters
 - https://github.com/google/gts
@@ -2729,6 +2730,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/tastejs/angular-movies
 - https://github.com/brandonroberts/ng-vite
 - https://github.com/bampakoa/angular-heroes
+- https://github.com/railsstudent/ng-pokemon
 - https://github.com/nartc/ng-pexels-gallery
 - https://github.com/ngneat/ng-standalone-nx
 - https://github.com/vthinkxie/ng-pull-refresh

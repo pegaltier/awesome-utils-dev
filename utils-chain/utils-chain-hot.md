@@ -224,6 +224,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/matthme/distreviewed
 - https://github.com/ioen-tech/ioen-micro-ledger
 - https://github.com/holochain-engineers/REA-Electron-starter
+- https://github.com/WorldTreeNetwork/holo-skilltree-courseware
 - https://github.com/emerging-integrity/mutual-credit
 - https://github.com/bluesky-social/adx
 - https://github.com/artbrock/clutter

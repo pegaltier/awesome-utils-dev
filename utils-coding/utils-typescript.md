@@ -104,6 +104,7 @@
 - https://github.com/vedantroy/typecheck.macro
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/ostrowr/ts-json-validator
+- https://github.com/open-draft/event-contract
 - https://github.com/ts-essentials/ts-essentials
 - https://github.com/jonaskello/tslint-immutable
 - https://github.com/ngfelixl/typescript-algorithms

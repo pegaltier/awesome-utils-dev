@@ -48,6 +48,7 @@
 - https://github.com/DontPanicO/jwtXploiter
 - https://github.com/mitmproxy/mitmproxy
 - https://github.com/ndelphit/apkurlgrep
+- https://github.com/goodwithtech/dockle
 - https://github.com/Infisical/infisical
 - https://github.com/chenjj/CORScanner
 - https://github.com/hktalent/scan4all

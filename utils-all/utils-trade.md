@@ -300,6 +300,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/dk4jo3/are-alts-bleeding
 - https://github.com/fremantle-industries/tai
 - https://github.com/nicolasbonnici/cryptobot
+- https://github.com/torreyleonard/algotrader
 - https://github.com/taniman/profit-trailer
 - https://github.com/grantcolley/tradeview
 - https://github.com/Superalgos/Superalgos
