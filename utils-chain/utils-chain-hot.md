@@ -70,6 +70,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Our World: https://www.ourworldthegame.com
 - Core.Network: https://core.network  I  http://superluminal.is 
 - Promether: https://promether.com
+- World Tree: https://worldtree.io/
 - S7 Foundation/Noomap/Holoweb: http://noomap.info
 - FederatedBookkeeping: https://federatedbookkeeping.org/
 - Holoweb: https://www.youtube.com/watch?v=y2zDSmq60zE

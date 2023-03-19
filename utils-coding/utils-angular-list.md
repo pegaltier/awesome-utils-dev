@@ -938,6 +938,7 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/jordanpowell88/angular-counter (cypress)
 - https://github.com/eneajaho/ngx-signal-experimental
 - https://github.com/timdeschryver/ng-signal-forms
+- https://github.com/code-with-ahsan/ng-signals-wishlist
 - https://github.com/eduardoRoth/rick-and-morty-signals
 - https://stackblitz.com/edit/angular-ng-model-signal
 - https://stackblitz.com/edit/angular-ednkcj
@@ -1294,6 +1295,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/umijs/qiankun
 - https://github.com/namecheap/ilc
 - https://github.com/StyleT/tailorx
+- https://github.com/unstubbable/mfng
 - https://github.com/greenpress/microf
 - https://github.com/module-federation
 - https://github.com/worktile/ngx-planet

@@ -180,6 +180,7 @@
 - https://github.com/palantir/blueprint
 - https://github.com/microsoft/fluentui
 - https://github.com/mantinedev/mantine
+- https://github.com/tremorlabs/tremor
 - https://github.com/ZEISS/precise-ui
 - https://github.com/WTTJ/welcome-ui
 - https://github.com/grommet/grommet

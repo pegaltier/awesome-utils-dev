@@ -406,9 +406,10 @@ forgeries in NFTs, meta data...
 - https://discord.com/invite/graffiti-kings
 - https://discord.com/invite/bitcoinorigins
 
-## NFT CODING
+## NFT CODING / OPENSOURCE
 - https://github.com/pinknetworkx/atomicassets-js
 - https://github.com/EatTheBlocks/nft-art-generator
+- https://github.com/timescale/nft-starter-kit
 - https://github.com/EatTheBlocks/nft-101
 
 ## NFT WAXCOLLECTION DROPS
