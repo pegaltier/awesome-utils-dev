@@ -22,6 +22,10 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
+- https://avatarai.me/
+- https://photoai.com/
+- https://interiorai.com/
+- https://ideasai.com/
 - https://breadboard.me/
 - https://chat.openai.com/
 - https://play.botscript.ai/
