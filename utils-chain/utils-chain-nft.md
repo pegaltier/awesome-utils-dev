@@ -302,6 +302,7 @@ forgeries in NFTs, meta data...
 - https://www.nftstudios.io
 - https://www.bountyblok.io
 - https://www.pinata.cloud
+- https://www.fracton.cool
 - https://www.tribeone.io
 - https://www.mintgate.io
 - https://www.premint.xyz
