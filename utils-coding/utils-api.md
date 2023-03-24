@@ -34,6 +34,7 @@
 - https://stoplight.io/studio
 - https://github.com/APIs-guru
 - https://github.com/Kong/insomnia
+- https://github.com/fern-api/fern
 - https://github.com/Azure/autorest
 - https://github.com/slatedocs/slate
 - https://github.com/metlo-labs/metlo

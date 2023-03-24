@@ -1315,6 +1315,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/TinkoffCreditSystems/microzord
 - https://github.com/matt-gold/single-spa-angular-cli
 - https://github.com/billyjov/microfrontend-resources
+- https://github.com/rajasegar/awesome-micro-frontends
 - https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer
 - https://leanpub.com/enterprise-angular
@@ -2714,6 +2715,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/BioPhoton/angular-basic-ws
 - https://github.com/alcfeoh/ng-advanced-workshop
 - https://github.com/eliraneliassy/angular-v14-playground
+- https://github.com/stefanoslig/angular-composables-demo
 - https://github.com/tomastrajan/angular-state-management-workshop
 
 ## ECOSYSTEM: DEMO: STARTER

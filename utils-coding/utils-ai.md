@@ -12,6 +12,7 @@
 - https://github.com/eugeneyan/applied-ml
 - https://github.com/visenger/awesome-mlops
 - https://github.com/openai/openai-cookbook
+- https://github.com/elyase/awesome-gpt3
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/humanloop/awesome-chatgpt
 - https://github.com/microsoft/ML-For-Beginners
@@ -21,6 +22,7 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
+- https://breadboard.me/
 - https://chat.openai.com/
 - https://play.botscript.ai/
 - https://copilot.github.com/
@@ -48,23 +50,30 @@
 - https://github.com/deepset-ai/FARM
 - https://github.com/winkjs/wink-ner
 - https://github.com/obsei/obsei
-- https://github.com/vincelwt/chatgpt-mac
-- https://github.com/RomanHotsiy/commitgpt
 - https://github.com/upscayl/upscayl
 - https://github.com/JaidedAI/EasyOCR
 - https://github.com/neuml/txtai
 - https://github.com/Nutlope/restorePhotos
 - https://github.com/marqo-ai/marqo
+- https://github.com/mckaywrigley/chatbot-ui-lite
+
+## LIB: GPT
+- https://github.com/openai/chatgpt-retrieval-plugin
+- https://github.com/vincelwt/chatgpt-mac
+- https://github.com/RomanHotsiy/commitgpt
 
 ## LIB: LLM
 - https://github.com/facebookresearch/llama
 - https://github.com/hwchase17/langchain
 - https://github.com/cocktailpeanut/dalai
 
+## LIB: STABLE DIFFUSION
+- https://github.com/cocktailpeanut/breadboard
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
 ### LIST
 
 - https://github.com/huggingface/datasets
-- https://github.com/elyase/awesome-gpt3
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 ### CODING

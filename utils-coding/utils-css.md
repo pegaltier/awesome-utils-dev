@@ -82,6 +82,7 @@
 - https://github.com/jonsuh/hamburgers
 - https://github.com/callstack/linaria
 - https://github.com/linkedin/css-blocks
+- https://github.com/Gioni06/terminal.css
 - https://github.com/vasanthv/stylize.css
 - https://github.com/dbohdan/classless-css
 - https://github.com/css-doodle/css-doodle
