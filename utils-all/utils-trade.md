@@ -17,6 +17,8 @@
 - long/short
 - trend following
 - mean reversion for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
+- Day Trading Legend: BNF, contrarian strategy looks at stock deviating at least 20% below 25days MA, with 35% safe level to buy. The % level actually depends on the sector, like high risk startup or crypto will have a very spread like between 28 and 60%. Also during a strong bull market, if you are late to the party you can still buy the lagger values (https://www.youtube.com/watch?v=Jnc77gMihPo)
+- The BEST Entry Signal Indicator https://www.youtube.com/watch?v=N_7ADVr72Ik
 
 ## STOP LOSS/EXIT
 - gradual approach in reducing their position. If it’s a momentum trade they put the max size on and reduce gradually as the trade moves against them
