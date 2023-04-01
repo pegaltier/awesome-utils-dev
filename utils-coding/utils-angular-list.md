@@ -1771,6 +1771,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angularconsulting/ngvm
 - https://github.com/rainerhahnekamp/sam4sc
 - https://github.com/omniboard-dev/analyzer
+- https://github.com/angular-experts-io/omniboard-angular-oss
 - https://github.com/angular/dgeni-packages
 - https://github.com/mgechev/ngx-flamegraph
 - https://github.com/statoscope/statoscope

@@ -22,6 +22,7 @@ https://jatins.gitlab.io/me/why-startup/
 - https://github.com/KatherineMichel/tech-and-funding-toolkit
 - https://github.com/squareboat/growth-hacking-guide
 - https://github.com/mezod/awesome-indie
+- https://blacksandsmedia.com/sell-your-site
 - https://tinyacquisitions.com/
 - https://www.indiehackers.com/
 - https://startupaffiliate.io/

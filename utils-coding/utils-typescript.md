@@ -220,6 +220,7 @@
 - https://github.com/typeorm/typeorm
 - https://github.com/typegoose/typegoose
 - https://github.com/liberation-data/drivine
+- https://github.com/drizzle-team/drizzle-orm
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository
 
 ## LIB: TEST

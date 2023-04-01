@@ -121,6 +121,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/happ-build-tutorial
 - https://github.com/holochain/hackathon-happs
 - https://github.com/holochain-release-automation
+- https://github.com/mattyg/herddit
 - https://github.com/trustgraph/trustgraph-holochain
 - https://github.com/holochain-in-action/peer-share
 - https://github.com/harlantwood/hdk-explorations
@@ -155,6 +156,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/ludos
 - https://github.com/KoruProtocol/koru
 - https://github.com/darksoil-studio/gather
+- https://github.com/darksoil-studio/assemble
 - https://github.com/darksoil-studio/mutual-credit
 - https://github.com/holochain-engineers/team-mates
 - https://github.com/holochain/holochain-serialization-js
