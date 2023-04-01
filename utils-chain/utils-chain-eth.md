@@ -9,6 +9,9 @@
 - https://github.com/Scanate/EthList
 - https://forum.ethereum.org
 
+## ETH LEARN
+- https://www.evmthroughctfs.com/
+
 ## ETH DEV
 - https://etherscan.io/apis
 - https://github.com/ethereum/
@@ -50,6 +53,7 @@
 - https://ethplorer.io
 - https://chainlist.org
 - https://www.gasnow.org
+- https://www.monobase.xyz
 - https://ethplorer.io/top
 - https://www.etherchain.org
 - https://ethgasstation.info

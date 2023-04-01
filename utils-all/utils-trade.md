@@ -201,10 +201,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://capitalise.ai/
 - https://www.tuned.com/
 - https://raposa.trade/
-- https://www.tuned.com/
 - https://www.mida.org/
 - https://3commas.io/
 - https://mlalgotrading.com/
+ https://signalstack.com/
 
 ## LEARN
 - https://hackingthemarkets.com/

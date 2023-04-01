@@ -30,6 +30,8 @@
 - https://chat.openai.com/
 - https://play.botscript.ai/
 - https://copilot.github.com/
+- https://www.sqltranslate.app/
+- https://www.literallyanything.io/
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
 

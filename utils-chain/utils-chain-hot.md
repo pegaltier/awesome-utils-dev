@@ -41,6 +41,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Internetofenergy: https://internetofenergy.network/
 - Neighbourhoods: https://neighbourhoods.network/
 - Happenings: https://www.happenings.community/
+- Nomde: https://nomde.net/
 - Assemble: https://frugal.systems/assemble/
 - Humm.earth: https://humm.earth/
 - Valueflows: https://www.valueflo.ws

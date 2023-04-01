@@ -71,6 +71,7 @@ forgeries in NFTs, meta data...
 
 ### NFT ETH
 - https://ethblock.art/
+- https://blur.io/
 - https://nftx.io
 
 ### NFT BSC
@@ -115,6 +116,7 @@ forgeries in NFTs, meta data...
 - https://soon.market/
 - https://protonmint.com/
 - https://www.blocurate.com/
+- https://digital-galaxy.io/
 - https://www.protonmarket.com/
 
 ## NFT TELOS
@@ -309,6 +311,7 @@ forgeries in NFTs, meta data...
 - https://airdrop.anyo.io
 - https://fioprotocol.io
 - https://www.niftex.org
+- https://rollapp.store
 - https://www.uniqly.io
 - https://artcentral.io
 - https://blockparty.co

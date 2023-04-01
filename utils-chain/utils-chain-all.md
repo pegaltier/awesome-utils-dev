@@ -33,6 +33,8 @@
 
 ## TOP DEV
 - https://mywish.io/
+- https://thirdweb.com/
+- https://github.com/thirdweb-dev
 - https://github.com/chubin/rate.sx
 - https://github.com/Agoric/agoric-sdk
 - https://github.com/zookyy/crypto-sniper
@@ -384,7 +386,15 @@ PANTOS — - https://pantos.io
 ## SUPPLY CHAIN
 - https://info.binance.com/en/currencies/aeron
 
-# VENTURE / VC / HEDGE FUND
+## REAL WORLD ASSET / RWA
+- https://www.galileoprotocol.io/ (LEOX)
+- https://imo-invest.com/ (IMO)
+- https://rollapp.store/ (CGT)
+- https://www.realio.fund/ (RIO)
+- https://www.ekta.io/ (EKTA)
+- https://artfi.world/ (?)
+
+## VENTURE / VC / HEDGE FUND
 - http://dcg.co
 - http://lsvp.com
 - https://www.ar.ca
