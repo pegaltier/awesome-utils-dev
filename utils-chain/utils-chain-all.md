@@ -393,6 +393,7 @@ PANTOS — - https://pantos.io
 - https://www.realio.fund/ (RIO)
 - https://www.ekta.io/ (EKTA)
 - https://artfi.world/ (?)
+- https://www.rwa.xyz/
 
 ## VENTURE / VC / HEDGE FUND
 - http://dcg.co
