@@ -18,6 +18,7 @@ low-code tooling to prototype fastly.
 - https://zeroqode.com
 - https://www.duda.co
 - https://xlayers.dev
+- https://bullet.so
 - https://uizard.io
 - https://olympe.io
 - https://bubble.is

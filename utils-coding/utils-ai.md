@@ -22,6 +22,7 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
+- https://sitegpt.ai/
 - https://avatarai.me/
 - https://photoai.com/
 - https://interiorai.com/
@@ -67,6 +68,7 @@
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/RomanHotsiy/commitgpt
+- https://github.com/keijiro/AICommand
 
 ## LIB: LLM
 - https://github.com/facebookresearch/llama

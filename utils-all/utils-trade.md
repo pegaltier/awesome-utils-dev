@@ -1,7 +1,11 @@
 # TRADE
 
-## BONDS
-- https://www.youtube.com/watch?v=u5YrIuQbfiU
+## TRADERS
+
+- Laurens Bensdorp https://tradingsystems.com | https://tradingmasteryschool.com
+- Michael Covel's https://www.trendfollowing.com | https://www.trendfollowingradio.com/
+- Jack Schwager https://jackschwager.com
+- Berg Milton https://miltonberg.com
 
 ## RULES
 
@@ -204,13 +208,19 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.mida.org/
 - https://3commas.io/
 - https://mlalgotrading.com/
- https://signalstack.com/
+- https://signalstack.com/
+- https://wealth-lab.com/
+- https://www.wealthsignals.com/
+- https://mhptrading.com/
 
-## LEARN
-- https://hackingthemarkets.com/
-
+## VIDEOS
 - https://www.youtube.com/watch?v=g9bmgvJkfmQ behavioral finance / cognitive bias (in french)
+- https://www.youtube.com/watch?v=u5YrIuQbfiU Bonds explaned
+- https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ Part Time Larry
+- https://www.youtube.com/watch?v=Jb8l989IzTE Algotrading Frameworks: Overview
 
+## ARTICLES
+- https://hackingthemarkets.com/
 
 ## TRADINGVIEW
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
@@ -249,11 +259,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.darwinex.com/
 - https://yuriymatso.com/
 - http://malori.org/
-
-## TUTOS
-
-- https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ Part Time Larry
-- https://www.youtube.com/watch?v=Jb8l989IzTE Algotrading Frameworks: Overview
 
 ## OSS
 
@@ -350,11 +355,9 @@ make 10 to 15 rules:
 8. read the positive and negative (confirmation biasis)
 9. do not listen others people (your own opinion is the most)
 10. diversification (10 cryptos + 10 stocks (better to use ETF))
-11. mean reversing / 
+11. mean reversing / https://wealth-lab.com/Strategy/DesignPublished?strategyID=51
 
 ## BOOKS
-
-- market wizards by Jack Schwager
 
 <p><a href="http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/">http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/</a><br>
 <a href="https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371">https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371</a><br>
