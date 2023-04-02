@@ -99,8 +99,14 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - buy SP500 when VIX closes above 30 and sell when VIX closes below 20. = +25% in 2022
 - buy SP500 when VIX closes below 20 and sell when VIX closes above 30. = -33% in 2022
 
-## Strat: MA200
-- 
+## Strat: Trend following by Laurens Bensdorp
+- Liquidity: only very liquid stocks
+- Close of the SPY needs to be above the 50 day SMA + 2 ATR (20 days)
+- Close of the stock is the highest close of the last 50 days
+- we trade a maximum of 10 positions (stocks)
+- if more candidates, we rank by highest ROC of the last 50 days
+- exit rule: initial stop at 5 ATR (20) below the execution price + trailing stop 17.5%
+- detail: https://www.youtube.com/watch?v=J5tW_tNzZ7M
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
@@ -212,6 +218,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://wealth-lab.com/
 - https://www.wealthsignals.com/
 - https://mhptrading.com/
+- https://ghostfol.io/
+- https://www.lizardindicators.com/
 
 ## VIDEOS
 - https://www.youtube.com/watch?v=g9bmgvJkfmQ behavioral finance / cognitive bias (in french)
@@ -221,6 +229,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## ARTICLES
 - https://hackingthemarkets.com/
+- https://hanguk-quant.medium.com/
 
 ## TRADINGVIEW
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
@@ -232,12 +241,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://alertatron.com/
 - https://alertzmanager.io/
 - https://wundertrading.com
-
-## NINJATRADER
-- https://www.lizardindicators.com/
-
-## PORTFOLIO
-- https://ghostfol.io/
 
 ## STRATEGY
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
@@ -332,9 +335,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 
-### OSS: QUOTES
-
+## QUOTES
+- https://fuserleer.online/exchange_data/
+- https://www.youtube.com/watch?v=myydDX-us4o
 - https://github.com/Leo4815162342/dukascopy-node
+- https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 
 ## DIARY
 
@@ -386,10 +391,6 @@ Stephane Ceaux-Dutheil.
 
 </p>
 
-## CRYPTO QUOTES:
-- https://fuserleer.online/exchange_data/
-- https://www.youtube.com/watch?v=myydDX-us4o
-- https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 
 ## TOOLS
 
