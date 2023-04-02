@@ -6,6 +6,7 @@
 - Michael Covel's https://www.trendfollowing.com | https://www.trendfollowingradio.com/
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
+- David Bergstrom https://www.buildalpha.com/
 
 ## RULES
 
@@ -107,6 +108,15 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - if more candidates, we rank by highest ROC of the last 50 days
 - exit rule: initial stop at 5 ATR (20) below the execution price + trailing stop 17.5%
 - detail: https://www.youtube.com/watch?v=J5tW_tNzZ7M
+
+## Strat: Equity Curve Trading Strategy
+- Skipping trades when equity curve is above a moving average of equity
+- Skipping trades when equity curve is below a moving average of equity
+- Skipping trades after consecutive winning trades
+- Skipping trades after consecutive losing trades
+- Skipping based on net profit
+- Skipping based on rolling Sharpe Ratio
+- detail: https://www.buildalpha.com/equity-curve-trading/
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
@@ -219,6 +229,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.wealthsignals.com/
 - https://mhptrading.com/
 - https://ghostfol.io/
+- https://www.buildalpha.com/
 - https://www.lizardindicators.com/
 
 ## VIDEOS
