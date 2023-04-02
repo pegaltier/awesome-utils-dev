@@ -7,15 +7,34 @@
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
 - David Bergstrom https://www.buildalpha.com/
+- Stephane Ceaux-Dutheil
+
+## DIARY
+
+- Accept small win to reduce risk
+- Systematic model Backtested & Follow it
+- Never precipitate to enter a trade (FOMO)
+- Don't hesitate to double or triple on breakout validation
+- Follow long term trendline and close winning trade on a resitance trend line and rebuy if breakout appear.
+- Close winning especially if you are surexposed, you can also close to do a rotation.
+- Place your stop loss at entry point (no sure)
+- Minimum time market buy stop & quick take profit (no sure)
+- Manage risk according to current volatily & current other assets (indices, vix, spread)
 
 ## RULES
 
-- Follow long term trendline and close winning trade on a resitance trend line and rebuy if breakout appear.
-- Close winning especially if you are surexposed, you can also close to do a rotation.
-- Backtest & Follow your indicator.
-- Place your stop loss at entry point
-- Minimum time market buy stop & quick take profit 
-- Manage risk according to current volatily: 
+1. wait 1 trading day before buying or selling a thing
+2. sell half on a double (100%)
+3. buy value / be contrarien
+4. be skeptikal 
+5. the smaller the better (small portfolio under 10)
+6. don't speculate with mortage payment
+7. don't be afraid to sell (understand flaw)
+8. read the positive and negative (confirmation biasis)
+9. do not listen others people (your own opinion is the most)
+10. diversification (10 cryptos + 10 stocks (better to use ETF))
+11. mean reversing / https://wealth-lab.com/Strategy/DesignPublished?strategyID=51
+
 
 ## COMMON STRATEGY
 - long only
@@ -241,8 +260,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## ARTICLES
 - https://hackingthemarkets.com/
 - https://hanguk-quant.medium.com/
+- https://mechanicalforex.com/
+- https://www.satyland.com/
 
-## TRADINGVIEW
+## TRADINGVIEW AUTOMATE
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
 - https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
@@ -252,6 +273,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://alertatron.com/
 - https://alertzmanager.io/
 - https://wundertrading.com
+
+## METATRADER
+- https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
+- https://book.mql4.com/programm/samples
+- https://www.trading-automatique.fr/mql4/
+- https://docs.mql4.com/runtime/event_fire#calculate
 
 ## STRATEGY
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
@@ -352,56 +379,16 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/Leo4815162342/dukascopy-node
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 
-## DIARY
-
-- never precipitate (fomo)
-- accept small win to reduce risk
-
-## RULES
-
-make 10 to 15 rules:
-
-1. wait 1 trading day before buying or selling a thing
-2. sell half on a double (100%)
-3. buy value / be contrarien
-4. be skeptikal 
-5. the smaller the better (small portfolio under 10)
-6. don't speculate with mortage payment
-7. don't be afraid to sell (understand flaw)
-8. read the positive and negative (confirmation biasis)
-9. do not listen others people (your own opinion is the most)
-10. diversification (10 cryptos + 10 stocks (better to use ETF))
-11. mean reversing / https://wealth-lab.com/Strategy/DesignPublished?strategyID=51
-
 ## BOOKS
 
-<p><a href="http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/">http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/</a><br>
-<a href="https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371">https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371</a><br>
-<a href="https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15">https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15</a><br>
-<a href="https://e-devenirtrader.com/en-bourse-anticiper-cest-perdre/">https://e-devenirtrader.com/en-bourse-anticiper-cest-perdre/</a> (STRATEGY4 VOLATILITY)</p>
-<h2>STRATEGY</h2>
-<p><a href="https://blog.darwinex.com/entrevue-avec-algotradesoft-ovl">https://blog.darwinex.com/entrevue-avec-algotradesoft-ovl</a>
-</p>
-<p><a href="https://blog.darwinex.com/interview-de-trader-antojos-darwin-axf/?lang=fr">https://blog.darwinex.com/interview-de-trader-antojos-darwin-axf/?lang=fr</a><br>
-<a href="https://www.myfxbook.com/members/antojos">https://www.myfxbook.com/members/antojos</a><br>
-<a href="https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/">https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/</a></p>
-<h2>metatrader</h2>
-<p><a href="https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/">https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/</a><br>
-<a href="https://book.mql4.com/programm/samples">https://book.mql4.com/programm/samples</a><br>
-<a href="https://www.trading-automatique.fr/mql4/">https://www.trading-automatique.fr/mql4/</a></p>
-<h2>program</h2>
-<p><a href="https://docs.mql4.com/runtime/event_fire#calculate">https://docs.mql4.com/runtime/event_fire#calculate</a></p>
-<h2>forum</h2>
-<p><a href="https://www.andlil.com/forum/">https://www.andlil.com/forum/</a></p>
-<h2>idea</h2>
-<p><a href="http://raaaj.com/">http://raaaj.com/</a></p>
-<h1>algo trader</h1>
-<p><a href="https://garybasin.com/">https://garybasin.com/</a><br>
-<a href="https://mechanicalforex.com/about">https://mechanicalforex.com/about</a><br>
-Stephane Ceaux-Dutheil. 
-
-</p>
-
+- http://www.newtraderu.com/2014/08/27/ten-reasons-to-exit-a-long-position/
+- https://medium.com/@cryptocreddy/5-stop-loss-mistakes-to-avoid-bea274857371
+- https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15
+- https://e-devenirtrader.com/en-bourse-anticiper-cest-perdre/
+- https://blog.darwinex.com/entrevue-avec-algotradesoft-ovl</a>
+- https://blog.darwinex.com/interview-de-trader-antojos-darwin-axf/?lang=fr
+- https://www.myfxbook.com/members/antojos
+- https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/
 
 ## TOOLS
 
@@ -415,5 +402,5 @@ Free helpful Stock Market tools🏆
 >Ratestar- PE/Growth Analysis
 >Tradingview- Charting
 
-## BLOGS
-- https://www.satyland.com/
+## SOC
+- https://www.andlil.com/forum/
