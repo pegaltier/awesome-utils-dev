@@ -7,6 +7,7 @@
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
 - David Bergstrom https://www.buildalpha.com/
+- Nick Radge https://www.thechartist.com.au/
 - Stephane Ceaux-Dutheil
 
 ## DIARY
@@ -20,6 +21,7 @@
 - Place your stop loss at entry point (no sure)
 - Minimum time market buy stop & quick take profit (no sure)
 - Manage risk according to current volatily & current other assets (indices, vix, spread)
+- Use put option for shorting, risk is limited compared to a trad short position.
 
 ## RULES
 
@@ -119,14 +121,21 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - buy SP500 when VIX closes above 30 and sell when VIX closes below 20. = +25% in 2022
 - buy SP500 when VIX closes below 20 and sell when VIX closes above 30. = -33% in 2022
 
+## Strat: one day mean reversion by @thechartist
+- Take ATR of last 5 days.
+- Take std dev of the ATR for 50 days and divide by std dev of the last 200 days
+- If less than 5 then buy limit at todays low minus the ATR 5 * 0.5
+- Exit at close, apply to all US stocks in uptrend above 20$ and with t/o > 300k
+
 ## Strat: Trend following by Laurens Bensdorp
 - Liquidity: only very liquid stocks
 - Close of the SPY needs to be above the 50 day SMA + 2 ATR (20 days)
 - Close of the stock is the highest close of the last 50 days
-- we trade a maximum of 10 positions (stocks)
+- We trade a maximum of 10 positions (stocks)
 - if more candidates, we rank by highest ROC of the last 50 days
-- exit rule: initial stop at 5 ATR (20) below the execution price + trailing stop 17.5%
-- detail: https://www.youtube.com/watch?v=J5tW_tNzZ7M
+- Exit rule: initial stop at 5 ATR (20) below the execution price + trailing stop 17.5%
+- Detail: https://www.youtube.com/watch?v=J5tW_tNzZ7M
+- However based on Joachim Moser, trend following systems are not very good because they consumes equity base / time invested in the market, so he recommend instead mean reversion strategy.
 
 ## Strat: Equity Curve Trading Strategy
 - Skipping trades when equity curve is above a moving average of equity
@@ -136,6 +145,8 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - Skipping based on net profit
 - Skipping based on rolling Sharpe Ratio
 - detail: https://www.buildalpha.com/equity-curve-trading/
+- however based on Joachim Moser, it's very complex thing to do, and so not recommended because often at the end often arrives a very profitable trades you don't want to miss.
+
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
