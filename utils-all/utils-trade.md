@@ -347,6 +347,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/topics/tradingview-alert
 - https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
 - https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
+- https://github.com/soranoo/TradingView-Free-Webhook-Alerts
 - https://github.com/pAulseperformance/awesome-pinescript
 - https://github.com/alleyway/add-tradingview-alerts-tool
 - https://github.com/brian-the-dev/python-tradingview-ta
@@ -424,13 +425,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 Free helpful Stock Market tools🏆
 
->Screener- Funda Screening
->Trendlyne -Sector analysis
->Chartink - Technical screening
->Tickertape- Funda Analysis
->StockEdge- Shareholding/Tracking
->Ratestar- PE/Growth Analysis
->Tradingview- Charting
+- Screener- Funda Screening
+- Trendlyne -Sector analysis
+- Chartink - Technical screening
+- Tickertape- Funda Analysis
+- StockEdge- Shareholding/Tracking
+- Ratestar- PE/Growth Analysis
+- Tradingview- Charting
 
 ## SOC
 - https://www.andlil.com/forum/

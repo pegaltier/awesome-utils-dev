@@ -378,6 +378,7 @@
 ## LIB: SEARCH
 - https://github.com/elastic/app-search-javascript
 - https://github.com/elastic/elasticsearch-js
+- https://github.com/comunica/comunica
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars

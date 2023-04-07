@@ -13,6 +13,7 @@
 - https://github.com/golevelup/nestjs
 - https://github.com/jmcdo29/nest-lab
 - https://github.com/nestjs/throttler
+- https://github.com/TriPSs/nestjs-query
 - https://github.com/nestjs/mapped-types
 - https://github.com/nestjsx/nest-router
 - https://github.com/nestjsx/nestjs-amqp

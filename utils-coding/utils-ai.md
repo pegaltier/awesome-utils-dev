@@ -90,6 +90,7 @@
 
 - https://debuild.co/
 - https://gpt-tailwind.com/
+- https://github.com/TabbyML/tabby
 
 ### TEXT
 - https://www.taglines.ai/
