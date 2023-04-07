@@ -67,6 +67,7 @@
 
 ## LIB: GPT
 - https://github.com/openai/chatgpt-retrieval-plugin
+- https://github.com/jtmuller5/The-HustleGPT-Challenge
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/keijiro/AICommand
