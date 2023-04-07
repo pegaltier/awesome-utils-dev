@@ -70,6 +70,7 @@
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/keijiro/AICommand
+- https://github.com/abacaj/chatgpt-backup
 
 ## LIB: LLM
 - https://github.com/facebookresearch/llama

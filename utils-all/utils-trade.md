@@ -239,6 +239,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 - when the trend is positive on many timeframes (at least 3): m15,h1,h4,d,w,m
 
+## ORDER
+
+-  Those are not even recommended. In general, limit orders can result in unrealistic backtests due to liquidity constraints. If the limit is reached you may not be able to execute 1/10 of your size without impact. Market markets won't make it easy for you. In fact,  they will take the other side. The backtest may show a 1% gain for a trade, but the real gain maybe 0.01% or even a loss. 
+
 ## TRADINGVIEW
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/

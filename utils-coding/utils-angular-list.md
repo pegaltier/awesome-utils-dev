@@ -1828,6 +1828,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/vdolek/angular-resize-event
 - https://github.com/ultimatecourses/ngx-pagevisibility
 - https://github.com/nartc/ngx-resize (TOADD)
+- https://github.com/wnabil/ngx-export-as (TOADD)
 
 ## ECOSYSTEM: LIB: HTTP
 
