@@ -57,6 +57,7 @@ forgeries in NFTs, meta data...
 - https://sweet.io
 - https://www.topaz.so
 - https://www.p00ls.io
+- https://www.cryptoart.ai
 
 ### NFT MULTICHAIN
 - https://uniqueone.network

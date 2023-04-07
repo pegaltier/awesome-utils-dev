@@ -63,6 +63,7 @@
 - https://github.com/Nutlope/restorePhotos
 - https://github.com/marqo-ai/marqo
 - https://github.com/mckaywrigley/chatbot-ui-lite
+- https://github.com/ShreyaR/guardrails
 
 ## LIB: GPT
 - https://github.com/openai/chatgpt-retrieval-plugin
@@ -105,3 +106,14 @@
 
 ## BOT
 - https://github.com/baptisteArno/typebot.io
+
+## IMAGE
+
+▪️ Midjourney (subscription)
+▪️ Jasper's AI (subscription)
+▪️ DALL-E-2 (credits)
+▪️ Stable Diffusion (credits)
+▪️ Stable Diffusion (free by Easy Diffusion)
+▪️ Bing or Bing Image Creator (free, sign-in)
+▪️ PlaygroundAI (free, sign-in)
+▪️ Craiyon (free)

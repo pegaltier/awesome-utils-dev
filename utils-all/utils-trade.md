@@ -10,6 +10,9 @@
 - Nick Radge https://www.thechartist.com.au/
 - Stephane Ceaux-Dutheil
 
+## AUTOMATED
+- https://www.quantifiedstrategies.com/trading-strategies/
+
 ## DIARY
 
 - Accept small win to reduce risk
@@ -25,6 +28,7 @@
 
 ## RULES
 
+0. identify the trend a level to confirm it
 1. wait 1 trading day before buying or selling a thing
 2. sell half on a double (100%)
 3. buy value / be contrarien
@@ -48,6 +52,15 @@
 
 ## STOP LOSS/EXIT
 - gradual approach in reducing their position. If it’s a momentum trade they put the max size on and reduce gradually as the trade moves against them
+
+## PRICE & VOLUME
+- check different timeframes (H4,D,W) are aligned with your trend
+- uptrend & upday > volume higher
+- uptrend & downday > volume lower
+- downtrend & upday > volume lower
+- downtrend & downday > volume higher
+- https://youtu.be/Lz1Sg1fD7BA?t=111
+- https://youtu.be/m8F3KkBDtC0
 
 ## FILTER STRATEGY
 - detect the asset to focus on for a swing (3 days to 30 days)
@@ -126,6 +139,7 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - Take std dev of the ATR for 50 days and divide by std dev of the last 200 days
 - If less than 5 then buy limit at todays low minus the ATR 5 * 0.5
 - Exit at close, apply to all US stocks in uptrend above 20$ and with t/o > 300k
+- other mean reversion: https://www.quantifiedstrategies.com/3-free-mean-reversion-trading-strategies/
 
 ## Strat: Trend following by Laurens Bensdorp
 - Liquidity: only very liquid stocks
@@ -302,6 +316,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.kryll.io/
 - https://napoleonx.ai/
 - https://www.napbots.com/
+- https://robuxio.com/
 - https://3c.crypttops.com/
 - https://www.shrimpy.io/
 - https://www.xorstrategy.com/

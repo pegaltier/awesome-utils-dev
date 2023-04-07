@@ -55,6 +55,7 @@
 
 ## DEVTOOLS
 - https://github.com/formium/tsdx
+- https://github.com/unjs/magicast
 - https://github.com/phero-hq/phero
 - https://github.com/Microsoft/tsdoc
 - https://github.com/cevek/ttypescript
