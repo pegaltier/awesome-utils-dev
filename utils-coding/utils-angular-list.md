@@ -737,6 +737,7 @@ Learn the reactive programming using rxjs.
 Learn everything about the change detection with or without zone.js.
 
 - https://www.youtube.com/watch?v=tWy8zaWvkvk Why use OnPush in Angular? Not for performance...
+- https://www.youtube.com/watch?v=eNuMUslF8Bw Simplified Courses - Angular change detection
 - https://chriskohler.dev/angular-change-detection-infographic
 - https://github.com/waynegakuo/angular-change-detection
 - https://github.com/Mokkapps/angular-change-detection-demo
