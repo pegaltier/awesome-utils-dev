@@ -11,7 +11,8 @@
 - Stephane Ceaux-Dutheil
 
 ## AUTOMATED
-- https://www.quantifiedstrategies.com/trading-strategies/
+- https://www.quantifiedstrategies.com/
+- https://www.bluecapitaltrading.com/
 
 ## DIARY
 
@@ -116,6 +117,13 @@
 ## Strat: Rsi
 - When RSI goes below 45 on a daily timeframe it's bearish. (below 30 hyper bearish but also expect big reverse)
 - When RSI goes above 55 on a daily timeframe it's bullish. (above 70 hyper bullish but also expect big reverse)
+
+## Strat: Breakout
+- https://www.youtube.com/watch?v=r7gzyEnPTwg Breakout Trading using the Richard Donchian Channel strategy
+- this system inspired many strategies like the turle trader
+- buy breakout meanining buy when close of today is higher than the high of X days (X can be 10/20/50)
+- sell when price close below the low of Y days (Y is generally shorter than X above) (Y can be 7/10/20)
+- according to Joachim Moser it's more profitable buy retest of breakout using another algorithm. buy when we did new high in the last X days and when RSI 7 periods < 20 or 30. it means there is a retest.
 
 ## Strat: bollinger bands: width
 
