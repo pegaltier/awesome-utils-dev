@@ -246,14 +246,11 @@
 - https://github.com/browserslist/browserslist-useragent
 - https://github.com/krisk/Fuse
 - https://github.com/Hexagon/croner
-- https://github.com/jonschlinkert/clone-deep
 - https://github.com/EricSmekens/jsep
 - https://github.com/unjs/consola
 - https://github.com/kentcdodds/match-sorter
 - https://github.com/blitz-js/superjson
 - https://github.com/json5/json5
-- https://github.com/wmertens/jsurl2
-- https://github.com/simov/slugify
 - https://github.com/nuxt-contrib/consola
 - https://github.com/faisalman/ua-parser-js
 - https://github.com/Jimbly/timezone-mock
@@ -281,7 +278,6 @@
 - https://github.com/danrevah/segal-decorators
 - https://github.com/mgechev/data-adapter
 - https://github.com/francisrstokes/super-expressive
-- https://github.com/unshiftio/url-parse
 - https://github.com/stalniy/casl
 - https://github.com/nas5w/combinate
 - https://github.com/vvo/tzdb/
@@ -356,6 +352,12 @@
 - https://github.com/xxczaki/light-date
 - https://github.com/duetds/date-picker
 - https://github.com/spencermountain/spacetime
+
+## LIB: URL
+- https://github.com/unshiftio/url-parse
+- https://github.com/wmertens/jsurl2
+- https://github.com/simov/slugify
+- https://github.com/unjs/ufo
 
 ## LIB: PARSER
 - https://github.com/Essent/nativescript-xml2js
@@ -460,7 +462,6 @@
 - https://github.com/matthewp/robot
 - https://github.com/grid-js/gridjs
 - https://github.com/YC/coming-soon
-- https://github.com/immerjs/immer
 - https://github.com/mikecao/umami
 - https://github.com/angus-c/just
 - https://github.com/xdan/jodit
@@ -554,6 +555,8 @@
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js
 - https://github.com/immutable-js/immutable-js
+- https://github.com/jonschlinkert/clone-deep
+- https://github.com/immerjs/immer
 
 ## LIB: DATA ENCODING
 - https://github.com/openpgpjs/openpgpjs

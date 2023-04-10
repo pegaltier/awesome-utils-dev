@@ -312,7 +312,9 @@ forgeries in NFTs, meta data...
 - https://www.premint.xyz
 - https://airdrop.anyo.io
 - https://fioprotocol.io
+- https://nftwatcher.net
 - https://www.niftex.org
+- https://creaticles.com
 - https://rollapp.store
 - https://www.uniqly.io
 - https://artcentral.io
