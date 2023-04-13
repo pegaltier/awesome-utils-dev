@@ -138,6 +138,13 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 
 - https://raposa.trade/blog/4-simple-strategies-to-trade-bollinger-bands/
 
+## Strat: bollinger bands: squeeze and expansion
+
+- For entry, we will use a break out of the Upper Band > Daily candle closes above Bollinger Bands (20, 2) and For exit: Daily candle closes below the 20-day moving average.
+- To measure volatility we can use the difference between the upper and the lower band of the indicator.  The larger the difference, the higher the volatility and vice versa. Use it to add a filter: We take a 100 day moving average of the difference between the upper and lower band and compare it to the difference on the day of a potential breakout. for instance today's difference between the upper and lower bands is 50% higher than the average difference over the last 100 days. This means that the market is really volatile, indeed once volatility arises, tends to continue to rise. So it is worth betting on this increase and trading breakouts.
+- So this filter probably works. We can verify it by reversing the condition. We will only enter if today's difference is 30% lower than the 100-day average. to confirm your assumption this should mae the results worse than with no filter and also worse than with high volat flter.
+- Pavel | Robuxio https://twitter.com/PKycek/status/1646482934201720835?s=20
+
 ## Strat: Vix
 - buy SP500 when VIX closes above 30 and sell when VIX closes below 20. = +25% in 2022
 - buy SP500 when VIX closes below 20 and sell when VIX closes above 30. = -33% in 2022
