@@ -1,5 +1,8 @@
 # AI
 
+## NEWS
+- https://github.com/osanseviero/ml_timeline
+
 ## TENSOR FIRE
 - https://tenso.rs/demos/fast-neural-style/
 - http://www.infoworld.com/article/3212884/machine-learning/machine-learning-comes-to-your-browser-via-javascript.html
@@ -22,7 +25,12 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
+- https://www.codewand.co/
+- https://www.codegpt.co/
+- https://open-assistant.io/fr
 - https://sitegpt.ai/
+- https://kissangpt.com/
+- https://huggingface.co/
 - https://avatarai.me/
 - https://photoai.com/
 - https://interiorai.com/
@@ -64,28 +72,44 @@
 - https://github.com/marqo-ai/marqo
 - https://github.com/mckaywrigley/chatbot-ui-lite
 - https://github.com/ShreyaR/guardrails
+- https://github.com/realminchoi/babyagi-ui
+- https://github.com/bdcorps/langchain-pdf-qa
 
 ## LIB: GPT
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
+- https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/sonnylazuardi/chat-ai-desktop
 - https://github.com/sindresorhus/quickgpt-meta
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/nomic-ai/gpt4all
+- https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/keijiro/AICommand
 - https://github.com/abacaj/chatgpt-backup
 
 ## LIB: LLM
+- https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
-- https://github.com/hwchase17/langchain
 - https://github.com/cocktailpeanut/dalai
+- https://github.com/hwchase17/langchain
+- https://github.com/nat/openplayground
 - https://github.com/eumemic/ai-legion
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/Stability-AI/StableLM
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+## LIB: TENSORFLOW
+- https://github.com/tensorflow/tensorboard
+- https://github.com/huggingface/transformers
+
+## LIB: BOT
+- https://github.com/baptisteArno/typebot.io
+
+## LIB: MODELS
+- https://github.com/huggingface/transformers
 
 ### LIST
 
@@ -107,13 +131,6 @@
 - https://beta.storymapr.com/users/sign_in
 - https://www.dover.io/tools/job-description-rewriter
 - https://philosopherai.com/philosopher/technology-5f713c
-
-## TENSORFLOW
-- https://github.com/tensorflow/tensorboard
-- https://github.com/huggingface/transformers
-
-## BOT
-- https://github.com/baptisteArno/typebot.io
 
 ## IMAGE
 

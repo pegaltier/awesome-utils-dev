@@ -17,6 +17,7 @@
 
 ## TOP TOOLS
 - https://solume.io
+- https://l2beat.com
 - https://vfat.tools
 - https://realtps.net
 - https://coin360.com

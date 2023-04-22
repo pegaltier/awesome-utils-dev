@@ -1,5 +1,7 @@
 # Javascript
 
+## SHORTHANDS
+- https://morioh.com/p/05414714e685?f=5c21fb01c16e2556b555ab32
 ## CONTEXT / SCOPES
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
 - https://www.w3schools.com/js/js_hoisting.asp

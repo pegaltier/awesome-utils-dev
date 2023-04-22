@@ -265,6 +265,7 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/DMezhenskyi/angular-template-outlet-example
 - https://github.com/ddd-crew/context-mapping
 - https://github.com/kamranahmedse/design-patterns-for-humans
+- https://www.patterns.dev/
 
 ## HELPER: CHEAT-SHEETS
 
@@ -1290,6 +1291,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://frint.js.org
 - https://www.mosaic9.org
 - https://single-spa.js.org
+- https://microfrontend.dev
 - https://micro-frontends.org
 - https://github.com/SAP/luigi
 - https://github.com/phodal/mooa
@@ -1856,6 +1858,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: ROUTING
 
 - https://github.com/Danevandy99/ngx-advanced-router (TOADD)
+- https://github.com/bespunky/angular-zen (TOADD)
 - https://github.com/ngspot/route-path-builder
 - https://github.com/angular-component/router
 - https://github.com/Dankwansere/aop-routing
@@ -1906,6 +1909,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/moribvndvs/ng2-idle
 - https://github.com/Tinkoff/ng-polymorpheus (TOADD)
 - https://github.com/manekinekko/angular-web-bluetooth  (TOADD)
+- https://github.com/bespunky/angular-zen (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment

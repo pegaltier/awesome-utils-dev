@@ -9,6 +9,7 @@
 - https://github.com/joschi/java-metadata
 - https://github.com/pragkirk/poma
 - https://www.libhunt.com/l/java
+- https://lescastcodeurs.com/
 
 ## EXPERIENCE
 - https://www.blackparrotlabs.io/post/architecture-pitfalls-dont-use-your-orm-entities-for-everything

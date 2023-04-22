@@ -66,6 +66,7 @@ forgeries in NFTs, meta data...
 - https://app.nftrade.com
 - https://stargaze.zone
 - https://openbisea.io
+- https://magiceden.io
 - https://tofunft.com
 - https://hodooi.com
 - https://meme.com
@@ -179,7 +180,6 @@ forgeries in NFTs, meta data...
 - https://airight.io/marketplace
 
 ## NFT SOL
-- https://magiceden.io
 - https://exchange.art
 - https://artrade.app
 - https://www.holaplex.com

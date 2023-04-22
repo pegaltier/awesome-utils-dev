@@ -57,6 +57,7 @@ low-code tooling to prototype fastly.
 - https://github.com/api-platform/api-platform
 - https://github.com/SoftwareBrothers/adminjs
 - https://github.com/HansSchouten/PHPageBuilder
+- https://github.com/webstudio-is/webstudio-builder
 - https://github.com/ultrasonicsoft/ng-application-builder
 
 ## lowcode
