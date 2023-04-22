@@ -214,7 +214,6 @@
 - https://github.com/sigp/lighthouse-metrics
 - https://github.com/docker-slim/docker-slim
 - https://github.com/jesseduffield/lazydocker
-- https://github.com/jesseduffield/lazydocker
 - https://github.com/leighmcculloch/dockerhost
 - https://github.com/ContainerSSH/ContainerSSH
 - https://github.com/tomMoulard/make-my-server
@@ -222,6 +221,7 @@
 - https://github.com/buildkite/docker-puppeteer
 - https://github.com/ufoscout/docker-compose-wait
 - https://github.com/geerlingguy/ansible-role-docker    
+- https://github.com/GoogleContainerTools/distroless
 - https://github.com/JeremyLikness/usda-microservice
 - https://github.com/devopstrainingblr/awesome-docker
 - https://github.com/felixfbecker/semantic-release-docker

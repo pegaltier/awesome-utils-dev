@@ -140,6 +140,7 @@
 - https://github.com/meganetaaan/react-moddable
 - https://github.com/hupe1980/react-script-hook
 - https://github.com/zthxxx/react-dev-inspector
+- https://github.com/aarondail/react-zoomable-ui
 - https://github.com/thedevelobear/react-rewards
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system

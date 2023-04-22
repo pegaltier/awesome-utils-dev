@@ -13,8 +13,10 @@
 
 ## Utils
 
+- https://github.com/chmln/sd
 - https://github.com/cheat/cheat
 - https://github.com/sharkdp/bat
+- https://github.com/nivekuil/rip
 - https://github.com/tldr-pages/tldr
 - https://github.com/ohmyzsh/ohmyzsh
 - https://github.com/natemoo-re/clack

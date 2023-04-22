@@ -139,6 +139,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/mjbrisebois/hc-zome-mere-memory
 - https://github.com/mjbrisebois/rust-hc-crud-caps
 - https://github.com/mjbrisebois/holochain-admin-client-js
+- https://github.com/mjbrisebois/mere-memory-sdk-js
 - https://github.com/mjbrisebois/js-holo-hash
 - https://github.com/mjbrisebois/rust-hc-crud-ceps
 - https://github.com/lightningrodlabs/dada

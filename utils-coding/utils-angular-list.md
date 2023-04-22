@@ -738,6 +738,7 @@ Learn everything about the change detection with or without zone.js.
 
 - https://www.youtube.com/watch?v=tWy8zaWvkvk Why use OnPush in Angular? Not for performance...
 - https://www.youtube.com/watch?v=eNuMUslF8Bw Simplified Courses - Angular change detection
+- https://blog.simplified.courses/angular-change-detection-explained-in-5-minutes/
 - https://chriskohler.dev/angular-change-detection-infographic
 - https://github.com/waynegakuo/angular-change-detection
 - https://github.com/Mokkapps/angular-change-detection-demo
@@ -1711,8 +1712,13 @@ Learn the best way to make your objects immutable.
 - https://angular-2-training-book.rangle.io/immutable/immutable-js/official_documentation
 
 
-## ECOSYSTEM: LIB: LINT
+## ECOSYSTEM: LIB: PRETTIER
+- https://github.com/NiklasPor/prettier-plugin-organize-attributes
+- https://github.com/trivago/prettier-plugin-sort-imports
+- https://github.com/prettier/tslint-config-prettier
+- https://github.com/yoavbls/pretty-ts-errors
 
+## ECOSYSTEM: LIB: LINT
 - https://github.com/stylelint/stylelint
 - https://github.com/htmlhint/HTMLHint
 - https://github.com/palantir/tslint
@@ -1733,14 +1739,12 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/import-js/eslint-plugin-import
-- https://github.com/prettier/tslint-config-prettier
 - https://github.com/xojs/eslint-config-xo-typescript
 - https://github.com/aotaduy/eslint-plugin-spellcheck
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://github.com/cartant/eslint-plugin-rxjs-angular
 - https://github.com/sindresorhus/eslint-plugin-unicorn
 - https://github.com/typescript-eslint/typescript-eslint
-- https://github.com/trivago/prettier-plugin-sort-imports
 - https://github.com/MarkKragerup/weblint-eslint-security
 - https://github.com/cyrilletuzi/typescript-strictly-typed
 - https://github.com/lydell/eslint-plugin-simple-import-sort
@@ -1749,7 +1753,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/danielnixon/eslint-plugin-total-functions
 - https://github.com/stormwarning/stylelint-config-recess-order
 - https://github.com/constverum/stylelint-config-rational-order
-- https://github.com/NiklasPor/prettier-plugin-organize-attributes
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
 - http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript
 - https://timdeschryver.dev/blog/migrating-a-tslint-rule-to-eslint-with-typescript-eslint
@@ -2711,7 +2714,10 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://abp.io/
 
 ## ECOSYSTEM: DEMO: EXPERIMENT
-
+- https://github.com/IRobot1/ng3-cannon-template
+- https://github.com/hoebbelsB/ng-contextual-state
+- https://github.com/JiaLiPassion/scoped-zone-sample
+- https://github.com/joshuamorony/ng-template-outlet-example
 
 ## ECOSYSTEM: DEMO: TRAINING
 - https://github.com/nrwl/nx-workshop
@@ -2746,13 +2752,10 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone
 - https://github.com/ngiakhanh96/angular-youtube
-- https://github.com/IRobot1/ng3-cannon-template
 - https://github.com/wszgrcy/angular-miniprogram
-- https://github.com/hoebbelsB/ng-contextual-state
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/benlesh/add-features-with-rxjs
 - https://github.com/stefanoslig/xstate-angular-demo
-- https://github.com/JiaLiPassion/scoped-zone-sample
 - https://github.com/appwrite/demo-todo-with-angular
 - https://github.com/gitropolis/gitropolis-nx-angular
 - https://github.com/nikosanif/angular-authentication

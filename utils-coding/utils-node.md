@@ -7,7 +7,6 @@
 - https://github.com/i0natan/nodebestpractices
 - https://github.com/microsoft/nodejs-guidelines
 - https://github.com/goldbergyoni/nodebestpractices
-- https://github.com/lirantal/nodejs-cli-apps-best-practices
 - https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
 - https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6
 - https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
@@ -16,6 +15,7 @@
 
 - https://github.com/frehner/modern-guide-to-packaging-js-library
 - https://github.com/coreybutler/nvm-windows
+- https://github.com/web-infra-dev/modern.js
 - https://github.com/time-loop/only-allow
 - https://github.com/ije/esm.sh
 - https://github.com/nvm-sh/nvm
@@ -43,8 +43,6 @@
 - https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
 - https://github.com/adisreyaj/cartella-web
-- https://github.com/sindresorhus/trash-cli
-- https://github.com/sindresorhus/fkill-cli
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/sindresorhus/is-docker
 - https://github.com/coderhammer/backhooks
@@ -89,7 +87,6 @@
 - https://github.com/panva/node-oidc-provider
 - https://github.com/log4js-node/log4js-node
 - https://github.com/microsoft/playwright
-- https://github.com/arcanis/clipanion
 - https://github.com/sindresorhus/got
 - https://github.com/expressjs/multer
 - https://github.com/ai/nanocolors
@@ -123,8 +120,18 @@
 - https://github.com/twinlogix/typetta
 - https://github.com/w3tecch/typeorm-seeding
 
-## LIBS: INSTALL
+## LIBS: CLI
+- https://github.com/arcanis/clipanion
+- https://github.com/npkgz/cli-progress
+- https://github.com/sindresorhus/trash-cli
+- https://github.com/sindresorhus/fkill-cli
+- https://docs.npmjs.com/cli/ci.html
+- https://github.com/lirantal/nodejs-cli-apps-best-practices
+- https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
+
+## LIBS: INSTALL / COMPILE
 - https://github.com/vercel/pkg
+- https://github.com/vercel/ncc
 - https://github.com/electron/electron-packager
 
 ## LIBS: GAME
@@ -166,11 +173,6 @@
 - https://github.com/sequelize/sequelize
 - https://github.com/strongloop/loopback-next
 - https://github.com/deepkit/deepkit-framework
-
-## CLI
-
-- https://docs.npmjs.com/cli/ci.html
-- https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
 
 ## STARTER
 - https://github.com/bezkoder/node-js-mssql-crud-example

@@ -68,7 +68,10 @@
 ## LIB: GPT
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
+- https://github.com/sonnylazuardi/chat-ai-desktop
+- https://github.com/sindresorhus/quickgpt-meta
 - https://github.com/vincelwt/chatgpt-mac
+- https://github.com/nomic-ai/gpt4all
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/keijiro/AICommand
 - https://github.com/abacaj/chatgpt-backup
@@ -77,8 +80,10 @@
 - https://github.com/facebookresearch/llama
 - https://github.com/hwchase17/langchain
 - https://github.com/cocktailpeanut/dalai
+- https://github.com/eumemic/ai-legion
 
 ## LIB: STABLE DIFFUSION
+- https://github.com/Stability-AI/StableLM
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 

@@ -151,6 +151,10 @@
 - https://www.docusign.com
 - https://www.universign.com
 
+## AUTH
+- https://github.com/logto-io/logto
+- https://github.com/auth0/auth0-spa-js
+
 ## GATEWAY
 - https://github.com/Kong/kong
 - https://github.com/luraproject/lura
