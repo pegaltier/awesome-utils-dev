@@ -740,6 +740,7 @@ Learn everything about the change detection with or without zone.js.
 - https://www.youtube.com/watch?v=tWy8zaWvkvk Why use OnPush in Angular? Not for performance...
 - https://www.youtube.com/watch?v=eNuMUslF8Bw Simplified Courses - Angular change detection
 - https://blog.simplified.courses/angular-change-detection-explained-in-5-minutes/
+- https://blogs.halodoc.io/understanding-angular-change-detection-strategy/
 - https://chriskohler.dev/angular-change-detection-infographic
 - https://github.com/waynegakuo/angular-change-detection
 - https://github.com/Mokkapps/angular-change-detection-demo
@@ -937,6 +938,7 @@ Learn everything about angular universal, make a good SEO.
 ## CORE: SIGNALS
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
+- https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
 - https://github.com/jordanpowell88/angular-counter (cypress)
 - https://github.com/eneajaho/ngx-signal-experimental
@@ -1216,12 +1218,13 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
 - https://github.com/ultimatecourses/lite-store
+- https://stately.ai/
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/ChrisShank/xstate-behaviors
 - https://github.com/iliasbhal/xstate-builder
+- https://github.com/mattpocock/xstate-catalogue
 - https://github.com/angularconsulting/rx-service
 - https://github.com/ngfelixl/reactive-entity-store
-- https://github.com/mattpocock/xstate-catalogue
 - https://github.com/TanStack/query
 - https://github.com/drivly/state.do
 - https://github.com/markostanimirovic/juliette
@@ -2026,6 +2029,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/briebug/jest-schematic
 - https://github.com/bennymeg/nx-electron
 - https://github.com/Teebo/scss-migrate
+- https://github.com/Tinkoff/ng-morph
 - https://github.com/ngxs/schematics
 - https://github.com/ngneat/tailwind
 - https://github.com/ngneat/scam

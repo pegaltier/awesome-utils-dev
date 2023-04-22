@@ -28,6 +28,7 @@
 - https://www.codewand.co/
 - https://www.codegpt.co/
 - https://open-assistant.io/fr
+- https://www.headshotpro.com/
 - https://sitegpt.ai/
 - https://kissangpt.com/
 - https://huggingface.co/
@@ -81,6 +82,11 @@
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/sonnylazuardi/chat-ai-desktop
 - https://github.com/sindresorhus/quickgpt-meta
+- https://github.com/anc95/ChatGPT-CodeReview
+- https://github.com/muellerberndt/micro-gpt
+- https://github.com/lgrammel/js-agent
+- https://github.com/dion-/autoheal
+- https://github.com/reworkd/AgentGPT
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/nomic-ai/gpt4all-ui

@@ -49,6 +49,7 @@ Publish to Google Play for beta testing or public distribution.
 - https://github.com/klippa-app/nativescript-http
 - https://github.com/nstudio/nativescript-ui-kit
 - https://github.com/VanderSP/NSCanvasCyberDemo
+- https://github.com/OpenNative/open-native
 - https://github.com/NativeScript/nx
 
 ## EXAMPLE

@@ -17,6 +17,7 @@
 
 - https://github.com/RustScan/RustScan
 - https://github.com/tauri-apps/tauri
+- https://github.com/BloopAI/bloop
 - https://github.com/mit-pdos/noria
 - https://github.com/riker-rs/riker
 - https://github.com/rxRust/rxRust
