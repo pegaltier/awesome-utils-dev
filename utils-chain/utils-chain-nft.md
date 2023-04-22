@@ -49,6 +49,7 @@ forgeries in NFTs, meta data...
 - https://pianity.com
 - https://www.realfevr.com
 - https://www.glorious.digital
+- https://ordinalswallet.com
 - https://bandroyalty.com
 - https://autograph.io
 - https://toonft.com
@@ -74,6 +75,7 @@ forgeries in NFTs, meta data...
 
 ### NFT ETH
 - https://ethblock.art/
+- https://market.zora.co/
 - https://blur.io/
 - https://nftx.io
 

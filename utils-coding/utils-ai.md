@@ -27,6 +27,7 @@
 ## TOOLS
 - https://www.codewand.co/
 - https://www.codegpt.co/
+- https://generateurdetexte.com/
 - https://open-assistant.io/fr
 - https://www.headshotpro.com/
 - https://sitegpt.ai/
