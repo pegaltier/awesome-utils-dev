@@ -25,6 +25,7 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
+- https://www.d-id.com/
 - https://www.codewand.co/
 - https://www.codegpt.co/
 - https://generateurdetexte.com/
@@ -102,6 +103,7 @@
 - https://github.com/hwchase17/langchain
 - https://github.com/nat/openplayground
 - https://github.com/eumemic/ai-legion
+- https://github.com/microsoft/JARVIS
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/Stability-AI/StableLM
