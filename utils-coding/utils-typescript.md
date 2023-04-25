@@ -339,7 +339,20 @@ type Values<T> = T[keyof T];
 ## IMPORTS PATH
 
 Imports within the same entry-point have to be relative, otherwise they would be considered to import from an external package/entry-point. On the other hand, imports into other entry-points must never be relative. If these rules are not followed, you run into all sorts of issues. Conceptually, this difference is essential to be able to look at an import and know where it is resolved from (i.e. whether it crosses an entry-point boundary or not) TypeScript path mappings shouldn't be used to make imports cleaner, shorter, sexier or whatever adjective you want to use. But rather used to resolve dependencies at design time that would otherwise not be automatically resolved, which is what it was designed for.
- 
+
+## COURSES
+
+- https://www.youtube.com/watch?v=Fgcu_iB2X04 Utility Types - Advanced TypeScript
+- https://www.youtube.com/watch?v=RjQpep8fBdo Mapped Types - Advanced TypeScript
+- https://www.youtube.com/watch?v=QFWrbNehKk0 Conditionnal Types - Advanced TypeScript
+- https://www.youtube.com/watch?v=V6eHIvwDFP4 Revealing the TypeScript Magic behind NgRx APIs
+- https://www.youtube.com/watch?v=aSMCYbOxgkc Advanced TypeScript Type Utilities - Basarat Ali Syed
+- https://www.youtube.com/watch?v=kTKYpkLb3u8 Indexed Access Types (Lookup Types) in TypeScript (plus keyof and generics)
+- https://www.youtube.com/watch?v=FEeEItMtDwg TypeScript Type Guards Explained
+- https://www.youtube.com/watch?v=DmvOmjjH2Fk Function overloading
+- https://www.youtube.com/watch?v=3fXpL1O3epw TypeScript Enums Explained
+- https://www.youtube.com/watch?v=t0qQSujSslQ How to use generics in TypeScript
+
 ## START 
 ```
 npm install -g typescript 

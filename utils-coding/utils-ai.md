@@ -87,15 +87,16 @@
 - https://github.com/sindresorhus/quickgpt-meta
 - https://github.com/anc95/ChatGPT-CodeReview
 - https://github.com/muellerberndt/micro-gpt
-- https://github.com/lgrammel/js-agent
-- https://github.com/dion-/autoheal
-- https://github.com/reworkd/AgentGPT
-- https://github.com/vincelwt/chatgpt-mac
-- https://github.com/nomic-ai/gpt4all
-- https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/RomanHotsiy/commitgpt
-- https://github.com/keijiro/AICommand
 - https://github.com/abacaj/chatgpt-backup
+- https://github.com/vincelwt/chatgpt-mac
+- https://github.com/nomic-ai/gpt4all-ui
+- https://github.com/keijiro/AICommand
+- https://github.com/lgrammel/js-agent
+- https://github.com/nomic-ai/gpt4all
+- https://github.com/reworkd/AgentGPT
+- https://github.com/xtekky/gpt4free
+- https://github.com/dion-/autoheal
 
 ## LIB: LLM
 - https://github.com/Lightning-AI/lit-llama
