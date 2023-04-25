@@ -118,6 +118,7 @@
 ## LIBS: DB
 - https://github.com/ndaidong/flat-db
 - https://github.com/twinlogix/typetta
+- https://github.com/microlinkhq/keyvhq
 - https://github.com/w3tecch/typeorm-seeding
 
 ## LIBS: CLI

@@ -936,11 +936,13 @@ Learn everything about angular universal, make a good SEO.
 - https://stackoverflow.com/questions/53677419/add-static-pre-rendering-to-ng-add-nguniversal-express-engine
 
 ## CORE: SIGNALS
+
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
 - https://github.com/jordanpowell88/angular-counter (cypress)
+- https://github.com/jorgeucano/ngx-angular-migration-signal-helper
 - https://github.com/eneajaho/ngx-signal-experimental
 - https://github.com/timdeschryver/ng-signal-forms
 - https://github.com/code-with-ahsan/ng-signals-wishlist

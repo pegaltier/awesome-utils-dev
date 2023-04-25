@@ -159,6 +159,7 @@
 
 ## TOOLS: BUILD
 - https://github.com/evanw/esbuild
+- https://github.com/guybedford/es-module-shims
 - https://github.com/egoist/esbuild-register
 
 ## FRAMEWORK: FRONTEND
