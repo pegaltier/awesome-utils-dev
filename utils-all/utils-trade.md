@@ -283,6 +283,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tradewell.app/
 - https://strategyquant.com/
 - https://capitalise.ai/
+- https://crypto-ml.com/
 - https://www.tuned.com/
 - https://raposa.trade/
 - https://www.mida.org/
@@ -313,11 +314,14 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 - https://aleeert.com/
+- https://www.webhookser.com
+- https://www.stalexbot.com/
 - https://tradingview.to/
 - https://www.tv-hub.org/
 - https://alertatron.com/
 - https://alertzmanager.io/
 - https://wundertrading.com
+- https://webhookbot.net
 
 ## METATRADER
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
@@ -352,9 +356,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ### OSS: QUALITY
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
+- https://github.com/binance/binance-api-postman
 - https://github.com/hummingbot/hummingbot
 - https://github.com/freqtrade/freqtrade
 - https://github.com/jesse-ai/jesse
+- https://github.com/jaggedsoft/php-binance-api
+- https://github.com/jaggedsoft/node-binance-api
 - https://github.com/Reiryoku-Technologies/Mida
 - https://github.com/Reiryoku-Technologies/Mida-Playground
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
@@ -368,9 +375,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/pAulseperformance/awesome-pinescript
 - https://github.com/alleyway/add-tradingview-alerts-tool
 - https://github.com/brian-the-dev/python-tradingview-ta
+- https://github.com/robswc/tradingview-webhooks-bot
 - https://github.com/fundingrate/tradingview-webhooks
+- https://github.com/bevry-trading/automated-trading
 - https://github.com/tradingview/pine_script_docs
 - https://github.com/akilibots/akili-tradingview
+- https://github.com/Mathieu2301/TradingView-API
 - https://github.com/nileio/TV_strategynotifier
 - https://github.com/ExchangeDyn/webhook-trader
 - https://github.com/ottodevs/instabot-trader
