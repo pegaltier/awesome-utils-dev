@@ -3,6 +3,7 @@
 - https://daml.com/
 - https://peerjs.com/
 - https://libre.space/
+- https://dwebcamp.org/
 - http://blog.mauve.moe/
 - https://fosdem.org/2022/
 - https://decentpatterns.xyz/
