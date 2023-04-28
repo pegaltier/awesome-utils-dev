@@ -34,6 +34,7 @@ forgeries in NFTs, meta data...
 - https://market.x.immutable.com
 - https://marketplace.draftkings.com
 - https://beta.catalog.works
+- https://kollection.app
 - https://infinity.xyz
 - https://scarce.city
 - https://tokapi.com
@@ -317,6 +318,7 @@ forgeries in NFTs, meta data...
 - https://nftwatcher.net
 - https://www.niftex.org
 - https://creaticles.com
+- https://vera.financial
 - https://rollapp.store
 - https://www.uniqly.io
 - https://artcentral.io

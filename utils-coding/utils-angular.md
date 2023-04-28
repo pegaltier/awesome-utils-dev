@@ -280,6 +280,12 @@ In the workspace config file you will find different level of nested configurat
 - An executor (called builders in angular) is a function (with some metadata) that executes a command, indeed it tells Nx what to do when you run say nx test lib. The metadata piece is crucial. This is what tells Nx how to validate params and set defaults, what to cache, and so forth.
 - A task is an invocation of a target. If you invoke the same target twice, you create two tasks.
 
+### LIBS
+
+- configurable (ts config, strict checks)
+- reusable (can be used in multiple projecs)
+- buildable (or not, if yes build is cacheable)
+- cacheable (or not, lint, test, build is cacheable)
 
 ### INSTALL
 

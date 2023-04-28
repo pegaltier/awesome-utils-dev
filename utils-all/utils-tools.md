@@ -69,6 +69,9 @@
 - https://github.com/ProxymanApp/Proxyman
 - https://github.com/Infisical/infisical
 
+## OSS: COLLABORATE
+- https://github.com/calcom/cal.com
+
 # Web
 - https://github.com/iamadamdev/bypass-paywalls-chrome
 

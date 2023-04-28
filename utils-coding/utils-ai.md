@@ -28,6 +28,10 @@
 - https://www.d-id.com/
 - https://www.codewand.co/
 - https://www.codegpt.co/
+- https://stability.ai/
+- https://clipdrop.co/
+- https://theforgeai.com/
+- https://www.chatpdf.com/
 - https://generateurdetexte.com/
 - https://open-assistant.io/fr
 - https://www.headshotpro.com/
@@ -78,6 +82,9 @@
 - https://github.com/ShreyaR/guardrails
 - https://github.com/realminchoi/babyagi-ui
 - https://github.com/bdcorps/langchain-pdf-qa
+- https://github.com/Jun-CEN/SegmentAnyRGBD
+- https://github.com/google-research/jaxpruner
+- https://github.com/deepdoctection/deepdoctection
 
 ## LIB: GPT
 - https://github.com/openai/chatgpt-retrieval-plugin
@@ -108,6 +115,7 @@
 - https://github.com/microsoft/JARVIS
 
 ## LIB: STABLE DIFFUSION
+- https://github.com/deep-floyd/IF
 - https://github.com/Stability-AI/StableLM
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui

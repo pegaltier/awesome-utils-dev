@@ -132,6 +132,7 @@
 ## ALL PODCAST
 - https://evolvement.io/
 - https://offthechain.libsyn.com/
+- https://rektradio.buzzsprout.com/
 - https://www.buzzsprout.com/1851524
 - https://www.delphidigital.io/podcasts/
 

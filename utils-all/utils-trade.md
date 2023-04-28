@@ -355,6 +355,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ### OSS: QUALITY
 - https://github.com/OpenBB-finance/OpenBBTerminal
+- https://github.com/derekcheungsa/autogpt-openbb-sdk
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/binance/binance-api-postman
 - https://github.com/hummingbot/hummingbot
