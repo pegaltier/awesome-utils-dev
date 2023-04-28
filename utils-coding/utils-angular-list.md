@@ -434,9 +434,10 @@ Annotations...
 
 ## CORE: CONFIGURATION
 
-env files...
+env files, config files at runtime, switch services at runtime...
 
 - https://dev.to/angular/compile-time-vs-runtime-configuration-of-your-angular-app-15f2
+- https://medium.com/javascript-everyday/config-based-service-implementation-in-angular-ff39ac2a7f04
 - https://medium.com/@hasan.hameed/reading-configuration-files-in-angular-2-9d18b7a6aa4#.4tvv0tgh5
 
 ## CORE: BUILD
@@ -855,6 +856,9 @@ Learn about the angular router, lazy load your modules.
 
 ## CORE: LAZY
 
+- https://stackblitz.com/edit/lazy-inject?file=src%2Fmain.ts
+- https://stackblitz.com/edit/angular-njrzeo
+- https://itnext.io/lazy-loading-services-in-angular-what-yes-we-can-cfbaf586d54e
 - https://dev.to/humberd/angular-architecture-lazy-loaded-dialogs-59di
 - https://github.com/Humberd/lazy-loaded-dialogs-in-angular
 - https://stackoverflow.com/questions/46240293/how-to-lazyload-library-in-angular-4-module
@@ -940,6 +944,7 @@ Learn everything about angular universal, make a good SEO.
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
+- https://marmicode.io/blog/managing-rxjs-traffic-with-signals?b=3
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
 - https://github.com/jordanpowell88/angular-counter (cypress)
 - https://github.com/jorgeucano/ngx-angular-migration-signal-helper
