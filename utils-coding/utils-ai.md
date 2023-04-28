@@ -35,6 +35,7 @@
 - https://generateurdetexte.com/
 - https://open-assistant.io/fr
 - https://www.headshotpro.com/
+- https://www.midjourney.org/
 - https://sitegpt.ai/
 - https://kissangpt.com/
 - https://huggingface.co/

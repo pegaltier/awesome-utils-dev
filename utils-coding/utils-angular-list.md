@@ -1920,6 +1920,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Tinkoff/ng-polymorpheus (TOADD)
 - https://github.com/manekinekko/angular-web-bluetooth  (TOADD)
 - https://github.com/bespunky/angular-zen (TOADD)
+- https://github.com/myndpm/open-source (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -2622,7 +2623,6 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/oblique-bit/oblique
 - https://github.com/SAP/fundamental-ngx
 - https://github.com/dxc-technology/halstack-angular
-- https://github.com/DevExpress/devextreme-angular
 - https://github.com/kirbydesign/designsystem
 - https://github.com/positive-js/mosaic
 - https://github.com/src-zone/material
@@ -2636,9 +2636,9 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Promact/md2
 - https://github.com/alauda/alauda-ui
 - https://github.com/atinc/ngx-tethys
-- https://github.com/DevExpress/devextreme-angular (TOADD)
-- https://github.com/syncfusion/ej2-angular-ui-components (TOADD)
-- https://github.com/digipolisantwerp/antwerp-ui_angular (TOADD)
+- https://github.com/DevExpress/devextreme-angular
+- https://github.com/syncfusion/ej2-angular-ui-components
+- https://github.com/digipolisantwerp/antwerp-ui_angular
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -3319,8 +3319,3 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html#injectiontoken-since-angular-4x
 - http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes/
 - https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
-
-## TOSYNC
-- https://github.com/myndpm/open-source
-- https://github.com/johnpapa/angular-what-if
-- https://github.com/DevExpress/devextreme-angular
