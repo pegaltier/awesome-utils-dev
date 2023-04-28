@@ -40,7 +40,7 @@
 8. read the positive and negative (confirmation biasis)
 9. do not listen others people (your own opinion is the most)
 10. diversification (10 cryptos + 10 stocks (better to use ETF))
-11. mean reversing / https://wealth-lab.com/Strategy/DesignPublished?strategyID=51
+11. be consistant over the long term, good health, wake up early, eat clea, do sport, it will be your best hedge against others people
 
 
 ## COMMON STRATEGY
@@ -154,7 +154,9 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - Take std dev of the ATR for 50 days and divide by std dev of the last 200 days
 - If less than 5 then buy limit at todays low minus the ATR 5 * 0.5
 - Exit at close, apply to all US stocks in uptrend above 20$ and with t/o > 300k
-- other mean reversion: https://www.quantifiedstrategies.com/3-free-mean-reversion-trading-strategies/
+- other mean reversion: 
+- https://www.quantifiedstrategies.com/3-free-mean-reversion-trading-strategies/
+- https://wealth-lab.com/Strategy/DesignPublished?strategyID=51
 
 ## Strat: Trend following by Laurens Bensdorp
 - Liquidity: only very liquid stocks
