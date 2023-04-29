@@ -71,6 +71,7 @@
 
 ## OSS: COLLABORATE
 - https://github.com/calcom/cal.com
+- https://github.com/onetimesecret/onetimesecret
 
 # Web
 - https://github.com/iamadamdev/bypass-paywalls-chrome

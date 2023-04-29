@@ -944,6 +944,7 @@ Learn everything about angular universal, make a good SEO.
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
+- https://ng-journal.com/blog/2023-04-25-signals-and-the-rxjs-interop/
 - https://marmicode.io/blog/managing-rxjs-traffic-with-signals?b=3
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
 - https://github.com/jordanpowell88/angular-counter (cypress)
@@ -1371,6 +1372,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://leanpub.com/enterprise-angular
 - https://leanpub.com/angular-architecture-the-unofficial-guide
 - https://github.com/alan-agius4/ng-mono-repo-starter
+- https://github.com/HaasStefan/nx-giant
 - https://github.com/microsoft/rushstack
 - https://nstudio.io/xplat
 - https://nxpm.dev/
