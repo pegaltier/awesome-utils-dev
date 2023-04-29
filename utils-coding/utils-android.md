@@ -103,6 +103,7 @@ zipalign (optimize RAM) :
 - https://github.com/ax/apk.sh
 - https://github.com/skylot/jadx
 - https://www.pnfsoftware.com/jeb/
+- https://github.com/0x192/universal-android-debloater
 - https://github.com/doridori/Android-Security-Reference
 - https://android-developers.googleblog.com/2016/06/security-crypto-provider-deprecated-in.html
 - https://stackoverflow.com/questions/6788018/android-encryption-decryption-with-aes?rq=1

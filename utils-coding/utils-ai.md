@@ -112,6 +112,7 @@
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/hwchase17/langchain
 - https://github.com/nat/openplayground
+- https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/microsoft/JARVIS
 
@@ -120,6 +121,9 @@
 - https://github.com/Stability-AI/StableLM
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+## LIB: PREDICTION
+- https://github.com/unit8co/darts
 
 ## LIB: TENSORFLOW
 - https://github.com/tensorflow/tensorboard

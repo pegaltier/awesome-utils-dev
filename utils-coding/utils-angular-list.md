@@ -406,6 +406,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
 - https://indepth.dev/are-you-using-scss-properly/
 - https://github.com/push-based/angular-movies-audits
+- https://github.com/push-based/awesome-web-performance-snippets
 - https://github.com/push-based/css-contain-and-content-visibility-research
 - https://github.com/mgechev/angular-performance-checklist
 - http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/
@@ -1683,6 +1684,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/enten/udk
 - https://github.com/angular/preboot
 - https://github.com/analogjs/analog
+- https://github.com/goetzrobin/spartan
 - https://github.com/salemdar/ngx-cookie
 - https://github.com/ngx-utils/cookies
 - https://github.com/aescarcha/cookies
@@ -2721,6 +2723,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/cisstech/nge-ide
 - https://github.com/ng-alain/delon
 - https://github.com/analogjs/analog
+- https://github.com/goetzrobin/spartan
 - https://github.com/akveo/ngx-admin
 - https://github.com/scullyio/scully
 - https://github.com/truenas/webui
@@ -2796,6 +2799,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 - https://github.com/fulls1z3/universal
 - https://github.com/nxpm/nxpm-universal
+- https://github.com/goetzrobin/spartan
 - https://github.com/eneajaho/angular-isr
 - https://github.com/enten/angular-universal
 - https://github.com/TrilonIO/universal-nest
