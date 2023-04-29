@@ -9,6 +9,7 @@
 - David Bergstrom https://www.buildalpha.com/
 - Nick Radge https://www.thechartist.com.au/
 - Stephane Ceaux-Dutheil
+- Brian Shannon
 
 ## AUTOMATED
 - https://www.quantifiedstrategies.com/

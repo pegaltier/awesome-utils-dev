@@ -887,6 +887,11 @@ console.timeEnd('test2);
 
 ### CIRCULAR DEPENDENCIES
 
+There are  different kinds of circular dependencies
+- NX libs (via barrel import)
+- typescript files (local imports detected via madge: npx madge --circular --extensions ts ./ correctable via the index.js and internal.js pattern proposed by Michel Weststrate)
+- angular services (highlighted by the use from the barrel import, using the wildcard should hide this type) (Warning: Circular dependency detected: in terminal and console) (build.options. "showCircularDependencies": false,)
+
 Can be caused by:
 - wrong usage of barrel imports. IE: imports inside a module must be relative and outside module must use the barrel reference
 - wrong usage of services. IE: usage inside the constructor of others services which are mutually linked.

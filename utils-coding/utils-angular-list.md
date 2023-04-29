@@ -1680,6 +1680,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/IKatsuba/ngx-ssr
 - https://github.com/enten/udk
 - https://github.com/angular/preboot
+- https://github.com/analogjs/analog
 - https://github.com/salemdar/ngx-cookie
 - https://github.com/ngx-utils/cookies
 - https://github.com/aescarcha/cookies

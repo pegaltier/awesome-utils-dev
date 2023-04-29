@@ -353,6 +353,21 @@ Imports within the same entry-point have to be relative, otherwise they would 
 - https://www.youtube.com/watch?v=3fXpL1O3epw TypeScript Enums Explained
 - https://www.youtube.com/watch?v=t0qQSujSslQ How to use generics in TypeScript
 
+### UTILITY TYPES
+
+Utility types used to create a new type based on an original type, they are also called transformation types. 
+-Partial<T> returns a new type with all the properties of the T interface optionals.
+-Required<T> returns a new type with all the properties of the T interface required. 
+-Readonly<T> returns a new type with all the properties of the T interface readonly.
+-Pick<T> returns a new type with only the picked properties of the T interface.
+-Pick<T> returns a new type with only the few omitted properties of the T interface.
+-Exclude<T,U> returns a new type with the U type excluded from the T interface.
+-Extract<T,U> returns a new type with types assignable to U extracted from the T interface.
+-NonNullable<T> returns a new type with only the non nullable properties of the T interface.
+-ReturnType<F> returns the return type of a function passed with the typeof F.
+-InstanceType<C> returns the return type of a class passed with the typeof C.
+-Record<K,T> is used to describe a javascript map, K is the type of the key and T the type of the value.
+
 ## START 
 ```
 npm install -g typescript 
