@@ -44,6 +44,7 @@
 - https://github.com/bezkoder/spring-boot-thymeleaf-example
 - https://github.com/bezkoder/spring-boot-angular-15-mysql-example
 - https://github.com/bezkoder/spring-boot-angular-15-crud-example
+- https://github.com/sivaprasadreddy/spring-boot-application-template
 
 ## FRAMEWORK
 - https://github.com/vaadin/hilla

@@ -127,6 +127,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain-release-automation
 - https://github.com/holochain-apps/emergence
 - https://github.com/mattyg/herddit
+- https://github.com/mattyg/holochain-path-validation
 - https://github.com/trustgraph/trustgraph-holochain
 - https://github.com/holochain-in-action/peer-share
 - https://github.com/harlantwood/hdk-explorations
@@ -259,6 +260,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/h-REA/hREA
 - https://github.com/h-REA/hrea-graphql-live
 - https://github.com/Connoropolous/hrea-dashboard
+- https://github.com/evomimic/map-proto1
 - https://github.com/HabFract/backend
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/
