@@ -14,7 +14,7 @@
 - https://github.com/tauri-apps/awesome-tauri
 
 ## LIB
-
+- https://github.com/1Password/typeshare
 - https://github.com/RustScan/RustScan
 - https://github.com/tauri-apps/tauri
 - https://github.com/BloopAI/bloop

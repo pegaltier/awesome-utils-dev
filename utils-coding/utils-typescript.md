@@ -215,8 +215,10 @@
 - https://github.com/dsherret/conditional-type-checks
 - https://github.com/moltar/typescript-runtime-type-benchmarks
 
-## LIB: DATABASE
+## LIB: HTTP
+- https://github.com/ardatan/feTS
 
+## LIB: DATABASE
 - https://github.com/prisma/prisma
 - https://github.com/koskimas/kysely
 - https://github.com/typeorm/typeorm

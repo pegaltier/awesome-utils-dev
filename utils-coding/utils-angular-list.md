@@ -150,6 +150,10 @@
 - Structure of the rooting? primary outlet, secondary outlet...
 - Structure of the ui? simple, embedded views, view teleportation...
 
+## HELPER: DECISIONS SYNC
+- optimistic or pessimistic updates
+- 
+
 ## HELPER: BEST PRACTICES
 
 Avoid common mistakes, bugs, find tips and checklist for good development...
@@ -952,6 +956,7 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/jorgeucano/ngx-angular-migration-signal-helper
 - https://github.com/eneajaho/ngx-signal-experimental
 - https://github.com/timdeschryver/ng-signal-forms
+- https://github.com/nartc/ng-conduit-signals
 - https://github.com/code-with-ahsan/ng-signals-wishlist
 - https://github.com/eduardoRoth/rick-and-morty-signals
 - https://stackblitz.com/edit/angular-ng-model-signal
@@ -2055,6 +2060,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/deanius/storybook-animate
 - https://github.com/UX-and-I/storybook-design-token
 - https://github.com/hipstersmoothie/storybook-dark-mode
+- https://www.chromatic.com/
 
 ## ECOSYSTEM: LIB: E2E TESTS
 

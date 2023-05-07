@@ -26,7 +26,7 @@ low-code tooling to prototype fastly.
 ## api
 - https://github.com/xgenecloud/xgenecloud
 
-## headless cms
+## headless cms / jamstack
 - https://prismic.io/
 - https://www.contentful.com/
 - https://github.com/payloadcms/payload

@@ -262,6 +262,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Connoropolous/hrea-dashboard
 - https://github.com/evomimic/map-proto1
 - https://github.com/HabFract/backend
+- https://github.com/nick-stebbings/holochain-react-scaffold-template
 - https://holochain-ci.github.io/matrix/
 - https://ad4m.dev/
 
