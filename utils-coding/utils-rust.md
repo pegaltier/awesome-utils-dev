@@ -15,6 +15,7 @@
 
 ## LIB
 - https://github.com/1Password/typeshare
+- https://github.com/Aleph-Alpha/ts-rs
 - https://github.com/RustScan/RustScan
 - https://github.com/tauri-apps/tauri
 - https://github.com/BloopAI/bloop
