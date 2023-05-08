@@ -216,6 +216,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://gist.github.com/voznik/6dba2088ab7cb351b7cdcc3598b4ec39
 - https://github.com/AngularWave/angular.institute
 - https://dev.to/this-is-angular/you-dont-want-a-basecomponent-in-your-app-23hn
+- https://blog.simplified.courses/angular-state-management-best-practices/
 
 ## HELPER: DESIGN PATTERN
 
