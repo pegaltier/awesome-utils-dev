@@ -96,7 +96,10 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/rectorphp/rector
 
 ## LIB:
+- https://github.com/1ma/uuid
 - https://github.com/nette/utils
+- https://github.com/1ma/JsonRpc
+- https://github.com/1ma/Psr7Hmac
 - https://github.com/janephp/janephp
 - https://github.com/firebase/php-jwt
 - https://github.com/cweiske/jsonmapper
@@ -130,7 +133,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/Neoflow/Session
 
 ## SLIM PHP V3 SKELETON
-
+- https://github.com/1ma/Slim-Doctrine-Demo
 - https://github.com/adriansuter/Slim4-Skeleton
 - https://github.com/nbayramberdiyev/slim-4-starter
 - https://github.com/slimphp/Slim-Skeleton
