@@ -142,6 +142,7 @@
 - https://rapidapi.com
 - https://www.humanapi.co
 - https://github.com/public-apis/public-apis
+- https://github.com/cheatsnake/backend-cheats
 - https://github.com/chubin/awesome-console-services
 - https://github.com/public-api-lists/public-api-lists
 - https://dev.to/biplov/15-fun-apis-for-your-next-project-5053
@@ -162,6 +163,7 @@
 
 ## FUN
 
+- https://http.cat/
 - https://www.disneyapi.dev/
 - https://github.com/apilayer/restcountries
 - https://github.com/vagnersabadi/apis-nerds

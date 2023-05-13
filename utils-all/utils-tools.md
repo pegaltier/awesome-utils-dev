@@ -55,6 +55,7 @@
 - https://github.com/uwidev/life-disciplines-projects
 
 # OSS: PHOTO
+- https://github.com/rishimohan/pika
 - https://github.com/immich-app/immich
 - https://github.com/electerious/Lychee
 - https://github.com/photoprism/photoprism

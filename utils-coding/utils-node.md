@@ -122,6 +122,7 @@
 - https://github.com/w3tecch/typeorm-seeding
 
 ## LIBS: CLI
+- https://github.com/jasonkuhrt/molt
 - https://github.com/arcanis/clipanion
 - https://github.com/npkgz/cli-progress
 - https://github.com/sindresorhus/trash-cli

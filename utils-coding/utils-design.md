@@ -23,6 +23,7 @@
 # DESIGN
 
 ## TOOLS
+- https://pika.style
 - https://penpot.app
 - https://loading.io
 - https://squoosh.app

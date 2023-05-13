@@ -112,11 +112,16 @@
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
 - https://github.com/cocktailpeanut/dalai
+- https://github.com/eugeneyan/open-llms
 - https://github.com/hwchase17/langchain
 - https://github.com/nat/openplayground
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/microsoft/JARVIS
+
+## LIB: IMAGE
+- https://github.com/openai/shap-e
+- https://github.com/SCUTlihaoyu/open-chat-video-editor
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/deep-floyd/IF

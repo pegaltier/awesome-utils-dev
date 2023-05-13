@@ -15,6 +15,7 @@
 - https://github.com/literalpie/qwik-starter
 - https://github.com/gioboa/qwik-dream-demo
 - https://github.com/qwikverse/awesome-qwik
+- https://github.com/qwikifiers/qwik-image
 - https://github.com/DustinJSilk/qwik-urql
 - https://github.com/derkoe/qwik-swa-demo
 - https://github.com/robisim74/qwik-speak

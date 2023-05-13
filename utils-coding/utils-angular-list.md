@@ -2752,6 +2752,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/nrwl/nx-workshop
 - https://github.com/jonrimmer/ngrx-saga
 - https://github.com/alcfeoh/ng2-training
+- https://github.com/tastejs/angular-movies
 - https://github.com/BioPhoton/angular-basic-ws
 - https://github.com/alcfeoh/ng-advanced-workshop
 - https://github.com/eliraneliassy/angular-v14-playground
