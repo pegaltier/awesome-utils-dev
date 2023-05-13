@@ -88,9 +88,11 @@
 - https://github.com/williamfiset/Algorithms
 - https://github.com/eclipse/deeplearning4j
 - https://github.com/JanusGraph/janusgraph
+- https://github.com/spockframework/spock
 - https://github.com/mapstruct/mapstruct
 - https://github.com/Kong/unirest-java
 - https://github.com/keycloak/keycloak
+- https://github.com/glowroot/glowroot
 - https://github.com/tinesoft/nxrocks
 - https://java.libhunt.com/categories
 - https://github.com/alibaba/arthas

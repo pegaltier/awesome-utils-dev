@@ -58,6 +58,16 @@ docker diff cid ==> check changes to files&didirectories
 - https://www.imaginarycloud.com/blog/podman-vs-docker/
 - https://github.com/containers/podman-compose
 
+## OPENSHIFT
+
+You need two things
+- OpenShift CLI 
+- Helm CLI
+
+## KUBERNETES
+- https://www.redhat.com/fr/topics/containers/learning-kubernetes-tutorial
+- https://www.ionos.fr/digitalguide/serveur/configuration/tutoriel-kubernetes/
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/
 
 
 ## VAGRANT

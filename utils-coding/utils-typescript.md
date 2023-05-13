@@ -4,6 +4,7 @@
 ## TYPESCRIPT GUIDES
 
 - https://sulco.stackblitz.io/
+- https://type-level-typescript.com/
 - https://github.com/intocare/style-guide
 - https://github.com/sindresorhus/type-fest
 - https://github.com/basarat/typescript-book
@@ -354,6 +355,7 @@ Imports within the same entry-point have to be relative, otherwise they would 
 - https://www.youtube.com/watch?v=DmvOmjjH2Fk Function overloading
 - https://www.youtube.com/watch?v=3fXpL1O3epw TypeScript Enums Explained
 - https://www.youtube.com/watch?v=t0qQSujSslQ How to use generics in TypeScript
+- https://nartc.me/blog/typescript-mapped-union/
 
 ### UTILITY TYPES
 

@@ -149,6 +149,10 @@
 - Change detection? default (zone), onpush+ngrx/component...
 - Structure of the rooting? primary outlet, secondary outlet...
 - Structure of the ui? simple, embedded views, view teleportation...
+- Type of update: optimistic, pessimistic
+- Layer for signal: components only or everywhere
+- Css normalisation standard: BEM et OOCSS
+
 
 ## HELPER: DECISIONS SYNC
 - optimistic or pessimistic updates
@@ -949,11 +953,15 @@ Learn everything about angular universal, make a good SEO.
 
 ## CORE: SIGNALS
 
+- https://www.youtube.com/watch?v=HstDoVQeP9g angular signal with Ryan from Solid
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
+- https://dev.to/this-is-angular/angular-signals-everything-you-need-to-know-2b7g
 - https://ng-journal.com/blog/2023-04-25-signals-and-the-rxjs-interop/
+- https://marmicode.io/blog/angular-signals-and-custom-render-strategies
 - https://marmicode.io/blog/managing-rxjs-traffic-with-signals?b=3
+- https://www.angulararchitects.io/aktuelles/angular-signals/
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
 - https://github.com/jordanpowell88/angular-counter (cypress)
 - https://github.com/jorgeucano/ngx-angular-migration-signal-helper
@@ -1494,6 +1502,8 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://dev.to/bitovi/why-you-should-be-using-transferstate-to-cache-your-api-calls-in-angular-3nn7
 - https://jenniferwadella.com/blog/rendering-static-pages-from-dynamic-routes-in-angular-with-scully
 - https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDE3NTIyMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvMjc0MTMxNDY?ved=0CA0QzsICahcKEwi47Mi1lNnpAhUAAAAAHQAAAAAQBQ
+- https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNDJlODc0MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwiI-rm0zsL-AhUAAAAAHQAAAAAQAQ
+- https://angularexperts.io/podcasts/
 
 ## ECOSYSTEM: LIB: MAKE 
 
@@ -1760,6 +1770,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/cartant/rxjs-tslint-rules
 - https://github.com/softarc-consulting/sheriff
+- https://github.com/manfredsteyer/standalone-example-cli/blob/main/sheriff.config.ts
 - https://github.com/NativeScript/eslint-plugin
 - https://github.com/ranyitz/eslint-plugin-jest
 - https://github.com/wesbos/eslint-config-wesbos
@@ -2655,6 +2666,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/DevExpress/devextreme-angular
 - https://github.com/syncfusion/ej2-angular-ui-components
 - https://github.com/digipolisantwerp/antwerp-ui_angular
+- https://github.com/coreui/coreui-angular (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
