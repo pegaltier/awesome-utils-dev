@@ -238,6 +238,7 @@
 ## NATIVE
 - https://opennative.github.io/
 - https://reactnative.directory/
+- https://start-react-native.dev/
 - https://github.com/nandorojo/moti
 - https://github.com/tamagui/tamagui
 - https://github.com/microsoft/rnx-kit
@@ -266,6 +267,7 @@
 - https://github.com/prscX/react-native-lock-screen
 - https://github.com/mrousavy/react-native-blurhash
 - https://github.com/arnnis/react-native-fast-toast
+- https://github.com/zoontek/react-native-bootsplash
 - https://github.com/FormidableLabs/react-native-owl
 - https://github.com/ravirupareliya/rn-in-app-review
 - https://github.com/getbouncer/react-native-cardscan

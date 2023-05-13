@@ -172,6 +172,7 @@
 - https://omatsuri.app/triangle-generator
 - https://9elements.github.io/fancy-border-radius
 - https://wweb.dev/resources/css-separator-generator/
+- https://github.com/Ritika-Agrawal811/css-and-js-code-snippets
 
 ## TOOLS: IMAGE
 
@@ -501,6 +502,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/jagracar/webgl-shader-examples
 - https://github.com/malerba118/react-particle-image
 - https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+- https://tympanus.net/codrops/2023/05/04/ideas-for-grid-to-slideshow-switch-animations/
 - https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES

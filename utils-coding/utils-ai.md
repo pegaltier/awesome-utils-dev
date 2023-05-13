@@ -64,6 +64,7 @@
 - https://www.theneura.com
 
 ## LIB
+- https://github.com/qdrant/qdrant
 - https://github.com/yeuai/botscript
 - https://github.com/ml5js/ml5-library
 - https://github.com/gventuri/pandas-ai
@@ -100,6 +101,7 @@
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/abacaj/chatgpt-backup
 - https://github.com/vincelwt/chatgpt-mac
+- https://github.com/imartinez/privateGPT
 - https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/keijiro/AICommand
 - https://github.com/lgrammel/js-agent
@@ -117,6 +119,7 @@
 - https://github.com/nat/openplayground
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
+- https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
 
 ## LIB: IMAGE

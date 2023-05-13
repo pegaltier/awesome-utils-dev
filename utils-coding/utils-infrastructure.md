@@ -138,6 +138,7 @@
 - https://github.com/paralus/paralus
 - https://github.com/jpca/Boulegueur
 - https://github.com/Portshift/kubei
+- https://github.com/kyverno/kyverno
 - https://github.com/cilium/hubble-ui
 - https://github.com/loft-sh/jspolicy
 - https://github.com/hobby-kube/guide

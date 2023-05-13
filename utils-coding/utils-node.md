@@ -173,6 +173,7 @@
 - https://github.com/directus/directus
 - https://github.com/mikro-orm/mikro-orm
 - https://github.com/sequelize/sequelize
+- https://github.com/wundergraph/wundergraph
 - https://github.com/strongloop/loopback-next
 - https://github.com/deepkit/deepkit-framework
 

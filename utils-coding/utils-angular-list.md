@@ -217,6 +217,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://github.com/AngularWave/angular.institute
 - https://dev.to/this-is-angular/you-dont-want-a-basecomponent-in-your-app-23hn
 - https://blog.simplified.courses/angular-state-management-best-practices/
+- https://medium.com/ngconf/why-you-should-use-canmatch-in-your-routes-97fec434823d
+- https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4
 
 ## HELPER: DESIGN PATTERN
 
@@ -1757,6 +1759,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/tslint-angular
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/cartant/rxjs-tslint-rules
+- https://github.com/softarc-consulting/sheriff
 - https://github.com/NativeScript/eslint-plugin
 - https://github.com/ranyitz/eslint-plugin-jest
 - https://github.com/wesbos/eslint-config-wesbos
@@ -2739,6 +2742,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/SAP/spartacus
 - https://github.com/snipcart
 - https://angularexpo.com
+- https://builderkit.dev
 - https://ng-alain.com
 - https://abp.io/
 

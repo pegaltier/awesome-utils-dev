@@ -179,6 +179,9 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - detail: https://www.buildalpha.com/equity-curve-trading/
 - however based on Joachim Moser, it's very complex thing to do, and so not recommended because often at the end often arrives a very profitable trades you don't want to miss.
 
+## Strat: Bull market vs bear
+The bull signal is the following: 18 consecutive closes above the 200 SMA in a bear market. After the bull market signal, the forward returns tend to be pretty strong. The market is up 21.84% on average one year after the signal is triggered.
+- https://www.quantifiedstrategies.com/bull-market-signal/
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
@@ -286,6 +289,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tradewell.app/
 - https://strategyquant.com/
 - https://capitalise.ai/
+- https://dayhagan.com/
 - https://crypto-ml.com/
 - https://www.tuned.com/
 - https://raposa.trade/
@@ -357,9 +361,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## OSS
 
 ### OSS: QUALITY
+- https://github.com/edarchimbaud/awesome-systematic-trading
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
+- https://github.com/liquiditygoblin/1inch-cli
 - https://github.com/binance/binance-api-postman
 - https://github.com/hummingbot/hummingbot
 - https://github.com/freqtrade/freqtrade

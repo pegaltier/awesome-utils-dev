@@ -69,6 +69,7 @@
 ## OSS: DEV
 - https://github.com/ProxymanApp/Proxyman
 - https://github.com/Infisical/infisical
+- https://www.mendable.ai/
 
 ## OSS: COLLABORATE
 - https://github.com/calcom/cal.com

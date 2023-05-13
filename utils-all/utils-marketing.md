@@ -3,6 +3,9 @@
 - https://github.com/LisaDziuba/Marketing-for-Engineers
 - https://github.com/goabstract/Marketing-for-Engineers
 
+## ANALYTICS
+- https://github.com/aptabase/aptabase
+
 ## ABTESTING
 - https://github.com/DigitalOptimizationGroup/cms
 - https://github.com/growthbook/growthbook

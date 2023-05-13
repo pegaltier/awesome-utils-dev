@@ -8,6 +8,7 @@
 - https://neumorphism.io
 - https://justcode.today/
 - https://ui-snippets.dev/
+- https://supportscss.dev/
 - https://shadows.brumm.af/
 - https://copy-paste-css.com/
 - https://flukeout.github.io/

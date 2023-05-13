@@ -1,17 +1,21 @@
 
 
-## NATIVESCRIPT : 
-set ANDROID_HOME=C:\Android\sdk 
-set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools 
- 
+# NATIVESCRIPT 
+
+
+## LEARN
+
 - http://docs.nativescript.org/angular/start/quick-setup 
 - https://docs.nativescript.org/start/ns-setup-win 
 - http://docs.nativescript.org/angular/tutorial/ng-chapter-1 
 - http://docs.nativescript.org/angular/tutorial/ng-chapter-2 
 - https://docs.nativescript.org/angular/code-samples/overview.html (component) 
 - https://github.com/NativeScript/nativescript-sdk-examples-ng
+- https://tomaszs2.medium.com/n-whats-interesting-in-nativescript-cca1d37294b3
 
 ```
+set ANDROID_HOME=C:\Android\sdk 
+set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools 
 tns create StockTicker --ng (--ng tag to create an Angular 2 project)
 cd StockTicker
 tns platform add ios
