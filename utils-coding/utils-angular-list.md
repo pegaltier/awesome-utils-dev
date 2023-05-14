@@ -2680,6 +2680,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ngx-builders/angular-async-local-storage
 
 ## ECOSYSTEM: LIB: ANIMATIONS
+- https://github.com/filipows/angular-animations
 - https://github.com/vugar005/ngx-router-animations
 - https://github.com/ciriousjoker/ngx-transition-content
 
@@ -3190,6 +3191,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://angular.institute
 - https://ngauthbook.com (TOADD)
 - https://angularforms.dev (TOADD)
+- https://angular-buch.com/ (TOADD)
 - http://AngularAdvocate.com
 - https://angulararchitecture.com
 - https://leanpub.com/angular2-book

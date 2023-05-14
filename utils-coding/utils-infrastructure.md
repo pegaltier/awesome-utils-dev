@@ -1,6 +1,6 @@
 # INFRA
 
-##  SCALING
+## SCALING
 - https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 - https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/
 
@@ -28,6 +28,11 @@
 - https://github.com/h5bp/server-configs
 - https://github.com/h5bp/server-configs-nginx
 - https://github.com/h5bp/server-configs-apache
+
+## DASHBOARD
+- https://github.com/bastienwirtz/homer
+- https://github.com/linuxserver/Heimdall
+- https://github.com/causefx/Organizr
 
 ## TOOLS
 - https://k6.io/

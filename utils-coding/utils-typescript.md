@@ -17,6 +17,7 @@
 - https://github.com/DanWahlin/typescript-fundamentals
 - https://github.com/santoshyadavdev/typescript-basics
 - https://github.com/microsoft/TypeScript-New-Handbook
+- https://github.com/CodelyTV/awesome-typescript-examples
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://github.com/enricopolanski/functional-programming
 - https://kentcdodds.com/blog/typescript-function-syntaxes
@@ -48,6 +49,7 @@
 ## STARTER
 
 - https://github.com/egoist/ts-lib-starter
+- https://github.com/CodelyTV/typescript-ddd-skeleton
 - https://github.com/metachris/typescript-boilerplate
 - https://github.com/xolvio/typescript-event-sourcing
 - https://github.com/stemmlerjs/simple-typescript-starter
