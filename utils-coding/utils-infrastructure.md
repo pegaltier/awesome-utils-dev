@@ -34,6 +34,12 @@
 - https://github.com/linuxserver/Heimdall
 - https://github.com/causefx/Organizr
 
+## WORFLOW
+- https://github.com/ansible/ansible
+- https://github.com/airplanedev/js-sdk
+- https://github.com/windmill-labs/windmill
+- https://github.com/tryretool/retool-onpremise
+
 ## TOOLS
 - https://k6.io/
 - https://traefik.io/
