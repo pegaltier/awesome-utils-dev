@@ -211,6 +211,7 @@
 - https://github.com/ixartz/Next-js-Boilerplate
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/vercel/next-learn-starter
+- https://github.com/Blazity/next-enterprise
 
 ## NEXT
 - https://github.com/application-research/next-bucket
