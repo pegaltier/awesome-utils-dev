@@ -9,6 +9,7 @@
 
 ## ARTICLES
 - https://www.kissmyfrogs.com/stephane-mallard-blu-age/
+- https://github.com/brexhq/prompt-engineering
 
 ## AWESOME
 - https://github.com/dair-ai
@@ -70,6 +71,7 @@
 - https://github.com/gventuri/pandas-ai
 - https://github.com/the-new-sky/Wisty.js
 - https://github.com/deepkit/deepkit-ml
+- https://github.com/smol-ai/developer
 - https://github.com/suno-ai/bark
 - https://github.com/googleprojectzero/fuzzilli
 - https://github.com/axa-group/nlp.js
@@ -108,6 +110,7 @@
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/reworkd/AgentGPT
 - https://github.com/xtekky/gpt4free
+- https://github.com/sunner/ChatALL
 - https://github.com/dion-/autoheal
 
 ## LIB: LLM

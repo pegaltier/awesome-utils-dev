@@ -11,6 +11,9 @@
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
+## PODCAST
+- https://chatwithtraders.com/
+
 ## AUTOMATED
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
@@ -435,22 +438,27 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/jesse-ai/jesse
 - https://github.com/stellar/kelp
 
-### OSS: BACKTESTS
+### OSS: PYTHON
 
 - https://github.com/ssantoshp/Wizardry
-- https://github.com/tvjsx/trading-vue-js
-- https://github.com/tradingview/lightweight-charts
-- https://github.com/jean-michel-gonet/angular-backtest
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
-- https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 
 ### OSS: JAVASCRIPT
 
+- https://github.com/Tucsky/aggr
+- https://github.com/tvjsx/tvjs-xp
 - https://github.com/debut-js/Indicators
 - https://github.com/debut-js/Strategies
+- https://github.com/tvjsx/tvjs-overlays
+- https://github.com/tvjsx/trading-vue-js
+- https://github.com/SockTrader/SockTrader
+- https://github.com/project-nv/night-vision
 - https://github.com/bennycode/trading-signals
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
+- https://github.com/tradingview/lightweight-charts
+- https://github.com/jean-michel-gonet/angular-backtest
+- https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 
 ## QUOTES
 - https://fuserleer.online/exchange_data/

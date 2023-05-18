@@ -1310,6 +1310,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/pregular/core
 - https://github.com/open-wc/open-wc
 - https://github.com/BuilderIO/jsx-lite
+- https://github.com/gund/ngx-element-boundary
 - https://github.com/ionic-team/stencil
 - https://custom-elements-everywhere.com/
 - https://github.com/mateusortiz/webcomponents-the-right-way
@@ -1368,6 +1369,13 @@ Discover alternative to ngrx for the state management of your objects.
 - https://dev.to/manfredsteyer/tutorial-getting-started-with-webpack-module-federation-and-angular-2edd?utm_source=dormosheio&utm_campaign=dormosheio
 - https://www.youtube.com/watch?v=-ThsrA8hRLc AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 - https://www.youtube.com/watch?v=tsIZjUAtF1U Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
+
+## ECOSYSTEM: MICROFRONTEND: FEDERATION
+- https://github.com/module-federation/vite
+- https://github.com/module-federation/universe
+- https://github.com/originjs/vite-plugin-federation
+- https://github.com/manfredsteyer/native-federation-core-microfrontend
+- https://github.com/manfredsteyer/native-federation-core-example
 
 ## ECOSYSTEM: MONOREPO
 
@@ -1504,6 +1512,8 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDE3NTIyMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvMjc0MTMxNDY?ved=0CA0QzsICahcKEwi47Mi1lNnpAhUAAAAAHQAAAAAQBQ
 - https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNDJlODc0MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwiI-rm0zsL-AhUAAAAAHQAAAAAQAQ
 - https://angularexperts.io/podcasts/
+- https://topenddevs.com/podcasts/adventures-in-angular/episodes/angular-signals-in-practice-aia-380?utm_campaign=05-04-23+-+Check+out+this&utm_source=Message&utm_medium=Twitter
+- https://topenddevs.com/podcasts/adventures-in-angular
 
 ## ECOSYSTEM: LIB: MAKE 
 
@@ -1541,6 +1551,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/anubhavsrivastava/awesome-ui-component-library#angular
 
 ## ECOSYSTEM: LIB: MONOREPO
+- https://github.com/alloc/indo
 - https://github.com/nrwl/nx
 - https://github.com/lerna/lerna
 - https://github.com/pnpm/pnpm
@@ -1776,6 +1787,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/wesbos/eslint-config-wesbos
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
+- https://github.com/gund/eslint-plugin-deprecation
 - https://github.com/import-js/eslint-plugin-import
 - https://github.com/xojs/eslint-config-xo-typescript
 - https://github.com/aotaduy/eslint-plugin-spellcheck
@@ -1895,6 +1907,7 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/Danevandy99/ngx-advanced-router (TOADD)
 - https://github.com/bespunky/angular-zen (TOADD)
+- https://github.com/orchestratora/ngx-dynamic-menu (TOADD)
 - https://github.com/ngspot/route-path-builder
 - https://github.com/angular-component/router
 - https://github.com/Dankwansere/aop-routing
@@ -2279,6 +2292,9 @@ Analyze and optimize the performance of your app
 - https://medium.com/better-programming/angular-ngx-translate-typings-816eb4b5d92
 - https://medium.com/@TuiZ/how-to-split-your-i18n-file-per-lazy-loaded-module-with-ngx-translate-3caef57a738f
 
+## ECOSYSTEM: LIB: COMPONENT: NOCODE
+- https://github.com/orchestratora/orchestrator
+
 ## ECOSYSTEM: LIB: COMPONENT: ALL
 
 - https://github.com/d-koppenhagen/angular-tag-cloud-module
@@ -2298,8 +2314,6 @@ Analyze and optimize the performance of your app
 - https://github.com/kuhnroyal/mat-datetimepicker
 - https://github.com/MurhafSousli/ngx-highlightjs
 - https://github.com/isaacplmann/ngx-contextmenu
-- https://github.com/Marcelh1983/document-viewer
-- https://github.com/XuPeiYao/ngx-document-view
 - https://github.com/neojato/ngx-barcode-input
 - https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/d-koppenhagen/ngx-lipsum
@@ -2309,7 +2323,6 @@ Analyze and optimize the performance of your app
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
 - https://github.com/joejordanbrown/popover
-- https://github.com/kolkov/angular-editor
 - https://github.com/ncstate-sat/popover
 - https://github.com/nbfontana/ngx-currency
 - https://github.com/Harvest-Dev/ng-select2
@@ -2319,7 +2332,6 @@ Analyze and optimize the performance of your app
 - https://github.com/Enngage/ngx-captcha
 - https://github.com/yp2/ngx-cron-jobs
 - https://github.com/AhsanAyaz/ng2-emoji
-- https://github.com/alauda/ng-monaco-editor
 - https://github.com/push-based/ngx-fast-svg
 - https://github.com/cormacrelf/angular-skyhook
 - https://github.com/qgrid/ng2-expression-builder
@@ -2366,7 +2378,6 @@ Analyze and optimize the performance of your app
 - https://github.com/ayush013/ngx-quill-upload
 - https://github.com/vadimdez/ng2-pdf-viewer/
 - https://github.com/osahner/ngx-show-hide-password
-- https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/kekeh/angular-mydatepicker
 - https://github.com/mattlewis92/angular-calendar
 - https://github.com/stabzs/Angular2-Toaster
@@ -2386,8 +2397,6 @@ Analyze and optimize the performance of your app
 - https://github.com/angular-split/angular-split
 - https://github.com/ngfelixl/ng-write/
 - https://github.com/ngfelixl/pro-widgets
-- https://github.com/stevermeister/ngx-wig
-- https://github.com/sibiraj-s/ngx-editor
 - https://github.com/udayvunnam/xng-breadcrumb
 - https://github.com/scttcper/ngx-emoji-mart
 - https://github.com/DethAriel/ng-recaptcha
@@ -2477,12 +2486,14 @@ Analyze and optimize the performance of your app
 - https://github.com/dfa1234/ngx-image-compress
 - https://github.com/peterfreeman/ngx-dropzone
 - https://github.com/ribizli/ng2-imageupload
+- https://github.com/pingdotgg/uploadthing
 - https://github.com/jkuri/ng2-uploader
 - https://github.com/flowjs/ngx-flow
 
 ## ECOSYSTEM: LIB: COMPONENT: DATA VIZ
 
 - https://github.com/chartjs/awesome
+- https://github.com/jacomyal/sigma.js
 - https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
 - https://github.com/xieziyu/ngx-echarts
@@ -2589,8 +2600,16 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/angular-material-extensions
 - https://github.com/gravitee-io/gravitee-ui-particles
 
-## ECOSYSTEM: LIB: COMPONENT: MEDIA
+## ECOSYSTEM: LIB: COMPONENT: EDITOR / WYSIWYG 
+- https://github.com/lon-yang/ngx-markdown-editor
+- https://github.com/alauda/ng-monaco-editor
+- https://github.com/kolkov/angular-editor
+- https://github.com/stevermeister/ngx-wig
+- https://github.com/sibiraj-s/ngx-editor
 
+## ECOSYSTEM: LIB: COMPONENT: MEDIA
+- https://github.com/Marcelh1983/document-viewer
+- https://github.com/XuPeiYao/ngx-document-view
 - https://github.com/FortAwesome/angular-fontawesome
 - https://github.com/chrisguttandin/angular-audio-context
 - https://github.com/NorthwoodsSoftware/gojs-angular
@@ -2826,6 +2845,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/fulls1z3/universal
 - https://github.com/nxpm/nxpm-universal
 - https://github.com/goetzrobin/spartan
+- https://github.com/ganatan/angular-ssr
 - https://github.com/eneajaho/angular-isr
 - https://github.com/enten/angular-universal
 - https://github.com/TrilonIO/universal-nest
@@ -2880,6 +2900,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/Coly010/nx-ng-dyn-fed
 - https://github.com/vugar005/youtube-webapp-nx
 - https://github.com/vugar005/youtube-webapp-lerna
+- https://github.com/manfredsteyer/adv-mf-examples
 - https://github.com/vugar005/youtube-webapp-turborepo
 - https://github.com/flash-me/angular-micro-frontends
 - https://github.com/manfredsteyer/mf-angular-showcase
@@ -2899,6 +2920,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic
 - https://github.com/manakuro/micro-frontends-single-spa-module-federation
 - https://github.com/newvladimirov/module-federation-with-angular-universal
+- https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SPA
 - https://github.com/mraible/ng-demo
@@ -3263,6 +3285,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
+
+### ANGULAR16
+- https://indepth.dev/posts/1519/router-data-as-components-inputs-in-angular-v16
 
 ### ANGULAR15
 - https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8

@@ -69,6 +69,7 @@ zipalign (optimize RAM) :
 
 
 ## UTILS
+- https://flashlight.dev/
 - https://github.com/orhanobut/hawk
 - https://www.appbrain.com/apptimizer
 - http://gunhansancar.com/tools/converter/#

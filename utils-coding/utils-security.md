@@ -101,8 +101,9 @@
 - Content Security Policy (CSP)
 - WebSocket Security.
 
-### Anti debugging
+### ART
 - https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d
+- https://www.hackers-arise.com/post/wi-fi-hacking-using-wifite-for-multiple-attack-strategies-against-wi-fi-ap-s
 
 ## Chrome extensions
 - https://gist.github.com/paulirish/78d6c1406c901be02c2d

@@ -139,11 +139,14 @@
 ## LIBS: GAME
 - https://github.com/colyseus/colyseus
 
-## SERVER: EXPRESS/ITTY
+## SERVER: PROXY
 - https://github.com/chimurai/http-proxy-middleware
+
+## SERVER: EXPRESS/ITTY
 - https://github.com/YahooArchive/express-state
 - https://github.com/mucahitnezir/express-starter
 - https://github.com/kwhitley/itty-router-extras
+- https://github.com/pcattori/hmr-from-scratch
 - https://github.com/kwhitley/itty-router
 - https://github.com/Xiphe/cachified
 

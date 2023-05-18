@@ -98,6 +98,10 @@
 ## FOUNDATION
 - https://github.com/openjs-foundation/cross-project-council
 
+## PEOPLE
+- https://github.com/douglascrockford
+- https://github.com/ahejlsberg
+
 ## BOOKS
 - https://exploringjs.com/impatient-js/
 
@@ -224,6 +228,7 @@
 - https://github.com/typicode/lowdb
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
+- https://github.com/StarlaneStudios/Surrealist
 
 ## LIB: BACKEND
 - https://github.com/mailgun/mailgun.js
@@ -492,6 +497,7 @@
 
 ## LIB: CHART
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/highcharts/highcharts
 - https://github.com/plotly/plotly.js
 - https://github.com/leeoniya/uPlot
 
@@ -499,6 +505,8 @@
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/openseadragon/openseadragon
 - https://github.com/steveruizok/perfect-arrows
+- https://github.com/vidstack/media-captions
+- https://github.com/ColonelParrot/jscanify
 - https://github.com/desandro/imagesloaded
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
@@ -508,6 +516,7 @@
 - https://github.com/nzbin/photoviewer
 - https://github.com/transloadit/uppy
 - https://github.com/aeroheim/midori
+- https://github.com/vidstack/player
 - https://github.com/lukeapage/pngjs
 - https://github.com/markedjs/marked
 - https://github.com/greensock/GSAP

@@ -87,6 +87,7 @@
 - https://github.com/yannickcr/eslint-plugin-react
 
 ## LIB: ALL
+- https://github.com/alloc/wana
 - https://github.com/gc-victor/u
 - https://github.com/uber/baseweb
 - https://github.com/Hotell/rea-di
@@ -208,6 +209,7 @@
 ## NEXT: STARTER
 - https://github.com/delbaoliveira/website
 - https://github.com/belgattitude/nextjs-monorepo-example
+- https://github.com/aleixmorgadas/monorepo-template
 - https://github.com/ixartz/Next-js-Boilerplate
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/vercel/next-learn-starter
