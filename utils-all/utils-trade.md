@@ -363,27 +363,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## OSS
 
-### OSS: QUALITY
-- https://github.com/edarchimbaud/awesome-systematic-trading
-- https://github.com/OpenBB-finance/OpenBBTerminal
-- https://github.com/derekcheungsa/autogpt-openbb-sdk
-- https://github.com/botcrypto-io/awesome-crypto-trading-bots
-- https://github.com/liquiditygoblin/1inch-cli
-- https://github.com/binance/binance-api-postman
-- https://github.com/hummingbot/hummingbot
-- https://github.com/freqtrade/freqtrade
-- https://github.com/jesse-ai/jesse
-- https://github.com/jaggedsoft/php-binance-api
-- https://github.com/jaggedsoft/node-binance-api
-- https://github.com/Reiryoku-Technologies/Mida
-- https://github.com/Reiryoku-Technologies/Mida-Playground
-- https://github.com/Reiryoku-Technologies/Time-Series-Archive
-- https://github.com/hackingthemarkets?tab=repositories
-
 ### OSS: TRADINGVIEW
 - https://github.com/topics/pinescript?o=desc&s=updated
 - https://github.com/topics/pinescript-strategies
 - https://github.com/topics/tradingview-alert
+- https://github.com/Heavy91/TradingView_Indicators
 - https://github.com/pAulseperformance/awesome-pinescript
 - https://github.com/pinecoders/tradingview-pinescript-indicators
 - https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
@@ -403,9 +387,35 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/s-brez/HTF-single-strat
 - https://github.com/CryptoMF/frostybot-js
 
+### OSS: QUALITY
+- https://github.com/edarchimbaud/awesome-systematic-trading
+- https://github.com/botcrypto-io/awesome-crypto-trading-bots
+- https://github.com/hummingbot/hummingbot
+- https://github.com/freqtrade/freqtrade
+- https://github.com/jesse-ai/jesse
+- https://github.com/hackingthemarkets?tab=repositories
+
+### OSS: ALL
+- https://github.com/OpenBB-finance/OpenBBTerminal
+- https://github.com/derekcheungsa/autogpt-openbb-sdk
+- https://github.com/Reiryoku-Technologies/Mida
+- https://github.com/Reiryoku-Technologies/Mida-Playground
+- https://github.com/Reiryoku-Technologies/Time-Series-Archive
+
 ### OSS: STRATEGY
 - https://github.com/freqtrade/freqtrade-strategies
 - https://github.com/paulcpk/freqtrade-strategies-that-work
+
+### OSS: EXECUTE
+- https://github.com/tiagosiebler/okx-api
+- https://github.com/tiagosiebler/binance
+- https://github.com/tiagosiebler/orderbooks
+- https://github.com/tiagosiebler/awesome-crypto-examples
+- https://github.com/binance/binance-api-postman
+- https://github.com/bybit-exchange/QuickStartWithPostman
+- https://github.com/liquiditygoblin/1inch-cli
+- https://github.com/jaggedsoft/php-binance-api
+- https://github.com/jaggedsoft/node-binance-api
 
 ### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js

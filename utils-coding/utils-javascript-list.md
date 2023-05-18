@@ -101,6 +101,7 @@
 ## PEOPLE
 - https://github.com/douglascrockford
 - https://github.com/ahejlsberg
+- https://github.com/johnpapa
 
 ## BOOKS
 - https://exploringjs.com/impatient-js/

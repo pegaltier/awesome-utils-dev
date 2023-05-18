@@ -112,6 +112,7 @@
 - https://github.com/xtekky/gpt4free
 - https://github.com/sunner/ChatALL
 - https://github.com/dion-/autoheal
+- https://github.com/chathub-dev/chathub
 
 ## LIB: LLM
 - https://github.com/Lightning-AI/lit-llama
@@ -147,6 +148,7 @@
 
 ## LIB: MODELS
 - https://github.com/huggingface/transformers
+- https://github.com/microsoft/guidance
 
 ### LIST
 

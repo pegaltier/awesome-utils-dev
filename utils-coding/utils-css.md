@@ -91,6 +91,7 @@
 - https://github.com/css-doodle/css-doodle
 - https://github.com/frontend-joe/css-navbars
 - https://github.com/marcj/css-element-queries
+- https://github.com/dohliam/dropin-minimal-css
 - https://github.com/projectwallace/wallace-cli
 - https://github.com/yogurt-foundation/yogurt-css
 - https://github.com/sindresorhus/modern-normalize
