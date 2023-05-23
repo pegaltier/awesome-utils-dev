@@ -1592,6 +1592,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: NX CACHE (TOADD)
+- https://github.com/nrwl/nx-cloud-helm
 - https://github.com/thiagobbt/nx-remotecache-s3
 - https://github.com/NiklasPor/nx-remotecache-azure
 - https://github.com/NiklasPor/nx-remotecache-custom
@@ -2608,6 +2609,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/sibiraj-s/ngx-editor
 
 ## ECOSYSTEM: LIB: COMPONENT: MEDIA
+- https://github.com/daybrush/infinite-viewer
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
 - https://github.com/FortAwesome/angular-fontawesome
@@ -3111,6 +3113,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 - https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
+- https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
 - https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console

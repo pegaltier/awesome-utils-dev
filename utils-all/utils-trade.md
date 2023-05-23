@@ -323,15 +323,21 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
 - https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
-- https://aleeert.com/
+- https://learn.bybit.com/investing/how-to-use-tradingview/
+- https://www.pineconnector.com/
+- https://algotradingbridge.in/
 - https://www.webhookser.com
 - https://www.stalexbot.com/
+- https://wundertrading.com
+- https://alertzmanager.io/
 - https://tradingview.to/
+- https://aleeert.com/
 - https://www.tv-hub.org/
 - https://alertatron.com/
-- https://alertzmanager.io/
-- https://wundertrading.com
 - https://webhookbot.net
+- https://traderspost.io/
+- https://capitalise.ai/
+- https://www.bots.io/
 
 ## METATRADER
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/

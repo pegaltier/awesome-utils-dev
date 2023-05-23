@@ -147,6 +147,7 @@
 - https://github.com/baptisteArno/typebot.io
 
 ## LIB: MODELS
+- https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/huggingface/transformers
 - https://github.com/microsoft/guidance
 
