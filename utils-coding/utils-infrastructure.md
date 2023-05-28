@@ -11,6 +11,7 @@
 - https://github.com/stephrobert/awesome-french-devops
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/bregman-arie/devops-exercises
+- https://github.com/mikeroyal/Self-Hosting-Guide
 - https://github.com/nubenetes/awesome-kubernetes
 - https://github.com/christianlempa/boilerplates
 - https://github.com/christianlempa/cheat-sheets

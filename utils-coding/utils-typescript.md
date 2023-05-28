@@ -163,6 +163,12 @@
 - https://github.com/Effect-TS/core
 - https://github.com/rayepps/radash
 
+## LIB: GENERATE DATA OBJECT
+- https://github.com/1Password/typeshare
+- https://github.com/Aleph-Alpha/ts-rs
+- https://github.com/madonoharu/tsify
+- https://github.com/ddd-mtl/zits
+
 ## LIB: DATA OBJECT
 - https://github.com/jquense/yup
 - https://github.com/funkia/list
