@@ -24,6 +24,13 @@
 - https://khalilstemmler.com/articles/client-side-architecture/introduction/
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
+## LIST / AWESOME
+- https://github.com/enaqx/awesome-react
+- https://github.com/unicodeveloper/awesome-nextjs
+- https://github.com/brillout/awesome-react-components
+- https://github.com/sudheerj/reactjs-interview-questions
+- https://github.com/olegrjumin/awesome-react-state-management
+
 ## HTTP PROMISE 
 - https://developer.mozilla.org/en-US/docs/Web/API/GlobalFetch/fetch
 - http://andrewhfarmer.com/ajax-libraries/
@@ -194,12 +201,6 @@
 - https://github.com/airbnb/visx
 - https://github.com/plouc/nivo
 
-## LIST
-
-- https://github.com/enaqx/awesome-react
-- https://github.com/brillout/awesome-react-components
-- https://github.com/sudheerj/reactjs-interview-questions
-
 ## DEMO
 - https://github.com/narendrasss/NotANumber
 
@@ -223,7 +224,6 @@
 - https://github.com/juristr/blog-series-nextjs-nx
 - https://github.com/module-federation/nextjs-mf
 - https://github.com/serverless-stack/open-next
-
 - https://github.com/RevereCRE/relay-nextjs
 - https://github.com/next-boost/next-boost
 - https://github.com/graphlatte/graphlatte

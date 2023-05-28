@@ -54,6 +54,7 @@
 - https://github.com/xolvio/typescript-event-sourcing
 - https://github.com/stemmlerjs/simple-typescript-starter
 - https://github.com/kettanaito/create-typescript-library
+- https://github.com/JoshuaKGoldberg/template-typescript-node-package
 - https://github.com/takuya-motoshima/esm-and-other-format-libraries-starter
 
 ## DEVTOOLS

@@ -125,14 +125,18 @@
 - https://github.com/eumemic/ai-legion
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
+- https://github.com/artidoro/qlora
 
 ## LIB: IMAGE
 - https://github.com/openai/shap-e
+- https://github.com/katanaml/sparrow
+- https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/deep-floyd/IF
 - https://github.com/Stability-AI/StableLM
+- https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 

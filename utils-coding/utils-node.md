@@ -17,6 +17,7 @@
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/web-infra-dev/modern.js
 - https://github.com/time-loop/only-allow
+- https://github.com/cnpm/npminstall
 - https://github.com/ije/esm.sh
 - https://github.com/nvm-sh/nvm
 - https://github.com/pnpm/pnpm

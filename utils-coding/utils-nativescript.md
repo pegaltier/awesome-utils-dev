@@ -58,5 +58,6 @@ Publish to Google Play for beta testing or public distribution.
 - https://github.com/NativeScript/nx
 
 ## EXAMPLE
+- https://github.com/vallemar/nativescript-airbnb_ui
 - https://github.com/mahmoudajawad/nx-ns-shared
 - https://github.com/nawah-io/sdks

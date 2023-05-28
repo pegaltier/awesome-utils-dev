@@ -420,6 +420,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/orderbooks
+- https://github.com/Kucoin/kucoin-api-docs
 - https://github.com/tiagosiebler/awesome-crypto-examples
 - https://github.com/coinexcom/coinex_exchange_api
 - https://github.com/binance/binance-api-postman

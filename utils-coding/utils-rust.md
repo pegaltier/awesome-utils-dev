@@ -34,6 +34,9 @@
 - https://github.com/flosse/rust-web-framework-comparison
 - https://github.com/dymayday/bearded-happiness/tree/master/rust
 
+## STARTER
+- https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite
+
 ## HELPER
 
 ```

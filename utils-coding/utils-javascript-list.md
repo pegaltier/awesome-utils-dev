@@ -309,9 +309,9 @@
 - https://github.com/fingerprintjs/fingerprintjs
 - https://github.com/arthurfiorette/tinylibs
 - https://github.com/jekuer/add-to-calendar-button
-- https://github.com/Unleash/unleash
 - https://github.com/kach/nearley
 - https://github.com/aui/art-template
+- https://github.com/sindresorhus/get-stream
 - https://github.com/meriyah/meriyah
 - https://github.com/SerkanSipahi/app-decorators
 
@@ -346,6 +346,7 @@
 - https://github.com/ezzabuzaid/tiny-injector
 - https://github.com/mgechev/injection-js
 - https://github.com/inversify/InversifyJS
+- https://github.com/morganstanley/needle
 - https://github.com/mnasyrov/ditox
 - https://github.com/radzserg/rsdi
 - https://github.com/Livshitz/di.libx.js
@@ -464,7 +465,6 @@
 - https://github.com/TanStack/router
 - https://github.com/Aaronius/penpal
 - https://github.com/omrilotan/isbot
-- https://github.com/Leaflet/Leaflet
 - https://github.com/any86/any-touch
 - https://github.com/matthewp/robot
 - https://github.com/grid-js/gridjs
@@ -495,6 +495,9 @@
 
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus
+- https://github.com/Leaflet/Leaflet
+- https://github.com/openlayers/openlayers
+- https://github.com/Developer-Plexscape/ol-zoom-level
 
 ## LIB: CHART
 - https://github.com/tradingview/lightweight-charts

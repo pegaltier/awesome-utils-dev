@@ -1349,6 +1349,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/TinkoffCreditSystems/microzord
 - https://github.com/matt-gold/single-spa-angular-cli
 - https://github.com/billyjov/microfrontend-resources
+- https://github.com/Azure-Samples/contoso-real-estate
 - https://github.com/rajasegar/awesome-micro-frontends
 - https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer
@@ -1763,6 +1764,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: PRETTIER
 - https://github.com/NiklasPor/prettier-plugin-organize-attributes
 - https://github.com/trivago/prettier-plugin-sort-imports
+- https://github.com/IanVS/prettier-plugin-sort-imports
 - https://github.com/prettier/tslint-config-prettier
 - https://github.com/yoavbls/pretty-ts-errors
 
@@ -2603,6 +2605,7 @@ Add a progressbar for displaying a loader during the different async task like h
 
 ## ECOSYSTEM: LIB: COMPONENT: EDITOR / WYSIWYG 
 - https://github.com/lon-yang/ngx-markdown-editor
+- https://github.com/ckeditor/ckeditor5-angular
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/kolkov/angular-editor
 - https://github.com/stevermeister/ngx-wig
@@ -2855,6 +2858,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brandonroberts/nx-ng-ssr
 - https://github.com/eneajaho/universal-zoneless
 - https://github.com/servrox/nx-ng-nest-universal
+- https://github.com/eneajaho/ng-fetch-ssr-workers
 - https://github.com/ganatan/angular-transferstate
 - https://github.com/TrilonIO/angular-universal-v9
 - https://github.com/adisreyaj/layer0-angular-example

@@ -4,6 +4,7 @@
 ## BASICS
 
 - https://websecurity-academy.com/
+- https://github.com/pavanw3b/sh00t
 - https://github.com/danielmiessler/SecLists
 - https://github.com/Igglybuff/awesome-piracy
 - https://github.com/Azure/Azure-Network-Security
