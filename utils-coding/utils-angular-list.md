@@ -3111,6 +3111,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## ECOSYSTEM: VSCODE BEST
 
+- https://marketplace.visualstudio.com/items?itemName=stateful.runme
 - https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
 - https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally

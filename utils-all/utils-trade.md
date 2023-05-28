@@ -118,9 +118,12 @@
 - adx is below 20 then it's a ranging cycle (choppy)
 - adx is above 20 then it's a trending cycle (directionnal)
 
-## Strat: Rsi
-- When RSI goes below 45 on a daily timeframe it's bearish. (below 30 hyper bearish but also expect big reverse)
-- When RSI goes above 55 on a daily timeframe it's bullish. (above 70 hyper bullish but also expect big reverse)
+## Strat: Rsi long term
+- When RSI (14 period or more) goes below 45 on a daily timeframe it's bearish. (below 30 hyper bearish but also expect big reverse)
+- When RSI (14 period or more) goes above 55 on a daily timeframe it's bullish. (above 70 hyper bullish but also expect big reverse)
+
+## Strat: Rsi short term
+- When RSI (2 or 3 period) goes below 10 or 20 bullish and bearish when RSI goes above 80 or 90. it works well on indices like SPX500 https://www.youtube.com/watch?v=Qo62oiT0xdg
 
 ## Strat: Breakout
 - https://www.youtube.com/watch?v=r7gzyEnPTwg Breakout Trading using the Richard Donchian Channel strategy
@@ -415,8 +418,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ### OSS: EXECUTE
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
+- https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/orderbooks
 - https://github.com/tiagosiebler/awesome-crypto-examples
+- https://github.com/coinexcom/coinex_exchange_api
 - https://github.com/binance/binance-api-postman
 - https://github.com/bybit-exchange/QuickStartWithPostman
 - https://github.com/liquiditygoblin/1inch-cli
@@ -471,6 +476,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/SockTrader/SockTrader
 - https://github.com/project-nv/night-vision
 - https://github.com/bennycode/trading-signals
+- https://github.com/imxeno/tradingview-scraper
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
 - https://github.com/tradingview/lightweight-charts

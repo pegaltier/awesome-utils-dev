@@ -125,6 +125,7 @@
 - https://github.com/jasonkuhrt/molt
 - https://github.com/arcanis/clipanion
 - https://github.com/npkgz/cli-progress
+- https://github.com/vadimdemedes/pastel
 - https://github.com/sindresorhus/trash-cli
 - https://github.com/sindresorhus/fkill-cli
 - https://docs.npmjs.com/cli/ci.html

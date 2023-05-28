@@ -69,6 +69,7 @@
 ## OSS: DEV
 - https://github.com/ProxymanApp/Proxyman
 - https://github.com/Infisical/infisical
+- https://github.com/stateful/runme
 - https://www.mendable.ai/
 
 ## OSS: COLLABORATE
@@ -92,6 +93,7 @@
 - https://github.com/pluja/awesome-privacy
 - https://github.com/neiesc/awesome-minimalist
 - https://github.com/alexanderisora/startuptoolbox
+- https://github.com/btw-so/open-source-alternatives
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://github.com/quadeare/selfhosted-software-list
 - https://github.com/RunaCapital/awesome-oss-alternatives
