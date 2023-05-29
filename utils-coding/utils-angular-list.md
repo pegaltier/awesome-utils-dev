@@ -1593,6 +1593,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/flowaccount/nx-plugins
 
 ## ECOSYSTEM: LIB: MONOREPO: NX CACHE (TOADD)
+- https://github.com/bojanbass/nx-aws
 - https://github.com/nrwl/nx-cloud-helm
 - https://github.com/thiagobbt/nx-remotecache-s3
 - https://github.com/NiklasPor/nx-remotecache-azure
@@ -1770,6 +1771,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: LINT
 - https://github.com/stylelint/stylelint
+- https://github.com/stylelint-scss/stylelint-scss
 - https://github.com/htmlhint/HTMLHint
 - https://github.com/palantir/tslint
 - https://github.com/eslint/eslint
@@ -3249,11 +3251,12 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://devchat.tv/adv-in-angular/
 - https://github.com/ngRuAir/ngruair
 - https://www.twitch.tv/brandontroberts
+- https://soundcloud.com/angularlicious
 - https://www.youtube.com/c/Angular/videos
+- https://podcasts.apple.com/us/podcast/the-angular-plus-show/id1501989276
 - https://blog.meetupfeed.io/2021-top-angular-meetup-videos/
 - https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw/featured
 - https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/featured
-- https://soundcloud.com/angularlicious/angular-architecture-part-2-with-lars-still-getting-rid-of-modules
 
 ## ECOSYSTEM: ARTICLES
 
@@ -3297,6 +3300,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ### ANGULAR16
 - https://indepth.dev/posts/1519/router-data-as-components-inputs-in-angular-v16
+- https://dev.to/this-is-angular/minko-gechev-on-angular-16-17-game-changer-or-loss-of-identity--5lk
 
 ### ANGULAR15
 - https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8

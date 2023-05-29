@@ -17,6 +17,7 @@
 - https://github.com/1Password/typeshare
 - https://github.com/Aleph-Alpha/ts-rs
 - https://github.com/RustScan/RustScan
+- https://github.com/s-panferov/valico
 - https://github.com/tauri-apps/tauri
 - https://github.com/otake84/dlhn
 - https://github.com/BloopAI/bloop

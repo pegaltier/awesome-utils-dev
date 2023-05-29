@@ -13,6 +13,18 @@
 
 ## PODCAST
 - https://chatwithtraders.com/
+- https://kjtradingsystems.com/podcasts.html
+- https://anthonycrudele.com/futuresradioshow/podcast/293/
+
+## BOOKS
+- https://www.amazon.com/ADXcellence-Strategies-Charles-B-Schaap/dp/0977713210
+- https://www.amazon.com/Momentum-Masters-Roundtable-Interview-Traders-ebook/dp/B0147NLBUI
+
+## STRATEGY
+- https://www.quantifiedstrategies.com/john-ehlers-trading-strategy/
+- https://www.quantifiedstrategies.com/short-term-trading-strategy/
+- https://www.quantifiedstrategies.com/new-5-day-low-in-spy-and-closes-in-the-low-of-the-range/
+- https://medium.datadriveninvestor.com/profit-like-a-pro-a-practical-guide-to-backtesting-and-optimizing-trading-strategies-with-vectorbt-8ade621a4e14
 
 ## AUTOMATED
 - https://www.quantifiedstrategies.com/
@@ -270,7 +282,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 -  Those are not even recommended. In general, limit orders can result in unrealistic backtests due to liquidity constraints. If the limit is reached you may not be able to execute 1/10 of your size without impact. Market markets won't make it easy for you. In fact,  they will take the other side. The backtest may show a 1% gain for a trade, but the real gain maybe 0.01% or even a loss. 
 
-## TRADINGVIEW
+## TRADINGVIEW CODING
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/
 - https://kodify.net/tradingview/plots/line-plot/
@@ -287,6 +299,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tradingview.com/pine-script-docs/en/v4/language/Operators.html
 - https://www.tradingview.com/pine-script-docs/en/v5/concepts/Plots.html
 - https://stackoverflow.com/questions/48656195/what-is-the-equivalent-of-console-log-in-pine-script
+
+## TRADINGVIEW INDICATOR
+- https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 
 ## TOOLS
 - https://www.tradingview.com/

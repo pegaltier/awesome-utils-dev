@@ -47,6 +47,7 @@
 - https://github.com/decalage2/awesome-security-hardening
 - https://github.com/Authenticator-Extension/Authenticator
 - https://github.com/mgeeky/Penetration-Testing-Tools
+- https://github.com/hackerschoice/ssh-key-backdoor
 - https://github.com/Orange-Cyberdefense/KeePwn
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/DontPanicO/jwtXploiter
@@ -62,6 +63,7 @@
 - https://github.com/hashcat/hashcat
 - https://github.com/gchq/CyberChef
 - https://github.com/CISOfy/lynis
+- https://github.com/D3Ext/WEF
 
 ## WEB SCAM / VIRUS
 - safebrowsing.google.com/safebrowsing/report_phish/?hl=en

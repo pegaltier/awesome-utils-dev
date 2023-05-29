@@ -554,6 +554,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/
 - https://www.bram.us/2021/04/30/scroll-linked-animations-with-css-scroll-timeline-css-cafe/
 - https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/
+- https://github.com/Ritika-Agrawal811/css-and-js-code-snippets
 - https://martinlaxenaire.medium.com/portfolio-2021-technical-case-study-rendering-a-whole-html-website-in-webgl-1cd2982c2050
 
 ## CREATIVE COURSES

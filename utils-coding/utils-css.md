@@ -2,6 +2,7 @@
 
 ## TOOLS 
 
+- https://fonty.io/
 - http://pxtoem.com/
 - https://csslayout.io/
 - https://animista.net/
@@ -99,6 +100,7 @@
 
 ## TAILWIND
 
+- https://hypercolor.dev/#gradients
 - https://tailblend.vercel.app/
 - https://github.com/unocss/unocss
 - https://github.com/ndaba1/twinit
