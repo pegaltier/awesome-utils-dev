@@ -20,3 +20,4 @@
 - https://github.com/vuejs/vue-router-next
 - https://github.com/quatrochan/Equal
 - https://github.com/posva/pinia
+- https://github.com/tresjs/tres

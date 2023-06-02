@@ -128,10 +128,12 @@
 - https://github.com/artidoro/qlora
 
 ## LIB: IMAGE
+- https://github.com/s0md3v/roop
 - https://github.com/openai/shap-e
 - https://github.com/katanaml/sparrow
 - https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
+- https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/deep-floyd/IF

@@ -974,6 +974,7 @@ Learn everything about angular universal, make a good SEO.
 - https://stackblitz.com/edit/angular-ednkcj
 - https://github.com/nartc/ng-signals-conduit
 - https://angular-signals.netlify.app/
+- https://www.angulararchitects.io/aktuelles/angular-signals-your-architecture-5-options/
 
 ## CORE: ERROR HANDLER
 
@@ -2606,12 +2607,14 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/gravitee-io/gravitee-ui-particles
 
 ## ECOSYSTEM: LIB: COMPONENT: EDITOR / WYSIWYG 
+- https://github.com/Developer-Plexscape/ngx-grapesjs
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/ckeditor/ckeditor5-angular
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/kolkov/angular-editor
 - https://github.com/stevermeister/ngx-wig
 - https://github.com/sibiraj-s/ngx-editor
+- https://github.com/zserge/awfice
 
 ## ECOSYSTEM: LIB: COMPONENT: MEDIA
 - https://github.com/daybrush/infinite-viewer
@@ -3135,6 +3138,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=tomwhite007.rename-angular-component
 - https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector
 - https://marketplace.visualstudio.com/items?itemName=ThorstenRintelen.angular-spec-generator
+- https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 
 ## ECOSYSTEM: VSCODE PERSO
 

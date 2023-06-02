@@ -5,6 +5,7 @@
 
 ## LEARN
 
+- https://www.routledge.com/Mastering-NativeScript-A-Beginners-Guide/Uzayr/p/book/9781032289731
 - http://docs.nativescript.org/angular/start/quick-setup 
 - https://docs.nativescript.org/start/ns-setup-win 
 - http://docs.nativescript.org/angular/tutorial/ng-chapter-1 

@@ -90,3 +90,6 @@
 - https://medium.com/@romain.kelifa/combining-decorators-for-easy-data-manipulation-d21eb00d8868
 - https://blog.logrocket.com/serialization-in-nestjs-a-different-approach/
 - https://docs.nestjs.com/techniques/serialization
+
+## TUTOS
+- https://wanago.io/2023/01/16/api-nestjs-docker-compose/
