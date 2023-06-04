@@ -113,6 +113,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 ## SLIM PHP UTILS
 - https://github.com/odan/slim-checker
 - https://github.com/xssc/awesome-slim
+- https://github.com/slimphp/PHP-View
 - https://github.com/zhorton34/authorize-slim-4
 - https://github.com/selective-php/samesite-cookie
 - https://github.com/akrabat/rka-slim-session-middleware
@@ -129,6 +130,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/laminas/laminas-hydrator
 - https://github.com/laminas/laminas-permissions-acl/
 - https://aimeos.org/slim-ecommerce-package/
+- https://github.com/geggleto/slim-do-app
 - https://github.com/HavenShen/slim-born
 - https://github.com/awurth/SlimValidation
 - https://github.com/Neoflow/Session

@@ -62,9 +62,6 @@
 - https://www.sonatype.com/products/repository-pro
 - https://www.sslshopper.com/ssl-checker.html
 
-## TOOLS CI/CD
-- https://github.com/earthly/earthly
-
 ## TOOLS OSS
 - https://github.com/six-ddc/plow
 - https://github.com/ekzhang/bore

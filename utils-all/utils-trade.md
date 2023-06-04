@@ -492,6 +492,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/SockTrader/SockTrader
 - https://github.com/project-nv/night-vision
 - https://github.com/bennycode/trading-signals
+- https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/anandanand84/technicalindicators

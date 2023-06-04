@@ -235,6 +235,7 @@
 - https://github.com/amiroff/NextBook
 - https://github.com/maticzav/nookies
 - https://github.com/vercel/commerce
+- https://github.com/un33k/taxonomy
 - https://github.com/shuding/nextra
 - https://github.com/alii/nextkit
 

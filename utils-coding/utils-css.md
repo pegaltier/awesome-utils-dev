@@ -82,6 +82,7 @@
 - https://github.com/picocss/pico
 - https://github.com/dhg/Skeleton
 - https://github.com/r1/cssbuttons
+- https://github.com/css-modules/icss
 - https://github.com/jonsuh/hamburgers
 - https://github.com/callstack/linaria
 - https://github.com/FullHuman/purgecss

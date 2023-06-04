@@ -249,6 +249,7 @@
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
 - https://github.com/JSMonk/hegel
 - https://github.com/kieler/elkjs
+- https://github.com/sokra/source-map-visualization
 - https://github.com/guybedford/es-module-lexer
 - https://github.com/browserslist/browserslist-useragent
 - https://github.com/krisk/Fuse

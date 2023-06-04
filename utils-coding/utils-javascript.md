@@ -183,3 +183,8 @@ let promise = new Promise(function(resolve, reject) {
 - optional chaining operator (?.) permits reading the value of a property located deep within a chain of connected objects without having to expressly validate that each reference in the chain. Instead of causing an error if a reference is nullish (null or undefined), the expression short-circuits with a return value of undefined.
 - typeof operator returns a string indicating the type of the unevaluated operand
 - non-null assertion operator (myExpr!;) tell the Typescript compiler explicitly that an expression has value other than null or undefined
+
+### EVOLUTION
+
+#### 2023
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/with

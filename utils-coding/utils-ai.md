@@ -117,10 +117,12 @@
 ## LIB: LLM
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
+- https://github.com/lyuchenyang/Macaw-LLM
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/eugeneyan/open-llms
 - https://github.com/hwchase17/langchain
 - https://github.com/nat/openplayground
+- https://github.com/reactorsh/ambrosia
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/lamini-ai/lamini

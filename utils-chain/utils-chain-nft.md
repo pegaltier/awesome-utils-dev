@@ -376,6 +376,7 @@ forgeries in NFTs, meta data...
 - https://github.com/hicetnunc2000/hicetnunc
 - https://github.com/i3games/hen-timeline
 - https://github.com/jamesporter/solandra
+- https://github.com/cpojer/palette-swap
 - https://github.com/Flawm/solana_minter
 - https://github.com/21e8/sol-nft-tools
 - https://github.com/holaplex/holaplex

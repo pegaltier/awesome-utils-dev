@@ -67,6 +67,7 @@
 - https://github.com/keepassx/keepassx
 
 ## OSS: DEV
+- https://github.com/linuxserver/docker-wireguard
 - https://github.com/ProxymanApp/Proxyman
 - https://github.com/Infisical/infisical
 - https://github.com/stateful/runme

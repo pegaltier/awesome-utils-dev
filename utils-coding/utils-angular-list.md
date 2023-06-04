@@ -2171,6 +2171,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
 - https://github.com/faker-js/faker
+- https://github.com/automock/automock
 - https://github.com/vitest-dev/vitest
 - https://github.com/sharkdp/hyperfine
 - https://github.com/mmkal/expect-type
@@ -2793,6 +2794,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/IRobot1/ng3-cannon-template
 - https://github.com/hoebbelsB/ng-contextual-state
 - https://github.com/JiaLiPassion/scoped-zone-sample
+- https://github.com/rainerhahnekamp/angular-testing-status
 - https://github.com/joshuamorony/ng-template-outlet-example
 
 ## ECOSYSTEM: DEMO: TRAINING
