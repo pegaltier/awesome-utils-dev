@@ -2093,6 +2093,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/storybookjs/storybook
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/deanius/storybook-animate
+- https://github.com/storybookjs/addon-styling
 - https://github.com/UX-and-I/storybook-design-token
 - https://github.com/hipstersmoothie/storybook-dark-mode
 - https://www.chromatic.com/
@@ -2193,6 +2194,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/getsaf/shallow-render
 - https://github.com/omermorad/mockingbird
 - https://github.com/just-jeb/jest-marbles
+- https://github.com/Pythagora-io/pythagora
 - https://github.com/omermorad/jest-gherkin
 - https://github.com/atlassian/jest-in-case
 - https://github.com/briebug/jest-schematic

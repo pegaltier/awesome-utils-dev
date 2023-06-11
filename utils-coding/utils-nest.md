@@ -27,11 +27,12 @@
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/nestjs-addons/platform
 - https://github.com/BeerMoneyDev/nest-monk
+- https://github.com/nestjs/class-validator
 - https://github.com/doug-martin/nestjs-query
 - https://github.com/nestjs/class-transformer
-- https://github.com/nestjs/class-validator
 - https://github.com/nestjsx/nestjs-braintree
 - https://github.com/panva/node-oidc-provider
+- https://github.com/rogerballard/nestjs-relay
 - https://github.com/pragmaticivan/nestjs-otel
 - https://github.com/ToonvanStrijp/nestjs-i18n
 - https://github.com/railsstudent/nestjs-health

@@ -44,6 +44,7 @@
 - https://github.com/JS-DevTools/npm-publish
 - https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
+- https://github.com/freeall/progress-stream
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/sindresorhus/is-docker

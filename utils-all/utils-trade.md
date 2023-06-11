@@ -478,6 +478,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ### OSS: PYTHON
 
 - https://github.com/ssantoshp/Wizardry
+- https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 
 ### OSS: JAVASCRIPT

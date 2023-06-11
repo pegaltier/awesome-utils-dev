@@ -51,6 +51,7 @@
 - https://github.com/Orange-Cyberdefense/KeePwn
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/DontPanicO/jwtXploiter
+- https://github.com/MCRcortex/nekodetector
 - https://github.com/mitmproxy/mitmproxy
 - https://github.com/ndelphit/apkurlgrep
 - https://github.com/goodwithtech/dockle

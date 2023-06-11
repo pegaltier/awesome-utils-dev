@@ -110,6 +110,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 ### HOLOCHAIN-RSM GITHUB (NEW)
 - https://github.com/stars/Connoropolous/lists/awesome-holochain
+- https://github.com/Holo-Host/hc-multiplexer
 - https://github.com/holochain/scaffolding
 - https://github.com/Holo-Host/web-sdk-ionic-demo
 - https://github.com/holochain/hc-zome-lib
@@ -208,6 +209,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/guillemcordoba/assemble
 - https://github.com/nphias/transactor
 - https://github.com/nphias/nPersonas
+- https://github.com/nphias/invitations-test
+- https://github.com/nphias/team-mates NG16
 - https://github.com/Sprillow/cmdchatter
 - https://github.com/kristoferlund/hc-graphql-todo
 - https://github.com/eyss/holochain-turn-based-game

@@ -104,6 +104,7 @@
 - https://github.com/abacaj/chatgpt-backup
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/imartinez/privateGPT
+- https://github.com/xiangsx/gpt4free-ts
 - https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/keijiro/AICommand
 - https://github.com/lgrammel/js-agent

@@ -103,6 +103,7 @@
 - https://github.com/artsy/fresnel
 - https://github.com/TimboKZ/Chonky
 - https://github.com/moroshko/basis
+- https://github.com/TanStack/table
 - https://github.com/vazco/uniforms
 - https://github.com/Swizec/useAuth
 - https://github.com/formium/formik
@@ -128,6 +129,7 @@
 - https://github.com/zoontek/react-chicane
 - https://github.com/paypal/react-paypal-js
 - https://github.com/InseeFrLab/keycloakify
+- https://github.com/tjallingt/react-youtube
 - https://github.com/omgovich/react-colorful
 - https://github.com/mariusandra/pigeon-maps
 - https://github.com/STRML/react-grid-layout
@@ -144,6 +146,7 @@
 - https://github.com/aaronvanston/react-flexa
 - https://github.com/kettanaito/atomic-layout
 - https://github.com/wellyshen/react-cool-form
+- https://github.com/prabhuignoto/react-chrono
 - https://github.com/tannerlinsley/react-query
 - https://github.com/meganetaaan/react-moddable
 - https://github.com/hupe1980/react-script-hook
@@ -192,6 +195,7 @@
 - https://github.com/mantinedev/mantine
 - https://github.com/tremorlabs/tremor
 - https://github.com/ZEISS/precise-ui
+- https://github.com/ariakit/ariakit
 - https://github.com/WTTJ/welcome-ui
 - https://github.com/grommet/grommet
 - https://github.com/rebassjs/rebass
@@ -234,6 +238,7 @@
 - https://github.com/egoist/next-connect
 - https://github.com/amiroff/NextBook
 - https://github.com/maticzav/nookies
+- https://github.com/lowdefy/lowdefy
 - https://github.com/vercel/commerce
 - https://github.com/un33k/taxonomy
 - https://github.com/shuding/nextra
