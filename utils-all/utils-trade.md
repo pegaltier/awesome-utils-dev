@@ -11,6 +11,10 @@
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
+## SITES
+- https://quantpedia.com/
+- https://robotjames.com/
+
 ## PODCAST
 - https://chatwithtraders.com/
 - https://kjtradingsystems.com/podcasts.html
@@ -306,7 +310,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## TOOLS
 - https://www.tradingview.com/
 - https://www.haasonline.com/
-- https://www.marketinout.com/
+- https://www.marketinout.com/k
 - https://www.tradewell.app/
 - https://strategyquant.com/
 - https://capitalise.ai/
@@ -476,8 +480,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/stellar/kelp
 
 ### OSS: PYTHON
-
 - https://github.com/ssantoshp/Wizardry
+- https://github.com/goldmansachs/gs-quant
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
