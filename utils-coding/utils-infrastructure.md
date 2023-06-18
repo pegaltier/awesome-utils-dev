@@ -92,6 +92,9 @@
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
 
+## TOOLS: LOGS Elasticsearch/Splunk/Datadog
+- https://github.com/openobserve/openobserve
+
 ## TOOLS: MESSAGING
 - https://github.com/aiven/klaw
 
@@ -176,6 +179,7 @@
 - https://github.com/kubernetes/autoscaler
 - https://github.com/shank-git/metal-kubes
 - https://github.com/projectcontour/contour
+- https://github.com/awslabs/eks-node-viewer
 - https://github.com/kubernetes/ingress-nginx
 - https://github.com/viralpoetry/kubesurveyor
 - https://github.com/steveteuber/kubectl-graph

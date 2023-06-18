@@ -223,6 +223,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.simplified.courses/angular-state-management-best-practices/
 - https://medium.com/ngconf/why-you-should-use-canmatch-in-your-routes-97fec434823d
 - https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4
+- https://blog.simplified.courses/angular-state-management-best-practices/
 
 ## HELPER: DESIGN PATTERN
 
@@ -1329,6 +1330,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://single-spa.js.org
 - https://microfrontend.dev
 - https://micro-frontends.org
+- https://module-federation.io
 - https://github.com/SAP/luigi
 - https://github.com/phodal/mooa
 - https://github.com/smapiot/piral
@@ -1612,6 +1614,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/wvanderdeijl/nx-remotecache-gcs
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/brunos3d/nx-rescope
 - https://github.com/nxkit/nxkit
 - https://github.com/JamieMason/syncpack
 - https://github.com/lemonade-hq/traf
@@ -3278,6 +3281,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://soundcloud.com/angularlicious
 - https://www.youtube.com/c/Angular/videos
 - https://podcasts.apple.com/us/podcast/the-angular-plus-show/id1501989276
+- https://podcasters.spotify.com/pod/show/daniel-glejzner/episodes/Angular--Nx-A-Perfect-Duo--Discover-the-Synergy-with-Nx-Core-Team-e24pv0n
 - https://blog.meetupfeed.io/2021-top-angular-meetup-videos/
 - https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw/featured
 - https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/featured

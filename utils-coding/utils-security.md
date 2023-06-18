@@ -57,6 +57,7 @@
 - https://github.com/ndelphit/apkurlgrep
 - https://github.com/goodwithtech/dockle
 - https://github.com/Infisical/infisical
+- https://github.com/Tw1sm/spraycharles
 - https://github.com/chenjj/CORScanner
 - https://github.com/hktalent/scan4all
 - https://github.com/Z4nzu/hackingtool
@@ -109,6 +110,7 @@
 ### ART
 - https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d
 - https://www.hackers-arise.com/post/wi-fi-hacking-using-wifite-for-multiple-attack-strategies-against-wi-fi-ap-s
+- https://www.kitploit.com/2023/06/linkedindumper-tool-to-dump-company.html?m=1
 
 ## Chrome extensions
 - https://gist.github.com/paulirish/78d6c1406c901be02c2d

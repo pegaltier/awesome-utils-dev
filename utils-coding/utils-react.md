@@ -244,6 +244,7 @@
 - https://github.com/un33k/taxonomy
 - https://github.com/shuding/nextra
 - https://github.com/alii/nextkit
+- https://github.com/shadcn/ui
 
 ## NATIVE
 - https://opennative.github.io/

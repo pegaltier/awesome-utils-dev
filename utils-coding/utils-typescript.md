@@ -5,6 +5,7 @@
 
 - https://sulco.stackblitz.io/
 - https://type-level-typescript.com/
+- https://basarat.gitbook.io/typescript/
 - https://github.com/intocare/style-guide
 - https://github.com/sindresorhus/type-fest
 - https://github.com/basarat/typescript-book

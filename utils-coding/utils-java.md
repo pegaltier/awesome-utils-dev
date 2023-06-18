@@ -53,12 +53,14 @@
 - https://github.com/domaframework/doma
 - https://github.com/crnk-project/crnk-framework
 - https://github.com/playframework/playframework
+- https://github.com/micronaut-projects/micronaut-core
 
 ## EXAMPLE
 - https://github.com/crnk-project/crnk-example
 - https://github.com/nilsgumpfer/StrategyDesignPattern
 - https://github.com/nilsgumpfer/AdapterDesignPattern
 - https://github.com/nilsgumpfer/CommandDesignPattern
+- https://github.com/bertjan/quarkus-graalvm-aws-lambda
 
 ## TUTORIALS
 - https://developer.okta.com/blog/2020/05/29/angular-deployment

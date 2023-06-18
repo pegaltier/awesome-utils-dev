@@ -310,7 +310,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## TOOLS
 - https://www.tradingview.com/
 - https://www.haasonline.com/
-- https://www.marketinout.com/k
+- https://www.marketinout.com/
 - https://www.tradewell.app/
 - https://strategyquant.com/
 - https://capitalise.ai/

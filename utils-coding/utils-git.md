@@ -78,6 +78,11 @@
 - https://gitexplorer.com/
 - https://projectr.io/
 
+## OSS
+- https://github.com/github-20k/super-star
+- https://libraries.github20k.com/
+- https://www.github20k.com/
+
 ## GITLAB
 - https://github.com/tavyandy97/span-tree
 

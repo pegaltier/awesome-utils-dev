@@ -26,6 +26,7 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS
+- https://mason.app/
 - https://www.d-id.com/
 - https://www.codewand.co/
 - https://www.codegpt.co/
@@ -104,6 +105,7 @@
 - https://github.com/abacaj/chatgpt-backup
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/imartinez/privateGPT
+- https://github.com/chathub-dev/chathub
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/keijiro/AICommand
@@ -113,9 +115,10 @@
 - https://github.com/xtekky/gpt4free
 - https://github.com/sunner/ChatALL
 - https://github.com/dion-/autoheal
-- https://github.com/chathub-dev/chathub
+- https://github.com/h2oai/h2ogpt
 
 ## LIB: LLM
+- https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
 - https://github.com/lyuchenyang/Macaw-LLM

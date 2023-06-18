@@ -156,7 +156,12 @@
 
 ## AUTH
 - https://github.com/logto-io/logto
+- https://github.com/teamhanko/hanko
 - https://github.com/auth0/auth0-spa-js
+
+## NOTIFICATIONS
+- https://github.com/novuhq/novu
+- https://github.com/OneSignal/OneSignal-Website-SDK
 
 ## GATEWAY
 - https://github.com/Kong/kong
