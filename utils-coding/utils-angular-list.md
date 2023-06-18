@@ -1383,6 +1383,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/module-federation/vite
 - https://github.com/module-federation/universe
 - https://github.com/originjs/vite-plugin-federation
+- https://github.com/vugar005/youtube-webapp-turborepo
 - https://github.com/manfredsteyer/native-federation-core-microfrontend
 - https://github.com/manfredsteyer/native-federation-core-example
 

@@ -79,6 +79,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/flowjs/flow-php-server
 - https://github.com/selective-php/image-type
 - https://github.com/gossi/php-code-generator
+- https://github.com/EventSaucePHP/EventSauce
 - https://github.com/matomo-org/device-detector
 - https://github.com/selective-php/zip-responder
 - https://github.com/FriendsOfCake/crud
