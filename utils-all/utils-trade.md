@@ -478,8 +478,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ### OSS: PYTHON
 
 - https://github.com/ssantoshp/Wizardry
+- https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/AnalyzerREST/python-tradingview-ta
+- https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
+- https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
 
 ### OSS: JAVASCRIPT
 
@@ -495,6 +498,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
+- https://github.com/Haehnchen/crypto-trading-bot
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators

@@ -254,11 +254,10 @@
 - https://github.com/browserslist/browserslist-useragent
 - https://github.com/krisk/Fuse
 - https://github.com/Hexagon/croner
+- https://github.com/JLarky/rad-event-listener
 - https://github.com/EricSmekens/jsep
 - https://github.com/unjs/consola
 - https://github.com/kentcdodds/match-sorter
-- https://github.com/blitz-js/superjson
-- https://github.com/json5/json5
 - https://github.com/nuxt-contrib/consola
 - https://github.com/faisalman/ua-parser-js
 - https://github.com/Jimbly/timezone-mock
@@ -448,6 +447,7 @@
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver
 - https://github.com/formkit/auto-animate
+- https://github.com/dhilt/vscroll-native
 - https://github.com/codex-team/editor.js
 - https://github.com/focus-trap/tabbable
 - https://github.com/missive/emoji-mart
@@ -470,6 +470,7 @@
 - https://github.com/matthewp/robot
 - https://github.com/grid-js/gridjs
 - https://github.com/YC/coming-soon
+- https://github.com/dhilt/vscroll
 - https://github.com/mikecao/umami
 - https://github.com/angus-c/just
 - https://github.com/xdan/jodit
@@ -562,12 +563,15 @@
 
 ## LIB: DATA OBJECT
 - https://github.com/Leonidas-from-XIV/node-xml2js
+- https://github.com/francisrstokes/construct-js
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
-- https://github.com/francisrstokes/construct-js
 - https://github.com/AsyncBanana/microdiff
+- https://github.com/mjbrisebois/js-json
 - https://github.com/quicktype/quicktype
+- https://github.com/blitz-js/superjson
 - https://github.com/calvintwr/issable
+- https://github.com/json5/json5
 
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js

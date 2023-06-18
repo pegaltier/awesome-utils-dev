@@ -156,6 +156,7 @@
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/outline/rich-markdown-editor
+- https://github.com/benhowell/react-grid-gallery
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/tannerlinsley/react-location

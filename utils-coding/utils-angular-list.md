@@ -1061,6 +1061,10 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://www.angularjswiki.com/angular/directive-composition-api-in-angular-15/
 - https://github.com/angular/angular/issues/8785
 
+## ECOSYSTEM: COMPANIES
+- https://github.com/briebug
+- https://github.com/Tinkoff
+
 ## ECOSYSTEM: AUTHENTIFICATION
 
 - https://github.com/abacritt/angularx-social-login
@@ -1321,6 +1325,7 @@ Discover alternative to ngrx for the state management of your objects.
 
 - https://frint.js.org
 - https://www.mosaic9.org
+- https://www.medusa.codes
 - https://single-spa.js.org
 - https://microfrontend.dev
 - https://micro-frontends.org
@@ -1369,8 +1374,10 @@ Discover alternative to ngrx for the state management of your objects.
 - https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
 - https://www.angulararchitects.io/konferenzen/the-microfrontend-revolution-module-federation-with-angular/
 - https://dev.to/manfredsteyer/tutorial-getting-started-with-webpack-module-federation-and-angular-2edd?utm_source=dormosheio&utm_campaign=dormosheio
+- https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669
 - https://www.youtube.com/watch?v=-ThsrA8hRLc AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 - https://www.youtube.com/watch?v=tsIZjUAtF1U Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
+- https://www.youtube.com/watch?v=BxE01ZSshiQ smapiot - Micro Frontends Conference 2023
 
 ## ECOSYSTEM: MICROFRONTEND: FEDERATION
 - https://github.com/module-federation/vite
@@ -1458,6 +1465,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://codeburst.io/continuous-integration-lint-staged-husky-pre-commit-hook-test-setup-47f8172924fc
 - https://offering.solutions/blog/articles/2021/01/27/starting-angular-projects-with-nx/
 - https://emilyxiong.medium.com/my-nx-project-boilerplate-7e0aa95f848
+- https://ng-journal.com/blog/2023-06-11-fine-grained-architecture-with-nx/
 
 ## ECOSYSTEM: INCREMENTAL
 
@@ -1605,6 +1613,8 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/nxkit/nxkit
 - https://github.com/JamieMason/syncpack
+- https://github.com/lemonade-hq/traf
+- https://github.com/lucasvieirasilva/nx-plugins
 - https://github.com/gioragutt/nx-pwm
 - https://github.com/bit-architect/nx-utils
 - https://github.com/ndrsg/nx-ext
@@ -2842,6 +2852,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/nikosanif/angular-authentication
 - https://github.com/bezkoder/angular-13-crud-example
 - https://github.com/lacolaco/angular-testing-recipes
+- https://github.com/PatrickJS/angular-server-services
 - https://github.com/rainerhahnekamp/demo-angular-14-2
 - https://github.com/markostanimirovic/standalone-ngrx
 - https://github.com/pankajparkar/lazy-loading-recipes
@@ -2851,6 +2862,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ultrasonicsoft/ng-application-builder
 - https://github.com/bezkoder/angular-material-14-file-upload
 - https://github.com/bezkoder/angular-15-multiple-file-upload
+- https://github.com/DanWahlin/angular-interfaces-classes-types
 - https://github.com/jakovljevic-mladen/ng-pagination-rx-streams
 - https://github.com/oktadev/okta-angular-dynamic-components-example
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
@@ -2877,6 +2889,9 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/TrilonIO/angular-universal-tutorial
 - https://github.com/mehrad-rafigh/nx-angular-universal
 - https://github.com/rainerhahnekamp/angular-ssr-assets-folder-httpclient
+
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: NX
+- https://github.com/HaasStefan/fine-grained-libs-with-nx
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SCULLY
 

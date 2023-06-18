@@ -91,7 +91,9 @@
 - https://frontendchecklist.io
 - http://webdevchecklist.com/
 - https://github.com/joshbuchea/HEAD
+- https://github.com/sitespeedio/coach
 - https://github.com/validator/validator
+- https://github.com/push-based/user-flow
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://github.com/alphagov/accessibility-tool-audit
 - https://codeburst.io/the-front-end-checklist-8b2292fdda44
@@ -525,6 +527,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/russellsamora/scrollama
 - https://github.com/developedbyed/3d-scroll-ball
 - https://github.com/codrops/MenuToGrid
+- https://github.com/codrops/LineTypeEffect
 - https://github.com/codrops/RapidImageHoverMenu
 - https://github.com/codrops/LineHoverStyles
 - https://github.com/codrops/TooltipTransition
