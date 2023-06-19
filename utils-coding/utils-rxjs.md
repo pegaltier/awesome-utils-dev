@@ -24,9 +24,9 @@
 
 ## HOT VS COLD
 
-- COLD (i.e interval, http requests) ==> are unicast as each subscriber gets data from different producer. It's cold when your observable creates the producer (data is produced inside the Observable.) Some observables will not produce any value if they are not listened to or observed via the subscribe function. They are called cold. Well another definition: An Observable is cold when 
+- COLD (i.e interval, http requests) ==> are unicast as each subscriber gets data from different producer. "cold" observable will  produce value only if they are  listened to or observed via the subscribe function. in other word if there is no subscription, there is no producer/no event listener, They are called cold. ex with http module each subscriber is firing a new http request; because it has its own producer . Sometimes we also say it's cold when your observable creates the producer (data is produced inside the Observable.) timer is a special case it's a infinite cold observable.
 
-- HOT (fromEvent click, ngrx selectors) ==> are multicast as all subscribers get data from the same producer. It's hot when your observable closes over the producer (data is produced outside the Observable.) Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (it seems logical).
+- HOT (fromEvent click, ngrx selectors) ==> are multicast as all subscribers get data from the same producer. the producer is always active, if you subscribe you get the value and you can subscribe many times and get the same producer because it's multicast. It's hot when your observable closes over the producer (data is produced outside the Observable.) Conversely, some are described as hot when values are produced even if the flow has no subscription. This is the case when you create a feed to listen to the user's clicks. Values are produced even if one does not subscribe to this observable (there is no subscription) (it seems logical).
 
 ## OBSERVABLE
 
@@ -94,7 +94,7 @@ subscription.unsubscribe(); // unsubscribe
 ```
 ### OPERATORS (FRENCH)
 
-• take(n) va piocher les n premiers éléments. take(1) est presque similaire a first() L'opérateur first() prend une fonction de prédicat facultative et émet une notification d'erreur lorsqu'aucune valeur ne correspond lors du complete.
+• take(n) va piocher les n premiers éléments. take(1) ne se déclenchera pas (et ne terminera pas le flux observable) au cas où l'observable d'origine n'émettrait jamais, take(1) ne se désabonne pas lorsque le composant est détruit. L'abonnement reste actif jusqu'à ce que la première valeur soit émise, que le composant soit actif ou détruit. take(1) est presque similaire a first() L'opérateur first() prend une fonction de prédicat facultative et émet une notification d'erreur lorsqu'aucune valeur ne correspond lors du complete.
 • map(fn) va appliquer la fonction fn sur chaque événement et retourner le résultat.  
 • filter(predicate) laissera passer les seuls événements qui répondent positivement au prédicat.  
 • reduce(fn) appliquera la fonction fn à chaque événement pour réduire le flux à une seule valeur unique.  
@@ -200,24 +200,54 @@ Both shareReplay and publishReplay (+ calling connect on it) will make the obser
 - https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
 - https://stackoverflow.com/questions/41797439/rxjs-observable-combinelatest-vs-observable-forkjoin
 
+### MORE ARTICLES
+
+- https://medium.com/angular-in-depth/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0
+
 ## TEST
 
 - https://twitter.com/bartosz_wasilew/status/1625762614986022914
-
+- https://fireship.io/snippets/testing-rxjs-observables-with-jest/
 
 ```javascript
-// Done function
-it('done func', (done: DoneCallback) ⇒ {
+
+// waitForAsync use case: you method triggers other calls like HTTP calls or timeouts, which you don't have any control over.
+it('WaitForAsync exemple', waitForAsync(() => {
+      let expectedUsers;
+      userListComponent.users.subscribe((users: User[]) =>
+            setTimeout(() = {
+            expectedUsers = users;
+            }, 2000);
+      );
+      expect(expectedUsers).toStrictEqual(usersMock);
+}));
+
+// Done function useful to control the lifecycle
+it('DoneCallback smple exemple', (done: DoneCallback) => {
       userListComponent.users.subscribe((expectedUsers: User[]) ==> {
             expect(expectedUsers).toStrictEqual(usersMock);
             done();
       });
 });
 
+// Complex scenario: the observable interval emits 100 then 200 then 300
+test('DoneCallback complex example', (done) => {
+        let last = 100;
+        from([100, 200, 300])
+        .subscribe({
+            next: val => {
+                expect(val).toBe(last)
+                last += 100
+              },
+            complete: () => done(),
+        })
+            
+});
+
 // Fake Async & Tick
-it('Fake async & tick', fakeAsync(() ⇒ {
+it('Fake async & tick', fakeAsync(() => {
       let expectedUsers;
-      userListComponent.users.subscribe((users: User[]) ⇒
+      userListComponent.users.subscribe((users: User[]) =>
             setTimeout(() = {
             expectedUsers = users;
             }, 2000);
@@ -227,20 +257,20 @@ it('Fake async & tick', fakeAsync(() ⇒ {
 }));
 
 // First Value From
-it('first value from', async () ⇒ {
+it('first value from', async () => {
       const expectedUsers: User[] = await firstValueFrom(userListComponent.users);
       expect(expectedUsers).toStrictEqual(usersMock);
 });
 
 // Test Scheduler (marbles)
-it('marbles', () ⇒ {
-      const testScheduler = new TestScheduler((actual, expected) ⇒ {
+it('marbles', () => {
+      const testScheduler = new TestScheduler((actual, expected) => {
             expect(actual).toStrictEqual(expected);
       });
-      testScheduler.run(({ expectObservable }) ⇒ { 
+      testScheduler.run(({ expectObservable }) => { 
             expectObservable(userListComponent.users).toBe('(a|)', {
                   a: usersMock,
             });
       });
-})
+});
 ```
