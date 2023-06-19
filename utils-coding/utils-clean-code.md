@@ -20,6 +20,15 @@ jamais retourner null
 if/switch -> polymorphisme
 
 
+## DECLARATIVE VS IMPERATIVE
+
+- Declarative vs imperative, Imperative programming specifies how it is to be done (control flow) whereas declarative programming specifies what is to be done (logic of computation).
+While imperative system gives more control to the user, declarative system makes the repetitive processes better, i.e. easier automation and expansion of systems. declarative! Another definition of declaratve: we declare our logic before hand with everything that it needs to accommodate for the whole life cycle from start to end.
+
+- https://www.educative.io/blog/declarative-vs-imperative-programming
+- https://betterprogramming.pub/the-burger-analogy-for-imperative-vs-declarative-styles-of-programming-3caf026fd553
+
+
 ## BASE
 - https://thinkster.io/
 - https://github.com/gothinkster

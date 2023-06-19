@@ -573,6 +573,7 @@
 - https://github.com/blitz-js/superjson
 - https://github.com/calvintwr/issable
 - https://github.com/json5/json5
+- https://github.com/eemeli/yaml
 
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js

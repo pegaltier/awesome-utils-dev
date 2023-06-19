@@ -100,6 +100,7 @@
 - https://github.com/sindresorhus/quickgpt-meta
 - https://github.com/anc95/ChatGPT-CodeReview
 - https://github.com/muellerberndt/micro-gpt
+- https://github.com/AntonOsika/gpt-engineer
 - https://github.com/ohmplatform/FreedomGPT
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/abacaj/chatgpt-backup
