@@ -572,6 +572,9 @@ create your first components, learn how to use translusions, ng-content...
 - https://netbasal.com/beam-me-up-scotty-on-teleporting-templates-in-angular-a924f1a7798
 - https://stackblitz.com/edit/angular-template-teleporter
 
+## CORE: STANDALONE
+https://timdeschryver.dev/blog/fixing-angular-standalone-components-that-have-a-circular-dependency
+
 ## CORE: MODULES
 
 - https://www.thetombomb.com/2019/11/13/app-module-vs-core-module-vs-shared-module-vs-feature-modules-in-angular/

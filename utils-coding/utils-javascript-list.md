@@ -403,6 +403,7 @@
 - https://github.com/reach/observe-rect
 - https://github.com/camwiegert/typical
 - https://github.com/daybrush/selecto
+- https://github.com/desandro/masonry
 - https://github.com/Splidejs/splide
 - https://github.com/shikijs/shiki
 - https://github.com/Qix-/color
@@ -472,6 +473,7 @@
 - https://github.com/grid-js/gridjs
 - https://github.com/YC/coming-soon
 - https://github.com/dhilt/vscroll
+- https://github.com/javve/list.js
 - https://github.com/mikecao/umami
 - https://github.com/angus-c/just
 - https://github.com/xdan/jodit
