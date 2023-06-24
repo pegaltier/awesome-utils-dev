@@ -478,6 +478,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/ldmonko/wolfinch
 - https://github.com/jesse-ai/jesse
 - https://github.com/stellar/kelp
+- https://github.com/hackingthemarkets
 
 ### OSS: PYTHON
 - https://github.com/ssantoshp/Wizardry
@@ -485,8 +486,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
+- https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
+- https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku
 
 ### OSS: JAVASCRIPT
 
@@ -502,8 +505,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
+- https://github.com/Adamant-im/adamant-tradebot
 - https://github.com/Haehnchen/crypto-trading-bot
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/472647301/tradingview-web-socket
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
 - https://github.com/bitcoinvsalts/node-binance-trader

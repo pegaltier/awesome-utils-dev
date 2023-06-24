@@ -29,6 +29,7 @@ low-code tooling to prototype fastly.
 ## headless cms / jamstack
 - https://prismic.io/
 - https://www.contentful.com/
+- https://github.com/vriteio/vrite
 - https://github.com/payloadcms/payload
 - https://github.com/keystonejs/keystone
 - https://github.com/contentlayerdev/contentlayer

@@ -268,6 +268,7 @@
 - https://github.com/BuilderIO/partytown
 - https://github.com/petkaantonov/bluebird
 - https://github.com/ajitid/fzf-for-js
+- https://github.com/MaskingTechnology/jitar
 - https://github.com/mwilliamson/mammoth.js
 - https://github.com/freesoftwarefactory/parse-multipart
 - https://github.com/vvo/javascript-library-template
@@ -505,6 +506,7 @@
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/highcharts/highcharts
 - https://github.com/plotly/plotly.js
+- https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
 
 ## LIB: MEDIAS
@@ -582,6 +584,7 @@
 - https://github.com/immerjs/immer
 
 ## LIB: DATA ENCODING
+- https://github.com/bitrelay/bufio
 - https://github.com/openpgpjs/openpgpjs
 - https://github.com/jedisct1/js-base64-ct
 - https://github.com/protobufjs/protobuf.js

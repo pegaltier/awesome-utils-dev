@@ -126,6 +126,7 @@
 - https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy
 
 ## AWS
+- https://github.com/whitfin/s3-utils
 - https://github.com/dwyl/learn-aws-lambda
 - https://github.com/localstack/localstack
 - https://github.com/teamplanes/aws-blackbox
@@ -235,6 +236,7 @@
 - https://github.com/veggiemonk/awesome-docker
 - https://github.com/buildkite/docker-puppeteer
 - https://github.com/ufoscout/docker-compose-wait
+- https://github.com/chrislevn/dockerfile-practices
 - https://github.com/geerlingguy/ansible-role-docker    
 - https://github.com/GoogleContainerTools/distroless
 - https://github.com/JeremyLikness/usda-microservice

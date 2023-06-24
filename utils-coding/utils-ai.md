@@ -126,6 +126,7 @@
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/eugeneyan/open-llms
 - https://github.com/hwchase17/langchain
+- https://github.com/Giskard-AI/giskard
 - https://github.com/nat/openplayground
 - https://github.com/reactorsh/ambrosia
 - https://github.com/FlowiseAI/Flowise

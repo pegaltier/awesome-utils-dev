@@ -32,6 +32,7 @@
 - https://github.com/nestjs/class-transformer
 - https://github.com/nestjsx/nestjs-braintree
 - https://github.com/panva/node-oidc-provider
+- https://github.com/ppetzold/nestjs-paginate
 - https://github.com/rogerballard/nestjs-relay
 - https://github.com/pragmaticivan/nestjs-otel
 - https://github.com/ToonvanStrijp/nestjs-i18n

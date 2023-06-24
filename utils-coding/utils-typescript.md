@@ -49,6 +49,7 @@
 
 ## STARTER
 
+- https://github.com/antfu/starter-ts
 - https://github.com/egoist/ts-lib-starter
 - https://github.com/CodelyTV/typescript-ddd-skeleton
 - https://github.com/metachris/typescript-boilerplate

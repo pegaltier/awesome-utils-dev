@@ -417,6 +417,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 - https://www.debugbear.com/blog/devtools-performance
 - https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
 - https://indepth.dev/are-you-using-scss-properly/
+- https://github.com/harlan-zw/unlighthouse
 - https://github.com/push-based/angular-movies-audits
 - https://github.com/push-based/awesome-web-performance-snippets
 - https://github.com/push-based/css-contain-and-content-visibility-research
@@ -1249,6 +1250,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
 - https://github.com/ultimatecourses/lite-store
+- https://github.com/AmadeusITGroup/tansu
 - https://stately.ai/
 - https://github.com/stefanoslig/xstate-angular
 - https://github.com/ChrisShank/xstate-behaviors
@@ -1359,6 +1361,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/billyjov/microfrontend-resources
 - https://github.com/Azure-Samples/contoso-real-estate
 - https://github.com/rajasegar/awesome-micro-frontends
+- https://github.com/SchweizerischeBundesbahnen/scion-microfrontend-platform
 - https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer
 - https://leanpub.com/enterprise-angular
@@ -1980,6 +1983,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/manekinekko/angular-web-bluetooth  (TOADD)
 - https://github.com/bespunky/angular-zen (TOADD)
 - https://github.com/myndpm/open-source (TOADD)
+- https://github.com/AmadeusITGroup/otter (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -2384,7 +2388,6 @@ Analyze and optimize the performance of your app
 - https://github.com/ngneat/input-mask
 - https://github.com/JsDaddy/ngx-mask
 - https://github.com/ngneat/hot-toast
-- https://github.com/daybrush/moveable
 - https://github.com/matheo/angular
 - https://github.com/ng-dnd/ng-dnd
 - https://github.com/sitecore/jss
@@ -2633,6 +2636,10 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/sibiraj-s/ngx-editor
 - https://github.com/zserge/awfice
 
+## ECOSYSTEM: LIB: COMPONENT: DRAG
+- https://github.com/daybrush/moveable
+- https://github.com/arturovt/selecto
+
 ## ECOSYSTEM: LIB: COMPONENT: MEDIA
 - https://github.com/daybrush/infinite-viewer
 - https://github.com/Marcelh1983/document-viewer
@@ -2713,6 +2720,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/syncfusion/ej2-angular-ui-components
 - https://github.com/digipolisantwerp/antwerp-ui_angular
 - https://github.com/coreui/coreui-angular (TOADD)
+- https://github.com/Trendyol/baklava (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
@@ -3270,7 +3278,6 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://egghead.io/series/angular-2-fundamentals
 - https://leanpub.com/developing-with-angular
 
-
 ## ECOSYSTEM: MEDIAS
 
 - https://angularair.com/
@@ -3285,6 +3292,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://blog.meetupfeed.io/2021-top-angular-meetup-videos/
 - https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw/featured
 - https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/featured
+
+## ECOSYSTEM: OTHERS
+- https://github.com/eneajaho/shield-maker
 
 ## ECOSYSTEM: ARTICLES
 

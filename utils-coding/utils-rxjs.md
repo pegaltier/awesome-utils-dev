@@ -211,7 +211,17 @@ Both shareReplay and publishReplay (+ calling connect on it) will make the obser
 
 ```javascript
 
-// waitForAsync use case: you method triggers other calls like HTTP calls or timeouts, which you don't have any control over.
+// plain it test with no async function will work in case the stream has already the value.
+it('plain it exemple', () => {
+      let expectedUsers;
+      userListComponent.users.subscribe((users: User[]) =>
+            expectedUsers = users;
+      );
+      expect(expectedUsers).toStrictEqual(usersMock);
+});
+
+// waitForAsync is dangerous in case your stream has no value the code inside subscribe will never be called. beware dont put 'expect' in the subscribe.
+// the perfect use case when your method triggers other calls like HTTP calls or timeouts, which you don't have any control over.
 it('WaitForAsync exemple', waitForAsync(() => {
       let expectedUsers;
       userListComponent.users.subscribe((users: User[]) =>
