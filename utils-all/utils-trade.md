@@ -392,6 +392,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## OSS
 
 ### OSS: TRADINGVIEW
+- https://gist.github.com/kaigouthro/b95a8b4c43e607ea71897e204904b9c0
 - https://github.com/topics/pinescript?o=desc&s=updated
 - https://github.com/topics/pinescript-strategies
 - https://github.com/topics/tradingview-alert
@@ -433,6 +434,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ### OSS: STRATEGY
 - https://github.com/freqtrade/freqtrade-strategies
 - https://github.com/paulcpk/freqtrade-strategies-that-work
+- https://github.com/sofienkaabar/Contrarian-Trading-Strategies
+- https://github.com/sofienkaabar/Trend-Following-Strategies
+- https://github.com/sofienkaabar/The-Book-of-Trading-Strategies
 
 ### OSS: EXECUTE
 - https://github.com/tiagosiebler/okx-api
@@ -450,7 +454,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js
-- https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/cassandre-tech/cassandre-trading-bot
 - https://github.com/dk4jo3/abnormal-crypto-volume-alert
 - https://github.com/MohammedRashad/Crypto-Copy-Trader
@@ -483,6 +486,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ### OSS: PYTHON
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/goldmansachs/gs-quant
+- https://github.com/kaigouthro/pynescript
+- https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
@@ -495,6 +500,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
+- https://github.com/cinar/indicatorts
+- https://github.com/Grademark/grademark
 - https://github.com/debut-js/Indicators
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
@@ -511,8 +518,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/472647301/tradingview-web-socket
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
+- https://github.com/Grademark/grademark-first-example
 - https://github.com/bitcoinvsalts/node-binance-trader
 - https://github.com/jean-michel-gonet/angular-backtest
+- https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/bitcoinvsalts/tradingview-alert-binance-trader
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 

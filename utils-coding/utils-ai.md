@@ -133,7 +133,9 @@
 - https://github.com/eumemic/ai-legion
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
+- https://github.com/salesforce/xgen
 - https://github.com/artidoro/qlora
+- https://github.com/truera/trulens
 
 ## LIB: IMAGE
 - https://github.com/s0md3v/roop
