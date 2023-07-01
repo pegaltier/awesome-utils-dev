@@ -208,6 +208,7 @@
 ## LIB: DEVTOOLS
 
 - https://github.com/sverweij/dependency-cruiser
+- https://github.com/bloomberg/pasta-sourcemaps
 - https://github.com/siddharthkp/bundlesize
 - https://github.com/NiGhTTraX/strong-mock
 - https://github.com/developit/microbundle
@@ -470,6 +471,7 @@
 - https://github.com/omrilotan/isbot
 - https://github.com/any86/any-touch
 - https://github.com/matthewp/robot
+- https://github.com/TanStack/table
 - https://github.com/grid-js/gridjs
 - https://github.com/YC/coming-soon
 - https://github.com/dhilt/vscroll
@@ -565,6 +567,10 @@
 - https://github.com/TheAlgorithms/Javascript
 - https://github.com/handsontable/hyperformula
 - https://github.com/dcousens/haversine-distance
+
+## LIB: DATA TRANSFORMATION
+- https://github.com/data-forge/data-forge-ts
+- https://github.com/thdoan/mr-data-converter
 
 ## LIB: DATA OBJECT
 - https://github.com/Leonidas-from-XIV/node-xml2js

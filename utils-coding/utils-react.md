@@ -69,6 +69,7 @@
 - https://github.com/medusajs/medusa
 - https://github.com/redwoodjs/redwood
 - https://github.com/pankod/superplate
+- https://github.com/sadmann7/skateshop
 - https://github.com/marmelab/react-admin
 - https://github.com/neekware/FullestStack
 - https://github.com/wesbos/Advanced-React
@@ -128,6 +129,7 @@
 - https://github.com/twobin/react-lazyload
 - https://github.com/zoontek/react-chicane
 - https://github.com/paypal/react-paypal-js
+- https://github.com/LegendApp/legend-state
 - https://github.com/InseeFrLab/keycloakify
 - https://github.com/tjallingt/react-youtube
 - https://github.com/omgovich/react-colorful

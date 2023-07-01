@@ -225,6 +225,7 @@
 - https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
 - https://github.com/goodwithtech/dockle
+- https://github.com/antoniomika/pcompose
 - https://github.com/louislam/docker-boot
 - https://github.com/ameerthehacker/envase
 - https://github.com/sigp/lighthouse-metrics

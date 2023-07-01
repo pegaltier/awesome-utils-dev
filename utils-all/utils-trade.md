@@ -8,6 +8,7 @@
 - Berg Milton https://miltonberg.com
 - David Bergstrom https://www.buildalpha.com/
 - Nick Radge https://www.thechartist.com.au/
+- Robert Grzesik https://lumiwealth.com/master-of-trading/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -24,7 +25,11 @@
 - https://www.amazon.com/ADXcellence-Strategies-Charles-B-Schaap/dp/0977713210
 - https://www.amazon.com/Momentum-Masters-Roundtable-Interview-Traders-ebook/dp/B0147NLBUI
 
+## QUOTES
+- https://eodhistoricaldata.com/
+
 ## STRATEGY
+- https://gregorygundersen.com/blog/2021/08/27/drawdown/
 - https://www.quantifiedstrategies.com/john-ehlers-trading-strategy/
 - https://www.quantifiedstrategies.com/short-term-trading-strategy/
 - https://www.quantifiedstrategies.com/new-5-day-low-in-spy-and-closes-in-the-low-of-the-range/
@@ -346,6 +351,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 - https://learn.bybit.com/investing/how-to-use-tradingview/
+- https://market-wizard.com.au/
 - https://www.pineconnector.com/
 - https://algotradingbridge.in/
 - https://www.webhookser.com
@@ -487,6 +493,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/goldmansachs/gs-quant
 - https://github.com/kaigouthro/pynescript
+- https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/AnalyzerREST/python-tradingview-ta
@@ -524,6 +531,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/bitcoinvsalts/tradingview-alert-binance-trader
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
+
+- https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
+- https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
+- https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/
+- https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj
+- https://grademark.github.io/grademark-first-example/
 
 ## QUOTES
 - https://fuserleer.online/exchange_data/

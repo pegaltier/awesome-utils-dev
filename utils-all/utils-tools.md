@@ -111,8 +111,10 @@
 - https://github.com/AlexW00/obsidian-3d-graph
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
 
-## Automate
+## Automate / automation
 - https://www.getmagical.com/
+- https://github.com/n8n-io/n8n
+- https://github.com/zapier/zapier-platform
 
 ## New
 - https://fig.io/

@@ -471,7 +471,7 @@ production, build, bundle...
 
 ## CORE: BUILDER
 
-CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
+CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER / CLOUD HOSTING
 
 - https://ngx.tools/
 - https://angular-builders.dev/home
@@ -488,6 +488,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER
 - https://github.com/mauriziovitale/angular-plugins
 - https://github.com/studiohyperdrive/angular_builders
 - https://github.com/angular-schule/angular-cli-ghpages
+- https://github.com/netlify/netlify-plugin-angular-universal
 - https://github.com/cocasts/webpack-retry-chunk-load-plugin
 - https://www.smashingmagazine.com/2021/06/getting-started-webpack/
 - https://github.com/meltedspark/angular-builders/tree/master/packages/dev-server
@@ -1055,10 +1056,11 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor
 - https://medium.com/@lukas.klement/implementing-code-coverage-with-angular-and-cypress-6ed08ed7e617
 
-## CORE: MIGRATION
+## CORE: MIGRATION ANGULARJS
 
 - https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b#.xhk466v64
 - http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/
+- https://github.com/ui-router/angular-hybrid
 - https://github.com/ellamaolson/ngMigration-Assistant
 
 ## CORE: DIRECTIVE COMPOSITION
@@ -2048,11 +2050,12 @@ Learn the best way to make your objects immutable.
 - https://github.com/timdeschryver/rxjs-operator-counter
 - https://github.com/chrisguttandin/subscribable-things
 - https://github.com/ftischler/ngx-rxjs-zone-scheduler
-- https://github.com/santoshyadavdev/ngx-pwa-offline TOADD
-- https://github.com/ksz-ksz/rxjs-insights TOADD
-- https://github.com/ngneat/subscribe TOADD
-- https://github.com/xripcsu/rxjs-watcher TOADD
-- https://github.com/NiklasPor/rxjs-boost TOADD
+- https://github.com/chrisguttandin/rxjs-broker (TOADD)
+- https://github.com/santoshyadavdev/ngx-pwa-offline (TOADD)
+- https://github.com/ksz-ksz/rxjs-insights (TOADD)
+- https://github.com/ngneat/subscribe (TOADD)
+- https://github.com/xripcsu/rxjs-watcher (TOADD)
+- https://github.com/NiklasPor/rxjs-boost (TOADD)
 
 ## ECOSYSTEM: LIB: GENERAL
 
@@ -2457,6 +2460,7 @@ Analyze and optimize the performance of your app
 - https://github.com/yohangz/ornamentum
 - https://github.com/angular-ui/ui-grid
 - https://github.com/sbstjn/timesheet.js
+- https://github.com/ngbracket/ngx-layout
 - https://github.com/kreuzerk/ng-sortgrid
 - https://github.com/ngbrackets/ngx-layout
 - https://github.com/sinedied/ngx-foldable
@@ -3099,6 +3103,7 @@ Learn how to build mobile applications using angular. You will find many cross p
 ANGULAR / REACT / VUE...
 
 - https://framework.watch/
+- https://github.com/ganatan/angular-react-starter
 - https://dev.to/cloudx/react-thoughts-from-an-angular-developer-hbb
 - https://www.toptal.com/front-end/angular-vs-react-for-web-development
 - http://blog.krawaller.se/posts/angular2-versus-react-comparing-components/

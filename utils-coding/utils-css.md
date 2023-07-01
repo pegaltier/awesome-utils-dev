@@ -113,6 +113,7 @@
 - https://github.com/mertJF/tailblocks
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/aniftyco/awesome-tailwindcss
+- https://github.com/mertasan/tailwindcss-variables
 - https://github.com/tailwindlabs/tailwindcss-forms
 - https://github.com/windicss/windicss-intellisense
 
@@ -204,6 +205,7 @@ inline-table: The element is displayed as an inline-level table
 - The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time. It's recommended to use `grid` for layout tags and then `flex` for component level. Because grid can allow simple and powerful adjustement based on the width. Flex will adjust automatically depending on the size so it's perfect for avoiding adjustement issue on small components. 
 - it's recommended to use `div (section, article, header, footer)` for layout, `p` for text content and then `span` for component level. Because div and p are `block` (full width and equivalant to line-break before and after it). Span is `inline` so your things will stays on the same line. Even better you can avoid `span` with others specific in-line such as: `b,i,em...`
 - if you use sass or less it's recommended to use nested css class, it is good practive, however you must avoid to nest to deeply, for instance you should limit this nested to 3 or 4 levels maximum. If you have more you can group it and extract in another nested block. Or move it to another isolated component.
+- to adapt the text based on the container use display flex and overflow hidden on the container or add a wrapper tag to do that then add ellipsis on the span with the text to hide and nowrap on all the spans so span with ellipsiis will be truncated and span without will display the entire text.
 
 ### COMPARAISON
 
