@@ -500,6 +500,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats
 - https://github.com/blankly-finance/blankly
+- https://github.com/Drakkar-Software/OctoBot
 - https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot
