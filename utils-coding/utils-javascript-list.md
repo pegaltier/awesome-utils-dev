@@ -209,6 +209,7 @@
 
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/bloomberg/pasta-sourcemaps
+- https://github.com/stacktracejs/stacktrace.js
 - https://github.com/siddharthkp/bundlesize
 - https://github.com/NiGhTTraX/strong-mock
 - https://github.com/developit/microbundle
@@ -291,6 +292,7 @@
 - https://github.com/nas5w/combinate
 - https://github.com/vvo/tzdb/
 - https://github.com/scurker/currency.js
+- https://github.com/chrisguttandin/timing-object
 - https://github.com/nolanlawson/marky
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/cabinjs/sensitive-fields

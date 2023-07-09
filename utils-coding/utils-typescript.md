@@ -8,6 +8,7 @@
 - https://basarat.gitbook.io/typescript/
 - https://github.com/intocare/style-guide
 - https://github.com/sindresorhus/type-fest
+- https://github.com/gibbok/typescript-book
 - https://github.com/basarat/typescript-book
 - https://github.com/danvk/effective-typescript
 - https://github.com/LearningTypeScript/projects
@@ -181,6 +182,7 @@
 - https://github.com/mu-io/ts-japi
 - https://github.com/skarab42/zoxy
 - https://github.com/colinhacks/zod
+- https://github.com/decs/typeschema
 - https://github.com/pelotom/unionize
 - https://github.com/pelotom/runtypes
 - https://github.com/arcanis/typanion

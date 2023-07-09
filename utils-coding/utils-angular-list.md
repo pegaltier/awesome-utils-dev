@@ -1795,6 +1795,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: LINT
 - https://github.com/stylelint/stylelint
 - https://github.com/stylelint-scss/stylelint-scss
+- https://github.com/svengreb/styleguide-javascript
 - https://github.com/htmlhint/HTMLHint
 - https://github.com/palantir/tslint
 - https://github.com/eslint/eslint
@@ -2901,6 +2902,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/eneajaho/ng-fetch-ssr-workers
 - https://github.com/ganatan/angular-transferstate
 - https://github.com/TrilonIO/angular-universal-v9
+- https://github.com/dalenguyen/dalenguyen.github.io
 - https://github.com/adisreyaj/layer0-angular-example
 - https://github.com/mgechev/angular-hybrid-rendering
 - https://github.com/brandonroberts/analog-angular-ssr

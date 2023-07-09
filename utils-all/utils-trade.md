@@ -430,6 +430,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/jesse-ai/jesse
 - https://github.com/hackingthemarkets?tab=repositories
 
+### OSS: AWESOME
+- https://github.com/wilsonfreitas/awesome-quant
+- https://github.com/tiagosiebler/awesome-crypto-examples
+- https://github.com/edarchimbaud/awesome-systematic-trading
+
 ### OSS: ALL
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
@@ -450,7 +455,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/orderbooks
 - https://github.com/Kucoin/kucoin-api-docs
-- https://github.com/tiagosiebler/awesome-crypto-examples
 - https://github.com/coinexcom/coinex_exchange_api
 - https://github.com/binance/binance-api-postman
 - https://github.com/bybit-exchange/QuickStartWithPostman
@@ -482,7 +486,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/markusaksli/TradeBot
 - https://github.com/CoinAlpha/hummingbot
 - https://github.com/magic8bot/magic8bot
-- https://github.com/jrmeier/fast-trade
 - https://github.com/Ekliptor/WolfBot
 - https://github.com/ldmonko/wolfinch
 - https://github.com/jesse-ai/jesse
@@ -490,9 +493,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/hackingthemarkets
 
 ### OSS: PYTHON
+- https://github.com/ranaroussi/qtpylib
+- https://github.com/jrmeier/fast-trade
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/goldmansachs/gs-quant
 - https://github.com/kaigouthro/pynescript
+- https://github.com/ranaroussi/quantstats
+- https://github.com/blankly-finance/blankly
 - https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot

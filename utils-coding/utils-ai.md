@@ -109,6 +109,7 @@
 - https://github.com/chathub-dev/chathub
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/nomic-ai/gpt4all-ui
+- https://github.com/paul-gauthier/aider
 - https://github.com/keijiro/AICommand
 - https://github.com/lgrammel/js-agent
 - https://github.com/nomic-ai/gpt4all
