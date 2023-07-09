@@ -3,6 +3,7 @@
 
 ## LEARN
 - https://dev.to/tamerlang/oop-principles-for-dummies-2mbd
+- https://github.com/dttung2905/kafka-in-production
 - https://github.com/iluwatar/java-design-patterns
 - https://github.com/aalmiray/java-champions
 - https://github.com/akullpp/awesome-java
