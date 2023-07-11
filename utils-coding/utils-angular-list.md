@@ -2733,6 +2733,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/digipolisantwerp/antwerp-ui_angular
 - https://github.com/coreui/coreui-angular (TOADD)
 - https://github.com/Trendyol/baklava (TOADD)
+- https://github.com/etn-ccis/blui-angular-component-library (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage
