@@ -1255,6 +1255,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
 - https://github.com/ultimatecourses/lite-store
+- https://github.com/lVlyke/lithium-angular
 - https://github.com/AmadeusITGroup/tansu
 - https://stately.ai/
 - https://github.com/stefanoslig/xstate-angular
@@ -1275,6 +1276,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/ngxs-labs/emitter
 - https://github.com/ngxs-labs/immer-adapter
 - https://github.com/profanis/ngxs-history-pluginma
+- https://github.com/lVlyke/ngxs-synchronizers
 - https://github.com/reclarejs/reclare
 - https://github.com/storeon/angular
 - https://github.com/mnasyrov/rx-effects
@@ -2475,7 +2477,22 @@ Analyze and optimize the performance of your app
 - https://github.com/golden-layout/golden-layout
 - https://github.com/ssuperczynski/ngx-easy-table
 - https://github.com/tiberiuzuld/angular-gridster2
+- https://github.com/lVlyke/lithium-ngx-virtual-scroll
+
+## ECOSYSTEM: LIB: COMPONENT: CDK MATERIAL
+
+- https://material.angular.io/cdk/a11y/overview
+- https://alligator.io/angular/infinite-scroll
+- https://github.com/angular-material-extensions
+- https://alligator.io/angular/custom-svg-icons-angular-material
+- https://github.com/angular-material-extensions/password-strength
+- https://github.com/fetrarij/ngx-daterangepicker-material
+- https://github.com/johannesjo/angular-material-css-vars
+- https://github.com/GeorgDangl/angular-material-shared
+- https://github.com/diprokon/ng-table-virtual-scroll
+- https://github.com/gravitee-io/gravitee-ui-particles
 - https://github.com/exportarts/ngx-material-data-table
+- https://github.com/lVlyke/lithium-ngx-material-theming
 - https://github.com/marinantonio/angular-mat-table-crud
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
 
@@ -2620,19 +2637,6 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/rxweb/rxweb/tree/master/client-side/angular/packages/reactive-form-validators
 - https://bit.dev/kevinrodbe/utils/helpers/angular/~code#frm-validators.ts
 - https://stackblitz.com/@formqlx
-
-## ECOSYSTEM: LIB: COMPONENT: CDK MATERIAL
-
-- https://material.angular.io/cdk/a11y/overview
-- https://alligator.io/angular/infinite-scroll
-- https://alligator.io/angular/custom-svg-icons-angular-material
-- https://github.com/angular-material-extensions/password-strength
-- https://github.com/fetrarij/ngx-daterangepicker-material
-- https://github.com/johannesjo/angular-material-css-vars
-- https://github.com/GeorgDangl/angular-material-shared
-- https://github.com/diprokon/ng-table-virtual-scroll
-- https://github.com/angular-material-extensions
-- https://github.com/gravitee-io/gravitee-ui-particles
 
 ## ECOSYSTEM: LIB: COMPONENT: EDITOR / WYSIWYG 
 - https://github.com/Developer-Plexscape/ngx-grapesjs

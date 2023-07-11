@@ -9,6 +9,7 @@
 - David Bergstrom https://www.buildalpha.com/
 - Nick Radge https://www.thechartist.com.au/
 - Robert Grzesik https://lumiwealth.com/master-of-trading/
+- Matthew J. Slabosz https://www.theartoftrading.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -18,6 +19,7 @@
 
 ## PODCAST
 - https://chatwithtraders.com/
+- https://www.thetradingpodcast.com/
 - https://kjtradingsystems.com/podcasts.html
 - https://anthonycrudele.com/futuresradioshow/podcast/293/
 
@@ -331,6 +333,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.wealthsignals.com/
 - https://mhptrading.com/
 - https://ghostfol.io/
+- https://www.qmr.ai/
 - https://www.buildalpha.com/
 - https://www.lizardindicators.com/
 
@@ -510,6 +513,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
 - https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku
+- https://www.qmr.ai/building-a-backtesting-framework-in-python-part-ii/
 
 ### OSS: JAVASCRIPT
 
