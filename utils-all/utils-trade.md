@@ -311,7 +311,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.tradingview.com/pine-script-docs/en/v5/concepts/Plots.html
 - https://stackoverflow.com/questions/48656195/what-is-the-equivalent-of-console-log-in-pine-script
 
-## TRADINGVIEW INDICATOR
+## TRADINGVIEW
+- https://pinescripters.net/
 - https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 
 ## TOOLS
@@ -351,6 +352,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TRADINGVIEW AUTOMATE
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
+- https://chrome.google.com/webstore/detail/the-optimiser-tradingview/emcpjechgmpcnjphefjekmdlaljbiegp
 - https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 - https://learn.bybit.com/investing/how-to-use-tradingview/
@@ -499,6 +501,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/jrmeier/fast-trade
 - https://github.com/ssantoshp/Wizardry
+- https://github.com/51bitquant/howtrader
 - https://github.com/goldmansachs/gs-quant
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats

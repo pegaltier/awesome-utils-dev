@@ -2889,6 +2889,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/angular-15-multiple-file-upload
 - https://github.com/DanWahlin/angular-interfaces-classes-types
 - https://github.com/jakovljevic-mladen/ng-pagination-rx-streams
+- https://github.com/brandonroberts/analog-angular-storybook-vite
 - https://github.com/oktadev/okta-angular-dynamic-components-example
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
 

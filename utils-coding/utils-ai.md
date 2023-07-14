@@ -112,6 +112,7 @@
 - https://github.com/paul-gauthier/aider
 - https://github.com/keijiro/AICommand
 - https://github.com/lgrammel/js-agent
+- https://github.com/StanGirard/quivr
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/reworkd/AgentGPT
 - https://github.com/xtekky/gpt4free
@@ -167,6 +168,9 @@
 - https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/huggingface/transformers
 - https://github.com/microsoft/guidance
+
+## LIB: JS
+- https://github.com/a16z-infra/ai-getting-started
 
 ### LIST
 

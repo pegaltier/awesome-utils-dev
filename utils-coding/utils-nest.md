@@ -84,6 +84,7 @@
 - https://github.com/satanTime/nx-nestjs-angular-graphql
 - https://github.com/fivethree-team/nestjs-prisma-starter
 - https://github.com/lujakob/nestjs-realworld-example-app
+- https://github.com/knowankit/fullstack-monorepo-boilerplate
 - https://github.com/0xb4lamx/nestjs-boilerplate-microservice
 - https://github.com/Roms1383/nest-combining-decorators-sample
 

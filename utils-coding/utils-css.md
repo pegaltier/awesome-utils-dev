@@ -86,6 +86,7 @@
 - https://github.com/chakra-ui/panda
 - https://github.com/css-modules/icss
 - https://github.com/jonsuh/hamburgers
+- https://github.com/franciscop/picnic
 - https://github.com/callstack/linaria
 - https://github.com/FullHuman/purgecss
 - https://github.com/linkedin/css-blocks
