@@ -402,7 +402,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## OSS
 
-### OSS: TRADINGVIEW
+### OSS: TRADINGVIEW: LIST
 - https://gist.github.com/kaigouthro/b95a8b4c43e607ea71897e204904b9c0
 - https://github.com/topics/pinescript?o=desc&s=updated
 - https://github.com/topics/pinescript-strategies
@@ -410,6 +410,15 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/Heavy91/TradingView_Indicators
 - https://github.com/pAulseperformance/awesome-pinescript
 - https://github.com/pinecoders/tradingview-pinescript-indicators
+
+### OSS: TRADINGVIEW: QUAL
+- https://github.com/geraked/tradingview
+- https://github.com/harryguiacorn/tradingview
+- https://github.com/Alorse/pinescript-strategies
+- https://github.com/ADWilkinson/pinescript-indicators
+- https://github.com/Paul-Mizel/Crypto-Trading-Unleashed
+
+### OSS: TRADINGVIEW: OTHERS
 - https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
 - https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
 - https://github.com/soranoo/TradingView-Free-Webhook-Alerts
