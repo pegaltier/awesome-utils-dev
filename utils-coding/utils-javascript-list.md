@@ -357,6 +357,7 @@
 - https://github.com/microsoft/tsyringe
 - https://github.com/cleandi/cleandi
 - https://github.com/developit/mitt
+- https://github.com/ashleydavis/fusion
 
 ## LIB: DATE
 - https://github.com/iamkun/dayjs
