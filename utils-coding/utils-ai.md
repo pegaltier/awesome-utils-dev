@@ -28,6 +28,7 @@
 ## TOOLS
 - https://mason.app/
 - https://www.d-id.com/
+- https://www.futuretools.io/
 - https://www.codewand.co/
 - https://www.codegpt.co/
 - https://stability.ai/

@@ -212,6 +212,7 @@
 - https://github.com/krzkaczor/ts-essentials
 - https://github.com/Rich-Harris/object-cull
 - https://github.com/woutervh-/typescript-is
+- https://github.com/jrylan/json-schema-typed
 - https://github.com/practical-fp/union-types
 - https://github.com/seek-oss/vanilla-extract
 - https://github.com/data-forge/data-forge-ts

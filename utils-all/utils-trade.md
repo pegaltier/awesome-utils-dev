@@ -294,6 +294,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 -  Those are not even recommended. In general, limit orders can result in unrealistic backtests due to liquidity constraints. If the limit is reached you may not be able to execute 1/10 of your size without impact. Market markets won't make it easy for you. In fact,  they will take the other side. The backtest may show a 1% gain for a trade, but the real gain maybe 0.01% or even a loss. 
 
 ## TRADINGVIEW CODING
+- https://www.pinescriptwizard.com/
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/
 - https://kodify.net/tradingview/plots/line-plot/
@@ -414,11 +415,15 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/pinecoders/tradingview-pinescript-indicators
 
 ### OSS: TRADINGVIEW: QUAL
+- https://github.com/fmzquant/strategies
 - https://github.com/geraked/tradingview
+- https://github.com/martinshane/pinescript5
 - https://github.com/harryguiacorn/tradingview
+- https://github.com/ricardosantos79/pinescript
 - https://github.com/Alorse/pinescript-strategies
 - https://github.com/ADWilkinson/pinescript-indicators
 - https://github.com/Paul-Mizel/Crypto-Trading-Unleashed
+- https://github.com/TreborNamor/TradingView-Machine-Learning-GUI
 
 ### OSS: TRADINGVIEW: OTHERS
 - https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
@@ -518,6 +523,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/ranaroussi/quantstats
 - https://github.com/blankly-finance/blankly
 - https://github.com/Drakkar-Software/OctoBot
+- https://github.com/bfolkens/py-market-profile
 - https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot
@@ -534,6 +540,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
 - https://github.com/cinar/indicatorts
+- https://github.com/cm45t3r/candlestick
 - https://github.com/Grademark/grademark
 - https://github.com/debut-js/Indicators
 - https://github.com/debut-js/Strategies

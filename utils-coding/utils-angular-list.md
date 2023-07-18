@@ -1811,6 +1811,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/tslint-angular
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/cartant/rxjs-tslint-rules
+- https://github.com/AndreaPontrandolfo/sheriff
 - https://github.com/softarc-consulting/sheriff
 - https://github.com/manfredsteyer/standalone-example-cli/blob/main/sheriff.config.ts
 - https://github.com/NativeScript/eslint-plugin
@@ -1992,6 +1993,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/bespunky/angular-zen (TOADD)
 - https://github.com/myndpm/open-source (TOADD)
 - https://github.com/AmadeusITGroup/otter (TOADD)
+- https://github.com/irustm/angular-features (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -2158,6 +2160,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/NoriSte/cypress-wait-until
 - https://github.com/smeijer/testing-playground
 - https://github.com/bahmutov/cypress-failed-log
+- https://github.com/Elecash/nx-cypress-coverage
 - https://github.com/socreate/angular-playground
 - https://github.com/component-driven/cypress-axe
 - https://github.com/ceceliacreates/ionic-cypress
@@ -2545,6 +2548,7 @@ Analyze and optimize the performance of your app
 
 - https://github.com/chartjs/awesome
 - https://github.com/jacomyal/sigma.js
+- https://github.com/microsoft/msagljs
 - https://github.com/worktile/ngx-gantt
 - https://github.com/swimlane/ngx-graph
 - https://github.com/xieziyu/ngx-echarts
@@ -2555,6 +2559,8 @@ Analyze and optimize the performance of your app
 - https://github.com/apexcharts/ng-apexcharts
 - https://github.com/valor-software/ng2-charts
 - https://github.com/highcharts/highcharts-angular
+- https://github.com/tradingview/lightweight-charts
+- https://github.com/tradingview/charting-library-examples
 - https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.dp6gdnx1h
 
 ## ECOSYSTEM: LIB: COMPONENT: MODAL
@@ -2643,8 +2649,10 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/ckeditor/ckeditor5-angular
 - https://github.com/alauda/ng-monaco-editor
+- https://github.com/worktile/slate-angular
 - https://github.com/kolkov/angular-editor
 - https://github.com/stevermeister/ngx-wig
+- https://github.com/ianstormtaylor/slate
 - https://github.com/sibiraj-s/ngx-editor
 - https://github.com/zserge/awfice
 
