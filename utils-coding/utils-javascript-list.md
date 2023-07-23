@@ -176,6 +176,7 @@
 - https://github.com/LavaMoat/LavaMoat
 - https://github.com/cyclejs/cyclejs
 - https://github.com/remix-run/remix
+- https://github.com/vasanthv/ahey
 - https://github.com/Tencent/omi
 - https://github.com/kbrsh/moon
 - https://electronjs.org/
@@ -403,6 +404,7 @@
 - https://github.com/nolimits4web/atropos
 - https://github.com/atomiks/floating-ui
 - https://github.com/nextcss/color-tools
+* https://github.com/flatpickr/flatpickr
 - https://github.com/jeremyckahn/shifty
 - https://github.com/junhoyeo/use-color
 - https://github.com/reach/observe-rect
@@ -575,6 +577,7 @@
 ## LIB: DATA TRANSFORMATION
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/thdoan/mr-data-converter
+- https://github.com/jsonata-js/jsonata
 
 ## LIB: DATA OBJECT
 - https://github.com/Leonidas-from-XIV/node-xml2js

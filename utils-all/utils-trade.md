@@ -29,6 +29,9 @@
 
 ## QUOTES
 - https://eodhistoricaldata.com/
+- https://github.com/maxgfr/binance-historical
+- https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data
+- https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000
 
 ## STRATEGY
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
@@ -457,6 +460,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/edarchimbaud/awesome-systematic-trading
 
 ### OSS: ALL
+- https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
 - https://github.com/Reiryoku-Technologies/Mida
@@ -517,6 +521,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/jrmeier/fast-trade
 - https://github.com/ssantoshp/Wizardry
+- https://github.com/enzoampil/fastquant
 - https://github.com/51bitquant/howtrader
 - https://github.com/goldmansachs/gs-quant
 - https://github.com/kaigouthro/pynescript
@@ -542,6 +547,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/cinar/indicatorts
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Grademark/grademark
+- https://github.com/tyolab/grademark
 - https://github.com/debut-js/Indicators
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays

@@ -1427,6 +1427,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://bit.dev
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
+- https://github.com/wixplosives/sample-monorepo
 - https://angularbites.com/building-scalable-multi-platform-projects-with-angular-and-nx/
 - https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6
 - https://dev.to/devinshoemaker/executing-external-schematics-in-an-nx-plugin-a4k
@@ -2202,6 +2203,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ui-jar/ui-jar
 - https://github.com/facebook/jest
 - https://github.com/faker-js/faker
+- https://github.com/Iqoqo/mockshot
 - https://github.com/automock/automock
 - https://github.com/vitest-dev/vitest
 - https://github.com/sharkdp/hyperfine
@@ -2655,6 +2657,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ianstormtaylor/slate
 - https://github.com/sibiraj-s/ngx-editor
 - https://github.com/zserge/awfice
+- https://github.com/udecode/plate
 
 ## ECOSYSTEM: LIB: COMPONENT: DRAG
 - https://github.com/daybrush/moveable
@@ -2796,6 +2799,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/cyrilletuzi/ngx-pwa-offline
 - https://ionicframework.com/docs/angular/pwa
 - https://github.com/OneSignal/onesignal-ngx
+- https://github.com/vasanthv/ahey
 - https://github.com/OnsenUI/OnsenUI
 
 ## ECOSYSTEM: CI/CD
@@ -2890,6 +2894,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/markostanimirovic/standalone-ngrx
 - https://github.com/pankajparkar/lazy-loading-recipes
 - https://github.com/rainerhahnekamp/angular-whitelabel
+- https://github.com/gaetanBloch/ecommerce-angular-front
 - https://github.com/markostanimirovic/ngrx-musicians-app
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder

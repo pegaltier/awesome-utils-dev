@@ -83,12 +83,14 @@
 
 ## LIBS: ALL
 
+- https://github.com/napi-rs/napi-rs
 - https://github.com/azz/pretty-quick
 - https://github.com/clinicjs/node-clinic
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/frinyvonnick/node-html-to-image
 - https://github.com/panva/node-oidc-provider
 - https://github.com/log4js-node/log4js-node
+- https://github.com/kibertoad/toad-scheduler
 - https://github.com/microsoft/playwright
 - https://github.com/sindresorhus/got
 - https://github.com/expressjs/multer
@@ -175,8 +177,9 @@
 - https://github.com/tsedio/tsed
 - https://github.com/strapi/strapi
 - https://github.com/lukeautry/tsoa
-- https://github.com/sindresorhus/got
 - https://github.com/typeorm/typeorm
+- https://github.com/sindresorhus/got
+- https://github.com/balderdashy/sails
 - https://github.com/taskforcesh/bullmq
 - https://github.com/directus/directus
 - https://github.com/mikro-orm/mikro-orm

@@ -100,8 +100,9 @@
 - https://github.com/uber/baseweb
 - https://github.com/Hotell/rea-di
 - https://github.com/pmndrs/valtio
-- https://github.com/facebook/relay
 - https://github.com/artsy/fresnel
+- https://github.com/udecode/plate
+- https://github.com/facebook/relay
 - https://github.com/TimboKZ/Chonky
 - https://github.com/moroshko/basis
 - https://github.com/TanStack/table

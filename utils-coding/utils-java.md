@@ -120,6 +120,7 @@
 - https://github.com/apache/pulsar
 - https://github.com/apache/kafka
 - https://github.com/zalando/nakadi
+- https://github.com/crate/crate/
 
 ## LIBS: TESTS
 - https://site.mockito.org/

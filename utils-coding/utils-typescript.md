@@ -39,6 +39,7 @@
 - https://github.com/orta/typescript-notes
 - https://rmolinamir.github.io/typescript-cheatsheet/
 - https://twitter.com/mgechev/status/1240178886979223552
+- https://github.com/Villanuevand/typescript-generics-workshop
 - https://dev.to/ruslanchek_17/some-useful-typescript-snippets-2278
 - https://gist.github.com/busypeoples/b2d9ecda58ff25f3206e8c171f04b087
 - https://gist.github.com/busypeoples/eebd1f893671959162df97cc8a6292e0
@@ -92,6 +93,7 @@
 - https://github.com/contiamo/rhombic
 - https://github.com/zMotivat0r/mrepo
 - https://github.com/total-typescript
+- https://github.com/Effect-TS/stream
 - https://github.com/nadeesha/ts-prune
 - https://github.com/renke/import-sort
 - https://github.com/radarsu/ts-import

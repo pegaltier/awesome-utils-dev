@@ -492,6 +492,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/qrohlf/trianglify
 - https://github.com/davidkpiano/flipping
 - https://github.com/nolimits4web/atropos/
+- https://github.com/janpaepke/ScrollMagic
 - https://github.com/vasturiano/three-globe
 - https://github.com/lucafalasco/scroll-snap
 - https://github.com/mohamedfrindi/TxtAnime.js

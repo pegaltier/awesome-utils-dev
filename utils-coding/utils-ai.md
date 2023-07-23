@@ -132,8 +132,10 @@
 - https://github.com/Giskard-AI/giskard
 - https://github.com/nat/openplayground
 - https://github.com/reactorsh/ambrosia
+- https://github.com/microsoft/TypeChat
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
+- https://github.com/jmorganca/ollama
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
 - https://github.com/salesforce/xgen

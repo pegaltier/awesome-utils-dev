@@ -111,6 +111,7 @@
 
 - https://hypercolor.dev/#gradients
 - https://tailblend.vercel.app/
+- https://github.com/shadcn-ui/ui
 - https://github.com/unocss/unocss
 - https://github.com/ndaba1/twinit
 - https://github.com/tw-in-js/twind
