@@ -10,6 +10,7 @@
 - Nick Radge https://www.thechartist.com.au/
 - Robert Grzesik https://lumiwealth.com/master-of-trading/
 - Matthew J. Slabosz https://www.theartoftrading.com/
+- Yuriy Matso https://www.daytraderplaybook.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -544,6 +545,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
+- https://github.com/Seungwoo321/cats
 - https://github.com/cinar/indicatorts
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Grademark/grademark
@@ -570,7 +572,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/bitcoinvsalts/tradingview-alert-binance-trader
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
-
+- https://seungwoo321.github.io/blog/2022/01/28/making-trading-bot-4/
 - https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 - https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
 - https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/

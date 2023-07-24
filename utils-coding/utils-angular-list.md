@@ -278,6 +278,7 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/ddd-crew/context-mapping
 - https://github.com/kamranahmedse/design-patterns-for-humans
 - https://www.patterns.dev/
+- https://github.com/bespoyasov/solidbook
 
 ## HELPER: CHEAT-SHEETS
 
@@ -2656,6 +2657,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/stevermeister/ngx-wig
 - https://github.com/ianstormtaylor/slate
 - https://github.com/sibiraj-s/ngx-editor
+- https://github.com/ueberdosis/tiptap
 - https://github.com/zserge/awfice
 - https://github.com/udecode/plate
 

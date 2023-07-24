@@ -20,6 +20,7 @@
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/humanloop/awesome-chatgpt
 - https://github.com/microsoft/ML-For-Beginners
+- https://github.com/mercari/ml-system-design-pattern
 - https://github.com/heartexlabs/awesome-data-labeling
 - https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 - https://github.com/EthicalML/awesome-production-machine-learning
