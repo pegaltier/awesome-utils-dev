@@ -11,6 +11,7 @@
 - Robert Grzesik https://lumiwealth.com/master-of-trading/
 - Matthew J. Slabosz https://www.theartoftrading.com/
 - Yuriy Matso https://www.daytraderplaybook.com/
+- Marsten Parker https://mhptrading.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
