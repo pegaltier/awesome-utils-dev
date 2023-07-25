@@ -74,12 +74,18 @@
 10. diversification (10 cryptos + 10 stocks (better to use ETF))
 11. be consistant over the long term, good health, wake up early, eat clea, do sport, it will be your best hedge against others people
 
+## AGLOTRADE ADVICE
+- A system is good enough if yearly gain above max drawdown
+- Check the biggest gainers and biggest loosers to make sure it works as expected
 
 ## COMMON STRATEGY
-- long only
-- long/short
-- trend following
-- mean reversion for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
+- Range bounds - buy low - sell high
+- Breakout of a range to profit from the birth of a new trend
+- Trend following (temporary pause and bet on continuation of main trend)
+- mean reversion to capitalize on extreme changes for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
+
+## TODO ORGANISE
+- long only or short only or long/short
 - Day Trading Legend: BNF, contrarian strategy looks at stock deviating at least 20% below 25days MA, with 35% safe level to buy. The % level actually depends on the sector, like high risk startup or crypto will have a very spread like between 28 and 60%. Also during a strong bull market, if you are late to the party you can still buy the lagger values (https://www.youtube.com/watch?v=Jnc77gMihPo)
 - The BEST Entry Signal Indicator https://www.youtube.com/watch?v=N_7ADVr72Ik
 
