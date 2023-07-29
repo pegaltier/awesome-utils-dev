@@ -2659,6 +2659,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/stevermeister/ngx-wig
 - https://github.com/ianstormtaylor/slate
 - https://github.com/sibiraj-s/ngx-editor
+- https://github.com/holloway/doctored
 - https://github.com/ueberdosis/tiptap
 - https://github.com/zserge/awfice
 - https://github.com/udecode/plate

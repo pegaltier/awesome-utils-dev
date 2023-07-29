@@ -92,8 +92,10 @@
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
 
-## TOOLS: LOGS Elasticsearch/Splunk/Datadog
+## TOOLS: MONITOR 
+- LOGS Elasticsearch/Splunk/Datadog
 - https://github.com/openobserve/openobserve
+- https://github.com/influxdata/influxdb
 
 ## TOOLS: MESSAGING
 - https://github.com/aiven/klaw

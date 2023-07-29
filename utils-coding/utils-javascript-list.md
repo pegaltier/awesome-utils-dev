@@ -464,6 +464,7 @@
 - https://github.com/Simonwep/selection
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
+- https://github.com/crabbly/Print.js
 - https://github.com/ueberdosis/tiptap
 - https://github.com/jcubic/sysend.js
 - https://github.com/joeattardi/picmo

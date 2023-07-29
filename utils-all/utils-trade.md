@@ -531,6 +531,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/enzoampil/fastquant
 - https://github.com/51bitquant/howtrader
+- https://github.com/letianzj/quanttrader
 - https://github.com/goldmansachs/gs-quant
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats
@@ -541,6 +542,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example
+- https://github.com/firmai/financial-machine-learning
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/hackingthemarkets/gridbot-websockets
@@ -553,7 +555,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
-- https://github.com/Seungwoo321/cats
+- https://github.com/Seungwoo321/cats (grademark)
+- https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Grademark/grademark
@@ -568,9 +571,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
+- https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
 - https://github.com/Haehnchen/crypto-trading-bot
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/Hantama237/moontrade-algotrading
+- https://github.com/excelsior-creative/edc-backtester (grademark)
 - https://github.com/472647301/tradingview-web-socket
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
