@@ -54,12 +54,14 @@
 - https://github.com/sultan99/sexy-require
 - https://github.com/styfle/packagephobia
 - https://github.com/privatenumber/tasuku
+- https://github.com/EvanZhouDev/donut-js
 - https://github.com/ds300/patch-package
 - https://github.com/folke/ultra-runner
 - https://github.com/RetireJS/retire.js
 - https://github.com/enquirer/enquirer
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
+- https://github.com/foreversd/forever
 - https://github.com/sindresorhus/np
 - https://github.com/zoontek/valienv
 - https://github.com/alallier/reload
@@ -68,6 +70,7 @@
 - https://github.com/google/wireit
 - https://github.com/ranyitz/newsh
 - https://github.com/lirantal/npq
+- https://github.com/remy/nodemon
 - https://github.com/amio/npm-why
 - https://github.com/ranyitz/qnm
 - https://github.com/47ng/sceau
@@ -176,6 +179,7 @@
 - https://github.com/nestjs/nest
 - https://github.com/tsedio/tsed
 - https://github.com/strapi/strapi
+- https://github.com/remult/remult
 - https://github.com/lukeautry/tsoa
 - https://github.com/typeorm/typeorm
 - https://github.com/sindresorhus/got
@@ -186,6 +190,7 @@
 - https://github.com/sequelize/sequelize
 - https://github.com/wundergraph/wundergraph
 - https://github.com/strongloop/loopback-next
+- https://github.com/serhiisol/node-decorators
 - https://github.com/deepkit/deepkit-framework
 
 ## STARTER

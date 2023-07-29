@@ -1246,9 +1246,10 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/mobxjs/mobx
 - https://github.com/logux/state
 - https://github.com/artalar/reatom
-- https://github.com/effector/effector
+- https://github.com/e-square-io/ark
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/ds300/derivablejs
+- https://github.com/effector/effector
 - https://github.com/kuncevic/rx-service
 - https://github.com/nanostores/nanostores
 - https://github.com/nanostores/router
@@ -2549,6 +2550,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: DATA VIZ
 
+- https://github.com/f5/unovis
 - https://github.com/chartjs/awesome
 - https://github.com/jacomyal/sigma.js
 - https://github.com/microsoft/msagljs
@@ -2956,6 +2958,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FULL
 
 - https://github.com/adisreyaj/compito
+- https://github.com/TheNightmareX/reply
 - https://github.com/neekware/fullerstack
 - https://github.com/rfprod/nx-ng-starter
 - https://github.com/DSpace/dspace-angular

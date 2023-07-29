@@ -102,6 +102,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/nette/utils
 - https://github.com/1ma/JsonRpc
 - https://github.com/1ma/Psr7Hmac
+- https://github.com/vrana/adminer
 - https://github.com/janephp/janephp
 - https://github.com/firebase/php-jwt
 - https://github.com/cweiske/jsonmapper

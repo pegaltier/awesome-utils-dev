@@ -540,6 +540,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot
+- https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/hackingthemarkets/gridbot-websockets
@@ -573,6 +574,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/472647301/tradingview-web-socket
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
+- https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4
 - https://github.com/Grademark/grademark-first-example
 - https://github.com/bitcoinvsalts/node-binance-trader
 - https://github.com/jean-michel-gonet/angular-backtest

@@ -45,9 +45,11 @@ low-code tooling to prototype fastly.
 ## opensource
 - https://github.com/retejs/rete
 - https://github.com/artf/grapesjs
+- https://github.com/remult/remult
 - https://github.com/nocodb/nocodb
 - https://github.com/google/blockly
 - https://github.com/BuilderIO/qwik
+- https://github.com/lowdefy/lowdefy
 - https://github.com/ToolJet/ToolJet
 - https://github.com/xlayers/xlayers
 - https://github.com/processing/p5.js

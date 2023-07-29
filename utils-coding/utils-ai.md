@@ -137,6 +137,7 @@
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/jmorganca/ollama
+- https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
 - https://github.com/salesforce/xgen

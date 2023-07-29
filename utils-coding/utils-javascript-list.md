@@ -569,6 +569,7 @@
 - https://github.com/stdlib-js/stdlib
 - https://github.com/Jam3/math-as-code
 - https://github.com/dinerojs/dinero.js
+- https://github.com/adamwdraper/Numeral-js
 - https://github.com/ebradyjobory/finance.js
 - https://github.com/TheAlgorithms/Javascript
 - https://github.com/handsontable/hyperformula

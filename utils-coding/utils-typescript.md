@@ -204,6 +204,7 @@
 - https://github.com/sledorze/morphic-ts
 - https://github.com/sinclairzx81/typebox
 - https://github.com/gvergnaud/ts-pattern
+- https://github.com/fabian-hiller/valibot
 - https://github.com/graphology/graphology
 - https://github.com/jamiebuilds/sarcastic
 - https://github.com/muellerbbm-vas/grivet
