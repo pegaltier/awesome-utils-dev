@@ -2,16 +2,17 @@
 
 ## TRADERS
 
-- Laurens Bensdorp https://tradingsystems.com | https://tradingmasteryschool.com
+- Jarrod Goodwin https://www.thetransparenttrader.com/ | https://www.youtube.com/c/TheTransparentTrader
 - Michael Covel's https://www.trendfollowing.com | https://www.trendfollowingradio.com/
-- Jack Schwager https://jackschwager.com
-- Berg Milton https://miltonberg.com
-- David Bergstrom https://www.buildalpha.com/
-- Nick Radge https://www.thechartist.com.au/
+- Laurens Bensdorp https://tradingsystems.com | https://tradingmasteryschool.com
 - Robert Grzesik https://lumiwealth.com/master-of-trading/
 - Matthew J. Slabosz https://www.theartoftrading.com/
 - Yuriy Matso https://www.daytraderplaybook.com/
+- David Bergstrom https://www.buildalpha.com/
+- Nick Radge https://www.thechartist.com.au/
 - Marsten Parker https://mhptrading.com/
+- Jack Schwager https://jackschwager.com
+- Berg Milton https://miltonberg.com
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -140,8 +141,6 @@
 - First ebook 2015: https://miltonberg.com/wp-content/uploads/2018/02/Approach-to-the-Markets-July-3-2015.pdf
 - Second ebook 2018: https://miltonberg.com/wp-content/uploads/2018/02/MTA-Journal-Boundaries-of-Tech-Analysis.pdf
 
-
-
 ## INDICATORS
 
 21 EMA DAILY
@@ -190,7 +189,7 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - buy SP500 when VIX closes above 30 and sell when VIX closes below 20. = +25% in 2022
 - buy SP500 when VIX closes below 20 and sell when VIX closes above 30. = -33% in 2022
 
-## Strat: one day mean reversion by @thechartist
+## Strat: mean reversion: one day by @thechartist
 - Take ATR of last 5 days.
 - Take std dev of the ATR for 50 days and divide by std dev of the last 200 days
 - If less than 5 then buy limit at todays low minus the ATR 5 * 0.5
@@ -199,7 +198,17 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - https://www.quantifiedstrategies.com/3-free-mean-reversion-trading-strategies/
 - https://wealth-lab.com/Strategy/DesignPublished?strategyID=51
 
-## Strat: Trend following by Laurens Bensdorp
+## Strat: mean reversion: 4 days consecutive
+- 4 days consecutive green candle then buy long
+- 4 days consecutive red candle then sell short
+- https://www.youtube.com/watch?v=qpkCxEUdoMo
+
+## Strat: mean reversion: close at high
+- close is highest close of 6 previous bars then sell short 
+- close is lowest close of 6 previous bars then buy long 
+- https://www.youtube.com/watch?v=XVEbnqLk0-Q
+
+## Strat: Trend following: by Laurens Bensdorp
 - Liquidity: only very liquid stocks
 - Close of the SPY needs to be above the 50 day SMA + 2 ATR (20 days)
 - Close of the stock is the highest close of the last 50 days
@@ -208,6 +217,14 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - Exit rule: initial stop at 5 ATR (20) below the execution price + trailing stop 17.5%
 - Detail: https://www.youtube.com/watch?v=J5tW_tNzZ7M
 - However based on Joachim Moser, trend following systems are not very good because they consumes equity base / time invested in the market, so he recommend instead mean reversion strategy.
+
+## Strat: Trend following: 3 ema
+- Enter when the 3 moving average are aligned: 50 > 100 > 200 and close crosses the 50 
+- https://www.youtube.com/watch?v=MbCWVxlaq14
+
+## Strat: Trend following: Bull market vs bear
+The bull signal is the following: 18 consecutive closes above the 200 SMA in a bear market. After the bull market signal, the forward returns tend to be pretty strong. The market is up 21.84% on average one year after the signal is triggered.
+- https://www.quantifiedstrategies.com/bull-market-signal/
 
 ## Strat: Equity Curve Trading Strategy
 - Skipping trades when equity curve is above a moving average of equity
@@ -218,10 +235,6 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - Skipping based on rolling Sharpe Ratio
 - detail: https://www.buildalpha.com/equity-curve-trading/
 - however based on Joachim Moser, it's very complex thing to do, and so not recommended because often at the end often arrives a very profitable trades you don't want to miss.
-
-## Strat: Bull market vs bear
-The bull signal is the following: 18 consecutive closes above the 200 SMA in a bear market. After the bull market signal, the forward returns tend to be pretty strong. The market is up 21.84% on average one year after the signal is triggered.
-- https://www.quantifiedstrategies.com/bull-market-signal/
 
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
@@ -329,6 +342,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TOOLS
 - https://www.tradingview.com/
+- https://www.multicharts.com/
 - https://www.haasonline.com/
 - https://www.marketinout.com/
 - https://www.tradewell.app/
