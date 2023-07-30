@@ -3,6 +3,7 @@
 ## TRADERS
 
 - Jarrod Goodwin https://www.thetransparenttrader.com/ | https://www.youtube.com/c/TheTransparentTrader
+- Kevin Davey https://kjtradingsystems.com/ | https://www.youtube.com/@AlgoTradingWithKevinDavey
 - Michael Covel's https://www.trendfollowing.com | https://www.trendfollowingradio.com/
 - Laurens Bensdorp https://tradingsystems.com | https://tradingmasteryschool.com
 - Robert Grzesik https://lumiwealth.com/master-of-trading/
@@ -82,6 +83,10 @@
 ## AGLOTRADE ADVICE
 - A system is good enough if yearly gain above max drawdown
 - Check the biggest gainers and biggest loosers to make sure it works as expected
+- Do walk forward analysis which is like a backtesting but taking out of samples data in the next period after your backtest optimisation, for instance if you have 4 years of data, optimise for the first year and then backtest for the next year and so on until the last year.
+- Do monte carlo simulation to shuffle your trades and see if they will survive based on your risk and capital
+- When you have a new system but it on incumbation period and check it few months later to see how it behaves
+
 
 ## COMMON STRATEGY
 - Range bounds - buy low - sell high
@@ -229,7 +234,8 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 
 ## Strat: Trend following: 3 ema slingshot
 - Slinghot is when the price close above the EMA 4 bars of the bar highs
-https://youtu.be/YArWpO2YOuI
+- https://youtu.be/YArWpO2YOuI
+- https://www.youtube.com/watch?v=HfVAuxRRUwY
 
 ## Strat: Trend following: momentum
 - use smoothed rate of change (SROC), its simply a ROC with an EMA/SMA to smooth and remove noise
