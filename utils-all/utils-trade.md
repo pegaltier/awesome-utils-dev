@@ -37,7 +37,16 @@
 
 ## QUOTES
 - https://eodhistoricaldata.com/
-- https://github.com/maxgfr/binance-historical
+- https://www.cryptoarchive.com.au/ *
+- https://github.com/maxgfr/binance-historical *
+- https://www.binance.com/en/landing/data
+- https://min-api.cryptocompare.com/pricing
+- https://www.cryptodatadownload.com/data/
+- https://data.coinbase.com/?packageFilter=ohlcv-hourly
+- https://bravenewcoin.com/enterprise-solutions/market-data
+- https://docs.bravenewcoin.com/#operation/listExchangeTicker
+- https://data.nasdaq.com/databases/CAGHD/documentation
+- https://support.kraken.com/hc/en-us/sections/360009899492-CSV-Data *
 - https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data
 - https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000
 
@@ -237,13 +246,18 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - https://youtu.be/YArWpO2YOuI
 - https://www.youtube.com/watch?v=HfVAuxRRUwY
 
-## Strat: Trend following: momentum
+## Strat: Trend following: momentum ROC
 - use smoothed rate of change (SROC), its simply a ROC with an EMA/SMA to smooth and remove noise
 - dual momentum: absolute using SROC on the asset and relative compared to others assets
 - pick the top asset sorted by SROC (ROC perid/length between 20 to 100 bars)
 - use the momentum as exit, for instance when SROC starts to go down or goes below a filter MA
 - trends is your friend until it bends
 - https://youtu.be/HL-7skV0f-s
+
+## Strat: Trend following: momentum simple
+- adx(14) > 10 and close-close[65] crosses above 0 then buy long
+- adx(14) > 10 and close-close[65] crosses below 0 then sell short
+https://www.youtube.com/watch?v=ajZSkslriXg
 
 ## Strat: Trend following: Bull market vs bear
 The bull signal is the following: 18 consecutive closes above the 200 SMA in a bear market. After the bull market signal, the forward returns tend to be pretty strong. The market is up 21.84% on average one year after the signal is triggered.
