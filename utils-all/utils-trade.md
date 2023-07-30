@@ -7,9 +7,11 @@
 - Laurens Bensdorp https://tradingsystems.com | https://tradingmasteryschool.com
 - Robert Grzesik https://lumiwealth.com/master-of-trading/
 - Matthew J. Slabosz https://www.theartoftrading.com/
+- Andrew Swanscott https://bettersystemtrader.com/
 - Yuriy Matso https://www.daytraderplaybook.com/
 - David Bergstrom https://www.buildalpha.com/
 - Nick Radge https://www.thechartist.com.au/
+- Leo Smigel https://analyzingalpha.com/
 - Marsten Parker https://mhptrading.com/
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
@@ -22,6 +24,8 @@
 
 ## PODCAST
 - https://chatwithtraders.com/
+- https://bettersystemtrader.com/
+- https://analyzingalpha.com/podcast
 - https://www.thetradingpodcast.com/
 - https://kjtradingsystems.com/podcasts.html
 - https://anthonycrudele.com/futuresradioshow/podcast/293/
@@ -143,7 +147,8 @@
 
 ## INDICATORS
 
-21 EMA DAILY
+## classic:
+- 21 EMA DAILY
 
 ## Rsi:
 - bullish if price is above the weelkly 21 MA (if it hold above it's bullish)
@@ -221,6 +226,18 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 ## Strat: Trend following: 3 ema
 - Enter when the 3 moving average are aligned: 50 > 100 > 200 and close crosses the 50 
 - https://www.youtube.com/watch?v=MbCWVxlaq14
+
+## Strat: Trend following: 3 ema slingshot
+- Slinghot is when the price close above the EMA 4 bars of the bar highs
+https://youtu.be/YArWpO2YOuI
+
+## Strat: Trend following: momentum
+- use smoothed rate of change (SROC), its simply a ROC with an EMA/SMA to smooth and remove noise
+- dual momentum: absolute using SROC on the asset and relative compared to others assets
+- pick the top asset sorted by SROC (ROC perid/length between 20 to 100 bars)
+- use the momentum as exit, for instance when SROC starts to go down or goes below a filter MA
+- trends is your friend until it bends
+- https://youtu.be/HL-7skV0f-s
 
 ## Strat: Trend following: Bull market vs bear
 The bull signal is the following: 18 consecutive closes above the 200 SMA in a bear market. After the bull market signal, the forward returns tend to be pretty strong. The market is up 21.84% on average one year after the signal is triggered.
