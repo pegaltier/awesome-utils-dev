@@ -2206,6 +2206,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/facebook/jest
 - https://github.com/faker-js/faker
 - https://github.com/Iqoqo/mockshot
+- https://github.com/chancejs/chancejs
 - https://github.com/automock/automock
 - https://github.com/vitest-dev/vitest
 - https://github.com/sharkdp/hyperfine
@@ -2561,6 +2562,7 @@ Analyze and optimize the performance of your app
 - https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/scttcper/ngx-chartjs
 - https://github.com/stephenhutchings/shown
+- https://github.com/project-nv/night-vision
 - https://github.com/apexcharts/ng-apexcharts
 - https://github.com/valor-software/ng2-charts
 - https://github.com/highcharts/highcharts-angular
@@ -3200,6 +3202,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 - https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner
+- https://marketplace.visualstudio.com/items?itemName=bierner.folder-source-actions
 - https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics
 - https://marketplace.visualstudio.com/items?itemName=devboosts.angular-productivity-pack
 - https://marketplace.visualstudio.com/items?itemName=tomwhite007.rename-angular-component

@@ -515,6 +515,7 @@
 
 ## LIB: CHART
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/project-nv/night-vision
 - https://github.com/highcharts/highcharts
 - https://github.com/plotly/plotly.js
 - https://github.com/benfred/venn.js
