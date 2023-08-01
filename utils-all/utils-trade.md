@@ -384,6 +384,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.marketinout.com/
 - https://www.tradewell.app/
 - https://strategyquant.com/
+- https://www.cloud9trader.com/
 - https://capitalise.ai/
 - https://dayhagan.com/
 - https://crypto-ml.com/
@@ -606,7 +607,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/tvjsx/tvjs-xp
 - https://github.com/Seungwoo321/cats (grademark)
 - https://github.com/nielse63/stonksjs
-- https://github.com/cinar/indicatorts
+- https://github.com/cinar/indicatorts *
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *
