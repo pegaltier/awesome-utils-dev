@@ -522,9 +522,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
-- https://github.com/Reiryoku-Technologies/Mida
-- https://github.com/Reiryoku-Technologies/Mida-Playground
-- https://github.com/Reiryoku-Technologies/Time-Series-Archive
 
 ### OSS: STRATEGY
 - https://github.com/freqtrade/freqtrade-strategies
@@ -589,6 +586,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/blankly-finance/blankly
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/bfolkens/py-market-profile
+- https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/fabston/TradingView-Webhook-Bot
@@ -611,13 +609,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/cinar/indicatorts
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Grademark/grademark
-- https://github.com/tyolab/grademark
+- https://github.com/tyolab/grademark *
 - https://github.com/debut-js/Indicators
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/TulipCharts/tulipnode
-- https://github.com/SockTrader/SockTrader
+- https://github.com/SockTrader/SockTrader *
 - https://github.com/project-nv/night-vision
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node
@@ -627,9 +625,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/Haehnchen/crypto-trading-bot
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/Hantama237/moontrade-algotrading
+- https://github.com/Reiryoku-Technologies/Mida *
+- https://github.com/Reiryoku-Technologies/Mida-Playground
+- https://github.com/Reiryoku-Technologies/Time-Series-Archive
 - https://github.com/excelsior-creative/edc-backtester (grademark)
 - https://github.com/472647301/tradingview-web-socket
-- https://github.com/anandanand84/technicalindicators
+- https://github.com/anandanand84/technicalindicators *
 - https://github.com/Cloud9Trader/TechnicalIndicators
 - https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4
 - https://github.com/Grademark/grademark-first-example

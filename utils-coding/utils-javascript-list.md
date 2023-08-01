@@ -517,9 +517,11 @@
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/project-nv/night-vision
 - https://github.com/highcharts/highcharts
+- https://github.com/observablehq/plot
 - https://github.com/plotly/plotly.js
 - https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
+- https://github.com/d3fc/d3fc
 
 ## LIB: MEDIAS
 - https://github.com/francoischalifour/medium-zoom
