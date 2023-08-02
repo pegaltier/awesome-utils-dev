@@ -223,9 +223,13 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - https://www.youtube.com/watch?v=qpkCxEUdoMo
 
 ## Strat: mean reversion: close at high
-- close is highest close of 6 previous bars then sell short 
-- close is lowest close of 6 previous bars then buy long 
+- inspired by Larry Connors
+- close is highest close of X previous bars then sell short 
+- close is lowest close of X previous bars then buy long
+- exit at first profitable close or stop loss 250 pips
+- add ATR(14) to trade only if below level of volatility
 - https://www.youtube.com/watch?v=XVEbnqLk0-Q
+- https://www.youtube.com/watch?v=qMXUMjckVhU
 
 ## Strat: Trend following: by Laurens Bensdorp
 - Liquidity: only very liquid stocks

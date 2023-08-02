@@ -1719,6 +1719,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/fulls1z3/ngx-meta
 - https://github.com/gammastream/scully-plugins
 - https://github.com/samvloeberghs/kwerri-oss
+- https://github.com/samvloeberghs/kwerri-oss-bu
 - https://github.com/etavener/scully-tools
 - https://github.com/flowaccount/nx-plugins
 - https://github.com/Gorniv/ngx-universal

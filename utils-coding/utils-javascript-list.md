@@ -245,6 +245,7 @@
 
 ## LIB: AUTH
 - https://github.com/logto-io/logto
+- https://github.com/epicweb-dev/totp
 
 ## LIB: UTILS
 
