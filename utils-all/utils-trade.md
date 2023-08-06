@@ -13,6 +13,7 @@
 - David Bergstrom https://www.buildalpha.com/
 - Nick Radge https://www.thechartist.com.au/
 - Leo Smigel https://analyzingalpha.com/
+- Perry Kaufman https://perrykaufman.com/
 - Marsten Parker https://mhptrading.com/
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
@@ -95,6 +96,9 @@
 - Do walk forward analysis which is like a backtesting but taking out of samples data in the next period after your backtest optimisation, for instance if you have 4 years of data, optimise for the first year and then backtest for the next year and so on until the last year.
 - Do monte carlo simulation to shuffle your trades and see if they will survive based on your risk and capital
 - When you have a new system but it on incumbation period and check it few months later to see how it behaves
+- Do not suroptimize with the best performance instead you should manually decide a range of value that makes sense to follow your thesis and then backtest a parameter range of 10% by 10% and then see the statistical distribution of the performance and so on for the next parameters. Finally when you run all tests a ratio of 66% of positive tests is a good result; on the contratry a bad system can be detected if only few of the parameters results in a positive performance.
+- You can add more logic to a system like a trend filter if the average of the backtests have good results
+- Do not run only one optimized system but try to run three or four times the same system with different set of well distributed parameters. this will stabilize dramatically the returns in live trading.
 
 
 ## COMMON STRATEGY
