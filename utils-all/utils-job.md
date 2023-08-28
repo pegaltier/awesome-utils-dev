@@ -5,6 +5,7 @@ Agent pour développeurs haut-niveau
 
 ## REMOTE
 - https://stackoverflow.com/jobs/remote-developer-jobs
+- https://github.com/EuropeanRemote/european-remote-software-companies
 - https://www.freelancer.com/
 - https://remoteok.io/
 - https://jobspresso.co/

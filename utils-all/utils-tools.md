@@ -75,6 +75,7 @@
 - https://www.mendable.ai/
 
 ## OSS: COLLABORATE
+- https://github.com/vasanthv/talk
 - https://github.com/mfts/papermark
 - https://github.com/calcom/cal.com
 - https://github.com/traceo-dev/traceo

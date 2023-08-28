@@ -77,6 +77,7 @@
 - https://github.com/dwyl/Javascript-the-Good-Parts-notes
 - https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/30-seconds/30-seconds-of-interviews
+- https://github.com/mhevery/JavaScriptVM_under_the_hood
 - https://github.com/trekhleb/state-of-the-art-shitcode
 - https://github.com/nas5w/javascript-tips-and-tidbits
 - https://github.com/lydiahallie/javascript-questions
@@ -450,6 +451,7 @@
 - https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/metafizzy/infinite-scroll
+- https://github.com/pubkey/broadcast-channel
 - https://github.com/sindresorhus/clipboardy
 - https://github.com/lucafalasco/scroll-snap
 - https://github.com/zenorocha/clipboard.js
@@ -466,6 +468,7 @@
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/crabbly/Print.js
+- https://github.com/rviscomi/capo.js
 - https://github.com/ueberdosis/tiptap
 - https://github.com/jcubic/sysend.js
 - https://github.com/joeattardi/picmo
@@ -613,8 +616,9 @@
 - https://github.com/msgpack/msgpack-javascript
 - https://github.com/GoogleChromeLabs/buffer-backed-object
 
-## LIB: ID UTILS
+## LIB: ID UTILS / UID
 - https://github.com/ai/nanoid
+- https://github.com/paralleldrive/cuid2
 - https://github.com/rustq/colorid.js
 - https://github.com/ulid/javascript
 
@@ -622,6 +626,7 @@
 - https://github.com/parallax/jsPDF
 - https://github.com/Hopding/pdf-lib
 - https://github.com/bpampuch/pdfmake
+- https://github.com/24eme/signaturepdf
 - https://github.com/hand-dot/labelmake
 - https://github.com/pdffillerjs/pdffiller
 - https://github.com/simonhaenisch/md-to-pdf

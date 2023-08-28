@@ -18,6 +18,7 @@
 - https://github.com/qwikifiers/qwik-image
 - https://github.com/DustinJSilk/qwik-urql
 - https://github.com/derkoe/qwik-swa-demo
+- https://github.com/gioboa/qwik-tanstack
 - https://github.com/robisim74/qwik-speak
 - https://github.com/onwidget/astrowind
 - https://github.com/qwikifiers/qwik-nx

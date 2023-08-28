@@ -11,14 +11,20 @@
 - https://earthstar-project.org/
 
 ## OSS
+- https://github.com/nknorg
+- https://github.com/yjs/yjs
+- https://github.com/holochain
 - https://github.com/amark/gun
 - https://github.com/AgregoreWeb
 - https://github.com/fluencelabs
+- https://github.com/neet/masto.js
+- https://github.com/stateless-minds
 - https://github.com/hyperhyperspace
 - https://github.com/dyne/zenpub-client
 - https://github.com/peers/peerjs-server
 - https://github.com/markqvist/Reticulum
 - https://github.com/hyperswarm/dht-relay
+- https://github.com/ueberdosis/hocuspocus
 - https://github.com/browser-network/network
 - https://github.com/browser-network/database
 - https://github.com/ChainSafe/js-libp2p-gossipsub

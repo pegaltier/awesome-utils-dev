@@ -177,6 +177,8 @@ brew cask install java --no-quarantine
 1. App > Generic iOS Device
 2. Product > Archive > Distribute app > Ad Hoc (distribute IPA locally)
 
+- https://github.com/sindresorhus/create-dmg
+
 ### iOS Certificate
 
 1. Create an Apple Developper account: https://appleid.apple.com/account#!&page=create

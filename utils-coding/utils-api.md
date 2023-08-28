@@ -49,6 +49,7 @@
 
 ## OPENAPI
 - https://github.com/asyncapi/modelina
+- https://github.com/Mermade/widdershins
 - https://github.com/apideck-libraries/portman
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/drwpow/openapi-typescript
@@ -86,6 +87,12 @@
 - https://github.com/serverless/serverless
 - https://github.com/pocketbase/pocketbase
 - https://github.com/risingwavelabs/risingwave
+
+## MESSAGE BROKER
+- https://github.com/rabbitmq
+- https://github.com/apache/kafka
+- https://github.com/taskforcesh/bullmq
+- https://github.com/felixmosh/bull-board
 
 ## OTHERS
 - https://aip.dev

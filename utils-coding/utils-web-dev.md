@@ -84,6 +84,8 @@
 
 - https://www.gitpod.io/
 - https://stackblitz.com
+- https://webstudio.is/
+- https://github.com/webstudio-is/webstudio-builder
  
 ## CHECKLIST
 
@@ -425,6 +427,7 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## FRAMEWORK
 - https://decorator.io/modulr/
+- https://github.com/marko-js/marko
 - https://github.com/fabiospampinato/voby
 - https://github.com/justin-schroeder/arrow-js
 - https://blog.madewithlove.be/post/webpack-your-bags/

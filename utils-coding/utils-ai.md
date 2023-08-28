@@ -20,6 +20,8 @@
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/humanloop/awesome-chatgpt
 - https://github.com/microsoft/ML-For-Beginners
+- https://github.com/cbailes/awesome-deep-trading
+- https://github.com/steven2358/awesome-generative-ai
 - https://github.com/mercari/ml-system-design-pattern
 - https://github.com/heartexlabs/awesome-data-labeling
 - https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
@@ -148,12 +150,15 @@
 - https://github.com/s0md3v/roop
 - https://github.com/openai/shap-e
 - https://github.com/katanaml/sparrow
+- https://github.com/modelscope/facechain
+- https://github.com/facefusion/facefusion
 - https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/deep-floyd/IF
+- https://github.com/lllyasviel/Fooocus
 - https://github.com/Stability-AI/StableLM
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
@@ -168,6 +173,10 @@
 
 ## LIB: BOT
 - https://github.com/baptisteArno/typebot.io
+- https://github.com/openchatai/OpenChat
+
+## LIB: GAME
+- https://github.com/a16z-infra/ai-town
 
 ## LIB: MODELS
 - https://github.com/awesomedata/awesome-public-datasets
@@ -188,6 +197,7 @@
 - https://gpt-tailwind.com/
 - https://github.com/e2b-dev/e2b
 - https://github.com/TabbyML/tabby
+- https://github.com/fauxpilot/fauxpilot
 
 ### TEXT
 - https://www.taglines.ai/

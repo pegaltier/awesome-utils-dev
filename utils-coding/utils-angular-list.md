@@ -1496,6 +1496,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 - https://github.com/nrwl/nx
 - https://github.com/wizdmio/wizdm
+- https://github.com/goetzrobin/spartan
 - https://github.com/angular/angular-cli
 - https://github.com/martinoppitz/leanup
 - https://github.com/irustm/angular-nodegui
@@ -1629,6 +1630,7 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/brunos3d/nx-rescope
 - https://github.com/nxkit/nxkit
+- https://github.com/altack/nx-bundlefy
 - https://github.com/JamieMason/syncpack
 - https://github.com/lemonade-hq/traf
 - https://github.com/lucasvieirasilva/nx-plugins
@@ -2113,6 +2115,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/kroeder/ngx-cli-toolkit
 - https://github.com/ng-builders/ng-builders
 - https://github.com/briebug/jest-schematic
+- https://github.com/taiga-family/ng-morph
 - https://github.com/bennymeg/nx-electron
 - https://github.com/Teebo/scss-migrate
 - https://github.com/Tinkoff/ng-morph
@@ -2342,6 +2345,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: ALL
 
+- https://github.com/CuppaLabs/angular2-multiselect-dropdown
 - https://github.com/d-koppenhagen/angular-tag-cloud-module
 - https://github.com/naranmistry/angular-typing-animator
 - https://github.com/DmitryEfimenko/ng-expandable-input
@@ -2359,6 +2363,7 @@ Analyze and optimize the performance of your app
 - https://github.com/kuhnroyal/mat-datetimepicker
 - https://github.com/MurhafSousli/ngx-highlightjs
 - https://github.com/isaacplmann/ngx-contextmenu
+- https://github.com/IOMechs/angular-tags-input
 - https://github.com/neojato/ngx-barcode-input
 - https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/d-koppenhagen/ngx-lipsum
@@ -2486,6 +2491,7 @@ Analyze and optimize the performance of your app
 - https://github.com/golden-layout/golden-layout
 - https://github.com/ssuperczynski/ngx-easy-table
 - https://github.com/tiberiuzuld/angular-gridster2
+- https://github.com/rintoj/ngx-virtual-scroller
 - https://github.com/lVlyke/lithium-ngx-virtual-scroll
 
 ## ECOSYSTEM: LIB: COMPONENT: CDK MATERIAL
@@ -2520,7 +2526,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: COMPONENT: TOUR
 - https://github.com/shipshapecode/angular-shepherd
 - https://github.com/tonysamperi/ngx-tour-wizard
-- https://github.com/tnicola/ngx-joyride
+- https://github.com/kamranahmedse/driver.js
 - https://github.com/hakimio/ngx-ui-tour
 - https://github.com/usablica/intro.js
 
@@ -2890,6 +2896,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ngiakhanh96/angular-youtube
 - https://github.com/wszgrcy/angular-miniprogram
 - https://github.com/lacolaco/angular-tfjs-sandbox
+- https://github.com/HaasStefan/ngrx-leaky-backends
 - https://github.com/benlesh/add-features-with-rxjs
 - https://github.com/stefanoslig/xstate-angular-demo
 - https://github.com/appwrite/demo-todo-with-angular

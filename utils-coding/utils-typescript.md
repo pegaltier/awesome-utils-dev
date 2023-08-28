@@ -6,13 +6,15 @@
 - https://sulco.stackblitz.io/
 - https://type-level-typescript.com/
 - https://basarat.gitbook.io/typescript/
-- https://github.com/intocare/style-guide
+- https://github.com/bautistaaa/typehero
 - https://github.com/sindresorhus/type-fest
 - https://github.com/gibbok/typescript-book
 - https://github.com/basarat/typescript-book
+- https://github.com/imteekay/mini-typescript
 - https://github.com/danvk/effective-typescript
 - https://github.com/LearningTypeScript/projects
 - https://github.com/typescript-cheatsheets/react
+- https://github.com/mkosir/typescript-style-guide
 - https://github.com/microsoft/TypeScript-Handbook
 - https://github.com/labs42io/clean-code-typescript
 - https://github.com/type-challenges/type-challenges
@@ -80,8 +82,6 @@
 - https://github.com/LeDDGroup/typescript-transform-paths
 
 ## UTILS
-
-- https://github.com/trpc/trpc
 - https://github.com/antfu/utils
 - https://github.com/webpro/knip
 - https://github.com/hqoss/guards
@@ -125,6 +125,10 @@
 - https://github.com/valentinkononov/ts-runtime-checker
 - https://github.com/madou/typescript-transformer-handbook
 - https://github.com/ggascoigne/prettier-plugin-import-sort
+
+## LIB: SERVER
+- https://github.com/trpc/trpc
+- https://github.com/ts-rest/ts-rest
 
 ## LIB: ALL
 

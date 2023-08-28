@@ -223,6 +223,7 @@
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/vercel/next-learn-starter
 - https://github.com/Blazity/next-enterprise
+- https://github.com/timlrx/pliny
 
 ## NEXT
 - https://github.com/application-research/next-bucket
@@ -246,6 +247,7 @@
 - https://github.com/vercel/commerce
 - https://github.com/un33k/taxonomy
 - https://github.com/shuding/nextra
+- https://github.com/sst/open-next
 - https://github.com/alii/nextkit
 - https://github.com/shadcn/ui
 

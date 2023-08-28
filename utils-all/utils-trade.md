@@ -593,6 +593,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats
 - https://github.com/blankly-finance/blankly
+- https://github.com/stefmolin/stock-analysis
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/day0market/support_resistance
@@ -603,7 +604,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/firmai/financial-machine-learning
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
+- https://github.com/NourozR/Stock-Price-Prediction-LSTM
 - https://github.com/hackingthemarkets/gridbot-websockets
+- https://github.com/conor19w/Binance-Futures-Trading-Bot
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
 - https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku

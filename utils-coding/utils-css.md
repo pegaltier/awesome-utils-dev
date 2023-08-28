@@ -104,8 +104,9 @@
 - https://github.com/sindresorhus/modern-normalize
 - https://github.com/troxler/awesome-css-frameworks
 
-## UTL
+## UTIL
 - https://github.com/skovy/typed-scss-modules
+- https://github.com/emilkowalski/ui-snippets
 
 ## TAILWIND
 

@@ -41,6 +41,7 @@
 - https://github.com/movio/bramble
 - https://github.com/imolorhe/altair
 - https://github.com/google/rejoiner
+- https://github.com/SaltyAom/mobius
 - https://github.com/jagql/framework
 - https://github.com/anvilco/spectaql
 - https://github.com/graphql/graphiql
