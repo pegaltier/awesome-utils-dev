@@ -963,6 +963,7 @@ Learn everything about angular universal, make a good SEO.
 
 - https://www.youtube.com/watch?v=HstDoVQeP9g angular signal with Ryan from Solid
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
+- https://blog.simplified.courses/how-to-prepare-for-angular-signals/
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
 - https://dev.to/this-is-angular/angular-signals-everything-you-need-to-know-2b7g
@@ -1335,7 +1336,6 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/HTMLElements/smart-webcomponents
 
 ## ECOSYSTEM: MICROFRONTEND
-
 - https://frint.js.org
 - https://www.mosaic9.org
 - https://www.medusa.codes
@@ -1343,6 +1343,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://microfrontend.dev
 - https://micro-frontends.org
 - https://module-federation.io
+- https://module-federation.github.io
 - https://github.com/SAP/luigi
 - https://github.com/phodal/mooa
 - https://github.com/smapiot/piral
@@ -1356,6 +1357,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/jherr/create-mf-app
 - https://github.com/CanopyTax/single-spa
 - https://github.com/manfredsteyer/mf-ssr
+- https://github.com/web-infra-dev/garfish
 - https://github.com/Enteleform/lazy-portal
 - https://github.com/neuland/micro-frontends
 - https://github.com/IgorMinar/stitchapp.dev
@@ -1942,6 +1944,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/flowup/api-client-generator
 - https://github.com/vugar005/ngx-awesome-uploader
 - https://github.com/kukhariev/ngx-uploadx
+- https://github.com/nigrosimone/ng-http-caching (TOADD)
 
 ## ECOSYSTEM: LIB: ROUTING
 
@@ -2287,6 +2290,7 @@ Analyze and optimize the performance of your app
 - https://github.com/danvk/source-map-explorer
 - https://github.com/ivanblazevic/ngx-unused-css
 - https://github.com/addyosmani/puppeteer-webperf
+- https://github.com/web-infra-dev/webpack-inspector
 - https://github.com/ngx-builders/source-map-analyzer
 - https://github.com/webpack-contrib/webpack-bundle-analyzer
 - https://github.com/stephencookdev/speed-measure-webpack-plugin
@@ -3283,6 +3287,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 
 ## ECOSYSTEM: COMMUNITY
+- https://ngx-libs.com/
 - https://indepth.dev/
 - https://web.dev/angular
 - https://netbasal.com/
@@ -3313,6 +3318,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://ngauthbook.com (TOADD)
 - https://angularforms.dev (TOADD)
 - https://angular-buch.com/ (TOADD)
+- https://www.amazon.com/dp/1803239115 (TOADD)
 - http://AngularAdvocate.com
 - https://angulararchitecture.com
 - https://leanpub.com/angular2-book

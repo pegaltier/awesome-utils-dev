@@ -457,10 +457,13 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## STARTER: WEB / CMS
 - https://github.com/arwes/arwes
+- https://github.com/withastro/astro
 - https://github.com/aidenybai/lucia
+- https://github.com/web-infra-dev/oxc
 - https://github.com/bigskysoftware/htmx
 - https://github.com/Thinkmill/keystatic
 - https://github.com/modernweb-dev/rocket
+- https://github.com/web-infra-dev/modern.js
 - https://github.com/cbracco/html5-test-page
 - https://github.com/jamesgeorge007/scaffold-static
 - https://github.com/wwebdev/static-website-template
@@ -526,6 +529,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://codepen.io/cassie-codes/full/RwRORqB
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
 - https://codepen.io/smpnjn/pen/mdrWPpK
+- https://codepen.io/jh3y/pen/xxQdPae
 - https://github.com/codrops/ConnectedGrid
 - https://codepen.io/ainalem/full/QWGNzYm
 - https://codepen.io/cassie-codes/pen/GRmrogP

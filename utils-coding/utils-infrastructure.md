@@ -79,6 +79,7 @@
 - https://github.com/tooljet/tooljet
 - https://github.com/grafana/grafana
 - https://github.com/earthly/earthly
+- https://github.com/livecycle/preevy
 - https://github.com/hauxir/errorpush
 - https://github.com/caprover/caprover
 - https://github.com/nicolargo/glances

@@ -315,7 +315,6 @@
 - https://github.com/esfx/esfx
 - https://github.com/yahoo/serialize-javascript
 - https://github.com/naman03malhotra/match-rules
-- https://github.com/bvaughn/js-search
 - https://github.com/fingerprintjs/fingerprintjs
 - https://github.com/arthurfiorette/tinylibs
 - https://github.com/jekuer/add-to-calendar-button
@@ -399,7 +398,9 @@
 ## LIB: SEARCH
 - https://github.com/elastic/app-search-javascript
 - https://github.com/elastic/elasticsearch-js
+- https://github.com/bvaughn/js-search
 - https://github.com/comunica/comunica
+- https://github.com/olivernn/lunr.js
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars

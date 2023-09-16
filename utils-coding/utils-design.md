@@ -207,7 +207,6 @@
 - http://www.templateshock.com/  
 - http://www.flaticon.com/   
 - https://designcode.io 
-- http://smartmockups.com/ 
 - http://tabiku.com/   
 - http://www.lolcolors.com/ 
 - http://wallpapergram.com 
@@ -219,7 +218,6 @@
 - http://allthefreestock.com/ 
 - https://resource.fyi/
 - https://picjumbo.com/ 
-- https://www.mockupworld.co
 - https://pixabay.com/  
 - http://www.imcreator.com/free  
 - http://www.morguefile.com/  
@@ -252,6 +250,11 @@
 - http://www.bittbox.com
 - http://www.designfreebies.com
 - https://wweb.dev/resources/animated-css-background-generator
+
+## MOCKUPS
+- https://www.mockupworld.co
+- http://smartmockups.com/ 
+- https://rotato.app/
 
 ## PROFILES
 - https://generated.photos/

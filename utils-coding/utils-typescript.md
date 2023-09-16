@@ -30,6 +30,15 @@
 - https://github.com/total-typescript/beginners-typescript-tutorial
 - https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j
 
+## START
+
+```
+npm install -g typescript 
+tsc --init
+tsc --watch 
+npm init
+```
+
 ## TOOLS
 
 - http://json2ts.com
@@ -398,10 +407,7 @@ Utility types used to create a new type based on an original type, they are also
 -InstanceType<C> returns the return type of a class passed with the typeof C.
 -Record<K,T> is used to describe a javascript map, K is the type of the key and T the type of the value.
 
-## START 
-```
-npm install -g typescript 
-tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata 
-tsc --watch 
-npm init 
-```
+### NEXT
+
+- satisfies-operator https://www.totaltypescript.com/clarifying-the-satisfies-operator
+- keyof https://marketsplash.com/tutorials/typescript/typescript-keyof/

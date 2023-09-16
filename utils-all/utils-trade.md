@@ -18,6 +18,7 @@
 - Marsten Parker https://mhptrading.com/
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
+- Jay Wolberg http://www.tradingvolatility.net/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -44,6 +45,8 @@
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
 - https://www.cryptodatadownload.com/data/
+- https://data.world/crispydata/bitcoin-historical-data
+- https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
 - https://data.coinbase.com/?packageFilter=ohlcv-hourly
 - https://bravenewcoin.com/enterprise-solutions/market-data
 - https://docs.bravenewcoin.com/#operation/listExchangeTicker
@@ -54,11 +57,16 @@
 
 ## STRATEGY
 - https://tradingindicators.com/
+- https://oxfordstrat.com/category/trading-strategies/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
 - https://www.quantifiedstrategies.com/john-ehlers-trading-strategy/
 - https://www.quantifiedstrategies.com/short-term-trading-strategy/
 - https://www.quantifiedstrategies.com/new-5-day-low-in-spy-and-closes-in-the-low-of-the-range/
 - https://medium.datadriveninvestor.com/profit-like-a-pro-a-practical-guide-to-backtesting-and-optimizing-trading-strategies-with-vectorbt-8ade621a4e14
+- https://kaabar-sofien.medium.com/try-using-this-profitable-strategy-on-fx-dd96594c7807
+- https://kaabar-sofien.medium.com/the-pull-back-strategy-in-tradingview-9fc550d6e870
+- https://www.quantifiedstrategies.com/demarker-indicator-strategy/
+
 
 ## AUTOMATED
 - https://www.quantifiedstrategies.com/
@@ -365,7 +373,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 -  Those are not even recommended. In general, limit orders can result in unrealistic backtests due to liquidity constraints. If the limit is reached you may not be able to execute 1/10 of your size without impact. Market markets won't make it easy for you. In fact,  they will take the other side. The backtest may show a 1% gain for a trade, but the real gain maybe 0.01% or even a loss. 
 
 ## TRADINGVIEW CODING
+- https://pinewizards.com/
+- https://pinescriptstrategy.com/
 - https://www.pinescriptwizard.com/
+- https://courses.theartoftrading.com/
+- https://www.pinescriptstrategies.com/
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/
 - https://kodify.net/tradingview/plots/line-plot/
@@ -473,6 +485,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.cryptohopper.com/
 - https://materialindicators.com/
 - https://www.darwinex.com/
+- https://www.streak.tech/
 - https://yuriymatso.com/
 - http://malori.org/
 
@@ -633,12 +646,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/TulipCharts/tulipnode
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/project-nv/night-vision
+- https://github.com/chalupagrande/backtester
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
-- https://github.com/Haehnchen/crypto-trading-bot
+- https://github.com/Haehnchen/crypto-trading-bot *
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/Hantama237/moontrade-algotrading
 - https://github.com/Reiryoku-Technologies/Mida *
@@ -659,6 +673,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 - https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
 - https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/
+- https://eodhd.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 - https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj
 - https://grademark.github.io/grademark-first-example/
 

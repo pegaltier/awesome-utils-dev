@@ -64,6 +64,7 @@
 - https://github.com/KATT/zart
 
 ## STARTER
+- https://github.com/dai-shi/waku
 - https://github.com/saleor/saleor
 - https://github.com/shuding/nextra
 - https://github.com/medusajs/medusa

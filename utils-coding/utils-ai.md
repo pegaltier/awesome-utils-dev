@@ -71,6 +71,8 @@
 
 ## LIB
 - https://github.com/qdrant/qdrant
+- https://github.com/hegelai/prompttools/
+- https://github.com/KillianLucas/open-interpreter/
 - https://github.com/yeuai/botscript
 - https://github.com/ml5js/ml5-library
 - https://github.com/gventuri/pandas-ai
@@ -155,6 +157,10 @@
 - https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
+
+## LIB: VIDEO
+- https://github.com/topics/ai-avatars
+- https://github.com/jianzhnie/awesome-text-to-video
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/deep-floyd/IF
