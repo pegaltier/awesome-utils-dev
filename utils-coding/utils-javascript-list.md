@@ -160,6 +160,7 @@
 - https://github.com/lukeed/astray
 - https://github.com/fkling/astexplorer
 - https://github.com/pastelsky/bundlephobia
+- https://github.com/AykutSarac/jsoncrack.com
 - https://github.com/lirantal/is-website-vulnerable
 - https://github.com/Hopding/js-visualizer-9000-client
 
@@ -255,6 +256,7 @@
 - https://github.com/JSMonk/hegel
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
+- https://github.com/tkrotoff/throw-on
 - https://github.com/sokra/source-map-visualization
 - https://github.com/guybedford/es-module-lexer
 - https://github.com/browserslist/browserslist-useragent
@@ -510,6 +512,7 @@
 
 ## LIB: MATH
 - https://github.com/MikeMcl/bignumber.js
+- https://github.com/bpierre/dnum
 
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus

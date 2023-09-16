@@ -107,6 +107,7 @@
 ## UTIL
 - https://github.com/skovy/typed-scss-modules
 - https://github.com/emilkowalski/ui-snippets
+- https://github.com/SanderElias/open-props
 
 ## TAILWIND
 

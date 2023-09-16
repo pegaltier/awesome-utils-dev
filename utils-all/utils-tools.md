@@ -100,6 +100,7 @@
 - https://github.com/btw-so/open-source-alternatives
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://github.com/quadeare/selfhosted-software-list
+- https://github.com/sfermigier/awesome-foss-alternatives
 - https://github.com/RunaCapital/awesome-oss-alternatives
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/BrambleXu/knowledge-graph-learning

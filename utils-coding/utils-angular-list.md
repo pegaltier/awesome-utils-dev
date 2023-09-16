@@ -272,6 +272,7 @@ Learn about the most useful design patterns in Angular.
 - https://github.com/Itchimonji/refactoring-switch-statements-in-angular
 - https://dev.to/aurelien_alet/hexagonal-architecture-with-angular-8ll
 - https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+- https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c
 - https://github.com/aurelien-alet/angular-toh-hexagonal
 - https://github.com/StephenCooper/ngTemplateOutlets
 - https://github.com/DMezhenskyi/angular-template-outlet-example
@@ -1631,6 +1632,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/brunos3d/nx-rescope
 - https://github.com/nxkit/nxkit
 - https://github.com/altack/nx-bundlefy
+- https://github.com/Jordan-Hall/nx-bun
 - https://github.com/JamieMason/syncpack
 - https://github.com/lemonade-hq/traf
 - https://github.com/lucasvieirasilva/nx-plugins
@@ -2000,6 +2002,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/myndpm/open-source (TOADD)
 - https://github.com/AmadeusITGroup/otter (TOADD)
 - https://github.com/irustm/angular-features (TOADD)
+- https://github.com/nartc/ngxtension-platform (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -2147,6 +2150,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/Netflix/pollyjs
 - https://github.com/TradeMe/tractor
 - https://github.com/bahmutov/cy-api
+- https://github.com/guidepup/guidepup a11y
 - https://github.com/cypress-io/cypress
 - https://github.com/YOU54F/cypress-plugins
 - https://github.com/agoldis/sorry-cypress
@@ -2372,6 +2376,7 @@ Analyze and optimize the performance of your app
 - https://github.com/matteobruni/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
+- https://github.com/leovo2708/ngx-treeview
 - https://github.com/joejordanbrown/popover
 - https://github.com/ncstate-sat/popover
 - https://github.com/nbfontana/ngx-currency
@@ -2856,6 +2861,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: EXPERIMENT
 - https://github.com/IRobot1/ng3-cannon-template
 - https://github.com/hoebbelsB/ng-contextual-state
+- https://github.com/sand4rt/playwright-ct-angular
 - https://github.com/JiaLiPassion/scoped-zone-sample
 - https://github.com/rainerhahnekamp/angular-testing-status
 - https://github.com/joshuamorony/ng-template-outlet-example

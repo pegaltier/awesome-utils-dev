@@ -84,6 +84,7 @@
 - https://github.com/nicolargo/glances
 - https://github.com/Infisical/infisical
 - https://github.com/seaweedfs/seaweedfs
+- https://github.com/apecloud/kubeblocks
 - https://github.com/ClementTsang/bottom
 - https://github.com/alexfernandez/loadtest
 - https://github.com/simao-silva/noip-renewer

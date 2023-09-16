@@ -23,6 +23,7 @@ Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, c
 - https://github.com/allegroai/trains
 - https://github.com/tiangolo/fastapi
 - https://github.com/pennersr/pulsus
+- https://github.com/coqui-ai/TTS
 
 ## UTIL
 

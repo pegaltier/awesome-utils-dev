@@ -126,6 +126,9 @@
 - https://github.com/madou/typescript-transformer-handbook
 - https://github.com/ggascoigne/prettier-plugin-import-sort
 
+## LIB: EXTENSION
+- https://github.com/unional/type-plus
+
 ## LIB: SERVER
 - https://github.com/trpc/trpc
 - https://github.com/ts-rest/ts-rest
@@ -208,6 +211,7 @@
 - https://github.com/sledorze/morphic-ts
 - https://github.com/sinclairzx81/typebox
 - https://github.com/gvergnaud/ts-pattern
+- https://github.com/rsinger86/dto-classes
 - https://github.com/fabian-hiller/valibot
 - https://github.com/graphology/graphology
 - https://github.com/jamiebuilds/sarcastic

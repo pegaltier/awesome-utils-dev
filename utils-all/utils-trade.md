@@ -9,6 +9,7 @@
 - Robert Grzesik https://lumiwealth.com/master-of-trading/
 - Matthew J. Slabosz https://www.theartoftrading.com/
 - Andrew Swanscott https://bettersystemtrader.com/
+- Scott Welsh https://scottwelshstrategies.com/
 - Yuriy Matso https://www.daytraderplaybook.com/
 - David Bergstrom https://www.buildalpha.com/
 - Nick Radge https://www.thechartist.com.au/
@@ -52,6 +53,7 @@
 - https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000
 
 ## STRATEGY
+- https://tradingindicators.com/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
 - https://www.quantifiedstrategies.com/john-ehlers-trading-strategy/
 - https://www.quantifiedstrategies.com/short-term-trading-strategy/
@@ -589,6 +591,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/enzoampil/fastquant
 - https://github.com/51bitquant/howtrader
 - https://github.com/letianzj/quanttrader
+- https://github.com/ig-python/trading-ig
 - https://github.com/goldmansachs/gs-quant
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats
@@ -599,6 +602,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader
+- https://github.com/alpacahq/alpaca-backtrader-api
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/firmai/financial-machine-learning

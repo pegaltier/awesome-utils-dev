@@ -22,6 +22,7 @@
 - https://github.com/ije/esm.sh
 - https://github.com/nvm-sh/nvm
 - https://github.com/pnpm/pnpm
+- https://github.com/unjs/nypm
 - https://github.com/antfu/ni
 - https://github.com/tj/n
 
@@ -59,6 +60,7 @@
 - https://github.com/ds300/patch-package
 - https://github.com/folke/ultra-runner
 - https://github.com/RetireJS/retire.js
+- https://github.com/evanwashere/mitata
 - https://github.com/enquirer/enquirer
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
@@ -124,7 +126,8 @@
 ## LIBS: AI
 - https://github.com/naptha/tesseract.js
 
-## LIBS: DB
+## LIBS: DATABASE / DB
+- https://github.com/appy-one/acebase
 - https://github.com/ndaidong/flat-db
 - https://github.com/twinlogix/typetta
 - https://github.com/microlinkhq/keyvhq

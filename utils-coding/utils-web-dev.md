@@ -129,6 +129,7 @@
 - https://carbon.now.sh
 - https://json-diff.com
 - https://jsonvisio.com
+- https://jsoncrack.com
 - https://waterfaller.dev
 - https://www.mydevice.io
 - https://www.jsv9000.app
@@ -454,10 +455,11 @@ emit/receive : https://github.com/quiet/quiet-js
 ## LIB
 - https://github.com/cure53/DOMPurify
 
-## STARTER: WEB
+## STARTER: WEB / CMS
 - https://github.com/arwes/arwes
 - https://github.com/aidenybai/lucia
 - https://github.com/bigskysoftware/htmx
+- https://github.com/Thinkmill/keystatic
 - https://github.com/modernweb-dev/rocket
 - https://github.com/cbracco/html5-test-page
 - https://github.com/jamesgeorge007/scaffold-static
@@ -524,6 +526,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://codepen.io/cassie-codes/full/RwRORqB
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
 - https://codepen.io/smpnjn/pen/mdrWPpK
+- https://github.com/codrops/ConnectedGrid
 - https://codepen.io/ainalem/full/QWGNzYm
 - https://codepen.io/cassie-codes/pen/GRmrogP
 - https://codepen.io/creativeocean/pen/poPexje

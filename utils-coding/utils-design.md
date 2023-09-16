@@ -38,6 +38,9 @@
 - https://shapeshifter.design
 - https://www.handwriting-generator.com
 
+## OSS
+- https://github.com/mikaelvesavuori/figmagic
+
 ## ICONS
 - https://picons.me
 - https://logojoy.com

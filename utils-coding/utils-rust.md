@@ -20,6 +20,7 @@
 - https://github.com/s-panferov/valico
 - https://github.com/tauri-apps/tauri
 - https://github.com/Keats/validator
+- https://github.com/GREsau/schemars
 - https://github.com/napi-rs/napi-rs
 - https://github.com/otake84/dlhn
 - https://github.com/BloopAI/bloop
