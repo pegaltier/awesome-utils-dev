@@ -148,6 +148,19 @@ ncu -u for re-writing your package.json
 ncu -a for upgrade all
 ```
 
+### NODE HIGH MEMORY
+
+```
+# use it as it is in your npm script
+node --max_old_space_size=8096 ./node_modules/@angular/cli/bin/ng
+# or create a new script called nghm to reuse it in others scripts 
+"nghm": "node --max_old_space_size=8096 ./node_modules/@angular/cli/bin/ng"
+# start with high mem
+npm run nghm -- serve
+```
+
+more complex usage in [utils-node](utils-node.md)
+
 ### BUILD PROD
 
 ```

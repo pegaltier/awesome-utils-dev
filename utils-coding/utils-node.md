@@ -214,7 +214,23 @@
 npm list -g --depth 0 (list the global package installed)
 npx ... (run directly a global or local package from the node_modules)
 npx ngcc (example to run angular ngcc in an angular (v9) project)
+
+npm run command --configuration production (pass simple param to the npm command, the same with yarn)
+npm run command -- --configuration production (pass complex param to the npm command, the same with yarn)
+
 ```
+### Clean
+
+```
+# Clean node project before updgrade or reinstall
+# Command for Linux
+rm -rf package-lock.json
+rm -rf yarn.lock
+rm -rf node_modules
+
+```
+Or see for other OS [Utils-cmd](utils-cmd.md)
+
 
 ### Versions
 
@@ -223,8 +239,6 @@ npx ngcc (example to run angular ngcc in an angular (v9) project)
 - ~ = latest patch version will be installed
 
 ```
-rm -rf package-lock.json
-rm -rf node_modules
 npm outdated # check the dep to update
 npm update # update all to the wanted
 npm update mypackage1 # update one to the wanted
