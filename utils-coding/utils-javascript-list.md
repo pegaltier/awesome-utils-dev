@@ -470,14 +470,15 @@
 - https://github.com/Simonwep/selection
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
+- https://github.com/ueberdosis/tiptap
 - https://github.com/crabbly/Print.js
 - https://github.com/rviscomi/capo.js
-- https://github.com/ueberdosis/tiptap
 - https://github.com/jcubic/sysend.js
 - https://github.com/joeattardi/picmo
 - https://github.com/xtermjs/xterm.js
 - https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
+- https://github.com/bitjson/qr-code
 - https://github.com/svgdotjs/svg.js
 - https://github.com/alibaba/formily
 - https://github.com/TanStack/router

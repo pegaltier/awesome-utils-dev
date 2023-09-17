@@ -59,6 +59,7 @@ Publish to Google Play for beta testing or public distribution.
 - https://github.com/NativeScript/nx
 
 ## EXAMPLE
+- https://github.com/herefishyfish/nativescript-angular-pokedex
 - https://github.com/NathanWalker/example-nx-xplat-ng-ns
 - https://github.com/vallemar/nativescript-airbnb_ui
 - https://github.com/mahmoudajawad/nx-ns-shared

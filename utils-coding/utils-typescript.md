@@ -411,3 +411,4 @@ Utility types used to create a new type based on an original type, they are also
 
 - satisfies-operator https://www.totaltypescript.com/clarifying-the-satisfies-operator
 - keyof https://marketsplash.com/tutorials/typescript/typescript-keyof/
+- record https://dmitripavlutin.com/typescript-record/

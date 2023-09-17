@@ -21,6 +21,9 @@
 - https://vimeo.com/
 - https://www.heygen.com/
 
+## PRESENTATION
+- https://github.com/hakimel/reveal.js
+
 <h2>Social Media</h2>
 <p><a href="https://www.quuu.co">https://www.quuu.co</a></p>
 <h2>TOOLS GROW HACK</h2>

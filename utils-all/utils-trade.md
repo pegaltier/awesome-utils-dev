@@ -55,7 +55,7 @@
 - https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data
 - https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000
 
-## STRATEGY
+## STRATEGY WEBSITES / ARTICLES
 - https://tradingindicators.com/
 - https://oxfordstrat.com/category/trading-strategies/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
@@ -66,6 +66,24 @@
 - https://kaabar-sofien.medium.com/try-using-this-profitable-strategy-on-fx-dd96594c7807
 - https://kaabar-sofien.medium.com/the-pull-back-strategy-in-tradingview-9fc550d6e870
 - https://www.quantifiedstrategies.com/demarker-indicator-strategy/
+- https://www.thetransparenttrader.com/uncategorized/simple-forex-trading-strategy-using-a-kangaroo-tail-pattern/
+
+## STRATEGY VIDEO
+- https://www.youtube.com/watch?v=exHSsT9slF0 How to use Bollinger Bands to Trade Breakouts with High Reward to Risk ratios
+- https://www.youtube.com/watch?v=ajZSkslriXg Algo Trading - Let's Build a Simple Algo (REFS1)
+- https://www.youtube.com/watch?v=LyeJ-CM980I Algorithmic Trading Strategies: Moving Average Stretch (REFS2)
+- https://www.youtube.com/watch?v=5v8f-QbjGV0&t=346s What's the best mean reversion trading setup? 10 setups tested on 20 years of data (REFS3)
+- https://www.youtube.com/watch?v=XvzSBuSuCpE Moving to Break Even Is...Not Good (REFS4)
+- https://www.youtube.com/watch?v=brro_u70UZo The Incredible System: Too Good to Be True, But True (REFS5)
+- https://www.youtube.com/watch?v=9ZxWGyOd74Q Applying Turtle Methods in any Market (REFS6)
+
+## STRATEGY ALGO
+- REFS1: dayback=65, stoploss, takeprofit. Buylong when adx(14)>10 and close-close[dayback] crosses above 0. Sellshort when adx(14)>10 and close-close[dayback] crosses below 0
+- REFS2: emastretch mean reversion strategy. emastretch = 100 * (Close / EMA(10) - 1). buylevel = Close - ATR(5) * 0.75
+- REFS3: #1 RSI(2) below 5 | #2 Sum of RSI(2) over the past 2 days < 20 | #3 Lower low 3 days in a row | #4 Lower close 3 days in a row | #5 Close lower than the lower low of past 5 days | #6 Market closes 1% below previous day close and atr(5) greater than atr(10) (increased volatility) | #7 Market closes 1% below previous day close and atr(5) lower than atr(10) (decreased volatility) | #8 Closes stretches below ema(5) more than 50% of atr(5) | #9 Closes stretches 1% below of ema(5) | #10 ema(5) decreases by 0.5% compared to previous day.... Best are #7, #2, #8
+- REFS4: GBPJPY 1H timeframe is a trending forex pair and correct timeframe; Buy long when Close above Upper BB(100, 3) (100 hours and 3 std dev) and opposite for shorts, taget 450 pips, stop 190 pips
+- REFS5: use monthly chart and buy long after 2 consecutive close above the SMA(12) and exit when close below the SMA(12), works very well on SPY, APPLE, AMZN, GME
+- REFS6: turtle is a momentum strategy and the rules are buy long on breakout of 20 or 55 days, hard stop using atr(x) *2, add to positions after new breakout
 
 
 ## AUTOMATED
@@ -376,8 +394,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://pinewizards.com/
 - https://pinescriptstrategy.com/
 - https://www.pinescriptwizard.com/
+- https://pinescripters.net/index.php
 - https://courses.theartoftrading.com/
 - https://www.pinescriptstrategies.com/
+- https://courses.theartoftrading.com/pages/pine-script-mastery-source-code
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/
 - https://kodify.net/tradingview/plots/line-plot/
