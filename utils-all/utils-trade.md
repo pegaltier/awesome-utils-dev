@@ -18,6 +18,8 @@
 - Marsten Parker https://mhptrading.com/
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
+- Matt Delong https://www.matt-delong.com/
+- https://www.reallifetrading.com/
 - Jay Wolberg http://www.tradingvolatility.net/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
@@ -25,12 +27,14 @@
 ## SITES
 - https://quantpedia.com/
 - https://robotjames.com/
+- https://quantifiableedges.com/
 
 ## PODCAST
 - https://chatwithtraders.com/
 - https://bettersystemtrader.com/
 - https://analyzingalpha.com/podcast
 - https://www.thetradingpodcast.com/
+- https://alpha-exchange.podcastpage.io/
 - https://kjtradingsystems.com/podcasts.html
 - https://anthonycrudele.com/futuresradioshow/podcast/293/
 
@@ -59,8 +63,12 @@
 - https://tradingindicators.com/
 - https://oxfordstrat.com/category/trading-strategies/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
+- https://www.quantifiedstrategies.com/trend-reversal-strategy/
+- https://www.quantifiedstrategies.com/scale-in-trading-strategy/
 - https://www.quantifiedstrategies.com/john-ehlers-trading-strategy/
 - https://www.quantifiedstrategies.com/short-term-trading-strategy/
+- https://www.quantifiedstrategies.com/python-momentum-trading-strategy/
+- https://www.quantifiedstrategies.com/commodities-to-equity-ratio-trading-strategy/
 - https://www.quantifiedstrategies.com/new-5-day-low-in-spy-and-closes-in-the-low-of-the-range/
 - https://medium.datadriveninvestor.com/profit-like-a-pro-a-practical-guide-to-backtesting-and-optimizing-trading-strategies-with-vectorbt-8ade621a4e14
 - https://kaabar-sofien.medium.com/try-using-this-profitable-strategy-on-fx-dd96594c7807
@@ -294,6 +302,11 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - adx(14) > 10 and close-close[65] crosses above 0 then buy long
 - adx(14) > 10 and close-close[65] crosses below 0 then sell short
 https://www.youtube.com/watch?v=ajZSkslriXg
+
+## Strat: Trend following: momentum breakout
+- when close crossed above the 100 day high of the close we go long
+- when close crossed below the 100 day low of the close we go short
+- https://www.youtube.com/watch?v=6NWcKpupjJo&t=214s
 
 ## Strat: Trend following: Bull market vs bear
 The bull signal is the following: 18 consecutive closes above the 200 SMA in a bear market. After the bull market signal, the forward returns tend to be pretty strong. The market is up 21.84% on average one year after the signal is triggered.

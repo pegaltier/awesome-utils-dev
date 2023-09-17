@@ -446,6 +446,7 @@
 - https://github.com/steveruizok/perfect-freehand
 - https://github.com/timruffles/mobile-drag-drop
 - https://github.com/alias-rahil/handwritten.js
+- https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
 - https://github.com/davidmerfield/randomColor
 - https://github.com/funktechno/texthighlighter

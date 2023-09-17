@@ -113,6 +113,13 @@
 - https://getenvase.com/
 - https://fly.io/
 
+## MONITOR
+- https://www.dynatrace.com/news/blog/what-is-apm-2/
+- https://www.dynatrace.com/
+- https://sentry.io/welcome/
+- https://www.datadoghq.com/
+- https://betterstack.com/
+
 ## NGINX
 - https://github.com/fcambus/nginx-resources
 
@@ -323,6 +330,9 @@ sudo certbot --apache -d hotelub.com -d www.hotelub.com # reconfigure
 - https://github.com/digitalocean/nginxconfig.io
 
 ## CRON
+- https://mergent.co/
+- https://github.com/mergentlabs
+- https://github.com/mergentlabs/mergent-js
 
 crontab -e
 
