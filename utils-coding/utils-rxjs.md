@@ -95,6 +95,8 @@ subscription.unsubscribe(); // unsubscribe
 ### OPERATORS (FRENCH)
 
 • take(n) va piocher les n premiers éléments. take(1) ne se déclenchera pas (et ne terminera pas le flux observable) au cas où l'observable d'origine n'émettrait jamais, take(1) ne se désabonne pas lorsque le composant est détruit. L'abonnement reste actif jusqu'à ce que la première valeur soit émise, que le composant soit actif ou détruit. take(1) est presque similaire a first() L'opérateur first() prend une fonction de prédicat facultative et émet une notification d'erreur lorsqu'aucune valeur ne correspond lors du complete.
+• takeWhile() attend un boolean statique et va unsouscrire quand le boolean sera a true lors du prochain declenchement par le stream et non le changement d'etat du boolean.
+• takeUntil() attend un stream et va unsouscrire quand ce steam va emettre un evenement.
 • map(fn) va appliquer la fonction fn sur chaque événement et retourner le résultat.  
 • filter(predicate) laissera passer les seuls événements qui répondent positivement au prédicat.  
 • reduce(fn) appliquera la fonction fn à chaque événement pour réduire le flux à une seule valeur unique.  

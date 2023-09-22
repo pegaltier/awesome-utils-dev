@@ -117,7 +117,7 @@
 
 ## MOST USED
 
-```
+```bash
 ssh-keygen -t rsa (create a ssh certificate then import it:account>setting)
 git init (new blank repository)
 git remote add origin url://to/source/repository (add a remote)
@@ -146,17 +146,17 @@ git commit --amend -m "New commit msg" (edit wrong unpushed commit message)
 ## CLONE 
 
 - Clone existing project into project folder
-```
+```bash
 git clone -b my-branch git@github.com:user/myproject.git
 ```
 
 - Clone existing project into the current folder (.)
-```
+```bash
 git clone -b my-branch git@github.com:whatever .
 ```
 
 - Clone existing project into the specific folder (my-name)
-```
+```bash
 git clone -b my-branch git@github.com:whatever my-name
 ```
 
@@ -164,13 +164,15 @@ git clone -b my-branch git@github.com:whatever my-name
 
 1. Setting up a remote repository using web github/bitbucket
 2. Setting up your local repository and commit
-```
+
+```bash
 git init
 git add *
 git commit -m "init project"
 ```
+
 3. Add origin bitbucket or git
-```
+```bash
 git remote add origin https/or/git/url
 git push origin master
 git push -u origin --all
@@ -178,13 +180,15 @@ git push -u origin --all
 
 ## RESET
 
-- Clean deleted branch:  
-```
+- Clean deleted branch:
+
+```bash
 git fetch --prune
 ```
 
 - Different reset possible
-```
+
+```bash
 git fetch origin
 git reset --soft  (Uncommit changes, changes are left staged (index))
 git reset --mixed (default) (Uncommit + unstage changes, changes are left in working tree)
@@ -192,7 +196,8 @@ git reset --hard: (Uncommit + unstage + delete changes, nothing left)
 ```
 
 - Reset to match the remote branch
-```
+
+```bash
 git reset --soft HEAD~1 (Undo last local commit)
 git reset --hard origin/master (Undo all the local commits)
 git reset --hard 3c74a11530697214cbcc4b7b98bf7a65 (Reset to commit)
@@ -200,14 +205,15 @@ git reset --hard (Reset any local changes)
 ```
 
 - Remove local files and dir
-```
+```bash
 git clean -n -f (to see)
 git clean -f (to execute)
 git clean -fd (and dir)
 ```
 
 - Reset local
-```
+
+```bash
 rm -Force -Recurse .git
 ```
 
@@ -218,19 +224,20 @@ rm -Force -Recurse .git
 ## STASH
 
 Find advanced command to use stash feature as much as possible:
-```
+
+```bash
 git stash save "your message" 
 git stash save -u "your message"
 git stash list
-git stash apply stash@{1} 
+git stash apply stash@{1} # or 'stash@{1}' on windows
 git stash pop
-git stash pop stash@{1}
+git stash pop stash@{1} # or 'stash@{1}' on windows
 git stash show
 git stash show -p
-git stash show stash@{1}
-git stash branch <name> stash@{1}
+git stash show stash@{1} # or 'stash@{1}' on windows
+git stash branch <name> stash@{1} # or 'stash@{1}' on windows
 git stash clear
-git stash drop stash@{1}
+git stash drop stash@{1} # or 'stash@{1}' on windows
 ```
 More detail: https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/
 
@@ -288,7 +295,7 @@ git push -u origin 1109-issue-name
 
 Example for merging master into custom_branch
 
-```
+```bash
 git checkout master
 git pull
 git checkout custom_branch
@@ -301,13 +308,21 @@ You can also use Gitlab/Bitbucket explorer or VSCode plugin "Git merger":
 
 ## REBASE BRANCH
 
-Example for rebasing master into custom_branch
+Rebasing works well when there is not so many commit in your branch else consider squashing all your commits into one before rebasing: Example for rebasing master into custom_branch
 
-```
+```bash
+# example by pulling the master locally first
 git checkout master
 git pull
 git checkout custom_branch
 git rebase master
+
+# example without pulling develop locally first
+git checkout custom_branch
+git fetch -a
+git rebase origin/develop
+
+# finalize
 git rebase --continue (continue the rebase)
 git rebase --abort (cancel the rebase)
 git push --force (send to remote)
