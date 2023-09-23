@@ -28,7 +28,7 @@
 - https://github.com/EthicalML/awesome-production-machine-learning
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
-## TOOLS ALL
+## TOOLS: ALL
 - https://mason.app/
 - https://www.d-id.com/
 - https://www.futuretools.io/
@@ -50,7 +50,7 @@
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
 
-## TOOLS CODING
+## TOOLS: CODING
 
 - https://debuild.co/
 - https://www.devgpt.com/
@@ -63,9 +63,10 @@
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/fauxpilot/fauxpilot
 
-## TOOLS TEXT
+## TOOLS: TEXT
 - https://www.taglines.ai/
 - https://www.simplify.so/
+- https://www.jasper.ai/
 - https://learnfromanyone.com/
 - https://generateurdetexte.com/
 - https://app.fitnessai.com/knowledge/
@@ -74,21 +75,21 @@
 - https://www.dover.io/tools/job-description-rewriter
 - https://philosopherai.com/philosopher/technology-5f713c
 
-## TOOLS IMAGE
+## TOOLS: IMAGE
 - https://www.midjourney.org/
 - https://fengmyshui.com/
 - https://www.headshotpro.com/
+- https://openai.com/dall-e-2
+- https://stablediffusionweb.com/
 - https://huggingface.co/
 - https://avatarai.me/
 - https://photoai.com/
+- https://www.bing.com/create
+- https://playgroundai.com/login
+- https://www.craiyon.com/
 
-▪️ Jasper's AI (subscription)
-▪️ DALL-E-2 (credits)
-▪️ Stable Diffusion (credits)
-▪️ Stable Diffusion (free by Easy Diffusion)
-▪️ Bing or Bing Image Creator (free, sign-in)
-▪️ PlaygroundAI (free, sign-in)
-▪️ Craiyon (free)
+## TOOLS: AVATAR
+- https://www.heygen.com/
 
 ## IMAGES API
 
