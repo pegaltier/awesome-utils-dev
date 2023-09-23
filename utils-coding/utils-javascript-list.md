@@ -120,6 +120,7 @@
 - https://wweb.dev/resources/js-object-functions-cheatsheet
 
 ## AWESOME
+- https://github.com/open-sauced/app
 - https://github.com/stoeffel/awesome-fp-js
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/sindresorhus/awesome-electron
@@ -257,6 +258,7 @@
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
 - https://github.com/tkrotoff/throw-on
+- https://github.com/anchmelev/web-worker-bus
 - https://github.com/sokra/source-map-visualization
 - https://github.com/guybedford/es-module-lexer
 - https://github.com/browserslist/browserslist-useragent

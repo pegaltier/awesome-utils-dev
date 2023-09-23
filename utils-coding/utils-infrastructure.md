@@ -81,6 +81,7 @@
 - https://github.com/earthly/earthly
 - https://github.com/livecycle/preevy
 - https://github.com/hauxir/errorpush
+- https://github.com/opentofu/opentofu
 - https://github.com/caprover/caprover
 - https://github.com/nicolargo/glances
 - https://github.com/Infisical/infisical
@@ -94,10 +95,11 @@
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
 
-## TOOLS: MONITOR 
+## TOOLS: MONITORING / LOGGING
 - LOGS Elasticsearch/Splunk/Datadog
 - https://github.com/openobserve/openobserve
 - https://github.com/influxdata/influxdb
+- https://github.com/hyperdxio/hyperdx
 
 ## TOOLS: MESSAGING
 - https://github.com/aiven/klaw
@@ -223,6 +225,7 @@
 ## ANSIBLE
 - https://github.com/sovereign/sovereign
 - https://github.com/jdauphant/awesome-ansible
+- https://github.com/notthebee/ansible-easy-vpn
 - https://github.com/splunk/ansible-role-for-splunk
 - https://github.com/KeyboardInterrupt/awesome-ansible
 

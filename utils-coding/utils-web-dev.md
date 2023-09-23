@@ -59,6 +59,7 @@
 - https://grids.obys.agency/
 - https://component-party.dev/
 - https://markodenic.com/html-tips/
+- https://github.com/modernweb-dev/web
 - https://github.com/andreasbm/web-skills
 - https://almanac.httparchive.org/en/2020/
 - https://internetingishard.com/html-and-css/

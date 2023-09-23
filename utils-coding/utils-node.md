@@ -66,6 +66,7 @@
 - https://github.com/depcheck/depcheck
 - https://github.com/foreversd/forever
 - https://github.com/sindresorhus/np
+- https://github.com/SukkaW/nolyfill
 - https://github.com/zoontek/valienv
 - https://github.com/alallier/reload
 - https://github.com/typicode/husky
@@ -104,6 +105,7 @@
 - https://github.com/nodejs/undici
 - https://github.com/verdaccio/verdaccio
 - https://github.com/mcollina/on-exit-leak-free
+- https://github.com/bengl/array-buffer-detach
 - https://github.com/microlinkhq/metascraper
 - https://github.com/calipersjs/calipers
 - https://github.com/piscinajs/piscina

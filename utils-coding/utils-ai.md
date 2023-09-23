@@ -147,6 +147,7 @@
 - https://github.com/salesforce/xgen
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens
+- https://github.com/getzep/zep
 
 ## LIB: IMAGE
 - https://github.com/s0md3v/roop

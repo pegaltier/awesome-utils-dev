@@ -66,6 +66,9 @@
 - https://github.com/nativescript-community/capacitor-plugins
 - https://github.com/capacitor-community/background-geolocation
 
+## LIBS: OTHERS
+- https://github.com/socketsupply/socket
+
 ## PWA
 - https://github.com/ionic-team/pwa-elements
 - https://julienrenaux.fr/2017/07/20/optimized-ionic-angular-css-bundle-for-pwas/

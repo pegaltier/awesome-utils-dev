@@ -2006,6 +2006,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/AmadeusITGroup/otter (TOADD)
 - https://github.com/irustm/angular-features (TOADD)
 - https://github.com/nartc/ngxtension-platform (TOADD)
+- https://github.com/anchmelev/web-worker-bus (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment
@@ -2133,6 +2134,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: DESIGN SYSTEM
 - https://github.com/oblador/loki
 - https://github.com/storybookjs/storybook
+- https://github.com/histoire-dev/histoire
 - https://github.com/amcdnl/angular-storybook
 - https://github.com/deanius/storybook-animate
 - https://github.com/storybookjs/addon-styling

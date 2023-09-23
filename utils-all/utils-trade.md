@@ -645,6 +645,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/bfolkens/py-market-profile
+- https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr
 - https://github.com/nautechsystems/nautilus_trader

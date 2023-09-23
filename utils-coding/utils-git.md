@@ -80,6 +80,7 @@
 
 ## OSS
 - https://github.com/github-20k/super-star
+- https://github.com/harness/gitness
 - https://libraries.github20k.com/
 - https://www.github20k.com/
 
