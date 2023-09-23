@@ -28,7 +28,7 @@
 10. diversification (10 cryptos + 10 stocks (better to use ETF))
 11. be consistant over the long term, good health, wake up early, eat clea, do sport, it will be your best hedge against others people
 
-## AGLOTRADE ADVICE
+## ALGOTRADE ADVICE
 - A system is good enough if yearly gain above max drawdown
 - Check the biggest gainers and biggest loosers to make sure it works as expected
 - Do walk forward analysis which is like a backtesting but taking out of samples data in the next period after your backtest optimisation, for instance if you have 4 years of data, optimise for the first year and then backtest for the next year and so on until the last year.
@@ -322,7 +322,28 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.quantifiedstrategies.com/demarker-indicator-strategy/
 - https://www.thetransparenttrader.com/uncategorized/simple-forex-trading-strategy-using-a-kangaroo-tail-pattern/
 
-## STRATEGY VIDEO
+## STRATEGY: YOUTUBE CHANNEL
+- https://www.youtube.com/@seriousbacktester Serious Backtester
+- https://www.youtube.com/@TheArtOfTrading The Art of Trading
+- https://www.youtube.com/@StatOasis StatOasis
+- https://www.youtube.com/@AlgoTradingWithKevinDavey Algo Trading With Kevin Davey
+- https://www.youtube.com/@CriticalTrading Critical Trading
+- https://www.youtube.com/@quantprogram QuantProgram
+- https://www.youtube.com/@TheTransparentTrader The Transparent Trader
+- https://www.youtube.com/@exTRADING exTRADING
+- https://www.youtube.com/@scottwelshstrategies Scott Welsh Strategies
+
+- https://www.youtube.com/@tradepro Trade Pro
+- https://www.youtube.com/@QuantifiedStrategies Quantified Strategies
+- https://www.youtube.com/@AlgofoxAcademy Algofox Acadademy
+- https://www.youtube.com/@TheAlgorithmicAdvantage The Algorithmic Advantage
+- https://www.youtube.com/@tradingwisdom2.097 Trading Wisdom 2.0
+- https://www.youtube.com/@TradingLabOfficial TradingLab 
+- https://www.youtube.com/@switchstats Switch Stats
+- https://www.youtube.com/@TraderDNA Trader DNA
+
+
+## STRATEGY YOUTUBE VIDEO
 - https://www.youtube.com/watch?v=exHSsT9slF0 How to use Bollinger Bands to Trade Breakouts with High Reward to Risk ratios
 - https://www.youtube.com/watch?v=ajZSkslriXg Algo Trading - Let's Build a Simple Algo (REFS1)
 - https://www.youtube.com/watch?v=LyeJ-CM980I Algorithmic Trading Strategies: Moving Average Stretch (REFS2)
