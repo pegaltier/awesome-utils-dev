@@ -56,6 +56,7 @@
 - https://www.ansible.com/
 - https://www.terraform.io/
 - https://jmeter.apache.org/
+- https://kamal-deploy.org/
 - https://www.netdata.cloud/
 - https://www.whatsmydns.net/
 - https://www.cdn77.com/tls-test
@@ -72,6 +73,7 @@
 - https://github.com/pulumi/pulumi
 - https://github.com/atkrad/wait4x
 - https://github.com/SigNoz/signoz
+- https://github.com/basecamp/kamal
 - https://github.com/rapiz1/rathole
 - https://github.com/YuukanOO/seelf
 - https://github.com/traefik/traefik

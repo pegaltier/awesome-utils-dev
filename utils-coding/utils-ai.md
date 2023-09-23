@@ -28,25 +28,17 @@
 - https://github.com/EthicalML/awesome-production-machine-learning
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
-## TOOLS
+## TOOLS ALL
 - https://mason.app/
 - https://www.d-id.com/
 - https://www.futuretools.io/
-- https://www.codewand.co/
-- https://www.codegpt.co/
 - https://stability.ai/
 - https://clipdrop.co/
 - https://theforgeai.com/
 - https://www.chatpdf.com/
-- https://generateurdetexte.com/
 - https://open-assistant.io/fr
-- https://www.headshotpro.com/
-- https://www.midjourney.org/
 - https://sitegpt.ai/
 - https://kissangpt.com/
-- https://huggingface.co/
-- https://avatarai.me/
-- https://photoai.com/
 - https://interiorai.com/
 - https://ideasai.com/
 - https://breadboard.me/
@@ -57,6 +49,46 @@
 - https://www.literallyanything.io/
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
+
+## TOOLS CODING
+
+- https://debuild.co/
+- https://www.devgpt.com/
+- https://www.codegpt.co/
+- https://www.codewand.co/
+- https://spellcraft.org/
+- https://gpt-tailwind.com/
+- https://github.com/e2b-dev/e2b
+- https://github.com/TabbyML/tabby
+- https://github.com/OpenBMB/ChatDev
+- https://github.com/fauxpilot/fauxpilot
+
+## TOOLS TEXT
+- https://www.taglines.ai/
+- https://www.simplify.so/
+- https://learnfromanyone.com/
+- https://generateurdetexte.com/
+- https://app.fitnessai.com/knowledge/
+- https://play.aidungeon.io/main/landing
+- https://beta.storymapr.com/users/sign_in
+- https://www.dover.io/tools/job-description-rewriter
+- https://philosopherai.com/philosopher/technology-5f713c
+
+## TOOLS IMAGE
+- https://www.midjourney.org/
+- https://fengmyshui.com/
+- https://www.headshotpro.com/
+- https://huggingface.co/
+- https://avatarai.me/
+- https://photoai.com/
+
+▪️ Jasper's AI (subscription)
+▪️ DALL-E-2 (credits)
+▪️ Stable Diffusion (credits)
+▪️ Stable Diffusion (free by Easy Diffusion)
+▪️ Bing or Bing Image Creator (free, sign-in)
+▪️ PlaygroundAI (free, sign-in)
+▪️ Craiyon (free)
 
 ## IMAGES API
 
@@ -197,34 +229,3 @@
 
 - https://github.com/huggingface/datasets
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
-
-### CODING
-
-- https://debuild.co/
-- https://spellcraft.org/
-- https://gpt-tailwind.com/
-- https://github.com/e2b-dev/e2b
-- https://github.com/TabbyML/tabby
-- https://github.com/OpenBMB/ChatDev
-- https://github.com/fauxpilot/fauxpilot
-
-### TEXT
-- https://www.taglines.ai/
-- https://www.simplify.so/
-- https://learnfromanyone.com/
-- https://app.fitnessai.com/knowledge/
-- https://play.aidungeon.io/main/landing
-- https://beta.storymapr.com/users/sign_in
-- https://www.dover.io/tools/job-description-rewriter
-- https://philosopherai.com/philosopher/technology-5f713c
-
-## IMAGE
-
-▪️ Midjourney (subscription)
-▪️ Jasper's AI (subscription)
-▪️ DALL-E-2 (credits)
-▪️ Stable Diffusion (credits)
-▪️ Stable Diffusion (free by Easy Diffusion)
-▪️ Bing or Bing Image Creator (free, sign-in)
-▪️ PlaygroundAI (free, sign-in)
-▪️ Craiyon (free)

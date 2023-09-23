@@ -14,3 +14,4 @@
 
 ## Tools
 - https://live.sovryn.app/
+- https://utxo.live/oracle/
