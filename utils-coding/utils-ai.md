@@ -90,6 +90,8 @@
 
 ## TOOLS: AVATAR
 - https://www.heygen.com/
+- https://www.sievedata.com/
+- https://www.synthesia.io/
 
 ## IMAGES API
 
@@ -194,6 +196,7 @@
 
 ## LIB: VIDEO
 - https://github.com/topics/ai-avatars
+- https://github.com/NumesSanguis/FACSvatar
 - https://github.com/jianzhnie/awesome-text-to-video
 
 ## LIB: STABLE DIFFUSION
