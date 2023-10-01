@@ -28,6 +28,9 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 - https://github.com/openshift
 - https://github.com/docker
 
+## UTILS
+- https://github.com/project-copacetic/copacetic
+
 ## DOCKER
 
 ```bash

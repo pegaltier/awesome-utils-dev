@@ -42,6 +42,7 @@
 - https://github.com/RameshMF/springboot-dto-tutorial
 - https://github.com/bezkoder/spring-boot-image-upload
 - https://github.com/RameshMF/springboot-microservices
+- https://github.com/aileftech/spring-boot-database-admin
 - https://github.com/bezkoder/spring-boot-thymeleaf-example
 - https://github.com/bezkoder/spring-boot-angular-15-mysql-example
 - https://github.com/bezkoder/spring-boot-angular-15-crud-example

@@ -78,6 +78,7 @@ npm init
 - https://github.com/formium/tsdx
 - https://github.com/unjs/magicast
 - https://github.com/phero-hq/phero
+- https://github.com/esbuild-kit/tsx
 - https://github.com/Microsoft/tsdoc
 - https://github.com/cevek/ttypescript
 - https://github.com/johnlindquist/kit
@@ -132,6 +133,7 @@ npm init
 - https://github.com/NetanelBasal/helpful-decorators
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/valentinkononov/ts-runtime-checker
+- https://github.com/mattpocock/total-typescript-helpers
 - https://github.com/madou/typescript-transformer-handbook
 - https://github.com/ggascoigne/prettier-plugin-import-sort
 
@@ -218,6 +220,7 @@ npm init
 - https://github.com/willryan/factory.ts
 - https://github.com/quicktype/quicktype
 - https://github.com/sledorze/morphic-ts
+- https://github.com/aidenybai/pattycake
 - https://github.com/sinclairzx81/typebox
 - https://github.com/gvergnaud/ts-pattern
 - https://github.com/rsinger86/dto-classes

@@ -218,6 +218,7 @@
 - https://github.com/NiGhTTraX/strong-mock
 - https://github.com/developit/microbundle
 - https://github.com/bencoveney/barrelsby
+- https://github.com/antoine-coulon/skott
 - https://github.com/facebook/jscodeshift
 - https://github.com/addyosmani/critical
 - https://github.com/fkling/astexplorer
@@ -376,7 +377,9 @@
 ## LIB: URL
 - https://github.com/unshiftio/url-parse
 - https://github.com/wmertens/jsurl2
+- https://github.com/snd/url-pattern
 - https://github.com/simov/slugify
+- https://github.com/mtiller/urns
 - https://github.com/unjs/ufo
 
 ## LIB: PARSER
@@ -468,6 +471,7 @@
 - https://github.com/dhilt/vscroll-native
 - https://github.com/codex-team/editor.js
 - https://github.com/focus-trap/tabbable
+- https://github.com/soldair/node-qrcode
 - https://github.com/missive/emoji-mart
 - https://github.com/datalog/qrcode-svg
 - https://github.com/Simonwep/selection
@@ -572,6 +576,7 @@
 - https://github.com/mikbry/awesome-webgpu
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
+- https://github.com/mkkellogg/TrailRendererJS
 - https://github.com/anvaka/graph-drawing-libraries
 - https://github.com/0beqz/screen-space-reflections
 
@@ -659,6 +664,7 @@
 
 ## LIB: GAME
 - https://github.com/mgechev/mk.js
+- https://github.com/partykit/partykit
 - https://github.com/olistic/warriorjs
 - https://github.com/KilledByAPixel/LittleJS
 

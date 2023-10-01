@@ -107,6 +107,7 @@
 ## LIB
 - https://github.com/qdrant/qdrant
 - https://github.com/hegelai/prompttools/
+- https://github.com/Unstructured-IO/unstructured
 - https://github.com/KillianLucas/open-interpreter/
 - https://github.com/yeuai/botscript
 - https://github.com/ml5js/ml5-library
@@ -162,6 +163,7 @@
 - https://github.com/h2oai/h2ogpt
 
 ## LIB: LLM
+- https://github.com/aws-samples/aws-genai-llm-chatbot
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
@@ -173,6 +175,7 @@
 - https://github.com/nat/openplayground
 - https://github.com/reactorsh/ambrosia
 - https://github.com/microsoft/TypeChat
+- https://github.com/vllm-project/vllm
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/jmorganca/ollama

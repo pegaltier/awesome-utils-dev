@@ -328,6 +328,7 @@
 - https://github.com/blankly-finance/blankly
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/Drakkar-Software/OctoBot
+- https://github.com/kelvinau/crypto-arbitrage
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/day0market/support_resistance
@@ -337,6 +338,7 @@
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/firmai/financial-machine-learning
+- https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM

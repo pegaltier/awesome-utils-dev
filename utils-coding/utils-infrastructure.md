@@ -113,6 +113,7 @@
 - https://vercel.com/
 - https://www.netlify.com/
 - https://www.checklyhq.com/
+- https://www.render.com/
 - https://www.compose.com/
 - https://getenvase.com/
 - https://fly.io/

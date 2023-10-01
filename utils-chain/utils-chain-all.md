@@ -51,7 +51,6 @@
 - https://github.com/marcj/bitcoin.ts
 - https://github.com/BlockchainCommons/bc-ur-java
 - https://github.com/steve-vincent/awesome-decentralized
-- https://github.com/paul-schaaf/awesome-solana
 - https://github.com/project-serum/awesome-serum
 - https://github.com/dfinity/awesome-dfinity
 
@@ -543,3 +542,7 @@ PANTOS — - https://pantos.io
 
 ## BROWSER
 - https://beakerbrowser.com/
+
+## SOLANA
+- https://github.com/paul-schaaf/awesome-solana
+- https://shyft.to/
