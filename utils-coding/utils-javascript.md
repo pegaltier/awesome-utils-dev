@@ -101,7 +101,7 @@ Those values can be properties and functions. Here’s a snippet of an object li
 - https://medium.com/better-programming/object-literal-in-javascript-d3e0e7d58f3b
 - https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
 
-```
+```javascript
 let greeting = {
     fullname: "Michael Jackson",
     greet: (message, name) => {
@@ -128,6 +128,29 @@ let greeting = {
 - Prototype inheritance 
 - Understanding "this" keyword
 - apply(), .call() and .bind()
+
+## ASYNC/AWAIT
+
+- https://advancedweb.hu/how-to-use-async-functions-with-array-map-in-javascript/
+
+```javascript
+const arr = [1, 2, 3];
+// SYNC MAP
+const syncRes = arr.map((i) => {
+	return i + 1;
+});
+console.log(syncRes);
+// 2,3,4
+
+// VS ASYNC MAP
+const asyncRes = await Promise.all(arr.map(async (i) => {
+	await sleep(10);
+	return i + 1;
+}));
+console.log(asyncRes);
+// 2,3,4
+
+```
 
 ## OBSERVER API
 
