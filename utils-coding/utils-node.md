@@ -34,6 +34,12 @@
 - https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
 - https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020
 
+## HOSTING
+- https://www.youtube.com/watch?v=uEVmD6n8Il0 7 Ways to Deploy a Node.js App
+- https://www.youtube.com/watch?v=l134cBAJCuc Deploy full stack app to render.com
+- https://cloud.google.com/functions
+- https://www.render.com/
+
 ## UTILS
 
 - https://github.com/animir/node-rate-limiter-flexible

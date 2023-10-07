@@ -283,6 +283,8 @@
 - https://github.com/liquiditygoblin/1inch-cli
 - https://github.com/jaggedsoft/php-binance-api
 - https://github.com/jaggedsoft/node-binance-api
+- https://github.com/binance-exchange/binance-api-node
+- https://github.com/ViewBlock/binance-api-node
 
 ### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js
@@ -329,6 +331,7 @@
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/kelvinau/crypto-arbitrage
+- https://github.com/CryptoSignal/Crypto-Signal
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/day0market/support_resistance

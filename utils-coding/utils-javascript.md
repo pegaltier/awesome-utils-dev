@@ -2,11 +2,24 @@
 
 ## SHORTHANDS
 - https://morioh.com/p/05414714e685?f=5c21fb01c16e2556b555ab32
-## CONTEXT / SCOPES
+
+## CONTEXT / HOISTING
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
 - https://www.w3schools.com/js/js_hoisting.asp
 
-Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
+Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function). Indeed all declarations, both functions and variables, are hoisted to the top of the containing scope, before any part of your code is executed.
+- Functions are hoisted first, and then variables.
+- Function declarations have priority over variable declarations, but not over variable assignments.
+
+### SCOPE
+
+Scope determines the accessibility (visibility) of variables.
+- Local scope: Variables declared within a JavaScript function, become LOCAL to the function. They can only be accessed from within the function. They are deleted when the function is completed. Variables declared with var and let are quite similar when declared inside a function. They will both have Function Scope.
+- Global scope: A variable declared outside a function, becomes GLOBAL. A global variable has global scope: All scripts and functions on a web page can access it.  Variables declared with var and let are quite similar when declared outside a block. They will both have Global Scope. In a web browser, global variables are deleted when you close the browser window (or tab).
+- Block scope: Variables declared with let inside a block {} cannot be accessed from outside the block.
+
+With JavaScript, the global scope is the complete JavaScript environment.
+In HTML, the global scope is the window object. All global variables belong to the window object. 
 
 ## FUNCTIONS BORROWING METHODS
 
@@ -96,23 +109,8 @@ let greeting = {
     }
 };
 ```
-### SCOPE
 
-Scope determines the accessibility (visibility) of variables.
-- Local scope: Variables declared within a JavaScript function, become LOCAL to the function. They can only be accessed from within the function. They are deleted when the function is completed. Variables declared with var and let are quite similar when declared inside a function. They will both have Function Scope.
-- Global scope: A variable declared outside a function, becomes GLOBAL. A global variable has global scope: All scripts and functions on a web page can access it.  Variables declared with var and let are quite similar when declared outside a block. They will both have Global Scope. In a web browser, global variables are deleted when you close the browser window (or tab).
-- Block scope: Variables declared with let inside a block {} cannot be accessed from outside the block.
-
-With JavaScript, the global scope is the complete JavaScript environment.
-In HTML, the global scope is the window object. All global variables belong to the window object. 
-
-### HOISTING
-
-All declarations, both functions and variables, are hoisted to the top of the containing scope, before any part of your code is executed.
-- Functions are hoisted first, and then variables.
-- Function declarations have priority over variable declarations, but not over variable assignments.
-
-### MORE
+### ADVANCED
 
 - IIFE
 - Scope

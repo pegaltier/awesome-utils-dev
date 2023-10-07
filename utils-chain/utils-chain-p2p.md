@@ -19,6 +19,7 @@
 - https://github.com/AgregoreWeb
 - https://github.com/fluencelabs
 - https://github.com/neet/masto.js
+- https://github.com/dmotz/trystero
 - https://github.com/stateless-minds
 - https://github.com/hyperhyperspace
 - https://github.com/dyne/zenpub-client

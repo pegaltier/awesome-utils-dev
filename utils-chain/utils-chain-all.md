@@ -35,6 +35,7 @@
 ## TOP DEV
 - https://mywish.io/
 - https://thirdweb.com/
+- https://github.com/ViewBlock
 - https://github.com/thirdweb-dev
 - https://github.com/chubin/rate.sx
 - https://github.com/Agoric/agoric-sdk

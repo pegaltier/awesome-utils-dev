@@ -32,8 +32,12 @@
 ## ARCH: OSS
 - https://github.com/bunkerity/bunkerweb
 
-## TOOLS ONLINE
+## TOOLS PASSWORD
 - https://keepass.info/
+- https://1password.com/
+- https://bitwarden.com/
+
+## TOOLS ONLINE
 - https://securitytxt.org/
 - https://www.srihash.org/
 - https://www.virustotal.com
