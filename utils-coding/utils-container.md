@@ -108,3 +108,15 @@ exit
 RUN echo "PWD is: $PWD"
 RUN ls
 ```
+
+## DOCKER IMAGES
+- https://github.com/jonatan-ivanov/local-services
+- https://github.com/bunkerity/bunkerized-mariadb
+- https://github.com/bunkerity/bunkerized-nginx
+- https://github.com/mailcow/mailcow-dockerized
+- https://github.com/bunkerity/bunkerized-php
+- https://github.com/kylemanna/docker-openvpn
+- https://github.com/linuxserver/docker-swag
+- https://github.com/Monogramm/docker-frappe
+- https://github.com/SteveLTN/https-portal
+- https://github.com/gotenberg/gotenberg

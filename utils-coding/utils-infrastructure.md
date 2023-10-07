@@ -266,16 +266,6 @@
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 - https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
 
-## DOCKER IMAGES
-- https://github.com/jonatan-ivanov/local-services
-- https://github.com/bunkerity/bunkerized-mariadb
-- https://github.com/bunkerity/bunkerized-nginx
-- https://github.com/mailcow/mailcow-dockerized
-- https://github.com/bunkerity/bunkerized-php
-- https://github.com/kylemanna/docker-openvpn
-- https://github.com/Monogramm/docker-frappe
-- https://github.com/SteveLTN/https-portal
-- https://github.com/gotenberg/gotenberg
 
 
 ## LAMP

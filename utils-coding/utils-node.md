@@ -43,7 +43,6 @@
 ## UTILS
 
 - https://github.com/animir/node-rate-limiter-flexible
-- https://github.com/bahmutov/start-server-and-test
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/sindresorhus/find-cache-dir
 - https://github.com/radarsu/types-package-json
@@ -120,6 +119,11 @@
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
 - https://github.com/unjs/ofetch
+
+## LIBS: TESTING
+- https://github.com/nock/nock
+- https://github.com/4lejandrito/fetchbook
+- https://github.com/bahmutov/start-server-and-test
 
 ## LIBS: AUTH
 - https://github.com/google/webauthndemo

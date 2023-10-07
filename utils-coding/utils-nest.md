@@ -57,6 +57,10 @@
 - https://github.com/andreacioni/saml2-nest-poc
 - https://github.com/cfsghost/passport-github
 
+## LIBS: TESTING
+- https://github.com/nock/nock
+- https://github.com/4lejandrito/fetchbook
+
 ## EXAMPLE
 - https://github.com/adisreyaj/adi
 - https://github.com/nartc/nest-mean

@@ -44,6 +44,7 @@ echo $PATH
 
 - https://www.gimp.org/
 - https://snapcraft.io/
+- https://github.com/Homebrew/brew
 - https://github.com/ohmyzsh/ohmyzsh
 
 ## List

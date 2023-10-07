@@ -29,9 +29,10 @@
 - https://github.com/minamarkham/formation
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 
-## Brew
+## Package Manager
 
 - https://brew.sh/
+- https://github.com/Homebrew/brew
 
 ```
 brew update

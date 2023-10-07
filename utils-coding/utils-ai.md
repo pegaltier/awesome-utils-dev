@@ -160,6 +160,7 @@
 - https://github.com/xtekky/gpt4free
 - https://github.com/sunner/ChatALL
 - https://github.com/dion-/autoheal
+- https://github.com/arc53/DocsGPT
 - https://github.com/h2oai/h2ogpt
 
 ## LIB: LLM
@@ -168,6 +169,7 @@
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
 - https://github.com/lyuchenyang/Macaw-LLM
+- https://github.com/confident-ai/deepeval
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/eugeneyan/open-llms
 - https://github.com/hwchase17/langchain
