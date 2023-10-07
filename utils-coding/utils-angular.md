@@ -892,10 +892,11 @@ chrome dev tools > performance tab > record+stop
 - check then summary if scripting take more than 60% of the time then you found the issue, maybe change detection is triggered in a loop or maybe a function with high level of computation is triggered many times.
 - check bottom-up and call tree to understand more about the issue, you will see if there is any function from your codebase which is called many times or if the issue is due to the change detection then you will see zone.js.
 
-### MEASURE
+### CSS
 
-console.time('test1');
-console.timeEnd('test2);
+:host if we want to style the host element of the component itself, also useful when using ::ng-deep to makes sure that the override stay local to this component.
+:host-context is useful when you want to apply style to your component based on selector outside of your component, like a container or the body, html tags. One possible common use case is for theme enabling classes.
+::ng-deep if we want our component styles to cascade to all child elements of a component, but not to any other element on the page, we can currently do so using by combining the :host with the ::ng-deep selector:
 
 
 ### CIRCULAR DEPENDENCIES
