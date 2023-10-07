@@ -11,7 +11,7 @@ dateService = TestBed.inject(DateService);
 
 - if you need a dumb dependency injected by your file under test then use a partial pattern so you mock only myFunction if you need it.
 
-```
+```javascript
 const mockedMyService: Partial<MyService> = {};
 mockedMyService.myFunction = jest.fn();
 ```
@@ -20,20 +20,28 @@ mockedMyService.myFunction = jest.fn();
 
 - Jest has an auto-mock function, it seems right to use this: jest.mock only with static class or with external dependencies compiled in ESM. Indeed the big dris method is more verbose, harder to maintain and slower compared to a simple partial empty objects.
 
-```
+```javascript
 jest.mock('./static-helper');
 jest.mock('swiper', () => ({ use: jest.fn() }));
 ```
 
 - jest.mock('lib/module') with barrel import will mock the dependencies imported by the services inside your module. but you still need to define manually the mocked service using jest.MockedClass + functions prototype used with jest.fn()
 
-```
+```javascript
 const MockedStaticHelper = StaticHelper as jest.MockedClass<typeof StaticHelper>;
 MockedStaticHelper.displayThing = jest.fn().mockReturnValue(true);
 ```
 
 You can also mock entire libraries by mapping in the jest preset to a file, see jest.preset.js:
 - Mock files: https://gitlab.com/beeze_andy_schmidt/jest-esm-mock-test
+
+## Expect
+
+exemple how to check that an object contains a property with another object
+
+```javascript
+.toEqual(expect.objectContaining({ myProp: expect.any(Object)}))
+```
 
 ## Articles
 

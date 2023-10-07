@@ -268,7 +268,7 @@ it('Fake async & tick', fakeAsync(() => {
       expect (expectedUsers).toStrictEqual(usersMock);
 }));
 
-// First Value From
+// Async/await to test observables with firstValueFrom or to test promise functions
 it('first value from', async () => {
       const expectedUsers: User[] = await firstValueFrom(userListComponent.users);
       expect(expectedUsers).toStrictEqual(usersMock);

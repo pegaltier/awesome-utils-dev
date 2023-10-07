@@ -332,6 +332,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@TheTransparentTrader The Transparent Trader
 - https://www.youtube.com/@exTRADING exTRADING
 - https://www.youtube.com/@scottwelshstrategies Scott Welsh Strategies
+- https://www.youtube.com/@TradeSmart22 TradeSmart
 
 - https://www.youtube.com/@tradepro Trade Pro
 - https://www.youtube.com/@QuantifiedStrategies Quantified Strategies
