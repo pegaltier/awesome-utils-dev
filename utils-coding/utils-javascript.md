@@ -182,6 +182,11 @@ let promise = new Promise(function(resolve, reject) {
 - typeof operator returns a string indicating the type of the unevaluated operand
 - non-null assertion operator (myExpr!;) tell the Typescript compiler explicitly that an expression has value other than null or undefined
 
+### MEASURE
+
+console.time('test1');
+console.timeEnd('test2);
+
 ### EVOLUTION
 
 #### 2023

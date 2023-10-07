@@ -129,10 +129,13 @@ They are pure functions. The function always returns the same result if the same
 - toArray: collects all of the emitted values, and when the source Observable completes, emits them inside an array.
 - bufferCount: stores emitted values into an array, until the array reaches the provided length.
 
-
 - windowWhen: collects values into an Observable (window), which is emitted (and a new one is created) whenever the Observable returned by the provided function emits.
 - windowCount: collects values into an Observable (window) that can contain a maximum of n values.
 - window: collects emitted values into Observables (called windows).
+
+- interval(time): emits sequential number at the givem time interval
+- delay(time): a simple delay in MS
+- delayWhen(value): to be able to delay or not based on the value input, for instance delayWhen(isLoading) => (isLoading ? of(undefined) : interval(100))
 
 All *Map operators below consist of two parts — producing a stream of observables through mapping and applying combination logic on the inner streams produced by this higher order observable.
 
@@ -172,8 +175,8 @@ They enable us to join information from multiple observables. Order, time, and s
 
 helpful to cache cold observables (transform to hot) such as http requests.
 
-- share: share source among multiple subscribers.
-- shareReplay: Share source and replay specified number of emissions on subscription.
+- share: share source among multiple subscribers so it allows you to avoid multiple executions of the source Observable when there are multiple subscriptions.
+- shareReplay: similar to share above but it behaves as a BehaviorSubject would and and replay specified number of emissions on subscription. But take care of memory leak because shareReplay does not keep track of a subscriber count by default, it is not able to unsubscribe to the source Observable. Ever. Unless you use the refCount option like this: shareReplay({ bufferSize: 1, refCount: true })
 
 Both shareReplay and publishReplay (+ calling connect on it) will make the observable behind it hot.
 - shareReplay: won't stop emitting until it's completed, no matter if there are no subscriptions anymore or not.
@@ -252,6 +255,7 @@ test('DoneCallback complex example', (done) => {
                 last += 100
               },
             complete: () => done(),
+            error: () => done.fail
         })
             
 });
