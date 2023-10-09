@@ -371,8 +371,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - REFS6: turtle is a momentum strategy and the rules are buy long on breakout of 20 or 55 days, hard stop using atr(x) *2, add to positions after new breakout
 
 ## TODO: ORGANIZE
-- https://youtu.be/V6DL5Hkf3Ms Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
-- https://www.youtube.com/watch?v=hQUKA9UvwoQ The Ultimate C% Oscillator: Unveiled ***
 - https://www.youtube.com/watch?v=lt5UOqBLK-0 Algo Trading - Mini S&P Strategy That Works ***
 - https://www.youtube.com/watch?v=gA0egjZcRB0 Jim Simons Trading Secrets 1.1 MARKOV Process ***
 - https://youtu.be/Oa0HduMW8ww You Need To Trade These 3 Algo Strategies NOW *** 
@@ -394,6 +392,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/ikX6boj7-l8 TESTED 750,000 TRADES! ROC+EMA Trading Strategy ***
 
 ## TODO: ORGANIZE: MEAN REVERSION
+- https://youtu.be/V6DL5Hkf3Ms Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
+- https://www.youtube.com/watch?v=hQUKA9UvwoQ The Ultimate C% Oscillator: Unveiled ***
 - https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
 - https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
