@@ -33,6 +33,7 @@
 - Check the biggest gainers and biggest loosers to make sure it works as expected
 - Do walk forward analysis which is like a backtesting but taking out of samples data in the next period after your backtest optimisation, for instance if you have 4 years of data, optimise for the first year and then backtest for the next year and so on until the last year.
 - Do monte carlo simulation to shuffle your trades and see if they will survive based on your risk and capital
+- Do System Parameter Permutation (SPP) (by Dave Walton), the idea is to filter robust strategies by looking at the distribution of the optimization results and see how your strategy compare to that median of the distribution. 
 - When you have a new system but it on incumbation period and check it few months later to see how it behaves
 - Do not suroptimize with the best performance instead you should manually decide a range of value that makes sense to follow your thesis and then backtest a parameter range of 10% by 10% and then see the statistical distribution of the performance and so on for the next parameters. Finally when you run all tests a ratio of 66% of positive tests is a good result; on the contratry a bad system can be detected if only few of the parameters results in a positive performance.
 - You can add more logic to a system like a trend filter if the average of the backtests have good results
@@ -43,11 +44,6 @@
 - Breakout of a range to profit from the birth of a new trend
 - Trend following (temporary pause and bet on continuation of main trend)
 - mean reversion to capitalize on extreme changes for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
-
-## TODO ORGANISE
-- long only or short only or long/short
-- Day Trading Legend: BNF, contrarian strategy looks at stock deviating at least 20% below 25days MA, with 35% safe level to buy. The % level actually depends on the sector, like high risk startup or crypto will have a very spread like between 28 and 60%. Also during a strong bull market, if you are late to the party you can still buy the lagger values (https://www.youtube.com/watch?v=Jnc77gMihPo)
-- The BEST Entry Signal Indicator https://www.youtube.com/watch?v=N_7ADVr72Ik
 
 ## STOP LOSS/EXIT
 - gradual approach in reducing their position. If it’s a momentum trade they put the max size on and reduce gradually as the trade moves against them
@@ -172,6 +168,9 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - https://www.youtube.com/watch?v=XVEbnqLk0-Q
 - https://www.youtube.com/watch?v=qMXUMjckVhU
 
+## Strat: mean reversion: spread / stretch / deviation of MA
+- Day Trading Legend: BNF, contrarian strategy looks at stock deviating at least 20% below 25days MA, with 35% safe level to buy. The % level actually depends on the sector, like high risk startup or crypto will have a very spread like between 28 and 60%. Also during a strong bull market, if you are late to the party you can still buy the lagger values (https://www.youtube.com/watch?v=Jnc77gMihPo) https://youtu.be/LyeJ-CM980I (REFS2)
+
 ## Strat: Trend following: by Laurens Bensdorp
 - Liquidity: only very liquid stocks
 - Close of the SPY needs to be above the 50 day SMA + 2 ATR (20 days)
@@ -182,6 +181,10 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - Detail: https://www.youtube.com/watch?v=J5tW_tNzZ7M
 - However based on Joachim Moser, trend following systems are not very good because they consumes equity base / time invested in the market, so he recommend instead mean reversion strategy.
 
+## Strat: Trend following: check
+- use the different variants of MA like the TEMA, the WEMA
+- https://youtu.be/3QInwRFOnj8
+
 ## Strat: Trend following: 3 ema
 - Enter when the 3 moving average are aligned: 50 > 100 > 200 and close crosses the 50 
 - https://www.youtube.com/watch?v=MbCWVxlaq14
@@ -190,6 +193,10 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 - Slinghot is when the price close above the EMA 4 bars of the bar highs
 - https://youtu.be/YArWpO2YOuI
 - https://www.youtube.com/watch?v=HfVAuxRRUwY
+
+## Strat: Trend following: 2 Super Trend
+- Simply combine two super trends indicators to buy only when both are on the good side and inverse for sell
+- https://www.youtube.com/watch?v=z-LmElNl7co
 
 ## Strat: Trend following: momentum ROC
 - use smoothed rate of change (SROC), its simply a ROC with an EMA/SMA to smooth and remove noise
@@ -333,6 +340,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@exTRADING exTRADING
 - https://www.youtube.com/@scottwelshstrategies Scott Welsh Strategies
 - https://www.youtube.com/@TradeSmart22 TradeSmart
+- https://www.youtube.com/@TradingHeroes Trading Heroes
+- https://www.youtube.com/@Netpicks1 NetPicks Smart Trading
 
 - https://www.youtube.com/@tradepro Trade Pro
 - https://www.youtube.com/@QuantifiedStrategies Quantified Strategies
@@ -348,16 +357,58 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/watch?v=exHSsT9slF0 How to use Bollinger Bands to Trade Breakouts with High Reward to Risk ratios
 - https://www.youtube.com/watch?v=ajZSkslriXg Algo Trading - Let's Build a Simple Algo (REFS1)
 - https://www.youtube.com/watch?v=LyeJ-CM980I Algorithmic Trading Strategies: Moving Average Stretch (REFS2)
-- https://www.youtube.com/watch?v=5v8f-QbjGV0&t=346s What's the best mean reversion trading setup? 10 setups tested on 20 years of data (REFS3)
+- https://www.youtube.com/watch?v=5v8f-QbjGV0 What's the best mean reversion trading setup? 10 setups tested on 20 years of data (REFS3)
 - https://www.youtube.com/watch?v=XvzSBuSuCpE Moving to Break Even Is...Not Good (REFS4)
 - https://www.youtube.com/watch?v=brro_u70UZo The Incredible System: Too Good to Be True, But True (REFS5)
 - https://www.youtube.com/watch?v=9ZxWGyOd74Q Applying Turtle Methods in any Market (REFS6)
 
 ## STRATEGY ALGO
-- REFS1: dayback=65, stoploss, takeprofit. Buylong when adx(14)>10 and close-close[dayback] crosses above 0. Sellshort when adx(14)>10 and close-close[dayback] crosses below 0
+- REFS1: #MOMENTUM / #TREND dayback=65, stoploss, takeprofit. Buylong when adx(14)>10 and close-close[dayback] crosses above 0. Sellshort when adx(14)>10 and close-close[dayback] crosses below 0
 - REFS2: emastretch mean reversion strategy. emastretch = 100 * (Close / EMA(10) - 1). buylevel = Close - ATR(5) * 0.75
 - REFS3: #1 RSI(2) below 5 | #2 Sum of RSI(2) over the past 2 days < 20 | #3 Lower low 3 days in a row | #4 Lower close 3 days in a row | #5 Close lower than the lower low of past 5 days | #6 Market closes 1% below previous day close and atr(5) greater than atr(10) (increased volatility) | #7 Market closes 1% below previous day close and atr(5) lower than atr(10) (decreased volatility) | #8 Closes stretches below ema(5) more than 50% of atr(5) | #9 Closes stretches 1% below of ema(5) | #10 ema(5) decreases by 0.5% compared to previous day.... Best are #7, #2, #8
 - REFS4: GBPJPY 1H timeframe is a trending forex pair and correct timeframe; Buy long when Close above Upper BB(100, 3) (100 hours and 3 std dev) and opposite for shorts, taget 450 pips, stop 190 pips
 - REFS5: use monthly chart and buy long after 2 consecutive close above the SMA(12) and exit when close below the SMA(12), works very well on SPY, APPLE, AMZN, GME
 - REFS6: turtle is a momentum strategy and the rules are buy long on breakout of 20 or 55 days, hard stop using atr(x) *2, add to positions after new breakout
+
+## TODO: ORGANIZE
+- https://youtu.be/V6DL5Hkf3Ms Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
+- https://www.youtube.com/watch?v=hQUKA9UvwoQ The Ultimate C% Oscillator: Unveiled ***
+- https://www.youtube.com/watch?v=lt5UOqBLK-0 Algo Trading - Mini S&P Strategy That Works ***
+- https://www.youtube.com/watch?v=gA0egjZcRB0 Jim Simons Trading Secrets 1.1 MARKOV Process ***
+- https://youtu.be/Oa0HduMW8ww You Need To Trade These 3 Algo Strategies NOW *** 
+- https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
+- https://youtu.be/lrKWUeBc14s Upside bars: OLD LARRY WILLIAMS STRATEGY STILL WORKS WONDERS!
+
+## TODO: ORGANIZE: BREAKOUT
+- https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate
+- https://youtu.be/6NWcKpupjJo Breakout 100 days high
+
+## TODO: ORGANIZE: MACD
+- https://youtu.be/sjlQWT6fEnU Consistently Profitable Trading Strategy! 200,000+ Trade Backtest ***
+- https://youtu.be/c91imBlDYEg Actual For Real 97% Win Rate Trading Strategy ***
+
+## TODO: ORGANIZE: ROC
+- https://youtu.be/zD6hrWnPhvM RATE of CHANGE (ROC) Like a BOSS| Part I ***
+- https://youtu.be/I1Rf3Rcduuw Rate of Change indicator strategy ***
+- https://youtu.be/k2NbKhvdmqA Algo Trading Strategy - Let's Test It!
+- https://youtu.be/ikX6boj7-l8 TESTED 750,000 TRADES! ROC+EMA Trading Strategy ***
+
+## TODO: ORGANIZE: MEAN REVERSION
+- https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
+- https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
+- https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
+
+## TODO: ORGANIZE: MOMENTUM / TREND
+- https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
+- https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The ADX Indicator ***
+- https://youtu.be/4zQ9ArQXlS8 RSI and ADX indicator - Best Indicator Combination? ***
+- https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the ADX and Price Action
+- https://youtu.be/rhgdAtacLeY How to code DMI and ADX | PineScript TradingView Code along Tutorial **
+- https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
+
+## TODO: ORGANIZE: NOT SURE
+- https://www.youtube.com/watch?v=N_7ADVr72Ik The BEST Entry Signal Indicator 
+- https://www.youtube.com/watch?v=wrZ4O7elR_I Must Watch if you Use RSI and Stochastic to Trade!
+- https://youtu.be/amyL94ArWVE?t=484 Master The Stochastic Oscillator For Huge Returns | Trading Indicators
+- https://www.youtube.com/watch?v=hLXVeO_f7Ns&t=21s How to use Bollinger Bands for better trading
 

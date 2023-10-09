@@ -25,6 +25,7 @@
 - Brian Shannon
 
 ## SITES
+- https://autoview.com/
 - https://quantpedia.com/
 - https://robotjames.com/
 - https://allocatesmartly.com/
@@ -203,6 +204,7 @@
 - https://materialindicators.com/
 - https://www.darwinex.com/
 - https://www.streak.tech/
+- https://tradetron.tech/
 - https://yuriymatso.com/
 - http://malori.org/
 

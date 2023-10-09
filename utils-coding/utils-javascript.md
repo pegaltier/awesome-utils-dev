@@ -129,7 +129,16 @@ let greeting = {
 - Understanding "this" keyword
 - apply(), .call() and .bind()
 
-## ASYNC/AWAIT
+
+### PROMISE: CREATION
+
+```
+let promise = new Promise(function(resolve, reject) { 
+    resolve(123); // immediately give the result: 123
+});
+```
+
+## PROMISE: ASYNC/AWAIT
 
 - https://advancedweb.hu/how-to-use-async-functions-with-array-map-in-javascript/
 
@@ -163,7 +172,7 @@ console.log(asyncRes);
 
 Useful object methods: keys, values, and entries.
 
-```
+```javascript
 const data = {
     name: 'Pierre',
     age: 32
@@ -186,14 +195,6 @@ const a = Object.entries(data);
 // [['name', 'Pierre'], ['age', 32]]
 const b = Object.fromEntries(data);
 // { name: 'Pierre', age: 32 }
-```
-
-### PROMISE
-
-```
-let promise = new Promise(function(resolve, reject) { 
-    resolve(123); // immediately give the result: 123
-});
 ```
 
 ### DEFINITION
