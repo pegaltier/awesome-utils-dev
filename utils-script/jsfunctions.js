@@ -9,3 +9,19 @@
  */
 const serial = funcs => funcs.reduce((promise, func) =>
         promise.then(result => func().then(Array.prototype.concat.bind(result))), Promise.resolve([]))
+
+
+// Add any Map or Set to another (modified for tradingview usage; add only if it exists in the target)
+// const map = new Map(timeSeriesMap);
+// addAll(map, new Map(valueSeriesMap));
+function addAll(target, source) {
+        const errors = [];
+        if (target instanceof Map) {
+                Array.from(source.entries()).forEach(it => target.has(it[0]) ? target.set(it[0], it[1]) : errors.push(it))
+        } else if (target instanceof Set) {
+                source.forEach(it => target.has(it[0]) ? target.add(it) : errors.push(it))
+        }
+        if (errors.length) {
+                console.error('addAll() ~ source contains incorrect timestamp', errors);
+        }
+}
