@@ -21,11 +21,19 @@ Scope determines the accessibility (visibility) of variables.
 With JavaScript, the global scope is the complete JavaScript environment.
 In HTML, the global scope is the window object. All global variables belong to the window object. 
 
-## FUNCTIONS BORROWING METHODS
+
+## THIS / FUNCTIONS BORROWING METHODS
+
+- In other object-oriented programming languages, the this keyword always refers to the current instance of the class. 
+- Whereas in JavaScript, the value of this depends on how a function is invoked (used or called). In JavaScript, the this keyword refers to different objects depending on how it is used... https://www.w3schools.com/js/js_this.asp
+
+In JavaScript, you can use call(), apply(), and bind() methods to couple a function with an object. This way you can call the function on the object as if it belonged to it
 
 - The call() allows for a function/method belonging to one object to be assigned and called for a different object.
 - The apply() is very similar to call() but the apply method takes arguments as an array instead of separately.
 - The bind() method creates a new function that, when called, has its this keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called. it is not necessary to pass the arguments at the time of `bind`. we can pass it later at the time of invocation.
+
+- https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be
 
 ### FUNCTION
 
@@ -57,6 +65,14 @@ A function can be created in 4 ways:
 ### ALGORITHM
 
 - https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html
+
+### EVENT LOOP
+
+Being single-threaded, JS uses the concept of Event Loop to create the idea of running multiple tasks asynchronously. JS code only runs in one thread while JS uses Event Loop to run code asynchronously. The JS Engine is composed of a Call Stack, Heap and a Task Queue.
+- There is a microtask and a macrotask queue. A promise gets added to the microtask queue and a setTimeout to the macrotask queue.
+- When a microtask is finished, the rest of the microtasks queue gets executed until the microtask queue is empty. Then same for macrotasks.
+- See also SCHEDULING in rxjs that uses this concept to execute the differents functions and operators.
+- https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168
 
 ### ARRAYS
 

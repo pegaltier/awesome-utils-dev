@@ -195,6 +195,12 @@ Both shareReplay and publishReplay (+ calling connect on it) will make the obser
 
 - catchError: allows to catch and replace (with empty) or to re-throw (with throwError) to subscribers
 
+#### SCHEDULING
+- Schedulers are a way to control the timing strategy used to execute tasks. It uses behind the scene the Javascript concept of the Event Loop: microtask vs macrotask. Asap Schedules on the micro task queue (like promise). Async Schedules on the macro task queue (like setTimeout). Queue Schedules a task to be executed synchronously after current task. Some operators like startWith, debounceTime and others have an option to choose the schedulers and also one is by default.
+- https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168
+- https://blog.strongbrew.io/what-are-schedulers-in-rxjs/
+
+
 ### MORE OPERATORS
 
 - http://reactivex.io/rxjs/manual/overview.html#operators
