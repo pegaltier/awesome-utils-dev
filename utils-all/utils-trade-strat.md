@@ -376,6 +376,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/Oa0HduMW8ww You Need To Trade These 3 Algo Strategies NOW *** 
 - https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
 - https://youtu.be/lrKWUeBc14s Upside bars: OLD LARRY WILLIAMS STRATEGY STILL WORKS WONDERS!
+- https://youtu.be/D_P_XqB5nHs My 5 Favorite Algo Trading Strategy Entries ***
 
 ## TODO: ORGANIZE: BREAKOUT
 - https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate
@@ -390,6 +391,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/I1Rf3Rcduuw Rate of Change indicator strategy ***
 - https://youtu.be/k2NbKhvdmqA Algo Trading Strategy - Let's Test It!
 - https://youtu.be/ikX6boj7-l8 TESTED 750,000 TRADES! ROC+EMA Trading Strategy ***
+- https://youtu.be/pEZjbk-Nw3g?t=332 Phil's CUSTOM ROC indicator ***
 
 ## TODO: ORGANIZE: MEAN REVERSION
 - https://youtu.be/V6DL5Hkf3Ms Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
@@ -397,11 +399,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
 - https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
+- https://youtu.be/GyikfniCLqU Proof WILLIAMS % R is Reliable when used like this 
 
 ## TODO: ORGANIZE: MOMENTUM / TREND
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The ADX Indicator ***
 - https://youtu.be/4zQ9ArQXlS8 RSI and ADX indicator - Best Indicator Combination? ***
+- https://youtu.be/JnVFdI57j8s The Simplest Crypto Strategy for RUNE, BTC, & ETH That Works! ***
 - https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the ADX and Price Action
 - https://youtu.be/rhgdAtacLeY How to code DMI and ADX | PineScript TradingView Code along Tutorial **
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
