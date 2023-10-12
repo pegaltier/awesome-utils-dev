@@ -400,15 +400,19 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
 - https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
 - https://youtu.be/GyikfniCLqU Proof WILLIAMS % R is Reliable when used like this 
+- https://youtu.be/As91lpD1oiA Bollinger band Mean reversion trading strategy 70% win rate
 
 ## TODO: ORGANIZE: MOMENTUM / TREND
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The ADX Indicator ***
 - https://youtu.be/4zQ9ArQXlS8 RSI and ADX indicator - Best Indicator Combination? ***
 - https://youtu.be/JnVFdI57j8s The Simplest Crypto Strategy for RUNE, BTC, & ETH That Works! ***
+
 - https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the ADX and Price Action
 - https://youtu.be/rhgdAtacLeY How to code DMI and ADX | PineScript TradingView Code along Tutorial **
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
+- https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the ADX | Stock Talk (10.12.23) **
+- https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin **
 
 ## TODO: ORGANIZE: NOT SURE
 - https://www.youtube.com/watch?v=N_7ADVr72Ik The BEST Entry Signal Indicator 
