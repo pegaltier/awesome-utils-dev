@@ -73,6 +73,7 @@ Being single-threaded, JS uses the concept of Event Loop to create the idea of r
 - When a microtask is finished, the rest of the microtasks queue gets executed until the microtask queue is empty. Then same for macrotasks.
 - See also SCHEDULING in rxjs that uses this concept to execute the differents functions and operators.
 - https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168
+- https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 
 ### ARRAYS
 
@@ -181,6 +182,14 @@ console.log(asyncRes);
 
 - https://indepth.dev/observer-apis-in-javascript-part-i/
 - https://indepth.dev/observer-apis-in-javascript-part-ii
+
+## PROXY
+Proxies provide a unique way to modify or improve the behavior of existing objects at the lowest level. However, it is not perfect. There are limits. For example, it is not possible to do a comparison (===)with the original object. The proxy is a wrapper around an object, which forwards operations on it to the object, possibly trapping some of them. It can wrap any type of object, including classes and functions. Proxies can catch many operators, such as new (with construct), in (with has), delete (with deleteProperty), etc. One of the most obvious use case is when you can't modify the existing object because it's an external library or a generated code then you can use the proxy to modify or extend this part of the code.
+- https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Proxy
+- https://www.javascripttutorial.net/javascript-proxy/
+- https://www.slideshare.net/BrendanEich/metaprog-5303821
+- https://fr.javascript.info/proxy
+
 
 ## EXAMPLES
 
