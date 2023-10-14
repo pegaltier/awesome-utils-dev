@@ -106,6 +106,7 @@
 - https://www.qmr.ai/
 - https://www.buildalpha.com/
 - https://www.lizardindicators.com/
+- https://marketspy.net/free-poett-access/
 
 ## TOOLS: INDIA
 - https://www.screener.in/
@@ -126,6 +127,7 @@
 - https://courses.theartoftrading.com/pages/pine-script-mastery-source-code
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/
+- https://www.tradingcode.net/tradingview/bollinger-breakout-strategy/
 - https://kodify.net/tradingview/plots/line-plot/
 - https://kodify.net/tradingview/colours/iff-conditional-colours/
 - https://kodify.net/tradingview/orders/strategy-entry/
@@ -135,6 +137,7 @@
 - https://www.tradingview.com/script/NjuWGg3o-Weekly-Moving-Average/
 - https://www.tradingview.com/script/o5kgHBQ0-Multi-Timeframe-Bollinger-Bands/
 - https://www.tradingview.com/script/R8ByYRUS-RSI-with-Moving-Averages-UO/
+- https://tradingview.com/script/o8cHtWrP-Stage-Analysis-Technical-Attributes-SATA-by-stageanalysis/
 - https://www.tradingview.com/pine-script-docs/en/v4/essential/Sessions_and_time_functions.html
 - https://www.tradingview.com/pine-script-docs/en/v4/appendix/HOWTOs.html
 - https://www.tradingview.com/pine-script-docs/en/v4/language/Operators.html

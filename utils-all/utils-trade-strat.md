@@ -326,6 +326,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.datadriveninvestor.com/profit-like-a-pro-a-practical-guide-to-backtesting-and-optimizing-trading-strategies-with-vectorbt-8ade621a4e14
 - https://kaabar-sofien.medium.com/try-using-this-profitable-strategy-on-fx-dd96594c7807
 - https://kaabar-sofien.medium.com/the-pull-back-strategy-in-tradingview-9fc550d6e870
+- https://kaabar-sofien.medium.com/understanding-the-trix-indicator-f31d2faa790d
 - https://courses.theartoftrading.com/pages/mean-reversion-strategy-in-pine-script
 - https://www.quantifiedstrategies.com/demarker-indicator-strategy/
 - https://www.thetransparenttrader.com/uncategorized/simple-forex-trading-strategy-using-a-kangaroo-tail-pattern/
