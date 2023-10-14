@@ -4,6 +4,7 @@
 - https://peerjs.com/
 - https://libre.space/
 - https://dwebcamp.org/
+- https://tryquiet.org/
 - http://blog.mauve.moe/
 - https://fosdem.org/2022/
 - https://decentpatterns.xyz/
@@ -19,6 +20,7 @@
 - https://github.com/AgregoreWeb
 - https://github.com/fluencelabs
 - https://github.com/neet/masto.js
+- https://github.com/TryQuiet/quiet
 - https://github.com/dmotz/trystero
 - https://github.com/stateless-minds
 - https://github.com/hyperhyperspace

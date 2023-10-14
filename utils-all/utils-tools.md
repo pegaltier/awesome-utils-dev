@@ -45,7 +45,6 @@
 - https://github.com/justinfrankel/licecap
 - https://github.com/obsproject/obs-studio
 - https://github.com/mattermost/focalboard
-- https://github.com/ripienaar/free-for-dev
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/dani-garcia/vaultwarden
 - https://github.com/firefly-iii/firefly-iii
@@ -93,8 +92,10 @@
 
 ## List
 - https://untools.co/
+- https://free-for.dev/#/
 - https://github.com/iptv-org/iptv
 - https://github.com/pluja/awesome-privacy
+- https://github.com/ripienaar/free-for-dev
 - https://github.com/neiesc/awesome-minimalist
 - https://github.com/alexanderisora/startuptoolbox
 - https://github.com/btw-so/open-source-alternatives

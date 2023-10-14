@@ -21,6 +21,7 @@
 - Matt Delong https://www.matt-delong.com/
 - https://www.reallifetrading.com/
 - Jay Wolberg http://www.tradingvolatility.net/
+- Hugh Kimura https://www.tradingheroes.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -29,6 +30,7 @@
 - https://quantpedia.com/
 - https://robotjames.com/
 - https://www.quantinsti.com/
+- https://www.quantscience.io/
 - https://allocatesmartly.com/
 - https://www.quantivealpha.com/    
 - https://quantifiableedges.com/
@@ -47,6 +49,9 @@
 ## BLOG
 - https://twoquants.substack.com/
 
+## LIST
+- https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+
 ## BOOKS
 - https://www.amazon.com/ADXcellence-Strategies-Charles-B-Schaap/dp/0977713210
 - https://www.amazon.com/Momentum-Masters-Roundtable-Interview-Traders-ebook/dp/B0147NLBUI
@@ -61,6 +66,7 @@
 - https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/
 
 ## QUOTES
+- https://databento.com/
 - https://eodhistoricaldata.com/
 - https://www.cryptoarchive.com.au/ *
 - https://github.com/maxgfr/binance-historical *
@@ -81,8 +87,10 @@
 - https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data
 - https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000
 
-## TOOLS
+## TOOLS: BACKTESTING
 - https://algowizard.io/
+- https://forextester.com/
+- https://www.naked-markets.com/
 - https://www.tradingview.com/
 - https://www.multicharts.com/
 - https://www.haasonline.com/
@@ -90,6 +98,7 @@
 - https://www.tradewell.app/
 - https://strategyquant.com/
 - https://www.cloud9trader.com/
+- https://www.bullcharts.com.au/
 - https://capitalise.ai/
 - https://dayhagan.com/
 - https://crypto-ml.com/
@@ -106,7 +115,17 @@
 - https://www.qmr.ai/
 - https://www.buildalpha.com/
 - https://www.lizardindicators.com/
+- https://www.portfoliovisualizer.com/
 - https://marketspy.net/free-poett-access/
+- https://www.thinkmarkets.com/en/tools/tradersgym/
+- https://tradingindicators.com/portfolio-architect-2-0/
+
+## TOOLS: SCREENING
+- https://deepvue.com/
+- https://www.smartcharts.net/
+
+## TOOLS: TRADE EXEC
+- https://insilicoterminal.com/
 
 ## TOOLS: INDIA
 - https://www.screener.in/
@@ -115,6 +134,29 @@
 - https://stockedge.com/
 - https://www.ratestar.in/
 - https://www.tickertape.in/
+- https://www.algofox.in/
+- https://www.quantprogram.com/
+
+## TOOLS: BOTS 
+- https://diabolo.io/
+- https://www.kryll.io/
+- https://napoleonx.ai/
+- https://goat-capital.io/
+- https://www.napbots.com/
+- https://robuxio.com/
+- https://3c.crypttops.com/
+- https://tycoon.io/
+- https://www.shrimpy.io/
+- https://www.xorstrategy.com/
+- https://stackedinvest.com/
+- https://www.cryptohopper.com/
+- https://materialindicators.com/
+- https://www.ai-backbone.com/aiforgold
+- https://www.darwinex.com/
+- https://www.streak.tech/
+- https://tradetron.tech/
+- https://yuriymatso.com/
+- http://malori.org/
 
 ## TOOLS: TRADINGVIEW: CODING
 - https://pinewizards.com/
@@ -193,24 +235,6 @@
 - https://www.trading-automatique.fr/mql4/
 - https://docs.mql4.com/runtime/event_fire#calculate
 
-
-## BOTS 
-- https://diabolo.io/
-- https://www.kryll.io/
-- https://napoleonx.ai/
-- https://www.napbots.com/
-- https://robuxio.com/
-- https://3c.crypttops.com/
-- https://www.shrimpy.io/
-- https://www.xorstrategy.com/
-- https://stackedinvest.com/
-- https://www.cryptohopper.com/
-- https://materialindicators.com/
-- https://www.darwinex.com/
-- https://www.streak.tech/
-- https://tradetron.tech/
-- https://yuriymatso.com/
-- http://malori.org/
 
 ## OPEN SOURCES (OSS)
 
@@ -324,6 +348,7 @@
 - https://github.com/hackingthemarkets
 
 ### OSS: PYTHON
+- https://github.com/erdewit/ib_insync
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/jrmeier/fast-trade
 - https://github.com/ssantoshp/Wizardry
@@ -376,6 +401,7 @@
 - https://github.com/TulipCharts/tulipnode
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/project-nv/night-vision
+- https://github.com/TranceGeniK/bybit-tools
 - https://github.com/chalupagrande/backtester
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node

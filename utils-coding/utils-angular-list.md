@@ -224,6 +224,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://medium.com/ngconf/why-you-should-use-canmatch-in-your-routes-97fec434823d
 - https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4
 - https://blog.simplified.courses/angular-state-management-best-practices/
+- https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/
 
 ## HELPER: DESIGN PATTERN
 

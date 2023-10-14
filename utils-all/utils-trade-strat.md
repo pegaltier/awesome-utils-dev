@@ -296,9 +296,6 @@ The classic moving average is generating a lot of whipsaws so you can add an ext
 - https://stockcharts.com/articles/mailbag/2011/02/how-can-i-reduce-indicator-whipsaws-using-the-percentage-price-oscillator-to-filter-moving-average-s.html
 - http://www.traderslaboratory.com/forums/topic/6999-reducing-whipsaws-two-simple-methods/
 
-## RISK MANAGEMENT
-- measure the risk before an entry: % Distance from long MA. Could also be high ATR, bands etc.
-
 ## OBV
 
 Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV divergences and support/resistance are more reliable than on the RSI and it's breakout often precede price breakout.
@@ -311,15 +308,23 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 -  Those are not even recommended. In general, limit orders can result in unrealistic backtests due to liquidity constraints. If the limit is reached you may not be able to execute 1/10 of your size without impact. Market markets won't make it easy for you. In fact,  they will take the other side. The backtest may show a 1% gain for a trade, but the real gain maybe 0.01% or even a loss. 
 
+## MONEY MANAGEMENT / RISK MANAGEMENT
+- measure the risk before an entry: % Distance from long MA. Could also be high ATR, bands etc.
+- https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
+- https://youtu.be/I5p2Hg9s-64 Should You Trade Trend Following Or Mean Reversion Strategies?
 
 ## STRATEGY WEBSITES / ARTICLES
 - https://tradingindicators.com/
 - https://oxfordstrat.com/category/trading-strategies/
+- https://www.statisticshowto.com/probability-and-statistics/z-score/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
+- https://www.quantifiedstrategies.com/big-moves-on-mondays-update/
+- https://www.quantifiedstrategies.com/money-flow-index-strategy/
 - https://www.quantifiedstrategies.com/trend-reversal-strategy/
 - https://www.quantifiedstrategies.com/scale-in-trading-strategy/
 - https://www.quantifiedstrategies.com/john-ehlers-trading-strategy/
 - https://www.quantifiedstrategies.com/short-term-trading-strategy/
+- https://www.quantifiedstrategies.com/gold-overnight-trading-strategy/
 - https://www.quantifiedstrategies.com/python-momentum-trading-strategy/
 - https://www.quantifiedstrategies.com/commodities-to-equity-ratio-trading-strategy/
 - https://www.quantifiedstrategies.com/new-5-day-low-in-spy-and-closes-in-the-low-of-the-range/
@@ -332,11 +337,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.thetransparenttrader.com/uncategorized/simple-forex-trading-strategy-using-a-kangaroo-tail-pattern/
 - https://medium.com/@crisvelasquez/identify-key-market-shifts-with-the-volatility-ratio-16760a26b52a
 - https://medium.datadriveninvestor.com/how-to-create-a-profitable-cryptocurrency-trading-bot-part-1-overview-and-trading-strategy-cf178300a0ea
+- https://medium.com/@crisvelasquez/identifying-key-market-interest-with-the-volume-ratio-in-python-1f9904705711
 
 ## STRATEGY: YOUTUBE CHANNEL
 - https://www.youtube.com/@seriousbacktester Serious Backtester
 - https://www.youtube.com/@TheArtOfTrading The Art of Trading
 - https://www.youtube.com/@StatOasis StatOasis
+- https://www.youtube.com/@TradingTact Trading Tact
 - https://www.youtube.com/@AlgoTradingWithKevinDavey Algo Trading With Kevin Davey
 - https://www.youtube.com/@CriticalTrading Critical Trading
 - https://www.youtube.com/@quantprogram QuantProgram
@@ -420,6 +427,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The ADX Indicator ***
 - https://youtu.be/4zQ9ArQXlS8 RSI and ADX indicator - Best Indicator Combination? ***
 - https://youtu.be/JnVFdI57j8s The Simplest Crypto Strategy for RUNE, BTC, & ETH That Works! ***
+- https://youtu.be/u_qNQX7vU0w Check Out This Keltner Channel + CCI Combo! [10-Year Backtest] ***
+- https://youtu.be/b2Joeh60gYk Relative Vigor Index Trading Strategy [Full Logic + Backtest] *** 
+- https://youtu.be/nc3EeGJulpw Automated Kaufman Adaptive Moving Average Trading Strategy! ***
 
 - https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the ADX and Price Action
 - https://youtu.be/rhgdAtacLeY How to code DMI and ADX | PineScript TradingView Code along Tutorial **
@@ -432,6 +442,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/watch?v=wrZ4O7elR_I Must Watch if you Use RSI and Stochastic to Trade!
 - https://youtu.be/amyL94ArWVE?t=484 Master The Stochastic Oscillator For Huge Returns | Trading Indicators
 - https://www.youtube.com/watch?v=hLXVeO_f7Ns&t=21s How to use Bollinger Bands for better trading
+- https://youtu.be/la1MSwV72ms?t=141 2 Clear Strategies When Using the ADX | ADX was below for X days....
 
 ## TODO: ORGANIZE: PODCAST
 - https://youtu.be/GYLCzvz_LL8 An Edge with Correlations Across Time Frames · Dan McDermitt

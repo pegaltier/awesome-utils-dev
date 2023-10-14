@@ -72,6 +72,10 @@ low-code tooling to prototype fastly.
 - https://github.com/appsmithorg/appsmith
 - https://github.com/alibaba/lowcode-engine
 
+## business intelligence
+- https://github.com/evidence-dev/evidence
+- https://github.com/evidence-dev/docker-devenv
+
 ## articles
 - https://www.maketecheasier.com/platforms-build-apps-without-coding/
 - https://medium.com/@alexkatrompas/java-will-kill-your-startup-php-will-save-it-f3051968145d

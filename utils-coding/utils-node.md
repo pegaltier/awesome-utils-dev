@@ -125,6 +125,11 @@
 - https://github.com/4lejandrito/fetchbook
 - https://github.com/bahmutov/start-server-and-test
 
+## LIBS: ENV
+- https://github.com/af/envalid
+- https://github.com/motdotla/dotenv
+- https://github.com/ekalinin/nodeenv
+
 ## LIBS: AUTH
 - https://github.com/google/webauthndemo
 - https://github.com/MasterKale/SimpleWebAuthn
