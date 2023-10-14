@@ -11,6 +11,7 @@
 7. XgeneCloud: https://github.com/xgenecloud/xgenecloud
 8. Mustache: https://github.com/janl/mustache.js
 9. Hygen: https://github.com/jondot/hygen
+10. Tsnew: https://github.com/sunnysingh/tsnew
 
 ## YEOMAN
 

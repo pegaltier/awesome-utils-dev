@@ -228,6 +228,9 @@
 - https://github.com/projen/projen
 - https://github.com/vitejs/vite
 
+## LIB: HTTP
+- https://github.com/har-tools/http-message
+
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/TomerAberbach/lfi
 
@@ -478,6 +481,7 @@
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/ueberdosis/tiptap
+- https://github.com/cocopon/tweakpane
 - https://github.com/crabbly/Print.js
 - https://github.com/rviscomi/capo.js
 - https://github.com/jcubic/sysend.js
@@ -565,11 +569,13 @@
 ## LIB: 2D/3D/VR
 - https://github.com/oframe/ogl
 - https://github.com/ct-js/ct-js
+- https://github.com/dagrejs/dagre
+- https://github.com/skanaar/graphre
 - https://github.com/aframevr/aframe
 - https://github.com/CesiumGS/cesium
 - https://github.com/mrdoob/three.js
-- https://github.com/mapbox/delaunator
 - https://github.com/shakiba/planck.js
+- https://github.com/mapbox/delaunator
 - https://github.com/KhronosGroup/glTF
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js
@@ -582,6 +588,7 @@
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js
+- https://github.com/KudoAI/chatgpt.js
 - https://github.com/neilgupta/Sherlock
 - https://github.com/facebookresearch/shumai
 
@@ -641,6 +648,9 @@
 - https://github.com/bpampuch/pdfmake
 - https://github.com/24eme/signaturepdf
 - https://github.com/hand-dot/labelmake
+- https://github.com/eneajaho/doc-signer
+- https://github.com/pdf2htmlEX/pdf2htmlEX
+- https://github.com/Frooodle/Stirling-PDF
 - https://github.com/pdffillerjs/pdffiller
 - https://github.com/simonhaenisch/md-to-pdf
 

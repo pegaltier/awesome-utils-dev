@@ -28,6 +28,7 @@
 - https://autoview.com/
 - https://quantpedia.com/
 - https://robotjames.com/
+- https://www.quantinsti.com/
 - https://allocatesmartly.com/
 - https://www.quantivealpha.com/    
 - https://quantifiableedges.com/
@@ -247,6 +248,7 @@
 - https://github.com/ottodevs/instabot-trader
 - https://github.com/s-brez/HTF-single-strat
 - https://github.com/CryptoMF/frostybot-js
+- https://github.com/germangar/whook
 
 ### OSS: QUALITY
 - https://github.com/edarchimbaud/awesome-systematic-trading

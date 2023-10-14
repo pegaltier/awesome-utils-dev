@@ -76,6 +76,7 @@
 - https://github.com/MichalLytek/type-graphql
 - https://github.com/contrawork/graphql-helix
 - https://github.com/Jenyus-Org/graphql-utils
+- https://github.com/graphql-kit/graphql-faker
 - https://github.com/n1ru4l/graphql-live-query
 - https://github.com/APIs-guru/graphql-voyager
 - https://github.com/yaacovCR/graphql-executor

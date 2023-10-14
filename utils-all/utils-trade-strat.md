@@ -326,8 +326,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.datadriveninvestor.com/profit-like-a-pro-a-practical-guide-to-backtesting-and-optimizing-trading-strategies-with-vectorbt-8ade621a4e14
 - https://kaabar-sofien.medium.com/try-using-this-profitable-strategy-on-fx-dd96594c7807
 - https://kaabar-sofien.medium.com/the-pull-back-strategy-in-tradingview-9fc550d6e870
+- https://courses.theartoftrading.com/pages/mean-reversion-strategy-in-pine-script
 - https://www.quantifiedstrategies.com/demarker-indicator-strategy/
 - https://www.thetransparenttrader.com/uncategorized/simple-forex-trading-strategy-using-a-kangaroo-tail-pattern/
+- https://medium.com/@crisvelasquez/identify-key-market-shifts-with-the-volatility-ratio-16760a26b52a
+- https://medium.datadriveninvestor.com/how-to-create-a-profitable-cryptocurrency-trading-bot-part-1-overview-and-trading-strategy-cf178300a0ea
 
 ## STRATEGY: YOUTUBE CHANNEL
 - https://www.youtube.com/@seriousbacktester Serious Backtester
@@ -409,6 +412,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
 - https://youtu.be/GyikfniCLqU Proof WILLIAMS % R is Reliable when used like this 
 - https://youtu.be/As91lpD1oiA Bollinger band Mean reversion trading strategy 70% win rate
+- https://youtu.be/yz_T1gpAw6Y A Profitable MEAN REVERSION STRATEGY ***
 
 ## TODO: ORGANIZE: MOMENTUM / TREND
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***

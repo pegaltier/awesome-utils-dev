@@ -107,11 +107,12 @@
 
 ## Organise
 - https://github.com/dendronhq/dendron
-- https://github.com/hadynz/obsidian-sidekick
-- https://github.com/tanepiper/obsidian-garden
-- https://github.com/graydon/obsidian-html
 - https://github.com/AppFlowy-IO/AppFlowy
+- https://github.com/graydon/obsidian-html
+- https://github.com/hadynz/obsidian-sidekick
 - https://github.com/AlexW00/obsidian-3d-graph
+- https://github.com/tanepiper/obsidian-garden
+- https://github.com/blacksmithgu/obsidian-dataview
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
 
 ## Automate / automation

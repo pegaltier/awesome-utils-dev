@@ -242,6 +242,7 @@ npm init
 - https://github.com/4lessandrodev/rich-domain
 - https://github.com/typestack/class-validator
 - https://github.com/devexperts/remote-data-ts
+- https://github.com/gustavoguichard/string-ts
 - https://github.com/gbumanzordev/utility-types
 - https://github.com/JacobWeisenburger/zod_utilz
 - https://github.com/typestack/class-transformer

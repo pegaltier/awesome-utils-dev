@@ -8,6 +8,7 @@
 - https://app.swaggerhub.com
 
 ## OSS
+- https://github.com/andreschaffer/event-sourcing-cqrs-examples
 - https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
 - https://github.com/ivan-bilan/The-Microservices-Pandect
 - https://github.com/mhadidg/software-architecture-books

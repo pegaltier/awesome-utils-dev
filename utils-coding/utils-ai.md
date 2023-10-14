@@ -144,15 +144,18 @@
 - https://github.com/muellerberndt/micro-gpt
 - https://github.com/AntonOsika/gpt-engineer
 - https://github.com/ohmplatform/FreedomGPT
+- https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/abacaj/chatgpt-backup
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/imartinez/privateGPT
+- https://github.com/melih-unsal/DemoGPT
 - https://github.com/chathub-dev/chathub
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/paul-gauthier/aider
 - https://github.com/keijiro/AICommand
+- https://github.com/KudoAI/chatgpt.js
 - https://github.com/lgrammel/js-agent
 - https://github.com/StanGirard/quivr
 - https://github.com/nomic-ai/gpt4all
@@ -166,6 +169,7 @@
 ## LIB: LLM
 - https://github.com/aws-samples/aws-genai-llm-chatbot
 - https://github.com/Mintplex-Labs/anything-llm
+- https://github.com/mit-han-lab/streaming-llm
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
 - https://github.com/lyuchenyang/Macaw-LLM
@@ -178,6 +182,7 @@
 - https://github.com/reactorsh/ambrosia
 - https://github.com/microsoft/TypeChat
 - https://github.com/vllm-project/vllm
+- https://github.com/haotian-liu/LLaVA
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/jmorganca/ollama

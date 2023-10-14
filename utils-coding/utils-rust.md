@@ -18,7 +18,9 @@
 - https://github.com/Aleph-Alpha/ts-rs
 - https://github.com/RustScan/RustScan
 - https://github.com/s-panferov/valico
+- https://github.com/sunfishcode/eyra
 - https://github.com/tauri-apps/tauri
+- https://github.com/makepad/makepad
 - https://github.com/Keats/validator
 - https://github.com/GREsau/schemars
 - https://github.com/napi-rs/napi-rs
