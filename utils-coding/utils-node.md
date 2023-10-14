@@ -146,7 +146,8 @@
 - https://github.com/w3tecch/typeorm-seeding
 - https://github.com/drifting-in-space/driftdb
 
-## LIBS: CLI
+## LIBS: CLI / PROMPTS
+- https://github.com/terkelg/prompts
 - https://github.com/jasonkuhrt/molt
 - https://github.com/arcanis/clipanion
 - https://github.com/npkgz/cli-progress

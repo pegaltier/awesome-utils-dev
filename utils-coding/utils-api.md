@@ -25,15 +25,17 @@
 - https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
 
-## TOOLS
-- https://apis.guru/
+## TOOLS: CLIENT
 - http://postman.com/
 - https://hoppscotch.io/
 - https://insomnia.rest/
+- https://github.com/Kong/insomnia
+- https://github.com/usebruno/bruno
+- https://github.com/hoppscotch/hoppscotch
+
+## TOOLS: ALL
 - https://pipedream.com/
 - https://stoplight.io/studio
-- https://github.com/APIs-guru
-- https://github.com/Kong/insomnia
 - https://github.com/fern-api/fern
 - https://github.com/Azure/autorest
 - https://github.com/slatedocs/slate
@@ -148,8 +150,10 @@
 - https://beta.openai.com/
 
 ## LIST
+- https://apis.guru/
 - https://rapidapi.com
 - https://www.humanapi.co
+- https://github.com/APIs-guru
 - https://github.com/public-apis/public-apis
 - https://github.com/cheatsnake/backend-cheats
 - https://github.com/chubin/awesome-console-services

@@ -377,14 +377,22 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
 - https://youtu.be/lrKWUeBc14s Upside bars: OLD LARRY WILLIAMS STRATEGY STILL WORKS WONDERS!
 - https://youtu.be/D_P_XqB5nHs My 5 Favorite Algo Trading Strategy Entries ***
+- https://youtu.be/uvsL-fdcPU8 EMA HIGH LOW BAND STRATEGY (SMALL RISK- BIG REWARD) ***
+- https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (Trading Rules & Backtest) (multple assets rules) ***
+
+## TODO: RSI
+- https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
+- https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
 
 ## TODO: ORGANIZE: BREAKOUT
-- https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate
-- https://youtu.be/6NWcKpupjJo Breakout 100 days high
+- https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate ***
+- https://youtu.be/6NWcKpupjJo Breakout 100 days high ***
+- https://youtu.be/rJ5HaJ2iCdk CANDLE BREAKOUT + RSI SETUP discussion with detailed backtest report ***
 
 ## TODO: ORGANIZE: MACD
 - https://youtu.be/sjlQWT6fEnU Consistently Profitable Trading Strategy! 200,000+ Trade Backtest ***
 - https://youtu.be/c91imBlDYEg Actual For Real 97% Win Rate Trading Strategy ***
+- https://youtu.be/jGFiHp8VmrU Using MACD this way actually works! - Full Trading strategy ***
 
 ## TODO: ORGANIZE: ROC
 - https://youtu.be/zD6hrWnPhvM RATE of CHANGE (ROC) Like a BOSS| Part I ***
@@ -419,4 +427,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/watch?v=wrZ4O7elR_I Must Watch if you Use RSI and Stochastic to Trade!
 - https://youtu.be/amyL94ArWVE?t=484 Master The Stochastic Oscillator For Huge Returns | Trading Indicators
 - https://www.youtube.com/watch?v=hLXVeO_f7Ns&t=21s How to use Bollinger Bands for better trading
+
+## TODO: ORGANIZE: PODCAST
+- https://youtu.be/GYLCzvz_LL8 An Edge with Correlations Across Time Frames · Dan McDermitt
+- https://youtu.be/cqEncH4_5ls This quants’ approach to algorithmic trading—Michael Halls-Moore, QuantStart
+- https://youtu.be/qz6a27tFmAM The Art and Science of Algorithmic Futures Trading · Kyle Schultz
 

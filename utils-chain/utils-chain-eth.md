@@ -30,6 +30,7 @@
 - https://github.com/antonnell/veToken-voting
 - https://github.com/skalenetwork/universal-cli
 - https://github.com/sigp/solidity-security-blog
+- https://github.com/scaffold-eth/scaffold-eth-2
 - https://github.com/mithio/mithril-smart-contract
 - https://github.com/ethereumjs/ethereumjs-monorepo
 - https://github.com/eSwapping/ESWAP-Limit-Order-Bot

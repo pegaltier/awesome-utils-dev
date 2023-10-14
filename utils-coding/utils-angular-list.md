@@ -1631,6 +1631,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/wvanderdeijl/nx-remotecache-gcs
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/robinpellegrims/pellegrims
 - https://github.com/brunos3d/nx-rescope
 - https://github.com/nxkit/nxkit
 - https://github.com/altack/nx-bundlefy
