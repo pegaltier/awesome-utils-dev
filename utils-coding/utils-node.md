@@ -220,6 +220,10 @@
 - https://github.com/bezkoder/node-js-mssql-crud-example
 - https://github.com/studiohyperdrive/nodejs-boilerplate
 
+## BASICS
+
+The ECMAScript modules (ES or ESM modules) have a standard TC39 function that was not existing prior to Node version 14. This feature can only be used starting from Node16 and can be very helpful to charge the JavaScript modules. Unlike CommonJS, ESM provides an asynchronous API for loading modules. one advantage is an improved syntax via the import and export instructions. To use ESM you can declare "type": "module" in your file package.json.
+
 ## NODE UPDATE WINDOWS
 
 1. download & install node : latest version from official website
