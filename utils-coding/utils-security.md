@@ -64,6 +64,7 @@
 - https://github.com/Infisical/infisical
 - https://github.com/Tw1sm/spraycharles
 - https://github.com/chenjj/CORScanner
+- https://github.com/nextcloud/passman
 - https://github.com/hktalent/scan4all
 - https://github.com/Z4nzu/hackingtool
 - https://github.com/svenstaro/genact

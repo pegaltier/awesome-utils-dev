@@ -62,6 +62,7 @@
 - https://github.com/TabbyML/tabby
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/fauxpilot/fauxpilot
+- https://github.com/spdustin/ChatGPT-AutoExpert
 
 ## TOOLS: TEXT
 - https://www.taglines.ai/
@@ -140,6 +141,7 @@
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/sonnylazuardi/chat-ai-desktop
 - https://github.com/sindresorhus/quickgpt-meta
+- https://github.com/AI-Marketing-Tools/AI-ADS
 - https://github.com/anc95/ChatGPT-CodeReview
 - https://github.com/muellerberndt/micro-gpt
 - https://github.com/AntonOsika/gpt-engineer
@@ -154,6 +156,7 @@
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/paul-gauthier/aider
+- https://github.com/lobehub/lobe-chat
 - https://github.com/keijiro/AICommand
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/lgrammel/js-agent

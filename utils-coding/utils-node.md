@@ -34,11 +34,21 @@
 - https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8
 - https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020
 
-## HOSTING
+## HOSTING: APP
 - https://www.youtube.com/watch?v=uEVmD6n8Il0 7 Ways to Deploy a Node.js App
 - https://www.youtube.com/watch?v=l134cBAJCuc Deploy full stack app to render.com
 - https://cloud.google.com/functions
 - https://www.render.com/
+- https://www.nodechef.com/
+
+## HOSTING: SCHEDULING
+- https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples
+- https://www.stackhero.io/en-fr/services/Node-js/documentations/Cron-jobs
+- https://docs.netlify.com/functions/scheduled-functions/
+- https://cronitor.io/guides/node-cron-jobs
+- https://www.defer.run/blog/nodejs-cron
+- https://vercel.com/docs/cron-jobs
+
 
 ## UTILS
 
@@ -119,6 +129,9 @@
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
 - https://github.com/unjs/ofetch
+
+## LIBS: CRON
+- https://github.com/node-cron/node-cron
 
 ## LIBS: TESTING
 - https://github.com/nock/nock

@@ -456,14 +456,15 @@
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
-- https://github.com/davidmerfield/randomColor
 - https://github.com/funktechno/texthighlighter
+- https://github.com/davidmerfield/randomColor
 - https://github.com/mjbrisebois/identicons-js
 - https://github.com/willmcpo/body-scroll-lock
 - https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/willmendesneto/perf-marks
 - https://github.com/metafizzy/infinite-scroll
 - https://github.com/pubkey/broadcast-channel
+- https://github.com/NUKnightLab/TimelineJS3
 - https://github.com/sindresorhus/clipboardy
 - https://github.com/lucafalasco/scroll-snap
 - https://github.com/zenorocha/clipboard.js
