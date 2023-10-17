@@ -61,6 +61,9 @@ Refresh the page in browser and see, the virtual includes will start working.
 <!--#include virtual="/se/site/as-html-web/site/fr/header.html" -->
 ```
 
+## HOST
+- https://www.infinityfree.com/
+- https://googiehost.com/
 
 ## SECURITY
 
@@ -281,6 +284,13 @@ xampp multiple !:
 - https://github.com/mpdf/mpdf (no dependencies)
 - https://github.com/tecnickcom/tcpdf (no dependencies)
 - https://github.com/mikehaertl/phpwkhtmltopdf (slimPHP wrapper + require wkhtmltopdf)
+
+## PROXY
+- https://www.php-proxy.com/
+- https://github.com/Athlon1600/php-proxy
+- https://github.com/Athlon1600/php-proxy-app
+- https://github.com/jenssegers/php-proxy
+- https://github.com/zounar/php-proxy
 
 ## STATIC ANALYZER / ANALYZYS
 - https://github.com/phpstan/phpstan

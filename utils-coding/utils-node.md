@@ -38,8 +38,10 @@
 - https://www.youtube.com/watch?v=uEVmD6n8Il0 7 Ways to Deploy a Node.js App
 - https://www.youtube.com/watch?v=l134cBAJCuc Deploy full stack app to render.com
 - https://cloud.google.com/functions
-- https://www.render.com/
 - https://www.nodechef.com/
+- https://www.render.com/
+- https://platform.sh/
+- https://scalingo.com/
 
 ## HOSTING: SCHEDULING
 - https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples
@@ -132,6 +134,7 @@
 
 ## LIBS: CRON
 - https://github.com/node-cron/node-cron
+- https://github.com/kelektiv/node-cron
 
 ## LIBS: TESTING
 - https://github.com/nock/nock
@@ -218,6 +221,7 @@
 - https://github.com/remult/remult
 - https://github.com/lukeautry/tsoa
 - https://github.com/typeorm/typeorm
+- https://github.com/zone-eu/zone-mta
 - https://github.com/sindresorhus/got
 - https://github.com/balderdashy/sails
 - https://github.com/taskforcesh/bullmq
