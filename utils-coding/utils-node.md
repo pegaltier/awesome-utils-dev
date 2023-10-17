@@ -38,6 +38,7 @@
 - https://www.youtube.com/watch?v=uEVmD6n8Il0 7 Ways to Deploy a Node.js App
 - https://www.youtube.com/watch?v=l134cBAJCuc Deploy full stack app to render.com
 - https://cloud.google.com/functions
+- https://www.clever-cloud.com/
 - https://www.nodechef.com/
 - https://www.render.com/
 - https://platform.sh/
