@@ -231,6 +231,7 @@
 
 ## METATRADER
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
+- https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://book.mql4.com/programm/samples
 - https://www.trading-automatique.fr/mql4/
 - https://docs.mql4.com/runtime/event_fire#calculate
@@ -306,6 +307,8 @@
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/bybit-api
+- https://github.com/binance/binance-connector-node*
+- https://github.com/binance-exchange/binance-api-node
 - https://github.com/tiagosiebler/orderbooks
 - https://github.com/Kucoin/kucoin-api-docs
 - https://github.com/coinexcom/coinex_exchange_api
@@ -314,7 +317,6 @@
 - https://github.com/liquiditygoblin/1inch-cli
 - https://github.com/jaggedsoft/php-binance-api
 - https://github.com/jaggedsoft/node-binance-api
-- https://github.com/binance-exchange/binance-api-node
 - https://github.com/ViewBlock/binance-api-node
 
 ### OSS: BOTS
@@ -352,6 +354,7 @@
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/jrmeier/fast-trade
 - https://github.com/ssantoshp/Wizardry
+- https://github.com/Lumiwealth/lumibot
 - https://github.com/enzoampil/fastquant
 - https://github.com/51bitquant/howtrader
 - https://github.com/letianzj/quanttrader
@@ -410,6 +413,7 @@
 - https://github.com/Adamant-im/adamant-tradebot
 - https://github.com/Haehnchen/crypto-trading-bot *
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/fasenderos/hft-limit-order-book
 - https://github.com/Hantama237/moontrade-algotrading
 - https://github.com/Reiryoku-Technologies/Mida *
 - https://github.com/Reiryoku-Technologies/Mida-Playground

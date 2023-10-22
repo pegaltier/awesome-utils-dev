@@ -474,6 +474,7 @@
 - https://github.com/formkit/auto-animate
 - https://github.com/dhilt/vscroll-native
 - https://github.com/codex-team/editor.js
+- https://github.com/mozilla/readability
 - https://github.com/focus-trap/tabbable
 - https://github.com/soldair/node-qrcode
 - https://github.com/missive/emoji-mart

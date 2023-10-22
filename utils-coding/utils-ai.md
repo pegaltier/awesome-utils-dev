@@ -156,6 +156,8 @@
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/paul-gauthier/aider
+- https://github.com/PawanOsman/ChatGPT
+- https://github.com/nisabmohd/ChatGPT
 - https://github.com/lobehub/lobe-chat
 - https://github.com/keijiro/AICommand
 - https://github.com/KudoAI/chatgpt.js
@@ -165,6 +167,7 @@
 - https://github.com/reworkd/AgentGPT
 - https://github.com/xtekky/gpt4free
 - https://github.com/sunner/ChatALL
+- https://github.com/cpacker/MemGPT
 - https://github.com/dion-/autoheal
 - https://github.com/arc53/DocsGPT
 - https://github.com/h2oai/h2ogpt
@@ -173,12 +176,15 @@
 - https://github.com/aws-samples/aws-genai-llm-chatbot
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/mit-han-lab/streaming-llm
+- https://github.com/run-llama/LlamaIndexTS
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
 - https://github.com/lyuchenyang/Macaw-LLM
 - https://github.com/confident-ai/deepeval
 - https://github.com/cocktailpeanut/dalai
+- https://github.com/NVIDIA/TensorRT-LLM
 - https://github.com/eugeneyan/open-llms
+- https://github.com/alibaba/data-juicer
 - https://github.com/hwchase17/langchain
 - https://github.com/Giskard-AI/giskard
 - https://github.com/nat/openplayground
@@ -193,6 +199,7 @@
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
 - https://github.com/salesforce/xgen
+- https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens
 - https://github.com/getzep/zep

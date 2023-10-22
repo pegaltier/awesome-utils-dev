@@ -84,6 +84,7 @@ npm init
 - https://github.com/johnlindquist/kit
 - https://github.com/microsoft/rushstack
 - https://github.com/ranyitz/code-migrate
+- https://github.com/tr1ckydev/hyperimport
 - https://github.com/alshdavid/BorrowScript
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/privatenumber/get-tsconfig
@@ -150,9 +151,12 @@ npm init
 - https://github.com/yangshun/lago
 - https://github.com/stalniy/casl
 - https://github.com/krzkaczor/earl
+- https://github.com/thi-ng/umbrella
+
+## LIB: DATABASE / SQL
 - https://github.com/adelsz/pgtyped
 - https://github.com/codemix/ts-sql
-- https://github.com/thi-ng/umbrella
+- https://github.com/kysely-org/kysely
 
 ## LIB: PARSER
 - https://github.com/anuraghazra/typelevel-parser
@@ -173,9 +177,13 @@ npm init
 
 ## LIB: SEARCH
 - https://github.com/LyraSearch/lyra
+- https://github.com/oramasearch/orama
 
 ## LIB: COMPONENTS
 - https://github.com/daybrush/moveable
+
+## LIB: AI
+- https://github.com/run-llama/LlamaIndexTS
 
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/mobily/ts-belt

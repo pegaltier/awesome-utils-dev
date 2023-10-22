@@ -59,6 +59,9 @@
 - https://github.com/electerious/Lychee
 - https://github.com/photoprism/photoprism
 
+## OSS: VIDEO
+- https://github.com/fonoster/goodtok
+
 ## OSS: PASSWORD
 - https://github.com/drduh/Purse
 - https://github.com/drduh/pwd.sh
@@ -123,6 +126,13 @@
 
 ## New
 - https://fig.io/
+
+## Proxy / scraping
+- https://geonode.com/
+- https://oxylabs.io/
+- https://www.zenrows.com/
+- https://fineproxy.de/en/
+
 
 ## Desktop
 

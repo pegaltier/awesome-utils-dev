@@ -131,6 +131,7 @@
 ## CLOUDFARE
 - https://github.com/losfair/blueboat
 - https://github.com/cfworker/cfworker
+- https://github.com/G4brym/workers-qb
 - https://github.com/cloudflare/miniflare
 - https://github.com/cloudflare/wrangler2
 - https://github.com/cloudflare/cloudflared
