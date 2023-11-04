@@ -61,6 +61,7 @@
 - https://github.com/e2b-dev/e2b
 - https://github.com/TabbyML/tabby
 - https://github.com/OpenBMB/ChatDev
+- https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
@@ -167,6 +168,7 @@
 - https://github.com/reworkd/AgentGPT
 - https://github.com/xtekky/gpt4free
 - https://github.com/sunner/ChatALL
+- https://github.com/dzhng/zod-gpt
 - https://github.com/cpacker/MemGPT
 - https://github.com/dion-/autoheal
 - https://github.com/arc53/DocsGPT
@@ -183,6 +185,7 @@
 - https://github.com/confident-ai/deepeval
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/NVIDIA/TensorRT-LLM
+- https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
 - https://github.com/alibaba/data-juicer
 - https://github.com/hwchase17/langchain
@@ -202,6 +205,7 @@
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens
+- https://github.com/simonw/llm
 - https://github.com/getzep/zep
 
 ## LIB: IMAGE
@@ -212,6 +216,7 @@
 - https://github.com/facefusion/facefusion
 - https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
+- https://github.com/microsoft/generative-ai-for-beginners
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ## LIB: VIDEO
@@ -245,9 +250,6 @@
 - https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/huggingface/transformers
 - https://github.com/microsoft/guidance
-
-## LIB: JS
-- https://github.com/a16z-infra/ai-getting-started
 
 ### LIST
 

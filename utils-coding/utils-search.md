@@ -1,5 +1,8 @@
 # SEARCH
 
+## TOOLS
+- https://github.com/openobserve/openobserve
+
 ## LIST
 - https://github.com/swirlai/swirl-search
 - https://github.com/algolia/awesome-algolia

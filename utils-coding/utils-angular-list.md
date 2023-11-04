@@ -1235,9 +1235,10 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/javascript-in-plain-english/ngrx-component-store-deep-dive-947c0a5be6dc
 - https://medium.com/ngrx/announcing-ngrx-version-10-new-packages-for-local-component-state-and-reactive-components-swag-62bedda0be91
 
-## ECOSYSTEM: STORE: NGRX/SIGNAL-STORE
+## ECOSYSTEM: STORE: SIGNAL STORE
 - https://github.com/markostanimirovic/ngrx-signal-store-playground
-
+- https://github.com/simplifiedcourses/ngx-signal-state
+- https://stackblitz.com/edit/angular-kumvcr?file=src%2Fapp%2Fapp.component.ts
 
 ## ECOSYSTEM: STORE: ALTERNATIVE
 
@@ -1633,6 +1634,7 @@ Learn how to make your own angular lib, build, distribute.
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
 - https://github.com/robinpellegrims/pellegrims
+- https://github.com/mathpaquette/tskmgr
 - https://github.com/BioPhoton/nx-validators
 - https://github.com/brunos3d/nx-rescope
 - https://github.com/nxkit/nxkit
@@ -1854,6 +1856,7 @@ Learn the best way to make your objects immutable.
 - https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
 
 ## ECOSYSTEM: LIB: DEVTOOLS
+- https://github.com/angular-experts-io/omniboard-angular-oss
 - https://github.com/TrilonIO/angular-application-insights
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/expertly-simple/angular-evergreen
@@ -1870,7 +1873,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/angularconsulting/ngvm
 - https://github.com/rainerhahnekamp/sam4sc
 - https://github.com/omniboard-dev/analyzer
-- https://github.com/angular-experts-io/omniboard-angular-oss
 - https://github.com/angular/dgeni-packages
 - https://github.com/mgechev/ngx-flamegraph
 - https://github.com/statoscope/statoscope
@@ -1879,6 +1881,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cherryApp/ngc-esbuild
 - https://github.com/MurhafSousli/metabook
 - https://github.com/push-based/user-flow
+- https://github.com/clickup/ngx-esbuild
 - https://github.com/teambit/bit-angular
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
@@ -2288,6 +2291,7 @@ Analyze and optimize the performance of your app
 - https://github.com/sharkdp/hyperfine
 - https://github.com/Zizzamia/perfume.js
 - https://github.com/puppeteer/puppeteer
+- https://github.com/berstend/puppeteer-extra
 - https://github.com/statoscope/statoscope
 - https://github.com/rx-angular/rxjs-zone-less
 - https://github.com/nucliweb/webperf-snippets
@@ -2336,6 +2340,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngneat/transloco
 - https://github.com/fkirc/attranslate
 - https://github.com/ngx-translate/core
+- https://github.com/jantimon/icu-to-json
 - https://github.com/robisim74/angular-l10n
 - https://github.com/ivanhofer/typesafe-i18n
 - https://github.com/Greentube/localize-router
@@ -2355,6 +2360,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: NOCODE
 - https://github.com/orchestratora/orchestrator
+- https://github.com/acrodata/gui
 
 ## ECOSYSTEM: LIB: COMPONENT: ALL
 
@@ -2773,6 +2779,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/coreui/coreui-angular (TOADD)
 - https://github.com/Trendyol/baklava (TOADD)
 - https://github.com/etn-ccis/blui-angular-component-library (TOADD)
+- https://github.com/acrodata/gui (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage

@@ -165,11 +165,14 @@
 - https://documenso.com/
 - https://www.docusign.com
 - https://www.universign.com
+- https://www.opensignlabs.com/
+- https://github.com/OpenSignLabs/OpenSign
 
 ## AUTH
 - https://github.com/logto-io/logto
 - https://github.com/teamhanko/hanko
 - https://github.com/auth0/auth0-spa-js
+- https://github.com/epicweb-dev/web-auth
 
 ## NOTIFICATIONS
 - https://github.com/novuhq/novu
@@ -177,6 +180,7 @@
 
 ## GATEWAY
 - https://github.com/Kong/kong
+- https://github.com/apache/apisix
 - https://github.com/luraproject/lura
 - https://github.com/TykTechnologies/tyk
 

@@ -155,6 +155,8 @@
 - https://www.darwinex.com/
 - https://www.streak.tech/
 - https://tradetron.tech/
+- https://algobulls.com/
+- https://www.pionex.com/
 - https://yuriymatso.com/
 - http://malori.org/
 
@@ -200,6 +202,7 @@
 - https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 - https://learn.bybit.com/investing/how-to-use-tradingview/
+- https://tradingtools.software/
 - https://market-wizard.com.au/
 - https://www.pineconnector.com/
 - https://algotradingbridge.in/
@@ -368,6 +371,8 @@
 - https://github.com/kelvinau/crypto-arbitrage
 - https://github.com/CryptoSignal/Crypto-Signal
 - https://github.com/bfolkens/py-market-profile
+- https://github.com/bitfinexcom/bitfinex-api-py
+- https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr

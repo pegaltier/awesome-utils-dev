@@ -12,9 +12,11 @@
 - https://github.com/yoshuawuyts/rust-for-js-peeps
 - https://github.com/sunface/rust-by-practice
 - https://github.com/tauri-apps/awesome-tauri
+- https://github.com/cargo2nix/cargo2nix
 
 ## LIB
 - https://github.com/1Password/typeshare
+- https://github.com/juspay/hyperswitch
 - https://github.com/Aleph-Alpha/ts-rs
 - https://github.com/RustScan/RustScan
 - https://github.com/s-panferov/valico

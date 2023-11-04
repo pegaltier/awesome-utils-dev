@@ -217,6 +217,7 @@
 - https://github.com/siddharthkp/bundlesize
 - https://github.com/NiGhTTraX/strong-mock
 - https://github.com/developit/microbundle
+- https://github.com/bengl/count-promises
 - https://github.com/bencoveney/barrelsby
 - https://github.com/antoine-coulon/skott
 - https://github.com/facebook/jscodeshift
@@ -229,6 +230,7 @@
 - https://github.com/vitejs/vite
 
 ## LIB: HTTP
+- https://github.com/unjs/ofetch
 - https://github.com/har-tools/http-message
 
 ## LIB: FUNCTIONNAL PROGRAMMING
@@ -244,6 +246,7 @@
 ## LIB: BACKEND
 - https://github.com/mailgun/mailgun.js
 - https://github.com/unjs/nitro
+- https://github.com/aws-solutions/serverless-image-handler
 
 ## LIB: JAMSTACK
 - https://github.com/shikijs/twoslash
@@ -262,6 +265,7 @@
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
 - https://github.com/tkrotoff/throw-on
+- https://github.com/JasonStorey/Optional.js
 - https://github.com/anchmelev/web-worker-bus
 - https://github.com/sokra/source-map-visualization
 - https://github.com/guybedford/es-module-lexer
@@ -387,6 +391,7 @@
 
 ## LIB: PARSER
 - https://github.com/Essent/nativescript-xml2js
+- https://github.com/micromark/micromark
 - https://github.com/fb55/htmlparser2
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
@@ -502,6 +507,7 @@
 - https://github.com/TanStack/table
 - https://github.com/grid-js/gridjs
 - https://github.com/YC/coming-soon
+- https://github.com/antfu/shikiji
 - https://github.com/dhilt/vscroll
 - https://github.com/javve/list.js
 - https://github.com/mikecao/umami
@@ -592,7 +598,9 @@
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/neilgupta/Sherlock
+- https://github.com/ykhli/local-ai-stack
 - https://github.com/facebookresearch/shumai
+- https://github.com/a16z-infra/ai-getting-started
 
 ## LIB: CALC
 - https://github.com/josdejong/mathjs
@@ -615,6 +623,7 @@
 - https://github.com/francisrstokes/construct-js
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
+- https://github.com/mjbrisebois/js-bytes-class
 - https://github.com/AsyncBanana/microdiff
 - https://github.com/mjbrisebois/js-json
 - https://github.com/quicktype/quicktype
@@ -635,6 +644,7 @@
 - https://github.com/jedisct1/js-base64-ct
 - https://github.com/protobufjs/protobuf.js
 - https://github.com/crypto-browserify/sha.js
+- https://github.com/pldespaigne/content-hash
 - https://github.com/msgpack/msgpack-javascript
 - https://github.com/GoogleChromeLabs/buffer-backed-object
 
@@ -647,6 +657,7 @@
 ## LIB: PDF
 - https://github.com/parallax/jsPDF
 - https://github.com/Hopding/pdf-lib
+- https://github.com/torakiki/pdfsam
 - https://github.com/bpampuch/pdfmake
 - https://github.com/24eme/signaturepdf
 - https://github.com/hand-dot/labelmake

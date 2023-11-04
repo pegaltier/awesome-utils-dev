@@ -12,6 +12,8 @@
 - https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
 - https://github.com/ivan-bilan/The-Microservices-Pandect
 - https://github.com/mhadidg/software-architecture-books
+- https://github.com/ZachGoldberg/Startup-CTO-Handbook
+- https://github.com/sindresorhus/system-architecture
 - https://github.com/ByteByteGoHq/system-design-101
 - https://github.com/Sairyss/domain-driven-hexagon
 

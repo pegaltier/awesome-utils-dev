@@ -228,7 +228,7 @@ const b = Object.fromEntries(data);
 - logical nullish assignment (x ??= y) operator only assigns if x is nullish (null or undefined).
 - logical OR assignment (x ||= y) operator only assigns if x is falsy.
 - optional chaining operator (?.) permits reading the value of a property located deep within a chain of connected objects without having to expressly validate that each reference in the chain. Instead of causing an error if a reference is nullish (null or undefined), the expression short-circuits with a return value of undefined.
-- typeof operator returns a string indicating the type of the unevaluated operand
+- typeof operator returns a string indicating the type of the unevaluated operand; there is only 3 combination possible: "number", "string", "boolean", "object", "function" and "undefined".
 - non-null assertion operator (myExpr!;) tell the Typescript compiler explicitly that an expression has value other than null or undefined
 
 ### MEASURE

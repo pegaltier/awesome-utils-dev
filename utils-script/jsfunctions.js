@@ -25,3 +25,25 @@ function addAll(target, source) {
                 console.error('addAll() ~ source contains incorrect timestamp', errors);
         }
 }
+
+
+// https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects
+const groupBy = (x,f)=>x.reduce((a,b,i)=>((a[f(b,i,x)]||=[]).push(b),a),{});
+
+// https://advancedweb.hu/how-to-use-async-functions-with-array-map-in-javascript/
+const mapInGroups = (arr, iteratee, groupSize) => {
+	const groups = groupBy(arr, (_v, i) => Math.floor(i / groupSize));
+
+	return Object.values(groups)
+		.reduce(async (memo, group) => [
+			...(await memo),
+			...(await Promise.all(group.map(iteratee)))
+		], []);
+};
+
+const res = await mapInGroups(arr, async (v) => {
+	console.log(`S ${v}`);
+	await sleep(v);
+	console.log(`F ${v}`);
+	return v + 1;
+}, 3);

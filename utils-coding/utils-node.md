@@ -18,6 +18,7 @@
 - https://github.com/web-infra-dev/modern.js
 - https://github.com/time-loop/only-allow
 - https://github.com/cnpm/npminstall
+- https://github.com/yarnpkg/berry
 - https://github.com/Schniz/fnm
 - https://github.com/ije/esm.sh
 - https://github.com/nvm-sh/nvm
@@ -155,6 +156,9 @@
 - https://github.com/node-cache-manager/node-cache-manager
 - https://github.com/szmarczak/cacheable-lookup
 - https://github.com/isaacs/node-lru-cache
+- https://github.com/Julien-R44/bentocache
+- https://github.com/jaredwray/keyv
+- https://github.com/unjs/unstorage
 - https://github.com/npm/cacache
 
 ## LIBS: AI
