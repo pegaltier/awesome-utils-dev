@@ -281,6 +281,10 @@
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/germangar/whook
 
+### OSS: TRADINGVIEW: CODING TUTO
+- https://youtu.be/6JPWTDa8aG4 pine script buy sell strategy with time exit
+
+
 ### OSS: QUALITY
 - https://github.com/edarchimbaud/awesome-systematic-trading
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots

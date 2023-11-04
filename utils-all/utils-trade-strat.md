@@ -197,6 +197,7 @@ Exit when the price moves into the inner band or to the outer bound (m2).
 ## Strat: Trend following: 2 Super Trend
 - Simply combine two super trends indicators to buy only when both are on the good side and inverse for sell
 - https://www.youtube.com/watch?v=z-LmElNl7co
+- https://youtu.be/UFrNk2NOgi0
 
 ## Strat: Trend following: momentum ROC
 - use smoothed rate of change (SROC), its simply a ROC with an EMA/SMA to smooth and remove noise
@@ -390,6 +391,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/D_P_XqB5nHs My 5 Favorite Algo Trading Strategy Entries ***
 - https://youtu.be/uvsL-fdcPU8 EMA HIGH LOW BAND STRATEGY (SMALL RISK- BIG REWARD) ***
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (Trading Rules & Backtest) (multple assets rules) ***
+- https://youtu.be/XIQq6YA5Z5U Kevin Davey. Algo Trading Strategies - 10 Strategies Tested! ***
 
 ## TODO: RSI
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
@@ -399,6 +401,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate ***
 - https://youtu.be/6NWcKpupjJo Breakout 100 days high ***
 - https://youtu.be/rJ5HaJ2iCdk CANDLE BREAKOUT + RSI SETUP discussion with detailed backtest report ***
+- https://youtu.be/Blx6D_i1yAk StatOasis - Daily range Larry Williams volatility breakout ***
+- https://youtu.be/C017hTtCapI StatOasis - Mastering Breakout Strategies & Building a Winning Portfolio!
+- https://youtu.be/OU5x8sUWumI René Balke Time window breakout **
 
 ## TODO: ORGANIZE: MACD
 - https://youtu.be/sjlQWT6fEnU Consistently Profitable Trading Strategy! 200,000+ Trade Backtest ***
@@ -421,6 +426,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/GyikfniCLqU Proof WILLIAMS % R is Reliable when used like this 
 - https://youtu.be/As91lpD1oiA Bollinger band Mean reversion trading strategy 70% win rate
 - https://youtu.be/yz_T1gpAw6Y A Profitable MEAN REVERSION STRATEGY ***
+- https://youtu.be/hkEQyTiE2VY Unleashing Mean Reversion on STOCKS. ADX + RSI(2) + Close ***
+- https://youtu.be/7UsWO6WrNiU RSI Mean Reversion Trading. RSI(2) + Moving average
+- https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading
 
 ## TODO: ORGANIZE: MOMENTUM / TREND
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
@@ -430,12 +438,14 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/u_qNQX7vU0w Check Out This Keltner Channel + CCI Combo! [10-Year Backtest] ***
 - https://youtu.be/b2Joeh60gYk Relative Vigor Index Trading Strategy [Full Logic + Backtest] *** 
 - https://youtu.be/nc3EeGJulpw Automated Kaufman Adaptive Moving Average Trading Strategy! ***
-
+- https://youtu.be/MywHpHyzsPE StatOasis - Casey C% is a great Momentum Oscillator
 - https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the ADX and Price Action
 - https://youtu.be/rhgdAtacLeY How to code DMI and ADX | PineScript TradingView Code along Tutorial **
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
 - https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the ADX | Stock Talk (10.12.23) **
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin **
+- https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14)
+- https://youtu.be/2epF94PWh_0 THINKORSWIM Better DMI trend indicator
 
 ## TODO: ORGANIZE: NOT SURE
 - https://www.youtube.com/watch?v=N_7ADVr72Ik The BEST Entry Signal Indicator 
@@ -443,6 +453,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/amyL94ArWVE?t=484 Master The Stochastic Oscillator For Huge Returns | Trading Indicators
 - https://www.youtube.com/watch?v=hLXVeO_f7Ns&t=21s How to use Bollinger Bands for better trading
 - https://youtu.be/la1MSwV72ms?t=141 2 Clear Strategies When Using the ADX | ADX was below for X days....
+- https://youtu.be/G-Bg1YV9UnY LuxAlgo - SMC - Fair Value Gap Strategy Script
+- https://youtu.be/Npah9yzk-W4 LuxAlgo - Range Sentiment Profile Indicator
+- https://youtu.be/N4CS5_p9SKo LuxAlgo - Range Detector Indicator
 
 ## TODO: ORGANIZE: PODCAST
 - https://youtu.be/GYLCzvz_LL8 An Edge with Correlations Across Time Frames · Dan McDermitt

@@ -346,6 +346,7 @@
 ## LIB: REGEX
 - https://github.com/snd/url-pattern
 - https://github.com/devongovett/regexgen
+- https://github.com/sindresorhus/super-regex
 - https://github.com/compose-regexp/compose-regexp.js
 
 ## LIB: VALIDATION
