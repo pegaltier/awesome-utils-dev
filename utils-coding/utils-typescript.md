@@ -354,14 +354,14 @@ es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`;
 
 ## CHEATSHEETS
 
-- typescript object literal map:
-```
+### Object literal map:
+```typescript
 exampleObject: { [key: string]: string };
 ```
 
-- typescript object literal from enum:
+### Object literal from enum:
 
-```
+```typescript
 exampleObject: {
 	[key in IdOptionEnum]: string;
 } = {
@@ -371,8 +371,8 @@ exampleObject: {
 };
 ```
 
-- typescript define value from enum
-```
+### Define value from enum
+```typescript
 enum Size {
 	Small = 100
 	Medium = 200
@@ -381,10 +381,40 @@ enum Size {
 exampleObject: keyof typeof ImageSize = 'Medium';
 ```
 
-- typescript generic values type from key of type
-```
+### Generic values type from key of type
+```typescript
 type Values<T> = T[keyof T];
 ```
+### Object vs primitive type
+
+```typescript
+// primitive type like bool, number, string, symbol.
+const o: object; // You can't assign to primitive type neither null or undefined
+const q: { [key: string]: any }; // You can't assign to primitive type neither null or undefined
+const p: {}; // or Object, you can assign to primitive type but not null or undefined
+```
+
+### EXTENDS
+
+```typescript
+// https://stackoverflow.com/questions/64034690/typescript-extend-interface-dynamically-by-adding-new-fields-with-certain-namin
+interface ProjectCostData {
+  purchasePrice: number;
+  propertyValue: number;
+  recentlyDamaged: boolean;
+}
+
+// Create a new setter property for each key of an interface
+type WithSetters<T extends { [k: string]: any }> = T & {
+    [K in keyof T & string as `set_${K}`]: (newValue: T[K]) => void
+
+// Testing
+declare const obj: WithSetters<ProjectCostData>
+obj.purchasePrice // number
+obj.set_purchasePrice(123) // (newValue: number) => void
+}
+```
+
 
 ## IMPORTS PATH
 

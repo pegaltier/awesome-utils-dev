@@ -477,7 +477,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 
 ## TODO: NOTES
-- preset for binaryhlc and start coding the hlc2 with more idea on it like grid or divergance MIN(10) > MIN(20) and 3 consecutive close
-- continue work on ROC (reuse the visual done in R1 indicator to see max min with line)
-- restart work on TC on bitcoin 8h chart with length 8 and percentage 1,2 === 6400% with 707 trades
+- preset for binaryhlc and start coding the hlc2 with more idea on it like grid multi position or divergance MIN(10) > MIN(20) and 3 consecutive close
+- continue work on ROC, find improvement to close better, like the BREAKOUT
 - backtest my first Multi Timeframe Psych with rules long only if close > 2 bands
