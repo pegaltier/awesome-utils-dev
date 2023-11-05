@@ -386,7 +386,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/watch?v=lt5UOqBLK-0 Algo Trading - Mini S&P Strategy That Works ***
 - https://www.youtube.com/watch?v=gA0egjZcRB0 Jim Simons Trading Secrets 1.1 MARKOV Process ***
 - https://youtu.be/Oa0HduMW8ww You Need To Trade These 3 Algo Strategies NOW *** 
-- https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
 - https://youtu.be/lrKWUeBc14s Upside bars: OLD LARRY WILLIAMS STRATEGY STILL WORKS WONDERS!
 - https://youtu.be/D_P_XqB5nHs My 5 Favorite Algo Trading Strategy Entries ***
 - https://youtu.be/uvsL-fdcPU8 EMA HIGH LOW BAND STRATEGY (SMALL RISK- BIG REWARD) ***
@@ -396,9 +395,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## TODO: ALGO KNLOWLEDGE
 - https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
 
-## TODO: RSI
+## TODO: ORGANIZE: RSI
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
 - https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
+- https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
 
 ## TODO: ORGANIZE: BREAKOUT
 - https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate ***
@@ -452,6 +452,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/yEqT1P0nu8E Directional Movement Index | Trading using DMI [ADX]
 - https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] ***
 - https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the [ADX] and Price Action ***
+- https://youtu.be/la1MSwV72ms?t=141 2 Clear Strategies When Using the [ADX] | ADX was below for X days....
 - https://youtu.be/rhgdAtacLeY How to code DMI and [ADX] | PineScript TradingView Code along Tutorial **
 - https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] | Stock Talk (10.12.23) **
 - http://wealthv.com/articles/PDFs/ADX-WebinarNotes.pdf AdxTender + AdxPress + Adxodus
@@ -463,7 +464,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/watch?v=wrZ4O7elR_I Must Watch if you Use RSI and Stochastic to Trade!
 - https://youtu.be/amyL94ArWVE?t=484 Master The Stochastic Oscillator For Huge Returns | Trading Indicators
 - https://www.youtube.com/watch?v=hLXVeO_f7Ns&t=21s How to use Bollinger Bands for better trading
-- https://youtu.be/la1MSwV72ms?t=141 2 Clear Strategies When Using the ADX | ADX was below for X days....
 - https://youtu.be/1d4pWt2h6zg Square Off - Kaufman Efficiency Ratio | Indicator to Identify the Market Trend
 - https://youtu.be/F9BYl0VlKMQ Square Off - Tutos to build the different types of strategy
 - https://youtu.be/G-Bg1YV9UnY LuxAlgo - SMC - Fair Value Gap Strategy Script
