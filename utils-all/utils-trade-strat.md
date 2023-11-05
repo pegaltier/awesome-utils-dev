@@ -393,6 +393,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (Trading Rules & Backtest) (multple assets rules) ***
 - https://youtu.be/XIQq6YA5Z5U Kevin Davey. Algo Trading Strategies - 10 Strategies Tested! ***
 
+## TODO: ALGO KNLOWLEDGE
+- https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
+
 ## TODO: RSI
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
 - https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
@@ -418,8 +421,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/pEZjbk-Nw3g?t=332 Phil's CUSTOM ROC indicator ***
 
 ## TODO: ORGANIZE: MEAN REVERSION
-- https://youtu.be/V6DL5Hkf3Ms Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
-- https://www.youtube.com/watch?v=hQUKA9UvwoQ The Ultimate C% Oscillator: Unveiled ***
+- https://youtu.be/hQUKA9UvwoQ StatOasis - The Ultimate C% Oscillator: Unveiled ***
+- https://youtu.be/V6DL5Hkf3Ms StatOasis - Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
+- https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading
 - https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
 - https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
@@ -428,24 +432,31 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/yz_T1gpAw6Y A Profitable MEAN REVERSION STRATEGY ***
 - https://youtu.be/hkEQyTiE2VY Unleashing Mean Reversion on STOCKS. ADX + RSI(2) + Close ***
 - https://youtu.be/7UsWO6WrNiU RSI Mean Reversion Trading. RSI(2) + Moving average
-- https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading
 
-## TODO: ORGANIZE: MOMENTUM / TREND
+## TODO: ORGANIZE: MOMENTUM / TREND / ALL
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
-- https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The ADX Indicator ***
-- https://youtu.be/4zQ9ArQXlS8 RSI and ADX indicator - Best Indicator Combination? ***
 - https://youtu.be/JnVFdI57j8s The Simplest Crypto Strategy for RUNE, BTC, & ETH That Works! ***
 - https://youtu.be/u_qNQX7vU0w Check Out This Keltner Channel + CCI Combo! [10-Year Backtest] ***
 - https://youtu.be/b2Joeh60gYk Relative Vigor Index Trading Strategy [Full Logic + Backtest] *** 
 - https://youtu.be/nc3EeGJulpw Automated Kaufman Adaptive Moving Average Trading Strategy! ***
-- https://youtu.be/MywHpHyzsPE StatOasis - Casey C% is a great Momentum Oscillator
-- https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the ADX and Price Action
-- https://youtu.be/rhgdAtacLeY How to code DMI and ADX | PineScript TradingView Code along Tutorial **
+- https://youtu.be/u_qNQX7vU0w Trading Tact - Keltner channel + CCI rising for 4 consecutive ***
+- https://youtu.be/MywHpHyzsPE StatOasis - Casey C% is a great Momentum Oscillator ***
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
-- https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the ADX | Stock Talk (10.12.23) **
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin **
-- https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14)
-- https://youtu.be/2epF94PWh_0 THINKORSWIM Better DMI trend indicator
+- https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14) **
+
+## TODO: ORGANIZE: MOMENTUM / TREND / ADX ONLY
+- https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The [ADX] Indicator ***
+- https://youtu.be/4zQ9ArQXlS8 RSI and [ADX] indicator - Best Indicator Combination? ***
+- https://youtu.be/2epF94PWh_0 THINKORSWIM Better DMI trend indicator [ADX] ***
+- https://youtu.be/yEqT1P0nu8E Directional Movement Index | Trading using DMI [ADX]
+- https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] ***
+- https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the [ADX] and Price Action ***
+- https://youtu.be/rhgdAtacLeY How to code DMI and [ADX] | PineScript TradingView Code along Tutorial **
+- https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] | Stock Talk (10.12.23) **
+- http://wealthv.com/articles/PDFs/ADX-WebinarNotes.pdf AdxTender + AdxPress + Adxodus
+- https://www.quantifiedstrategies.com/adx-trading-strategy/
+- https://sacredtraders.com/adxpress/
 
 ## TODO: ORGANIZE: NOT SURE
 - https://www.youtube.com/watch?v=N_7ADVr72Ik The BEST Entry Signal Indicator 
@@ -453,6 +464,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/amyL94ArWVE?t=484 Master The Stochastic Oscillator For Huge Returns | Trading Indicators
 - https://www.youtube.com/watch?v=hLXVeO_f7Ns&t=21s How to use Bollinger Bands for better trading
 - https://youtu.be/la1MSwV72ms?t=141 2 Clear Strategies When Using the ADX | ADX was below for X days....
+- https://youtu.be/1d4pWt2h6zg Square Off - Kaufman Efficiency Ratio | Indicator to Identify the Market Trend
+- https://youtu.be/F9BYl0VlKMQ Square Off - Tutos to build the different types of strategy
 - https://youtu.be/G-Bg1YV9UnY LuxAlgo - SMC - Fair Value Gap Strategy Script
 - https://youtu.be/Npah9yzk-W4 LuxAlgo - Range Sentiment Profile Indicator
 - https://youtu.be/N4CS5_p9SKo LuxAlgo - Range Detector Indicator

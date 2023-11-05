@@ -152,6 +152,7 @@
 - https://www.cryptohopper.com/
 - https://materialindicators.com/
 - https://www.ai-backbone.com/aiforgold
+- https://squareoffbots.com/
 - https://www.darwinex.com/
 - https://www.streak.tech/
 - https://tradetron.tech/
