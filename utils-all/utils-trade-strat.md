@@ -478,5 +478,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TODO: NOTES
 - preset for binaryhlc and start coding the hlc2 with more idea on it like grid multi position or divergance MIN(10) > MIN(20) and 3 consecutive close
-- continue work on ROC, find improvement to close better, like the BREAKOUT
+- continue work on ROC, find improvement to close better, like the BREAKOUT (ema?)
 - backtest my first Multi Timeframe Psych with rules long only if close > 2 bands
+- continue work on ADX: add input for momentumTrigger to allow keep position open if adx above this level, probably momentum is strong so it should not exit. add input for emaExit
+- reorganize different RSI stategies : RSI3X; RSIRANGE; RSIENTRYEXIT; RSIPULLBACK
