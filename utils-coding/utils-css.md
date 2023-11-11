@@ -15,6 +15,7 @@
 - https://flukeout.github.io/
 - https://accordionslider.com/
 - https://enes.in/sorted-colors/
+- https://www.projectwallace.com/
 - https://1linelayouts.glitch.me/
 - http://www.menucool.com/css-menu
 - https://www.cssgradienteditor.com/
@@ -161,9 +162,11 @@
 
 ## POSITION
 
+- https://youtu.be/7CACVgIZQ1k CSS Positioning Crash Course
+
 - position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
 - by default html elements are position: static; in this case these adjusting properties below will not do anything.
-- after choosing a position then html elements are then positioned using the adjusting properties: top, bottom, left and right. But those adjusting properties will work differently depending on the position value:
+- after choosing a position then html elements are then positioned using the adjusting properties: top, bottom, left and right. But those adjusting properties will work differently depending on the position value (see below) relative and absolute can also be adjusted using inset-block and inset-inline
 
 ### OPTIONS
 - position: static; # element is not affected by the adjusting properties. (they are shown in order they are defined, top to bottom, z-index is automaticly defined as 0)

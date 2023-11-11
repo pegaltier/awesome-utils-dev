@@ -391,14 +391,25 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/uvsL-fdcPU8 EMA HIGH LOW BAND STRATEGY (SMALL RISK- BIG REWARD) ***
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (Trading Rules & Backtest) (multple assets rules) ***
 - https://youtu.be/XIQq6YA5Z5U Kevin Davey. Algo Trading Strategies - 10 Strategies Tested! ***
+- https://youtu.be/ofhn6GV8AMM Kevin Davey. Hard Red Winter Wheat Futures: https://youtu.be/ofhn6GV8AMM?t=332
+- https://youtu.be/TFV2hc-eFhk Relative Strength Trading: A Comprehensive Guide with 9 Sector ETFs
 
 ## TODO: ALGO KNLOWLEDGE
 - https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
+
+## TODO: ORGANIZE: FOREX
+- https://youtu.be/5rupdJGSzo0 trustfultrading - My simple trading strategies!
+- https://youtu.be/k8Z5iNoEViE Best RSI Indicator Settings for Forex Swing Trading
+- https://youtu.be/GyikfniCLqU Transparent Trader - Proof WILLIAMS % R is Reliable when [mean reversion]
+- https://youtu.be/B1nLjfZih2Q Transparent Trader - 4 Ways to Enhance Price Action Trading Strategies
 
 ## TODO: ORGANIZE: RSI
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
 - https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
 - https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
+- https://youtu.be/381-C-aqR70 Cumulative Delta+Laguerre RSI **
+- https://youtu.be/rIUgbCxHVB0 Ultimate Laguerre RSI Pullback **
+- https://youtu.be/rJ5HaJ2iCdk Algofox - CANDLE BREAKOUT + RSI SETUP - stocks
 
 ## TODO: ORGANIZE: BREAKOUT
 - https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate ***
@@ -423,7 +434,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## TODO: ORGANIZE: MEAN REVERSION
 - https://youtu.be/hQUKA9UvwoQ StatOasis - The Ultimate C% Oscillator: Unveiled ***
 - https://youtu.be/V6DL5Hkf3Ms StatOasis - Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
-- https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading
+- https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading ***
+- https://youtu.be/yz_T1gpAw6Y The Art of Trading - A Profitable MEAN REVERSION STRATEGY
 - https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
 - https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
@@ -441,9 +453,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/nc3EeGJulpw Automated Kaufman Adaptive Moving Average Trading Strategy! ***
 - https://youtu.be/u_qNQX7vU0w Trading Tact - Keltner channel + CCI rising for 4 consecutive ***
 - https://youtu.be/MywHpHyzsPE StatOasis - Casey C% is a great Momentum Oscillator ***
+- https://youtu.be/uvsL-fdcPU8 Algofox - EMA HIGH LOW BAND STRATEGY (index)
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin **
 - https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14) **
+- https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (MA + confirmation from 3 multiple indexes)
 
 ## TODO: ORGANIZE: MOMENTUM / TREND / ADX ONLY
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The [ADX] Indicator ***

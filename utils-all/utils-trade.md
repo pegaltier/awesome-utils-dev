@@ -37,6 +37,9 @@
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/
+- https://trade.collective2.com/
+- https://www.ezalgo.co/
+- https://squared2.io/
 
 ## PODCAST
 - https://chatwithtraders.com/
@@ -52,6 +55,7 @@
 
 ## LIST
 - https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+- https://github.com/dingran/quant-notes
 
 ## BOOKS
 - https://www.amazon.com/ADXcellence-Strategies-Charles-B-Schaap/dp/0977713210
@@ -68,6 +72,8 @@
 
 ## QUOTES
 - https://databento.com/
+- https://tradermade.com/
+- https://crypto-lake.com/
 - https://eodhistoricaldata.com/
 - https://www.cryptoarchive.com.au/ *
 - https://github.com/maxgfr/binance-historical *
@@ -108,6 +114,8 @@
 - https://www.mida.org/
 - https://3commas.io/
 - https://mlalgotrading.com/
+- https://capsa.finance/
+- https://predictnow.ai/
 - https://signalstack.com/
 - https://wealth-lab.com/
 - https://www.wealthsignals.com/
@@ -145,6 +153,8 @@
 - https://goat-capital.io/
 - https://www.napbots.com/
 - https://robuxio.com/
+- https://dipsway.com/
+- https://warp-bots.com/
 - https://3c.crypttops.com/
 - https://tycoon.io/
 - https://www.shrimpy.io/
@@ -153,6 +163,7 @@
 - https://www.cryptohopper.com/
 - https://materialindicators.com/
 - https://www.ai-backbone.com/aiforgold
+- https://www.gomicroai.com/
 - https://squareoffbots.com/
 - https://www.darwinex.com/
 - https://www.streak.tech/
@@ -163,12 +174,16 @@
 - https://yuriymatso.com/
 - http://malori.org/
 
+## TOOLS: TRADER
+- https://www.we-funded-investors.com/
+
 ## TOOLS: TRADINGVIEW: CODING
 - https://pinewizards.com/
 - https://pinescripters.net/
 - https://www.pinecoders.com/
 - https://www.tradingcode.net/
 - https://pinescriptstrategy.com/
+- https://www.animatoondigital.com/
 - https://www.pinescriptwizard.com/
 - https://pinescripters.net/index.php
 - https://courses.theartoftrading.com/
@@ -198,6 +213,7 @@
 - https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
+- https://www.tradingview.com/script/QxyeMuEC-MIDAS-VWAP-Jayy/
 
 ## TOOLS: TRADINGVIEW: AUTOMATE
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
@@ -316,6 +332,8 @@
 - https://github.com/sofienkaabar/The-Book-of-Trading-Strategies
 
 ### OSS: EXECUTE
+- https://github.com/stoqey/ib
+- https://github.com/gateio/gateapi-nodejs
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/bybit-api
@@ -330,6 +348,7 @@
 - https://github.com/jaggedsoft/php-binance-api
 - https://github.com/jaggedsoft/node-binance-api
 - https://github.com/ViewBlock/binance-api-node
+- https://www.interactivebrokers.com/en/trading/ib-api.php
 
 ### OSS: BOTS
 - https://github.com/CryptoMF/frostybot-js
@@ -368,6 +387,9 @@
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/Lumiwealth/lumibot
 - https://github.com/enzoampil/fastquant
+- https://github.com/cvxgrp/cvxportfolio
+- https://github.com/wardbradt/peregrine
+- https://github.com/fmilthaler/FinQuant
 - https://github.com/51bitquant/howtrader
 - https://github.com/letianzj/quanttrader
 - https://github.com/ig-python/trading-ig
@@ -402,10 +424,13 @@
 - https://www.qmr.ai/building-a-backtesting-framework-in-python-part-ii/
 
 ### OSS: JAVASCRIPT
-
+- https://npm.io/search/keyword:forex
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
+- https://github.com/agiliumtrade-ai/
+- https://github.com/stoqey/nitrogen
 - https://github.com/Seungwoo321/cats (grademark)
+- https://github.com/jerryshell/midas *
 - https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts *
 - https://github.com/cm45t3r/candlestick
@@ -417,6 +442,7 @@
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/TulipCharts/tulipnode
 - https://github.com/SockTrader/SockTrader *
+- https://github.com/mkmarek/forex.analytics
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/chalupagrande/backtester

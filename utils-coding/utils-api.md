@@ -94,6 +94,7 @@
 ## MESSAGE BROKER
 - https://github.com/rabbitmq
 - https://github.com/apache/kafka
+- https://github.com/amqp-node/amqplib
 - https://github.com/taskforcesh/bullmq
 - https://github.com/felixmosh/bull-board
 

@@ -97,6 +97,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/galousis/cqrs-ddd-php-example
 
 ## DEVTOOLS
+- https://github.com/pestphp/pest
 - https://github.com/xdebug/xdebug
 - https://github.com/rectorphp/rector
 

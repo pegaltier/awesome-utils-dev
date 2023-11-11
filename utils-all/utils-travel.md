@@ -17,6 +17,8 @@ https://languagelearningwithnetflix.com
 
 <h2>LODGING</h2>
 <p>hostelsworld+apparthotel+couchsurfing+airbnb+yestudent+booking</p>
+- https://www.youthhostel.ch/fr/
+- https://hotelcard.ch/en
 
 <h2>LINKS</h2>
 <p><a href="http://www.petitstripsentreamis.com/">http://www.petitstripsentreamis.com/</a><br>

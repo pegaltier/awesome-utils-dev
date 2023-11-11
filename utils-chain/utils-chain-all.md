@@ -154,6 +154,7 @@
 ## PROJECT
 - https://woolf.university/#/
 - https://decentralproject.org/
+- https://www.metaco.com/
 
 ## RESEARCH
 - http://ledgerjournal.org

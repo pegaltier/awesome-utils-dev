@@ -33,9 +33,10 @@
 - https://github.com/bunkerity/bunkerweb
 
 ## TOOLS PASSWORD
-- https://keepass.info/
-- https://1password.com/
-- https://bitwarden.com/
+- https://proton.me
+- https://keepass.info
+- https://1password.com
+- https://bitwarden.com
 
 ## TOOLS ONLINE
 - https://securitytxt.org/
@@ -68,6 +69,7 @@
 - https://github.com/hktalent/scan4all
 - https://github.com/Z4nzu/hackingtool
 - https://github.com/svenstaro/genact
+- https://github.com/Teknexx/cerberus
 - https://github.com/kdzwinel/betwixt
 - https://github.com/ddosify/ddosify
 - https://github.com/hashcat/hashcat

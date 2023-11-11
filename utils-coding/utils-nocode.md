@@ -15,6 +15,7 @@ low-code tooling to prototype fastly.
 - https://www.newco.app
 - https://www.adalo.com
 - https://www.hapify.io
+- https://www.softr.io
 - https://zeroqode.com
 - https://www.duda.co
 - https://xlayers.dev

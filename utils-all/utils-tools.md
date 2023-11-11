@@ -3,6 +3,7 @@
 
 ## Web
 
+- https://tally.so/
 - https://www.tldraw.com/
 - https://owncast.online/
 - https://metatags.io/font-generator

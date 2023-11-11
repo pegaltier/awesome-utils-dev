@@ -12,6 +12,8 @@
 - https://github.com/tsenart/vegeta
 - https://github.com/buger/goreplay
 - https://github.com/grafana/k6
+- https://github.com/kffl/speedbump
+- https://github.com/ihsw/toxiproxy-node-client
 - https://crossbrowsertesting.com/
 - https://applitools.com/
 

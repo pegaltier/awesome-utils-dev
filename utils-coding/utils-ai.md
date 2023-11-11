@@ -51,7 +51,7 @@
 - https://github.com/clmnin/summarize.site
 
 ## TOOLS: CODING
-
+- https://cursor.sh/
 - https://debuild.co/
 - https://www.devgpt.com/
 - https://www.codegpt.co/
@@ -223,6 +223,7 @@
 - https://github.com/topics/ai-avatars
 - https://github.com/NumesSanguis/FACSvatar
 - https://github.com/jianzhnie/awesome-text-to-video
+- https://github.com/hkchengrex/Tracking-Anything-with-DEVA
 
 ## LIB: STABLE DIFFUSION
 - https://github.com/deep-floyd/IF

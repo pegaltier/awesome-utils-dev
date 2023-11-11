@@ -18,15 +18,6 @@ Both Kubernetes and OpenShift are popular container management systems, and each
 
 OpenShift Online leverages the Kubernetes concept of a pod, which is one or more containers deployed together on one host, and the smallest compute unit that can be defined, deployed, and managed. Pods are the rough equivalent of a machine instance (physical or virtual) to a container.
 
-## LINKS
-
-- https://github.com/containers/podman
-- https://github.com/hashicorp/vagrant
-- https://github.com/earthly/earthly
-- https://github.com/nxthat/nnocl
-- https://github.com/orbstack
-- https://github.com/openshift
-- https://github.com/docker
 
 ## UTILS
 - https://github.com/project-copacetic/copacetic
@@ -108,6 +99,52 @@ exit
 RUN echo "PWD is: $PWD"
 RUN ls
 ```
+
+## TOOLS ALL
+
+- https://github.com/containers/podman
+- https://github.com/hashicorp/vagrant
+- https://github.com/earthly/earthly
+- https://github.com/nxthat/nnocl
+- https://github.com/orbstack
+- https://github.com/openshift
+- https://github.com/docker
+
+## DOCKER ALL
+
+- https://github.com/depot/cli
+- https://github.com/quay/clair
+- https://github.com/docker/labs
+- https://github.com/qdm12/devtainr
+- https://github.com/croqaz/browsers
+- https://github.com/devcontainers/spec
+- https://github.com/containerd/nerdctl
+- https://github.com/goodwithtech/dockle
+- https://github.com/antoniomika/pcompose
+- https://github.com/louislam/docker-boot
+- https://github.com/ameerthehacker/envase
+- https://github.com/composerize/composerize
+- https://github.com/sigp/lighthouse-metrics
+- https://github.com/docker-slim/docker-slim
+- https://github.com/jesseduffield/lazydocker
+- https://github.com/leighmcculloch/dockerhost
+- https://github.com/ContainerSSH/ContainerSSH
+- https://github.com/tomMoulard/make-my-server
+- https://github.com/veggiemonk/awesome-docker
+- https://github.com/buildkite/docker-puppeteer
+- https://github.com/ufoscout/docker-compose-wait
+- https://github.com/chrislevn/dockerfile-practices
+- https://github.com/geerlingguy/ansible-role-docker    
+- https://github.com/GoogleContainerTools/distroless
+- https://github.com/JeremyLikness/usda-microservice
+- https://github.com/devopstrainingblr/awesome-docker
+- https://github.com/felixfbecker/semantic-release-docker
+- https://github.com/JonasAlfredsson/docker-nginx-certbot
+- https://labs.play-with-docker.com/
+- https://youtu.be/3c-iBn73dDE Docker Tutorial for Beginners [Full Course in 3 Hours]
+- https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
+- https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
+
 
 ## DOCKER IMAGES
 - https://github.com/jonatan-ivanov/local-services
