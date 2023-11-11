@@ -30,6 +30,7 @@
 - https://tinypng.com
 - https://www.remove.bg
 - https://goanimate.com
+- https://vectorizer.ai
 - https://png-pixel.com
 - https://david.li/paint
 - https://www.photopea.com

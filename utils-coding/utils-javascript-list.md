@@ -406,6 +406,10 @@
 - https://github.com/esbuild-kit/tsx
 - https://github.com/luckycatfactory/esbuild-graphql-loader
 
+## LIB: SHELL CLI
+- https://github.com/microsoft/inshellisense
+- https://github.com/poppinss/cliui
+
 ## LIB: IP
 - https://github.com/whitequark/ipaddr.js
 
@@ -588,6 +592,7 @@
 - https://github.com/KhronosGroup/glTF
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js
+- https://github.com/dylanebert/gsplat.js
 - https://github.com/mikbry/awesome-webgpu
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
@@ -599,6 +604,7 @@
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/neilgupta/Sherlock
+- https://github.com/SawyerHood/draw-a-ui
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/facebookresearch/shumai
 - https://github.com/a16z-infra/ai-getting-started

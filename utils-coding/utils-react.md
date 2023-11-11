@@ -177,6 +177,7 @@
 - https://github.com/bezkoder/react-refresh-token-hooks
 - https://github.com/welldone-software/why-did-you-render
 - https://github.com/webscopeio/react-textarea-autocomplete
+- https://github.com/jakovljevic-mladen/react-pagination-rx-streams
 
 ## LIB: UI
 - https://github.com/City-of-Helsinki/helsinki-design-system

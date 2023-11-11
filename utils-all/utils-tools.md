@@ -83,7 +83,7 @@
 - https://github.com/traceo-dev/traceo
 - https://github.com/onetimesecret/onetimesecret
 
-# Web
+# OSS: WEB
 - https://github.com/iamadamdev/bypass-paywalls-chrome
 
 ## Diagram
@@ -92,6 +92,9 @@
 - https://playground.diagram.codes/
 - https://github.com/cowchimp/source-viz
 - https://github.com/dreampuf/GraphvizOnline
+
+## Streaming
+- https://obsproject.com/
 
 ## List
 - https://untools.co/

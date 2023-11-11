@@ -56,6 +56,7 @@ low-code tooling to prototype fastly.
 - https://github.com/BuilderIO/mitosis
 - https://github.com/BuilderIO/builder
 - https://github.com/directus/directus
+- https://github.com/tailcallhq/tailcall
 - https://github.com/grouparoo/grouparoo
 - https://github.com/kelseyhightower/nocode
 - https://github.com/api-platform/api-platform

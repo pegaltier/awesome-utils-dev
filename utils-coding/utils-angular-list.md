@@ -804,6 +804,7 @@ Learn the schematics tool to automatize and be more efficient.
 
 Learn the built-in dependency injection mecanism and how to use it to inject your services accoss the differents components.
 
+- https://medium.com/@eugeniyoz/advanced-usage-of-angular-dependency-injection-399d0a67a938
 - https://netbasal.com/the-hidden-power-of-injectiontoken-factory-functions-in-angular-d42d5575859b
 - https://www.bennadel.com/blog/3836-using-abstract-classes-as-dependency-injection-tokens-with-providedin-semantics-in-angular-9-1-9.htm
 - https://www.amadousall.com/angular-services-3-common-misconceptions-about-the-injectable-decorator/
@@ -876,7 +877,7 @@ Learn about the angular router, lazy load your modules.
 - https://medium.com/@Batch1211/angular2-resolving-asynchronous-data-services-before-they-are-injected-into-your-component-fa597cac41e0#.f4o55yprw
 
 ## CORE: LAZY
-
+- https://riegler.fr/blog/2023-09-30-lazy-loading-mockable
 - https://stackblitz.com/edit/lazy-inject?file=src%2Fmain.ts
 - https://stackblitz.com/edit/angular-njrzeo
 - https://itnext.io/lazy-loading-services-in-angular-what-yes-we-can-cfbaf586d54e
@@ -1132,6 +1133,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/this-is-angular/ngrx-course
 
 ## ECOSYSTEM: STORE: NGRX: ARTICLES
+- https://dev.to/this-is-angular/multi-store-selectors-angular-3fdc
 - https://dev.to/angular/nested-ngrx-entity-state-211k
 - https://timdeschryver.dev/blog/nested-ngrx-entity-state
 - https://indepth.dev/posts/1206/understanding-the-magic-behind-ngrx-effects
@@ -2359,6 +2361,7 @@ Analyze and optimize the performance of your app
 - https://medium.com/@TuiZ/how-to-split-your-i18n-file-per-lazy-loaded-module-with-ngx-translate-3caef57a738f
 
 ## ECOSYSTEM: LIB: COMPONENT: NOCODE
+- https://github.com/HyperLife1119/ngx-fluent-form
 - https://github.com/orchestratora/orchestrator
 - https://github.com/acrodata/gui
 
@@ -2481,6 +2484,7 @@ Analyze and optimize the performance of your app
 - https://github.com/MurhafSousli/ngx-bar-rating
 - https://github.com/MurhafSousli/ngx-sharebuttons
 - https://github.com/CirclonGroup/angular-tree-component
+- https://github.com/alcfeoh/ngx-digital-display
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/ng-icons/ng-icons
@@ -2647,6 +2651,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Ninja-Squad/ngx-valdemort
 - https://github.com/DmitryEfimenko/ngx-messages
 - https://github.com/SanderElias/ngObservableForm
+- https://github.com/HyperLife1119/ngx-fluent-form
 - https://github.com/exportarts/ngx-pending-changes
 - https://github.com/rainerhahnekamp/ngx-formly-helpers
 - https://github.com/maximelafarie/angular-dynamic-forms

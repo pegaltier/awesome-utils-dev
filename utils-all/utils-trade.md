@@ -36,6 +36,7 @@
 - https://quantifiableedges.com/
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
+- https://www.ziontradingalgos.com/
 
 ## PODCAST
 - https://chatwithtraders.com/
@@ -158,12 +159,15 @@
 - https://tradetron.tech/
 - https://algobulls.com/
 - https://www.pionex.com/
+- https://www.gunbot.com/
 - https://yuriymatso.com/
 - http://malori.org/
 
 ## TOOLS: TRADINGVIEW: CODING
 - https://pinewizards.com/
 - https://pinescripters.net/
+- https://www.pinecoders.com/
+- https://www.tradingcode.net/
 - https://pinescriptstrategy.com/
 - https://www.pinescriptwizard.com/
 - https://pinescripters.net/index.php

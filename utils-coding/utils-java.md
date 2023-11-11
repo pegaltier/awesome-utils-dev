@@ -47,6 +47,7 @@
 - https://github.com/bezkoder/spring-boot-angular-15-mysql-example
 - https://github.com/bezkoder/spring-boot-angular-15-crud-example
 - https://github.com/sivaprasadreddy/spring-boot-application-template
+- https://github.com/Kehrlann/spring-security-architecture-workshop
 
 ## FRAMEWORK
 - https://github.com/vaadin/hilla
@@ -144,6 +145,9 @@
 
 ## JVM
 - https://www.azul.com/products/zing/
+
+## GRAALVM
+- https://www.infoq.com/fr/articles/native-java-graalvm/
 
 ## CHEATSHEETS
 
