@@ -337,6 +337,8 @@
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/bybit-api
+- https://github.com/bennycode/ig-trading-api
+- https://github.com/bennycode/coinbase-pro-node
 - https://github.com/binance/binance-connector-node*
 - https://github.com/binance-exchange/binance-api-node
 - https://github.com/tiagosiebler/orderbooks

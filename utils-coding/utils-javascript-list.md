@@ -652,6 +652,7 @@
 - https://github.com/protobufjs/protobuf.js
 - https://github.com/crypto-browserify/sha.js
 - https://github.com/pldespaigne/content-hash
+- https://github.com/sindresorhus/hash-object
 - https://github.com/msgpack/msgpack-javascript
 - https://github.com/GoogleChromeLabs/buffer-backed-object
 
