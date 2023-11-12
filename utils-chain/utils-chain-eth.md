@@ -53,6 +53,7 @@
 - https://trivial.co
 - https://etherscan.io
 - https://ethplorer.io
+- https://chainlist.wtf
 - https://chainlist.org
 - https://www.gasnow.org
 - https://www.monobase.xyz

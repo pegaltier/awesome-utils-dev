@@ -174,8 +174,9 @@
 - https://yuriymatso.com/
 - http://malori.org/
 
-## TOOLS: TRADER
+## TOOLS: TRADE PROP FIRM
 - https://www.we-funded-investors.com/
+- https://ftmo.com/en/
 
 ## TOOLS: TRADINGVIEW: CODING
 - https://pinewizards.com/
@@ -256,6 +257,7 @@
 ## METATRADER
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools
+- https://github.com/EarnForex/PositionSizer
 - https://book.mql4.com/programm/samples
 - https://www.trading-automatique.fr/mql4/
 - https://docs.mql4.com/runtime/event_fire#calculate
