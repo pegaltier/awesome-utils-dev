@@ -3274,6 +3274,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser
+- https://marketplace.visualstudio.com/items?itemName=EdgardMessias.clipboard-manager
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules
 - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
@@ -3291,6 +3292,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=folke.vscode-monorepo-workspace
 - http://brianflove.com/2017/04/11/angular-language-service/
 - https://github.com/angular/vscode-ng-language-service
+- https://github.com/edgardmessias/vscode.clipboard-manager
 - https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
 - https://github.com/nwinkler/atom-keyboard-shortcuts ATOM shortcut
 - https://github.com/johnpapa/vscode-angular2-snippets

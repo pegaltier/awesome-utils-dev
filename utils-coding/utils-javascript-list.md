@@ -390,6 +390,10 @@
 - https://github.com/mtiller/urns
 - https://github.com/unjs/ufo
 
+## LIB: PASSWORD
+- https://github.com/OktaSecurityLabs/passprotect-js
+- https://github.com/zxcvbn-ts/zxcvbn
+
 ## LIB: PARSER
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/micromark/micromark
@@ -458,7 +462,6 @@
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/SamVerschueren/decode-uri-component
 - https://github.com/easylogic/codemirror-colorpicker
-- https://github.com/OktaSecurityLabs/passprotect-js
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
@@ -646,6 +649,7 @@
 - https://github.com/immerjs/immer
 
 ## LIB: DATA ENCODING
+- https://github.com/kriszyp/cbor-x
 - https://github.com/bitrelay/bufio
 - https://github.com/openpgpjs/openpgpjs
 - https://github.com/jedisct1/js-base64-ct

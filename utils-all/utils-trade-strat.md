@@ -396,6 +396,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TODO: ALGO KNLOWLEDGE
 - https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
+- https://www.tradingwithrayner.com/inside-bar/
 
 ## TODO: ORGANIZE: FOREX
 - https://youtu.be/5rupdJGSzo0 trustfultrading - My simple trading strategies!
@@ -404,6 +405,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/B1nLjfZih2Q Transparent Trader - 4 Ways to Enhance Price Action Trading Strategies
 
 ## TODO: ORGANIZE: RSI
+- https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices zith RSI
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
 - https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
 - https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
@@ -432,18 +434,20 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/pEZjbk-Nw3g?t=332 Phil's CUSTOM ROC indicator ***
 
 ## TODO: ORGANIZE: MEAN REVERSION
+- https://youtu.be/5F1fhI_pqGQ BigDoor Trading - Mean reversion with EMA(2) + conditions ****
 - https://youtu.be/hQUKA9UvwoQ StatOasis - The Ultimate C% Oscillator: Unveiled ***
 - https://youtu.be/V6DL5Hkf3Ms StatOasis - Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
 - https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading ***
-- https://youtu.be/yz_T1gpAw6Y The Art of Trading - A Profitable MEAN REVERSION STRATEGY
+- https://youtu.be/yz_T1gpAw6Y The Art of Trading - A Profitable MEAN REVERSION STRATEGY ***
 - https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
 - https://youtu.be/jAI6s1WuEus Mean Reversion Trading Strategy for a High Win Rate (includes FREE CODE!) ***
 - https://youtu.be/GyikfniCLqU Proof WILLIAMS % R is Reliable when used like this 
-- https://youtu.be/As91lpD1oiA Bollinger band Mean reversion trading strategy 70% win rate
 - https://youtu.be/yz_T1gpAw6Y A Profitable MEAN REVERSION STRATEGY ***
 - https://youtu.be/hkEQyTiE2VY Unleashing Mean Reversion on STOCKS. ADX + RSI(2) + Close ***
 - https://youtu.be/7UsWO6WrNiU RSI Mean Reversion Trading. RSI(2) + Moving average
+- https://youtu.be/As91lpD1oiA [BB] Mean reversion trading strategy 70% win rate
+- https://youtu.be/v13D2E769wQ [BB] mean reversion on NQ
 
 ## TODO: ORGANIZE: MOMENTUM / TREND / ALL
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
@@ -458,6 +462,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin **
 - https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14) **
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (MA + confirmation from 3 multiple indexes)
+- https://youtu.be/boxYiarnMXY [BB] trend following with BBW filter
 
 ## TODO: ORGANIZE: MOMENTUM / TREND / ADX ONLY
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The [ADX] Indicator ***
@@ -466,6 +471,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/yEqT1P0nu8E Directional Movement Index | Trading using DMI [ADX]
 - https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] ***
 - https://youtu.be/O0I1XMgVDg8 Secrets to Trend Trading with the [ADX] and Price Action ***
+- https://youtu.be/gDR5Z7LfbHI Use ADX To Define WHAT To Do | Joe Rabil | Stock Talk ***
 - https://youtu.be/la1MSwV72ms?t=141 2 Clear Strategies When Using the [ADX] | ADX was below for X days....
 - https://youtu.be/rhgdAtacLeY How to code DMI and [ADX] | PineScript TradingView Code along Tutorial **
 - https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] | Stock Talk (10.12.23) **
