@@ -334,9 +334,11 @@
 ### OSS: EXECUTE
 - https://github.com/stoqey/ib
 - https://github.com/gateio/gateapi-nodejs
+- https://github.com/alpacahq/alpaca-trade-api-js
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/bybit-api
+- https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
 - https://github.com/bennycode/coinbase-pro-node
 - https://github.com/binance/binance-connector-node*
@@ -383,6 +385,7 @@
 - https://github.com/hackingthemarkets
 
 ### OSS: PYTHON
+- https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/jrmeier/fast-trade

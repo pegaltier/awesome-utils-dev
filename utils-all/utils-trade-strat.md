@@ -354,6 +354,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@TradeSmart22 TradeSmart
 - https://www.youtube.com/@TradingHeroes Trading Heroes
 - https://www.youtube.com/@Netpicks1 NetPicks Smart Trading
+- https://www.youtube.com/@cyrus.the.ggrreeaatt Cyrus-trader
 
 - https://www.youtube.com/@tradepro Trade Pro
 - https://www.youtube.com/@QuantifiedStrategies Quantified Strategies
