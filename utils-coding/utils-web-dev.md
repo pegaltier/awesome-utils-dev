@@ -87,7 +87,11 @@
 - https://stackblitz.com
 - https://webstudio.is/
 - https://github.com/webstudio-is/webstudio-builder
- 
+
+## ONLINE EDITOR
+- https://froala.com/online-html-editor/
+- https://froala.com/pages/
+
 ## CHECKLIST
 
 - https://web.dev/vitals-tools/

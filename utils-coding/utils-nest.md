@@ -40,6 +40,7 @@
 - https://github.com/SoftwareBrothers/admin-bro
 - https://github.com/underfisk/nestjs-asyncapi
 - https://github.com/hardyscc/nestjs-cqrs-starter
+- https://github.com/SocketSomeone/nestjs-resilience
 - https://github.com/nestjsx/nestjs-typeorm-paginate
 - https://github.com/MetinSeylan/Nestjs-OpenTelemetry
 - https://github.com/silicon-hills/nestjs-crud-prisma

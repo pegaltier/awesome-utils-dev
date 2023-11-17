@@ -63,6 +63,7 @@
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot
+- https://github.com/abi/screenshot-to-code
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
 ## TOOLS: TEXT
@@ -150,6 +151,7 @@
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/abacaj/chatgpt-backup
+- https://github.com/BuilderIO/gpt-crawler
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/imartinez/privateGPT
 - https://github.com/melih-unsal/DemoGPT

@@ -61,6 +61,7 @@
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/sindresorhus/find-cache-dir
 - https://github.com/radarsu/types-package-json
+- https://github.com/jkup/source-map-stacktrace-tester
 - https://github.com/jkup/source-map-validator
 - https://github.com/davglass/license-checker
 - https://github.com/anonrig/fast-querystring
