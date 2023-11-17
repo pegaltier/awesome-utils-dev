@@ -2150,74 +2150,6 @@ Learn the best way to make your objects immutable.
 - https://github.com/hipstersmoothie/storybook-dark-mode
 - https://www.chromatic.com/
 
-## ECOSYSTEM: LIB: E2E TESTS
-
-- https://screenster.io/
-- https://testrec.com/
-- https://www.browserstack.com/
-- https://angularplayground.it/
-- https://testing-playground.com/
-- https://github.com/mswjs/msw
-- https://github.com/appium/appium
-- https://github.com/rrweb-io/rrweb
-- https://github.com/Netflix/pollyjs
-- https://github.com/TradeMe/tractor
-- https://github.com/bahmutov/cy-api
-- https://github.com/guidepup/guidepup a11y
-- https://github.com/cypress-io/cypress
-- https://github.com/YOU54F/cypress-plugins
-- https://github.com/agoldis/sorry-cypress
-- https://www.herodevs.com/support/endbridge
-- https://github.com/mfrachet/cypress-audit
-- https://github.com/tnicola/cypress-parallel
-- https://github.com/component-driven/cypress-axe
-- https://github.com/facebookincubator/memlab
-- https://github.com/jscutlery/test-utils
-- https://github.com/NetanelBasal/cyrun
-- https://github.com/DevExpress/testcafe
-- https://github.com/nas5w/combinate
-- https://github.com/ComponentDriven/csf
-- https://github.com/nightwatchjs/nightwatch
-- https://github.com/cypress-io/cypress-xpath
-- https://github.com/briebug/cypress-schematic
-- https://github.com/microsoft/playwright-test
-- https://github.com/NoriSte/cypress-wait-until
-- https://github.com/smeijer/testing-playground
-- https://github.com/bahmutov/cypress-failed-log
-- https://github.com/Elecash/nx-cypress-coverage
-- https://github.com/socreate/angular-playground
-- https://github.com/component-driven/cypress-axe
-- https://github.com/ceceliacreates/ionic-cypress
-- https://github.com/cypress-io/cypress-skip-test
-- https://github.com/bahmutov/cypress-should-really
-- https://github.com/gkushang/cucumber-html-reporter
-- https://github.com/ksocha/cypress-circleci-reporter
-- https://github.com/cypress-io/cypress-realworld-app
-- https://github.com/meinaart/cypress-plugin-snapshots
-- https://github.com/NoriSte/ui-testing-best-practices
-- https://github.com/cypress-io/cypress-example-recipes
-- https://github.com/maximilianschmitt/cypress-routines
-- https://github.com/bahmutov/cypress-angular-unit-test
-- https://github.com/testing-library/cypress-testing-library
-- https://github.com/LayZeeDK/angular-module-teardown-options
-- https://github.com/gothinkster/angular-realworld-example-app
-- https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
-- https://github.com/Flaxline/angular-nx-cypress-coverage-example
-- https://github.com/CypressCecelia/cypress-testing-angular-workshop
-- https://github.com/cypress-visual-regression/cypress-visual-regression
-- https://cypress.slides.com/amirrustam/patterns-practices
-- https://cypress.slides.com/cecelia/testing-angular-applications-with-cypress#/1
-- https://webdave.de/blog/cypress
-- https://www.youtube.com/watch?v=V-o8WzlwKmM Cypress Patterns and Practices
-- https://www.youtube.com/watch?v=UHgtUSAROtc Comparing Testing Tools
-- https://www.youtube.com/watch?v=aH19jwv1l70 Cypress test in angular
-- https://medium.com/@charith.rhettiarachchi/why-use-jest-over-karma-for-angular-testing-b56ffa82f8
-- https://itnext.io/cypress-storybook-keeping-test-scenario-data-and-component-rendering-in-one-place-c57b23cc1640
-- https://blog.checklyhq.com/easy-automated-e2e-testing-monitoring-for-your-frontend-with-vercel-and-checkly-3/
-- https://christianlydemann.com/the-most-common-cypress-mistakes/
-- https://www.checklyhq.com/docs/puppeteer-recorder/
-- https://timdeschryver.dev/blog/using-msw-in-an-angular-project
-
 ## ECOSYSTEM: LIB: UNIT TESTS
 
 - https://github.com/mswjs/msw
@@ -2528,17 +2460,17 @@ Analyze and optimize the performance of your app
 - https://material.angular.io/cdk/a11y/overview
 - https://alligator.io/angular/infinite-scroll
 - https://github.com/angular-material-extensions
-- https://alligator.io/angular/custom-svg-icons-angular-material
-- https://github.com/angular-material-extensions/password-strength
-- https://github.com/fetrarij/ngx-daterangepicker-material
-- https://github.com/johannesjo/angular-material-css-vars
-- https://github.com/GeorgDangl/angular-material-shared
 - https://github.com/diprokon/ng-table-virtual-scroll
 - https://github.com/gravitee-io/gravitee-ui-particles
 - https://github.com/exportarts/ngx-material-data-table
+- https://github.com/GeorgDangl/angular-material-shared
 - https://github.com/lVlyke/lithium-ngx-material-theming
 - https://github.com/marinantonio/angular-mat-table-crud
+- https://github.com/johannesjo/angular-material-css-vars
+- https://github.com/fetrarij/ngx-daterangepicker-material
 - https://github.com/nilsmehlhorn/ngx-pagination-data-source
+- https://alligator.io/angular/custom-svg-icons-angular-material
+- https://github.com/angular-material-extensions/password-strength
 
 ## ECOSYSTEM: LIB: COMPONENT: CAROUSEL/SLIDER
 - https://github.com/naver/egjs-flicking
@@ -2692,6 +2624,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Developer-Plexscape/ngx-grapesjs
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/ckeditor/ckeditor5-angular
+- https://github.com/ProseMirror/prosemirror
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/worktile/slate-angular
 - https://github.com/kolkov/angular-editor
@@ -2958,6 +2891,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/fulls1z3/universal
 - https://github.com/nxpm/nxpm-universal
 - https://github.com/goetzrobin/spartan
+- https://github.com/ganatan/angular-app
 - https://github.com/ganatan/angular-ssr
 - https://github.com/eneajaho/angular-isr
 - https://github.com/enten/angular-universal

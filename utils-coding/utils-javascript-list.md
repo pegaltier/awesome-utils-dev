@@ -231,6 +231,7 @@
 
 ## LIB: HTTP
 - https://github.com/unjs/ofetch
+- https://github.com/gajus/global-agent proxy
 - https://github.com/har-tools/http-message
 
 ## LIB: FUNCTIONNAL PROGRAMMING
@@ -602,6 +603,7 @@
 - https://github.com/mkkellogg/TrailRendererJS
 - https://github.com/anvaka/graph-drawing-libraries
 - https://github.com/0beqz/screen-space-reflections
+- https://github.com/supermedium/aframe-environment-component
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js
@@ -658,6 +660,7 @@
 - https://github.com/pldespaigne/content-hash
 - https://github.com/sindresorhus/hash-object
 - https://github.com/msgpack/msgpack-javascript
+- https://github.com/sindresorhus/uint8array-extras
 - https://github.com/GoogleChromeLabs/buffer-backed-object
 
 ## LIB: ID UTILS / UID

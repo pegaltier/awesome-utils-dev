@@ -27,13 +27,13 @@ In HTML, the global scope is the window object. All global variables belong to t
 - In other object-oriented programming languages, the this keyword always refers to the current instance of the class. 
 - Whereas in JavaScript, the value of this depends on how a function is invoked (used or called). In JavaScript, the this keyword refers to different objects depending on how it is used... https://www.w3schools.com/js/js_this.asp
 
-In JavaScript, you can use call(), apply(), and bind() methods to couple a function with an object. This way you can call the function on the object as if it belonged to it
-
-- The call() allows for a function/method belonging to one object to be assigned and called for a different object.
-- The apply() is very similar to call() but the apply method takes arguments as an array instead of separately.
-- The bind() method creates a new function that, when called, has its this keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called. it is not necessary to pass the arguments at the time of `bind`. we can pass it later at the time of invocation.
+In JavaScript, you can use call(), apply(), and bind() methods to couple a function with an object. This way you can call the function on the object as if it belonged to it. In all 3 cases, the first argument is used as the value of this inside the function.
+.call() - calls the same function with the specified arguments; in others words it allows for a function/method belonging to one object to be assigned and called for a different object.
+.apply() - calls the same function with the arguments specified in an array; is very similar to call() but the only difference is that the apply method takes arguments as an array instead of separately.
+.bind() - creates a new function with the same function body, with a preset value of this (the first argument) and returns that function. when the function is called, it has its 'this' keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called. it is not necessary to pass the arguments at the time of `bind`. we can pass it later at the time of invocation.
 
 - https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be
+- https://stackoverflow.com/questions/15677738/whats-the-difference-between-call-apply-and-bind/15677775#15677775
 
 ### FUNCTION
 

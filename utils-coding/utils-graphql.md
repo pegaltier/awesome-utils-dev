@@ -37,6 +37,7 @@
 
 ## LIB
 - https://github.com/sikanhe/gqtx
+- https://github.com/gqty-dev/gqty
 - https://github.com/hayes/pothos
 - https://github.com/movio/bramble
 - https://github.com/imolorhe/altair

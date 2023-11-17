@@ -229,6 +229,7 @@
 - https://github.com/deep-floyd/IF
 - https://github.com/lllyasviel/Fooocus
 - https://github.com/Stability-AI/StableLM
+- https://github.com/comfyanonymous/ComfyUI
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui

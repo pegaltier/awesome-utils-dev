@@ -19,6 +19,7 @@
 - https://github.com/time-loop/only-allow
 - https://github.com/cnpm/npminstall
 - https://github.com/yarnpkg/berry
+- https://github.com/pnpm/pacquet
 - https://github.com/Schniz/fnm
 - https://github.com/ije/esm.sh
 - https://github.com/nvm-sh/nvm
@@ -60,6 +61,7 @@
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/sindresorhus/find-cache-dir
 - https://github.com/radarsu/types-package-json
+- https://github.com/jkup/source-map-validator
 - https://github.com/davglass/license-checker
 - https://github.com/anonrig/fast-querystring
 - https://github.com/JS-DevTools/npm-publish

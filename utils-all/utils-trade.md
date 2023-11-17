@@ -71,6 +71,7 @@
 - https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/
 
 ## QUOTES
+- https://tardis.dev/
 - https://databento.com/
 - https://tradermade.com/
 - https://crypto-lake.com/
@@ -398,6 +399,7 @@
 - https://github.com/wardbradt/peregrine
 - https://github.com/fmilthaler/FinQuant
 - https://github.com/51bitquant/howtrader
+- https://github.com/tastyware/tastytrade
 - https://github.com/letianzj/quanttrader
 - https://github.com/ig-python/trading-ig
 - https://github.com/goldmansachs/gs-quant
@@ -413,7 +415,7 @@
 - https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/day0market/support_resistance
-- https://github.com/TheFourGreatErrors/alpha-rptr
+- https://github.com/TheFourGreatErrors/alpha-rptr * 
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/alpacahq/alpaca-backtrader-api
 - https://github.com/fabston/TradingView-Webhook-Bot
@@ -425,6 +427,7 @@
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM
 - https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/conor19w/Binance-Futures-Trading-Bot
+- https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
 - https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku
@@ -449,6 +452,7 @@
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/TulipCharts/tulipnode
 - https://github.com/SockTrader/SockTrader *
+- https://github.com/tardis-dev/tardis-node * 
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools

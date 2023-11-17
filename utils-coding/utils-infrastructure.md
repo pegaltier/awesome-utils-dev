@@ -156,6 +156,7 @@
 
 ## KUBERNETES
 - https://helm.sh/
+- https://github.com/boz/kail
 - https://github.com/appvia/kev
 - https://github.com/k3s-io/k3s
 - https://github.com/keel-hq/keel
@@ -187,6 +188,7 @@
 - https://github.com/kubernetes/minikube
 - https://github.com/kubescape/kubescape
 - https://github.com/particledecay/kconf
+- https://github.com/johanhaleby/kubetail
 - https://github.com/kubernetes-sigs/krew
 - https://github.com/mbaykara/k8s-cluster
 - https://github.com/stackrox/kube-linter

@@ -13,6 +13,7 @@
 - https://github.com/n8n-io/n8n
 - https://github.com/rowyio/rowy
 - https://github.com/zulip/zulip
+- https://github.com/ekzhang/sshx
 - https://github.com/schollz/croc
 - https://github.com/nocodb/nocodb
 - https://github.com/zedeus/nitter

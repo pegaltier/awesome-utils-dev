@@ -33,6 +33,7 @@
 - https://github.com/spring-projects-experimental/spring-graphql
 
 ## SPRING BOOT
+- https://github.com/netflix/dgs-framework
 - https://github.com/spring-projects/spring-boot
 - https://www.marcobehler.com/guides/spring-boot
 - https://github.com/RameshMF/awesome-spring-boot
@@ -44,6 +45,7 @@
 - https://github.com/RameshMF/springboot-microservices
 - https://github.com/aileftech/spring-boot-database-admin
 - https://github.com/bezkoder/spring-boot-thymeleaf-example
+- https://github.com/bezkoder/spring-boot-graphql-postgresql
 - https://github.com/bezkoder/spring-boot-angular-15-mysql-example
 - https://github.com/bezkoder/spring-boot-angular-15-crud-example
 - https://github.com/sivaprasadreddy/spring-boot-application-template

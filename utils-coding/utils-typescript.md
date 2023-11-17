@@ -130,6 +130,7 @@ npm init
 - https://github.com/open-draft/event-contract
 - https://github.com/ts-essentials/ts-essentials
 - https://github.com/jonaskello/tslint-immutable
+- https://github.com/robertmassaioli/ts-is-present
 - https://github.com/ngfelixl/typescript-algorithms
 - https://github.com/NetanelBasal/helpful-decorators
 - https://github.com/Idered/typescript-expect-plugin
