@@ -404,6 +404,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/k8Z5iNoEViE Best RSI Indicator Settings for Forex Swing Trading
 - https://youtu.be/GyikfniCLqU Transparent Trader - Proof WILLIAMS % R is Reliable when [mean reversion]
 - https://youtu.be/B1nLjfZih2Q Transparent Trader - 4 Ways to Enhance Price Action Trading Strategies
+- https://youtu.be/LB6SrMUTEzY FT Trader EA - GBPUSD Reveal Top Trading Strategy of the week. with 9 win-streak
+- https://youtu.be/fuWmIE7uj2w FT Trader EA - EURUSD Top Performance Strategy of week 21st Aug. 2023
+- https://youtu.be/vQcT6xntSeI FT Trader EA - EURUSD Profitable Strategy with MACD, ADX, & Sto! Profit 181%
+- https://youtu.be/ttkWl9HKqto FT Trader EA - GBPJPY Maximize Alligator + Fractal Trading Strategy
 
 ## TODO: ORGANIZE: RSI
 - https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices zith RSI
@@ -432,7 +436,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/I1Rf3Rcduuw Rate of Change indicator strategy ***
 - https://youtu.be/k2NbKhvdmqA Algo Trading Strategy - Let's Test It!
 - https://youtu.be/ikX6boj7-l8 TESTED 750,000 TRADES! ROC+EMA Trading Strategy ***
+- https://youtu.be/rQHLaMavoVM Kevin Davey. Algo Trading Strategy Revealed - 10 Year Treasury Notes ***
 - https://youtu.be/pEZjbk-Nw3g?t=332 Phil's CUSTOM ROC indicator ***
+- https://youtu.be/SpRTT13vttg Momentum Indicator | ROC Indicator 
 
 ## TODO: ORGANIZE: MEAN REVERSION
 - https://youtu.be/5F1fhI_pqGQ BigDoor Trading - Mean reversion with EMA(2) + conditions ****
@@ -447,6 +453,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/yz_T1gpAw6Y A Profitable MEAN REVERSION STRATEGY ***
 - https://youtu.be/hkEQyTiE2VY Unleashing Mean Reversion on STOCKS. ADX + RSI(2) + Close ***
 - https://youtu.be/7UsWO6WrNiU RSI Mean Reversion Trading. RSI(2) + Moving average
+- https://youtu.be/qHISgnYkB7Y QuantProgram - Mean reversion trading using Linear Regression ***
 - https://youtu.be/As91lpD1oiA [BB] Mean reversion trading strategy 70% win rate
 - https://youtu.be/v13D2E769wQ [BB] mean reversion on NQ
 
@@ -460,7 +467,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/MywHpHyzsPE StatOasis - Casey C% is a great Momentum Oscillator ***
 - https://youtu.be/uvsL-fdcPU8 Algofox - EMA HIGH LOW BAND STRATEGY (index)
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
-- https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin **
+- https://youtu.be/q_b92hUbn1Q TradeSmart - Highly Profitable [SuperTrend] + Kairi Relative Index for Bitcoin **
+- https://youtu.be/Xf46diXPoto TradeSmart - [SuperTrend] BEST Strategy Series - 11th TradingView Script Bitcoin**
+- https://youtu.be/B-pQQI2FGsc Trading Verge - [Pinescript] Stock Pivot Point [SuperTrend] Trading Strategy ***
+- https://youtu.be/AqgT8BbRZps Trading Verge - [Pinescript] MACD VWAP TRADING STRATEGY ***
 - https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14) **
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (MA + confirmation from 3 multiple indexes)
 - https://youtu.be/boxYiarnMXY [BB] trend following with BBW filter
