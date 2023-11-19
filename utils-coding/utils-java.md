@@ -108,6 +108,7 @@
 - https://github.com/apache/thrift
 - https://github.com/apache/druid
 - https://github.com/crate/crate
+- https://github.com/zxing/zxing
 - https://github.com/my2iu/Jinq
 
 ## LIBS: TOOLS

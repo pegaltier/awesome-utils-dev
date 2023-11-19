@@ -178,6 +178,9 @@
 - https://github.com/auth0/auth0-spa-js
 - https://github.com/epicweb-dev/web-auth
 
+## KEY
+- https://github.com/unkeyed/unkey
+
 ## NOTIFICATIONS
 - https://github.com/novuhq/novu
 - https://github.com/OneSignal/OneSignal-Website-SDK

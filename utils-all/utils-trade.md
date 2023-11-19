@@ -75,6 +75,7 @@
 - https://databento.com/
 - https://tradermade.com/
 - https://crypto-lake.com/
+- https://norgatedata.com/
 - https://eodhistoricaldata.com/
 - https://www.cryptoarchive.com.au/ *
 - https://github.com/maxgfr/binance-historical *
@@ -126,6 +127,7 @@
 - https://www.buildalpha.com/
 - https://www.lizardindicators.com/
 - https://www.portfoliovisualizer.com/
+- https://howtobacktestbootcamp.carrd.co/
 - https://marketspy.net/free-poett-access/
 - https://www.thinkmarkets.com/en/tools/tradersgym/
 - https://tradingindicators.com/portfolio-architect-2-0/
@@ -134,8 +136,9 @@
 - https://deepvue.com/
 - https://www.smartcharts.net/
 
-## TOOLS: TRADE EXEC
+## TOOLS: TRADE EXEC / BROKER
 - https://insilicoterminal.com/
+- https://centerpointsecurities.com/
 
 ## TOOLS: INDIA
 - https://www.screener.in/
@@ -164,6 +167,7 @@
 - https://www.cryptohopper.com/
 - https://materialindicators.com/
 - https://www.ai-backbone.com/aiforgold
+- https://www.algomatictrading.com
 - https://www.gomicroai.com/
 - https://squareoffbots.com/
 - https://www.darwinex.com/
@@ -177,7 +181,13 @@
 
 ## TOOLS: TRADE PROP FIRM
 - https://www.we-funded-investors.com/
+- https://apextraderfunding.com/
 - https://ftmo.com/en/
+
+## TOOLS: PORTFOLIO
+- https://collective2.com/my/K6Q9FDJ8A
+- https://kinfo.com/
+
 
 ## TOOLS: TRADINGVIEW: CODING
 - https://pinewizards.com/
@@ -358,21 +368,22 @@
 - https://www.interactivebrokers.com/en/trading/ib-api.php
 
 ### OSS: BOTS
-- https://github.com/CryptoMF/frostybot-js
+- https://github.com/hackingthemarkets/supertrend-crypto-bot
 - https://github.com/cassandre-tech/cassandre-trading-bot
 - https://github.com/dk4jo3/abnormal-crypto-volume-alert
 - https://github.com/MohammedRashad/Crypto-Copy-Trader
-- https://github.com/hackingthemarkets/supertrend-crypto-bot
 - https://github.com/SamPom100/UnusualVolumeDetector
 - https://github.com/iterativv/NostalgiaForInfinity
 - https://github.com/johndpope/CryptoCurrencyTrader
 - https://github.com/DogsTailFarmer/martin-binance
+- https://github.com/thrasher-corp/gocryptotrader
 - https://github.com/JulyIghor/QtBitcoinTrader
 - https://github.com/dk4jo3/are-alts-bleeding
 - https://github.com/fremantle-industries/tai
 - https://github.com/nicolasbonnici/cryptobot
 - https://github.com/torreyleonard/algotrader
 - https://github.com/taniman/profit-trailer
+- https://github.com/CryptoMF/frostybot-js
 - https://github.com/grantcolley/tradeview
 - https://github.com/Superalgos/Superalgos
 - https://github.com/StockSharp/StockSharp

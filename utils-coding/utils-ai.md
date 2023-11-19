@@ -219,6 +219,7 @@
 - https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://github.com/microsoft/generative-ai-for-beginners
+- https://github.com/AIAnytime/AI-News-Anchor-Generator-App
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ## LIB: VIDEO

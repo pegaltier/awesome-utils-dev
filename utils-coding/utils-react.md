@@ -96,6 +96,7 @@
 - https://github.com/yannickcr/eslint-plugin-react
 
 ## LIB: ALL
+- https://github.com/mme/beakjs
 - https://github.com/alloc/wana
 - https://github.com/gc-victor/u
 - https://github.com/uber/baseweb

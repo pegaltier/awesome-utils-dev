@@ -3264,6 +3264,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://blog.ninja-squad.com/
 - https://christianlydemann.com/
 - https://timdeschryver.dev/blog
+- https://angularconsulting.au/
 - https://toddmotto.com/
 - https://nxplaybook.com/
 - https://nrwlcommunity.slack.com/
