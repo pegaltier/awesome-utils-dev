@@ -26,6 +26,7 @@
 - https://github.com/Keats/validator
 - https://github.com/GREsau/schemars
 - https://github.com/napi-rs/napi-rs
+- https://github.com/loro-dev/loro
 - https://github.com/otake84/dlhn
 - https://github.com/BloopAI/bloop
 - https://github.com/mit-pdos/noria
