@@ -26,6 +26,7 @@
 - crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
 
 ## ENCRYPTION
+- https://github.com/FiloSottile/awesome-age
 - en.wikipedia.org/wiki/Caesar_cipher
 - www.bouncycastle.org/
 

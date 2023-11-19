@@ -551,6 +551,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/emmabostian/design-inspiration
 - https://github.com/russellsamora/scrollama
 - https://github.com/developedbyed/3d-scroll-ball
+- https://github.com/codrops/OnScrollShapeMorph
 - https://github.com/codrops/MenuToGrid
 - https://github.com/codrops/LineTypeEffect
 - https://github.com/codrops/RapidImageHoverMenu
@@ -568,6 +569,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel
 - https://github.com/adrianhajdin/project_modern_ui_ux_restaurant
 - https://github.com/akella/ExplodingObjects
+- https://tympanus.net/Development/OnScrollShapeMorph/
 - https://tympanus.net/Tutorials/TriangleSlideshow/
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://tympanus.net/Development/ExplodingObjects/
@@ -575,6 +577,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/Development/ImageStackGrid/index.html
 - https://tympanus.net/Tutorials/SurfaceSampling/index3.html
 - https://tympanus.net/Development/HorizontalSmoothScrollLayout/
+- https://tympanus.net/Development/AmbientCanvasBackgrounds/index2.html
 - https://tympanus.net/Development/OnScrollTypographyAnimations/index2.html
 - https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html

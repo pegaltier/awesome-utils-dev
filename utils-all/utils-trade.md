@@ -40,6 +40,8 @@
 - https://trade.collective2.com/
 - https://www.ezalgo.co/
 - https://squared2.io/
+- https://mycoder.pro/
+- https://algoji.com/
 
 ## PODCAST
 - https://chatwithtraders.com/
@@ -55,6 +57,7 @@
 
 ## LIST
 - https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+- https://github.com/zazhang/ep-chan-book-algo-trading
 - https://github.com/dingran/quant-notes
 
 ## BOOKS
@@ -295,6 +298,7 @@
 - https://github.com/ADWilkinson/pinescript-indicators
 - https://github.com/Paul-Mizel/Crypto-Trading-Unleashed
 - https://github.com/TreborNamor/TradingView-Machine-Learning-GUI
+- https://github.com/AlbertoCuadra/algo_trading_weighted_strategy
 
 ### OSS: TRADINGVIEW: OTHERS
 - https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
@@ -331,6 +335,7 @@
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/tiagosiebler/awesome-crypto-examples
 - https://github.com/edarchimbaud/awesome-systematic-trading
+- https://github.com/topics/candlestick-patterns-detection
 
 ### OSS: ALL
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools

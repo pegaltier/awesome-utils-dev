@@ -63,6 +63,7 @@
 
 ## OSS: VIDEO
 - https://github.com/fonoster/goodtok
+- https://github.com/iv-org/invidious
 
 ## OSS: PASSWORD
 - https://github.com/drduh/Purse

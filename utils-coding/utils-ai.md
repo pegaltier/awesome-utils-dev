@@ -2,6 +2,7 @@
 
 ## NEWS
 - https://github.com/osanseviero/ml_timeline
+- https://9elements.com/blog/ai-glossary
 
 ## TENSOR FIRE
 - https://tenso.rs/demos/fast-neural-style/

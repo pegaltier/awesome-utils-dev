@@ -50,6 +50,7 @@
 - https://github.com/gravitee-io/gravitee-api-management
 
 ## OPENAPI
+- https://github.com/scalar/scalar
 - https://github.com/Azure/autorest
 - https://github.com/asyncapi/modelina
 - https://github.com/Mermade/widdershins

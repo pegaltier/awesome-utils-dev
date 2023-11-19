@@ -466,6 +466,7 @@
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
+- https://github.com/HichemTab-tech/EasyCaptchaJS
 - https://github.com/timruffles/mobile-drag-drop
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/alexjlockwood/ShapeShifter
