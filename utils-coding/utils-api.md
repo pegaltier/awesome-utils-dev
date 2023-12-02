@@ -27,6 +27,7 @@
 
 ## TOOLS: CLIENT
 - http://postman.com/
+- https://reqbin.com/
 - https://hoppscotch.io/
 - https://insomnia.rest/
 - https://github.com/Kong/insomnia

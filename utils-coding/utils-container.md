@@ -115,6 +115,7 @@ RUN ls
 - https://github.com/depot/cli
 - https://github.com/quay/clair
 - https://github.com/docker/labs
+- https://github.com/wagoodman/dive
 - https://github.com/qdm12/devtainr
 - https://github.com/louislam/dockge
 - https://github.com/croqaz/browsers

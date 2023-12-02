@@ -1,5 +1,17 @@
 # TESTING
 
+## COMPARATIVE
+
+- Selenium released in 2004 (opensource; requires java - WebDriver, complex installation because different dependencies version must match: java, selenium, webdriver, protractor; chrome, complex dom manipulation, flaky tests) ~28k stars on Github.
+- Cypress released in 2017 (partially opensource, simple installation, simple dom manipulation, stable tests, but dashboard is closed source, alternative called sorrycypress) ~45k stars on Github.
+- Playwright released in 2020 (opensource, simple installation, simple dom manipulation, stable tests, powerfull tooling) ~57k stars on Github.
+- Others solutions are: WebdriverIO, Puppeteer, Nightwatch, Protractor (NES)
+
+- The main arguments to use Cypress and Playwright is they are supported by Angular and Nx, that it manages tests directly with the browser; via Chrome DevTools Protocol (CDP) or directly run on it (Cypress) compared to Selenium that uses an intermeriary tool called WebDriver to communicate with the differents browser that makes tests flaky.
+
+- https://www.rainerhahnekamp.com/en/angular-e2e-testing-protractor-is-dead-long-live-cypress/
+- https://www.lambdatest.com/blog/playwright-vs-selenium-vs-cypress/
+
 ## GUIDE
 - https://www.guru99.com/smoke-sanity-testing.html
 - https://github.com/NoriSte/ui-testing-best-practices

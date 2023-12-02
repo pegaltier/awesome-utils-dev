@@ -410,7 +410,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/ttkWl9HKqto FT Trader EA - GBPJPY Maximize Alligator + Fractal Trading Strategy
 
 ## TODO: ORGANIZE: RSI
-- https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices zith RSI
+- https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices with RSI
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
 - https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
 - https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
@@ -512,4 +512,4 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - continue work on ROC, find improvement to close better, like the BREAKOUT (ema?)
 - backtest my first Multi Timeframe Psych with rules long only if close > 2 bands
 - continue work on ADX: add input for momentumTrigger to allow keep position open if adx above this level, probably momentum is strong so it should not exit. add input for emaExit
-- reorganize different RSI stategies : RSI3X; RSIRANGE; RSIENTRYEXIT; RSIPULLBACK
+- reorganize different RSI stategies : RSI3X; RSIRANGE, RSIPULLBACK, RSIMR (Lefort), STOMR (Lefort)

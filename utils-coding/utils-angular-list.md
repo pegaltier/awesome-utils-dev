@@ -2015,6 +2015,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/irustm/angular-features (TOADD)
 - https://github.com/nartc/ngxtension-platform (TOADD)
 - https://github.com/anchmelev/web-worker-bus (TOADD)
+- https://github.com/cognizone/ng-cognizone (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 - https://github.com/urish/ngx-moment

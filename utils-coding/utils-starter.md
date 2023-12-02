@@ -13,6 +13,7 @@
 
 ## ERP / CRM
 - https://github.com/idurar/idurar-erp-crm
+- https://github.com/espocrm/espocrm
 
 # Images
 - https://github.com/codex-team/capella

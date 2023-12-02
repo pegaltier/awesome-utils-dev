@@ -152,6 +152,7 @@
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/abacaj/chatgpt-backup
+- https://github.com/pytorch-labs/gpt-fast
 - https://github.com/BuilderIO/gpt-crawler
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/imartinez/privateGPT
