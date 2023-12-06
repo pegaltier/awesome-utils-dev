@@ -2625,6 +2625,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Developer-Plexscape/ngx-grapesjs
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/ckeditor/ckeditor5-angular
+- https://github.com/microsoft/monaco-editor
 - https://github.com/ProseMirror/prosemirror
 - https://github.com/alauda/ng-monaco-editor
 - https://github.com/worktile/slate-angular

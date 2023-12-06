@@ -237,6 +237,7 @@
 - https://github.com/comfyanonymous/ComfyUI
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
+- https://github.com/magic-research/magic-animate
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ## LIB: PREDICTION

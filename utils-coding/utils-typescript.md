@@ -268,15 +268,6 @@ npm init
 ## LIB: HTTP
 - https://github.com/ardatan/feTS
 
-## LIB: DATABASE
-- https://github.com/prisma/prisma
-- https://github.com/koskimas/kysely
-- https://github.com/typeorm/typeorm
-- https://github.com/typegoose/typegoose
-- https://github.com/liberation-data/drivine
-- https://github.com/drizzle-team/drizzle-orm
-- https://github.com/IRCraziestTaxi/typeorm-linq-repository
-
 ## LIB: TEST
 - https://github.com/google/intermock
 - https://github.com/Goldziher/interfaceForge

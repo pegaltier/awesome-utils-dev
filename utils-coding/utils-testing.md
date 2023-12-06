@@ -58,6 +58,9 @@
 - https://www.herodevs.com/support/endbridge
 - https://github.com/facebookincubator/memlab
 
+## UTILS: HTTP
+- https://github.com/apiaryio/dredd
+
 ## UTILS: CYPRESS
 - https://github.com/bahmutov/cy-api
 - https://github.com/cypress-io/cypress

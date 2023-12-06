@@ -72,6 +72,7 @@ zipalign (optimize RAM) :
 - https://flashlight.dev/
 - https://github.com/zxing/zxing
 - https://github.com/orhanobut/hawk
+- https://github.com/ProxymanApp/Proxyman
 - https://www.appbrain.com/apptimizer
 - http://gunhansancar.com/tools/converter/#
 - https://github.com/GoogleChromeLabs/bubblewrap

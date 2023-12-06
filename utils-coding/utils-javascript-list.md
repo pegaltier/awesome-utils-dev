@@ -195,11 +195,6 @@
 - https://github.com/exportarts/bullmq-utils
 - https://github.com/microsoft/FluidFramework
 
-## FRAMEWORK: BACKEND: ORM
-- https://github.com/typeorm/typeorm
-- https://github.com/prisma/prisma
-- https://github.com/prisma-utils
-
 ## LIB: LIST
 
 - https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8

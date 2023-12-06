@@ -204,6 +204,7 @@
 - https://github.com/caplin/FlexLayout
 - https://github.com/tremorlabs/tremor
 - https://github.com/ZEISS/precise-ui
+- https://github.com/facebook/stylex
 - https://github.com/ariakit/ariakit
 - https://github.com/WTTJ/welcome-ui
 - https://github.com/grommet/grommet

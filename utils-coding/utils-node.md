@@ -170,12 +170,22 @@
 - https://github.com/naptha/tesseract.js
 
 ## LIBS: DATABASE / DB
+
+- https://github.com/prisma-utils
+- https://github.com/prisma/prisma
+- https://github.com/koskimas/kysely
+- https://github.com/typeorm/typeorm
 - https://github.com/appy-one/acebase
 - https://github.com/ndaidong/flat-db
 - https://github.com/twinlogix/typetta
 - https://github.com/microlinkhq/keyvhq
+- https://github.com/typegoose/typegoose
+- https://github.com/liberation-data/drivine
 - https://github.com/w3tecch/typeorm-seeding
+- https://github.com/drizzle-team/drizzle-orm
 - https://github.com/drifting-in-space/driftdb
+- https://github.com/benjamin658/typeorm-cursor-pagination
+- https://github.com/IRCraziestTaxi/typeorm-linq-repository
 
 ## LIBS: CLI / PROMPTS
 - https://github.com/terkelg/prompts
@@ -230,7 +240,6 @@
 - https://github.com/strapi/strapi
 - https://github.com/remult/remult
 - https://github.com/lukeautry/tsoa
-- https://github.com/typeorm/typeorm
 - https://github.com/zone-eu/zone-mta
 - https://github.com/sindresorhus/got
 - https://github.com/balderdashy/sails
