@@ -1635,6 +1635,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/wvanderdeijl/nx-remotecache-gcs
 
 ## ECOSYSTEM: LIB: MONOREPO: TODO
+- https://github.com/nx-squeezer/squeezer
 - https://github.com/robinpellegrims/pellegrims
 - https://github.com/mathpaquette/tskmgr
 - https://github.com/BioPhoton/nx-validators
@@ -1890,6 +1891,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ngneat/inspector
 - https://github.com/swimlane/DocSPA
 - https://github.com/docgeni/docgeni
+- https://github.com/ng-doc/ng-doc
 - https://github.com/urish/ng-lift
 - https://github.com/mgechev/ngrev
 - https://github.com/compodoc/ngd
@@ -2256,9 +2258,9 @@ Analyze and optimize the performance of your app
 - https://github.com/LogRocket/logrocket
 - https://github.com/dbfannin/ngx-logger
 - https://github.com/ngworker/lumberjack
-- https://github.com/Tinkoff/micro-sentry
 - https://github.com/hyperjumptech/monika
 - https://github.com/tgure/ngx-loggly-logger
+- https://github.com/taiga-family/micro-sentry
 - https://github.com/Angular-RU/angular-logger
 - https://github.com/chigix/linked-data-graphic
 - https://github.com/ngdevelop-tech/ngx-fancy-logger

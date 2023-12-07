@@ -434,6 +434,7 @@ emit/receive : https://github.com/quiet/quiet-js
 ## FRAMEWORK
 - https://decorator.io/modulr/
 - https://github.com/marko-js/marko
+- https://github.com/quickjs-ng/quickjs
 - https://github.com/fabiospampinato/voby
 - https://github.com/justin-schroeder/arrow-js
 - https://blog.madewithlove.be/post/webpack-your-bags/
@@ -536,12 +537,13 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES
-
 - https://alex.dytry.ch/toys/infinite-scroll/
 - https://codyhouse.co/nuggets/text-gradients
 - https://codepen.io/cassie-codes/full/RwRORqB
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
+- https://codepen.io/gayane-gasparyan/pen/wvNXyYR
 - https://codepen.io/smpnjn/pen/mdrWPpK
+- https://codepen.io/jh3y/pen/KKJRqpM
 - https://codepen.io/jh3y/pen/xxQdPae
 - https://github.com/codrops/ConnectedGrid
 - https://codepen.io/ainalem/full/QWGNzYm
@@ -592,6 +594,9 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## CREATIVE COURSES
 - https://www.youtube.com/watch?v=zVbLR7rI8ZU David Khourshid - Behind the Illusions: Impossibly high-performance layout animations
+
+## CREATIVE SPEC
+- https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline
 
 ## TRAINING
 

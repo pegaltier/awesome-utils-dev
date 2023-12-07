@@ -13,6 +13,7 @@
 - https://github.com/n8n-io/n8n
 - https://github.com/rowyio/rowy
 - https://github.com/zulip/zulip
+- https://github.com/the-via/app
 - https://github.com/ekzhang/sshx
 - https://github.com/schollz/croc
 - https://github.com/nocodb/nocodb
@@ -128,6 +129,7 @@
 ## Automate / automation
 - https://www.getmagical.com/
 - https://github.com/n8n-io/n8n
+- https://github.com/microsoft/TaskWeaver
 - https://github.com/zapier/zapier-platform
 
 ## New

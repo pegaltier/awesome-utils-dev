@@ -161,6 +161,7 @@
 - https://github.com/facebookexperimental/Recoil
 - https://github.com/styled-system/styled-system
 - https://github.com/outline/rich-markdown-editor
+- https://github.com/anantoghosh/react-linkify-it
 - https://github.com/benhowell/react-grid-gallery
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
@@ -179,6 +180,7 @@
 - https://github.com/bezkoder/react-refresh-token-hooks
 - https://github.com/welldone-software/why-did-you-render
 - https://github.com/webscopeio/react-textarea-autocomplete
+- https://github.com/JorrinKievit/react-ts-tradingview-widgets
 - https://github.com/jakovljevic-mladen/react-pagination-rx-streams
 
 ## LIB: UI

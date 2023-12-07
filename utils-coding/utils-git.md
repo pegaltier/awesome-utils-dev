@@ -53,6 +53,7 @@
 - https://github.com/githubocto/repo-visualizer
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/rafgraph/spa-github-pages
+- https://github.com/avgupta456/github-trends
 - https://github.com/Gherciu/commitlint-jira
 - https://prettier.io/docs/en/precommit.html
 - https://github.com/jesseduffield/lazygit

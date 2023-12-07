@@ -109,6 +109,8 @@
 - https://www.theneura.com
 
 ## LIB
+- https://github.com/aethermonkey/The-Digital-Hamlet
+- https://github.com/postgresml/postgresml
 - https://github.com/qdrant/qdrant
 - https://github.com/hegelai/prompttools/
 - https://github.com/Unstructured-IO/unstructured
@@ -123,6 +125,7 @@
 - https://github.com/googleprojectzero/fuzzilli
 - https://github.com/axa-group/nlp.js
 - https://github.com/deepset-ai/FARM
+- https://github.com/CarperAI/trlx
 - https://github.com/winkjs/wink-ner
 - https://github.com/obsei/obsei
 - https://github.com/upscayl/upscayl
@@ -139,6 +142,7 @@
 - https://github.com/deepdoctection/deepdoctection
 
 ## LIB: GPT
+- https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
 - https://github.com/Significant-Gravitas/Auto-GPT
@@ -180,6 +184,8 @@
 
 ## LIB: LLM
 - https://github.com/aws-samples/aws-genai-llm-chatbot
+- https://github.com/ColinEberhardt/langchain-mini
+- https://github.com/bigscience-workshop/petals
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/mit-han-lab/streaming-llm
 - https://github.com/run-llama/LlamaIndexTS

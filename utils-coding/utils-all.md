@@ -64,21 +64,18 @@
 - https://awesomeopensource.com/
 - https://www.prettyawesomelists.com
 
-## OPEN STANDARD
-
-- https://openapi-generator.tech/docs/generators
-
 ## DISCOVER
-
 - https://glitch.com/
 
 ## COMMUNITY
-
 - https://www.techs.rocks/
 - https://github.com/ladyleet/tech-community-slacks
 
 ## ASSEMBLER
 - https://github.com/Schweigi/assembler-simulator
+
+## CPP / C++
+- https://github.com/federico-busato/Modern-CPP-Programming
 
 ## EXAMPLES
 - https://github.com/brettchalupa/projectbook

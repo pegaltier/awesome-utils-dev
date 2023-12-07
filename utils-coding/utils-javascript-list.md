@@ -150,7 +150,7 @@
 - https://github.com/GorvGoyl/Clone-Wars
 - https://github.com/atulmy/fullstack-javascript-architecture
 
-## TOOLS OSS
+## TOOLS: OTHERS
 
 - https://github.com/vercel/hazel
 - https://github.com/webhintio/hint
@@ -221,6 +221,7 @@
 - https://github.com/smeijer/unimported
 - https://github.com/NectarJS/nectarjs
 - https://github.com/fwouts/previewjs
+- https://github.com/biomejs/biome
 - https://github.com/projen/projen
 - https://github.com/vitejs/vite
 
@@ -237,6 +238,8 @@
 - https://github.com/typicode/lowdb
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
+- https://github.com/orbitinghail/sqlsync
+- https://github.com/zemberdotnet/jsonl-db
 - https://github.com/StarlaneStudios/Surrealist
 
 ## LIB: BACKEND
@@ -345,6 +348,9 @@
 - https://github.com/sindresorhus/super-regex
 - https://github.com/compose-regexp/compose-regexp.js
 
+## LIB: WEBASSEMBLY
+- https://github.com/bytecodealliance/jco
+
 ## LIB: VALIDATION
 - https://github.com/hapijs/joi
 - https://github.com/sideway/joi
@@ -356,6 +362,7 @@
 
 ## LIB: CACHING
 - https://github.com/thinkloop/memoizerific
+- https://github.com/epicweb-dev/cachified
 - https://github.com/erikras/lru-memoize
 
 ## LIB: DI
@@ -464,6 +471,7 @@
 - https://github.com/HichemTab-tech/EasyCaptchaJS
 - https://github.com/timruffles/mobile-drag-drop
 - https://github.com/alias-rahil/handwritten.js
+- https://github.com/epicweb-dev/restore-scroll
 - https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
 - https://github.com/funktechno/texthighlighter

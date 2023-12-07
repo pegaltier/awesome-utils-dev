@@ -65,6 +65,7 @@
 - https://github.com/postmanlabs/openapi-to-postman
 - https://github.com/APIDevTools/json-schema-ref-parser
 - https://github.com/OpenAPITools/openapi-generator-cli
+- - https://openapi-generator.tech/docs/generators
 
 ## POSTMAN
 - https://github.com/transferwise/public-api-postman-collection
@@ -160,6 +161,7 @@
 - https://rapidapi.com
 - https://www.humanapi.co
 - https://github.com/APIs-guru
+- https://github.com/davemachado/public-api
 - https://github.com/public-apis/public-apis
 - https://github.com/cheatsnake/backend-cheats
 - https://github.com/chubin/awesome-console-services

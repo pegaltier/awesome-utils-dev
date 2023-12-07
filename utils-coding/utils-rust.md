@@ -15,6 +15,7 @@
 - https://github.com/cargo2nix/cargo2nix
 
 ## LIB
+- https://github.com/crabnebula-dev/cargo-packager
 - https://github.com/1Password/typeshare
 - https://github.com/juspay/hyperswitch
 - https://github.com/Aleph-Alpha/ts-rs
@@ -24,8 +25,10 @@
 - https://github.com/tauri-apps/tauri
 - https://github.com/makepad/makepad
 - https://github.com/Keats/validator
+- https://github.com/google/zerocopy
 - https://github.com/GREsau/schemars
 - https://github.com/napi-rs/napi-rs
+- https://github.com/image-rs/image
 - https://github.com/loro-dev/loro
 - https://github.com/otake84/dlhn
 - https://github.com/BloopAI/bloop

@@ -21,10 +21,12 @@
 - https://github.com/DanWahlin/typescript-fundamentals
 - https://github.com/santoshyadavdev/typescript-basics
 - https://github.com/microsoft/TypeScript-New-Handbook
+- https://github.com/glebec/beginners-typescript-tutorial
 - https://github.com/CodelyTV/awesome-typescript-examples
 - https://2ality.com/2020/04/migrating-to-typescript.html
 - https://github.com/enricopolanski/functional-programming
 - https://kentcdodds.com/blog/typescript-function-syntaxes
+- https://github.com/total-typescript/total-typescript-book
 - https://github.com/ghoullier/awesome-template-literal-types
 - https://github.com/typescript-exercises/typescript-exercises
 - https://github.com/total-typescript/beginners-typescript-tutorial

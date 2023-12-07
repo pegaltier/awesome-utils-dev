@@ -38,6 +38,7 @@
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/
 - https://trade.collective2.com/
+- https://algotradinginfo.com/
 - https://www.ezalgo.co/
 - https://squared2.io/
 - https://mycoder.pro/
@@ -272,6 +273,7 @@
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://github.com/EarnForex/PositionSizer
+- https://github.com/EA31337/EA31337
 - https://book.mql4.com/programm/samples
 - https://www.trading-automatique.fr/mql4/
 - https://docs.mql4.com/runtime/event_fire#calculate
@@ -443,6 +445,7 @@
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM
 - https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/conor19w/Binance-Futures-Trading-Bot
+- https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
