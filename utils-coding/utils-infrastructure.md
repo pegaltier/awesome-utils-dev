@@ -104,9 +104,10 @@
 - https://github.com/unjs/listhen
 - https://github.com/inconshreveable/ngrok
 
-## TOOLS: MONITORING / LOGGING
+## TOOLS: MONITORING / LOGGING / REPLAYING
 - LOGS Elasticsearch/Splunk/Datadog
 - https://github.com/openobserve/openobserve
+- https://github.com/openreplay/openreplay
 - https://github.com/influxdata/influxdb
 - https://github.com/hyperdxio/hyperdx
 
