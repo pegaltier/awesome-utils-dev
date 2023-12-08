@@ -131,6 +131,8 @@
 - https://github.com/n8n-io/n8n
 - https://github.com/microsoft/TaskWeaver
 - https://github.com/zapier/zapier-platform
+- https://github.com/dmtrbrl/bulk-url-opener
+- https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1
 
 ## New
 - https://fig.io/

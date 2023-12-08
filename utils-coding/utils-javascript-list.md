@@ -615,6 +615,9 @@
 - https://github.com/anvaka/graph-drawing-libraries
 - https://github.com/0beqz/screen-space-reflections
 - https://github.com/supermedium/aframe-environment-component
+- https://github.com/lumalabs/luma-web-library
+- https://lumalabs.ai/luma-web-library
+- https://lumalabs.ai/
 
 ## LIB: AI
 - https://github.com/BrainJS/brain.js

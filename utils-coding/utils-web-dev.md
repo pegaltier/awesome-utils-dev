@@ -465,6 +465,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/btakita/ui--all--blog/tree/main
 
 ## STARTER: WEB / CMS
+- [static](./utils-coding/utils-static.md)
 - https://github.com/arwes/arwes
 - https://github.com/withastro/astro
 - https://github.com/aidenybai/lucia
