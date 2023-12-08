@@ -364,6 +364,7 @@
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
 
 ### OSS: STRATEGY
+- https://github.com/alanvito1/Binary-Robots
 - https://github.com/freqtrade/freqtrade-strategies
 - https://github.com/paulcpk/freqtrade-strategies-that-work
 - https://github.com/sofienkaabar/Contrarian-Trading-Strategies
@@ -371,7 +372,7 @@
 - https://github.com/sofienkaabar/The-Book-of-Trading-Strategies
 
 ### OSS: EXECUTE
-- https://github.com/stoqey/ib
+- https://github.com/stoqey/ib *
 - https://github.com/gateio/gateapi-nodejs
 - https://github.com/alpacahq/alpaca-trade-api-js
 - https://github.com/tiagosiebler/okx-api

@@ -106,6 +106,7 @@
 
 ## TOOLS: MONITORING / LOGGING / REPLAYING
 - LOGS Elasticsearch/Splunk/Datadog
+- https://github.com/Optibus/playback-ts
 - https://github.com/openobserve/openobserve
 - https://github.com/openreplay/openreplay
 - https://github.com/influxdata/influxdb
