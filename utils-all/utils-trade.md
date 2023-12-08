@@ -45,6 +45,7 @@
 - https://algotradinginfo.com/
 - https://aresquant.com/
 - https://www.algome.in/
+- https://quantform.io/
 - https://algomojo.com/
 - https://www.ezalgo.co/
 - https://squared2.io/
@@ -345,8 +346,6 @@
 
 
 ### OSS: QUALITY
-- https://github.com/edarchimbaud/awesome-systematic-trading
-- https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/hummingbot/hummingbot
 - https://github.com/freqtrade/freqtrade
 - https://github.com/jesse-ai/jesse
@@ -355,6 +354,7 @@
 ### OSS: AWESOME
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/tiagosiebler/awesome-crypto-examples
+- https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/edarchimbaud/awesome-systematic-trading
 - https://github.com/topics/candlestick-patterns-detection
 
@@ -533,3 +533,20 @@
 
 ## SOCIAL
 - https://www.andlil.com/forum/
+
+## FMZ
+- https://www.fmz.com/strategy/359806 *
+- https://www.fmz.com/strategy/361880 * 
+- https://www.fmz.com/strategy/361554 * 
+- https://www.fmz.com/strategy/368715
+- https://www.fmz.com/strategy/362012
+- https://www.fmz.com/live
+- https://www.fmz.com/robot/555619 * 
+- https://www.fmz.com/robot/558720 *
+- https://github.com/fmzquant
+- https://github.com/fmzquant/backtest_javascript
+- https://www.fmz.com/lang/en/api
+- https://www.fmz.com/user-guide#backtest-system-model
+- https://www.fmz.com/api#backtesting-system-parameter-optimization
+- https://medium.com/@FMZQuant/javascript-strategy-backtesting-is-debugged-in-devtools-of-chrome-browser-3f2eeea3a446
+- https://blog.mathquant.com/2020/06/04/fmz-simulation-level-backtest-mechanism-explanation.html
