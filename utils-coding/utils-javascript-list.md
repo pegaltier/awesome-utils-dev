@@ -235,6 +235,9 @@
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/TomerAberbach/lfi
 
+## LIB: EVENT / BUS
+- https://github.com/ai/nanoevents
+
 ## LIB: DATABASE
 - https://github.com/pubkey/rxdb
 - https://github.com/typicode/lowdb
@@ -489,6 +492,7 @@
 - https://github.com/NUKnightLab/TimelineJS3
 - https://github.com/sindresorhus/clipboardy
 - https://github.com/lucafalasco/scroll-snap
+- https://github.com/katspaugh/wavesurfer.js
 - https://github.com/zenorocha/clipboard.js
 - https://github.com/catdad/canvas-confetti
 - https://github.com/pshihn/rough-notation

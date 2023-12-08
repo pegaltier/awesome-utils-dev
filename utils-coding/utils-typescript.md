@@ -44,6 +44,7 @@ npm init
 ## TOOLS
 
 - http://json2ts.com
+- https://tsdiagram.com
 - https://ts-ast-viewer.com
 
 ## USEFUL
@@ -79,6 +80,7 @@ npm init
 - https://github.com/imjuni/ctix
 - https://github.com/formium/tsdx
 - https://github.com/unjs/magicast
+- https://github.com/3rd/tsdiagram
 - https://github.com/phero-hq/phero
 - https://github.com/esbuild-kit/tsx
 - https://github.com/Microsoft/tsdoc

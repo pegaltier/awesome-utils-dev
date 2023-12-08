@@ -1,8 +1,14 @@
 # TESTING
 
+## BROWSER
 - https://github.com/microsoft/playwright
 - https://github.com/cypress-io/cypress
 - https://github.com/SeleniumHQ/selenium
+- https://github.com/webdriverio/webdriverio
+
+## API
+- https://github.com/dareid/chakram
+- https://github.com/pactumjs/pactum
 
 ## COMPARATIVE
 
@@ -83,6 +89,8 @@
 - https://github.com/component-driven/cypress-axe
 - https://github.com/ceceliacreates/ionic-cypress
 - https://github.com/cypress-io/cypress-skip-test
+- https://github.com/currents-dev/cypress-cloud
+- https://github.com/currents-dev/cypress-debugger
 - https://github.com/bahmutov/cypress-should-really
 - https://github.com/gkushang/cucumber-html-reporter
 - https://github.com/ksocha/cypress-circleci-reporter
@@ -100,8 +108,12 @@
 - https://github.com/cypress-visual-regression/cypress-visual-regression
 
 ## UTILS: PLAYWRIGHT
+- https://github.com/currents-dev/playwright-gh-actions-demo
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
+- https://playwrightsolutions.com/
+- https://playwright.tech/
+- https://playwright.dev/
 
 ## CYPRESS: LEARN 
 - https://github.com/stevekinney/cypress

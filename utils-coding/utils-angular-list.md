@@ -1863,6 +1863,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/TrilonIO/angular-application-insights
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/expertly-simple/angular-evergreen
+- https://github.com/dot-build/angular-serve-and-run
 - https://github.com/AleksanderBodurri/shield-maker
 - https://github.com/nitedani/vite-plugin-angular
 - https://github.com/angular-experts-io/terminal
@@ -2327,6 +2328,7 @@ Analyze and optimize the performance of your app
 - https://github.com/tonysamperi/ngx-popperjs
 - https://github.com/Cordobo/angularx-qrcode
 - https://github.com/matteobruni/tsparticles
+- https://github.com/tsparticles/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
 - https://github.com/leovo2708/ngx-treeview

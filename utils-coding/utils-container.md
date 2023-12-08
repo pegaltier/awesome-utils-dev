@@ -150,6 +150,7 @@ RUN ls
 
 
 ## DOCKER IMAGES
+- https://github.com/pgautoupgrade/docker-pgautoupgrade
 - https://github.com/jonatan-ivanov/local-services
 - https://github.com/bunkerity/bunkerized-mariadb
 - https://github.com/bunkerity/bunkerized-nginx

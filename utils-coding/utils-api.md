@@ -89,6 +89,7 @@
 - https://github.com/nhost/nhost
 - https://github.com/appwrite/appwrite
 - https://github.com/supabase/supabase
+- https://github.com/surrealdb/surrealdb
 - https://github.com/serverless-stack/sst
 - https://github.com/serverless/serverless
 - https://github.com/pocketbase/pocketbase
@@ -118,6 +119,9 @@
 ## PAYMENT
 
 - https://truelayer.com/
+
+## AUDIO GENERATION
+- https://www.gladia.io/
 
 ## IMG GENERATION
 

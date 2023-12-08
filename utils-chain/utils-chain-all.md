@@ -12,6 +12,7 @@
 
 ## NEWTECH
 - https://agoric.com/
+- https://gotbit.io/
 - https://www.qredo.com/
 - https://worldcoin.org/
 
@@ -235,6 +236,7 @@
 - https://coldstoragecoins.com/
 - https://en.bitcoin.it/wiki/Cold_storage
 - https://github.com/iancoleman/bip39
+- https://github.com/rektbuildr/ledger-live
 - https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5
 
 ## DAPPS 
@@ -304,6 +306,9 @@
 - https://0xproject.com/portal
 
 ## D EXCHANGE
+- https://tigris.trade/
+- https://dexscreener.com/
+- https://www.geckoterminal.com/
 - https://www.investvoyager.com/
 - https://beta.wavesplatform.com/
 - https://www.stellarx.com/ (SDEX?)

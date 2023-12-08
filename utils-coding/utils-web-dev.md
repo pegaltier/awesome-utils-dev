@@ -476,6 +476,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/bigskysoftware/htmx
 - https://github.com/Thinkmill/keystatic
 - https://github.com/modernweb-dev/rocket
+- https://github.com/h5bp/html5-boilerplate
 - https://github.com/web-infra-dev/modern.js
 - https://github.com/cbracco/html5-test-page
 - https://github.com/jamesgeorge007/scaffold-static

@@ -39,10 +39,13 @@
 - https://www.ziontradingalgos.com/
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
+- https://www.algome.in/
+- https://algomojo.com/
 - https://www.ezalgo.co/
 - https://squared2.io/
 - https://mycoder.pro/
 - https://algoji.com/
+- https://nurp.com/
 
 ## PODCAST
 - https://chatwithtraders.com/
@@ -75,11 +78,13 @@
 - https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/
 
 ## QUOTES
+- https://finnhub.io/
 - https://tardis.dev/
 - https://databento.com/
 - https://tradermade.com/
 - https://crypto-lake.com/
 - https://norgatedata.com/
+- https://www.alphavantage.co/
 - https://eodhistoricaldata.com/
 - https://www.cryptoarchive.com.au/ *
 - https://github.com/maxgfr/binance-historical *
@@ -135,12 +140,16 @@
 - https://marketspy.net/free-poett-access/
 - https://www.thinkmarkets.com/en/tools/tradersgym/
 - https://tradingindicators.com/portfolio-architect-2-0/
+- https://support.google.com/docs/answer/3093281?hl=en
 
-## TOOLS: SCREENING
+## TOOLS: SCREENING / NEWS
+- https://www.zacks.com/
 - https://deepvue.com/
 - https://www.smartcharts.net/
 
 ## TOOLS: TRADE EXEC / BROKER
+- https://eu.deriv.com/
+- https://api.deriv.com/
 - https://insilicoterminal.com/
 - https://centerpointsecurities.com/
 
@@ -223,6 +232,11 @@
 - https://www.tradingview.com/pine-script-docs/en/v4/language/Operators.html
 - https://www.tradingview.com/pine-script-docs/en/v5/concepts/Plots.html
 - https://stackoverflow.com/questions/48656195/what-is-the-equivalent-of-console-log-in-pine-script
+
+## TOOLS: TRADINGVIEW: SERVICES
+- https://www.pinescriptstrategies.com/
+- https://www.daytraderplaybook.com/
+- https://www.ultraalgo.com/
 
 ## TOOLS: TRADINGVIEW: STRATEGY
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
@@ -363,6 +377,7 @@
 - https://github.com/bennycode/coinbase-pro-node
 - https://github.com/binance/binance-connector-node *
 - https://github.com/binance/binance-connector-typescript *
+- https://github.com/vertex-protocol/vertex-typescript-sdk
 - https://github.com/binance-exchange/binance-api-node
 - https://github.com/tiagosiebler/orderbooks
 - https://github.com/Kucoin/kucoin-api-docs
@@ -431,6 +446,7 @@
 - https://github.com/CryptoSignal/Crypto-Signal
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/bitfinexcom/bitfinex-api-py
+- https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/day0market/support_resistance
@@ -440,6 +456,7 @@
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/firmai/financial-machine-learning
+- https://github.com/GrovesD2/market_monitor_trend_dash
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
@@ -480,6 +497,7 @@
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
+- https://github.com/focus1691/indicator-library * 
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
 - https://github.com/Haehnchen/crypto-trading-bot *

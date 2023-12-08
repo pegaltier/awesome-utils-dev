@@ -107,6 +107,8 @@
 ## OTHERS
 
 - https://www.theneura.com
+- https://civitai.com/
+- https://ollama.ai/
 
 ## LIB
 - https://github.com/aethermonkey/The-Digital-Hamlet

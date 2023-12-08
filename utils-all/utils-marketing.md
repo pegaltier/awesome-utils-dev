@@ -12,6 +12,7 @@
 ## ABTESTING / FEATURE TOGGLE
 - https://github.com/DigitalOptimizationGroup/cms
 - https://github.com/growthbook/growthbook
+- https://github.com/Flagsmith/flagsmith
 - https://github.com/Unleash/unleash
 - https://github.com/PostHog/posthog
 - https://www.digitaloptgroup.com/

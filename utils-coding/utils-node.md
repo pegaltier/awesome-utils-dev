@@ -10,6 +10,7 @@
 - https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
 - https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6
 - https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
+- https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc node-typescript-esm.md
 
 ## PACKAGE MANAGER
 
@@ -143,6 +144,7 @@
 - https://github.com/kelektiv/node-cron
 
 ## LIBS: TESTING
+- https://github.com/avajs/ava
 - https://github.com/nock/nock
 - https://github.com/4lejandrito/fetchbook
 - https://github.com/bahmutov/start-server-and-test
@@ -248,6 +250,7 @@
 - https://github.com/directus/directus
 - https://github.com/mikro-orm/mikro-orm
 - https://github.com/sequelize/sequelize
+- https://github.com/moleculerjs/moleculer
 - https://github.com/wundergraph/wundergraph
 - https://github.com/strongloop/loopback-next
 - https://github.com/serhiisol/node-decorators
