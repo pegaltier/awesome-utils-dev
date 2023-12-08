@@ -156,6 +156,9 @@ npm init
 - https://github.com/krzkaczor/earl
 - https://github.com/thi-ng/umbrella
 
+## LIB: ASSEMBLYSCRIPT / WASM
+- https://github.com/torch2424/as-bind
+
 ## LIB: DATABASE / SQL
 - https://github.com/adelsz/pgtyped
 - https://github.com/codemix/ts-sql

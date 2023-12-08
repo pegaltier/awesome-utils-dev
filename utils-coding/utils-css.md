@@ -130,6 +130,7 @@
 - https://github.com/mertasan/tailwindcss-variables
 - https://github.com/tailwindlabs/tailwindcss-forms
 - https://github.com/windicss/windicss-intellisense
+- https://github.com/tailwindlabs/tailwindcss-container-queries
 
 ## DEVTOOLS
 - https://github.com/parcel-bundler/lightningcss

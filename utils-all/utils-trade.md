@@ -361,7 +361,8 @@
 - https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
 - https://github.com/bennycode/coinbase-pro-node
-- https://github.com/binance/binance-connector-node*
+- https://github.com/binance/binance-connector-node *
+- https://github.com/binance/binance-connector-typescript *
 - https://github.com/binance-exchange/binance-api-node
 - https://github.com/tiagosiebler/orderbooks
 - https://github.com/Kucoin/kucoin-api-docs

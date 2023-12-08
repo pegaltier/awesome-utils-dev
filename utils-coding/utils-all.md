@@ -74,6 +74,9 @@
 ## ASSEMBLER
 - https://github.com/Schweigi/assembler-simulator
 
+## WEBASSEMBLY WASM
+- https://github.com/appcypher/awesome-wasm-langs
+
 ## CPP / C++
 - https://github.com/federico-busato/Modern-CPP-Programming
 

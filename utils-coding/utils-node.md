@@ -107,8 +107,8 @@
 - https://github.com/nexe/nexe
 - https://github.com/sezna/nps
 
-## MONITORING
-
+## MONITORING / LOGGING
+- https://github.com/pinojs/pino
 - https://clinicjs.org/
 - http://pm2.keymetrics.io/
 
@@ -119,7 +119,6 @@
 - https://github.com/clinicjs/node-clinic
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/frinyvonnick/node-html-to-image
-- https://github.com/panva/node-oidc-provider
 - https://github.com/log4js-node/log4js-node
 - https://github.com/kibertoad/toad-scheduler
 - https://github.com/microsoft/playwright
@@ -153,9 +152,10 @@
 - https://github.com/motdotla/dotenv
 - https://github.com/ekalinin/nodeenv
 
-## LIBS: AUTH
+## LIBS: AUTH / OIDC
 - https://github.com/google/webauthndemo
 - https://github.com/MasterKale/SimpleWebAuthn
+- https://github.com/panva/node-oidc-provider
 
 ## LIBS: CACHE
 - https://github.com/node-cache-manager/node-cache-manager
@@ -184,6 +184,7 @@
 - https://github.com/w3tecch/typeorm-seeding
 - https://github.com/drizzle-team/drizzle-orm
 - https://github.com/drifting-in-space/driftdb
+- https://github.com/sql-formatter-org/sql-formatter
 - https://github.com/benjamin658/typeorm-cursor-pagination
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository
 

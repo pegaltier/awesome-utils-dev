@@ -75,6 +75,7 @@
 - https://github.com/javascript-tutorial/en.javascript.info
 - https://github.com/MostlyAdequate/mostly-adequate-guide
 - https://github.com/dwyl/Javascript-the-Good-Parts-notes
+- https://github.com/nirkaufman/javascript-arrays-objects
 - https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/30-seconds/30-seconds-of-interviews
 - https://github.com/mhevery/JavaScriptVM_under_the_hood
@@ -92,6 +93,7 @@
 - https://github.com/deepa314/JAVASCRIPT_NOTES
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/twhite96/js-dev-reads
+- https://github.com/nirkaufman/object-ref
 - https://github.com/serhiisol/awesome-js
 - https://github.com/denysdovhan/wtfjs
 - https://github.com/standard/standard
@@ -252,9 +254,11 @@
 - https://github.com/redwoodjs/redwood
 - https://github.com/juliancwirko/create-harold-app
 
-## LIB: AUTH
+## LIB: AUTH / OIDC / 2FA
 - https://github.com/logto-io/logto
 - https://github.com/epicweb-dev/totp
+- https://github.com/garronej/oidc-spa
+- https://github.com/charlietango/owky
 
 ## LIB: UTILS
 
@@ -607,6 +611,7 @@
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
 - https://github.com/mkkellogg/TrailRendererJS
+- https://github.com/bgstaal/multipleWindow3dScene
 - https://github.com/anvaka/graph-drawing-libraries
 - https://github.com/0beqz/screen-space-reflections
 - https://github.com/supermedium/aframe-environment-component
@@ -637,6 +642,7 @@
 - https://github.com/jsonata-js/jsonata
 
 ## LIB: DATA OBJECT
+- https://github.com/crdt-ibm-research/json-delta-crdt
 - https://github.com/Leonidas-from-XIV/node-xml2js
 - https://github.com/francisrstokes/construct-js
 - https://github.com/pichillilorenzo/jackson-js
@@ -647,6 +653,7 @@
 - https://github.com/quicktype/quicktype
 - https://github.com/blitz-js/superjson
 - https://github.com/calvintwr/issable
+- https://github.com/corps/json-delta
 - https://github.com/json5/json5
 - https://github.com/eemeli/yaml
 
@@ -677,6 +684,7 @@
 
 ## LIB: PDF
 - https://github.com/parallax/jsPDF
+- https://github.com/foliojs/pdfkit
 - https://github.com/Hopding/pdf-lib
 - https://github.com/torakiki/pdfsam
 - https://github.com/bpampuch/pdfmake

@@ -1,5 +1,9 @@
 # TESTING
 
+- https://github.com/microsoft/playwright
+- https://github.com/cypress-io/cypress
+- https://github.com/SeleniumHQ/selenium
+
 ## COMPARATIVE
 
 - Selenium released in 2004 (opensource; requires java - WebDriver, complex installation because different dependencies version must match: java, selenium, webdriver, protractor; chrome, complex dom manipulation, flaky tests) ~28k stars on Github.

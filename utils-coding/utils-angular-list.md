@@ -2776,11 +2776,12 @@ Add a progressbar for displaying a loader during the different async task like h
 ## ECOSYSTEM: LIB: ANIMATIONS
 - https://github.com/greensock/GSAP
 
-## ECOSYSTEM: LIB: PWA
+## ECOSYSTEM: LIB: PWA / WEBPUSH
 - https://github.com/elegantapp/pwa-asset-generator
 - https://github.com/cyrilletuzi/ngx-pwa-offline
 - https://ionicframework.com/docs/angular/pwa
 - https://github.com/OneSignal/onesignal-ngx
+- https://github.com/pqvst/minimal-web-push
 - https://github.com/vasanthv/ahey
 - https://github.com/OnsenUI/OnsenUI
 
@@ -3251,6 +3252,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 
 ## ECOSYSTEM: COMMUNITY
+- https://angular-hub.com/
 - https://ngx-libs.com/
 - https://indepth.dev/
 - https://web.dev/angular
@@ -3273,6 +3275,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://nxplaybook.com/
 - https://nrwlcommunity.slack.com/
 - https://github.com/maartentibau/angular-logos
+- https://github.com/angular-sanctuary/angular-hub
 - https://github.com/AngularCommunity/angular-missions
 - https://voidcosmos.github.io/angular-communities/
 

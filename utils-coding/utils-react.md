@@ -298,6 +298,7 @@
 - https://github.com/ravirupareliya/rn-in-app-review
 - https://github.com/getbouncer/react-native-cardscan
 - https://github.com/callstack/react-native-viewpager
+- https://github.com/alan-eu/react-native-fast-shadow
 - https://github.com/cjam/react-native-spotify-remote
 - https://github.com/RonRadtke/react-native-blob-util
 - https://github.com/oblador/react-native-vector-icons

@@ -175,6 +175,7 @@
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/reworkd/AgentGPT
 - https://github.com/xtekky/gpt4free
+- https://github.com/run-llama/rags
 - https://github.com/sunner/ChatALL
 - https://github.com/dzhng/zod-gpt
 - https://github.com/cpacker/MemGPT
@@ -229,6 +230,9 @@
 - https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/AIAnytime/AI-News-Anchor-Generator-App
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
+
+## LIB: AUDIO
+https://github.com/yl4579/StyleTTS2
 
 ## LIB: VIDEO
 - https://github.com/topics/ai-avatars

@@ -4,6 +4,7 @@
 - https://github.com/goabstract/Marketing-for-Engineers
 
 ## ANALYTICS
+- https://github.com/PostHog/posthog
 - https://github.com/aptabase/aptabase
 - https://github.com/matomo-org/matomo
 - https://github.com/umami-software/umami

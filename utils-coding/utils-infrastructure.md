@@ -163,6 +163,7 @@
 ## KUBERNETES
 - https://helm.sh/
 - https://github.com/boz/kail
+- https://github.com/rigdev/rig
 - https://github.com/appvia/kev
 - https://github.com/k3s-io/k3s
 - https://github.com/keel-hq/keel
@@ -171,6 +172,7 @@
 - https://github.com/ahmetb/kubectx
 - https://github.com/k0sproject/k0s
 - https://github.com/pixie-io/pixie
+- https://github.com/zegl/kube-score
 - https://github.com/ubuntu/microk8s
 - https://github.com/mkimuram/k8sviz
 - https://github.com/paralus/paralus
