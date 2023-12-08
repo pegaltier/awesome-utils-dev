@@ -1,6 +1,6 @@
 # TRADE
 
-## TRADERS
+## ALGO TRADERS
 
 - Jarrod Goodwin https://www.thetransparenttrader.com/ | https://www.youtube.com/c/TheTransparentTrader
 - Kevin Davey https://kjtradingsystems.com/ | https://www.youtube.com/@AlgoTradingWithKevinDavey
@@ -25,6 +25,10 @@
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
+## DISCRETIONARY TRADERS
+- Kris Verma https://krisverma.com/
+- https://www.clivemaund.com/
+
 ## SITES
 - https://autoview.com/
 - https://quantpedia.com/
@@ -39,6 +43,7 @@
 - https://www.ziontradingalgos.com/
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
+- https://aresquant.com/
 - https://www.algome.in/
 - https://algomojo.com/
 - https://www.ezalgo.co/

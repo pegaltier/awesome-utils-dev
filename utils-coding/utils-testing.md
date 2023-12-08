@@ -5,6 +5,8 @@
 - https://github.com/cypress-io/cypress
 - https://github.com/SeleniumHQ/selenium
 - https://github.com/webdriverio/webdriverio
+- https://github.com/codeceptjs/CodeceptJS
+- https://github.com/testing-library/dom-testing-library
 
 ## API
 - https://github.com/dareid/chakram

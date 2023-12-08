@@ -65,6 +65,7 @@
 - https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/abi/screenshot-to-code
+- https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
 ## TOOLS: TEXT

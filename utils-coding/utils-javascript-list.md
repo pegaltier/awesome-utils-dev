@@ -629,6 +629,7 @@
 - https://github.com/neilgupta/Sherlock
 - https://github.com/SawyerHood/draw-a-ui
 - https://github.com/ykhli/local-ai-stack
+- https://github.com/xenova/transformers.js
 - https://github.com/facebookresearch/shumai
 - https://github.com/a16z-infra/ai-getting-started
 
