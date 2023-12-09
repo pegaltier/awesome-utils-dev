@@ -153,6 +153,7 @@
 - https://github.com/af/envalid
 - https://github.com/motdotla/dotenv
 - https://github.com/ekalinin/nodeenv
+- https://github.com/inventage/envsubst
 
 ## LIBS: AUTH / OIDC
 - https://github.com/google/webauthndemo

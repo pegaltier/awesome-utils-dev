@@ -26,3 +26,6 @@ https://jatins.gitlab.io/me/why-startup/
 - https://tinyacquisitions.com/
 - https://www.indiehackers.com/
 - https://startupaffiliate.io/
+
+## Sell
+- https://acquire.com/

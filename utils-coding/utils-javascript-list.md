@@ -440,17 +440,14 @@
 - https://github.com/shoelace-style/shoelace
 - https://github.com/nolimits4web/atropos
 - https://github.com/atomiks/floating-ui
-- https://github.com/nextcss/color-tools
 * https://github.com/flatpickr/flatpickr
 - https://github.com/jeremyckahn/shifty
-- https://github.com/junhoyeo/use-color
 - https://github.com/reach/observe-rect
 - https://github.com/camwiegert/typical
 - https://github.com/daybrush/selecto
 - https://github.com/desandro/masonry
 - https://github.com/Splidejs/splide
 - https://github.com/shikijs/shiki
-- https://github.com/Qix-/color
 
 ## LIB: FUNCTIONNAL PROGRAMMING / FP
 - https://github.com/ramda/ramda
@@ -471,7 +468,6 @@
 ## LIB: FRONTEND ALL
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/SamVerschueren/decode-uri-component
-- https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
@@ -539,7 +535,6 @@
 ## LIB: FRONTEND DESIGN
 
 - https://github.com/gmrchk/blobity
-- https://github.com/omgovich/colord
 - https://github.com/Dogstudio/highway
 - https://github.com/airbnb/lottie-web
 - https://github.com/rikschennink/fitty
@@ -550,7 +545,15 @@
 - https://github.com/cotton123236/zoomist
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
+
+## LIB: COLOR
 - https://github.com/fast-average-color/fast-average-color
+- https://github.com/easylogic/codemirror-colorpicker
+- https://github.com/nextcss/color-tools
+- https://github.com/junhoyeo/use-color
+- https://github.com/Evercoder/culori
+- https://github.com/omgovich/colord
+- https://github.com/Qix-/color
 
 ## LIB: MATH
 - https://github.com/MikeMcl/bignumber.js
