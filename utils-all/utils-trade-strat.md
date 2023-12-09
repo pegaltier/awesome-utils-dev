@@ -343,6 +343,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## STRATEGY: YOUTUBE CHANNEL
 - https://www.youtube.com/@seriousbacktester Serious Backtester
 - https://www.youtube.com/@TheArtOfTrading The Art of Trading
+- https://www.youtube.com/@PeakTradingResearch Peak Trading Research
 - https://www.youtube.com/@StatOasis StatOasis
 - https://www.youtube.com/@TradingTact Trading Tact
 - https://www.youtube.com/@AlgoTradingWithKevinDavey Algo Trading With Kevin Davey
@@ -355,6 +356,14 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@TradingHeroes Trading Heroes
 - https://www.youtube.com/@Netpicks1 NetPicks Smart Trading
 - https://www.youtube.com/@cyrus.the.ggrreeaatt Cyrus-trader
+- https://www.youtube.com/@ZionTradingAlgos ZionTradingAlgos
+- https://www.youtube.com/@CodeTradingCafe CodeTrading
+- https://www.youtube.com/@tradingverge Trading Verge
+- https://www.youtube.com/@Tradingade- Tradingade
+- https://www.youtube.com/@ReneBalke René Balke
+- https://www.youtube.com/@algotradepro AlgoTrade Pro
+- https://www.youtube.com/@smbcapital SMB Capital
+
 
 - https://www.youtube.com/@tradepro Trade Pro
 - https://www.youtube.com/@QuantifiedStrategies Quantified Strategies
@@ -408,9 +417,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/fuWmIE7uj2w FT Trader EA - EURUSD Top Performance Strategy of week 21st Aug. 2023
 - https://youtu.be/vQcT6xntSeI FT Trader EA - EURUSD Profitable Strategy with MACD, ADX, & Sto! Profit 181%
 - https://youtu.be/ttkWl9HKqto FT Trader EA - GBPJPY Maximize Alligator + Fractal Trading Strategy
+- https://youtu.be/o6XtAbX3gWA René Balke - Bollinger Bands Indicator (+Moving Average) 
+- https://youtu.be/JdR8ZOrLr9s Kevin Davey - Swiss Franc - Mean reversion with BB(30) anc ROC(200)
 
 ## TODO: ORGANIZE: RSI
 - https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices with RSI
+- https://youtu.be/uiM-TifFKHg SMB Capital - Top 3 Ways To Use The RSI Indicator ****
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
 - https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
 - https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
@@ -419,12 +431,16 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/rJ5HaJ2iCdk Algofox - CANDLE BREAKOUT + RSI SETUP - stocks
 
 ## TODO: ORGANIZE: BREAKOUT
+- https://youtu.be/cbstP00lS2Y PeakAlgo - Bitcoin Breakout Trading on 90 minutes chart ****
+- https://youtu.be/tppGwDbJBlE PeakAlgo - Platinum Breakout Trading on 4h chart ****
 - https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate ***
 - https://youtu.be/6NWcKpupjJo Breakout 100 days high ***
 - https://youtu.be/rJ5HaJ2iCdk CANDLE BREAKOUT + RSI SETUP discussion with detailed backtest report ***
 - https://youtu.be/Blx6D_i1yAk StatOasis - Daily range Larry Williams volatility breakout ***
+- https://youtu.be/Hpqptc5mWW8 Python Automation of Price Channel Breakouts ***
 - https://youtu.be/C017hTtCapI StatOasis - Mastering Breakout Strategies & Building a Winning Portfolio!
-- https://youtu.be/OU5x8sUWumI René Balke Time window breakout **
+- https://youtu.be/arx8Xa-A76Y Tradingade - BEST Range Breakout Indicator 
+- https://youtu.be/OU5x8sUWumI René Balke - Time window breakout **
 
 ## TODO: ORGANIZE: MACD
 - https://youtu.be/sjlQWT6fEnU Consistently Profitable Trading Strategy! 200,000+ Trade Backtest ***

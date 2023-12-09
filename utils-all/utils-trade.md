@@ -22,6 +22,7 @@
 - https://www.reallifetrading.com/
 - Jay Wolberg http://www.tradingvolatility.net/
 - Hugh Kimura https://www.tradingheroes.com/
+- Dave Whitcomb https://www.peakalgo.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -40,7 +41,7 @@
 - https://quantifiableedges.com/
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
-- https://www.ziontradingalgos.com/
+- https://www.ziontradingalgos.com/ *
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
 - https://aresquant.com/
@@ -245,6 +246,7 @@
 - https://www.ultraalgo.com/
 
 ## TOOLS: TRADINGVIEW: STRATEGY
+- https://www.tradingview.com/u/Steversteves/#published-scripts
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
@@ -268,6 +270,7 @@
 - https://wundertrading.com
 - https://alertzmanager.io/
 - https://tradingview.to/
+- https://fundingrate.io/
 - https://aleeert.com/
 - https://www.tv-hub.org/
 - https://alertatron.com/
@@ -302,13 +305,13 @@
 ## OPEN SOURCES (OSS)
 
 ### OSS: TRADINGVIEW: LIST
-- https://gist.github.com/kaigouthro/b95a8b4c43e607ea71897e204904b9c0
 - https://github.com/topics/pinescript?o=desc&s=updated
 - https://github.com/topics/pinescript-strategies
 - https://github.com/topics/tradingview-alert
 - https://github.com/Heavy91/TradingView_Indicators
-- https://github.com/pAulseperformance/awesome-pinescript
+- https://github.com/pAulseperformance/awesome-pinescript *
 - https://github.com/pinecoders/tradingview-pinescript-indicators
+- https://gist.github.com/kaigouthro/b95a8b4c43e607ea71897e204904b9c0
 
 ### OSS: TRADINGVIEW: QUAL
 - https://github.com/fmzquant/strategies
@@ -329,7 +332,7 @@
 - https://github.com/alleyway/add-tradingview-alerts-tool
 - https://github.com/brian-the-dev/python-tradingview-ta
 - https://github.com/robswc/tradingview-webhooks-bot
-- https://github.com/fundingrate/tradingview-webhooks
+- https://github.com/fundingrate/tradingview-webhooks *
 - https://github.com/bevry-trading/automated-trading
 - https://github.com/tradingview/pine_script_docs
 - https://github.com/akilibots/akili-tradingview
