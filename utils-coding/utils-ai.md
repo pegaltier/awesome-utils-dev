@@ -61,6 +61,7 @@
 - https://gpt-tailwind.com/
 - https://github.com/e2b-dev/e2b
 - https://github.com/TabbyML/tabby
+- https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot

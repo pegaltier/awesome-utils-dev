@@ -16,6 +16,7 @@
 - https://etherscan.io/apis
 - https://github.com/ethereum/
 - https://github.com/wslyvh/nexth
+- https://github.com/wevm/abitype
 - https://github.com/mds1/evm-diff
 - https://github.com/DePayFi/web3-mock
 - https://github.com/pubkey/eth-crypto

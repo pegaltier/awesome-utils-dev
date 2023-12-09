@@ -81,6 +81,7 @@
 - https://quarkus.io/
 - https://code.quarkus.io/
 - https://github.com/agoncal
+- https://github.com/Netflix/conductor
 - https://antoniogoncalves.org/tag/micro-services/
 - https://github.com/livelessons-spring/building-microservices
 

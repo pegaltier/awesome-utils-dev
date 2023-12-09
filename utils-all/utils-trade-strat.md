@@ -464,6 +464,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/b2Joeh60gYk Relative Vigor Index Trading Strategy [Full Logic + Backtest] *** 
 - https://youtu.be/nc3EeGJulpw Automated Kaufman Adaptive Moving Average Trading Strategy! ***
 - https://youtu.be/u_qNQX7vU0w Trading Tact - Keltner channel + CCI rising for 4 consecutive ***
+- https://youtu.be/mrpPuwS8sas Eric Lefort - Stochastique trading
 - https://youtu.be/MywHpHyzsPE StatOasis - Casey C% is a great Momentum Oscillator ***
 - https://youtu.be/uvsL-fdcPU8 Algofox - EMA HIGH LOW BAND STRATEGY (index)
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
@@ -511,5 +512,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - preset for binaryhlc and start coding the hlc2 with more idea on it like grid multi position or divergance MIN(10) > MIN(20) and 3 consecutive close
 - continue work on ROC, find improvement to close better, like the BREAKOUT (ema?)
 - backtest my first Multi Timeframe Psych with rules long only if close > 2 bands
-- continue work on ADX: add input for momentumTrigger to allow keep position open if adx above this level, probably momentum is strong so it should not exit. add input for emaExit
 - reorganize different RSI stategies : RSI3X; RSIRANGE, RSIPULLBACK, RSIMR (Lefort), STOMR (Lefort)
+
+## TODO: NOTES: ADX
+- continue work on ADX: add input for momentumTrigger to allow keep position open if adx above this level, probably momentum is strong so it should not exit + add input for emaExit + add input for isRisingAdx
