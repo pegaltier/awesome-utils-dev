@@ -175,9 +175,10 @@ npm init
 - https://github.com/poelstra/ts-stream
 
 ## LIB: UI
-- https://github.com/shikijs/twoslash
 - https://github.com/tldraw/tldraw
+- https://github.com/shikijs/twoslash
 - https://github.com/stefanseeger/ts-page-object
+- https://github.com/vanilla-extract-css/vanilla-extract
 
 ## LIB: CALC
 - https://github.com/mathematic-inc/ts-japi

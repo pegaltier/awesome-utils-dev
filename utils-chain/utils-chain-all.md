@@ -168,6 +168,7 @@
 
 ## TOOLS
 - http://tokensmash.io
+- https://www.syve.ai/
 - https://coinlib.io/
 - https://coinlib.io/global-crypto-charts
 - https://github.com/emeraldpay/hashicon

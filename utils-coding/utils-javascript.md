@@ -127,6 +127,33 @@ let greeting = {
 };
 ```
 
+### MAPS
+
+- A Map is an unordered list of key-value pairs where the key and the value can be of any type like string, boolean, number, etc. For better understanding, we take an example of Map and its properties.
+- In a Weak Map, every key can only be an object and function or symbol in ES2023. It used to store weak object references. Since WeakMap does not create a strong reference to its keys, it will not prevent the object to be garbage collected.
+
+```javascript
+var k1 = {a: 1};
+var k2 = {b: 2};
+
+var map = new Map();
+var wm = new WeakMap();
+
+map.set(k1, 'k1');
+wm.set(k2, 'k2');
+
+k1 = null;
+map.forEach(function (val, key) {
+    console.log(key, val); // k1 {a: 1}
+});
+
+k2 = null;
+wm.get(k2); // undefined
+```
+
+- js map vs weakmap: removing k1 from the memory (k1 = null) we can still access it inside the map. At the same time removing k2 (k2 = null) key of WeakMap removes it from wm as well by reference.
+- https://stackoverflow.com/questions/15604168/whats-the-difference-between-es6-map-and-weakmap
+
 ### ADVANCED
 
 - IIFE

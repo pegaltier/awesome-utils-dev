@@ -12,8 +12,22 @@
 - https://www.kissmyfrogs.com/stephane-mallard-blu-age/
 - https://github.com/brexhq/prompt-engineering
 
+## VIDEOS
+- https://youtu.be/85GKLbqEu08 I Made an AI Automated Youtube Channel - Here's What Happened in 30 Days
+- https://youtu.be/lqXWVzWkkyc I Made 700 Monetizable YouTube Shorts for Faceless Channel in 18 MINUTES
+- https://youtu.be/fCUkvL0mbxI Training Your Own AI Model Is Not As Hard As You (Probably) Think
+- https://youtu.be/rIRkxZSn-A8 Ollama Is INSANE: Building Open-Source ChatGPT From Scratch
+- https://youtu.be/ky5ZB-mqZKM AI influencers are getting filthy rich... let's build one
+- https://youtu.be/zjkBMFhNj_g [1hr Talk] Intro to Large Language Models 
+- https://youtu.be/TRjq7t2Ms5I Building Production-Ready RAG Applications: Jerry Liu
+
+## CHANNEL
+- https://www.youtube.com/@ai-tools-search
+- https://www.youtube.com/@AI.Genesis
+
 ## AWESOME
 - https://github.com/dair-ai
+- https://github.com/linexjlin/GPTs
 - https://github.com/eugeneyan/applied-ml
 - https://github.com/visenger/awesome-mlops
 - https://github.com/openai/openai-cookbook
@@ -114,7 +128,6 @@
 
 ## LIB
 - https://github.com/aethermonkey/The-Digital-Hamlet
-- https://github.com/postgresml/postgresml
 - https://github.com/qdrant/qdrant
 - https://github.com/hegelai/prompttools/
 - https://github.com/Unstructured-IO/unstructured
@@ -144,6 +157,10 @@
 - https://github.com/Jun-CEN/SegmentAnyRGBD
 - https://github.com/google-research/jaxpruner
 - https://github.com/deepdoctection/deepdoctection
+
+## LIB: DB
+- https://github.com/SuperDuperDB/superduperdb
+- https://github.com/postgresml/postgresml
 
 ## LIB: GPT
 - https://github.com/LouisShark/chatgpt_system_prompt

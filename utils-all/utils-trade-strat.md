@@ -38,12 +38,16 @@
 - Do not suroptimize with the best performance instead you should manually decide a range of value that makes sense to follow your thesis and then backtest a parameter range of 10% by 10% and then see the statistical distribution of the performance and so on for the next parameters. Finally when you run all tests a ratio of 66% of positive tests is a good result; on the contratry a bad system can be detected if only few of the parameters results in a positive performance.
 - You can add more logic to a system like a trend filter if the average of the backtests have good results
 - Do not run only one optimized system but try to run three or four times the same system with different set of well distributed parameters. this will stabilize dramatically the returns in live trading.
+- The holy grail is to have a set of uncorrelated strategies which makes gains stable and smooth equity curves : trend following, mean reversion, volatility, arbitrage...
 
 ## COMMON STRATEGY
 - Range bounds - buy low - sell high
 - Breakout of a range to profit from the birth of a new trend
-- Trend following (temporary pause and bet on continuation of main trend)
+- Trend following (temporary pause and bet on continuation of main trend) the probability of win increase when the momentum is growing, you can filter assets by momentum/ROC and keep only the strongest momentum it will automatically do a rotation on the assets you trade. relative momentum is compared to others assets. absolute momentum is pure ROC
+- mean reversion is to detect when the price move short term in the opposite direction of the main trend (strong trend) and then bet the price will go back in trend. buy as price drop and you can scale in when price continue to drop. don't wait too many confirmation else you will miss.
 - mean reversion to capitalize on extreme changes for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
+- volatility trading is taking a position based on the future expected volatility for instance using the VIX 
+
 
 ## STOP LOSS/EXIT
 - gradual approach in reducing their position. If it’s a momentum trade they put the max size on and reduce gradually as the trade moves against them
@@ -404,6 +408,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/XIQq6YA5Z5U Kevin Davey. Algo Trading Strategies - 10 Strategies Tested! ***
 - https://youtu.be/ofhn6GV8AMM Kevin Davey. Hard Red Winter Wheat Futures: https://youtu.be/ofhn6GV8AMM?t=332
 - https://youtu.be/TFV2hc-eFhk Relative Strength Trading: A Comprehensive Guide with 9 Sector ETFs
+- https://youtu.be/xp29Z-ZWI6U StatOasis - Master Volume Trading
 
 ## TODO: ALGO KNLOWLEDGE
 - https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
@@ -523,6 +528,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/baDVwk5NON0 Trading Verge - Triple EMA Crossover
 - https://youtu.be/c1Ui36FOImc AlgoTrade Pro - Scalping Trading Strategy For Beginners
 
+## TODO: ORGANIZE: STATISTICS / PATTERN
+- https://youtu.be/c4Mltl9HqHY StatOasis - Easy Stock Index Day Trading Strategy
+- https://youtu.be/SxH9i4PQB5k The Transparent Trader - No Indicator Trading Strategy
+
 ## TODO: ORGANIZE: NOT SURE
 - https://www.youtube.com/watch?v=N_7ADVr72Ik The BEST Entry Signal Indicator 
 - https://youtu.be/LA-ppgrPdC8 SMB Capital - Top 3 Strategies to Profit From the ATR Indicator
@@ -539,6 +548,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/GYLCzvz_LL8 An Edge with Correlations Across Time Frames · Dan McDermitt
 - https://youtu.be/cqEncH4_5ls This quants’ approach to algorithmic trading—Michael Halls-Moore, QuantStart
 - https://youtu.be/qz6a27tFmAM The Art and Science of Algorithmic Futures Trading · Kyle Schultz
+- https://youtu.be/irTGuQLzEMM Alan Clement - Fortified & Diversified Quantitative Equities Strategies
 
 
 ## TODO: NOTES
@@ -546,6 +556,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - continue work on ROC, find improvement to close better, like the BREAKOUT (ema?)
 - backtest my first Multi Timeframe Psych with rules long only if close > 2 bands
 - reorganize different RSI stategies : RSI3X; RSIRANGE, RSIPULLBACK, RSIMR (Lefort), STOMR (Lefort)
+- try another approach: ex: insidebar strategy using the robuxio book or 
+- try another approach : co intregration to do arbitrage on 2 correlated pairs.
 
 ## TODO: NOTES: ADX
 - continue work on ADX: add input for momentumTrigger to allow keep position open if adx above this level, probably momentum is strong so it should not exit + add input for emaExit + add input for isRisingAdx

@@ -92,6 +92,9 @@
 - https://tardis.dev/
 - https://databento.com/
 - https://tradermade.com/
+- https://syve.readme.io
+- https://www.coinapi.io/
+- https://docs.kraken.com/
 - https://crypto-lake.com/
 - https://norgatedata.com/
 - https://www.alphavantage.co/
@@ -388,6 +391,7 @@
 - https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
 - https://github.com/bennycode/coinbase-pro-node
+- https://github.com/nothingisdead/npm-kraken-api
 - https://github.com/binance/binance-connector-node *
 - https://github.com/binance/binance-connector-typescript *
 - https://github.com/vertex-protocol/vertex-typescript-sdk
