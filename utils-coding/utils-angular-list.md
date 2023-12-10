@@ -2163,6 +2163,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/facebook/jest
 - https://github.com/faker-js/faker
 - https://github.com/Iqoqo/mockshot
+- https://github.com/dubzzz/fast-check
 - https://github.com/chancejs/chancejs
 - https://github.com/automock/automock
 - https://github.com/vitest-dev/vitest
