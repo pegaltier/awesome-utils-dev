@@ -363,9 +363,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@ReneBalke René Balke
 - https://www.youtube.com/@algotradepro AlgoTrade Pro
 - https://www.youtube.com/@smbcapital SMB Capital
-
+- https://www.youtube.com/@Algovibes Algovibes
 
 - https://www.youtube.com/@tradepro Trade Pro
+- https://www.youtube.com/@pinetrades Pine Trades
 - https://www.youtube.com/@QuantifiedStrategies Quantified Strategies
 - https://www.youtube.com/@AlgofoxAcademy Algofox Acadademy
 - https://www.youtube.com/@TheAlgorithmicAdvantage The Algorithmic Advantage
@@ -418,6 +419,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/vQcT6xntSeI FT Trader EA - EURUSD Profitable Strategy with MACD, ADX, & Sto! Profit 181%
 - https://youtu.be/ttkWl9HKqto FT Trader EA - GBPJPY Maximize Alligator + Fractal Trading Strategy
 - https://youtu.be/o6XtAbX3gWA René Balke - Bollinger Bands Indicator (+Moving Average) 
+- https://youtu.be/OVxotbT4ITY René Balke - Range Breakout
 - https://youtu.be/JdR8ZOrLr9s Kevin Davey - Swiss Franc - Mean reversion with BB(30) anc ROC(200)
 
 ## TODO: ORGANIZE: RSI
@@ -455,6 +457,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/rQHLaMavoVM Kevin Davey. Algo Trading Strategy Revealed - 10 Year Treasury Notes ***
 - https://youtu.be/pEZjbk-Nw3g?t=332 Phil's CUSTOM ROC indicator ***
 - https://youtu.be/SpRTT13vttg Momentum Indicator | ROC Indicator 
+- https://youtu.be/rJujXAF52HU Buy when BTC goes up more than 2% in 12H candle + add SL/TP at 1 or 2%
 
 ## TODO: ORGANIZE: MEAN REVERSION
 - https://youtu.be/5F1fhI_pqGQ BigDoor Trading - Mean reversion with EMA(2) + conditions ****
@@ -486,15 +489,17 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/ptykBg1WpDg MFI Money Flow Index Strategy Backtested Tradingview Pine Script ** 
 - https://youtu.be/q_b92hUbn1Q TradeSmart - Highly Profitable [SuperTrend] + Kairi Relative Index for Bitcoin **
 - https://youtu.be/Xf46diXPoto TradeSmart - [SuperTrend] BEST Strategy Series - 11th TradingView Script Bitcoin**
+- https://youtu.be/59mp_Gvge74 Cyrus Trader - [SuperTrend] [Pinescript] - 1 Year Backtest
 - https://youtu.be/B-pQQI2FGsc Trading Verge - [Pinescript] Stock Pivot Point [SuperTrend] Trading Strategy ***
 - https://youtu.be/AqgT8BbRZps Trading Verge - [Pinescript] MACD VWAP TRADING STRATEGY ***
 - https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14) **
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (MA + confirmation from 3 multiple indexes)
 - https://youtu.be/boxYiarnMXY [BB] trend following with BBW filter
 
-## TODO: ORGANIZE: MOMENTUM / TREND / ADX ONLY
+## TODO: ORGANIZE: MOMENTUM / TREND / ADX / DMI ONLY
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The [ADX] Indicator ***
 - https://youtu.be/4zQ9ArQXlS8 RSI and [ADX] indicator - Best Indicator Combination? ***
+- https://youtu.be/M_WzQbGmvk8 Trading Verge - [Pinescript] [DMI] & EMA Trading Strategy
 - https://youtu.be/2epF94PWh_0 THINKORSWIM Better DMI trend indicator [ADX] ***
 - https://youtu.be/yEqT1P0nu8E Directional Movement Index | Trading using DMI [ADX]
 - https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] ***
@@ -503,12 +508,24 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/la1MSwV72ms?t=141 2 Clear Strategies When Using the [ADX] | ADX was below for X days....
 - https://youtu.be/rhgdAtacLeY How to code DMI and [ADX] | PineScript TradingView Code along Tutorial **
 - https://youtu.be/la1MSwV72ms 2 Clear Strategies When Using the [ADX] | Stock Talk (10.12.23) **
+- https://youtu.be/mRCD6hpi5eM Use 3 periods [ADX] for short term and another for longer trend
 - http://wealthv.com/articles/PDFs/ADX-WebinarNotes.pdf AdxTender + AdxPress + Adxodus
 - https://www.quantifiedstrategies.com/adx-trading-strategy/
 - https://sacredtraders.com/adxpress/
 
+## TODO: ORGANIZE: SCALPING
+- https://youtu.be/OOuiIg7P1GM Cyrus Trader - Combination Of The 4 Most Common Indicators 
+- https://youtu.be/mGpCgWHLcyk Cyrus Trader - 3 Minute Scalping Strategy (Step By Step) With 2-Year Backtest Results
+- https://youtu.be/9G3xsOOU-PM TradeSmart - BEST Strategy for 2024 Crypto Bull Run
+- https://youtu.be/liZAKl9Ky-8 StatOasis - Intraday NASDAQ Scalping Strategy Revealed
+- https://youtu.be/Mo0-PeDE4Ow Trading Verge - 5 EMA Intraday Trading Strategy with Bollinger Bands
+- https://youtu.be/5TnGc2B8XMo Trading Verge - 5 EMA Day Trading Strategy
+- https://youtu.be/baDVwk5NON0 Trading Verge - Triple EMA Crossover
+- https://youtu.be/c1Ui36FOImc AlgoTrade Pro - Scalping Trading Strategy For Beginners
+
 ## TODO: ORGANIZE: NOT SURE
 - https://www.youtube.com/watch?v=N_7ADVr72Ik The BEST Entry Signal Indicator 
+- https://youtu.be/LA-ppgrPdC8 SMB Capital - Top 3 Strategies to Profit From the ATR Indicator
 - https://www.youtube.com/watch?v=wrZ4O7elR_I Must Watch if you Use RSI and Stochastic to Trade!
 - https://youtu.be/amyL94ArWVE?t=484 Master The Stochastic Oscillator For Huge Returns | Trading Indicators
 - https://www.youtube.com/watch?v=hLXVeO_f7Ns&t=21s How to use Bollinger Bands for better trading

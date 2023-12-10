@@ -42,6 +42,9 @@
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/ *
+- https://www.patreon.com/tradesmart224
+- https://www.patreon.com/algotradepro
+- https://pythonforfinance.info/
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
 - https://aresquant.com/
@@ -322,6 +325,7 @@
 - https://github.com/Alorse/pinescript-strategies
 - https://github.com/ADWilkinson/pinescript-indicators
 - https://github.com/Paul-Mizel/Crypto-Trading-Unleashed
+- https://github.com/syrusTheGgrreeaatt/pine-script-strategies **
 - https://github.com/TreborNamor/TradingView-Machine-Learning-GUI
 - https://github.com/AlbertoCuadra/algo_trading_weighted_strategy
 
@@ -376,7 +380,7 @@
 
 ### OSS: EXECUTE
 - https://github.com/stoqey/ib *
-- https://github.com/gateio/gateapi-nodejs
+- https://github.com/gateio/gateapi-nodejs *
 - https://github.com/alpacahq/alpaca-trade-api-js
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance

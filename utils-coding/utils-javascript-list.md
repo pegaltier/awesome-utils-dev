@@ -350,6 +350,7 @@
 - https://github.com/jsxtools/cqfill
 
 ## LIB: REGEX
+- https://github.com/CJex/regulex
 - https://github.com/snd/url-pattern
 - https://github.com/devongovett/regexgen
 - https://github.com/sindresorhus/super-regex
@@ -632,6 +633,7 @@
 - https://github.com/neilgupta/Sherlock
 - https://github.com/SawyerHood/draw-a-ui
 - https://github.com/ykhli/local-ai-stack
+- https://github.com/danny-avila/LibreChat
 - https://github.com/xenova/transformers.js
 - https://github.com/facebookresearch/shumai
 - https://github.com/a16z-infra/ai-getting-started

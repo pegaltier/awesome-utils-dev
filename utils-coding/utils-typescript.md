@@ -93,6 +93,7 @@ npm init
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/privatenumber/get-tsconfig
 - https://github.com/saurabhdaware/typescript-run
+- https://github.com/DavidWells/types-with-jsdocs
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/LeDDGroup/typescript-transform-paths
 

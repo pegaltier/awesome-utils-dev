@@ -159,6 +159,7 @@
 - https://github.com/ohmplatform/FreedomGPT
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/RomanHotsiy/commitgpt
+- https://github.com/danny-avila/LibreChat
 - https://github.com/abacaj/chatgpt-backup
 - https://github.com/pytorch-labs/gpt-fast
 - https://github.com/BuilderIO/gpt-crawler
