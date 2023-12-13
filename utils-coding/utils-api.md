@@ -191,8 +191,10 @@
 - https://github.com/unkeyed/unkey
 
 ## NOTIFICATIONS
+- https://github.com/binwiederhier/ntfy
 - https://github.com/novuhq/novu
-- https://github.com/OneSignal/OneSignal-Website-SDK
+- https://onesignal.com/
+- https://pushover.net/
 
 ## GATEWAY
 - https://github.com/Kong/kong
