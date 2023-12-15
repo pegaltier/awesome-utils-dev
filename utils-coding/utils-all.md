@@ -71,6 +71,9 @@
 - https://www.techs.rocks/
 - https://github.com/ladyleet/tech-community-slacks
 
+## GO
+- https://github.com/nikolaydubina/go-recipes
+
 ## ASSEMBLER
 - https://github.com/Schweigi/assembler-simulator
 

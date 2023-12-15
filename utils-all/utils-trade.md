@@ -340,6 +340,7 @@
 - https://github.com/brian-the-dev/python-tradingview-ta
 - https://github.com/robswc/tradingview-webhooks-bot
 - https://github.com/fundingrate/tradingview-webhooks *
+- https://github.com/shner-elmo/TradingView-Screener
 - https://github.com/bevry-trading/automated-trading
 - https://github.com/tradingview/pine_script_docs
 - https://github.com/akilibots/akili-tradingview
@@ -441,6 +442,7 @@
 ### OSS: PYTHON
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
+- https://github.com/jealous/stockstats *
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/jrmeier/fast-trade
 - https://github.com/ssantoshp/Wizardry
@@ -481,6 +483,7 @@
 - https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/conor19w/Binance-Futures-Trading-Bot
 - https://github.com/rhettre/coinbase-advancedtrade-python
+- https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
 - https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
@@ -519,10 +522,12 @@
 - https://github.com/Adamant-im/adamant-tradebot
 - https://github.com/Haehnchen/crypto-trading-bot *
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/BitgetLimited/v3-bitget-api-sdk
 - https://github.com/fasenderos/hft-limit-order-book
 - https://github.com/Hantama237/moontrade-algotrading
 - https://github.com/Reiryoku-Technologies/Mida *
 - https://github.com/Reiryoku-Technologies/Mida-Playground
+- https://github.com/aloysius-pgast/crypto-exchanges-gateway *
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
 - https://github.com/excelsior-creative/edc-backtester (grademark)
 - https://github.com/472647301/tradingview-web-socket

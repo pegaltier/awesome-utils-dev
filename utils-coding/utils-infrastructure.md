@@ -343,6 +343,7 @@ htop
 
 - https://github.com/louislam/uptime-kuma
 - https://github.com/grafana/grafana
+- https://github.com/TwiN/gatus
 
 ## UPDATE
 aptitude update

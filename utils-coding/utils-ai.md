@@ -138,7 +138,6 @@
 - https://github.com/the-new-sky/Wisty.js
 - https://github.com/deepkit/deepkit-ml
 - https://github.com/smol-ai/developer
-- https://github.com/suno-ai/bark
 - https://github.com/googleprojectzero/fuzzilli
 - https://github.com/axa-group/nlp.js
 - https://github.com/deepset-ai/FARM
@@ -254,7 +253,8 @@
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ## LIB: AUDIO
-https://github.com/yl4579/StyleTTS2
+- https://github.com/yl4579/StyleTTS2
+- https://github.com/suno-ai/bark
 
 ## LIB: VIDEO
 - https://github.com/topics/ai-avatars

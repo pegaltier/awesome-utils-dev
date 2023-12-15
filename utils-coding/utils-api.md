@@ -192,6 +192,7 @@
 
 ## NOTIFICATIONS
 - https://github.com/binwiederhier/ntfy
+- https://github.com/caronc/apprise
 - https://github.com/novuhq/novu
 - https://onesignal.com/
 - https://pushover.net/

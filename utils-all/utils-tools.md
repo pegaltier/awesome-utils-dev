@@ -72,6 +72,9 @@
 - https://github.com/padloc/padloc
 - https://github.com/keepassx/keepassx
 
+## OSS: WEB
+- https://github.com/dgtlmoon/changedetection.io
+
 ## OSS: DEV
 - https://github.com/linuxserver/docker-wireguard
 - https://github.com/ballerine-io/ballerine
@@ -84,6 +87,7 @@
 - https://github.com/vasanthv/talk
 - https://github.com/mfts/papermark
 - https://github.com/calcom/cal.com
+- https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo
 - https://github.com/onetimesecret/onetimesecret
 
@@ -129,8 +133,10 @@
 ## Automate / automation
 - https://www.getmagical.com/
 - https://github.com/n8n-io/n8n
+- https://github.com/Flexget/Flexget
 - https://github.com/microsoft/TaskWeaver
 - https://github.com/zapier/zapier-platform
+- https://github.com/automatisch/automatisch
 - https://github.com/dmtrbrl/bulk-url-opener
 - https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1
 

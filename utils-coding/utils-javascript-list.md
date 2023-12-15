@@ -231,6 +231,8 @@
 - https://github.com/unjs/ofetch
 - https://github.com/gajus/global-agent proxy
 - https://github.com/har-tools/http-message
+- https://github.com/http-party/http-server
+- https://github.com/http-party/node-http-proxy
 
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/TomerAberbach/lfi
@@ -547,6 +549,9 @@
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
 
+## LIB: ANIMATION
+- https://github.com/Popmotion/popmotion
+
 ## LIB: COLOR
 - https://github.com/fast-average-color/fast-average-color
 - https://github.com/easylogic/codemirror-colorpicker
@@ -554,6 +559,7 @@
 - https://github.com/junhoyeo/use-color
 - https://github.com/Evercoder/culori
 - https://github.com/omgovich/colord
+- https://github.com/simonwep/pickr
 - https://github.com/Qix-/color
 
 ## LIB: MATH
@@ -622,6 +628,7 @@
 - https://github.com/bgstaal/multipleWindow3dScene
 - https://github.com/anvaka/graph-drawing-libraries
 - https://github.com/0beqz/screen-space-reflections
+- https://github.com/dgreenheck/threejs-procedural-planets
 - https://github.com/supermedium/aframe-environment-component
 - https://github.com/lumalabs/luma-web-library
 - https://lumalabs.ai/luma-web-library
@@ -636,6 +643,7 @@
 - https://github.com/danny-avila/LibreChat
 - https://github.com/xenova/transformers.js
 - https://github.com/facebookresearch/shumai
+- https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/a16z-infra/ai-getting-started
 
 ## LIB: CALC

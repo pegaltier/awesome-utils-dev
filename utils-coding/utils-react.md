@@ -91,6 +91,7 @@
 
 ## GAME
 - https://github.com/cwackerfuss/react-wordle
+- https://github.com/FormidableLabs/react-game-kit
 
 ## LIB: TOOLING
 - https://github.com/yannickcr/eslint-plugin-react
@@ -241,6 +242,7 @@
 - https://github.com/developedbyed/styled-frontend
 - https://github.com/juristr/blog-series-nextjs-nx
 - https://github.com/module-federation/nextjs-mf
+- https://github.com/TheEdoRan/next-safe-action
 - https://github.com/serverless-stack/open-next
 - https://github.com/RevereCRE/relay-nextjs
 - https://github.com/next-boost/next-boost

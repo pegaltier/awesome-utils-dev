@@ -2,6 +2,7 @@
 
 ## TOOLS
 - https://github.com/openobserve/openobserve
+- https://github.com/paradedb/paradedb
 
 ## LIST
 - https://github.com/typesense/typesense

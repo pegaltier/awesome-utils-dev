@@ -7,6 +7,9 @@
 ## TOOLS
 - https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 
+## SOFT
+- https://github.com/rustdesk/rustdesk
+
 ## UTILS
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 - https://github.com/yoshuawuyts/rust-for-js-peeps
@@ -17,6 +20,7 @@
 
 ## LIB
 - https://github.com/crabnebula-dev/cargo-packager
+- https://github.com/Totodore/socketioxide
 - https://github.com/1Password/typeshare
 - https://github.com/juspay/hyperswitch
 - https://github.com/Aleph-Alpha/ts-rs

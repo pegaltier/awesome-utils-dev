@@ -148,9 +148,12 @@ RUN ls
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 - https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
 
-
-## DOCKER IMAGES
+## DOCKER IMAGES UPDATE
 - https://github.com/pgautoupgrade/docker-pgautoupgrade
+- https://github.com/containrrr/watchtower/
+
+## DOCKER IMAGES ALL
+- https://github.com/DoTheEvo/selfhosted-apps-docker
 - https://github.com/jonatan-ivanov/local-services
 - https://github.com/bunkerity/bunkerized-mariadb
 - https://github.com/bunkerity/bunkerized-nginx
@@ -161,3 +164,4 @@ RUN ls
 - https://github.com/Monogramm/docker-frappe
 - https://github.com/SteveLTN/https-portal
 - https://github.com/gotenberg/gotenberg
+- https://github.com/m1k1o/neko

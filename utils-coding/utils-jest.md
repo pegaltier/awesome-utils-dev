@@ -3,18 +3,11 @@
 # Books
 - https://jesthandbook.com/
 
-## Services
+## Mocks
+- if you need a dumb dependency injected by your file under test then use a partial pattern so you mock only myFunction if you need it. example: const mockedMyService: Partial<MyService> = { myFunction = jest.fn() }; so now you can create a spy on myFunction and then do assertion on it. example myFunctionSpy = jest.spyOn(mockedMyService, 'myFunction') and finally expect(myFunctionSpy).toHaveBeenCalledTimes(1).
+- if you want to keep the original function implementation and be aware if the function is called then you can use jest.spyOn on a real function instead of jest.fn() function.
+- with jest.fn() you can also replace the original function implementation using different ways: mockImplementation, mockReturnValue, mockReturnValueOnce, mock...
 
-- if you need a real dependency implementation in your test injected by your file under test then use TestBed.inject
-
-dateService = TestBed.inject(DateService);
-
-- if you need a dumb dependency injected by your file under test then use a partial pattern so you mock only myFunction if you need it.
-
-```javascript
-const mockedMyService: Partial<MyService> = {};
-mockedMyService.myFunction = jest.fn();
-```
 
 ## Mocks
 

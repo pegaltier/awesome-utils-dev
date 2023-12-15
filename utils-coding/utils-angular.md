@@ -655,13 +655,12 @@ this.\_renderer2.setElementProperty(this.\_elementRef,'add-property-here',true);
 - Template-driven (FormsModule) most of the logic is driven from the template
 - Reactive-driven (ReactiveFormsModule)  the logic resides mainly in the component or typescript code. 
 
-## ANGULAR TESTING
+## ANGULAR BROWSER TESTING
 
-### E2E TESTS
+- Cypress is very efficient tools for e2e. At the beginning to see how it goes you can start testing the app using real backend request for the GET requests and using mock for the others method (POST,PATCH, DELETE)
+- More info on test end to end (see utils-testing.md OR book ninja angular page 157)
 
-Cypress is very efficient tools for e2e. At the beginning to see how it goes you can start testing the app using real backend request for the GET requests and using mock for the others method (POST,PATCH, DELETE)
-
-### UNIT TESTS
+## ANGULAR UNIT TESTS
 
 - Jest is faster because it does not run on a real browser instead it uses jsdom. It's not testing the rendering (html/css) but just the dom tree. So there is a potential risk that jsdom differs from your targetted browser.
 - Karma is slower because is testing using a real browser so the unit test are certainly working as expected in a real browser.
@@ -672,7 +671,7 @@ In unit test there are different way of simulating a function or an object : Spy
 
 A stub is also a dummy class providing some more specific, prepared or pre-recorded, replayed results to certain requests under test. ... A spy is kind of a hybrid between real object and stub, i.e. it is basically the real object with some (not all) methods shadowed by stub methods
 
-### STRATEGY
+### UNIT TESTS: STRATEGY
 
 - Separate business logic from UI
 - Use more dumb components
@@ -680,17 +679,38 @@ A stub is also a dummy class providing some more specific, prepared or pre-recor
 - Test actions and impact on the store
 - Create custom validators for forms
 
-Services (NgRx effects, business logic, sandboxes/facades) - unit test, 100% coverage
-Pure functions (Pipes and helpers) - unit test, 100% coverage
-Container component - integration tests, happy paths
+- Services (NgRx effects, business logic, sandboxes/facades) - unit test, 100% coverage
+- Pure functions (Pipes and helpers) - unit test, 100% coverage
+- Container component - integration tests, happy paths
 
-### EXAMPLE TYPE OF TESTS
+### UNIT TESTS: TYPE OF TESTS
 
 my-comp.ui.spec.ts
 my-comp.io.spec.ts
 my-comp.bu.spec.ts
 
+### UNIT TESTS: BASICS
+To test a component javascript code only you can create a new MyComponent() directly in the spec but a component is not only js code; The component truly is the template and the class working together, that's why the framework has a fixture = TestBed.createComponent(MyComponent) used to create a fixture (the mount test harness instance of class and template) where you can get the class instance with component = fixture.componentInstance and also can get the html element template instance with element = fixture.nativeElement;
 
+
+### UNIT TESTS: DEPENDENCY
+
+#### UNIT TESTS: DEPENDENCIES IN COMPONENTS
+- if you need a real dependency implementation in your test injected from the component injector then use the debugElement. exemple: dateService = fixture.debugElement.injector.get(DateService) gets the service that is actually injected into the component.
+
+#### UNIT TESTS: DEPENDENCIES IN SERVICES
+- if you need a real dependency implementation in your test injected from the root injector then use TestBed.inject. exemple: dateService = TestBed.inject(DateService);
+
+#### UNIT TESTS: DEPENDENCIES MOCKING
+
+- Mock components with ng-mocks (MockComponent) and add them to the declarations in TestBed/spectator factory
+- Mock services/guards/resolvers with mocks property in Spectator factory/createSpyObject
+- Mock directives using ng-mocks (MockDirective)
+- Mock pipes with ng-mocks (MockPipe)
+- Mock ngrx/store with provideMockStore
+- Mock ngrx/selectors with store.overrideSelector
+
+### UNIT TESTS: LINKS
 
 - https://angular.io/guide/testing
 - http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/
@@ -698,26 +718,9 @@ my-comp.bu.spec.ts
 - https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/
 - https://stackoverflow.com/questions/40126729/angular-2-testing-async-function-call-when-to-use
 - https://stackoverflow.com/questions/40432734/angular-2-jasmine-error-please-call-testbed-compilecomponents-before-your
-
-### MOCKING
-
-- Mock components with ng-mocks (MockComponent) and add them to the declarations in TestBed/spectator factory
-- Mock directives using ng-mocks (MockDirective)
-- Mock pipes with ng-mocks (MockPipe)
-- Mock services/guards/resolvers with mocks property in Spectator factory/createSpyObject
-- Mock ngrx/store with provideMockStore
-- Mock ngrx/selectors with store.overrideSelector
-
-### TESTING FACTORIZE/IMPORTS
-
 - https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files
-
-### TESTING TRANSLATE
-
 - https://github.com/ngx-translate/core/issues/636
 - https://github.com/ngx-translate/example/blob/master/src/app/app.component.spec.ts
-
-test end to end (voir ninja angular page 157)
 
 ## MODULES
 
