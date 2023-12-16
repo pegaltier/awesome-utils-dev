@@ -28,8 +28,9 @@ Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, c
 - https://github.com/pennersr/pulsus
 - https://github.com/mckinsey/vizro
 - https://github.com/coqui-ai/TTS
-- https://github.com/swirlai/swirl-search
 - https://github.com/kellyjonbrazil/jc
+- https://github.com/swirlai/swirl-search
+- https://github.com/threestudio-project/threestudio
 
 ## UTIL
 

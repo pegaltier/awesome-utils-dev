@@ -2489,6 +2489,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ivylaboratory/angular-carousel
 - https://github.com/JustCommunication-ru/ngx-splide
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
+- https://github.com/BenjaminBrandmeier/angular2-image-gallery
 
 ## ECOSYSTEM: LIB: COMPONENT: TOUR
 - https://github.com/shipshapecode/angular-shepherd

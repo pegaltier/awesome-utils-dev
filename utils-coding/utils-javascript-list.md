@@ -590,6 +590,7 @@
 - https://github.com/steveruizok/perfect-arrows
 - https://github.com/vidstack/media-captions
 - https://github.com/ColonelParrot/jscanify
+- https://github.com/neplextech/vectorizer
 - https://github.com/desandro/imagesloaded
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
@@ -658,6 +659,7 @@
 - https://github.com/dcousens/haversine-distance
 
 ## LIB: DATA TRANSFORMATION
+- https://github.com/fastify/fast-json-stringify
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/thdoan/mr-data-converter
 - https://github.com/jsonata-js/jsonata
