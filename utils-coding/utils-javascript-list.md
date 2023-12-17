@@ -279,7 +279,6 @@
 - https://github.com/guybedford/es-module-lexer
 - https://github.com/browserslist/browserslist-useragent
 - https://github.com/krisk/Fuse
-- https://github.com/Hexagon/croner
 - https://github.com/JLarky/rad-event-listener
 - https://github.com/EricSmekens/jsep
 - https://github.com/unjs/consola
@@ -704,6 +703,7 @@
 - https://github.com/paralleldrive/cuid2
 - https://github.com/rustq/colorid.js
 - https://github.com/ulid/javascript
+- https://github.com/LiosK/uuidv7
 
 ## LIB: PDF
 - https://github.com/parallax/jsPDF

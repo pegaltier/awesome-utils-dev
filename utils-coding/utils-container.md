@@ -153,6 +153,7 @@ RUN ls
 - https://github.com/containrrr/watchtower/
 
 ## DOCKER IMAGES ALL
+- https://github.com/marcelo-ochoa/coder-docker-extension
 - https://github.com/DoTheEvo/selfhosted-apps-docker
 - https://github.com/jonatan-ivanov/local-services
 - https://github.com/bunkerity/bunkerized-mariadb
@@ -164,4 +165,5 @@ RUN ls
 - https://github.com/Monogramm/docker-frappe
 - https://github.com/SteveLTN/https-portal
 - https://github.com/gotenberg/gotenberg
+- https://github.com/genuinetools/img
 - https://github.com/m1k1o/neko

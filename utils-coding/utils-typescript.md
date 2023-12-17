@@ -166,6 +166,7 @@ npm init
 - https://github.com/adelsz/pgtyped
 - https://github.com/codemix/ts-sql
 - https://github.com/kysely-org/kysely
+- https://github.com/sequelize/sequelize-typescript
 
 ## LIB: PARSER
 - https://github.com/rcjsuen/dockerfile-ast

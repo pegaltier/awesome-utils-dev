@@ -205,6 +205,7 @@
 - https://github.com/microsoft/fluentui
 - https://github.com/mantinedev/mantine
 - https://github.com/caplin/FlexLayout
+- https://github.com/nextui-org/nextui
 - https://github.com/tremorlabs/tremor
 - https://github.com/ZEISS/precise-ui
 - https://github.com/facebook/stylex

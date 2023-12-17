@@ -138,10 +138,12 @@
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
 - https://github.com/unjs/ofetch
+- https://github.com/fromdeno/deno2node
 
 ## LIBS: CRON
 - https://github.com/node-cron/node-cron
 - https://github.com/kelektiv/node-cron
+- https://github.com/Hexagon/croner
 
 ## LIBS: TESTING
 - https://github.com/avajs/ava
@@ -215,6 +217,7 @@
 - https://github.com/chimurai/http-proxy-middleware
 
 ## SERVER: EXPRESS/ITTY
+- https://github.com/michaelcpuckett/express-worker
 - https://github.com/mucahitnezir/express-starter
 - https://github.com/berstend/tiny-request-router
 - https://github.com/kwhitley/itty-router-extras
