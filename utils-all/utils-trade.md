@@ -302,8 +302,11 @@
 ## METATRADER
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools
-- https://github.com/EarnForex/PositionSizer
+- https://github.com/EA31337/EA31337-strategies
+- https://github.com/EA31337/EA31337-Libre
+- https://github.com/EA31337/EA-Tester
 - https://github.com/EA31337/EA31337
+- https://github.com/EarnForex/PositionSizer
 - https://book.mql4.com/programm/samples
 - https://www.trading-automatique.fr/mql4/
 - https://docs.mql4.com/runtime/event_fire#calculate
