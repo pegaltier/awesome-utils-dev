@@ -44,6 +44,7 @@
 - https://www.ziontradingalgos.com/ *
 - https://www.patreon.com/tradesmart224
 - https://www.patreon.com/algotradepro
+- https://thetradingparrot.com/
 - https://pythonforfinance.info/
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
@@ -460,6 +461,7 @@
 - https://github.com/ranaroussi/quantstats
 - https://github.com/blankly-finance/blankly
 - https://github.com/stefmolin/stock-analysis
+- https://github.com/fmzquant/backtest_python * 
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/kelvinau/crypto-arbitrage
 - https://github.com/CryptoSignal/Crypto-Signal

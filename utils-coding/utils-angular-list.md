@@ -1238,6 +1238,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/ngrx/announcing-ngrx-version-10-new-packages-for-local-component-state-and-reactive-components-swag-62bedda0be91
 
 ## ECOSYSTEM: STORE: SIGNAL STORE
+- https://github.com/angular-architects/ngrx-toolkit
 - https://github.com/markostanimirovic/ngrx-signal-store-playground
 - https://github.com/simplifiedcourses/ngx-signal-state
 - https://stackblitz.com/edit/angular-kumvcr?file=src%2Fapp%2Fapp.component.ts
@@ -2896,6 +2897,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/brandonroberts/analog-angular-storybook-vite
 - https://github.com/oktadev/okta-angular-dynamic-components-example
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
+- https://github.com/angular-experts-io/angular-enterprise-architecture-example
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 

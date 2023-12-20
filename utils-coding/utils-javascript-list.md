@@ -500,6 +500,7 @@
 - https://github.com/codex-team/editor.js
 - https://github.com/mozilla/readability
 - https://github.com/focus-trap/tabbable
+- https://github.com/jsfiddle/togetherjs
 - https://github.com/soldair/node-qrcode
 - https://github.com/missive/emoji-mart
 - https://github.com/datalog/qrcode-svg

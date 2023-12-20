@@ -471,6 +471,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/aidenybai/lucia
 - https://github.com/alineacms/alinea
 - https://github.com/web-infra-dev/oxc
+- https://github.com/inertiajs/inertia
 - https://github.com/payloadcms/payload
 - https://github.com/wepublish/wepublish
 - https://github.com/bigskysoftware/htmx
@@ -479,6 +480,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/h5bp/html5-boilerplate
 - https://github.com/web-infra-dev/modern.js
 - https://github.com/cbracco/html5-test-page
+- https://github.com/sailscastshq/boring-stack
 - https://github.com/jamesgeorge007/scaffold-static
 - https://github.com/wwebdev/static-website-template
 

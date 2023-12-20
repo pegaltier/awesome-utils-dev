@@ -356,6 +356,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@TheTransparentTrader The Transparent Trader
 - https://www.youtube.com/@exTRADING exTRADING
 - https://www.youtube.com/@scottwelshstrategies Scott Welsh Strategies
+- https://www.youtube.com/@TheTradingParrot The Trading Parrot
+- https://www.youtube.com/@DaviddTech DaviddTech
 - https://www.youtube.com/@TradeSmart22 TradeSmart
 - https://www.youtube.com/@TradingHeroes Trading Heroes
 - https://www.youtube.com/@Netpicks1 NetPicks Smart Trading
@@ -500,6 +502,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/tnUZLLUGpo8 Coppock Curve Trading Strategy, WMA of 2 ROCs: ROC(11) and ROC(14) **
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (MA + confirmation from 3 multiple indexes)
 - https://youtu.be/boxYiarnMXY [BB] trend following with BBW filter
+- https://youtu.be/5LpHy06MLHg The Trading Parrot - Custom Tradingview indicators strategy
+- https://youtu.be/gIto3cNIx1k DaviddTech - LSMA + VFI ++++
 
 ## TODO: ORGANIZE: MOMENTUM / TREND / ADX / DMI ONLY
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The [ADX] Indicator ***

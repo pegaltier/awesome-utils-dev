@@ -143,6 +143,7 @@
 ## LIBS: CRON
 - https://github.com/node-cron/node-cron
 - https://github.com/kelektiv/node-cron
+- https://github.com/cronhub/crontab
 - https://github.com/Hexagon/croner
 
 ## LIBS: TESTING
