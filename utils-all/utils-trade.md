@@ -512,6 +512,7 @@
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/tvjsx/trading-vue-js
+- https://github.com/coinranking/exchanges
 - https://github.com/TulipCharts/tulipnode
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/tardis-dev/tardis-node * 
