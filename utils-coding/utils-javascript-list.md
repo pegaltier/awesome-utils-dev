@@ -81,6 +81,7 @@
 - https://github.com/mhevery/JavaScriptVM_under_the_hood
 - https://github.com/trekhleb/state-of-the-art-shitcode
 - https://github.com/nas5w/javascript-tips-and-tidbits
+- https://github.com/ironhack-labs/lab-javascript-clue
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/trekhleb/javascript-algorithms

@@ -115,6 +115,9 @@
 
 - https://github.com/harryheman/Modern-HTML-Starter-Template
 
+## COURSES
+- https://developer.chrome.com/docs/css-ui/exclusive-accordion?hl=fr
+
 ## TOOLS: LIST
 
 - https://dsgn.link
@@ -541,11 +544,13 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES
+- https://daniel.do/article/making-noisy-svgs/
 - https://alex.dytry.ch/toys/infinite-scroll/
 - https://codyhouse.co/nuggets/text-gradients
 - https://codepen.io/cassie-codes/full/RwRORqB
 - https://codepen.io/cobra_winfrey/pen/zYKGePx
 - https://codepen.io/gayane-gasparyan/pen/wvNXyYR
+- https://codepen.io/wakana-k/full/gOqqWdY confett
 - https://codepen.io/smpnjn/pen/mdrWPpK
 - https://codepen.io/jh3y/pen/KKJRqpM
 - https://codepen.io/jh3y/pen/xxQdPae

@@ -73,6 +73,7 @@
 - https://github.com/keepassx/keepassx
 
 ## OSS: WEB
+- https://github.com/anfragment/zen
 - https://github.com/dgtlmoon/changedetection.io
 
 ## OSS: DEV

@@ -325,7 +325,9 @@ Learn about the most useful design patterns in Angular.
 - https://webmaker.app/
 - https://stackblitz.com
 - https://codesandbox.io/
+- https://riju.codes/javascript
 - https://github.com/conwnet/github1s
+- https://github.com/radian-software/riju
 - https://github.com/google/playground-elements
 - https://stackblitz.com/edit/angular-so7pmy
 - https://stackblitz.com/edit/angular-material

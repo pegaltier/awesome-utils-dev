@@ -476,6 +476,7 @@
 - https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr * 
 - https://github.com/nautechsystems/nautilus_trader
+- https://github.com/51bitquant/binance_grid_trader
 - https://github.com/alpacahq/alpaca-backtrader-api
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example

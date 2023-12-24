@@ -43,6 +43,7 @@ npm init
 
 ## TOOLS
 
+- https://tsdocs.dev
 - http://json2ts.com
 - https://tsdiagram.com
 - https://ts-ast-viewer.com
@@ -84,6 +85,7 @@ npm init
 - https://github.com/phero-hq/phero
 - https://github.com/esbuild-kit/tsx
 - https://github.com/Microsoft/tsdoc
+- https://github.com/pastelsky/tsdocs
 - https://github.com/cevek/ttypescript
 - https://github.com/johnlindquist/kit
 - https://github.com/microsoft/rushstack
