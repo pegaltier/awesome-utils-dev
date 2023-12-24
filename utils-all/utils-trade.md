@@ -95,6 +95,7 @@
 ## QUOTES
 - https://finnhub.io/
 - https://tardis.dev/
+- https://cryptick.net/
 - https://databento.com/
 - https://tradermade.com/
 - https://syve.readme.io
@@ -109,7 +110,9 @@
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
 - https://www.cryptodatadownload.com/data/
+- https://http-docs.thetadata.us/
 - https://data.world/crispydata/bitcoin-historical-data
+- https://github.com/ThetaData-API/thetadata-python
 - https://fuserleer.online/exchange_data/
 - https://www.youtube.com/watch?v=myydDX-us4o
 - https://github.com/Leo4815162342/dukascopy-node

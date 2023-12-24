@@ -47,6 +47,7 @@
 - https://mason.app/
 - https://www.d-id.com/
 - https://www.futuretools.io/
+- https://nixtlaverse.nixtla.io/
 - https://stability.ai/
 - https://clipdrop.co/
 - https://theforgeai.com/
@@ -64,7 +65,10 @@
 - https://www.literallyanything.io/
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
+
+## TOOLS: OSS
 - https://github.com/Nixtla/
+- https://github.com/mistralai
 
 ## TOOLS: CODING
 - https://cursor.sh/
@@ -131,6 +135,7 @@
 - https://github.com/aethermonkey/The-Digital-Hamlet
 - https://github.com/qdrant/qdrant
 - https://github.com/hegelai/prompttools/
+- https://github.com/ScottfreeLLC/AlphaPy
 - https://github.com/Unstructured-IO/unstructured
 - https://github.com/KillianLucas/open-interpreter/
 - https://github.com/yeuai/botscript
