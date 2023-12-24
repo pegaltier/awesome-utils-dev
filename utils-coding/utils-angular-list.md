@@ -2274,7 +2274,7 @@ Analyze and optimize the performance of your app
 - https://github.com/aackerman/circular-dependency-plugin
 
 ## ECOSYSTEM: LIB: INTERNATIONALIZATION
-
+- https://tolgee.io/
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
 - https://github.com/vendasta/weblate
@@ -2282,6 +2282,7 @@ Analyze and optimize the performance of your app
 - https://github.com/e-square-io/bdir
 - https://github.com/ngneat/transloco
 - https://github.com/fkirc/attranslate
+- https://github.com/tolgee/ngx-example
 - https://github.com/ngx-translate/core
 - https://github.com/jantimon/icu-to-json
 - https://github.com/robisim74/angular-l10n
@@ -3269,6 +3270,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://netbasal.com/
 - https://houseofangular.io/
 - https://www.angularnation.net/
+- https://www.bonjour-angular.com
 - https://www.reddit.com/r/Angular2/
 - https://dev.to/angular
 - http://blog.mgechev.com/
@@ -3367,8 +3369,8 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/billyjov/angular-training
 
 ## EVOLUTION
-
 - http://g.co/ng/weekly-notes
+- https://github.com/orgs/angular/projects/31
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf

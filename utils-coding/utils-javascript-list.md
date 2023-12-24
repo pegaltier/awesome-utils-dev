@@ -426,6 +426,7 @@
 
 ## LIB: SHELL CLI
 - https://github.com/microsoft/inshellisense
+- https://github.com/tj/commander.js/
 - https://github.com/poppinss/cliui
 
 ## LIB: IP

@@ -64,6 +64,9 @@ npm init
 - https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414
 - https://dev.to/aminejvm/cool-stuff-with-typescript-2aah
 
+## TODO
+- https://www.divotion.com/blog/creating-type-safe-events
+
 ## STARTER
 
 - https://github.com/antfu/starter-ts
@@ -88,6 +91,7 @@ npm init
 - https://github.com/pastelsky/tsdocs
 - https://github.com/cevek/ttypescript
 - https://github.com/johnlindquist/kit
+- https://github.com/DanielXMoore/Civet
 - https://github.com/microsoft/rushstack
 - https://github.com/ranyitz/code-migrate
 - https://github.com/tr1ckydev/hyperimport

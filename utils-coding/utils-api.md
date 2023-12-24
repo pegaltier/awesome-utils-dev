@@ -61,6 +61,7 @@
 - https://github.com/drwpow/openapi-typescript
 - https://github.com/APIDevTools/swagger-parser
 - https://github.com/swagger-api/swagger-codegen
+- https://github.com/cyclosproject/ng-openapi-gen
 - https://github.com/devexperts/swagger-codegen-ts
 - https://github.com/OpenAPITools/openapi-generator
 - https://github.com/postmanlabs/openapi-to-postman

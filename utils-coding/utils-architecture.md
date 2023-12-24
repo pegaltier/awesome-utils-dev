@@ -10,6 +10,7 @@
 ## OSS
 - https://github.com/andreschaffer/event-sourcing-cqrs-examples
 - https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
+- https://github.com/Coder-World04/Complete-System-Design
 - https://github.com/ivan-bilan/The-Microservices-Pandect
 - https://github.com/mhadidg/software-architecture-books
 - https://github.com/ZachGoldberg/Startup-CTO-Handbook

@@ -9,6 +9,7 @@
 - http://www.infoworld.com/article/3212884/machine-learning/machine-learning-comes-to-your-browser-via-javascript.html
 
 ## ARTICLES
+- https://www.numerama.com/tech/1590098-lopen-source-en-ia-gagne-du-terrain-face-aux-modeles-proprietaires.html
 - https://www.kissmyfrogs.com/stephane-mallard-blu-age/
 - https://github.com/brexhq/prompt-engineering
 
@@ -45,20 +46,22 @@
 
 ## TOOLS: ALL
 - https://mason.app/
+- https://abacus.ai/
 - https://www.d-id.com/
-- https://www.futuretools.io/
-- https://nixtlaverse.nixtla.io/
+- https://deepinfra.com/
 - https://stability.ai/
 - https://clipdrop.co/
-- https://theforgeai.com/
-- https://www.chatpdf.com/
-- https://open-assistant.io/fr
 - https://sitegpt.ai/
+- https://ideasai.com/
 - https://kissangpt.com/
 - https://interiorai.com/
-- https://ideasai.com/
 - https://breadboard.me/
 - https://chat.openai.com/
+- https://theforgeai.com/
+- https://www.chatpdf.com/
+- https://www.futuretools.io/
+- https://open-assistant.io/fr
+- https://nixtlaverse.nixtla.io/
 - https://play.botscript.ai/
 - https://copilot.github.com/
 - https://www.sqltranslate.app/
@@ -226,6 +229,7 @@
 - https://github.com/NVIDIA/TensorRT-LLM
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
+- https://github.com/mnotgod96/AppAgent
 - https://github.com/alibaba/data-juicer
 - https://github.com/hwchase17/langchain
 - https://github.com/Giskard-AI/giskard
@@ -297,6 +301,7 @@
 - https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/huggingface/transformers
 - https://github.com/microsoft/guidance
+- https://github.com/microsoft/unilm
 
 ### LIST
 

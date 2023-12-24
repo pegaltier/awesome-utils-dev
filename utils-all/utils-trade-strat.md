@@ -48,6 +48,8 @@
 - mean reversion to capitalize on extreme changes for instance when standard deviation > 2 or 3 then we are going to have a mean reversion to the MA
 - volatility trading is taking a position based on the future expected volatility for instance using the VIX 
 
+- https://www.composer.trade/learn/examples-of-best-algorithmic-strategies
+
 
 ## STOP LOSS/EXIT
 - gradual approach in reducing their position. If it’s a momentum trade they put the max size on and reduce gradually as the trade moves against them

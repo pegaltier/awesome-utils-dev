@@ -14,6 +14,7 @@
 - https://github.com/rainerhahnekamp/qwik-blog
 - https://github.com/awesome-club/awesome-qwik
 - https://github.com/literalpie/qwik-starter
+- https://github.com/danielbayley/qwik-build
 - https://github.com/gioboa/qwik-dream-demo
 - https://github.com/qwikverse/awesome-qwik
 - https://github.com/qwikifiers/qwik-image

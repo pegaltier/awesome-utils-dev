@@ -46,6 +46,7 @@
 - https://www.trend-riders.com/
 - https://www.patreon.com/tradesmart224
 - https://www.patreon.com/algotradepro
+- https://unbiasedtrading.carrd.co/
 - https://thetradingparrot.com/
 - https://pythonforfinance.info/
 - https://trade.collective2.com/
@@ -72,7 +73,9 @@
 - https://anthonycrudele.com/futuresradioshow/podcast/293/
 
 ## BLOG
+- https://goodalexander.com/
 - https://twoquants.substack.com/
+- https://research.macrosynergy.com/
 
 ## LIST
 - https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
@@ -94,6 +97,7 @@
 
 ## QUOTES
 - https://finnhub.io/
+- https://moralis.io/
 - https://tardis.dev/
 - https://cryptick.net/
 - https://databento.com/
@@ -171,6 +175,7 @@
 ## TOOLS: TRADE EXEC / BROKER
 - https://eu.deriv.com/
 - https://api.deriv.com/
+- https://www.robomarkets.com/
 - https://insilicoterminal.com/
 - https://centerpointsecurities.com/
 

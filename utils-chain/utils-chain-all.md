@@ -36,6 +36,7 @@
 ## TOP DEV
 - https://mywish.io/
 - https://thirdweb.com/
+- https://www.chainex.live/
 - https://github.com/ViewBlock
 - https://github.com/ipfs/js-ipfs
 - https://github.com/thirdweb-dev
@@ -310,6 +311,7 @@
 ## D EXCHANGE
 - https://tigris.trade/
 - https://dexscreener.com/
+- https://www.apex.exchange/
 - https://www.geckoterminal.com/
 - https://www.investvoyager.com/
 - https://beta.wavesplatform.com/
