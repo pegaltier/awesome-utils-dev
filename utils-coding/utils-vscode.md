@@ -17,7 +17,6 @@
 - https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f
 
 ## EXTENSIONS: TOP
-
 - https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu
 - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools
 - https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview
@@ -38,6 +37,7 @@
 - https://marketplace.visualstudio.com/items?itemName=chawki.emoji-commit
 - https://marketplace.visualstudio.com/items?itemName=bierner.docs-view
 - https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally
+- https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap
 
 ## EXTENSIONS: OTHERS
 

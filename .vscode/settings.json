@@ -1,5 +1,23 @@
 {
-    "workbench.colorCustomizations": {},
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#f48517",
+        "activityBar.background": "#f48517",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#a4fbcf",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#f48517",
+        "statusBar.background": "#ce6c0a",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#f48517",
+        "statusBarItem.remoteBackground": "#ce6c0a",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#ce6c0a",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#ce6c0a99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
     "run-commands-view.commands": {
         "💤 Toggle Status Bar": "workbench.action.toggleStatusbarVisibility",
         "🔶 Insert text": {
@@ -24,5 +42,6 @@
                 "delayBefore": 1000,// <=====
             }
         ],
-    }
+    },
+    "peacock.color": "#ce6c0a"
 }

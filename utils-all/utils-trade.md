@@ -463,6 +463,7 @@
 - https://github.com/erdewit/ib_insync
 - https://github.com/jealous/stockstats *
 - https://github.com/ranaroussi/qtpylib
+- https://github.com/Yvictor/TradingGym *
 - https://github.com/jrmeier/fast-trade
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/Lumiwealth/lumibot
