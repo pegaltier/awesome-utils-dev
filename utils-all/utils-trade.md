@@ -32,6 +32,7 @@
 
 ## SITES
 - https://autoview.com/
+- https://openbb.co/blog/
 - https://quantpedia.com/
 - https://robotjames.com/
 - https://www.quantinsti.com/
@@ -42,16 +43,19 @@
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/ *
+- https://www.trend-riders.com/
 - https://www.patreon.com/tradesmart224
 - https://www.patreon.com/algotradepro
 - https://thetradingparrot.com/
 - https://pythonforfinance.info/
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
+- https://marketscripters.com/
 - https://aresquant.com/
 - https://www.algome.in/
 - https://quantform.io/
 - https://algomojo.com/
+- https://algosone.ai/
 - https://www.ezalgo.co/
 - https://squared2.io/
 - https://mycoder.pro/
@@ -278,6 +282,7 @@
 - https://alertzmanager.io/
 - https://tradingview.to/
 - https://fundingrate.io/
+- https://trigger.trade/
 - https://aleeert.com/
 - https://www.tv-hub.org/
 - https://alertatron.com/
@@ -367,11 +372,13 @@
 - https://github.com/hackingthemarkets?tab=repositories
 
 ### OSS: AWESOME
+- https://github.com/shashankvemuri/Finance
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/tiagosiebler/awesome-crypto-examples
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/edarchimbaud/awesome-systematic-trading
 - https://github.com/topics/candlestick-patterns-detection
+- https://github.com/stefan-jansen/machine-learning-for-trading
 
 ### OSS: ALL
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools

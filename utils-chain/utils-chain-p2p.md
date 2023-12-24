@@ -6,6 +6,7 @@
 - https://dwebcamp.org/
 - https://tryquiet.org/
 - http://blog.mauve.moe/
+- https://replicache.dev/
 - https://fosdem.org/2022/
 - https://decentpatterns.xyz/
 - https://agregore.mauve.moe/

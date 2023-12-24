@@ -10,6 +10,9 @@
 ## SOFT
 - https://github.com/rustdesk/rustdesk
 
+## DEV
+- https://github.com/LaurentMazare/
+
 ## UTILS
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 - https://github.com/yoshuawuyts/rust-for-js-peeps
@@ -29,6 +32,7 @@
 - https://github.com/sunfishcode/eyra
 - https://github.com/tauri-apps/tauri
 - https://github.com/makepad/makepad
+- https://github.com/oxc-project/oxc
 - https://github.com/Keats/validator
 - https://github.com/google/zerocopy
 - https://github.com/GREsau/schemars

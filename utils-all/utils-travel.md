@@ -48,6 +48,15 @@ http://www.hostels.com
 https://www.couchsurfing.org
 http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforment-en-dortoirs
 
+## Car 
+- https://www.carify.com/
+- https://carmarket.ch/fr
+
+## Swiss
+
+- https://www.les-bisses-du-valais.ch/fr/
+- https://www.blick.ch/fr/well/a-tester-en-famille-ces-5-magnifiques-balades-en-valais-vous-feront-aimer-lhiver-id19216253.html
+- https://ulysse.com/news/voyager-en-train-panoramique-a-travers-la-suisse-top-5-des-itineraires-a-decouvrir
 
 ## Best places
 

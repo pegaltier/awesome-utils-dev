@@ -1437,6 +1437,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 - https://nstudio.io/xplat
 - https://nxpm.dev/
 - https://bit.dev
+- https://moonrepo.dev/
 - https://nxplaybook.com/
 - https://nxplaybook.com/p/advanced-nx-workspaces
 - https://github.com/wixplosives/sample-monorepo

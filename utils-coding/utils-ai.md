@@ -64,6 +64,7 @@
 - https://www.literallyanything.io/
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
+- https://github.com/Nixtla/
 
 ## TOOLS: CODING
 - https://cursor.sh/
@@ -162,6 +163,7 @@
 - https://github.com/postgresml/postgresml
 
 ## LIB: GPT
+- https://github.com/imoneoi/openchat
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
