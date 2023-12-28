@@ -5,6 +5,7 @@
 ## Utils
 - https://pinout.xyz/
 - https://umbrel.com/
+- https://www.raspberrypi.com/software/
 
 ## RabbitMQ
 - http://www.pihomeserver.fr/2013/10/02/raspberry-pi-home-server-installer-gestionnaire-messages-rabbitmq/
