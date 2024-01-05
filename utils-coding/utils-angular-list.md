@@ -3307,6 +3307,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://gumroad.com/l/angular-universal
 - https://github.com/codecraft-tv/angular-course
 - https://github.com/PacktPublishing/Angular-Projects
+- https://www.manning.com/books/modern-angular (TOADD)
 - https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://angularexperts.io/products/ebook-angular-enterprise-architecture (TOADD)

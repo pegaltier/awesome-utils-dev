@@ -23,6 +23,7 @@
 - https://realtps.net
 - https://coin360.com
 - https://datalight.me
+- https://coinalyze.net
 - https://cryptolinks.com
 - https://coincodecap.com
 - https://thetie.io/coins

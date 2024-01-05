@@ -129,6 +129,7 @@
 - https://support.kraken.com/hc/en-us/sections/360009899492-CSV-Data *
 - https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data
 - https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000
+- https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/
 
 ## TOOLS: BACKTESTING
 - https://algowizard.io/
@@ -522,6 +523,7 @@
 - https://github.com/jerryshell/midas *
 - https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts *
+- https://github.com/ixjb94/indicators *
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *

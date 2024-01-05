@@ -575,10 +575,11 @@
 - https://github.com/openlayers/openlayers
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
-## LIB: CHART
+## LIB: DATAVIZ / CHART
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/project-nv/night-vision
 - https://github.com/highcharts/highcharts
+- https://github.com/bprusinowski/plotteus
 - https://github.com/gionkunz/chartist-js
 - https://github.com/chartist-js/chartist
 - https://github.com/observablehq/plot
