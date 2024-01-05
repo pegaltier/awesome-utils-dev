@@ -1778,6 +1778,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/eneajaho/ngx-isr
 - https://npm.io/search/keyword:angular+universal
 - https://github.com/netlify/netlify-plugin-angular-universal
+- https://github.com/brandonroberts/angular-to-analog-migration
 
 ## ECOSYSTEM: LIB: IMMUTABLE
 

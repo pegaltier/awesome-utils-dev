@@ -80,6 +80,7 @@
 - https://github.com/linuxserver/docker-wireguard
 - https://github.com/ballerine-io/ballerine
 - https://github.com/ProxymanApp/Proxyman
+- https://github.com/josdejong/jsonrepair
 - https://github.com/Infisical/infisical
 - https://github.com/stateful/runme
 - https://www.mendable.ai/
@@ -130,6 +131,7 @@
 - https://github.com/AlexW00/obsidian-3d-graph
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/blacksmithgu/obsidian-dataview
+- https://github.com/learn-anything/learn-anything.xyz
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
 
 ## Automate / automation

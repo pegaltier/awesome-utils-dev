@@ -79,6 +79,9 @@ low-code tooling to prototype fastly.
 - https://github.com/evidence-dev/evidence
 - https://github.com/evidence-dev/docker-devenv
 
+## chatbot
+- https://github.com/n4ze3m/dialoqbase
+
 ## articles
 - https://www.maketecheasier.com/platforms-build-apps-without-coding/
 - https://medium.com/@alexkatrompas/java-will-kill-your-startup-php-will-save-it-f3051968145d

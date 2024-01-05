@@ -29,6 +29,7 @@
 ## AWESOME
 - https://github.com/dair-ai
 - https://github.com/linexjlin/GPTs
+- https://github.com/mlabonne/llm-course
 - https://github.com/eugeneyan/applied-ml
 - https://github.com/visenger/awesome-mlops
 - https://github.com/openai/openai-cookbook
@@ -72,6 +73,8 @@
 ## TOOLS: OSS
 - https://github.com/Nixtla/
 - https://github.com/mistralai
+- https://github.com/mudler/LocalAI
+- https://github.com/cheshire-cat-ai/core
 
 ## TOOLS: CODING
 - https://cursor.sh/
@@ -264,6 +267,7 @@
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ## LIB: AUDIO
+- https://github.com/myshell-ai/OpenVoice
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/suno-ai/bark
 
