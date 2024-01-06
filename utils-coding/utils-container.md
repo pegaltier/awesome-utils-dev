@@ -153,6 +153,7 @@ RUN ls
 - https://github.com/containrrr/watchtower/
 
 ## DOCKER IMAGES ALL
+- https://github.com/help-me-mom/wordpress-docker-template
 - https://github.com/marcelo-ochoa/coder-docker-extension
 - https://github.com/DoTheEvo/selfhosted-apps-docker
 - https://github.com/jonatan-ivanov/local-services

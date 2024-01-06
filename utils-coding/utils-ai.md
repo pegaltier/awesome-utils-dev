@@ -233,6 +233,7 @@
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
 - https://github.com/mnotgod96/AppAgent
+- https://github.com/jzhang38/TinyLlama
 - https://github.com/alibaba/data-juicer
 - https://github.com/hwchase17/langchain
 - https://github.com/Giskard-AI/giskard

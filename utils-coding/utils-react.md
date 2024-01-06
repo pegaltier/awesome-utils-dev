@@ -154,6 +154,7 @@
 - https://github.com/wellyshen/react-cool-form
 - https://github.com/prabhuignoto/react-chrono
 - https://github.com/tannerlinsley/react-query
+- https://github.com/glideapps/glide-data-grid
 - https://github.com/meganetaaan/react-moddable
 - https://github.com/hupe1980/react-script-hook
 - https://github.com/zthxxx/react-dev-inspector

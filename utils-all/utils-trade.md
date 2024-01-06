@@ -111,6 +111,7 @@
 - https://eodhistoricaldata.com/
 - https://www.cryptoarchive.com.au/ *
 - https://github.com/maxgfr/binance-historical *
+- https://github.com/tardis-dev/tardis-node
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
 - https://www.cryptodatadownload.com/data/
@@ -465,7 +466,7 @@
 - https://github.com/jealous/stockstats *
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/Yvictor/TradingGym *
-- https://github.com/jrmeier/fast-trade
+- https://github.com/jrmeier/fast-trade *
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/Lumiwealth/lumibot
 - https://github.com/enzoampil/fastquant

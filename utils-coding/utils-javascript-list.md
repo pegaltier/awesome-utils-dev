@@ -640,6 +640,7 @@
 - https://lumalabs.ai/
 
 ## LIB: AI
+- https://github.com/fixie-ai/ai-jsx
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/neilgupta/Sherlock

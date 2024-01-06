@@ -52,6 +52,7 @@
 - https://github.com/cloudcommunity/Free-Certifications
 - https://github.com/mtdvio/every-programmer-should-know
 - https://github.com/bespoyasov/refactor-like-a-superhero
+- https://github.com/blindma1den/Programming-Skills-Level0
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development
 - https://github.com/qiangmzsx/Software-Engineering-at-Google

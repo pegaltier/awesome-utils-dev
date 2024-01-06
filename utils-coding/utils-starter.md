@@ -15,6 +15,9 @@
 - https://github.com/idurar/idurar-erp-crm
 - https://github.com/espocrm/espocrm
 
+## BI / Business intelligence
+- https://github.com/metabase/metabase
+
 # Images
 - https://github.com/codex-team/capella
 
