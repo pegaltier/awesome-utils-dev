@@ -136,6 +136,7 @@
 
 ## NGINX
 - https://github.com/fcambus/nginx-resources
+- https://github.com/yandex/gixy
 
 ## CLOUDFARE
 - https://github.com/losfair/blueboat

@@ -252,6 +252,7 @@
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens
+- https://github.com/janhq/nitro
 - https://github.com/simonw/llm
 - https://github.com/getzep/zep
 

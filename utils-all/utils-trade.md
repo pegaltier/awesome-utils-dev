@@ -322,6 +322,7 @@
 - https://github.com/EA31337/EA-Tester
 - https://github.com/EA31337/EA31337
 - https://github.com/EarnForex/PositionSizer
+- https://github.com/TradingToolCrypto/MT5-TradingToolCrypto
 - https://book.mql4.com/programm/samples
 - https://www.trading-automatique.fr/mql4/
 - https://docs.mql4.com/runtime/event_fire#calculate
