@@ -398,6 +398,8 @@
 
 ## LIB: URL
 - https://github.com/unshiftio/url-parse
+- https://github.com/jsonurl/jsonurl-js
+- https://github.com/masotime/json-url
 - https://github.com/wmertens/jsurl2
 - https://github.com/snd/url-pattern
 - https://github.com/simov/slugify
