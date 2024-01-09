@@ -97,6 +97,7 @@
 
 ## QUOTES
 - https://finnhub.io/
+- https://polygon.io/ * 
 - https://moralis.io/
 - https://tardis.dev/
 - https://cryptick.net/
@@ -462,6 +463,7 @@
 - https://github.com/hackingthemarkets
 
 ### OSS: PYTHON
+- https://github.com/skfolio/skfolio *
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
 - https://github.com/jealous/stockstats *

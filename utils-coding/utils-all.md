@@ -81,6 +81,7 @@
 ## WEBASSEMBLY WASM
 - https://github.com/appcypher/awesome-wasm-langs
 - https://github.com/bytecodealliance/wasm-tools
+- https://github.com/volarjs/volar.js
 - https://github.com/rustwasm/walrus
 
 ## CPP / C++
