@@ -112,6 +112,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/coasys
 - https://github.com/stars/Connoropolous/lists/awesome-holochain
 - https://github.com/spartan-holochain-counsel
+- https://github.com/HabFract/monorepo
 - https://github.com/Holo-Host/hc-multiplexer
 - https://github.com/holochain/scaffolding
 - https://github.com/Holo-Host/web-sdk-ionic-demo

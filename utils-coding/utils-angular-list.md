@@ -1856,6 +1856,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/chiefmikey/eslint-plugin-disable-autofix
 - https://github.com/typescript-eslint/tslint-to-eslint-config
 - https://github.com/danielnixon/eslint-plugin-total-functions
+- https://github.com/JoshuaKGoldberg/eslint-plugin-package-json
 - https://github.com/stormwarning/stylelint-config-recess-order
 - https://github.com/constverum/stylelint-config-rational-order
 - https://github.com/angular/angular-cli/issues/13732#issuecomment-617274183
