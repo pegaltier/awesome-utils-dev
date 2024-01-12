@@ -136,6 +136,7 @@
 - https://github.com/microlinkhq/metascraper
 - https://github.com/calipersjs/calipers
 - https://github.com/piscinajs/piscina
+- https://github.com/humanwhocodes/fsx
 - https://github.com/Unitech/pm2
 - https://github.com/cacjs/cac
 - https://github.com/eta-dev/eta

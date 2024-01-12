@@ -36,6 +36,7 @@
 - https://github.com/netflix/dgs-framework
 - https://github.com/spring-projects/spring-boot
 - https://www.marcobehler.com/guides/spring-boot
+- https://github.com/Genc/spring-boot-boilerplate
 - https://github.com/RameshMF/awesome-spring-boot
 - https://github.com/RameshMF/spring-boot-tutorial
 - https://github.com/RameshMF/springboot-validation

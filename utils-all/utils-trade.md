@@ -111,18 +111,13 @@
 - https://www.alphavantage.co/
 - https://eodhistoricaldata.com/
 - https://www.cryptoarchive.com.au/ *
-- https://github.com/maxgfr/binance-historical *
-- https://github.com/tardis-dev/tardis-node
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
 - https://www.cryptodatadownload.com/data/
 - https://http-docs.thetadata.us/
 - https://data.world/crispydata/bitcoin-historical-data
-- https://github.com/ThetaData-API/thetadata-python
 - https://fuserleer.online/exchange_data/
 - https://www.youtube.com/watch?v=myydDX-us4o
-- https://github.com/Leo4815162342/dukascopy-node
-- https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 - https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
 - https://data.coinbase.com/?packageFilter=ohlcv-hourly
 - https://bravenewcoin.com/enterprise-solutions/market-data
@@ -132,6 +127,14 @@
 - https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data
 - https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000
 - https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/
+
+## QUOTES: OSS
+- https://github.com/swapniljariwala/nsepy
+- https://github.com/maxgfr/binance-historical *
+- https://github.com/tardis-dev/tardis-node
+- https://github.com/Leo4815162342/dukascopy-node
+- https://github.com/ThetaData-API/thetadata-python
+- https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 
 ## TOOLS: BACKTESTING
 - https://algowizard.io/
@@ -317,6 +320,7 @@
 
 ## METATRADER
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
+- https://github.com/geraked/metatrader5
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://github.com/EA31337/EA31337-strategies
 - https://github.com/EA31337/EA31337-Libre
@@ -342,7 +346,7 @@
 
 ### OSS: TRADINGVIEW: QUAL
 - https://github.com/fmzquant/strategies
-- https://github.com/geraked/tradingview
+- https://github.com/geraked/tradingview * 
 - https://github.com/martinshane/pinescript5
 - https://github.com/harryguiacorn/tradingview
 - https://github.com/ricardosantos79/pinescript
@@ -409,6 +413,7 @@
 - https://github.com/stoqey/ib *
 - https://github.com/gateio/gateapi-nodejs *
 - https://github.com/alpacahq/alpaca-trade-api-js
+- https://github.com/Kucoin/kucoin-node-sdk *
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/bybit-api
