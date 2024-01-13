@@ -92,6 +92,7 @@
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo
 - https://github.com/jsfiddle/togetherjs
+- https://github.com/excalidraw/excalidraw
 - https://github.com/onetimesecret/onetimesecret
 
 # OSS: WEB
@@ -102,12 +103,16 @@
 - https://excalidraw.com/
 - https://playground.diagram.codes/
 - https://github.com/cowchimp/source-viz
+- https://github.com/excalidraw/excalidraw
 - https://github.com/dreampuf/GraphvizOnline
 
 ## Streaming
 - https://obsproject.com/
 - https://movie-web.app/
 - https://github.com/movie-web/movie-web
+
+## Finance
+- https://github.com/maybe-finance/maybe
 
 ## List
 - https://untools.co/

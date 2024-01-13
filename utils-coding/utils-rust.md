@@ -21,6 +21,9 @@
 - https://github.com/PaulRBerg/rust-template
 - https://github.com/cargo2nix/cargo2nix
 
+## FRAMEWORK
+- https://github.com/cunarist/rinf
+
 ## LIB
 - https://github.com/crabnebula-dev/cargo-packager
 - https://github.com/Totodore/socketioxide

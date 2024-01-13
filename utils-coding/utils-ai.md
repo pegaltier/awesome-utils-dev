@@ -233,6 +233,7 @@
 - https://github.com/NVIDIA/TensorRT-LLM
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
+- https://github.com/docker/genai-stack
 - https://github.com/mnotgod96/AppAgent
 - https://github.com/jzhang38/TinyLlama
 - https://github.com/alibaba/data-juicer

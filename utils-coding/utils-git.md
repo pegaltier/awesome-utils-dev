@@ -93,6 +93,7 @@
 - https://github.com/garronej/ts_ci
 - https://github.com/actions/toolkit
 - https://github.com/sdras/awesome-actions
+- https://github.com/balazsorban44/nissuer
 - https://github.com/Cicada-Software/cicada
 - https://github.com/jonico/awesome-runners
 - https://github.com/actionsflow/actionsflow

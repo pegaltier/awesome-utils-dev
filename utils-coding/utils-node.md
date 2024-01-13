@@ -235,7 +235,11 @@
 - https://github.com/itteco/graceful-cluster
 - https://github.com/louislam/node-cloudflared-tunnel
 
-## SERVER: TOOLS
+## SERVER: EDGES
+- https://github.com/kartikk221/hyper-express
+- https://github.com/honojs/hono
+
+## SERVER: ALL
 - https://github.com/httptoolkit/mockrtc
 - https://github.com/fonoster/fonoster
 - https://github.com/vercel/og-image
