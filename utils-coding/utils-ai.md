@@ -40,6 +40,7 @@
 - https://github.com/cbailes/awesome-deep-trading
 - https://github.com/steven2358/awesome-generative-ai
 - https://github.com/mercari/ml-system-design-pattern
+- https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://github.com/heartexlabs/awesome-data-labeling
 - https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 - https://github.com/EthicalML/awesome-production-machine-learning
@@ -262,9 +263,10 @@
 - https://github.com/s0md3v/roop
 - https://github.com/openai/shap-e
 - https://github.com/katanaml/sparrow
+- https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/modelscope/facechain
 - https://github.com/facefusion/facefusion
-- https://github.com/Zeqiang-Lai/DragGAN
+- https://github.com/TencentARC/PhotoMaker
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/AIAnytime/AI-News-Anchor-Generator-App

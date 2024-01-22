@@ -83,6 +83,7 @@
 - https://github.com/josdejong/jsonrepair
 - https://github.com/Infisical/infisical
 - https://github.com/stateful/runme
+- https://github.com/typst/typst
 - https://www.mendable.ai/
 
 ## OSS: COLLABORATE
@@ -109,6 +110,7 @@
 ## Streaming
 - https://obsproject.com/
 - https://movie-web.app/
+- https://github.com/KRTirtho/spotube
 - https://github.com/movie-web/movie-web
 
 ## Finance

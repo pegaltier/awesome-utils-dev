@@ -327,10 +327,12 @@
 - https://github.com/EA31337/EA-Tester
 - https://github.com/EA31337/EA31337
 - https://github.com/EarnForex/PositionSizer
+- https://github.com/erlonfs/bad-robot.framework
 - https://github.com/TradingToolCrypto/MT5-TradingToolCrypto
 - https://book.mql4.com/programm/samples
 - https://www.trading-automatique.fr/mql4/
 - https://docs.mql4.com/runtime/event_fire#calculate
+
 
 
 ## OPEN SOURCES (OSS)
@@ -471,6 +473,7 @@
 - https://github.com/skfolio/skfolio *
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
+- https://github.com/okxapi/python-okx
 - https://github.com/jealous/stockstats *
 - https://github.com/ranaroussi/qtpylib
 - https://github.com/Yvictor/TradingGym *
@@ -503,6 +506,7 @@
 - https://github.com/TheFourGreatErrors/alpha-rptr * 
 - https://github.com/nautechsystems/nautilus_trader
 - https://github.com/51bitquant/binance_grid_trader
+- https://github.com/hackobi/AI-Scalpel-Trading-Bot
 - https://github.com/alpacahq/alpaca-backtrader-api
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example
@@ -558,6 +562,7 @@
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/BitgetLimited/v3-bitget-api-sdk
 - https://github.com/fasenderos/hft-limit-order-book
+- https://github.com/tiagosiebler/TriangularArbitrage
 - https://github.com/Hantama237/moontrade-algotrading
 - https://github.com/Reiryoku-Technologies/Mida *
 - https://github.com/Reiryoku-Technologies/Mida-Playground

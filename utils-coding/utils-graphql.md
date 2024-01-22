@@ -44,6 +44,7 @@
 - https://github.com/google/rejoiner
 - https://github.com/SaltyAom/mobius
 - https://github.com/jagql/framework
+- https://github.com/0no-co/gql.tada
 - https://github.com/anvilco/spectaql
 - https://github.com/graphql/graphiql
 - https://github.com/dgraph-io/dgraph

@@ -15,6 +15,7 @@
 ## PACKAGE MANAGER
 
 - https://github.com/frehner/modern-guide-to-packaging-js-library
+- https://github.com/matiasah/npm-dependency-exclusion
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/web-infra-dev/modern.js
 - https://github.com/time-loop/only-allow
@@ -30,7 +31,15 @@
 - https://github.com/tj/n
 
 ## BULDER
-- https://turbo.build/
+- https://github.com/yao-pkg/pkg
+- https://github.com/vercel/turbo
+- https://github.com/privatenumber/tsx
+
+## STARTER
+- https://github.com/bezkoder/node-js-mssql-crud-example
+- https://github.com/studiohyperdrive/nodejs-boilerplate
+- https://github.com/xddq/nodejs-typescript-modern-starter
+- https://github.com/meysamhadeli/booking-microservices-express-js/
 
 ## LIST
 - https://github.com/sindresorhus/awesome-nodejs
@@ -58,16 +67,14 @@
 - https://www.defer.run/blog/nodejs-cron
 - https://vercel.com/docs/cron-jobs
 
-## STARTER
-- https://github.com/meysamhadeli/booking-microservices-express-js/
-
 ## UTILS
 
 - https://github.com/animir/node-rate-limiter-flexible
+- https://github.com/jkup/source-map-stacktrace-tester
+- https://github.com/node-loader/node-loader-core
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/sindresorhus/find-cache-dir
 - https://github.com/radarsu/types-package-json
-- https://github.com/jkup/source-map-stacktrace-tester
 - https://github.com/jkup/source-map-validator
 - https://github.com/davglass/license-checker
 - https://github.com/anonrig/fast-querystring
@@ -268,10 +275,6 @@
 - https://github.com/strongloop/loopback-next
 - https://github.com/serhiisol/node-decorators
 - https://github.com/deepkit/deepkit-framework
-
-## STARTER
-- https://github.com/bezkoder/node-js-mssql-crud-example
-- https://github.com/studiohyperdrive/nodejs-boilerplate
 
 ## BASICS
 

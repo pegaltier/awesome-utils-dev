@@ -39,6 +39,7 @@
 - https://thirdweb.com/
 - https://www.chainex.live/
 - https://github.com/ViewBlock
+- https://github.com/xmtp/xmtp-js
 - https://github.com/ipfs/js-ipfs
 - https://github.com/thirdweb-dev
 - https://github.com/chubin/rate.sx

@@ -412,7 +412,9 @@
 
 ## LIB: PARSER
 - https://github.com/Essent/nativescript-xml2js
+- https://github.com/natemoo-re/ultrahtml
 - https://github.com/micromark/micromark
+- https://github.com/cheeriojs/cheerio
 - https://github.com/fb55/htmlparser2
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
@@ -617,6 +619,7 @@
 ## LIB: 2D/3D/VR
 - https://github.com/oframe/ogl
 - https://github.com/ct-js/ct-js
+- https://github.com/Niekes/d3-3d
 - https://github.com/dagrejs/dagre
 - https://github.com/skanaar/graphre
 - https://github.com/aframevr/aframe

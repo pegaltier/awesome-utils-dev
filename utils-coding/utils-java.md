@@ -63,6 +63,7 @@
 
 ## EXAMPLE
 - https://github.com/crnk-project/crnk-example
+- https://github.com/spring-projects/spring-petclinic
 - https://github.com/nilsgumpfer/StrategyDesignPattern
 - https://github.com/nilsgumpfer/AdapterDesignPattern
 - https://github.com/nilsgumpfer/CommandDesignPattern

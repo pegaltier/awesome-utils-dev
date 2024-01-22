@@ -983,6 +983,7 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/nartc/ng-conduit-signals
 - https://github.com/code-with-ahsan/ng-signals-wishlist
 - https://github.com/eduardoRoth/rick-and-morty-signals
+- https://github.com/sonusindhu/angular-signals-examples *
 - https://stackblitz.com/edit/angular-ng-model-signal
 - https://stackblitz.com/edit/angular-ednkcj
 - https://github.com/nartc/ng-signals-conduit
@@ -1130,6 +1131,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/tomastrajan/angular-ngrx-material-starter
 
 ## ECOSYSTEM: STORE: NGRX: DEMO
+- https://github.com/ngrx/ngrx-modules-workshop
 - https://github.com/Wykks/wonderful-todo-list
 - https://github.com/bbaia/todomvc-angular-ngrx
 - https://github.com/this-is-angular/ngrx-course
@@ -1240,6 +1242,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/ngrx/announcing-ngrx-version-10-new-packages-for-local-component-state-and-reactive-components-swag-62bedda0be91
 
 ## ECOSYSTEM: STORE: SIGNAL STORE
+- https://github.com/ngrx/signal-store-workshop
 - https://github.com/angular-architects/ngrx-toolkit
 - https://github.com/markostanimirovic/ngrx-signal-store-playground
 - https://github.com/simplifiedcourses/ngx-signal-state
@@ -1821,6 +1824,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/stylelint/stylelint
 - https://github.com/stylelint-scss/stylelint-scss
 - https://github.com/svengreb/styleguide-javascript
+- https://github.com/secretlint/secretlint
 - https://github.com/htmlhint/HTMLHint
 - https://github.com/palantir/tslint
 - https://github.com/eslint/eslint
@@ -2432,10 +2436,13 @@ Analyze and optimize the performance of your app
 - https://github.com/alcfeoh/ngx-digital-display
 - https://github.com/MurhafSousli/ngx-scrollbar
 - https://github.com/ngx-lottie/ngx-lottie
-- https://github.com/ng-icons/ng-icons
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
 
+## ECOSYSTEM: LIB: COMPONENT: ICONS
+- https://github.com/ngbracket/ngx-icon
+- https://github.com/ng-icons/ng-icons
+- https://github.com/DuncanFaulkner/ngx-icon
 
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT / GRID / TABLE
 
