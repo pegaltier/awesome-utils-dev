@@ -129,6 +129,7 @@
 - https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/
 
 ## QUOTES: OSS
+- https://github.com/guptarohit/cryptoCMD
 - https://github.com/swapniljariwala/nsepy
 - https://github.com/maxgfr/binance-historical *
 - https://github.com/tardis-dev/tardis-node
@@ -518,6 +519,7 @@
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM
 - https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/conor19w/Binance-Futures-Trading-Bot
+- https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
 - https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance

@@ -483,27 +483,21 @@
 - https://github.com/HichemTab-tech/EasyCaptchaJS
 - https://github.com/timruffles/mobile-drag-drop
 - https://github.com/alias-rahil/handwritten.js
-- https://github.com/epicweb-dev/restore-scroll
 - https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
 - https://github.com/funktechno/texthighlighter
 - https://github.com/davidmerfield/randomColor
 - https://github.com/mjbrisebois/identicons-js
-- https://github.com/willmcpo/body-scroll-lock
-- https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/willmendesneto/perf-marks
-- https://github.com/metafizzy/infinite-scroll
 - https://github.com/pubkey/broadcast-channel
 - https://github.com/NUKnightLab/TimelineJS3
 - https://github.com/sindresorhus/clipboardy
-- https://github.com/lucafalasco/scroll-snap
 - https://github.com/katspaugh/wavesurfer.js
 - https://github.com/zenorocha/clipboard.js
 - https://github.com/catdad/canvas-confetti
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver
 - https://github.com/formkit/auto-animate
-- https://github.com/dhilt/vscroll-native
 - https://github.com/codex-team/editor.js
 - https://github.com/mozilla/readability
 - https://github.com/focus-trap/tabbable
@@ -535,12 +529,23 @@
 - https://github.com/grid-js/gridjs
 - https://github.com/YC/coming-soon
 - https://github.com/antfu/shikiji
-- https://github.com/dhilt/vscroll
 - https://github.com/javve/list.js
 - https://github.com/mikecao/umami
 - https://github.com/angus-c/just
 - https://github.com/xdan/jodit
 - https://github.com/needim/noty
+
+## LIB: FRONTEND CAROUSEL / SLIDER / SCROLL
+- https://github.com/dhilt/vscroll
+- https://github.com/bramus/sda-utilities
+- https://github.com/dhilt/vscroll-native
+- https://github.com/zachleat/carouscroll
+- https://github.com/argyleink/scrollyfills
+- https://github.com/lucafalasco/scroll-snap
+- https://github.com/epicweb-dev/restore-scroll
+- https://github.com/willmcpo/body-scroll-lock
+- https://github.com/tuax/tua-body-scroll-lock
+- https://github.com/metafizzy/infinite-scroll
 
 ## LIB: FRONTEND DESIGN
 
@@ -672,6 +677,7 @@
 - https://github.com/fastify/fast-json-stringify
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/thdoan/mr-data-converter
+- https://github.com/sidorares/json-bigint
 - https://github.com/jsonata-js/jsonata
 
 ## LIB: DATA OBJECT

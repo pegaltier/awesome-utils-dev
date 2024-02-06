@@ -125,6 +125,9 @@
 - https://www.sievedata.com/
 - https://www.synthesia.io/
 
+## TOOLS: SEARCH
+- https://github.com/leptonai/search_with_lepton
+
 ## IMAGES API
 
 - https://cloud.google.com/vision/
@@ -145,7 +148,6 @@
 - https://github.com/CarperAI/trlx
 - https://github.com/marqo-ai/marqo
 - https://github.com/deepset-ai/FARM
-- https://github.com/upscayl/upscayl
 - https://github.com/yeuai/botscript
 - https://github.com/winkjs/wink-ner
 - https://github.com/axa-group/nlp.js
@@ -251,6 +253,7 @@
 - https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
+- https://github.com/OpenBMB/MiniCPM
 - https://github.com/salesforce/xgen
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
@@ -262,6 +265,7 @@
 ## LIB: IMAGE
 - https://github.com/s0md3v/roop
 - https://github.com/openai/shap-e
+- https://github.com/upscayl/upscayl
 - https://github.com/katanaml/sparrow
 - https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/modelscope/facechain

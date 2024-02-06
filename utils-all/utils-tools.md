@@ -82,6 +82,7 @@
 - https://github.com/ProxymanApp/Proxyman
 - https://github.com/josdejong/jsonrepair
 - https://github.com/Infisical/infisical
+- https://github.com/zed-industries/zed
 - https://github.com/stateful/runme
 - https://github.com/typst/typst
 - https://www.mendable.ai/

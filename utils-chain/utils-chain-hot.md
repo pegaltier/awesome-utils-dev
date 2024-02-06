@@ -159,6 +159,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/lightningrodlabs/where
 - https://github.com/lightningrodlabs/who
 - https://github.com/lightningrodlabs/we
+- https://github.com/lightningrodlabs/calcy
+- https://github.com/lightningrodlabs/branchy
 - https://github.com/lightningrodlabs/rea-playspace
 - https://github.com/lightningrodlabs/hdk_crud
 - https://github.com/lightningrodlabs/notebooks

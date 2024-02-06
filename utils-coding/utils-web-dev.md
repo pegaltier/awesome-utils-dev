@@ -402,6 +402,7 @@ functions : https://bocoup.com/blog/the-many-faces-of-functions-in-javascript
 support : http://diveinto.html5doctor.com/detect.html
 standard : https://github.com/feross/standard
 format : https://github.com/prettier/prettier
+format: https://github.com/rohitdhas/shittier
 es2015 : https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.x41dygjuv
 courses : https://psdtowp.net/learn-javascript.html  
 immutable : https://auth0.com/blog/2016/03/23/intro-to-immutable-js/  
@@ -512,13 +513,13 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/leemunroe/responsive-html-email-template
 
 ## CREATIVE TOOLS
-
 - https://github.com/luruke/aladino
 - https://github.com/gmrchk/blobity
 - https://github.com/veltman/flubber
 - https://github.com/paperjs/paper.js
 - https://github.com/benjamminf/warpjs
 - https://github.com/qrohlf/trianglify
+- https://github.com/sparkbox/bouncy-ball
 - https://github.com/davidkpiano/flipping
 - https://github.com/nolimits4web/atropos/
 - https://github.com/janpaepke/ScrollMagic

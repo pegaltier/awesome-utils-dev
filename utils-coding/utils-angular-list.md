@@ -480,6 +480,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER / CLOUD HOSTING
 
 - https://ngx.tools/
 - https://angular-builders.dev/home
+- https://github.com/unjs/unimport
 - https://github.com/angular/angular-cli/issues/6137
 - https://github.com/bampakoa/ngx-electronify
 - https://github.com/mgechev/cli-builders-demo
@@ -1636,6 +1637,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/bojanbass/nx-aws
 - https://github.com/nrwl/nx-cloud-helm
 - https://github.com/thiagobbt/nx-remotecache-s3
+- https://github.com/NiklasPor/nx-remotecache-custom
 - https://github.com/NiklasPor/nx-remotecache-azure
 - https://github.com/NiklasPor/nx-remotecache-custom
 - https://github.com/NiklasPor/nx-remotecache-minio
@@ -2279,7 +2281,7 @@ Analyze and optimize the performance of your app
 - https://github.com/TinkoffCreditSystems/micro-sentry
 - https://github.com/aackerman/circular-dependency-plugin
 
-## ECOSYSTEM: LIB: INTERNATIONALIZATION
+## ECOSYSTEM: LIB: INTERNATIONALIZATION / LOCALE / LOKALIZE
 - https://tolgee.io/
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
@@ -2290,6 +2292,7 @@ Analyze and optimize the performance of your app
 - https://github.com/fkirc/attranslate
 - https://github.com/tolgee/ngx-example
 - https://github.com/ngx-translate/core
+- https://github.com/WeblateOrg/weblate
 - https://github.com/jantimon/icu-to-json
 - https://github.com/robisim74/angular-l10n
 - https://github.com/ivanhofer/typesafe-i18n
@@ -2395,8 +2398,6 @@ Analyze and optimize the performance of your app
 - https://github.com/francoisromain/leaflet-markers-canvas
 - https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/text-mask/text-mask
-- https://github.com/KillerCodeMonkey/ngx-quill
-- https://github.com/ayush013/ngx-quill-upload
 - https://github.com/vadimdez/ng2-pdf-viewer/
 - https://github.com/osahner/ngx-show-hide-password
 - https://github.com/kekeh/angular-mydatepicker
@@ -2645,6 +2646,10 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Developer-Plexscape/ngx-grapesjs
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/ckeditor/ckeditor5-angular
+- https://github.com/KillerCodeMonkey/ngx-quill
+- https://github.com/ayush013/ngx-quill-upload
+- https://github.com/reedsy/quill-cursors
+- https://github.com/quilljs/quill
 - https://github.com/microsoft/monaco-editor
 - https://github.com/ProseMirror/prosemirror
 - https://github.com/alauda/ng-monaco-editor
