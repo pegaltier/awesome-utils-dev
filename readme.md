@@ -39,6 +39,9 @@
 - [Holochain](utils-chain/utils-chain-hot.md)
 - [More](utils-chain/)
 
+## Tools
+
+- [Pieces](https://github.com/pieces-app/documentation)
 
 ## Contributing
 
