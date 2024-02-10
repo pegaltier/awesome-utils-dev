@@ -602,7 +602,7 @@ même s’ils n’ont pas changé. Cela peut être utile si ton composant attend
 
 EXAMPLE
 
-```
+```javascript
 export class App implements OnInit, AfterViewInit, AfterContentInit {
   @Input() myInput: string;
   @ViewChild() myTemplate: TemplateRef<any>;
@@ -657,13 +657,13 @@ this.\_renderer2.setElementProperty(this.\_elementRef,'add-property-here',true);
 
 ## ANGULAR BROWSER TESTING
 
-- Cypress is very efficient tools for e2e. At the beginning to see how it goes you can start testing the app using real backend request for the GET requests and using mock for the others method (POST,PATCH, DELETE)
+- Playwright and Cypress are very efficient tools for e2e. At the beginning to see how it goes you can start testing the app using real backend request for the GET requests and using mock for the other methods (POST,PATCH, DELETE) so you dont modify the state of the database
 - More info on test end to end (see utils-testing.md OR book ninja angular page 157)
 
-## ANGULAR UNIT TESTS
+## ANGULAR UNIT TESTS GENERIC
 
-- Jest is faster because it does not run on a real browser instead it uses jsdom. It's not testing the rendering (html/css) but just the dom tree. So there is a potential risk that jsdom differs from your targetted browser.
-- Karma is slower because is testing using a real browser so the unit test are certainly working as expected in a real browser.
+- Jest is faster compared to Karma because it does not run on a real browser instead it uses jsdom. It's not testing the rendering (html/css) but just the dom tree. So there is a potential risk that jsdom differs from your targetted browser.
+- Karma is slower compared to Jest because is testing using a real browser so the unit test are certainly working as expected in a real browser.
 
 In the context of a large application with a lot of tests we need a quick tool so Jest seem adapted, the html rendering will then be tested with e2e tests.
 
@@ -690,16 +690,34 @@ my-comp.io.spec.ts
 my-comp.bu.spec.ts
 
 ### UNIT TESTS: BASICS
-To test a component javascript code only you can create a new MyComponent() directly in the spec but a component is not only js code; The component truly is the template and the class working together, that's why the framework has a fixture = TestBed.createComponent(MyComponent) used to create a fixture (the mount test harness instance of class and template) where you can get the class instance with component = fixture.componentInstance and also can get the html element template instance with element = fixture.nativeElement;
 
+- To test a component javascript code only you can create a new MyComponent() directly in the spec but a component is not only js code; The component truly is the template and the class working together, that's why the framework has a fixture = TestBed.createComponent(MyComponent) used to create a fixture (the mount test harness instance of class and template) where you can get the class instance with component = fixture.componentInstance and also can get the html element template instance with element = fixture.nativeElement;
 
-### UNIT TESTS: DEPENDENCY
+- overrideComponent can be useful in various cases:
+- for instance you can do set: { template: '{{message}}' } so you can test your component with a simpler template compared to the original
+- for instance you can do set: { providers: [{ provide: MyService,useValue: mockService }] } so you can inject services scoped to component injectors, that is to say provided in the component and not in the root injector like singleton services. This is especially useful when you are using standalone components, then you can get the fixture.debugElement.injector.get(MyService);
 
-#### UNIT TESTS: DEPENDENCIES IN COMPONENTS
-- if you need a real dependency implementation in your test injected from the component injector then use the debugElement. exemple: dateService = fixture.debugElement.injector.get(DateService) gets the service that is actually injected into the component.
+### UNIT TESTS: TESTBED CHEATSHEET
 
 #### UNIT TESTS: DEPENDENCIES IN SERVICES
+
 - if you need a real dependency implementation in your test injected from the root injector then use TestBed.inject. exemple: dateService = TestBed.inject(DateService);
+
+```javascript
+// get the providedIn: "root" (application singletons) 
+// mocked via configureTestingModule({providers: [ MyService ] })
+let svc1 = TestBed.get(MyService);
+```
+
+#### UNIT TESTS: DEPENDENCIES IN COMPONENTS
+
+- if you need a real dependency implementation in your test injected from the component injector then use the debugElement. exemple: dateService = fixture.debugElement.injector.get(DateService) gets the service that is actually injected into the component:
+
+```javascript
+// get the providedIn: "local" (component scoped) 
+// mocked via overrideComponent(set: { providers: [{ provide: MyService,useValue: mockService }] })
+let svc2 = fixture.debugElement.injector.get(MyService);
+```
 
 #### UNIT TESTS: DEPENDENCIES MOCKING
 
@@ -716,6 +734,7 @@ To test a component javascript code only you can create a new MyComponent() dire
 - http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/
 - http://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-2/
 - https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/
+- https://this-is-angular.github.io/angular-guides/docs/standalone-apis/testing-a-standalone-component-using-the-angular-testbed
 - https://stackoverflow.com/questions/40126729/angular-2-testing-async-function-call-when-to-use
 - https://stackoverflow.com/questions/40432734/angular-2-jasmine-error-please-call-testbed-compilecomponents-before-your
 - https://stackoverflow.com/questions/48789289/how-to-reuse-all-imports-in-angular-test-files

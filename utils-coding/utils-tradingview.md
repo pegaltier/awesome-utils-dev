@@ -67,3 +67,16 @@ condExitShort = isShort() and currentPosPercent >= exitShortAfterPercents
 // https://www.tradingcode.net/tradingview/open-order-identifier/
 ```
 
+
+## Multi time frame calculation
+
+```javascript
+// Define custom security function
+f_sec(_market, _res, _exp) => request.security(_market, _res, _exp[barstate.isrealtime ? 1 : 0])[barstate.isrealtime ? 0 : 1]
+
+// Get EMA values
+ema = ta.ema(close, len)
+emaValue1 = f_sec(market, res1, ema)
+emaValue2= f_sec(market, res2, ema)
+emaValue3 = f_sec(market, res3, ema)
+```

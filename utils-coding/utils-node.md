@@ -100,6 +100,7 @@
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
 - https://github.com/foreversd/forever
+- https://github.com/nodejitsu/nexpect
 - https://github.com/sindresorhus/np
 - https://github.com/SukkaW/nolyfill
 - https://github.com/zoontek/valienv

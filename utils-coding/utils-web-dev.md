@@ -502,6 +502,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/shuding/nextra
 - https://github.com/mdx-js/mdx
 - https://github.com/alloc/saus
+- https://github.com/unjs/h3
 
 ## EMAIL
 

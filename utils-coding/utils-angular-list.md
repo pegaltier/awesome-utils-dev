@@ -972,6 +972,7 @@ Learn everything about angular universal, make a good SEO.
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
 - https://dev.to/this-is-angular/angular-signals-everything-you-need-to-know-2b7g
+- https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo
 - https://ng-journal.com/blog/2023-04-25-signals-and-the-rxjs-interop/
 - https://marmicode.io/blog/angular-signals-and-custom-render-strategies
 - https://marmicode.io/blog/managing-rxjs-traffic-with-signals?b=3
@@ -1243,6 +1244,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/ngrx/announcing-ngrx-version-10-new-packages-for-local-component-state-and-reactive-components-swag-62bedda0be91
 
 ## ECOSYSTEM: STORE: SIGNAL STORE
+- https://github.com/spierala/mini-rx-store
 - https://github.com/ngrx/signal-store-workshop
 - https://github.com/angular-architects/ngrx-toolkit
 - https://github.com/markostanimirovic/ngrx-signal-store-playground
@@ -3317,6 +3319,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - http://AngularAdvocate.com
 - https://angulararchitecture.com
 - https://leanpub.com/angular2-book
+- https://checkout.simplified.courses/
 - https://books.ninja-squad.com/angular2
 - https://gumroad.com/l/angular-universal
 - https://github.com/codecraft-tv/angular-course

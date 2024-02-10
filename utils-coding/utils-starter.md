@@ -10,6 +10,7 @@
 ## Ecommerce
 - https://github.com/medusajs/medusa
 - https://github.com/Shopify/hydrogen
+- https://github.com/lmsqueezy/lemonsqueezy.js
 - https://github.com/vendure-ecommerce/vendure
 - https://github.com/vuestorefront/storefront-ui
 
@@ -20,18 +21,21 @@
 ## BI / Business intelligence
 - https://github.com/metabase/metabase
 
-# Images
+## Images
 - https://github.com/codex-team/capella
 
-# Forms
+## Forms
 - https://github.com/formbricks/formbricks
 
-# Admin
+## Admin
 - https://github.com/SoftwareBrothers/adminjs
 - https://github.com/chronark/highstorm
 
-# Notifications
+## Notifications
 - https://github.com/binwiederhier/ntfy
 - https://github.com/novuhq/novu
 - https://onesignal.com/
 - https://pushover.net/
+
+## Automation
+- https://github.com/FujiwaraChoki/MoneyPrinter

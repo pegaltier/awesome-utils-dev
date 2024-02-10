@@ -410,6 +410,9 @@
 - https://github.com/OktaSecurityLabs/passprotect-js
 - https://github.com/zxcvbn-ts/zxcvbn
 
+## LIB: PAYMENT
+- https://github.com/lmsqueezy/lemonsqueezy.js
+
 ## LIB: PARSER
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/natemoo-re/ultrahtml

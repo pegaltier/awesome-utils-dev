@@ -15,18 +15,21 @@
 
 ```javascript
 jest.mock('./static-helper');
-jest.mock('swiper', () => ({ use: jest.fn() }));
+jest.mock('swiper', () => ({ use: jest.fn() })); // if you don't need anything back
+jest.mock('swiper', () => ({ use: jest.fn().mockReturnValue(true) })); // to mock a plain function
+jest.mock('swiper', () => ({ use: jest.fn().mockResolvedValue(true) })); // to mock a promise function
 ```
 
-- jest.mock('lib/module') with barrel import will mock the dependencies imported by the services inside your module. but you still need to define manually the mocked service using jest.MockedClass + functions prototype used with jest.fn()
+- This automock function described above (jest.mock('lib/module')) can be very useful with barrel import because else jest will load everything from the barrel file; so instead with this you mock the dependencies imported by the file inside your module. but you still need to define manually the mocked service using jest.MockedClass + functions prototype used with jest.fn()
 
 ```javascript
 const MockedStaticHelper = StaticHelper as jest.MockedClass<typeof StaticHelper>;
 MockedStaticHelper.displayThing = jest.fn().mockReturnValue(true);
 ```
 
-You can also mock entire libraries by mapping in the jest preset to a file, see jest.preset.js:
-- Mock files: https://gitlab.com/beeze_andy_schmidt/jest-esm-mock-test
+- You can also spy specific function of a static class like singleton using jest.spyOn(MyAPI.api(), 'myFeature').mockAndReturnValue(myMockedFeature)
+- You can also mock entire libraries by mapping in the jest preset to a file, see jest.preset.js:
+- Mock files: https://stackoverflow.com/questions/49685265/jest-mock-user-module-in-all-test-files
 
 ## Expect
 

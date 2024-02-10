@@ -224,6 +224,7 @@
 ## LIB: LLM
 - https://github.com/aws-samples/aws-genai-llm-chatbot
 - https://github.com/ColinEberhardt/langchain-mini
+- https://github.com/varunshenoy/super-json-mode
 - https://github.com/bigscience-workshop/petals
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/mit-han-lab/streaming-llm
