@@ -6,6 +6,7 @@
 - https://tally.so/
 - https://www.tldraw.com/
 - https://owncast.online/
+- https://oscarleo.com/google-trends
 - https://metatags.io/font-generator
 
 ## OSS: ALL
@@ -116,10 +117,12 @@
 
 ## Finance
 - https://github.com/maybe-finance/maybe
+- https://github.com/ghostfolio/ghostfolio
 
 ## List
 - https://untools.co/
 - https://free-for.dev/#/
+- https://alternativeto.net/
 - https://github.com/iptv-org/iptv
 - https://github.com/pluja/awesome-privacy
 - https://github.com/ripienaar/free-for-dev

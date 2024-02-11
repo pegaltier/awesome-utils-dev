@@ -339,6 +339,7 @@
 - https://github.com/EA31337/EA31337
 - https://github.com/EarnForex/PositionSizer
 - https://github.com/erlonfs/bad-robot.framework
+- https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://github.com/TradingToolCrypto/MT5-TradingToolCrypto
 - https://book.mql4.com/programm/samples
 - https://www.trading-automatique.fr/mql4/
@@ -412,9 +413,9 @@
 - https://github.com/stefan-jansen/machine-learning-for-trading
 
 ### OSS: ALL
-- https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
+- https://github.com/ghostfolio/ghostfolio
 
 ### OSS: STRATEGY
 - https://github.com/alanvito1/Binary-Robots

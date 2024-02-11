@@ -249,6 +249,8 @@
 - https://github.com/splunk/ansible-role-for-splunk
 - https://github.com/KeyboardInterrupt/awesome-ansible
 
+## AZURE
+- https://github.com/Azure/azure-sdk-for-js
 
 ## LAMP
 

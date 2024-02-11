@@ -46,6 +46,7 @@
 - https://github.com/xmtp/xmtp-js
 - https://github.com/ipfs/js-ipfs
 - https://github.com/thirdweb-dev
+- https://github.com/subquery/subql
 - https://github.com/chubin/rate.sx
 - https://github.com/marcj/bitcoin.ts
 - https://github.com/Agoric/agoric-sdk
@@ -316,6 +317,7 @@
 - https://0xproject.com/portal
 
 ## D EXCHANGE
+- https://jup.ag/
 - https://tigris.trade/
 - https://dexscreener.com/
 - https://www.apex.exchange/
