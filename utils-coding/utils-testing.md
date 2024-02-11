@@ -11,6 +11,7 @@
 ## API
 - https://github.com/dareid/chakram
 - https://github.com/pactumjs/pactum
+- https://github.com/karatelabs/karate
 
 ## COMPARATIVE
 
@@ -130,6 +131,9 @@
 - https://christianlydemann.com/the-most-common-cypress-mistakes/
 - https://www.checklyhq.com/docs/puppeteer-recorder/
 - https://timdeschryver.dev/blog/using-msw-in-an-angular-project
+
+## PLAYWRIGHT: NOTES 
+- https://eliasprescott.github.io/blog/iterating-over-elements-with-playwright/
 
 ## CYPRESS: NOTES 
 

@@ -39,6 +39,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Junto: https://www.junto.love
 - Flux: https://www.fluxsocial.io
 - IOEN: https://www.ioen.tech/
+- HoloDex: https://holodex.exchange/
 - Internetofenergy: https://internetofenergy.network/
 - Neighbourhoods: https://neighbourhoods.network/
 - Holofractal: https://holofractal.is/

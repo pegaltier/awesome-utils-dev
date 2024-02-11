@@ -20,6 +20,7 @@
 - https://github.com/philsturgeon/api-design-workshop
 - https://github.com/NationalBankBelgium/REST-API-Design-Guide
 
+- https://microservice-api-patterns.org/
 - https://restfulapi.net/http-status-codes/
 - http://www.restapitutorial.com/lessons/httpmethods.html
 - https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
@@ -37,6 +38,7 @@
 ## TOOLS: ALL
 - https://readme.com/
 - https://pipedream.com/
+- https://serviceweaver.dev/
 - https://stoplight.io/studio
 - https://github.com/fern-api/fern
 - https://github.com/Azure/autorest

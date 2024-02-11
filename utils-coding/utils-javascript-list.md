@@ -106,6 +106,7 @@
 - https://github.com/douglascrockford
 - https://github.com/ahejlsberg
 - https://github.com/johnpapa
+- https://github.com/ytiurin
 
 ## BOOKS
 - https://exploringjs.com/impatient-js/

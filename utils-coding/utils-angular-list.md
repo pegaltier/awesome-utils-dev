@@ -973,6 +973,7 @@ Learn everything about angular universal, make a good SEO.
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
 - https://dev.to/this-is-angular/angular-signals-everything-you-need-to-know-2b7g
 - https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo
+- https://timdeschryver.dev/blog/bringing-the-power-of-signals-to-angular-forms-with-signal-forms
 - https://ng-journal.com/blog/2023-04-25-signals-and-the-rxjs-interop/
 - https://marmicode.io/blog/angular-signals-and-custom-render-strategies
 - https://marmicode.io/blog/managing-rxjs-traffic-with-signals?b=3
@@ -3327,6 +3328,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.manning.com/books/modern-angular (TOADD)
 - https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/
+- https://www.amazon.com/Angular-Design-Patterns-Best-Practices/dp/1837631972/ (TOADD)
 - https://angularexperts.io/products/ebook-angular-enterprise-architecture (TOADD)
 - https://www.packtpub.com/product/angular-design-patterns/9781786461728 (TOADD)
 - https://www.packtpub.com/product/learning-angular-third-edition/9781839210662 (TOADD)
@@ -3393,6 +3395,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
+
+### ANGULAR17
+
+- https://riegler.fr/blog/2024-01-11-zoneless-preview
 
 ### ANGULAR16
 - https://indepth.dev/posts/1519/router-data-as-components-inputs-in-angular-v16

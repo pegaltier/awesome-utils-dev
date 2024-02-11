@@ -31,6 +31,10 @@
 - https://data.bitcoinity.org
 - https://www.coinsignals.trade
 
+## TOP COMPANY
+- https://www.wintermute.com/
+- https://www.dwf-labs.com/
+
 ## TOP GAMES
 - https://cryptoguessinggame.com/
 

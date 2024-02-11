@@ -35,11 +35,14 @@
 - https://openbb.co/blog/
 - https://quantpedia.com/
 - https://robotjames.com/
+- https://hudsonthames.org/
 - https://www.quantinsti.com/
 - https://www.quantscience.io/
 - https://allocatesmartly.com/
 - https://www.quantivealpha.com/    
 - https://quantifiableedges.com/
+- https://alvarezquanttrading.com/
+- https://www.championteamtrading.com/
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/ *
@@ -72,6 +75,9 @@
 - https://kjtradingsystems.com/podcasts.html
 - https://anthonycrudele.com/futuresradioshow/podcast/293/
 
+## TRAINING
+- https://www.cqfinstitute.org/
+
 ## BLOG
 - https://goodalexander.com/
 - https://twoquants.substack.com/
@@ -79,6 +85,7 @@
 
 ## LIST
 - https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+- https://github.com/valeman/awesome-conformal-prediction
 - https://github.com/zazhang/ep-chan-book-algo-trading
 - https://github.com/dingran/quant-notes
 
@@ -110,11 +117,13 @@
 - https://norgatedata.com/
 - https://www.alphavantage.co/
 - https://eodhistoricaldata.com/
+- https://http-docs.thetadata.us/
 - https://www.cryptoarchive.com.au/ *
+- https://data.nasdaq.com/databases/RTAT
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
 - https://www.cryptodatadownload.com/data/
-- https://http-docs.thetadata.us/
+- https://www.algos.org/p/data-sourcing-the-guide *
 - https://data.world/crispydata/bitcoin-historical-data
 - https://fuserleer.online/exchange_data/
 - https://www.youtube.com/watch?v=myydDX-us4o
@@ -246,6 +255,7 @@
 - https://pinescripters.net/index.php
 - https://courses.theartoftrading.com/
 - https://www.pinescriptstrategies.com/
+- https://tradingenerator.com/condition-sets
 - https://courses.theartoftrading.com/pages/pine-script-mastery-source-code
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/
@@ -383,6 +393,8 @@
 ### OSS: TRADINGVIEW: CODING TUTO
 - https://youtu.be/6JPWTDa8aG4 pine script buy sell strategy with time exit
 
+### OSS: PEOPLE
+- https://github.com/YannickKae
 
 ### OSS: QUALITY
 - https://github.com/hummingbot/hummingbot
@@ -472,6 +484,7 @@
 
 ### OSS: PYTHON
 - https://github.com/skfolio/skfolio *
+- https://github.com/quantrocket-llc *
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
 - https://github.com/okxapi/python-okx
@@ -482,14 +495,14 @@
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/Lumiwealth/lumibot
 - https://github.com/enzoampil/fastquant
-- https://github.com/cvxgrp/cvxportfolio
+- https://github.com/cvxgrp/cvxportfolio *
 - https://github.com/wardbradt/peregrine
 - https://github.com/fmilthaler/FinQuant
 - https://github.com/51bitquant/howtrader
 - https://github.com/tastyware/tastytrade
 - https://github.com/letianzj/quanttrader
 - https://github.com/ig-python/trading-ig
-- https://github.com/goldmansachs/gs-quant
+- https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats
 - https://github.com/blankly-finance/blankly
@@ -588,6 +601,10 @@
 - https://eodhd.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 - https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj
 - https://grademark.github.io/grademark-first-example/
+
+## OSS: AI
+- https://github.com/LiamConnell/deep-algotrading/
+- https://github.com/AI4Finance-Foundation/FinRL
 
 ## SOCIAL
 - https://www.andlil.com/forum/

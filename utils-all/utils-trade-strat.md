@@ -325,6 +325,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://oxfordstrat.com/category/trading-strategies/
 - https://www.statisticshowto.com/probability-and-statistics/z-score/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
+- https://www.quantifiedstrategies.com/seasonal-trading-strategy-silver/
 - https://www.quantifiedstrategies.com/big-moves-on-mondays-update/
 - https://www.quantifiedstrategies.com/money-flow-index-strategy/
 - https://www.quantifiedstrategies.com/trend-reversal-strategy/

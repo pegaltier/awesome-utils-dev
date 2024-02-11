@@ -229,6 +229,7 @@
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/mit-han-lab/streaming-llm
 - https://github.com/run-llama/LlamaIndexTS
+- https://github.com/Mozilla-Ocho/llamafile
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
 - https://github.com/lyuchenyang/Macaw-LLM
