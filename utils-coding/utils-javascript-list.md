@@ -414,7 +414,7 @@
 ## LIB: PAYMENT
 - https://github.com/lmsqueezy/lemonsqueezy.js
 
-## LIB: PARSER
+## LIB: PARSER HTML/XML
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/micromark/micromark

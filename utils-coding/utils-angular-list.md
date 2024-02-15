@@ -3224,6 +3224,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+- https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
 - https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.snippets-view
 - https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch

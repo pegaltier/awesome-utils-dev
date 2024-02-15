@@ -85,6 +85,7 @@
 - https://www.codewand.co/
 - https://spellcraft.org/
 - https://gpt-tailwind.com/
+- https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
 - https://github.com/TabbyML/tabby
 - https://github.com/AbanteAI/mentat
