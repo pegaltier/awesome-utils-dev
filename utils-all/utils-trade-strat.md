@@ -320,8 +320,17 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
 - https://youtu.be/I5p2Hg9s-64 Should You Trade Trend Following Or Mean Reversion Strategies?
 
+## STRATEGY ALGO REFS
+- REFS1: #MOMENTUM / #TREND dayback=65, stoploss, takeprofit. Buylong when adx(14)>10 and close-close[dayback] crosses above 0. Sellshort when adx(14)>10 and close-close[dayback] crosses below 0
+- REFS2: emastretch mean reversion strategy. emastretch = 100 * (Close / EMA(10) - 1). buylevel = Close - ATR(5) * 0.75
+- REFS3: #1 RSI(2) below 5 | #2 Sum of RSI(2) over the past 2 days < 20 | #3 Lower low 3 days in a row | #4 Lower close 3 days in a row | #5 Close lower than the lower low of past 5 days | #6 Market closes 1% below previous day close and atr(5) greater than atr(10) (increased volatility) | #7 Market closes 1% below previous day close and atr(5) lower than atr(10) (decreased volatility) | #8 Closes stretches below ema(5) more than 50% of atr(5) | #9 Closes stretches 1% below of ema(5) | #10 ema(5) decreases by 0.5% compared to previous day.... Best are #7, #2, #8
+- REFS4: GBPJPY 1H timeframe is a trending forex pair and correct timeframe; Buy long when Close above Upper BB(100, 3) (100 hours and 3 std dev) and opposite for shorts, taget 450 pips, stop 190 pips
+- REFS5: use monthly chart and buy long after 2 consecutive close above the SMA(12) and exit when close below the SMA(12), works very well on SPY, APPLE, AMZN, GME
+- REFS6: turtle is a momentum strategy and the rules are buy long on breakout of 20 or 55 days, hard stop using atr(x) *2, add to positions after new breakout
+
 ## STRATEGY WEBSITES / ARTICLES
 - https://tradingindicators.com/
+- https://www.tradingwithrayner.com/inside-bar/
 - https://oxfordstrat.com/category/trading-strategies/
 - https://www.statisticshowto.com/probability-and-statistics/z-score/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
@@ -373,6 +382,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@algotradepro AlgoTrade Pro
 - https://www.youtube.com/@smbcapital SMB Capital
 - https://www.youtube.com/@Algovibes Algovibes
+- https://www.youtube.com/@cryptorobotfr Crypto Robot
 
 - https://www.youtube.com/@tradepro Trade Pro
 - https://www.youtube.com/@pinetrades Pine Trades
@@ -384,8 +394,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@switchstats Switch Stats
 - https://www.youtube.com/@TraderDNA Trader DNA
 
-
-## STRATEGY YOUTUBE VIDEO
+## STRATEGY YOUTUBE: REFS
 - https://www.youtube.com/watch?v=exHSsT9slF0 How to use Bollinger Bands to Trade Breakouts with High Reward to Risk ratios
 - https://www.youtube.com/watch?v=ajZSkslriXg Algo Trading - Let's Build a Simple Algo (REFS1)
 - https://www.youtube.com/watch?v=LyeJ-CM980I Algorithmic Trading Strategies: Moving Average Stretch (REFS2)
@@ -394,15 +403,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/watch?v=brro_u70UZo The Incredible System: Too Good to Be True, But True (REFS5)
 - https://www.youtube.com/watch?v=9ZxWGyOd74Q Applying Turtle Methods in any Market (REFS6)
 
-## STRATEGY ALGO
-- REFS1: #MOMENTUM / #TREND dayback=65, stoploss, takeprofit. Buylong when adx(14)>10 and close-close[dayback] crosses above 0. Sellshort when adx(14)>10 and close-close[dayback] crosses below 0
-- REFS2: emastretch mean reversion strategy. emastretch = 100 * (Close / EMA(10) - 1). buylevel = Close - ATR(5) * 0.75
-- REFS3: #1 RSI(2) below 5 | #2 Sum of RSI(2) over the past 2 days < 20 | #3 Lower low 3 days in a row | #4 Lower close 3 days in a row | #5 Close lower than the lower low of past 5 days | #6 Market closes 1% below previous day close and atr(5) greater than atr(10) (increased volatility) | #7 Market closes 1% below previous day close and atr(5) lower than atr(10) (decreased volatility) | #8 Closes stretches below ema(5) more than 50% of atr(5) | #9 Closes stretches 1% below of ema(5) | #10 ema(5) decreases by 0.5% compared to previous day.... Best are #7, #2, #8
-- REFS4: GBPJPY 1H timeframe is a trending forex pair and correct timeframe; Buy long when Close above Upper BB(100, 3) (100 hours and 3 std dev) and opposite for shorts, taget 450 pips, stop 190 pips
-- REFS5: use monthly chart and buy long after 2 consecutive close above the SMA(12) and exit when close below the SMA(12), works very well on SPY, APPLE, AMZN, GME
-- REFS6: turtle is a momentum strategy and the rules are buy long on breakout of 20 or 55 days, hard stop using atr(x) *2, add to positions after new breakout
-
-## TODO: ORGANIZE
+## STRATEGY YOUTUBE: ALL
 - https://www.youtube.com/watch?v=lt5UOqBLK-0 Algo Trading - Mini S&P Strategy That Works ***
 - https://www.youtube.com/watch?v=gA0egjZcRB0 Jim Simons Trading Secrets 1.1 MARKOV Process ***
 - https://youtu.be/Oa0HduMW8ww You Need To Trade These 3 Algo Strategies NOW *** 
@@ -414,12 +415,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/ofhn6GV8AMM Kevin Davey. Hard Red Winter Wheat Futures: https://youtu.be/ofhn6GV8AMM?t=332
 - https://youtu.be/TFV2hc-eFhk Relative Strength Trading: A Comprehensive Guide with 9 Sector ETFs
 - https://youtu.be/xp29Z-ZWI6U StatOasis - Master Volume Trading
-
-## TODO: ALGO KNLOWLEDGE
 - https://youtu.be/2Kr1QQFX5Dc What's Your Trading Strategy's Z-Score?
-- https://www.tradingwithrayner.com/inside-bar/
 
-## TODO: ORGANIZE: FOREX
+## STRATEGY YOUTUBE: FOREX
 - https://youtu.be/5rupdJGSzo0 trustfultrading - My simple trading strategies!
 - https://youtu.be/k8Z5iNoEViE Best RSI Indicator Settings for Forex Swing Trading
 - https://youtu.be/GyikfniCLqU Transparent Trader - Proof WILLIAMS % R is Reliable when [mean reversion]
@@ -432,7 +430,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/OVxotbT4ITY René Balke - Range Breakout
 - https://youtu.be/JdR8ZOrLr9s Kevin Davey - Swiss Franc - Mean reversion with BB(30) anc ROC(200)
 
-## TODO: ORGANIZE: RSI
+## STRATEGY YOUTUBE: RSI
 - https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices with RSI
 - https://youtu.be/uiM-TifFKHg SMB Capital - Top 3 Ways To Use The RSI Indicator ****
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
@@ -442,7 +440,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/rIUgbCxHVB0 Ultimate Laguerre RSI Pullback **
 - https://youtu.be/rJ5HaJ2iCdk Algofox - CANDLE BREAKOUT + RSI SETUP - stocks
 
-## TODO: ORGANIZE: BREAKOUT
+## STRATEGY YOUTUBE: BREAKOUT
 - https://youtu.be/cbstP00lS2Y PeakAlgo - Bitcoin Breakout Trading on 90 minutes chart ****
 - https://youtu.be/tppGwDbJBlE PeakAlgo - Platinum Breakout Trading on 4h chart ****
 - https://youtu.be/_9Bmxylp63Y Breakout 7 high, This Algo Strategy Has Only 3 rules and 62% Win Rate ***
@@ -454,22 +452,25 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/arx8Xa-A76Y Tradingade - BEST Range Breakout Indicator 
 - https://youtu.be/OU5x8sUWumI René Balke - Time window breakout **
 
-## TODO: ORGANIZE: MACD
+## STRATEGY YOUTUBE: MACD
 - https://youtu.be/sjlQWT6fEnU Consistently Profitable Trading Strategy! 200,000+ Trade Backtest ***
 - https://youtu.be/c91imBlDYEg Actual For Real 97% Win Rate Trading Strategy ***
 - https://youtu.be/jGFiHp8VmrU Using MACD this way actually works! - Full Trading strategy ***
 
-## TODO: ORGANIZE: ROC
+## STRATEGY YOUTUBE: MOVING AVERAGE 
+- https://youtu.be/Cdz_MqAZS20 Crypto Robot - MRAT - Moving Average Distance short vs long MA
+
+## STRATEGY YOUTUBE: ROC
 - https://youtu.be/zD6hrWnPhvM RATE of CHANGE (ROC) Like a BOSS| Part I ***
 - https://youtu.be/I1Rf3Rcduuw Rate of Change indicator strategy ***
 - https://youtu.be/k2NbKhvdmqA Algo Trading Strategy - Let's Test It!
 - https://youtu.be/ikX6boj7-l8 TESTED 750,000 TRADES! ROC+EMA Trading Strategy ***
-- https://youtu.be/rQHLaMavoVM Kevin Davey. Algo Trading Strategy Revealed - 10 Year Treasury Notes ***
+- https://youtu.be/rQHLaMavoVM Kevin Davey - Algo Trading Strategy Revealed - 10 Year Treasury Notes ***
 - https://youtu.be/pEZjbk-Nw3g?t=332 Phil's CUSTOM ROC indicator ***
 - https://youtu.be/SpRTT13vttg Momentum Indicator | ROC Indicator 
 - https://youtu.be/rJujXAF52HU Buy when BTC goes up more than 2% in 12H candle + add SL/TP at 1 or 2%
 
-## TODO: ORGANIZE: MEAN REVERSION
+## STRATEGY YOUTUBE: MEAN REVERSION
 - https://youtu.be/5F1fhI_pqGQ BigDoor Trading - Mean reversion with EMA(2) + conditions ****
 - https://youtu.be/hQUKA9UvwoQ StatOasis - The Ultimate C% Oscillator: Unveiled ***
 - https://youtu.be/V6DL5Hkf3Ms StatOasis - Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
@@ -486,7 +487,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/As91lpD1oiA [BB] Mean reversion trading strategy 70% win rate
 - https://youtu.be/v13D2E769wQ [BB] mean reversion on NQ
 
-## TODO: ORGANIZE: MOMENTUM / TREND / ALL
+## STRATEGY YOUTUBE: MOMENTUM / TREND / ALL
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
 - https://youtu.be/JnVFdI57j8s The Simplest Crypto Strategy for RUNE, BTC, & ETH That Works! ***
 - https://youtu.be/u_qNQX7vU0w Check Out This Keltner Channel + CCI Combo! [10-Year Backtest] ***
@@ -509,7 +510,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/5LpHy06MLHg The Trading Parrot - Custom Tradingview indicators strategy
 - https://youtu.be/gIto3cNIx1k DaviddTech - LSMA + VFI ++++
 
-## TODO: ORGANIZE: MOMENTUM / TREND / ADX / DMI ONLY
+## STRATEGY YOUTUBE: MOMENTUM / TREND / ADX / DMI ONLY
 - https://youtu.be/4rn1vw3kGuU ADX DMI Day Trading Strategy | How To Use The [ADX] Indicator ***
 - https://youtu.be/4zQ9ArQXlS8 RSI and [ADX] indicator - Best Indicator Combination? ***
 - https://youtu.be/M_WzQbGmvk8 Trading Verge - [Pinescript] [DMI] & EMA Trading Strategy
@@ -526,7 +527,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.quantifiedstrategies.com/adx-trading-strategy/
 - https://sacredtraders.com/adxpress/
 
-## TODO: ORGANIZE: SCALPING
+## STRATEGY YOUTUBE: SCALPING
 - https://youtu.be/OOuiIg7P1GM Cyrus Trader - Combination Of The 4 Most Common Indicators 
 - https://youtu.be/mGpCgWHLcyk Cyrus Trader - 3 Minute Scalping Strategy (Step By Step) With 2-Year Backtest Results
 - https://youtu.be/9G3xsOOU-PM TradeSmart - BEST Strategy for 2024 Crypto Bull Run
@@ -536,11 +537,14 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/baDVwk5NON0 Trading Verge - Triple EMA Crossover
 - https://youtu.be/c1Ui36FOImc AlgoTrade Pro - Scalping Trading Strategy For Beginners
 
-## TODO: ORGANIZE: STATISTICS / PATTERN
+## STRATEGY YOUTUBE: ARTIFICIAL INTELLIGENCE
+- https://youtu.be/V9HYJskeTBo - jdehorty - Lorentzian Classification
+
+## STRATEGY YOUTUBE: STATISTICS / PATTERN
 - https://youtu.be/c4Mltl9HqHY StatOasis - Easy Stock Index Day Trading Strategy
 - https://youtu.be/SxH9i4PQB5k The Transparent Trader - No Indicator Trading Strategy
 
-## TODO: ORGANIZE: NOT SURE
+## STRATEGY YOUTUBE: NOT SURE
 - https://www.youtube.com/watch?v=N_7ADVr72Ik The BEST Entry Signal Indicator 
 - https://youtu.be/LA-ppgrPdC8 SMB Capital - Top 3 Strategies to Profit From the ATR Indicator
 - https://www.youtube.com/watch?v=wrZ4O7elR_I Must Watch if you Use RSI and Stochastic to Trade!
@@ -552,7 +556,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/Npah9yzk-W4 LuxAlgo - Range Sentiment Profile Indicator
 - https://youtu.be/N4CS5_p9SKo LuxAlgo - Range Detector Indicator
 
-## TODO: ORGANIZE: PODCAST
+## STRATEGY YOUTUBE: PODCAST
+- https://youtu.be/jFOCMBXls6Q Joris Bastien of Quantaraxia - ETF Trend Following Strategies
 - https://youtu.be/GYLCzvz_LL8 An Edge with Correlations Across Time Frames · Dan McDermitt
 - https://youtu.be/cqEncH4_5ls This quants’ approach to algorithmic trading—Michael Halls-Moore, QuantStart
 - https://youtu.be/qz6a27tFmAM The Art and Science of Algorithmic Futures Trading · Kyle Schultz

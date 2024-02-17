@@ -35,7 +35,9 @@
 - https://openbb.co/blog/
 - https://quantpedia.com/
 - https://robotjames.com/
+- https://quantaraxia.com/
 - https://hudsonthames.org/
+- https://crypto-robot.com/
 - https://www.quantinsti.com/
 - https://www.quantscience.io/
 - https://allocatesmartly.com/
