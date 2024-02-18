@@ -412,6 +412,7 @@ PANTOS — - https://pantos.io
 - https://info.binance.com/en/currencies/aeron
 
 ## REAL WORLD ASSET / RWA
+- https://nexus.app.chintai.io/sign-up
 - https://www.galileoprotocol.io/ (LEOX)
 - https://imo-invest.com/ (IMO)
 - https://rollapp.store/ (CGT)

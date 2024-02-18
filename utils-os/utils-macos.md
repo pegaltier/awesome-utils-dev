@@ -27,6 +27,7 @@
 - https://github.com/rxhanson/Rectangle
 - https://github.com/sickcodes/Docker-OSX
 - https://github.com/minamarkham/formation
+- https://github.com/jacklandrin/OnlySwitch
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 
 ## Package Manager

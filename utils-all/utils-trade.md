@@ -284,7 +284,10 @@
 - https://www.ultraalgo.com/
 
 ## TOOLS: TRADINGVIEW: STRATEGY
+- https://github.com/dearvn/trading-futures-tradingview-script
 - https://www.tradingview.com/u/Steversteves/#published-scripts
+- https://www.tradingview.com/u/ROBO_Trading/#published-scripts
+- https://www.tradingview.com/script/pgTMZg6w-Lorentzian-Classification-Beta/
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/

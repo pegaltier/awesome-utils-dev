@@ -433,6 +433,7 @@
 - https://github.com/luckycatfactory/esbuild-graphql-loader
 
 ## LIB: SHELL CLI
+- https://github.com/gmrchk/cli-testing-library
 - https://github.com/microsoft/inshellisense
 - https://github.com/tj/commander.js/
 - https://github.com/poppinss/cliui
@@ -490,6 +491,7 @@
 - https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
 - https://github.com/funktechno/texthighlighter
+- https://github.com/sindresorhus/dom-mutations
 - https://github.com/davidmerfield/randomColor
 - https://github.com/mjbrisebois/identicons-js
 - https://github.com/willmendesneto/perf-marks
@@ -733,6 +735,7 @@
 - https://github.com/Hopding/pdf-lib
 - https://github.com/torakiki/pdfsam
 - https://github.com/bpampuch/pdfmake
+- https://github.com/carboneio/carbone
 - https://github.com/24eme/signaturepdf
 - https://github.com/hand-dot/labelmake
 - https://github.com/eneajaho/doc-signer

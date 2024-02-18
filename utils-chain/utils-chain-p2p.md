@@ -5,6 +5,7 @@
 - https://libre.space/
 - https://dwebcamp.org/
 - https://tryquiet.org/
+- https://threefold.io/
 - http://blog.mauve.moe/
 - https://replicache.dev/
 - https://fosdem.org/2022/

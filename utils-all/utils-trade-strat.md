@@ -303,6 +303,9 @@ The classic moving average is generating a lot of whipsaws so you can add an ext
 - https://stockcharts.com/articles/mailbag/2011/02/how-can-i-reduce-indicator-whipsaws-using-the-percentage-price-oscillator-to-filter-moving-average-s.html
 - http://www.traderslaboratory.com/forums/topic/6999-reducing-whipsaws-two-simple-methods/
 
+## AI
+- https://www.patreon.com/posts/update-beta-2-0-95632796  Lorentzian Classification Beta [2.0
+
 ## OBV
 
 Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV divergences and support/resistance are more reliable than on the RSI and it's breakout often precede price breakout.
@@ -331,6 +334,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 ## STRATEGY WEBSITES / ARTICLES
 - https://tradingindicators.com/
 - https://www.tradingwithrayner.com/inside-bar/
+- https://ftmo.com/en/vegas-tunnel-trading/
 - https://oxfordstrat.com/category/trading-strategies/
 - https://www.statisticshowto.com/probability-and-statistics/z-score/
 - https://gregorygundersen.com/blog/2021/08/27/drawdown/
@@ -574,3 +578,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## TODO: NOTES: ADX
 - continue work on ADX: add input for momentumTrigger to allow keep position open if adx above this level, probably momentum is strong so it should not exit + add input for emaExit + add input for isRisingAdx
+- add option to use different MA twpe: exponential; ALM;...
+- new strat derivée 3XUP
+
+- MR with BB or lorentzian or RSI
+
+- use the binary count of consecutive bars up or down with tanh function (Hyperbolic tangent): https://ch.mathworks.com/help/matlab/ref/tanh.html

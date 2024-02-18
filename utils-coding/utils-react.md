@@ -318,6 +318,7 @@
 - https://github.com/jobtoday/react-native-image-viewing
 - https://github.com/ospfranco/react-native-quick-sqlite
 - https://github.com/mrousavy/react-native-vision-camera
+- https://github.com/Expensify/react-native-live-markdown
 - https://github.com/4TWIGGERS/react-native-fresh-refresh
 - https://github.com/gorhom/react-native-paper-onboarding
 - https://github.com/mrousavy/react-native-multithreading

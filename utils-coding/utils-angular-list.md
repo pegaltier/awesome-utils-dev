@@ -2663,6 +2663,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/sibiraj-s/ngx-editor
 - https://github.com/holloway/doctored
 - https://github.com/ueberdosis/tiptap
+- https://github.com/acode/copenhagen
 - https://github.com/zserge/awfice
 - https://github.com/udecode/plate
 
@@ -2911,6 +2912,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/markostanimirovic/ngrx-musicians-app
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
+- https://github.com/monacodelisa/Angular-Headless-Hashnode
 - https://github.com/bezkoder/angular-material-14-file-upload
 - https://github.com/bezkoder/angular-15-multiple-file-upload
 - https://github.com/DanWahlin/angular-interfaces-classes-types

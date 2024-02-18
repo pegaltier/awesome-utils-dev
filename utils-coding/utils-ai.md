@@ -236,6 +236,7 @@
 - https://github.com/lyuchenyang/Macaw-LLM
 - https://github.com/confident-ai/deepeval
 - https://github.com/cocktailpeanut/dalai
+- https://github.com/LargeWorldModel/LWM
 - https://github.com/NVIDIA/TensorRT-LLM
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
