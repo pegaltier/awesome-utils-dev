@@ -433,6 +433,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/o6XtAbX3gWA René Balke - Bollinger Bands Indicator (+Moving Average) 
 - https://youtu.be/OVxotbT4ITY René Balke - Range Breakout
 - https://youtu.be/JdR8ZOrLr9s Kevin Davey - Swiss Franc - Mean reversion with BB(30) anc ROC(200)
+- https://youtu.be/xsRkmFzvcvQ Transparent Trader - Bollinger Band Strategy Still Makes Money after 20 Years
 
 ## STRATEGY YOUTUBE: RSI
 - https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices with RSI
@@ -443,6 +444,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/381-C-aqR70 Cumulative Delta+Laguerre RSI **
 - https://youtu.be/rIUgbCxHVB0 Ultimate Laguerre RSI Pullback **
 - https://youtu.be/rJ5HaJ2iCdk Algofox - CANDLE BREAKOUT + RSI SETUP - stocks
+- https://youtu.be/xEVEubP4iY4 Quantified Strategies - Triple RSI Strategy (90.36% Win Rate)
+
 
 ## STRATEGY YOUTUBE: BREAKOUT
 - https://youtu.be/cbstP00lS2Y PeakAlgo - Bitcoin Breakout Trading on 90 minutes chart ****
@@ -546,6 +549,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## STRATEGY YOUTUBE: STATISTICS / PATTERN
 - https://youtu.be/c4Mltl9HqHY StatOasis - Easy Stock Index Day Trading Strategy
+- https://youtu.be/kMEeAJc8dQA StatOasis - No Indicators? No Problem! 
 - https://youtu.be/SxH9i4PQB5k The Transparent Trader - No Indicator Trading Strategy
 
 ## STRATEGY YOUTUBE: NOT SURE
@@ -575,12 +579,16 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - reorganize different RSI stategies : RSI3X; RSIRANGE, RSIPULLBACK, RSIMR (Lefort), STOMR (Lefort)
 - try another approach: ex: insidebar strategy using the robuxio book or 
 - try another approach : co intregration to do arbitrage on 2 correlated pairs.
+- MR with BB or lorentzian or RSI
 
 ## TODO: NOTES: ADX
 - continue work on ADX: add input for momentumTrigger to allow keep position open if adx above this level, probably momentum is strong so it should not exit + add input for emaExit + add input for isRisingAdx
 - add option to use different MA twpe: exponential; ALM;...
-- new strat derivée 3XUP
 
-- MR with BB or lorentzian or RSI
+## TODO: NOTES: TREND
+- try another trend filter, exemple : Trend Intensity Index (TTI) / RMI, RMI Trend Sniper
+
+## TODO: NOTES: NEW
+- use the sum to count if there is at least once in the last X bars that validate a condition (ex: moving average below or above a  level, new high or low, rsi above or below a level...) ex: 
 
 - use the binary count of consecutive bars up or down with tanh function (Hyperbolic tangent): https://ch.mathworks.com/help/matlab/ref/tanh.html

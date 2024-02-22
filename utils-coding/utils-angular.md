@@ -697,6 +697,24 @@ my-comp.bu.spec.ts
 - for instance you can do set: { template: '{{message}}' } so you can test your component with a simpler template compared to the original
 - for instance you can do set: { providers: [{ provide: MyService,useValue: mockService }] } so you can inject services scoped to component injectors, that is to say provided in the component and not in the root injector like singleton services. This is especially useful when you are using standalone components, then you can get the fixture.debugElement.injector.get(MyService);
 
+### UNIT TESTS: ELEMENTS CHEATSHEET
+
+- for complex element assertion use the third parties libraries: 
+- testing-library/jest-dom / testing-library/angular-testing-library
+
+```javascript
+// example to check the element is in the dom
+expect(fixture.debugElement.query(By.css('#example1'))).toBeTruthy();
+// example to check the element is not in the dom
+expect(fixture.debugElement.query(By.css('#example1'))).toBeFalsy();
+// example to check the text of an element
+expect(fixture.debugElement.query(By.css('#example1')).nativeElement.textContent.trim()).toBe('text');
+// example to check class is there with testing-library/jest-dom
+expect(fixture.debugElement.query(By.css('#example1')).nativeNode).toHaveClass('the-class');
+// example to check class is not there with testing-library/jest-dom
+expect(fixture.debugElement.query(By.css('#example1')).nativeNode).not.toHaveClass('the-class');
+```
+
 ### UNIT TESTS: TESTBED CHEATSHEET
 
 #### UNIT TESTS: DEPENDENCIES IN SERVICES

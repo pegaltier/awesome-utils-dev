@@ -57,6 +57,7 @@
 - https://github.com/konstantinmuenster/notion-clone
 - https://github.com/xiongemi/white-label-airline
 - https://github.com/trindadematheus/future-store
+- https://github.com/bluesky-social/social-app
 - https://github.com/NoQuarterTeam/boilerplate
 - https://github.com/UnlyEd/next-right-now
 - https://github.com/Th3Wall/Fakeflix
@@ -226,6 +227,7 @@
 
 ## NATIVE
 - https://github.com/expo/expo
+- https://github.com/bluesky-social/social-app
 
 ## NEXT: STARTER
 - https://github.com/delbaoliveira/website

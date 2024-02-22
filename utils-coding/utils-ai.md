@@ -234,6 +234,7 @@
 - https://github.com/Lightning-AI/lit-llama
 - https://github.com/facebookresearch/llama
 - https://github.com/lyuchenyang/Macaw-LLM
+- https://github.com/google-deepmind/gemma
 - https://github.com/confident-ai/deepeval
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/LargeWorldModel/LWM
@@ -259,6 +260,7 @@
 - https://github.com/microsoft/JARVIS
 - https://github.com/OpenBMB/MiniCPM
 - https://github.com/salesforce/xgen
+- https://github.com/karpathy/minbpe
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens

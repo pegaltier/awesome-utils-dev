@@ -19,6 +19,7 @@
 - https://github.com/holochain
 - https://github.com/caio/foca
 - https://github.com/amark/gun
+- https://github.com/matrix-org
 - https://github.com/AgregoreWeb
 - https://github.com/fluencelabs
 - https://github.com/neet/masto.js

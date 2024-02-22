@@ -37,6 +37,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Trustgraph: https://trustgraph.net
 - Kizuna: https://kizuna.foundation/en
 - Junto: https://www.junto.love
+- Dimcredits: https://dimcredits.com/
 - Flux: https://www.fluxsocial.io
 - IOEN: https://www.ioen.tech/
 - HoloDex: https://holodex.exchange/

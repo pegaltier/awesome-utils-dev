@@ -40,6 +40,7 @@
 - https://github.com/gqty-dev/gqty
 - https://github.com/hayes/pothos
 - https://github.com/movio/bramble
+- https://github.com/remorses/genql
 - https://github.com/imolorhe/altair
 - https://github.com/google/rejoiner
 - https://github.com/SaltyAom/mobius
@@ -69,6 +70,7 @@
 - https://github.com/nearform/graphql-hooks
 - https://github.com/mercurius-js/mercurius
 - https://github.com/graphql/vscode-graphql
+- https://github.com/the-guild-org/conductor
 - https://github.com/maticzav/graphql-shield
 - https://github.com/kitten/graphql-web-lite
 - https://github.com/APIs-guru/graphql-faker

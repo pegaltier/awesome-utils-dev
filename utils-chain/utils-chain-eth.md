@@ -15,6 +15,7 @@
 ## ETH DEV
 - https://etherscan.io/apis
 - https://github.com/ethereum/
+- https://github.com/wevm/wagmi
 - https://github.com/wslyvh/nexth
 - https://github.com/wevm/abitype
 - https://github.com/mds1/evm-diff

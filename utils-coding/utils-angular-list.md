@@ -2014,6 +2014,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/MTobisch/ngx-dynamic-hooks
 - https://github.com/pjlamb12/runtime-config-loader
 - https://github.com/KoderLabs/ngx-device-detector
+- https://github.com/AhsanAyaz/ngx-device-detector
 - https://github.com/ngneat/overview
 - https://github.com/ngneat/hotkeys
 - https://github.com/fulls1z3/ngx-config
@@ -3328,6 +3329,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://gumroad.com/l/angular-universal
 - https://github.com/codecraft-tv/angular-course
 - https://github.com/PacktPublishing/Angular-Projects
+- https://github.com/PacktPublishing/Angular-Cookbook (TOADD)
 - https://www.manning.com/books/modern-angular (TOADD)
 - https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/

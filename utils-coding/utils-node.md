@@ -139,6 +139,7 @@
 - https://github.com/ai/nanocolors
 - https://github.com/nodejs/undici
 - https://github.com/verdaccio/verdaccio
+- https://github.com/simonlast/node-persist
 - https://github.com/mcollina/on-exit-leak-free
 - https://github.com/bengl/array-buffer-detach
 - https://github.com/microlinkhq/metascraper
@@ -151,6 +152,9 @@
 - https://github.com/leeoniya/uFuzzy
 - https://github.com/unjs/ofetch
 - https://github.com/fromdeno/deno2node
+
+## LIBS: SSE
+- https://github.com/adonisjs/transmit
 
 ## LIBS: CRON
 - https://github.com/node-cron/node-cron
@@ -264,6 +268,7 @@
 - https://github.com/strapi/strapi
 - https://github.com/remult/remult
 - https://github.com/lukeautry/tsoa
+- https://github.com/adonisjs/core
 - https://github.com/zone-eu/zone-mta
 - https://github.com/sindresorhus/got
 - https://github.com/balderdashy/sails

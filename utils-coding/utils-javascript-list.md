@@ -569,6 +569,8 @@
 
 ## LIB: ANIMATION
 - https://github.com/Popmotion/popmotion
+- https://github.com/juliangarnier/anime
+- https://github.com/prjct-samwest/scrollCue
 
 ## LIB: COLOR
 - https://github.com/fast-average-color/fast-average-color
@@ -686,6 +688,7 @@
 - https://github.com/thdoan/mr-data-converter
 - https://github.com/sidorares/json-bigint
 - https://github.com/jsonata-js/jsonata
+- https://github.com/mholt/json-to-go
 
 ## LIB: DATA OBJECT
 - https://github.com/crdt-ibm-research/json-delta-crdt

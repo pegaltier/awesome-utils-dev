@@ -89,6 +89,7 @@
 - https://www.mendable.ai/
 
 ## OSS: COLLABORATE
+- https://github.com/matrix-org
 - https://github.com/vasanthv/talk
 - https://github.com/mfts/papermark
 - https://github.com/calcom/cal.com
@@ -97,6 +98,7 @@
 - https://github.com/traceo-dev/traceo
 - https://github.com/jsfiddle/togetherjs
 - https://github.com/excalidraw/excalidraw
+- https://github.com/bluesky-social/social-app
 - https://github.com/onetimesecret/onetimesecret
 
 # OSS: WEB

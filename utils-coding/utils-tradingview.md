@@ -92,3 +92,17 @@ emaValue1 = f_sec(market, res1, ema)
 emaValue2= f_sec(market, res2, ema)
 emaValue3 = f_sec(market, res3, ema)
 ```
+
+## Multi Moving average function
+
+```javascript
+maType = input.string('WMA', options = ['EMA','HMA','WMA','SMA','RMA'])
+
+ma(type, src, len) =>
+    switch type
+        'SMA'   =>    ta.sma(src, len)
+        'EMA'   =>    ta.ema(src, len)
+        'WMA'   =>    ta.wma(src, len)
+        'HMA'   =>    ta.hma(src,len)
+        'RMA'   =>    ta.rma(src,len)
+```

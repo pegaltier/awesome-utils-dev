@@ -36,6 +36,7 @@
 - https://github.com/sunfishcode/eyra
 - https://github.com/tauri-apps/tauri
 - https://github.com/makepad/makepad
+- https://github.com/matklad/arbtest
 - https://github.com/oxc-project/oxc
 - https://github.com/Keats/validator
 - https://github.com/google/zerocopy

@@ -162,6 +162,7 @@
 - https://www.bullcharts.com.au/
 - https://capitalise.ai/
 - https://dayhagan.com/
+- https://quantiacs.com/
 - https://crypto-ml.com/
 - https://www.tuned.com/
 - https://raposa.trade/
@@ -508,6 +509,7 @@
 - https://github.com/tastyware/tastytrade
 - https://github.com/letianzj/quanttrader
 - https://github.com/ig-python/trading-ig
+- https://github.com/ivopetiz/algotrading *
 - https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats
