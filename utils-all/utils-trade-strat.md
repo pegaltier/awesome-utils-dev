@@ -361,7 +361,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.com/@crisvelasquez/identifying-key-market-interest-with-the-volume-ratio-in-python-1f9904705711
 
 ## STRATEGY: YOUTUBE CHANNEL: INTERVIEW
-- https://www.youtube.com/@risk_biscuits 
+- https://www.youtube.com/@risk_biscuits
+- https://www.youtube.com/@TopTradersUnplugged 
 - https://www.youtube.com/@TheAlgorithmicAdvantage
 - https://www.youtube.com/@BetterSystemTraderPodcast
 
@@ -371,6 +372,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@PeakTradingResearch Peak Trading Research
 - https://www.youtube.com/@StatOasis StatOasis
 - https://www.youtube.com/@TradingTact Trading Tact
+- https://www.youtube.com/@FinancialWisdom Financial Wisdom
 - https://www.youtube.com/@AlgoTradingWithKevinDavey Algo Trading With Kevin Davey
 - https://www.youtube.com/@CriticalTrading Critical Trading
 - https://www.youtube.com/@quantprogram QuantProgram
