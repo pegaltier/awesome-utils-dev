@@ -151,6 +151,9 @@
 - https://rektradio.buzzsprout.com/
 - https://www.buzzsprout.com/1851524
 - https://www.delphidigital.io/podcasts/
+- https://www.youtube.com/@empirepod
+- https://www.youtube.com/@0xSteadyLads
+- https://www.youtube.com/@when-shift-happens
 
 ## DIRECTORY / CURATOR
 - https://cryptominded.com/

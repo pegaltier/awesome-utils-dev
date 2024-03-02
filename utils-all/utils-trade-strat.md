@@ -360,7 +360,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.datadriveninvestor.com/how-to-create-a-profitable-cryptocurrency-trading-bot-part-1-overview-and-trading-strategy-cf178300a0ea
 - https://medium.com/@crisvelasquez/identifying-key-market-interest-with-the-volume-ratio-in-python-1f9904705711
 
-## STRATEGY: YOUTUBE CHANNEL
+## STRATEGY: YOUTUBE CHANNEL: INTERVIEW
+- https://www.youtube.com/@risk_biscuits 
+- https://www.youtube.com/@TheAlgorithmicAdvantage
+- https://www.youtube.com/@BetterSystemTraderPodcast
+
+## STRATEGY: YOUTUBE CHANNEL: CODING
 - https://www.youtube.com/@seriousbacktester Serious Backtester
 - https://www.youtube.com/@TheArtOfTrading The Art of Trading
 - https://www.youtube.com/@PeakTradingResearch Peak Trading Research
@@ -387,12 +392,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@smbcapital SMB Capital
 - https://www.youtube.com/@Algovibes Algovibes
 - https://www.youtube.com/@cryptorobotfr Crypto Robot
+- https://www.youtube.com/@neurotrader888 Neurotrader
 
+## STRATEGY: YOUTUBE CHANNEL: CODING 2
 - https://www.youtube.com/@tradepro Trade Pro
 - https://www.youtube.com/@pinetrades Pine Trades
 - https://www.youtube.com/@QuantifiedStrategies Quantified Strategies
 - https://www.youtube.com/@AlgofoxAcademy Algofox Acadademy
-- https://www.youtube.com/@TheAlgorithmicAdvantage The Algorithmic Advantage
 - https://www.youtube.com/@tradingwisdom2.097 Trading Wisdom 2.0
 - https://www.youtube.com/@TradingLabOfficial TradingLab 
 - https://www.youtube.com/@switchstats Switch Stats
