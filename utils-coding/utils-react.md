@@ -152,6 +152,7 @@
 - https://github.com/pmndrs/react-use-gesture
 - https://github.com/aaronvanston/react-flexa
 - https://github.com/kettanaito/atomic-layout
+- https://github.com/facebook/react-strict-dom
 - https://github.com/wellyshen/react-cool-form
 - https://github.com/prabhuignoto/react-chrono
 - https://github.com/tannerlinsley/react-query

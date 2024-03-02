@@ -116,6 +116,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/8e8b2c/zkholo-battleships
 - https://github.com/stars/Connoropolous/lists/awesome-holochain
 - https://github.com/spartan-holochain-counsel
+- https://github.com/spartan-holochain-counsel/zomelets-ts
 - https://github.com/HabFract/monorepo
 - https://github.com/Holo-Host/hc-multiplexer
 - https://github.com/holochain/scaffolding
@@ -156,14 +157,16 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/mjbrisebois/mere-memory-sdk-js
 - https://github.com/mjbrisebois/js-holo-hash
 - https://github.com/mjbrisebois/rust-hc-crud-ceps
+- https://github.com/lightningrodlabs/threads
+- https://github.com/lightningrodlabs/calcy
 - https://github.com/lightningrodlabs/files
 - https://github.com/lightningrodlabs/dada
 - https://github.com/lightningrodlabs/xyzzy
+- https://github.com/lightningrodlabs/converge
 - https://github.com/lightningrodlabs/ifeasy
 - https://github.com/lightningrodlabs/where
 - https://github.com/lightningrodlabs/who
 - https://github.com/lightningrodlabs/we
-- https://github.com/lightningrodlabs/calcy
 - https://github.com/lightningrodlabs/branchy
 - https://github.com/lightningrodlabs/rea-playspace
 - https://github.com/lightningrodlabs/hdk_crud

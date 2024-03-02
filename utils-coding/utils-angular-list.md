@@ -3229,6 +3229,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
 - https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
 - https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja
+- https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.snippets-view
 - https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.run-commands-view
@@ -3237,6 +3238,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 - https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.snippets-viewer
+- https://marketplace.visualstudio.com/items?itemName=tomwhite007.rename-angular-component
 
 ## ECOSYSTEM: VSCODE OTHERS
 
@@ -3264,6 +3266,8 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 - https://marketplace.visualstudio.com/items?itemName=folke.vscode-monorepo-workspace
 - http://brianflove.com/2017/04/11/angular-language-service/
+
+  ## ECOSYSTEM: VSCODE: SOURCE
 - https://github.com/angular/vscode-ng-language-service
 - https://github.com/edgardmessias/vscode.clipboard-manager
 - https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext
@@ -3271,6 +3275,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/johnpapa/vscode-angular2-snippets
 - https://github.com/antfu/vscode-file-nesting-config
 - https://github.com/evanplaice/angular2-snippets
+- https://github.com/yoavbls/pretty-ts-errors
 
 ## ECOSYSTEM: AWESOME
 

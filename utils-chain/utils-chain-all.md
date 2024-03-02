@@ -116,6 +116,7 @@
 - https://mishayurchenko.me/wp-content/uploads/2018/12/PDF-TRADING-PLAN-YES-TRADE-PORTFOLIO.pdf
 
 ## NEWS
+- https://epicenter.tv
 - https://cryptonomist.ch
 - https://cointelegraph.com
 - https://globalhalo.com
@@ -144,6 +145,7 @@
 - https://www.investinblockchain.com
 
 ## ALL PODCAST
+- https://epicenter.tv/
 - https://evolvement.io/
 - https://offthechain.libsyn.com/
 - https://rektradio.buzzsprout.com/
@@ -162,8 +164,11 @@
 - gcc china
 - weissratings
 
+## PROJECT: FUND
+- https://indexcoop.com/
+- https://oceanfund.tech/
 
-## PROJECT
+## PROJECT: ALL
 - https://woolf.university/#/
 - https://decentralproject.org/
 - https://www.metaco.com/
@@ -182,6 +187,9 @@
 - https://coinlib.io/
 - https://coinlib.io/global-crypto-charts
 - https://github.com/emeraldpay/hashicon
+
+## CITY
+- https://www.prospera.co/
 
 ## TAX / TAXATION
 - https://blockpit.io/help/en/c/austria

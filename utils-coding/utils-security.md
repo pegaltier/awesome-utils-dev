@@ -7,9 +7,11 @@
 - https://github.com/pavanw3b/sh00t
 - https://github.com/danielmiessler/SecLists
 - https://github.com/Igglybuff/awesome-piracy
+- https://github.com/payloadbox/xss-payload-list
 - https://github.com/Azure/Azure-Network-Security
 - https://github.com/0x4D31/awesome-threat-detection
 - https://github.com/dafthack/CloudPentestCheatsheets
+- https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/Hack-with-Github/Awesome-Hacking
 - https://github.com/Lissy93/personal-security-checklist
 - https://github.com/OWASP/www-project-top-10-ci-cd-security-risks
@@ -65,6 +67,7 @@
 - https://github.com/goodwithtech/dockle
 - https://github.com/Infisical/infisical
 - https://github.com/Tw1sm/spraycharles
+- https://github.com/Lissy93/web-check *
 - https://github.com/chenjj/CORScanner
 - https://github.com/nextcloud/passman
 - https://github.com/hktalent/scan4all

@@ -6,6 +6,7 @@
 - https://cmder.app/
 - https://winstall.app/
 - https://www.getpaint.net/
+- https://getgreenshot.org/
 - https://www.mythicsoft.com/agentransack/
 - https://www.scootersoftware.com/
 - https://github.com/cmderdev/cmder

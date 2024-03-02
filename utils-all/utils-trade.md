@@ -43,6 +43,7 @@
 - https://allocatesmartly.com/
 - https://www.quantivealpha.com/    
 - https://quantifiableedges.com/
+- https://www.spectralalpha.com/
 - https://alvarezquanttrading.com/
 - https://www.championteamtrading.com/
 - https://www.quantifiedstrategies.com/
@@ -85,11 +86,6 @@
 - https://twoquants.substack.com/
 - https://research.macrosynergy.com/
 
-## LIST
-- https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
-- https://github.com/valeman/awesome-conformal-prediction
-- https://github.com/zazhang/ep-chan-book-algo-trading
-- https://github.com/dingran/quant-notes
 
 ## BOOKS
 - https://www.amazon.com/ADXcellence-Strategies-Charles-B-Schaap/dp/0977713210
@@ -129,6 +125,7 @@
 - https://data.world/crispydata/bitcoin-historical-data
 - https://fuserleer.online/exchange_data/
 - https://www.youtube.com/watch?v=myydDX-us4o
+- https://github.com/Zdong104/FNSPID_Financial_News_Dataset
 - https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
 - https://data.coinbase.com/?packageFilter=ohlcv-hourly
 - https://bravenewcoin.com/enterprise-solutions/market-data
@@ -293,6 +290,7 @@
 - https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
+- https://www.tradingview.com/script/DoOd6evK-Nadaraya-Watson-Envelope-Modified-by-Yosiet/
 - https://www.tradingview.com/script/QxyeMuEC-MIDAS-VWAP-Jayy/
 
 ## TOOLS: TRADINGVIEW: AUTOMATE
@@ -410,13 +408,17 @@
 - https://github.com/hackingthemarkets?tab=repositories
 
 ### OSS: AWESOME
+- https://github.com/dingran/quant-notes
 - https://github.com/shashankvemuri/Finance
 - https://github.com/wilsonfreitas/awesome-quant
+- https://github.com/zazhang/ep-chan-book-algo-trading
 - https://github.com/tiagosiebler/awesome-crypto-examples
+- https://github.com/valeman/awesome-conformal-prediction
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/edarchimbaud/awesome-systematic-trading
 - https://github.com/topics/candlestick-patterns-detection
 - https://github.com/stefan-jansen/machine-learning-for-trading
+- https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
 
 ### OSS: ALL
 - https://github.com/OpenBB-finance/OpenBBTerminal
@@ -462,6 +464,7 @@
 - https://github.com/hackingthemarkets/supertrend-crypto-bot
 - https://github.com/cassandre-tech/cassandre-trading-bot
 - https://github.com/dk4jo3/abnormal-crypto-volume-alert
+- https://github.com/zazhang/ep-chan-book-algo-trading
 - https://github.com/MohammedRashad/Crypto-Copy-Trader
 - https://github.com/SamPom100/UnusualVolumeDetector
 - https://github.com/iterativv/NostalgiaForInfinity
@@ -490,6 +493,7 @@
 - https://github.com/hackingthemarkets
 
 ### OSS: PYTHON
+- https://github.com/vollib/vollib
 - https://github.com/skfolio/skfolio *
 - https://github.com/quantrocket-llc *
 - https://github.com/polakowo/vectorbt *
@@ -515,9 +519,10 @@
 - https://github.com/ranaroussi/quantstats
 - https://github.com/blankly-finance/blankly
 - https://github.com/stefmolin/stock-analysis
+- https://github.com/je-suis-tm/quant-trading *
 - https://github.com/fmzquant/backtest_python * 
-- https://github.com/Drakkar-Software/OctoBot
 - https://github.com/kelvinau/crypto-arbitrage
+- https://github.com/robcarver17/pysystemtrade *
 - https://github.com/CryptoSignal/Crypto-Signal
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/bitfinexcom/bitfinex-api-py
@@ -543,11 +548,17 @@
 - https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
+- https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy
 - https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
 - https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku
 - https://www.qmr.ai/building-a-backtesting-framework-in-python-part-ii/
+- https://medium.com/@crisvelasquez/8-trading-indicators-in-python-you-never-heard-of-4d3a043dda95
+
+### OSS: PYTHON: OCTOBOT
+- https://github.com/Drakkar-Software/OctoBot
+- https://github.com/techfreaque/octobot-lorentzian-classification
 
 ### OSS: JAVASCRIPT
 - https://npm.io/search/keyword:forex
@@ -613,6 +624,7 @@
 ## OSS: AI
 - https://github.com/LiamConnell/deep-algotrading/
 - https://github.com/AI4Finance-Foundation/FinRL
+- https://github.com/tensortrade-org/tensortrade
 
 ## SOCIAL
 - https://www.andlil.com/forum/

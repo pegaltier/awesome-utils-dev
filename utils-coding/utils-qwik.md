@@ -10,6 +10,7 @@
 - https://github.com/rainerhahnekamp/entwickler-qwik
 - https://github.com/gioboa/qwik-vercel-edge-config
 - https://github.com/wmalarski/qwik-music-reviews
+- https://github.com/mhevery/testing-fundamentals
 - https://github.com/brandonpittman/qwik-markdown
 - https://github.com/rainerhahnekamp/qwik-blog
 - https://github.com/awesome-club/awesome-qwik

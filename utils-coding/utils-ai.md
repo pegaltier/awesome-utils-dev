@@ -46,6 +46,11 @@
 - https://github.com/EthicalML/awesome-production-machine-learning
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
+## TOOLS: PROMPT
+- https://www.phind.com/
+- https://chat.openai.com/
+- https://copilot.microsoft.com/
+
 ## TOOLS: ALL
 - https://mason.app/
 - https://abacus.ai/
@@ -58,7 +63,6 @@
 - https://kissangpt.com/
 - https://interiorai.com/
 - https://breadboard.me/
-- https://chat.openai.com/
 - https://theforgeai.com/
 - https://www.chatpdf.com/
 - https://www.futuretools.io/
@@ -78,6 +82,7 @@
 - https://github.com/cheshire-cat-ai/core
 
 ## TOOLS: CODING
+- https://v0.dev/
 - https://cursor.sh/
 - https://debuild.co/
 - https://www.devgpt.com/
@@ -93,6 +98,7 @@
 - https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/abi/screenshot-to-code
+- https://github.com/gptscript-ai/gptscript
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 

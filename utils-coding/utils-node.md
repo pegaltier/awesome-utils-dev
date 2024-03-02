@@ -27,6 +27,7 @@
 - https://github.com/nvm-sh/nvm
 - https://github.com/pnpm/pnpm
 - https://github.com/unjs/nypm
+- https://github.com/wclr/yalc
 - https://github.com/antfu/ni
 - https://github.com/tj/n
 
@@ -153,8 +154,17 @@
 - https://github.com/unjs/ofetch
 - https://github.com/fromdeno/deno2node
 
-## LIBS: SSE
+## LIBS: SSE / SERVER SENT EVENT
 - https://github.com/adonisjs/transmit
+- https://github.com/MatthewWid/better-sse
+- https://github.com/max-mapper/mississippi
+- https://github.com/sindresorhus/get-stream
+- https://github.com/max-mapper/concat-stream
+- https://github.com/Azure/fetch-event-source
+- https://github.com/axios/axios/issues/5806
+- https://medium.com/@david.richards.tech/sse-server-sent-events-using-a-post-request-without-eventsource-1c0bd6f14425
+- https://stackoverflow.com/questions/40385133/retrieve-data-from-a-readablestream-object
+- https://stackoverflow.com/questions/33141012/how-to-mock-streams-in-nodejs
 
 ## LIBS: CRON
 - https://github.com/node-cron/node-cron

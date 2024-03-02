@@ -28,6 +28,7 @@
 ## LIB
 - https://github.com/crabnebula-dev/cargo-packager
 - https://github.com/Totodore/socketioxide
+- https://github.com/bnjbvr/cargo-machete
 - https://github.com/1Password/typeshare
 - https://github.com/juspay/hyperswitch
 - https://github.com/Aleph-Alpha/ts-rs
@@ -35,6 +36,7 @@
 - https://github.com/s-panferov/valico
 - https://github.com/sunfishcode/eyra
 - https://github.com/tauri-apps/tauri
+- https://github.com/webrtc-rs/webrtc
 - https://github.com/makepad/makepad
 - https://github.com/matklad/arbtest
 - https://github.com/oxc-project/oxc

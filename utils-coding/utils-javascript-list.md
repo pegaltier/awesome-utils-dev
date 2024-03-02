@@ -264,6 +264,7 @@
 
 ## LIB: AUTH / OIDC / 2FA
 - https://github.com/logto-io/logto
+- https://github.com/lucia-auth/lucia
 - https://github.com/epicweb-dev/totp
 - https://github.com/garronej/oidc-spa
 - https://github.com/charlietango/owky
@@ -276,6 +277,7 @@
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
 - https://github.com/tkrotoff/throw-on
+- https://github.com/js-cookie/js-cookie
 - https://github.com/JasonStorey/Optional.js
 - https://github.com/anchmelev/web-worker-bus
 - https://github.com/sokra/source-map-visualization
@@ -514,6 +516,7 @@
 - https://github.com/Simonwep/selection
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
+- https://github.com/nextapps-de/winbox
 - https://github.com/ueberdosis/tiptap
 - https://github.com/cocopon/tweakpane
 - https://github.com/crabbly/Print.js
@@ -540,6 +543,7 @@
 - https://github.com/angus-c/just
 - https://github.com/xdan/jodit
 - https://github.com/needim/noty
+- https://github.com/ai/keyux
 
 ## LIB: FRONTEND CAROUSEL / SLIDER / SCROLL
 - https://github.com/dhilt/vscroll
@@ -600,6 +604,8 @@
 - https://github.com/gionkunz/chartist-js
 - https://github.com/jagenjo/litegraph.js
 - https://github.com/chartist-js/chartist
+- https://github.com/jerosoler/Drawflow
+- https://github.com/finos/perspective
 - https://github.com/observablehq/plot
 - https://github.com/plotly/plotly.js
 - https://github.com/benfred/venn.js

@@ -98,11 +98,11 @@ emaValue3 = f_sec(market, res3, ema)
 ```javascript
 maType = input.string('WMA', options = ['EMA','HMA','WMA','SMA','RMA'])
 
-ma(type, src, len) =>
+ma(type, source, length) =>
     switch type
-        'SMA'   =>    ta.sma(src, len)
-        'EMA'   =>    ta.ema(src, len)
-        'WMA'   =>    ta.wma(src, len)
-        'HMA'   =>    ta.hma(src,len)
-        'RMA'   =>    ta.rma(src,len)
+        'SMA'   =>    ta.sma(source, length)
+        'EMA'   =>    ta.ema(source, length)
+        'WMA'   =>    ta.wma(source, length)
+        'HMA'   =>    ta.hma(source, length)
+        'RMA'   =>    ta.rma(source, length)
 ```

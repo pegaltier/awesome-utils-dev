@@ -495,13 +495,16 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/deviousdodo/elevenpack
 - https://github.com/remoteinterview/zero
 - https://github.com/solidjs/solid-start
+- https://github.com/goetzrobin/spartan
 - https://github.com/rakkasjs/rakkasjs
 - https://github.com/retypeapp/retype
 - https://github.com/colinhacks/devii
 - https://github.com/Elderjs/elderjs
+- https://github.com/withastro/astro
 - https://github.com/shuding/nextra
 - https://github.com/mdx-js/mdx
 - https://github.com/alloc/saus
+- https://github.com/nuejs/nue
 - https://github.com/unjs/h3
 
 ## EMAIL

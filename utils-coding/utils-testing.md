@@ -1,11 +1,12 @@
 # TESTING
 
 ## BROWSER
-- https://github.com/microsoft/playwright
+- https://github.com/kolodny/safetest
 - https://github.com/cypress-io/cypress
 - https://github.com/SeleniumHQ/selenium
-- https://github.com/webdriverio/webdriverio
+- https://github.com/microsoft/playwright
 - https://github.com/codeceptjs/CodeceptJS
+- https://github.com/webdriverio/webdriverio
 - https://github.com/testing-library/dom-testing-library
 
 ## API
@@ -30,6 +31,7 @@
 - https://www.guru99.com/smoke-sanity-testing.html
 - https://github.com/NoriSte/ui-testing-best-practices
 - https://cypress.slides.com/amirrustam/patterns-practices
+- https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d
 
 ## TOOLS: ALL
 - https://k6.io/
