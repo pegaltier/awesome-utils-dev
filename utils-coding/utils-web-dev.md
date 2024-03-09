@@ -92,7 +92,7 @@
 - https://froala.com/online-html-editor/
 - https://froala.com/pages/
 
-## CHECKLIST
+## CHECK / CHECKLIST
 
 - https://web.dev/vitals-tools/
 - https://frontendchecklist.io
@@ -101,6 +101,7 @@
 - https://github.com/sitespeedio/coach
 - https://github.com/validator/validator
 - https://github.com/push-based/user-flow
+- https://github.com/GoogleChrome/web-vitals
 - https://github.com/sitespeedio/sitespeed.io
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://github.com/alphagov/accessibility-tool-audit

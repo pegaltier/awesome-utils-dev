@@ -157,6 +157,7 @@
 - https://strategyquant.com/
 - https://www.cloud9trader.com/
 - https://www.bullcharts.com.au/
+- https://www.fintechee.com/
 - https://capitalise.ai/
 - https://dayhagan.com/
 - https://quantiacs.com/
@@ -405,6 +406,7 @@
 - https://github.com/hummingbot/hummingbot
 - https://github.com/freqtrade/freqtrade
 - https://github.com/jesse-ai/jesse
+- https://github.com/fintechees
 - https://github.com/hackingthemarkets?tab=repositories
 
 ### OSS: AWESOME

@@ -49,6 +49,7 @@
 - https://github.com/subquery/subql
 - https://github.com/chubin/rate.sx
 - https://github.com/marcj/bitcoin.ts
+- https://github.com/versatus/versatus
 - https://github.com/Agoric/agoric-sdk
 - https://github.com/hollaex/hollaex-kit
 - https://github.com/zookyy/crypto-sniper
@@ -579,5 +580,6 @@ PANTOS — - https://pantos.io
 - https://beakerbrowser.com/
 
 ## SOLANA
+- https://github.com/solana-program/create-solana-program
 - https://github.com/paul-schaaf/awesome-solana
 - https://shyft.to/

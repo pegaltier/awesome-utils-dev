@@ -197,6 +197,7 @@
 - https://github.com/kudobuilder/kuttl
 - https://github.com/awesome-it/adeploy
 - https://github.com/yogeshkk/K8sPurger
+- https://github.com/SocialGouv/webseal
 - https://github.com/komodorio/validkube
 - https://github.com/itaysk/kubectl-neat
 - https://github.com/kubernetes/minikube
@@ -223,6 +224,7 @@
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/lightrun-platform/koolkits
 - https://github.com/kubernetes-sigs/kubebuilder
+- https://github.com/bitnami-labs/sealed-secrets
 - https://github.com/NimbleArchitect/kubectl-ice
 - https://github.com/GoogleContainerTools/kaniko
 - https://github.com/kubernetes-client/javascript

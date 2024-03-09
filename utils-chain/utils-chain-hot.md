@@ -117,6 +117,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/stars/Connoropolous/lists/awesome-holochain
 - https://github.com/spartan-holochain-counsel
 - https://github.com/spartan-holochain-counsel/zomelets-ts
+- https://github.com/Happening-Community/requests-and-offers
+- https://github.com/holonauts/distributed-funds
 - https://github.com/HabFract/monorepo
 - https://github.com/Holo-Host/hc-multiplexer
 - https://github.com/holochain/scaffolding
@@ -135,6 +137,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/holochain/hackathon-happs
 - https://github.com/holochain-release-automation
 - https://github.com/holochain-apps/emergence
+- https://github.com/holochain-apps/griffy
 - https://github.com/mattyg/herddit
 - https://github.com/mattyg/holochain-path-validation
 - https://github.com/trustgraph/trustgraph-holochain

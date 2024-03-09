@@ -177,6 +177,7 @@
 - https://github.com/snitin315/react-hide-component
 - https://github.com/danilowoz/react-content-loader
 - https://github.com/kettanaito/react-advanced-form
+- https://github.com/asabaylus/react-command-palette
 - https://github.com/wellyshen/react-cool-dimensions
 - https://github.com/react-hook-form/react-hook-form
 - https://github.com/nick-keller/react-datasheet-grid
@@ -258,6 +259,7 @@
 - https://github.com/studio-freight/satus
 - https://github.com/egoist/next-connect
 - https://github.com/amiroff/NextBook
+- https://github.com/betagouv/nexauth
 - https://github.com/maticzav/nookies
 - https://github.com/lowdefy/lowdefy
 - https://github.com/vercel/commerce

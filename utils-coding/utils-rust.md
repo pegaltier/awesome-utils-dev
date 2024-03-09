@@ -16,6 +16,7 @@
 ## UTILS
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 - https://github.com/yoshuawuyts/rust-for-js-peeps
+- https://github.com/dfinity/stable-structures
 - https://github.com/sunface/rust-by-practice
 - https://github.com/tauri-apps/awesome-tauri
 - https://github.com/PaulRBerg/rust-template
@@ -53,6 +54,7 @@
 - https://github.com/riker-rs/riker
 - https://github.com/rxRust/rxRust
 - https://github.com/obmarg/cynic
+- https://github.com/iced-rs/iced
 - https://github.com/actix/actix
 - https://github.com/0x20F/paris
 

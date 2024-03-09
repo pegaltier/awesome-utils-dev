@@ -119,6 +119,7 @@ RUN ls
 - https://github.com/qdm12/devtainr
 - https://github.com/louislam/dockge
 - https://github.com/croqaz/browsers
+- https://github.com/NilsIrl/dockerc
 - https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
 - https://github.com/goodwithtech/dockle

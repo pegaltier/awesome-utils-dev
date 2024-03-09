@@ -201,6 +201,10 @@
 ## LIBS: AI
 - https://github.com/naptha/tesseract.js
 
+## LIBS: IMAGES
+- https://github.com/lovell/sharp
+- https://github.com/pmb0/express-sharp
+
 ## LIBS: DATABASE / DB
 
 - https://github.com/prisma-utils
@@ -242,6 +246,7 @@
 
 ## SERVER: PROXY
 - https://github.com/chimurai/http-proxy-middleware
+- https://github.com/joeferner/node-http-mitm-proxy
 
 ## SERVER: EXPRESS/ITTY
 - https://github.com/michaelcpuckett/express-worker
