@@ -30,6 +30,7 @@
 - https://github.com/crabnebula-dev/cargo-packager
 - https://github.com/Totodore/socketioxide
 - https://github.com/bnjbvr/cargo-machete
+- https://github.com/rust-windowing/winit
 - https://github.com/1Password/typeshare
 - https://github.com/juspay/hyperswitch
 - https://github.com/cloudflare/pingora

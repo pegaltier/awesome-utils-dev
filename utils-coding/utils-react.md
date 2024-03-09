@@ -120,6 +120,7 @@
 - https://github.com/re-rxjs/re-rxjs
 - https://github.com/devpato/react-NFC
 - https://github.com/nmn/react-timeago
+- https://github.com/jsxstyle/jsxstyle
 - https://github.com/clauderic/dnd-kit
 - https://github.com/reactjs/react-tabs
 - https://github.com/BuilderIO/jsx-lite

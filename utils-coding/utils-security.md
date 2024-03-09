@@ -60,6 +60,7 @@
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/DontPanicO/jwtXploiter
 - https://github.com/MCRcortex/nekodetector
+- https://github.com/boringtools/git-alerts
 - https://github.com/google/csp-evaluator
 - https://github.com/chromium/badssl.com
 - https://github.com/mitmproxy/mitmproxy

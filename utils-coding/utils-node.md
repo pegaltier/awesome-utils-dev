@@ -67,6 +67,7 @@
 - https://cronitor.io/guides/node-cron-jobs
 - https://www.defer.run/blog/nodejs-cron
 - https://vercel.com/docs/cron-jobs
+- https://github.com/nefe/one-cron
 
 ## UTILS
 

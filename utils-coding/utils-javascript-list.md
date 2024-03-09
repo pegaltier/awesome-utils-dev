@@ -106,6 +106,7 @@
 - https://github.com/douglascrockford
 - https://github.com/ahejlsberg
 - https://github.com/johnpapa
+- https://github.com/kolodny
 - https://github.com/ytiurin
 
 ## BOOKS
@@ -586,9 +587,6 @@
 - https://github.com/simonwep/pickr
 - https://github.com/Qix-/color
 
-## LIB: MATH
-- https://github.com/MikeMcl/bignumber.js
-- https://github.com/bpierre/dnum
 
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus
@@ -677,12 +675,15 @@
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/a16z-infra/ai-getting-started
 
-## LIB: CALC
+## LIB: MATH / CALCUL
+- https://github.com/bpierre/dnum
 - https://github.com/josdejong/mathjs
 - https://github.com/stdlib-js/stdlib
 - https://github.com/Jam3/math-as-code
-- https://github.com/MikeMcl/decimal.js/
 - https://github.com/dinerojs/dinero.js
+- https://github.com/MikeMcl/decimal.js/
+- https://github.com/MikeMcl/bignumber.js
+- https://github.com/nefe/number-precision
 - https://github.com/adamwdraper/Numeral-js
 - https://github.com/ebradyjobory/finance.js
 - https://github.com/TheAlgorithms/Javascript

@@ -80,6 +80,7 @@
 - https://github.com/mistralai
 - https://github.com/mudler/LocalAI
 - https://github.com/cheshire-cat-ai/core
+- https://github.com/danielmiessler/fabric
 
 ## TOOLS: CODING
 - https://v0.dev/
@@ -90,6 +91,7 @@
 - https://www.codewand.co/
 - https://spellcraft.org/
 - https://gpt-tailwind.com/
+- https://screenshottocode.com/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
 - https://github.com/TabbyML/tabby
@@ -98,6 +100,7 @@
 - https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/abi/screenshot-to-code
+- https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/spdustin/ChatGPT-AutoExpert
@@ -197,7 +200,6 @@
 - https://github.com/muellerberndt/micro-gpt
 - https://github.com/AntonOsika/gpt-engineer
 - https://github.com/ohmplatform/FreedomGPT
-- https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/RomanHotsiy/commitgpt
 - https://github.com/danny-avila/LibreChat
 - https://github.com/abacaj/chatgpt-backup

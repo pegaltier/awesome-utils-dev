@@ -970,6 +970,8 @@ Learn everything about angular universal, make a good SEO.
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://blog.simplified.courses/how-to-prepare-for-angular-signals/
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
+- https://dev.to/this-is-angular/how-do-i-test-signals-signal-computed-effect-f24
+- https://dev.to/this-is-angular/this-is-your-signal-to-try-tanstack-query-angular-35m9
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
 - https://dev.to/this-is-angular/angular-signals-everything-you-need-to-know-2b7g
 - https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo
@@ -1011,6 +1013,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://www.youtube.com/watch?v=7JucMlrs3dQ
 - https://dev.to/rfornal/bad-test-bad-1og7
 - https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
+- https://dev.to/this-is-angular/how-do-i-test-using-the-routertestingharness-28a0
 - https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/
 - https://timdeschryver.dev/blog/good-testing-practices-with-angular-testing-library
 - https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html
@@ -1805,6 +1808,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/immerjs/immer
 - https://github.com/unadlib/mutative
 - https://github.com/jonaskello/tslint-immutable
+- https://github.com/kolodny/immutability-helper
 - https://github.com/jonaskello/eslint-plugin-functional
 - https://github.com/microsoft/TypeScript/issues/13923
 - https://github.com/microsoft/TypeScript/issues/29566
@@ -3337,6 +3341,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/PacktPublishing/Angular-Cookbook (TOADD)
 - https://www.manning.com/books/modern-angular (TOADD)
 - https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
+- https://www.jeffryhouser.com/index.cfm/2024/2/1/My-Books-are-Updated-for-Angular-17 (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://www.amazon.com/Angular-Design-Patterns-Best-Practices/dp/1837631972/ (TOADD)
 - https://angularexperts.io/products/ebook-angular-enterprise-architecture (TOADD)
@@ -3409,6 +3414,8 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ### ANGULAR17
 
 - https://riegler.fr/blog/2024-01-11-zoneless-preview
+- https://www.angularaddicts.com/p/angular-addicts-23-angular-17-2-signal-forms
+- https://blog.angular.io/signal-inputs-available-in-developer-preview-6a7ff1941823
 
 ### ANGULAR16
 - https://indepth.dev/posts/1519/router-data-as-components-inputs-in-angular-v16

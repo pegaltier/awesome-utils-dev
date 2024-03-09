@@ -12,6 +12,7 @@
 - https://github.com/basarat/typescript-book
 - https://github.com/imteekay/mini-typescript
 - https://github.com/danvk/effective-typescript
+- https://github.com/dzharii/awesome-typescript
 - https://github.com/LearningTypeScript/projects
 - https://github.com/typescript-cheatsheets/react
 - https://github.com/mkosir/typescript-style-guide
@@ -404,6 +405,15 @@ const o: object; // You can't assign to primitive type neither null or undefined
 const q: { [key: string]: any }; // You can't assign to primitive type neither null or undefined
 const p: {}; // or Object, you can assign to primitive type but not null or undefined
 ```
+
+### Typescript union vs generic, 
+
+- union types do not exist at compile-time, use union when the types are known at compile-time,  
+- programs that need access to the enumerated values should probably use an object instead.
+- use kind field to make a discriminated union and thus make difference easily recognisable
+- we can differentiate between types in a union with a type guard using the field kind or simply with the value.
+- keywords: typescript conditional types / typescript identity / typescript Narrowing / typescript mixins / type guard
+
 
 ### EXTENDS
 
