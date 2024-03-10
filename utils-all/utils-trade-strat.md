@@ -331,9 +331,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - REFS5: use monthly chart and buy long after 2 consecutive close above the SMA(12) and exit when close below the SMA(12), works very well on SPY, APPLE, AMZN, GME
 - REFS6: turtle is a momentum strategy and the rules are buy long on breakout of 20 or 55 days, hard stop using atr(x) *2, add to positions after new breakout
 
-## STRATEGY WEBSITES / ARTICLES
+## STRATEGY: WEBSITES / ARTICLES
 - https://tradingindicators.com/
 - https://www.tradingwithrayner.com/inside-bar/
+- https://www.buildalpha.com/intraday-edge/
+- https://www.buildalpha.com/free-friday-11-sample-size/ (eurusd)
 - https://ftmo.com/en/vegas-tunnel-trading/
 - https://oxfordstrat.com/category/trading-strategies/
 - https://www.statisticshowto.com/probability-and-statistics/z-score/
@@ -359,6 +361,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.com/@crisvelasquez/identify-key-market-shifts-with-the-volatility-ratio-16760a26b52a
 - https://medium.datadriveninvestor.com/how-to-create-a-profitable-cryptocurrency-trading-bot-part-1-overview-and-trading-strategy-cf178300a0ea
 - https://medium.com/@crisvelasquez/identifying-key-market-interest-with-the-volume-ratio-in-python-1f9904705711
+
+## STRATEGY: HIGH FREQUENCY TRADING / HFT
+- https://databento.com/blog/liquidity-taking-strategy?hss_channel=lcp-35540938
 
 ## STRATEGY: YOUTUBE CHANNEL: INTERVIEW
 - https://www.youtube.com/@risk_biscuits
