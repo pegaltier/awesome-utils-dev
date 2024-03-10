@@ -393,7 +393,8 @@
 - https://github.com/developit/mitt
 - https://github.com/ashleydavis/fusion
 
-## LIB: DATE
+## LIB: DATE / TIME
+- https://github.com/vercel/ms
 - https://github.com/iamkun/dayjs
 - https://github.com/date-fns/date-fns
 - https://github.com/xxczaki/light-date
@@ -506,7 +507,6 @@
 - https://github.com/catdad/canvas-confetti
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver
-- https://github.com/formkit/auto-animate
 - https://github.com/codex-team/editor.js
 - https://github.com/mozilla/readability
 - https://github.com/focus-trap/tabbable
@@ -545,6 +545,10 @@
 - https://github.com/xdan/jodit
 - https://github.com/needim/noty
 - https://github.com/ai/keyux
+
+## LIB: FRONTEND ANIMATION
+- https://github.com/formkit/auto-animate
+- https://github.com/dnnsjsk/glaze
 
 ## LIB: FRONTEND CAROUSEL / SLIDER / SCROLL
 - https://github.com/dhilt/vscroll

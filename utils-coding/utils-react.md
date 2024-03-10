@@ -271,6 +271,7 @@
 - https://github.com/shadcn/ui
 
 ## NATIVE
+- https://github.com/reactwg/react-native-new-architecture
 - https://opennative.github.io/
 - https://reactnative.directory/
 - https://start-react-native.dev/

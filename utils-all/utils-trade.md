@@ -313,6 +313,7 @@
 - https://tradingview.to/
 - https://fundingrate.io/
 - https://trigger.trade/
+- https://crypttops.com/
 - https://aleeert.com/
 - https://www.tv-hub.org/
 - https://alertatron.com/

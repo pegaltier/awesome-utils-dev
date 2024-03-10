@@ -4,6 +4,7 @@
 - https://github.com/openobserve/openobserve
 - https://github.com/quickwit-oss/quickwit
 - https://github.com/paradedb/paradedb
+- https://github.com/elastic/logstash
 
 ## LIST
 - https://github.com/typesense/typesense

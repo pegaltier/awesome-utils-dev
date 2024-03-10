@@ -268,6 +268,7 @@
 - https://github.com/honojs/hono
 
 ## SERVER: ALL
+- https://github.com/differentialhq/differential
 - https://github.com/httptoolkit/mockrtc
 - https://github.com/fonoster/fonoster
 - https://github.com/vercel/og-image
@@ -297,6 +298,7 @@
 - https://github.com/strongloop/loopback-next
 - https://github.com/serhiisol/node-decorators
 - https://github.com/deepkit/deepkit-framework
+- https://github.com/differentialhq/differential
 
 ## BASICS
 

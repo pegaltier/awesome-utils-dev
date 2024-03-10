@@ -275,6 +275,7 @@
 - https://github.com/janhq/nitro
 - https://github.com/simonw/llm
 - https://github.com/getzep/zep
+- https://github.com/01-ai/Yi
 
 ## LIB: IMAGE
 - https://github.com/s0md3v/roop

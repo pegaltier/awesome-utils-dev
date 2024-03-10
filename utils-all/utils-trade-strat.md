@@ -600,3 +600,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - use the sum to count if there is at least once in the last X bars that validate a condition (ex: moving average below or above a  level, new high or low, rsi above or below a level...) ex: 
 
 - use the binary count of consecutive bars up or down with tanh function (Hyperbolic tangent): https://ch.mathworks.com/help/matlab/ref/tanh.html
+
+## TODO: NOTES: NEXT
+- https://en.wikipedia.org/wiki/Hawkes_process
+- https://www.youtube.com/watch?v=wdsiZBIhAFw Hawkes_process
+- https://es.tradingview.com/script/SfyBCHIJ/ lorentzian
