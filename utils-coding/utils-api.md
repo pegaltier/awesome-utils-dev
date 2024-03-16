@@ -57,6 +57,7 @@
 - https://github.com/scalar/scalar
 - https://github.com/Azure/autorest
 - https://github.com/asyncapi/modelina
+- https://github.com/microsoft/typespec
 - https://github.com/Mermade/widdershins
 - https://github.com/apideck-libraries/portman
 - https://github.com/OAI/OpenAPI-Specification
@@ -191,6 +192,7 @@
 - https://github.com/teamhanko/hanko
 - https://github.com/auth0/auth0-spa-js
 - https://github.com/epicweb-dev/web-auth
+- https://github.com/supertokens/supertokens-node
 
 ## KEY
 - https://github.com/unkeyed/unkey

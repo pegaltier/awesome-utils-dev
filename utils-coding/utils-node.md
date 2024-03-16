@@ -189,6 +189,7 @@
 - https://github.com/google/webauthndemo
 - https://github.com/MasterKale/SimpleWebAuthn
 - https://github.com/panva/node-oidc-provider
+- https://github.com/supertokens/supertokens-node
 
 ## LIBS: CACHE
 - https://github.com/node-cache-manager/node-cache-manager

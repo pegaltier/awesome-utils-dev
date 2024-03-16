@@ -269,6 +269,7 @@
 - https://github.com/epicweb-dev/totp
 - https://github.com/garronej/oidc-spa
 - https://github.com/charlietango/owky
+- https://github.com/supertokens/supertokens-node
 
 ## LIB: UTILS
 
@@ -356,10 +357,11 @@
 ## LIB: POLYFILL
 - https://github.com/jsxtools/cqfill
 
-## LIB: REGEX
+## LIB: REGEX / MATCHER / GLOB
 - https://github.com/CJex/regulex
 - https://github.com/snd/url-pattern
 - https://github.com/devongovett/regexgen
+- https://github.com/micromatch/picomatch
 - https://github.com/sindresorhus/super-regex
 - https://github.com/compose-regexp/compose-regexp.js
 
@@ -598,7 +600,7 @@
 - https://github.com/openlayers/openlayers
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
-## LIB: DATAVIZ / CHART / WORKFLOW
+## LIB: DATAVIZ / CHART / WORKFLOW / DATA VIZ
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/project-nv/night-vision
 - https://github.com/highcharts/highcharts
@@ -606,8 +608,10 @@
 - https://github.com/gionkunz/chartist-js
 - https://github.com/jagenjo/litegraph.js
 - https://github.com/chartist-js/chartist
+- https://github.com/kbychkov/dailychart
 - https://github.com/jerosoler/Drawflow
 - https://github.com/finos/perspective
+- https://github.com/jacomyal/sigma.js
 - https://github.com/observablehq/plot
 - https://github.com/plotly/plotly.js
 - https://github.com/benfred/venn.js
@@ -716,6 +720,7 @@
 - https://github.com/blitz-js/superjson
 - https://github.com/calvintwr/issable
 - https://github.com/corps/json-delta
+- https://github.com/pmndrs/valtio
 - https://github.com/json5/json5
 - https://github.com/eemeli/yaml
 

@@ -118,6 +118,7 @@
 - https://philosopherai.com/philosopher/technology-5f713c
 
 ## TOOLS: IMAGE
+- https://megapix.ai/
 - https://www.midjourney.org/
 - https://fengmyshui.com/
 - https://www.headshotpro.com/
@@ -181,7 +182,6 @@
 - https://github.com/deepdoctection/deepdoctection
 - https://github.com/KillianLucas/open-interpreter/
 - https://github.com/aethermonkey/The-Digital-Hamlet
-- https://github.com/mckaywrigley/chatbot-ui-lite
 
 ## LIB: DB
 - https://github.com/SuperDuperDB/superduperdb
@@ -230,8 +230,13 @@
 - https://github.com/arc53/DocsGPT
 - https://github.com/h2oai/h2ogpt
 
-## LIB: LLM
+## LIB: CHATBOT
 - https://github.com/aws-samples/aws-genai-llm-chatbot
+- https://github.com/luixaviles/gemini-angular-nestjs
+- https://github.com/mckaywrigley/chatbot-ui-lite
+- https://github.com/mendableai/rag-arena
+
+## LIB: LLM
 - https://github.com/ColinEberhardt/langchain-mini
 - https://github.com/varunshenoy/super-json-mode
 - https://github.com/bigscience-workshop/petals

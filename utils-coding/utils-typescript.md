@@ -181,8 +181,9 @@ npm init
 - https://github.com/rcjsuen/dockerfile-ast
 - https://github.com/anuraghazra/typelevel-parser
 
-## LIB: REACTIVE
+## LIB: ASYNC / STREAM / REACTIVE
 - https://github.com/poelstra/ts-stream
+- https://github.com/RevereCRE/promise
 
 ## LIB: UI
 - https://github.com/tldraw/tldraw

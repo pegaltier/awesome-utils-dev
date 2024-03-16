@@ -3,6 +3,8 @@
 # run: ./tools/migration/bashfunctions.sh
 # permission: chmod u+r+x ./tools/migration/bashfunctions.sh
 #
+#find . -name "*.rs" ! -path "./target/*" | xargs grep -e "\b\(SELECT \|select \|INSERT |\insert \|UPDATE \|update \|DELETE \|delete \)" -C 10
+
 REPO=/home/myfolder/myapp/
 
 function function_from_to() {

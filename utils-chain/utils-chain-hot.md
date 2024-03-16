@@ -38,6 +38,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Kizuna: https://kizuna.foundation/en
 - Junto: https://www.junto.love
 - Dimcredits: https://dimcredits.com/
+- The Weave: https://theweave.social/
 - Flux: https://www.fluxsocial.io
 - IOEN: https://www.ioen.tech/
 - HoloDex: https://holodex.exchange/
@@ -161,6 +162,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/mjbrisebois/js-holo-hash
 - https://github.com/mjbrisebois/rust-hc-crud-ceps
 - https://github.com/lightningrodlabs/threads
+- https://github.com/lightningrodlabs/vines
 - https://github.com/lightningrodlabs/calcy
 - https://github.com/lightningrodlabs/files
 - https://github.com/lightningrodlabs/dada

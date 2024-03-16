@@ -89,6 +89,7 @@
 - https://www.mendable.ai/
 
 ## OSS: COLLABORATE
+- https://github.com/daily-co
 - https://github.com/matrix-org
 - https://github.com/vasanthv/talk
 - https://github.com/mfts/papermark

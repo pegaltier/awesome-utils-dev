@@ -13,3 +13,4 @@
 ## VPN
 
 - https://github.com/f13end/free-vpn
+- https://github.com/angristan/openvpn-install

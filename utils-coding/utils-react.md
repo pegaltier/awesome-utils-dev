@@ -95,6 +95,7 @@
 - https://github.com/FormidableLabs/react-game-kit
 
 ## LIB: TOOLING
+- https://github.com/kristiandupont/react-geiger
 - https://github.com/yannickcr/eslint-plugin-react
 
 ## LIB: ALL
@@ -232,6 +233,9 @@
 - https://github.com/expo/expo
 - https://github.com/bluesky-social/social-app
 
+## TANSTACK: EXAMPLE
+- https://github.com/jherr/tanstack-router-streaming-movies
+
 ## NEXT: STARTER
 - https://github.com/delbaoliveira/website
 - https://github.com/belgattitude/nextjs-monorepo-example
@@ -249,6 +253,7 @@
 - https://github.com/developedbyed/styled-frontend
 - https://github.com/juristr/blog-series-nextjs-nx
 - https://github.com/module-federation/nextjs-mf
+- https://github.com/RevereCRE/next-query-params
 - https://github.com/TheEdoRan/next-safe-action
 - https://github.com/serverless-stack/open-next
 - https://github.com/RevereCRE/relay-nextjs
