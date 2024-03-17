@@ -190,6 +190,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/KoruProtocol/koru
 - https://github.com/darksoil-studio/gather
 - https://github.com/darksoil-studio/assemble
+- https://github.com/darksoil-studio/notifications
 - https://github.com/darksoil-studio/mutual-credit
 - https://github.com/holochain-engineers/team-mates
 - https://github.com/holochain/holochain-serialization-js

@@ -69,32 +69,35 @@
 - https://vercel.com/docs/cron-jobs
 - https://github.com/nefe/one-cron
 
-## UTILS
+## UTILS NPM
+- https://github.com/radarsu/types-package-json
+- https://github.com/davglass/license-checker
+- https://github.com/JS-DevTools/npm-publish
+- https://github.com/lirantal/lockfile-lint
+- https://github.com/juliangruber/npm-diff
+- https://github.com/styfle/packagephobia
+- https://github.com/ds300/patch-package
+- https://github.com/amio/npm-why
+- https://github.com/antfu/taze
 
+## UTILS ALL
 - https://github.com/animir/node-rate-limiter-flexible
 - https://github.com/jkup/source-map-stacktrace-tester
 - https://github.com/node-loader/node-loader-core
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/sindresorhus/find-cache-dir
-- https://github.com/radarsu/types-package-json
 - https://github.com/jkup/source-map-validator
-- https://github.com/davglass/license-checker
 - https://github.com/anonrig/fast-querystring
-- https://github.com/JS-DevTools/npm-publish
 - https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
 - https://github.com/freeall/progress-stream
 - https://github.com/adisreyaj/cartella-web
-- https://github.com/lirantal/lockfile-lint
 - https://github.com/sindresorhus/is-docker
 - https://github.com/coderhammer/backhooks
-- https://github.com/juliangruber/npm-diff
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/sultan99/sexy-require
-- https://github.com/styfle/packagephobia
 - https://github.com/privatenumber/tasuku
 - https://github.com/EvanZhouDev/donut-js
-- https://github.com/ds300/patch-package
 - https://github.com/folke/ultra-runner
 - https://github.com/RetireJS/retire.js
 - https://github.com/evanwashere/mitata
@@ -113,7 +116,6 @@
 - https://github.com/ranyitz/newsh
 - https://github.com/lirantal/npq
 - https://github.com/remy/nodemon
-- https://github.com/amio/npm-why
 - https://github.com/ranyitz/qnm
 - https://github.com/47ng/sceau
 - https://github.com/vercel/ncc
