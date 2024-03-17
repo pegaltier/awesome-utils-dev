@@ -246,6 +246,7 @@
 
 
 ## TOOLS: TRADINGVIEW: CODING
+- https://muqwishi.com/
 - https://pinewizards.com/
 - https://pinescripters.net/
 - https://www.pinecoders.com/
@@ -283,6 +284,7 @@
 - https://www.ultraalgo.com/
 
 ## TOOLS: TRADINGVIEW: STRATEGY
+- https://muqwishi.com/home/products/
 - https://github.com/dearvn/trading-futures-tradingview-script
 - https://www.tradingview.com/u/Steversteves/#published-scripts
 - https://www.tradingview.com/u/ROBO_Trading/#published-scripts
@@ -293,6 +295,11 @@
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
 - https://www.tradingview.com/script/DoOd6evK-Nadaraya-Watson-Envelope-Modified-by-Yosiet/
 - https://www.tradingview.com/script/QxyeMuEC-MIDAS-VWAP-Jayy/
+
+## TOOLS: TRADINGVIEW: CANDLESTICK
+- https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/
+- https://www.tradingview.com/script/OsTuKG4q-All-Candlestick-Patterns-on-Backtest-By-MUQWISHI/
+- https://zenandtheartoftrading.com/pinescript/how-to-detect-candle-patterns/
 
 ## TOOLS: TRADINGVIEW: AUTOMATE
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
