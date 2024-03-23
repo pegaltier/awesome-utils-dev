@@ -274,6 +274,7 @@
 - https://github.com/OpenBMB/MiniCPM
 - https://github.com/salesforce/xgen
 - https://github.com/karpathy/minbpe
+- https://github.com/xai-org/grok-1
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens
@@ -303,6 +304,8 @@
 
 ## LIB: VIDEO
 - https://github.com/topics/ai-avatars
+- https://github.com/hpcaitech/Open-Sora
+- https://github.com/SoraWebui/FakeSoraAPI
 - https://github.com/NumesSanguis/FACSvatar
 - https://github.com/jianzhnie/awesome-text-to-video
 - https://github.com/hkchengrex/Tracking-Anything-with-DEVA

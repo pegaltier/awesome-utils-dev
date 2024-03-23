@@ -1517,10 +1517,12 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 
 - https://github.com/nrwl/nx
 - https://github.com/wizdmio/wizdm
+- https://github.com/analogjs/analog
 - https://github.com/goetzrobin/spartan
 - https://github.com/angular/angular-cli
 - https://github.com/martinoppitz/leanup
 - https://github.com/irustm/angular-nodegui
+- https://github.com/mantis-apps/mantis-cli
 - https://github.com/maximegris/angular-electron
 - https://github.com/jhipster/generator-jhipster
 - https://github.com/ngx-rocket/generator-ngx-rocket

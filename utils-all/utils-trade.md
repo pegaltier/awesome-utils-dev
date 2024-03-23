@@ -35,6 +35,7 @@
 - https://openbb.co/blog/
 - https://quantpedia.com/
 - https://robotjames.com/
+- https://tradingtact.com/
 - https://quantaraxia.com/
 - https://hudsonthames.org/
 - https://crypto-robot.com/
@@ -98,6 +99,7 @@
 - https://blog.darwinex.com/interview-de-trader-antojos-darwin-axf/?lang=fr
 - https://www.toptradersunplugged.com/resources/ebooks/
 - https://www.myfxbook.com/members/antojos
+- https://tradingtact.com/books/
 - https://blog-darwinex-com.cdn.ampproject.org/c/s/blog.darwinex.com/build-currency-portfolio-metatrader/amp/
 
 ## QUOTES
@@ -181,6 +183,7 @@
 - https://howtobacktestbootcamp.carrd.co/
 - https://marketspy.net/free-poett-access/
 - https://www.thinkmarkets.com/en/tools/tradersgym/
+- https://tradingtact.com/automated-trading-software/
 - https://tradingindicators.com/portfolio-architect-2-0/
 - https://support.google.com/docs/answer/3093281?hl=en
 
@@ -539,6 +542,7 @@
 - https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
+- https://github.com/DogsTailFarmer/martin-binance
 - https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr * 
 - https://github.com/nautechsystems/nautilus_trader
@@ -558,9 +562,9 @@
 - https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
+- https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy
 - https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
-- https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api
 - https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku
 - https://www.qmr.ai/building-a-backtesting-framework-in-python-part-ii/

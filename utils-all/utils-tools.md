@@ -79,6 +79,8 @@
 
 ## OSS: DEV
 - https://github.com/linuxserver/docker-wireguard
+- https://github.com/mickael-kerjean/filestash
+- https://github.com/filebrowser/filebrowser
 - https://github.com/ballerine-io/ballerine
 - https://github.com/ProxymanApp/Proxyman
 - https://github.com/josdejong/jsonrepair

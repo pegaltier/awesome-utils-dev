@@ -164,6 +164,7 @@
 - https://github.com/liriliri/chii
 - https://github.com/miragejs/miragejs
 - https://github.com/lukeed/astray
+- https://github.com/jehna/humanify
 - https://github.com/fkling/astexplorer
 - https://github.com/pastelsky/bundlephobia
 - https://github.com/AykutSarac/jsoncrack.com
@@ -420,7 +421,8 @@
 ## LIB: PAYMENT
 - https://github.com/lmsqueezy/lemonsqueezy.js
 
-## LIB: PARSER HTML/XML
+## LIB: PARSER HTML/XML/JSON
+- https://github.com/beenotung/best-effort-json-parser
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/micromark/micromark
