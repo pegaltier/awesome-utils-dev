@@ -66,6 +66,7 @@
 ## TOOLS OSS
 - https://github.com/six-ddc/plow
 - https://github.com/ekzhang/bore
+- https://github.com/lapce/lapdev
 - https://github.com/dagger/dagger
 - https://github.com/Qovery/engine
 - https://github.com/loadimpact/k6

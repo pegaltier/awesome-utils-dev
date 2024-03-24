@@ -215,6 +215,7 @@
 - https://napoleonx.ai/
 - https://goat-capital.io/
 - https://www.napbots.com/
+- https://sofex.io/
 - https://robuxio.com/
 - https://dipsway.com/
 - https://warp-bots.com/
@@ -535,6 +536,7 @@
 - https://github.com/je-suis-tm/quant-trading *
 - https://github.com/fmzquant/backtest_python * 
 - https://github.com/kelvinau/crypto-arbitrage
+- https://github.com/devfinwiz/Fin-Maestro-Web
 - https://github.com/robcarver17/pysystemtrade *
 - https://github.com/CryptoSignal/Crypto-Signal
 - https://github.com/bfolkens/py-market-profile

@@ -97,6 +97,7 @@
 - https://github.com/TabbyML/tabby
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
+- https://github.com/stitionai/devika
 - https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/abi/screenshot-to-code
