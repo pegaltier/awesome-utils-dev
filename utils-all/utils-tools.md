@@ -100,6 +100,7 @@
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo
 - https://github.com/jsfiddle/togetherjs
+- https://github.com/localsend/localsend
 - https://github.com/excalidraw/excalidraw
 - https://github.com/bluesky-social/social-app
 - https://github.com/onetimesecret/onetimesecret
@@ -144,6 +145,7 @@
 
 ## Organise
 - https://github.com/dendronhq/dendron
+- https://github.com/anyproto/anytype-ts
 - https://github.com/AppFlowy-IO/AppFlowy
 - https://github.com/graydon/obsidian-html
 - https://github.com/hadynz/obsidian-sidekick

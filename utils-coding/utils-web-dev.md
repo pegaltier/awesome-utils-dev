@@ -453,6 +453,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://dev.to/melcor76/the-state-of-web-components-ab3
 - https://github.com/mjbrisebois/openstate-js
 - https://github.com/mjbrisebois/purewc-template
+- https://github.com/github/details-menu-element
 - https://github.com/joist-framework/joist
 - https://github.com/JetBrains/web-types
 - https://github.com/microsoft/fast
@@ -478,6 +479,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/web-infra-dev/oxc
 - https://github.com/inertiajs/inertia
 - https://github.com/payloadcms/payload
+- https://github.com/avitorio/outstatic*
 - https://github.com/wepublish/wepublish
 - https://github.com/bigskysoftware/htmx
 - https://github.com/Thinkmill/keystatic

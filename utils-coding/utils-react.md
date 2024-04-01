@@ -102,6 +102,7 @@
 - https://github.com/mme/beakjs
 - https://github.com/alloc/wana
 - https://github.com/gc-victor/u
+- https://github.com/klis87/normy
 - https://github.com/uber/baseweb
 - https://github.com/Hotell/rea-di
 - https://github.com/pmndrs/valtio

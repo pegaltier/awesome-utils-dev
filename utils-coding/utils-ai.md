@@ -100,6 +100,7 @@
 - https://github.com/stitionai/devika
 - https://github.com/Nutlope/aicommits
 - https://github.com/fauxpilot/fauxpilot
+- https://github.com/OpenDevin/OpenDevin
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
@@ -293,6 +294,7 @@
 - https://github.com/modelscope/facechain
 - https://github.com/facefusion/facefusion
 - https://github.com/TencentARC/PhotoMaker
+- https://github.com/Zejun-Yang/AniPortrait
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/AIAnytime/AI-News-Anchor-Generator-App

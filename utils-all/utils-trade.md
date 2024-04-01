@@ -381,6 +381,7 @@
 - https://github.com/martinshane/pinescript5
 - https://github.com/harryguiacorn/tradingview
 - https://github.com/ricardosantos79/pinescript
+- https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Alorse/pinescript-strategies
 - https://github.com/ADWilkinson/pinescript-indicators
 - https://github.com/Paul-Mizel/Crypto-Trading-Unleashed
@@ -595,7 +596,7 @@
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/coinranking/exchanges
-- https://github.com/TulipCharts/tulipnode
+- https://github.com/TulipCharts/tulipnode *
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/tardis-dev/tardis-node * 
 - https://github.com/mkmarek/forex.analytics
