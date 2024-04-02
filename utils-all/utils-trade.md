@@ -582,8 +582,10 @@
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
 - https://github.com/agiliumtrade-ai/
+- https://github.com/askmike/gekko *
 - https://github.com/stoqey/nitrogen
 - https://github.com/Seungwoo321/cats (grademark)
+- https://github.com/Flippo24/candles *
 - https://github.com/jerryshell/midas *
 - https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts *
@@ -598,7 +600,7 @@
 - https://github.com/coinranking/exchanges
 - https://github.com/TulipCharts/tulipnode *
 - https://github.com/SockTrader/SockTrader *
-- https://github.com/tardis-dev/tardis-node * 
+- https://github.com/tardis-dev/tardis-node *
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
@@ -610,6 +612,7 @@
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
 - https://github.com/Haehnchen/crypto-trading-bot *
+- https://github.com/valamidev/candlestick-convert *
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/BitgetLimited/v3-bitget-api-sdk
 - https://github.com/fasenderos/hft-limit-order-book
@@ -631,6 +634,7 @@
 - https://github.com/bitcoinvsalts/tradingview-alert-binance-trader
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 - https://seungwoo321.github.io/blog/2022/01/28/making-trading-bot-4/
+- https://stackoverflow.com/questions/76857436/js-timeframe-previous-candle-close-trading
 - https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 - https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
 - https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/
