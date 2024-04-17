@@ -384,6 +384,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@TheTransparentTrader The Transparent Trader
 - https://www.youtube.com/@exTRADING exTRADING
 - https://www.youtube.com/@scottwelshstrategies Scott Welsh Strategies
+- https://www.youtube.com/@FinancialProgrammingwithRitvik Ritvik, CFA
 - https://www.youtube.com/@TheTradingParrot The Trading Parrot
 - https://www.youtube.com/@DaviddTech DaviddTech
 - https://www.youtube.com/@TradeSmart22 TradeSmart
@@ -450,16 +451,17 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/cEoMmFWeQZI Transparent Trader - Simple Moving Average for Forex Trading
 
 ## STRATEGY YOUTUBE: RSI
+- https://youtu.be/-UnSqPJNZok QuantProgram - GIGH WIN RATE RSI Divergence Indicator
 - https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices with RSI
 - https://youtu.be/uiM-TifFKHg SMB Capital - Top 3 Ways To Use The RSI Indicator ****
 - https://youtu.be/q_b92hUbn1Q Highly Profitable SuperTrend + Kairi Relative Index Strategy for Bitcoin
 - https://youtu.be/8uJMQm-5WZ8 Does the Connors RSI 2 Strategy Work in Forex? ***
-- https://youtu.be/tMxMQ1fBC6s I Tested 200,000 Trades To Find BEST RSI Settings ***
+- https://youtu.be/tMxMQ1fBC6s SMB Capital - I Tested 200,000 Trades To Find BEST RSI Settings ***
+- https://youtu.be/uiM-TifFKHg Top 3 Ways To Use The RSI Indicator
 - https://youtu.be/381-C-aqR70 Cumulative Delta+Laguerre RSI **
 - https://youtu.be/rIUgbCxHVB0 Ultimate Laguerre RSI Pullback **
 - https://youtu.be/rJ5HaJ2iCdk Algofox - CANDLE BREAKOUT + RSI SETUP - stocks
 - https://youtu.be/xEVEubP4iY4 Quantified Strategies - Triple RSI Strategy (90.36% Win Rate)
-
 
 ## STRATEGY YOUTUBE: BREAKOUT
 - https://youtu.be/cbstP00lS2Y PeakAlgo - Bitcoin Breakout Trading on 90 minutes chart ****
@@ -497,7 +499,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/hQUKA9UvwoQ StatOasis - The Ultimate C% Oscillator: Unveiled ***
 - https://youtu.be/V6DL5Hkf3Ms StatOasis - Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
 - https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading ***
-- 
+- https://youtu.be/ere4K2avJN8 StatOasis - [BB] [%B] Bollinger Bands %B Trading Strategy | 💪💰A winning Portfolio!
 - https://youtu.be/yz_T1gpAw6Y The Art of Trading - A Profitable MEAN REVERSION STRATEGY ***
 - https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***
@@ -530,6 +532,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/8gH33k5W334 Fabian Timing Model Strategy (MA + confirmation from 3 multiple indexes)
 - https://youtu.be/boxYiarnMXY [BB] trend following with BBW filter
 - https://youtu.be/jSYiVSN8z8c Trading Verge - [BB] & [EMA] Trading Strategy *** (DONE:S_MABB1)
+- https://youtu.be/8qEuq7OJLXI Pine Script: DRIFT [BB] Tradingview ****
 - https://youtu.be/5LpHy06MLHg The Trading Parrot - Custom Tradingview indicators strategy
 - https://youtu.be/gIto3cNIx1k DaviddTech - LSMA + VFI ++++
 
