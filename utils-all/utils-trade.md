@@ -39,6 +39,7 @@
 - https://quantaraxia.com/
 - https://hudsonthames.org/
 - https://crypto-robot.com/
+- https://cryptowizards.net/
 - https://www.quantinsti.com/
 - https://www.quantscience.io/
 - https://allocatesmartly.com/

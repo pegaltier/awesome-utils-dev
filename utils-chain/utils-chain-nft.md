@@ -378,6 +378,7 @@ forgeries in NFTs, meta data...
 - https://github.com/trankhacvy/cnft-tools
 - https://github.com/i3games/hen-timeline
 - https://github.com/jamesporter/solandra
+- https://github.com/zengm-games/facesjs
 - https://github.com/cpojer/palette-swap
 - https://github.com/Flawm/solana_minter
 - https://github.com/21e8/sol-nft-tools

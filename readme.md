@@ -26,10 +26,11 @@
 - [Ionic](utils-coding/utils-ionic.md)
 
 ## Various
-- [GraphQL](utils-coding/utils-graphql.md)
+- [Ai](utils-coding/utils-ai.md)
 - [Git](utils-coding/utils-git.md)
 - [Api](utils-coding/utils-api.md)
 - [Design](utils-coding/utils-design.md)
+- [GraphQL](utils-coding/utils-graphql.md)
 - [More](utils-coding/)
 
 ## Blockchain

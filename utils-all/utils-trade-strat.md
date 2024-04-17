@@ -447,6 +447,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/OVxotbT4ITY René Balke - Range Breakout
 - https://youtu.be/JdR8ZOrLr9s Kevin Davey - Swiss Franc - Mean reversion with BB(30) anc ROC(200)
 - https://youtu.be/xsRkmFzvcvQ Transparent Trader - Bollinger Band Strategy Still Makes Money after 20 Years
+- https://youtu.be/cEoMmFWeQZI Transparent Trader - Simple Moving Average for Forex Trading
 
 ## STRATEGY YOUTUBE: RSI
 - https://youtu.be/X5ciSCcIAWg Eric Lefort - Mean reversion on indices with RSI
@@ -491,10 +492,12 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/rJujXAF52HU Buy when BTC goes up more than 2% in 12H candle + add SL/TP at 1 or 2%
 
 ## STRATEGY YOUTUBE: MEAN REVERSION
+- https://youtu.be/GzReQDx3U8s Enlightened Stock Trading - Best Mean Reversion Indicators ****
 - https://youtu.be/5F1fhI_pqGQ BigDoor Trading - Mean reversion with EMA(2) + conditions ****
 - https://youtu.be/hQUKA9UvwoQ StatOasis - The Ultimate C% Oscillator: Unveiled ***
 - https://youtu.be/V6DL5Hkf3Ms StatOasis - Casey C% indicator BEATS RSI indicator in Mean Reversion!!! ***
 - https://youtu.be/OUQgaO7wlZc StatOasis - Mean Reversion Linear Regression Trading ***
+- 
 - https://youtu.be/yz_T1gpAw6Y The Art of Trading - A Profitable MEAN REVERSION STRATEGY ***
 - https://youtu.be/HHQxkSWmGa0 Correct Way to Trade Mean Reversion Strategies *** 
 - https://youtu.be/eK2yatANcNU Mean Reversion Trading Strategy Clearly Explained! ***

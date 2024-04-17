@@ -51,6 +51,9 @@
 - https://chat.openai.com/
 - https://copilot.microsoft.com/
 
+## TOOLS: PROMPT: OSS
+https://github.com/platformatic/mistral-client
+
 ## TOOLS: ALL
 - https://mason.app/
 - https://abacus.ai/
@@ -99,6 +102,7 @@
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/stitionai/devika
 - https://github.com/Nutlope/aicommits
+- https://github.com/plandex-ai/plandex
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
 - https://github.com/abi/screenshot-to-code

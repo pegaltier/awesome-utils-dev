@@ -630,6 +630,7 @@
 - https://github.com/desandro/imagesloaded
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
+- https://github.com/zengm-games/facesjs
 - https://github.com/google/model-viewer
 - https://github.com/mapbox/pixelmatch
 - https://github.com/graphery/graphery

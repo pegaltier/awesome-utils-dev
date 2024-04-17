@@ -59,6 +59,7 @@
 - https://github.com/asyncapi/modelina
 - https://github.com/microsoft/typespec
 - https://github.com/Mermade/widdershins
+- https://github.com/astahmer/typed-openapi
 - https://github.com/apideck-libraries/portman
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/drwpow/openapi-typescript
