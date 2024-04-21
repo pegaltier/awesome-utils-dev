@@ -69,6 +69,7 @@ low-code tooling to prototype fastly.
 - https://github.com/ultrasonicsoft/ng-application-builder
 
 ## lowcode
+- https://github.com/permitio
 - https://github.com/vaadin/hilla
 - https://github.com/frappe/frappe
 - https://github.com/metarank/metarank

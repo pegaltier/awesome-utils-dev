@@ -50,6 +50,10 @@
 - https://guardianproject.info/apps/pixelknot/
 - https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
 
+## TOOLS HOST
+- https://www.wiz.io/
+- https://betterstack.com/
+
 ## TOOLS OSS
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/decalage2/awesome-security-hardening

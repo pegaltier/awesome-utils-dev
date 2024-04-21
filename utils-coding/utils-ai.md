@@ -3,6 +3,7 @@
 ## NEWS
 - https://github.com/osanseviero/ml_timeline
 - https://9elements.com/blog/ai-glossary
+- https://www.therundown.ai/
 
 ## TENSOR FIRE
 - https://tenso.rs/demos/fast-neural-style/
@@ -47,9 +48,11 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS: PROMPT
+- https://webllm.mlc.ai/
 - https://www.phind.com/
 - https://chat.openai.com/
 - https://copilot.microsoft.com/
+- https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
 
 ## TOOLS: PROMPT: OSS
 https://github.com/platformatic/mistral-client
@@ -78,6 +81,9 @@ https://github.com/platformatic/mistral-client
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
 
+## TOOLS: JOB
+- https://applicantai.com/
+
 ## TOOLS: OSS
 - https://github.com/Nixtla/
 - https://github.com/mistralai
@@ -103,6 +109,7 @@ https://github.com/platformatic/mistral-client
 - https://github.com/stitionai/devika
 - https://github.com/Nutlope/aicommits
 - https://github.com/plandex-ai/plandex
+- https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
 - https://github.com/abi/screenshot-to-code
@@ -111,10 +118,11 @@ https://github.com/platformatic/mistral-client
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
-## TOOLS: TEXT
+## TOOLS: TEXT / DOCS
 - https://www.taglines.ai/
 - https://www.simplify.so/
 - https://www.jasper.ai/
+- https://www.getcoralai.com/
 - https://learnfromanyone.com/
 - https://generateurdetexte.com/
 - https://app.fitnessai.com/knowledge/
@@ -124,6 +132,7 @@ https://github.com/platformatic/mistral-client
 - https://philosopherai.com/philosopher/technology-5f713c
 
 ## TOOLS: IMAGE
+- https://pika.art/
 - https://megapix.ai/
 - https://www.midjourney.org/
 - https://fengmyshui.com/
@@ -141,9 +150,13 @@ https://github.com/platformatic/mistral-client
 - https://www.heygen.com/
 - https://www.sievedata.com/
 - https://www.synthesia.io/
+- https://github.com/HumanAIGC/EMO
 
 ## TOOLS: SEARCH
 - https://github.com/leptonai/search_with_lepton
+
+## TOOLS: FINANCE
+- https://github.com/FutureSharks/ml-finance
 
 ## IMAGES API
 
@@ -157,6 +170,10 @@ https://github.com/platformatic/mistral-client
 - https://www.theneura.com
 - https://civitai.com/
 - https://ollama.ai/
+
+## CRYPTO
+- https://power.netmind.ai/
+- https://www.crypticorn.com/
 
 ## LIB
 - https://github.com/obsei/obsei
@@ -217,7 +234,6 @@ https://github.com/platformatic/mistral-client
 - https://github.com/chathub-dev/chathub
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/nomic-ai/gpt4all-ui
-- https://github.com/paul-gauthier/aider
 - https://github.com/PawanOsman/ChatGPT
 - https://github.com/nisabmohd/ChatGPT
 - https://github.com/lobehub/lobe-chat
@@ -228,7 +244,6 @@ https://github.com/platformatic/mistral-client
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/reworkd/AgentGPT
 - https://github.com/xtekky/gpt4free
-- https://github.com/run-llama/rags
 - https://github.com/sunner/ChatALL
 - https://github.com/dzhng/zod-gpt
 - https://github.com/cpacker/MemGPT
@@ -273,14 +288,18 @@ https://github.com/platformatic/mistral-client
 - https://github.com/haotian-liu/LLaVA
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
+- https://github.com/meta-llama/llama3
 - https://github.com/jmorganca/ollama
 - https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
 - https://github.com/OpenBMB/MiniCPM
+- https://github.com/databricks/dbrx
 - https://github.com/salesforce/xgen
 - https://github.com/karpathy/minbpe
 - https://github.com/xai-org/grok-1
+- https://github.com/mlc-ai/web-llm
+- https://github.com/run-llama/rags
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens

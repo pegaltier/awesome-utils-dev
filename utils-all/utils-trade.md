@@ -23,6 +23,7 @@
 - Jay Wolberg http://www.tradingvolatility.net/
 - Hugh Kimura https://www.tradingheroes.com/
 - Dave Whitcomb https://www.peakalgo.com/
+- Jonathan Shore: https://tr8dr.github.io/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -31,6 +32,7 @@
 - https://www.clivemaund.com/
 
 ## SITES
+- https://capriole.com/
 - https://autoview.com/
 - https://openbb.co/blog/
 - https://quantpedia.com/
@@ -45,7 +47,7 @@
 - https://allocatesmartly.com/
 - https://www.quantivealpha.com/    
 - https://quantifiableedges.com/
-- https://www.spectralalpha.com/
+- https://thesystematictrader.com/
 - https://alvarezquanttrading.com/
 - https://www.championteamtrading.com/
 - https://www.quantifiedstrategies.com/
@@ -57,9 +59,11 @@
 - https://unbiasedtrading.carrd.co/
 - https://thetradingparrot.com/
 - https://pythonforfinance.info/
+- https://www.priceactionlab.com/
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
 - https://marketscripters.com/
+- https://www.tokode.com/
 - https://aresquant.com/
 - https://www.algome.in/
 - https://quantform.io/
@@ -188,12 +192,16 @@
 - https://tradingindicators.com/portfolio-architect-2-0/
 - https://support.google.com/docs/answer/3093281?hl=en
 
+## TOOLS: ONLINE
+- https://www.realcharts.app/
+
 ## TOOLS: SCREENING / NEWS
 - https://www.zacks.com/
 - https://deepvue.com/
 - https://www.smartcharts.net/
 
 ## TOOLS: TRADE EXEC / BROKER
+- https://www.xtb.com
 - https://eu.deriv.com/
 - https://api.deriv.com/
 - https://www.robomarkets.com/
@@ -211,22 +219,28 @@
 - https://www.quantprogram.com/
 
 ## TOOLS: BOTS 
-- https://diabolo.io/
-- https://www.kryll.io/
-- https://napoleonx.ai/
-- https://goat-capital.io/
-- https://www.napbots.com/
 - https://sofex.io/
+- https://tycoon.io/
+- https://diabolo.io/
 - https://robuxio.com/
 - https://dipsway.com/
+- https://www.kryll.io/
+- https://napoleonx.ai/
 - https://warp-bots.com/
-- https://3c.crypttops.com/
-- https://tycoon.io/
 - https://www.shrimpy.io/
-- https://www.xorstrategy.com/
+- https://goat-capital.io/
+- https://www.napbots.com/
+- https://www.surmount.ai/
+- https://remorawealth.com/
+- https://3c.crypttops.com/
 - https://stackedinvest.com/
+- https://tradingstrategy.ai/
+- https://www.geniusfreq.com/
+- https://www.xorstrategy.com/
 - https://www.cryptohopper.com/
+- https://www.spectralalpha.com/
 - https://materialindicators.com/
+- https://www.meridianresearch.fr/
 - https://www.ai-backbone.com/aiforgold
 - https://www.algomatictrading.com
 - https://www.gomicroai.com/
@@ -249,7 +263,6 @@
 - https://collective2.com/my/K6Q9FDJ8A
 - https://kinfo.com/
 
-
 ## TOOLS: TRADINGVIEW: CODING
 - https://muqwishi.com/
 - https://pinewizards.com/
@@ -262,6 +275,7 @@
 - https://pinescripters.net/index.php
 - https://courses.theartoftrading.com/
 - https://www.pinescriptstrategies.com/
+- https://autoview.com/builder/trading-strategy/
 - https://tradingenerator.com/condition-sets
 - https://courses.theartoftrading.com/pages/pine-script-mastery-source-code
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
@@ -300,8 +314,13 @@
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
 - https://www.tradingview.com/script/DoOd6evK-Nadaraya-Watson-Envelope-Modified-by-Yosiet/
 - https://www.tradingview.com/script/QxyeMuEC-MIDAS-VWAP-Jayy/
+- https://www.tradingview.com/script/NEcbTvWX-Autoview-Ultimate-strategy-builder/
+- https://www.tradingview.com/u/SkyHighTA/#published-scripts
 
-## TOOLS: TRADINGVIEW: CANDLESTICK
+## TOOLS: TRADINGVIEW: INDICATORS ALL
+- https://www.tradingview.com/script/7VCv22aq-Base-Finder/
+
+## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
 - https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/
 - https://www.tradingview.com/script/OsTuKG4q-All-Candlestick-Patterns-on-Backtest-By-MUQWISHI/
 - https://zenandtheartoftrading.com/pinescript/how-to-detect-candle-patterns/
@@ -514,6 +533,7 @@
 - https://github.com/quantrocket-llc *
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
+- https://github.com/jpolec/order_book
 - https://github.com/okxapi/python-okx
 - https://github.com/jealous/stockstats *
 - https://github.com/ranaroussi/qtpylib
@@ -521,6 +541,7 @@
 - https://github.com/jrmeier/fast-trade *
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/Lumiwealth/lumibot
+- https://github.com/michaelchu/optopsy
 - https://github.com/enzoampil/fastquant
 - https://github.com/cvxgrp/cvxportfolio *
 - https://github.com/wardbradt/peregrine
@@ -538,9 +559,11 @@
 - https://github.com/je-suis-tm/quant-trading *
 - https://github.com/fmzquant/backtest_python * 
 - https://github.com/kelvinau/crypto-arbitrage
+- https://github.com/edeng23/binance-trade-bot
 - https://github.com/devfinwiz/Fin-Maestro-Web
 - https://github.com/robcarver17/pysystemtrade *
 - https://github.com/CryptoSignal/Crypto-Signal
+- https://github.com/samre12/deep-trading-agent
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/bitfinexcom/bitfinex-api-py
 - https://github.com/Crypto-toolbox/HFT-Orderbook
@@ -566,6 +589,7 @@
 - https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
+- https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy
 - https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
@@ -573,6 +597,7 @@
 - https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku
 - https://www.qmr.ai/building-a-backtesting-framework-in-python-part-ii/
 - https://medium.com/@crisvelasquez/8-trading-indicators-in-python-you-never-heard-of-4d3a043dda95
+- https://pyquantnews.com/backtest-powerful-intraday-trading-strategies/
 
 ### OSS: PYTHON: OCTOBOT
 - https://github.com/Drakkar-Software/OctoBot

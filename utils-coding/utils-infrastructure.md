@@ -31,9 +31,10 @@
 - https://github.com/h5bp/server-configs-apache
 
 ## DASHBOARD
+- https://github.com/Lissy93/dashy
+- https://github.com/causefx/Organizr
 - https://github.com/bastienwirtz/homer
 - https://github.com/linuxserver/Heimdall
-- https://github.com/causefx/Organizr
 
 ## WORFLOW
 - https://github.com/ansible/ansible

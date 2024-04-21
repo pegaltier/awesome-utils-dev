@@ -157,9 +157,13 @@
 - https://github.com/unjs/ofetch
 - https://github.com/fromdeno/deno2node
 
+## LIBS: TESTING
+- https://github.com/ladjs/supertest
+
 ## LIBS: SSE / SERVER SENT EVENT
 - https://github.com/adonisjs/transmit
 - https://github.com/MatthewWid/better-sse
+- https://github.com/event-driven-io/emmett
 - https://github.com/max-mapper/mississippi
 - https://github.com/sindresorhus/get-stream
 - https://github.com/max-mapper/concat-stream
@@ -219,6 +223,7 @@
 - https://github.com/ndaidong/flat-db
 - https://github.com/twinlogix/typetta
 - https://github.com/microlinkhq/keyvhq
+- https://github.com/bruin-data/ingestr
 - https://github.com/typegoose/typegoose
 - https://github.com/liberation-data/drivine
 - https://github.com/w3tecch/typeorm-seeding

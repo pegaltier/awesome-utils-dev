@@ -994,6 +994,7 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/nartc/ng-signals-conduit
 - https://angular-signals.netlify.app/
 - https://www.angulararchitects.io/aktuelles/angular-signals-your-architecture-5-options/
+- https://www.angulararchitects.io/en/blog/component-communication-with-signals-inputs-two-way-bindings-and-content-view-queries/
 
 ## CORE: ERROR HANDLER
 
@@ -1886,6 +1887,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/expertly-simple/angular-evergreen
 - https://github.com/dot-build/angular-serve-and-run
 - https://github.com/AleksanderBodurri/shield-maker
+- https://github.com/danielglejzner/ng16-dep-audit
 - https://github.com/nitedani/vite-plugin-angular
 - https://github.com/angular-experts-io/terminal
 - https://github.com/angular-experts-io/ng-parsel
@@ -3434,6 +3436,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://blog.angular.io/angular-v14-is-now-available-391a6db736af
 - https://www.lucaspaganini.com/academy/whats-new-in-angular-14
 - https://dev.to/this-is-angular/angular-revisited-standalone-angular-applications-the-replacement-for-ngmodules-238m
+- https://dev.to/this-is-angular/how-do-i-test-and-mock-standalone-components-508e
 - https://www.youtube.com/watch?v=kE_zr5ZiPWc Standalone Components w/ Alex Rickabaugh
 
 ## ANGULAR13

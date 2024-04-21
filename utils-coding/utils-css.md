@@ -8,6 +8,7 @@
 - https://animista.net/
 - https://neumorphism.io
 - https://justcode.today/
+- https://neat.firecms.co/
 - https://ui-snippets.dev/
 - https://supportscss.dev/
 - https://shadows.brumm.af/
@@ -46,6 +47,7 @@
 - https://github.com/csswizardry/ct
 - https://web.dev/font-best-practices/
 - https://github.com/getbem/awesome-bem
+- https://kyleshevlin.com/no-outer-margin/
 - https://github.com/necolas/idiomatic-css
 - https://github.com/philipwalton/flexbugs
 - https://github.com/samanthaming/Flexbox30

@@ -233,6 +233,7 @@
 
 ## HARDWARE WALLET
 - https://trezor.io
+- https://tangem.com
 - https://www.ledger.fr
 - https://shiftcrypto.ch
 - https://www.keepkey.com

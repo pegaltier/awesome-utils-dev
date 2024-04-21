@@ -47,3 +47,20 @@ const res = await mapInGroups(arr, async (v) => {
 	console.log(`F ${v}`);
 	return v + 1;
 }, 3);
+
+
+
+// https://stackoverflow.com/questions/58615246/recursive-filter-on-nested-array
+function recursiveFilter(array, fn) {
+        return array.reduce((r, o) => {
+            var children = filter(o.children || [], fn);
+            if (fn(o) || children.length) r.push(Object.assign({}, o, children.length && { children }));
+            return r;
+        }, []);
+    }
+/*
+var data = [{ name: 'bob', type: 1, children: [{ name: 'bob', type: 2, children: [{ name: 'mike', type: 3, children: [{ name: 'bob', type: 7 }, { name: 'same', typ: 9 }] }] }, { name: 'mike', type: 2 }] }],
+result = filter(data, ({ name }) => name.toLowerCase() === 'bob');
+
+console.log(result);
+    */

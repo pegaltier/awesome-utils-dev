@@ -426,6 +426,7 @@
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/micromark/micromark
+- https://github.com/mozilla/readability
 - https://github.com/cheeriojs/cheerio
 - https://github.com/fb55/htmlparser2
 - https://github.com/xmldom/xmldom
@@ -717,7 +718,6 @@
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
 - https://github.com/mjbrisebois/js-bytes-class
-- https://github.com/AsyncBanana/microdiff
 - https://github.com/mjbrisebois/js-json
 - https://github.com/quicktype/quicktype
 - https://github.com/blitz-js/superjson
@@ -726,6 +726,12 @@
 - https://github.com/pmndrs/valtio
 - https://github.com/json5/json5
 - https://github.com/eemeli/yaml
+
+## LIB: DATA OBJECT DIFF
+- https://github.com/mattphillips/deep-object-diff
+- https://github.com/jpggvilaca/deep-diff-object
+- https://github.com/AsyncBanana/microdiff
+
 
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js

@@ -4,6 +4,7 @@
 ## Web
 
 - https://tally.so/
+- https://pimeyes.com/en
 - https://www.tldraw.com/
 - https://owncast.online/
 - https://oscarleo.com/google-trends
@@ -135,6 +136,7 @@
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/neiesc/awesome-minimalist
 - https://github.com/alexanderisora/startuptoolbox
+- https://github.com/piotrkulpinski/openalternative
 - https://github.com/btw-so/open-source-alternatives
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://github.com/quadeare/selfhosted-software-list

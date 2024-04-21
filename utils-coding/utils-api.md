@@ -110,6 +110,7 @@
 - https://github.com/taskforcesh/bullmq
 - https://github.com/streamdal/streamdal
 - https://github.com/felixmosh/bull-board
+- https://github.com/redpanda-data/redpanda/
 
 ## OTHERS
 - https://aip.dev
@@ -120,6 +121,7 @@
 - https://github.com/thevahidal/soul
 - https://tools.ietf.org/html/rfc6749
 - https://www.quickdatabasediagrams.com
+- https://github.com/temporalio/temporal
 - https://github.com/bitloops/bitloops-language
 
 ## ARTICLES

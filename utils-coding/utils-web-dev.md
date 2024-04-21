@@ -237,6 +237,7 @@
 - http://jsawards.org/
 - http://bestof.js.org/
 - https://divriots.com/
+- https://www.navbar.gallery/
 - https://www.frontendpractice.com/
 
 ## PLUGINS
@@ -610,6 +611,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/
 - https://github.com/Ritika-Agrawal811/css-and-js-code-snippets
 - https://martinlaxenaire.medium.com/portfolio-2021-technical-case-study-rendering-a-whole-html-website-in-webgl-1cd2982c2050
+- https://tympanus.net/codrops/2024/02/28/exploring-3d-effects-with-2d-optical-illusions/
 
 ## CREATIVE COURSES
 - https://www.youtube.com/watch?v=zVbLR7rI8ZU David Khourshid - Behind the Illusions: Impossibly high-performance layout animations

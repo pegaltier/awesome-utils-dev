@@ -113,6 +113,7 @@
 - https://github.com/crate/crate
 - https://github.com/zxing/zxing
 - https://github.com/my2iu/Jinq
+- https://github.com/ta4j/ta4j
 
 ## LIBS: TOOLS
 - https://github.com/shyiko/jabba
