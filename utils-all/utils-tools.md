@@ -97,6 +97,8 @@
 - https://github.com/vasanthv/talk
 - https://github.com/mfts/papermark
 - https://github.com/calcom/cal.com
+- https://github.com/CapSoftware/cap
+- https://github.com/makeplane/plane
 - https://github.com/metamaps/metamaps
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo

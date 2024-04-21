@@ -45,7 +45,8 @@
 - https://www.quantinsti.com/
 - https://www.quantscience.io/
 - https://allocatesmartly.com/
-- https://www.quantivealpha.com/    
+- https://www.quantivealpha.com/
+- https://concretumresearch.com/
 - https://quantifiableedges.com/
 - https://thesystematictrader.com/
 - https://alvarezquanttrading.com/
@@ -63,6 +64,7 @@
 - https://trade.collective2.com/
 - https://algotradinginfo.com/
 - https://marketscripters.com/
+- https://www.quantstart.com/
 - https://www.tokode.com/
 - https://aresquant.com/
 - https://www.algome.in/
@@ -124,6 +126,7 @@
 - https://eodhistoricaldata.com/
 - https://http-docs.thetadata.us/
 - https://www.cryptoarchive.com.au/ *
+- https://site.financialmodelingprep.com/ *
 - https://data.nasdaq.com/databases/RTAT
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
@@ -194,11 +197,13 @@
 
 ## TOOLS: ONLINE
 - https://www.realcharts.app/
+- https://cryptoquant.com/
 
 ## TOOLS: SCREENING / NEWS
 - https://www.zacks.com/
 - https://deepvue.com/
 - https://www.smartcharts.net/
+- https://www.portfolio123.com/
 
 ## TOOLS: TRADE EXEC / BROKER
 - https://www.xtb.com
@@ -217,6 +222,9 @@
 - https://www.tickertape.in/
 - https://www.algofox.in/
 - https://www.quantprogram.com/
+
+## TOOLS: ALERTS
+- https://saraltrader.com/
 
 ## TOOLS: BOTS 
 - https://sofex.io/
@@ -261,6 +269,7 @@
 
 ## TOOLS: PORTFOLIO
 - https://collective2.com/my/K6Q9FDJ8A
+- https://www.tradezella.com/
 - https://kinfo.com/
 
 ## TOOLS: TRADINGVIEW: CODING
@@ -337,6 +346,7 @@
 - https://market-wizard.com.au/
 - https://www.pineconnector.com/
 - https://algotradingbridge.in/
+- https://tradingwebhookz.com/
 - https://www.webhookser.com
 - https://www.stalexbot.com/
 - https://wundertrading.com
@@ -529,6 +539,7 @@
 
 ### OSS: PYTHON
 - https://github.com/vollib/vollib
+- https://github.com/8W9aG/fullmonte
 - https://github.com/skfolio/skfolio *
 - https://github.com/quantrocket-llc *
 - https://github.com/polakowo/vectorbt *
@@ -542,6 +553,8 @@
 - https://github.com/ssantoshp/Wizardry
 - https://github.com/Lumiwealth/lumibot
 - https://github.com/michaelchu/optopsy
+- https://github.com/suchak1/hyperdrive
+- https://github.com/beatzxbt/bybit-smm
 - https://github.com/enzoampil/fastquant
 - https://github.com/cvxgrp/cvxportfolio *
 - https://github.com/wardbradt/peregrine
@@ -553,7 +566,7 @@
 - https://github.com/ivopetiz/algotrading *
 - https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
-- https://github.com/ranaroussi/quantstats
+- https://github.com/ranaroussi/quantstats *
 - https://github.com/blankly-finance/blankly
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/je-suis-tm/quant-trading *
@@ -572,7 +585,8 @@
 - https://github.com/DogsTailFarmer/martin-binance
 - https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr * 
-- https://github.com/nautechsystems/nautilus_trader
+- https://github.com/nautechsystems/nautilus_trader *
+- https://github.com/hudson-and-thames/arbitragelab *
 - https://github.com/51bitquant/binance_grid_trader
 - https://github.com/hackobi/AI-Scalpel-Trading-Bot
 - https://github.com/alpacahq/alpaca-backtrader-api
@@ -586,6 +600,7 @@
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM
 - https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/conor19w/Binance-Futures-Trading-Bot
+- https://github.com/CacheMoneyPlaya/cointegration-pair-v1
 - https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
@@ -597,6 +612,7 @@
 - https://github.com/hackingthemarkets/tradingview-alpaca-strategy-alert-webhook-heroku
 - https://www.qmr.ai/building-a-backtesting-framework-in-python-part-ii/
 - https://medium.com/@crisvelasquez/8-trading-indicators-in-python-you-never-heard-of-4d3a043dda95
+- https://www.quantstart.com/articles/market-regime-detection-using-hidden-markov-models-in-qstrader/
 - https://pyquantnews.com/backtest-powerful-intraday-trading-strategies/
 
 ### OSS: PYTHON: OCTOBOT
@@ -631,6 +647,7 @@
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/chalupagrande/backtester
+- https://github.com/tiagosiebler/bitmart-api
 - https://github.com/bennycode/trading-signals
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
@@ -675,6 +692,9 @@
 
 ## SOCIAL
 - https://www.andlil.com/forum/
+
+## PODCAST
+- https://www.acquired.fm/episodes/renaissance-technologies
 
 ## FMZ
 - https://www.fmz.com/strategy/359806 *

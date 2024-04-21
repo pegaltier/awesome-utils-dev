@@ -1013,6 +1013,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://www.youtube.com/watch?v=S0LxogWSMzE
 - https://www.youtube.com/watch?v=7JucMlrs3dQ
 - https://dev.to/rfornal/bad-test-bad-1og7
+- https://dev.to/this-is-angular/unit-testing-in-angular-170l ***
 - https://dev.to/ryanlanciaux/better-testing-with-storybook-3fn
 - https://dev.to/this-is-angular/how-do-i-test-using-the-routertestingharness-28a0
 - https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/
@@ -3421,6 +3422,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://riegler.fr/blog/2024-01-11-zoneless-preview
 - https://www.angularaddicts.com/p/angular-addicts-23-angular-17-2-signal-forms
 - https://blog.angular.io/signal-inputs-available-in-developer-preview-6a7ff1941823
+- https://blog.ninja-squad.com/2024/03/13/what-is-new-angular-17.3/
 
 ### ANGULAR16
 - https://indepth.dev/posts/1519/router-data-as-components-inputs-in-angular-v16

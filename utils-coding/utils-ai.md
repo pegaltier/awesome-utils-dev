@@ -48,6 +48,7 @@
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 
 ## TOOLS: PROMPT
+- https://pi.ai/
 - https://webllm.mlc.ai/
 - https://www.phind.com/
 - https://chat.openai.com/
@@ -93,6 +94,7 @@ https://github.com/platformatic/mistral-client
 
 ## TOOLS: CODING
 - https://v0.dev/
+- https://keak.com/
 - https://cursor.sh/
 - https://debuild.co/
 - https://www.devgpt.com/
@@ -119,6 +121,7 @@ https://github.com/platformatic/mistral-client
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
 ## TOOLS: TEXT / DOCS
+- https://pdf.ai/
 - https://www.taglines.ai/
 - https://www.simplify.so/
 - https://www.jasper.ai/
@@ -156,6 +159,7 @@ https://github.com/platformatic/mistral-client
 - https://github.com/leptonai/search_with_lepton
 
 ## TOOLS: FINANCE
+- https://gptstonks.net/
 - https://github.com/FutureSharks/ml-finance
 
 ## IMAGES API
@@ -172,6 +176,7 @@ https://github.com/platformatic/mistral-client
 - https://ollama.ai/
 
 ## CRYPTO
+- https://www.sharpe.ai/
 - https://power.netmind.ai/
 - https://www.crypticorn.com/
 

@@ -18,6 +18,7 @@
 - https://www.digitaloptgroup.com/
 - https://www.growthbook.io/
 - https://launchdarkly.com/
+- https://configcat.com/
 
 ## VIDEO
 - https://vimeo.com/

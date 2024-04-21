@@ -120,6 +120,12 @@
 ## Strat: Rsi short term
 - When RSI (2 or 3 period) goes below 10 or 20 bullish and bearish when RSI goes above 80 or 90. it works well on indices like SPX500 https://www.youtube.com/watch?v=Qo62oiT0xdg
 
+## Strat: Rsi trend following
+- Tested on BTC
+- Entry: RSI(7) > 80 AND MA(BTC,50) > C
+- Exit: RSI(7) <70
+- https://robuxio.com/algorithmic-crypto-trading-xii-building-a-profitable-crypto-trading-strategy/
+
 ## Strat: Breakout
 - https://www.youtube.com/watch?v=r7gzyEnPTwg Breakout Trading using the Richard Donchian Channel strategy
 - this system inspired many strategies like the turle trader

@@ -21,6 +21,7 @@
 - https://l2beat.com
 - https://vfat.tools
 - https://realtps.net
+- https://www.gas.zip
 - https://coin360.com
 - https://datalight.me
 - https://coinalyze.net
