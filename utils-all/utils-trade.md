@@ -328,6 +328,7 @@
 
 ## TOOLS: TRADINGVIEW: INDICATORS ALL
 - https://www.tradingview.com/script/7VCv22aq-Base-Finder/
+- https://www.tradingview.com/script/I9yPY5x6-Asset-Rotation-Aperture/
 
 ## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
 - https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/

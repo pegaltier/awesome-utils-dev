@@ -54,6 +54,7 @@
 - https://chat.openai.com/
 - https://copilot.microsoft.com/
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
+- https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/typescript
 
 ## TOOLS: PROMPT: OSS
 https://github.com/platformatic/mistral-client
