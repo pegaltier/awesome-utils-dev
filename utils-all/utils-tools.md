@@ -157,6 +157,8 @@
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/blacksmithgu/obsidian-dataview
 - https://github.com/learn-anything/learn-anything.xyz
+- https://github.com/dsebastien/obsidian-plugin-template
+- https://github.com/nikdanilov/whisper-obsidian-plugin
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
 
 ## Automate / automation

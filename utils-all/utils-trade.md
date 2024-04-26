@@ -118,13 +118,15 @@
 - https://databento.com/
 - https://tradermade.com/
 - https://syve.readme.io
-- https://www.coinapi.io/
+- https://www.coinapi.io/ *
 - https://docs.kraken.com/
 - https://crypto-lake.com/
 - https://norgatedata.com/
 - https://www.alphavantage.co/
 - https://eodhistoricaldata.com/
+- https://coinlayer.com/product *
 - https://http-docs.thetadata.us/
+- https://www.coingecko.com/en/api
 - https://www.cryptoarchive.com.au/ *
 - https://site.financialmodelingprep.com/ *
 - https://data.nasdaq.com/databases/RTAT
@@ -135,6 +137,8 @@
 - https://data.world/crispydata/bitcoin-historical-data
 - https://fuserleer.online/exchange_data/
 - https://www.youtube.com/watch?v=myydDX-us4o
+- https://mixedanalytics.com/knowledge-base/top-free-crypto-apis/ *
+- https://github.com/CoinQuanta/awesome-crypto-api
 - https://github.com/Zdong104/FNSPID_Financial_News_Dataset
 - https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
 - https://data.coinbase.com/?packageFilter=ohlcv-hourly

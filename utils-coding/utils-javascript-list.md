@@ -276,6 +276,7 @@
 
 - https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2
 - https://gist.github.com/pomber/24b8286282ec10cc015a591d9f237b26
+- https://github.com/dmnd/dedent
 - https://github.com/JSMonk/hegel
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
@@ -601,6 +602,7 @@
 - https://github.com/alyssaxuu/mapus
 - https://github.com/Leaflet/Leaflet
 - https://github.com/openlayers/openlayers
+- https://github.com/tinyworldmap/tiny-world-map
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
 ## LIB: DATAVIZ / CHART / WORKFLOW / DATA VIZ

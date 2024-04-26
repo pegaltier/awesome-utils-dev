@@ -216,6 +216,9 @@ https://github.com/platformatic/mistral-client
 - https://github.com/SuperDuperDB/superduperdb
 - https://github.com/postgresml/postgresml
 
+## LIB: NEURAL NETWORK
+- https://github.com/apple/corenet
+
 ## LIB: GPT
 - https://github.com/imoneoi/openchat
 - https://github.com/LouisShark/chatgpt_system_prompt
