@@ -25,6 +25,7 @@
 
 ## CHANNEL
 - https://www.youtube.com/@ai-tools-search
+- https://www.youtube.com/@NicholasRenotte
 - https://www.youtube.com/@AI.Genesis
 
 ## AWESOME

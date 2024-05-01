@@ -309,8 +309,12 @@ The classic moving average is generating a lot of whipsaws so you can add an ext
 - https://stockcharts.com/articles/mailbag/2011/02/how-can-i-reduce-indicator-whipsaws-using-the-percentage-price-oscillator-to-filter-moving-average-s.html
 - http://www.traderslaboratory.com/forums/topic/6999-reducing-whipsaws-two-simple-methods/
 
-## AI
-- https://www.patreon.com/posts/update-beta-2-0-95632796  Lorentzian Classification Beta [2.0
+## AI: ARTIFICIAL INTELLIGENCE / MACHINE LEARNING
+- https://www.patreon.com/posts/update-beta-2-0-95632796  Lorentzian Classification Beta [2.0]
+- https://www.youtube.com/watch?v=DnJDVc7loA0 QuantProgram How Machine Learning/AI Traders Beats Retail Traders with Example Strategy for Beginners
+- https://www.youtube.com/watch?v=c9OjEThuJjY Nicholas Renotte
+ - How to Code a AI Trading bot (so you can make $$$)
+
 
 ## OBV
 
