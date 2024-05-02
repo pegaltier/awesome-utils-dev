@@ -34,6 +34,7 @@
 ## SITES
 - https://capriole.com/
 - https://autoview.com/
+- https://www.quantra.ai/
 - https://openbb.co/blog/
 - https://quantpedia.com/
 - https://robotjames.com/
@@ -239,11 +240,14 @@
 - https://www.kryll.io/
 - https://napoleonx.ai/
 - https://warp-bots.com/
+- https://speedbot.tech/
 - https://www.shrimpy.io/
 - https://goat-capital.io/
 - https://www.napbots.com/
 - https://www.surmount.ai/
 - https://remorawealth.com/
+- https://www.vestinda.com/
+- https://www.stalexbot.com/
 - https://3c.crypttops.com/
 - https://stackedinvest.com/
 - https://tradingstrategy.ai/
@@ -320,7 +324,6 @@
 - https://github.com/dearvn/trading-futures-tradingview-script
 - https://www.tradingview.com/u/Steversteves/#published-scripts
 - https://www.tradingview.com/u/ROBO_Trading/#published-scripts
-- https://www.tradingview.com/script/pgTMZg6w-Lorentzian-Classification-Beta/
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
@@ -329,6 +332,20 @@
 - https://www.tradingview.com/script/QxyeMuEC-MIDAS-VWAP-Jayy/
 - https://www.tradingview.com/script/NEcbTvWX-Autoview-Ultimate-strategy-builder/
 - https://www.tradingview.com/u/SkyHighTA/#published-scripts
+
+## TOOLS: TRADINGVIEW: INDICATORS AI
+- https://www.tradingview.com/script/Fo1R6YBx/ PCA
+- https://www.tradingview.com/scripts/adaptivelookback/
+- https://www.tradingview.com/script/VPAKmSkt-Endpointed-SSA-of-Price-Loxx/
+- https://www.tradingview.com/script/pgTMZg6w-Lorentzian-Classification-Beta/
+
+## TOOLS: TRADINGVIEW: INDICATORS KERNEL
+- https://www.tradingview.com/v/Iko0E2kL/
+- https://www.tradingview.com/script/e0Ek9x99-KernelFunctions/
+- https://www.tradingview.com/script/WeLssFxl-Nadaraya-Watson-Envelope-Non-Repainting/
+- https://www.tradingview.com/script/AWNvbPRM-Nadaraya-Watson-Rational-Quadratic-Kernel-Non-Repainting/
+- https://www.tradingview.com/script/QbkEr6o9-Triple-Confirmation-Kernel-Regression-Overlay-QuantraAI/
+- https://www.tradingview.com/script/tQ7O9bpf-Triple-Confirmation-Kernel-Regression-Base-QuantraAI/
 
 ## TOOLS: TRADINGVIEW: INDICATORS ALL
 - https://www.tradingview.com/script/7VCv22aq-Base-Finder/
@@ -405,6 +422,7 @@
 - https://github.com/topics/pinescript?o=desc&s=updated
 - https://github.com/topics/pinescript-strategies
 - https://github.com/topics/tradingview-alert
+- https://github.com/AlgoETS/TradingViewBuilder
 - https://github.com/Heavy91/TradingView_Indicators
 - https://github.com/pAulseperformance/awesome-pinescript *
 - https://github.com/pinecoders/tradingview-pinescript-indicators
