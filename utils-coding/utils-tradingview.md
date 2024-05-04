@@ -93,6 +93,14 @@ emaValue2= f_sec(market, res2, ema)
 emaValue3 = f_sec(market, res3, ema)
 ```
 
+## Multi time frame DAILY OHLC
+
+[do,dh,dl] = request.security(syminfo.tickerid, 'D', [open, high, low], lookahead=barmerge.lookahead_on)
+plot(dh, title="High", color=color.red,    linewidth=2, trackprice=true)
+plot(do, title="Open", color=color.yellow, linewidth=2, trackprice=true)
+plot(dl, title="Low",  color=color.green,  linewidth=2, trackprice=true)
+
+
 ## Multi Moving average function
 
 ```javascript

@@ -50,6 +50,7 @@ http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforme
 
 ## Flight
 - https://airlinelist.com/
+
 ## Car 
 - https://carmarket.ch/fr
 - https://www.carify.com/
@@ -57,6 +58,7 @@ http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforme
 
 ## Swiss
 
+- https://hotelcard.ch/en
 - https://www.les-bisses-du-valais.ch/fr/
 - https://www.blick.ch/fr/well/a-tester-en-famille-ces-5-magnifiques-balades-en-valais-vous-feront-aimer-lhiver-id19216253.html
 - https://ulysse.com/news/voyager-en-train-panoramique-a-travers-la-suisse-top-5-des-itineraires-a-decouvrir
