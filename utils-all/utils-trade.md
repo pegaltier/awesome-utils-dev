@@ -313,6 +313,7 @@
 - https://www.tradingview.com/pine-script-docs/en/v4/language/Operators.html
 - https://www.tradingview.com/pine-script-docs/en/v5/concepts/Plots.html
 - https://stackoverflow.com/questions/48656195/what-is-the-equivalent-of-console-log-in-pine-script
+- https://medium.com/@rushic24/how-i-webscraped-1-minute-stock-data-from-tradingview-5bc9b4a823a9
 
 ## TOOLS: TRADINGVIEW: SERVICES
 - https://www.pinescriptstrategies.com/
@@ -434,6 +435,7 @@
 - https://github.com/martinshane/pinescript5
 - https://github.com/harryguiacorn/tradingview
 - https://github.com/ricardosantos79/pinescript
+- https://github.com/0xrushi/tradingview-scraper
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Alorse/pinescript-strategies
 - https://github.com/ADWilkinson/pinescript-indicators
@@ -590,6 +592,7 @@
 - https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ranaroussi/quantstats *
+- https://github.com/letianzj/QuantResearch *
 - https://github.com/blankly-finance/blankly
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/je-suis-tm/quant-trading *

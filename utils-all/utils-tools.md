@@ -63,6 +63,7 @@
 - https://github.com/immich-app/immich
 - https://github.com/electerious/Lychee
 - https://github.com/photoprism/photoprism
+- https://github.com/TagStudioDev/TagStudio
 
 ## OSS: VIDEO
 - https://github.com/fonoster/goodtok

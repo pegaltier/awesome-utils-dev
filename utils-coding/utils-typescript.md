@@ -19,6 +19,7 @@
 - https://github.com/microsoft/TypeScript-Handbook
 - https://github.com/labs42io/clean-code-typescript
 - https://github.com/type-challenges/type-challenges
+- https://www.totaltypescript.com/tsconfig-cheat-sheet
 - https://github.com/DanWahlin/typescript-fundamentals
 - https://github.com/santoshyadavdev/typescript-basics
 - https://github.com/microsoft/TypeScript-New-Handbook
@@ -47,6 +48,7 @@ npm init
 - https://tsdocs.dev
 - http://json2ts.com
 - https://tsdiagram.com
+- https://tsconfig.guide
 - https://ts-ast-viewer.com
 
 ## USEFUL

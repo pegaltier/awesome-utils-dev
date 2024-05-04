@@ -128,6 +128,7 @@
 - https://github.com/open-sauced/app
 - https://github.com/stoeffel/awesome-fp-js
 - https://github.com/sorrycc/awesome-javascript
+- https://github.com/stars/IKatsuba/lists/tools
 - https://github.com/sindresorhus/awesome-electron
 - https://github.com/selfrefactor/useful-javascript-libraries
 
@@ -320,6 +321,7 @@
 - https://github.com/danrevah/segal-decorators
 - https://github.com/mgechev/data-adapter
 - https://github.com/francisrstokes/super-expressive
+- https://github.com/sindresorhus/environment
 - https://github.com/stalniy/casl
 - https://github.com/nas5w/combinate
 - https://github.com/vvo/tzdb/
@@ -422,12 +424,13 @@
 ## LIB: PAYMENT
 - https://github.com/lmsqueezy/lemonsqueezy.js
 
-## LIB: PARSER HTML/XML/JSON
+## LIB: PARSER HTML/XML/JSON/DOM
 - https://github.com/beenotung/best-effort-json-parser
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/micromark/micromark
 - https://github.com/mozilla/readability
+- https://github.com/sindresorhus/domify
 - https://github.com/cheeriojs/cheerio
 - https://github.com/fb55/htmlparser2
 - https://github.com/xmldom/xmldom
@@ -457,6 +460,7 @@
 - https://github.com/bvaughn/js-search
 - https://github.com/comunica/comunica
 - https://github.com/olivernn/lunr.js
+- https://github.com/askorama/orama
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
@@ -582,12 +586,15 @@
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
 
-## LIB: ANIMATION
+## LIB: FRONTEND SPREADSHEET
+- https://github.com/exceljs/exceljs
+
+## LIB: FRONTEND ANIMATION
 - https://github.com/Popmotion/popmotion
 - https://github.com/juliangarnier/anime
 - https://github.com/prjct-samwest/scrollCue
 
-## LIB: COLOR
+## LIB: FRONTEND COLOR
 - https://github.com/fast-average-color/fast-average-color
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/nextcss/color-tools
@@ -597,6 +604,8 @@
 - https://github.com/simonwep/pickr
 - https://github.com/Qix-/color
 
+## LIB: FRONTEND GESTURE
+- https://github.com/pmndrs/use-gesture
 
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus
@@ -720,6 +729,7 @@
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
 - https://github.com/mjbrisebois/js-bytes-class
+- https://github.com/mweidner037/list-positions
 - https://github.com/mjbrisebois/js-json
 - https://github.com/quicktype/quicktype
 - https://github.com/blitz-js/superjson

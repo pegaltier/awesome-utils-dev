@@ -2802,6 +2802,9 @@ Add a progressbar for displaying a loader during the different async task like h
 ## ECOSYSTEM: LIB: CRYPTO
 - https://github.com/heavy-duty/wallet-adapter
 
+## ECOSYSTEM: LIB: RPC
+- https://github.com/smnbbrv/ngx-grpc
+
 ## ECOSYSTEM: LIB: GEOLOCATION
 
 - https://github.com/ng-web-apis/geolocation

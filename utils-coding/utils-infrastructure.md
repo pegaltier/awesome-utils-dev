@@ -11,6 +11,7 @@
 - https://github.com/stephrobert/awesome-french-devops
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/bregman-arie/devops-exercises
+- https://github.com/awesome-foss/awesome-sysadmin
 - https://github.com/mikeroyal/Self-Hosting-Guide
 - https://github.com/nubenetes/awesome-kubernetes
 - https://github.com/christianlempa/boilerplates
@@ -158,6 +159,7 @@
 - https://github.com/whitfin/s3-utils
 - https://github.com/dwyl/learn-aws-lambda
 - https://github.com/localstack/localstack
+- https://github.com/vibe-io/cdk-extensions
 - https://github.com/teamplanes/aws-blackbox
 
 ## JENKINS

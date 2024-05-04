@@ -85,7 +85,13 @@
 
 ## LEVERAGE
 
-- leveraged position can be used only after a big correction like minus 30% and use only a small leverage such as x2 or x3, it will helps reduce your stress.
+- leveraged position can be good only after a big correction like minus 30% and use only a small leverage such as x2 or x3, it will helps reduce your stress. And also it's good to keep legeraged open positions only the minimum amount of times because most of the time you have to pay fees everyday
+
+## SKEW
+
+Skewness is a statistical measure of the asymmetry of the returns in a frequency histogram. Bitcoin
+returns exhibit a positive skew (right-skew). This becomes especially apparent when compared to other assets. This is where the tail is longer on the right-hand side and indicates the greatest benefit of Bitcoin as an investment vehicle,
+especially in the longer (1-month) timeframe.
 
 ## TURNING POINT
 
@@ -385,6 +391,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@seriousbacktester Serious Backtester
 - https://www.youtube.com/@TheArtOfTrading The Art of Trading
 - https://www.youtube.com/@PeakTradingResearch Peak Trading Research
+- https://www.youtube.com/@BetterTraderAcademy Better Trader Academy
 - https://www.youtube.com/@StatOasis StatOasis
 - https://www.youtube.com/@TradingTact Trading Tact
 - https://www.youtube.com/@FinancialWisdom Financial Wisdom

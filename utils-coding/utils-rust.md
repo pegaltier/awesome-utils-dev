@@ -7,6 +7,9 @@
 ## TOOLS
 - https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 
+## COURSES
+- https://github.com/google/comprehensive-rust
+
 ## SOFT
 - https://github.com/rustdesk/rustdesk
 

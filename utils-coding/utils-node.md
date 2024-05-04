@@ -140,7 +140,6 @@
 - https://github.com/kibertoad/toad-scheduler
 - https://github.com/microsoft/playwright
 - https://github.com/sindresorhus/got
-- https://github.com/expressjs/multer
 - https://github.com/ai/nanocolors
 - https://github.com/nodejs/undici
 - https://github.com/verdaccio/verdaccio
@@ -149,7 +148,6 @@
 - https://github.com/bengl/array-buffer-detach
 - https://github.com/microlinkhq/metascraper
 - https://github.com/calipersjs/calipers
-- https://github.com/piscinajs/piscina
 - https://github.com/humanwhocodes/fsx
 - https://github.com/Unitech/pm2
 - https://github.com/cacjs/cac
@@ -157,6 +155,10 @@
 - https://github.com/leeoniya/uFuzzy
 - https://github.com/unjs/ofetch
 - https://github.com/fromdeno/deno2node
+
+## LIBS: WORKER THREAD
+- https://github.com/piscinajs/piscina
+- https://github.com/tinylibs/tinypool
 
 ## LIBS: TESTING
 - https://github.com/ladjs/supertest
@@ -265,7 +267,9 @@
 - https://github.com/kwhitley/itty-router-extras
 - https://github.com/YahooArchive/express-state
 - https://github.com/pcattori/hmr-from-scratch
+- https://github.com/RobinTail/express-zod-api
 - https://github.com/kwhitley/itty-router
+- https://github.com/expressjs/multer
 - https://github.com/Xiphe/cachified
 
 ## SERVER: INFRA

@@ -198,6 +198,7 @@
 - https://github.com/react-bootstrap/react-bootstrap
 - https://github.com/Semantic-Org/Semantic-UI-React
 - https://github.com/americanexpress/react-albus
+- https://github.com/blueedgetechno/win11React
 - https://github.com/pmndrs/react-three-flex
 - https://github.com/italia/design-react-kit
 - https://github.com/floating-ui/floating-ui
