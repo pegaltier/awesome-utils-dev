@@ -22,11 +22,13 @@
 - https://youtu.be/ky5ZB-mqZKM AI influencers are getting filthy rich... let's build one
 - https://youtu.be/zjkBMFhNj_g [1hr Talk] Intro to Large Language Models 
 - https://youtu.be/TRjq7t2Ms5I Building Production-Ready RAG Applications: Jerry Liu
+- https://youtu.be/-7NlxXlPxZA ChatGPT inside your Pine Script EDITOR! Algo trading
 
 ## CHANNEL
 - https://www.youtube.com/@ai-tools-search
 - https://www.youtube.com/@NicholasRenotte
 - https://www.youtube.com/@AI.Genesis
+- https://www.youtube.com/@AIJasonZ
 
 ## AWESOME
 - https://github.com/dair-ai
@@ -60,6 +62,9 @@
 
 ## TOOLS: PROMPT: OSS
 https://github.com/platformatic/mistral-client
+
+## TOOLS: SUPPORT
+- https://www.mendable.ai/
 
 ## TOOLS: ALL
 - https://mason.app/
@@ -220,6 +225,13 @@ https://github.com/platformatic/mistral-client
 
 ## LIB: NEURAL NETWORK
 - https://github.com/apple/corenet
+
+## LIB: DATA PARSER / RAG / CONTEXT
+- https://github.com/run-llama/llama_index
+- https://github.com/run-llama/llama_parse
+- https://github.com/langchain-ai/langgraph
+- https://github.com/mendableai/firecrawl
+- https://youtu.be/u5Vcrwpzoz8 Local Agentic RAG w/ llama3
 
 ## LIB: GPT
 - https://github.com/imoneoi/openchat

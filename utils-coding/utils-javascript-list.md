@@ -457,6 +457,8 @@
 ## LIB: SEARCH
 - https://github.com/elastic/app-search-javascript
 - https://github.com/elastic/elasticsearch-js
+- https://github.com/meilisearch/meilisearch
+- https://github.com/riccox/meilisearch-ui
 - https://github.com/bvaughn/js-search
 - https://github.com/comunica/comunica
 - https://github.com/olivernn/lunr.js
@@ -685,7 +687,7 @@
 - https://lumalabs.ai/luma-web-library
 - https://lumalabs.ai/
 
-## LIB: AI
+## LIB: AI / ARTIFICIAL INTELLIGENCE
 - https://github.com/fixie-ai/ai-jsx
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
@@ -694,6 +696,7 @@
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/danny-avila/LibreChat
 - https://github.com/xenova/transformers.js
+- https://github.com/langchain-ai/langgraph
 - https://github.com/facebookresearch/shumai
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/a16z-infra/ai-getting-started

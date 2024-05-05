@@ -33,7 +33,9 @@
 
 ## BUNDLER / BUILDER
 - https://github.com/yao-pkg/pkg
+- https://github.com/vitejs/vite
 - https://github.com/vercel/turbo
+- https://github.com/farm-fe/farm
 - https://github.com/huozhi/bunchee
 - https://github.com/privatenumber/tsx
 
@@ -177,6 +179,7 @@
 - https://stackoverflow.com/questions/33141012/how-to-mock-streams-in-nodejs
 
 ## LIBS: CRON
+- https://github.com/vwedesam/Cron-to-human
 - https://github.com/node-cron/node-cron
 - https://github.com/kelektiv/node-cron
 - https://github.com/cronhub/crontab

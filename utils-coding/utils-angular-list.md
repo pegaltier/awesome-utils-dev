@@ -986,6 +986,7 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/eneajaho/ngx-signal-experimental
 - https://github.com/timdeschryver/ng-signal-forms
 - https://github.com/nartc/ng-conduit-signals
+- https://github.com/eduardoRoth/signals-workshop
 - https://github.com/code-with-ahsan/ng-signals-wishlist
 - https://github.com/eduardoRoth/rick-and-morty-signals
 - https://github.com/sonusindhu/angular-signals-examples *
@@ -1102,6 +1103,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 ## ECOSYSTEM: STORE: NGRX
 
+- https://github.com/ngneat/query
 - https://github.com/ngrx/platform
 - https://github.com/co-IT/ngrx-ducks
 - https://github.com/co-IT/ngrx-vis
@@ -1963,6 +1965,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: HTTP
 
+- https://github.com/ngneat/query
 - https://github.com/ngneat/cashew
 - https://github.com/jscutlery/convoyr
 - https://github.com/fulls1z3/ngx-cache

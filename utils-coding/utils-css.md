@@ -39,6 +39,7 @@
 
 ## BEST PRACTIVES
 
+- https://open-props.style/
 - https://web.dev/learn/css/
 - https://complementary.space/
 - https://web.dev/color-scheme/
@@ -115,6 +116,7 @@
 - https://github.com/skovy/typed-scss-modules
 - https://github.com/emilkowalski/ui-snippets
 - https://github.com/SanderElias/open-props
+- https://github.com/argyleink/open-props
 
 ## TAILWIND
 

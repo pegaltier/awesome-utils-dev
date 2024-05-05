@@ -359,9 +359,10 @@
 
 ## TOOLS: TRADINGVIEW: AUTOMATE
 - https://www.tradingcode.net/tradingview/alert-auto-trade-services/
-- https://github.com/akumidv/tradingview-assistant-chrome-extension
-- https://chrome.google.com/webstore/detail/tradingview-assistant/pfbdfjaonemppanfnlmliafffahlohfg
-- https://chrome.google.com/webstore/detail/the-optimiser-tradingview/emcpjechgmpcnjphefjekmdlaljbiegp
+- https://github.com/akumidv/tradingview-assistant-chrome-extension **
+- https://github.com/OptiPie/tradingview-optimizer-extension *
+- https://chromewebstore.google.com/detail/tradingview-assistant/pfbdfjaonemppanfnlmliafffahlohfg *
+- https://chromewebstore.google.com/detail/the-optimiser-tradingview/emcpjechgmpcnjphefjekmdlaljbiegp *
 - https://chrome.google.com/webstore/detail/trading-power-tool/lkdjplnbloedllfgfjhefbnahognddjh?hl=en
 - https://chrome.google.com/webstore/detail/tradingview-strategy-find/jdepgjdjpmpjljfdcmnbjmafkbckkhko
 - https://learn.bybit.com/investing/how-to-use-tradingview/
@@ -378,6 +379,7 @@
 - https://fundingrate.io/
 - https://trigger.trade/
 - https://crypttops.com/
+- https://tradesage.co/ *
 - https://aleeert.com/
 - https://www.tv-hub.org/
 - https://alertatron.com/

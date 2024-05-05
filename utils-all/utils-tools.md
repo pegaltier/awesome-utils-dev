@@ -69,6 +69,9 @@
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
 
+## OSS: PDF
+- https://github.com/py-pdf/pypdf
+
 ## OSS: PASSWORD
 - https://github.com/drduh/Purse
 - https://github.com/drduh/pwd.sh
