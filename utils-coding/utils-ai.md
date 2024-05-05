@@ -334,21 +334,6 @@ https://github.com/platformatic/mistral-client
 - https://github.com/getzep/zep
 - https://github.com/01-ai/Yi
 
-## LIB: IMAGE
-- https://github.com/s0md3v/roop
-- https://github.com/openai/shap-e
-- https://github.com/upscayl/upscayl
-- https://github.com/katanaml/sparrow
-- https://github.com/Zeqiang-Lai/DragGAN
-- https://github.com/modelscope/facechain
-- https://github.com/facefusion/facefusion
-- https://github.com/TencentARC/PhotoMaker
-- https://github.com/Zejun-Yang/AniPortrait
-- https://github.com/SCUTlihaoyu/open-chat-video-editor
-- https://github.com/microsoft/generative-ai-for-beginners
-- https://github.com/AIAnytime/AI-News-Anchor-Generator-App
-- https://vcai.mpi-inf.mpg.de/projects/DragGAN/
-
 ## LIB: AUDIO
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/yl4579/StyleTTS2
@@ -362,15 +347,30 @@ https://github.com/platformatic/mistral-client
 - https://github.com/jianzhnie/awesome-text-to-video
 - https://github.com/hkchengrex/Tracking-Anything-with-DEVA
 
-## LIB: STABLE DIFFUSION
+## LIB: IMAGE / STABLE DIFFUSION
+- https://github.com/s0md3v/roop
 - https://github.com/deep-floyd/IF
-- https://github.com/lllyasviel/Fooocus
+- https://github.com/openai/shap-e
+- https://github.com/upscayl/upscayl
+- https://github.com/katanaml/sparrow
+- https://github.com/gradio-app/gradio *
+- https://github.com/lllyasviel/Fooocus *
+- https://github.com/Zeqiang-Lai/DragGAN
+- https://github.com/modelscope/facechain
 - https://github.com/Stability-AI/StableLM
+- https://github.com/facefusion/facefusion
+- https://github.com/TencentARC/PhotoMaker
+- https://github.com/mrhan1993/Fooocus-API
+- https://github.com/Zejun-Yang/AniPortrait
 - https://github.com/comfyanonymous/ComfyUI
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
+- https://github.com/SCUTlihaoyu/open-chat-video-editor
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui *
+- https://github.com/microsoft/generative-ai-for-beginners
+- https://github.com/AIAnytime/AI-News-Anchor-Generator-App
+- https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - https://github.com/magic-research/magic-animate
-- https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ## LIB: PREDICTION
 - https://github.com/unit8co/darts

@@ -664,6 +664,7 @@
 - https://github.com/ct-js/ct-js
 - https://github.com/Niekes/d3-3d
 - https://github.com/dagrejs/dagre
+- https://github.com/google/swissgl
 - https://github.com/skanaar/graphre
 - https://github.com/aframevr/aframe
 - https://github.com/CesiumGS/cesium
