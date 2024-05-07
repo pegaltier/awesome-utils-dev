@@ -418,6 +418,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@Algovibes Algovibes
 - https://www.youtube.com/@cryptorobotfr Crypto Robot
 - https://www.youtube.com/@neurotrader888 Neurotrader
+- https://www.youtube.com/@LuxAlgo LuxAlgo
 
 ## STRATEGY: YOUTUBE CHANNEL: CODING 2
 - https://www.youtube.com/@tradepro Trade Pro
