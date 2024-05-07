@@ -389,11 +389,16 @@
 - https://optipie.app/
 - https://www.bots.io/
 
-## VIDEOS
+## VIDEOS: ALL
 - https://www.youtube.com/watch?v=g9bmgvJkfmQ behavioral finance / cognitive bias (in french)
 - https://www.youtube.com/watch?v=u5YrIuQbfiU Bonds explaned
 - https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ Part Time Larry
 - https://www.youtube.com/watch?v=Jb8l989IzTE Algotrading Frameworks: Overview
+
+## VIDEOS: AI / ARTIFICIAL INTELLIGENCE
+- https://youtu.be/-7NlxXlPxZA ChatGPT inside your Pine Script EDITOR! Algo trading
+- https://youtu.be/6wK4q8QvsV4 Machine Learning Algorithms for Financial Markets
+- https://youtu.be/AdINVvnJfX4 Lorentzian Classification: Machine Learning Driven TradingView
 
 ## ARTICLES
 - https://hackingthemarkets.com/
@@ -713,7 +718,7 @@
 - https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj
 - https://grademark.github.io/grademark-first-example/
 
-## OSS: AI
+## OSS: AI / ARTIFICIAL INTELLIGENCE
 - https://github.com/LiamConnell/deep-algotrading/
 - https://github.com/AI4Finance-Foundation/FinRL
 - https://github.com/tensortrade-org/tensortrade

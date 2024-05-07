@@ -71,7 +71,9 @@
 - https://github.com/postmanlabs/openapi-to-postman
 - https://github.com/APIDevTools/json-schema-ref-parser
 - https://github.com/OpenAPITools/openapi-generator-cli
-- - https://openapi-generator.tech/docs/generators
+- https://openapi-generator.tech/docs/generators
+- https://github.com/asteasolutions/zod-to-openapi
+- https://github.com/jackdbd/zod-to-doc
 
 ## POSTMAN
 - https://github.com/transferwise/public-api-postman-collection
