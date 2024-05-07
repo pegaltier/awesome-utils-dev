@@ -49,6 +49,10 @@
 ## TOOLS: MOBILE
 - https://github.com/mobile-dev-inc/maestro
 
+## TOOLS: CLOSED
+- https://www.ranorex.com/
+- https://www.tricentis.com/products/automate-continuous-testing-tosca
+
 ## TOOLS: OSS
 - https://github.com/grafana/k6
 - https://github.com/apache/jmeter
