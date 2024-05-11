@@ -302,7 +302,6 @@
 - https://kodify.net/tradingview/colours/iff-conditional-colours/
 - https://kodify.net/tradingview/orders/strategy-entry/
 - https://kodify.net/tradingview/orders/percentage-profit/
-- https://github.com/f13end/tradingview-custom-indicators
 - https://www.pinecoders.com/faq_and_code/#built-in-variables
 - https://www.tradingview.com/script/NjuWGg3o-Weekly-Moving-Average/
 - https://www.tradingview.com/script/o5kgHBQ0-Multi-Timeframe-Bollinger-Bands/
@@ -314,6 +313,7 @@
 - https://www.tradingview.com/pine-script-docs/en/v5/concepts/Plots.html
 - https://stackoverflow.com/questions/48656195/what-is-the-equivalent-of-console-log-in-pine-script
 - https://medium.com/@rushic24/how-i-webscraped-1-minute-stock-data-from-tradingview-5bc9b4a823a9
+- https://docs.google.com/document/d/14f0FMSO9vQsEu79p6ccnOwFIJt2V6UNMS5gAON_QLF8/edit?pli=1
 
 ## TOOLS: TRADINGVIEW: SERVICES
 - https://www.pinescriptstrategies.com/
@@ -334,23 +334,50 @@
 - https://www.tradingview.com/script/NEcbTvWX-Autoview-Ultimate-strategy-builder/
 - https://www.tradingview.com/u/SkyHighTA/#published-scripts
 
+## TOOLS: TRADINGVIEW: WIZARDS
+- https://www.tradingview.com/pine-wizards/
+- https://www.tradingview.com/u/Bjorgum/#published-scripts
+- https://www.tradingview.com/u/everget/#published-scripts
+- https://www.tradingview.com/u/KioseffTrading/#published-scripts
+
+## TOOLS: TRADINGVIEW: TOOLS 
+- https://www.tradingview.com/script/cvEVOXaH-Monte-Carlo-Simulation-Your-Strategy-Kioseff-Trading/
+- https://www.tradingview.com/script/6Gbcuh4k-Self-Optimizing-RSI-Strategy-Kioseff-Trading/
+- https://www.tradingview.com/script/RSZxyvmd-Profile-Any-Indicator-Kioseff-Trading/
+- https://www.tradingview.com/script/4iriNqgS-Cross-Correlation-Kioseff-Trading/
+- https://www.tradingview.com/script/GxQp712Z-Portfolio-Laboratory-Kioseff-Trading/
+- https://www.tradingview.com/script/q45dulJC-UTILS-Unit-Testing-Framework/
+- https://www.tradingview.com/script/uqelSkN1-Synthetic-Price-Action-Generator/
+- https://www.tradingview.com/script/3PlLOQCF-Crypto-Terminal-Kioseff-Trading/
+- https://www.tradingview.com/script/nluWCID6-Bar-Count-for-Backtesting/
+- https://github.com/RobertAgee/Real_Time_Strategy_Scanner
+- https://github.com/RobertAgee/Pine-Script-Display-Case
+- https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4
+
 ## TOOLS: TRADINGVIEW: INDICATORS AI
 - https://www.tradingview.com/script/Fo1R6YBx/ PCA
 - https://www.tradingview.com/scripts/adaptivelookback/
 - https://www.tradingview.com/script/VPAKmSkt-Endpointed-SSA-of-Price-Loxx/
 - https://www.tradingview.com/script/pgTMZg6w-Lorentzian-Classification-Beta/
+- https://www.tradingview.com/script/i4LJW9QH-Kioseff-Trading-AI-Optimized-RSI/
+- https://www.tradingview.com/script/Pjk7gEPz-MACD-Optimizer-Pro-Kioseff-Trading/
+- https://www.tradingview.com/script/8eafbqra-Kioseff-Trading-AI-Optimized-Supertrend/
+- https://www.tradingview.com/script/Z23LASa3-Kioseff-Trading-AI-Powered-Strategy-Optimizer/
 
-## TOOLS: TRADINGVIEW: INDICATORS KERNEL
+## TOOLS: TRADINGVIEW: INDICATORS KERNEL / LINE REG
 - https://www.tradingview.com/v/Iko0E2kL/
 - https://www.tradingview.com/script/e0Ek9x99-KernelFunctions/
+- https://www.tradingview.com/script/NUeh5q6T-Linear-Regression-All-Data/
 - https://www.tradingview.com/script/WeLssFxl-Nadaraya-Watson-Envelope-Non-Repainting/
 - https://www.tradingview.com/script/AWNvbPRM-Nadaraya-Watson-Rational-Quadratic-Kernel-Non-Repainting/
 - https://www.tradingview.com/script/QbkEr6o9-Triple-Confirmation-Kernel-Regression-Overlay-QuantraAI/
 - https://www.tradingview.com/script/tQ7O9bpf-Triple-Confirmation-Kernel-Regression-Base-QuantraAI/
 
 ## TOOLS: TRADINGVIEW: INDICATORS ALL
+- https://www.tradingview.com/script/gRy0oaSB-Z-Score/
 - https://www.tradingview.com/script/7VCv22aq-Base-Finder/
 - https://www.tradingview.com/script/I9yPY5x6-Asset-Rotation-Aperture/
+- https://www.tradingview.com/script/Vs2TjhTe-Higher-Highs-Lower-Lows-Stochastics-Vitali-Apirine/
 
 ## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
 - https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/
@@ -459,6 +486,9 @@
 - https://github.com/brian-the-dev/python-tradingview-ta
 - https://github.com/robswc/tradingview-webhooks-bot
 - https://github.com/fundingrate/tradingview-webhooks *
+- https://github.com/everget/tradingview-pinescript-indicators *
+- https://github.com/f13end/tradingview-custom-indicators *
+- https://github.com/RobertAgee/Real_Time_Strategy_Scanner
 - https://github.com/shner-elmo/TradingView-Screener
 - https://github.com/bevry-trading/automated-trading
 - https://github.com/tradingview/pine_script_docs
@@ -479,7 +509,7 @@
 
 ### OSS: QUALITY
 - https://github.com/hummingbot/hummingbot
-- https://github.com/freqtrade/freqtrade
+- https://github.com/freqtrade/freqtrade *
 - https://github.com/jesse-ai/jesse
 - https://github.com/fintechees
 - https://github.com/hackingthemarkets?tab=repositories
@@ -589,6 +619,7 @@
 - https://github.com/beatzxbt/bybit-smm
 - https://github.com/enzoampil/fastquant
 - https://github.com/cvxgrp/cvxportfolio *
+- https://github.com/freqtrade/freqtrade *
 - https://github.com/wardbradt/peregrine
 - https://github.com/fmilthaler/FinQuant
 - https://github.com/51bitquant/howtrader
@@ -728,6 +759,7 @@
 
 ## PODCAST
 - https://www.acquired.fm/episodes/renaissance-technologies
+- https://www.youtube.com/@ChatWithTradersPodcast/videos
 
 ## FMZ
 - https://www.fmz.com/strategy/359806 *

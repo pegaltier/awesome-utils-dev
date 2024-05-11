@@ -398,6 +398,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.youtube.com/@AlgoTradingWithKevinDavey Algo Trading With Kevin Davey
 - https://www.youtube.com/@CriticalTrading Critical Trading
 - https://www.youtube.com/@quantprogram QuantProgram
+- https://www.youtube.com/@QuantTactics Quant Tactics
 - https://www.youtube.com/@TheTransparentTrader The Transparent Trader
 - https://www.youtube.com/@exTRADING exTRADING
 - https://www.youtube.com/@scottwelshstrategies Scott Welsh Strategies

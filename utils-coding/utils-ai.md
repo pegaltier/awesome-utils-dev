@@ -22,6 +22,7 @@
 - https://youtu.be/ky5ZB-mqZKM AI influencers are getting filthy rich... let's build one
 - https://youtu.be/zjkBMFhNj_g [1hr Talk] Intro to Large Language Models 
 - https://youtu.be/TRjq7t2Ms5I Building Production-Ready RAG Applications: Jerry Liu
+- https://youtu.be/oxepyi_hLuA Building RAG at 5 different levels
 
 ## CHANNEL
 - https://www.youtube.com/@ai-tools-search
