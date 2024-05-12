@@ -232,6 +232,7 @@
 - https://github.com/biomejs/biome
 - https://github.com/projen/projen
 - https://github.com/vitejs/vite
+- https://github.com/plopjs/plop
 
 ## LIB: HTTP
 - https://github.com/unjs/ofetch
@@ -281,8 +282,10 @@
 - https://github.com/JSMonk/hegel
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
+- https://github.com/sindresorhus/is64bit
 - https://github.com/tkrotoff/throw-on
 - https://github.com/js-cookie/js-cookie
+- https://github.com/sindresorhus/p-mutex
 - https://github.com/JasonStorey/Optional.js
 - https://github.com/anchmelev/web-worker-bus
 - https://github.com/sokra/source-map-visualization
@@ -386,18 +389,19 @@
 - https://github.com/epicweb-dev/cachified
 - https://github.com/erikras/lru-memoize
 
-## LIB: DI
+## LIB: DI / DEPENDENCY INJECTION
 - https://github.com/ezzabuzaid/tiny-injector
-- https://github.com/mgechev/injection-js
 - https://github.com/inversify/InversifyJS
+- https://github.com/mgechev/injection-js
 - https://github.com/morganstanley/needle
-- https://github.com/mnasyrov/ditox
-- https://github.com/radzserg/rsdi
 - https://github.com/Livshitz/di.libx.js
+- https://github.com/ashleydavis/fusion
 - https://github.com/microsoft/tsyringe
 - https://github.com/cleandi/cleandi
 - https://github.com/developit/mitt
-- https://github.com/ashleydavis/fusion
+- https://github.com/mnasyrov/ditox
+- https://github.com/radzserg/rsdi
+- https://github.com/wessberg/DI
 
 ## LIB: DATE / TIME
 - https://github.com/vercel/ms
@@ -645,6 +649,7 @@
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
 - https://github.com/zengm-games/facesjs
+- https://github.com/aFarkas/lazysizes
 - https://github.com/google/model-viewer
 - https://github.com/mapbox/pixelmatch
 - https://github.com/graphery/graphery

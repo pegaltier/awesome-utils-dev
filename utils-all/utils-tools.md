@@ -67,6 +67,7 @@
 ## OSS: VIDEO
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
+- https://github.com/aegir-assembly/omni-clip
 
 ## OSS: PDF
 - https://github.com/py-pdf/pypdf
@@ -79,6 +80,7 @@
 
 ## OSS: WEB
 - https://github.com/anfragment/zen
+- https://github.com/CorentinTh/it-tools
 - https://github.com/dgtlmoon/changedetection.io
 
 ## OSS: DEV
@@ -108,6 +110,7 @@
 - https://github.com/jsfiddle/togetherjs
 - https://github.com/localsend/localsend
 - https://github.com/excalidraw/excalidraw
+- https://github.com/hcengineering/platform
 - https://github.com/bluesky-social/social-app
 - https://github.com/onetimesecret/onetimesecret
 

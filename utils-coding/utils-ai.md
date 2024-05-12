@@ -61,7 +61,9 @@
 - https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/typescript
 
 ## TOOLS: PROMPT: OSS
-https://github.com/platformatic/mistral-client
+- https://github.com/platformatic/mistral-client
+- https://github.com/promptslab/Promptify
+- https://github.com/janhq/jan
 
 ## TOOLS: SUPPORT
 - https://www.mendable.ai/
@@ -334,6 +336,9 @@ https://github.com/platformatic/mistral-client
 - https://github.com/getzep/zep
 - https://github.com/01-ai/Yi
 
+## LIB: ROBOTIC
+- https://github.com/huggingface/lerobot
+
 ## LIB: AUDIO
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/yl4579/StyleTTS2
@@ -344,6 +349,7 @@ https://github.com/platformatic/mistral-client
 - https://github.com/hpcaitech/Open-Sora
 - https://github.com/SoraWebui/FakeSoraAPI
 - https://github.com/NumesSanguis/FACSvatar
+- https://github.com/HVision-NKU/StoryDiffusion
 - https://github.com/jianzhnie/awesome-text-to-video
 - https://github.com/hkchengrex/Tracking-Anything-with-DEVA
 

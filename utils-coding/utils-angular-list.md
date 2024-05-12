@@ -2149,6 +2149,7 @@ Learn the best way to make your objects immutable.
 
 - https://github.com/angular-architects/module-federation-plugin
 - https://github.com/d-koppenhagen/schematics-helpers-playground
+- https://github.com/rainerhahnekamp/playwright-schematic
 - https://github.com/angular-architects/nx-ddd-plugin
 - https://github.com/nitayneeman/schematics-utilities
 - https://github.com/TinkoffCreditSystems/ng-morph
@@ -2769,6 +2770,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/etn-ccis/blui-angular-component-library (TOADD)
 - https://github.com/acrodata/gui (TOADD)
 - https://github.com/Rikarin/xui (TOADD)
+- https://github.com/acrodata/gui (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 - https://github.com/ngneat/storage

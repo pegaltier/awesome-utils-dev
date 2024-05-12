@@ -196,6 +196,7 @@
 ## AUTH
 - https://github.com/logto-io/logto
 - https://github.com/teamhanko/hanko
+- https://github.com/Permify/permify
 - https://github.com/auth0/auth0-spa-js
 - https://github.com/epicweb-dev/web-auth
 - https://github.com/supertokens/supertokens-node

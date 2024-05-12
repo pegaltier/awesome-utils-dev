@@ -70,6 +70,7 @@
 
 ## COMMUNITY
 - https://www.techs.rocks/
+- https://www.enchantedrobot.xyz/
 - https://github.com/ladyleet/tech-community-slacks
 
 ## GO

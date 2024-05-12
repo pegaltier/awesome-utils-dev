@@ -532,6 +532,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://youtu.be/v13D2E769wQ [BB] mean reversion on NQ
 
 ## STRATEGY YOUTUBE: MOMENTUM / TREND / ALL
+- https://youtu.be/tFLuV2jVFuI Best Momentum Indicator (Best Strategy Series) ****
 - https://youtu.be/sDIjt5ZqR-c Navigating Market Trends with Moving Average Envelope ***
 - https://youtu.be/JnVFdI57j8s The Simplest Crypto Strategy for RUNE, BTC, & ETH That Works! ***
 - https://youtu.be/u_qNQX7vU0w Check Out This Keltner Channel + CCI Combo! [10-Year Backtest] ***

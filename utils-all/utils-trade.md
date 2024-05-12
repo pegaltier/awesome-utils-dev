@@ -421,6 +421,7 @@
 - https://www.youtube.com/watch?v=u5YrIuQbfiU Bonds explaned
 - https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ Part Time Larry
 - https://www.youtube.com/watch?v=Jb8l989IzTE Algotrading Frameworks: Overview
+- https://www.youtube.com/watch?v=ZEtsLuXdC-g Interactive Brokers TWS API + TradingView Charts Python
 
 ## VIDEOS: AI / ARTIFICIAL INTELLIGENCE
 - https://youtu.be/-7NlxXlPxZA ChatGPT inside your Pine Script EDITOR! Algo trading
@@ -556,6 +557,7 @@
 - https://github.com/binance/binance-connector-typescript *
 - https://github.com/vertex-protocol/vertex-typescript-sdk
 - https://github.com/binance-exchange/binance-api-node
+- https://github.com/InteractiveBrokers/tws-api-public
 - https://github.com/tiagosiebler/orderbooks
 - https://github.com/Kucoin/kucoin-api-docs
 - https://github.com/coinexcom/coinex_exchange_api
@@ -661,6 +663,7 @@
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
+- https://github.com/louisnw01/lightweight-charts-python *
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM
 - https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/conor19w/Binance-Futures-Trading-Bot
@@ -696,7 +699,7 @@
 - https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts *
 - https://github.com/ixjb94/indicators *
-- https://github.com/cm45t3r/candlestick
+- https://github.com/cm45t3r/candlestick *
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *
 - https://github.com/debut-js/Indicators
