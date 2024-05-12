@@ -475,6 +475,7 @@
 - https://github.com/nolimits4web/atropos
 - https://github.com/atomiks/floating-ui
 * https://github.com/flatpickr/flatpickr
+- https://github.com/WickyNilliams/cally
 - https://github.com/jeremyckahn/shifty
 - https://github.com/reach/observe-rect
 - https://github.com/camwiegert/typical

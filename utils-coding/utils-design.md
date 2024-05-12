@@ -59,6 +59,7 @@
 - https://www.systemuicons.com/
 - http://kushagragour.in/lab/hint
 - https://wweb.dev/resources/free-icon-sets
+- https://github.com/lucide-icons/lucide
 - https://github.com/CoreyGinnivan/system-uicons
 
 ## WEBDESIGN
