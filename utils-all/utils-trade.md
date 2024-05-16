@@ -339,17 +339,19 @@
 - https://www.tradingview.com/u/Bjorgum/#published-scripts
 - https://www.tradingview.com/u/everget/#published-scripts
 - https://www.tradingview.com/u/KioseffTrading/#published-scripts
+- https://www.tradingview.com/u/TheTradingParrot/#published-scripts
 
 ## TOOLS: TRADINGVIEW: TOOLS 
 - https://www.tradingview.com/script/cvEVOXaH-Monte-Carlo-Simulation-Your-Strategy-Kioseff-Trading/
 - https://www.tradingview.com/script/6Gbcuh4k-Self-Optimizing-RSI-Strategy-Kioseff-Trading/
 - https://www.tradingview.com/script/RSZxyvmd-Profile-Any-Indicator-Kioseff-Trading/
-- https://www.tradingview.com/script/4iriNqgS-Cross-Correlation-Kioseff-Trading/
+- https://www.tradingview.com/script/4iriNqgS-Cross-Correlation-Kioseff-Trading/ *
 - https://www.tradingview.com/script/GxQp712Z-Portfolio-Laboratory-Kioseff-Trading/
 - https://www.tradingview.com/script/q45dulJC-UTILS-Unit-Testing-Framework/
 - https://www.tradingview.com/script/uqelSkN1-Synthetic-Price-Action-Generator/
 - https://www.tradingview.com/script/3PlLOQCF-Crypto-Terminal-Kioseff-Trading/
 - https://www.tradingview.com/script/nluWCID6-Bar-Count-for-Backtesting/
+- https://www.tradingview.com/script/R43706do-Threshold-counter/
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
 - https://github.com/RobertAgee/Pine-Script-Display-Case
 - https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4
@@ -374,8 +376,9 @@
 - https://www.tradingview.com/script/tQ7O9bpf-Triple-Confirmation-Kernel-Regression-Base-QuantraAI/
 
 ## TOOLS: TRADINGVIEW: INDICATORS ALL
-- https://www.tradingview.com/script/gRy0oaSB-Z-Score/
+- https://www.tradingview.com/script/gRy0oaSB-Z-Score/ *
 - https://www.tradingview.com/script/7VCv22aq-Base-Finder/
+- https://www.tradingview.com/script/YWL5ADxO-TTP-RSI/ *
 - https://www.tradingview.com/script/I9yPY5x6-Asset-Rotation-Aperture/
 - https://www.tradingview.com/script/Vs2TjhTe-Higher-Highs-Lower-Lows-Stochastics-Vitali-Apirine/
 

@@ -61,9 +61,12 @@
 - https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/typescript
 
 ## TOOLS: PROMPT: OSS
+- https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
 - https://github.com/promptslab/Promptify
+- https://github.com/lencx/ChatGPT
 - https://github.com/janhq/jan
+- https://github.com/lencx/Noi
 
 ## TOOLS: SUPPORT
 - https://www.mendable.ai/
@@ -238,7 +241,6 @@
 ## LIB: GPT
 - https://github.com/imoneoi/openchat
 - https://github.com/OpenGVLab/InternVL
-- https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
 - https://github.com/Significant-Gravitas/Auto-GPT

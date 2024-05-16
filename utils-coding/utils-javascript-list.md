@@ -656,6 +656,7 @@
 - https://github.com/graphery/graphery
 - https://github.com/nzbin/photoviewer
 - https://github.com/transloadit/uppy
+- https://github.com/transloadit/uppy
 - https://github.com/aeroheim/midori
 - https://github.com/vidstack/player
 - https://github.com/lukeapage/pngjs

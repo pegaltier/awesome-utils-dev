@@ -80,6 +80,7 @@
 - https://github.com/juliangruber/npm-diff
 - https://github.com/styfle/packagephobia
 - https://github.com/ds300/patch-package
+- https://github.com/privatenumber/link
 - https://github.com/amio/npm-why
 - https://github.com/antfu/taze
 
