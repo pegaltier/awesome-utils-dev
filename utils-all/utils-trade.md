@@ -66,6 +66,8 @@
 - https://algotradinginfo.com/
 - https://marketscripters.com/
 - https://www.quantstart.com/
+- https://tradesearcher.ai/
+- https://coinrule.com/
 - https://www.tokode.com/
 - https://aresquant.com/
 - https://www.algome.in/
@@ -330,9 +332,10 @@
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
 - https://www.tradingview.com/script/zgn9pUcQ-Strategy-Code-Example-Risk-Management/
 - https://www.tradingview.com/script/DoOd6evK-Nadaraya-Watson-Envelope-Modified-by-Yosiet/
+- https://www.tradingview.com/script/M0tMhQd0-Sideways-Strategy-DMI-Bollinger-Bands-by-Coinrule/
 - https://www.tradingview.com/script/QxyeMuEC-MIDAS-VWAP-Jayy/
-- https://www.tradingview.com/script/NEcbTvWX-Autoview-Ultimate-strategy-builder/
-- https://www.tradingview.com/u/SkyHighTA/#published-scripts
+- https://www.tradingview.com/script/mhRrYNiT-Macro-Score-TSI-Based/
+- https://www.tradingview.com/script/SFlZ4Kf8-Consensus-Oscillator-with-ADX-LeafAlgo/
 
 ## TOOLS: TRADINGVIEW: WIZARDS
 - https://www.tradingview.com/pine-wizards/
@@ -340,6 +343,8 @@
 - https://www.tradingview.com/u/everget/#published-scripts
 - https://www.tradingview.com/u/KioseffTrading/#published-scripts
 - https://www.tradingview.com/u/TheTradingParrot/#published-scripts
+- https://www.tradingview.com/u/SkyHighTA/#published-scripts
+- https://www.tradingview.com/u/LeafAlgo/#published-scripts
 
 ## TOOLS: TRADINGVIEW: TOOLS 
 - https://www.tradingview.com/script/cvEVOXaH-Monte-Carlo-Simulation-Your-Strategy-Kioseff-Trading/
@@ -348,6 +353,7 @@
 - https://www.tradingview.com/script/4iriNqgS-Cross-Correlation-Kioseff-Trading/ *
 - https://www.tradingview.com/script/GxQp712Z-Portfolio-Laboratory-Kioseff-Trading/
 - https://www.tradingview.com/script/q45dulJC-UTILS-Unit-Testing-Framework/
+- https://www.tradingview.com/script/NEcbTvWX-Autoview-Ultimate-strategy-builder/
 - https://www.tradingview.com/script/uqelSkN1-Synthetic-Price-Action-Generator/
 - https://www.tradingview.com/script/3PlLOQCF-Crypto-Terminal-Kioseff-Trading/
 - https://www.tradingview.com/script/nluWCID6-Bar-Count-for-Backtesting/
@@ -377,6 +383,7 @@
 
 ## TOOLS: TRADINGVIEW: INDICATORS ALL
 - https://www.tradingview.com/script/gRy0oaSB-Z-Score/ *
+- https://www.tradingview.com/script/vvnBaPEo-Normalized-Z-Score/ *
 - https://www.tradingview.com/script/7VCv22aq-Base-Finder/
 - https://www.tradingview.com/script/YWL5ADxO-TTP-RSI/ *
 - https://www.tradingview.com/script/I9yPY5x6-Asset-Rotation-Aperture/
@@ -520,6 +527,7 @@
 
 ### OSS: AWESOME
 - https://github.com/dingran/quant-notes
+- https://github.com/suenot/awesome-ccxt
 - https://github.com/shashankvemuri/Finance
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/zazhang/ep-chan-book-algo-trading
@@ -705,6 +713,7 @@
 - https://github.com/cm45t3r/candlestick *
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *
+- https://github.com/suenot/profitmaker *
 - https://github.com/debut-js/Indicators
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
@@ -727,7 +736,7 @@
 - https://github.com/Haehnchen/crypto-trading-bot *
 - https://github.com/valamidev/candlestick-convert *
 - https://github.com/tradingview/lightweight-charts
-- https://github.com/BitgetLimited/v3-bitget-api-sdk
+- https://github.com/BitgetLimited/v3-bitget-api-sdk *
 - https://github.com/fasenderos/hft-limit-order-book
 - https://github.com/tiagosiebler/TriangularArbitrage
 - https://github.com/Hantama237/moontrade-algotrading

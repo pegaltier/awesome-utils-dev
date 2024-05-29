@@ -65,6 +65,7 @@
 - https://github.com/platformatic/mistral-client
 - https://github.com/promptslab/Promptify
 - https://github.com/lencx/ChatGPT
+- https://github.com/khoj-ai/khoj
 - https://github.com/janhq/jan
 - https://github.com/lencx/Noi
 
@@ -127,6 +128,7 @@
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
+- https://github.com/Codium-ai/cover-agent
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
@@ -232,6 +234,7 @@
 - https://github.com/apple/corenet
 
 ## LIB: DATA PARSER / RAG / CONTEXT
+- https://github.com/ragapp/ragapp
 - https://github.com/run-llama/llama_index
 - https://github.com/run-llama/llama_parse
 - https://github.com/langchain-ai/langgraph
@@ -360,6 +363,7 @@
 - https://github.com/deep-floyd/IF
 - https://github.com/openai/shap-e
 - https://github.com/upscayl/upscayl
+- https://github.com/THU-MIG/yolov10
 - https://github.com/katanaml/sparrow
 - https://github.com/gradio-app/gradio *
 - https://github.com/lllyasviel/Fooocus *
