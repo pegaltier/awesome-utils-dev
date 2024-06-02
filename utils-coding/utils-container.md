@@ -122,6 +122,7 @@ RUN ls
 - https://github.com/NilsIrl/dockerc
 - https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
+- https://github.com/railwayapp/nixpacks
 - https://github.com/Wowu/docker-rollout
 - https://github.com/goodwithtech/dockle
 - https://github.com/antoniomika/pcompose

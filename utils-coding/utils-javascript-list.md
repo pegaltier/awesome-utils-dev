@@ -470,6 +470,7 @@
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
+- https://github.com/coffee-cup/gradient-avatars
 - https://github.com/floating-ui/floating-ui
 - https://github.com/shoelace-style/shoelace
 - https://github.com/nolimits4web/atropos

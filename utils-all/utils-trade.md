@@ -500,7 +500,7 @@
 - https://github.com/everget/tradingview-pinescript-indicators *
 - https://github.com/f13end/tradingview-custom-indicators *
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
-- https://github.com/shner-elmo/TradingView-Screener
+- https://github.com/shner-elmo/TradingView-Screener *
 - https://github.com/bevry-trading/automated-trading
 - https://github.com/tradingview/pine_script_docs
 - https://github.com/akilibots/akili-tradingview
@@ -553,9 +553,10 @@
 - https://github.com/sofienkaabar/The-Book-of-Trading-Strategies
 
 ### OSS: EXECUTE
+- https://github.com/BingX-API
 - https://github.com/stoqey/ib *
 - https://github.com/gateio/gateapi-nodejs *
-- https://github.com/alpacahq/alpaca-trade-api-js
+- https://github.com/alpacahq/alpaca-trade-api-js *
 - https://github.com/Kucoin/kucoin-node-sdk *
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance

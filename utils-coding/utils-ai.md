@@ -170,6 +170,9 @@
 - https://www.synthesia.io/
 - https://github.com/HumanAIGC/EMO
 
+## TOOLS: HACKING
+- https://chat.hackerai.co/
+
 ## TOOLS: SEARCH
 - https://github.com/leptonai/search_with_lepton
 
@@ -286,6 +289,8 @@
 - https://github.com/aws-samples/aws-genai-llm-chatbot
 - https://github.com/luixaviles/gemini-angular-nestjs
 - https://github.com/mckaywrigley/chatbot-ui-lite
+- https://github.com/Hacker-GPT/HackerGPT-2.0
+- https://github.com/mckaywrigley/chatbot-ui
 - https://github.com/mendableai/rag-arena
 
 ## LIB: LLM
@@ -344,9 +349,11 @@
 ## LIB: ROBOTIC
 - https://github.com/huggingface/lerobot
 
-## LIB: AUDIO
+## LIB: AUDIO / TTS
+- https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/yl4579/StyleTTS2
+- https://github.com/2noise/ChatTTS
 - https://github.com/suno-ai/bark
 
 ## LIB: VIDEO
@@ -375,6 +382,7 @@
 - https://github.com/mrhan1993/Fooocus-API
 - https://github.com/Zejun-Yang/AniPortrait
 - https://github.com/comfyanonymous/ComfyUI
+- https://github.com/Acly/krita-ai-diffusion
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/SCUTlihaoyu/open-chat-video-editor

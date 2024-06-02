@@ -6,6 +6,7 @@
 
 ## TOOLS
 - https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+- https://github.com/railwayapp/nixpacks
 
 ## COURSES
 - https://github.com/google/comprehensive-rust
