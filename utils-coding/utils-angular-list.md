@@ -984,7 +984,6 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/jordanpowell88/angular-counter (cypress)
 - https://github.com/jorgeucano/ngx-angular-migration-signal-helper
 - https://github.com/eneajaho/ngx-signal-experimental
-- https://github.com/timdeschryver/ng-signal-forms
 - https://github.com/nartc/ng-conduit-signals
 - https://github.com/eduardoRoth/signals-workshop
 - https://github.com/code-with-ahsan/ng-signals-wishlist
@@ -1935,10 +1934,15 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/ngx-hover-preload
 - https://github.com/angular-extensions/elements
 - https://github.com/mohammedzamakhan/ngx-loadable
+- https://github.com/ngxtension/ngxtension-platform (TOADD)
 - https://github.com/Danevandy99/ngx-hover-preload-v2
 - https://github.com/trellisorg/platform/tree/master/packages/rx-dynamic-component
 - https://stackoverflow.com/questions/34489916/how-to-load-external-scripts-dynamically-in-angular
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
+
+## ECOSYSTEM: LIB: SIGNALS
+- https://github.com/timdeschryver/ng-signal-forms
+- https://github.com/ngxtension/ngxtension-platform
 
 ## ECOSYSTEM: LIB: DOM
 - https://github.com/ultimatecourses/ngx-fullscreen
@@ -2044,7 +2048,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/myndpm/open-source (TOADD)
 - https://github.com/AmadeusITGroup/otter (TOADD)
 - https://github.com/irustm/angular-features (TOADD)
-- https://github.com/nartc/ngxtension-platform (TOADD)
+- https://github.com/ngxtension/ngxtension-platform (TOADD)
 - https://github.com/anchmelev/web-worker-bus (TOADD)
 - https://github.com/cognizone/ng-cognizone (TOADD)
 

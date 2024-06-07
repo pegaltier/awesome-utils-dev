@@ -252,6 +252,17 @@ const b = Object.fromEntries(data);
 // { name: 'Pierre', age: 32 }
 ```
 
+### MERGE
+
+You can create a new object with condition based on others objects 
+
+```javascript
+const data = {
+    ...(myVar1 && { myProperty1: myVar1}),
+    ...(myVar2 && { myProperty1: myVar2}),
+}
+```
+
 ### DEFINITION
 
 - nullish coalescing operator (??) is a logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined, and otherwise returns its left-hand side operand. Best practices to use it instead of (||) to provide default value because of the fasly potential issue (eg. '' or 0).

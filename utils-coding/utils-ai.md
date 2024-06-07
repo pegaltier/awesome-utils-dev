@@ -249,6 +249,7 @@
 - https://github.com/OpenGVLab/InternVL
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
+- https://github.com/onuratakan/gpt-computer-assistant
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/sonnylazuardi/chat-ai-desktop
 - https://github.com/sindresorhus/quickgpt-meta

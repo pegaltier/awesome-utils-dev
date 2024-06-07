@@ -79,6 +79,7 @@
 - https://github.com/basecamp/kamal
 - https://github.com/rapiz1/rathole
 - https://github.com/YuukanOO/seelf
+- https://github.com/code-pushup/cli
 - https://github.com/traefik/traefik
 - https://github.com/buildpacks/pack
 - https://github.com/tooljet/tooljet

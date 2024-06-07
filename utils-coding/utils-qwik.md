@@ -4,6 +4,7 @@
 ## QWIK OSS
 - https://github.com/literalpie/storybook-framework-qwik
 - https://github.com/learnwithjason/resumable-apps-qwik
+- https://github.com/gioboa/qwik-microfrontend-starter
 - https://github.com/manucorporat/qwik-conference-app
 - https://github.com/mhevery/qwik-js-poland-workshop
 - https://github.com/wmertens/styled-vanilla-extract

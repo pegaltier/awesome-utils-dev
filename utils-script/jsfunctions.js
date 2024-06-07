@@ -61,6 +61,6 @@ function recursiveFilter(array, fn) {
 /*
 var data = [{ name: 'bob', type: 1, children: [{ name: 'bob', type: 2, children: [{ name: 'mike', type: 3, children: [{ name: 'bob', type: 7 }, { name: 'same', typ: 9 }] }] }, { name: 'mike', type: 2 }] }],
 result = filter(data, ({ name }) => name.toLowerCase() === 'bob');
-
 console.log(result);
-    */
+*/
+

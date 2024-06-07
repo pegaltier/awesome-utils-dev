@@ -207,6 +207,7 @@
 - https://github.com/unkeyed/unkey
 
 ## NOTIFICATIONS
+- https://github.com/laudspeaker/laudspeaker
 - https://github.com/binwiederhier/ntfy
 - https://github.com/caronc/apprise
 - https://github.com/novuhq/novu

@@ -475,6 +475,7 @@
 - https://gist.github.com/kaigouthro/b95a8b4c43e607ea71897e204904b9c0
 
 ### OSS: TRADINGVIEW: QUAL
+- https://github.com/09ysf09/Indicators
 - https://github.com/fmzquant/strategies
 - https://github.com/geraked/tradingview * 
 - https://github.com/martinshane/pinescript5
