@@ -20,3 +20,6 @@
 - https://github.com/jhipster/jhipster-kotlin
 - https://github.com/kentcdodds/generator-kcd-oss
 - https://github.com/dsebastien/word-plugin-angular-template
+
+## ALL
+- https://github.com/MagnusHJensen/cedar-code-generator

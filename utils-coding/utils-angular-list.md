@@ -1941,6 +1941,7 @@ Learn the best way to make your objects immutable.
 - https://medium.com/better-programming/angular-load-external-javascript-file-dynamically-3d14dde815cb
 
 ## ECOSYSTEM: LIB: SIGNALS
+- https://github.com/alcfeoh/ngx-signalify
 - https://github.com/timdeschryver/ng-signal-forms
 - https://github.com/ngxtension/ngxtension-platform
 
@@ -3232,6 +3233,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=bilelmsekni.componizer
 - https://marketplace.visualstudio.com/items?itemName=ranyitz.search-presets
 - https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode
+- https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi
 - https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 - https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner

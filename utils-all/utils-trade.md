@@ -730,6 +730,7 @@
 - https://github.com/chalupagrande/backtester
 - https://github.com/tiagosiebler/bitmart-api
 - https://github.com/bennycode/trading-signals
+- https://github.com/gadicc/node-yahoo-finance2 *
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
 - https://github.com/focus1691/indicator-library * 

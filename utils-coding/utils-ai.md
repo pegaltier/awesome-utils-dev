@@ -128,6 +128,7 @@
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
+- https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
@@ -150,6 +151,7 @@
 - https://philosopherai.com/philosopher/technology-5f713c
 
 ## TOOLS: IMAGE
+- https://kiri.art/
 - https://pika.art/
 - https://megapix.ai/
 - https://www.midjourney.org/
@@ -245,6 +247,7 @@
 - https://youtu.be/u5Vcrwpzoz8 Local Agentic RAG w/ llama3
 
 ## LIB: GPT
+- https://github.com/idootop/mi-gpt
 - https://github.com/imoneoi/openchat
 - https://github.com/OpenGVLab/InternVL
 - https://github.com/openai/chatgpt-retrieval-plugin
@@ -386,10 +389,12 @@
 - https://github.com/Acly/krita-ai-diffusion
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
+- https://github.com/kiri-art/docker-diffusers-api
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui *
 - https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/AIAnytime/AI-News-Anchor-Generator-App
+- https://github.com/kiri-art/stable-diffusion-react-nextjs-mui-pwa
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - https://github.com/magic-research/magic-animate
 
