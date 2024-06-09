@@ -46,6 +46,7 @@ echo $PATH
 - https://snapcraft.io/
 - https://github.com/Homebrew/brew
 - https://github.com/ohmyzsh/ohmyzsh
+- https://github.com/basecamp/omakub
 
 ## List
 

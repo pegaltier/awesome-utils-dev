@@ -532,9 +532,11 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/davidkpiano/flipping
 - https://github.com/nolimits4web/atropos/
 - https://github.com/janpaepke/ScrollMagic
+- https://github.com/zionbuilder/animatejs
 - https://github.com/flackr/scroll-timeline
 - https://github.com/vasturiano/three-globe
 - https://github.com/lucafalasco/scroll-snap
+- https://github.com/motiondivision/motionone
 - https://github.com/mohamedfrindi/TxtAnime.js
 - https://github.com/martinlaxenaire/curtainsjs
 

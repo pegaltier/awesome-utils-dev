@@ -100,6 +100,7 @@
 - https://github.com/coderhammer/backhooks
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/sultan99/sexy-require
+- https://github.com/infinyon/node-bindgen
 - https://github.com/privatenumber/tasuku
 - https://github.com/EvanZhouDev/donut-js
 - https://github.com/folke/ultra-runner

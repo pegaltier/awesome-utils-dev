@@ -7,6 +7,7 @@
 ## TOOLS
 - https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 - https://github.com/railwayapp/nixpacks
+- https://github.com/infinyon/node-bindgen
 
 ## COURSES
 - https://github.com/google/comprehensive-rust

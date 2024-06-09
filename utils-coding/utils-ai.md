@@ -133,6 +133,7 @@
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
+- https://github.com/princeton-nlp/SWE-agent
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
