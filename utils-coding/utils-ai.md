@@ -165,6 +165,8 @@
 - https://www.bing.com/create
 - https://playgroundai.com/login
 - https://www.craiyon.com/
+- https://www.rundiffusion.com/
+- https://www.easydiffusion.online/
 
 ## TOOLS: AVATAR
 - https://www.heygen.com/
@@ -389,6 +391,7 @@
 - https://github.com/Acly/krita-ai-diffusion
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
+- https://github.com/easydiffusion/easydiffusion
 - https://github.com/kiri-art/docker-diffusers-api
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui *
