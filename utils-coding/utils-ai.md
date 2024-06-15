@@ -155,6 +155,7 @@
 - https://kiri.art/
 - https://pika.art/
 - https://megapix.ai/
+- https://openart.ai/
 - https://www.midjourney.org/
 - https://fengmyshui.com/
 - https://www.headshotpro.com/
@@ -412,6 +413,9 @@
 ## LIB: BOT
 - https://github.com/baptisteArno/typebot.io
 - https://github.com/openchatai/OpenChat
+
+## LIB: SEARCH
+- https://github.com/ItzCrazyKns/Perplexica
 
 ## LIB: GAME
 - https://github.com/a16z-infra/ai-town

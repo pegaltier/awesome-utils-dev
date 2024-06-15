@@ -10,9 +10,12 @@
 - https://github.com/nestjsx/crud
 - https://github.com/nestjs/config
 - https://github.com/nestjs/swagger
+- https://github.com/samchon/nestia
+- https://github.com/fastify/fastify
 - https://github.com/golevelup/nestjs
 - https://github.com/jmcdo29/nest-lab
 - https://github.com/nestjs/throttler
+- https://github.com/vladmandic/pilogger
 - https://github.com/TriPSs/nestjs-query
 - https://github.com/nestjs/mapped-types
 - https://github.com/nestjsx/nest-router
@@ -62,6 +65,7 @@
 ## LIBS: TESTING
 - https://github.com/nock/nock
 - https://github.com/4lejandrito/fetchbook
+- https://github.com/cszatmary/passport-mock-strategy
 
 ## EXAMPLE
 - https://github.com/adisreyaj/adi

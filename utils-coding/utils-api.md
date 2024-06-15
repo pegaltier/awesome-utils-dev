@@ -55,6 +55,7 @@
 
 ## OPENAPI
 - https://github.com/scalar/scalar
+- https://github.com/kubb-labs/kubb
 - https://github.com/Azure/autorest
 - https://github.com/anymaniax/orval
 - https://github.com/asyncapi/modelina
@@ -67,6 +68,7 @@
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/drwpow/openapi-typescript
 - https://github.com/APIDevTools/swagger-parser
+- https://github.com/astahmer/openapi-zod-client
 - https://github.com/swagger-api/swagger-codegen
 - https://github.com/cyclosproject/ng-openapi-gen
 - https://github.com/devexperts/swagger-codegen-ts

@@ -78,6 +78,7 @@
 - https://github.com/JS-DevTools/npm-publish
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
+- https://github.com/stijnvanhulle/rustraf
 - https://github.com/styfle/packagephobia
 - https://github.com/ds300/patch-package
 - https://github.com/privatenumber/link
@@ -92,6 +93,7 @@
 - https://github.com/sindresorhus/find-cache-dir
 - https://github.com/jkup/source-map-validator
 - https://github.com/anonrig/fast-querystring
+- https://github.com/stijnvanhulle/js-runtime
 - https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
 - https://github.com/freeall/progress-stream

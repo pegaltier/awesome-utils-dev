@@ -121,7 +121,9 @@
 - https://github.com/currents-dev/playwright-gh-actions-demo
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
+- https://github.com/mxschmitt/try-playwright
 - https://playwrightsolutions.com/
+- https://try.playwright.tech
 - https://playwright.tech/
 - https://playwright.dev/
 

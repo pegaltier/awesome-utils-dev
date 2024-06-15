@@ -623,7 +623,9 @@
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
 ## LIB: DATAVIZ / CHART / WORKFLOW / DATA VIZ
+- https://github.com/tradingview/awesome-tradingview
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/webmobiledev/vue-tradingview
 - https://github.com/project-nv/night-vision
 - https://github.com/highcharts/highcharts
 - https://github.com/bprusinowski/plotteus
@@ -733,6 +735,7 @@
 - https://github.com/sidorares/json-bigint
 - https://github.com/jsonata-js/jsonata
 - https://github.com/mholt/json-to-go
+- https://github.com/samchon/typia
 
 ## LIB: DATA OBJECT
 - https://github.com/crdt-ibm-research/json-delta-crdt
@@ -748,6 +751,7 @@
 - https://github.com/calvintwr/issable
 - https://github.com/corps/json-delta
 - https://github.com/pmndrs/valtio
+- https://github.com/samchon/typia
 - https://github.com/json5/json5
 - https://github.com/eemeli/yaml
 

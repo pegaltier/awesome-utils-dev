@@ -70,10 +70,10 @@ npm init
 ## TODO
 - https://www.divotion.com/blog/creating-type-safe-events
 
-## STARTER
-
+## STARTER / TEMPLATE
 - https://github.com/antfu/starter-ts
 - https://github.com/egoist/ts-lib-starter
+- https://github.com/stijnvanhulle/template
 - https://github.com/Doist/todoist-api-typescript
 - https://github.com/CodelyTV/typescript-ddd-skeleton
 - https://github.com/metachris/typescript-boilerplate

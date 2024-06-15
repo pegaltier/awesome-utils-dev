@@ -92,6 +92,12 @@ emitter.emit('hello'); emitter.emit('there'); emitter.complete();
 subscription.unsubscribe(); // unsubscribe  
 // logs "hello", then "there", then "done"
 ```
+
+### TROUBLESHOOTING
+
+If you get unsubscribed from your subscription you probably need to catch the error at the right place, meaning inside the nearest possible to the http call:
+- https://www.bitovi.com/blog/how-to-use-rxjs-catcherror-without-unsubscribing-from-new-events
+
 ### OPERATORS (FRENCH)
 
 • take(n) va piocher les n premiers éléments. take(1) ne se déclenchera pas (et ne terminera pas le flux observable) au cas où l'observable d'origine n'émettrait jamais, take(1) ne se désabonne pas lorsque le composant est détruit. L'abonnement reste actif jusqu'à ce que la première valeur soit émise, que le composant soit actif ou détruit. take(1) est presque similaire a first() L'opérateur first() prend une fonction de prédicat facultative et émet une notification d'erreur lorsqu'aucune valeur ne correspond lors du complete.
