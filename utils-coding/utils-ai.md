@@ -403,6 +403,9 @@
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - https://github.com/magic-research/magic-animate
 
+## LIB: TRANSLATION
+- https://github.com/andrewyng/translation-agent
+
 ## LIB: PREDICTION
 - https://github.com/unit8co/darts
 
@@ -417,8 +420,15 @@
 ## LIB: SEARCH
 - https://github.com/ItzCrazyKns/Perplexica
 
+## LIB: BROWSER
+- https://github.com/addyosmani/chatty
+
 ## LIB: GAME
 - https://github.com/a16z-infra/ai-town
+- https://github.com/PufferAI/PufferLib
+
+## LIB: CATALOG
+- https://github.com/unitycatalog/unitycatalog
 
 ## LIB: MODELS
 - https://github.com/awesomedata/awesome-public-datasets

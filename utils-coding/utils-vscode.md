@@ -10,6 +10,9 @@
 - https://devfonts.gafi.dev
 - https://vscodethemes.com
 
+## ALTERNATIVE
+- https://github.com/zed-industries/zed
+
 ## EXTENSIONS: LIST
 
 - https://dev.to/deepu105/my-vs-code-setup-making-the-most-out-of-vs-code-4enl

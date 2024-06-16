@@ -7,6 +7,7 @@
 - https://github.com/elastic/logstash
 
 ## LIST
+- https://github.com/lucaong/minisearch
 - https://github.com/typesense/typesense
 - https://github.com/swirlai/swirl-search
 - https://github.com/algolia/awesome-algolia

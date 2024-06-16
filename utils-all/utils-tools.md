@@ -82,6 +82,7 @@
 ## OSS: WEB
 - https://github.com/anfragment/zen
 - https://github.com/imputnet/cobalt
+- https://github.com/Lynx-Shortener/Lynx
 - https://github.com/CorentinTh/it-tools
 - https://github.com/dgtlmoon/changedetection.io
 

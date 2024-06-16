@@ -51,6 +51,7 @@
 
 ## EXAMPLES
 
+- https://github.com/nicoache1/reanimated-2-animations-challenges
 - https://github.com/Unity-Technologies/frontend-developer-test
 - https://github.com/carlosnakane/monorepo-react-webpack
 - https://github.com/Ninjas-Code-official/shopping-cart

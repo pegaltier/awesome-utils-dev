@@ -1866,6 +1866,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/aotaduy/eslint-plugin-spellcheck
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://github.com/cartant/eslint-plugin-rxjs-angular
+- https://github.com/javierbrea/eslint-plugin-boundaries
 - https://github.com/sindresorhus/eslint-plugin-unicorn
 - https://github.com/typescript-eslint/typescript-eslint
 - https://github.com/MarkKragerup/weblint-eslint-security
@@ -1883,6 +1884,7 @@ Learn the best way to make your objects immutable.
 - https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/
 
 ## ECOSYSTEM: LIB: DEVTOOLS
+- https://github.com/arethetypeswrong/arethetypeswrong.github.io (AUDIT)
 - https://github.com/angular-experts-io/omniboard-angular-oss
 - https://github.com/TrilonIO/angular-application-insights
 - https://github.com/rx-angular/import-graph-visualizer
@@ -3369,6 +3371,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.packtpub.com/product/learning-angular-third-edition/9781839210662 (TOADD)
 - https://manning.com/books/angular-2-development-with-typescript
 - https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
+- https://github.com/PacktPublishing/Learning-Angular-Fifth-Edition (TOADD)
 - http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison
 - https://egghead.io/series/angular-2-fundamentals
 - https://leanpub.com/developing-with-angular

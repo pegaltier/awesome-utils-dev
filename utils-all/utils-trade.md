@@ -684,6 +684,7 @@
 - https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
+- https://github.com/PyPatel/Options-Trading-Strategies-in-Python
 - https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py
 - https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy

@@ -78,6 +78,7 @@ low-code tooling to prototype fastly.
 - https://github.com/metarank/metarank
 - https://github.com/goldstack/goldstack
 - https://github.com/appsmithorg/appsmith
+- https://github.com/windmill-labs/windmill
 - https://github.com/alibaba/lowcode-engine
 
 ## business intelligence
