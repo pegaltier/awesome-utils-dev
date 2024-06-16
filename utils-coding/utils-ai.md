@@ -354,6 +354,11 @@
 - https://github.com/getzep/zep
 - https://github.com/01-ai/Yi
 
+## LIB: DEEP LEARNING / NEURAL
+- https://github.com/pytorch/pytorch
+- https://github.com/tinygrad/tinygrad
+- https://github.com/karpathy/micrograd
+
 ## LIB: ROBOTIC
 - https://github.com/huggingface/lerobot
 

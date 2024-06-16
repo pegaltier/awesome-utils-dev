@@ -710,6 +710,7 @@
 - https://github.com/Seungwoo321/cats (grademark)
 - https://github.com/Flippo24/candles *
 - https://github.com/jerryshell/midas *
+- https://github.com/fasenderos/bitify
 - https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts *
 - https://github.com/ixjb94/indicators *
@@ -725,6 +726,7 @@
 - https://github.com/TulipCharts/tulipnode *
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/tardis-dev/tardis-node *
+- https://github.com/fasenderos/nestjs-ccxt
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
@@ -741,7 +743,7 @@
 - https://github.com/valamidev/candlestick-convert *
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/BitgetLimited/v3-bitget-api-sdk *
-- https://github.com/fasenderos/hft-limit-order-book
+- https://github.com/fasenderos/hft-limit-order-book *
 - https://github.com/tiagosiebler/TriangularArbitrage
 - https://github.com/Hantama237/moontrade-algotrading
 - https://github.com/Reiryoku-Technologies/Mida *

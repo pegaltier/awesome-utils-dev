@@ -7,6 +7,7 @@
 
 ## Tools
 - https://github.com/nicolargo/glances
+- https://github.com/HeyPuter/puter
 
 ## Backup
 - https://github.com/kopia/kopia

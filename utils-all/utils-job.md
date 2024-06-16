@@ -25,6 +25,7 @@ Agent pour développeurs haut-niveau
 - https://gist.github.com/stowball/26fb03aeaa0e8de1def00dcb5d8f425e
 - https://github.com/awesome-jobs/vietnam
 - https://github.com/remoteintech/remote-jobs
+- https://github.com/eigenfunk/freelance-recruiting-de
 
 * Toptal
 * Upwork
