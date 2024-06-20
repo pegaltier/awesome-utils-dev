@@ -428,7 +428,7 @@
 ## LIB: PAYMENT
 - https://github.com/lmsqueezy/lemonsqueezy.js
 
-## LIB: PARSER HTML/XML/JSON/DOM
+## LIB: PARSER HTML/XML/JSON/DOM/CSV
 - https://github.com/beenotung/best-effort-json-parser
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/natemoo-re/ultrahtml
@@ -437,6 +437,7 @@
 - https://github.com/sindresorhus/domify
 - https://github.com/cheeriojs/cheerio
 - https://github.com/fb55/htmlparser2
+- https://github.com/mholt/PapaParse
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
 
@@ -703,6 +704,7 @@
 - https://github.com/fixie-ai/ai-jsx
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
+- https://github.com/openai/openai-node
 - https://github.com/neilgupta/Sherlock
 - https://github.com/SawyerHood/draw-a-ui
 - https://github.com/ykhli/local-ai-stack
@@ -728,6 +730,13 @@
 - https://github.com/royNiladri/js-big-decimal
 - https://github.com/handsontable/hyperformula
 - https://github.com/dcousens/haversine-distance
+
+## LIB: OBJECT EXTENSION / DECORATORS / REFLECTION 
+- https://github.com/jayphelps/core-decorators
+- https://github.com/rbuckton/reflect-metadata
+- https://github.com/typestack/class-transformer
+- https://github.com/wycats/javascript-decorators
+- https://github.com/NetanelBasal/helpful-decorators
 
 ## LIB: DATA TRANSFORMATION
 - https://github.com/fastify/fast-json-stringify
@@ -781,8 +790,10 @@
 - https://github.com/sindresorhus/uint8array-extras
 - https://github.com/GoogleChromeLabs/buffer-backed-object
 
-## LIB: ID UTILS / UID
+## LIB: ID UTILS / UID / ULID
 - https://github.com/ai/nanoid
+- https://github.com/ulid/javascript
+- https://github.com/aarondcohen/id128
 - https://github.com/paralleldrive/cuid2
 - https://github.com/rustq/colorid.js
 - https://github.com/ulid/javascript

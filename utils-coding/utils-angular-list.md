@@ -2655,8 +2655,9 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/zebzhao/Angular-QueryBuilder
 - https://github.com/Tinkoff/maskito (TOADD)
 - https://github.com/wardbell/ngc-validate (TOADD)
-- https://github.com/pjlamb12/ngx-reactive-forms-utils (TOADD)
 - https://github.com/validointi/validointi (TOADD)
+- https://github.com/simplifiedcourses/ngx-vest-forms (TOADD)
+- https://github.com/pjlamb12/ngx-reactive-forms-utils (TOADD)
 - https://github.com/davidwalschots/angular-reactive-validation (TOADD)
 - https://github.com/JohannesHoppe/angular-date-value-accessor
 - https://github.com/TinkoffCreditSystems/angular-contenteditable-accessor

@@ -375,6 +375,7 @@
 - https://github.com/SoraWebui/FakeSoraAPI
 - https://github.com/NumesSanguis/FACSvatar
 - https://github.com/HVision-NKU/StoryDiffusion
+- https://github.com/fudan-generative-vision/hallo
 - https://github.com/jianzhnie/awesome-text-to-video
 - https://github.com/hkchengrex/Tracking-Anything-with-DEVA
 

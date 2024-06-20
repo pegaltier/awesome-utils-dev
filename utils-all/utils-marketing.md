@@ -8,6 +8,7 @@
 - https://github.com/aptabase/aptabase
 - https://github.com/matomo-org/matomo
 - https://github.com/umami-software/umami
+- https://github.com/benvinegar/counterscale
 
 ## ABTESTING / FEATURE TOGGLE
 - https://github.com/DigitalOptimizationGroup/cms

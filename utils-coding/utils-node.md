@@ -83,6 +83,7 @@
 - https://github.com/styfle/packagephobia
 - https://github.com/ds300/patch-package
 - https://github.com/privatenumber/link
+- https://github.com/tmcdos/custompatch
 - https://github.com/amio/npm-why
 - https://github.com/antfu/taze
 
@@ -99,6 +100,7 @@
 - https://github.com/localtunnel/localtunnel
 - https://github.com/freeall/progress-stream
 - https://github.com/adisreyaj/cartella-web
+- https://github.com/motdotla/dotenv-expand
 - https://github.com/sindresorhus/is-docker
 - https://github.com/coderhammer/backhooks
 - https://github.com/SBoudrias/Inquirer.js
@@ -219,6 +221,7 @@
 
 ## LIBS: AI
 - https://github.com/naptha/tesseract.js
+- https://github.com/openai/openai-node
 
 ## LIBS: IMAGES
 - https://github.com/lovell/sharp
@@ -236,6 +239,7 @@
 - https://github.com/microlinkhq/keyvhq
 - https://github.com/bruin-data/ingestr
 - https://github.com/typegoose/typegoose
+- https://github.com/brianc/node-postgres
 - https://github.com/liberation-data/drivine
 - https://github.com/w3tecch/typeorm-seeding
 - https://github.com/drizzle-team/drizzle-orm

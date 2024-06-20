@@ -530,6 +530,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/qrohlf/trianglify
 - https://github.com/sparkbox/bouncy-ball
 - https://github.com/davidkpiano/flipping
+- https://github.com/magicuidesign/magicui
 - https://github.com/nolimits4web/atropos/
 - https://github.com/janpaepke/ScrollMagic
 - https://github.com/zionbuilder/animatejs

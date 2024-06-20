@@ -165,9 +165,11 @@
 - https://github.com/AlexW00/obsidian-3d-graph
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/blacksmithgu/obsidian-dataview
+- https://github.com/koljapluemer/obsidian-the-queue
 - https://github.com/learn-anything/learn-anything.xyz
-- https://github.com/dsebastien/obsidian-plugin-template
 - https://github.com/nikdanilov/whisper-obsidian-plugin
+- https://github.com/dsebastien/obsidian-plugin-template
+- https://github.com/claremacrae/obsidian-repos-downloader
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
 
 ## Automate / automation
