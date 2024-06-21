@@ -225,6 +225,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4
 - https://blog.simplified.courses/angular-state-management-best-practices/
 - https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/
+- https://www.youtube.com/watch?v=OhuRvfcw3Tw TOP 6 Mistakes in RxJS code
 
 ## HELPER: DESIGN PATTERN
 
@@ -1854,6 +1855,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cartant/rxjs-tslint-rules
 - https://github.com/AndreaPontrandolfo/sheriff
 - https://github.com/softarc-consulting/sheriff
+- https://github.com/antfu/eslint-flat-config-utils
 - https://github.com/manfredsteyer/standalone-example-cli/blob/main/sheriff.config.ts
 - https://github.com/NativeScript/eslint-plugin
 - https://github.com/ranyitz/eslint-plugin-jest

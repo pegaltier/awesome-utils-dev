@@ -23,6 +23,8 @@
 - https://youtu.be/zjkBMFhNj_g [1hr Talk] Intro to Large Language Models 
 - https://youtu.be/TRjq7t2Ms5I Building Production-Ready RAG Applications: Jerry Liu
 - https://youtu.be/oxepyi_hLuA Building RAG at 5 different levels
+- https://youtu.be/u5Vcrwpzoz8 Local Agentic RAG w/ llama3
+
 
 ## CHANNEL
 - https://www.youtube.com/@ai-tools-search
@@ -248,7 +250,7 @@
 - https://github.com/run-llama/llama_parse
 - https://github.com/langchain-ai/langgraph
 - https://github.com/mendableai/firecrawl
-- https://youtu.be/u5Vcrwpzoz8 Local Agentic RAG w/ llama3
+- https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: GPT
 - https://github.com/idootop/mi-gpt
@@ -399,6 +401,7 @@
 - https://github.com/Acly/krita-ai-diffusion
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/cocktailpeanut/breadboard
+- https://github.com/facebookresearch/chameleon
 - https://github.com/easydiffusion/easydiffusion
 - https://github.com/kiri-art/docker-diffusers-api
 - https://github.com/SCUTlihaoyu/open-chat-video-editor

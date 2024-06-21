@@ -158,6 +158,8 @@
 - https://github.com/swapniljariwala/nsepy
 - https://github.com/maxgfr/binance-historical *
 - https://github.com/tardis-dev/tardis-node
+- https://github.com/BennyThadikaran/eod2
+- https://github.com/BennyThadikaran/eod2_data
 - https://github.com/Leo4815162342/dukascopy-node
 - https://github.com/ThetaData-API/thetadata-python
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
@@ -637,6 +639,7 @@
 - https://github.com/freqtrade/freqtrade *
 - https://github.com/wardbradt/peregrine
 - https://github.com/fmilthaler/FinQuant
+- https://github.com/mcdallas/wallstreet
 - https://github.com/51bitquant/howtrader
 - https://github.com/tastyware/tastytrade
 - https://github.com/letianzj/quanttrader
@@ -684,6 +687,7 @@
 - https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
+- https://github.com/coding-kitties/investing-algorithm-framework *
 - https://github.com/PyPatel/Options-Trading-Strategies-in-Python
 - https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB
 - https://github.com/rushic24/tradingview-scraper/blob/master/main.py

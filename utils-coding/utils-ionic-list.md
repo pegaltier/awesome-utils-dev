@@ -62,6 +62,7 @@
 - https://github.com/CodetrixStudio/CapacitorGoogleAuth
 - https://github.com/brandonroberts/nx-capacitor-plugins
 - https://github.com/robingenz/capacitor-background-task
+- https://github.com/epicshaggy/capacitor-native-biometric
 - https://github.com/capacitor-community/firebase-crashlytics
 - https://github.com/nativescript-community/capacitor-plugins
 - https://github.com/capacitor-community/background-geolocation

@@ -22,6 +22,9 @@
 - https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular
 - https://www.technologies-ebusiness.com/enjeux-et-tendances/rxjs-pour-les-humains
 
+## BAD PRACTICES
+- https://www.youtube.com/watch?v=OhuRvfcw3Tw TOP 6 Mistakes in RxJS code
+
 ## HOT VS COLD
 
 - COLD (i.e interval, http requests) ==> are unicast as each subscriber gets data from different producer. "cold" observable will  produce value only if they are  listened to or observed via the subscribe function. in other word if there is no subscription, there is no producer/no event listener, They are called cold. ex with http module each subscriber is firing a new http request; because it has its own producer . Sometimes we also say it's cold when your observable creates the producer (data is produced inside the Observable.) timer is a special case it's a infinite cold observable.

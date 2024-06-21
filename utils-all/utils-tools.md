@@ -171,6 +171,7 @@
 - https://github.com/dsebastien/obsidian-plugin-template
 - https://github.com/claremacrae/obsidian-repos-downloader
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
+- https://github.com/LBF38/obsidian-syncthing-integration
 
 ## Automate / automation
 - https://www.getmagical.com/

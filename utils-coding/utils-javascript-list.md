@@ -248,10 +248,12 @@
 - https://github.com/ai/nanoevents
 
 ## LIB: DATABASE
+- https://github.com/knex/knex
 - https://github.com/pubkey/rxdb
 - https://github.com/typicode/lowdb
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
+- https://github.com/kysely-org/kysely
 - https://github.com/orbitinghail/sqlsync
 - https://github.com/zemberdotnet/jsonl-db
 - https://github.com/StarlaneStudios/Surrealist

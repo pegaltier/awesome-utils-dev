@@ -188,6 +188,7 @@ let promise = new Promise(function(resolve, reject) {
 ## PROMISE: ASYNC/AWAIT
 
 - https://advancedweb.hu/how-to-use-async-functions-with-array-map-in-javascript/
+- https://www.youtube.com/watch?v=GH1jUbALOq0 Javascript return vs return await (Crucial Difference)
 
 ```javascript
 const arr = [1, 2, 3];
@@ -205,6 +206,17 @@ const asyncRes = await Promise.all(arr.map(async (i) => {
 }));
 console.log(asyncRes);
 // 2,3,4
+
+// ERROR HANDLING
+// return without await if you want to let the caller handle the error
+// return with await if you want to handle the error locally
+myLocalFunc() {
+    try {
+        return await fetch('http://myapi');
+    } catch (error) {
+        console.log('local error', error);
+    }
+}
 
 ```
 
