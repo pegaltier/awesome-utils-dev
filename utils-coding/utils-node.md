@@ -84,6 +84,8 @@
 - https://github.com/ds300/patch-package
 - https://github.com/privatenumber/link
 - https://github.com/tmcdos/custompatch
+- https://github.com/RetireJS/retire.js
+- https://github.com/webpro-nl/knip
 - https://github.com/amio/npm-why
 - https://github.com/antfu/taze
 
@@ -109,7 +111,6 @@
 - https://github.com/privatenumber/tasuku
 - https://github.com/EvanZhouDev/donut-js
 - https://github.com/folke/ultra-runner
-- https://github.com/RetireJS/retire.js
 - https://github.com/evanwashere/mitata
 - https://github.com/enquirer/enquirer
 - https://github.com/voidcosmos/npkill

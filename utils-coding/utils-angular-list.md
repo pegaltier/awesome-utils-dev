@@ -3275,6 +3275,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
 - https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode
 - https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet
+- https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode
 - https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster
 - https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser

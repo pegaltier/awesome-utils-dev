@@ -106,6 +106,7 @@
 - https://github.com/douglascrockford
 - https://github.com/ahejlsberg
 - https://github.com/johnpapa
+- https://github.com/mesqueeb
 - https://github.com/kolodny
 - https://github.com/ytiurin
 
@@ -146,6 +147,7 @@
 - https://github.com/lydiahallie/javascript-questions#readme
 - https://www.javatpoint.com/static-vs-const-in-javascript
 - https://codesource.io/javascript-design-patterns/
+- https://github.com/43081j/ecosystem-cleanup
 
 
 ## PROMISE THEN VS AWAIT VS CHAINABLE
@@ -646,7 +648,7 @@
 - https://github.com/leeoniya/uPlot
 - https://github.com/d3fc/d3fc
 
-## LIB: MEDIAS
+## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/openseadragon/openseadragon
 - https://github.com/steveruizok/perfect-arrows
@@ -672,6 +674,7 @@
 - https://github.com/greensock/GSAP
 - https://github.com/vercel/satori
 - https://github.com/varkor/quiver
+- https://github.com/bbc/peaks.js
 
 ## LIB: 2D/3D/VR
 - https://github.com/oframe/ogl
@@ -744,6 +747,8 @@
 - https://github.com/fastify/fast-json-stringify
 - https://github.com/data-forge/data-forge-ts
 - https://github.com/thdoan/mr-data-converter
+- https://github.com/mesqueeb/remove-anything
+- https://github.com/mesqueeb/case-anything
 - https://github.com/sidorares/json-bigint
 - https://github.com/jsonata-js/jsonata
 - https://github.com/mholt/json-to-go
@@ -757,11 +762,13 @@
 - https://github.com/ibmruntimes/yieldable-json
 - https://github.com/mjbrisebois/js-bytes-class
 - https://github.com/mweidner037/list-positions
+- https://github.com/mesqueeb/merge-anything
 - https://github.com/mjbrisebois/js-json
 - https://github.com/quicktype/quicktype
 - https://github.com/blitz-js/superjson
 - https://github.com/calvintwr/issable
 - https://github.com/corps/json-delta
+- https://github.com/mesqueeb/is-what
 - https://github.com/pmndrs/valtio
 - https://github.com/samchon/typia
 - https://github.com/json5/json5
@@ -772,6 +779,8 @@
 - https://github.com/jpggvilaca/deep-diff-object
 - https://github.com/AsyncBanana/microdiff
 
+## LIB: HASH / SHA
+- https://github.com/mesqueeb/sha-anything
 
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js
