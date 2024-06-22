@@ -1,5 +1,8 @@
 # TRADINGVIEW CHEATSHEET
 
+## libraries
+- https://youtu.be/r8j6Fp2CkzY 5 Useful Libraries for TradingView
+
 ## Important notes
 
 - When using strategy.entry(...) hedging and scaling is desactivated so when you enter a long position then short will automatically be closed and vice versa. Also you have only one position on the same order ID because scaling is desactivated even if the entry condition is met multiple times only one position is opened

@@ -352,6 +352,7 @@
 - https://github.com/react-native-google-signin/google-signin
 - https://github.com/smallcase/react-native-simple-biometrics
 - https://github.com/software-mansion/react-native-reanimated
+- https://github.com/react-native-webview/react-native-webview
 - https://github.com/react-native-webrtc/react-native-callkeep
 - https://github.com/idearockers/react-native-dynamic-app-icon
 - https://github.com/Rapsssito/react-native-background-actions

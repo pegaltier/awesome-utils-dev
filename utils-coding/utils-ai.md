@@ -381,6 +381,9 @@
 - https://github.com/jianzhnie/awesome-text-to-video
 - https://github.com/hkchengrex/Tracking-Anything-with-DEVA
 
+## LIB: 3D IMAGE / STABLE DIFFUSION
+- https://github.com/AiuniAI/Unique3D
+
 ## LIB: IMAGE / STABLE DIFFUSION
 - https://github.com/s0md3v/roop
 - https://github.com/deep-floyd/IF

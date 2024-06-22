@@ -5,6 +5,8 @@
 - https://pentest-ground.com/
 - https://websecurity-academy.com/
 - https://github.com/pavanw3b/sh00t
+- https://github.com/juice-shop/juice-shop
+- https://owasp.org/www-project-juice-shop/
 - https://github.com/danielmiessler/SecLists
 - https://github.com/Igglybuff/awesome-piracy
 - https://github.com/payloadbox/xss-payload-list

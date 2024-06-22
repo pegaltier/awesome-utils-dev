@@ -647,6 +647,7 @@
 - https://github.com/ivopetiz/algotrading *
 - https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
+- https://github.com/ilcardella/TradingBot
 - https://github.com/ranaroussi/quantstats *
 - https://github.com/letianzj/QuantResearch *
 - https://github.com/blankly-finance/blankly
