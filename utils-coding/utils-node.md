@@ -174,6 +174,7 @@
 - https://github.com/ladjs/supertest
 
 ## LIBS: SSE / SERVER SENT EVENT
+- https://github.com/Bewinxed/river.ts
 - https://github.com/adonisjs/transmit
 - https://github.com/MatthewWid/better-sse
 - https://github.com/event-driven-io/emmett

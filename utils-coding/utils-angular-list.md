@@ -2408,10 +2408,8 @@ Analyze and optimize the performance of your app
 - https://github.com/oferh/ng2-completer
 - https://github.com/ng-select/ng-select
 - https://github.com/dappsnation/ng-rive
-- https://github.com/akserg/ng2-toasty
 - https://github.com/ngneat/input-mask
 - https://github.com/JsDaddy/ngx-mask
-- https://github.com/ngneat/hot-toast
 - https://github.com/matheo/angular
 - https://github.com/ng-dnd/ng-dnd
 - https://github.com/sitecore/jss
@@ -2465,6 +2463,11 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
+
+## ECOSYSTEM: LIB: COMPONENT: SNACKBAR / TOASTR
+- https://github.com/akserg/ng2-toasty
+- https://github.com/tutkli/ngx-sonner
+- https://github.com/ngneat/hot-toast
 
 ## ECOSYSTEM: LIB: COMPONENT: ICONS
 - https://github.com/ngbracket/ngx-icon
@@ -2536,6 +2539,7 @@ Analyze and optimize the performance of your app
 - https://github.com/shipshapecode/angular-shepherd
 - https://github.com/tonysamperi/ngx-tour-wizard
 - https://github.com/kamranahmedse/driver.js
+- https://github.com/williamtroup/Journey.js
 - https://github.com/hakimio/ngx-ui-tour
 - https://github.com/usablica/intro.js
 
@@ -2681,6 +2685,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/microsoft/monaco-editor
 - https://github.com/ProseMirror/prosemirror
 - https://github.com/alauda/ng-monaco-editor
+- https://github.com/TypeCellOS/BlockNote
 - https://github.com/worktile/slate-angular
 - https://github.com/kolkov/angular-editor
 - https://github.com/stevermeister/ngx-wig

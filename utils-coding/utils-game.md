@@ -6,6 +6,7 @@
 ## LIB: ALL
 - https://github.com/ProjectUnifree/unifree
 - https://github.com/hydralauncher/hydra
+- https://github.com/melonjs/melonJS
 
 ## LIB: AI
 - https://github.com/PufferAI/PufferLib

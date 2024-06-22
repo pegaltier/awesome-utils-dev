@@ -22,7 +22,7 @@
   - [AUTOMATION](#automation)
   - [ALLIN](#allin)
   - [CANVAS](#canvas)
-  - [MEDIAS](#medias)
+  - [PODCASTS](#podcasts)
   - [FOUNDATION](#foundation)
   - [BOOKS](#books)
   - [IMPORTANT](#important)
@@ -104,6 +104,7 @@
 
 ## PEOPLE
 - https://github.com/douglascrockford
+- https://github.com/williamtroup
 - https://github.com/ahejlsberg
 - https://github.com/johnpapa
 - https://github.com/mesqueeb
@@ -632,9 +633,12 @@
 - https://github.com/tradingview/awesome-tradingview
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/webmobiledev/vue-tradingview
+- https://github.com/williamtroup/JsonTree.js
 - https://github.com/project-nv/night-vision
+- https://github.com/williamtroup/Syntax.js
 - https://github.com/highcharts/highcharts
 - https://github.com/bprusinowski/plotteus
+- https://github.com/williamtroup/Heat.js
 - https://github.com/gionkunz/chartist-js
 - https://github.com/jagenjo/litegraph.js
 - https://github.com/chartist-js/chartist
@@ -659,8 +663,9 @@
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
 - https://github.com/zengm-games/facesjs
-- https://github.com/aFarkas/lazysizes
 - https://github.com/google/model-viewer
+- https://github.com/aFarkas/lazysizes
+- https://github.com/LuanRT/YouTube.js
 - https://github.com/mapbox/pixelmatch
 - https://github.com/graphery/graphery
 - https://github.com/nzbin/photoviewer
@@ -675,6 +680,7 @@
 - https://github.com/vercel/satori
 - https://github.com/varkor/quiver
 - https://github.com/bbc/peaks.js
+- https://github.com/dgmjs/dgmjs
 
 ## LIB: 2D/3D/VR
 - https://github.com/oframe/ogl
@@ -763,6 +769,7 @@
 - https://github.com/mjbrisebois/js-bytes-class
 - https://github.com/mweidner037/list-positions
 - https://github.com/mesqueeb/merge-anything
+- https://github.com/gvergnaud/ts-pattern
 - https://github.com/mjbrisebois/js-json
 - https://github.com/quicktype/quicktype
 - https://github.com/blitz-js/superjson
@@ -779,7 +786,8 @@
 - https://github.com/jpggvilaca/deep-diff-object
 - https://github.com/AsyncBanana/microdiff
 
-## LIB: HASH / SHA
+## LIB: SIGNING / ENCRYPTION / HASH / SHA
+- https://github.com/PeculiarVentures/PKI.js
 - https://github.com/mesqueeb/sha-anything
 
 ## LIB: IMMUTABLE OBJECT
@@ -845,19 +853,17 @@
 
 ## LIB: GAME
 - https://github.com/mgechev/mk.js
+- https://github.com/melonjs/melonJS
 - https://github.com/partykit/partykit
 - https://github.com/olistic/warriorjs
 - https://github.com/KilledByAPixel/LittleJS
 
 ## ALLIN
-
 - https://github.com/vendure-ecommerce/vendure
 
 ## CANVAS 
-
 - https://github.com/Leimi/drawingboard.js
 - https://joshbradley.me/object-collisions-with-canvas/
 
-## MEDIAS
-
+## PODCASTS
 - https://realtalkjavascript.simplecast.com/
