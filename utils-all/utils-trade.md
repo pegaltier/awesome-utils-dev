@@ -46,6 +46,7 @@
 - https://www.quantinsti.com/
 - https://www.quantscience.io/
 - https://allocatesmartly.com/
+- https://amphibiantrading.com/
 - https://www.quantivealpha.com/
 - https://concretumresearch.com/
 - https://quantifiableedges.com/
@@ -343,10 +344,11 @@
 - https://www.tradingview.com/pine-wizards/
 - https://www.tradingview.com/u/Bjorgum/#published-scripts
 - https://www.tradingview.com/u/everget/#published-scripts
-- https://www.tradingview.com/u/KioseffTrading/#published-scripts
-- https://www.tradingview.com/u/TheTradingParrot/#published-scripts
 - https://www.tradingview.com/u/SkyHighTA/#published-scripts
 - https://www.tradingview.com/u/LeafAlgo/#published-scripts
+- https://www.tradingview.com/u/KioseffTrading/#published-scripts
+- https://www.tradingview.com/u/TheTradingParrot/#published-scripts
+- https://www.tradingview.com/u/Amphibiantrading/#published-scripts
 
 ## TOOLS: TRADINGVIEW: TOOLS 
 - https://www.tradingview.com/script/cvEVOXaH-Monte-Carlo-Simulation-Your-Strategy-Kioseff-Trading/
