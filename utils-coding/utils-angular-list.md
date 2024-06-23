@@ -1786,6 +1786,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/ngx-utils/cookies
 - https://github.com/aescarcha/cookies
 - https://github.com/maciejtreder/ng-toolkit
+- https://github.com/WebReflection/hyperHTML
 - https://github.com/angular/in-memory-web-api
 - https://github.com/ng-web-apis/universal
 - https://github.com/trellisorg/platform

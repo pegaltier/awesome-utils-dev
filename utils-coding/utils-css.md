@@ -137,6 +137,7 @@
 - https://github.com/mertasan/tailwindcss-variables
 - https://github.com/tailwindlabs/tailwindcss-forms
 - https://github.com/windicss/windicss-intellisense
+- https://github.com/stevecochrane/tailwindcss-logical
 - https://github.com/new-data-services/tailwindcss-animated
 - https://github.com/tailwindlabs/tailwindcss-container-queries
 

@@ -446,6 +446,9 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://blog.madewithlove.be/post/webpack-your-bags/
 - https://css-tricks.com/css-modules-part-2-getting-started
 
+## LIB
+- https://github.com/WebReflection/signal
+
 ## WEBCOMPONENTS
 - https://open-ui.org/
 - https://stenciljs.com/

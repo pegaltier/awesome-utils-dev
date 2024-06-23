@@ -122,7 +122,6 @@
 - https://github.com/zoontek/valienv
 - https://github.com/alallier/reload
 - https://github.com/typicode/husky
-- https://github.com/unjs/ohmyfetch
 - https://github.com/google/wireit
 - https://github.com/ranyitz/newsh
 - https://github.com/lirantal/npq
@@ -133,6 +132,7 @@
 - https://github.com/vercel/nft
 - https://github.com/nexe/nexe
 - https://github.com/sezna/nps
+
 
 ## MONITORING / LOGGING
 - https://github.com/pinojs/pino
@@ -163,7 +163,7 @@
 - https://github.com/cacjs/cac
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
-- https://github.com/unjs/ofetch
+
 - https://github.com/fromdeno/deno2node
 
 ## LIBS: WORKER THREAD
@@ -186,6 +186,12 @@
 - https://medium.com/@david.richards.tech/sse-server-sent-events-using-a-post-request-without-eventsource-1c0bd6f14425
 - https://stackoverflow.com/questions/40385133/retrieve-data-from-a-readablestream-object
 - https://stackoverflow.com/questions/33141012/how-to-mock-streams-in-nodejs
+
+## LIBS: REQUEST
+- https://github.com/axios/axios
+- https://github.com/unjs/ofetch
+- https://github.com/unjs/ohmyfetch
+- https://github.com/WebReflection/fetch
 
 ## LIBS: CRON
 - https://github.com/vwedesam/Cron-to-human
