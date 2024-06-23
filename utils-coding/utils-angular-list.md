@@ -1691,6 +1691,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/atlassian/lerna-semantic-release
 - https://github.com/rarmatei/netlify-nx-monorepo-deployments
 - https://github.com/meeroslav/circle-ci-affected-from-tag
+- https://github.com/LayZeeDK/nx-angular-library-generator
 - https://github.com/arthurgubaidullin/embed-dependencies
 - https://github.com/deepkit-community/nx-plugins
 - https://github.com/marksandspencer/nx-plugins

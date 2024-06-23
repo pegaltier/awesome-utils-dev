@@ -60,6 +60,7 @@
 - https://github.com/anymaniax/orval
 - https://github.com/asyncapi/modelina
 - https://github.com/microsoft/typespec
+- https://github.com/hey-api/openapi-ts
 - https://github.com/Mermade/widdershins
 - https://github.com/astahmer/typed-openapi
 - https://github.com/42Crunch/vscode-openapi

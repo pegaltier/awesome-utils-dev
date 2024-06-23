@@ -623,6 +623,7 @@
 - https://github.com/8W9aG/fullmonte
 - https://github.com/skfolio/skfolio *
 - https://github.com/quantrocket-llc *
+- https://github.com/vsjha18/nsetools
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
 - https://github.com/jpolec/order_book

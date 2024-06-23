@@ -5,6 +5,7 @@
 
 ## Important notes
 
+- Even with indicator in a different panel than the price chart it's now possible to plot some data in the price chart using the force_overlay feature
 - When using strategy.entry(...) hedging and scaling is desactivated so when you enter a long position then short will automatically be closed and vice versa. Also you have only one position on the same order ID because scaling is desactivated even if the entry condition is met multiple times only one position is opened
 - If you want to have the same strategy long and short positons opened at the same time you need to use strategy.order(...) but takes care here to manage the pyramiding because if the entry condition is met multiple times position will be increased
 

@@ -89,6 +89,10 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/selective-php
 - https://github.com/nette
 
+## SERVERLESS
+- https://github.com/vercel-community/php
+- https://neon.tech/docs/guides/symfony
+
 ## FRAMEWORKS
 
 - https://github.com/laminas/laminas-mvc
