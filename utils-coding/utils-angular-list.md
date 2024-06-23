@@ -2190,6 +2190,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/storybookjs/addon-styling
 - https://github.com/UX-and-I/storybook-design-token
 - https://github.com/hipstersmoothie/storybook-dark-mode
+- https://github.com/eliasm307/storybook-addon-deep-controls
 - https://www.chromatic.com/
 
 ## ECOSYSTEM: LIB: UNIT TESTS

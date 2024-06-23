@@ -19,6 +19,7 @@
 - https://github.com/OWASP/www-project-top-10-ci-cd-security-risks
 - https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
 - https://github.com/tadwhitaker/Security_Engineer_Interview_Questions
+- https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/
 
 ## NEWS
 
@@ -37,13 +38,22 @@
 ## ARCH: OSS
 - https://github.com/bunkerity/bunkerweb
 
-## TOOLS PASSWORD
+## TOOLS: PASSWORD
 - https://proton.me
 - https://keepass.info
 - https://1password.com
 - https://bitwarden.com
 
-## TOOLS ONLINE
+## TOOLS: VAULT / DATA
+- https://www.cecurity.com/
+- https://www.vaultproject.io/
+- https://github.com/hashicorp/vault
+
+## TOOLS: HOST
+- https://www.wiz.io/
+- https://betterstack.com/
+
+## TOOLS: ONLINE
 - https://securitytxt.org/
 - https://www.srihash.org/
 - https://www.virustotal.com
@@ -51,10 +61,6 @@
 - https://www.dashlane.com/fr/
 - https://guardianproject.info/apps/pixelknot/
 - https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
-
-## TOOLS HOST
-- https://www.wiz.io/
-- https://betterstack.com/
 
 ## TOOLS OSS
 - https://github.com/edoardottt/awesome-hacker-search-engines

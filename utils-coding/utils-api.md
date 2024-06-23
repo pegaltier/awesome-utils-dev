@@ -149,9 +149,10 @@
 
 ## PDF GENERATION
 
-- https://docspring.com
+- https://doqs.dev/
 - https://pdfshift.io
 - https://pdflayer.com
+- https://docspring.com
 - https://htmlpdfapi.com
 - https://www.html2pdfrocket.com
 - https://restpack.io/html2pdf
@@ -193,6 +194,7 @@
 - https://datanova.legroupe.laposte.fr/api/v1/console/datasets/1.0/search/
 
 ## SIGNING
+- https://yousign.com/
 - https://documenso.com/
 - https://www.docusign.com
 - https://www.universign.com
@@ -200,6 +202,7 @@
 - https://github.com/OpenSignLabs/OpenSign
 
 ## AUTH
+- https://www.smspartner.fr/
 - https://github.com/logto-io/logto
 - https://github.com/teamhanko/hanko
 - https://github.com/Permify/permify
