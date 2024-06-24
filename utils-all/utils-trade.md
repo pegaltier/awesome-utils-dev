@@ -363,7 +363,7 @@
 - https://www.tradingview.com/script/nluWCID6-Bar-Count-for-Backtesting/
 - https://www.tradingview.com/script/R43706do-Threshold-counter/
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
-- https://github.com/RobertAgee/Pine-Script-Display-Case
+- https://github.com/RobertAgee/Pine-Script-Display-Case *
 - https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4
 
 ## TOOLS: TRADINGVIEW: INDICATORS AI

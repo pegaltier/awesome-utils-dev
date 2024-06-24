@@ -21,6 +21,7 @@
 - https://github.com/time-loop/only-allow
 - https://github.com/Thinkmill/manypkg
 - https://github.com/cnpm/npminstall
+- https://github.com/moonrepo/proto
 - https://github.com/yarnpkg/berry
 - https://github.com/pnpm/pacquet
 - https://github.com/Schniz/fnm
@@ -37,7 +38,9 @@
 - https://github.com/vitejs/vite
 - https://github.com/vercel/turbo
 - https://github.com/farm-fe/farm
+- https://github.com/rollup/rollup
 - https://github.com/huozhi/bunchee
+- https://github.com/rolldown/rolldown
 - https://github.com/privatenumber/tsx
 
 ## STARTER
