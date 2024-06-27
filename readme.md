@@ -3,7 +3,6 @@
 ![apache](https://badgen.net/badge/license/Apache-2.0/blue)
 ![stars](https://badgen.net/badge/stars/★★★★★)
 ![github](https://badgen.net/github/stars/pegaltier/utils-dev)
-![twitter](https://badgen.net/twitter/follow/pegaltier)
 
 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 
@@ -50,6 +49,8 @@ Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/
 - https://github.com/spekulatius
 
 ## :two_hearts: Follow me
+
+Follow me on X: [x.com/pegaltier](https://x.com/pegaltier)
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/pegaltier/utils-dev.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=pegaltier)
 
