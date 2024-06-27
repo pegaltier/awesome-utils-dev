@@ -354,11 +354,12 @@ git push -f origin master
 
 ```
 on the GitHub website fork the repository in question (called ‘upstream’) # step 1
-git clone https://github.com/{user}/{source-repo}.git # step 2
+git clone https://github.com/{user}/{your-repo}.git # step 2
 git remote add upstream https://github.com/{user}/{source-repo}.git # step 3
 git fetch upstream # step 4
-git checkout -b my-branch & git commit & git push # step 5
-on the GitHub website open a PR for your branch: my-branch # step 6
+git merge upstream/main # step 5
+git checkout -b my-branch & git commit & git push # step 6
+on the GitHub website open a PR for your branch: my-branch # step 7
 ```
 
 - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
