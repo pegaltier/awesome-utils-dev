@@ -378,6 +378,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.datadriveninvestor.com/how-to-create-a-profitable-cryptocurrency-trading-bot-part-1-overview-and-trading-strategy-cf178300a0ea
 - https://medium.com/@crisvelasquez/identifying-key-market-interest-with-the-volume-ratio-in-python-1f9904705711
 
+## STRATEGY: LIST
+- https://docs.google.com/spreadsheets/d/1WcvrG8KLyYqXXveyEIlfYljtOLg7WySOwrv_lVya5hE/edit?gid=1919013108#gid=1919013108
+
 ## STRATEGY: HIGH FREQUENCY TRADING / HFT
 - https://databento.com/blog/liquidity-taking-strategy?hss_channel=lcp-35540938
 
