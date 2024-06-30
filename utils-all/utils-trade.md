@@ -139,7 +139,9 @@
 - https://www.cryptodatadownload.com/data/
 - https://www.algos.org/p/data-sourcing-the-guide *
 - https://data.world/crispydata/bitcoin-historical-data
+- https://github.com/DavideViolante/investing-com-api *
 - https://fuserleer.online/exchange_data/
+- https://github.com/jugaad-py/jugaad-data
 - https://www.youtube.com/watch?v=myydDX-us4o
 - https://mixedanalytics.com/knowledge-base/top-free-crypto-apis/ *
 - https://github.com/CoinQuanta/awesome-crypto-api
@@ -565,6 +567,7 @@
 - https://github.com/Kucoin/kucoin-node-sdk *
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
+- https://github.com/phemex/phemex-api-docs
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
@@ -668,6 +671,7 @@
 - https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
+- https://github.com/BennyThadikaran/stock-pattern
 - https://github.com/DogsTailFarmer/martin-binance
 - https://github.com/day0market/support_resistance
 - https://github.com/TheFourGreatErrors/alpha-rptr * 

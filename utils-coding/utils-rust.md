@@ -28,6 +28,7 @@
 - https://github.com/PaulRBerg/rust-template
 - https://github.com/Orange-OpenSource/hurl
 - https://github.com/cargo2nix/cargo2nix
+- https://github.com/rust-phf/rust-phf
 
 ## FRAMEWORK
 - https://github.com/cunarist/rinf

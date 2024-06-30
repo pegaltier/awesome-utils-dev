@@ -77,7 +77,9 @@
 - https://github.com/nefe/one-cron
 
 ## UTILS NPM
+- https://github.com/es-tooling/module-replacements
 - https://github.com/radarsu/types-package-json
+- https://github.com/stackblitz-labs/pkg.pr.new
 - https://github.com/davglass/license-checker
 - https://github.com/JS-DevTools/npm-publish
 - https://github.com/lirantal/lockfile-lint
@@ -105,7 +107,6 @@
 - https://github.com/localtunnel/localtunnel
 - https://github.com/freeall/progress-stream
 - https://github.com/adisreyaj/cartella-web
-- https://github.com/motdotla/dotenv-expand
 - https://github.com/sindresorhus/is-docker
 - https://github.com/coderhammer/backhooks
 - https://github.com/SBoudrias/Inquirer.js
@@ -211,9 +212,11 @@
 
 ## LIBS: ENV
 - https://github.com/af/envalid
+- https://github.com/dotenvx/dotenvx
 - https://github.com/motdotla/dotenv
 - https://github.com/ekalinin/nodeenv
 - https://github.com/inventage/envsubst
+- https://github.com/motdotla/dotenv-expand
 
 ## LIBS: AUTH / OIDC
 - https://github.com/google/webauthndemo

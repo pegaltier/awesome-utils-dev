@@ -90,6 +90,7 @@ npm init
 - https://github.com/unjs/magicast
 - https://github.com/3rd/tsdiagram
 - https://github.com/phero-hq/phero
+- https://github.com/nonara/ts-patch
 - https://github.com/esbuild-kit/tsx
 - https://github.com/Microsoft/tsdoc
 - https://github.com/pastelsky/tsdocs

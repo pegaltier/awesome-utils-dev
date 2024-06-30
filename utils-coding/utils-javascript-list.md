@@ -372,6 +372,7 @@
 ## LIB: REGEX / MATCHER / GLOB
 - https://github.com/CJex/regulex
 - https://github.com/snd/url-pattern
+- https://github.com/slevithan/regex
 - https://github.com/devongovett/regexgen
 - https://github.com/micromatch/picomatch
 - https://github.com/sindresorhus/super-regex

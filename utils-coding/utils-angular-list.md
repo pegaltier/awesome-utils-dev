@@ -2704,7 +2704,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/daybrush/moveable
 - https://github.com/arturovt/selecto
 
-## ECOSYSTEM: LIB: COMPONENT: MEDIA
+## ECOSYSTEM: LIB: COMPONENT: MEDIA+2D/3D
 - https://github.com/daybrush/infinite-viewer
 - https://github.com/Marcelh1983/document-viewer
 - https://github.com/XuPeiYao/ngx-document-view
@@ -2713,6 +2713,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NorthwoodsSoftware/gojs-angular
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/makimenko/angular-template-for-threejs
+- https://github.com/angular-threejs/angular-three
 - https://github.com/nphias/ngx-deckgl-globe
 - https://github.com/angular-threejs/soba
 - https://github.com/IRobot1/ng3-vr-examples

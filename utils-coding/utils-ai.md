@@ -121,7 +121,6 @@
 - https://screenshottocode.com/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
-- https://github.com/TabbyML/tabby
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/stitionai/devika
@@ -164,6 +163,7 @@
 - https://openai.com/dall-e-2
 - https://stablediffusionweb.com/
 - https://huggingface.co/
+- https://modelscope.cn/
 - https://avatarai.me/
 - https://photoai.com/
 - https://www.bing.com/create
@@ -236,6 +236,10 @@
 - https://github.com/deepdoctection/deepdoctection
 - https://github.com/KillianLucas/open-interpreter/
 - https://github.com/aethermonkey/The-Digital-Hamlet
+
+## LIB: MACHINE LEARNING / ML
+- https://github.com/TabbyML/tabby
+- https://github.com/microsoft/DirectML
 
 ## LIB: DB
 - https://github.com/SuperDuperDB/superduperdb
@@ -335,6 +339,7 @@
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/meta-llama/llama3
+- https://github.com/karpathy/LLM101n
 - https://github.com/jmorganca/ollama
 - https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
@@ -406,6 +411,7 @@
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/facebookresearch/chameleon
 - https://github.com/easydiffusion/easydiffusion
+- https://github.com/modelscope/DiffSynth-Studio
 - https://github.com/kiri-art/docker-diffusers-api
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui *
