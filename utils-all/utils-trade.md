@@ -68,6 +68,7 @@
 - https://algotradinginfo.com/
 - https://marketscripters.com/
 - https://www.quantstart.com/
+- https://cyphercapital.ai/
 - https://tradesearcher.ai/
 - https://coinrule.com/
 - https://www.tokode.com/
@@ -214,6 +215,8 @@
 - https://cryptoquant.com/
 
 ## TOOLS: SCREENING / NEWS
+- https://trdr.io/
+- https://www.0xscope.com/
 - https://trendsspotter.ai/
 - https://www.zacks.com/
 - https://deepvue.com/
@@ -221,6 +224,7 @@
 - https://www.portfolio123.com/
 
 ## TOOLS: TRADE EXEC / BROKER
+- https://theref.io/
 - https://www.xtb.com
 - https://eu.deriv.com/
 - https://api.deriv.com/
@@ -330,6 +334,8 @@
 - https://www.pinescriptstrategies.com/
 - https://www.daytraderplaybook.com/
 - https://www.ultraalgo.com/
+- https://tradesage.co/
+- https://trdr.io/
 
 ## TOOLS: TRADINGVIEW: STRATEGY
 - https://muqwishi.com/home/products/
@@ -553,7 +559,9 @@
 ### OSS: ALL
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
+- https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/ghostfolio/ghostfolio
+- https://github.com/0xDub/figgie-auto
 
 ### OSS: STRATEGY
 - https://github.com/alanvito1/Binary-Robots
@@ -566,6 +574,7 @@
 ### OSS: EXECUTE
 - https://github.com/BingX-API
 - https://github.com/stoqey/ib *
+- https://github.com/ccxt/ccxt
 - https://github.com/gateio/gateapi-nodejs *
 - https://github.com/alpacahq/alpaca-trade-api-js *
 - https://github.com/Kucoin/kucoin-node-sdk *

@@ -449,12 +449,14 @@ emit/receive : https://github.com/quiet/quiet-js
 ## LIB
 - https://github.com/WebReflection/signal
 
-## WEBCOMPONENTS
+## WEBCOMPONENTS / COMPONENTS
 - https://open-ui.org/
 - https://stenciljs.com/
 - https://skatejs.netlify.com/
 - https://lit-element.polymer-project.org/
+
 - https://dev.to/melcor76/the-state-of-web-components-ab3
+- https://github.com/parthwebdev/UI-Components
 - https://github.com/mjbrisebois/openstate-js
 - https://github.com/mjbrisebois/purewc-template
 - https://github.com/github/details-menu-element

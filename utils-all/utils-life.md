@@ -5,7 +5,7 @@
 - https://www.youtube.com/watch?v=VcYAVlNRnHY
 
 ## Food
-- todo
+- https://www.blick.ch/fr/food/adresses/cest-inegal-on-a-teste-5-smash-burgers-a-lausanne-id19889888.html
 
 ## Drink
 - https://www.marmiton.org/boissons-froides/dry-january-voici-la-recette-star-des-cocktails-sans-alcool-a-faire-en-5-minutes-s4077640.html

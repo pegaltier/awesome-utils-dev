@@ -12,6 +12,7 @@
 ## Tools
 
 - https://tagassistant.google.com/
+- https://www.simpleanalytics.com/
 - https://chrome.google.com/webstore/detail/dataslayer/ikbablmmjldhamhcldjjigniffkkjgpo
 - https://chrome.google.com/webstore/detail/tag-assistant-companion/jmekfmbnaedfebfnmakmokmlfpblbfdm/related
 

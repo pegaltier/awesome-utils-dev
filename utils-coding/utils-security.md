@@ -44,10 +44,11 @@
 - https://1password.com
 - https://bitwarden.com
 
-## TOOLS: VAULT / DATA
+## TOOLS: SECRET MANAGEMENT / VAULT
 - https://www.cecurity.com/
 - https://www.vaultproject.io/
 - https://github.com/hashicorp/vault
+- https://github.com/Infisical/infisical
 
 ## TOOLS: HOST
 - https://www.wiz.io/

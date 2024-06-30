@@ -1,6 +1,9 @@
 
 # Starter
 
+## Paying
+- https://shipfa.st/
+
 ## Helper
 - https://github.com/x-ploration-of-mars/x-stack
 

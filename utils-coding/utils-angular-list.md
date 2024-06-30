@@ -2528,7 +2528,7 @@ Analyze and optimize the performance of your app
 - https://alligator.io/angular/custom-svg-icons-angular-material
 - https://github.com/angular-material-extensions/password-strength
 
-## ECOSYSTEM: LIB: COMPONENT: CAROUSEL/SLIDER
+## ECOSYSTEM: LIB: COMPONENT: CAROUSEL/SLIDER/GALLERY
 - https://github.com/naver/egjs-flicking
 - https://github.com/nolimits4web/swiper
 - https://github.com/sanjayV/ng-image-slider
@@ -2536,7 +2536,9 @@ Analyze and optimize the performance of your app
 - https://github.com/uiuniversal/ngu-carousel
 - https://github.com/angular-slider/ngx-slider
 - https://github.com/leo6104/ngx-slick-carousel
+- https://github.com/khangtrannn/ng-infinite-slider
 - https://github.com/ivylaboratory/angular-carousel
+- https://github.com/khangtrannn/ngx-gallery-slider
 - https://github.com/JustCommunication-ru/ngx-splide
 - https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o
 - https://github.com/BenjaminBrandmeier/angular2-image-gallery

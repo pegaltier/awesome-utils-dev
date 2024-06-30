@@ -20,6 +20,7 @@
 - https://github.com/web-infra-dev/modern.js
 - https://github.com/time-loop/only-allow
 - https://github.com/Thinkmill/manypkg
+- https://github.com/volta-cli/volta
 - https://github.com/cnpm/npminstall
 - https://github.com/moonrepo/proto
 - https://github.com/yarnpkg/berry
@@ -40,6 +41,7 @@
 - https://github.com/farm-fe/farm
 - https://github.com/rollup/rollup
 - https://github.com/huozhi/bunchee
+- https://github.com/swc-project/swc
 - https://github.com/rolldown/rolldown
 - https://github.com/privatenumber/tsx
 
@@ -114,6 +116,8 @@
 - https://github.com/infinyon/node-bindgen
 - https://github.com/privatenumber/tasuku
 - https://github.com/EvanZhouDev/donut-js
+- https://github.com/julien-R44/hot-hook
+- https://github.com/sindresorhus/execa
 - https://github.com/folke/ultra-runner
 - https://github.com/evanwashere/mitata
 - https://github.com/enquirer/enquirer

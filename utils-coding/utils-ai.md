@@ -54,6 +54,7 @@
 
 ## TOOLS: PROMPT
 - https://pi.ai/
+- https://jan.ai/ *
 - https://webllm.mlc.ai/
 - https://nitro.jan.ai/
 - https://www.phind.com/
@@ -68,7 +69,7 @@
 - https://github.com/promptslab/Promptify
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
-- https://github.com/janhq/jan
+- https://github.com/janhq/jan *
 - https://github.com/lencx/Noi
 
 ## TOOLS: SUPPORT
@@ -117,8 +118,9 @@
 - https://debuild.co/
 - https://www.devgpt.com/
 - https://www.codegpt.co/
-- https://www.codewand.co/
 - https://spellcraft.org/
+- https://www.codewand.co/
+- https://www.magickml.com/
 - https://gpt-tailwind.com/
 - https://screenshottocode.com/
 - https://github.com/pieces-app
@@ -126,6 +128,7 @@
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/stitionai/devika
+- https://github.com/Oneirocom/Magick
 - https://github.com/Nutlope/aicommits
 - https://github.com/plandex-ai/plandex
 - https://github.com/paul-gauthier/aider
@@ -316,6 +319,7 @@
 - https://github.com/bigscience-workshop/petals
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/mit-han-lab/streaming-llm
+- https://github.com/jose-donato/ollama-reply *
 - https://github.com/run-llama/LlamaIndexTS
 - https://github.com/Mozilla-Ocho/llamafile
 - https://github.com/Lightning-AI/lit-llama
@@ -399,6 +403,7 @@
 - https://github.com/openai/shap-e
 - https://github.com/upscayl/upscayl
 - https://github.com/THU-MIG/yolov10
+- https://github.com/lllyasviel/Omost
 - https://github.com/katanaml/sparrow
 - https://github.com/gradio-app/gradio *
 - https://github.com/lllyasviel/Fooocus *
