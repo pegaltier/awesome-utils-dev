@@ -80,7 +80,9 @@
 - https://www.d-id.com/
 - https://deepinfra.com/
 - https://stability.ai/
+- https://lmsys.org/
 - https://clipdrop.co/
+- https://airbyte.com/
 - https://sitegpt.ai/
 - https://ideasai.com/
 - https://kissangpt.com/
@@ -138,10 +140,11 @@
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
-## TOOLS: TEXT / DOCS
+## TOOLS: TEXT / DOCS / PDF
 - https://pdf.ai/
 - https://www.taglines.ai/
 - https://www.simplify.so/
+- https://www.pdfgpt.chat/
 - https://www.jasper.ai/
 - https://www.getcoralai.com/
 - https://learnfromanyone.com/
@@ -344,12 +347,13 @@
 - https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
+- https://github.com/lm-sys/FastChat
 - https://github.com/OpenBMB/MiniCPM
 - https://github.com/databricks/dbrx
 - https://github.com/salesforce/xgen
 - https://github.com/karpathy/minbpe
 - https://github.com/xai-org/grok-1
-- https://github.com/mlc-ai/web-llm
+- https://github.com/mlc-ai/web-llm *
 - https://github.com/run-llama/rags
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora

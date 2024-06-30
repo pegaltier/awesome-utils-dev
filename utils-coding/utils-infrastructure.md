@@ -196,6 +196,7 @@
 - https://github.com/jpca/Boulegueur
 - https://github.com/Portshift/kubei
 - https://github.com/kyverno/kyverno
+- https://github.com/argoproj/argo-cd
 - https://github.com/cilium/hubble-ui
 - https://github.com/loft-sh/jspolicy
 - https://github.com/hobby-kube/guide
@@ -358,9 +359,10 @@ PUTTY
 ## SUPERVISION
 htop
 
-## MONITORING
+## MONITORING / OBSERVABILITY
 
 - https://github.com/louislam/uptime-kuma
+- https://github.com/oneuptime/oneuptime
 - https://github.com/grafana/grafana
 - https://github.com/TwiN/gatus
 

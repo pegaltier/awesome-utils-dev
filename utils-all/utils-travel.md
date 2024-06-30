@@ -57,11 +57,16 @@ http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforme
 - https://www.carvolution.com/
 
 ## Swiss
-
+- https://gomore.ch/
 - https://hotelcard.ch/en
 - https://www.les-bisses-du-valais.ch/fr/
 - https://www.blick.ch/fr/well/a-tester-en-famille-ces-5-magnifiques-balades-en-valais-vous-feront-aimer-lhiver-id19216253.html
 - https://ulysse.com/news/voyager-en-train-panoramique-a-travers-la-suisse-top-5-des-itineraires-a-decouvrir
+
+## Festival
+- https://www.japaneuch.ch (end of june)
+- https://www.burning-mountain.ch (end of june)
+
 
 ## Best places
 

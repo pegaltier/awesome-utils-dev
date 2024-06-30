@@ -199,6 +199,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/juntofoundation/Shared-Perspective-Index
 - https://github.com/holochain-devcamp/devcamp8-game-of-commons
 - https://github.com/holochain-apps/gamez
+- https://github.com/holochain-open-dev/holoom
 - https://github.com/holochain-open-dev/status
 - https://github.com/holochain-open-dev/elements
 - https://github.com/holochain-open-dev/reactions

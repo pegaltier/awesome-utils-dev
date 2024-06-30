@@ -19,7 +19,7 @@
 - Jack Schwager https://jackschwager.com
 - Berg Milton https://miltonberg.com
 - Matt Delong https://www.matt-delong.com/
-- https://www.reallifetrading.com/
+- Gary Antonacci https://www.optimalmomentum.com/
 - Jay Wolberg http://www.tradingvolatility.net/
 - Hugh Kimura https://www.tradingheroes.com/
 - Dave Whitcomb https://www.peakalgo.com/
@@ -56,6 +56,7 @@
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/ *
+- https://www.reallifetrading.com/
 - https://www.trend-riders.com/
 - https://www.patreon.com/tradesmart224
 - https://www.patreon.com/algotradepro
@@ -208,10 +209,12 @@
 - https://support.google.com/docs/answer/3093281?hl=en
 
 ## TOOLS: ONLINE
+- https://www.thealexoneill.com/performance
 - https://www.realcharts.app/
 - https://cryptoquant.com/
 
 ## TOOLS: SCREENING / NEWS
+- https://trendsspotter.ai/
 - https://www.zacks.com/
 - https://deepvue.com/
 - https://www.smartcharts.net/
@@ -223,6 +226,7 @@
 - https://api.deriv.com/
 - https://www.robomarkets.com/
 - https://insilicoterminal.com/
+- https://www.pandaterminal.com/
 - https://centerpointsecurities.com/
 
 ## TOOLS: INDIA
@@ -392,7 +396,7 @@
 - https://www.tradingview.com/script/vvnBaPEo-Normalized-Z-Score/ *
 - https://www.tradingview.com/script/7VCv22aq-Base-Finder/
 - https://www.tradingview.com/script/YWL5ADxO-TTP-RSI/ *
-- https://www.tradingview.com/script/I9yPY5x6-Asset-Rotation-Aperture/
+- https://www.tradingview.com/script/I9yPY5x6-Asset-Rotation-Aperture/ *
 - https://www.tradingview.com/script/Vs2TjhTe-Higher-Highs-Lower-Lows-Stochastics-Vitali-Apirine/
 
 ## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
@@ -565,8 +569,10 @@
 - https://github.com/gateio/gateapi-nodejs *
 - https://github.com/alpacahq/alpaca-trade-api-js *
 - https://github.com/Kucoin/kucoin-node-sdk *
+- https://github.com/tiagosiebler/accountstate
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
+- https://github.com/tiagosiebler/gateio-api
 - https://github.com/phemex/phemex-api-docs
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/bitget-api

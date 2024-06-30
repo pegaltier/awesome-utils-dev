@@ -236,6 +236,7 @@
 ## LIBS: AI
 - https://github.com/naptha/tesseract.js
 - https://github.com/openai/openai-node
+- https://github.com/frost-beta/node-mlx
 
 ## LIBS: IMAGES
 - https://github.com/lovell/sharp

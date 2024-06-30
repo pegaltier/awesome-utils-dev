@@ -14,3 +14,9 @@
 - https://arvy.ch/
 - https://www.noii.ch/
 - https://www.coupdefoudre30plus.ch/
+
+## Italy
+- https://www.idealista.it/en/
+
+## Immo
+- https://www.greenkub.fr/

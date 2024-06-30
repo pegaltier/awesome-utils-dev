@@ -1,5 +1,14 @@
 # Google Tag Manager
 
+
+## Tools OSS
+- https://github.com/PostHog/posthog
+- https://github.com/aptabase/aptabase
+- https://github.com/matomo-org/matomo
+- https://github.com/plausible/analytics
+- https://github.com/umami-software/umami
+- https://github.com/benvinegar/counterscale
+
 ## Tools
 
 - https://tagassistant.google.com/

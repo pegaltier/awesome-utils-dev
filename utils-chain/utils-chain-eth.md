@@ -19,10 +19,12 @@
 - https://github.com/wslyvh/nexth
 - https://github.com/wevm/abitype
 - https://github.com/mds1/evm-diff
+- https://github.com/paradigmxyz/reth
 - https://github.com/DePayFi/web3-mock
 - https://github.com/pubkey/eth-crypto
 - https://github.com/ethers-io/ethers.js
 - https://github.com/ipatka/scaffold-eth
+- https://github.com/polkadot-evm/frontier
 - https://github.com/ethereum-ts/TypeChain
 - https://github.com/larvalabs/cryptopunks
 - https://github.com/ZeframLou/vested-erc20

@@ -214,6 +214,7 @@
 
 ## LIB: POLYFILL
 - https://github.com/argyleink/scrollyfills
+- https://github.com/sachinchoolur/jquery-to-javascript-converter
 
 ## LIB: DEVTOOLS
 
@@ -320,7 +321,6 @@
 - https://github.com/stryker-mutator/stryker
 - https://github.com/staltz/promisify-4loc
 - https://github.com/gustf/js-levenshtein
-- https://github.com/ajv-validator/ajv
 - https://github.com/pshihn/rough
 - https://github.com/ded/script.js
 - https://github.com/jgranstrom/zipson
@@ -387,6 +387,7 @@
 - https://github.com/ajv-validator/ajv
 - https://github.com/ansman/validate.js
 - https://github.com/neuledge/computed-types
+- https://github.com/validatorjs/validator.js
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/koorchik/js-validator-livr
 
@@ -512,6 +513,7 @@
 ## LIB: FRONTEND ALL
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/SamVerschueren/decode-uri-component
+- https://github.com/atlassian/pragmatic-drag-and-drop
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
@@ -639,6 +641,7 @@
 - https://github.com/williamtroup/Syntax.js
 - https://github.com/highcharts/highcharts
 - https://github.com/bprusinowski/plotteus
+- https://github.com/cube-js/awesome-tools
 - https://github.com/williamtroup/Heat.js
 - https://github.com/gionkunz/chartist-js
 - https://github.com/jagenjo/litegraph.js
@@ -824,6 +827,7 @@
 - https://github.com/foliojs/pdfkit
 - https://github.com/Hopding/pdf-lib
 - https://github.com/torakiki/pdfsam
+- https://github.com/dalenguyen/pdfun
 - https://github.com/bpampuch/pdfmake
 - https://github.com/carboneio/carbone
 - https://github.com/24eme/signaturepdf

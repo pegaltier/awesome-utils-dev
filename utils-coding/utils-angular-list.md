@@ -275,6 +275,7 @@ Learn about the most useful design patterns in Angular.
 - https://dev.to/aurelien_alet/hexagonal-architecture-with-angular-8ll
 - https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 - https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c
+- https://samvloeberghs.be/posts/timeless-angular-best-practices/
 - https://github.com/aurelien-alet/angular-toh-hexagonal
 - https://github.com/StephenCooper/ngTemplateOutlets
 - https://github.com/DMezhenskyi/angular-template-outlet-example
@@ -1845,6 +1846,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/htmlhint/HTMLHint
 - https://github.com/palantir/tslint
 - https://github.com/eslint/eslint
+- https://github.com/eslint/config-inspector
 - https://github.com/bluwy/publint
 - https://github.com/mgechev/ngrev
 - https://github.com/Tinkoff/linters
@@ -2287,6 +2289,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: MARKETING / TRACKING
 
 - https://github.com/scttcper/ng2-adsense
+- https://github.com/notiz-dev/ngx-plausible
 - https://github.com/EmmanuelRoux/ngx-matomo
 - https://github.com/codediodeio/angular-gtag
 - https://github.com/angulartics/angulartics2

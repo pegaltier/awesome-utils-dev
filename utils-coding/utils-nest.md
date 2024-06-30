@@ -22,6 +22,7 @@
 - https://github.com/nestjsx/nestjs-amqp
 - https://github.com/nestjs/ng-universal
 - https://github.com/nest-modules/mailer
+- https://github.com/jbiskur/nestjs-utils
 - https://github.com/Papooch/decorate-all
 - https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter
