@@ -170,6 +170,7 @@
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 
 ## TOOLS: BACKTESTING
+- https://tradomate.one/
 - https://algowizard.io/
 - https://forextester.com/
 - https://www.naked-markets.com/
@@ -437,7 +438,7 @@
 - https://www.tv-hub.org/
 - https://alertatron.com/
 - https://webhookbot.net
-- https://traderspost.io/
+- https://traderspost.io/ *
 - https://capitalise.ai/
 - https://optipie.app/
 - https://www.bots.io/

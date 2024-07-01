@@ -31,12 +31,45 @@ MockedStaticHelper.displayThing = jest.fn().mockReturnValue(true);
 - You can also mock entire libraries by mapping in the jest preset to a file, see jest.preset.js:
 - Mock files: https://stackoverflow.com/questions/49685265/jest-mock-user-module-in-all-test-files
 
+
+You can also mock to return different results on each call using mockReturnValueOnce
+
+```javascript
+myMock
+  .mockReturnValueOnce(10) // return 10 on the first call
+  .mockReturnValueOnce('x') // return 'x' on the second call
+  .mockReturnValue(true); // return true anytime after that
+```
+
+If you need more options you can use jest-when to return specific response based on the function parameter
+
+```javascript
+when(fn).calledWith(1).mockReturnValue('yay!')
+```
+
+
 ## Expect
+
+example to check the arguments that the mock has been called with
+
+```javascript
+expect(mock).toHaveBeenNthCalledWith(1, '1st call args'); // called with '1st call args' the first time 
+expect(mock).toHaveBeenNthCalledWith(2, '2nd call arg 1', '2nd call arg 2'); // called with '2nd call arg 1' and '2nd call arg 2' the second time
+```
 
 exemple how to check that an object contains a property with another object
 
 ```javascript
-.toEqual(expect.objectContaining({ myProp: expect.any(Object)}))
+expect(state.active.active).toEqual(true)
+expect(state.active.data).toEqual(expect.any(Array))
+expect(state.active.ID).toEqual(expect.any(String))
+expect(state).toEqual(expect.objectContaining({ myProp: expect.any(Object)}))
+expect(state.active).toMatchObject({
+    active: true,
+    data: expect.any(Array),
+    ID: expect.any(String)
+});
+
 ```
 
 ## Articles

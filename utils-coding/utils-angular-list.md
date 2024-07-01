@@ -2254,6 +2254,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/testing-library/angular-testing-library
 - https://github.com/testing-library/jest-dom
 - https://github.com/jest-community/jest-junit
+- https://github.com/timkindberg/jest-when
 - https://github.com/kulshekhar/ts-jest
 - https://github.com/nicolo-ribaudo/jest-light-runner
 - https://github.com/americanexpress/jest-image-snapshot
