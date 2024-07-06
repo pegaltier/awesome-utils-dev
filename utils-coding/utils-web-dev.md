@@ -512,6 +512,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/withastro/astro
 - https://github.com/shuding/nextra
 - https://github.com/mdx-js/mdx
+- https://github.com/umijs/dumi
 - https://github.com/alloc/saus
 - https://github.com/nuejs/nue
 - https://github.com/unjs/h3
@@ -524,6 +525,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/zenorocha/react-email
 - https://github.com/tomayac/dark-mode-email
 - https://github.com/leemunroe/responsive-html-email-template
+- https://github.com/disposable-email-domains/disposable-email-domains
 
 ## CREATIVE TOOLS
 - https://github.com/luruke/aladino

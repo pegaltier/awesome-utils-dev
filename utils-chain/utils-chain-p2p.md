@@ -35,6 +35,7 @@
 - https://github.com/hyperswarm/dht-relay
 - https://github.com/ueberdosis/hocuspocus
 - https://github.com/ceramicnetwork/js-did
+- https://github.com/holepunchto/hyperswarm
 - https://github.com/browser-network/network
 - https://github.com/browser-network/database
 - https://github.com/ChainSafe/js-libp2p-gossipsub

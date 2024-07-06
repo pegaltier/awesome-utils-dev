@@ -20,6 +20,7 @@
 - https://github.com/chentsulin/awesome-react-renderer
 - https://github.com/iamshaunjp/Complete-React-Tutorial
 - https://github.com/airbnb/javascript/tree/master/react
+- https://github.com/mattpocock/react-typescript-tutorial-helpers
 - https://www.taniarascia.com/react-architecture-directory-structure/
 - https://khalilstemmler.com/articles/client-side-architecture/introduction/
 - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets

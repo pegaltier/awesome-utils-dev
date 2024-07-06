@@ -238,6 +238,7 @@
 - https://github.com/bdcorps/langchain-pdf-qa
 - https://github.com/google-research/jaxpruner
 - https://github.com/googleprojectzero/fuzzilli
+- https://github.com/ai-robots-txt/ai.robots.txt
 - https://github.com/Unstructured-IO/unstructured
 - https://github.com/deepdoctection/deepdoctection
 - https://github.com/KillianLucas/open-interpreter/
@@ -256,10 +257,13 @@
 
 ## LIB: DATA PARSER / RAG / CONTEXT
 - https://github.com/ragapp/ragapp
+- https://github.com/weaviate/Verba
+- https://github.com/microsoft/graphrag
 - https://github.com/run-llama/llama_index
 - https://github.com/run-llama/llama_parse
 - https://github.com/langchain-ai/langgraph
 - https://github.com/mendableai/firecrawl
+- https://github.com/adithya-s-k/omniparse
 - https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: GPT

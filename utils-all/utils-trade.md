@@ -673,6 +673,7 @@
 - https://github.com/ranaroussi/quantstats *
 - https://github.com/letianzj/QuantResearch *
 - https://github.com/blankly-finance/blankly
+- https://github.com/yasinkuyu/binance-trader
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/je-suis-tm/quant-trading *
 - https://github.com/fmzquant/backtest_python * 
@@ -687,6 +688,7 @@
 - https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
+- https://github.com/mr-easy/streaming_indicators
 - https://github.com/BennyThadikaran/stock-pattern
 - https://github.com/DogsTailFarmer/martin-binance
 - https://github.com/day0market/support_resistance

@@ -250,6 +250,7 @@
 
 ## LIB: EVENT / BUS
 - https://github.com/ai/nanoevents
+- https://github.com/primus/eventemitter3
 
 ## LIB: DATABASE
 - https://github.com/knex/knex
@@ -632,7 +633,7 @@
 - https://github.com/tinyworldmap/tiny-world-map
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
-## LIB: DATAVIZ / CHART / WORKFLOW / DATA VIZ
+## LIB: DATAVIZ / CHART / DATA VIZ
 - https://github.com/tradingview/awesome-tradingview
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/webmobiledev/vue-tradingview
@@ -647,7 +648,6 @@
 - https://github.com/jagenjo/litegraph.js
 - https://github.com/chartist-js/chartist
 - https://github.com/kbychkov/dailychart
-- https://github.com/jerosoler/Drawflow
 - https://github.com/finos/perspective
 - https://github.com/jacomyal/sigma.js
 - https://github.com/observablehq/plot
@@ -655,6 +655,10 @@
 - https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
 - https://github.com/d3fc/d3fc
+
+## LIB: WORKFLOW / PIPES
+- https://github.com/jerosoler/Drawflow
+- https://github.com/pipes-digital/pipes
 
 ## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
 - https://github.com/francoischalifour/medium-zoom
@@ -709,6 +713,7 @@
 - https://github.com/bgstaal/multipleWindow3dScene
 - https://github.com/anvaka/graph-drawing-libraries
 - https://github.com/0beqz/screen-space-reflections
+- https://github.com/transferthought/transfer-thought
 - https://github.com/dgreenheck/threejs-procedural-planets
 - https://github.com/supermedium/aframe-environment-component
 - https://github.com/lumalabs/luma-web-library
@@ -867,6 +872,7 @@
 - https://github.com/vendure-ecommerce/vendure
 
 ## CANVAS 
+- https://github.com/dgmjs/dgmjs
 - https://github.com/Leimi/drawingboard.js
 - https://joshbradley.me/object-collisions-with-canvas/
 

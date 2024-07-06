@@ -188,6 +188,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/ThetaSinner/h-kennis
 - https://github.com/ThetaSinner/h-drone-swarm
 - https://github.com/KoruProtocol/koru
+- https://github.com/darksoil-studio/tasks
 - https://github.com/darksoil-studio/gather
 - https://github.com/darksoil-studio/assemble
 - https://github.com/darksoil-studio/p2p-shipyard

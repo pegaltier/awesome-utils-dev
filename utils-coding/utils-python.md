@@ -1,11 +1,10 @@
 # Python dev
 
 ## Host
-
 - https://modal.com/
 
-## List
-
+## List / Learn
+- https://github.com/Asabeneh/30-Days-Of-Python
 - https://github.com/zhiwehu/Python-programming-exercises
 
 ## Helper

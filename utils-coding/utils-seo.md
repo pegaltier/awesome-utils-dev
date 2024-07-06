@@ -96,8 +96,9 @@ seo phase d'optimisation :
 - https://seobutler.com/
 - https://www.haroseo.co/
 
-## TOOLS
+## TOOLS / OSS / INDEXING
 - https://github.com/remibacha/kwClustersR
+- https://github.com/goenning/google-indexing-script
 
 ## CONCURRENCE
 - https://www.changedetection.com/

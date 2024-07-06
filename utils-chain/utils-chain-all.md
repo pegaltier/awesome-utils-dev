@@ -357,7 +357,7 @@
 
 ## DEX OSS
 - https://github.com/XPRNetwork/dex-bot
-
+- https://github.com/hollaex/hollaex-kit
 
 ## N EXCHANGE
 - https://uphold.com

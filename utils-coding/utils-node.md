@@ -35,6 +35,7 @@
 - https://github.com/tj/n
 
 ## BUNDLER / BUILDER
+- https://github.com/umijs/mako
 - https://github.com/yao-pkg/pkg
 - https://github.com/vitejs/vite
 - https://github.com/vercel/turbo
@@ -44,6 +45,7 @@
 - https://github.com/swc-project/swc
 - https://github.com/rolldown/rolldown
 - https://github.com/privatenumber/tsx
+- https://github.com/DataDog/build-plugins
 
 ## STARTER
 - https://github.com/bezkoder/node-js-mssql-crud-example

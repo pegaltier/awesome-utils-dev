@@ -2915,6 +2915,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: STARTER
 - https://github.com/ng-matero/nx-starter
+- https://github.com/larscom/ng-chrome-extension
 - https://github.com/Tinkoff/angular-open-source-starter
 - https://github.com/creativetimofficial/material-dashboard
 

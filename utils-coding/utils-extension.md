@@ -8,4 +8,5 @@
 - https://github.com/extend-chrome/clipboard
 
 ## STARTER
+- https://github.com/larscom/ng-chrome-extension
 - https://github.com/jose-donato/template-react-browser-extension

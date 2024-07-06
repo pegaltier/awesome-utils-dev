@@ -59,6 +59,7 @@
 - https://github.com/uwidev/life-disciplines-projects
 
 # OSS: PHOTO
+- https://github.com/ente-io/ente
 - https://github.com/rishimohan/pika
 - https://github.com/immich-app/immich
 - https://github.com/electerious/Lychee
@@ -80,6 +81,7 @@
 - https://github.com/keepassx/keepassx
 
 ## OSS: WEB
+- https://github.com/ccbikai/Sink
 - https://github.com/anfragment/zen
 - https://github.com/imputnet/cobalt
 - https://github.com/Lynx-Shortener/Lynx
