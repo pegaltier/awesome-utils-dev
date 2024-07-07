@@ -43,6 +43,7 @@
 - https://hudsonthames.org/
 - https://crypto-robot.com/
 - https://cryptowizards.net/
+- https://www.zeiierman.com/
 - https://www.quantinsti.com/
 - https://www.quantscience.io/
 - https://allocatesmartly.com/
@@ -398,6 +399,7 @@
 ## TOOLS: TRADINGVIEW: INDICATORS KERNEL / LINE REG
 - https://www.tradingview.com/v/Iko0E2kL/
 - https://www.tradingview.com/script/e0Ek9x99-KernelFunctions/
+- https://www.tradingview.com/script/eTgP2ymK-Volume-SuperTrend-AI-Expo/
 - https://www.tradingview.com/script/NUeh5q6T-Linear-Regression-All-Data/
 - https://www.tradingview.com/script/WeLssFxl-Nadaraya-Watson-Envelope-Non-Repainting/
 - https://www.tradingview.com/script/AWNvbPRM-Nadaraya-Watson-Rational-Quadratic-Kernel-Non-Repainting/

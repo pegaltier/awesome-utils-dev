@@ -1278,6 +1278,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/logux/state
 - https://github.com/artalar/reatom
 - https://github.com/e-square-io/ark
+- https://github.com/statelyai/xstate
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/ds300/derivablejs
 - https://github.com/tinyplex/tinybase
@@ -1288,6 +1289,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/spierala/mini-rx-store
 - https://github.com/aikoven/typescript-fsa
 - https://github.com/lacolaco/reactive-store
+- https://github.com/adrianhdezm/ngx-xstate
 - https://github.com/ultimatecourses/lite-store
 - https://github.com/lVlyke/lithium-angular
 - https://github.com/AmadeusITGroup/tansu
@@ -1960,6 +1962,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/alcfeoh/ngx-signalify
 - https://github.com/larscom/ngrx-signals-storage
 - https://github.com/timdeschryver/ng-signal-forms
+- https://github.com/niklas-wortmann/xstate-angular
 - https://github.com/ngxtension/ngxtension-platform
 
 ## ECOSYSTEM: LIB: DOM
