@@ -394,6 +394,7 @@
 ## LIB: VIDEO
 - https://github.com/topics/ai-avatars
 - https://github.com/hpcaitech/Open-Sora
+- https://github.com/KwaiVGI/LivePortrait
 - https://github.com/SoraWebui/FakeSoraAPI
 - https://github.com/NumesSanguis/FACSvatar
 - https://github.com/HVision-NKU/StoryDiffusion
