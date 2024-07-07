@@ -3,7 +3,8 @@
 ## NEWS
 - https://github.com/osanseviero/ml_timeline
 - https://9elements.com/blog/ai-glossary
-- https://www.therundown.ai/
+- https://www.superhuman.ai
+- https://www.therundown.ai
 
 ## TENSOR FIRE
 - https://tenso.rs/demos/fast-neural-style/
@@ -141,6 +142,7 @@
 - https://github.com/gptscript-ai/gptscript
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/coderabbitai/ai-pr-reviewer
+- https://github.com/Doriandarko/claude-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 
 ## TOOLS: TEXT / DOCS / PDF
@@ -255,8 +257,9 @@
 ## LIB: NEURAL NETWORK
 - https://github.com/apple/corenet
 
-## LIB: DATA PARSER / RAG / CONTEXT
+## LIB: DATA PARSER / RAG / CONTEXT / SCRAPER
 - https://github.com/ragapp/ragapp
+- https://github.com/apify/crawlee
 - https://github.com/weaviate/Verba
 - https://github.com/microsoft/graphrag
 - https://github.com/run-llama/llama_index

@@ -242,7 +242,6 @@ npm init
 - https://github.com/pelotom/runtypes
 - https://github.com/arcanis/typanion
 - https://github.com/arktypeio/arktype
-- https://github.com/tinyplex/tinybase
 - https://github.com/mistlog/typetype
 - https://github.com/stephenh/ts-proto
 - https://github.com/syntax-tree/unist
@@ -337,10 +336,11 @@ si classe alors utiliser mecanisme fromJSON (ng-book2 screencast final-app voir 
 - https://www.typescriptlang.org/docs/handbook/classes.html
 - https://css-tricks.com/creating-reusable-base-classes-in-typescript-with-a-real-life-example
 
-## GENERIC SERVICE
+## GENERIC TYPE / SERVICE
 - https://stackoverflow.com/questions/44129817/typescript-generic-service
 - https://stackoverflow.com/questions/28273714/typescript-generics-extending-class-and-interface
 - https://codereview.stackexchange.com/questions/164995/best-solution-for-returning-results-from-a-generic-typescript-service
+- https://nicotsou.com/tltr-typescript-mapped-types/
 
 ## DECORATORS
 - https://medium.com/@rossbulat/get-started-with-typescript-decorators-cf3924c37f04

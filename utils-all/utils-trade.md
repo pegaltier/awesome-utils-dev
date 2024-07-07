@@ -142,6 +142,10 @@
 - https://www.algos.org/p/data-sourcing-the-guide *
 - https://data.world/crispydata/bitcoin-historical-data
 - https://github.com/DavideViolante/investing-com-api *
+- https://github.com/datasets/finance-vix
+- https://github.com/datasets/s-and-p-500
+- https://github.com/datasets/gold-prices
+- https://github.com/datasets/exchange-rates-usd
 - https://fuserleer.online/exchange_data/
 - https://github.com/jugaad-py/jugaad-data
 - https://www.youtube.com/watch?v=myydDX-us4o
@@ -273,6 +277,7 @@
 - https://www.spectralalpha.com/
 - https://materialindicators.com/
 - https://www.meridianresearch.fr/
+- https://bettertraderacademy.com/
 - https://www.ai-backbone.com/aiforgold
 - https://www.algomatictrading.com
 - https://www.gomicroai.com/
@@ -374,6 +379,7 @@
 - https://www.tradingview.com/script/uqelSkN1-Synthetic-Price-Action-Generator/
 - https://www.tradingview.com/script/3PlLOQCF-Crypto-Terminal-Kioseff-Trading/
 - https://www.tradingview.com/script/nluWCID6-Bar-Count-for-Backtesting/
+- https://www.tradingview.com/script/ZUqQdIKU-pAulseperformance-PSStrategyX/
 - https://www.tradingview.com/script/R43706do-Threshold-counter/
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
 - https://github.com/RobertAgee/Pine-Script-Display-Case *
@@ -405,6 +411,8 @@
 - https://www.tradingview.com/script/YWL5ADxO-TTP-RSI/ *
 - https://www.tradingview.com/script/I9yPY5x6-Asset-Rotation-Aperture/ *
 - https://www.tradingview.com/script/Vs2TjhTe-Higher-Highs-Lower-Lows-Stochastics-Vitali-Apirine/
+- https://www.tradingview.com/script/CUpWCZhe-Concretum-Bands/
+- https://www.tradingview.com/script/VFjyDUJx-Exhaustion-Signal/
 
 ## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
 - https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/
@@ -812,7 +820,9 @@
 - https://www.acquired.fm/episodes/renaissance-technologies
 - https://www.youtube.com/@ChatWithTradersPodcast/videos
 
-## FMZ
+## SOCIAL TRADE / FMZ / ZIGNALY / ZIGDAO
+- https://zigdao.com/
+- https://www.fmz.com/
 - https://www.fmz.com/strategy/359806 *
 - https://www.fmz.com/strategy/361880 * 
 - https://www.fmz.com/strategy/361554 * 
@@ -828,3 +838,4 @@
 - https://www.fmz.com/api#backtesting-system-parameter-optimization
 - https://medium.com/@FMZQuant/javascript-strategy-backtesting-is-debugged-in-devtools-of-chrome-browser-3f2eeea3a446
 - https://blog.mathquant.com/2020/06/04/fmz-simulation-level-backtest-mechanism-explanation.html
+- https://app.zignaly.com/profit-sharing/658747698e8b2abab3054648?invite=617dba8cd0f5a&subtrack=658747698e8b2abab3054648

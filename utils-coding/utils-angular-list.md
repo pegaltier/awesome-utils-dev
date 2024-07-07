@@ -895,6 +895,9 @@ Learn about the angular router, lazy load your modules.
 - https://theinfogrid.com/tech/developers/angular/lazy-loading-scripts-and-styles-angular/
 - https://coryrylan.com/blog/angular-tips-dynamic-module-imports-with-the-angular-cli
 
+## CORE: DEFER
+- https://www.angularspace.com/using-defer-deferviews-in-angular-17/
+
 ## CORE: SECURITY
 
 - https://www.youtube.com/watch?v=GaJ71V28woY Angular Vienna, Web Application Security for Frontend Devs, July 2019
@@ -997,6 +1000,9 @@ Learn everything about angular universal, make a good SEO.
 - https://angular-signals.netlify.app/
 - https://www.angulararchitects.io/aktuelles/angular-signals-your-architecture-5-options/
 - https://www.angulararchitects.io/en/blog/component-communication-with-signals-inputs-two-way-bindings-and-content-view-queries/
+- https://justangular.com/blog/providing-inputs-in-di
+- https://nartc.me/blog/angular-object-inputs/
+- https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396
 
 ## CORE: ERROR HANDLER
 
@@ -1127,6 +1133,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/IliaIdakiev/ngrx-action-bundles
 - https://github.com/satanTime/ngrx-entity-relationship
 - https://github.com/larscom/ngrx-store-storagesync
+- https://github.com/larscom/ngrx-store-formsync
 - https://github.com/brandonroberts/ngrx-store-freeze
 - https://github.com/wesleygrimes/ngrx-file-upload
 - https://github.com/nilsmehlhorn/ngrx-wieder
@@ -1273,6 +1280,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/e-square-io/ark
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/ds300/derivablejs
+- https://github.com/tinyplex/tinybase
 - https://github.com/effector/effector
 - https://github.com/kuncevic/rx-service
 - https://github.com/nanostores/nanostores
@@ -1950,6 +1958,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: SIGNALS
 - https://github.com/alcfeoh/ngx-signalify
+- https://github.com/larscom/ngrx-signals-storage
 - https://github.com/timdeschryver/ng-signal-forms
 - https://github.com/ngxtension/ngxtension-platform
 
@@ -1975,6 +1984,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/ultimatecourses/ngx-pagevisibility
 - https://github.com/nartc/ngx-resize (TOADD)
 - https://github.com/wnabil/ngx-export-as (TOADD)
+- https://github.com/pomber/intersection-observer-debugger (TOADD)
 
 ## ECOSYSTEM: LIB: HTTP
 
@@ -2338,6 +2348,7 @@ Analyze and optimize the performance of your app
 - https://github.com/martinroob/ngx-i18nsupport-lib
 - https://github.com/ngx-translate/i18n-polyfill
 - https://github.com/Tuizi/i18n-split-example
+- https://github.com/larscom/ngx-translate-module-loader
 - https://github.com/lephyrus/ngx-translate-messageformat-compiler
 - https://itnext.io/lazy-load-translation-files-in-angular-using-transloco-2d3afed116ce
 - https://netbasal.com/introducing-transloco-angular-internationalization-done-right-54710337630c
@@ -2381,6 +2392,7 @@ Analyze and optimize the performance of your app
 - https://github.com/AhsanAyaz/ngx-read-time
 - https://github.com/leovo2708/ngx-treeview
 - https://github.com/joejordanbrown/popover
+- https://github.com/larscom/ng-qrcode-svg
 - https://github.com/ncstate-sat/popover
 - https://github.com/nbfontana/ngx-currency
 - https://github.com/Harvest-Dev/ng-select2
@@ -3453,6 +3465,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
+
+### ANGULAR18
+- https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe?gi=9a3fb58ef2bb
 
 ### ANGULAR17
 

@@ -193,6 +193,14 @@
 - https://www.w3schools.com/css/css_positioning.asp
 - https://stackblitz.com/edit/css-position?file=index.html
 
+
+## SELECTORS
+
+### PARENT
+
+CSS parent selector: li:has(> a.active) { /* styles to apply to the li tag */ }
+- https://stackoverflow.com/questions/1014861/is-there-a-css-parent-selector
+
 ## STACKING CONTEXT
 
 - z-index has utility only if position is specified

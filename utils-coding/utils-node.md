@@ -146,6 +146,7 @@
 
 ## MONITORING / LOGGING
 - https://github.com/pinojs/pino
+- https://github.com/immobiliare/dats
 - https://clinicjs.org/
 - http://pm2.keymetrics.io/
 
@@ -290,6 +291,7 @@
 - https://github.com/colyseus/colyseus
 
 ## SERVER: PROXY
+- https://github.com/apify/proxy-chain
 - https://github.com/chimurai/http-proxy-middleware
 - https://github.com/joeferner/node-http-mitm-proxy
 

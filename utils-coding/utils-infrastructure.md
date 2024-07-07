@@ -117,6 +117,7 @@
 - https://github.com/hyperdxio/hyperdx
 - https://github.com/louislam/uptime-kuma
 - https://github.com/oneuptime/oneuptime
+- https://github.com/IKatsuba/openstatus
 - https://github.com/asynkron/TraceLens
 - https://github.com/grafana/grafana
 - https://github.com/keephq/keep

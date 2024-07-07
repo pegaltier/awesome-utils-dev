@@ -589,3 +589,8 @@ PANTOS — - https://pantos.io
 - https://github.com/solana-program/create-solana-program
 - https://github.com/paul-schaaf/awesome-solana
 - https://shyft.to/
+
+## NEW PROJECTS
+
+### 2024
+- https://www.spaceandtime.io/

@@ -64,8 +64,9 @@ http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforme
 - https://ulysse.com/news/voyager-en-train-panoramique-a-travers-la-suisse-top-5-des-itineraires-a-decouvrir
 
 ## Festival
-- https://www.japaneuch.ch (end of june)
-- https://www.burning-mountain.ch (end of june)
+- https://www.japaneuch.ch neuchatel (end of june)
+- https://www.burning-mountain.ch swiss german (end of june)
+- https://evenements.geneve.ch/musiquesenete/ geneve (july, august)
 
 
 ## Best places

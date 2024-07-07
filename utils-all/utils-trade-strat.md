@@ -249,6 +249,10 @@ The bull signal is the following: 18 consecutive closes above the 200 SMA in a b
 - detail: https://www.buildalpha.com/equity-curve-trading/
 - however based on Joachim Moser, it's very complex thing to do, and so not recommended because often at the end often arrives a very profitable trades you don't want to miss.
 
+## Strat: Multi time frame strategy
+- https://www.pyquantnews.com/the-pyquant-newsletter/backtest-powerful-intraday-trading-strategies
+- VectorBT Pro
+
 ## INFLATION/DEFLATION
 - when bonds are crashing then interest rates are rising => we are going towards inflation
 - when bonds are rising then interest rates are crashing => we are going towards deflation
@@ -316,6 +320,7 @@ The classic moving average is generating a lot of whipsaws so you can add an ext
 - http://www.traderslaboratory.com/forums/topic/6999-reducing-whipsaws-two-simple-methods/
 
 ## AI: ARTIFICIAL INTELLIGENCE / MACHINE LEARNING
+- https://medium.com/@survexman/deep-learning-for-portfolio-optimization-introduction-f098f4b83ed3
 - https://www.patreon.com/posts/update-beta-2-0-95632796  Lorentzian Classification Beta [2.0]
 - https://www.youtube.com/watch?v=DnJDVc7loA0 QuantProgram How Machine Learning/AI Traders Beats Retail Traders with Example Strategy for Beginners
 - https://www.youtube.com/watch?v=c9OjEThuJjY Nicholas Renotte
@@ -347,6 +352,13 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - REFS5: use monthly chart and buy long after 2 consecutive close above the SMA(12) and exit when close below the SMA(12), works very well on SPY, APPLE, AMZN, GME
 - REFS6: turtle is a momentum strategy and the rules are buy long on breakout of 20 or 55 days, hard stop using atr(x) *2, add to positions after new breakout
 
+## STRATEGY: INDICES / ETF
+- https://youtu.be/g4Gyb7TUhGA Peak Trading Research - S&P 500 RSI & ADX 🚀 | Strategy of the Month July 2024
+- https://youtu.be/efj-2gA_l_g Profitsonautopilot - free-futures-trading-bot-full-code
+- https://profitsonautopilot.substack.com/p/free-futures-trading-bot-full-code/comments
+- https://www.buildalpha.com/properly-funding-a-strategy-with-monte-carlo/
+- https://www.quantitativo.com/p/the-holy-grail-still-works
+
 ## STRATEGY: WEBSITES / ARTICLES
 - https://tradingindicators.com/
 - https://www.tradingwithrayner.com/inside-bar/
@@ -377,6 +389,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.com/@crisvelasquez/identify-key-market-shifts-with-the-volatility-ratio-16760a26b52a
 - https://medium.datadriveninvestor.com/how-to-create-a-profitable-cryptocurrency-trading-bot-part-1-overview-and-trading-strategy-cf178300a0ea
 - https://medium.com/@crisvelasquez/identifying-key-market-interest-with-the-volume-ratio-in-python-1f9904705711
+- https://www.concretumgroup.com/backtesting-7-years-of-free-data-beat-the-market-an-effective-intraday-momentum-strategy-for-the-sp500-etf-spy/
 
 ## STRATEGY: LIST
 - https://docs.google.com/spreadsheets/d/1WcvrG8KLyYqXXveyEIlfYljtOLg7WySOwrv_lVya5hE/edit?gid=1919013108#gid=1919013108

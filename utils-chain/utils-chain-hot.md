@@ -34,6 +34,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Ethelo: https://docs.google.com/document/d/1ZzzOhK7tq6BE_QMwG3DoWGWq6JJw8ne9bNadgcIE-vo/edit?pli=1#
 - Perspect3vism: https://www.perspect3vism.org
 - CoreNexus: https://corenexus.is
+- Thoughtwave: https://thoughtwave.app/
+- Vollaquintus: https://www.vollaquintus.com/
 - Trustgraph: https://trustgraph.net
 - Kizuna: https://kizuna.foundation/en
 - Junto: https://www.junto.love

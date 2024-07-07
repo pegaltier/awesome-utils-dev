@@ -1,5 +1,8 @@
 # TRADINGVIEW CHEATSHEET
 
+## People
+- https://github.com/alexgrover
+
 ## libraries
 - https://youtu.be/r8j6Fp2CkzY 5 Useful Libraries for TradingView
 - Zen Library: https://www.tradingview.com/script/yUWPxUBt-ZenLibrary
