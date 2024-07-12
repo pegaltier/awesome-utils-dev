@@ -221,6 +221,7 @@ npm init
 - https://github.com/rametta/pratica
 - https://github.com/Effect-TS/core
 - https://github.com/rayepps/radash
+- https://github.com/antoine-coulon/effect-introduction
 
 ## LIB: GENERATE DATA OBJECT
 - https://github.com/1Password/typeshare

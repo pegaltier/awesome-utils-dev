@@ -1928,6 +1928,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/cherryApp/ngc-esbuild
 - https://github.com/MurhafSousli/metabook
 - https://github.com/push-based/user-flow
+- https://github.com/antoine-coulon/skott
 - https://github.com/clickup/ngx-esbuild
 - https://github.com/teambit/bit-angular
 - https://github.com/compodoc/ts-stats

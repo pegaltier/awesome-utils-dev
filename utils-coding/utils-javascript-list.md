@@ -104,6 +104,7 @@
 
 ## PEOPLE
 - https://github.com/douglascrockford
+- https://github.com/antoine-coulon
 - https://github.com/williamtroup
 - https://github.com/ahejlsberg
 - https://github.com/johnpapa
@@ -225,6 +226,7 @@
 - https://github.com/siddharthkp/bundlesize
 - https://github.com/NiGhTTraX/strong-mock
 - https://github.com/developit/microbundle
+- https://github.com/antoine-coulon/skott
 - https://github.com/bengl/count-promises
 - https://github.com/bencoveney/barrelsby
 - https://github.com/antoine-coulon/skott
