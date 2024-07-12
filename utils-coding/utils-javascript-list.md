@@ -154,9 +154,10 @@
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
 
-## EXAMPLE
+## EXAMPLE / STARTER
 
 - https://github.com/GorvGoyl/Clone-Wars
+- https://github.com/bakeruk/modern-typescript-monorepo-example
 - https://github.com/atulmy/fullstack-javascript-architecture
 
 ## TOOLS: OTHERS
@@ -377,6 +378,7 @@
 - https://github.com/devongovett/regexgen
 - https://github.com/micromatch/picomatch
 - https://github.com/sindresorhus/super-regex
+- https://github.com/sindresorhus/identifier-regex
 - https://github.com/compose-regexp/compose-regexp.js
 
 ## LIB: WEBASSEMBLY
@@ -499,6 +501,7 @@
 - https://github.com/ramda/ramda
 - https://github.com/lodash/lodash
 - https://github.com/remeda/remeda
+- https://github.com/toss/es-toolkit
 - https://github.com/selfrefactor/rambda
 - https://github.com/selfrefactor/rambdax
 
@@ -672,6 +675,7 @@
 - https://github.com/team-video/tragopan
 - https://github.com/zengm-games/facesjs
 - https://github.com/google/model-viewer
+- https://github.com/joye61/pic-smaller
 - https://github.com/aFarkas/lazysizes
 - https://github.com/LuanRT/YouTube.js
 - https://github.com/mapbox/pixelmatch

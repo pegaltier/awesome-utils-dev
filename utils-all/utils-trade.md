@@ -597,8 +597,11 @@
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
+- https://github.com/HuobiRDCenter/huobi_Python
 - https://github.com/bennycode/coinbase-pro-node
+- https://github.com/Idirect-Tech/Breeze-Python-SDK
 - https://github.com/nothingisdead/npm-kraken-api
+- https://github.com/alpacahq/alpaca-backtrader-api
 - https://github.com/binance/binance-connector-node *
 - https://github.com/binance/binance-connector-typescript *
 - https://github.com/vertex-protocol/vertex-typescript-sdk
@@ -707,7 +710,6 @@
 - https://github.com/hudson-and-thames/arbitragelab *
 - https://github.com/51bitquant/binance_grid_trader
 - https://github.com/hackobi/AI-Scalpel-Trading-Bot
-- https://github.com/alpacahq/alpaca-backtrader-api
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/firmai/financial-machine-learning

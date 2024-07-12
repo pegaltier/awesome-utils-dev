@@ -248,6 +248,7 @@
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/vercel/next-learn-starter
 - https://github.com/Blazity/next-enterprise
+- https://github.com/adrianhajdin/healthcare
 - https://github.com/timlrx/pliny
 
 ## NEXT

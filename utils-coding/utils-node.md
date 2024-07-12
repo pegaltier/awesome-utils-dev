@@ -22,6 +22,7 @@
 - https://github.com/Thinkmill/manypkg
 - https://github.com/volta-cli/volta
 - https://github.com/cnpm/npminstall
+- https://github.com/SukkaW/nolyfill
 - https://github.com/moonrepo/proto
 - https://github.com/yarnpkg/berry
 - https://github.com/pnpm/pacquet
@@ -43,6 +44,7 @@
 - https://github.com/rollup/rollup
 - https://github.com/huozhi/bunchee
 - https://github.com/swc-project/swc
+- https://github.com/unjs/webpackbar
 - https://github.com/rolldown/rolldown
 - https://github.com/privatenumber/tsx
 - https://github.com/DataDog/build-plugins

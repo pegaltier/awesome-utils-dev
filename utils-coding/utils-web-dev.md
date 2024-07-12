@@ -511,6 +511,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/Elderjs/elderjs
 - https://github.com/withastro/astro
 - https://github.com/shuding/nextra
+- https://github.com/lumeland/lume
 - https://github.com/mdx-js/mdx
 - https://github.com/umijs/dumi
 - https://github.com/alloc/saus
@@ -581,6 +582,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://codepen.io/creativeocean/pen/poPexje
 - https://css-irl.info/animating-underlines/
 - https://ishadeed.com/article/handling-text-over-image-css/
+- https://github.com/nartc/ngt-3d-slideshow
 - https://github.com/emmabostian/design-inspiration
 - https://github.com/russellsamora/scrollama
 - https://github.com/developedbyed/3d-scroll-ball
