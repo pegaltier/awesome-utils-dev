@@ -1977,8 +1977,8 @@ Learn the best way to make your objects immutable.
 - https://github.com/fidian/ngx-visibility
 - https://github.com/k3nsei/ng-in-viewport
 - https://github.com/arkon/ng-click-outside
-- https://github.com/Tinkoff/ng-dompurify (TOUPDATE)
-- https://github.com/Tinkoff/ng-event-plugins (TOUPDATE)
+- https://github.com/Tinkoff/ng-dompurify
+- https://github.com/Tinkoff/ng-event-plugins
 - https://github.com/cloudnc/ngx-favicon
 - https://github.com/dhilt/ngx-ui-scroll
 - https://github.com/Nolanus/ngx-page-scroll
@@ -1986,9 +1986,9 @@ Learn the best way to make your objects immutable.
 - https://github.com/meeroslav/ng-motion
 - https://github.com/vdolek/angular-resize-event
 - https://github.com/ultimatecourses/ngx-pagevisibility
-- https://github.com/nartc/ngx-resize (TOADD)
-- https://github.com/wnabil/ngx-export-as (TOADD)
-- https://github.com/pomber/intersection-observer-debugger (TOADD)
+- https://github.com/nartc/ngx-resize
+- https://github.com/wnabil/ngx-export-as
+- https://github.com/pomber/intersection-observer-debugger
 
 ## ECOSYSTEM: LIB: HTTP
 
