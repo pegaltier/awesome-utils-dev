@@ -58,6 +58,9 @@
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects
 
+# OSS: ASSETS
+- https://github.com/daminikhq/daminik
+
 # OSS: PHOTO
 - https://github.com/ente-io/ente
 - https://github.com/rishimohan/pika
@@ -65,6 +68,10 @@
 - https://github.com/electerious/Lychee
 - https://github.com/photoprism/photoprism
 - https://github.com/TagStudioDev/TagStudio
+
+## OSS: AUDIO
+- https://github.com/nukeop/nuclear
+- https://github.com/mps-youtube/yewtube
 
 ## OSS: VIDEO
 - https://github.com/fonoster/goodtok

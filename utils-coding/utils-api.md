@@ -222,6 +222,9 @@
 - https://onesignal.com/
 - https://pushover.net/
 
+## AGGREGATION
+- https://github.com/NangoHQ/nango
+
 ## GATEWAY
 - https://github.com/Kong/kong
 - https://github.com/apache/apisix

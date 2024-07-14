@@ -709,6 +709,7 @@
 - https://github.com/shakiba/planck.js
 - https://github.com/mapbox/delaunator
 - https://github.com/KhronosGroup/glTF
+- https://github.com/repalash/threepipe
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js
 - https://github.com/dylanebert/gsplat.js

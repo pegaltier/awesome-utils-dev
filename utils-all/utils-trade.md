@@ -686,6 +686,7 @@
 - https://github.com/ranaroussi/quantstats *
 - https://github.com/letianzj/QuantResearch *
 - https://github.com/blankly-finance/blankly
+- https://github.com/algobulls/pyalgotrading
 - https://github.com/yasinkuyu/binance-trader
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/je-suis-tm/quant-trading *
@@ -781,6 +782,7 @@
 - https://github.com/focus1691/indicator-library * 
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
+- https://github.com/dearvn/tradovate-trading-bot
 - https://github.com/Haehnchen/crypto-trading-bot *
 - https://github.com/valamidev/candlestick-convert *
 - https://github.com/tradingview/lightweight-charts

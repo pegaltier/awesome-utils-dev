@@ -113,8 +113,10 @@
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 
 ## STARTER
-
 - https://github.com/harryheman/Modern-HTML-Starter-Template
+
+## TEMPLATES
+- https://github.com/danmindru/page-ui
 
 ## COURSES
 - https://developer.chrome.com/docs/css-ui/exclusive-accordion?hl=fr
@@ -434,9 +436,6 @@ tags: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-us
 ## HTML AUDIO
 emit/receive : https://github.com/quiet/quiet-js  
 
-## EXTENSIONS
-- https://github.com/EmailThis/extension-boilerplate
-
 ## FRAMEWORK
 - https://decorator.io/modulr/
 - https://github.com/marko-js/marko
@@ -518,10 +517,11 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/nuejs/nue
 - https://github.com/unjs/h3
 
-## EMAIL
+## EMAIL TEMPLATE / MAILING LIST
 
 - https://codedmails.com/
 - https://github.com/mjmlio/mjml
+- https://github.com/knadh/listmonk
 - https://github.com/shellscape/jsx-email
 - https://github.com/zenorocha/react-email
 - https://github.com/tomayac/dark-mode-email

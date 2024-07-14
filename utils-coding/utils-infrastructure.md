@@ -149,6 +149,7 @@
 ## HOST SERVICES OSS
 - https://github.com/coollabsio/coolify
 - https://github.com/Dokploy/dokploy
+- https://github.com/taubyte/tau
 - https://youtu.be/mznYKPvhcfw
 - https://youtu.be/taJlPG82Ucw
 
@@ -391,6 +392,8 @@ sql					> entree  3389 depuis vps. et le 22 tout le monde
 ## CERTIFICATE
 
 - https://certbot.eff.org/docs/using.html
+- https://github.com/letsencrypt/boulder
+- https://github.com/chainguard-dev/incert
 
 ## DEFINITIONS
 

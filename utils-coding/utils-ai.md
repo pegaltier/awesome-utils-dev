@@ -68,6 +68,7 @@
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
 - https://github.com/promptslab/Promptify
+- https://github.com/ykhli/local-ai-stack
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
 - https://github.com/janhq/jan *
@@ -360,6 +361,7 @@
 - https://github.com/microsoft/JARVIS
 - https://github.com/lm-sys/FastChat
 - https://github.com/OpenBMB/MiniCPM
+- https://github.com/lm-sys/RouteLLM
 - https://github.com/databricks/dbrx
 - https://github.com/salesforce/xgen
 - https://github.com/karpathy/minbpe
