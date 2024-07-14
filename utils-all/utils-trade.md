@@ -748,6 +748,7 @@
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
 - https://github.com/agiliumtrade-ai/
+- https://github.com/oransel/node-talib *
 - https://github.com/askmike/gekko *
 - https://github.com/stoqey/nitrogen
 - https://github.com/Seungwoo321/cats (grademark)
