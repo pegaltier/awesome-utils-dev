@@ -60,6 +60,7 @@
 - https://nitro.jan.ai/
 - https://www.phind.com/
 - https://chat.openai.com/
+- https://www.perplexity.ai/
 - https://copilot.microsoft.com/
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
 - https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/typescript
@@ -166,6 +167,7 @@
 - https://pika.art/
 - https://megapix.ai/
 - https://openart.ai/
+- https://letsenhance.io/
 - https://www.midjourney.org/
 - https://fengmyshui.com/
 - https://www.headshotpro.com/
@@ -180,6 +182,15 @@
 - https://www.craiyon.com/
 - https://www.rundiffusion.com/
 - https://www.easydiffusion.online/
+
+## TOOLS: AUDIO
+- https://elevenlabs.io/
+
+## TOOLS: MUSIC
+- https://www.lalal.ai/
+- https://www.udio.com/
+- https://wavtool.com/
+- https://suno.com/
 
 ## TOOLS: AVATAR
 - https://www.heygen.com/

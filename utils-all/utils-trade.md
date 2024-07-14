@@ -359,6 +359,11 @@
 - https://www.tradingview.com/script/mhRrYNiT-Macro-Score-TSI-Based/
 - https://www.tradingview.com/script/SFlZ4Kf8-Consensus-Oscillator-with-ADX-LeafAlgo/
 
+## TOOLS: TRADINGVIEW: STRATEGY AI
+- https://www.tradingview.com/v/SfyBCHIJ/ Lorentzian Classification Strategy
+- https://www.tradingview.com/v/uD5oLgFB/ Machine Learning : Cosine Similarity & Euclidean Distance
+- https://www.tradingview.com/v/GpcT4M6T/ Machine Learning: kNN-based Strategy ***
+
 ## TOOLS: TRADINGVIEW: WIZARDS
 - https://www.tradingview.com/pine-wizards/
 - https://www.tradingview.com/u/Bjorgum/#published-scripts
@@ -387,6 +392,7 @@
 - https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4
 
 ## TOOLS: TRADINGVIEW: INDICATORS AI
+- https://www.tradingview.com/v/I2X9DE84/ Machine Learning Momentum Index (MLMI) [Zeiierman]
 - https://www.tradingview.com/script/Fo1R6YBx/ PCA
 - https://www.tradingview.com/scripts/adaptivelookback/
 - https://www.tradingview.com/script/VPAKmSkt-Endpointed-SSA-of-Price-Loxx/
@@ -396,7 +402,7 @@
 - https://www.tradingview.com/script/8eafbqra-Kioseff-Trading-AI-Optimized-Supertrend/
 - https://www.tradingview.com/script/Z23LASa3-Kioseff-Trading-AI-Powered-Strategy-Optimizer/
 
-## TOOLS: TRADINGVIEW: INDICATORS KERNEL / LINE REG
+## TOOLS: TRADINGVIEW: INDICATORS AI / KERNEL / LINE REG
 - https://www.tradingview.com/v/Iko0E2kL/
 - https://www.tradingview.com/script/e0Ek9x99-KernelFunctions/
 - https://www.tradingview.com/script/eTgP2ymK-Volume-SuperTrend-AI-Expo/
