@@ -56,6 +56,7 @@
 - https://github.com/avgupta456/github-trends
 - https://github.com/Gherciu/commitlint-jira
 - https://prettier.io/docs/en/precommit.html
+- https://github.com/gitbutlerapp/gitbutler
 - https://github.com/jesseduffield/lazygit
 - https://github.com/Kikobeats/git-garbage
 - https://github.com/jevakallio/git-notify

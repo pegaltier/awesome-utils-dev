@@ -33,6 +33,7 @@
 - https://insomnia.rest/
 - https://github.com/Kong/insomnia
 - https://github.com/usebruno/bruno
+- https://github.com/darrenburns/posting
 - https://github.com/hoppscotch/hoppscotch
 
 ## TOOLS: ALL
@@ -62,6 +63,7 @@
 - https://github.com/microsoft/typespec
 - https://github.com/hey-api/openapi-ts
 - https://github.com/Mermade/widdershins
+- https://github.com/samchungy/zod-openapi
 - https://github.com/astahmer/typed-openapi
 - https://github.com/42Crunch/vscode-openapi
 - https://github.com/rohit-gohri/redocusaurus

@@ -447,6 +447,7 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## LIB
 - https://github.com/WebReflection/signal
+- https://github.com/mde/ejs
 
 ## WEBCOMPONENTS / COMPONENTS
 - https://open-ui.org/

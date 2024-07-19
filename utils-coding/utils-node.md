@@ -185,6 +185,7 @@
 
 ## LIBS: TESTING
 - https://github.com/ladjs/supertest
+- https://github.com/privatenumber/fs-fixture
 
 ## LIBS: SSE / SERVER SENT EVENT
 - https://github.com/Bewinxed/river.ts
@@ -349,6 +350,7 @@
 - https://github.com/strongloop/loopback-next
 - https://github.com/serhiisol/node-decorators
 - https://github.com/deepkit/deepkit-framework
+- https://github.com/ujjwalguptaofficial/fortjs
 - https://github.com/differentialhq/differential
 
 ## BASICS

@@ -11,7 +11,9 @@
 - https://dev.to/dbazhenov/how-to-develop-serverless-php-application-with-postgresql-database-with-vercel-and-neontech-for-free-dgl
 
 ## EXAMPLES
+- https://github.com/neondatabase/neon
 - https://github.com/neondatabase/examples
+- https://github.com/TimoWilhelm/local-neon-http-proxy
 
 ## DB TOOLS / EXPLORER
 - https://github.com/clidey/whodb

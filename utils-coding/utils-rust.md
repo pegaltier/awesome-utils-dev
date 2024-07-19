@@ -43,6 +43,7 @@
 - https://github.com/cloudflare/pingora
 - https://github.com/Aleph-Alpha/ts-rs
 - https://github.com/RustScan/RustScan
+- https://github.com/rust-lang/rustfmt
 - https://github.com/s-panferov/valico
 - https://github.com/sunfishcode/eyra
 - https://github.com/tauri-apps/tauri
@@ -55,6 +56,7 @@
 - https://github.com/GREsau/schemars
 - https://github.com/napi-rs/napi-rs
 - https://github.com/image-rs/image
+- https://github.com/serde-rs/json
 - https://github.com/loro-dev/loro
 - https://github.com/otake84/dlhn
 - https://github.com/BloopAI/bloop

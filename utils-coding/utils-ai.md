@@ -235,6 +235,7 @@
 - https://github.com/deepset-ai/FARM
 - https://github.com/yeuai/botscript
 - https://github.com/winkjs/wink-ner
+- https://github.com/exo-explore/exo
 - https://github.com/axa-group/nlp.js
 - https://github.com/JaidedAI/EasyOCR
 - https://github.com/ml5js/ml5-library

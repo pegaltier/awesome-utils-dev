@@ -340,7 +340,6 @@
 - https://github.com/scurker/currency.js
 - https://github.com/chrisguttandin/timing-object
 - https://github.com/nolanlawson/marky
-- https://github.com/ianstormtaylor/superstruct
 - https://github.com/cabinjs/sensitive-fields
 - https://github.com/country-regions/country-region-data
 - https://github.com/niklasvh/html2canvas
