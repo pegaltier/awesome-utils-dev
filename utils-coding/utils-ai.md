@@ -15,6 +15,10 @@
 - https://www.kissmyfrogs.com/stephane-mallard-blu-age/
 - https://github.com/brexhq/prompt-engineering
 
+## COURSES
+- https://github.com/karpathy/LLM101n
+- https://github.com/decodingml/llm-twin-course
+
 ## VIDEOS
 - https://youtu.be/85GKLbqEu08 I Made an AI Automated Youtube Channel - Here's What Happened in 30 Days
 - https://youtu.be/lqXWVzWkkyc I Made 700 Monetizable YouTube Shorts for Faceless Channel in 18 MINUTES

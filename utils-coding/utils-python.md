@@ -24,6 +24,7 @@ Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, c
 ## TOOLS
 - https://github.com/pyenv/pyenv
 - https://github.com/astral-sh/uv
+- https://github.com/streamlit/streamlit
 
 ## LIB
 - https://github.com/django/django

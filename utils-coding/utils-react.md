@@ -269,6 +269,7 @@
 - https://github.com/nextauthjs/next-auth
 - https://github.com/studio-freight/satus
 - https://github.com/egoist/next-connect
+- https://github.com/jantimon/next-yak
 - https://github.com/amiroff/NextBook
 - https://github.com/betagouv/nexauth
 - https://github.com/maticzav/nookies

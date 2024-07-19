@@ -41,7 +41,9 @@
 - https://www.handwriting-generator.com
 
 ## OSS
+- https://github.com/froala/design-blocks
 - https://github.com/mikaelvesavuori/figmagic
+- https://github.com/karthikmudunuri/eldoraui
 
 ## ICONS
 - https://picons.me

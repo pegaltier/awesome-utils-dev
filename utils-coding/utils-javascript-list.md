@@ -739,6 +739,7 @@
 - https://github.com/langchain-ai/langgraph
 - https://github.com/facebookresearch/shumai
 - https://github.com/Mintplex-Labs/anything-llm
+- https://github.com/transitive-bullshit/agentic
 - https://github.com/a16z-infra/ai-getting-started
 
 ## LIB: MATH / CALCUL
