@@ -263,6 +263,9 @@
 - https://github.com/KillianLucas/open-interpreter/
 - https://github.com/aethermonkey/The-Digital-Hamlet
 
+## LIB: MEMORY
+- https://github.com/mem0ai/mem0
+
 ## LIB: MACHINE LEARNING / ML
 - https://github.com/TabbyML/tabby
 - https://github.com/microsoft/DirectML

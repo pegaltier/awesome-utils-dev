@@ -76,7 +76,6 @@
 - https://github.com/pulumi/pulumi
 - https://github.com/atkrad/wait4x
 - https://github.com/SigNoz/signoz
-- https://github.com/basecamp/kamal
 - https://github.com/rapiz1/rathole
 - https://github.com/YuukanOO/seelf
 - https://github.com/code-pushup/cli
@@ -149,6 +148,7 @@
 ## HOST SERVICES OSS
 - https://github.com/coollabsio/coolify
 - https://github.com/Dokploy/dokploy
+- https://github.com/basecamp/kamal
 - https://github.com/taubyte/tau
 - https://youtu.be/mznYKPvhcfw
 - https://youtu.be/taJlPG82Ucw

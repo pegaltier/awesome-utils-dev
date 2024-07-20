@@ -643,6 +643,7 @@
 - https://github.com/webmobiledev/vue-tradingview
 - https://github.com/williamtroup/JsonTree.js
 - https://github.com/project-nv/night-vision
+- https://github.com/cytoscape/cytoscape.js
 - https://github.com/williamtroup/Syntax.js
 - https://github.com/highcharts/highcharts
 - https://github.com/bprusinowski/plotteus

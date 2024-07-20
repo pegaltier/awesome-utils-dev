@@ -25,6 +25,7 @@
 - https://github.com/SukkaW/nolyfill
 - https://github.com/moonrepo/proto
 - https://github.com/yarnpkg/berry
+- https://github.com/lirantal/npq
 - https://github.com/pnpm/pacquet
 - https://github.com/Schniz/fnm
 - https://github.com/ije/esm.sh
@@ -136,7 +137,6 @@
 - https://github.com/typicode/husky
 - https://github.com/google/wireit
 - https://github.com/ranyitz/newsh
-- https://github.com/lirantal/npq
 - https://github.com/remy/nodemon
 - https://github.com/ranyitz/qnm
 - https://github.com/47ng/sceau
@@ -200,6 +200,10 @@
 - https://medium.com/@david.richards.tech/sse-server-sent-events-using-a-post-request-without-eventsource-1c0bd6f14425
 - https://stackoverflow.com/questions/40385133/retrieve-data-from-a-readablestream-object
 - https://stackoverflow.com/questions/33141012/how-to-mock-streams-in-nodejs
+
+## LIBS: DOM
+- https://github.com/capricorn86/happy-dom
+- https://github.com/fgnass/domino
 
 ## LIBS: REQUEST
 - https://github.com/axios/axios

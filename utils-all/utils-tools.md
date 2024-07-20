@@ -80,6 +80,8 @@
 
 ## OSS: PDF
 - https://github.com/py-pdf/pypdf
+- https://github.com/opendatalab/PDF-Extract-Kit
+- https://github.com/Stirling-Tools/Stirling-PDF
 
 ## OSS: PASSWORD
 - https://github.com/drduh/Purse

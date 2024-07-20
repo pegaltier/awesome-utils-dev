@@ -45,11 +45,12 @@ Publish to Google Play for beta testing or public distribution.
 - https://github.com/nativescript-community/ui-material-components
 - https://github.com/NativeScript/nativescript-app-templates
 - https://github.com/nativescript-community/ui-collectionview
-- https://github.com/nativescript-community/ui-pager
+- https://github.com/AngelEngineering/nativescript-plugins
 - https://github.com/nstudio/nativescript-ios-portal-view
 - https://github.com/FinanzRitter/nativescript-share-file
 - https://github.com/jcassidyav/nativescript-native-add
 - https://github.com/nativescript-community/ui-mapbox
+- https://github.com/nativescript-community/ui-pager
 - https://github.com/bgrand-ch/nativescript-getters
 - https://github.com/NathanaelA/nativescript-sqlite
 - https://github.com/nativescript-community/perms

@@ -549,6 +549,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/motiondivision/motionone
 - https://github.com/mohamedfrindi/TxtAnime.js
 - https://github.com/martinlaxenaire/curtainsjs
+- https://github.com/MurhafSousli/scroll-timeline
 
 ## CREATIVE EXAMPLES
 
