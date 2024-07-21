@@ -60,6 +60,7 @@
 - https://github.com/buger/goreplay
 - https://github.com/kffl/speedbump
 - https://github.com/locustio/locust
+- https://github.com/codesenberg/bombardier
 - https://github.com/webhooksite/webhook.site
 - https://github.com/ihsw/toxiproxy-node-client
 

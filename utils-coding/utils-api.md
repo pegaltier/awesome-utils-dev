@@ -55,6 +55,7 @@
 - https://github.com/gravitee-io/gravitee-api-management
 
 ## OPENAPI
+- https://github.com/readmeio/oas
 - https://github.com/scalar/scalar
 - https://github.com/kubb-labs/kubb
 - https://github.com/Azure/autorest

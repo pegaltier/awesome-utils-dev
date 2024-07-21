@@ -526,6 +526,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/shellscape/jsx-email
 - https://github.com/zenorocha/react-email
 - https://github.com/tomayac/dark-mode-email
+- https://github.com/SendWithSES/Drag-and-Drop-Email-Designer
 - https://github.com/leemunroe/responsive-html-email-template
 - https://github.com/disposable-email-domains/disposable-email-domains
 

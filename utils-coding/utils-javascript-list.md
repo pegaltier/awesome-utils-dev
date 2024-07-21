@@ -643,6 +643,7 @@
 - https://github.com/webmobiledev/vue-tradingview
 - https://github.com/williamtroup/JsonTree.js
 - https://github.com/project-nv/night-vision
+- https://github.com/bumbeishvili/org-chart
 - https://github.com/cytoscape/cytoscape.js
 - https://github.com/williamtroup/Syntax.js
 - https://github.com/highcharts/highcharts
@@ -659,6 +660,7 @@
 - https://github.com/plotly/plotly.js
 - https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
+- https://github.com/mdaines/viz-js
 - https://github.com/d3fc/d3fc
 
 ## LIB: WORKFLOW / PIPES
