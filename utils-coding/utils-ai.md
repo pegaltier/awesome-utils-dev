@@ -5,6 +5,7 @@
 - https://9elements.com/blog/ai-glossary
 - https://www.superhuman.ai
 - https://www.therundown.ai
+- https://www.fast.ai
 
 ## TENSOR FIRE
 - https://tenso.rs/demos/fast-neural-style/
@@ -60,6 +61,7 @@
 ## TOOLS: PROMPT
 - https://pi.ai/
 - https://jan.ai/ *
+- https://otio.ai/
 - https://webllm.mlc.ai/
 - https://nitro.jan.ai/
 - https://www.phind.com/
@@ -85,6 +87,7 @@
 ## TOOLS: ALL
 - https://mason.app/
 - https://abacus.ai/
+- https://websim.ai/
 - https://www.d-id.com/
 - https://deepinfra.com/
 - https://stability.ai/
@@ -268,6 +271,7 @@
 
 ## LIB: MACHINE LEARNING / ML
 - https://github.com/TabbyML/tabby
+- https://github.com/gradio-app/gradio/
 - https://github.com/microsoft/DirectML
 
 ## LIB: DB

@@ -8,6 +8,7 @@
 - https://www.freesqldatabase.com/
 
 ## TUTOS
+- https://www.amazingcto.com/postgres-for-everything/
 - https://dev.to/dbazhenov/how-to-develop-serverless-php-application-with-postgresql-database-with-vercel-and-neontech-for-free-dgl
 
 ## EXAMPLES

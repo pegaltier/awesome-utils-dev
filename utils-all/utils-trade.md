@@ -45,6 +45,7 @@
 - https://cryptowizards.net/
 - https://www.zeiierman.com/
 - https://www.quantinsti.com/
+- https://alphaarchitect.com/
 - https://www.quantscience.io/
 - https://allocatesmartly.com/
 - https://amphibiantrading.com/
@@ -91,6 +92,7 @@
 - https://www.thetradingpodcast.com/
 - https://alpha-exchange.podcastpage.io/
 - https://kjtradingsystems.com/podcasts.html
+- https://alphaarchitect.com/category/podcasts/
 - https://anthonycrudele.com/futuresradioshow/podcast/293/
 
 ## TRAINING

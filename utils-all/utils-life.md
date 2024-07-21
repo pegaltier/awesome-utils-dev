@@ -15,6 +15,7 @@
 - https://arvy.ch/
 - https://www.noii.ch/
 - https://www.coupdefoudre30plus.ch/
+- https://imyoga.ch/de/klassen-preise
 
 ## Italy
 - https://www.idealista.it/en/

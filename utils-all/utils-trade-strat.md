@@ -399,6 +399,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 ## STRATEGY: YOUTUBE CHANNEL: INTERVIEW
 - https://www.youtube.com/@risk_biscuits
+- https://www.youtube.com/@AlphaArchitect
 - https://www.youtube.com/@TopTradersUnplugged 
 - https://www.youtube.com/@TheAlgorithmicAdvantage
 - https://www.youtube.com/@BetterSystemTraderPodcast

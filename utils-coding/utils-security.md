@@ -24,6 +24,8 @@
 ## NEWS
 
 - https://www.darkreading.com/
+- https://darknetdiaries.com/
+- https://vx-underground.org/
 - https://craphound.com/
 
 ## PAPERS

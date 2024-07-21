@@ -1065,5 +1065,6 @@ There is a new module called @angular/fire which helps to automatize the whole d
 - https://github.com/danieldelcore/mega-interview-guide
 - https://github.com/sudheerj/angular-interview-questions
 - https://github.com/yangshun/front-end-interview-handbook
+- https://github.com/armankhondker/best-leetcode-resources
 - https://github.com/learning-zone/angular-interview-questions
 - https://dev.to/mokkapps/my-top-angular-interview-questions-237h

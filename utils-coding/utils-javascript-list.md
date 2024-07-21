@@ -662,6 +662,7 @@
 - https://github.com/d3fc/d3fc
 
 ## LIB: WORKFLOW / PIPES
+- https://github.com/xyflow/xyflow
 - https://github.com/jerosoler/Drawflow
 - https://github.com/pipes-digital/pipes
 

@@ -56,6 +56,9 @@ http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforme
 - https://www.carify.com/
 - https://www.carvolution.com/
 
+## Social
+- https://www.weroad.fr/voyages-italie
+
 ## Swiss
 - https://gomore.ch/
 - https://hotelcard.ch/en
@@ -63,11 +66,16 @@ http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforme
 - https://www.blick.ch/fr/well/a-tester-en-famille-ces-5-magnifiques-balades-en-valais-vous-feront-aimer-lhiver-id19216253.html
 - https://ulysse.com/news/voyager-en-train-panoramique-a-travers-la-suisse-top-5-des-itineraires-a-decouvrir
 
+## Italy
+- https://murlo.com/
+- https://nestitaly.com/experiences/
+
 ## Festival
 - https://www.japaneuch.ch neuchatel (end of june)
 - https://www.burning-mountain.ch swiss german (end of june)
 - https://evenements.geneve.ch/musiquesenete/ geneve (july, august)
-
+- https://www.verbierfestival.com/ verbier (july, august)
+- https://sionsouslesetoiles.ch/ sion (july)
 
 ## Best places
 
