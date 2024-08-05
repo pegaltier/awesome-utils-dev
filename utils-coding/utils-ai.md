@@ -69,13 +69,14 @@
 - https://www.perplexity.ai/
 - https://copilot.microsoft.com/
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
-- https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/typescript
 
 ## TOOLS: PROMPT: OSS
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
 - https://github.com/promptslab/Promptify
 - https://github.com/ykhli/local-ai-stack
+- https://github.com/InternLM/MindSearch
+- https://github.com/nomic-ai/gpt4all/
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
 - https://github.com/janhq/jan *
@@ -299,6 +300,7 @@
 - https://github.com/OpenGVLab/InternVL
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
+- https://github.com/binyoon99/chatGPT3.5-fortuneTelling-AI
 - https://github.com/onuratakan/gpt-computer-assistant
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/sonnylazuardi/chat-ai-desktop

@@ -342,7 +342,6 @@
 - https://github.com/nolanlawson/marky
 - https://github.com/cabinjs/sensitive-fields
 - https://github.com/country-regions/country-region-data
-- https://github.com/niklasvh/html2canvas
 - https://github.com/fathyb/html2svg
 - https://github.com/vercel/satori
 - https://github.com/lukeed/clsx
@@ -624,6 +623,7 @@
 - https://github.com/junhoyeo/use-color
 - https://github.com/Evercoder/culori
 - https://github.com/omgovich/colord
+- https://github.com/texel-org/color
 - https://github.com/simonwep/pickr
 - https://github.com/Qix-/color
 
@@ -672,9 +672,11 @@
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/openseadragon/openseadragon
 - https://github.com/steveruizok/perfect-arrows
+- https://github.com/mjackson/multipart-parser
 - https://github.com/vidstack/media-captions
 - https://github.com/ColonelParrot/jscanify
 - https://github.com/neplextech/vectorizer
+- https://github.com/pingdotgg/uploadthing
 - https://github.com/desandro/imagesloaded
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
@@ -884,6 +886,8 @@
 
 ## CANVAS 
 - https://github.com/dgmjs/dgmjs
+- https://github.com/konvajs/konva
+- https://github.com/niklasvh/html2canvas
 - https://github.com/Leimi/drawingboard.js
 - https://joshbradley.me/object-collisions-with-canvas/
 

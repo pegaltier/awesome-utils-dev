@@ -94,6 +94,7 @@
 - https://github.com/stijnvanhulle/rustraf
 - https://github.com/styfle/packagephobia
 - https://github.com/ds300/patch-package
+- https://github.com/microlinkhq/tinyrun
 - https://github.com/privatenumber/link
 - https://github.com/tmcdos/custompatch
 - https://github.com/RetireJS/retire.js

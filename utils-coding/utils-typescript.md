@@ -286,6 +286,7 @@ npm init
 - https://github.com/ThomasAribart/json-schema-to-ts
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/YousefED/typescript-json-schema
+- https://github.com/seasonedcc/composable-functions
 - https://github.com/gbumanzordev/payload-transformer
 - https://github.com/dsherret/conditional-type-checks
 - https://github.com/moltar/typescript-runtime-type-benchmarks

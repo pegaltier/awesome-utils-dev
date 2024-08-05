@@ -8,6 +8,7 @@
 - https://github.com/x-ploration-of-mars/x-stack
 
 ## Fullstack
+- https://github.com/epicweb-dev/epic-stack
 - https://github.com/neekware/fullerstack
 - https://github.com/chartbrew/chartbrew
 - https://github.com/wasp-lang/open-saas

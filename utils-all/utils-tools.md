@@ -107,6 +107,7 @@
 - https://github.com/Infisical/infisical
 - https://github.com/zed-industries/zed
 - https://github.com/stateful/runme
+- https://github.com/vriteio/vrite
 - https://github.com/typst/typst
 - https://www.mendable.ai/
 
