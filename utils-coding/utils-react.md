@@ -81,6 +81,7 @@
 - https://github.com/facebook/create-react-app
 - https://github.com/alan2207/bulletproof-react
 - https://github.com/coolerwind/react-ecommerce
+- https://github.com/yournextstore/yournextstore
 - https://github.com/CreativeTechGuy/ReactTemplate
 - https://github.com/salvia-kit/salvia-kit-website
 

@@ -67,6 +67,7 @@
 - https://github.com/iced-rs/iced
 - https://github.com/actix/actix
 - https://github.com/0x20F/paris
+- https://github.com/PRQL/prql
 
 ## VARIOUS
 - https://github.com/johanhelsing/matchbox

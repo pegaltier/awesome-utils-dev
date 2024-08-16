@@ -107,6 +107,7 @@
 - https://github.com/unjs/listhen
 - https://github.com/amalshaji/portr
 - https://github.com/inconshreveable/ngrok
+- https://github.com/anderspitman/awesome-tunneling
 
 ## TOOLS: MONITORING / OBSERVABILITY / LOGGING / REPLAYING
 - https://github.com/Optibus/playback-ts
@@ -205,6 +206,8 @@
 - https://github.com/jpca/Boulegueur
 - https://github.com/Portshift/kubei
 - https://github.com/kyverno/kyverno
+- https://github.com/loft-sh/vcluster
+- https://github.com/kubeshop/monokle
 - https://github.com/argoproj/argo-cd
 - https://github.com/cilium/hubble-ui
 - https://github.com/loft-sh/jspolicy
@@ -217,6 +220,7 @@
 - https://github.com/porter-dev/porter
 - https://github.com/armosec/kubescape
 - https://github.com/kudobuilder/kuttl
+- https://github.com/canonical/microk8s
 - https://github.com/awesome-it/adeploy
 - https://github.com/yogeshkk/K8sPurger
 - https://github.com/SocialGouv/webseal
@@ -238,6 +242,7 @@
 - https://github.com/projectcontour/contour
 - https://github.com/awslabs/eks-node-viewer
 - https://github.com/kubernetes/ingress-nginx
+- https://github.com/open-source-labs/Chronos
 - https://github.com/viralpoetry/kubesurveyor
 - https://github.com/steveteuber/kubectl-graph
 - https://github.com/edgelesssys/constellation

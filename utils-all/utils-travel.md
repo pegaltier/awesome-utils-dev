@@ -42,22 +42,29 @@ VISA: <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/service
 <h2>THAILAND</h2>
 <p><a href="https://www.youtube.com/watch?v=v61xbAJoQVI">https://www.youtube.com/watch?v=v61xbAJoQVI</a> LIVING UNDER $600 IN THAILAND | CHIANG MAI COST OF LIVING GUIDE</p>
 
-## Tools
-https://www.airbnb.com
-http://www.hostels.com
-https://www.couchsurfing.org
-http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforment-en-dortoirs
+## Tools: internet
+- https://www.ubigi.com/
+- https://www.dentwireless.com/
 
-## Flight
+## Tools: sleep
+- https://www.airbnb.com
+- http://www.hostels.com
+- https://www.couchsurfing.org
+- http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforment-en-dortoirs
+
+## Tools: discover
+- https://www.atlasobscura.com/
+
+## Tools: Flight
 - https://airlinelist.com/
 
-## Car 
+## Tools: Car 
 - https://carmarket.ch/fr
 - https://www.carify.com/
 - https://www.carvolution.com/
 
-## Social
-- https://www.weroad.fr/voyages-italie
+## Tools: Social
+- https://www.weroad.fr
 
 ## Swiss
 - https://gomore.ch/
@@ -76,6 +83,10 @@ http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforme
 - https://evenements.geneve.ch/musiquesenete/ geneve (july, august)
 - https://www.verbierfestival.com/ verbier (july, august)
 - https://sionsouslesetoiles.ch/ sion (july)
+- https://moonandstars.ch locarno (july)
+- https://www.locarnofestival.ch/ locarno (august)
+- https://pizpalufestival.ch/ geneve (august)
+- https://labelsuisse.ch/ lausanne (september)
 
 ## Best places
 

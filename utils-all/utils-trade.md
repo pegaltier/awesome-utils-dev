@@ -113,6 +113,7 @@
 - https://e-devenirtrader.com/en-bourse-anticiper-cest-perdre/
 - https://blog.darwinex.com/entrevue-avec-algotradesoft-ovl</a>
 - https://blog.darwinex.com/interview-de-trader-antojos-darwin-axf/?lang=fr
+- https://github.com/cantaro86/Financial-Models-Numerical-Methods
 - https://www.toptradersunplugged.com/resources/ebooks/
 - https://www.myfxbook.com/members/antojos
 - https://tradingtact.com/books/

@@ -177,6 +177,7 @@
 - https://github.com/AlexW00/obsidian-3d-graph
 - https://github.com/tanepiper/obsidian-garden
 - https://github.com/blacksmithgu/obsidian-dataview
+- https://github.com/farux/obsidian-auto-note-mover
 - https://github.com/koljapluemer/obsidian-the-queue
 - https://github.com/learn-anything/learn-anything.xyz
 - https://github.com/nikdanilov/whisper-obsidian-plugin

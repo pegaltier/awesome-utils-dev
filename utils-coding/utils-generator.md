@@ -23,3 +23,5 @@
 
 ## ALL
 - https://github.com/MagnusHJensen/cedar-code-generator
+- https://github.com/bterlson/alloy
+- https://github.com/jondot/hygen

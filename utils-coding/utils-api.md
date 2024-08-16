@@ -61,6 +61,7 @@
 - https://github.com/Azure/autorest
 - https://github.com/anymaniax/orval
 - https://github.com/asyncapi/modelina
+- https://github.com/microcks/microcks
 - https://github.com/microsoft/typespec
 - https://github.com/hey-api/openapi-ts
 - https://github.com/Mermade/widdershins
@@ -186,7 +187,8 @@
 - https://beta.openai.com/
 
 ## LIST
-- https://apis.guru/
+- https://apis.guru
+- https://apivault.dev
 - https://rapidapi.com
 - https://www.humanapi.co
 - https://github.com/APIs-guru
@@ -207,11 +209,13 @@
 - https://github.com/documenso/documenso
 - https://github.com/OpenSignLabs/OpenSign
 
-## AUTH
+## AUTH / OIDC
 - https://www.smspartner.fr/
+- https://github.com/supabase/auth
 - https://github.com/logto-io/logto
 - https://github.com/teamhanko/hanko
 - https://github.com/Permify/permify
+- https://github.com/spruceid/siwe-oidc
 - https://github.com/auth0/auth0-spa-js
 - https://github.com/epicweb-dev/web-auth
 - https://github.com/supertokens/supertokens-node
@@ -237,6 +241,7 @@
 - https://github.com/TykTechnologies/tyk
 
 ## HEALTHCHECK
+- https://github.com/brotandgames/ciao
 - https://github.com/openstatusHQ/openstatus
 
 ## FUN

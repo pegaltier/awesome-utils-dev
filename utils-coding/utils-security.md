@@ -57,6 +57,7 @@
 - https://betterstack.com/
 
 ## TOOLS: ONLINE
+- https://42crunch.com/
 - https://securitytxt.org/
 - https://www.srihash.org/
 - https://www.virustotal.com

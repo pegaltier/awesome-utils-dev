@@ -5,6 +5,7 @@
 
 ## LIB: ALL
 - https://github.com/ProjectUnifree/unifree
+- https://github.com/ChloeLiang/rhythm-game
 - https://github.com/hydralauncher/hydra
 - https://github.com/melonjs/melonJS
 

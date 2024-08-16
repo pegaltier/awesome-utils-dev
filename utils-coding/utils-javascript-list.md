@@ -523,6 +523,7 @@
 - https://github.com/steveruizok/perfect-freehand
 - https://github.com/HichemTab-tech/EasyCaptchaJS
 - https://github.com/timruffles/mobile-drag-drop
+- https://github.com/AgentEnder/markdown-factory
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
@@ -560,6 +561,7 @@
 - https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
 - https://github.com/bitjson/qr-code
+- https://github.com/iamcal/js-emoji
 - https://github.com/svgdotjs/svg.js
 - https://github.com/alibaba/formily
 - https://github.com/TanStack/router
@@ -621,6 +623,7 @@
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/nextcss/color-tools
 - https://github.com/junhoyeo/use-color
+- https://github.com/color-js/color.js
 - https://github.com/Evercoder/culori
 - https://github.com/omgovich/colord
 - https://github.com/texel-org/color
@@ -717,6 +720,7 @@
 - https://github.com/repalash/threepipe
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js
+- https://github.com/ykob/sketch-threejs
 - https://github.com/dylanebert/gsplat.js
 - https://github.com/mikbry/awesome-webgpu
 - https://github.com/nudibranchrecords/hedron
@@ -744,6 +748,7 @@
 - https://github.com/xenova/transformers.js
 - https://github.com/langchain-ai/langgraph
 - https://github.com/facebookresearch/shumai
+- https://github.com/eduardoleao052/js-pytorch
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/a16z-infra/ai-getting-started
@@ -811,6 +816,7 @@
 ## LIB: SIGNING / ENCRYPTION / HASH / SHA
 - https://github.com/PeculiarVentures/PKI.js
 - https://github.com/mesqueeb/sha-anything
+- https://github.com/puleos/object-hash
 
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js
@@ -874,10 +880,13 @@
 - https://github.com/paulmillr/scure-bip39
 - https://github.com/paulmillr/noble-ed25519
 
+## LIB: REALTIME
+- https://github.com/partykit/partykit
+- https://github.com/threepointone/partyserver
+
 ## LIB: GAME
 - https://github.com/mgechev/mk.js
 - https://github.com/melonjs/melonJS
-- https://github.com/partykit/partykit
 - https://github.com/olistic/warriorjs
 - https://github.com/KilledByAPixel/LittleJS
 

@@ -42,6 +42,7 @@
 
 ## OSS
 - https://github.com/froala/design-blocks
+- https://github.com/magicuidesign/magicui
 - https://github.com/mikaelvesavuori/figmagic
 - https://github.com/karthikmudunuri/eldoraui
 
@@ -61,8 +62,8 @@
 - https://www.systemuicons.com/
 - http://kushagragour.in/lab/hint
 - https://wweb.dev/resources/free-icon-sets
-- https://github.com/lucide-icons/lucide
 - https://github.com/CoreyGinnivan/system-uicons
+- https://github.com/lucide-icons/lucide
 
 ## WEBDESIGN
 - https://niice.co

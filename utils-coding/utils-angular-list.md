@@ -1534,6 +1534,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 - https://github.com/wizdmio/wizdm
 - https://github.com/analogjs/analog
 - https://github.com/goetzrobin/spartan
+- https://github.com/vikejs/vike-angular
 - https://github.com/angular/angular-cli
 - https://github.com/martinoppitz/leanup
 - https://github.com/irustm/angular-nodegui
@@ -1676,6 +1677,8 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/altack/nx-bundlefy
 - https://github.com/Jordan-Hall/nx-bun
 - https://github.com/JamieMason/syncpack
+- https://github.com/AgentEnder/nxdoc
+- https://github.com/khalilou88/jnxplus
 - https://github.com/lemonade-hq/traf
 - https://github.com/lucasvieirasilva/nx-plugins
 - https://github.com/gioragutt/nx-pwm
@@ -2528,10 +2531,11 @@ Analyze and optimize the performance of your app
 - https://github.com/rintoj/ngx-virtual-scroller
 - https://github.com/lVlyke/lithium-ngx-virtual-scroll
 
-## ECOSYSTEM: LIB: COMPONENT: CDK MATERIAL
-
+## ECOSYSTEM: LIB: COMPONENT: PRIMITIVES / CDK MATERIAL
 - https://material.angular.io/cdk/a11y/overview
 - https://alligator.io/angular/infinite-scroll
+- https://github.com/radix-ng/primitives
+- https://github.com/ng-primitives/ng-primitives
 - https://github.com/angular-material-extensions
 - https://github.com/diprokon/ng-table-virtual-scroll
 - https://github.com/gravitee-io/gravitee-ui-particles
@@ -2932,6 +2936,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: STARTER
 - https://github.com/ng-matero/nx-starter
 - https://github.com/larscom/ng-chrome-extension
+- https://github.com/realworld-angular/realworld-angular
 - https://github.com/Tinkoff/angular-open-source-starter
 - https://github.com/creativetimofficial/material-dashboard
 
@@ -3399,12 +3404,15 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/PacktPublishing/Angular-Cookbook (TOADD)
 - https://www.manning.com/books/modern-angular (TOADD)
 - https://leanpub.com/the-angular-developers-nx-handbook (TOADD)
+- https://houseofangular.io/the-ultimate-guide-to-angular-evolution/ (TOADD)
 - https://www.jeffryhouser.com/index.cfm/2024/2/1/My-Books-are-Updated-for-Angular-17 (TOADD)
 - https://www.packtpub.com/web-development/switching-angular-2/
 - https://www.amazon.com/Angular-Design-Patterns-Best-Practices/dp/1837631972/ (TOADD)
 - https://angularexperts.io/products/ebook-angular-enterprise-architecture (TOADD)
 - https://www.packtpub.com/product/angular-design-patterns/9781786461728 (TOADD)
 - https://www.packtpub.com/product/learning-angular-third-edition/9781839210662 (TOADD)
+- https://www.amazon.com/Effective-Angular-Develop-applications-effectively/dp/1805125532/ (TOADD)
+- https://www.amazon.com/Reactive-Patterns-RxJS-Angular-Signals-ebook/dp/B0CTXL7HZP/ (TOADD)
 - https://manning.com/books/angular-2-development-with-typescript
 - https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
 - https://github.com/PacktPublishing/Learning-Angular-Fifth-Edition (TOADD)

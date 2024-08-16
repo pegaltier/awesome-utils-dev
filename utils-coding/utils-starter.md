@@ -19,7 +19,9 @@
 - https://github.com/Shopify/hydrogen
 - https://github.com/lmsqueezy/lemonsqueezy.js
 - https://github.com/vendure-ecommerce/vendure
+- https://github.com/coolerwind/react-ecommerce
 - https://github.com/vuestorefront/storefront-ui
+- https://github.com/yournextstore/yournextstore
 
 ## ERP / CRM
 - https://github.com/idurar/idurar-erp-crm

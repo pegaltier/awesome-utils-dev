@@ -505,6 +505,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/remoteinterview/zero
 - https://github.com/solidjs/solid-start
 - https://github.com/goetzrobin/spartan
+- https://github.com/decaporg/decap-cms
 - https://github.com/rakkasjs/rakkasjs
 - https://github.com/retypeapp/retype
 - https://github.com/colinhacks/devii
@@ -519,9 +520,15 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/unjs/h3
 
 ## EMAIL TEMPLATE / MAILING LIST
+- https://mosaico.io
+- https://beefree.io
+- https://mailstudio.app
+- https://codedmails.com
 
-- https://codedmails.com/
+## OSS: SELF HOSTED / EMAIL TEMPLATE / MAILING LIST
+
 - https://github.com/mjmlio/mjml
+- https://github.com/useplunk/plunk
 - https://github.com/knadh/listmonk
 - https://github.com/shellscape/jsx-email
 - https://github.com/zenorocha/react-email

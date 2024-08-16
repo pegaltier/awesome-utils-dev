@@ -22,3 +22,7 @@
 
 ## Immo
 - https://www.greenkub.fr/
+- https://moteurimmo.fr/
+
+## Dating
+- https://spreedl.com/

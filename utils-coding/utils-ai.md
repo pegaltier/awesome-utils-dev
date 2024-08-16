@@ -62,6 +62,8 @@
 - https://pi.ai/
 - https://jan.ai/ *
 - https://otio.ai/
+- https://exa.ai/
+- https://venice.ai/
 - https://webllm.mlc.ai/
 - https://nitro.jan.ai/
 - https://www.phind.com/
@@ -112,8 +114,9 @@
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
 
-## TOOLS: JOB
+## TOOLS: JOB / HIRING
 - https://applicantai.com/
+- https://www.usebraintrust.com/
 
 ## TOOLS: OSS
 - https://github.com/Nixtla/
@@ -127,12 +130,15 @@
 - https://keak.com/
 - https://cursor.sh/
 - https://debuild.co/
+- https://www.cursor.com/
 - https://www.devgpt.com/
 - https://www.codegpt.co/
 - https://spellcraft.org/
 - https://www.codewand.co/
+- https://amplication.com/
 - https://www.magickml.com/
 - https://gpt-tailwind.com/
+- https://www.continue.dev/
 - https://screenshottocode.com/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
@@ -145,18 +151,22 @@
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
+- https://github.com/continuedev/continue
 - https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
+- https://github.com/amplication/amplication
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
+- https://github.com/eduardoleao052/js-pytorch
 
 ## TOOLS: TEXT / DOCS / PDF
 - https://pdf.ai/
+- https://aihumanizer.ai/
 - https://www.taglines.ai/
 - https://www.simplify.so/
 - https://www.pdfgpt.chat/
@@ -287,11 +297,12 @@
 - https://github.com/apify/crawlee
 - https://github.com/weaviate/Verba
 - https://github.com/microsoft/graphrag
+- https://github.com/mendableai/firecrawl
 - https://github.com/run-llama/llama_index
 - https://github.com/run-llama/llama_parse
-- https://github.com/langchain-ai/langgraph
-- https://github.com/mendableai/firecrawl
 - https://github.com/adithya-s-k/omniparse
+- https://github.com/langchain-ai/langgraph
+- https://github.com/AnswerDotAI/RAGatouille
 - https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: GPT
@@ -413,6 +424,7 @@
 
 ## LIB: AUDIO / TTS
 - https://github.com/jianchang512/ChatTTS-ui
+- https://github.com/eustlb/speech-to-speech
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
@@ -424,6 +436,7 @@
 - https://github.com/KwaiVGI/LivePortrait
 - https://github.com/SoraWebui/FakeSoraAPI
 - https://github.com/NumesSanguis/FACSvatar
+- https://github.com/hacksider/Deep-Live-Cam
 - https://github.com/HVision-NKU/StoryDiffusion
 - https://github.com/fudan-generative-vision/hallo
 - https://github.com/jianzhnie/awesome-text-to-video

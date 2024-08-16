@@ -29,5 +29,6 @@
 - https://github.com/VictoriaMetrics/VictoriaMetrics
 
 ## DB UTILS
+- https://github.com/PRQL/prql
 - https://github.com/knex/knex
 - https://github.com/kysely-org/kysely
