@@ -96,6 +96,7 @@
 - https://github.com/twhite96/js-dev-reads
 - https://github.com/nirkaufman/object-ref
 - https://github.com/serhiisol/awesome-js
+- https://github.com/bestofjs/bestofjs
 - https://github.com/denysdovhan/wtfjs
 - https://github.com/standard/standard
 
@@ -875,6 +876,7 @@
 ## LIB: TESTING
 - https://github.com/Marak/faker.js
 - https://github.com/boblauer/MockDate
+- https://github.com/Meldiron/faker-generator
 
 ## LIB: SECURITY
 - https://github.com/brix/crypto-js

@@ -218,6 +218,7 @@
 - https://github.com/spruceid/siwe-oidc
 - https://github.com/auth0/auth0-spa-js
 - https://github.com/epicweb-dev/web-auth
+- https://github.com/goauthentik/authentik
 - https://github.com/supertokens/supertokens-node
 
 ## KEY
