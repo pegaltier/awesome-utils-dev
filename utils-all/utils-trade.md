@@ -181,6 +181,7 @@
 ## TOOLS: BACKTESTING
 - https://tradomate.one/
 - https://algowizard.io/
+- https://nexustrade.io/
 - https://forextester.com/
 - https://www.naked-markets.com/
 - https://www.tradingview.com/
@@ -376,6 +377,7 @@
 - https://www.tradingview.com/u/everget/#published-scripts
 - https://www.tradingview.com/u/SkyHighTA/#published-scripts
 - https://www.tradingview.com/u/LeafAlgo/#published-scripts
+- https://www.tradingview.com/u/capissimo/#published-scripts
 - https://www.tradingview.com/u/KioseffTrading/#published-scripts
 - https://www.tradingview.com/u/TheTradingParrot/#published-scripts
 - https://www.tradingview.com/u/Amphibiantrading/#published-scripts
@@ -428,6 +430,8 @@
 - https://www.tradingview.com/script/Vs2TjhTe-Higher-Highs-Lower-Lows-Stochastics-Vitali-Apirine/
 - https://www.tradingview.com/script/CUpWCZhe-Concretum-Bands/
 - https://www.tradingview.com/script/VFjyDUJx-Exhaustion-Signal/
+- https://www.tradingview.com/script/MiloJegS-HMA-Kahlman-Trend-Trendlines-v-2/
+- https://www.tradingview.com/script/JeNcCUxP-Advanced-Choppiness-Indicator-with-CPMA/
 
 ## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
 - https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/
@@ -788,6 +792,7 @@
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
+- https://github.com/austin-starks/NextTrade *
 - https://github.com/chalupagrande/backtester
 - https://github.com/tiagosiebler/bitmart-api
 - https://github.com/bennycode/trading-signals

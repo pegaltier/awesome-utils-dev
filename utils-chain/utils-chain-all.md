@@ -216,6 +216,7 @@
 
 ## WEB WALLET
 - https://guarda.com
+- https://www.tor.us
 - https://metamask.io
 - https://mycrypto.com
 - https://mymonero.com
@@ -382,7 +383,8 @@
 - https://localbitcoins.com
 - https://localethereum.com
 
-## MULTI EXCHANGE
+## MULTI CHAIN / MULTI EXCHANGE
+- https://uncx.network
 - https://www.coinigy.com
 
 ## INTEROP

@@ -116,6 +116,7 @@
 - https://github.com/dloss/python-pentest-tools
 - https://github.com/roya0045/Pentest-practice
 - https://github.com/onlurking/awesome-infosec
+- https://github.com/sherlock-project/sherlock
 - https://github.com/crowdsecurity/crowdsec
 - https://github.com/ivan-sincek/forbidden
 - https://github.com/nico3333fr/CSP-useful

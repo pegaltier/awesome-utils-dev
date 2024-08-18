@@ -52,6 +52,7 @@
 - https://github.com/matklad/arbtest
 - https://github.com/oxc-project/oxc
 - https://github.com/Keats/validator
+- https://github.com/greyblake/ta-rs
 - https://github.com/google/zerocopy
 - https://github.com/GREsau/schemars
 - https://github.com/napi-rs/napi-rs

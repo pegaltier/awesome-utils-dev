@@ -188,6 +188,7 @@
 - https://pika.art/
 - https://megapix.ai/
 - https://openart.ai/
+- https://clarityai.co/
 - https://letsenhance.io/
 - https://www.midjourney.org/
 - https://fengmyshui.com/

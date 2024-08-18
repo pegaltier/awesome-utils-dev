@@ -12,6 +12,7 @@ https://www.eosgo.io/ <<<<<<<<<<<<<>>>>>>>>>>>>
 ## EOS OFFICIAL
 https://eos.io
 https://block.one/
+https://stake.eosnetwork.com/
 
 
 ## EOS START
