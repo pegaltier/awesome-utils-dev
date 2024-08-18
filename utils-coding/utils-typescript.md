@@ -67,8 +67,9 @@ npm init
 - https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414
 - https://dev.to/aminejvm/cool-stuff-with-typescript-2aah
 
-## TODO
+## BEST PRACTICES
 - https://www.divotion.com/blog/creating-type-safe-events
+- https://backstage.orus.eu/the-5-commandments-of-clean-error-handling-in-typescript/?latest
 
 ## STARTER / TEMPLATE
 - https://github.com/antfu/starter-ts

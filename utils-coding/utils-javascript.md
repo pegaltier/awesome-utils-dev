@@ -5,6 +5,10 @@
 
 ## OPTIMIZATION
 - https://romgrk.com/posts/optimizing-javascript
+- https://thenewstack.io/how-to-master-javascript-performance-optimization
+
+## GARBAGE COLLECTOR
+- https://jakearchibald.com/2024/garbage-collection-and-closures/
 
 ## CONTEXT / HOISTING
 - https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/

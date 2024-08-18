@@ -79,6 +79,7 @@
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
 - https://github.com/nomic-ai/gpt4all/
+- https://github.com/frdel/agent-zero
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
 - https://github.com/janhq/jan *
@@ -88,9 +89,11 @@
 - https://www.mendable.ai/
 
 ## TOOLS: ALL
+- https://sider.ai/
 - https://mason.app/
 - https://abacus.ai/
 - https://websim.ai/
+- https://www.heard.ly/
 - https://www.d-id.com/
 - https://deepinfra.com/
 - https://stability.ai/
@@ -195,6 +198,7 @@
 - https://modelscope.cn/
 - https://avatarai.me/
 - https://photoai.com/
+- https://klingai.com/
 - https://www.bing.com/create
 - https://playgroundai.com/login
 - https://www.craiyon.com/

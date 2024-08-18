@@ -390,6 +390,9 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://medium.datadriveninvestor.com/how-to-create-a-profitable-cryptocurrency-trading-bot-part-1-overview-and-trading-strategy-cf178300a0ea
 - https://medium.com/@crisvelasquez/identifying-key-market-interest-with-the-volume-ratio-in-python-1f9904705711
 - https://www.concretumgroup.com/backtesting-7-years-of-free-data-beat-the-market-an-effective-intraday-momentum-strategy-for-the-sp500-etf-spy/
+- https://colab.research.google.com/drive/11tAgNZLvVOPJ6xOlZcSeucn8tZiTgAHh?usp=sharing#scrollTo=PSER16ap3uk0
+- https://www.mql5.com/en/forum/173441
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631351
 
 ## STRATEGY: LIST
 - https://docs.google.com/spreadsheets/d/1WcvrG8KLyYqXXveyEIlfYljtOLg7WySOwrv_lVya5hE/edit?gid=1919013108#gid=1919013108
@@ -653,3 +656,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://en.wikipedia.org/wiki/Hawkes_process
 - https://www.youtube.com/watch?v=wdsiZBIhAFw Hawkes_process
 - https://es.tradingview.com/script/SfyBCHIJ/ lorentzian
+- https://www.algomatictrading.com/post/macd-hook-on-gold
+- https://www.algomatictrading.com/post/10-day-momentum-on-nasdaq
+- https://artificall.com/prorealtime/automated-opening-range-breakout/

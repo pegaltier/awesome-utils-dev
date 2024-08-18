@@ -452,6 +452,7 @@ Annotations...
 - https://www.thecodecampus.de/blog/angular-2-use-hostbindings-set-class/
 - https://toddmotto.com/angular-decorators
 - https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
+- https://itnext.io/reduce-angular-boilerplate-by-95-with-decorators-ef4bb916cd86
 
 ## CORE: CONFIGURATION
 
@@ -543,11 +544,16 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER / CLOUD HOSTING
 - https://indepth.dev/posts/1383/responsive-angular
 - https://www.smashingmagazine.com/2019/02/image-breakpoints-angular/#top
 
-## CORE: DIRECTIVES
+## CORE: DIRECTIVES / DIRECTIVE COMPOSITION
 
+- https://github.com/angular/angular/issues/8785
 - https://stackblitz.com/edit/repeat-times-directive
+- https://angular.io/guide/directive-composition-api
+- https://juri.dev/blog/2018/02/angular-permission-directive/
 - https://github.com/SanderElias/an-sample-compose-directives
 - https://www.newline.co/@krishna/angular-directives-demystified--effcda6a
+- https://www.angularspace.com/mega-article-superpowers-with-directives-and-dependency-injection/
+- https://www.angularjswiki.com/angular/directive-composition-api-in-angular-15/
 
 ## CORE: COMPONENTS
 
@@ -792,6 +798,7 @@ Learn everything about the change detection with or without zone.js.
 - http://blogs.walkingtree.in/2016/03/28/angular2-q-a-i/
 - http://blog.rangle.io/angular-2-change-detection/
 - http://juristr.com/blog/2016/04/angular2-change-detection/
+- https://medium.com/@davidepassafaro/angular-zoneless-change-detection-647b924a2220
 
 ## CORE: SCHEMATICS
 
@@ -1086,11 +1093,6 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - http://maxlab.fr/2015/12/migrer-de-angularjs-1-x-vers-angularjs-2-0-pratique/
 - https://github.com/ui-router/angular-hybrid
 - https://github.com/ellamaolson/ngMigration-Assistant
-
-## CORE: DIRECTIVE COMPOSITION
-- https://angular.io/guide/directive-composition-api
-- https://www.angularjswiki.com/angular/directive-composition-api-in-angular-15/
-- https://github.com/angular/angular/issues/8785
 
 ## ECOSYSTEM: COMPANIES
 - https://github.com/briebug

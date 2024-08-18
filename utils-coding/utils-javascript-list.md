@@ -46,6 +46,7 @@
 ## GUIDE-WEB
 
 - https://javascript.info/ 
+- https://exploringjs.com/
 - https://beginnerwebdev.com/
 - https://www.java5cript.com/
 - https://sulco.stackblitz.io/
@@ -56,7 +57,6 @@
 - https://learnjavascript.online/
 - https://www.w3schools.com/w3js/
 - https://www.30secondsofcode.org/
-- https://exploringjs.com/deep-js/
 - https://learnvanillajs.com/roadmap/
 - https://scrimba.com/learn/learnjavascript
 - https://watchandcode.com/p/practical-javascript
@@ -640,7 +640,7 @@
 - https://github.com/tinyworldmap/tiny-world-map
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
-## LIB: DATAVIZ / CHART / DATA VIZ
+## LIB: DATAVIZ / CHART / DATA VIZ / GRAPH
 - https://github.com/tradingview/awesome-tradingview
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/webmobiledev/vue-tradingview
@@ -663,6 +663,7 @@
 - https://github.com/plotly/plotly.js
 - https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
+- https://github.com/danvk/dygraphs
 - https://github.com/mdaines/viz-js
 - https://github.com/d3fc/d3fc
 
@@ -779,6 +780,7 @@
 ## LIB: DATA TRANSFORMATION
 - https://github.com/fastify/fast-json-stringify
 - https://github.com/data-forge/data-forge-ts
+- https://github.com/coston/json-to-csv-export
 - https://github.com/thdoan/mr-data-converter
 - https://github.com/mesqueeb/remove-anything
 - https://github.com/mesqueeb/case-anything
@@ -846,7 +848,7 @@
 - https://github.com/ulid/javascript
 - https://github.com/LiosK/uuidv7
 
-## LIB: PDF
+## LIB: PDF / DOC
 - https://github.com/parallax/jsPDF
 - https://github.com/foliojs/pdfkit
 - https://github.com/Hopding/pdf-lib
@@ -861,6 +863,7 @@
 - https://github.com/Frooodle/Stirling-PDF
 - https://github.com/pdffillerjs/pdffiller
 - https://github.com/simonhaenisch/md-to-pdf
+- https://github.com/alonrbar/easy-template-x
 
 ## LIB: AUTOMATION
 - https://github.com/checkly/theheadless.dev

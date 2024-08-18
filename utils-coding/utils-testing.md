@@ -148,6 +148,7 @@
 
 ## PLAYWRIGHT: NOTES 
 - https://eliasprescott.github.io/blog/iterating-over-elements-with-playwright/
+- https://bugbug.io/blog/testing-frameworks/playwright-locators/
 
 ## CYPRESS: NOTES 
 

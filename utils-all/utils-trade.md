@@ -38,6 +38,7 @@
 - https://openbb.co/blog/
 - https://quantpedia.com/
 - https://robotjames.com/
+- https://artificall.com/
 - https://tradingtact.com/
 - https://quantaraxia.com/
 - https://hudsonthames.org/
@@ -210,6 +211,7 @@
 - https://www.qmr.ai/
 - https://www.buildalpha.com/
 - https://www.lizardindicators.com/
+- https://toslc.thinkorswim.com/center
 - https://www.portfoliovisualizer.com/
 - https://howtobacktestbootcamp.carrd.co/
 - https://marketspy.net/free-poett-access/
@@ -352,6 +354,7 @@
 - https://github.com/dearvn/trading-futures-tradingview-script
 - https://www.tradingview.com/u/Steversteves/#published-scripts
 - https://www.tradingview.com/u/ROBO_Trading/#published-scripts
+- https://www.tradingview.com/script/gM1RYkcQ-OKATRend-SPX-1H-v1/
 - https://www.tradingview.com/script/A4eWfQxx-VP-Backtester-skeleton/
 - https://www.tradingview.com/script/6aLn4Qkl-Zahorchak-Measure/
 - https://www.tradingview.com/script/MLpgTZxf-TigerBot-Lynx-1-0-Skeleton-Faster-Backtesting/
@@ -383,6 +386,7 @@
 - https://www.tradingview.com/script/RSZxyvmd-Profile-Any-Indicator-Kioseff-Trading/
 - https://www.tradingview.com/script/4iriNqgS-Cross-Correlation-Kioseff-Trading/ *
 - https://www.tradingview.com/script/GxQp712Z-Portfolio-Laboratory-Kioseff-Trading/
+- https://www.tradingview.com/script/JjgkjuMY-Live-Economic-Calendar-by-toodegrees/
 - https://www.tradingview.com/script/q45dulJC-UTILS-Unit-Testing-Framework/
 - https://www.tradingview.com/script/NEcbTvWX-Autoview-Ultimate-strategy-builder/
 - https://www.tradingview.com/script/uqelSkN1-Synthetic-Price-Action-Generator/
@@ -540,6 +544,7 @@
 - https://github.com/shner-elmo/TradingView-Screener *
 - https://github.com/bevry-trading/automated-trading
 - https://github.com/tradingview/pine_script_docs
+- https://github.com/tradingview-pine-seeds/docs
 - https://github.com/akilibots/akili-tradingview
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/nileio/TV_strategynotifier
@@ -789,6 +794,8 @@
 - https://github.com/gadicc/node-yahoo-finance2 *
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
+- https://github.com/focus1691/backtest-loop
+- https://github.com/focus1691/chart-patterns
 - https://github.com/focus1691/indicator-library * 
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
