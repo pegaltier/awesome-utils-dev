@@ -33,6 +33,7 @@
 - https://vectorizer.ai
 - https://png-pixel.com
 - https://david.li/paint
+- https://bg.ibelick.com
 - https://www.photopea.com
 - https://studio.polotno.dev
 - https://designsystems.surf
@@ -40,11 +41,18 @@
 - https://shapeshifter.design
 - https://www.handwriting-generator.com
 
-## OSS
+## OSS: UI
 - https://github.com/froala/design-blocks
 - https://github.com/magicuidesign/magicui
 - https://github.com/mikaelvesavuori/figmagic
 - https://github.com/karthikmudunuri/eldoraui
+
+## OSS: TOOLS
+- https://github.com/MrPeker/awesome-illustrations
+- https://github.com/ibelick/background-snippets
+- https://github.com/SamHerbert/SVG-Loaders
+- https://github.com/edent/SuperTinyIcons
+- https://github.com/penpot/penpot
 
 ## ICONS
 - https://picons.me
@@ -269,15 +277,7 @@
 - https://generated.photos/
 
 ## 3D
-
 - https://market.pmnd.rs/
-
-## OSS
-
-- https://github.com/MrPeker/awesome-illustrations
-- https://github.com/SamHerbert/SVG-Loaders
-- https://github.com/edent/SuperTinyIcons
-- https://github.com/penpot/penpot
 
 ## ARTICLES
 

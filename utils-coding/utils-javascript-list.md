@@ -418,6 +418,7 @@
 - https://github.com/vercel/ms
 - https://github.com/iamkun/dayjs
 - https://github.com/date-fns/date-fns
+- https://github.com/vercel/little-date
 - https://github.com/xxczaki/light-date
 - https://github.com/duetds/date-picker
 - https://github.com/spencermountain/spacetime
@@ -442,6 +443,7 @@
 ## LIB: PARSER HTML/XML/JSON/DOM/CSV
 - https://github.com/beenotung/best-effort-json-parser
 - https://github.com/Essent/nativescript-xml2js
+- https://github.com/package-url/packageurl-js
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/micromark/micromark
 - https://github.com/mozilla/readability
@@ -622,6 +624,7 @@
 ## LIB: FRONTEND COLOR
 - https://github.com/fast-average-color/fast-average-color
 - https://github.com/easylogic/codemirror-colorpicker
+- https://github.com/evilmartians/oklch-picker
 - https://github.com/nextcss/color-tools
 - https://github.com/junhoyeo/use-color
 - https://github.com/color-js/color.js

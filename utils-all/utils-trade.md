@@ -24,6 +24,7 @@
 - Hugh Kimura https://www.tradingheroes.com/
 - Dave Whitcomb https://www.peakalgo.com/
 - Jonathan Shore: https://tr8dr.github.io/
+- Rob Carvers: https://qoppac.blogspot.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
