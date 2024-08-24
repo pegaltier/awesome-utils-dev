@@ -122,13 +122,25 @@
 - https://github.com/CypressCecelia/cypress-testing-angular-workshop
 - https://github.com/cypress-visual-regression/cypress-visual-regression
 
-## UTILS: PLAYWRIGHT
+## UTILS: PLAYWRIGHT REPO
+- https://github.com/playwrightsolutions/playwright-practicesoftwaretesting.com
+- https://github.com/playwrightsolutions/playwright-api-test-demo
+- https://github.com/playwrightsolutions/playwright-json-summary-reporter
+- https://github.com/playwright-community/eslint-plugin-playwright
+- https://github.com/playwright-community/playwright-jest-examples
+- https://github.com/playwright-community/playwright-community
 - https://github.com/currents-dev/playwright-gh-actions-demo
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
 - https://github.com/mxschmitt/try-playwright
+- https://github.com/mxschmitt
+
+## UTILS: PLAYWRIGHT LINKS
+- https://discord.com/servers/playwright-807756831384403968
+- https://playwright.dev/docs/release-notes
 - https://playwrightsolutions.com/
 - https://try.playwright.tech
+- https://dev.to/playwright
 - https://playwright.tech/
 - https://playwright.dev/
 
@@ -147,8 +159,43 @@
 - https://timdeschryver.dev/blog/using-msw-in-an-angular-project
 
 ## PLAYWRIGHT: NOTES 
-- https://eliasprescott.github.io/blog/iterating-over-elements-with-playwright/
+- https://stackoverflow.com/questions/77312463/playwright-library-throws-target-closed-error-only-if-context-or-browser-i
 - https://bugbug.io/blog/testing-frameworks/playwright-locators/
+
+- forEach loop does not actually wait for completion of asynchronous operations inside it and context.close() is called faster. Indeed you can't use async/await with forEach. Instead, try changing it to for...of or a good old loop with i++.
+
+```
+for (const row of rows) {
+  const time = await row.locator('.time').innerText();
+  const heading = await row.getByText('some common heading').innerText();
+
+  console.log(`${time} ${heading}`);
+}
+
+const items = page.locator('ul > li'); 
+const count = await items.count(); 
+for (let i = 0; i < count; ++i) { 
+    console.log(await items.nth(i).textContent()); 
+}
+```
+
+- https://stackoverflow.com/questions/69292101/how-can-i-get-playwright-to-listen-to-message-events
+- wraps the page.on('console', ...) into an async function that we can use as a 'resolve if success, hang if failure'
+
+```
+// Return true if the page emits 'Hello, World!' to the console info level
+async function waitForMessageAsync(): Promise<boolean> {
+  return new Promise(function (resolve) {
+    page.on('console', (msg) => {
+      if (msg.type() === 'log' && msg.text() === 'Hello, World!') {
+        resolve(true);
+      }
+    });
+  });
+}
+
+await expect(await waitForMessageAsync).toBeTruthy();
+```
 
 ## CYPRESS: NOTES 
 

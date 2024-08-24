@@ -433,6 +433,7 @@
 - https://www.tradingview.com/script/VFjyDUJx-Exhaustion-Signal/
 - https://www.tradingview.com/script/MiloJegS-HMA-Kahlman-Trend-Trendlines-v-2/
 - https://www.tradingview.com/script/JeNcCUxP-Advanced-Choppiness-Indicator-with-CPMA/
+- https://www.tradingview.com/script/wyyXKHDn-Correlation-Cycle-CorrelationAngle-Market-State-John-Ehlers/
 
 ## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
 - https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/
