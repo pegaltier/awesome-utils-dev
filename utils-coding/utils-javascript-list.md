@@ -445,7 +445,6 @@
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/package-url/packageurl-js
 - https://github.com/natemoo-re/ultrahtml
-- https://github.com/micromark/micromark
 - https://github.com/mozilla/readability
 - https://github.com/sindresorhus/domify
 - https://github.com/cheeriojs/cheerio
@@ -453,6 +452,11 @@
 - https://github.com/mholt/PapaParse
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
+
+## LIB: MARKDOWN
+- https://github.com/AgentEnder/markdown-factory
+- https://github.com/micromark/micromark
+- https://github.com/Milkdown/milkdown
 
 ## LIB: SWIPER
 - https://github.com/joe223/tiny-swiper
@@ -526,7 +530,6 @@
 - https://github.com/steveruizok/perfect-freehand
 - https://github.com/HichemTab-tech/EasyCaptchaJS
 - https://github.com/timruffles/mobile-drag-drop
-- https://github.com/AgentEnder/markdown-factory
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
@@ -706,6 +709,7 @@
 - https://github.com/greensock/GSAP
 - https://github.com/vercel/satori
 - https://github.com/varkor/quiver
+- https://github.com/etro-js/etro
 - https://github.com/bbc/peaks.js
 - https://github.com/dgmjs/dgmjs
 
@@ -853,6 +857,8 @@
 - https://github.com/LiosK/uuidv7
 
 ## LIB: PDF / DOC
+- https://github.com/h-tex/vfrag
+- https://github.com/pagedjs/pagedjs
 - https://github.com/parallax/jsPDF
 - https://github.com/foliojs/pdfkit
 - https://github.com/Hopding/pdf-lib
@@ -897,6 +903,7 @@
 - https://github.com/melonjs/melonJS
 - https://github.com/olistic/warriorjs
 - https://github.com/KilledByAPixel/LittleJS
+- https://github.com/gruhn/typescript-sudoku
 
 ## ALLIN
 - https://github.com/vendure-ecommerce/vendure

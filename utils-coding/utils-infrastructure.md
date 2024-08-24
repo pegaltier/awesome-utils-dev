@@ -239,6 +239,7 @@
 - https://github.com/kubernetes/kubernetes
 - https://github.com/kubernetes/autoscaler
 - https://github.com/shank-git/metal-kubes
+- https://github.com/kurtosis-tech/kardinal
 - https://github.com/projectcontour/contour
 - https://github.com/awslabs/eks-node-viewer
 - https://github.com/kubernetes/ingress-nginx

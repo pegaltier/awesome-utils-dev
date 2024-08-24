@@ -127,6 +127,10 @@
 - https://github.com/mudler/LocalAI
 - https://github.com/cheshire-cat-ai/core
 - https://github.com/danielmiessler/fabric
+- https://github.com/n8n-io/self-hosted-ai-starter-kit
+
+## TOOLS: WEB
+- https://github.com/huggingface/transformers.js-examples
 
 ## TOOLS: CODING
 - https://v0.dev/
@@ -368,6 +372,7 @@
 - https://github.com/bigscience-workshop/petals
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/mit-han-lab/streaming-llm
+- https://github.com/sgomez/ollama-ai-provider
 - https://github.com/jose-donato/ollama-reply *
 - https://github.com/run-llama/LlamaIndexTS
 - https://github.com/Mozilla-Ocho/llamafile

@@ -73,6 +73,7 @@ npm init
 
 ## STARTER / TEMPLATE
 - https://github.com/antfu/starter-ts
+- https://github.com/NiGhTTraX/ts-monorepo
 - https://github.com/egoist/ts-lib-starter
 - https://github.com/stijnvanhulle/template
 - https://github.com/wixplosives/sample-monorepo
@@ -182,6 +183,7 @@ npm init
 - https://github.com/codemix/ts-sql
 - https://github.com/kysely-org/kysely
 - https://github.com/kristiandupont/kanel
+- https://github.com/kysely-org/awesome-kysely
 - https://github.com/sequelize/sequelize-typescript
 
 ## LIB: PARSER

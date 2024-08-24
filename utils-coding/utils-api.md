@@ -252,4 +252,5 @@
 - https://github.com/apilayer/restcountries
 - https://github.com/vagnersabadi/apis-nerds
 - https://github.com/openopus-org/openopus_api
+- https://github.com/felipeall/transfermarkt-api
 - https://github.com/skolakoda/programming-quotes-api

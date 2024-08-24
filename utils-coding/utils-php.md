@@ -116,6 +116,7 @@ Refresh the page in browser and see, the virtual includes will start working.
 - https://github.com/cweiske/jsonmapper
 - https://github.com/php-fig/http-factory
 - https://github.com/FGRibreau/mailchecker
+- https://github.com/willdurand/Negotiation
 - https://github.com/laminas/laminas-session
 - https://github.com/WsdlToPhp/PackageGenerator
 - https://github.com/RobDWaller/ReallySimpleJWT

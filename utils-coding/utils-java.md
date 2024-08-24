@@ -62,6 +62,7 @@
 - https://github.com/micronaut-projects/micronaut-core
 
 ## EXAMPLE
+- https://github.com/nashtech-garage/yas
 - https://github.com/crnk-project/crnk-example
 - https://github.com/spring-projects/spring-petclinic
 - https://github.com/nilsgumpfer/StrategyDesignPattern

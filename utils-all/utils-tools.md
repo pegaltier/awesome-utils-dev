@@ -40,6 +40,7 @@
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
 - https://github.com/42wim/matterbridge
+- https://github.com/zen-browser/desktop
 - https://github.com/sniptt-official/ots
 - https://github.com/syncthing/syncthing
 - https://github.com/fosslife/devtools-x
@@ -77,6 +78,12 @@
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
 - https://github.com/aegir-assembly/omni-clip
+
+## OSS: FILES
+- https://github.com/sxyazi/yazi
+
+## OSS: EMAIL
+- https://github.com/un/inbox
 
 ## OSS: PDF
 - https://github.com/py-pdf/pypdf

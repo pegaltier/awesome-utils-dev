@@ -123,6 +123,7 @@ RUN ls
 - https://github.com/louislam/dockge
 - https://github.com/croqaz/browsers
 - https://github.com/NilsIrl/dockerc
+- https://github.com/will-moss/isaiah
 - https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
 - https://github.com/railwayapp/nixpacks

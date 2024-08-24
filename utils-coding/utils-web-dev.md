@@ -92,7 +92,7 @@
 - https://froala.com/online-html-editor/
 - https://froala.com/pages/
 
-## CHECK / CHECKLIST
+## CHECK / CHECKLIST / ANALYZE
 
 - https://web.dev/vitals-tools/
 - https://frontendchecklist.io
@@ -103,6 +103,7 @@
 - https://github.com/push-based/user-flow
 - https://github.com/GoogleChrome/web-vitals
 - https://github.com/sitespeedio/sitespeed.io
+- https://github.com/janreges/siteone-crawler
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://github.com/alphagov/accessibility-tool-audit
 - https://codeburst.io/the-front-end-checklist-8b2292fdda44
@@ -576,6 +577,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/codrops/category/articles/websites-roundups/
 
 ## CREATIVE RESOURCES
+- https://tympanus.net/codrops/demos/
 - https://daniel.do/article/making-noisy-svgs/
 - https://alex.dytry.ch/toys/infinite-scroll/
 - https://codyhouse.co/nuggets/text-gradients
@@ -606,6 +608,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/codrops/ButtonHoverStyles
 - https://github.com/codrops/FullscreenScroll
 - https://github.com/codrops/InlineMenuLayout/
+- https://github.com/codrops/OnScrollSVGFilterText
 - https://github.com/codrops/OnScrollLetterAnimations
 - https://github.com/codrops/OnScrollTypographyAnimations
 - https://github.com/codrops/ThumbHoverSVGFilter/

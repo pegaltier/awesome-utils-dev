@@ -43,6 +43,7 @@
 - https://github.com/vitejs/vite
 - https://github.com/vercel/turbo
 - https://github.com/farm-fe/farm
+- https://github.com/nodejs/amaro
 - https://github.com/rollup/rollup
 - https://github.com/huozhi/bunchee
 - https://github.com/swc-project/swc
