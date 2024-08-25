@@ -368,6 +368,8 @@
 
 ## LIB: LLM
 - https://github.com/ColinEberhardt/langchain-mini
+- https://github.com/GoogleCloudPlatform/localllm
+- https://github.com/vince-lam/awesome-local-llms
 - https://github.com/varunshenoy/super-json-mode
 - https://github.com/bigscience-workshop/petals
 - https://github.com/Mintplex-Labs/anything-llm

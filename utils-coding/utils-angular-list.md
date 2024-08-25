@@ -2458,10 +2458,8 @@ Analyze and optimize the performance of your app
 - https://github.com/JsDaddy/ngx-copypaste
 - https://github.com/dominique-mueller/angular-notifier
 - https://github.com/mattlewis92/angular-confirmation-popover
-- https://github.com/mattlewis92/angular-draggable-droppable
 - https://github.com/mattlewis92/angular-resizable-element
 - https://github.com/kamiazya/ngx-speech-recognition
-- https://github.com/reppners/ngx-drag-drop
 - https://github.com/surveyjs/survey-library
 - https://github.com/leifermendez/ngx-copilot
 - https://github.com/coryrylan/ngx-lite
@@ -2481,7 +2479,6 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lib/multiselect
 - https://github.com/livechat/angular-livechat
 - https://github.com/nartc/nartc-workspace/tree/main/packages/ngx-lil-gui
-- https://github.com/bfwg/ngx-drag-scroll
 - https://github.com/tinymce/tinymce-angular
 - https://github.com/MurhafSousli/ngx-bar-rating
 - https://github.com/MurhafSousli/ngx-sharebuttons
@@ -2491,6 +2488,14 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
+
+## ECOSYSTEM: LIB: COMPONENT: DRAG AND DROP
+- https://material.angular.io/cdk/drag-drop/overview
+- https://github.com/mattlewis92/angular-draggable-droppable
+- https://github.com/ObaidUrRehman/ng-drag-drop
+- https://github.com/cormacrelf/angular-skyhook
+- https://github.com/reppners/ngx-drag-drop
+- https://github.com/bfwg/ngx-drag-scroll
 
 ## ECOSYSTEM: LIB: COMPONENT: SNACKBAR / TOASTR
 - https://github.com/akserg/ng2-toasty

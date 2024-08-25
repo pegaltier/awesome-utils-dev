@@ -132,6 +132,7 @@
 - https://github.com/tajo/react-movable
 - https://github.com/rpearce/image-zoom
 - https://github.com/kitze/react-hanger
+- https://github.com/react-dnd/react-dnd
 - https://github.com/everweij/react-laag
 - https://github.com/mbrn/material-table
 - https://github.com/JedWatson/classnames
@@ -176,6 +177,7 @@
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
 - https://github.com/tannerlinsley/react-location
+- https://github.com/atlassian/react-beautiful-dnd
 - https://github.com/YIZHUANG/react-multi-carousel
 - https://github.com/jamesporter/immutable-context
 - https://github.com/sylvaindubus/react-prismazoom

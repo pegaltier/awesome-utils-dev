@@ -524,12 +524,10 @@
 ## LIB: FRONTEND ALL
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/SamVerschueren/decode-uri-component
-- https://github.com/atlassian/pragmatic-drag-and-drop
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand
 - https://github.com/HichemTab-tech/EasyCaptchaJS
-- https://github.com/timruffles/mobile-drag-drop
 - https://github.com/alias-rahil/handwritten.js
 - https://github.com/alexjlockwood/ShapeShifter
 - https://github.com/colxi/css-global-variables
@@ -564,7 +562,6 @@
 - https://github.com/jcubic/sysend.js
 - https://github.com/joeattardi/picmo
 - https://github.com/xtermjs/xterm.js
-- https://github.com/taye/interact.js
 - https://github.com/zxing-js/library
 - https://github.com/bitjson/qr-code
 - https://github.com/iamcal/js-emoji
@@ -589,6 +586,15 @@
 ## LIB: FRONTEND ANIMATION
 - https://github.com/formkit/auto-animate
 - https://github.com/dnnsjsk/glaze
+
+## LIB: FRONTEND DRAG AND DROP / DND
+- https://github.com/atlassian/pragmatic-drag-and-drop
+- https://github.com/timruffles/mobile-drag-drop
+- https://github.com/SortableJS/Sortable
+- https://github.com/Shopify/draggable
+- https://github.com/taye/interact.js
+- https://github.com/bevacqua/dragula
+- https://github.com/TahaSh/swapy
 
 ## LIB: FRONTEND CAROUSEL / SLIDER / SCROLL
 - https://github.com/dhilt/vscroll
@@ -696,6 +702,7 @@
 - https://github.com/joye61/pic-smaller
 - https://github.com/aFarkas/lazysizes
 - https://github.com/LuanRT/YouTube.js
+- https://github.com/dropzone/dropzone
 - https://github.com/mapbox/pixelmatch
 - https://github.com/graphery/graphery
 - https://github.com/nzbin/photoviewer
@@ -705,6 +712,7 @@
 - https://github.com/vidstack/player
 - https://github.com/lukeapage/pngjs
 - https://github.com/markedjs/marked
+- https://github.com/pqina/filepond
 - https://github.com/toddmotto/echo
 - https://github.com/greensock/GSAP
 - https://github.com/vercel/satori
