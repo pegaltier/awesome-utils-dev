@@ -20,6 +20,7 @@
 - https://github.com/clidey/whodb
 - https://github.com/vrana/adminer
 - https://github.com/frectonz/sql-studio
+- https://github.com/nucleuscloud/neosync
 
 ## DB SYSTEM
 - https://github.com/pouchdb/pouchdb

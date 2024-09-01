@@ -3,8 +3,9 @@
 
 ## Tools OSS
 - https://github.com/PostHog/posthog
-- https://github.com/aptabase/aptabase
+- https://github.com/medama-io/medama
 - https://github.com/matomo-org/matomo
+- https://github.com/aptabase/aptabase
 - https://github.com/plausible/analytics
 - https://github.com/umami-software/umami
 - https://github.com/benvinegar/counterscale
