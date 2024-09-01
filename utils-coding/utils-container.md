@@ -124,6 +124,7 @@ RUN ls
 - https://github.com/croqaz/browsers
 - https://github.com/NilsIrl/dockerc
 - https://github.com/will-moss/isaiah
+- https://github.com/vrnetlab/vrnetlab
 - https://github.com/devcontainers/spec
 - https://github.com/containerd/nerdctl
 - https://github.com/railwayapp/nixpacks
@@ -145,7 +146,6 @@ RUN ls
 - https://github.com/ufoscout/docker-compose-wait
 - https://github.com/chrislevn/dockerfile-practices
 - https://github.com/geerlingguy/ansible-role-docker    
-- https://github.com/GoogleContainerTools/distroless
 - https://github.com/JeremyLikness/usda-microservice
 - https://github.com/lucaslorentz/caddy-docker-proxy
 - https://github.com/devopstrainingblr/awesome-docker
@@ -168,6 +168,7 @@ RUN ls
 - https://github.com/help-me-mom/wordpress-docker-template
 - https://github.com/marcelo-ochoa/coder-docker-extension
 - https://github.com/linuxserver/docker-healthchecks
+- https://github.com/GoogleContainerTools/distroless
 - https://github.com/DoTheEvo/selfhosted-apps-docker
 - https://github.com/jonatan-ivanov/local-services
 - https://github.com/bunkerity/bunkerized-mariadb

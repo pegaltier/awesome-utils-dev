@@ -558,6 +558,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/motiondivision/motionone
 - https://github.com/mohamedfrindi/TxtAnime.js
 - https://github.com/martinlaxenaire/curtainsjs
+- https://github.com/aholachek/animate-css-grid
 - https://github.com/MurhafSousli/scroll-timeline
 
 ## CREATIVE EXAMPLES
@@ -609,10 +610,12 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/codrops/FullscreenScroll
 - https://github.com/codrops/InlineMenuLayout/
 - https://github.com/codrops/OnScrollSVGFilterText
+- https://github.com/codrops/GooeyTextHoverEffect
 - https://github.com/codrops/OnScrollLetterAnimations
 - https://github.com/codrops/OnScrollTypographyAnimations
 - https://github.com/codrops/ThumbHoverSVGFilter/
 - https://github.com/crnacura/AmbientCanvasBackgrounds
+- https://github.com/crnacura/grid-deformation-effect
 - https://github.com/brunoimbrizi/interactive-particles
 - https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel
 - https://github.com/adrianhajdin/project_modern_ui_ux_restaurant
@@ -622,12 +625,14 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/Development/InlineMenuLayout/
 - https://tympanus.net/Development/ExplodingObjects/
 - https://tympanus.net/Development/LettersAnimationLayout/
+- https://tympanus.net/Development/GridDistortionEffect/
 - https://tympanus.net/Development/ImageStackGrid/index.html
 - https://tympanus.net/Tutorials/SurfaceSampling/index3.html
 - https://tympanus.net/Development/HorizontalSmoothScrollLayout/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index2.html
 - https://tympanus.net/Development/OnScrollTypographyAnimations/index2.html
 - https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/
+- https://tympanus.net/codrops/2020/04/28/morphing-gooey-text-hover-effect/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40

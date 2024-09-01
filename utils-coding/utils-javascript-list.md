@@ -262,6 +262,7 @@
 - https://github.com/typicode/lowdb
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
+- https://github.com/instantdb/instant
 - https://github.com/kysely-org/kysely
 - https://github.com/orbitinghail/sqlsync
 - https://github.com/zemberdotnet/jsonl-db
@@ -422,6 +423,7 @@
 - https://github.com/xxczaki/light-date
 - https://github.com/duetds/date-picker
 - https://github.com/spencermountain/spacetime
+- https://github.com/fullcalendar/temporal-polyfill
 
 ## LIB: URL
 - https://github.com/unshiftio/url-parse
@@ -770,7 +772,7 @@
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/a16z-infra/ai-getting-started
 
-## LIB: MATH / CALCUL
+## LIB: MATH / CALCUL / NUMBER
 - https://github.com/bpierre/dnum
 - https://github.com/josdejong/mathjs
 - https://github.com/stdlib-js/stdlib
@@ -778,6 +780,7 @@
 - https://github.com/dinerojs/dinero.js
 - https://github.com/MikeMcl/decimal.js/
 - https://github.com/MikeMcl/bignumber.js
+- https://github.com/barvian/motion-number
 - https://github.com/nefe/number-precision
 - https://github.com/adamwdraper/Numeral-js
 - https://github.com/ebradyjobory/finance.js
@@ -878,6 +881,7 @@
 - https://github.com/hand-dot/labelmake
 - https://github.com/eneajaho/doc-signer
 - https://github.com/pdf2htmlEX/pdf2htmlEX
+- https://github.com/alanshaw/markdown-pdf
 - https://github.com/Frooodle/Stirling-PDF
 - https://github.com/pdffillerjs/pdffiller
 - https://github.com/simonhaenisch/md-to-pdf

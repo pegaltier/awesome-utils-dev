@@ -54,6 +54,7 @@
 
 ## FRAMEWORK
 - https://github.com/vaadin/hilla
+- https://github.com/Netflix/maestro
 - https://github.com/quarkusio/quarkus
 - https://github.com/micronaut-projects
 - https://github.com/domaframework/doma

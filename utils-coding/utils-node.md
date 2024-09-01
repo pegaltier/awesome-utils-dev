@@ -52,7 +52,8 @@
 - https://github.com/privatenumber/tsx
 - https://github.com/DataDog/build-plugins
 
-## STARTER
+## STARTER / EXAMPLE
+- https://github.com/jhoset/nodejs-spotify-server
 - https://github.com/bezkoder/node-js-mssql-crud-example
 - https://github.com/studiohyperdrive/nodejs-boilerplate
 - https://github.com/xddq/nodejs-typescript-modern-starter
@@ -111,6 +112,7 @@
 - https://github.com/node-loader/node-loader-core
 - https://github.com/sverweij/dependency-cruiser
 - https://github.com/sindresorhus/find-cache-dir
+- https://github.com/nodejs-mobile/nodejs-mobile
 - https://github.com/jkup/source-map-validator
 - https://github.com/anonrig/fast-querystring
 - https://github.com/stijnvanhulle/js-runtime

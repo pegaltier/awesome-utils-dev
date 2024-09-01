@@ -8,11 +8,13 @@
 - https://tryquiet.org/
 - https://threefold.io/
 - http://blog.mauve.moe/
+- https://www.manyver.se/
 - https://replicache.dev/
 - https://fosdem.org/2022/
 - https://decentpatterns.xyz/
 - https://agregore.mauve.moe/
 - https://earthstar-project.org/
+- https://www.digital-democracy.org/mapeo
 
 ## OSS
 - https://github.com/nknorg
@@ -39,6 +41,7 @@
 - https://github.com/holepunchto/hyperswarm
 - https://github.com/browser-network/network
 - https://github.com/browser-network/database
+- https://github.com/nodejs-mobile/nodejs-mobile
 - https://github.com/ChainSafe/js-libp2p-gossipsub
 
 ## APPS

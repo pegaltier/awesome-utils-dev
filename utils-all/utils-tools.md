@@ -77,6 +77,7 @@
 ## OSS: VIDEO
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
+- https://github.com/goshops-com/clipshare
 - https://github.com/aegir-assembly/omni-clip
 
 ## OSS: FILES
@@ -95,6 +96,9 @@
 - https://github.com/drduh/pwd.sh
 - https://github.com/padloc/padloc
 - https://github.com/keepassx/keepassx
+
+## OSS: SOCIAL
+- https://github.com/gitroomhq/postiz-app
 
 ## OSS: WEB
 - https://github.com/ccbikai/Sink
@@ -124,6 +128,7 @@
 - https://github.com/vasanthv/talk
 - https://github.com/mfts/papermark
 - https://github.com/calcom/cal.com
+- https://github.com/docmost/docmost
 - https://github.com/CapSoftware/cap
 - https://github.com/makeplane/plane
 - https://github.com/metamaps/metamaps

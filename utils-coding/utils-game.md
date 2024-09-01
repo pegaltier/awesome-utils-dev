@@ -4,6 +4,7 @@
 - https://github.com/PCSX2/pcsx2
 
 ## LIB: ALL
+- https://github.com/shrekshao/gltf-avatar-threejs
 - https://github.com/ProjectUnifree/unifree
 - https://github.com/ChloeLiang/rhythm-game
 - https://github.com/hydralauncher/hydra

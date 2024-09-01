@@ -111,6 +111,9 @@
 - https://github.com/styfle/cancel-workflow-action
 - https://github.com/fountainhead/action-wait-for-check
 
+## ACTIONS: EXT
+- https://github.com/marketplace/actions/code-pushup
+
 ## TEMPLATES
 - https://github.com/badges/shields
 - https://github.com/tandpfun/skill-icons

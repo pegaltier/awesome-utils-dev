@@ -101,6 +101,9 @@
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
 
+## TOOLS: PIPELINES
+- https://github.com/code-pushup/cli
+
 ## TOOLS: TUNNEL / SELF HOST
 - https://github.com/ngrok
 - https://github.com/unjs/untun
@@ -148,6 +151,7 @@
 
 ## HOST SERVICES OSS
 - https://github.com/coollabsio/coolify
+- https://github.com/newsnowlabs/runcvm
 - https://github.com/Dokploy/dokploy
 - https://github.com/basecamp/kamal
 - https://github.com/taubyte/tau
@@ -255,6 +259,7 @@
 - https://github.com/bitnami-labs/sealed-secrets
 - https://github.com/NimbleArchitect/kubectl-ice
 - https://github.com/GoogleContainerTools/kaniko
+- https://github.com/clusterpedia-io/clusterpedia
 - https://github.com/kubernetes-client/javascript
 - https://github.com/kubernauts/jmeter-kubernetes
 - https://github.com/metacontroller/metacontroller

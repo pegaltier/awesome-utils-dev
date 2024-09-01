@@ -155,6 +155,7 @@
 - https://github.com/Oneirocom/Magick
 - https://github.com/Nutlope/aicommits
 - https://github.com/plandex-ai/plandex
+- https://github.com/MLSysOps/MLE-agent
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
@@ -305,6 +306,7 @@
 - https://github.com/ragapp/ragapp
 - https://github.com/apify/crawlee
 - https://github.com/weaviate/Verba
+- https://github.com/Cinnamon/kotaemon
 - https://github.com/microsoft/graphrag
 - https://github.com/mendableai/firecrawl
 - https://github.com/run-llama/llama_index
@@ -312,7 +314,12 @@
 - https://github.com/adithya-s-k/omniparse
 - https://github.com/langchain-ai/langgraph
 - https://github.com/AnswerDotAI/RAGatouille
+- https://github.com/louisbrulenaudet/ragoon
+- https://github.com/NirDiamant/RAG_Techniques
 - https://github.com/Unstructured-IO/unstructured-js-client
+
+## LIB: BPE
+- https://github.com/openai/tiktoken
 
 ## LIB: GPT
 - https://github.com/idootop/mi-gpt
@@ -501,6 +508,7 @@
 - https://github.com/huggingface/transformers
 
 ## LIB: BOT
+- https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI
 - https://github.com/baptisteArno/typebot.io
 - https://github.com/openchatai/OpenChat
 
