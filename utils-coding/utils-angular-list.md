@@ -982,6 +982,7 @@ Learn everything about angular universal, make a good SEO.
 - https://www.youtube.com/watch?v=4FkFmn0LmLI Joshua Morony - Signals
 - https://blog.simplified.courses/how-to-prepare-for-angular-signals/
 - https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa
+- https://blog.angulartraining.com/how-to-create-signals-out-of-observables-26f952a9f0e4?gi=d86ea1b93927
 - https://dev.to/this-is-angular/how-do-i-test-signals-signal-computed-effect-f24
 - https://dev.to/this-is-angular/this-is-your-signal-to-try-tanstack-query-angular-35m9
 - https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9
@@ -1102,6 +1103,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 
 - https://github.com/abacritt/angularx-social-login
 - http://jasonwatmore.com/post/2017/02/22/mean-with-angular-2-user-registration-and-login-example-tutorial
+- https://dev.to/this-is-angular/using-github-as-an-authentication-provider-in-your-angular-app-with-pocketbase-3dcc
 - http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/
 - http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html
 - http://almerosteyn.com/2016/03/angular2-form-validation-component
@@ -3482,6 +3484,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## EVOLUTION
 - http://g.co/ng/weekly-notes
+- https://www.angular.courses/caniuse
 - https://github.com/orgs/angular/projects/31
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3

@@ -10,6 +10,7 @@
 - TA Library: https://www.tradingview.com/script/BICzyhq0-ta
 - Visible Chart Library: https://www.tradingview.com/script/j7vCseM2-VisibleChart
 - Time Library: https://www.tradingview.com/script/tyeeNU9I-Time
+- Panda TA: https://www.tradingview.com/script/knItv1rm/
 
 ## Tools
 - https://github.com/TreborNamor/TradingView-Machine-Learning-GUI

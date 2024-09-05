@@ -13,6 +13,7 @@
 
 ## ARTICLES
 - https://www.numerama.com/tech/1590098-lopen-source-en-ia-gagne-du-terrain-face-aux-modeles-proprietaires.html
+- https://www.blogdumoderateur.com/ia-10-modeles-langage-performants-aout-2024/
 - https://www.kissmyfrogs.com/stephane-mallard-blu-age/
 - https://github.com/brexhq/prompt-engineering
 
@@ -94,7 +95,7 @@
 - https://sider.ai/
 - https://mason.app/
 - https://abacus.ai/
-- https://websim.ai/
+- https://glbgpt.com
 - https://www.heard.ly/
 - https://www.d-id.com/
 - https://deepinfra.com/
@@ -137,12 +138,14 @@
 ## TOOLS: CODING
 - https://v0.dev/
 - https://keak.com/
+- https://websim.ai/
 - https://cursor.sh/
 - https://debuild.co/
 - https://www.cursor.com/
 - https://www.devgpt.com/
 - https://www.codegpt.co/
 - https://spellcraft.org/
+- https://gptengineer.app/
 - https://www.codewand.co/
 - https://amplication.com/
 - https://www.magickml.com/

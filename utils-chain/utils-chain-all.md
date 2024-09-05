@@ -358,6 +358,14 @@
 - https://mobidex.io
 - https://intro.cybex.io/
 
+## MEMES
+- https://pump.fun/
+- https://four.meme/
+- https://sunpump.meme/
+
+## EXCHANGE
+- https://www.sygnum.com/
+
 ## DEX OSS
 - https://github.com/XPRNetwork/dex-bot
 - https://github.com/hummingbot/gateway

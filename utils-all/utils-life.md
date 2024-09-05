@@ -4,6 +4,9 @@
 ## Personal dev
 - https://www.youtube.com/watch?v=VcYAVlNRnHY
 
+## Invest
+- https://investir-en-bulgarie.com/
+
 ## Food
 - https://www.blick.ch/fr/food/adresses/cest-inegal-on-a-teste-5-smash-burgers-a-lausanne-id19889888.html
 - https://www.blick.ch/fr/food/merci-chef-5-bons-kebabs-a-croquer-a-lausanne-id19831262.html
@@ -16,6 +19,7 @@
 ## Swiss
 - https://arvy.ch/
 - https://www.noii.ch/
+- https://www.votreopinion.ch/
 - https://www.coupdefoudre30plus.ch/
 - https://imyoga.ch/de/klassen-preise
 - https://offre.swissave.ch/

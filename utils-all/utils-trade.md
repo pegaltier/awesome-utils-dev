@@ -87,6 +87,10 @@
 - https://algoji.com/
 - https://nurp.com/
 
+## SITES: CRYPTO
+- https://www.cyber.capital/
+- https://www.atxscrypto.com/
+
 ## PODCAST
 - https://chatwithtraders.com/
 - https://bettersystemtrader.com/
@@ -169,6 +173,7 @@
 - https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/
 
 ## QUOTES: OSS
+- https://github.com/ranaroussi/yfinance
 - https://github.com/guptarohit/cryptoCMD
 - https://github.com/swapniljariwala/nsepy
 - https://github.com/maxgfr/binance-historical *
