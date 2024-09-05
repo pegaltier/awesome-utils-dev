@@ -77,6 +77,7 @@
 ## OSS: VIDEO
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
+- https://github.com/alyssaxuu/screenity
 - https://github.com/goshops-com/clipshare
 - https://github.com/aegir-assembly/omni-clip
 
@@ -113,6 +114,7 @@
 - https://github.com/mickael-kerjean/filestash
 - https://github.com/filebrowser/filebrowser
 - https://github.com/ballerine-io/ballerine
+- https://github.com/creativecreature/pulse
 - https://github.com/ProxymanApp/Proxyman
 - https://github.com/josdejong/jsonrepair
 - https://github.com/Infisical/infisical

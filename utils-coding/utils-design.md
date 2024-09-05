@@ -314,6 +314,7 @@
 - https://github.com/bradtraversy/design-resources-for-developers
 
 ## FONT
+- https://github.com/erikdkennedy/figtree
 - http://www.awwwards.com/100-greatest-free-fonts-collection-for-2015.html
 - https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
 - http://bashooka.com/freebie/50-free-fonts-2018-that-will-rock-your-design-project/

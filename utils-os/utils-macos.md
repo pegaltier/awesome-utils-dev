@@ -5,6 +5,7 @@
 - https://github.com/appleboy/awesome-osx
 - https://github.com/nikitavoloboev/my-mac-os
 - https://github.com/myspaghetti/macos-virtualbox
+- https://github.com/PubFoundry/macos-frontend-setup
 - https://github.com/serhii-londar/open-source-mac-os-apps
 - https://github.com/herrbischoff/awesome-macos-command-line
 - https://github.com/BlockchainCommons/Secure-Development-Setup-macOS

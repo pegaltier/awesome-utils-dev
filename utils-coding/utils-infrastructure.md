@@ -101,7 +101,7 @@
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/manekinekko/awesome-devcontainers
 
-## TOOLS: PIPELINES
+## TOOLS: PIPELINES / CODE QUALITY
 - https://github.com/code-pushup/cli
 
 ## TOOLS: TUNNEL / SELF HOST

@@ -215,6 +215,9 @@
 - https://awesomeopensource.com/
 - https://bestofjs.org/
 
+## LIB: MULTIPLE
+- https://github.com/builder-group/community
+
 ## LIB: POLYFILL
 - https://github.com/argyleink/scrollyfills
 - https://github.com/sachinchoolur/jquery-to-javascript-converter
@@ -426,6 +429,7 @@
 - https://github.com/fullcalendar/temporal-polyfill
 
 ## LIB: URL
+- https://github.com/kenchris/urlpattern-polyfill
 - https://github.com/unshiftio/url-parse
 - https://github.com/jsonurl/jsonurl-js
 - https://github.com/masotime/json-url
@@ -659,6 +663,7 @@
 - https://github.com/tradingview/awesome-tradingview
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/webmobiledev/vue-tradingview
+- https://github.com/hsablonniere/activity-graph
 - https://github.com/williamtroup/JsonTree.js
 - https://github.com/project-nv/night-vision
 - https://github.com/bumbeishvili/org-chart
@@ -682,8 +687,9 @@
 - https://github.com/mdaines/viz-js
 - https://github.com/d3fc/d3fc
 
-## LIB: WORKFLOW / PIPES
+## LIB: WORKFLOW / PIPES / FLOWCHART
 - https://github.com/xyflow/xyflow
+- https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
 - https://github.com/pipes-digital/pipes
 
@@ -923,6 +929,7 @@
 ## CANVAS 
 - https://github.com/dgmjs/dgmjs
 - https://github.com/konvajs/konva
+- https://github.com/fabricjs/fabric.js
 - https://github.com/niklasvh/html2canvas
 - https://github.com/Leimi/drawingboard.js
 - https://joshbradley.me/object-collisions-with-canvas/

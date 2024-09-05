@@ -9,9 +9,11 @@
 
 ## Fullstack
 - https://github.com/epicweb-dev/epic-stack
+- https://github.com/nicoalbanese/kirimase
 - https://github.com/neekware/fullerstack
 - https://github.com/chartbrew/chartbrew
 - https://github.com/wasp-lang/open-saas
+- https://github.com/midday-ai/v1
 - https://github.com/sst/sst
 
 ## Ecommerce

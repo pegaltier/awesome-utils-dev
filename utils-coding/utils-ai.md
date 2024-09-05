@@ -64,6 +64,7 @@
 - https://otio.ai/
 - https://exa.ai/
 - https://venice.ai/
+- https://lobechat.com/
 - https://webllm.mlc.ai/
 - https://nitro.jan.ai/
 - https://www.phind.com/
@@ -79,6 +80,7 @@
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
 - https://github.com/nomic-ai/gpt4all/
+- https://github.com/lobehub/lobe-chat
 - https://github.com/frdel/agent-zero
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
@@ -149,6 +151,7 @@
 - https://screenshottocode.com/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
+- https://github.com/meltylabs/melty
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/stitionai/devika
@@ -350,7 +353,6 @@
 - https://github.com/nomic-ai/gpt4all-ui
 - https://github.com/PawanOsman/ChatGPT
 - https://github.com/nisabmohd/ChatGPT
-- https://github.com/lobehub/lobe-chat
 - https://github.com/keijiro/AICommand
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/lgrammel/js-agent
@@ -368,6 +370,7 @@
 ## LIB: CHATBOT
 - https://github.com/aws-samples/aws-genai-llm-chatbot
 - https://github.com/luixaviles/gemini-angular-nestjs
+- https://github.com/anthropics/anthropic-quickstarts
 - https://github.com/mckaywrigley/chatbot-ui-lite
 - https://github.com/Hacker-GPT/HackerGPT-2.0
 - https://github.com/mckaywrigley/chatbot-ui
@@ -484,6 +487,7 @@
 - https://github.com/comfyanonymous/ComfyUI
 - https://github.com/Acly/krita-ai-diffusion
 - https://github.com/Stability-AI/StableStudio
+- https://github.com/Zeyi-Lin/HivisionIDPhotos
 - https://github.com/cocktailpeanut/breadboard
 - https://github.com/facebookresearch/chameleon
 - https://github.com/easydiffusion/easydiffusion

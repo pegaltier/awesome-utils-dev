@@ -23,6 +23,7 @@
 - https://github.com/dabit3/graphql-recipes
 - https://github.com/graphql/graphql-landscape
 - https://github.com/howtographql/howtographql
+- https://github.com/lynxtaa/awesome-graphql-client
 - https://github.com/dotansimha/graphql-typescript-node-tutorial
 
 ## EXAMPLE

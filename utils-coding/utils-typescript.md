@@ -108,6 +108,7 @@ npm init
 - https://github.com/privatenumber/get-tsconfig
 - https://github.com/saurabhdaware/typescript-run
 - https://github.com/DavidWells/types-with-jsdocs
+- https://github.com/angular-architects/detective
 - https://github.com/rx-angular/import-graph-visualizer
 - https://github.com/LeDDGroup/typescript-transform-paths
 - https://github.com/arethetypeswrong/arethetypeswrong.github.io

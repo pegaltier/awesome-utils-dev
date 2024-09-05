@@ -89,6 +89,7 @@
 - https://github.com/nextcloud/passman
 - https://github.com/hktalent/scan4all
 - https://github.com/Z4nzu/hackingtool
+- https://github.com/owasp-amass/amass
 - https://github.com/svenstaro/genact
 - https://github.com/Teknexx/cerberus
 - https://github.com/kdzwinel/betwixt

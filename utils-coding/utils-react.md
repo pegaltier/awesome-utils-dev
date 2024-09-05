@@ -245,6 +245,7 @@
 - https://github.com/jherr/tanstack-router-streaming-movies
 
 ## NEXT: STARTER
+- https://github.com/nicoalbanese/kirimase
 - https://github.com/delbaoliveira/website
 - https://github.com/belgattitude/nextjs-monorepo-example
 - https://github.com/aleixmorgadas/monorepo-template
