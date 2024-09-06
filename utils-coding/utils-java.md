@@ -81,6 +81,9 @@
 - https://github.com/lordofthejars/quarkus-cheat-sheet/
 - https://github.com/jhipster/generator-jhipster-quarkus
 
+## QUARKUS: ARTICLES
+- https://medium.com/geekculture/creating-a-reactive-crud-blog-app-with-mongodb-quarkus-and-panache-54d659cf8dcb
+
 ## MICROSERVICES
 - https://quarkus.io/
 - https://code.quarkus.io/

@@ -98,6 +98,7 @@
 - https://glbgpt.com
 - https://www.heard.ly/
 - https://www.d-id.com/
+- https://replicate.com/
 - https://deepinfra.com/
 - https://stability.ai/
 - https://lmsys.org/
@@ -199,6 +200,7 @@
 - https://pika.art/
 - https://megapix.ai/
 - https://openart.ai/
+- https://app.apob.ai/
 - https://clarityai.co/
 - https://letsenhance.io/
 - https://www.midjourney.org/
@@ -478,6 +480,7 @@
 - https://github.com/THU-MIG/yolov10
 - https://github.com/lllyasviel/Omost
 - https://github.com/katanaml/sparrow
+- https://github.com/ostris/ai-toolkit
 - https://github.com/gradio-app/gradio *
 - https://github.com/lllyasviel/Fooocus *
 - https://github.com/Zeqiang-Lai/DragGAN

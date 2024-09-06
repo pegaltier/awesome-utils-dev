@@ -379,6 +379,11 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.quantifiedstrategies.com/python-momentum-trading-strategy/
 - https://www.quantifiedstrategies.com/commodities-to-equity-ratio-trading-strategy/
 - https://www.quantifiedstrategies.com/new-5-day-low-in-spy-and-closes-in-the-low-of-the-range/
+- https://www.quantifiedstrategies.com/macd-and-rsi-strategy/
+- https://www.quantitativo.com/p/long-and-short-mean-reversion-machine
+- https://www.quantitativo.com/p/a-mean-reversion-strategy-from-first
+- https://www.quantitativo.com/p/coding-live-forward-tests
+- https://quantjourney.substack.com/p/quantitative-strategy-analysis-volatility
 - https://medium.datadriveninvestor.com/profit-like-a-pro-a-practical-guide-to-backtesting-and-optimizing-trading-strategies-with-vectorbt-8ade621a4e14
 - https://kaabar-sofien.medium.com/try-using-this-profitable-strategy-on-fx-dd96594c7807
 - https://kaabar-sofien.medium.com/the-pull-back-strategy-in-tradingview-9fc550d6e870

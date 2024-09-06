@@ -363,6 +363,10 @@
 - https://four.meme/
 - https://sunpump.meme/
 
+## PREDICTION
+- https://limitless.exchange/
+- https://polymarket.com/
+
 ## EXCHANGE
 - https://www.sygnum.com/
 

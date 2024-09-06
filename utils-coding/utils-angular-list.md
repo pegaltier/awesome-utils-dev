@@ -1616,6 +1616,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://www.netlify.com/blog/2020/02/24/update-on-scully-angulars-static-site-generator/
 
 ## ECOSYSTEM: LIB: LIST
+- https://github.com/omnedia
 - https://github.com/ngxtools/ngx.tools
 - https://github.com/PatrickJS/awesome-angular
 - https://github.com/brillout/awesome-angular-components
@@ -2491,6 +2492,7 @@ Analyze and optimize the performance of your app
 - https://github.com/ngx-lottie/ngx-lottie
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
+- https://github.com/omnedia many
 
 ## ECOSYSTEM: LIB: COMPONENT: DRAG AND DROP
 - https://material.angular.io/cdk/drag-drop/overview

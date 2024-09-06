@@ -35,7 +35,10 @@
 ## SITES
 - https://capriole.com/
 - https://autoview.com/
+- https://quant.xme.cz/
+- https://ensemble.tech/
 - https://www.quantra.ai/
+- https://quantlane.com/
 - https://openbb.co/blog/
 - https://quantpedia.com/
 - https://robotjames.com/
@@ -146,6 +149,7 @@
 - https://www.cryptoarchive.com.au/ *
 - https://site.financialmodelingprep.com/ *
 - https://data.nasdaq.com/databases/RTAT
+- https://data.nasdaq.com/institutional-investors
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
 - https://www.cryptodatadownload.com/data/
@@ -190,6 +194,7 @@
 - https://nexustrade.io/
 - https://forextester.com/
 - https://www.naked-markets.com/
+- https://flash-research.com/
 - https://www.tradingview.com/
 - https://www.multicharts.com/
 - https://www.haasonline.com/
@@ -199,6 +204,7 @@
 - https://www.cloud9trader.com/
 - https://www.bullcharts.com.au/
 - https://www.fintechee.com/
+- https://r-candles.com/
 - https://capitalise.ai/
 - https://dayhagan.com/
 - https://quantiacs.com/
@@ -426,6 +432,7 @@
 - https://www.tradingview.com/script/AWNvbPRM-Nadaraya-Watson-Rational-Quadratic-Kernel-Non-Repainting/
 - https://www.tradingview.com/script/QbkEr6o9-Triple-Confirmation-Kernel-Regression-Overlay-QuantraAI/
 - https://www.tradingview.com/script/tQ7O9bpf-Triple-Confirmation-Kernel-Regression-Base-QuantraAI/
+- https://www.tradingview.com/script/KkZH5X55-Enhanced-Local-Polynomial-Regression-Yosiet/
 
 ## TOOLS: TRADINGVIEW: INDICATORS ALL
 - https://www.tradingview.com/script/gRy0oaSB-Z-Score/ *
@@ -439,6 +446,8 @@
 - https://www.tradingview.com/script/MiloJegS-HMA-Kahlman-Trend-Trendlines-v-2/
 - https://www.tradingview.com/script/JeNcCUxP-Advanced-Choppiness-Indicator-with-CPMA/
 - https://www.tradingview.com/script/wyyXKHDn-Correlation-Cycle-CorrelationAngle-Market-State-John-Ehlers/
+- https://www.tradingview.com/script/TRYeJZDd-Advanced-Donchian-Channels/
+- https://www.tradingview.com/script/CUpWCZhe-Concretum-Bands/
 
 ## TOOLS: TRADINGVIEW: INDICATORS CANDLESTICK
 - https://www.tradingview.com/script/kP7u3HKD-CandlestickPatterns/
@@ -552,6 +561,7 @@
 - https://github.com/everget/tradingview-pinescript-indicators *
 - https://github.com/f13end/tradingview-custom-indicators *
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
+- https://github.com/Algoboy-Kevin/algo-pinescript-libs
 - https://github.com/shner-elmo/TradingView-Screener *
 - https://github.com/bevry-trading/automated-trading
 - https://github.com/tradingview/pine_script_docs
@@ -624,6 +634,7 @@
 - https://github.com/bennycode/ig-trading-api
 - https://github.com/HuobiRDCenter/huobi_Python
 - https://github.com/bennycode/coinbase-pro-node
+- https://github.com/Algoboy-Kevin/algo-trade-hono *
 - https://github.com/Idirect-Tech/Breeze-Python-SDK
 - https://github.com/nothingisdead/npm-kraken-api
 - https://github.com/alpacahq/alpaca-backtrader-api
@@ -852,6 +863,7 @@
 - https://www.andlil.com/forum/
 
 ## PODCAST
+- https://thealgorithmicadvantage.com/
 - https://www.acquired.fm/episodes/renaissance-technologies
 - https://www.youtube.com/@ChatWithTradersPodcast/videos
 

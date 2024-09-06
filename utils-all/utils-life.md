@@ -19,6 +19,7 @@
 ## Swiss
 - https://arvy.ch/
 - https://www.noii.ch/
+- https://www.frankly.ch/
 - https://www.votreopinion.ch/
 - https://www.coupdefoudre30plus.ch/
 - https://imyoga.ch/de/klassen-preise
