@@ -444,6 +444,7 @@
 - https://github.com/zxcvbn-ts/zxcvbn
 
 ## LIB: PAYMENT
+- https://github.com/polarsource/polar
 - https://github.com/lmsqueezy/lemonsqueezy.js
 
 ## LIB: PARSER HTML/XML/JSON/DOM/CSV
@@ -891,6 +892,7 @@
 - https://github.com/Frooodle/Stirling-PDF
 - https://github.com/pdffillerjs/pdffiller
 - https://github.com/simonhaenisch/md-to-pdf
+- https://github.com/OpenTermsArchive/engine
 - https://github.com/alonrbar/easy-template-x
 
 ## LIB: AUTOMATION

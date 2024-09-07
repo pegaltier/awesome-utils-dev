@@ -10,6 +10,7 @@
 - https://github.com/testing-library/dom-testing-library
 
 ## API
+- https://github.com/wg/wrk
 - https://github.com/dareid/chakram
 - https://github.com/pactumjs/pactum
 - https://github.com/karatelabs/karate

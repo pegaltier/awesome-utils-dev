@@ -10,6 +10,7 @@
 - https://github.com/sindresorhus/type-fest
 - https://github.com/gibbok/typescript-book
 - https://github.com/basarat/typescript-book
+- https://github.com/TheAlgorithms/TypeScript
 - https://github.com/imteekay/mini-typescript
 - https://github.com/danvk/effective-typescript
 - https://github.com/dzharii/awesome-typescript

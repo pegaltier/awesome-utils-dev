@@ -1886,6 +1886,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/angular-extensions/lint-rules
 - https://github.com/angular-eslint/angular-eslint
 - https://github.com/gund/eslint-plugin-deprecation
+- https://github.com/un-ts/eslint-plugin-import-x
 - https://github.com/import-js/eslint-plugin-import
 - https://github.com/xojs/eslint-config-xo-typescript
 - https://github.com/aotaduy/eslint-plugin-spellcheck
@@ -2751,6 +2752,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/NorthwoodsSoftware/gojs-angular
 - https://github.com/kevoj/angular-editor-fabric-js
 - https://github.com/makimenko/angular-template-for-threejs
+- https://github.com/josealejandro2928/ngp-image-picker
 - https://github.com/angular-threejs/angular-three
 - https://github.com/nphias/ngx-deckgl-globe
 - https://github.com/angular-threejs/soba

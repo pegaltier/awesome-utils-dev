@@ -57,6 +57,7 @@
 - https://github.com/bezkoder/node-js-mssql-crud-example
 - https://github.com/studiohyperdrive/nodejs-boilerplate
 - https://github.com/xddq/nodejs-typescript-modern-starter
+- https://github.com/bluesky-social/statusphere-example-app
 - https://github.com/meysamhadeli/booking-microservices-express-js/
 
 ## LIST
