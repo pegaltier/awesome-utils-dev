@@ -288,6 +288,7 @@
 - https://github.com/garronej/oidc-spa
 - https://github.com/charlietango/owky
 - https://github.com/supertokens/supertokens-node
+- https://github.com/subhendukundu/worker-auth-providers
 
 ## LIB: UTILS
 
@@ -531,6 +532,7 @@
 ## LIB: FRONTEND ALL
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/SamVerschueren/decode-uri-component
+- https://github.com/NullVoxPopuli/should-handle-link
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/davidjbradshaw/iframe-resizer
 - https://github.com/steveruizok/perfect-freehand

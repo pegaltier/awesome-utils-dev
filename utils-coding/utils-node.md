@@ -93,6 +93,7 @@
 - https://github.com/stackblitz-labs/pkg.pr.new
 - https://github.com/davglass/license-checker
 - https://github.com/JS-DevTools/npm-publish
+- https://github.com/lukeed/resolve.exports
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
 - https://github.com/stijnvanhulle/rustraf

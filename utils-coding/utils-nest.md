@@ -58,7 +58,9 @@
 - https://github.com/kittgen/kittgen-nestjs
 
 ## LIBS: LOGIN
+- https://github.com/subhendukundu/worker-auth-providers
 - https://github.com/m-haecker/nestjs-social-login
+- https://github.com/adrianbrs/nest-oidc-provider
 - https://github.com/clayrisser/nestjs-keycloak
 - https://github.com/andreacioni/saml2-nest-poc
 - https://github.com/cfsghost/passport-github

@@ -91,6 +91,8 @@
 - https://nurp.com/
 
 ## SITES: CRYPTO
+- https://www.altrady.com/
+- https://quantumvoid.org/
 - https://www.cyber.capital/
 - https://www.atxscrypto.com/
 
@@ -301,6 +303,7 @@
 - https://www.algomatictrading.com
 - https://www.gomicroai.com/
 - https://squareoffbots.com/
+- https://tizianoalgos.com/
 - https://www.darwinex.com/
 - https://www.streak.tech/
 - https://tradetron.tech/
@@ -628,6 +631,7 @@
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/gateio-api
+- https://github.com/gateio/gateapi-python
 - https://github.com/phemex/phemex-api-docs
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/bitget-api

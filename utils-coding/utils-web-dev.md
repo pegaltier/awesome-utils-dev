@@ -457,6 +457,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://lit-element.polymer-project.org/
 
 - https://dev.to/melcor76/the-state-of-web-components-ab3
+- https://github.com/webcomponents/custom-elements-everywhere
 - https://github.com/parthwebdev/UI-Components
 - https://github.com/mjbrisebois/openstate-js
 - https://github.com/mjbrisebois/purewc-template

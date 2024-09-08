@@ -55,6 +55,7 @@
 - https://github.com/rafgraph/spa-github-pages
 - https://github.com/avgupta456/github-trends
 - https://github.com/Gherciu/commitlint-jira
+- https://github.com/eranshmil/github-monitor
 - https://prettier.io/docs/en/precommit.html
 - https://github.com/gitbutlerapp/gitbutler
 - https://github.com/jesseduffield/lazygit

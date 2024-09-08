@@ -211,6 +211,7 @@
 - https://github.com/OpenSignLabs/OpenSign
 
 ## AUTH / OIDC
+- https://authc1.com/
 - https://www.smspartner.fr/
 - https://github.com/supabase/auth
 - https://github.com/logto-io/logto
