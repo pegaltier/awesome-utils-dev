@@ -103,3 +103,28 @@ ma(type, source, length) =>
         'HMA'   =>    ta.hma(source, length)
         'RMA'   =>    ta.rma(source, length)
 ```
+
+## UDT / User defined types
+
+all primitives used in User defined types become automatically a series. so if you need a primitive an alternative is to use a caching mechanism to set and get variables, here a library that provides a simple caching solution in pinescript: https://www.tradingview.com/script/f2ibenEK-cache/
+
+```javascript
+type TDetail
+    int oneThing
+    int anotherThing
+//
+// This has a collection of TDetail objects.
+type TMaster
+    TDetail details = na
+    string another = ''
+//
+// Some sort of factory function.
+createMaster() =>
+    TMaster result = TMaster.new(details=TDetail.new(0,0), another = 'OK')
+    (result)
+//
+// Initialize the master object only once.
+var TMaster master = createMaster()
+test = master.details.anotherThing // /!\ this is a series but we dont want that
+test2 = master.another // /!\ this is a series but we dont want that
+```javascript
