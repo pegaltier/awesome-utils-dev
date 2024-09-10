@@ -610,6 +610,7 @@
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
 - https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/ghostfolio/ghostfolio
+- https://github.com/afadil/wealthfolio
 - https://github.com/0xDub/figgie-auto
 
 ### OSS: STRATEGY
