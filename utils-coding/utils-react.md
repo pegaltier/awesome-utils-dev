@@ -284,6 +284,7 @@
 - https://github.com/shuding/nextra
 - https://github.com/sst/open-next
 - https://github.com/alii/nextkit
+- https://github.com/47ng/nuqs
 - https://github.com/shadcn/ui
 
 ## NATIVE

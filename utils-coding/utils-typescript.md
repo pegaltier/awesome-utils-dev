@@ -105,6 +105,7 @@ npm init
 - https://github.com/ranyitz/code-migrate
 - https://github.com/tr1ckydev/hyperimport
 - https://github.com/alshdavid/BorrowScript
+- https://github.com/SuperchupuDev/tinyglobby
 - https://github.com/phenomnomnominal/betterer
 - https://github.com/privatenumber/get-tsconfig
 - https://github.com/saurabhdaware/typescript-run

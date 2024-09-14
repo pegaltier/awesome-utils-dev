@@ -605,6 +605,7 @@ PANTOS — - https://pantos.io
 - https://beakerbrowser.com/
 
 ## SOLANA
+- https://github.com/solana-developers/template-react-vite-tailwind-counter
 - https://github.com/solana-program/create-solana-program
 - https://github.com/paul-schaaf/awesome-solana
 - https://shyft.to/

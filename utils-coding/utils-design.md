@@ -46,6 +46,7 @@
 - https://github.com/magicuidesign/magicui
 - https://github.com/mikaelvesavuori/figmagic
 - https://github.com/karthikmudunuri/eldoraui
+- https://github.com/hsuanyi-chou/shadcn-ui-expansions
 
 ## OSS: TOOLS
 - https://github.com/MrPeker/awesome-illustrations

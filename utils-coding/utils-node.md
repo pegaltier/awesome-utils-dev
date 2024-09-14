@@ -181,7 +181,6 @@
 - https://github.com/calipersjs/calipers
 - https://github.com/humanwhocodes/fsx
 - https://github.com/Unitech/pm2
-- https://github.com/cacjs/cac
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
 
@@ -287,6 +286,7 @@
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository
 
 ## LIBS: CLI / PROMPTS
+- https://github.com/cacjs/cac
 - https://github.com/terkelg/prompts
 - https://github.com/jasonkuhrt/molt
 - https://github.com/arcanis/clipanion

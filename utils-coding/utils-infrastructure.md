@@ -153,6 +153,7 @@
 ## HOST SERVICES OSS
 - https://github.com/coollabsio/coolify
 - https://github.com/newsnowlabs/runcvm
+- https://github.com/mbecker20/komodo
 - https://github.com/Dokploy/dokploy
 - https://github.com/basecamp/kamal
 - https://github.com/taubyte/tau
@@ -247,6 +248,7 @@
 - https://github.com/kurtosis-tech/kardinal
 - https://github.com/projectcontour/contour
 - https://github.com/awslabs/eks-node-viewer
+- https://github.com/AvitalTamir/cyphernetes
 - https://github.com/kubernetes/ingress-nginx
 - https://github.com/open-source-labs/Chronos
 - https://github.com/viralpoetry/kubesurveyor

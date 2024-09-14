@@ -286,6 +286,7 @@
 - https://github.com/Nutlope/restorePhotos
 - https://github.com/realminchoi/babyagi-ui
 - https://github.com/Jun-CEN/SegmentAnyRGBD
+- https://github.com/serverless/aws-ai-stack
 - https://github.com/bdcorps/langchain-pdf-qa
 - https://github.com/google-research/jaxpruner
 - https://github.com/googleprojectzero/fuzzilli
@@ -315,6 +316,7 @@
 - https://github.com/apify/crawlee
 - https://github.com/weaviate/Verba
 - https://github.com/Cinnamon/kotaemon
+- https://github.com/unclecode/crawl4ai
 - https://github.com/microsoft/graphrag
 - https://github.com/mendableai/firecrawl
 - https://github.com/run-llama/llama_index
@@ -323,6 +325,7 @@
 - https://github.com/langchain-ai/langgraph
 - https://github.com/AnswerDotAI/RAGatouille
 - https://github.com/louisbrulenaudet/ragoon
+- https://github.com/supermemoryai/markdowner
 - https://github.com/NirDiamant/RAG_Techniques
 - https://github.com/Unstructured-IO/unstructured-js-client
 

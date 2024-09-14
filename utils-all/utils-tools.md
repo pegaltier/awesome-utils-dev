@@ -60,8 +60,18 @@
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects
 
+## OSS: BOT
+- https://github.com/telegraf/telegraf
+## OSS: SOCIAL
+- https://github.com/gitroomhq/postiz-app
+## OSS: FILES
+- https://github.com/sxyazi/yazi
+## OSS: EMAIL
+- https://github.com/un/inbox
 # OSS: ASSETS
 - https://github.com/daminikhq/daminik
+## OSS: NEWS
+- https://github.com/RSSNext/Follow
 
 # OSS: PHOTO
 - https://github.com/ente-io/ente
@@ -74,6 +84,7 @@
 ## OSS: AUDIO
 - https://github.com/nukeop/nuclear
 - https://github.com/mps-youtube/yewtube
+- https://github.com/spotDL/spotify-downloader
 
 ## OSS: VIDEO
 - https://github.com/fonoster/goodtok
@@ -81,12 +92,6 @@
 - https://github.com/alyssaxuu/screenity
 - https://github.com/goshops-com/clipshare
 - https://github.com/aegir-assembly/omni-clip
-
-## OSS: FILES
-- https://github.com/sxyazi/yazi
-
-## OSS: EMAIL
-- https://github.com/un/inbox
 
 ## OSS: PDF
 - https://github.com/py-pdf/pypdf
@@ -98,9 +103,6 @@
 - https://github.com/drduh/pwd.sh
 - https://github.com/padloc/padloc
 - https://github.com/keepassx/keepassx
-
-## OSS: SOCIAL
-- https://github.com/gitroomhq/postiz-app
 
 ## OSS: WEB
 - https://github.com/ccbikai/Sink
@@ -138,7 +140,9 @@
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo
 - https://github.com/jsfiddle/togetherjs
+- https://github.com/thelounge/thelounge
 - https://github.com/localsend/localsend
+- https://github.com/gristlabs/grist-core
 - https://github.com/excalidraw/excalidraw
 - https://github.com/hcengineering/platform
 - https://github.com/bluesky-social/social-app

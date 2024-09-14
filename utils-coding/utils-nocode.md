@@ -54,6 +54,7 @@ low-code tooling to prototype fastly.
 - https://github.com/artf/grapesjs
 - https://github.com/remult/remult
 - https://github.com/nocodb/nocodb
+- https://github.com/paxdotdev/pax
 - https://github.com/google/blockly
 - https://github.com/BuilderIO/qwik
 - https://github.com/lowdefy/lowdefy
@@ -69,6 +70,7 @@ low-code tooling to prototype fastly.
 - https://github.com/directus/directus
 - https://github.com/tailcallhq/tailcall
 - https://github.com/grouparoo/grouparoo
+- https://github.com/briefercloud/briefer
 - https://github.com/kelseyhightower/nocode
 - https://github.com/api-platform/api-platform
 - https://github.com/SoftwareBrothers/adminjs

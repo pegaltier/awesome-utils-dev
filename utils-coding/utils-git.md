@@ -72,6 +72,7 @@
 - https://github.com/okonet/lint-staged
 - https://github.com/commitizen/cz-cli
 - https://github.com/github/git-sizer
+- https://github.com/dandavison/delta
 - https://github.com/eth0izzle/shhgit
 - https://github.com/typicode/husky
 - https://github.com/upptime/upptime
@@ -85,6 +86,7 @@
 ## OSS
 - https://github.com/kyechan99/capsule-render
 - https://github.com/github-20k/super-star
+- https://github.com/jdalrymple/gitbeaker
 - https://github.com/harness/gitness
 - https://github.com/open-sauced/api
 - https://libraries.github20k.com/

@@ -400,6 +400,8 @@
 ## TOOLS: TRADINGVIEW: TOOLS 
 - https://www.tradingview.com/script/cvEVOXaH-Monte-Carlo-Simulation-Your-Strategy-Kioseff-Trading/
 - https://www.tradingview.com/script/6Gbcuh4k-Self-Optimizing-RSI-Strategy-Kioseff-Trading/
+- https://www.tradingview.com/script/CBnACnmq-Volume-and-Price-Z-Score-Multi-Asset-By-Leviathan/
+- https://www.tradingview.com/script/HQbCJgkK-Pinescript-Common-String-Functions-Library-by-RRB/
 - https://www.tradingview.com/script/RSZxyvmd-Profile-Any-Indicator-Kioseff-Trading/
 - https://www.tradingview.com/script/4iriNqgS-Cross-Correlation-Kioseff-Trading/ *
 - https://www.tradingview.com/script/GxQp712Z-Portfolio-Laboratory-Kioseff-Trading/
@@ -410,7 +412,11 @@
 - https://www.tradingview.com/script/3PlLOQCF-Crypto-Terminal-Kioseff-Trading/
 - https://www.tradingview.com/script/nluWCID6-Bar-Count-for-Backtesting/
 - https://www.tradingview.com/script/ZUqQdIKU-pAulseperformance-PSStrategyX/
+- https://www.tradingview.com/script/W1YpYcOI-Higher-timeframe-requests/
+- https://www.tradingview.com/script/d9c8dlbh-To-Integer-Function/
 - https://www.tradingview.com/script/R43706do-Threshold-counter/
+- https://www.tradingview.com/script/MTpDMwlj-Signal-Adapter/
+- https://www.tradingview.com/script/rYX3lueB-Strings/
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
 - https://github.com/RobertAgee/Pine-Script-Display-Case *
 - https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4
@@ -431,7 +437,9 @@
 - https://www.tradingview.com/script/e0Ek9x99-KernelFunctions/
 - https://www.tradingview.com/script/eTgP2ymK-Volume-SuperTrend-AI-Expo/
 - https://www.tradingview.com/script/NUeh5q6T-Linear-Regression-All-Data/
+- https://www.tradingview.com/script/wP7WWjLL-SuperTrend-AI-Clustering-LuxAlgo/
 - https://www.tradingview.com/script/WeLssFxl-Nadaraya-Watson-Envelope-Non-Repainting/
+- https://www.tradingview.com/script/lxhedC8E-Machine-Learning-using-Neural-Networks-Educational/
 - https://www.tradingview.com/script/AWNvbPRM-Nadaraya-Watson-Rational-Quadratic-Kernel-Non-Repainting/
 - https://www.tradingview.com/script/QbkEr6o9-Triple-Confirmation-Kernel-Regression-Overlay-QuantraAI/
 - https://www.tradingview.com/script/tQ7O9bpf-Triple-Confirmation-Kernel-Regression-Base-QuantraAI/
@@ -548,6 +556,7 @@
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Alorse/pinescript-strategies
 - https://github.com/ADWilkinson/pinescript-indicators
+- https://github.com/jamesbachini/Pine-Script-Examples
 - https://github.com/Paul-Mizel/Crypto-Trading-Unleashed
 - https://github.com/syrusTheGgrreeaatt/pine-script-strategies **
 - https://github.com/TreborNamor/TradingView-Machine-Learning-GUI

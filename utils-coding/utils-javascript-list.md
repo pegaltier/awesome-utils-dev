@@ -448,6 +448,10 @@
 - https://github.com/polarsource/polar
 - https://github.com/lmsqueezy/lemonsqueezy.js
 
+## LIB: SERIALIZATION / TRANSFER
+- https://github.com/pi0/capnp-es
+- https://github.com/protocolbuffers/protobuf-javascript
+
 ## LIB: PARSER HTML/XML/JSON/DOM/CSV
 - https://github.com/beenotung/best-effort-json-parser
 - https://github.com/Essent/nativescript-xml2js
@@ -675,6 +679,7 @@
 - https://github.com/highcharts/highcharts
 - https://github.com/bprusinowski/plotteus
 - https://github.com/cube-js/awesome-tools
+- https://github.com/briefercloud/briefer
 - https://github.com/williamtroup/Heat.js
 - https://github.com/gionkunz/chartist-js
 - https://github.com/jagenjo/litegraph.js
