@@ -337,6 +337,8 @@
 - https://www.pinescriptstrategies.com/
 - https://autoview.com/builder/trading-strategy/
 - https://tradingenerator.com/condition-sets
+- https://www.reddit.com/r/TradingView/
+- https://www.reddit.com/r/pinescript/
 - https://courses.theartoftrading.com/pages/pine-script-mastery-source-code
 - https://www.tradingcode.net/tradingview/open-trade-entry-bar/
 - https://www.tradingcode.net/tradingview/open-order-identifier/
@@ -388,11 +390,13 @@
 
 ## TOOLS: TRADINGVIEW: WIZARDS
 - https://www.tradingview.com/pine-wizards/
+- https://www.tradingview.com/u/robbatt/#published-scripts
 - https://www.tradingview.com/u/Bjorgum/#published-scripts
 - https://www.tradingview.com/u/everget/#published-scripts
-- https://www.tradingview.com/u/SkyHighTA/#published-scripts
 - https://www.tradingview.com/u/LeafAlgo/#published-scripts
 - https://www.tradingview.com/u/capissimo/#published-scripts
+- https://www.tradingview.com/u/SkyHighTA/#published-scripts
+- https://www.tradingview.com/u/GeoffHammond/#published-scripts
 - https://www.tradingview.com/u/KioseffTrading/#published-scripts
 - https://www.tradingview.com/u/TheTradingParrot/#published-scripts
 - https://www.tradingview.com/u/Amphibiantrading/#published-scripts
@@ -887,7 +891,8 @@
 
 ## SOCIAL TRADE / FMZ / ZIGNALY / ZIGDAO
 - https://zigdao.com/
-- https://www.fmz.com/
+- https://www.fmz.com/ (pinescript)
+- https://bulltrading.io/ (pinescript)
 - https://www.fmz.com/strategy/359806 *
 - https://www.fmz.com/strategy/361880 * 
 - https://www.fmz.com/strategy/361554 * 

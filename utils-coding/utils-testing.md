@@ -130,7 +130,10 @@
 - https://github.com/playwright-community/eslint-plugin-playwright
 - https://github.com/playwright-community/playwright-jest-examples
 - https://github.com/playwright-community/playwright-community
+- https://github.com/playwright-community/playwright-ng-schematics
+- https://github.com/jfgreffier/playwright-component-demos
 - https://github.com/currents-dev/playwright-gh-actions-demo
+- https://github.com/jfgreffier/incroyable-playwright
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
 - https://github.com/mxschmitt/try-playwright
