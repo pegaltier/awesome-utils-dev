@@ -417,6 +417,7 @@
 - https://www.tradingview.com/script/R43706do-Threshold-counter/
 - https://www.tradingview.com/script/MTpDMwlj-Signal-Adapter/
 - https://www.tradingview.com/script/rYX3lueB-Strings/
+- https://www.tradingview.com/script/f2ibenEK-cache/
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
 - https://github.com/RobertAgee/Pine-Script-Display-Case *
 - https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4
