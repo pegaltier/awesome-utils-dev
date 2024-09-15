@@ -49,6 +49,7 @@
 - https://github.com/conventional-changelog/commitlint
 - https://github.com/toplenboren/simple-git-hooks
 - https://github.com/sindresorhus/refined-github
+- https://github.com/github/github-app-js-sample
 - https://github.com/nemisj/git-removed-branches
 - https://github.com/githubocto/repo-visualizer
 - https://github.com/kreuzerk/import-conductor
@@ -110,6 +111,7 @@
 - https://github.com/actions/typescript-action
 - https://github.com/githubocto/repo-visualizer
 - https://github.com/softprops/action-gh-release
+- https://github.com/probot/example-github-action
 - https://github.com/mtfoley/pr-compliance-action
 - https://github.com/styfle/cancel-workflow-action
 - https://github.com/fountainhead/action-wait-for-check

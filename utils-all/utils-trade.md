@@ -724,6 +724,7 @@
 - https://github.com/freqtrade/freqtrade *
 - https://github.com/wardbradt/peregrine
 - https://github.com/fmilthaler/FinQuant
+- https://github.com/akumidv/catcher-bot
 - https://github.com/mcdallas/wallstreet
 - https://github.com/51bitquant/howtrader
 - https://github.com/tastyware/tastytrade
@@ -748,6 +749,7 @@
 - https://github.com/CryptoSignal/Crypto-Signal
 - https://github.com/samre12/deep-trading-agent
 - https://github.com/bfolkens/py-market-profile
+- https://github.com/akumidv/tradingview-ta-lib
 - https://github.com/bitfinexcom/bitfinex-api-py
 - https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/algobulls/pyalgostrategypool

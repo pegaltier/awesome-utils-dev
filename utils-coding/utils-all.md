@@ -15,6 +15,9 @@
 - https://www.libhunt.com/l/javascript
 - https://www.libhunt.com/l/typescript
 
+## LEARN
+- https://github.com/adambard/learnxinyminutes-docs
+
 ## PODCASTS
 - https://webrush.io/
 

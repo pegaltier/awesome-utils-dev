@@ -59,6 +59,7 @@
 - https://www.30secondsofcode.org/
 - https://learnvanillajs.com/roadmap/
 - https://scrimba.com/learn/learnjavascript
+- https://learnxinyminutes.com/docs/javascript/
 - https://watchandcode.com/p/practical-javascript
 - https://learn.co/courses/introduction-to-javascript
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#
@@ -317,13 +318,14 @@
 - https://github.com/Jimbly/timezone-mock
 - https://github.com/notifirehq/notifire
 - https://github.com/uNmAnNeR/imaskjs
-- https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
 - https://github.com/dollarshaveclub/postmate
 - https://github.com/BuilderIO/partytown
 - https://github.com/petkaantonov/bluebird
 - https://github.com/ajitid/fzf-for-js
 - https://github.com/MaskingTechnology/jitar
 - https://github.com/mwilliamson/mammoth.js
+- https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
+- https://github.com/javascript-obfuscator/javascript-obfuscator
 - https://github.com/freesoftwarefactory/parse-multipart
 - https://github.com/vvo/javascript-library-template
 - https://github.com/GoogleChromeLabs/estimator.dev
@@ -718,6 +720,7 @@
 - https://github.com/joye61/pic-smaller
 - https://github.com/aFarkas/lazysizes
 - https://github.com/LuanRT/YouTube.js
+- https://github.com/imagemin/imagemin
 - https://github.com/dropzone/dropzone
 - https://github.com/mapbox/pixelmatch
 - https://github.com/graphery/graphery
@@ -768,6 +771,10 @@
 - https://github.com/lumalabs/luma-web-library
 - https://lumalabs.ai/luma-web-library
 - https://lumalabs.ai/
+
+## LIB: WEBHOOK
+- https://github.com/probot/smee.io
+- https://github.com/probot/smee-client
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
 - https://github.com/fixie-ai/ai-jsx
@@ -829,6 +836,7 @@
 - https://github.com/pichillilorenzo/jackson-js
 - https://github.com/ibmruntimes/yieldable-json
 - https://github.com/mjbrisebois/js-bytes-class
+- https://github.com/triggerdotdev/schema-infer
 - https://github.com/mweidner037/list-positions
 - https://github.com/mesqueeb/merge-anything
 - https://github.com/gvergnaud/ts-pattern

@@ -181,6 +181,7 @@
 
 ## AWS
 - https://github.com/whitfin/s3-utils
+- https://github.com/ekristen/aws-nuke
 - https://github.com/dwyl/learn-aws-lambda
 - https://github.com/localstack/localstack
 - https://github.com/vibe-io/cdk-extensions

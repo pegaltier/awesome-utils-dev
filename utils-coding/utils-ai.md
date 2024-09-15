@@ -80,6 +80,7 @@
 - https://github.com/promptslab/Promptify
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
+- https://github.com/getumbrel/llama-gpt
 - https://github.com/nomic-ai/gpt4all/
 - https://github.com/lobehub/lobe-chat
 - https://github.com/frdel/agent-zero
@@ -288,6 +289,7 @@
 - https://github.com/Jun-CEN/SegmentAnyRGBD
 - https://github.com/serverless/aws-ai-stack
 - https://github.com/bdcorps/langchain-pdf-qa
+- https://github.com/awslabs/project-lakechain
 - https://github.com/google-research/jaxpruner
 - https://github.com/googleprojectzero/fuzzilli
 - https://github.com/ai-robots-txt/ai.robots.txt
@@ -455,6 +457,7 @@
 ## LIB: AUDIO / TTS
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/eustlb/speech-to-speech
+- https://github.com/fishaudio/fish-speech
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
