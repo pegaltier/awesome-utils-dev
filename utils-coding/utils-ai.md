@@ -51,6 +51,7 @@
 - https://github.com/humanloop/awesome-chatgpt
 - https://github.com/microsoft/ML-For-Beginners
 - https://github.com/cbailes/awesome-deep-trading
+- https://github.com/hijkzzz/Awesome-LLM-Strawberry
 - https://github.com/steven2358/awesome-generative-ai
 - https://github.com/mercari/ml-system-design-pattern
 - https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -143,6 +144,7 @@
 - https://websim.ai/
 - https://cursor.sh/
 - https://debuild.co/
+- https://voideditor.com/
 - https://www.cursor.com/
 - https://www.devgpt.com/
 - https://www.codegpt.co/
@@ -156,6 +158,7 @@
 - https://screenshottocode.com/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
+- https://github.com/voideditor/void
 - https://github.com/meltylabs/melty
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
@@ -329,6 +332,7 @@
 - https://github.com/louisbrulenaudet/ragoon
 - https://github.com/supermemoryai/markdowner
 - https://github.com/NirDiamant/RAG_Techniques
+- https://github.com/amazon-science/RAGChecker
 - https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: BPE
@@ -384,6 +388,7 @@
 - https://github.com/mckaywrigley/chatbot-ui-lite
 - https://github.com/Hacker-GPT/HackerGPT-2.0
 - https://github.com/mckaywrigley/chatbot-ui
+- https://github.com/baptisteArno/typebot.io
 - https://github.com/mendableai/rag-arena
 
 ## LIB: LLM

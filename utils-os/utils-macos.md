@@ -1,8 +1,9 @@
 # MacOS
 
 - https://github.com/iCHAIT/awesome-macOS
-- https://github.com/phmullins/awesome-macos
 - https://github.com/appleboy/awesome-osx
+- https://github.com/jaywcjlove/awesome-mac
+- https://github.com/phmullins/awesome-macos
 - https://github.com/nikitavoloboev/my-mac-os
 - https://github.com/myspaghetti/macos-virtualbox
 - https://github.com/PubFoundry/macos-frontend-setup

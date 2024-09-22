@@ -367,7 +367,10 @@
 - https://github.com/kach/nearley
 - https://github.com/aui/art-template
 - https://github.com/sindresorhus/get-stream
+- https://github.com/KingSora/OverlayScrollbars
 - https://github.com/meriyah/meriyah
+- https://github.com/adzejs/adze
+- https://github.com/muze-nl/jaqt
 - https://github.com/SerkanSipahi/app-decorators
 
 ## LIB: DESIGN PATTERN
@@ -784,6 +787,7 @@
 - https://github.com/neilgupta/Sherlock
 - https://github.com/SawyerHood/draw-a-ui
 - https://github.com/ykhli/local-ai-stack
+- https://github.com/foray1010/didyoumean2
 - https://github.com/danny-avila/LibreChat
 - https://github.com/xenova/transformers.js
 - https://github.com/langchain-ai/langgraph
@@ -920,6 +924,7 @@
 ## LIB: TESTING
 - https://github.com/Marak/faker.js
 - https://github.com/boblauer/MockDate
+- https://github.com/mcollina/autocannon
 - https://github.com/Meldiron/faker-generator
 
 ## LIB: SECURITY

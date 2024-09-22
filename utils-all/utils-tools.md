@@ -72,6 +72,9 @@
 - https://github.com/daminikhq/daminik
 ## OSS: NEWS
 - https://github.com/RSSNext/Follow
+## OSS: FTP
+- https://github.com/mickael-kerjean/filestash
+- https://github.com/basvodde/filezilla
 
 # OSS: PHOTO
 - https://github.com/ente-io/ente
@@ -84,6 +87,7 @@
 ## OSS: AUDIO
 - https://github.com/nukeop/nuclear
 - https://github.com/mps-youtube/yewtube
+- https://github.com/oTranscribe/oTranscribe
 - https://github.com/spotDL/spotify-downloader
 
 ## OSS: VIDEO

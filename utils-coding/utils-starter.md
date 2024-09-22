@@ -8,6 +8,7 @@
 - https://github.com/x-ploration-of-mars/x-stack
 
 ## Fullstack
+- https://github.com/leerob/next-saas-starter
 - https://github.com/epicweb-dev/epic-stack
 - https://github.com/nicoalbanese/kirimase
 - https://github.com/neekware/fullerstack

@@ -7,6 +7,7 @@
 - https://github.com/fraxken/ebook_nodejs
 - https://github.com/i0natan/nodebestpractices
 - https://github.com/microsoft/nodejs-guidelines
+- https://github.com/platformatic/node-masterclass
 - https://github.com/goldbergyoni/nodebestpractices
 - https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer
 - https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6
@@ -19,6 +20,7 @@
 - https://github.com/matiasah/npm-dependency-exclusion
 - https://github.com/coreybutler/nvm-windows
 - https://github.com/web-infra-dev/modern.js
+- https://github.com/cachix/cachix-action
 - https://github.com/time-loop/only-allow
 - https://github.com/Thinkmill/manypkg
 - https://github.com/volta-cli/volta
@@ -50,6 +52,7 @@
 - https://github.com/unjs/webpackbar
 - https://github.com/rolldown/rolldown
 - https://github.com/privatenumber/tsx
+- https://github.com/mongodb-js/boxednode
 - https://github.com/DataDog/build-plugins
 
 ## STARTER / EXAMPLE
@@ -97,6 +100,7 @@
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
 - https://github.com/stijnvanhulle/rustraf
+- https://github.com/bcomnes/npm-run-all2
 - https://github.com/styfle/packagephobia
 - https://github.com/ds300/patch-package
 - https://github.com/microlinkhq/tinyrun
@@ -121,6 +125,7 @@
 - https://github.com/amplication/amplication
 - https://github.com/localtunnel/localtunnel
 - https://github.com/freeall/progress-stream
+- https://github.com/sindresorhus/nano-spawn
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/sindresorhus/is-docker
 - https://github.com/coderhammer/backhooks
@@ -133,7 +138,9 @@
 - https://github.com/sindresorhus/execa
 - https://github.com/folke/ultra-runner
 - https://github.com/evanwashere/mitata
+- https://github.com/node-escpos/driver
 - https://github.com/enquirer/enquirer
+- https://github.com/node-usb/node-usb
 - https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
 - https://github.com/foreversd/forever
@@ -319,6 +326,7 @@
 - https://github.com/YahooArchive/express-state
 - https://github.com/pcattori/hmr-from-scratch
 - https://github.com/RobinTail/express-zod-api
+- https://github.com/justinfagnani/zipadee
 - https://github.com/kwhitley/itty-router
 - https://github.com/expressjs/multer
 - https://github.com/Xiphe/cachified

@@ -97,6 +97,7 @@ seo phase d'optimisation :
 - https://www.haroseo.co/
 
 ## TOOLS / OSS / INDEXING
+- https://github.com/algolia/404-crawler
 - https://github.com/remibacha/kwClustersR
 - https://github.com/goenning/google-indexing-script
 

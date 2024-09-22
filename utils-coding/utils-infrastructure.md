@@ -150,7 +150,8 @@
 - https://getenvase.com/
 - https://fly.io/
 
-## HOST SERVICES OSS
+## HOST SERVICES OSS / SELF HOSTED
+- https://github.com/azukaar/Cosmos-Server
 - https://github.com/coollabsio/coolify
 - https://github.com/newsnowlabs/runcvm
 - https://github.com/mbecker20/komodo

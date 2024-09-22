@@ -615,6 +615,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/codrops/OnScrollLetterAnimations
 - https://github.com/codrops/OnScrollTypographyAnimations
 - https://github.com/codrops/ThumbHoverSVGFilter/
+- https://github.com/codrops/OnScrollLayoutFormations
 - https://github.com/crnacura/AmbientCanvasBackgrounds
 - https://github.com/crnacura/grid-deformation-effect
 - https://github.com/brunoimbrizi/interactive-particles
@@ -629,11 +630,13 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://tympanus.net/Development/GridDistortionEffect/
 - https://tympanus.net/Development/ImageStackGrid/index.html
 - https://tympanus.net/Tutorials/SurfaceSampling/index3.html
+- https://tympanus.net/Development/OnScrollLayoutFormations/
 - https://tympanus.net/Development/HorizontalSmoothScrollLayout/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index2.html
 - https://tympanus.net/Development/OnScrollTypographyAnimations/index2.html
 - https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/
 - https://tympanus.net/codrops/2020/04/28/morphing-gooey-text-hover-effect/
+- https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/
 - https://tympanus.net/Development/AmbientCanvasBackgrounds/index.html
 - https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40

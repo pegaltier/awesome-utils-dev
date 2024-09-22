@@ -14,6 +14,7 @@
 - https://github.com/dareid/chakram
 - https://github.com/pactumjs/pactum
 - https://github.com/karatelabs/karate
+- https://github.com/mcollina/autocannon
 - https://github.com/Orange-OpenSource/hurl
 
 ## COMPARATIVE

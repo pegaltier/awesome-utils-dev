@@ -212,11 +212,13 @@
 
 ## AUTH / OIDC
 - https://authc1.com/
+- https://ssoready.com/
 - https://www.smspartner.fr/
 - https://github.com/supabase/auth
 - https://github.com/logto-io/logto
 - https://github.com/teamhanko/hanko
 - https://github.com/Permify/permify
+- https://github.com/ssoready/ssoready
 - https://github.com/spruceid/siwe-oidc
 - https://github.com/auth0/auth0-spa-js
 - https://github.com/epicweb-dev/web-auth
