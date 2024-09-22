@@ -59,6 +59,7 @@
 - https://grids.obys.agency/
 - https://component-party.dev/
 - https://markodenic.com/html-tips/
+- https://github.com/w3c/browser-specs
 - https://github.com/modernweb-dev/web
 - https://github.com/andreasbm/web-skills
 - https://almanac.httparchive.org/en/2020/

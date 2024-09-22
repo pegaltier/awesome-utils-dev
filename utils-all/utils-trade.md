@@ -622,6 +622,7 @@
 ### OSS: ALL
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
+- https://github.com/Igosuki/binance-rs-async
 - https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/ghostfolio/ghostfolio
 - https://github.com/afadil/wealthfolio
@@ -830,6 +831,7 @@
 - https://github.com/tardis-dev/tardis-node *
 - https://github.com/fasenderos/nestjs-ccxt
 - https://github.com/mkmarek/forex.analytics
+- https://github.com/coin-unknown/Indicators *
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/austin-starks/NextTrade *

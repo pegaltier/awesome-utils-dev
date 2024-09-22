@@ -264,8 +264,10 @@
 - https://github.com/knex/knex
 - https://github.com/pubkey/rxdb
 - https://github.com/typicode/lowdb
+- https://github.com/pg-nano/pg-nano
 - https://github.com/pouchdb/pouchdb
 - https://github.com/cdaringe/pouchy
+- https://github.com/pg-nano/pg-parser
 - https://github.com/instantdb/instant
 - https://github.com/kysely-org/kysely
 - https://github.com/orbitinghail/sqlsync

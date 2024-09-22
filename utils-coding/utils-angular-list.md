@@ -2931,6 +2931,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://abp.io/
 
 ## ECOSYSTEM: DEMO: EXPERIMENT
+- https://github.com/AhsanAyaz/ng-ai-ws
 - https://github.com/IRobot1/ng3-cannon-template
 - https://github.com/hoebbelsB/ng-contextual-state
 - https://github.com/sand4rt/playwright-ct-angular

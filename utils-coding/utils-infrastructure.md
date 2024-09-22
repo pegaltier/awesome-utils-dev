@@ -13,6 +13,7 @@
 - https://github.com/bregman-arie/devops-exercises
 - https://github.com/awesome-foss/awesome-sysadmin
 - https://github.com/mikeroyal/Self-Hosting-Guide
+- https://github.com/HariSekhon/DevOps-Bash-tools
 - https://github.com/nubenetes/awesome-kubernetes
 - https://github.com/christianlempa/boilerplates
 - https://github.com/christianlempa/cheat-sheets
@@ -409,6 +410,7 @@ sql					> entree  3389 depuis vps. et le 22 tout le monde
 
 - https://certbot.eff.org/docs/using.html
 - https://github.com/letsencrypt/boulder
+- https://github.com/usual2970/certimate
 - https://github.com/chainguard-dev/incert
 
 ## DEFINITIONS
