@@ -67,6 +67,7 @@
 - https://github.com/Mermade/widdershins
 - https://github.com/samchungy/zod-openapi
 - https://github.com/astahmer/typed-openapi
+- https://github.com/metadevpro/openapi3-ts
 - https://github.com/DarkaOnLine/L5-Swagger
 - https://github.com/42Crunch/vscode-openapi
 - https://github.com/rohit-gohri/redocusaurus
@@ -74,6 +75,7 @@
 - https://github.com/OAI/OpenAPI-Specification
 - https://github.com/drwpow/openapi-typescript
 - https://github.com/APIDevTools/swagger-parser
+- https://github.com/OpenAPI-Qraft/openapi-qraft
 - https://github.com/astahmer/openapi-zod-client
 - https://github.com/swagger-api/swagger-codegen
 - https://github.com/cyclosproject/ng-openapi-gen

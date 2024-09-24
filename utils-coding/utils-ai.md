@@ -464,6 +464,7 @@
 - https://github.com/eustlb/speech-to-speech
 - https://github.com/fishaudio/fish-speech
 - https://github.com/myshell-ai/OpenVoice
+- https://github.com/kyutai-labs/moshi
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
 - https://github.com/suno-ai/bark
@@ -496,6 +497,7 @@
 - https://github.com/lllyasviel/Fooocus *
 - https://github.com/Zeqiang-Lai/DragGAN
 - https://github.com/modelscope/facechain
+- https://github.com/Stable-X/StableDelight
 - https://github.com/Stability-AI/StableLM
 - https://github.com/facefusion/facefusion
 - https://github.com/TencentARC/PhotoMaker
@@ -520,6 +522,9 @@
 
 ## LIB: TRANSLATION
 - https://github.com/andrewyng/translation-agent
+
+## LIB: VIZ
+- https://github.com/microsoft/data-formulator
 
 ## LIB: PREDICTION
 - https://github.com/unit8co/darts

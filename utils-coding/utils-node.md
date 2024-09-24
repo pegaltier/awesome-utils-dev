@@ -272,6 +272,7 @@
 
 ## LIBS: DATABASE / DB
 - https://github.com/prisma-utils
+- https://github.com/redis/ioredis
 - https://github.com/prisma/prisma
 - https://github.com/koskimas/kysely
 - https://github.com/typeorm/typeorm

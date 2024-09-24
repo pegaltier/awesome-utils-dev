@@ -126,6 +126,7 @@
 - https://github.com/josdejong/jsonrepair
 - https://github.com/Infisical/infisical
 - https://github.com/zed-industries/zed
+- https://github.com/loggerhead/json4u
 - https://github.com/stateful/runme
 - https://github.com/vriteio/vrite
 - https://github.com/typst/typst

@@ -85,6 +85,7 @@
 - https://github.com/ironhack-labs/lab-javascript-clue
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/elsewhencode/project-guidelines
+- https://github.com/krausest/js-framework-benchmark
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/mbeaudru/modern-js-cheatsheet
 - https://github.com/Sairyss/domain-driven-hexagon
@@ -484,6 +485,7 @@
 
 ## LIB: ESBUILD
 - https://github.com/esbuild-kit/tsx
+- https://github.com/btd/esbuild-visualizer
 - https://github.com/luckycatfactory/esbuild-graphql-loader
 
 ## LIB: SHELL CLI

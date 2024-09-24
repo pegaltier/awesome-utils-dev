@@ -77,6 +77,7 @@
 - https://github.com/marmelab/react-admin
 - https://github.com/neekware/FullestStack
 - https://github.com/wesbos/Advanced-React
+- https://github.com/cording12/next-fast-turbo
 - https://github.com/AvidCoderr/next-native-nx
 - https://github.com/facebook/create-react-app
 - https://github.com/alan2207/bulletproof-react
