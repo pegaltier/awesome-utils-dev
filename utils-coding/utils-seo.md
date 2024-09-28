@@ -96,6 +96,9 @@ seo phase d'optimisation :
 - https://seobutler.com/
 - https://www.haroseo.co/
 
+## INDEXING:
+- https://indexwhale.com/
+
 ## TOOLS / OSS / INDEXING
 - https://github.com/algolia/404-crawler
 - https://github.com/remibacha/kwClustersR

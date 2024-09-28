@@ -174,6 +174,10 @@
 ## Social network
 - https://pallyy.com/
 - https://snowball.club/
+- https://www.supergrow.ai/
+
+## Customer
+- https://dovetail.com/
 
 ## Finance
 - https://github.com/maybe-finance/maybe

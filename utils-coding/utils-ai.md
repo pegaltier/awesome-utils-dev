@@ -82,6 +82,7 @@
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
 - https://github.com/getumbrel/llama-gpt
+- https://github.com/dottxt-ai/prompts
 - https://github.com/nomic-ai/gpt4all/
 - https://github.com/lobehub/lobe-chat
 - https://github.com/frdel/agent-zero
@@ -140,6 +141,7 @@
 
 ## TOOLS: CODING
 - https://v0.dev/
+- https://idx.dev/
 - https://keak.com/
 - https://websim.ai/
 - https://cursor.sh/
@@ -186,6 +188,7 @@
 
 ## TOOLS: TEXT / DOCS / PDF
 - https://pdf.ai/
+- https://glasp.co/
 - https://aihumanizer.ai/
 - https://www.taglines.ai/
 - https://www.simplify.so/
@@ -227,6 +230,7 @@
 
 ## TOOLS: AUDIO
 - https://elevenlabs.io/
+- https://sondeas.com/
 
 ## TOOLS: MUSIC
 - https://www.lalal.ai/
@@ -473,6 +477,9 @@
 - https://github.com/suno-ai/bark
 
 ## LIB: VIDEO
+- https://github.com/ultralytics/ultralytics
+- https://github.com/THU-MIG/yolov10
+- https://github.com/WongKinYiu/yolov9
 - https://github.com/topics/ai-avatars
 - https://github.com/hpcaitech/Open-Sora
 - https://github.com/KwaiVGI/LivePortrait

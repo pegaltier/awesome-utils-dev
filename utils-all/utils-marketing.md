@@ -13,6 +13,8 @@
 - https://www.growthbook.io/
 - https://launchdarkly.com/
 - https://configcat.com/
+- https://testit.so/
+- https://keak.com/
 
 ## VIDEO
 - https://vimeo.com/

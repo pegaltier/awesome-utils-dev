@@ -1286,6 +1286,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/statelyai/xstate
 - https://github.com/BioPhoton/ngx-rx
 - https://github.com/ds300/derivablejs
+- https://github.com/effector/effector
 - https://github.com/tinyplex/tinybase
 - https://github.com/effector/effector
 - https://github.com/kuncevic/rx-service
@@ -3417,10 +3418,12 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - http://AngularAdvocate.com
 - https://angulararchitecture.com
 - https://leanpub.com/angular2-book
+- https://www.amazon.fr/dp/2416017322 (TOADD)
 - https://checkout.simplified.courses/
 - https://books.ninja-squad.com/angular2
 - https://gumroad.com/l/angular-universal
 - https://github.com/codecraft-tv/angular-course
+- https://angularexperts.io/products/ebook-signals (TOADD)
 - https://github.com/PacktPublishing/Angular-Projects
 - https://github.com/PacktPublishing/Angular-Cookbook (TOADD)
 - https://www.manning.com/books/modern-angular (TOADD)
