@@ -223,6 +223,7 @@
 - https://github.com/hobby-kube/guide
 - https://github.com/furiko-io/furiko
 - https://github.com/godaddy/terminus
+- https://github.com/kubewall/kubewall
 - https://github.com/eslam-gomaa/kptop
 - https://github.com/smartxworks/knest
 - https://github.com/jpetazzo/nsplease

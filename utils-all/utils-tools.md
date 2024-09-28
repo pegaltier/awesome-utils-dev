@@ -128,6 +128,7 @@
 - https://github.com/zed-industries/zed
 - https://github.com/loggerhead/json4u
 - https://github.com/stateful/runme
+- https://github.com/IvanMathy/Boop
 - https://github.com/vriteio/vrite
 - https://github.com/typst/typst
 - https://www.mendable.ai/
@@ -169,6 +170,10 @@
 - https://movie-web.app/
 - https://github.com/KRTirtho/spotube
 - https://github.com/movie-web/movie-web
+
+## Social network
+- https://pallyy.com/
+- https://snowball.club/
 
 ## Finance
 - https://github.com/maybe-finance/maybe
@@ -227,7 +232,7 @@
 - https://geonode.com/
 - https://oxylabs.io/
 - https://www.zenrows.com/
-- https://fineproxy.de/en/
+- https://finef.de/en/
 
 
 ## Desktop

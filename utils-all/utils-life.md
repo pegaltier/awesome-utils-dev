@@ -8,22 +8,28 @@
 - https://investir-en-bulgarie.com/
 
 ## Food
+- https://www.blick.ch/fr/food/adresses/mi-gastro-mi-bistro-et-re-mi-gastro-derriere-5-restos-bistronomiques-a-ne-pas-manquer-a-lausanne-id20133615.html
 - https://www.blick.ch/fr/food/adresses/cest-inegal-on-a-teste-5-smash-burgers-a-lausanne-id19889888.html
 - https://www.blick.ch/fr/food/merci-chef-5-bons-kebabs-a-croquer-a-lausanne-id19831262.html
+- https://www.blick.ch/fr/food/sans-oignon-chef-nos-5-kebabs-preferes-a-geneve-id20131947.html
 - https://shedburgers.com/home burger & pizza in verbier, pully
 - https://histoiresansfaim.ch/ italian in lausanne
 
 ## Drink
 - https://www.marmiton.org/boissons-froides/dry-january-voici-la-recette-star-des-cocktails-sans-alcool-a-faire-en-5-minutes-s4077640.html
 
-## Swiss
+## Swiss date
 - https://arvy.ch/
 - https://www.noii.ch/
 - https://www.frankly.ch/
 - https://www.votreopinion.ch/
 - https://www.coupdefoudre30plus.ch/
+
+## Swiss event
 - https://imyoga.ch/de/klassen-preise
 - https://offre.swissave.ch/
+- https://gym-hommes.ch/
+- https://ttll.ch/
 
 ## Italy
 - https://www.idealista.it/en/

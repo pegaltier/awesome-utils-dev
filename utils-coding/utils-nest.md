@@ -84,6 +84,7 @@
 - https://github.com/squareboat/nest-storage
 - https://github.com/coollerwind/nestjs-graphql
 - https://github.com/squareboat/nest-eyewitness
+- https://github.com/brandonroberts/analog-nest
 - https://github.com/Aginix/nestjs-firebase-admin
 - https://github.com/squareboat/nest-notifications
 - https://github.com/squareboat/nestjs-boilerplate

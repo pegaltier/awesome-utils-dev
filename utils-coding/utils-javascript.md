@@ -258,14 +258,23 @@ Object.values(data);
 // ['Pierre', 32]
 
 // Give me the keys and the values in an array (converts an object → array)
-Object.entries(data)
+const a = Object.entries(data)
 // [['name', 'Pierre'], ['age', 32]]
 
 // Give me the key-value pairs in an object. (converts an array → object)
-const a = Object.entries(data);
-// [['name', 'Pierre'], ['age', 32]]
-const b = Object.fromEntries(data);
+const b = Object.fromEntries(a);
 // { name: 'Pierre', age: 32 }
+
+// Filter object properties by key in ES6 (solution 1)
+const allowed = ['name'];
+const filtered = Object.fromEntries(
+   Object.entries(data).filter(([key, val])=> allowed.includes(key))
+);
+// { name: 'Pierre' }
+// Filter object properties by key in ES6  (solution 1)
+const filtered = allowed
+  .reduce((obj, key) => ({ ...obj, [key]: data[key] }), {});
+// { name: 'Pierre' }
 ```
 
 ### MERGE

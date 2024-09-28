@@ -160,6 +160,7 @@ RUN ls
 ## DOCKER PROXY
 - https://github.com/ciiiii/cloudflare-docker-proxy
 - https://github.com/rpardini/docker-registry-proxy
+- https://github.com/yegor256/squid-proxy
 
 ## DOCKER IMAGES UPDATE
 - https://github.com/pgautoupgrade/docker-pgautoupgrade

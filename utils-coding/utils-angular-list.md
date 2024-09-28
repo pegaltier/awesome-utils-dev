@@ -1122,6 +1122,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://github.com/paularmstrong/normalizr
 - https://github.com/johnpapa/ngrx-data-lab
 - https://github.com/timdeschryver/ngrx-etc
+- https://github.com/gabrielguerrero/ngrx-traits
 - https://github.com/markostanimirovic/ngrx-child-selectors
 - https://github.com/markostanimirovic/ngrx-handlers
 - https://github.com/meeroslav/ng-helpers
@@ -1971,6 +1972,7 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: SIGNALS
 - https://github.com/alcfeoh/ngx-signalify
+- https://github.com/gabrielguerrero/ngrx-traits
 - https://github.com/larscom/ngrx-signals-storage
 - https://github.com/timdeschryver/ng-signal-forms
 - https://github.com/niklas-wortmann/xstate-angular
@@ -2626,6 +2628,7 @@ Analyze and optimize the performance of your app
 - https://github.com/Wykks/ngx-mapbox-gl
 - https://github.com/scttcper/ngx-chartjs
 - https://github.com/stephenhutchings/shown
+- https://github.com/gridstack/gridstack.js
 - https://github.com/project-nv/night-vision
 - https://github.com/apexcharts/ng-apexcharts
 - https://github.com/valor-software/ng2-charts
@@ -3491,6 +3494,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## EVOLUTION
 - http://g.co/ng/weekly-notes
+- https://www.angular.courses/tracker
 - https://www.angular.courses/caniuse
 - https://github.com/orgs/angular/projects/31
 - https://github.com/literalpie/Annotated-Angular-Roadmap

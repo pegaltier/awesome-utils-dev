@@ -101,6 +101,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - Harris-Braun: https://www.harris-braun.com/
 - Terran Collective: https://www.terran.io/
 - FutureScouts: https://futurescouts.cc/
+- Flowsta: https://www.flowsta.com/
 
 ## GITHUB HAPPS
 

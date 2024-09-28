@@ -111,6 +111,10 @@
 - https://github.com/amio/npm-why
 - https://github.com/antfu/taze
 
+## UTILS DEVTOOLS
+- https://github.com/yunabe/tslab
+- https://github.com/rodrigopivi/tslab-widgets
+
 ## UTILS ALL
 - https://github.com/animir/node-rate-limiter-flexible
 - https://github.com/jkup/source-map-stacktrace-tester
@@ -215,9 +219,15 @@
 - https://stackoverflow.com/questions/40385133/retrieve-data-from-a-readablestream-object
 - https://stackoverflow.com/questions/33141012/how-to-mock-streams-in-nodejs
 
+## LIBS: USB
+- https://github.com/node-hid/node-hid
+
 ## LIBS: DOM
 - https://github.com/capricorn86/happy-dom
 - https://github.com/fgnass/domino
+
+## LIBS: SERVERLESS
+- https://github.com/quirrel-dev/quirrel
 
 ## LIBS: REQUEST
 - https://github.com/axios/axios
@@ -343,10 +353,15 @@
 
 ## SERVER: ALL
 - https://github.com/differentialhq/differential
+- https://github.com/brightcove/hot-shots
+- https://github.com/typicode/json-server
 - https://github.com/httptoolkit/mockrtc
+- https://github.com/paulmillr/chokidar
 - https://github.com/fonoster/fonoster
+- https://github.com/elysiajs/elysia
 - https://github.com/vercel/og-image
 - https://github.com/novuhq/novu
+- https://github.com/unjs/nitro
 - https://github.com/panva/jose
 - https://github.com/trpc/trpc
 

@@ -25,6 +25,7 @@
 - Dave Whitcomb https://www.peakalgo.com/
 - Jonathan Shore: https://tr8dr.github.io/
 - Rob Carvers: https://qoppac.blogspot.com/
+- Vadim: https://quantnomad.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
 
@@ -198,6 +199,7 @@
 - https://www.naked-markets.com/
 - https://flash-research.com/
 - https://www.tradingview.com/
+- https://zorro-project.com/
 - https://www.multicharts.com/
 - https://www.haasonline.com/
 - https://www.marketinout.com/
@@ -205,6 +207,7 @@
 - https://strategyquant.com/
 - https://www.cloud9trader.com/
 - https://www.bullcharts.com.au/
+- https://www.composer.trade/
 - https://www.fintechee.com/
 - https://r-candles.com/
 - https://capitalise.ai/
@@ -364,6 +367,7 @@
 - https://www.pinescriptstrategies.com/
 - https://www.daytraderplaybook.com/
 - https://www.ultraalgo.com/
+- https://goodcrypto.app/
 - https://tradesage.co/
 - https://trdr.io/
 
@@ -420,6 +424,7 @@
 - https://www.tradingview.com/script/d9c8dlbh-To-Integer-Function/
 - https://www.tradingview.com/script/R43706do-Threshold-counter/
 - https://www.tradingview.com/script/MTpDMwlj-Signal-Adapter/
+- https://in.tradingview.com/script/s5bVPWvl-OteHmacSha256/
 - https://www.tradingview.com/script/rYX3lueB-Strings/
 - https://www.tradingview.com/script/f2ibenEK-cache/
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
@@ -911,3 +916,6 @@
 - https://medium.com/@FMZQuant/javascript-strategy-backtesting-is-debugged-in-devtools-of-chrome-browser-3f2eeea3a446
 - https://blog.mathquant.com/2020/06/04/fmz-simulation-level-backtest-mechanism-explanation.html
 - https://app.zignaly.com/profit-sharing/658747698e8b2abab3054648?invite=617dba8cd0f5a&subtrack=658747698e8b2abab3054648
+
+## OTHER
+- https://pricedingold.com/

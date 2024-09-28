@@ -178,10 +178,11 @@
 - https://github.com/gptscript-ai/gptscript
 - https://github.com/amplication/amplication
 - https://github.com/princeton-nlp/SWE-agent
+- https://github.com/eduardoleao052/js-pytorch
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
-- https://github.com/eduardoleao052/js-pytorch
+- https://github.com/gpt-engineer-org/gpt-engineer
 
 ## TOOLS: TEXT / DOCS / PDF
 - https://pdf.ai/
@@ -191,6 +192,7 @@
 - https://www.pdfgpt.chat/
 - https://www.jasper.ai/
 - https://www.getcoralai.com/
+- https://www.hyperwriteai.com/
 - https://learnfromanyone.com/
 - https://generateurdetexte.com/
 - https://app.fitnessai.com/knowledge/
@@ -444,6 +446,7 @@
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens
+- https://github.com/comet-ml/opik
 - https://github.com/AkeruAI/akeru
 - https://github.com/janhq/cortex
 - https://github.com/janhq/nitro
@@ -528,6 +531,7 @@
 
 ## LIB: PREDICTION
 - https://github.com/unit8co/darts
+- https://github.com/aziztitu/football-match-predictor
 
 ## LIB: TENSORFLOW
 - https://github.com/tensorflow/tensorboard

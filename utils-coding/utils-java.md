@@ -100,6 +100,7 @@
 
 ## LIBS: ALL
 - https://github.com/opensearch-project/OpenSearch
+- https://github.com/joelittlejohn/jsonschema2pojo
 - https://github.com/adorsys/secure-token-service
 - https://github.com/supertokens/supertokens-core
 - https://github.com/williamfiset/Algorithms
@@ -165,5 +166,13 @@
 
 ## CHEATSHEETS
 
-
 Use nullable instead of ternary operator: LocalDate dateTime = Optional.ofNullable(offerDate).map(LocalDateTime::toLocalDate).orElseGet(LocalDate::now);
+
+## STREAM
+
+Transform List<MyObject> to Map<String, List<MyObject>>
+
+Map<String, List<MyObject>> rows = list.stream().collect(
+        Collectors.toMap(element -> element.personalId, 
+        element -> new ArrayList<MyObject>(Arrays.asList(element))));
+

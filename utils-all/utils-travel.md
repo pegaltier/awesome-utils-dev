@@ -26,6 +26,7 @@ https://languagelearningwithnetflix.com
 Le même en mieuw + Vizeat + Jwebi<br>
 Shutterstock-fotolia-dreamstime</p>
 <h2>EXPATS</h2>
+- https://www.clubfranceinternational.com/le-cfi/
 <p><a href="https://www.internations.org/expat-insider/2016/the-best-and-worst-places-for-expats">https://www.internations.org/expat-insider/2016/the-best-and-worst-places-for-expats</a><br>
 <a href="https://www.leapin.eu">https://www.leapin.eu</a> + Estonian e-resident! </p>
 <h2>TOOLS</h2>
@@ -68,6 +69,7 @@ VISA: <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/service
 
 ## Swiss
 - https://gomore.ch/
+- https://map.geo.admin.ch/
 - https://hotelcard.ch/en
 - https://www.les-bisses-du-valais.ch/fr/
 - https://www.blick.ch/fr/well/a-tester-en-famille-ces-5-magnifiques-balades-en-valais-vous-feront-aimer-lhiver-id19216253.html

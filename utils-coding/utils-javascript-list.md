@@ -291,6 +291,7 @@
 - https://github.com/epicweb-dev/totp
 - https://github.com/garronej/oidc-spa
 - https://github.com/charlietango/owky
+- https://github.com/better-auth/better-auth
 - https://github.com/supertokens/supertokens-node
 - https://github.com/subhendukundu/worker-auth-providers
 
@@ -464,6 +465,7 @@
 - https://github.com/beenotung/best-effort-json-parser
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/package-url/packageurl-js
+- https://github.com/flightcontrolhq/superjson
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/mozilla/readability
 - https://github.com/sindresorhus/domify
@@ -685,6 +687,7 @@
 - https://github.com/bumbeishvili/org-chart
 - https://github.com/cytoscape/cytoscape.js
 - https://github.com/williamtroup/Syntax.js
+- https://github.com/gridstack/gridstack.js
 - https://github.com/highcharts/highcharts
 - https://github.com/bprusinowski/plotteus
 - https://github.com/cube-js/awesome-tools
@@ -705,6 +708,7 @@
 - https://github.com/d3fc/d3fc
 
 ## LIB: WORKFLOW / PIPES / FLOWCHART
+- https://github.com/enso-org/enso
 - https://github.com/xyflow/xyflow
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
@@ -791,6 +795,7 @@
 - https://github.com/neilgupta/Sherlock
 - https://github.com/SawyerHood/draw-a-ui
 - https://github.com/ykhli/local-ai-stack
+- https://github.com/CopilotKit/CopilotKit
 - https://github.com/foray1010/didyoumean2
 - https://github.com/danny-avila/LibreChat
 - https://github.com/xenova/transformers.js
