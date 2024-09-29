@@ -792,6 +792,7 @@
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/openai/openai-node
+- https://github.com/kaiban-ai/KaibanJS
 - https://github.com/neilgupta/Sherlock
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/SawyerHood/draw-a-ui

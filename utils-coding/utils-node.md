@@ -194,8 +194,11 @@
 - https://github.com/Unitech/pm2
 - https://github.com/eta-dev/eta
 - https://github.com/leeoniya/uFuzzy
-
 - https://github.com/fromdeno/deno2node
+
+## LIBS: DATA OBJECT
+- https://github.com/RobinTail/express-zod-api
+- https://github.com/lostfictions/znv
 
 ## LIBS: WORKER THREAD
 - https://github.com/piscinajs/piscina
@@ -336,7 +339,7 @@
 - https://github.com/kwhitley/itty-router-extras
 - https://github.com/YahooArchive/express-state
 - https://github.com/pcattori/hmr-from-scratch
-- https://github.com/RobinTail/express-zod-api
+- https://github.com/dimdenGD/ultimate-express
 - https://github.com/justinfagnani/zipadee
 - https://github.com/kwhitley/itty-router
 - https://github.com/expressjs/multer
@@ -364,6 +367,7 @@
 - https://github.com/unjs/nitro
 - https://github.com/panva/jose
 - https://github.com/trpc/trpc
+- https://github.com/unjs/h3
 
 ## FRAMEWORKS
 
