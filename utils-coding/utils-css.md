@@ -127,12 +127,14 @@
 - https://github.com/unocss/unocss
 - https://github.com/ndaba1/twinit
 - https://github.com/tw-in-js/twind
+- https://github.com/ibelick/buttons
 - https://github.com/saadeghi/daisyui
 - https://github.com/mertJF/tailblocks
 - https://github.com/vinicoder/tw-to-css
 - https://github.com/jordihales/hypercolor
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/Devzstudio/tailwind_to_css
+- https://github.com/ibelick/background-snippets
 - https://github.com/nextui-org/tailwind-variants
 - https://github.com/aniftyco/awesome-tailwindcss
 - https://github.com/mertasan/tailwindcss-variables

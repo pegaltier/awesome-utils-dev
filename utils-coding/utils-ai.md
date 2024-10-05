@@ -78,6 +78,7 @@
 ## TOOLS: PROMPT: OSS
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
+- https://github.com/mediar-ai/screenpipe
 - https://github.com/promptslab/Promptify
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
@@ -253,6 +254,7 @@
 ## TOOLS: FINANCE
 - https://gptstonks.net/
 - https://github.com/FutureSharks/ml-finance
+- https://github.com/tradingstrategy-ai/trading-strategy
 
 ## IMAGES API
 
