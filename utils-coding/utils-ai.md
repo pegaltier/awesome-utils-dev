@@ -309,6 +309,9 @@
 - https://github.com/KillianLucas/open-interpreter/
 - https://github.com/aethermonkey/The-Digital-Hamlet
 
+## LIB: REAL TIME
+- https://github.com/nickscamara/firecrawl-openai-realtime
+
 ## LIB: MEMORY
 - https://github.com/mem0ai/mem0
 

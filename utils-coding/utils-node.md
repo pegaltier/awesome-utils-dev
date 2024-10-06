@@ -355,6 +355,7 @@
 - https://github.com/honojs/hono
 
 ## SERVER: ALL
+- https://github.com/Rotorsoft/eventually-monorepo
 - https://github.com/differentialhq/differential
 - https://github.com/brightcove/hot-shots
 - https://github.com/typicode/json-server

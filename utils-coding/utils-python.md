@@ -4,6 +4,7 @@
 - https://modal.com/
 
 ## List / Learn
+- https://github.com/TheAlgorithms/Python
 - https://github.com/Asabeneh/30-Days-Of-Python
 - https://github.com/zhiwehu/Python-programming-exercises
 

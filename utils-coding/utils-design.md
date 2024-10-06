@@ -52,6 +52,7 @@
 - https://github.com/MrPeker/awesome-illustrations
 - https://github.com/ibelick/background-snippets
 - https://github.com/SamHerbert/SVG-Loaders
+- https://github.com/Yqnn/svg-path-editor
 - https://github.com/edent/SuperTinyIcons
 - https://github.com/penpot/penpot
 
