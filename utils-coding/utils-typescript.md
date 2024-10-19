@@ -98,6 +98,7 @@ npm init
 - https://github.com/esbuild-kit/tsx
 - https://github.com/Microsoft/tsdoc
 - https://github.com/pastelsky/tsdocs
+- https://github.com/joaompneves/tsviz
 - https://github.com/cevek/ttypescript
 - https://github.com/johnlindquist/kit
 - https://github.com/DanielXMoore/Civet

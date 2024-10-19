@@ -630,6 +630,7 @@
 - https://github.com/Igosuki/binance-rs-async
 - https://github.com/Eleven-Trading/TradeNote
 - https://github.com/tigerbeetle/tigerbeetle
+- https://github.com/rodrigo-brito/ninjabot
 - https://github.com/ghostfolio/ghostfolio
 - https://github.com/afadil/wealthfolio
 - https://github.com/0xDub/figgie-auto
@@ -720,6 +721,7 @@
 - https://github.com/vsjha18/nsetools
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
+- https://github.com/bmoscon/cryptofeed
 - https://github.com/jpolec/order_book
 - https://github.com/okxapi/python-okx
 - https://github.com/jealous/stockstats *

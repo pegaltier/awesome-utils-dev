@@ -54,6 +54,7 @@
 - https://github.com/privatenumber/tsx
 - https://github.com/mongodb-js/boxednode
 - https://github.com/DataDog/build-plugins
+- https://github.com/btd/rollup-plugin-visualizer
 
 ## STARTER / EXAMPLE
 - https://github.com/jhoset/nodejs-spotify-server
@@ -385,6 +386,7 @@
 - https://github.com/zone-eu/zone-mta
 - https://github.com/sindresorhus/got
 - https://github.com/balderdashy/sails
+- https://github.com/OptimalBits/bull
 - https://github.com/taskforcesh/bullmq
 - https://github.com/directus/directus
 - https://github.com/mikro-orm/mikro-orm

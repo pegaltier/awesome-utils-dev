@@ -996,6 +996,7 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/SanderElias/Samples/tree/main/Angular-Signals
 - https://github.com/jordanpowell88/angular-counter (cypress)
 - https://github.com/jorgeucano/ngx-angular-migration-signal-helper
+- https://github.com/crutchcorn/ng-linked-signal-and-resource-demo
 - https://github.com/eneajaho/ngx-signal-experimental
 - https://github.com/nartc/ng-conduit-signals
 - https://github.com/eduardoRoth/signals-workshop

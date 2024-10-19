@@ -775,6 +775,7 @@
 - https://github.com/badzong/meshspin.js
 - https://github.com/ykob/sketch-threejs
 - https://github.com/dylanebert/gsplat.js
+- https://github.com/playcanvas/supersplat
 - https://github.com/mikbry/awesome-webgpu
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts

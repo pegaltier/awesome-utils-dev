@@ -375,6 +375,7 @@
 - https://github.com/XPRNetwork/dex-bot
 - https://github.com/hummingbot/gateway
 - https://github.com/hollaex/hollaex-kit
+- https://github.com/nomeida/hyperliquid
 - https://github.com/alcorexchange/alcor-ui
 
 ## N EXCHANGE

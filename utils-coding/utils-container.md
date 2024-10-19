@@ -178,6 +178,7 @@ RUN ls
 - https://github.com/mailcow/mailcow-dockerized
 - https://github.com/bunkerity/bunkerized-php
 - https://github.com/kylemanna/docker-openvpn
+- https://github.com/max-mapper/gifify-docker
 - https://github.com/linuxserver/docker-swag
 - https://github.com/Monogramm/docker-frappe
 - https://github.com/SteveLTN/https-portal

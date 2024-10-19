@@ -332,6 +332,7 @@
 - https://github.com/ragapp/ragapp
 - https://github.com/apify/crawlee
 - https://github.com/weaviate/Verba
+- https://github.com/HKUDS/LightRAG
 - https://github.com/Cinnamon/kotaemon
 - https://github.com/unclecode/crawl4ai
 - https://github.com/microsoft/graphrag
