@@ -25,6 +25,7 @@
 - https://github.com/inoda/ontrack
 - https://github.com/apenwarr/blip
 - https://github.com/yt-dlp/yt-dlp
+- https://github.com/UdaraJay/Pile
 - https://github.com/httpie/desktop
 - https://github.com/subnub/myDrive
 - https://github.com/alyssaxuu/omni
@@ -128,6 +129,7 @@
 - https://github.com/zed-industries/zed
 - https://github.com/loggerhead/json4u
 - https://github.com/stateful/runme
+- https://github.com/rrweb-io/rrweb
 - https://github.com/IvanMathy/Boop
 - https://github.com/vriteio/vrite
 - https://github.com/typst/typst

@@ -605,10 +605,19 @@ PANTOS — - https://pantos.io
 - https://beakerbrowser.com/
 
 ## SOLANA
+- https://medium.com/@jorge_smithii/create-a-solana-token-from-0-to-100-07eb6c1e8d4e
+- https://docs.dexlab.space/products/minting-lab/create-token-name-logo-supply-decimal
 - https://github.com/solana-developers/template-react-vite-tailwind-counter
 - https://github.com/solana-program/create-solana-program
+- https://github.com/solana-labs/solana-program-library
 - https://github.com/paul-schaaf/awesome-solana
 - https://shyft.to/
+
+## MEMES
+
+- ANIMALS: $MICHI / GLORP / SELFIE / BOBO / POCAT / FWOG / HEHE / SNIBBU / WUF
+- HUMAN: SIGMA / LOOK / BIG BRAIN / LOCKIN / BRAINLET / GIGA / NPC / RICH
+- MEMFIN: HIGHER / STONKS / SSEC / SPX6900
 
 ## NEW PROJECTS
 

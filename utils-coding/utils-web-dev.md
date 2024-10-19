@@ -225,6 +225,11 @@
 ## TOOLS: PRODUCTION
 - https://logrocket.com/
 
+## TOOLS: RECORDER / REPLAY
+- https://github.com/rrweb-io/rrweb
+- https://github.com/logrocket
+- https://github.com/hotjar
+
 ## AWESOME
 
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles

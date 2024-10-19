@@ -261,6 +261,7 @@
 
 ## LIBS: AUTH / OIDC
 - https://github.com/google/webauthndemo
+- https://github.com/lsagetlethias/charon
 - https://github.com/MasterKale/SimpleWebAuthn
 - https://github.com/panva/node-oidc-provider
 - https://github.com/supertokens/supertokens-node
@@ -357,6 +358,7 @@
 ## SERVER: ALL
 - https://github.com/Rotorsoft/eventually-monorepo
 - https://github.com/differentialhq/differential
+- https://github.com/VilledeMontreal/workit
 - https://github.com/brightcove/hot-shots
 - https://github.com/typicode/json-server
 - https://github.com/httptoolkit/mockrtc

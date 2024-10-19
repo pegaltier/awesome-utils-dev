@@ -23,6 +23,7 @@ Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, c
 - https://github.com/tiangolo/full-stack-fastapi-template
 
 ## TOOLS
+- https://github.com/3b1b/manim
 - https://github.com/pyenv/pyenv
 - https://github.com/astral-sh/uv
 - https://github.com/streamlit/streamlit

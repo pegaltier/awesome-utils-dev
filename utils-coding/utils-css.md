@@ -8,6 +8,7 @@
 - https://animista.net/
 - https://neumorphism.io
 - https://justcode.today/
+- https://cssgradient.io/ *
 - https://neat.firecms.co/
 - https://ui-snippets.dev/
 - https://supportscss.dev/

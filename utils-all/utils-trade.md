@@ -628,6 +628,7 @@
 - https://github.com/OpenBB-finance/OpenBBTerminal
 - https://github.com/derekcheungsa/autogpt-openbb-sdk
 - https://github.com/Igosuki/binance-rs-async
+- https://github.com/Eleven-Trading/TradeNote
 - https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/ghostfolio/ghostfolio
 - https://github.com/afadil/wealthfolio

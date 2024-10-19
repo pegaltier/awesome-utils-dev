@@ -428,6 +428,9 @@
 - https://github.com/radzserg/rsdi
 - https://github.com/wessberg/DI
 
+## LIB: LOCALE
+- https://github.com/formatjs/formatjs
+
 ## LIB: DATE / TIME
 - https://github.com/vercel/ms
 - https://github.com/iamkun/dayjs
@@ -631,6 +634,9 @@
 - https://github.com/willmcpo/body-scroll-lock
 - https://github.com/tuax/tua-body-scroll-lock
 - https://github.com/metafizzy/infinite-scroll
+
+## LIB: FRONTEND LAYOUT
+- https://github.com/golden-layout/golden-layout
 
 ## LIB: FRONTEND DESIGN
 

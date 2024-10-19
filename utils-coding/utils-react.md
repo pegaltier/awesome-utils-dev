@@ -133,6 +133,7 @@
 - https://github.com/BuilderIO/jsx-lite
 - https://github.com/tajo/react-movable
 - https://github.com/rpearce/image-zoom
+- https://github.com/jaredpalmer/formik
 - https://github.com/kitze/react-hanger
 - https://github.com/react-dnd/react-dnd
 - https://github.com/everweij/react-laag
@@ -304,6 +305,7 @@
 - https://github.com/react-native-menu/menu
 - https://github.com/onubo/react-native-logs
 - https://github.com/LegendApp/legend-motion
+- https://github.com/grahammendick/navigation
 - https://github.com/wix/react-native-ui-lib
 - https://github.com/henrhie/react-native-sha
 - https://github.com/necolas/react-native-web
@@ -345,6 +347,7 @@
 - https://github.com/jobtoday/react-native-image-viewing
 - https://github.com/ospfranco/react-native-quick-sqlite
 - https://github.com/mrousavy/react-native-vision-camera
+- https://github.com/likashefqet/react-native-image-zoom
 - https://github.com/Expensify/react-native-live-markdown
 - https://github.com/4TWIGGERS/react-native-fresh-refresh
 - https://github.com/gorhom/react-native-paper-onboarding

@@ -2468,13 +2468,11 @@ Analyze and optimize the performance of your app
 - https://github.com/mattlewis92/angular-confirmation-popover
 - https://github.com/mattlewis92/angular-resizable-element
 - https://github.com/kamiazya/ngx-speech-recognition
+- https://github.com/exportarts/ngx-cookie-banner
 - https://github.com/surveyjs/survey-library
 - https://github.com/leifermendez/ngx-copilot
 - https://github.com/coryrylan/ngx-lite
 - https://github.com/jdjuan/ng-notyf
-- https://github.com/beeman/ngx-split
-- https://github.com/exportarts/ngx-cookie-banner
-- https://github.com/angular-split/angular-split
 - https://github.com/ngfelixl/ng-write/
 - https://github.com/ngfelixl/pro-widgets
 - https://github.com/udayvunnam/xng-breadcrumb
@@ -2497,6 +2495,11 @@ Analyze and optimize the performance of your app
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
 - https://github.com/omnedia many
+
+## ECOSYSTEM: LIB: COMPONENT: LAYOUT
+- https://github.com/beeman/ngx-split
+- https://github.com/golden-layout/golden-layout
+- https://github.com/angular-split/angular-split
 
 ## ECOSYSTEM: LIB: COMPONENT: DRAG AND DROP
 - https://material.angular.io/cdk/drag-drop/overview
@@ -3074,6 +3077,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/spring-boot-angular-14-mysql-example
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: MICROFRONTENDS
+- https://github.com/dgp1130/ng-route-mfe
 - https://github.com/Coly010/nx-ng-dyn-fed
 - https://github.com/vugar005/youtube-webapp-nx
 - https://github.com/vugar005/youtube-webapp-lerna

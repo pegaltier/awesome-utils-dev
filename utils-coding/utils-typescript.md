@@ -178,6 +178,7 @@ npm init
 - https://github.com/stalniy/casl
 - https://github.com/krzkaczor/earl
 - https://github.com/thi-ng/umbrella
+- https://github.com/TypeStrong/typedoc
 
 ## LIB: ASSEMBLYSCRIPT / WASM
 - https://github.com/torch2424/as-bind

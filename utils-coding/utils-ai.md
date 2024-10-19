@@ -78,6 +78,7 @@
 ## TOOLS: PROMPT: OSS
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
+- https://github.com/open-webui/open-webui
 - https://github.com/mediar-ai/screenpipe
 - https://github.com/promptslab/Promptify
 - https://github.com/ykhli/local-ai-stack
@@ -342,6 +343,7 @@
 - https://github.com/AnswerDotAI/RAGatouille
 - https://github.com/louisbrulenaudet/ragoon
 - https://github.com/supermemoryai/markdowner
+- https://github.com/vercel/ai-sdk-rag-starter
 - https://github.com/NirDiamant/RAG_Techniques
 - https://github.com/amazon-science/RAGChecker
 - https://github.com/Unstructured-IO/unstructured-js-client
@@ -443,6 +445,7 @@
 - https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
+- https://github.com/adaline/gateway
 - https://github.com/lm-sys/FastChat
 - https://github.com/OpenBMB/MiniCPM
 - https://github.com/lm-sys/RouteLLM
