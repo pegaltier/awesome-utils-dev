@@ -472,16 +472,18 @@
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/mozilla/readability
 - https://github.com/sindresorhus/domify
+- https://github.com/atamano/jsonpathly
 - https://github.com/cheeriojs/cheerio
 - https://github.com/fb55/htmlparser2
 - https://github.com/mholt/PapaParse
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
 
-## LIB: MARKDOWN
+## LIB: MARKUP / MARKDOWN / TEXT
 - https://github.com/AgentEnder/markdown-factory
 - https://github.com/micromark/micromark
 - https://github.com/Milkdown/milkdown
+- https://github.com/typst/typst
 
 ## LIB: SWIPER
 - https://github.com/joe223/tiny-swiper
@@ -568,7 +570,6 @@
 - https://github.com/sindresorhus/clipboardy
 - https://github.com/katspaugh/wavesurfer.js
 - https://github.com/zenorocha/clipboard.js
-- https://github.com/catdad/canvas-confetti
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver
 - https://github.com/codex-team/editor.js
@@ -775,7 +776,6 @@
 - https://github.com/badzong/meshspin.js
 - https://github.com/ykob/sketch-threejs
 - https://github.com/dylanebert/gsplat.js
-- https://github.com/playcanvas/supersplat
 - https://github.com/mikbry/awesome-webgpu
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
@@ -960,6 +960,7 @@
 - https://github.com/mgechev/mk.js
 - https://github.com/melonjs/melonJS
 - https://github.com/olistic/warriorjs
+- https://github.com/TitanPlayz100/teti
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
 
@@ -969,9 +970,12 @@
 ## CANVAS 
 - https://github.com/dgmjs/dgmjs
 - https://github.com/konvajs/konva
+- https://github.com/jonobr1/two.js
 - https://github.com/fabricjs/fabric.js
 - https://github.com/niklasvh/html2canvas
 - https://github.com/Leimi/drawingboard.js
+- https://github.com/playcanvas/supersplat
+- https://github.com/catdad/canvas-confetti
 - https://joshbradley.me/object-collisions-with-canvas/
 
 ## PODCASTS

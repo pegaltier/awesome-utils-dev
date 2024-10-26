@@ -49,7 +49,6 @@
 - https://github.com/iterate-ch/cyberduck
 - https://github.com/gristlabs/grist-core
 - https://github.com/DSpace/dspace-angular
-- https://github.com/abhinavsingh/proxy.py
 - https://github.com/justinfrankel/licecap
 - https://github.com/obsproject/obs-studio
 - https://github.com/mattermost/focalboard
@@ -117,13 +116,17 @@
 - https://github.com/CorentinTh/it-tools
 - https://github.com/dgtlmoon/changedetection.io
 
+## OSS: PROXY
+- https://github.com/ProxymanApp/Proxyman
+- https://github.com/abhinavsingh/proxy.py
+- https://github.com/UseInterstellar/Interstellar
+
 ## OSS: DEV
 - https://github.com/linuxserver/docker-wireguard
 - https://github.com/mickael-kerjean/filestash
 - https://github.com/filebrowser/filebrowser
 - https://github.com/ballerine-io/ballerine
 - https://github.com/creativecreature/pulse
-- https://github.com/ProxymanApp/Proxyman
 - https://github.com/josdejong/jsonrepair
 - https://github.com/Infisical/infisical
 - https://github.com/zed-industries/zed
@@ -148,6 +151,7 @@
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo
 - https://github.com/jsfiddle/togetherjs
+- https://github.com/toeverything/AFFiNE
 - https://github.com/thelounge/thelounge
 - https://github.com/localsend/localsend
 - https://github.com/gristlabs/grist-core

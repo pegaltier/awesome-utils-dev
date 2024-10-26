@@ -47,7 +47,9 @@
 - https://github.com/visenger/awesome-mlops
 - https://github.com/openai/openai-cookbook
 - https://github.com/elyase/awesome-gpt3
+- https://github.com/best-of-ai/ai-directories
 - https://github.com/f/awesome-chatgpt-prompts
+- https://github.com/e2b-dev/awesome-ai-agents
 - https://github.com/humanloop/awesome-chatgpt
 - https://github.com/microsoft/ML-For-Beginners
 - https://github.com/cbailes/awesome-deep-trading
@@ -144,6 +146,7 @@
 ## TOOLS: CODING
 - https://v0.dev/
 - https://idx.dev/
+- https://e2b.dev/
 - https://keak.com/
 - https://websim.ai/
 - https://cursor.sh/
@@ -162,15 +165,18 @@
 - https://screenshottocode.com/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
+- https://github.com/Aider-AI/aider
 - https://github.com/voideditor/void
 - https://github.com/meltylabs/melty
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/stitionai/devika
 - https://github.com/Oneirocom/Magick
+- https://github.com/e2b-dev/fragments
 - https://github.com/Nutlope/aicommits
 - https://github.com/plandex-ai/plandex
 - https://github.com/MLSysOps/MLE-agent
+- https://github.com/Skyvern-AI/skyvern
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
@@ -187,6 +193,7 @@
 - https://github.com/Doriandarko/claude-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 - https://github.com/gpt-engineer-org/gpt-engineer
+- https://github.com/OpenInterpreter/open-interpreter
 
 ## TOOLS: TEXT / DOCS / PDF
 - https://pdf.ai/
@@ -328,6 +335,10 @@
 ## LIB: NEURAL NETWORK
 - https://github.com/apple/corenet
 
+## LIB: AGENTIC FRAMEWORK
+- https://github.com/phidatahq/phidata
+- https://github.com/i-am-bee/bee-agent-framework
+
 ## LIB: DATA PARSER / RAG / CONTEXT / SCRAPER
 - https://github.com/ragapp/ragapp
 - https://github.com/apify/crawlee
@@ -336,6 +347,7 @@
 - https://github.com/Cinnamon/kotaemon
 - https://github.com/unclecode/crawl4ai
 - https://github.com/microsoft/graphrag
+- https://github.com/promptfoo/promptfoo
 - https://github.com/mendableai/firecrawl
 - https://github.com/run-llama/llama_index
 - https://github.com/run-llama/llama_parse

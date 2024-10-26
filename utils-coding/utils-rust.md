@@ -33,6 +33,10 @@
 ## FRAMEWORK
 - https://github.com/cunarist/rinf
 
+## LIB: AI
+- https://github.com/EricLBuehler/mistral.rs
+- https://github.com/huggingface/candle
+
 ## LIB
 - https://github.com/crabnebula-dev/cargo-packager
 - https://github.com/Totodore/socketioxide

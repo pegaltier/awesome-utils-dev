@@ -262,6 +262,7 @@
 - https://github.com/cert-manager/cert-manager
 - https://github.com/eldada/kubernetes-scripts
 - https://github.com/lightrun-platform/koolkits
+- https://github.com/lucky-sideburn/kubeinvaders
 - https://github.com/kubernetes-sigs/kubebuilder
 - https://github.com/bitnami-labs/sealed-secrets
 - https://github.com/NimbleArchitect/kubectl-ice

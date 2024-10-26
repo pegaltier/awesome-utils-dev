@@ -197,6 +197,7 @@
 - https://rapidapi.com
 - https://www.humanapi.co
 - https://github.com/APIs-guru
+- https://github.com/hiteshchoudhary/apihub
 - https://github.com/davemachado/public-api
 - https://github.com/public-apis/public-apis
 - https://github.com/cheatsnake/backend-cheats
