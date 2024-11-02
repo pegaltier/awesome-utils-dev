@@ -162,7 +162,9 @@
 - https://www.magickml.com/
 - https://gpt-tailwind.com/
 - https://www.continue.dev/
+- https://fragments.e2b.dev/
 - https://screenshottocode.com/
+- https://cofounder.openinterface.ai/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
 - https://github.com/Aider-AI/aider
@@ -180,7 +182,9 @@
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
+- https://github.com/Integuru-AI/Integuru
 - https://github.com/continuedev/continue
+- https://github.com/raidendotai/cofounder
 - https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
 - https://github.com/abi/screenshot-to-code

@@ -612,6 +612,7 @@ PANTOS — - https://pantos.io
 - https://github.com/solana-program/create-solana-program
 - https://github.com/solana-labs/solana-program-library
 - https://github.com/paul-schaaf/awesome-solana
+- https://github.com/SurfSolana/SolSurfer
 - https://shyft.to/
 
 ## MEMES

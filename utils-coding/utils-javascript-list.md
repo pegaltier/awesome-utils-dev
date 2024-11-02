@@ -958,6 +958,7 @@
 
 ## LIB: GAME
 - https://github.com/mgechev/mk.js
+- https://github.com/straker/kontra
 - https://github.com/melonjs/melonJS
 - https://github.com/olistic/warriorjs
 - https://github.com/TitanPlayz100/teti
@@ -977,6 +978,10 @@
 - https://github.com/playcanvas/supersplat
 - https://github.com/catdad/canvas-confetti
 - https://joshbradley.me/object-collisions-with-canvas/
+
+## CANVAS / EXAMPLE
+- https://github.com/Mhowitt/meme_generator
+- https://github.com/zachsnoek/meme-generator
 
 ## PODCASTS
 - https://realtalkjavascript.simplecast.com/
