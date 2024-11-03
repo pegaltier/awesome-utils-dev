@@ -99,6 +99,7 @@
 - https://coingolive.com/en/coin/change-history
 
 ## TRADING / ANALYSE
+- https://bitcoinwave.net/
 - https://www.spectrallabs.xyz/
 - https://comparemarketcap.com/
 - https://charts.bgeometrics.com/
@@ -644,6 +645,10 @@ PANTOS — - https://pantos.io
 - https://sunpump.meme/
 - https://movepump.com/
 - https://degen.express/
+
+## MEMES: AI
+- https://vvaifu.fun/
+- https://app.virtuals.io/
 
 ## MEMES: OTHERS
 - https://bananagun.io/

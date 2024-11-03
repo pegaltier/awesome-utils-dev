@@ -150,7 +150,9 @@
 - https://keak.com/
 - https://websim.ai/
 - https://cursor.sh/
+- https://uizard.io/
 - https://debuild.co/
+- https://codegpt.co/
 - https://voideditor.com/
 - https://www.cursor.com/
 - https://www.devgpt.com/
@@ -158,6 +160,7 @@
 - https://spellcraft.org/
 - https://gptengineer.app/
 - https://www.codewand.co/
+- https://www.kaibanjs.com/
 - https://amplication.com/
 - https://www.magickml.com/
 - https://gpt-tailwind.com/
@@ -239,11 +242,16 @@
 - https://avatarai.me/
 - https://photoai.com/
 - https://klingai.com/
+- https://anifusion.ai/
 - https://www.bing.com/create
 - https://playgroundai.com/login
 - https://www.craiyon.com/
 - https://www.rundiffusion.com/
 - https://www.easydiffusion.online/
+
+## TOOLS: VIDEO
+- https://vizard.ai/
+- https://runwayml.com/
 
 ## TOOLS: AUDIO
 - https://elevenlabs.io/

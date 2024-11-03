@@ -92,6 +92,7 @@
 - https://github.com/spotDL/spotify-downloader
 
 ## OSS: VIDEO
+- https://github.com/CapSoftware/Cap
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
 - https://github.com/alyssaxuu/screenity

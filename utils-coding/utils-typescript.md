@@ -289,6 +289,7 @@ npm init
 - https://github.com/devexperts/remote-data-ts
 - https://github.com/gustavoguichard/string-ts
 - https://github.com/gbumanzordev/utility-types
+- https://github.com/duplojs/zod-accelerator
 - https://github.com/JacobWeisenburger/zod_utilz
 - https://github.com/typestack/class-transformer
 - https://github.com/timocov/dts-bundle-generator

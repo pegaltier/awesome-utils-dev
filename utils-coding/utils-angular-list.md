@@ -1863,6 +1863,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: LINT
 - https://github.com/stylelint/stylelint
 - https://github.com/stylelint-scss/stylelint-scss
+- https://github.com/Angular-Space/angular-style-guide
 - https://github.com/svengreb/styleguide-javascript
 - https://github.com/secretlint/secretlint
 - https://github.com/htmlhint/HTMLHint
@@ -2980,6 +2981,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/railsstudent/ng-pokemon
 - https://github.com/nartc/ng-pexels-gallery
 - https://github.com/ngneat/ng-standalone-nx
+- https://github.com/trungvose/angular-spotify
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/mrkpks/nx-optimistic-state
 - https://github.com/ajitsinghkaler/devto-clone

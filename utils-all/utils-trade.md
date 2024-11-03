@@ -163,7 +163,9 @@
 - https://github.com/datasets/finance-vix
 - https://github.com/datasets/s-and-p-500
 - https://github.com/datasets/gold-prices
+- https://github.com/JerBouma/FinanceDatabase
 - https://github.com/datasets/exchange-rates-usd
+- https://github.com/DevOpsLP/Historical-data-fetcher/tree/main
 - https://fuserleer.online/exchange_data/
 - https://github.com/jugaad-py/jugaad-data
 - https://www.youtube.com/watch?v=myydDX-us4o
@@ -610,6 +612,7 @@
 
 ### OSS: QUALITY
 - https://github.com/hummingbot/hummingbot
+- https://github.com/hummingbot/quants-lab
 - https://github.com/freqtrade/freqtrade *
 - https://github.com/jesse-ai/jesse
 - https://github.com/fintechees
@@ -718,6 +721,10 @@
 - https://github.com/stellar/kelp
 - https://github.com/hackingthemarkets
 
+### OSS: HFT
+- https://github.com/javifalces/HFTFramework
+- https://github.com/Crypto-toolbox/HFT-Orderbook
+
 ### OSS: PYTHON
 - https://github.com/vollib/vollib
 - https://github.com/8W9aG/fullmonte
@@ -770,7 +777,6 @@
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/akumidv/tradingview-ta-lib
 - https://github.com/bitfinexcom/bitfinex-api-py
-- https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/mr-easy/streaming_indicators
@@ -870,6 +876,7 @@
 - https://github.com/Hantama237/moontrade-algotrading
 - https://github.com/Reiryoku-Technologies/Mida *
 - https://github.com/Reiryoku-Technologies/Mida-Playground
+- https://github.com/joshuapjacob/crypto-volatility-surface *
 - https://github.com/aloysius-pgast/crypto-exchanges-gateway *
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
 - https://github.com/excelsior-creative/edc-backtester (grademark)
