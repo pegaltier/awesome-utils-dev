@@ -18,6 +18,10 @@
 ## Drink
 - https://www.marmiton.org/boissons-froides/dry-january-voici-la-recette-star-des-cocktails-sans-alcool-a-faire-en-5-minutes-s4077640.html
 
+## Swiss product
+- https://www.swiss-alpine-spirit.ch/
+- https://www.ginger-elixir.ch/
+
 ## Swiss date
 - https://arvy.ch/
 - https://www.noii.ch/

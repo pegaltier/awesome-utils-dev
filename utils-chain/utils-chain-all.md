@@ -653,6 +653,7 @@ PANTOS — - https://pantos.io
 ## MEMES: OTHERS
 - https://bananagun.io/
 - https://meow.bio/ppp.html
+- https://medium.com/@crypto_hawk/how-to-snipe-meme-coins-on-solana-using-moonshot-2930ba5c1ab8
 - ANIMALS: $MICHI / GLORP / SELFIE / BOBO / POCAT / FWOG / HEHE / SNIBBU / WUF
 - HUMAN: SIGMA / LOOK / BIG BRAIN / LOCKIN / BRAINLET / GIGA / NPC / RICH
 - MEMFIN: HIGHER / STONKS / SSEC / SPX6900
