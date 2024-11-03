@@ -115,6 +115,7 @@
 - https://java.libhunt.com/categories
 - https://github.com/zalando/logbook
 - https://github.com/alibaba/arthas
+- https://github.com/caoccao/Javet
 - https://github.com/apache/thrift
 - https://github.com/apache/druid
 - https://github.com/crate/crate

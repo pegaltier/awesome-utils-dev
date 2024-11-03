@@ -86,6 +86,7 @@
 
 ## OSS: AUDIO
 - https://github.com/nukeop/nuclear
+- https://github.com/th-ch/youtube-music
 - https://github.com/mps-youtube/yewtube
 - https://github.com/oTranscribe/oTranscribe
 - https://github.com/spotDL/spotify-downloader
@@ -121,6 +122,9 @@
 - https://github.com/abhinavsingh/proxy.py
 - https://github.com/UseInterstellar/Interstellar
 
+## OSS: COMPANY / STARTUP
+- https://github.com/midday-ai/midday
+
 ## OSS: DEV
 - https://github.com/linuxserver/docker-wireguard
 - https://github.com/mickael-kerjean/filestash
@@ -130,6 +134,7 @@
 - https://github.com/josdejong/jsonrepair
 - https://github.com/Infisical/infisical
 - https://github.com/zed-industries/zed
+- https://github.com/thomiceli/opengist
 - https://github.com/loggerhead/json4u
 - https://github.com/stateful/runme
 - https://github.com/rrweb-io/rrweb

@@ -360,6 +360,10 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.quantitativo.com/p/the-holy-grail-still-works
 
 ## STRATEGY: WEBSITES / ARTICLES
+- https://www.quantitativo.com/p/a-different-indicator
+- https://www.crackingmarkets.com/iv-mean-reversion/
+- https://www.crackingmarkets.com/buy-the-dip-weekly/
+- https://markrbest.github.io/reading-list/
 - https://tradingindicators.com/
 - https://www.tradingwithrayner.com/inside-bar/
 - https://www.buildalpha.com/intraday-edge/

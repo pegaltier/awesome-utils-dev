@@ -55,6 +55,7 @@
 - https://www.quantscience.io/
 - https://allocatesmartly.com/
 - https://amphibiantrading.com/
+- https://www.thelabtrading.com/
 - https://www.quantivealpha.com/
 - https://concretumresearch.com/
 - https://quantifiableedges.com/
@@ -339,6 +340,7 @@
 - https://courses.theartoftrading.com/
 - https://www.pinescriptstrategies.com/
 - https://autoview.com/builder/trading-strategy/
+- https://jamesbachini.com/pine-script-examples/
 - https://tradingenerator.com/condition-sets
 - https://www.reddit.com/r/TradingView/
 - https://www.reddit.com/r/pinescript/
@@ -368,6 +370,7 @@
 - https://www.daytraderplaybook.com/
 - https://www.ultraalgo.com/
 - https://goodcrypto.app/
+- https://bigbeluga.com/
 - https://tradesage.co/
 - https://trdr.io/
 
@@ -549,6 +552,8 @@
 - https://github.com/topics/pinescript?o=desc&s=updated
 - https://github.com/topics/pinescript-strategies
 - https://github.com/topics/tradingview-alert
+- https://github.com/Zettt/pinescripts *
+- https://github.com/EikHjertekys/EPF *
 - https://github.com/AlgoETS/TradingViewBuilder
 - https://github.com/Heavy91/TradingView_Indicators
 - https://github.com/pAulseperformance/awesome-pinescript *
@@ -897,6 +902,7 @@
 
 ## PODCAST
 - https://thealgorithmicadvantage.com/
+- https://share.transistor.fm/s/51a35144
 - https://www.acquired.fm/episodes/renaissance-technologies
 - https://www.youtube.com/@ChatWithTradersPodcast/videos
 
@@ -919,6 +925,7 @@
 - https://www.fmz.com/api#backtesting-system-parameter-optimization
 - https://medium.com/@FMZQuant/javascript-strategy-backtesting-is-debugged-in-devtools-of-chrome-browser-3f2eeea3a446
 - https://blog.mathquant.com/2020/06/04/fmz-simulation-level-backtest-mechanism-explanation.html
+- https://kinfo.com/portfolio/36807/performance
 - https://app.zignaly.com/profit-sharing/658747698e8b2abab3054648?invite=617dba8cd0f5a&subtrack=658747698e8b2abab3054648
 
 ## OTHER

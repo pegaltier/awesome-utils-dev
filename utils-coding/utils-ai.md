@@ -167,6 +167,7 @@
 - https://cofounder.openinterface.ai/
 - https://github.com/pieces-app
 - https://github.com/e2b-dev/e2b
+- https://github.com/ekkinox/yai
 - https://github.com/Aider-AI/aider
 - https://github.com/voideditor/void
 - https://github.com/meltylabs/melty
@@ -174,6 +175,7 @@
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/stitionai/devika
 - https://github.com/Oneirocom/Magick
+- https://github.com/yamadashy/repomix
 - https://github.com/e2b-dev/fragments
 - https://github.com/Nutlope/aicommits
 - https://github.com/plandex-ai/plandex
@@ -184,9 +186,11 @@
 - https://github.com/OpenDevin/OpenDevin
 - https://github.com/Integuru-AI/Integuru
 - https://github.com/continuedev/continue
+- https://github.com/microsoft/genaiscript
 - https://github.com/raidendotai/cofounder
 - https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
+- https://github.com/trypear/pearai-master
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
@@ -462,6 +466,7 @@
 - https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
 - https://github.com/microsoft/JARVIS
+- https://github.com/ModelTC/lightllm
 - https://github.com/adaline/gateway
 - https://github.com/lm-sys/FastChat
 - https://github.com/OpenBMB/MiniCPM
@@ -484,9 +489,11 @@
 - https://github.com/01-ai/Yi
 
 ## LIB: DEEP LEARNING / NEURAL
+- https://github.com/google/dopamine
 - https://github.com/pytorch/pytorch
 - https://github.com/tinygrad/tinygrad
 - https://github.com/karpathy/micrograd
+- https://github.com/microsoft/DeepSpeed
 
 ## LIB: ROBOTIC
 - https://github.com/huggingface/lerobot

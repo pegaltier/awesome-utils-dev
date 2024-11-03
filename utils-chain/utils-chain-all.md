@@ -98,6 +98,11 @@
 - https://sanbase-low.santiment.net/projects
 - https://coingolive.com/en/coin/change-history
 
+## TRADING / ANALYSE
+- https://www.spectrallabs.xyz/
+- https://comparemarketcap.com/
+- https://charts.bgeometrics.com/
+
 ## TRADING / PORTFOLIO
 - https://kryll.io/
 - https://napbots.com/
@@ -337,6 +342,7 @@
 
 ## D EXCHANGE DEX
 - https://jup.ag/
+- https://aqtis.ai/
 - https://tigris.trade/
 - https://dexscreener.com/
 - https://www.apex.exchange/
@@ -358,11 +364,6 @@
 - https://weth.io
 - https://mobidex.io
 - https://intro.cybex.io/
-
-## MEMES
-- https://pump.fun/
-- https://four.meme/
-- https://sunpump.meme/
 
 ## PREDICTION
 - https://limitless.exchange/
@@ -588,8 +589,8 @@ PANTOS — - https://pantos.io
 - https://github.com/mimblewimble/grin
 - https://era.eco/
 
-
 ## DEV / SMART CONTRACT / TOOLS / DAPPS
+- https://irys.xyz/
 - https://www.blockcypher.com/
 - https://coinlib.io/api/docs
 - https://contracts.mywish.io/create
@@ -613,10 +614,40 @@ PANTOS — - https://pantos.io
 - https://github.com/solana-labs/solana-program-library
 - https://github.com/paul-schaaf/awesome-solana
 - https://github.com/SurfSolana/SolSurfer
+- https://smithii.io/en/
+- https://solcasino.io/
 - https://shyft.to/
 
-## MEMES
 
+## MEMES: LEVERAGE
+- https://ox.fun/
+- https://maxbid.pro
+
+## MEMES: ANALYSE
+- https://gmgn.ai/
+- https://muradlist.xyz/
+- https://app.prerich.com/
+- https://www.emojirace.fun/
+- https://streamflow.finance/
+- https://memecointracker.com/
+- https://culturemarketcap.com/
+- https://www.memecoinrace.xyz/
+- https://dropstab.com/tab/memes
+- https://www.nationfisolana.com/
+
+## MEMES: LAUNCH
+- https://pump.fun/
+- https://four.meme/
+- https://dumpy.fun/
+- https://ape.express/
+- https://meme.cooking/
+- https://sunpump.meme/
+- https://movepump.com/
+- https://degen.express/
+
+## MEMES: OTHERS
+- https://bananagun.io/
+- https://meow.bio/ppp.html
 - ANIMALS: $MICHI / GLORP / SELFIE / BOBO / POCAT / FWOG / HEHE / SNIBBU / WUF
 - HUMAN: SIGMA / LOOK / BIG BRAIN / LOCKIN / BRAINLET / GIGA / NPC / RICH
 - MEMFIN: HIGHER / STONKS / SSEC / SPX6900

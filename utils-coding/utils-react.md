@@ -248,20 +248,21 @@
 - https://github.com/jherr/tanstack-router-streaming-movies
 
 ## NEXT: STARTER
-- https://github.com/nicoalbanese/kirimase
-- https://github.com/delbaoliveira/website
 - https://github.com/belgattitude/nextjs-monorepo-example
+- https://github.com/baselime/baselime-nextjs-template
 - https://github.com/aleixmorgadas/monorepo-template
+- https://github.com/ixartz/Next-js-Blog-Boilerplate
 - https://github.com/ixartz/Next-js-Boilerplate
 - https://github.com/one-aalam/next-starter-kit
 - https://github.com/vercel/next-learn-starter
 - https://github.com/Blazity/next-enterprise
 - https://github.com/adrianhajdin/healthcare
+- https://github.com/delbaoliveira/website
+- https://github.com/nicoalbanese/kirimase
 - https://github.com/timlrx/pliny
 
 ## NEXT
 - https://github.com/application-research/next-bucket
-- https://github.com/ixartz/Next-js-Blog-Boilerplate
 - https://github.com/slicknode/starter-nextjs-blog
 - https://github.com/developedbyed/styled-frontend
 - https://github.com/juristr/blog-series-nextjs-nx
@@ -270,6 +271,7 @@
 - https://github.com/TheEdoRan/next-safe-action
 - https://github.com/serverless-stack/open-next
 - https://github.com/RevereCRE/relay-nextjs
+- https://github.com/leerob/next-self-host
 - https://github.com/next-boost/next-boost
 - https://github.com/graphlatte/graphlatte
 - https://github.com/ScriptedAlchemy/DLAYS
