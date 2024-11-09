@@ -30,6 +30,7 @@
 ## ERP / CRM
 - https://github.com/idurar/idurar-erp-crm
 - https://github.com/espocrm/espocrm
+- https://github.com/twentyhq/twenty
 
 ## BI / Business intelligence
 - https://github.com/metabase/metabase

@@ -108,6 +108,7 @@
 - https://github.com/privatenumber/link
 - https://github.com/tmcdos/custompatch
 - https://github.com/RetireJS/retire.js
+- https://github.com/megahertz/howfat
 - https://github.com/webpro-nl/knip
 - https://github.com/amio/npm-why
 - https://github.com/antfu/taze
@@ -314,6 +315,7 @@
 - https://github.com/terkelg/prompts
 - https://github.com/jasonkuhrt/molt
 - https://github.com/arcanis/clipanion
+- https://github.com/tinylibs/picospinner
 - https://github.com/npkgz/cli-progress
 - https://github.com/vadimdemedes/pastel
 - https://github.com/sindresorhus/trash-cli
@@ -355,6 +357,7 @@
 
 ## SERVER: EDGES
 - https://github.com/kartikk221/hyper-express
+- https://github.com/rhinobase/hono-openapi
 - https://github.com/honojs/hono
 
 ## SERVER: ALL

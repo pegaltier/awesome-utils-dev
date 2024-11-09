@@ -234,6 +234,7 @@
 - https://github.com/developit/microbundle
 - https://github.com/antoine-coulon/skott
 - https://github.com/bengl/count-promises
+- https://github.com/jnoncode/decode-deps
 - https://github.com/bencoveney/barrelsby
 - https://github.com/antoine-coulon/skott
 - https://github.com/facebook/jscodeshift
@@ -964,6 +965,7 @@
 - https://github.com/TitanPlayz100/teti
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
+- https://github.com/memetic-institute/The-Fed
 
 ## ALLIN
 - https://github.com/vendure-ecommerce/vendure

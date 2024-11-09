@@ -490,6 +490,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/withastro/astro
 - https://github.com/aidenybai/lucia
 - https://github.com/alineacms/alinea
+- https://github.com/sanity-io/sanity
 - https://github.com/web-infra-dev/oxc
 - https://github.com/inertiajs/inertia
 - https://github.com/payloadcms/payload
@@ -541,6 +542,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/shellscape/jsx-email
 - https://github.com/zenorocha/react-email
 - https://github.com/tomayac/dark-mode-email
+- https://github.com/Kikobeats/free-email-domains
 - https://github.com/SendWithSES/Drag-and-Drop-Email-Designer
 - https://github.com/leemunroe/responsive-html-email-template
 - https://github.com/disposable-email-domains/disposable-email-domains

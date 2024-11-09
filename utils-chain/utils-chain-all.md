@@ -378,6 +378,7 @@
 - https://github.com/hummingbot/gateway
 - https://github.com/hollaex/hollaex-kit
 - https://github.com/nomeida/hyperliquid
+- https://github.com/ic-alloy/ic-alloy-dca
 - https://github.com/alcorexchange/alcor-ui
 
 ## N EXCHANGE

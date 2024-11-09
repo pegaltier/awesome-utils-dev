@@ -39,6 +39,7 @@
 
 ## LIB
 - https://github.com/crabnebula-dev/cargo-packager
+- https://github.com/hyperlight-dev/hyperlight
 - https://github.com/Totodore/socketioxide
 - https://github.com/bnjbvr/cargo-machete
 - https://github.com/rust-windowing/winit

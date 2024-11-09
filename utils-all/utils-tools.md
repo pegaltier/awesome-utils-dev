@@ -75,6 +75,8 @@
 ## OSS: FTP
 - https://github.com/mickael-kerjean/filestash
 - https://github.com/basvodde/filezilla
+## OSS: SYSTEM
+- https://github.com/Abdenasser/neohtop
 
 # OSS: PHOTO
 - https://github.com/ente-io/ente
@@ -116,6 +118,7 @@
 - https://github.com/imputnet/cobalt
 - https://github.com/Lynx-Shortener/Lynx
 - https://github.com/CorentinTh/it-tools
+- https://github.com/ArchiveBox/ArchiveBox
 - https://github.com/dgtlmoon/changedetection.io
 
 ## OSS: PROXY

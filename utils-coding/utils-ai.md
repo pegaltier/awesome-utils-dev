@@ -86,10 +86,12 @@
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
 - https://github.com/getumbrel/llama-gpt
+- https://github.com/LangbaseInc/langui
 - https://github.com/dottxt-ai/prompts
 - https://github.com/nomic-ai/gpt4all/
 - https://github.com/lobehub/lobe-chat
 - https://github.com/frdel/agent-zero
+- https://github.com/ErikBjare/gptme
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
 - https://github.com/janhq/jan *
@@ -169,6 +171,7 @@
 - https://screenshottocode.com/
 - https://cofounder.openinterface.ai/
 - https://github.com/pieces-app
+- https://github.com/cline/cline
 - https://github.com/e2b-dev/e2b
 - https://github.com/ekkinox/yai
 - https://github.com/Aider-AI/aider
@@ -223,6 +226,7 @@
 - https://beta.storymapr.com/users/sign_in
 - https://www.dover.io/tools/job-description-rewriter
 - https://philosopherai.com/philosopher/technology-5f713c
+- https://github.com/DS4SD/docling
 
 ## TOOLS: IMAGE
 - https://kiri.art/
@@ -231,6 +235,7 @@
 - https://openart.ai/
 - https://app.apob.ai/
 - https://clarityai.co/
+- https://editproai.pro/
 - https://letsenhance.io/
 - https://www.midjourney.org/
 - https://fengmyshui.com/
@@ -268,6 +273,7 @@
 - https://www.sievedata.com/
 - https://www.synthesia.io/
 - https://github.com/HumanAIGC/EMO
+- https://github.com/bytedance/X-Portrait
 
 ## TOOLS: HACKING
 - https://chat.hackerai.co/
@@ -353,6 +359,7 @@
 
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/phidatahq/phidata
+- https://github.com/transitive-bullshit/agentic
 - https://github.com/i-am-bee/bee-agent-framework
 
 ## LIB: DATA PARSER / RAG / CONTEXT / SCRAPER
@@ -563,6 +570,7 @@
 - https://github.com/modelscope/DiffSynth-Studio
 - https://github.com/kiri-art/docker-diffusers-api
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
+- https://github.com/muerrilla/sd-webui-detail-daemon
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui *
 - https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/AIAnytime/AI-News-Anchor-Generator-App
