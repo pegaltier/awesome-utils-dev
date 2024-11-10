@@ -115,6 +115,7 @@
 - https://airbyte.com/
 - https://sitegpt.ai/
 - https://ideasai.com/
+- https://openrouter.ai/
 - https://kissangpt.com/
 - https://interiorai.com/
 - https://breadboard.me/
@@ -129,6 +130,9 @@
 - https://www.literallyanything.io/
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
+
+## TOOLS: SUMMARY / ORGANIZE
+- https://notebooklm.google/
 
 ## TOOLS: JOB / HIRING
 - https://applicantai.com/
@@ -174,6 +178,7 @@
 - https://github.com/cline/cline
 - https://github.com/e2b-dev/e2b
 - https://github.com/ekkinox/yai
+- https://github.com/block/goose
 - https://github.com/Aider-AI/aider
 - https://github.com/voideditor/void
 - https://github.com/meltylabs/melty
@@ -430,6 +435,9 @@
 - https://github.com/arc53/DocsGPT
 - https://github.com/h2oai/h2ogpt
 
+## LIB: ROBOTICS
+- https://github.com/LejuRobotics
+
 ## LIB: CHATBOT
 - https://github.com/aws-samples/aws-genai-llm-chatbot
 - https://github.com/luixaviles/gemini-angular-nestjs
@@ -516,6 +524,7 @@
 ## LIB: AUDIO / TTS
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/eustlb/speech-to-speech
+- https://github.com/souzatharsis/podcastfy
 - https://github.com/fishaudio/fish-speech
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/kyutai-labs/moshi

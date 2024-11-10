@@ -329,9 +329,6 @@
 - https://github.com/colekennelly1/awesome-defi-trackers
 - https://blog.coinfabrik.com/cryptocurrency-backed-lending-platforms/
 
-## SWAP
-- https://uniswap.io/
-- https://bepswap.com/
 
 # PRIVACY
 - https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJpn7g/edit#gid=237137882
@@ -341,13 +338,20 @@
 - https://systemstate.io/
 - https://0xproject.com/portal
 
-## D EXCHANGE DEX
+## SWAP: MAIN DEX
 - https://jup.ag/
+- https://uniswap.io/
+
+## SWAP: LEVERAGE
+- https://ox.fun/
+- https://maxbid.pro
+- https://www.0xleverage.io
+
+## SWAP: ALL DEX
 - https://aqtis.ai/
+- https://bepswap.com/
 - https://tigris.trade/
-- https://dexscreener.com/
 - https://www.apex.exchange/
-- https://www.geckoterminal.com/
 - https://www.investvoyager.com/
 - https://beta.wavesplatform.com/
 - https://www.stellarx.com/ (SDEX?)
@@ -365,6 +369,7 @@
 - https://weth.io
 - https://mobidex.io
 - https://intro.cybex.io/
+- https://www.taoshi.io/
 
 ## PREDICTION
 - https://limitless.exchange/
@@ -380,6 +385,7 @@
 - https://github.com/nomeida/hyperliquid
 - https://github.com/ic-alloy/ic-alloy-dca
 - https://github.com/alcorexchange/alcor-ui
+- https://github.com/taoshidev/proprietary-trading-network
 
 ## N EXCHANGE
 - https://uphold.com
@@ -395,6 +401,7 @@
 - https://zebitex.com
 
 ## INITIAL COIN OFFERING (ICO)
+- https://legion.cc/
 - https://www.youtube.com/watch?v=AHDCzPtSzpM
 - https://git.cryptoblocs.fr/world-tomorrow-now
 
@@ -616,14 +623,14 @@ PANTOS — - https://pantos.io
 - https://github.com/solana-labs/solana-program-library
 - https://github.com/paul-schaaf/awesome-solana
 - https://github.com/SurfSolana/SolSurfer
+- https://github.com/hexishq/velos
 - https://smithii.io/en/
 - https://solcasino.io/
 - https://shyft.to/
 
-
-## MEMES: LEVERAGE
-- https://ox.fun/
-- https://maxbid.pro
+## ALL: ANALYSE
+- https://dexscreener.com/
+- https://www.geckoterminal.com/
 
 ## MEMES: ANALYSE
 - https://gmgn.ai/

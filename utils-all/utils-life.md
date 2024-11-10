@@ -33,6 +33,7 @@
 - https://imyoga.ch/de/klassen-preise
 - https://offre.swissave.ch/
 - https://gym-hommes.ch/
+- https://www.docks.ch/
 - https://ttll.ch/
 
 ## Italy

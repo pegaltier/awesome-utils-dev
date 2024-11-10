@@ -235,6 +235,7 @@ Learn about the most useful design patterns in Angular.
 - https://indepth.dev/posts/1404/declarative-reactive-data-and-action-streams-in-angular
 - https://dev.to/davelosert/mock-factory-pattern-in-typescript-44l9
 - https://dev.to/lifelongthinker/the-strategy-pattern-exemplified-in-typescript-3pmi
+- https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a
 - https://blog.angularindepth.com/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 - https://medium.com/volosoft/strategy-pattern-implementation-with-typescript-and-angular-9ad8b1929e9c
 - https://medium.com/better-programming/communication-patterns-in-angular-9b0a829aa916
@@ -3347,6 +3348,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser
 - https://marketplace.visualstudio.com/items?itemName=EdgardMessias.clipboard-manager
 - https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules
+- https://marketplace.visualstudio.com/items?itemName=vivek9patel.vscode-css-compatibility
 - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 - https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 - https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra

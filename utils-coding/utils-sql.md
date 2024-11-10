@@ -7,9 +7,11 @@
 
 ## SCALING
 - https://github.com/dbgate/dbgate
+- https://github.com/readysettech/readyset
 - https://github.com/jeremydaly/serverless-mysql
 
 ## TOOLS
+- https://github.com/chartdb/chartdb
 - https://github.com/rickbergfalk/postgrator
 - https://thdoan.github.io/mr-data-converter/
 - https://sqlizer.io/#/
