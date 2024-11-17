@@ -60,6 +60,7 @@
 - https://concretumresearch.com/
 - https://quantifiableedges.com/
 - https://thesystematictrader.com/
+- https://paperswithbacktest.com/
 - https://alvarezquanttrading.com/
 - https://www.championteamtrading.com/
 - https://www.quantifiedstrategies.com/
@@ -93,6 +94,8 @@
 - https://nurp.com/
 
 ## SITES: CRYPTO
+- https://folkvang.io/
+- https://wintermute.com/
 - https://www.altrady.com/
 - https://quantumvoid.org/
 - https://www.cyber.capital/
@@ -193,6 +196,9 @@
 - https://github.com/Leo4815162342/dukascopy-node
 - https://github.com/ThetaData-API/thetadata-python
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
+
+## LIST: OSS
+- https://github.com/paperswithbacktest/awesome-systematic-trading
 
 ## TOOLS: BACKTESTING
 - https://tradomate.one/
@@ -322,6 +328,7 @@
 ## TOOLS: TRADE PROP FIRM
 - https://www.we-funded-investors.com/
 - https://apextraderfunding.com/
+- https://quanttekel.com/
 - https://ftmo.com/en/
 
 ## TOOLS: PORTFOLIO
@@ -788,6 +795,7 @@
 - https://github.com/hudson-and-thames/arbitragelab *
 - https://github.com/51bitquant/binance_grid_trader
 - https://github.com/hackobi/AI-Scalpel-Trading-Bot
+- https://github.com/paperswithbacktest/pwb-toolbox
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/firmai/financial-machine-learning

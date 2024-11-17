@@ -364,6 +364,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.quantitativo.com/p/a-different-indicator
 - https://www.crackingmarkets.com/iv-mean-reversion/
 - https://www.crackingmarkets.com/buy-the-dip-weekly/
+- https://convex-strategies.com/2024/11/12/risk-update-october-2024-kayfabe/
 - https://www.schwab.com/learn/story/whats-move-index-and-why-it-might-matter
 - https://stonehillforex.com/2024/09/chaikin-volatility-as-a-volume-indicator/
 - https://markrbest.github.io/reading-list/
@@ -405,6 +406,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://colab.research.google.com/drive/11tAgNZLvVOPJ6xOlZcSeucn8tZiTgAHh?usp=sharing#scrollTo=PSER16ap3uk0
 - https://www.mql5.com/en/forum/173441
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631351
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4416622
 - https://financial-hacker.com/ehlers-ultimate-smoother/#more-4717
 
 ## STRATEGY: LIST

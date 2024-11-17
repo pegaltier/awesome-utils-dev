@@ -655,11 +655,16 @@ PANTOS — - https://pantos.io
 - https://degen.express/
 
 ## MEMES: AI
+- https://ai16z.ai/
 - https://vvaifu.fun/
+- https://loveai.xyz/
+- https://arataagi.org/
 - https://app.virtuals.io/
+- https://github.com/ai16z
 
 ## MEMES: OTHERS
 - https://bananagun.io/
+- https://memedepot.com/
 - https://meow.bio/ppp.html
 - https://medium.com/@crypto_hawk/how-to-snipe-meme-coins-on-solana-using-moonshot-2930ba5c1ab8
 - ANIMALS: $MICHI / GLORP / SELFIE / BOBO / POCAT / FWOG / HEHE / SNIBBU / WUF
