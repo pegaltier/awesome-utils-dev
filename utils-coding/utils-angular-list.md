@@ -800,6 +800,7 @@ Learn everything about the change detection with or without zone.js.
 - http://blog.rangle.io/angular-2-change-detection/
 - http://juristr.com/blog/2016/04/angular2-change-detection/
 - https://medium.com/@davidepassafaro/angular-zoneless-change-detection-647b924a2220
+- https://playfulprogramming.com/posts/zoneless-angular-host-binding
 
 ## CORE: SCHEMATICS
 
@@ -1013,6 +1014,7 @@ Learn everything about angular universal, make a good SEO.
 - https://justangular.com/blog/providing-inputs-in-di
 - https://nartc.me/blog/angular-object-inputs/
 - https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396
+- https://www.codigotipado.com/p/linkedsignal-in-angular-19-say-goodbye
 
 ## CORE: ERROR HANDLER
 

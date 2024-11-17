@@ -22,7 +22,7 @@
 - https://www.swiss-alpine-spirit.ch/
 - https://www.ginger-elixir.ch/
 
-## Swiss date
+## Swiss dating
 - https://arvy.ch/
 - https://www.noii.ch/
 - https://www.frankly.ch/
@@ -45,3 +45,4 @@
 
 ## Dating
 - https://spreedl.com/
+- https://onlydate.com/
