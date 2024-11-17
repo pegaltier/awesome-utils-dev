@@ -323,9 +323,11 @@
 - https://ripiocredit.network
 - https://stakingrewards.com
 - https://cryptodividend.io
+- https://eliteness.network/
 - https://app.compound.finance
 - https://earncryptointerest.com
 - https://www.unchained-capital.com
+- https://eliteness.network/elocks/
 - https://github.com/colekennelly1/awesome-defi-trackers
 - https://blog.coinfabrik.com/cryptocurrency-backed-lending-platforms/
 
