@@ -1414,6 +1414,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/billyjov/microfrontend-resources
 - https://github.com/Azure-Samples/contoso-real-estate
 - https://github.com/rajasegar/awesome-micro-frontends
+- https://github.com/angular-architects/native-federation-tools
 - https://github.com/SchweizerischeBundesbahnen/scion-microfrontend-platform
 - https://github.com/alexzuza/angular-plugin-architecture-with-module-federation
 - https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer
@@ -1884,6 +1885,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/AndreaPontrandolfo/sheriff
 - https://github.com/softarc-consulting/sheriff
 - https://github.com/antfu/eslint-flat-config-utils
+- https://github.com/azat-io/eslint-plugin-perfectionist
 - https://github.com/manfredsteyer/standalone-example-cli/blob/main/sheriff.config.ts
 - https://github.com/NativeScript/eslint-plugin
 - https://github.com/ranyitz/eslint-plugin-jest

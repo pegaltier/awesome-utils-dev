@@ -470,6 +470,7 @@
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/package-url/packageurl-js
 - https://github.com/flightcontrolhq/superjson
+- https://github.com/WebReflection/domdiff
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/mozilla/readability
 - https://github.com/sindresorhus/domify
@@ -769,6 +770,7 @@
 - https://github.com/aframevr/aframe
 - https://github.com/CesiumGS/cesium
 - https://github.com/mrdoob/three.js
+- https://github.com/liabru/matter-js
 - https://github.com/shakiba/planck.js
 - https://github.com/mapbox/delaunator
 - https://github.com/KhronosGroup/glTF

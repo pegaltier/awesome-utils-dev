@@ -9,6 +9,7 @@
 - https://missing.csail.mit.edu/
 - https://jsbin.com/?html,output
 - https://github.com/yjose/awesome-new
+- https://github.com/stackblitz/tutorialkit
 
 ## ALL LIBS
 - https://www.libhunt.com/l/java
@@ -54,6 +55,7 @@
 - https://github.com/kitze/awesome-conference-practices
 - https://github.com/cloudcommunity/Free-Certifications
 - https://github.com/mtdvio/every-programmer-should-know
+- https://github.com/DataExpert-io/data-engineer-handbook
 - https://github.com/ossf/wg-best-practices-os-developers
 - https://github.com/bespoyasov/refactor-like-a-superhero
 - https://github.com/blindma1den/Programming-Skills-Level0

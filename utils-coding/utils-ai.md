@@ -234,6 +234,7 @@
 - https://github.com/DS4SD/docling
 
 ## TOOLS: IMAGE
+- https://fal.ai/
 - https://kiri.art/
 - https://pika.art/
 - https://megapix.ai/
@@ -447,8 +448,10 @@
 - https://github.com/mckaywrigley/chatbot-ui
 - https://github.com/baptisteArno/typebot.io
 - https://github.com/mendableai/rag-arena
+- https://github.com/vercel/ai-chatbot
 
 ## LIB: LLM
+- https://github.com/richards199999/Thinking-Claude
 - https://github.com/ColinEberhardt/langchain-mini
 - https://github.com/GoogleCloudPlatform/localllm
 - https://github.com/vince-lam/awesome-local-llms
@@ -470,6 +473,7 @@
 - https://github.com/NVIDIA/TensorRT-LLM
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
+- https://github.com/arobey1/smooth-llm
 - https://github.com/docker/genai-stack
 - https://github.com/mnotgod96/AppAgent
 - https://github.com/jzhang38/TinyLlama
@@ -485,6 +489,7 @@
 - https://github.com/eumemic/ai-legion
 - https://github.com/meta-llama/llama3
 - https://github.com/karpathy/LLM101n
+- https://github.com/codelion/optillm
 - https://github.com/jmorganca/ollama
 - https://github.com/dosco/llm-client
 - https://github.com/lamini-ai/lamini
@@ -505,6 +510,7 @@
 - https://github.com/truera/trulens
 - https://github.com/comet-ml/opik
 - https://github.com/AkeruAI/akeru
+- https://github.com/lmnr-ai/lmnr
 - https://github.com/janhq/cortex
 - https://github.com/janhq/nitro
 - https://github.com/simonw/llm
@@ -554,6 +560,7 @@
 - https://github.com/s0md3v/roop
 - https://github.com/deep-floyd/IF
 - https://github.com/openai/shap-e
+- https://github.com/fal-ai/fal-js
 - https://github.com/upscayl/upscayl
 - https://github.com/THU-MIG/yolov10
 - https://github.com/lllyasviel/Omost

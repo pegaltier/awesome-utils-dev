@@ -84,9 +84,11 @@
 
 ## ONLINE IDE
 
+- https://webstudio.is/
 - https://www.gitpod.io/
 - https://stackblitz.com
-- https://webstudio.is/
+- https://tutorialkit.dev/
+- https://github.com/stackblitz/tutorialkit
 - https://github.com/webstudio-is/webstudio-builder
 
 ## ONLINE EDITOR
@@ -446,6 +448,7 @@ emit/receive : https://github.com/quiet/quiet-js
 ## FRAMEWORK
 - https://decorator.io/modulr/
 - https://github.com/marko-js/marko
+- https://github.com/stolinski/drop-in
 - https://github.com/quickjs-ng/quickjs
 - https://github.com/fabiospampinato/voby
 - https://github.com/justin-schroeder/arrow-js

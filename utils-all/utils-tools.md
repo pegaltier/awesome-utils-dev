@@ -150,6 +150,7 @@
 ## OSS: COLLABORATE
 - https://github.com/daily-co
 - https://github.com/matrix-org
+- https://github.com/spacebarchat
 - https://github.com/vasanthv/talk
 - https://github.com/mfts/papermark
 - https://github.com/calcom/cal.com
@@ -165,6 +166,7 @@
 - https://github.com/localsend/localsend
 - https://github.com/gristlabs/grist-core
 - https://github.com/excalidraw/excalidraw
+- https://github.com/MathMan05/JankClient
 - https://github.com/hcengineering/platform
 - https://github.com/bluesky-social/social-app
 - https://github.com/onetimesecret/onetimesecret

@@ -120,6 +120,7 @@
 - https://github.com/openreplay/openreplay
 - https://github.com/influxdata/influxdb
 - https://github.com/hyperdxio/hyperdx
+- https://github.com/lyc8503/UptimeFlare
 - https://github.com/louislam/uptime-kuma
 - https://github.com/oneuptime/oneuptime
 - https://github.com/IKatsuba/openstatus

@@ -11,6 +11,7 @@
 
 ## COURSES
 - https://github.com/google/comprehensive-rust
+- https://github.com/dcodesdev/rustfinity.com
 
 ## SOFT
 - https://github.com/rustdesk/rustdesk

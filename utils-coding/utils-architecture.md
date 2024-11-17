@@ -19,6 +19,7 @@
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/ByteByteGoHq/system-design-101
 - https://github.com/Sairyss/domain-driven-hexagon
+- https://github.com/denyspoltorak/publications
 
 ## DDD / CQRS
 - https://speakerdeck.com/akrabat/ddd-for-beginners
