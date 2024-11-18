@@ -628,6 +628,7 @@ PANTOS — - https://pantos.io
 - https://github.com/hexishq/velos
 - https://smithii.io/en/
 - https://solcasino.io/
+- https://solana.fm/
 - https://shyft.to/
 
 ## ALL: ANALYSE

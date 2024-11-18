@@ -307,6 +307,7 @@
 - https://github.com/sindresorhus/is64bit
 - https://github.com/tkrotoff/throw-on
 - https://github.com/js-cookie/js-cookie
+- https://github.com/unjs/cookie-es
 - https://github.com/sindresorhus/p-mutex
 - https://github.com/JasonStorey/Optional.js
 - https://github.com/anchmelev/web-worker-bus

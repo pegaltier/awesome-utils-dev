@@ -46,6 +46,7 @@
 - https://github.com/rust-windowing/winit
 - https://github.com/1Password/typeshare
 - https://github.com/juspay/hyperswitch
+- https://github.com/BLAKE3-team/BLAKE3
 - https://github.com/cloudflare/pingora
 - https://github.com/Aleph-Alpha/ts-rs
 - https://github.com/RustScan/RustScan
