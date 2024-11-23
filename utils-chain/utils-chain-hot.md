@@ -17,6 +17,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 ## HOLO TUTOS
 
+- https://github.com/c12i/hc-wfs
 - https://blog.without.hosting/posts/holochain-getting-started/
 - https://github.com/holochain-open-dev/wiki/wiki
 - https://holochain-open-dev.github.io/reusable-modules/

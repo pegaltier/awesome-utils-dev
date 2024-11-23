@@ -33,6 +33,7 @@
 - https://github.com/PRQL/prql
 - https://github.com/knex/knex
 - https://github.com/kysely-org/kysely
+- https://github.com/ankit5999/buildmymeta
 
 ## MONGO
 - https://github.com/mongodb-js/compass

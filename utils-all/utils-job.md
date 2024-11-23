@@ -8,6 +8,7 @@ Agent pour développeurs haut-niveau
 - https://github.com/awesome-jobs/vietnam
 - https://github.com/remoteintech/remote-jobs
 - https://github.com/tBaxter/questions-for-employers
+- https://github.com/poteto/hiring-without-whiteboards
 - https://github.com/eigenfunk/freelance-recruiting-de
 - https://gist.github.com/stowball/26fb03aeaa0e8de1def00dcb5d8f425e
 - https://github.com/EuropeanRemote/european-remote-software-companies
@@ -22,6 +23,7 @@ Agent pour développeurs haut-niveau
 - https://weworkremotely.com/
 - https://www.freelancer.com/
 - https://talent.hubstaff.com/
+- https://leethub.io/hft-jobs
 - https://frontendremotejobs.com/
 - https://remoteok.io/remote-dev-jobs
 - https://remote.co/remote-jobs/developer/

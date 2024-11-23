@@ -217,6 +217,7 @@
 - https://www.figma.com
 - https://www.canva.com
 - https://fontofweb.com
+- https://specifyapp.com
 - https://deviceshots.com
 - https://webgradients.com
 
@@ -545,6 +546,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/shellscape/jsx-email
 - https://github.com/zenorocha/react-email
 - https://github.com/tomayac/dark-mode-email
+- https://github.com/bbulakh/ecommerce-email
 - https://github.com/Kikobeats/free-email-domains
 - https://github.com/SendWithSES/Drag-and-Drop-Email-Designer
 - https://github.com/leemunroe/responsive-html-email-template

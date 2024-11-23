@@ -25,12 +25,14 @@
 - https://coin360.com
 - https://datalight.me
 - https://coinalyze.net
+- https://alphractal.com
 - https://cryptolinks.com
 - https://coincodecap.com
 - https://thetie.io/coins
 - https://www.moonmath.win
 - https://data.bitcoinity.org
 - https://www.coinsignals.trade
+- https://chainspect.app/dashboard
 
 ## TOP COMPANY / MARKET MAKER
 - https://www.wintermute.com/
@@ -664,6 +666,9 @@ PANTOS — - https://pantos.io
 - https://arataagi.org/
 - https://app.virtuals.io/
 - https://github.com/ai16z
+
+## MEMES: TOOLS
+- https://mlgedit.com/
 
 ## MEMES: OTHERS
 - https://bananagun.io/

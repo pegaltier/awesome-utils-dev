@@ -407,6 +407,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.mql5.com/en/forum/173441
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631351
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4416622
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966272
 - https://financial-hacker.com/ehlers-ultimate-smoother/#more-4717
 
 ## STRATEGY: LIST
@@ -673,4 +674,5 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://es.tradingview.com/script/SfyBCHIJ/ lorentzian
 - https://www.algomatictrading.com/post/macd-hook-on-gold
 - https://www.algomatictrading.com/post/10-day-momentum-on-nasdaq
+- https://www.algomatictrading.com/post/building-a-trading-algorithm-from-scratch-in-2024
 - https://artificall.com/prorealtime/automated-opening-range-breakout/

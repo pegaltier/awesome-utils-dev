@@ -32,6 +32,9 @@
 - https://youtu.be/oxepyi_hLuA Building RAG at 5 different levels
 - https://youtu.be/u5Vcrwpzoz8 Local Agentic RAG w/ llama3
 
+## B2B
+- https://sparkbase.ai/
+- https://worldautomation.fr/
 
 ## CHANNEL
 - https://www.youtube.com/@ai-tools-search
@@ -73,6 +76,7 @@
 - https://nitro.jan.ai/
 - https://www.phind.com/
 - https://chat.openai.com/
+- https://www.deepseek.com/
 - https://www.perplexity.ai/
 - https://copilot.microsoft.com/
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
@@ -141,6 +145,7 @@
 ## TOOLS: OSS
 - https://github.com/Nixtla/
 - https://github.com/mistralai
+- https://github.com/somewheresy
 - https://github.com/mudler/LocalAI
 - https://github.com/cheshire-cat-ai/core
 - https://github.com/danielmiessler/fabric
@@ -212,6 +217,7 @@
 - https://github.com/Doriandarko/claude-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 - https://github.com/gpt-engineer-org/gpt-engineer
+- https://github.com/deepseek-ai/DeepSeek-Coder-V2
 - https://github.com/OpenInterpreter/open-interpreter
 
 ## TOOLS: TEXT / DOCS / PDF
@@ -368,26 +374,31 @@
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/i-am-bee/bee-agent-framework
 
-## LIB: DATA PARSER / RAG / CONTEXT / SCRAPER
-- https://github.com/ragapp/ragapp
+## LIB: CRAWLER / SCRAPER / DATA PARSER
+- https://github.com/Y2Z/monolith
 - https://github.com/apify/crawlee
+- https://github.com/unclecode/crawl4ai
+- https://github.com/mendableai/firecrawl
+- https://github.com/projectdiscovery/katana
+- https://github.com/supermemoryai/markdowner
+
+## LIB: RAG / CONTEXT
+- https://github.com/ragapp/ragapp
 - https://github.com/weaviate/Verba
 - https://github.com/HKUDS/LightRAG
 - https://github.com/Cinnamon/kotaemon
-- https://github.com/unclecode/crawl4ai
 - https://github.com/microsoft/graphrag
 - https://github.com/promptfoo/promptfoo
-- https://github.com/mendableai/firecrawl
 - https://github.com/run-llama/llama_index
 - https://github.com/run-llama/llama_parse
 - https://github.com/adithya-s-k/omniparse
 - https://github.com/langchain-ai/langgraph
 - https://github.com/AnswerDotAI/RAGatouille
 - https://github.com/louisbrulenaudet/ragoon
-- https://github.com/supermemoryai/markdowner
 - https://github.com/vercel/ai-sdk-rag-starter
 - https://github.com/NirDiamant/RAG_Techniques
 - https://github.com/amazon-science/RAGChecker
+- https://github.com/circlemind-ai/fast-graphrag
 - https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: BPE
@@ -546,6 +557,7 @@
 - https://github.com/hpcaitech/Open-Sora
 - https://github.com/KwaiVGI/LivePortrait
 - https://github.com/SoraWebui/FakeSoraAPI
+- https://github.com/antgroup/echomimic_v2
 - https://github.com/NumesSanguis/FACSvatar
 - https://github.com/hacksider/Deep-Live-Cam
 - https://github.com/HVision-NKU/StoryDiffusion

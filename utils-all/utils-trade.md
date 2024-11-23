@@ -608,6 +608,7 @@
 - https://github.com/nileio/TV_strategynotifier
 - https://github.com/ExchangeDyn/webhook-trader
 - https://github.com/ottodevs/instabot-trader
+- https://github.com/tradingview/scanner_data
 - https://github.com/s-brez/HTF-single-strat
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/germangar/whook
@@ -776,6 +777,7 @@
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/je-suis-tm/quant-trading *
 - https://github.com/fmzquant/backtest_python * 
+- https://github.com/nmayur1997/MACD-Strategy
 - https://github.com/kelvinau/crypto-arbitrage
 - https://github.com/edeng23/binance-trade-bot
 - https://github.com/devfinwiz/Fin-Maestro-Web
@@ -785,6 +787,7 @@
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/akumidv/tradingview-ta-lib
 - https://github.com/bitfinexcom/bitfinex-api-py
+- https://github.com/OutSquareCapital/OutQuantLab *
 - https://github.com/algobulls/pyalgostrategypool
 - https://github.com/diogomatoschaves/MyCryptoBot
 - https://github.com/mr-easy/streaming_indicators
@@ -853,7 +856,7 @@
 - https://github.com/debut-js/Indicators
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
-- https://github.com/tvjsx/trading-vue-js
+- https://github.com/tvjsx/trading-vue-js *
 - https://github.com/coinranking/exchanges
 - https://github.com/TulipCharts/tulipnode *
 - https://github.com/SockTrader/SockTrader *

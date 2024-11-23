@@ -40,6 +40,7 @@ Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, c
 - https://github.com/coqui-ai/TTS
 - https://github.com/kellyjonbrazil/jc
 - https://github.com/swirlai/swirl-search
+- https://github.com/vietnh1009/ASCII-generator
 - https://github.com/threestudio-project/threestudio
 
 ## DATA

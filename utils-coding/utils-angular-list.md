@@ -2409,14 +2409,12 @@ Analyze and optimize the performance of your app
 - https://github.com/mikyaj/ngx-rough-notation
 - https://github.com/d-koppenhagen/ngx-lipsum
 - https://github.com/tonysamperi/ngx-popperjs
-- https://github.com/Cordobo/angularx-qrcode
 - https://github.com/matteobruni/tsparticles
 - https://github.com/tsparticles/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
 - https://github.com/leovo2708/ngx-treeview
 - https://github.com/joejordanbrown/popover
-- https://github.com/larscom/ng-qrcode-svg
 - https://github.com/ncstate-sat/popover
 - https://github.com/nbfontana/ngx-currency
 - https://github.com/Harvest-Dev/ng-select2
@@ -2502,6 +2500,11 @@ Analyze and optimize the performance of your app
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
 - https://github.com/omnedia many
+
+## ECOSYSTEM: LIB: COMPONENT: QR CODE
+- https://github.com/Cordobo/angularx-qrcode
+- https://github.com/larscom/ng-qrcode-svg
+- https://github.com/mnahkies/ng-qrcode
 
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT
 - https://github.com/beeman/ngx-split
@@ -3516,6 +3519,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://github.com/literalpie/Annotated-Angular-Roadmap
 - https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
 - https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf
+
+### ANGULAR19
+- https://blog.angular.dev/meet-angular-v19-7b29dfd05b84
+- https://blog.ninja-squad.com/2024/11/19/what-is-new-angular-19.0/
 
 ### ANGULAR18
 - https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe?gi=9a3fb58ef2bb
