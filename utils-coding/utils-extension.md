@@ -5,6 +5,7 @@
 - https://extensionpay.com/
 
 ## UTILS
+- https://github.com/vocably/hermes
 - https://github.com/extend-chrome/clipboard
 
 ## STARTER

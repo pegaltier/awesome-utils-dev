@@ -827,6 +827,7 @@
 - https://github.com/dinerojs/dinero.js
 - https://github.com/MikeMcl/decimal.js/
 - https://github.com/MikeMcl/bignumber.js
+- https://github.com/barvian/number-flow
 - https://github.com/barvian/motion-number
 - https://github.com/nefe/number-precision
 - https://github.com/adamwdraper/Numeral-js

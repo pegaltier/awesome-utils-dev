@@ -79,6 +79,7 @@
 - https://www.deepseek.com/
 - https://www.perplexity.ai/
 - https://copilot.microsoft.com/
+- https://hermes.nousresearch.com/
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
 
 ## TOOLS: PROMPT: OSS
@@ -92,6 +93,7 @@
 - https://github.com/getumbrel/llama-gpt
 - https://github.com/LangbaseInc/langui
 - https://github.com/dottxt-ai/prompts
+- https://github.com/anysphere/priompt
 - https://github.com/nomic-ai/gpt4all/
 - https://github.com/lobehub/lobe-chat
 - https://github.com/frdel/agent-zero
@@ -185,7 +187,6 @@
 - https://github.com/ekkinox/yai
 - https://github.com/block/goose
 - https://github.com/Aider-AI/aider
-- https://github.com/voideditor/void
 - https://github.com/meltylabs/melty
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
@@ -213,12 +214,17 @@
 - https://github.com/amplication/amplication
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/eduardoleao052/js-pytorch
+- https://github.com/2-fly-4-ai/V0-system-prompt
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 - https://github.com/gpt-engineer-org/gpt-engineer
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
 - https://github.com/OpenInterpreter/open-interpreter
+
+## TOOLS: CODING: IDE
+- https://github.com/voideditor/void
+- https://github.com/codestoryai/aide
 
 ## TOOLS: TEXT / DOCS / PDF
 - https://pdf.ai/
@@ -495,6 +501,7 @@
 - https://github.com/reactorsh/ambrosia
 - https://github.com/microsoft/TypeChat
 - https://github.com/vllm-project/vllm
+- https://github.com/andrewyng/aisuite
 - https://github.com/haotian-liu/LLaVA
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
@@ -527,6 +534,9 @@
 - https://github.com/simonw/llm
 - https://github.com/getzep/zep
 - https://github.com/01-ai/Yi
+
+## LIB: LLM: TELEMETRY
+- https://github.com/traceloop/openllmetry-js
 
 ## LIB: DEEP LEARNING / NEURAL
 - https://github.com/google/dopamine

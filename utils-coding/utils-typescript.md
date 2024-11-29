@@ -247,7 +247,6 @@ npm init
 - https://github.com/pfgray/ts-adt
 - https://github.com/mu-io/ts-japi
 - https://github.com/skarab42/zoxy
-- https://github.com/colinhacks/zod
 - https://github.com/decs/typeschema
 - https://github.com/pelotom/unionize
 - https://github.com/pelotom/runtypes
@@ -289,8 +288,6 @@ npm init
 - https://github.com/devexperts/remote-data-ts
 - https://github.com/gustavoguichard/string-ts
 - https://github.com/gbumanzordev/utility-types
-- https://github.com/duplojs/zod-accelerator
-- https://github.com/JacobWeisenburger/zod_utilz
 - https://github.com/typestack/class-transformer
 - https://github.com/timocov/dts-bundle-generator
 - https://github.com/sfkiwi/linked-list-typescript
@@ -301,6 +298,13 @@ npm init
 - https://github.com/gbumanzordev/payload-transformer
 - https://github.com/dsherret/conditional-type-checks
 - https://github.com/moltar/typescript-runtime-type-benchmarks
+
+## LIB: DATA OBJECT: ZOD
+- https://github.com/ecyrbe/zodios
+- https://github.com/colinhacks/zod
+- https://github.com/duplojs/zod-accelerator
+- https://github.com/astahmer/openapi-zod-client
+- https://github.com/JacobWeisenburger/zod_utilz
 
 ## LIB: HTTP
 - https://github.com/ardatan/feTS

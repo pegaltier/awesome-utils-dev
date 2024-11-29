@@ -2989,6 +2989,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/railsstudent/ng-pokemon
 - https://github.com/nartc/ng-pexels-gallery
 - https://github.com/ngneat/ng-standalone-nx
+- https://github.com/AnkitSharma-007/MovieApp
 - https://github.com/trungvose/angular-spotify
 - https://github.com/vthinkxie/ng-pull-refresh
 - https://github.com/mrkpks/nx-optimistic-state

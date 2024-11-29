@@ -404,6 +404,9 @@
 - https://www.cryptopia.co.nz
 - https://zebitex.com
 
+## OPTIONS
+- https://www.coincall.com/
+
 ## INITIAL COIN OFFERING (ICO)
 - https://legion.cc/
 - https://www.youtube.com/watch?v=AHDCzPtSzpM
@@ -654,6 +657,7 @@ PANTOS — - https://pantos.io
 - https://four.meme/
 - https://dumpy.fun/
 - https://ape.express/
+- https://www.snek.fun/
 - https://meme.cooking/
 - https://sunpump.meme/
 - https://movepump.com/
@@ -674,7 +678,12 @@ PANTOS — - https://pantos.io
 - https://bananagun.io/
 - https://memedepot.com/
 - https://meow.bio/ppp.html
+
+## MEMES: LEARN
+- https://www.youtube.com/watch?v=HVXxprDVMUM
 - https://medium.com/@crypto_hawk/how-to-snipe-meme-coins-on-solana-using-moonshot-2930ba5c1ab8
+
+## MEMES: LIST
 - ANIMALS: $MICHI / GLORP / SELFIE / BOBO / POCAT / FWOG / HEHE / SNIBBU / WUF
 - HUMAN: SIGMA / LOOK / BIG BRAIN / LOCKIN / BRAINLET / GIGA / NPC / RICH
 - MEMFIN: HIGHER / STONKS / SSEC / SPX6900

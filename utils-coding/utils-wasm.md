@@ -2,6 +2,7 @@
 # WASM
 
 - https://github.com/boa-dev/boa
+- https://github.com/fermyon/spin
 - https://github.com/extism/extism
 - https://github.com/wasmerio/wasmer
 - https://github.com/makepad/makepad

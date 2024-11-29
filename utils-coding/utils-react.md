@@ -143,6 +143,7 @@
 - https://github.com/ngneat/use-observable
 - https://github.com/twobin/react-lazyload
 - https://github.com/zoontek/react-chicane
+- https://github.com/tremorlabs/tremor-raw
 - https://github.com/paypal/react-paypal-js
 - https://github.com/LegendApp/legend-state
 - https://github.com/InseeFrLab/keycloakify
@@ -270,6 +271,7 @@
 - https://github.com/RevereCRE/next-query-params
 - https://github.com/TheEdoRan/next-safe-action
 - https://github.com/serverless-stack/open-next
+- https://github.com/haydenbleasel/next-forge
 - https://github.com/RevereCRE/relay-nextjs
 - https://github.com/leerob/next-self-host
 - https://github.com/next-boost/next-boost
@@ -355,6 +357,7 @@
 - https://github.com/4TWIGGERS/react-native-fresh-refresh
 - https://github.com/gorhom/react-native-paper-onboarding
 - https://github.com/mrousavy/react-native-multithreading
+- https://github.com/okwasniewski/react-native-bottom-tabs
 - https://github.com/JesperLekland/react-native-svg-charts
 - https://github.com/LonelyCpp/react-native-youtube-iframe
 - https://github.com/react-native-modal/react-native-modal

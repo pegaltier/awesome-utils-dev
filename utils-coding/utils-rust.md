@@ -66,13 +66,14 @@
 - https://github.com/image-rs/image
 - https://github.com/serde-rs/json
 - https://github.com/loro-dev/loro
-- https://github.com/otake84/dlhn
-- https://github.com/BloopAI/bloop
 - https://github.com/mit-pdos/noria
 - https://github.com/riker-rs/riker
 - https://github.com/rxRust/rxRust
+- https://github.com/BloopAI/bloop
 - https://github.com/obmarg/cynic
+- https://github.com/loco-rs/loco
 - https://github.com/iced-rs/iced
+- https://github.com/otake84/dlhn
 - https://github.com/actix/actix
 - https://github.com/0x20F/paris
 - https://github.com/PRQL/prql

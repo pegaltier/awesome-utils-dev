@@ -103,8 +103,10 @@
 - https://github.com/actions/toolkit
 - https://github.com/sdras/awesome-actions
 - https://github.com/balazsorban44/nissuer
+- https://github.com/Codex-/return-dispatch
 - https://github.com/Cicada-Software/cicada
 - https://github.com/jonico/awesome-runners
+- https://github.com/Codex-/await-remote-run
 - https://github.com/actionsflow/actionsflow
 - https://github.com/ad-m/github-push-action
 - https://github.com/rossjrw/pr-preview-action
@@ -116,6 +118,7 @@
 - https://github.com/mtfoley/pr-compliance-action
 - https://github.com/styfle/cancel-workflow-action
 - https://github.com/fountainhead/action-wait-for-check
+- https://github.com/SanjulaGanepola/github-local-actions
 
 ## ACTIONS: EXT
 - https://github.com/marketplace/actions/code-pushup
