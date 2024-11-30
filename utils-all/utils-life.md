@@ -12,6 +12,7 @@
 - https://www.blick.ch/fr/food/adresses/cest-inegal-on-a-teste-5-smash-burgers-a-lausanne-id19889888.html
 - https://www.blick.ch/fr/food/merci-chef-5-bons-kebabs-a-croquer-a-lausanne-id19831262.html
 - https://www.blick.ch/fr/food/sans-oignon-chef-nos-5-kebabs-preferes-a-geneve-id20131947.html
+- https://www.fairygutmother.com/ox-tail-broth
 - https://shedburgers.com/home burger & pizza in verbier, pully
 - https://histoiresansfaim.ch/ italian in lausanne
 

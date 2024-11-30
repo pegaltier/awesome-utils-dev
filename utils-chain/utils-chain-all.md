@@ -27,6 +27,7 @@
 - https://coinalyze.net
 - https://alphractal.com
 - https://cryptolinks.com
+- https://cryptoquant.com
 - https://coincodecap.com
 - https://thetie.io/coins
 - https://www.moonmath.win
@@ -145,6 +146,7 @@
 - https://www.trustnodes.com
 - https://itsblockchain.com
 - https://cryptopanic.com
+- https://news.treeofalpha.com/
 - https://smartoptions.io
 - https://cryptodisrupted.com
 - https://www.ouishare.net
@@ -374,6 +376,11 @@
 - https://mobidex.io
 - https://intro.cybex.io/
 - https://www.taoshi.io/
+- https://hyperfoundation.org/
+
+## SWAP: CROSS-CHAIN MULTI-CHAIN
+- https://solswap.org/
+- https://app.near-intents.org/
 
 ## PREDICTION
 - https://limitless.exchange/
@@ -434,7 +441,7 @@ BIA: Blockchain Interoperability Alliance
 WANCHAIN — - https://wanchain.org                 CHINA
 ICON — - https://icon.foundation                  KOREA
 AION — - https://aion.network                     CANADA
-PANTOLS — - https://pantos.io/                    AUSTRIA
+PANTOS — - https://pantos.io/                     AUSTRIA
 COSMOS — - https://cosmos.network                 
 POLKADOT — - https://polkadot.network
 QUANT — - https://www.quant.network/
@@ -668,6 +675,8 @@ PANTOS — - https://pantos.io
 - https://vvaifu.fun/
 - https://loveai.xyz/
 - https://arataagi.org/
+- https://fomo.fund/home
+- https://www.cookie.fun/
 - https://app.virtuals.io/
 - https://github.com/ai16z
 

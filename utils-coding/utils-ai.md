@@ -12,9 +12,11 @@
 - http://www.infoworld.com/article/3212884/machine-learning/machine-learning-comes-to-your-browser-via-javascript.html
 
 ## ARTICLES
+- https://www.binance.com/en/blog/research/binance-research-exploring-the-future-of-ai-agents-in-crypto-4685351192205955466
 - https://www.numerama.com/tech/1590098-lopen-source-en-ia-gagne-du-terrain-face-aux-modeles-proprietaires.html
 - https://www.blogdumoderateur.com/ia-10-modeles-langage-performants-aout-2024/
 - https://www.kissmyfrogs.com/stephane-mallard-blu-age/
+- https://metatrendreport.com/humanoid-robots-v
 - https://github.com/brexhq/prompt-engineering
 
 ## COURSES
@@ -78,6 +80,7 @@
 - https://chat.openai.com/
 - https://www.deepseek.com/
 - https://www.perplexity.ai/
+- https://chatllm.abacus.ai/
 - https://copilot.microsoft.com/
 - https://hermes.nousresearch.com/
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
@@ -383,6 +386,7 @@
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 - https://github.com/Y2Z/monolith
 - https://github.com/apify/crawlee
+- https://github.com/addyosmani/git2txt
 - https://github.com/unclecode/crawl4ai
 - https://github.com/mendableai/firecrawl
 - https://github.com/projectdiscovery/katana

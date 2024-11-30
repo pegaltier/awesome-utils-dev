@@ -25,6 +25,7 @@
 - Dave Whitcomb https://www.peakalgo.com/
 - Jonathan Shore: https://tr8dr.github.io/
 - Rob Carvers: https://qoppac.blogspot.com/
+- Dean Markwick https://dm13450.github.io/
 - Vadim: https://quantnomad.com/
 - Stephane Ceaux-Dutheil
 - Brian Shannon
@@ -79,7 +80,9 @@
 - https://marketscripters.com/
 - https://www.quantstart.com/
 - https://cyphercapital.ai/
+- https://quantjourney.dev/
 - https://tradesearcher.ai/
+- https://katanaquant.com/
 - https://coinrule.com/
 - https://www.tokode.com/
 - https://aresquant.com/
@@ -735,6 +738,7 @@
 - https://github.com/Crypto-toolbox/HFT-Orderbook
 
 ### OSS: PYTHON
+- https://github.com/myhhub/stock *
 - https://github.com/vollib/vollib
 - https://github.com/8W9aG/fullmonte
 - https://github.com/skfolio/skfolio *
@@ -771,6 +775,7 @@
 - https://github.com/ilcardella/TradingBot
 - https://github.com/ranaroussi/quantstats *
 - https://github.com/letianzj/QuantResearch *
+- https://github.com/QuantJourneyOrg/public *
 - https://github.com/blankly-finance/blankly
 - https://github.com/algobulls/pyalgotrading
 - https://github.com/yasinkuyu/binance-trader
@@ -817,6 +822,7 @@
 - https://github.com/akurgat/automating-technical-analysis
 - https://github.com/rhettre/coinbase-advancedtrade-python
 - https://github.com/sreenivasdoosa/sdoosa-algo-trade-python
+- https://github.com/AliHabibnia/Algorithmic_Trading_with_Python *
 - https://github.com/coding-kitties/investing-algorithm-framework *
 - https://github.com/PyPatel/Options-Trading-Strategies-in-Python
 - https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB
@@ -854,6 +860,7 @@
 - https://github.com/tyolab/grademark *
 - https://github.com/suenot/profitmaker *
 - https://github.com/debut-js/Indicators
+- https://github.com/focus1691/orderflow
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/tvjsx/trading-vue-js *
@@ -920,6 +927,7 @@
 - https://www.andlil.com/forum/
 
 ## PODCAST
+- https://www.flirtingwithmodels.com/
 - https://thealgorithmicadvantage.com/
 - https://share.transistor.fm/s/51a35144
 - https://www.acquired.fm/episodes/renaissance-technologies

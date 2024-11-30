@@ -408,6 +408,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631351
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4416622
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966272
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001821
 - https://financial-hacker.com/ehlers-ultimate-smoother/#more-4717
 
 ## STRATEGY: LIST
