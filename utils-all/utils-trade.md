@@ -787,7 +787,7 @@
 - https://github.com/edeng23/binance-trade-bot
 - https://github.com/devfinwiz/Fin-Maestro-Web
 - https://github.com/robcarver17/pysystemtrade *
-- https://github.com/CryptoSignal/Crypto-Signal
+- https://github.com/CryptoSignal/Crypto-Signal *
 - https://github.com/samre12/deep-trading-agent
 - https://github.com/bfolkens/py-market-profile
 - https://github.com/akumidv/tradingview-ta-lib

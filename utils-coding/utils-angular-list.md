@@ -2874,6 +2874,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/mauriciovigolo/keycloak-angular
 - https://github.com/IdentityModel/oidc-client-js
 - https://github.com/zitadel/zitadel-angular
+- https://github.com/pkovzz/ngx-otp-input
 - https://github.com/angular/angularfire
 - https://github.com/auth0/angular2-jwt
 - https://github.com/auth0/auth0-angular

@@ -692,6 +692,9 @@ PANTOS — - https://pantos.io
 - https://www.youtube.com/watch?v=HVXxprDVMUM
 - https://medium.com/@crypto_hawk/how-to-snipe-meme-coins-on-solana-using-moonshot-2930ba5c1ab8
 
+## MEMES: AI OSS
+- https://github.com/0xfreysa/agent
+
 ## MEMES: LIST
 - ANIMALS: $MICHI / GLORP / SELFIE / BOBO / POCAT / FWOG / HEHE / SNIBBU / WUF
 - HUMAN: SIGMA / LOOK / BIG BRAIN / LOCKIN / BRAINLET / GIGA / NPC / RICH

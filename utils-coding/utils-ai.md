@@ -388,6 +388,7 @@
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 - https://github.com/Y2Z/monolith
 - https://github.com/apify/crawlee
+- https://github.com/getmaxun/maxun
 - https://github.com/addyosmani/git2txt
 - https://github.com/unclecode/crawl4ai
 - https://github.com/mendableai/firecrawl
