@@ -52,6 +52,7 @@
 - https://github.com/RustScan/RustScan
 - https://github.com/rust-lang/rustfmt
 - https://github.com/s-panferov/valico
+- https://github.com/havarnov/multimap
 - https://github.com/sunfishcode/eyra
 - https://github.com/tauri-apps/tauri
 - https://github.com/webrtc-rs/webrtc

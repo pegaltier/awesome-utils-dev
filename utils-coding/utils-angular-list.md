@@ -1002,6 +1002,7 @@ Learn everything about angular universal, make a good SEO.
 - https://github.com/eneajaho/ngx-signal-experimental
 - https://github.com/nartc/ng-conduit-signals
 - https://github.com/eduardoRoth/signals-workshop
+- https://github.com/damiansire/angular-examples
 - https://github.com/code-with-ahsan/ng-signals-wishlist
 - https://github.com/eduardoRoth/rick-and-morty-signals
 - https://github.com/sonusindhu/angular-signals-examples *
@@ -2931,6 +2932,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/aviabird/angularspree
 - https://github.com/sterlp/admin-template
 - https://github.com/graycoreio/daffodil
+- https://github.com/duluca/lemon-mart
 - https://github.com/ng-alain/ng-alain
 - https://github.com/cisstech/nge-ide
 - https://github.com/ng-alain/delon
@@ -3434,6 +3436,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.amazon.com/dp/1803239115 (TOADD)
 - http://AngularAdvocate.com
 - https://angulararchitecture.com
+- https://angularforenterprise.com/home
 - https://leanpub.com/angular2-book
 - https://www.amazon.fr/dp/2416017322 (TOADD)
 - https://checkout.simplified.courses/
@@ -3454,6 +3457,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://www.packtpub.com/product/learning-angular-third-edition/9781839210662 (TOADD)
 - https://www.amazon.com/Effective-Angular-Develop-applications-effectively/dp/1805125532/ (TOADD)
 - https://www.amazon.com/Reactive-Patterns-RxJS-Angular-Signals-ebook/dp/B0CTXL7HZP/ (TOADD)
+- https://www.amazon.com/Angular-Enterprise-Applications-Router-first-architecture/dp/1805127128 (TOADD)
 - https://manning.com/books/angular-2-development-with-typescript
 - https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
 - https://github.com/PacktPublishing/Learning-Angular-Fifth-Edition (TOADD)

@@ -27,6 +27,7 @@
 - https://github.com/polkadot-evm/frontier
 - https://github.com/ethereum-ts/TypeChain
 - https://github.com/larvalabs/cryptopunks
+- https://github.com/blockscout/blockscout
 - https://github.com/ZeframLou/vested-erc20
 - https://github.com/bkrem/awesome-solidity
 - https://github.com/0xperp/defi-derivatives

@@ -29,6 +29,9 @@
 - https://github.com/vuestorefront/storefront-ui
 - https://github.com/yournextstore/yournextstore
 
+## Social network
+- https://github.com/gabboman/wafrn
+
 ## ERP / CRM
 - https://github.com/idurar/idurar-erp-crm
 - https://github.com/espocrm/espocrm

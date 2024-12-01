@@ -88,6 +88,7 @@
 ## TOOLS: PROMPT: OSS
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
+- https://github.com/langchain-ai/open-canvas
 - https://github.com/open-webui/open-webui
 - https://github.com/mediar-ai/screenpipe
 - https://github.com/promptslab/Promptify
@@ -255,6 +256,7 @@
 - https://megapix.ai/
 - https://openart.ai/
 - https://app.apob.ai/
+- https://rendernet.ai/
 - https://clarityai.co/
 - https://editproai.pro/
 - https://letsenhance.io/
@@ -620,8 +622,14 @@
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - https://github.com/magic-research/magic-animate
 
+## LIB: ORCHESTRATION
+- https://github.com/openai/swarm
+
 ## LIB: TRANSLATION
 - https://github.com/andrewyng/translation-agent
+
+## LIB: LABELLING
+- https://github.com/HumanSignal/label-studio
 
 ## LIB: VIZ
 - https://github.com/microsoft/data-formulator
