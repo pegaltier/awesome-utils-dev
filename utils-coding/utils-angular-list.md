@@ -2552,6 +2552,7 @@ Analyze and optimize the performance of your app
 - https://github.com/handsontable/handsontable
 - https://github.com/SortableJS/ngx-sortablejs
 - https://github.com/swiety85/angular2gridster
+- https://github.com/gabrielpetersson/fast-grid
 - https://github.com/katoid/angular-grid-layout
 - https://github.com/golden-layout/golden-layout
 - https://github.com/David-Mulder/paper-datatable

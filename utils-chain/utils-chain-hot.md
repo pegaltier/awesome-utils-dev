@@ -158,6 +158,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/Connoropolous/time-tracker
 - https://github.com/wimpheling/holochain-getting-started-example
 - https://github.com/jdeepee/zome-call-roundtrip
+- https://github.com/matthme/presence
+- https://github.com/matthme/wordcondenser
 - https://github.com/mjbrisebois/hc-cooperative-content
 - https://github.com/mjbrisebois/js-holochain-client
 - https://github.com/mjbrisebois/node-holochain-backdrop

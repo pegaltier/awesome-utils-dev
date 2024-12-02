@@ -674,6 +674,7 @@ PANTOS — - https://pantos.io
 - https://ai16z.ai/
 - https://vvaifu.fun/
 - https://loveai.xyz/
+- https://creator.bid/
 - https://arataagi.org/
 - https://fomo.fund/home
 - https://www.cookie.fun/

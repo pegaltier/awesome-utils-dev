@@ -8,11 +8,28 @@
 - https://github.com/Asabeneh/30-Days-Of-Python
 - https://github.com/zhiwehu/Python-programming-exercises
 
-## Helper
+## Common Helper
 
 Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world
 - https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv
 
+### PIP 
+
+```bash
+# to check current pip config
+pip config debug
+
+# to change pip directory 
+pip config set global.target /Users/Bob/Library/Python/3.8/lib/python/site-packages
+
+# to check current version
+pip -V
+
+# since python installed the new version in folder specified in ENV: PYTHONUSERBASE
+# but python wanted only to use the pip from the /Users/Bob/Library/Python/3.x.x/lib/python/site-packages
+# then i have copied/paste the pip folder froml PYTHONUSERBASE to site-packages
+
+```
 
 ## HTTP Request
 

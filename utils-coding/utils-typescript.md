@@ -221,6 +221,7 @@ npm init
 
 ## LIB: AI
 - https://github.com/run-llama/LlamaIndexTS
+- https://github.com/mastra-ai/mastra
 
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/mobily/ts-belt

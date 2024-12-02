@@ -5,6 +5,7 @@
 - https://github.com/cypress-io/cypress
 - https://github.com/SeleniumHQ/selenium
 - https://github.com/microsoft/playwright
+- https://github.com/browserbase/stagehand
 - https://github.com/codeceptjs/CodeceptJS
 - https://github.com/webdriverio/webdriverio
 - https://github.com/testing-library/dom-testing-library

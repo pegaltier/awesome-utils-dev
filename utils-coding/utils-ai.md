@@ -653,6 +653,7 @@
 
 ## LIB: BROWSER
 - https://github.com/addyosmani/chatty
+- https://github.com/browserbase/stagehand
 
 ## LIB: GAME
 - https://github.com/a16z-infra/ai-town

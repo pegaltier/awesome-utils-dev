@@ -656,8 +656,9 @@
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
 
-## LIB: FRONTEND SPREADSHEET
+## LIB: FRONTEND TABLE / SPREADSHEET
 - https://github.com/exceljs/exceljs
+- https://github.com/gabrielpetersson/fast-grid
 
 ## LIB: FRONTEND ANIMATION
 - https://github.com/Popmotion/popmotion
@@ -802,6 +803,7 @@
 - https://github.com/fixie-ai/ai-jsx
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
+- https://github.com/lobehub/lobe-chat
 - https://github.com/openai/openai-node
 - https://github.com/kaiban-ai/KaibanJS
 - https://github.com/neilgupta/Sherlock
