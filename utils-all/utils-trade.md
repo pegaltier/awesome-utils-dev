@@ -64,6 +64,7 @@
 - https://paperswithbacktest.com/
 - https://alvarezquanttrading.com/
 - https://www.championteamtrading.com/
+- https://www.quantalphaalgorithms.com/
 - https://www.quantifiedstrategies.com/
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/ *
@@ -202,6 +203,7 @@
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 
 ## LIST: OSS
+- https://github.com/merovinh/best-of-algorithmic-trading
 - https://github.com/paperswithbacktest/awesome-systematic-trading
 
 ## TOOLS: BACKTESTING
@@ -680,6 +682,7 @@
 - https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
 - https://github.com/HuobiRDCenter/huobi_Python
+- https://github.com/PlusGenie/tbot-tradingboat
 - https://github.com/bennycode/coinbase-pro-node
 - https://github.com/Algoboy-Kevin/algo-trade-hono *
 - https://github.com/Idirect-Tech/Breeze-Python-SDK

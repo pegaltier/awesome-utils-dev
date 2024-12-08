@@ -664,6 +664,7 @@ PANTOS — - https://pantos.io
 - https://four.meme/
 - https://dumpy.fun/
 - https://ape.express/
+- https://taraxa.fun/
 - https://www.snek.fun/
 - https://meme.cooking/
 - https://sunpump.meme/

@@ -694,6 +694,7 @@
 - https://github.com/webmobiledev/vue-tradingview
 - https://github.com/hsablonniere/activity-graph
 - https://github.com/williamtroup/JsonTree.js
+- https://github.com/NorthwoodsSoftware/GoJS
 - https://github.com/project-nv/night-vision
 - https://github.com/bumbeishvili/org-chart
 - https://github.com/cytoscape/cytoscape.js
@@ -724,6 +725,7 @@
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
 - https://github.com/pipes-digital/pipes
+- https://github.com/NorthwoodsSoftware/GoJS
 
 ## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
 - https://github.com/francoischalifour/medium-zoom

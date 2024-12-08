@@ -125,6 +125,7 @@
 - https://github.com/preactjs/preact
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
+- https://github.com/sergiodxa/flagged
 - https://github.com/devpato/react-NFC
 - https://github.com/nmn/react-timeago
 - https://github.com/jsxstyle/jsxstyle

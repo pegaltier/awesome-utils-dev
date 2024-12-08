@@ -80,6 +80,8 @@
 - https://github.com/SigNoz/signoz
 - https://github.com/rapiz1/rathole
 - https://github.com/YuukanOO/seelf
+- https://github.com/OpenNebula/one
+- https://github.com/hashicorp/nomad
 - https://github.com/code-pushup/cli
 - https://github.com/traefik/traefik
 - https://github.com/buildpacks/pack

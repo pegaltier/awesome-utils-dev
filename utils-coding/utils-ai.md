@@ -389,6 +389,7 @@
 - https://github.com/Y2Z/monolith
 - https://github.com/apify/crawlee
 - https://github.com/getmaxun/maxun
+- https://github.com/QuivrHQ/MegaParse
 - https://github.com/addyosmani/git2txt
 - https://github.com/unclecode/crawl4ai
 - https://github.com/mendableai/firecrawl
@@ -572,6 +573,7 @@
 - https://github.com/WongKinYiu/yolov9
 - https://github.com/topics/ai-avatars
 - https://github.com/hpcaitech/Open-Sora
+- https://github.com/Tencent/HunyuanVideo
 - https://github.com/KwaiVGI/LivePortrait
 - https://github.com/SoraWebui/FakeSoraAPI
 - https://github.com/antgroup/echomimic_v2

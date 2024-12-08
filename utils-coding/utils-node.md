@@ -120,6 +120,7 @@
 ## UTILS ALL
 - https://github.com/animir/node-rate-limiter-flexible
 - https://github.com/jkup/source-map-stacktrace-tester
+- https://github.com/JakobJingleheimer/nodejs-loaders
 - https://github.com/mafintosh/why-is-node-running
 - https://github.com/node-loader/node-loader-core
 - https://github.com/sverweij/dependency-cruiser

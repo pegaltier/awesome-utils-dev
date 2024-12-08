@@ -168,6 +168,7 @@ RUN ls
 
 ## DOCKER IMAGES ALL
 - https://github.com/help-me-mom/wordpress-docker-template
+- https://github.com/NginxProxyManager/nginx-proxy-manager
 - https://github.com/marcelo-ochoa/coder-docker-extension
 - https://github.com/expertly-simple/mrm-task-npm-docker
 - https://github.com/linuxserver/docker-healthchecks
