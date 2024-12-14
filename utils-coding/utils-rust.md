@@ -38,6 +38,9 @@
 - https://github.com/EricLBuehler/mistral.rs
 - https://github.com/huggingface/candle
 
+## LIB: DB
+- https://github.com/tursodatabase/limbo
+
 ## LIB
 - https://github.com/crabnebula-dev/cargo-packager
 - https://github.com/hyperlight-dev/hyperlight

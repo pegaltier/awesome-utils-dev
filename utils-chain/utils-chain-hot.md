@@ -204,6 +204,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 - https://github.com/darksoil-studio/p2p-shipyard
 - https://github.com/darksoil-studio/notifications
 - https://github.com/darksoil-studio/mutual-credit
+- https://github.com/darksoil-studio/messenger-demo
 - https://github.com/holochain-engineers/team-mates
 - https://github.com/holochain/holochain-serialization-js
 - https://github.com/holochain/holochain/blob/develop/docs/build_tutorial.md

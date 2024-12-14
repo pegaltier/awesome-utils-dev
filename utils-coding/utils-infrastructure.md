@@ -37,6 +37,7 @@
 - https://github.com/causefx/Organizr
 - https://github.com/bastienwirtz/homer
 - https://github.com/linuxserver/Heimdall
+- https://github.com/gethomepage/homepage
 
 ## WORFLOW
 - https://github.com/ansible/ansible
@@ -122,6 +123,7 @@
 - https://github.com/openreplay/openreplay
 - https://github.com/influxdata/influxdb
 - https://github.com/hyperdxio/hyperdx
+- https://github.com/bluewave-labs/checkmate
 - https://github.com/lyc8503/UptimeFlare
 - https://github.com/louislam/uptime-kuma
 - https://github.com/oneuptime/oneuptime

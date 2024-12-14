@@ -58,6 +58,7 @@ echo $PATH
 - https://github.com/cachix/devenv
 - https://github.com/cachix/cachix
 - https://github.com/nix-community/home-manager
+- https://github.com/DeterminateSystems/nix-installer
 
 ## More
 

@@ -452,6 +452,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/stolinski/drop-in
 - https://github.com/quickjs-ng/quickjs
 - https://github.com/fabiospampinato/voby
+- https://github.com/web-widget/web-widget
 - https://github.com/justin-schroeder/arrow-js
 - https://blog.madewithlove.be/post/webpack-your-bags/
 - https://css-tricks.com/css-modules-part-2-getting-started

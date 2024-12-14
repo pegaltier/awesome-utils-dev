@@ -44,6 +44,7 @@
 - https://github.com/browser-network/database
 - https://github.com/nodejs-mobile/nodejs-mobile
 - https://github.com/ChainSafe/js-libp2p-gossipsub
+- https://github.com/vadootvpeer/p2p-cdn-sdk-javascript
 
 ## APPS
 - https://github.com/nostr-protocol/nostr

@@ -231,6 +231,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 
 Learn about the most useful design patterns in Angular.
 
+- https://slides.com/doguhanuluca/architecture-for-scalable-angular-apps#/2
 - https://netbasal.com/better-code-organization-with-angular-di-multi-option-31f691918655
 - https://indepth.dev/posts/1404/declarative-reactive-data-and-action-streams-in-angular
 - https://dev.to/davelosert/mock-factory-pattern-in-typescript-44l9

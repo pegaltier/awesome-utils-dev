@@ -381,6 +381,7 @@
 ## SWAP: CROSS-CHAIN MULTI-CHAIN
 - https://solswap.org/
 - https://app.near-intents.org/
+- https://sonic.fantomstarter.io/interchain
 
 ## PREDICTION
 - https://limitless.exchange/
@@ -670,17 +671,25 @@ PANTOS — - https://pantos.io
 - https://sunpump.meme/
 - https://movepump.com/
 - https://degen.express/
+- https://beliefs.social/
+- https://www.boomtown.meme/
 
 ## MEMES: AI
 - https://ai16z.ai/
 - https://vvaifu.fun/
 - https://loveai.xyz/
 - https://creator.bid/
+- https://griffain.com/
 - https://arataagi.org/
 - https://fomo.fund/home
 - https://www.cookie.fun/
 - https://app.virtuals.io/
+- https://www.polytrader.ai/
+- https://syntax.spectrallabs.xyz/
+
+## MEMES: AI OSS
 - https://github.com/ai16z
+- https://github.com/goat-sdk/goat
 
 ## MEMES: TOOLS
 - https://mlgedit.com/

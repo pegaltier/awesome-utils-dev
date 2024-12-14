@@ -5,6 +5,7 @@
 
 ## ETH WIKI/FORUM/LIST
 - https://theethereum.wiki/w/index.php/Main_Page
+- https://github.com/shafu0x/awesome-smart-contracts
 - https://github.com/ethereumbook/ethereumbook
 - https://github.com/Scanate/EthList
 - https://forum.ethereum.org

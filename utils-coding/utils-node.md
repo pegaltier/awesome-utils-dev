@@ -27,9 +27,11 @@
 - https://github.com/cnpm/npminstall
 - https://github.com/SukkaW/nolyfill
 - https://github.com/moonrepo/proto
+- https://github.com/vltpkg/vltpkg
 - https://github.com/yarnpkg/berry
 - https://github.com/lirantal/npq
 - https://github.com/pnpm/pacquet
+- https://github.com/oven-sh/bun
 - https://github.com/Schniz/fnm
 - https://github.com/ije/esm.sh
 - https://github.com/nvm-sh/nvm

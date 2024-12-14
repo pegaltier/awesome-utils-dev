@@ -156,6 +156,7 @@
 - https://github.com/cheshire-cat-ai/core
 - https://github.com/danielmiessler/fabric
 - https://github.com/n8n-io/self-hosted-ai-starter-kit
+- https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent
 
 ## TOOLS: WEB
 - https://github.com/huggingface/transformers.js-examples
@@ -260,6 +261,7 @@
 - https://clarityai.co/
 - https://editproai.pro/
 - https://letsenhance.io/
+- https://www.logo-creator.io/
 - https://www.midjourney.org/
 - https://fengmyshui.com/
 - https://www.headshotpro.com/
@@ -323,6 +325,7 @@
 - https://ollama.ai/
 
 ## CRYPTO
+- https://www.masa.ai/
 - https://www.sharpe.ai/
 - https://power.netmind.ai/
 - https://www.crypticorn.com/
@@ -380,8 +383,16 @@
 ## LIB: NEURAL NETWORK
 - https://github.com/apple/corenet
 
+## LIB: FULL FRAMEWORK
+- https://github.com/langgenius/dify
+
 ## LIB: AGENTIC FRAMEWORK
+- https://github.com/ai16z/eliza
+- https://github.com/goat-sdk/goat
+- https://github.com/botpress/botpress
 - https://github.com/phidatahq/phidata
+- https://github.com/lavague-ai/LaVague
+- https://github.com/pydantic/pydantic-ai
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/i-am-bee/bee-agent-framework
 
@@ -557,6 +568,7 @@
 - https://github.com/huggingface/lerobot
 
 ## LIB: AUDIO / TTS
+- https://github.com/modelscope/ClearerVoice-Studio
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/eustlb/speech-to-speech
 - https://github.com/souzatharsis/podcastfy
@@ -599,7 +611,9 @@
 - https://github.com/ostris/ai-toolkit
 - https://github.com/gradio-app/gradio *
 - https://github.com/lllyasviel/Fooocus *
+- https://github.com/invoke-ai/InvokeAI
 - https://github.com/Zeqiang-Lai/DragGAN
+- https://github.com/Nutlope/logocreator
 - https://github.com/modelscope/facechain
 - https://github.com/Stable-X/StableDelight
 - https://github.com/Stability-AI/StableLM

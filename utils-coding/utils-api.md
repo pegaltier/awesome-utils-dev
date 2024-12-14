@@ -41,6 +41,7 @@
 - https://pipedream.com/
 - https://serviceweaver.dev/
 - https://stoplight.io/studio
+- https://github.com/alovajs/alova
 - https://github.com/fern-api/fern
 - https://github.com/Azure/autorest
 - https://github.com/slatedocs/slate
@@ -229,6 +230,7 @@
 - https://github.com/ssoready/ssoready
 - https://github.com/spruceid/siwe-oidc
 - https://github.com/auth0/auth0-spa-js
+- https://github.com/openauthjs/openauth
 - https://github.com/epicweb-dev/web-auth
 - https://github.com/goauthentik/authentik
 - https://github.com/supertokens/supertokens-node

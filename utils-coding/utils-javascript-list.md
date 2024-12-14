@@ -272,9 +272,15 @@
 - https://github.com/pg-nano/pg-parser
 - https://github.com/instantdb/instant
 - https://github.com/kysely-org/kysely
+- https://github.com/blinkdb-js/blinkdb
 - https://github.com/orbitinghail/sqlsync
 - https://github.com/zemberdotnet/jsonl-db
 - https://github.com/StarlaneStudios/Surrealist
+
+## LIB: REQUEST
+- https://github.com/node-fetch/node-fetch
+- https://github.com/alovajs/alova
+- https://github.com/axios/axios
 
 ## LIB: BACKEND
 - https://github.com/mailgun/mailgun.js
@@ -292,6 +298,7 @@
 - https://github.com/epicweb-dev/totp
 - https://github.com/garronej/oidc-spa
 - https://github.com/charlietango/owky
+- https://github.com/openauthjs/openauth
 - https://github.com/better-auth/better-auth
 - https://github.com/supertokens/supertokens-node
 - https://github.com/subhendukundu/worker-auth-providers
