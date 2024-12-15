@@ -58,6 +58,7 @@
 - https://github.com/humanloop/awesome-chatgpt
 - https://github.com/microsoft/ML-For-Beginners
 - https://github.com/cbailes/awesome-deep-trading
+- https://github.com/Shubhamsaboo/awesome-llm-apps
 - https://github.com/hijkzzz/Awesome-LLM-Strawberry
 - https://github.com/steven2358/awesome-generative-ai
 - https://github.com/mercari/ml-system-design-pattern

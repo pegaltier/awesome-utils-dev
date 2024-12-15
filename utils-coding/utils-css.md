@@ -143,6 +143,7 @@
 - https://github.com/ibelick/background-snippets
 - https://github.com/nextui-org/tailwind-variants
 - https://github.com/aniftyco/awesome-tailwindcss
+- https://github.com/ekmas/neobrutalism-components
 - https://github.com/mertasan/tailwindcss-variables
 - https://github.com/tailwindlabs/tailwindcss-forms
 - https://github.com/windicss/windicss-intellisense
