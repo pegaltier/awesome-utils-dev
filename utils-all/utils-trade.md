@@ -423,6 +423,9 @@
 - https://www.tradingview.com/u/TheTradingParrot/#published-scripts
 - https://www.tradingview.com/u/Amphibiantrading/#published-scripts
 
+## TOOLS: TRADINGVIEW: INTERDMEDIATE
+- https://www.tradingview.com/u/igreycrypto/#published-scripts
+
 ## TOOLS: TRADINGVIEW: TOOLS 
 - https://www.tradingview.com/script/cvEVOXaH-Monte-Carlo-Simulation-Your-Strategy-Kioseff-Trading/
 - https://www.tradingview.com/script/6Gbcuh4k-Self-Optimizing-RSI-Strategy-Kioseff-Trading/
@@ -587,6 +590,7 @@
 - https://github.com/Alorse/pinescript-strategies
 - https://github.com/ADWilkinson/pinescript-indicators
 - https://github.com/jamesbachini/Pine-Script-Examples
+- https://github.com/algoboy-kevin/algo-pinescript-libs
 - https://github.com/Paul-Mizel/Crypto-Trading-Unleashed
 - https://github.com/syrusTheGgrreeaatt/pine-script-strategies **
 - https://github.com/TreborNamor/TradingView-Machine-Learning-GUI
@@ -879,6 +883,7 @@
 - https://github.com/austin-starks/NextTrade *
 - https://github.com/chalupagrande/backtester
 - https://github.com/tiagosiebler/bitmart-api
+- https://github.com/andrewbaronick/BacktestJS *
 - https://github.com/bennycode/trading-signals
 - https://github.com/gadicc/node-yahoo-finance2 *
 - https://github.com/ViewBlock/binance-api-node
