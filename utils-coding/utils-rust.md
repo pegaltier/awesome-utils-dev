@@ -33,6 +33,7 @@
 
 ## FRAMEWORK
 - https://github.com/cunarist/rinf
+- https://github.com/trailbaseio/trailbase
 
 ## LIB: AI
 - https://github.com/EricLBuehler/mistral.rs

@@ -15,6 +15,7 @@
 - https://github.com/golevelup/nestjs
 - https://github.com/jmcdo29/nest-lab
 - https://github.com/nestjs/throttler
+- https://github.com/g59/nestjs-plugins
 - https://github.com/vladmandic/pilogger
 - https://github.com/TriPSs/nestjs-query
 - https://github.com/nestjs/mapped-types

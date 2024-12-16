@@ -97,3 +97,6 @@
 
 ## EXAMPLES
 - https://github.com/brettchalupa/projectbook
+
+## RESEARCH
+- https://github.com/decentralized-fda/decentralized-fda

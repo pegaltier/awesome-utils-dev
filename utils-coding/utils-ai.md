@@ -405,6 +405,7 @@
 - https://github.com/addyosmani/git2txt
 - https://github.com/unclecode/crawl4ai
 - https://github.com/mendableai/firecrawl
+- https://github.com/microsoft/markitdown
 - https://github.com/projectdiscovery/katana
 - https://github.com/supermemoryai/markdowner
 

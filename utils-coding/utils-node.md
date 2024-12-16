@@ -59,6 +59,7 @@
 - https://github.com/btd/rollup-plugin-visualizer
 
 ## STARTER / EXAMPLE
+- https://github.com/9renpoto/.59-node
 - https://github.com/jhoset/nodejs-spotify-server
 - https://github.com/bezkoder/node-js-mssql-crud-example
 - https://github.com/studiohyperdrive/nodejs-boilerplate

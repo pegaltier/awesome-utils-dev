@@ -3459,6 +3459,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://angularexperts.io/products/ebook-angular-enterprise-architecture (TOADD)
 - https://www.packtpub.com/product/angular-design-patterns/9781786461728 (TOADD)
 - https://www.packtpub.com/product/learning-angular-third-edition/9781839210662 (TOADD)
+- https://www.amazon.com/Modern-Web-Development-Angular-Cutting-Edge/dp/B0DP8LQ597 (TOADD)
 - https://www.amazon.com/Effective-Angular-Develop-applications-effectively/dp/1805125532/ (TOADD)
 - https://www.amazon.com/Reactive-Patterns-RxJS-Angular-Signals-ebook/dp/B0CTXL7HZP/ (TOADD)
 - https://www.amazon.com/Angular-Enterprise-Applications-Router-first-architecture/dp/1805127128 (TOADD)
