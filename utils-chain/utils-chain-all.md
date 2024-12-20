@@ -77,6 +77,10 @@
 - https://github.com/project-serum/awesome-serum
 - https://github.com/dfinity/awesome-dfinity
 
+## TOP DEV: TRADE
+- https://github.com/muffin819/pumpfun-bundler
+- https://github.com/knightworlds/Raydium-Volume-Bot
+
 ## QUOTES/ACTIVITY
 - http://charts.woobull.com
 - https://datamish.comk

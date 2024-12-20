@@ -776,6 +776,7 @@
 - https://github.com/tastyware/tastytrade
 - https://github.com/letianzj/quanttrader
 - https://github.com/ig-python/trading-ig
+- https://github.com/gordonwoon/algo-dash
 - https://github.com/ivopetiz/algotrading *
 - https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
@@ -871,6 +872,7 @@
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/tvjsx/trading-vue-js *
+- https://github.com/backtestjs/framework *
 - https://github.com/coinranking/exchanges
 - https://github.com/TulipCharts/tulipnode *
 - https://github.com/SockTrader/SockTrader *

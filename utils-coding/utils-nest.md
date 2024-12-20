@@ -15,6 +15,7 @@
 - https://github.com/golevelup/nestjs
 - https://github.com/jmcdo29/nest-lab
 - https://github.com/nestjs/throttler
+- https://github.com/mikro-orm/nestjs
 - https://github.com/g59/nestjs-plugins
 - https://github.com/vladmandic/pilogger
 - https://github.com/TriPSs/nestjs-query
@@ -23,11 +24,13 @@
 - https://github.com/nestjsx/nestjs-amqp
 - https://github.com/nestjs/ng-universal
 - https://github.com/nest-modules/mailer
+- https://github.com/ecaminero/nestjs-ddd
 - https://github.com/ocoda/event-sourcing
 - https://github.com/jbiskur/nestjs-utils
 - https://github.com/Papooch/decorate-all
 - https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter
+- https://github.com/it-gorillaz/configify
 - https://github.com/skunight/nestjs-redis
 - https://github.com/squareboat/nest-queue
 - https://github.com/iamolegga/nestjs-pino
@@ -35,6 +38,7 @@
 - https://github.com/BeerMoneyDev/nest-monk
 - https://github.com/nestjs/class-validator
 - https://github.com/doug-martin/nestjs-query
+- https://github.com/iamolegga/nestjs-session
 - https://github.com/nestjs/class-transformer
 - https://github.com/nestjsx/nestjs-braintree
 - https://github.com/panva/node-oidc-provider
@@ -85,6 +89,7 @@
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/squareboat/nest-storage
 - https://github.com/coollerwind/nestjs-graphql
+- https://github.com/leosuncin/nest-api-example
 - https://github.com/squareboat/nest-eyewitness
 - https://github.com/brandonroberts/analog-nest
 - https://github.com/Aginix/nestjs-firebase-admin

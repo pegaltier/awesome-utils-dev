@@ -54,6 +54,7 @@
 - https://github.com/SamHerbert/SVG-Loaders
 - https://github.com/Yqnn/svg-path-editor
 - https://github.com/edent/SuperTinyIcons
+- https://github.com/onlook-dev/onlook
 - https://github.com/penpot/penpot
 
 ## ICONS

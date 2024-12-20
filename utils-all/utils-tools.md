@@ -79,10 +79,11 @@
 ## OSS: SYSTEM
 - https://github.com/Abdenasser/neohtop
 
-# OSS: PHOTO
+# OSS: PHOTO / IMAGE
 - https://github.com/ente-io/ente
 - https://github.com/rishimohan/pika
 - https://github.com/immich-app/immich
+- https://github.com/addyosmani/squish
 - https://github.com/electerious/Lychee
 - https://github.com/photoprism/photoprism
 - https://github.com/TagStudioDev/TagStudio
@@ -154,11 +155,13 @@
 - https://github.com/matrix-org
 - https://github.com/spacebarchat
 - https://github.com/vasanthv/talk
+- https://github.com/tldraw/tldraw
 - https://github.com/mfts/papermark
 - https://github.com/calcom/cal.com
 - https://github.com/docmost/docmost
 - https://github.com/CapSoftware/cap
 - https://github.com/makeplane/plane
+- https://github.com/outline/outline
 - https://github.com/metamaps/metamaps
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo

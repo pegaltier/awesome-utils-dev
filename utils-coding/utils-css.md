@@ -138,6 +138,7 @@
 - https://github.com/mertJF/tailblocks
 - https://github.com/vinicoder/tw-to-css
 - https://github.com/jordihales/hypercolor
+- https://github.com/origin-space/originui
 - https://github.com/tailwindlabs/headlessui
 - https://github.com/romboHQ/tailwindcss-motion
 - https://github.com/Devzstudio/tailwind_to_css

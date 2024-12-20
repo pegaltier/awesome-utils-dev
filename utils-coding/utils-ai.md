@@ -390,6 +390,7 @@
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/ai16z/eliza
 - https://github.com/goat-sdk/goat
+- https://github.com/reworkd/AgentGPT
 - https://github.com/botpress/botpress
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
@@ -556,7 +557,8 @@
 - https://github.com/getzep/zep
 - https://github.com/01-ai/Yi
 
-## LIB: LLM: TELEMETRY
+## LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR
+- https://github.com/Helicone/helicone
 - https://github.com/traceloop/openllmetry-js
 
 ## LIB: DEEP LEARNING / NEURAL
@@ -575,6 +577,7 @@
 - https://github.com/eustlb/speech-to-speech
 - https://github.com/souzatharsis/podcastfy
 - https://github.com/fishaudio/fish-speech
+- https://github.com/FunAudioLLM/CosyVoice
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/kyutai-labs/moshi
 - https://github.com/yl4579/StyleTTS2
@@ -668,6 +671,7 @@
 
 ## LIB: SEARCH
 - https://github.com/ItzCrazyKns/Perplexica
+- https://github.com/zaidmukaddam/miniperplx
 
 ## LIB: BROWSER
 - https://github.com/addyosmani/chatty
