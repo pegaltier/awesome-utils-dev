@@ -90,9 +90,12 @@ crontab -l ==> show
 - https://electronics.semaf.at/raspberry-pi-connectors (gpio)
 
 ```bash
+# new version is picamera2
+# > https://pypi.org/project/picamera2/
+# https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 # use pip or pip3 (depending on python v)
-sudo -H apt install python3-picamera
-sudo -H pip3 install --upgrade picamera[array]
+sudo -H apt install python3-picamera2
+sudo -H pip3 install --upgrade picamera2[array]
 ```
 
 ## Buy material
