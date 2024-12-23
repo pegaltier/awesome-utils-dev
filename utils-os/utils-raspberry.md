@@ -28,8 +28,10 @@ Nginx+PHP
 ## Cron
 - https://www.raspberrypi.org/documentation/linux/usage/cron.md
 
+```bash
 crontab -e ==> edit
 crontab -l ==> show
+```
 
 ## Boot
 - https://www.raspberrypi.org/documentation/linux/usage/rc-local.md
@@ -47,20 +49,7 @@ crontab -l ==> show
 - https://github.com/pi-hosted/pi-hosted
 - https://github.com/sergkhl/rpi-utils
 
-##  Sensor / camera
-
-book:
-- https://store.rpipress.cc/products/official-raspberry-pi-beginner-s-guide-2nd-edition
-
-buy r4:
-- https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/ 
-- https://fr.farnell.com/MarketingProductList?orderCode=3051885,3051886,3051887
-- https://www.kubii.fr/les-cartes-raspberry-pi/2677-nouveau-raspberry-pi-4-modele-b-3272496298491.html?src=raspberrypi   
-
-buy r3 kit:
-- https://fr.farnell.com/raspberry-pi/rpi3-8mp-camera-bundle/raspberry-pi3-8mp-camera/dp/2580632 
-
-sensor:
+## Sensor
 - https://www.fred-j.org/?p=364
 - https://raspberry-pi.fr/rfid-raspberry-pi/
 - https://www.hackster.io/Shafin-Kothia/water-level-monitor-with-raspberry-pi-d509a2
@@ -73,7 +62,7 @@ sensor:
 - https://stackoverflow.com/questions/31195774/a-trivial-presence-detector-with-raspberry-using-python
 - https://www.astuces-pratiques.fr/electronique/le-transistor-2n2222-et-2n2222a
 - https://openclassrooms.com/fr/courses/724810-lelectronique-de-zero/724808-le-transistor-en-regime-de-saturation
-http://espace-raspberry-francais.fr/Composants/Capteur-presence-HC-SR501-Raspberry-Francais/
+- http://espace-raspberry-francais.fr/Composants/Capteur-presence-HC-SR501-Raspberry-Francais/
 - https://thepihut.com/blogs/raspberry-pi-tutorials/raspberry-pi-gpio-sensing-motion-detection
 - https://maker.pro/raspberry-pi/tutorial/how-to-interface-a-pir-motion-sensor-with-raspberry-pi-gpio
 - https://www.raspberrypi.org/forums/viewtopic.php?t=140327
@@ -81,7 +70,7 @@ http://espace-raspberry-francais.fr/Composants/Capteur-presence-HC-SR501-Raspber
 - https://www.seeedstudio.com/blog/2019/08/03/pir-sensor-introduction-and-how-pir-motion-sensor-works-with-arduino-and-raspberry-pi/
 - https://pimylifeup.com/raspberry-pi-motion-sensor/
 
-camera:
+## Camera
 - https://projetsdiy.fr/test-camera-ir-asiatique-vs-v2-officielle-raspebrry-pi-test-exterieur/
 - https://www.amazon.fr/1080P-Cam%C3%A9ra-avec-Support-Raspberry/dp/B07BT3KMG6
 - https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/3 
@@ -91,18 +80,35 @@ camera:
 - https://learn.adafruit.com/raspberry-pi-hq-camera-case
 - https://www.pi-shop.ch/pi-zero-camera-box
 
-
-debug camera:
+### debug camera:
 - https://picamera.readthedocs.io/en/release-1.10/install3.html
 - https://www.raspberrypi.org/forums/viewtopic.php?t=174375
 - https://www.raspberrypi.org/forums/viewtopic.php?t=198118
 - https://www.raspberrypi.org/forums/viewtopic.php?t=197575
 - https://raspberrypi.stackexchange.com/questions/37683/raspberry-pi-camera-rev-1-3-is-not-detected
-gpio:
-- https://electronics.semaf.at/navi.php?a=1396&lang=eng
-- https://electronics.semaf.at/raspberry-pi-connectors
+- https://electronics.semaf.at/navi.php?a=1396&lang=eng (gpio)
+- https://electronics.semaf.at/raspberry-pi-connectors (gpio)
 
-kit board:
+```bash
+# use pip or pip3 (depending on python v)
+sudo -H apt install python3-picamera
+sudo -H pip3 install --upgrade picamera[array]
+```
+
+## Buy material
+
+### buy book
+- https://store.rpipress.cc/products/official-raspberry-pi-beginner-s-guide-2nd-edition
+
+### buy r4
+- https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/ 
+- https://fr.farnell.com/MarketingProductList?orderCode=3051885,3051886,3051887
+- https://www.kubii.fr/les-cartes-raspberry-pi/2677-nouveau-raspberry-pi-4-modele-b-3272496298491.html?src=raspberrypi   
+
+### buy r3 kit
+- https://fr.farnell.com/raspberry-pi/rpi3-8mp-camera-bundle/raspberry-pi3-8mp-camera/dp/2580632 
+
+### buy kit board
 - https://www.monkmakes.com/rpi_esk/
 - https://www.raspberrypi.org/magpi/best-raspberry-pi-starter-kits/
 - https://thepihut.com/products/raspberry-pi-breadboard-half-size
@@ -144,9 +150,12 @@ kit board:
 - https://www.giftcampaign.fr/porte-cle-publicitaire/porte-cle-publicitaire-pas-cher/localisateur-bluetooth-personnalise.html
 - https://github.com/gladysassistant/gladys-bluetooth
 
-
 ## Arduino
 - https://store.arduino.cc/genuino-starter-kit
 - https://github.com/rwaldron/johnny-five
 - https://github.com/ngfelixl/ngrc-platform
 - https://github.com/RetroPie/RetroPie-Setup/
+
+## imager
+- https://www.raspberrypi.com/software/
+- rpi3 or 4 > use 33 bits
