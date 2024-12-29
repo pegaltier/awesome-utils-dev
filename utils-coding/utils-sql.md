@@ -15,6 +15,7 @@
 - https://github.com/rickbergfalk/postgrator
 - https://thdoan.github.io/mr-data-converter/
 - https://sqlizer.io/#/
+- https://sqlable.com/
 
 ## ERRORS
 - https://www.percona.com/blog/2019/05/13/solve-query-failures-regarding-only_full_group_by-sql-mode/
