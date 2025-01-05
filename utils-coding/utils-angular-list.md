@@ -1954,6 +1954,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/teambit/bit-angular
 - https://github.com/compodoc/ts-stats
 - https://github.com/compodoc/compodoc
+- https://github.com/filipsobol/sonda
 - https://github.com/ngneat/inspector
 - https://github.com/swimlane/DocSPA
 - https://github.com/docgeni/docgeni

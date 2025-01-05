@@ -104,6 +104,7 @@
 - https://github.com/charlypoly/graphql-to-json-schema
 - https://github.com/dotansimha/graphql-code-generator
 - https://github.com/pipedrive/graphql-schema-registry
+- https://github.com/apollographql/graphql-subscriptions
 - https://github.com/n1ru4l/graphql-public-schema-filter
 - https://github.com/dangcuuson/graphql-schema-typescript
 - https://github.com/kamilkisiela/graphql-breaking-changes

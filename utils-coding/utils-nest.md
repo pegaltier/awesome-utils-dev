@@ -37,6 +37,7 @@
 - https://github.com/nestjs-addons/platform
 - https://github.com/BeerMoneyDev/nest-monk
 - https://github.com/nestjs/class-validator
+- https://github.com/liaoliaots/nestjs-redis
 - https://github.com/doug-martin/nestjs-query
 - https://github.com/iamolegga/nestjs-session
 - https://github.com/nestjs/class-transformer
@@ -105,6 +106,8 @@
 - https://github.com/satanTime/nx-nestjs-angular-graphql
 - https://github.com/fivethree-team/nestjs-prisma-starter
 - https://github.com/lujakob/nestjs-realworld-example-app
+- https://github.com/Ho-s/NestJS-GraphQL-TypeORM-PostgresQL
+- https://github.com/zhuravlevma/typescript-ddd-architecture
 - https://github.com/knowankit/fullstack-monorepo-boilerplate
 - https://github.com/0xb4lamx/nestjs-boilerplate-microservice
 - https://github.com/Roms1383/nest-combining-decorators-sample

@@ -170,6 +170,9 @@
 - https://github.com/nexe/nexe
 - https://github.com/sezna/nps
 
+## UTILS TYPESCRIPT
+- https://github.com/unjs/jiti
+- https://github.com/TypeStrong/ts-node
 
 ## MONITORING / LOGGING
 - https://github.com/pinojs/pino
@@ -291,15 +294,21 @@
 - https://github.com/lovell/sharp
 - https://github.com/pmb0/express-sharp
 
+
+## LIBS: BROKER / SUBSCRIPTION
+- https://github.com/redis/ioredis
+- https://github.com/weyoss/redis-smq
+- https://github.com/valkey-io/iovalkey
+- https://github.com/apollographql/graphql-subscriptions
+
 ## LIBS: DATABASE / DB
 - https://github.com/prisma-utils
-- https://github.com/redis/ioredis
 - https://github.com/prisma/prisma
 - https://github.com/koskimas/kysely
 - https://github.com/typeorm/typeorm
 - https://github.com/appy-one/acebase
 - https://github.com/ndaidong/flat-db
-- https://github.com/twinlogix/typetta
+- https://github.com/twinlogix/typettapsecur
 - https://github.com/microlinkhq/keyvhq
 - https://github.com/bruin-data/ingestr
 - https://github.com/typegoose/typegoose
@@ -313,6 +322,7 @@
 - https://github.com/sql-formatter-org/sql-formatter
 - https://github.com/benjamin658/typeorm-cursor-pagination
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository
+- https://github.com/Cauen/prisma-generator-postgres-realtime
 
 ## LIBS: CLI / PROMPTS
 - https://github.com/cacjs/cac

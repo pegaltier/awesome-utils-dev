@@ -389,6 +389,7 @@
 
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/ai16z/eliza
+- https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
 - https://github.com/reworkd/AgentGPT
 - https://github.com/botpress/botpress
@@ -668,6 +669,10 @@
 - https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI
 - https://github.com/baptisteArno/typebot.io
 - https://github.com/openchatai/OpenChat
+
+## LIB: SOCIAL
+- https://github.com/ericciarla/trendFinder
+- https://github.com/stanford-oval/storm
 
 ## LIB: SEARCH
 - https://github.com/ItzCrazyKns/Perplexica

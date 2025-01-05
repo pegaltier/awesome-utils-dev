@@ -125,9 +125,10 @@
 - https://github.com/dgtlmoon/changedetection.io
 
 ## OSS: PROXY
-- https://github.com/ProxymanApp/Proxyman
-- https://github.com/abhinavsingh/proxy.py
 - https://github.com/UseInterstellar/Interstellar
+- https://github.com/abhinavsingh/proxy.py
+- https://github.com/ProxymanApp/Proxyman
+- https://github.com/connet-dev/connet
 
 ## OSS: COMPANY / STARTUP
 - https://github.com/midday-ai/midday
@@ -175,6 +176,7 @@
 - https://github.com/MathMan05/JankClient
 - https://github.com/hcengineering/platform
 - https://github.com/bluesky-social/social-app
+- https://github.com/yoopta-editor/Yoopta-Editor
 - https://github.com/onetimesecret/onetimesecret
 
 # OSS: WEB

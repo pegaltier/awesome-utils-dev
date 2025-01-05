@@ -242,6 +242,7 @@
 - https://github.com/fkling/astexplorer
 - https://github.com/smeijer/unimported
 - https://github.com/NectarJS/nectarjs
+- https://github.com/filipsobol/sonda
 - https://github.com/fwouts/previewjs
 - https://github.com/biomejs/biome
 - https://github.com/projen/projen
@@ -399,6 +400,7 @@
 - https://github.com/CJex/regulex
 - https://github.com/snd/url-pattern
 - https://github.com/slevithan/regex
+- https://github.com/cyrilbois/cyrilex
 - https://github.com/devongovett/regexgen
 - https://github.com/micromatch/picomatch
 - https://github.com/sindresorhus/super-regex
@@ -598,10 +600,12 @@
 - https://github.com/crabbly/Print.js
 - https://github.com/rviscomi/capo.js
 - https://github.com/jcubic/sysend.js
+- https://github.com/simonwep/nanopop
 - https://github.com/joeattardi/picmo
 - https://github.com/xtermjs/xterm.js
 - https://github.com/zxing-js/library
 - https://github.com/bitjson/qr-code
+- https://github.com/preachjs/popper
 - https://github.com/iamcal/js-emoji
 - https://github.com/svgdotjs/svg.js
 - https://github.com/alibaba/formily

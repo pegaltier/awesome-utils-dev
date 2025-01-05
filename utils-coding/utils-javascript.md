@@ -1,5 +1,8 @@
 # Javascript
 
+## LIBRARY
+- https://youmightnotneed.com/
+
 ## SHORTHANDS
 - https://morioh.com/p/05414714e685?f=5c21fb01c16e2556b555ab32
 

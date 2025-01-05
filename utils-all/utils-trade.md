@@ -343,6 +343,7 @@
 - https://kinfo.com/
 
 ## TOOLS: TRADINGVIEW: CODING
+- https://pineify.app/
 - https://muqwishi.com/
 - https://pinewizards.com/
 - https://pinescripters.net/
@@ -929,6 +930,7 @@
 - https://grademark.github.io/grademark-first-example/
 
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
+- https://github.com/virattt/ai-hedge-fund
 - https://github.com/LiamConnell/deep-algotrading/
 - https://github.com/AI4Finance-Foundation/FinRL
 - https://github.com/tensortrade-org/tensortrade
