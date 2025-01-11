@@ -104,6 +104,7 @@ RUN ls
 - https://www.portainer.io/
 
 ## TOOLS OSS
+- https://github.com/cyclops-ui/cyclops
 - https://github.com/orbstack/orbstack
 - https://github.com/containers/podman
 - https://github.com/hashicorp/vagrant

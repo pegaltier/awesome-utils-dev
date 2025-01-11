@@ -196,6 +196,7 @@
 - https://github.com/meltylabs/melty
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
+- https://github.com/gptlint/gptlint
 - https://github.com/stitionai/devika
 - https://github.com/Oneirocom/Magick
 - https://github.com/yamadashy/repomix
@@ -214,6 +215,7 @@
 - https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
 - https://github.com/trypear/pearai-master
+- https://github.com/huggingface/llm-vscode
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
@@ -510,6 +512,7 @@
 - https://github.com/confident-ai/deepeval
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/LargeWorldModel/LWM
+- https://github.com/dataelement/bisheng
 - https://github.com/NVIDIA/TensorRT-LLM
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
@@ -648,7 +651,8 @@
 ## LIB: ORCHESTRATION
 - https://github.com/openai/swarm
 
-## LIB: TRANSLATION
+## LIB: TEXT / TRANSLATION
+- https://github.com/clusterzx/paperless-ai
 - https://github.com/andrewyng/translation-agent
 
 ## LIB: LABELLING
@@ -685,6 +689,9 @@
 ## LIB: GAME
 - https://github.com/a16z-infra/ai-town
 - https://github.com/PufferAI/PufferLib
+
+## LIB: SCIENCE
+- https://github.com/NVIDIA/Cosmos
 
 ## LIB: CATALOG
 - https://github.com/unitycatalog/unitycatalog

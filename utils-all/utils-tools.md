@@ -102,6 +102,7 @@
 - https://github.com/alyssaxuu/screenity
 - https://github.com/goshops-com/clipshare
 - https://github.com/aegir-assembly/omni-clip
+- https://github.com/KurtBestor/Hitomi-Downloader
 
 ## OSS: MEDIAS / BOOK / PDF
 - https://github.com/py-pdf/pypdf

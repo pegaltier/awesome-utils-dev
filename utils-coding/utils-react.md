@@ -314,6 +314,7 @@
 - https://github.com/grahammendick/navigation
 - https://github.com/wix/react-native-ui-lib
 - https://github.com/henrhie/react-native-sha
+- https://github.com/hyochan/react-native-iap
 - https://github.com/necolas/react-native-web
 - https://github.com/zoontek/react-native-bars
 - https://github.com/Flipkart/recyclerlistview

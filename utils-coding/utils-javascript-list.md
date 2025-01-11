@@ -278,7 +278,8 @@
 - https://github.com/zemberdotnet/jsonl-db
 - https://github.com/StarlaneStudios/Surrealist
 
-## LIB: REQUEST
+## LIB: HTTP REQUEST / WEBSOCKET
+- https://github.com/vitalets/websocket-as-promised
 - https://github.com/node-fetch/node-fetch
 - https://github.com/alovajs/alova
 - https://github.com/axios/axios

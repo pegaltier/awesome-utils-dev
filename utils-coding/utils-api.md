@@ -138,6 +138,7 @@
 - https://aip.dev
 - http://feathersjs.com
 - https://www.gravitee.io
+- https://www.virustotal.com
 - https://github.com/aiven/klaw
 - https://github.com/Netflix/falcor
 - https://github.com/thevahidal/soul

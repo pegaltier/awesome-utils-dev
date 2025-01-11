@@ -198,7 +198,7 @@
 - https://github.com/tardis-dev/tardis-node
 - https://github.com/BennyThadikaran/eod2
 - https://github.com/BennyThadikaran/eod2_data
-- https://github.com/Leo4815162342/dukascopy-node
+- https://github.com/Leo4815162342/dukascopy-node *
 - https://github.com/ThetaData-API/thetadata-python
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 
@@ -751,6 +751,7 @@
 - https://github.com/8W9aG/fullmonte
 - https://github.com/skfolio/skfolio *
 - https://github.com/quantrocket-llc *
+- https://github.com/kjp22/quant_view
 - https://github.com/vsjha18/nsetools
 - https://github.com/polakowo/vectorbt *
 - https://github.com/erdewit/ib_insync
@@ -856,9 +857,11 @@
 - https://github.com/agiliumtrade-ai/
 - https://github.com/oransel/node-talib *
 - https://github.com/askmike/gekko *
+- https://github.com/debut-js/Core
 - https://github.com/stoqey/nitrogen
 - https://github.com/Seungwoo321/cats (grademark)
 - https://github.com/Flippo24/candles *
+- https://github.com/kjp22/quant_view *
 - https://github.com/jerryshell/midas *
 - https://github.com/fasenderos/bitify
 - https://github.com/nielse63/stonksjs
@@ -881,6 +884,7 @@
 - https://github.com/fasenderos/nestjs-ccxt
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/coin-unknown/Indicators *
+- https://github.com/coin-unknown/async-genetic
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/austin-starks/NextTrade *
@@ -904,6 +908,8 @@
 - https://github.com/fasenderos/hft-limit-order-book *
 - https://github.com/tiagosiebler/TriangularArbitrage
 - https://github.com/Hantama237/moontrade-algotrading
+- https://github.com/data-forge/data-forge-ts
+- https://github.com/data-forge/data-forge-indicators
 - https://github.com/Reiryoku-Technologies/Mida *
 - https://github.com/Reiryoku-Technologies/Mida-Playground
 - https://github.com/joshuapjacob/crypto-volatility-surface *

@@ -25,6 +25,7 @@
 - https://github.com/idank/explainshell
 - https://github.com/shellspec/shellspec
 - https://github.com/manifoldco/promptui
+- https://github.com/addyosmani/firew0rks
 - https://github.com/alebcay/awesome-shell
 - https://github.com/romkatv/powerlevel10k
 - https://github.com/adrianscheff/useful-sed

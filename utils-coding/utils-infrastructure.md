@@ -235,6 +235,7 @@
 - https://github.com/porter-dev/porter
 - https://github.com/armosec/kubescape
 - https://github.com/kudobuilder/kuttl
+- https://github.com/cyclops-ui/cyclops
 - https://github.com/canonical/microk8s
 - https://github.com/awesome-it/adeploy
 - https://github.com/yogeshkk/K8sPurger

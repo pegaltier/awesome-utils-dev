@@ -89,6 +89,7 @@
 - https://github.com/squareboat/nest-mailman
 - https://github.com/xmlking/ngx-starter-kit
 - https://github.com/squareboat/nest-storage
+- https://github.com/tkosminov/nestjs-example
 - https://github.com/coollerwind/nestjs-graphql
 - https://github.com/leosuncin/nest-api-example
 - https://github.com/squareboat/nest-eyewitness

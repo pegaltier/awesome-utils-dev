@@ -140,6 +140,7 @@
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
 - https://github.com/mxschmitt/try-playwright
+- https://github.com/vitalets/playwright-bdd
 - https://github.com/mxschmitt
 
 ## UTILS: PLAYWRIGHT LINKS

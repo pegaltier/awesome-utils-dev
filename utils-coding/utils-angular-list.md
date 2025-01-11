@@ -3004,6 +3004,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/ngiakhanh96/angular-youtube
 - https://github.com/wszgrcy/angular-miniprogram
 - https://github.com/jhoset/angular-spotify-clone
+- https://github.com/AhsanAyaz/ng-teleprompter-app
 - https://github.com/lacolaco/angular-tfjs-sandbox
 - https://github.com/HaasStefan/ngrx-leaky-backends
 - https://github.com/benlesh/add-features-with-rxjs
