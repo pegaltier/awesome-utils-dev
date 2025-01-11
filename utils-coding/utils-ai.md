@@ -221,6 +221,7 @@
 - https://github.com/gptscript-ai/gptscript
 - https://github.com/amplication/amplication
 - https://github.com/princeton-nlp/SWE-agent
+- https://github.com/stackblitz-labs/bolt.diy
 - https://github.com/eduardoleao052/js-pytorch
 - https://github.com/2-fly-4-ai/V0-system-prompt
 - https://github.com/coderabbitai/ai-pr-reviewer

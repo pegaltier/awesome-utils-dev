@@ -64,6 +64,8 @@
 - https://github.com/buger/goreplay
 - https://github.com/kffl/speedbump
 - https://github.com/locustio/locust
+- https://github.com/nut-tree/nut.js
+- https://github.com/puppeteer/puppeteer
 - https://github.com/codesenberg/bombardier
 - https://github.com/browserless/browserless
 - https://github.com/webhooksite/webhook.site
