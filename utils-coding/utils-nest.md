@@ -30,6 +30,7 @@
 - https://github.com/Papooch/decorate-all
 - https://github.com/jaredhanson/passport
 - https://github.com/nestjs/event-emitter
+- https://github.com/lupu60/nestjs-toolbox
 - https://github.com/it-gorillaz/configify
 - https://github.com/skunight/nestjs-redis
 - https://github.com/squareboat/nest-queue

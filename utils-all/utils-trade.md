@@ -728,7 +728,7 @@
 - https://github.com/taniman/profit-trailer
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/grantcolley/tradeview
-- https://github.com/Superalgos/Superalgos
+- https://github.com/Superalgos/Superalgos *
 - https://github.com/StockSharp/StockSharp
 - https://github.com/gabriel-milan/btrader
 - https://github.com/steeply/gbot-trader

@@ -652,7 +652,11 @@
 - https://github.com/metafizzy/infinite-scroll
 
 ## LIB: FRONTEND LAYOUT
+- https://github.com/mathuo/dockview
+- https://github.com/Tom-Rawlings/Resizable.js
 - https://github.com/golden-layout/golden-layout
+- https://github.com/ashduckett/PureJS-SplitterBar
+- https://github.com/stevereich/split-panel-layout
 
 ## LIB: FRONTEND DESIGN
 
@@ -668,7 +672,12 @@
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
 
-## LIB: FRONTEND TABLE / SPREADSHEET
+## LIB: FRONTEND DATA TABLE
+- https://github.com/uwdata/arquero
+- https://github.com/Gmousse/dataframe-js
+- https://github.com/javascriptdata/danfojs
+
+## LIB: FRONTEND UI TABLE / SPREADSHEET
 - https://github.com/exceljs/exceljs
 - https://github.com/gabrielpetersson/fast-grid
 
