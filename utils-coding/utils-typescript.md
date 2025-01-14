@@ -316,6 +316,7 @@ npm init
 - https://github.com/Goldziher/interfaceForge
 
 ## LIB: ERROR
+- https://github.com/vitalets/throw-utils
 - https://github.com/supermacro/neverthrow
 - https://github.com/skarab42/ts-pojo-error
 - https://github.com/ivanhofer/exceptionally

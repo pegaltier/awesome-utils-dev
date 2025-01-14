@@ -1,5 +1,10 @@
 # TESTING
 
+## LIST
+- https://github.com/mxschmitt/awesome-playwright
+- https://github.com/TheJambo/awesome-testing
+- https://github.com/omergulen/awesome-bdd
+
 ## BROWSER
 - https://github.com/kolodny/safetest
 - https://github.com/cypress-io/cypress
@@ -142,7 +147,12 @@
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
 - https://github.com/mxschmitt/try-playwright
+- https://github.com/mxschmitt/awesome-playwright
 - https://github.com/vitalets/playwright-bdd
+- https://github.com/vitalets/playwright-fix-with-ai
+- https://github.com/vitalets/playwright-magic-steps
+- https://github.com/vitalets/playwright-network-cache
+- https://github.com/vitalets/playwright-webhook-reporter
 - https://github.com/mxschmitt
 
 ## UTILS: PLAYWRIGHT LINKS

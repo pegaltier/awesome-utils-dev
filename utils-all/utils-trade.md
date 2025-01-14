@@ -686,6 +686,7 @@
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
+- https://github.com/Cloud9Trader/oanda-adapter
 - https://github.com/HuobiRDCenter/huobi_Python
 - https://github.com/PlusGenie/tbot-tradingboat
 - https://github.com/bennycode/coinbase-pro-node
@@ -897,6 +898,7 @@
 - https://github.com/imxeno/tradingview-scraper
 - https://github.com/focus1691/backtest-loop
 - https://github.com/focus1691/chart-patterns
+- https://github.com/vitalets/tinkoff-invest-api
 - https://github.com/focus1691/indicator-library * 
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
