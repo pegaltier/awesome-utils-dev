@@ -641,6 +641,7 @@
 - https://github.com/dingran/quant-notes
 - https://github.com/suenot/awesome-ccxt
 - https://github.com/shashankvemuri/Finance
+- https://github.com/moov-io/awesome-fintech
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/zazhang/ep-chan-book-algo-trading
 - https://github.com/tiagosiebler/awesome-crypto-examples
@@ -674,6 +675,7 @@
 - https://github.com/BingX-API
 - https://github.com/stoqey/ib *
 - https://github.com/ccxt/ccxt
+- https://github.com/knowm/XChange *
 - https://github.com/gateio/gateapi-nodejs *
 - https://github.com/alpacahq/alpaca-trade-api-js *
 - https://github.com/Kucoin/kucoin-node-sdk *
