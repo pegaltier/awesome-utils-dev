@@ -110,6 +110,9 @@
 - https://github.com/opendatalab/PDF-Extract-Kit
 - https://github.com/Stirling-Tools/Stirling-PDF
 
+## OSS: SPREADSHEET
+- https://github.com/gristlabs/grist-core
+
 ## OSS: PASSWORD
 - https://github.com/drduh/Purse
 - https://github.com/drduh/pwd.sh
@@ -179,6 +182,7 @@
 - https://github.com/bluesky-social/social-app
 - https://github.com/yoopta-editor/Yoopta-Editor
 - https://github.com/onetimesecret/onetimesecret
+- https://github.com/mattermost-community/focalboard
 
 # OSS: WEB
 - https://github.com/iamadamdev/bypass-paywalls-chrome

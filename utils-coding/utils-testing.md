@@ -146,6 +146,7 @@
 - https://github.com/jfgreffier/incroyable-playwright
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
+- https://github.com/browserbase/stagehand
 - https://github.com/mxschmitt/try-playwright
 - https://github.com/mxschmitt/awesome-playwright
 - https://github.com/vitalets/playwright-bdd

@@ -108,6 +108,10 @@
 - https://github.com/janhq/jan *
 - https://github.com/lencx/Noi
 
+## TOOLS: PROMPT ON WEB
+- https://github.com/ItzCrazyKns/Perplexica
+- https://github.com/zaidmukaddam/scira
+
 ## TOOLS: SUPPORT
 - https://www.mendable.ai/
 
@@ -187,6 +191,8 @@
 - https://fragments.e2b.dev/
 - https://screenshottocode.com/
 - https://cofounder.openinterface.ai/
+
+## TOOLS: CODING: OSS
 - https://github.com/pieces-app
 - https://github.com/cline/cline
 - https://github.com/e2b-dev/e2b
@@ -203,6 +209,7 @@
 - https://github.com/e2b-dev/fragments
 - https://github.com/Nutlope/aicommits
 - https://github.com/plandex-ai/plandex
+- https://github.com/Nutlope/llamacoder
 - https://github.com/MLSysOps/MLE-agent
 - https://github.com/Skyvern-AI/skyvern
 - https://github.com/paul-gauthier/aider
@@ -383,6 +390,10 @@
 ## LIB: DB
 - https://github.com/SuperDuperDB/superduperdb
 - https://github.com/postgresml/postgresml
+
+## LIB: WORKFLOW
+- https://github.com/n8n-io/n8n
+- https://github.com/FlowiseAI/Flowise
 
 ## LIB: NEURAL NETWORK
 - https://github.com/apple/corenet

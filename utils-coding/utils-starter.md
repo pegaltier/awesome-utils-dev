@@ -10,6 +10,7 @@
 ## Fullstack
 - https://github.com/CriticalMoments/CMSaasStarter
 - https://github.com/leerob/next-saas-starter
+- https://github.com/boxyhq/saas-starter-kit
 - https://github.com/epicweb-dev/epic-stack
 - https://github.com/nicoalbanese/kirimase
 - https://github.com/neekware/fullerstack
