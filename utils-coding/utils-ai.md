@@ -544,6 +544,7 @@
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/eumemic/ai-legion
 - https://github.com/meta-llama/llama3
+- https://github.com/OpenBMB/MiniCPM-o
 - https://github.com/karpathy/LLM101n
 - https://github.com/codelion/optillm
 - https://github.com/jmorganca/ollama

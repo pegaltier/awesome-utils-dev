@@ -554,6 +554,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/disposable-email-domains/disposable-email-domains
 
 ## CREATIVE TOOLS
+- https://github.com/tengbao/vanta
 - https://github.com/luruke/aladino
 - https://github.com/gmrchk/blobity
 - https://github.com/veltman/flubber

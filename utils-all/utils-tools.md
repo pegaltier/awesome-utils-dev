@@ -167,6 +167,7 @@
 - https://github.com/CapSoftware/cap
 - https://github.com/makeplane/plane
 - https://github.com/outline/outline
+- https://github.com/campsite/campsite
 - https://github.com/metamaps/metamaps
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo

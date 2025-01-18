@@ -702,6 +702,10 @@
 ## LIB: FRONTEND GESTURE
 - https://github.com/pmndrs/use-gesture
 
+## LIB: FRONTEND SCHEMAS
+- https://github.com/terrastruct/d2
+- https://github.com/mermaid-js/mermaid
+
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus
 - https://github.com/Leaflet/Leaflet

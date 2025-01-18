@@ -78,6 +78,9 @@
 - https://github.com/4lejandrito/fetchbook
 - https://github.com/cszatmary/passport-mock-strategy
 
+## LIBS: TEMPLATE
+- https://github.com/SocketSomeone/nestjs-open-source-template
+
 ## EXAMPLE
 - https://github.com/adisreyaj/adi
 - https://github.com/nartc/nest-mean
