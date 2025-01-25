@@ -423,6 +423,7 @@
 
 ## LIB: CACHING
 - https://github.com/thinkloop/memoizerific
+- https://github.com/dai-shi/proxy-memoize
 - https://github.com/epicweb-dev/cachified
 - https://github.com/erikras/lru-memoize
 
@@ -496,6 +497,7 @@
 - https://github.com/AgentEnder/markdown-factory
 - https://github.com/micromark/micromark
 - https://github.com/Milkdown/milkdown
+- https://github.com/stoyan/Lizzy.js
 - https://github.com/typst/typst
 
 ## LIB: SWIPER
@@ -740,6 +742,7 @@
 - https://github.com/plotly/plotly.js
 - https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
+- https://github.com/pa7/heatmap.js
 - https://github.com/danvk/dygraphs
 - https://github.com/mdaines/viz-js
 - https://github.com/d3fc/d3fc

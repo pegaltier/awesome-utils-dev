@@ -100,6 +100,7 @@
 - https://github.com/brandonroberts/analog-nest
 - https://github.com/Aginix/nestjs-firebase-admin
 - https://github.com/squareboat/nest-notifications
+- https://github.com/unlight/prisma-nestjs-graphql
 - https://github.com/squareboat/nestjs-boilerplate
 - https://github.com/javascript-dragons/nest-event
 - https://github.com/juanmesa2097/nestjs-boilerplate

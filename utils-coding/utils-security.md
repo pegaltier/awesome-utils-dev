@@ -83,6 +83,7 @@
 - https://github.com/DontPanicO/jwtXploiter
 - https://github.com/MCRcortex/nekodetector
 - https://github.com/boringtools/git-alerts
+- https://github.com/sammwyy/MikuMikuBeam
 - https://github.com/google/csp-evaluator
 - https://github.com/chromium/badssl.com
 - https://github.com/mitmproxy/mitmproxy

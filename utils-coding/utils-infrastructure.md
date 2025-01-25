@@ -117,18 +117,19 @@
 - https://github.com/inconshreveable/ngrok
 - https://github.com/anderspitman/awesome-tunneling
 
-## TOOLS: MONITORING / OBSERVABILITY / LOGGING / REPLAYING
-- https://github.com/Optibus/playback-ts
+## TOOLS: MONITORING / OBSERVABILITY / LOGGING / REPLAYING / TELEMETRY
+- https://github.com/open-telemetry/opentelemetry-js
+- https://github.com/bluewave-labs/checkmate
 - https://github.com/openobserve/openobserve
 - https://github.com/openreplay/openreplay
-- https://github.com/influxdata/influxdb
-- https://github.com/hyperdxio/hyperdx
-- https://github.com/bluewave-labs/checkmate
-- https://github.com/lyc8503/UptimeFlare
 - https://github.com/louislam/uptime-kuma
+- https://github.com/lyc8503/UptimeFlare
+- https://github.com/Optibus/playback-ts
+- https://github.com/influxdata/influxdb
 - https://github.com/oneuptime/oneuptime
 - https://github.com/IKatsuba/openstatus
 - https://github.com/asynkron/TraceLens
+- https://github.com/hyperdxio/hyperdx
 - https://github.com/grafana/grafana
 - https://github.com/keephq/keep
 - https://github.com/TwiN/gatus

@@ -1,8 +1,9 @@
 # AI
 
-## NEWS
+## NEWS / LEARN
 - https://github.com/osanseviero/ml_timeline
 - https://9elements.com/blog/ai-glossary
+- https://www.agentrecipes.com/
 - https://www.superhuman.ai
 - https://www.therundown.ai
 - https://www.fast.ai
@@ -226,6 +227,7 @@
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
 - https://github.com/gptscript-ai/gptscript
+- https://github.com/All-Hands-AI/OpenHands
 - https://github.com/amplication/amplication
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/stackblitz-labs/bolt.diy
@@ -320,6 +322,7 @@
 ## TOOLS: FINANCE
 - https://gptstonks.net/
 - https://github.com/FutureSharks/ml-finance
+- https://github.com/hackingthemarkets/ai-hedge-fund
 - https://github.com/tradingstrategy-ai/trading-strategy
 
 ## IMAGES API
@@ -425,13 +428,16 @@
 - https://github.com/projectdiscovery/katana
 - https://github.com/supermemoryai/markdowner
 
-## LIB: RAG / CONTEXT
+## LIB: RAG / CONTEXT / INGESTION
 - https://github.com/ragapp/ragapp
 - https://github.com/weaviate/Verba
 - https://github.com/HKUDS/LightRAG
+- https://github.com/getomni-ai/zerox
 - https://github.com/Cinnamon/kotaemon
+- https://github.com/tmccombs/hcl2json
 - https://github.com/microsoft/graphrag
 - https://github.com/promptfoo/promptfoo
+- https://github.com/BuilderIO/gpt-crawler
 - https://github.com/run-llama/llama_index
 - https://github.com/run-llama/llama_parse
 - https://github.com/adithya-s-k/omniparse
@@ -467,7 +473,6 @@
 - https://github.com/danny-avila/LibreChat
 - https://github.com/abacaj/chatgpt-backup
 - https://github.com/pytorch-labs/gpt-fast
-- https://github.com/BuilderIO/gpt-crawler
 - https://github.com/vincelwt/chatgpt-mac
 - https://github.com/imartinez/privateGPT
 - https://github.com/melih-unsal/DemoGPT
@@ -505,6 +510,7 @@
 - https://github.com/vercel/ai-chatbot
 
 ## LIB: LLM
+- https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
 - https://github.com/richards199999/Thinking-Claude
 - https://github.com/ColinEberhardt/langchain-mini
 - https://github.com/GoogleCloudPlatform/localllm
@@ -526,6 +532,7 @@
 - https://github.com/LargeWorldModel/LWM
 - https://github.com/dataelement/bisheng
 - https://github.com/NVIDIA/TensorRT-LLM
+- https://github.com/langwatch/langwatch
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
 - https://github.com/arobey1/smooth-llm
@@ -697,7 +704,9 @@
 
 ## LIB: BROWSER
 - https://github.com/addyosmani/chatty
+- https://github.com/lightpanda-io/browser
 - https://github.com/browserbase/stagehand
+- https://github.com/browser-use/browser-use
 
 ## LIB: GAME
 - https://github.com/a16z-infra/ai-town

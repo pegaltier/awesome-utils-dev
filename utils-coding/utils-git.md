@@ -119,6 +119,7 @@
 - https://github.com/mtfoley/pr-compliance-action
 - https://github.com/styfle/cancel-workflow-action
 - https://github.com/fountainhead/action-wait-for-check
+- https://github.com/jaxxstorm/action-install-gh-release
 - https://github.com/SanjulaGanepola/github-local-actions
 
 ## ACTIONS: EXT

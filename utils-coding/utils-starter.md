@@ -15,6 +15,7 @@
 - https://github.com/nicoalbanese/kirimase
 - https://github.com/neekware/fullerstack
 - https://github.com/chartbrew/chartbrew
+- https://github.com/nextjs/saas-starter
 - https://github.com/wasp-lang/open-saas
 - https://github.com/ocluf/justship
 - https://github.com/midday-ai/v1

@@ -878,6 +878,7 @@
 - https://github.com/focus1691/orderflow
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
+- https://github.com/rubenafo/trendyways
 - https://github.com/tvjsx/trading-vue-js *
 - https://github.com/backtestjs/framework *
 - https://github.com/coinranking/exchanges
@@ -894,7 +895,7 @@
 - https://github.com/chalupagrande/backtester
 - https://github.com/tiagosiebler/bitmart-api
 - https://github.com/andrewbaronick/BacktestJS *
-- https://github.com/bennycode/trading-signals
+- https://github.com/bennycode/trading-signals *
 - https://github.com/gadicc/node-yahoo-finance2 *
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
@@ -920,6 +921,7 @@
 - https://github.com/aloysius-pgast/crypto-exchanges-gateway *
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
 - https://github.com/excelsior-creative/edc-backtester (grademark)
+- https://github.com/Adamant-im/adamant-coinoptimus
 - https://github.com/472647301/tradingview-web-socket
 - https://github.com/anandanand84/technicalindicators *
 - https://github.com/Cloud9Trader/TechnicalIndicators

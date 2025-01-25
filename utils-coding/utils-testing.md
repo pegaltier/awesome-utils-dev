@@ -22,6 +22,7 @@
 - https://github.com/karatelabs/karate
 - https://github.com/mcollina/autocannon
 - https://github.com/Orange-OpenSource/hurl
+- https://github.com/schemathesis/schemathesis
 
 ## COMPARATIVE
 
@@ -133,7 +134,10 @@
 - https://github.com/CypressCecelia/cypress-testing-angular-workshop
 - https://github.com/cypress-visual-regression/cypress-visual-regression
 
-## UTILS: PLAYWRIGHT REPO
+## UTILS: PLAYWRIGHT LIST
+- https://github.com/mxschmitt/awesome-playwright
+
+## UTILS: PLAYWRIGHT TOOLS
 - https://github.com/playwrightsolutions/playwright-practicesoftwaretesting.com
 - https://github.com/playwrightsolutions/playwright-api-test-demo
 - https://github.com/playwrightsolutions/playwright-json-summary-reporter
@@ -147,13 +151,15 @@
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
 - https://github.com/browserbase/stagehand
+- https://github.com/BuilderIO/gpt-crawler
 - https://github.com/mxschmitt/try-playwright
-- https://github.com/mxschmitt/awesome-playwright
 - https://github.com/vitalets/playwright-bdd
 - https://github.com/vitalets/playwright-fix-with-ai
 - https://github.com/vitalets/playwright-magic-steps
 - https://github.com/vitalets/playwright-network-cache
 - https://github.com/vitalets/playwright-webhook-reporter
+- https://github.com/berstend/puppeteer-extra
+- https://github.com/DyHex/POMWright
 - https://github.com/mxschmitt
 
 ## UTILS: PLAYWRIGHT LINKS

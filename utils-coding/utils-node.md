@@ -60,6 +60,7 @@
 
 ## STARTER / EXAMPLE
 - https://github.com/9renpoto/.59-node
+- https://github.com/bennycode/ts-node-starter
 - https://github.com/jhoset/nodejs-spotify-server
 - https://github.com/bezkoder/node-js-mssql-crud-example
 - https://github.com/studiohyperdrive/nodejs-boilerplate
@@ -237,6 +238,7 @@
 ## LIBS: DOM
 - https://github.com/capricorn86/happy-dom
 - https://github.com/marko-js/writable-dom
+- https://github.com/webqit/realdom
 - https://github.com/fgnass/domino
 
 ## LIBS: SERVERLESS
