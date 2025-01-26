@@ -521,6 +521,7 @@
 - https://github.com/mit-han-lab/streaming-llm
 - https://github.com/sgomez/ollama-ai-provider
 - https://github.com/jose-donato/ollama-reply *
+- https://github.com/deepseek-ai/DeepSeek-V3
 - https://github.com/run-llama/LlamaIndexTS
 - https://github.com/Mozilla-Ocho/llamafile
 - https://github.com/Lightning-AI/lit-llama
@@ -535,12 +536,13 @@
 - https://github.com/langwatch/langwatch
 - https://github.com/neulab/prompt2model
 - https://github.com/eugeneyan/open-llms
+- https://github.com/alibaba/data-juicer
+- https://github.com/hwchase17/langchain
 - https://github.com/arobey1/smooth-llm
 - https://github.com/docker/genai-stack
 - https://github.com/mnotgod96/AppAgent
 - https://github.com/jzhang38/TinyLlama
-- https://github.com/alibaba/data-juicer
-- https://github.com/hwchase17/langchain
+- https://github.com/Jiayi-Pan/TinyZero
 - https://github.com/Giskard-AI/giskard
 - https://github.com/nat/openplayground
 - https://github.com/reactorsh/ambrosia

@@ -109,6 +109,7 @@ npm init
 - https://github.com/bloomberg/ts-blank-space
 - https://github.com/SuperchupuDev/tinyglobby
 - https://github.com/phenomnomnominal/betterer
+- https://github.com/nicojs/type-annotationify
 - https://github.com/privatenumber/get-tsconfig
 - https://github.com/saurabhdaware/typescript-run
 - https://github.com/DavidWells/types-with-jsdocs
