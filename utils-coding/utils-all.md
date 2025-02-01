@@ -4,6 +4,7 @@
 - https://js.do/
 - https://kodes.app/
 - https://jsfiddle.net/
+- https://trendshift.io/
 - https://stackblitz.com
 - https://app.diagrams.net/
 - https://missing.csail.mit.edu/
@@ -41,6 +42,7 @@
 - https://github.com/devpato/tech-podcasts-list
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/ryanburgess/engineer-manager
+- https://github.com/patchy631/ai-engineering-hub
 - https://github.com/kitspace/awesome-electronics
 - https://github.com/zudochkin/awesome-newsletters
 - https://github.com/tuvtran/project-based-learning

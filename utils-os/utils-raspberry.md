@@ -5,6 +5,7 @@
 ## Utils
 - https://pinout.xyz/
 - https://umbrel.com/
+- https://www.home-assistant.io/green/
 - https://www.raspberrypi.com/software/
 
 ## RabbitMQ
@@ -46,6 +47,7 @@ crontab -l ==> show
 - https://github.com/thibmaek/awesome-raspberry-pi
 - https://github.com/geerlingguy/internet-pi
 - https://github.com/dymayday/raspberry-pi
+- https://github.com/home-assistant/core
 - https://github.com/pi-hosted/pi-hosted
 - https://github.com/sergkhl/rpi-utils
 

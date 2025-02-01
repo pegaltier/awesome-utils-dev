@@ -31,6 +31,7 @@
 - https://coincodecap.com
 - https://thetie.io/coins
 - https://www.moonmath.win
+- https://app.solidproof.io
 - https://data.bitcoinity.org
 - https://www.coinsignals.trade
 - https://chainspect.app/dashboard
@@ -63,6 +64,7 @@
 - https://github.com/near/create-near-app
 - https://github.com/reed-hong/awesome-libra
 - https://github.com/asgardex/asgard-exchange
+- https://github.com/StephenFluin/smart-store
 - https://github.com/anders94/blockchain-demo
 - https://github.com/startfellows/tonapi-sdk-js
 - https://github.com/h20liquidity/neighbourhoods
@@ -381,6 +383,8 @@
 - https://intro.cybex.io/
 - https://www.taoshi.io/
 - https://hyperfoundation.org/
+- https://docs.gridix.fi/gridix-docs
+- https://github.com/rlf89/New-token-tracker
 
 ## SWAP: CROSS-CHAIN MULTI-CHAIN
 - https://solswap.org/
@@ -666,11 +670,14 @@ PANTOS — - https://pantos.io
 
 ## MEMES: LAUNCH
 - https://pump.fun/
+- https://blnk.fun/
 - https://four.meme/
+- https://clank.fun/
 - https://dumpy.fun/
 - https://ape.express/
 - https://taraxa.fun/
 - https://www.snek.fun/
+- https://www.daos.fun/
 - https://meme.cooking/
 - https://sunpump.meme/
 - https://movepump.com/
@@ -684,6 +691,7 @@ PANTOS — - https://pantos.io
 - https://loveai.xyz/
 - https://creator.bid/
 - https://griffain.com/
+- https://kira.trading/
 - https://arataagi.org/
 - https://fomo.fund/home
 - https://www.cookie.fun/

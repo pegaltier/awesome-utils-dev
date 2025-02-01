@@ -79,6 +79,7 @@
 - https://webllm.mlc.ai/
 - https://nitro.jan.ai/
 - https://www.phind.com/
+- https://chat.qwenlm.ai/
 - https://chat.openai.com/
 - https://www.deepseek.com/
 - https://www.perplexity.ai/
@@ -143,6 +144,7 @@
 - https://play.botscript.ai/
 - https://copilot.github.com/
 - https://www.sqltranslate.app/
+- https://www.verticalstudio.ai/
 - https://www.literallyanything.io/
 - http://playground.tensorflow.org/
 - https://github.com/clmnin/summarize.site
@@ -177,6 +179,7 @@
 - https://uizard.io/
 - https://debuild.co/
 - https://codegpt.co/
+- https://lovable.dev/
 - https://voideditor.com/
 - https://www.cursor.com/
 - https://www.devgpt.com/
@@ -266,6 +269,7 @@
 ## TOOLS: IMAGE
 - https://fal.ai/
 - https://kiri.art/
+- https://geospy.ai/
 - https://pika.art/
 - https://megapix.ai/
 - https://openart.ai/
@@ -349,6 +353,7 @@
 - https://github.com/neuml/txtai
 - https://github.com/qdrant/qdrant
 - https://github.com/CarperAI/trlx
+- https://github.com/disler/benchy
 - https://github.com/marqo-ai/marqo
 - https://github.com/deepset-ai/FARM
 - https://github.com/yeuai/botscript
@@ -382,6 +387,9 @@
 ## LIB: REAL TIME
 - https://github.com/nickscamara/firecrawl-openai-realtime
 
+## LIB: RECOMMENDATION
+- https://github.com/bytedance/monolith
+
 ## LIB: MEMORY
 - https://github.com/mem0ai/mem0
 
@@ -409,6 +417,7 @@
 - https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
 - https://github.com/reworkd/AgentGPT
+- https://github.com/Thytu/Agentarium
 - https://github.com/botpress/botpress
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
@@ -432,11 +441,13 @@
 - https://github.com/ragapp/ragapp
 - https://github.com/weaviate/Verba
 - https://github.com/HKUDS/LightRAG
+- https://github.com/jina-ai/reader
 - https://github.com/getomni-ai/zerox
 - https://github.com/Cinnamon/kotaemon
 - https://github.com/tmccombs/hcl2json
 - https://github.com/microsoft/graphrag
 - https://github.com/promptfoo/promptfoo
+- https://github.com/cyclotruc/gitingest
 - https://github.com/BuilderIO/gpt-crawler
 - https://github.com/run-llama/llama_index
 - https://github.com/run-llama/llama_parse
@@ -521,6 +532,7 @@
 - https://github.com/mit-han-lab/streaming-llm
 - https://github.com/sgomez/ollama-ai-provider
 - https://github.com/jose-donato/ollama-reply *
+- https://github.com/deepseek-ai/DeepSeek-R1
 - https://github.com/deepseek-ai/DeepSeek-V3
 - https://github.com/run-llama/LlamaIndexTS
 - https://github.com/Mozilla-Ocho/llamafile
@@ -574,7 +586,6 @@
 - https://github.com/OpenBMB/XAgent
 - https://github.com/artidoro/qlora
 - https://github.com/truera/trulens
-- https://github.com/comet-ml/opik
 - https://github.com/AkeruAI/akeru
 - https://github.com/lmnr-ai/lmnr
 - https://github.com/janhq/cortex
@@ -584,6 +595,7 @@
 - https://github.com/01-ai/Yi
 
 ## LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR
+- https://github.com/comet-ml/opik
 - https://github.com/Helicone/helicone
 - https://github.com/traceloop/openllmetry-js
 
@@ -672,6 +684,7 @@
 
 ## LIB: ORCHESTRATION
 - https://github.com/openai/swarm
+- https://github.com/awslabs/multi-agent-orchestrator
 
 ## LIB: TEXT / TRANSLATION
 - https://github.com/clusterzx/paperless-ai

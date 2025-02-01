@@ -158,16 +158,20 @@
 - https://fly.io/
 
 ## HOST SERVICES OSS / SELF HOSTED
+- https://github.com/benbristow/dokploy-compose-templates
+- https://github.com/benbristow/dokploy-deploy-action
+- https://github.com/jmischler72/dokploy-deploy-action
 - https://github.com/azukaar/Cosmos-Server
 - https://github.com/coollabsio/coolify
 - https://github.com/newsnowlabs/runcvm
 - https://github.com/mbecker20/komodo
 - https://github.com/Dokploy/dokploy
 - https://github.com/basecamp/kamal
+- https://github.com/dokku/dokku
 - https://github.com/taubyte/tau
 - https://youtu.be/mznYKPvhcfw
 - https://youtu.be/taJlPG82Ucw
-
+- https://www.pikapods.com/
 
 ## NGINX
 - https://github.com/fcambus/nginx-resources

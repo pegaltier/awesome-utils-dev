@@ -85,6 +85,32 @@ Being single-threaded, JS uses the concept of Event Loop to create the idea of r
 - https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168
 - https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 
+### VALUE VS REFERENCE
+
+- The typeof value assigned to a variable decides whether the value is stored with assign-by-value or assign-by-reference 
+- On variable assignment, the scalar primitive values (Number, String, Boolean, undefined, null, Symbol) are assigned-by-value and compound values (Object, Array) are assigned-by-reference
+- In JavaScript, scalar primitive values (Number, String, Boolean, undefined, null, Symbol) are immutable and compound values (Object, Array) are mutable
+
+- https://www.sitepoint.com/how-javascript-references-work
+- https://medium.com/@naveenkarippai/learning-how-references-work-in-javascript-a066a4e15600 ***
+- https://medium.com/front-end-weekly/understanding-pass-by-value-and-pass-by-reference-in-javascript-8e2a0806b175
+
+```javascript
+// example assign-by-value
+var batman = 7;
+var superman = batman;   // assign-by-value
+superman++;
+console.log(batman);     // 7
+console.log(superman);   // 8
+
+// example assign-by-reference
+var flash = [8,8,8];
+var quicksilver = flash;   // assign-by-reference
+quicksilver.push(0);
+console.log(flash);        // [8,8,8,0]
+console.log(quicksilver);  // [8,8,8,0]
+```
+
 ### ARRAYS
 
 - use forEach/map/filter/reduce FIRST, only when there's an EXCEPTION do use a for loop. Exceptions include break (can't even remember the last time I used one) or async/await.

@@ -226,6 +226,8 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 - https://blog.simplified.courses/angular-state-management-best-practices/
 - https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/
 - https://www.youtube.com/watch?v=OhuRvfcw3Tw TOP 6 Mistakes in RxJS code
+- https://medium.com/coreteq/slots-make-your-angular-api-flexible-89e707ffae4c
+- https://slides.com/doguhanuluca/architecture-for-scalable-angular-apps#/2
 
 ## HELPER: DESIGN PATTERN
 
@@ -2851,6 +2853,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/coreui/coreui-angular (TOADD)
 - https://github.com/Trendyol/baklava (TOADD)
 - https://github.com/etn-ccis/blui-angular-component-library (TOADD)
+- https://github.com/allianz/ng-aquila (TOADD)
 - https://github.com/acrodata/gui (TOADD)
 - https://github.com/Rikarin/xui (TOADD)
 - https://github.com/acrodata/gui (TOADD)
@@ -3030,6 +3033,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/jakovljevic-mladen/ng-pagination-rx-streams
 - https://github.com/brandonroberts/analog-angular-storybook-vite
 - https://github.com/oktadev/okta-angular-dynamic-components-example
+- https://github.com/astritshuli/UFO-Animation-3D-Angular-19-ThreeJS
 - https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample
 - https://github.com/angular-experts-io/angular-enterprise-architecture-example
 

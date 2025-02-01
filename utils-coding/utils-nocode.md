@@ -58,6 +58,7 @@ low-code tooling to prototype fastly.
 - https://github.com/nocodb/nocodb
 - https://github.com/paxdotdev/pax
 - https://github.com/google/blockly
+- https://github.com/getmaxun/maxun
 - https://github.com/BuilderIO/qwik
 - https://github.com/lowdefy/lowdefy
 - https://github.com/ToolJet/ToolJet

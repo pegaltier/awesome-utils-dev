@@ -546,6 +546,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/knadh/listmonk
 - https://github.com/shellscape/jsx-email
 - https://github.com/zenorocha/react-email
+- https://github.com/postalsys/postal-mime
 - https://github.com/tomayac/dark-mode-email
 - https://github.com/bbulakh/ecommerce-email
 - https://github.com/Kikobeats/free-email-domains

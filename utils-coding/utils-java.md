@@ -126,7 +126,7 @@
 ## LIBS: TOOLS
 - https://github.com/shyiko/jabba
 - https://github.com/facebook/infer
- https://github.com/openrewrite/rewrite
+- https://github.com/openrewrite/rewrite
 - https://github.com/jhipster/prettier-java
 - http://www.javadecompilers.com/
 
@@ -169,11 +169,33 @@
 
 Use nullable instead of ternary operator: LocalDate dateTime = Optional.ofNullable(offerDate).map(LocalDateTime::toLocalDate).orElseGet(LocalDate::now);
 
-## STREAM
+## SNIPPETS
 
-Transform List<MyObject> to Map<String, List<MyObject>>
+```java
 
+// Find by object key
+// https://stackoverflow.com/questions/33992479/java-8-stream-api-to-find-unique-object-matching-a-property-value
+Optional<Person> matchingObject = objects.stream().
+    filter(p -> p.email().equals("testemail")).
+    findFirst(); // can also be: findAny() and .orElse(null)
+
+// Transform List<MyObject> to Map<String, List<MyObject>>
+// https://stackoverflow.com/questions/48587730/converting-listmyobject-to-mapstring-liststring-in-java-8-when-we-have-du
 Map<String, List<MyObject>> rows = list.stream().collect(
         Collectors.toMap(element -> element.personalId, 
         element -> new ArrayList<MyObject>(Arrays.asList(element))));
 
+// Check if all values in a boolean array are true
+// https://stackoverflow.com/questions/8260881/what-is-the-most-elegant-way-to-check-if-all-values-in-a-boolean-array-are-true
+boolean isAllTrue = Arrays.asList(myArray).stream().allMatch(val -> val == true);
+// shorter
+boolean isAllTrue = Arrays.stream(myArray).allMatch(Boolean::valueOf);
+
+// Filter list distincted by property and ordered by value
+// https://stackoverflow.com/questions/53636700/good-way-to-filter-list-distincted-by-property-and-ordered-by-date
+List<Person> finalList = new ArrayList<>(people.stream()
+        .collect(Collectors.toMap(a -> a.getName().toLowerCase(),  // name in lowercase as the key of the map (uniqueness)
+                Function.identity(), // corresponding Person as value
+                (person, person2) -> person.getDate().isAfter(person2.getDate()) ? person : person2)) // merge in case of same name based on which date is after the other
+        .values()); // fetch the values
+```

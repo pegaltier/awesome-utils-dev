@@ -681,6 +681,8 @@
 
 ## LIB: FRONTEND UI TABLE / SPREADSHEET
 - https://github.com/exceljs/exceljs
+- https://github.com/dream-num/Luckysheet
+- https://github.com/ruilisi/fortune-sheet
 - https://github.com/gabrielpetersson/fast-grid
 
 ## LIB: FRONTEND ANIMATION
@@ -1002,6 +1004,9 @@
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
 - https://github.com/memetic-institute/The-Fed
+
+## LIB: FORM
+- https://github.com/heyform/heyform
 
 ## ALLIN
 - https://github.com/vendure-ecommerce/vendure

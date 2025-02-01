@@ -8,6 +8,7 @@
 - https://github.com/aptabase/aptabase
 - https://github.com/plausible/analytics
 - https://github.com/umami-software/umami
+- https://github.com/ClickHouse/ClickHouse
 - https://github.com/benvinegar/counterscale
 
 ## Tools

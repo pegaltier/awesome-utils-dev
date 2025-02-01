@@ -66,6 +66,7 @@
 - https://www.championteamtrading.com/
 - https://www.quantalphaalgorithms.com/
 - https://www.quantifiedstrategies.com/
+- https://www.statsedgetrading.com/
 - https://www.bluecapitaltrading.com/
 - https://www.ziontradingalgos.com/ *
 - https://www.reallifetrading.com/
@@ -100,6 +101,7 @@
 ## SITES: CRYPTO
 - https://folkvang.io/
 - https://wintermute.com/
+- https://alphractal.com/
 - https://www.altrady.com/
 - https://quantumvoid.org/
 - https://www.dwf-labs.com/
@@ -644,6 +646,7 @@
 - https://github.com/moov-io/awesome-fintech
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/zazhang/ep-chan-book-algo-trading
+- https://github.com/quant-science/sunday-quant-scientist
 - https://github.com/tiagosiebler/awesome-crypto-examples
 - https://github.com/valeman/awesome-conformal-prediction
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
@@ -783,6 +786,7 @@
 - https://github.com/ig-python/trading-ig
 - https://github.com/gordonwoon/algo-dash
 - https://github.com/ivopetiz/algotrading *
+- https://github.com/TA-Lib/ta-lib-python *
 - https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ilcardella/TradingBot
@@ -791,6 +795,7 @@
 - https://github.com/QuantJourneyOrg/public *
 - https://github.com/blankly-finance/blankly
 - https://github.com/algobulls/pyalgotrading
+- https://github.com/quantrocket-llc/moonshot
 - https://github.com/yasinkuyu/binance-trader
 - https://github.com/stefmolin/stock-analysis
 - https://github.com/je-suis-tm/quant-trading *
@@ -853,8 +858,13 @@
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/techfreaque/octobot-lorentzian-classification
 
+### OSS: JAVASCRIPT: INDICATORS
+- https://github.com/kaelzhang/finmath
+- https://github.com/munrocket/ta-math
+
 ### OSS: JAVASCRIPT
 - https://npm.io/search/keyword:forex
+- https://github.com/fugle-dev
 - https://github.com/Tucsky/aggr
 - https://github.com/tvjsx/tvjs-xp
 - https://github.com/agiliumtrade-ai/
@@ -892,6 +902,7 @@
 - https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/austin-starks/NextTrade *
+- https://github.com/JeffreyHyer/grandmaster
 - https://github.com/chalupagrande/backtester
 - https://github.com/tiagosiebler/bitmart-api
 - https://github.com/andrewbaronick/BacktestJS *
@@ -907,6 +918,7 @@
 - https://github.com/Adamant-im/adamant-tradebot
 - https://github.com/dearvn/tradovate-trading-bot
 - https://github.com/Haehnchen/crypto-trading-bot *
+- https://github.com/fugle-dev/fugle-backtest-node
 - https://github.com/valamidev/candlestick-convert *
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/BitgetLimited/v3-bitget-api-sdk *
@@ -943,9 +955,10 @@
 
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
 - https://github.com/virattt/ai-hedge-fund
-- https://github.com/LiamConnell/deep-algotrading/
 - https://github.com/AI4Finance-Foundation/FinRL
 - https://github.com/tensortrade-org/tensortrade
+- https://github.com/LiamConnell/deep-algotrading/
+- https://github.com/ccroft6/Technical_Indicator_Analysis_ML
 
 ## SOCIAL
 - https://www.andlil.com/forum/

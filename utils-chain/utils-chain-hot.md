@@ -6,7 +6,7 @@
 post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distributed apps, scalable blockchain, after bitcoin
 
 ## HOLO DEV LINKS
-
+- https://hackmd.io/@hololtd
 - https://developer.holochain.org/
 - https://github.com/holochain/HoloWorld
 - https://github.com/holochain/dna-to-openapi

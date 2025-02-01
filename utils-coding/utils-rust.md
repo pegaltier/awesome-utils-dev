@@ -44,6 +44,7 @@
 
 ## LIB
 - https://github.com/crabnebula-dev/cargo-packager
+- https://github.com/alexpasmantier/television
 - https://github.com/hyperlight-dev/hyperlight
 - https://github.com/Totodore/socketioxide
 - https://github.com/bnjbvr/cargo-machete

@@ -95,6 +95,7 @@
 - https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples
 - https://www.stackhero.io/en-fr/services/Node-js/documentations/Cron-jobs
 - https://docs.netlify.com/functions/scheduled-functions/
+- https://github.com/SGrondin/bottleneck
 - https://cronitor.io/guides/node-cron-jobs
 - https://www.defer.run/blog/nodejs-cron
 - https://vercel.com/docs/cron-jobs

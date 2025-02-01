@@ -369,6 +369,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://stonehillforex.com/2024/09/chaikin-volatility-as-a-volume-indicator/
 - https://markrbest.github.io/reading-list/
 - https://tradingindicators.com/
+- https://github.com/paperswithbacktest
 - https://www.tradingwithrayner.com/inside-bar/
 - https://www.buildalpha.com/intraday-edge/
 - https://www.buildalpha.com/free-friday-11-sample-size/ (eurusd)
@@ -390,6 +391,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://www.quantifiedstrategies.com/macd-and-rsi-strategy/
 - https://www.quantitativo.com/p/long-and-short-mean-reversion-machine
 - https://www.quantitativo.com/p/a-mean-reversion-strategy-from-first
+- https://www.quantitativo.com/p/intraday-momentum-for-es-and-nq
 - https://www.quantitativo.com/p/coding-live-forward-tests
 - https://quantjourney.substack.com/p/quantitative-strategy-analysis-volatility
 - https://medium.datadriveninvestor.com/profit-like-a-pro-a-practical-guide-to-backtesting-and-optimizing-trading-strategies-with-vectorbt-8ade621a4e14
@@ -409,6 +411,8 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4416622
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966272
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001821
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824172
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990063
 - https://financial-hacker.com/ehlers-ultimate-smoother/#more-4717
 
 ## STRATEGY: LIST

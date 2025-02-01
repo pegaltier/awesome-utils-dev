@@ -31,6 +31,10 @@ pip -V
 
 ```
 
+## ENV
+- https://thenewstack.io/why-every-python-dev-needs-virtual-environments-now/
+
+
 ## HTTP Request
 
 - https://www.geeksforgeeks.org/get-post-requests-using-python/

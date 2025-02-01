@@ -54,6 +54,7 @@
 
 ## Notifications
 - https://github.com/binwiederhier/ntfy
+- https://github.com/vasanthv/ahey
 - https://github.com/novuhq/novu
 - https://onesignal.com/
 - https://pushover.net/

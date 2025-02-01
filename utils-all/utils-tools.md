@@ -96,6 +96,7 @@
 - https://github.com/spotDL/spotify-downloader
 
 ## OSS: VIDEO
+- https://github.com/Ihsan172/Vanced
 - https://github.com/CapSoftware/Cap
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
@@ -133,7 +134,10 @@
 - https://github.com/UseInterstellar/Interstellar
 - https://github.com/abhinavsingh/proxy.py
 - https://github.com/ProxymanApp/Proxyman
+- https://github.com/requestly/requestly
 - https://github.com/connet-dev/connet
+- https://www.telerik.com/fiddler
+- https://www.charlesproxy.com/
 
 ## OSS: COMPANY / STARTUP
 - https://github.com/midday-ai/midday
