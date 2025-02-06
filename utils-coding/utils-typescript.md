@@ -73,6 +73,7 @@ npm init
 - https://backstage.orus.eu/the-5-commandments-of-clean-error-handling-in-typescript/?latest
 
 ## STARTER / TEMPLATE
+- https://github.com/9renpoto/.59-node
 - https://github.com/antfu/starter-ts
 - https://github.com/NiGhTTraX/ts-monorepo
 - https://github.com/egoist/ts-lib-starter
@@ -97,6 +98,7 @@ npm init
 - https://github.com/nonara/ts-patch
 - https://github.com/esbuild-kit/tsx
 - https://github.com/Microsoft/tsdoc
+- https://github.com/IKatsuba/mutates
 - https://github.com/pastelsky/tsdocs
 - https://github.com/joaompneves/tsviz
 - https://github.com/cevek/ttypescript

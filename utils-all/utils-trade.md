@@ -863,8 +863,10 @@
 - https://github.com/munrocket/ta-math
 
 ### OSS: JAVASCRIPT: CHART
+- https://github.com/tradingview/lightweight-charts
 - https://github.com/project-nv/night-vision
 - https://github.com/cm45t3r/candlestick *
+- https://github.com/klinecharts/pro
 
 
 ### OSS: JAVASCRIPT
@@ -923,7 +925,6 @@
 - https://github.com/Haehnchen/crypto-trading-bot *
 - https://github.com/fugle-dev/fugle-backtest-node
 - https://github.com/valamidev/candlestick-convert *
-- https://github.com/tradingview/lightweight-charts
 - https://github.com/BitgetLimited/v3-bitget-api-sdk *
 - https://github.com/fasenderos/hft-limit-order-book *
 - https://github.com/tiagosiebler/TriangularArbitrage

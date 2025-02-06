@@ -42,6 +42,7 @@
 - https://github.com/browser-network/network
 - https://github.com/nordeck/matrix-meetings
 - https://github.com/browser-network/database
+- https://github.com/earthstar-project/earthstar
 - https://github.com/nodejs-mobile/nodejs-mobile
 - https://github.com/ChainSafe/js-libp2p-gossipsub
 - https://github.com/vadootvpeer/p2p-cdn-sdk-javascript

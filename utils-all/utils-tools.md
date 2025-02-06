@@ -224,6 +224,7 @@
 - https://untools.co/
 - https://free-for.dev/#/
 - https://alternativeto.net/
+- https://openalternative.co/
 - https://github.com/iptv-org/iptv
 - https://github.com/pluja/awesome-privacy
 - https://github.com/ripienaar/free-for-dev
