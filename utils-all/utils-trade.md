@@ -862,6 +862,11 @@
 - https://github.com/kaelzhang/finmath
 - https://github.com/munrocket/ta-math
 
+### OSS: JAVASCRIPT: CHART
+- https://github.com/project-nv/night-vision
+- https://github.com/cm45t3r/candlestick *
+
+
 ### OSS: JAVASCRIPT
 - https://npm.io/search/keyword:forex
 - https://github.com/fugle-dev
@@ -880,7 +885,6 @@
 - https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts *
 - https://github.com/ixjb94/indicators *
-- https://github.com/cm45t3r/candlestick *
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *
 - https://github.com/suenot/profitmaker *
@@ -899,7 +903,6 @@
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/coin-unknown/Indicators *
 - https://github.com/coin-unknown/async-genetic
-- https://github.com/project-nv/night-vision
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/austin-starks/NextTrade *
 - https://github.com/JeffreyHyer/grandmaster

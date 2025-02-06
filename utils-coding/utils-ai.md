@@ -239,6 +239,7 @@
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
+- https://github.com/PatrickJS/awesome-cursorrules
 - https://github.com/gpt-engineer-org/gpt-engineer
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
 - https://github.com/OpenInterpreter/open-interpreter
@@ -458,6 +459,7 @@
 - https://github.com/vercel/ai-sdk-rag-starter
 - https://github.com/NirDiamant/RAG_Techniques
 - https://github.com/amazon-science/RAGChecker
+- https://github.com/instructor-ai/instructor-js
 - https://github.com/circlemind-ai/fast-graphrag
 - https://github.com/Unstructured-IO/unstructured-js-client
 
@@ -681,6 +683,9 @@
 - https://github.com/kiri-art/stable-diffusion-react-nextjs-mui-pwa
 - https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - https://github.com/magic-research/magic-animate
+
+## LIB: TRAIN
+- https://github.com/oumi-ai/oumi
 
 ## LIB: ORCHESTRATION
 - https://github.com/openai/swarm

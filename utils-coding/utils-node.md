@@ -126,6 +126,7 @@
 ## UTILS DEVTOOLS
 - https://github.com/yunabe/tslab
 - https://github.com/rodrigopivi/tslab-widgets
+- https://github.com/antfu/node-modules-inspector
 
 ## UTILS ALL
 - https://github.com/animir/node-rate-limiter-flexible
@@ -337,9 +338,10 @@
 - https://github.com/terkelg/prompts
 - https://github.com/jasonkuhrt/molt
 - https://github.com/arcanis/clipanion
-- https://github.com/tinylibs/picospinner
 - https://github.com/npkgz/cli-progress
 - https://github.com/vadimdemedes/pastel
+- https://github.com/bombshell-dev/clack
+- https://github.com/tinylibs/picospinner
 - https://github.com/sindresorhus/trash-cli
 - https://github.com/sindresorhus/fkill-cli
 - https://docs.npmjs.com/cli/ci.html

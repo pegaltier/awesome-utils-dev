@@ -101,6 +101,7 @@
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
 - https://github.com/alyssaxuu/screenity
+- https://github.com/TeamNewPipe/NewPipe
 - https://github.com/goshops-com/clipshare
 - https://github.com/aegir-assembly/omni-clip
 - https://github.com/KurtBestor/Hitomi-Downloader

@@ -414,6 +414,7 @@
 ## LIB: VALIDATION
 - https://github.com/hapijs/joi
 - https://github.com/sideway/joi
+- https://github.com/samchon/typia
 - https://github.com/ajv-validator/ajv
 - https://github.com/ansman/validate.js
 - https://github.com/neuledge/computed-types
@@ -849,8 +850,10 @@
 - https://github.com/langchain-ai/langgraph
 - https://github.com/facebookresearch/shumai
 - https://github.com/eduardoleao052/js-pytorch
+- https://github.com/jina-ai/node-DeepResearch
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/transitive-bullshit/agentic
+- https://github.com/instructor-ai/instructor-js
 - https://github.com/a16z-infra/ai-getting-started
 
 ## LIB: MATH / CALCUL / NUMBER
