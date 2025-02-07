@@ -107,12 +107,17 @@
 - https://github.com/ErikBjare/gptme
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
-- https://github.com/janhq/jan *
 - https://github.com/lencx/Noi
 
 ## TOOLS: PROMPT ON WEB
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/zaidmukaddam/scira
+
+## TOOLS: OFFLINE
+- https://jan.ai/
+- https://lmstudio.ai/
+- https://github.com/janhq/jan *
+- https://github.com/lmstudio-ai
 
 ## TOOLS: SUPPORT
 - https://www.mendable.ai/
@@ -265,7 +270,10 @@
 - https://beta.storymapr.com/users/sign_in
 - https://www.dover.io/tools/job-description-rewriter
 - https://philosopherai.com/philosopher/technology-5f713c
+
+## TOOLS: OSS: TEXT / DOCS / PDF
 - https://github.com/DS4SD/docling
+- https://github.com/jacoblee93/fully-local-pdf-chatbot
 
 ## TOOLS: IMAGE
 - https://fal.ai/
@@ -420,6 +428,7 @@
 - https://github.com/reworkd/AgentGPT
 - https://github.com/Thytu/Agentarium
 - https://github.com/botpress/botpress
+- https://github.com/coinbase/agentkit
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
 - https://github.com/pydantic/pydantic-ai

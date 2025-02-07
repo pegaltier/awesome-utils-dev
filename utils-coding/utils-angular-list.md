@@ -2669,7 +2669,7 @@ Analyze and optimize the performance of your app
 - https://matthewross.me/blog/posts/minimal-angular-2-modal
 - https://malcoded.com/posts/angular-dynamic-components/
 
-## ECOSYSTEM: LIB: COMPONENT: LOADER
+## ECOSYSTEM: LIB: COMPONENT: LOADER / LOADING / PROGRES
 
 Add a progressbar for displaying a loader during the different async task like http requests...
 
@@ -2691,6 +2691,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/Gbuomprisco/ngx-content-loading
 - https://github.com/adisreyaj/angular-shimmer-effect
 - https://github.com/willmendesneto/ngx-skeleton-loader
+- https://github.com/crisbeto/angular-svg-round-progressbar (TOADD)
 
 ## ECOSYSTEM: LIB: COMPONENT: FORMS
 

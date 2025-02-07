@@ -861,13 +861,20 @@
 ### OSS: JAVASCRIPT: INDICATORS
 - https://github.com/kaelzhang/finmath
 - https://github.com/munrocket/ta-math
+- https://github.com/debut-js/Indicators
+- https://github.com/TulipCharts/tulipnode
+- https://github.com/coin-unknown/Indicators
+- https://github.com/anandanand84/technicalindicators
+- https://github.com/Cloud9Trader/TechnicalIndicators
 
 ### OSS: JAVASCRIPT: CHART
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/project-nv/night-vision
-- https://github.com/cm45t3r/candlestick *
+- https://github.com/tvjsx/trading-vue-js
+- https://github.com/cm45t3r/candlestick
+- https://github.com/jones2000/HQChart
 - https://github.com/klinecharts/pro
-
+- https://github.com/apache/superset
 
 ### OSS: JAVASCRIPT
 - https://npm.io/search/keyword:forex
@@ -890,20 +897,16 @@
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *
 - https://github.com/suenot/profitmaker *
-- https://github.com/debut-js/Indicators
 - https://github.com/focus1691/orderflow
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/rubenafo/trendyways
-- https://github.com/tvjsx/trading-vue-js *
 - https://github.com/backtestjs/framework *
 - https://github.com/coinranking/exchanges
-- https://github.com/TulipCharts/tulipnode *
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/tardis-dev/tardis-node *
 - https://github.com/fasenderos/nestjs-ccxt
 - https://github.com/mkmarek/forex.analytics
-- https://github.com/coin-unknown/Indicators *
 - https://github.com/coin-unknown/async-genetic
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/austin-starks/NextTrade *
@@ -939,8 +942,6 @@
 - https://github.com/excelsior-creative/edc-backtester (grademark)
 - https://github.com/Adamant-im/adamant-coinoptimus
 - https://github.com/472647301/tradingview-web-socket
-- https://github.com/anandanand84/technicalindicators *
-- https://github.com/Cloud9Trader/TechnicalIndicators
 - https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4
 - https://github.com/Grademark/grademark-first-example
 - https://github.com/bitcoinvsalts/node-binance-trader

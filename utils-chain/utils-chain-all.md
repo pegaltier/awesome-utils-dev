@@ -702,6 +702,7 @@ PANTOS — - https://pantos.io
 ## MEMES: AI OSS
 - https://github.com/ai16z
 - https://github.com/goat-sdk/goat
+- https://github.com/coinbase/agentkit
 
 ## MEMES: TOOLS
 - https://mlgedit.com/

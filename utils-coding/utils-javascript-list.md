@@ -836,7 +836,9 @@
 - https://github.com/fixie-ai/ai-jsx
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
+- https://github.com/coinbase/agentkit
 - https://github.com/lobehub/lobe-chat
+- https://github.com/lgrammel/js-agent
 - https://github.com/openai/openai-node
 - https://github.com/kaiban-ai/KaibanJS
 - https://github.com/neilgupta/Sherlock
