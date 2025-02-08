@@ -1,12 +1,16 @@
+<h1 align="center">
 # :books: Awesome IT List
+</h1>
 
-![apache](https://badgen.net/badge/license/Apache-2.0/blue)
-![stars](https://badgen.net/badge/stars/★★★★★)
-![github](https://badgen.net/github/stars/pegaltier/utils-dev)
-
-📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
+<p align="center">
+  <strong>📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...</strong>
+  ![apache](https://badgen.net/badge/license/Apache-2.0/blue)
+  ![stars](https://badgen.net/badge/stars/★★★★★)
+  ![github](https://badgen.net/github/stars/pegaltier/utils-dev)
+</p>
 
 ## Programming Languages
+
 - [Javascript](utils-coding/utils-javascript.md)
 - [Typescript](utils-coding/utils-typescript.md)
 - [Java](utils-coding/utils-java.md)
@@ -15,16 +19,19 @@
 - [Python](utils-coding/utils-python.md)
 - [Sql](utils-coding/utils-sql.md)
 
-## Web Frameworks 
+## Web Frameworks
+
 - [Angular](utils-coding/utils-angular-list.md)
 - [React](utils-coding/utils-react.md)
 - [Vue](utils-coding/utils-vue.md)
 
-## Mobile Development 
+## Mobile Development
+
 - [Android](utils-coding/utils-android.md)
 - [Ionic](utils-coding/utils-ionic.md)
 
 ## Various
+
 - [Ai](utils-coding/utils-ai.md)
 - [Git](utils-coding/utils-git.md)
 - [Api](utils-coding/utils-api.md)
@@ -33,12 +40,12 @@
 - [More](utils-coding/)
 
 ## Blockchain
+
 - [General](utils-chain/utils-chain-all.md)
 - [Bitcoin](utils-chain/utils-chain-btc.md)
 - [Ethereum](utils-chain/utils-chain-eth.md)
 - [Holochain](utils-chain/utils-chain-hot.md)
 - [More](utils-chain/)
-
 
 ## Contributing
 
@@ -53,4 +60,3 @@ Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/
 Follow me on X: [x.com/pegaltier](https://x.com/pegaltier)
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/pegaltier/utils-dev.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=pegaltier)
-
