@@ -1,13 +1,14 @@
 <h1 align="center">
-# :books: Awesome IT List
+:books: Awesome IT List
 </h1>
 
 <p align="center">
   <strong>📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...</strong>
-  ![apache](https://badgen.net/badge/license/Apache-2.0/blue)
-  ![stars](https://badgen.net/badge/stars/★★★★★)
-  ![github](https://badgen.net/github/stars/pegaltier/utils-dev)
 </p>
+
+![apache](https://badgen.net/badge/license/Apache-2.0/blue)
+![stars](https://badgen.net/badge/stars/★★★★★)
+![github](https://badgen.net/github/stars/pegaltier/utils-dev)
 
 ## Programming Languages
 
