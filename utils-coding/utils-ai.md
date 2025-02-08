@@ -65,6 +65,7 @@
 - https://github.com/mercari/ml-system-design-pattern
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://github.com/heartexlabs/awesome-data-labeling
+- https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 - https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 - https://github.com/EthicalML/awesome-production-machine-learning
 - https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
@@ -88,10 +89,11 @@
 - https://hermes.nousresearch.com/
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
 
-## TOOLS: PROMPT: OSS
+## TOOLS: CLIENT PROMPT: OSS
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
 - https://github.com/langchain-ai/open-canvas
+- https://github.com/ChatGPTNextWeb/NextChat
 - https://github.com/open-webui/open-webui
 - https://github.com/mediar-ai/screenpipe
 - https://github.com/promptslab/Promptify
@@ -240,6 +242,7 @@
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/stackblitz-labs/bolt.diy
 - https://github.com/eduardoleao052/js-pytorch
+- https://github.com/eastlondoner/cursor-tools
 - https://github.com/2-fly-4-ai/V0-system-prompt
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
@@ -411,8 +414,10 @@
 - https://github.com/SuperDuperDB/superduperdb
 - https://github.com/postgresml/postgresml
 
-## LIB: WORKFLOW
+## LIB: WORKFLOW / CONTENT CREATION
 - https://github.com/n8n-io/n8n
+- https://github.com/Canner/WrenAI
+- https://github.com/refly-ai/refly
 - https://github.com/FlowiseAI/Flowise
 
 ## LIB: NEURAL NETWORK
@@ -432,8 +437,10 @@
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
 - https://github.com/pydantic/pydantic-ai
+- https://github.com/browserbase/open-operator
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/i-am-bee/bee-agent-framework
+- https://github.com/nickscamara/open-deep-research
 
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 - https://github.com/Y2Z/monolith

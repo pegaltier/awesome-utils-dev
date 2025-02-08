@@ -57,6 +57,7 @@ low-code tooling to prototype fastly.
 - https://github.com/remult/remult
 - https://github.com/nocodb/nocodb
 - https://github.com/paxdotdev/pax
+- https://github.com/Canner/WrenAI
 - https://github.com/google/blockly
 - https://github.com/getmaxun/maxun
 - https://github.com/BuilderIO/qwik

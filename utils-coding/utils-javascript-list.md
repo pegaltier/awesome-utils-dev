@@ -832,7 +832,14 @@
 - https://github.com/probot/smee.io
 - https://github.com/probot/smee-client
 
+## LIB: AI / TRAINING / PREDICTION
+- https://github.com/sbyrnes/bloom.js
+- https://github.com/sbyrnes/likely.js
+- https://github.com/sbyrnes/classify.js
+- https://github.com/sbyrnes/DataScience_in_Node.js
+
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
+- https://github.com/refly-ai/refly
 - https://github.com/fixie-ai/ai-jsx
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
@@ -852,11 +859,13 @@
 - https://github.com/langchain-ai/langgraph
 - https://github.com/facebookresearch/shumai
 - https://github.com/eduardoleao052/js-pytorch
+- https://github.com/browserbase/open-operator
 - https://github.com/jina-ai/node-DeepResearch
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/instructor-ai/instructor-js
 - https://github.com/a16z-infra/ai-getting-started
+- https://github.com/nickscamara/open-deep-research
 
 ## LIB: MATH / CALCUL / NUMBER
 - https://github.com/bpierre/dnum

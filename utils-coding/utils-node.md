@@ -103,6 +103,7 @@
 
 ## UTILS NPM
 - https://github.com/es-tooling/module-replacements
+- https://github.com/jdalton/npm-patch-with-bundled
 - https://github.com/radarsu/types-package-json
 - https://github.com/stackblitz-labs/pkg.pr.new
 - https://github.com/davglass/license-checker

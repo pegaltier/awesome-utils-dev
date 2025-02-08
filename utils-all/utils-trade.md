@@ -833,6 +833,7 @@
 - https://github.com/tradingstrategy-ai/trading-strategy
 - https://github.com/louisnw01/lightweight-charts-python *
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM
+- https://github.com/hackingthemarkets/binance-tutorials
 - https://github.com/donewiththedollar/directionalscalper
 - https://github.com/hackingthemarkets/gridbot-websockets
 - https://github.com/conor19w/Binance-Futures-Trading-Bot
