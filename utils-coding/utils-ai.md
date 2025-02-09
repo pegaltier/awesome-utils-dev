@@ -216,6 +216,7 @@
 - https://github.com/gptlint/gptlint
 - https://github.com/stitionai/devika
 - https://github.com/Oneirocom/Magick
+- https://github.com/getcursor/cursor
 - https://github.com/yamadashy/repomix
 - https://github.com/e2b-dev/fragments
 - https://github.com/Nutlope/aicommits
@@ -425,6 +426,7 @@
 
 ## LIB: FULL FRAMEWORK
 - https://github.com/langgenius/dify
+- https://github.com/Mintplex-Labs/anything-llm
 
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/ai16z/eliza
@@ -436,6 +438,7 @@
 - https://github.com/coinbase/agentkit
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
+- https://github.com/dzhng/deep-research
 - https://github.com/pydantic/pydantic-ai
 - https://github.com/browserbase/open-operator
 - https://github.com/transitive-bullshit/agentic

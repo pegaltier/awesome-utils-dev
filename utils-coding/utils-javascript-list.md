@@ -849,6 +849,7 @@
 - https://github.com/openai/openai-node
 - https://github.com/kaiban-ai/KaibanJS
 - https://github.com/neilgupta/Sherlock
+- https://github.com/dzhng/deep-research
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/SawyerHood/draw-a-ui
 - https://github.com/ykhli/local-ai-stack
@@ -1036,6 +1037,7 @@
 - https://github.com/playcanvas/supersplat
 - https://github.com/catdad/canvas-confetti
 - https://joshbradley.me/object-collisions-with-canvas/
+- https://github.com/shuding/apple-pencil-safari-api-test
 
 ## CANVAS / EXAMPLE
 - https://github.com/Mhowitt/meme_generator

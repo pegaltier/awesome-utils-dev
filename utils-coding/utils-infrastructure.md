@@ -225,6 +225,7 @@
 - https://github.com/jpca/Boulegueur
 - https://github.com/Portshift/kubei
 - https://github.com/kyverno/kyverno
+- https://github.com/cjihrig/kubenode
 - https://github.com/loft-sh/vcluster
 - https://github.com/kubeshop/monokle
 - https://github.com/argoproj/argo-cd

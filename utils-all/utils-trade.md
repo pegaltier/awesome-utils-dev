@@ -588,6 +588,7 @@
 - https://github.com/martinshane/pinescript5
 - https://github.com/harryguiacorn/tradingview
 - https://github.com/ricardosantos79/pinescript
+- https://github.com/mnwato/tradingview-scraper
 - https://github.com/0xrushi/tradingview-scraper
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Alorse/pinescript-strategies
@@ -750,6 +751,7 @@
 ### OSS: HFT
 - https://github.com/javifalces/HFTFramework
 - https://github.com/Crypto-toolbox/HFT-Orderbook
+- https://github.com/fedecaccia/avellaneda-stoikov
 
 ### OSS: PYTHON
 - https://github.com/myhhub/stock *

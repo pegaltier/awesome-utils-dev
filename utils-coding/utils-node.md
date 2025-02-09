@@ -193,6 +193,7 @@
 
 - https://github.com/napi-rs/napi-rs
 - https://github.com/azz/pretty-quick
+- https://github.com/cjihrig/kubenode
 - https://github.com/clinicjs/node-clinic
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/frinyvonnick/node-html-to-image
