@@ -181,7 +181,6 @@
 - https://youtu.be/F-9KWQByeU0 secure vps docker trafik X hostinger
 - https://youtu.be/fuZoxuBiL9o docker stack + swarm 
 
-
 ## NGINX
 - https://github.com/fcambus/nginx-resources
 - https://github.com/yandex/gixy
