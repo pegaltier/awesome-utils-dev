@@ -173,6 +173,15 @@
 - https://youtu.be/taJlPG82Ucw
 - https://www.pikapods.com/
 
+## HOST SERVICES OSS / TUTOS
+- https://youtu.be/wkmavq02Tk0 dokploy X hetzner
+- https://youtu.be/mJY4lXbXsPM dokploy docker compose
+- https://youtu.be/Q1Y_g0wMwww secure vps only X
+- https://youtu.be/poNC8zTaT1I secure vps only X nodeJS pm2
+- https://youtu.be/F-9KWQByeU0 secure vps docker trafik X hostinger
+- https://youtu.be/fuZoxuBiL9o docker stack + swarm 
+
+
 ## NGINX
 - https://github.com/fcambus/nginx-resources
 - https://github.com/yandex/gixy
