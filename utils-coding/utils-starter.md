@@ -18,6 +18,7 @@
 - https://github.com/nextjs/saas-starter
 - https://github.com/wasp-lang/open-saas
 - https://github.com/ocluf/justship
+- https://github.com/Idee8/ShipFree
 - https://github.com/midday-ai/v1
 - https://github.com/sst/sst
 

@@ -86,6 +86,7 @@ low-code tooling to prototype fastly.
 
 ## lowcode
 - https://github.com/permitio
+- https://github.com/n8n-io/n8n
 - https://github.com/vaadin/hilla
 - https://github.com/frappe/frappe
 - https://github.com/metarank/metarank

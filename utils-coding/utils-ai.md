@@ -22,6 +22,7 @@
 
 ## COURSES
 - https://github.com/karpathy/LLM101n
+- https://github.com/huggingface/agents-course
 - https://github.com/decodingml/llm-twin-course
 
 ## VIDEOS
@@ -553,6 +554,7 @@
 - https://github.com/mit-han-lab/streaming-llm
 - https://github.com/sgomez/ollama-ai-provider
 - https://github.com/jose-donato/ollama-reply *
+- https://github.com/kvcache-ai/ktransformers
 - https://github.com/deepseek-ai/DeepSeek-R1
 - https://github.com/deepseek-ai/DeepSeek-V3
 - https://github.com/run-llama/LlamaIndexTS

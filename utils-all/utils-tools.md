@@ -78,6 +78,7 @@
 - https://github.com/basvodde/filezilla
 ## OSS: SYSTEM
 - https://github.com/Abdenasser/neohtop
+- https://github.com/orhun/menyoki
 
 # OSS: PHOTO / IMAGE
 - https://github.com/ente-io/ente
@@ -244,6 +245,7 @@
 - https://github.com/dendronhq/dendron
 - https://github.com/anyproto/anytype-ts
 - https://github.com/AppFlowy-IO/AppFlowy
+- https://github.com/sissbruecker/linkding
 - https://github.com/graydon/obsidian-html
 - https://github.com/hadynz/obsidian-sidekick
 - https://github.com/AlexW00/obsidian-3d-graph

@@ -682,9 +682,11 @@
 
 ## LIB: FRONTEND UI TABLE / SPREADSHEET
 - https://github.com/exceljs/exceljs
+- https://github.com/tbranyen/hyperlist
 - https://github.com/dream-num/Luckysheet
 - https://github.com/ruilisi/fortune-sheet
 - https://github.com/gabrielpetersson/fast-grid
+- https://github.com/chenzhiyuanthu/virtual-scrolling-table
 
 ## LIB: FRONTEND ANIMATION
 - https://github.com/Popmotion/popmotion
@@ -836,6 +838,7 @@
 - https://github.com/sbyrnes/bloom.js
 - https://github.com/sbyrnes/likely.js
 - https://github.com/sbyrnes/classify.js
+- https://github.com/coin-unknown/async-genetic
 - https://github.com/sbyrnes/DataScience_in_Node.js
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
@@ -870,6 +873,7 @@
 
 ## LIB: MATH / CALCUL / NUMBER
 - https://github.com/bpierre/dnum
+- https://github.com/MikeMcl/big.js
 - https://github.com/josdejong/mathjs
 - https://github.com/stdlib-js/stdlib
 - https://github.com/Jam3/math-as-code

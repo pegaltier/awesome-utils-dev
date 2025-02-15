@@ -681,6 +681,7 @@
 - https://github.com/ccxt/ccxt
 - https://github.com/knowm/XChange *
 - https://github.com/gateio/gateapi-nodejs *
+- https://github.com/carlosmiei/node-binance-api
 - https://github.com/alpacahq/alpaca-trade-api-js *
 - https://github.com/Kucoin/kucoin-node-sdk *
 - https://github.com/tiagosiebler/accountstate
@@ -826,6 +827,7 @@
 - https://github.com/hackobi/AI-Scalpel-Trading-Bot
 - https://github.com/paperswithbacktest/pwb-toolbox
 - https://github.com/fabston/TradingView-Webhook-Bot
+- https://github.com/crypto-code/Stock-Market-AI-GUI
 - https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/firmai/financial-machine-learning
 - https://github.com/GrovesD2/market_monitor_trend_dash

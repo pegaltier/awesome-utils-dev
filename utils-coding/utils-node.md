@@ -219,9 +219,10 @@
 - https://github.com/RobinTail/express-zod-api
 - https://github.com/lostfictions/znv
 
-## LIBS: WORKER THREAD
+## LIBS: WORKER MULTI THREAD
 - https://github.com/piscinajs/piscina
 - https://github.com/tinylibs/tinypool
+- https://github.com/faranalytics/socketnaut
 
 ## LIBS: TESTING
 - https://github.com/ladjs/supertest

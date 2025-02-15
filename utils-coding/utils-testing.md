@@ -159,6 +159,7 @@
 - https://github.com/vitalets/playwright-magic-steps
 - https://github.com/vitalets/playwright-network-cache
 - https://github.com/vitalets/playwright-webhook-reporter
+- https://github.com/microsoft/playwright-testing-service
 - https://github.com/berstend/puppeteer-extra
 - https://github.com/DyHex/POMWright
 - https://github.com/mxschmitt
