@@ -58,6 +58,10 @@
 - https://github.com/onlook-dev/onlook
 - https://github.com/penpot/penpot
 
+## OSS: TOOLS: AI
+- https://github.com/anysphere/priompt
+- https://github.com/onlook-dev/onlook
+
 ## ICONS
 - https://picons.me
 - https://logojoy.com

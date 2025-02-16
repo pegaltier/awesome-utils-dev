@@ -405,6 +405,10 @@
 - https://github.com/nomeida/hyperliquid
 - https://github.com/ic-alloy/ic-alloy-dca
 - https://github.com/alcorexchange/alcor-ui
+- https://github.com/vincentkoc/dexscraper
+- https://github.com/w3laba/DexScreener-Trending
+- https://github.com/ChainLogicLabs/dexscreenerapi
+- https://github.com/keiveulbugs/Dexscreener_pricebot
 - https://github.com/taoshidev/proprietary-trading-network
 
 ## N EXCHANGE
@@ -645,6 +649,7 @@ PANTOS — - https://pantos.io
 - https://github.com/solana-program/create-solana-program
 - https://github.com/solana-labs/solana-program-library
 - https://github.com/paul-schaaf/awesome-solana
+- https://github.com/vladmeer/copy-trading-bot
 - https://github.com/SurfSolana/SolSurfer
 - https://github.com/hexishq/velos
 - https://smithii.io/en/

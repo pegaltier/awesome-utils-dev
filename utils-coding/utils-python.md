@@ -41,6 +41,7 @@ pip -V
 
 ## STARTER
 - https://github.com/mirumee/saleor
+- https://github.com/FujiwaraChoki/MoneyPrinterV2
 - https://github.com/tiangolo/full-stack-fastapi-template
 
 ## LIB: DEVTOOLS: CORE
@@ -61,7 +62,6 @@ pip -V
 - https://github.com/tiangolo/fastapi
 - https://github.com/pennersr/pulsus
 - https://github.com/mckinsey/vizro
-- https://github.com/coqui-ai/TTS
 - https://github.com/kellyjonbrazil/jc
 - https://github.com/swirlai/swirl-search
 - https://github.com/vietnh1009/ASCII-generator

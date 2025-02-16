@@ -179,7 +179,8 @@
 - https://youtu.be/Q1Y_g0wMwww secure vps only X
 - https://youtu.be/poNC8zTaT1I secure vps only X nodeJS pm2
 - https://youtu.be/F-9KWQByeU0 secure vps docker trafik X hostinger
-- https://youtu.be/fuZoxuBiL9o docker stack + swarm 
+- https://youtu.be/fuZoxuBiL9o docker stack + swarm on vps
+- https://youtu.be/ZmL46xVdYzM docker stack + swarm on vps X hostinger
 
 ## NGINX
 - https://github.com/fcambus/nginx-resources

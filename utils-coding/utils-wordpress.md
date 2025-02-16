@@ -1,5 +1,9 @@
 
 
+
+## extra tools
+- https://github.com/Automattic/wp-calypso
+
 ## simple installation
 
 https://www.webhostinghero.com/unzip-wordpress-package-files-server/

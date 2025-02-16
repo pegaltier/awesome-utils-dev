@@ -268,6 +268,7 @@
 - https://github.com/zapier/zapier-platform
 - https://github.com/automatisch/automatisch
 - https://github.com/dmtrbrl/bulk-url-opener
+- https://github.com/FujiwaraChoki/MoneyPrinterV2
 - https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1
 
 ## New

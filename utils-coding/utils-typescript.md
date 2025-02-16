@@ -88,6 +88,9 @@ npm init
 - https://github.com/JoshuaKGoldberg/template-typescript-node-package
 - https://github.com/takuya-motoshima/esm-and-other-format-libraries-starter
 
+## TRANSPILER
+- https://github.com/branchseer/oxidase
+
 ## DEVTOOLS
 - https://github.com/egoist/tsup
 - https://github.com/imjuni/ctix

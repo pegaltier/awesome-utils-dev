@@ -238,6 +238,9 @@
 - https://github.com/max-mapper/concat-stream
 - https://github.com/Azure/fetch-event-source
 - https://github.com/axios/axios/issues/5806
+- https://github.com/eventsource/eventsource
+- https://github.com/rexxars/eventsource-client
+- https://github.com/rexxars/eventsource-parser
 - https://medium.com/@david.richards.tech/sse-server-sent-events-using-a-post-request-without-eventsource-1c0bd6f14425
 - https://stackoverflow.com/questions/40385133/retrieve-data-from-a-readablestream-object
 - https://stackoverflow.com/questions/33141012/how-to-mock-streams-in-nodejs

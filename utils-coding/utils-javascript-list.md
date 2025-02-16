@@ -1034,6 +1034,7 @@
 - https://github.com/dgmjs/dgmjs
 - https://github.com/konvajs/konva
 - https://github.com/tldraw/tldraw
+- https://github.com/pixijs/pixijs
 - https://github.com/jonobr1/two.js
 - https://github.com/fabricjs/fabric.js
 - https://github.com/niklasvh/html2canvas

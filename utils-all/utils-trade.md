@@ -644,6 +644,7 @@
 - https://github.com/dingran/quant-notes
 - https://github.com/suenot/awesome-ccxt
 - https://github.com/shashankvemuri/Finance
+- https://github.com/letianzj/QuantResearch
 - https://github.com/moov-io/awesome-fintech
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/zazhang/ep-chan-book-algo-trading

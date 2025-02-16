@@ -210,6 +210,7 @@
 - https://github.com/e2b-dev/e2b
 - https://github.com/ekkinox/yai
 - https://github.com/block/goose
+- https://github.com/Ironclad/rivet
 - https://github.com/Aider-AI/aider
 - https://github.com/meltylabs/melty
 - https://github.com/AbanteAI/mentat
@@ -644,6 +645,7 @@
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
 - https://github.com/suno-ai/bark
+- https://github.com/coqui-ai/TTS
 
 ## LIB: VIDEO
 - https://github.com/ultralytics/ultralytics
