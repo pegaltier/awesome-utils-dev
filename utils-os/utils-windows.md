@@ -21,25 +21,40 @@
 
 ### Create SSH Key
 
-```
-1 => open Window class cmd
+```bash
+1 => open Windows classic cmd
 2 => ssh-keygen
 3 => choose a new name to avoid erasing others key
 ```
 
 ### Use SSH Key
 
-```
+```bash
 cd C:\Users\myuser\.ssh
 ssh -i myprivatekey root@123.456.789.22
 ```
 
 ## SSH Agent
 
-```
+```bash
 1 => open Window Powershell as administrator and write
 2 => Get-Service ssh-agent //(you will find status stopped )
 3 => Set-Service ssh-agent -StartupType Manual
+```
+
+## SSH/SCP Copy
+
+- https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh
+
+```bash
+# Syntax:
+scp <source> <destination>
+
+# To copy a file from B to A while logged into B:
+scp /path/to/file username@a:/path/to/destination
+
+# To copy a file from B to A while logged into A:
+scp username@b:/path/to/file /path/to/destination
 ```
 
 ## MORE
