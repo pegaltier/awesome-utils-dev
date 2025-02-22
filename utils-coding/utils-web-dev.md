@@ -573,6 +573,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/nolimits4web/atropos/
 - https://github.com/janpaepke/ScrollMagic
 - https://github.com/zionbuilder/animatejs
+- https://github.com/motiondivision/motion
 - https://github.com/flackr/scroll-timeline
 - https://github.com/vasturiano/three-globe
 - https://github.com/lucafalasco/scroll-snap

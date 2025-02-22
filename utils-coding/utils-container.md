@@ -144,7 +144,6 @@ RUN ls
 - https://github.com/leighmcculloch/dockerhost
 - https://github.com/ContainerSSH/ContainerSSH
 - https://github.com/tomMoulard/make-my-server
-- https://github.com/veggiemonk/awesome-docker
 - https://github.com/buildkite/docker-puppeteer
 - https://github.com/ufoscout/docker-compose-wait
 - https://github.com/cloudflare/serverless-registry
@@ -152,7 +151,6 @@ RUN ls
 - https://github.com/geerlingguy/ansible-role-docker    
 - https://github.com/JeremyLikness/usda-microservice
 - https://github.com/lucaslorentz/caddy-docker-proxy
-- https://github.com/devopstrainingblr/awesome-docker
 - https://github.com/felixfbecker/semantic-release-docker
 - https://github.com/JonasAlfredsson/docker-nginx-certbot
 - https://labs.play-with-docker.com/
@@ -165,9 +163,22 @@ RUN ls
 - https://github.com/rpardini/docker-registry-proxy
 - https://github.com/yegor256/squid-proxy
 
+## DOCKER IMAGE AWESOME
+- https://github.com/docker/awesome-compose
+- https://github.com/veggiemonk/awesome-docker
+- https://github.com/devopstrainingblr/awesome-docker
+
 ## DOCKER IMAGES UPDATE
 - https://github.com/pgautoupgrade/docker-pgautoupgrade
 - https://github.com/containrrr/watchtower/
+
+## DOCKER IMAGES: STATIC FILES
+- https://github.com/nginxinc/docker-nginx
+- https://github.com/KyleAMathews/docker-nginx
+- https://github.com/lipanski/docker-static-website
+- https://github.com/static-web-server/static-web-server
+- https://github.com/docker/awesome-compose/tree/master/react-nginx
+- https://mav-rana.medium.com/containerize-a-simple-static-website-a381c5e49633
 
 ## DOCKER IMAGES ALL
 - https://github.com/help-me-mom/wordpress-docker-template

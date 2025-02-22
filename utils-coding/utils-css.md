@@ -130,6 +130,7 @@
 
 ## TAILWIND
 
+- https://tailwindflex.com/
 - https://hypercolor.dev/#gradients
 - https://tailblend.vercel.app/
 - https://github.com/shadcn-ui/ui
