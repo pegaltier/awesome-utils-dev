@@ -109,6 +109,7 @@
 - https://github.com/douglascrockford
 - https://github.com/antoine-coulon
 - https://github.com/williamtroup
+- https://github.com/branchseer
 - https://github.com/ahejlsberg
 - https://github.com/johnpapa
 - https://github.com/mesqueeb

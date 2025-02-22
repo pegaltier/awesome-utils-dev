@@ -62,6 +62,7 @@
 - https://github.com/bluesky-social/social-app
 - https://github.com/NoQuarterTeam/boilerplate
 - https://github.com/UnlyEd/next-right-now
+- https://github.com/IsaacGemal/wikitok
 - https://github.com/Th3Wall/Fakeflix
 - https://github.com/mirumee/saleor
 - https://github.com/KATT/zart

@@ -398,17 +398,21 @@
 ## EXCHANGE
 - https://www.sygnum.com/
 
-## DEX OSS
+## OSS: DEX
 - https://github.com/XPRNetwork/dex-bot
 - https://github.com/hummingbot/gateway
 - https://github.com/hollaex/hollaex-kit
 - https://github.com/nomeida/hyperliquid
 - https://github.com/ic-alloy/ic-alloy-dca
 - https://github.com/alcorexchange/alcor-ui
+
+## OSS: DEX BOT
+- https://github.com/ziacto/pump.fun 
 - https://github.com/vincentkoc/dexscraper
 - https://github.com/w3laba/DexScreener-Trending
 - https://github.com/ChainLogicLabs/dexscreenerapi
 - https://github.com/keiveulbugs/Dexscreener_pricebot
+- https://github.com/yllvar/Pump.Fun-With-Pump-Portal
 - https://github.com/taoshidev/proprietary-trading-network
 
 ## N EXCHANGE

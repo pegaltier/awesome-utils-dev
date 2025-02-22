@@ -163,25 +163,16 @@
 - https://www.cryptoarchive.com.au/ *
 - https://site.financialmodelingprep.com/ *
 - https://data.nasdaq.com/databases/RTAT
-- https://data.nasdaq.com/institutional-investors
 - https://www.binance.com/en/landing/data
 - https://min-api.cryptocompare.com/pricing
 - https://www.cryptodatadownload.com/data/
-- https://www.algos.org/p/data-sourcing-the-guide *
-- https://data.world/crispydata/bitcoin-historical-data
-- https://github.com/DavideViolante/investing-com-api *
-- https://github.com/datasets/finance-vix
-- https://github.com/datasets/s-and-p-500
-- https://github.com/datasets/gold-prices
-- https://github.com/JerBouma/FinanceDatabase
-- https://github.com/datasets/exchange-rates-usd
-- https://github.com/DevOpsLP/Historical-data-fetcher/tree/main
 - https://fuserleer.online/exchange_data/
 - https://github.com/jugaad-py/jugaad-data
 - https://www.youtube.com/watch?v=myydDX-us4o
+- https://data.nasdaq.com/institutional-investors
+- https://www.algos.org/p/data-sourcing-the-guide *
+- https://data.world/crispydata/bitcoin-historical-data
 - https://mixedanalytics.com/knowledge-base/top-free-crypto-apis/ *
-- https://github.com/CoinQuanta/awesome-crypto-api
-- https://github.com/Zdong104/FNSPID_Financial_News_Dataset
 - https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
 - https://data.coinbase.com/?packageFilter=ohlcv-hourly
 - https://bravenewcoin.com/enterprise-solutions/market-data
@@ -193,16 +184,28 @@
 - https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/
 
 ## QUOTES: OSS
+
 - https://github.com/ranaroussi/yfinance
 - https://github.com/guptarohit/cryptoCMD
 - https://github.com/swapniljariwala/nsepy
-- https://github.com/maxgfr/binance-historical *
 - https://github.com/tardis-dev/tardis-node
 - https://github.com/BennyThadikaran/eod2
 - https://github.com/BennyThadikaran/eod2_data
+- https://github.com/datasets/finance-vix
+- https://github.com/datasets/s-and-p-500
+- https://github.com/datasets/gold-prices
+- https://github.com/JerBouma/FinanceDatabase
+- https://github.com/maxgfr/binance-historical *
+- https://github.com/datasets/exchange-rates-usd
+- https://github.com/gadicc/node-yahoo-finance2
 - https://github.com/Leo4815162342/dukascopy-node *
+- https://github.com/CoinQuanta/awesome-crypto-api
 - https://github.com/ThetaData-API/thetadata-python
+- https://github.com/DavideViolante/investing-com-api *
+- https://github.com/Zdong104/FNSPID_Financial_News_Dataset
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
+- https://github.com/DevOpsLP/Historical-data-fetcher/tree/main
+- https://github.com/public-apis/public-apis?tab=readme-ov-file#finance
 
 ## LIST: OSS
 - https://github.com/merovinh/best-of-algorithmic-trading
@@ -631,6 +634,7 @@
 
 ### OSS: PEOPLE
 - https://github.com/YannickKae
+- https://github.com/yllvar
 
 ### OSS: QUALITY
 - https://github.com/hummingbot/hummingbot

@@ -981,6 +981,9 @@ Learn everything about angular universal, make a good SEO.
 - https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/
 - https://stackoverflow.com/questions/53677419/add-static-pre-rendering-to-ng-add-nguniversal-express-engine
 
+## CORE: RESOURCES
+- https://github.com/AhsanAyaz/ng-http-resource
+
 ## CORE: SIGNALS
 
 - https://www.youtube.com/watch?v=HstDoVQeP9g angular signal with Ryan from Solid
@@ -1901,6 +1904,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/gund/eslint-plugin-deprecation
 - https://github.com/un-ts/eslint-plugin-import-x
 - https://github.com/import-js/eslint-plugin-import
+- https://github.com/azat-io/eslint-plugin-de-morgan
 - https://github.com/xojs/eslint-config-xo-typescript
 - https://github.com/aotaduy/eslint-plugin-spellcheck
 - https://github.com/SonarSource/eslint-plugin-sonarjs

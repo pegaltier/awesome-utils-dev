@@ -434,6 +434,7 @@
 - https://github.com/ai16z/eliza
 - https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
+- https://github.com/mastra-ai/mastra
 - https://github.com/reworkd/AgentGPT
 - https://github.com/Thytu/Agentarium
 - https://github.com/botpress/botpress

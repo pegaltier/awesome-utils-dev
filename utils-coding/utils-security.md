@@ -31,6 +31,9 @@
 - https://vx-underground.org/
 - https://craphound.com/
 
+## PEOPLE
+- https://github.com/Whitecat18
+
 ## PAPERS
 - guidovranken.files.wordpress.com/2018/07/vrankenfuzz.pdf
 - crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
@@ -70,13 +73,19 @@
 - https://guardianproject.info/apps/pixelknot/
 - https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
 
-## TOOLS OSS
+## TOOLS: OSS: OFFENSIVE
+- https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters
+- https://github.com/Whitecat18/Rust-for-Malware-Development
+- https://github.com/Whitecat18/earlycascade-injection
+- https://github.com/mgeeky/Penetration-Testing-Tools
+- https://github.com/hackerschoice/ssh-key-backdoor
+- https://github.com/Whitecat18/Javahexor
+
+## TOOLS: OSS: DEFENSIVE
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/hkithub-official/no-plaintext-passwords
 - https://github.com/decalage2/awesome-security-hardening
 - https://github.com/Authenticator-Extension/Authenticator
-- https://github.com/mgeeky/Penetration-Testing-Tools
-- https://github.com/hackerschoice/ssh-key-backdoor
 - https://github.com/Orange-Cyberdefense/KeePwn
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/Dheerajmadhukar/4-ZERO-3

@@ -301,6 +301,7 @@
 - https://github.com/npm/cacache
 
 ## LIBS: AI
+- https://github.com/mastra-ai/mastra
 - https://github.com/naptha/tesseract.js
 - https://github.com/openai/openai-node
 - https://github.com/frost-beta/node-mlx

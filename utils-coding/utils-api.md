@@ -60,6 +60,7 @@
 - https://github.com/scalar/scalar *
 - https://github.com/kubb-labs/kubb
 - https://github.com/Azure/autorest
+- https://github.com/lukeautry/tsoa
 - https://github.com/anymaniax/orval
 - https://github.com/orval-labs/orval
 - https://github.com/asyncapi/modelina

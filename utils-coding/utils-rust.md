@@ -16,8 +16,9 @@
 ## SOFT
 - https://github.com/rustdesk/rustdesk
 
-## DEV
+## PEOPLE
 - https://github.com/LaurentMazare/
+- https://github.com/LegNeato
 
 ## UTILS
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
