@@ -128,11 +128,7 @@
 - https://github.com/danielroe/beasties
 - https://github.com/tokenami/tokenami
 
-## TAILWIND
-
-- https://tailwindflex.com/
-- https://hypercolor.dev/#gradients
-- https://tailblend.vercel.app/
+## TAILWIND: OSS
 - https://github.com/shadcn-ui/ui
 - https://github.com/unocss/unocss
 - https://github.com/ndaba1/twinit
@@ -156,6 +152,12 @@
 - https://github.com/stevecochrane/tailwindcss-logical
 - https://github.com/new-data-services/tailwindcss-animated
 - https://github.com/tailwindlabs/tailwindcss-container-queries
+
+## TAILWIND: ONLINE
+- https://hypercolor.dev/
+- https://tailwindflex.com/
+- https://tailblend.vercel.app/
+- https://www.creative-tim.com/twcomponents
 
 ## DEVTOOLS
 - https://github.com/parcel-bundler/lightningcss
