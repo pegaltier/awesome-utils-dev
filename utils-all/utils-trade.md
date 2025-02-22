@@ -652,6 +652,7 @@
 - https://github.com/moov-io/awesome-fintech
 - https://github.com/wilsonfreitas/awesome-quant
 - https://github.com/zazhang/ep-chan-book-algo-trading
+- https://github.com/joelowj/awesome-algorithmic-trading
 - https://github.com/quant-science/sunday-quant-scientist
 - https://github.com/tiagosiebler/awesome-crypto-examples
 - https://github.com/valeman/awesome-conformal-prediction
