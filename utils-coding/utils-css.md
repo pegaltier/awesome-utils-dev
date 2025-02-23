@@ -158,6 +158,7 @@
 - https://tailwindflex.com/
 - https://tailblend.vercel.app/
 - https://www.creative-tim.com/twcomponents
+- https://freefrontend.com/tailwind-code-examples/
 
 ## DEVTOOLS
 - https://github.com/parcel-bundler/lightningcss

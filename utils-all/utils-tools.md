@@ -10,6 +10,7 @@
 - https://pimeyes.com/en
 - https://www.tldraw.com/
 - https://owncast.online/
+- https://onlineminitools.com/
 - https://oscarleo.com/google-trends
 - https://metatags.io/font-generator
 
@@ -130,6 +131,7 @@
 - https://github.com/hoarder-app/hoarder
 - https://github.com/CorentinTh/it-tools
 - https://github.com/ArchiveBox/ArchiveBox
+- https://github.com/supermemoryai/supermemory
 - https://github.com/dgtlmoon/changedetection.io
 
 ## OSS: PROXY

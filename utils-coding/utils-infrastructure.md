@@ -183,6 +183,9 @@
 - https://youtu.be/fuZoxuBiL9o docker stack + swarm on vps
 - https://youtu.be/ZmL46xVdYzM docker stack + swarm on vps X hostinger
 
+## REGISTRY
+- https://github.com/goharbor/harbor
+
 ## NGINX
 - https://github.com/fcambus/nginx-resources
 - https://github.com/yandex/gixy

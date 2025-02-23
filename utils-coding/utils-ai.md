@@ -430,6 +430,9 @@
 - https://github.com/langgenius/dify
 - https://github.com/Mintplex-Labs/anything-llm
 
+## LIB: EXTENSION
+- https://github.com/supermemoryai/supermemory
+
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/ai16z/eliza
 - https://github.com/khoj-ai/khoj
@@ -443,6 +446,7 @@
 - https://github.com/lavague-ai/LaVague
 - https://github.com/dzhng/deep-research
 - https://github.com/pydantic/pydantic-ai
+- https://github.com/agentlabs-dev/openator
 - https://github.com/browserbase/open-operator
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/i-am-bee/bee-agent-framework

@@ -667,6 +667,7 @@ PANTOS — - https://pantos.io
 
 ## MEMES: ANALYSE
 - https://gmgn.ai/
+- https://rushnrx.com/
 - https://muradlist.xyz/
 - https://app.prerich.com/
 - https://www.emojirace.fun/
