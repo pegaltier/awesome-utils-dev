@@ -190,6 +190,7 @@ npm init
 
 ## LIB: ASSEMBLYSCRIPT / WASM
 - https://github.com/torch2424/as-bind
+- https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime
 
 ## LIB: DATABASE / SQL
 - https://github.com/adelsz/pgtyped

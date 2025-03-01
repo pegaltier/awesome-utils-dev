@@ -126,6 +126,7 @@ RUN ls
 - https://github.com/louislam/dockge
 - https://github.com/croqaz/browsers
 - https://github.com/NilsIrl/dockerc
+- https://github.com/slimtoolkit/slim
 - https://github.com/will-moss/isaiah
 - https://github.com/vrnetlab/vrnetlab
 - https://github.com/devcontainers/spec

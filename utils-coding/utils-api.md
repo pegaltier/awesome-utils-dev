@@ -33,6 +33,7 @@
 - https://insomnia.rest/
 - https://github.com/Kong/insomnia
 - https://github.com/usebruno/bruno
+- https://github.com/mountain-loop/yaak
 - https://github.com/darrenburns/posting
 - https://github.com/hoppscotch/hoppscotch
 

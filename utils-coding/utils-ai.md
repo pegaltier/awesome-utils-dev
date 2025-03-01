@@ -375,7 +375,6 @@
 - https://github.com/winkjs/wink-ner
 - https://github.com/exo-explore/exo
 - https://github.com/axa-group/nlp.js
-- https://github.com/JaidedAI/EasyOCR
 - https://github.com/ml5js/ml5-library
 - https://github.com/smol-ai/developer
 - https://github.com/ShreyaR/guardrails
@@ -469,10 +468,12 @@
 - https://github.com/weaviate/Verba
 - https://github.com/HKUDS/LightRAG
 - https://github.com/jina-ai/reader
+- https://github.com/allenai/olmocr
 - https://github.com/getomni-ai/zerox
 - https://github.com/Cinnamon/kotaemon
 - https://github.com/tmccombs/hcl2json
 - https://github.com/microsoft/graphrag
+- https://github.com/infiniflow/ragflow
 - https://github.com/promptfoo/promptfoo
 - https://github.com/cyclotruc/gitingest
 - https://github.com/BuilderIO/gpt-crawler
@@ -549,6 +550,7 @@
 - https://github.com/vercel/ai-chatbot
 
 ## LIB: LLM
+- https://github.com/patrickloeber/llm-data-scrapers
 - https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
 - https://github.com/richards199999/Thinking-Claude
 - https://github.com/ColinEberhardt/langchain-mini
@@ -669,6 +671,11 @@
 - https://github.com/jianzhnie/awesome-text-to-video
 - https://github.com/hkchengrex/Tracking-Anything-with-DEVA
 
+## LIB: OCR IMAGE RECOGNITION
+- https://github.com/JaidedAI/EasyOCR
+- https://github.com/getomni-ai/zerox
+- https://github.com/blakeblackshear/frigate
+
 ## LIB: 3D IMAGE / STABLE DIFFUSION
 - https://github.com/AiuniAI/Unique3D
 
@@ -749,6 +756,9 @@
 ## LIB: SEARCH
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/zaidmukaddam/miniperplx
+
+## LIB: EMAIL
+- https://github.com/elie222/inbox-zero
 
 ## LIB: BROWSER
 - https://github.com/addyosmani/chatty

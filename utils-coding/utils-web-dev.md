@@ -531,6 +531,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/withastro/astro
 - https://github.com/shuding/nextra
 - https://github.com/lumeland/lume
+- https://github.com/getzola/zola
 - https://github.com/mdx-js/mdx
 - https://github.com/umijs/dumi
 - https://github.com/alloc/saus

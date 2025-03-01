@@ -30,7 +30,7 @@ MockedStaticHelper.displayThing = jest.fn().mockReturnValue(true);
 - You can also spy specific function of a static class like singleton using jest.spyOn(MyAPI.api(), 'myFeature').mockAndReturnValue(myMockedFeature)
 - You can also mock entire libraries by mapping in the jest preset to a file, see jest.preset.js:
 - Mock files: https://stackoverflow.com/questions/49685265/jest-mock-user-module-in-all-test-files
-
+- Mock mores: https://www.lucasamos.dev/articles/jestselectivemocking
 
 You can also mock to return different results on each call using mockReturnValueOnce
 
@@ -45,6 +45,30 @@ If you need more options you can use jest-when to return specific response based
 
 ```javascript
 when(fn).calledWith(1).mockReturnValue('yay!')
+```
+
+Another case is the Selective mocking or module functions:
+
+```javascript
+import { functionOne, functionTwo } from '../src/functions';
+
+jest.mock('../src/functions', () => {
+  const originalModule = jest.requireActual('../src/functions');
+
+  return {
+    __esModule: true,
+    ...originalModule,
+    functionTwo: jest.fn(() => 'functionTwo mocked implementation'),
+  };
+});
+
+test('function one', () => {
+  expect(functionOne()).toEqual('functionOne original implementation');
+});
+
+test('function two', () => {
+  expect(functionTwo()).toEqual('functionTwo mocked implementation');
+});
 ```
 
 

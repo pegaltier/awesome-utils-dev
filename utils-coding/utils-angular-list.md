@@ -1416,6 +1416,7 @@ Discover alternative to ngrx for the state management of your objects.
 - https://github.com/manfredsteyer/mf-pitfalls
 - https://github.com/valorkin/ng-mf-submodules
 - https://github.com/awslabs/frontend-discovery
+- https://github.com/web-fragments/web-fragments
 - https://github.com/TinkoffCreditSystems/roofer
 - https://github.com/single-spa/single-spa-angular
 - https://github.com/TinkoffCreditSystems/microzord

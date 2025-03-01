@@ -126,6 +126,8 @@
 
 ## UTILS DEVTOOLS
 - https://github.com/yunabe/tslab
+- https://github.com/volarjs/volar.js
+- https://github.com/commitizen/cz-cli
 - https://github.com/rodrigopivi/tslab-widgets
 - https://github.com/antfu/node-modules-inspector
 
@@ -215,6 +217,9 @@
 - https://github.com/leeoniya/uFuzzy
 - https://github.com/fromdeno/deno2node
 
+## LIBS: VITE
+- https://github.com/aleclarson/vite-tsconfig-paths
+
 ## LIBS: DATA OBJECT
 - https://github.com/RobinTail/express-zod-api
 - https://github.com/lostfictions/znv
@@ -290,6 +295,11 @@
 - https://github.com/MasterKale/SimpleWebAuthn
 - https://github.com/panva/node-oidc-provider
 - https://github.com/supertokens/supertokens-node
+- https://github.com/drudge/passport-facebook-token
+
+## LIBS: KEYS
+- https://github.com/drudge/node-gpg
+- https://github.com/drudge/node-keychain
 
 ## LIBS: CACHE
 - https://github.com/node-cache-manager/node-cache-manager
@@ -335,6 +345,7 @@
 - https://github.com/w3tecch/typeorm-seeding
 - https://github.com/drizzle-team/drizzle-orm
 - https://github.com/drifting-in-space/driftdb
+- https://github.com/drudge/mongoose-timestamp
 - https://github.com/sql-formatter-org/sql-formatter
 - https://github.com/benjamin658/typeorm-cursor-pagination
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository

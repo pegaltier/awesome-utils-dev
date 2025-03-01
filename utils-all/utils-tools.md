@@ -70,6 +70,7 @@
 - https://github.com/sxyazi/yazi
 ## OSS: EMAIL
 - https://github.com/un/inbox
+- https://github.com/elie222/inbox-zero
 # OSS: ASSETS
 - https://github.com/daminikhq/daminik
 ## OSS: NEWS
@@ -245,6 +246,7 @@
 ## Organise
 - https://github.com/noduslabs/
 - https://github.com/dendronhq/dendron
+- https://github.com/siyuan-note/siyuan
 - https://github.com/anyproto/anytype-ts
 - https://github.com/AppFlowy-IO/AppFlowy
 - https://github.com/sissbruecker/linkding

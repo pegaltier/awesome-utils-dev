@@ -791,7 +791,7 @@
 - https://github.com/mcdallas/wallstreet
 - https://github.com/51bitquant/howtrader
 - https://github.com/tastyware/tastytrade
-- https://github.com/letianzj/quanttrader
+- https://github.com/letianzj/quanttrader *
 - https://github.com/ig-python/trading-ig
 - https://github.com/gordonwoon/algo-dash
 - https://github.com/ivopetiz/algotrading *

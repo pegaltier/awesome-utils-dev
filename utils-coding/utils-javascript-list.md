@@ -115,6 +115,7 @@
 - https://github.com/mesqueeb
 - https://github.com/kolodny
 - https://github.com/ytiurin
+- https://github.com/drudge
 
 ## BOOKS
 - https://exploringjs.com/impatient-js/
@@ -278,6 +279,7 @@
 - https://github.com/orbitinghail/sqlsync
 - https://github.com/zemberdotnet/jsonl-db
 - https://github.com/StarlaneStudios/Surrealist
+- https://github.com/sqlitebrowser/sqlitebrowser
 
 ## LIB: HTTP REQUEST / WEBSOCKET
 - https://github.com/vitalets/websocket-as-promised
@@ -497,6 +499,7 @@
 
 ## LIB: MARKUP / MARKDOWN / TEXT
 - https://github.com/AgentEnder/markdown-factory
+- https://github.com/Myriad-Dreamin/typst.ts
 - https://github.com/micromark/micromark
 - https://github.com/Milkdown/milkdown
 - https://github.com/stoyan/Lizzy.js
