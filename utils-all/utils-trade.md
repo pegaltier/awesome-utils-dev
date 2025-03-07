@@ -552,9 +552,10 @@
 - https://mechanicalforex.com/
 - https://www.satyland.com/
 
-## METATRADER
+## METATRADER / MT4 / MT5
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
 - https://github.com/geraked/metatrader5
+- https://github.com/sibvic/mq5-templates
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools
 - https://github.com/EA31337/EA31337-strategies
 - https://github.com/EA31337/EA31337-Libre

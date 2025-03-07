@@ -3123,6 +3123,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/manfredsteyer/microfrontend-prototype
 - https://github.com/manfredsteyer/nx-and-module-federation
 - https://github.com/angular-architects/module-federation-plugin
+- https://github.com/anfibiacreativa/web-fragments-migration-demo
 - https://github.com/angular-experts-io/module-federation-example
 - https://github.com/manfredsteyer/module-federation-with-angular
 - https://github.com/manfredsteyer/multi-framework-micro-frontend

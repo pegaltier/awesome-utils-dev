@@ -37,6 +37,7 @@
 - https://github.com/squareboat/nest-queue
 - https://github.com/iamolegga/nestjs-pino
 - https://github.com/nestjs-addons/platform
+- https://github.com/KurtzL/nestjs-temporal
 - https://github.com/BeerMoneyDev/nest-monk
 - https://github.com/nestjs/class-validator
 - https://github.com/liaoliaots/nestjs-redis
@@ -79,8 +80,9 @@
 - https://github.com/4lejandrito/fetchbook
 - https://github.com/cszatmary/passport-mock-strategy
 
-## LIBS: TEMPLATE
+## LIBS: STARTER / TEMPLATE
 - https://github.com/SocketSomeone/nestjs-open-source-template
+- https://github.com/nestjs/typescript-starter
 
 ## EXAMPLE
 - https://github.com/adisreyaj/adi

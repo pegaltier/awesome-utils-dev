@@ -87,6 +87,7 @@
 - https://github.com/elsewhencode/project-guidelines
 - https://github.com/krausest/js-framework-benchmark
 - https://github.com/trekhleb/javascript-algorithms
+- https://github.com/ryanmcdermott/code-review-tips
 - https://github.com/mbeaudru/modern-js-cheatsheet
 - https://github.com/Sairyss/domain-driven-hexagon
 - https://github.com/30-seconds/30-seconds-of-code
@@ -107,6 +108,7 @@
 
 ## PEOPLE
 - https://github.com/douglascrockford
+- https://github.com/anfibiacreativa
 - https://github.com/antoine-coulon
 - https://github.com/williamtroup
 - https://github.com/branchseer
@@ -163,6 +165,7 @@
 ## EXAMPLE / STARTER
 
 - https://github.com/GorvGoyl/Clone-Wars
+- https://github.com/Azure-Samples/contoso-real-estate
 - https://github.com/bakeruk/modern-typescript-monorepo-example
 - https://github.com/atulmy/fullstack-javascript-architecture
 
@@ -326,6 +329,7 @@
 - https://github.com/sokra/source-map-visualization
 - https://github.com/guybedford/es-module-lexer
 - https://github.com/browserslist/browserslist-useragent
+- https://github.com/temporalio/sdk-typescript
 - https://github.com/krisk/Fuse
 - https://github.com/JLarky/rad-event-listener
 - https://github.com/EricSmekens/jsep
@@ -432,6 +436,8 @@
 - https://github.com/erikras/lru-memoize
 
 ## LIB: DI / DEPENDENCY INJECTION
+- https://github.com/jeffijoe/awilix-router-core
+- https://github.com/jeffijoe/awilix-express
 - https://github.com/ezzabuzaid/tiny-injector
 - https://github.com/inversify/InversifyJS
 - https://github.com/mgechev/injection-js
@@ -439,6 +445,7 @@
 - https://github.com/Livshitz/di.libx.js
 - https://github.com/ashleydavis/fusion
 - https://github.com/microsoft/tsyringe
+- https://github.com/jeffijoe/awilix
 - https://github.com/cleandi/cleandi
 - https://github.com/developit/mitt
 - https://github.com/mnasyrov/ditox
@@ -570,6 +577,7 @@
 - https://github.com/svendahlstrand/web-serial-api
 
 ## LIB: FRONTEND ALL
+- https://github.com/ArthurClemens/JavaScript-Undo-Manager
 - https://github.com/scottaohara/accessible_modal_window
 - https://github.com/SamVerschueren/decode-uri-component
 - https://github.com/NullVoxPopuli/should-handle-link
@@ -874,6 +882,7 @@
 - https://github.com/instructor-ai/instructor-js
 - https://github.com/a16z-infra/ai-getting-started
 - https://github.com/nickscamara/open-deep-research
+- https://github.com/google-gemini/generative-ai-js
 
 ## LIB: MATH / CALCUL / NUMBER
 - https://github.com/bpierre/dnum

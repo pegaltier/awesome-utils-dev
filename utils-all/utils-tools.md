@@ -81,6 +81,8 @@
 ## OSS: SYSTEM
 - https://github.com/Abdenasser/neohtop
 - https://github.com/orhun/menyoki
+## OSS: SUPPORT
+- https://github.com/abhinavxd/libredesk
 
 # OSS: PHOTO / IMAGE
 - https://github.com/ente-io/ente

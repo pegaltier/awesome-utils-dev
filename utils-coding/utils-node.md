@@ -120,6 +120,7 @@
 - https://github.com/tmcdos/custompatch
 - https://github.com/RetireJS/retire.js
 - https://github.com/megahertz/howfat
+- https://github.com/esm-dev/esm.sh
 - https://github.com/webpro-nl/knip
 - https://github.com/amio/npm-why
 - https://github.com/antfu/taze
@@ -225,6 +226,7 @@
 - https://github.com/lostfictions/znv
 
 ## LIBS: WORKER MULTI THREAD
+- https://github.com/jofpin/turbit
 - https://github.com/piscinajs/piscina
 - https://github.com/tinylibs/tinypool
 - https://github.com/faranalytics/socketnaut
@@ -232,6 +234,9 @@
 ## LIBS: TESTING
 - https://github.com/ladjs/supertest
 - https://github.com/privatenumber/fs-fixture
+
+## LIBS: REGEX / BLOG
+- https://github.com/isaacs/node-glob
 
 ## LIBS: SSE / SERVER SENT EVENT
 - https://github.com/Bewinxed/river.ts

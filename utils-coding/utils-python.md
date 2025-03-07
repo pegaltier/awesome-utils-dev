@@ -63,6 +63,7 @@ pip -V
 - https://github.com/pennersr/pulsus
 - https://github.com/mckinsey/vizro
 - https://github.com/kellyjonbrazil/jc
+- https://github.com/Textualize/textual
 - https://github.com/swirlai/swirl-search
 - https://github.com/vietnh1009/ASCII-generator
 - https://github.com/threestudio-project/threestudio

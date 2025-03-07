@@ -130,6 +130,7 @@ RUN ls
 - https://github.com/will-moss/isaiah
 - https://github.com/vrnetlab/vrnetlab
 - https://github.com/devcontainers/spec
+- https://github.com/aquasecurity/trivy
 - https://github.com/containerd/nerdctl
 - https://github.com/railwayapp/nixpacks
 - https://github.com/Wowu/docker-rollout
@@ -191,6 +192,7 @@ RUN ls
 - https://github.com/DoTheEvo/selfhosted-apps-docker
 - https://github.com/jonatan-ivanov/local-services
 - https://github.com/bunkerity/bunkerized-mariadb
+- https://github.com/itzg/docker-minecraft-server
 - https://github.com/bunkerity/bunkerized-nginx
 - https://github.com/mailcow/mailcow-dockerized
 - https://github.com/bunkerity/bunkerized-php

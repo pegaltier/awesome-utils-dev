@@ -361,8 +361,10 @@ GRANT ALL PRIVILEGES ON *.* TO 'pmauser'@localhost IDENTIFIED BY 'mypwd';
 
 ### Certificate
 
+- https://github.com/letsencrypt
 - https://github.com/FiloSottile/mkcert
 - https://github.com/smallstep/certificates
+- https://github.com/lstellway/self-signed-ssl
 - https://www.snel.com/support/lets-encrypt-on-debian-9-with-apache-webserver/
 - https://community.letsencrypt.org/t/the-requested-apache-plugin-does-not-appear-to-be-installed/95682/10
 

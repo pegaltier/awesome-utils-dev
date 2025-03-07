@@ -106,6 +106,7 @@
 - https://github.com/williamfiset/Algorithms
 - https://github.com/eclipse/deeplearning4j
 - https://github.com/JanusGraph/janusgraph
+- https://github.com/microsoft/kiota-java
 - https://github.com/spockframework/spock
 - https://github.com/mapstruct/mapstruct
 - https://github.com/Kong/unirest-java

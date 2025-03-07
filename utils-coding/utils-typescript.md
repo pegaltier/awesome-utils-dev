@@ -103,6 +103,7 @@ npm init
 - https://github.com/Microsoft/tsdoc
 - https://github.com/IKatsuba/mutates
 - https://github.com/pastelsky/tsdocs
+- https://github.com/jeffijoe/typesync
 - https://github.com/joaompneves/tsviz
 - https://github.com/cevek/ttypescript
 - https://github.com/johnlindquist/kit
@@ -140,12 +141,10 @@ npm init
 - https://github.com/renke/import-sort
 - https://github.com/radarsu/ts-import
 - https://github.com/compodoc/ts-stats
-- https://github.com/jeffijoe/typesync
 - https://github.com/nobrainr/morphism
 - https://github.com/airbnb/ts-migrate
 - https://github.com/rikukissa/typehole
 - https://github.com/SamVerschueren/tsd
-- https://github.com/true-myth/true-myth
 - https://github.com/nfriend/ts-key-enum
 - https://github.com/runem/ts-simple-type
 - https://github.com/dsherret/ts-ast-viewer
@@ -306,6 +305,7 @@ npm init
 - https://github.com/seasonedcc/composable-functions
 - https://github.com/gbumanzordev/payload-transformer
 - https://github.com/dsherret/conditional-type-checks
+- https://github.com/bcherny/json-schema-to-typescript
 - https://github.com/moltar/typescript-runtime-type-benchmarks
 
 ## LIB: DATA OBJECT: ZOD
@@ -323,6 +323,7 @@ npm init
 - https://github.com/Goldziher/interfaceForge
 
 ## LIB: ERROR
+- https://github.com/jeffijoe/fejl
 - https://github.com/true-myth/true-myth
 - https://github.com/vitalets/throw-utils
 - https://github.com/supermacro/neverthrow
@@ -408,31 +409,56 @@ es6 template 		 	const fullname = `Miss ${firstname} ${lastname}`;
 exampleObject: { [key: string]: string };
 ```
 
-### Object literal from enum:
+### Enum 
 
 ```typescript
-exampleObject: {
+// https://blog.logrocket.com/typescript-enums-vs-types/
+enum IdOptionEnum {
+    ID = 'id',
+    UID = 'uid',
+}
+
+// usage in object literals
+const exampleObject: {
 	[key in IdOptionEnum]: string;
 } = {
-	[IdOptionEnum.UID]: 'uid',
-	[IdOptionEnum.UUID]: 'uuid',
-	[IdOptionEnum.YUID]: 'yuid'
+	[IdOptionEnum.ID]: 'demo1',
+	[IdOptionEnum.UID]: 'demo2',
 };
+```
+
+### As const 
+```typescript
+// alternative to enum
+// https://stackoverflow.com/questions/66862421/enum-vs-as-const
+const Links = {
+    Link1: 'test1',
+    Link2: 'test2',
+} as const;
+
+type Links = (typeof Links)[keyof typeof Links];
+
+namespace Links {
+    export type Link1 = typeof Links.Link1;
+    export type Link2 = typeof Links.Link2;
+}
 ```
 
 ### Define value from enum
 ```typescript
-enum Size {
+enum ImageSize {
 	Small = 100
 	Medium = 200
 	Big = 300
 }
-exampleObject: keyof typeof ImageSize = 'Medium';
+const exampleObject: keyof typeof ImageSize = 'Medium';
 ```
 
 ### Generic values type from key of type
+
 ```typescript
 type Values<T> = T[keyof T];
+
 ```
 ### Object vs primitive type
 

@@ -249,11 +249,13 @@
 - https://github.com/2-fly-4-ai/V0-system-prompt
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
+- https://github.com/aws-samples/bedrock-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
 - https://github.com/PatrickJS/awesome-cursorrules
 - https://github.com/gpt-engineer-org/gpt-engineer
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
 - https://github.com/OpenInterpreter/open-interpreter
+- https://github.com/x1xhlol/v0-system-prompts-models-and-tools
 
 ## TOOLS: CODING: IDE
 - https://github.com/voideditor/void
@@ -381,6 +383,7 @@
 - https://github.com/joaomdmoura/crewAI
 - https://github.com/gventuri/pandas-ai
 - https://github.com/deepkit/deepkit-ml
+- https://github.com/rita3ko/tiktokenizer
 - https://github.com/the-new-sky/Wisty.js
 - https://github.com/hegelai/prompttools/
 - https://github.com/ScottfreeLLC/AlphaPy
@@ -436,10 +439,12 @@
 - https://github.com/ai16z/eliza
 - https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
+- https://github.com/coleam00/Archon
 - https://github.com/mastra-ai/mastra
 - https://github.com/reworkd/AgentGPT
 - https://github.com/Thytu/Agentarium
 - https://github.com/botpress/botpress
+- https://github.com/PySpur-Dev/pyspur
 - https://github.com/coinbase/agentkit
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
@@ -648,6 +653,7 @@
 - https://github.com/fishaudio/fish-speech
 - https://github.com/FunAudioLLM/CosyVoice
 - https://github.com/myshell-ai/OpenVoice
+- https://github.com/SparkAudio/Spark-TTS
 - https://github.com/kyutai-labs/moshi
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
@@ -710,6 +716,7 @@
 - https://github.com/easydiffusion/easydiffusion
 - https://github.com/modelscope/DiffSynth-Studio
 - https://github.com/kiri-art/docker-diffusers-api
+- https://github.com/pandayuanyu/generative-photography
 - https://github.com/SCUTlihaoyu/open-chat-video-editor
 - https://github.com/muerrilla/sd-webui-detail-daemon
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui *

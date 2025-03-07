@@ -99,6 +99,7 @@
 - https://github.com/ndelphit/apkurlgrep
 - https://github.com/goodwithtech/dockle
 - https://github.com/Infisical/infisical
+- https://github.com/aquasecurity/trivy
 - https://github.com/Tw1sm/spraycharles
 - https://github.com/Lissy93/web-check *
 - https://github.com/chenjj/CORScanner
@@ -113,6 +114,8 @@
 - https://github.com/kdzwinel/betwixt
 - https://github.com/ddosify/ddosify
 - https://github.com/hashcat/hashcat
+- https://github.com/google/osv.dev
+- https://github.com/MHSanaei/3x-ui
 - https://github.com/gchq/CyberChef
 - https://github.com/CISOfy/lynis
 - https://github.com/D3Ext/WEF
