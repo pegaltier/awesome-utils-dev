@@ -399,6 +399,9 @@
 ## EXCHANGE
 - https://www.sygnum.com/
 
+## OSS: SMART CONTRACT
+- https://github.com/noir-lang/noir
+
 ## OSS: DEX
 - https://github.com/XPRNetwork/dex-bot
 - https://github.com/hummingbot/gateway

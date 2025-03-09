@@ -40,6 +40,9 @@ Use connected devices and emulators to test and debug your apps.
 Publish into iTunes Connect for beta testing or distribution in the App Store.
 Publish to Google Play for beta testing or public distribution.
 
+## ALTERNATIVE
+- https://github.com/lynx-family/lynx
+
 ## LIB
 
 - https://github.com/nativescript-community/ui-material-components

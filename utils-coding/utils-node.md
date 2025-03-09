@@ -229,6 +229,7 @@
 - https://github.com/jofpin/turbit
 - https://github.com/piscinajs/piscina
 - https://github.com/tinylibs/tinypool
+- https://github.com/developit/web-worker
 - https://github.com/faranalytics/socketnaut
 
 ## LIBS: TESTING
@@ -395,6 +396,7 @@
 - https://github.com/justinfagnani/zipadee
 - https://github.com/kwhitley/itty-router
 - https://github.com/expressjs/multer
+- https://github.com/encoredev/encore
 - https://github.com/Xiphe/cachified
 - https://github.com/helmetjs/helmet
 

@@ -102,7 +102,9 @@
 ## UTILS: AI
 
 - https://github.com/anti-work/shortest
+- https://github.com/lightpanda-io/browser
 - https://github.com/browserbase/stagehand
+- https://github.com/web-infra-dev/midscene
 - https://github.com/executeautomation/mcp-playwright
 
 ## UTILS: HTTP

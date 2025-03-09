@@ -158,7 +158,7 @@
 - https://www.javatpoint.com/static-vs-const-in-javascript
 - https://codesource.io/javascript-design-patterns/
 - https://github.com/43081j/ecosystem-cleanup
-
+- https://macarthur.me/posts/long-tasks/
 
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
@@ -255,12 +255,6 @@
 - https://github.com/vitejs/vite
 - https://github.com/plopjs/plop
 
-## LIB: HTTP
-- https://github.com/unjs/ofetch
-- https://github.com/gajus/global-agent proxy
-- https://github.com/har-tools/http-message
-- https://github.com/http-party/http-server
-- https://github.com/http-party/node-http-proxy
 
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/TomerAberbach/lfi
@@ -288,8 +282,18 @@
 ## LIB: HTTP REQUEST / WEBSOCKET
 - https://github.com/vitalets/websocket-as-promised
 - https://github.com/node-fetch/node-fetch
+- https://github.com/L-Blondy/up-fetch
 - https://github.com/alovajs/alova
 - https://github.com/axios/axios
+- https://github.com/unjs/ofetch
+
+## LIB: HTTP OTHERS
+- https://github.com/har-tools/http-message
+- https://github.com/http-party/http-server
+
+## LIB: HTTP PROXY
+- https://github.com/gajus/global-agent proxy
+- https://github.com/http-party/node-http-proxy
 
 ## LIB: BACKEND
 - https://github.com/mailgun/mailgun.js
@@ -398,6 +402,7 @@
 
 ## LIB: DESIGN PATTERN
 - https://github.com/douglasgreyling/light-service.js
+- https://github.com/AllThingsSmitty/basic-design-patterns
 
 ## LIB: PIPELINE
 - https://github.com/danger/danger-js
@@ -418,6 +423,7 @@
 
 ## LIB: WEBASSEMBLY
 - https://github.com/bytecodealliance/jco
+- https://github.com/CanadaHonk/porffor
 
 ## LIB: VALIDATION
 - https://standardschema.dev/
@@ -438,6 +444,7 @@
 - https://github.com/erikras/lru-memoize
 
 ## LIB: DI / DEPENDENCY INJECTION
+- https://tsh.io/blog/dependency-injection-in-node-js/
 - https://github.com/jeffijoe/awilix-router-core
 - https://github.com/jeffijoe/awilix-express
 - https://github.com/ezzabuzaid/tiny-injector
@@ -478,6 +485,7 @@
 - https://github.com/simov/slugify
 - https://github.com/mtiller/urns
 - https://github.com/unjs/ufo
+
 
 ## LIB: PASSWORD
 - https://github.com/OktaSecurityLabs/passprotect-js
@@ -544,6 +552,7 @@
 - https://github.com/comunica/comunica
 - https://github.com/olivernn/lunr.js
 - https://github.com/askorama/orama
+- https://github.com/krisk/fuse
 
 ## LIB: UI
 - https://github.com/boringdesigners/boring-avatars
@@ -991,13 +1000,15 @@
 
 ## LIB: PDF / DOC
 - https://github.com/h-tex/vfrag
-- https://github.com/pagedjs/pagedjs
+- https://github.com/dolanmiu/docx
 - https://github.com/parallax/jsPDF
 - https://github.com/foliojs/pdfkit
 - https://github.com/Hopding/pdf-lib
 - https://github.com/torakiki/pdfsam
+- https://github.com/pagedjs/pagedjs
 - https://github.com/dalenguyen/pdfun
 - https://github.com/bpampuch/pdfmake
+- https://github.com/pdfslick/pdfslick
 - https://github.com/carboneio/carbone
 - https://github.com/24eme/signaturepdf
 - https://github.com/hand-dot/labelmake
@@ -1039,6 +1050,7 @@
 - https://github.com/mgechev/mk.js
 - https://github.com/straker/kontra
 - https://github.com/melonjs/melonJS
+- https://github.com/jhlywa/chess.js
 - https://github.com/olistic/warriorjs
 - https://github.com/TitanPlayz100/teti
 - https://github.com/KilledByAPixel/LittleJS

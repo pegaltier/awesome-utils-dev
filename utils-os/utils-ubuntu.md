@@ -13,3 +13,6 @@ usermod -aG sudo myuser
 # copy ssh key from root to myuser
 rsync --archive --chown=myuser:myuser ~/.ssh /home/myuser
 ```
+
+# LIB
+- https://github.com/monasticacademy/httptap

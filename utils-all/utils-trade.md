@@ -147,6 +147,7 @@
 - https://polygon.io/ * 
 - https://moralis.io/
 - https://tardis.dev/
+- https://spikeet.com/
 - https://cryptick.net/
 - https://databento.com/
 - https://tradermade.com/
@@ -155,6 +156,7 @@
 - https://docs.kraken.com/
 - https://crypto-lake.com/
 - https://norgatedata.com/
+- https://marketstack.com/
 - https://www.alphavantage.co/
 - https://eodhistoricaldata.com/
 - https://coinlayer.com/product *
@@ -210,6 +212,7 @@
 - https://github.com/public-apis/public-apis?tab=readme-ov-file#finance
 
 ## LIST: OSS
+- https://github.com/KatanaQuant/newsletter
 - https://github.com/merovinh/best-of-algorithmic-trading
 - https://github.com/paperswithbacktest/awesome-systematic-trading
 
@@ -676,6 +679,7 @@
 - https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/rodrigo-brito/ninjabot
 - https://github.com/ghostfolio/ghostfolio
+- https://github.com/maybe-finance/maybe
 - https://github.com/afadil/wealthfolio
 - https://github.com/0xDub/figgie-auto
 
@@ -985,6 +989,7 @@
 - https://grademark.github.io/grademark-first-example/
 
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
+- https://aicryptochartanalysis.com/
 - https://github.com/virattt/ai-hedge-fund
 - https://github.com/AI4Finance-Foundation/FinRL
 - https://github.com/tensortrade-org/tensortrade

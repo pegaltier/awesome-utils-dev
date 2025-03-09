@@ -86,6 +86,7 @@
 - https://github.com/hkithub-official/no-plaintext-passwords
 - https://github.com/decalage2/awesome-security-hardening
 - https://github.com/Authenticator-Extension/Authenticator
+- https://github.com/intigriti/misconfig-mapper
 - https://github.com/Orange-Cyberdefense/KeePwn
 - https://github.com/th3unkn0n/facebash-termux
 - https://github.com/Dheerajmadhukar/4-ZERO-3

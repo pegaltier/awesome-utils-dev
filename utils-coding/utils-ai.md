@@ -190,6 +190,7 @@
 - https://debuild.co/
 - https://codegpt.co/
 - https://lovable.dev/
+- https://www.trae.ai/
 - https://voideditor.com/
 - https://www.cursor.com/
 - https://www.devgpt.com/
@@ -322,6 +323,7 @@
 - https://runwayml.com/
 
 ## TOOLS: AUDIO
+- https://www.ai-sesame.com/
 - https://elevenlabs.io/
 - https://sondeas.com/
 
@@ -558,6 +560,9 @@
 - https://github.com/baptisteArno/typebot.io
 - https://github.com/mendableai/rag-arena
 - https://github.com/vercel/ai-chatbot
+
+## LIB: PROXY
+- https://github.com/BerriAI/litellm
 
 ## LIB: VLM
 - https://github.com/THUDM/CogAgent

@@ -29,11 +29,18 @@
 - https://github.com/stefanak-michal/cyphergui
 - https://github.com/VictoriaMetrics/VictoriaMetrics
 
+## DB TIMESERIES
+- https://github.com/questdb/questdb
+- https://github.com/influxdata/influxdb
+- https://github.com/timescale/timescaledb
+
 ## DB UTILS
 - https://github.com/PRQL/prql
 - https://github.com/knex/knex
 - https://github.com/kysely-org/kysely
+- https://github.com/electric-sql/pglite
 - https://github.com/ankit5999/buildmymeta
+- https://github.com/readysettech/readyset
 
 ## NOSQL / MONGO
 - https://github.com/mongodb-js/compass

@@ -47,6 +47,7 @@ pip -V
 
 ## STARTER
 - https://github.com/mirumee/saleor
+- https://github.com/harry0703/MoneyPrinterTurbo/
 - https://github.com/FujiwaraChoki/MoneyPrinterV2
 - https://github.com/tiangolo/full-stack-fastapi-template
 

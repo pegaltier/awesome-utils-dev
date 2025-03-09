@@ -10,6 +10,7 @@
 ## Fullstack
 - https://github.com/CriticalMoments/CMSaasStarter
 - https://github.com/leerob/next-saas-starter
+- https://github.com/ixartz/SaaS-Boilerplate
 - https://github.com/boxyhq/saas-starter-kit
 - https://github.com/epicweb-dev/epic-stack
 - https://github.com/nicoalbanese/kirimase
@@ -17,6 +18,7 @@
 - https://github.com/chartbrew/chartbrew
 - https://github.com/nextjs/saas-starter
 - https://github.com/wasp-lang/open-saas
+- https://github.com/antoineross/Hikari
 - https://github.com/ocluf/justship
 - https://github.com/Idee8/ShipFree
 - https://github.com/upstash/jstack
@@ -66,3 +68,4 @@
 
 ## Automation
 - https://github.com/FujiwaraChoki/MoneyPrinter
+- https://github.com/harry0703/MoneyPrinterTurbo/

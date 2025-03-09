@@ -152,6 +152,7 @@
 - Type of update: optimistic, pessimistic
 - Layer for signal: components only or everywhere
 - Css normalisation standard: BEM et OOCSS
+- https://medium.com/@eugeniyoz/starting-a-modern-angular-application-9cbe409ee610
 
 
 ## HELPER: DECISIONS SYNC
@@ -983,6 +984,9 @@ Learn everything about angular universal, make a good SEO.
 
 ## CORE: RESOURCES
 - https://github.com/AhsanAyaz/ng-http-resource
+- https://github.com/markostanimirovic/rx-resource-proto
+- https://stackblitz.com/edit/withaplan-angular-19-streaming-resource-api-6hsy2euj?file=src%2Fexample-2.component.ts
+- https://medium.com/@ramajonnada/stop-using-observables-angular-19s-signal-based-resource-api-is-the-future-887abea6e167
 
 ## CORE: SIGNALS
 
@@ -2427,6 +2431,7 @@ Analyze and optimize the performance of your app
 - https://github.com/tsparticles/tsparticles
 - https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
+- https://github.com/code-farmz/ng-otp-input
 - https://github.com/leovo2708/ngx-treeview
 - https://github.com/joejordanbrown/popover
 - https://github.com/ncstate-sat/popover
@@ -2707,6 +2712,7 @@ Add a progressbar for displaying a loader during the different async task like h
 ## ECOSYSTEM: LIB: COMPONENT: FORMS
 
 - https://github.com/rxweb/rxweb
+- https://github.com/tanstack/form
 - https://github.com/ngx-meta/rules
 - https://github.com/formql/formql
 - https://github.com/ngspot/ngx-errors
@@ -2979,6 +2985,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/JiaLiPassion/scoped-zone-sample
 - https://github.com/rainerhahnekamp/angular-testing-status
 - https://github.com/joshuamorony/ng-template-outlet-example
+- https://github.com/angular-courses-lab/angular-debug-quest
 
 ## ECOSYSTEM: DEMO: TRAINING
 - https://github.com/nrwl/nx-workshop
@@ -3398,9 +3405,12 @@ Find here tools, snippets, extensions, plugins for different IDE.
 - https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
 - https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 - https://marketplace.visualstudio.com/items?itemName=folke.vscode-monorepo-workspace
+- https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+- https://www.howtogeek.com/vs-code-extensions-i-cant-live-without/
 - http://brianflove.com/2017/04/11/angular-language-service/
 
   ## ECOSYSTEM: VSCODE: SOURCE
+  - https://github.com/Gruntfuggly/todo-tree
 - https://github.com/angular/vscode-ng-language-service
 - https://github.com/edgardmessias/vscode.clipboard-manager
 - https://github.com/Microsoft/TypeScript-Sublime-Plugin Sublimetext

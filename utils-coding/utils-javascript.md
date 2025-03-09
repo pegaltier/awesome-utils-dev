@@ -6,6 +6,9 @@
 ## SHORTHANDS
 - https://morioh.com/p/05414714e685?f=5c21fb01c16e2556b555ab32
 
+## ADVANCED
+- https://javascript.plainenglish.io/5-most-powerful-advanced-javascript-concepts-9d78cc22287a
+
 ## OPTIMIZATION
 - https://romgrk.com/posts/optimizing-javascript
 - https://thenewstack.io/how-to-master-javascript-performance-optimization

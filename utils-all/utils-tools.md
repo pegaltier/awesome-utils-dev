@@ -11,6 +11,7 @@
 - https://pimeyes.com/en
 - https://www.tldraw.com/
 - https://owncast.online/
+- https://phalternatives.com/
 - https://onlineminitools.com/
 - https://oscarleo.com/google-trends
 - https://metatags.io/font-generator
@@ -277,6 +278,7 @@
 - https://github.com/zapier/zapier-platform
 - https://github.com/automatisch/automatisch
 - https://github.com/dmtrbrl/bulk-url-opener
+- https://github.com/harry0703/MoneyPrinterTurbo/
 - https://github.com/FujiwaraChoki/MoneyPrinterV2
 - https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1
 
