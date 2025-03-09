@@ -8,9 +8,22 @@
 - https://github.com/Asabeneh/30-Days-Of-Python
 - https://github.com/zhiwehu/Python-programming-exercises
 
-## Common Helper
+## Dependencies
 
-Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world
+## Global
+- install with: pip install -r requirements.txt
+- run with: python .\my-script.py >> output.txt
+
+## Local
+- use virtualenv to scope deps to the current folder
+- Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world
+
+### More
+
+- https://stackoverflow.com/questions/7818811/error-import-error-no-module-named-numpy-on-windows
+- https://stackoverflow.com/questions/53925660/installing-python-dependencies-locally-in-project
+
+
 - https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv
 
 ### PIP 

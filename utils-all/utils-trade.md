@@ -870,7 +870,13 @@
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/techfreaque/octobot-lorentzian-classification
 
+### OSS: JAVASCRIPT: MATH
+- https://github.com/compute-io
+- https://github.com/thisancog/statistics.js
+
 ### OSS: JAVASCRIPT: INDICATORS
+- https://github.com/compute-io
+- https://github.com/thisancog/statistics.js
 - https://github.com/kaelzhang/finmath
 - https://github.com/munrocket/ta-math
 - https://github.com/debut-js/Indicators
