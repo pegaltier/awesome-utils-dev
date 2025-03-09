@@ -11,6 +11,7 @@
 - https://www.manyver.se/
 - https://replicache.dev/
 - https://fosdem.org/2022/
+- https://briarproject.org/
 - https://decentpatterns.xyz/
 - https://agregore.mauve.moe/
 - https://earthstar-project.org/

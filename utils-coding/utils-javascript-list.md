@@ -111,6 +111,7 @@
 - https://github.com/anfibiacreativa
 - https://github.com/antoine-coulon
 - https://github.com/williamtroup
+- https://github.com/rhyssullivan
 - https://github.com/branchseer
 - https://github.com/ahejlsberg
 - https://github.com/johnpapa
@@ -319,14 +320,14 @@
 - https://github.com/JSMonk/hegel
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
-- https://github.com/sindresorhus/is64bit
+- https://github.com/unjs/cookie-es
 - https://github.com/tkrotoff/throw-on
 - https://github.com/js-cookie/js-cookie
-- https://github.com/unjs/cookie-es
 - https://github.com/sindresorhus/p-mutex
+- https://github.com/sindresorhus/is64bit
 - https://github.com/JasonStorey/Optional.js
+- https://github.com/jonschlinkert/get-value
 - https://github.com/anchmelev/web-worker-bus
-- https://github.com/sokra/source-map-visualization
 - https://github.com/guybedford/es-module-lexer
 - https://github.com/browserslist/browserslist-useragent
 - https://github.com/temporalio/sdk-typescript
@@ -419,6 +420,7 @@
 - https://github.com/bytecodealliance/jco
 
 ## LIB: VALIDATION
+- https://standardschema.dev/
 - https://github.com/hapijs/joi
 - https://github.com/sideway/joi
 - https://github.com/samchon/typia
@@ -463,6 +465,7 @@
 - https://github.com/xxczaki/light-date
 - https://github.com/duetds/date-picker
 - https://github.com/spencermountain/spacetime
+- https://github.com/mymth/vanillajs-datepicker
 - https://github.com/fullcalendar/temporal-polyfill
 
 ## LIB: URL
@@ -744,6 +747,7 @@
 - https://github.com/cytoscape/cytoscape.js
 - https://github.com/williamtroup/Syntax.js
 - https://github.com/gridstack/gridstack.js
+- https://github.com/klinecharts/KLineChart
 - https://github.com/highcharts/highcharts
 - https://github.com/bprusinowski/plotteus
 - https://github.com/cube-js/awesome-tools
@@ -757,6 +761,7 @@
 - https://github.com/jacomyal/sigma.js
 - https://github.com/observablehq/plot
 - https://github.com/plotly/plotly.js
+- https://github.com/chartjs/Chart.js
 - https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
 - https://github.com/pa7/heatmap.js
@@ -973,7 +978,7 @@
 - https://github.com/sindresorhus/uint8array-extras
 - https://github.com/GoogleChromeLabs/buffer-backed-object
 
-## LIB: ID UTILS / UID / ULID
+## LIB: ID / UID / ULID
 - https://github.com/ai/nanoid
 - https://github.com/ulid/javascript
 - https://github.com/aarondcohen/id128
@@ -1002,6 +1007,7 @@
 - https://github.com/simonhaenisch/md-to-pdf
 - https://github.com/OpenTermsArchive/engine
 - https://github.com/alonrbar/easy-template-x
+- https://github.com/open-xml-templating/docxtemplater
 
 ## LIB: AUTOMATION
 - https://github.com/checkly/theheadless.dev

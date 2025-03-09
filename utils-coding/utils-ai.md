@@ -4,6 +4,7 @@
 - https://github.com/osanseviero/ml_timeline
 - https://9elements.com/blog/ai-glossary
 - https://www.agentrecipes.com/
+- https://learnprompting.org/
 - https://www.superhuman.ai
 - https://www.therundown.ai
 - https://www.fast.ai
@@ -116,11 +117,12 @@
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/zaidmukaddam/scira
 
-## TOOLS: OFFLINE
+## TOOLS: OFFLINE / LOCAL
 - https://jan.ai/
 - https://lmstudio.ai/
 - https://github.com/janhq/jan *
 - https://github.com/lmstudio-ai
+- https://github.com/withcatai/node-llama-cpp
 
 ## TOOLS: SUPPORT
 - https://www.mendable.ai/
@@ -256,6 +258,7 @@
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
 - https://github.com/OpenInterpreter/open-interpreter
 - https://github.com/x1xhlol/v0-system-prompts-models-and-tools
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
 ## TOOLS: CODING: IDE
 - https://github.com/voideditor/void
@@ -651,12 +654,14 @@
 - https://github.com/eustlb/speech-to-speech
 - https://github.com/souzatharsis/podcastfy
 - https://github.com/fishaudio/fish-speech
+- https://github.com/remsky/Kokoro-FastAPI
 - https://github.com/FunAudioLLM/CosyVoice
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/SparkAudio/Spark-TTS
 - https://github.com/kyutai-labs/moshi
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
+- https://github.com/hexgrad/kokoro
 - https://github.com/suno-ai/bark
 - https://github.com/coqui-ai/TTS
 

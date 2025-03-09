@@ -15,6 +15,7 @@ low-code tooling to prototype fastly.
 - https://www.builder.io
 - https://www.newco.app
 - https://www.adalo.com
+- https://superstash.co
 - https://www.hapify.io
 - https://zeroqode.com
 - https://www.softr.io

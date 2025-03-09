@@ -182,6 +182,9 @@ RUN ls
 - https://github.com/docker/awesome-compose/tree/master/react-nginx
 - https://mav-rana.medium.com/containerize-a-simple-static-website-a381c5e49633
 
+## DOCKER IMAGES: AI
+- https://github.com/remsky/Kokoro-FastAPI
+
 ## DOCKER IMAGES ALL
 - https://github.com/help-me-mom/wordpress-docker-template
 - https://github.com/NginxProxyManager/nginx-proxy-manager

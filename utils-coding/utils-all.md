@@ -70,7 +70,7 @@
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 ## AWESOME LIST WWW
-
+- https://shiptalkers.dev/
 - https://awesomelists.top/
 - https://project-awesome.org/
 - https://awesomeopensource.com/
@@ -80,6 +80,7 @@
 - https://glitch.com/
 
 ## COMMUNITY
+- https://antiwork.com/
 - https://www.techs.rocks/
 - https://www.enchantedrobot.xyz/
 - https://github.com/ladyleet/tech-community-slacks

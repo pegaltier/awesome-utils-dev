@@ -694,6 +694,7 @@ PANTOS — - https://pantos.io
 - https://degen.express/
 - https://beliefs.social/
 - https://www.boomtown.meme/
+- https://meme.soniclabs.com/
 
 ## MEMES: AI
 - https://ai16z.ai/

@@ -29,6 +29,7 @@
 - https://leanpub.com/theengineeringplaybook
 
 ## ARTICLES
+- https://ducin.dev/what-is-frontend-architecture
 - https://blog.ippon.fr/2018/09/12/quest-ce-quun-metarchitecte/
 - https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code
 - https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-debt-reclaiming-tech-equity

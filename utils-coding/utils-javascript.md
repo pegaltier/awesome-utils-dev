@@ -43,6 +43,7 @@ In HTML, the global scope is the window object. All global variables belong to t
 - .bind() - creates a new function with the same function body, with a preset value of this (the first argument) and returns that function. when the function is called, it has its 'this' keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called. it is not necessary to pass the arguments at the time of `bind`. we can pass it later at the time of invocation.
 
 - https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be
+- https://medium.com/@adambomb/understand-javascript-more-deeply-by-writing-a-bind-function-8b619b242dcc
 - https://stackoverflow.com/questions/15677738/whats-the-difference-between-call-apply-and-bind/15677775#15677775
 
 ### FUNCTION

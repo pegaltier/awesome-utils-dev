@@ -161,6 +161,7 @@
 - https://github.com/benbristow/dokploy-compose-templates
 - https://github.com/benbristow/dokploy-deploy-action
 - https://github.com/jmischler72/dokploy-deploy-action
+- https://git.deuxfleurs.fr/Deuxfleurs/garage
 - https://github.com/azukaar/Cosmos-Server
 - https://github.com/coollabsio/coolify
 - https://github.com/newsnowlabs/runcvm

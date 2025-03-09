@@ -1020,6 +1020,7 @@ Learn everything about angular universal, make a good SEO.
 - https://www.angulararchitects.io/en/blog/component-communication-with-signals-inputs-two-way-bindings-and-content-view-queries/
 - https://justangular.com/blog/providing-inputs-in-di
 - https://nartc.me/blog/angular-object-inputs/
+- https://angularexperts.io/blog/stop-misusing-effects
 - https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396
 - https://www.codigotipado.com/p/linkedsignal-in-angular-19-say-goodbye
 
@@ -1935,6 +1936,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/expertly-simple/angular-evergreen
 - https://github.com/dot-build/angular-serve-and-run
 - https://github.com/AleksanderBodurri/shield-maker
+- https://github.com/sokra/source-map-visualization
 - https://github.com/danielglejzner/ng16-dep-audit
 - https://github.com/nitedani/vite-plugin-angular
 - https://github.com/angular-experts-io/terminal
@@ -1973,6 +1975,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/kachkaev/njt
 - https://github.com/pahen/madge
 - https://github.com/rome/tools
+- https://www.hawkeyeapp.dev/
 
 ## ECOSYSTEM: LIB: LAZY
 
@@ -2494,7 +2497,6 @@ Analyze and optimize the performance of your app
 - https://github.com/udayvunnam/xng-breadcrumb
 - https://github.com/scttcper/ngx-emoji-mart
 - https://github.com/DethAriel/ng-recaptcha
-- https://github.com/scttcper/ngx-toastr
 - https://github.com/IOMechs/angular-year-calendar
 - https://github.com/tinesoft/ngx-cookieconsent
 - https://github.com/aavanzyl/ngx-tiny
@@ -2511,6 +2513,10 @@ Analyze and optimize the performance of your app
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
 - https://github.com/omnedia many
+
+## ECOSYSTEM: LIB: COMPONENT: ALERT / TOAST / SNACKBAR / NOTIF
+- https://github.com/scttcper/ngx-toastr
+- https://github.com/efi-az/ngx-alert
 
 ## ECOSYSTEM: LIB: COMPONENT: QR CODE
 - https://github.com/Cordobo/angularx-qrcode

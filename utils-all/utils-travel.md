@@ -78,6 +78,7 @@ VISA: <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/service
 ## Italy
 - https://murlo.com/
 - https://nestitaly.com/experiences/
+- https://ulysse.com/news/ile-italienne-havre-de-paix-retraite-tranquille
 
 ## Festival
 - https://www.japaneuch.ch neuchatel (end of june)

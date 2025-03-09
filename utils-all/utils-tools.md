@@ -4,6 +4,7 @@
 ## Web
 
 - https://tally.so/
+- https://devsuite.co/
 - https://radiocast.co/
 - https://it-tools.tech/
 - https://dingboard.com/
@@ -66,6 +67,7 @@
 - https://github.com/telegraf/telegraf
 ## OSS: SOCIAL
 - https://github.com/gitroomhq/postiz-app
+- https://github.com/anti-work/iffy
 ## OSS: FILES
 - https://github.com/sxyazi/yazi
 ## OSS: EMAIL
@@ -82,6 +84,7 @@
 - https://github.com/Abdenasser/neohtop
 - https://github.com/orhun/menyoki
 ## OSS: SUPPORT
+- https://github.com/anti-work/helper
 - https://github.com/abhinavxd/libredesk
 
 # OSS: PHOTO / IMAGE

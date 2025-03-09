@@ -96,6 +96,12 @@
 - https://www.herodevs.com/support/endbridge
 - https://github.com/facebookincubator/memlab
 
+## UTILS: AI
+
+- https://github.com/anti-work/shortest
+- https://github.com/browserbase/stagehand
+- https://github.com/executeautomation/mcp-playwright
+
 ## UTILS: HTTP
 - https://github.com/apiaryio/dredd
 
@@ -149,10 +155,8 @@
 - https://github.com/jfgreffier/playwright-component-demos
 - https://github.com/currents-dev/playwright-gh-actions-demo
 - https://github.com/jfgreffier/incroyable-playwright
-- https://github.com/executeautomation/mcp-playwright
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
-- https://github.com/browserbase/stagehand
 - https://github.com/BuilderIO/gpt-crawler
 - https://github.com/mxschmitt/try-playwright
 - https://github.com/vitalets/playwright-bdd

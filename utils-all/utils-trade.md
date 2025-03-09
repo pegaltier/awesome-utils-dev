@@ -191,6 +191,7 @@
 - https://github.com/tardis-dev/tardis-node
 - https://github.com/BennyThadikaran/eod2
 - https://github.com/BennyThadikaran/eod2_data
+- https://github.com/datasets/oil-prices
 - https://github.com/datasets/finance-vix
 - https://github.com/datasets/s-and-p-500
 - https://github.com/datasets/gold-prices
@@ -202,6 +203,7 @@
 - https://github.com/CoinQuanta/awesome-crypto-api
 - https://github.com/ThetaData-API/thetadata-python
 - https://github.com/DavideViolante/investing-com-api *
+- https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/Zdong104/FNSPID_Financial_News_Dataset
 - https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot
 - https://github.com/DevOpsLP/Historical-data-fetcher/tree/main
@@ -552,6 +554,9 @@
 - https://mechanicalforex.com/
 - https://www.satyland.com/
 
+## ARTICLES: PAGE
+- https://www.businessinsider.com/how-to-get-job-hedge-fund-citadel-millennium-deshaw-point72-2025-1
+
 ## METATRADER / MT4 / MT5
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
 - https://github.com/geraked/metatrader5
@@ -888,9 +893,11 @@
 ### OSS: JAVASCRIPT: CHART
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/project-nv/night-vision
+- https://github.com/klinecharts/KLineChart
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/cm45t3r/candlestick
 - https://github.com/jones2000/HQChart
+- https://github.com/chartjs/Chart.js
 - https://github.com/klinecharts/pro
 - https://github.com/apache/superset
 
@@ -912,6 +919,7 @@
 - https://github.com/nielse63/stonksjs
 - https://github.com/cinar/indicatorts *
 - https://github.com/ixjb94/indicators *
+- https://github.com/ixjb94/indicators-js
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *
 - https://github.com/suenot/profitmaker *
