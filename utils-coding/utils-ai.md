@@ -238,6 +238,7 @@
 - https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
 - https://github.com/trypear/pearai-master
+- https://github.com/mannaandpoem/OpenManus
 - https://github.com/huggingface/llm-vscode
 - https://github.com/abi/screenshot-to-code
 - https://github.com/Pythagora-io/gpt-pilot
@@ -440,6 +441,7 @@
 
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/ai16z/eliza
+- https://github.com/camel-ai/owl
 - https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
 - https://github.com/coleam00/Archon
@@ -556,6 +558,10 @@
 - https://github.com/baptisteArno/typebot.io
 - https://github.com/mendableai/rag-arena
 - https://github.com/vercel/ai-chatbot
+
+## LIB: VLM
+- https://github.com/THUDM/CogAgent
+- https://github.com/sgl-project/sglang
 
 ## LIB: LLM
 - https://github.com/patrickloeber/llm-data-scrapers

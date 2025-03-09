@@ -85,8 +85,8 @@
 
 ## QUOTES/ACTIVITY
 - http://charts.woobull.com
-- https://datamish.comk
 - https://chainshuttle.com
+- https://datamish.comk
 - https://coin360.io
 - https://coinlib.io
 - https://enroyd.com
@@ -94,6 +94,7 @@
 - https://dickline.info
 - https://coinmetrics.io
 - https://blockfolio.com
+- https://basistrade.xyz
 
 - https://coincheckup.com
 - https://coins95.web.app

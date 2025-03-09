@@ -645,6 +645,7 @@
 - https://github.com/ai/keyux
 
 ## LIB: FRONTEND ANIMATION
+- https://github.com/LeaVerou/style-observer
 - https://github.com/formkit/auto-animate
 - https://github.com/dnnsjsk/glaze
 
@@ -958,6 +959,7 @@
 - https://github.com/PeculiarVentures/PKI.js
 - https://github.com/mesqueeb/sha-anything
 - https://github.com/puleos/object-hash
+- https://github.com/dcodeIO/bcrypt.js
 
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js

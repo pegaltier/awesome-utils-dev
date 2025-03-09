@@ -48,6 +48,9 @@
 - https://rungutan.com/
 - https://applitools.com/
 
+## TOOLS: AI
+- https://www.meticulous.ai/
+
 ## TOOLS: WEB
 - https://screenster.io/
 - https://testrec.com/

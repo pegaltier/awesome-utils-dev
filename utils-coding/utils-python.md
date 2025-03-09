@@ -64,6 +64,7 @@ pip -V
 - https://github.com/apache/superset
 - https://github.com/tinygrad/tinygrad
 - https://github.com/PrefectHQ/prefect
+- https://github.com/hyperopt/hyperopt
 - https://github.com/allegroai/trains
 - https://github.com/tiangolo/fastapi
 - https://github.com/pennersr/pulsus

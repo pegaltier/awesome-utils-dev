@@ -35,6 +35,6 @@
 - https://github.com/kysely-org/kysely
 - https://github.com/ankit5999/buildmymeta
 
-## MONGO
+## NOSQL / MONGO
 - https://github.com/mongodb-js/compass
 - https://github.com/FerretDB/FerretDB
