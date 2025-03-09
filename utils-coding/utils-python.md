@@ -10,11 +10,11 @@
 
 ## Dependencies
 
-## Global
+### Global
 - install with: pip install -r requirements.txt
 - run with: python .\my-script.py >> output.txt
 
-## Local
+### Local
 - use virtualenv to scope deps to the current folder
 - Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world
 
@@ -22,30 +22,23 @@
 
 - https://stackoverflow.com/questions/7818811/error-import-error-no-module-named-numpy-on-windows
 - https://stackoverflow.com/questions/53925660/installing-python-dependencies-locally-in-project
-
-
+- https://thenewstack.io/why-every-python-dev-needs-virtual-environments-now/
 - https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv
 
-### PIP 
+### Commands 
 
 ```bash
 # to check current pip config
 pip config debug
-
 # to change pip directory 
 pip config set global.target /Users/Bob/Library/Python/3.8/lib/python/site-packages
-
 # to check current version
 pip -V
-
 # since python installed the new version in folder specified in ENV: PYTHONUSERBASE
 # but python wanted only to use the pip from the /Users/Bob/Library/Python/3.x.x/lib/python/site-packages
 # then i have copied/paste the pip folder froml PYTHONUSERBASE to site-packages
 
 ```
-
-## ENV
-- https://thenewstack.io/why-every-python-dev-needs-virtual-environments-now/
 
 
 ## HTTP Request
