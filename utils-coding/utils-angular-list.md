@@ -535,8 +535,9 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER / CLOUD HOSTING
 - https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.nt2t38q9n
 - https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.ibey01fko
 
-## CORE: TEMPLATE
-
+## CORE: TEMPLATE / PROJECTION
+- https://nartc.me/blog/angular-content-projection/
+- https://medium.com/coreteq/slots-make-your-angular-api-flexible-89e707ffae4c
 - https://codeburst.io/angular-interview-question-what-are-ng-container-ng-content-and-ng-template-9fafbbc255d5
 - http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 - https://blog.angularindepth.com/angular-mastery-template-syntax-194bffe2ad6f
@@ -984,6 +985,7 @@ Learn everything about angular universal, make a good SEO.
 
 ## CORE: RESOURCES
 - https://github.com/AhsanAyaz/ng-http-resource
+- https://github.com/angular/angular/discussions/60120
 - https://github.com/markostanimirovic/rx-resource-proto
 - https://stackblitz.com/edit/withaplan-angular-19-streaming-resource-api-6hsy2euj?file=src%2Fexample-2.component.ts
 - https://medium.com/@ramajonnada/stop-using-observables-angular-19s-signal-based-resource-api-is-the-future-887abea6e167
@@ -1058,6 +1060,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 - https://medium.com/ngconf/how-to-override-component-providers-in-angular-unit-tests-b73b47b582e3
 - https://medium.com/javascript-in-plain-english/unit-testing-angular-component-testing-f0c478de3dd8
 - https://medium.com/@kevinkreuzer/test-your-components-using-angular-materials-component-harnesses-f9c1deebdf5d
+- https://medium.com/@piyalidas.it/angular-unit-test-case-of-http-request-get-using-httptestingcontroller-e68004758eb6
 - https://medium.com/@pattferraggi/how-i-found-a-problem-with-angular-unit-testing-and-decided-to-fix-it-myself-7c00b58d57a7
 - https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
 - https://netbasal.com/simulating-events-in-angular-unit-tests-5482618cd6c6
@@ -1835,6 +1838,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/avivharuzi/ngx-seo
 - https://github.com/nimesko/ngx-seo-page
 - https://github.com/eneajaho/ngx-isr
+- https://github.com/eneajaho/new-isr-poc
 - https://npm.io/search/keyword:angular+universal
 - https://github.com/netlify/netlify-plugin-angular-universal
 - https://github.com/brandonroberts/angular-to-analog-migration

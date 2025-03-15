@@ -64,6 +64,7 @@
 - https://learn.co/courses/introduction-to-javascript
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#
 - https://dev.to/rahxuls/the-ultimate-and-free-javascript-resources-278i
+- https://dev.to/alaa-samy/clean-code-in-javascript-a-comprehensive-guide-152j
 
 ## GUIDE-OPEN
 
@@ -669,6 +670,7 @@
 
 ## LIB: FRONTEND CAROUSEL / SLIDER / SCROLL
 - https://github.com/dhilt/vscroll
+- https://github.com/glidejs/glide
 - https://github.com/bramus/sda-utilities
 - https://github.com/dhilt/vscroll-native
 - https://github.com/zachleat/carouscroll
@@ -789,6 +791,7 @@
 
 ## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
 - https://github.com/francoischalifour/medium-zoom
+- https://github.com/maximux13/waveform-renderer
 - https://github.com/openseadragon/openseadragon
 - https://github.com/steveruizok/perfect-arrows
 - https://github.com/mjackson/multipart-parser
@@ -846,6 +849,7 @@
 - https://github.com/mikbry/awesome-webgpu
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
+- https://github.com/toddeTV/gltf-type-toolkit
 - https://github.com/mkkellogg/TrailRendererJS
 - https://github.com/bgstaal/multipleWindow3dScene
 - https://github.com/anvaka/graph-drawing-libraries
@@ -879,6 +883,7 @@
 - https://github.com/openai/openai-node
 - https://github.com/kaiban-ai/KaibanJS
 - https://github.com/neilgupta/Sherlock
+- https://github.com/googleapis/js-genai
 - https://github.com/dzhng/deep-research
 - https://github.com/xiangsx/gpt4free-ts
 - https://github.com/SawyerHood/draw-a-ui

@@ -78,6 +78,7 @@ VISA: <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/service
 ## Italy
 - https://murlo.com/
 - https://nestitaly.com/experiences/
+- https://fr.m.wikipedia.org/wiki/Santa_Magdalena_(Italie)
 - https://ulysse.com/news/ile-italienne-havre-de-paix-retraite-tranquille
 
 ## Festival

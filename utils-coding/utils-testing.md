@@ -41,6 +41,7 @@
 - https://www.guru99.com/smoke-sanity-testing.html
 - https://github.com/NoriSte/ui-testing-best-practices
 - https://cypress.slides.com/amirrustam/patterns-practices
+- https://github.com/therodrigocosta/awesome-screenplay-pattern
 - https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d
 
 ## TOOLS: ALL
@@ -95,6 +96,7 @@
 - https://github.com/ComponentDriven/csf
 - https://github.com/DevExpress/testcafe
 - https://github.com/jscutlery/test-utils
+- https://github.com/cucumber/screenplay.js
 - https://github.com/nightwatchjs/nightwatch
 - https://www.herodevs.com/support/endbridge
 - https://github.com/facebookincubator/memlab
@@ -105,6 +107,7 @@
 - https://github.com/lightpanda-io/browser
 - https://github.com/browserbase/stagehand
 - https://github.com/web-infra-dev/midscene
+- https://github.com/nanobrowser/nanobrowser
 - https://github.com/executeautomation/mcp-playwright
 
 ## UTILS: HTTP
@@ -170,6 +173,7 @@
 - https://github.com/vitalets/playwright-network-cache
 - https://github.com/vitalets/playwright-webhook-reporter
 - https://github.com/microsoft/playwright-testing-service
+- https://github.com/HamedFathi/screen.play.write
 - https://github.com/berstend/puppeteer-extra
 - https://github.com/DyHex/POMWright
 - https://github.com/mxschmitt

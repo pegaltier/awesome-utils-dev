@@ -16,6 +16,7 @@
 - https://copy-paste-css.com/
 - https://flukeout.github.io/
 - https://accordionslider.com/
+- https://cssgridgenerator.io/
 - https://enes.in/sorted-colors/
 - https://www.projectwallace.com/
 - https://1linelayouts.glitch.me/
@@ -26,6 +27,7 @@
 - https://dailydevlinks.com/minimal-css-loader-collection
 - https://hugogiraudel.github.io/selectors-explained/
 - https://wweb.dev/resources/css-separator-generator
+- https://wweb.dev/resources/animated-css-background-generator
 - https://www.magicpattern.design/tools/css-backgrounds/
 - https://github.com/michael-andreuzza/wickedblocks
 - https://9elements.github.io/fancy-border-radius

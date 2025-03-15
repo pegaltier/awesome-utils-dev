@@ -1,0 +1,202 @@
+// This Pine Script™ code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+// © yosietserga
+// https://www.tradingview.com/pine/?id=PUB%3B9e64d80926ef45fb87703ce1290ea520
+//@version=5
+strategy("Boilerplate Configurable Strategy [Yosiet]", overlay=true, margin_long=100, margin_short=100)
+
+//Strategy Specific inputs 
+strategyType = input.string("SQUEEZE", "Strategy Type", options=["SQUEEZE", "SMA_CROSS"])
+
+// === MODULAR ENTRY/EXIT SYSTEM ===
+
+//You can colapse all code blocks that begins with comments brackets
+//You can DM for any question or comment in the post
+
+// Entry/Exit conditions {
+length = input.int(20, "Length", group="General Strategy Settings")
+// Bollinger Bands Settings
+mult1 = input.float(1.5, "Wide BB Multiplier", step=0.1, group="Squeeze Settings")
+mult2 = input.float(2.0, "Narrow BB Multiplier", step=0.1, group="Squeeze Settings")
+
+// SMA Cross Settings
+maFast = ta.sma(close, length)
+maSlow = ta.sma(open, length)
+
+
+// Bollinger Bands
+[basis1, upper1, lower1] = ta.bb(hlc3, length, mult1)
+[basis2, upper2, lower2] = ta.bb(hlc3, length, mult2)
+// Squeeze Condition
+squeeze = hlc3 < upper2 and hlc3 > lower2
+
+// }
+
+//{ inputs block 
+
+// ********** INPUTS ********** //
+// -- Trading Days Configuration --
+var groupDays = "Trading Days"
+enableMon = input.bool(true, "Monday", group=groupDays)
+enableTue = input.bool(true, "Tuesday", group=groupDays)
+enableWed = input.bool(true, "Wednesday", group=groupDays)
+enableThu = input.bool(true, "Thursday", group=groupDays)
+enableFri = input.bool(true, "Friday", group=groupDays)
+enableSat = input.bool(true, "Saturday", group=groupDays)
+enableSun = input.bool(true, "Sunday", group=groupDays)
+
+// Session Configuration
+sessionInput = input.string("0000-0000", "Trading Session (HHmm-HHmm)", tooltip="24h format", group="Hour Settings")
+var sessionTime = request.security(syminfo.tickerid, "D", time(timeframe.period, sessionInput))
+
+// Hours Exclusions
+exitTime = input.session("1600-1700", "Daily Exit Time", options=["1500-1600", "1600-1700", "1700-1800", "1800-1900"], group="Hour Settings")
+
+// Date Range Filter
+startDate = input.time(timestamp("1 Jan 2024"), "Start Date", group="Data Date Range")
+endDate = input.time(timestamp("31 Jan 2025"), "End Date", group="Data Date Range")
+
+
+
+// -- News Avoidance Configuration --
+var groupNews = "News Filter"
+enableNewsFilter = input.bool(false, "Enable News Filter", group=groupNews)
+newsTime = input.time(timestamp("2023-01-01 14:30"), "News Time (UTC)", group=groupNews)
+newsWindow = input.int(5, "News Window (minutes)", minval=1, group=groupNews)
+
+// Trade Direction Configuration
+var groupTradeConfiguration = "Trade Side Configuration"
+tradeDirection = input.string("Both", "Trade Direction", options=["Long", "Short", "Both"], group=groupTradeConfiguration)
+tradeInverse = input.bool(false, "Inverse Trade Side", group=groupTradeConfiguration)
+
+// Capital Risk Management Parameters
+var groupRisk = "Money Risk Management"
+maxLossPerc = input.float(2.0, "Max Loss per Trade (%)", group=groupRisk) / 100
+maxLosingDays = input.int(3, "Max Consecutive Losing Days", group=groupRisk)
+maxDD = input.float(10.0, "Max Drawdown (%)", group=groupRisk) / 100
+
+// Risk/Reward Configuration
+var groupRRR = "Risk/Reward Ratio"
+rrMode = input.string("ATR", "RR Mode", options=["ATR", "Static"], group=groupRRR)
+atrLength  = input.int(14, "ATR Length", group=groupRRR)
+atrMultiplier = input.float(1.5, "ATR Multiplier", step=0.1, group=groupRRR)
+staticRR = input.float(2.0, "Static RR Ratio", step=0.1, group=groupRRR)
+useTrail   = input.bool(false, "Enable Trailing Stop")
+trailStart = input.float(15, "Trail Activation (%)") / 100
+trailDist  = input.float(0.5, "Trail Distance (%)") / 100
+
+// 7. Strategy Logic
+var int consecutiveLosses = 0
+var float peakEquity = strategy.equity
+var bool drawdownBreached = false
+// }
+
+// { Calculate drawdown
+currentEquity = strategy.equity
+drawdown = (peakEquity - currentEquity) / peakEquity
+if currentEquity > peakEquity
+    peakEquity := currentEquity
+    drawdownBreached := false
+
+if drawdown >= maxDD and not drawdownBreached
+    drawdownBreached := true
+    strategy.close_all("Max DD Reached")
+// }
+
+// { Trading session  and date filter
+inSession = time(timeframe.period, sessionInput)
+
+inDateRange = time >= startDate and time <= endDate
+
+// ********** FUNCTIONS ********** //
+// -- Trading Day Filter --
+isTradingDay() =>
+    day = dayofweek
+    (enableMon and day == dayofweek.monday) or
+     (enableTue and day == dayofweek.tuesday) or
+     (enableWed and day == dayofweek.wednesday) or
+     (enableThu and day == dayofweek.thursday) or
+     (enableFri and day == dayofweek.friday) or 
+     (enableSat and day == dayofweek.saturday) or 
+     (enableSun and day == dayofweek.sunday)
+
+// -- News Avoidance Filter --
+isNewsTime() =>
+    if not enableNewsFilter or na(newsTime)
+        false
+    else
+        windowStart = newsTime - newsWindow * 60 * 1000
+        windowEnd = newsTime + newsWindow * 60 * 1000
+        time >= windowStart and time <= windowEnd
+
+// Exit time filter
+exitPeriod = not na(time(timeframe.period, exitTime))
+// }
+
+// { Risk Reward Calculations 
+// Calculate position size
+positionSize = strategy.equity * maxLossPerc / (ta.atr(14) / close)
+
+// RR calculations
+atr = ta.atr(atrLength)
+stopLoss = rrMode == "ATR" ? atr * atrMultiplier : close * maxLossPerc
+takeProfit = rrMode == "ATR" ? stopLoss * staticRR : stopLoss * staticRR
+// }
+
+// { Entries and Exits execution 
+
+var bool longCondition = false
+var bool shortCondition = false
+
+if strategyType == "SMA_CROSS"
+    longCondition  := ta.crossover(maFast, maSlow)
+    shortCondition := ta.crossunder(maFast, maSlow)
+    
+if strategyType == "SQUEEZE"
+    longCondition  := ta.crossover(hlc3, upper1) and squeeze
+    shortCondition := ta.crossunder(hlc3, lower1) and squeeze
+
+// Strategy logic
+if inSession and inDateRange and not exitPeriod and not drawdownBreached and isTradingDay() and not isNewsTime()
+    // Long entries
+    if (tradeDirection == "Long" or tradeDirection == "Both") and ((longCondition and not tradeInverse) or (tradeInverse and shortCondition))
+        strategy.entry("Long", strategy.long, qty=positionSize/close)
+        strategy.exit("Exit Long", "Long", 
+         stop=close - stopLoss, 
+         limit=close + takeProfit,
+         trail_points = useTrail ? close * trailStart : na,
+         trail_offset = useTrail ? close * trailDist : na)
+    
+    // Short entries
+    if (tradeDirection == "Short" or tradeDirection == "Both") and ((longCondition and tradeInverse) or (not tradeInverse and shortCondition))
+        strategy.entry("Short", strategy.short, qty=positionSize/close)
+        strategy.exit("Exit Short", "Short", 
+         stop=close + stopLoss, 
+         limit=close - takeProfit,
+         trail_points = useTrail ? close * trailStart : na,
+         trail_offset = useTrail ? close * trailDist : na)
+
+// Close all positions during exit period
+if exitPeriod
+    strategy.close_all("Daily Exit")
+
+// Track consecutive losing days
+var float dailyProfit = 0
+if ta.change(time("D"))
+    if dailyProfit < 0
+        consecutiveLosses += 1
+    else
+        consecutiveLosses := 0
+    dailyProfit := 0
+
+if strategy.closedtrades > 0
+    dailyProfit += strategy.closedtrades.profit(strategy.closedtrades - 1)
+
+if consecutiveLosses >= maxLosingDays
+    strategy.close_all("Max Losing Days Reached")
+
+if drawdownBreached
+    strategy.close_all("Drawdown Limit Reached")
+    
+if isNewsTime()
+    strategy.close_all("News Window")
+// }

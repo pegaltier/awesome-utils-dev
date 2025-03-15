@@ -25,6 +25,9 @@
 - https://github.com/Artemmkin/infrastructure-as-code-tutorial
 - https://github.com/K8sAcademy/Fundamentals-HandsOn
 
+## ARTICLES
+- https://rust-on-nails.com/blog/kubernetes-complicated/
+
 ## HELPER
 - https://github.com/lebinh/nginx-conf
 - https://github.com/risan/nginx-config
@@ -84,6 +87,7 @@
 - https://github.com/OpenNebula/one
 - https://github.com/hashicorp/nomad
 - https://github.com/code-pushup/cli
+- https://github.com/xpipe-io/xpipe
 - https://github.com/traefik/traefik
 - https://github.com/buildpacks/pack
 - https://github.com/tooljet/tooljet
@@ -92,7 +96,6 @@
 - https://github.com/livecycle/preevy
 - https://github.com/hauxir/errorpush
 - https://github.com/opentofu/opentofu
-- https://github.com/caprover/caprover
 - https://github.com/nicolargo/glances
 - https://github.com/Infisical/infisical
 - https://github.com/seaweedfs/seaweedfs
@@ -155,6 +158,7 @@
 - https://www.checklyhq.com/
 - https://www.compose.com/
 - https://getenvase.com/
+- https://www.port.io/
 - https://fly.io/
 
 ## HOST SERVICES OSS / SELF HOSTED
@@ -162,9 +166,11 @@
 - https://github.com/benbristow/dokploy-deploy-action
 - https://github.com/jmischler72/dokploy-deploy-action
 - https://git.deuxfleurs.fr/Deuxfleurs/garage
+- https://github.com/caprover/one-click-apps
 - https://github.com/azukaar/Cosmos-Server
 - https://github.com/coollabsio/coolify
 - https://github.com/newsnowlabs/runcvm
+- https://github.com/caprover/caprover
 - https://github.com/mbecker20/komodo
 - https://github.com/Dokploy/dokploy
 - https://github.com/basecamp/kamal

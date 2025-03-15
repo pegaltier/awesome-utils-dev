@@ -20,6 +20,7 @@ Agent pour développeurs haut-niveau
 - https://www.upwork.com/
 - https://breakout.careers/
 - https://remoteleaf.com/
+- https://www.hightekers.com/
 - https://weworkremotely.com/
 - https://www.freelancer.com/
 - https://talent.hubstaff.com/

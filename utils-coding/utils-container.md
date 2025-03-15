@@ -111,6 +111,8 @@ RUN ls
 - https://github.com/hashicorp/vagrant
 - https://github.com/earthly/earthly
 - https://github.com/abiosoft/colima
+- https://github.com/crazy-max/diun
+- https://github.com/xpipe-io/xpipe
 - https://github.com/nxthat/nnocl
 - https://github.com/orbstack
 - https://github.com/openshift
@@ -190,15 +192,18 @@ RUN ls
 - https://github.com/NginxProxyManager/nginx-proxy-manager
 - https://github.com/marcelo-ochoa/coder-docker-extension
 - https://github.com/expertly-simple/mrm-task-npm-docker
+- https://github.com/nginxinc/docker-nginx-unprivileged
 - https://github.com/linuxserver/docker-healthchecks
 - https://github.com/GoogleContainerTools/distroless
 - https://github.com/DoTheEvo/selfhosted-apps-docker
 - https://github.com/jonatan-ivanov/local-services
+- https://github.com/linuxserver/docker-wireshark
 - https://github.com/bunkerity/bunkerized-mariadb
 - https://github.com/itzg/docker-minecraft-server
 - https://github.com/bunkerity/bunkerized-nginx
 - https://github.com/mailcow/mailcow-dockerized
 - https://github.com/bunkerity/bunkerized-php
+- https://github.com/caddyserver/caddy-docker
 - https://github.com/kylemanna/docker-openvpn
 - https://github.com/max-mapper/gifify-docker
 - https://github.com/linuxserver/docker-swag

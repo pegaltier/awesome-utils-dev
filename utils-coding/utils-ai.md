@@ -293,6 +293,7 @@
 - https://kiri.art/
 - https://geospy.ai/
 - https://pika.art/
+- https://lensa.app/
 - https://megapix.ai/
 - https://openart.ai/
 - https://app.apob.ai/
@@ -457,6 +458,7 @@
 - https://github.com/lavague-ai/LaVague
 - https://github.com/dzhng/deep-research
 - https://github.com/pydantic/pydantic-ai
+- https://github.com/microsoft/TinyTroupe
 - https://github.com/agentlabs-dev/openator
 - https://github.com/browserbase/open-operator
 - https://github.com/transitive-bullshit/agentic

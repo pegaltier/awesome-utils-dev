@@ -229,6 +229,7 @@
 ## Finance
 - https://github.com/maybe-finance/maybe
 - https://github.com/ghostfolio/ghostfolio
+- https://github.com/mayswind/ezbookkeeping
 
 ## List
 - https://untools.co/

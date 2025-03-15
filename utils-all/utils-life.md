@@ -16,6 +16,9 @@
 - https://shedburgers.com/home burger & pizza in verbier, pully
 - https://histoiresansfaim.ch/ italian in lausanne
 
+## Health
+- thiamine
+
 ## Drink
 - https://www.marmiton.org/boissons-froides/dry-january-voici-la-recette-star-des-cocktails-sans-alcool-a-faire-en-5-minutes-s4077640.html
 
@@ -27,6 +30,7 @@
 - https://arvy.ch/
 - https://www.noii.ch/
 - https://www.frankly.ch/
+- https://www.kisslove.ch/
 - https://www.votreopinion.ch/
 - https://www.coupdefoudre30plus.ch/
 

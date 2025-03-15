@@ -635,6 +635,7 @@
 - https://github.com/ottodevs/instabot-trader
 - https://github.com/tradingview/scanner_data
 - https://github.com/s-brez/HTF-single-strat
+- https://github.com/ArunKBhaskar/PineScript
 - https://github.com/CryptoMF/frostybot-js
 - https://github.com/germangar/whook
 
@@ -699,6 +700,7 @@
 - https://github.com/gateio/gateapi-nodejs *
 - https://github.com/carlosmiei/node-binance-api
 - https://github.com/alpacahq/alpaca-trade-api-js *
+- https://github.com/ccxt/node-binance-api
 - https://github.com/Kucoin/kucoin-node-sdk *
 - https://github.com/tiagosiebler/accountstate
 - https://github.com/tiagosiebler/okx-api
