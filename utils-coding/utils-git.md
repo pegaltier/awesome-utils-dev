@@ -86,6 +86,7 @@
 - https://grep.app/
 
 ## OSS
+- https://github.com/star-history/star-history
 - https://github.com/kyechan99/capsule-render
 - https://github.com/github-20k/super-star
 - https://github.com/jdalrymple/gitbeaker

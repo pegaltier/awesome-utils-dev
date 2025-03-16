@@ -67,6 +67,7 @@
 - https://github.com/mercari/ml-system-design-pattern
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://github.com/heartexlabs/awesome-data-labeling
+- https://github.com/KalyanKS-NLP/llm-engineer-toolkit
 - https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 - https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 - https://github.com/EthicalML/awesome-production-machine-learning

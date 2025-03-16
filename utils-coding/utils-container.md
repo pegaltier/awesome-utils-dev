@@ -143,6 +143,7 @@ RUN ls
 - https://github.com/rcjsuen/dockerfile-ast
 - https://github.com/composerize/composerize
 - https://github.com/sigp/lighthouse-metrics
+- https://github.com/crazy-max/swarm-cronjob
 - https://github.com/docker-slim/docker-slim
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/leighmcculloch/dockerhost
@@ -196,6 +197,7 @@ RUN ls
 - https://github.com/linuxserver/docker-healthchecks
 - https://github.com/GoogleContainerTools/distroless
 - https://github.com/DoTheEvo/selfhosted-apps-docker
+- https://github.com/mpgirro/docker-pihole-unbound
 - https://github.com/jonatan-ivanov/local-services
 - https://github.com/linuxserver/docker-wireshark
 - https://github.com/bunkerity/bunkerized-mariadb
@@ -209,9 +211,11 @@ RUN ls
 - https://github.com/linuxserver/docker-swag
 - https://github.com/Monogramm/docker-frappe
 - https://github.com/SteveLTN/https-portal
+- https://github.com/docker-library/ghost
 - https://github.com/gotenberg/gotenberg
 - https://github.com/genuinetools/img
 - https://github.com/testcontainers
+- https://github.com/docker-library
 - https://github.com/dockur/windows
 - https://github.com/dockur/macos
 - https://github.com/m1k1o/neko

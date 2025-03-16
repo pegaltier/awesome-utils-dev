@@ -116,6 +116,7 @@
 - https://github.com/ngrok
 - https://github.com/unjs/untun
 - https://github.com/unjs/listhen
+- https://github.com/ekzhang/bore
 - https://github.com/amalshaji/portr
 - https://github.com/inconshreveable/ngrok
 - https://github.com/anderspitman/awesome-tunneling
