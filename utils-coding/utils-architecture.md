@@ -8,6 +8,7 @@
 - https://app.swaggerhub.com
 
 ## OSS
+- https://github.com/joelparkerhenderson/architecture-decision-record
 - https://github.com/andreschaffer/event-sourcing-cqrs-examples
 - https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
 - https://github.com/Coder-World04/Complete-System-Design

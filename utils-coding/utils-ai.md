@@ -750,6 +750,8 @@
 
 ## LIB: TRAIN
 - https://github.com/oumi-ai/oumi
+- https://github.com/mindverse/Second-Me
+
 
 ## LIB: ORCHESTRATION
 - https://github.com/openai/swarm

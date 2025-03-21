@@ -1062,6 +1062,7 @@
 - https://github.com/TitanPlayz100/teti
 - https://github.com/pi0/space-invaders
 - https://github.com/daniellok/day-trader
+- https://github.com/shaack/cm-chessboard
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
 - https://github.com/memetic-institute/The-Fed

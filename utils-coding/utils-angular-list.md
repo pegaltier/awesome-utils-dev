@@ -3052,6 +3052,7 @@ Find here useful tips for managing your continious integration and delivery proc
 - https://github.com/bezkoder/angular-13-firebase-storage
 - https://github.com/ultrasonicsoft/ng-application-builder
 - https://github.com/monacodelisa/Angular-Headless-Hashnode
+- https://github.com/brandonroberts/tanstack-angular-router
 - https://github.com/bezkoder/angular-material-14-file-upload
 - https://github.com/bezkoder/angular-15-multiple-file-upload
 - https://github.com/DanWahlin/angular-interfaces-classes-types
