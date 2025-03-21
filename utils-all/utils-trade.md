@@ -671,6 +671,7 @@
 - https://github.com/topics/candlestick-patterns-detection
 - https://github.com/stefan-jansen/machine-learning-for-trading
 - https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+- https://github.com/learn-crypto-trading/learn-crypto-trading.github.io
 
 ### OSS: ALL
 - https://github.com/OpenBB-finance/OpenBBTerminal
@@ -887,17 +888,26 @@
 
 ### OSS: JAVASCRIPT: INDICATORS
 - https://github.com/compute-io
-- https://github.com/thisancog/statistics.js
+- https://github.com/hackape/talib.js
 - https://github.com/kaelzhang/finmath
 - https://github.com/munrocket/ta-math
+- https://github.com/cinar/indicatorts
+- https://github.com/ixjb94/indicators
+- https://github.com/ixjb94/indicators-js
+- https://github.com/rubenafo/trendyways
 - https://github.com/debut-js/Indicators
+- https://github.com/newproplus/talib-web
 - https://github.com/TulipCharts/tulipnode
+- https://github.com/thisancog/statistics.js
 - https://github.com/coin-unknown/Indicators
+- https://github.com/focus1691/chart-patterns
+- https://github.com/bennycode/trading-signals
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
 
 ### OSS: JAVASCRIPT: CHART
 - https://github.com/tradingview/lightweight-charts
+- https://github.com/tradex-app/TradeX-chart
 - https://github.com/project-nv/night-vision
 - https://github.com/klinecharts/KLineChart
 - https://github.com/tvjsx/trading-vue-js
@@ -923,19 +933,17 @@
 - https://github.com/jerryshell/midas *
 - https://github.com/fasenderos/bitify
 - https://github.com/nielse63/stonksjs
-- https://github.com/cinar/indicatorts *
-- https://github.com/ixjb94/indicators *
-- https://github.com/ixjb94/indicators-js
 - https://github.com/Grademark/grademark
 - https://github.com/tyolab/grademark *
 - https://github.com/suenot/profitmaker *
 - https://github.com/focus1691/orderflow
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
-- https://github.com/rubenafo/trendyways
+- https://github.com/daniellok/day-trader
 - https://github.com/backtestjs/framework *
 - https://github.com/coinranking/exchanges
 - https://github.com/SockTrader/SockTrader *
+- https://github.com/Open-Trader/opentrader *
 - https://github.com/tardis-dev/tardis-node *
 - https://github.com/fasenderos/nestjs-ccxt
 - https://github.com/mkmarek/forex.analytics
@@ -944,14 +952,13 @@
 - https://github.com/austin-starks/NextTrade *
 - https://github.com/JeffreyHyer/grandmaster
 - https://github.com/chalupagrande/backtester
+- https://github.com/pratikgaloria/quantomate
 - https://github.com/tiagosiebler/bitmart-api
 - https://github.com/andrewbaronick/BacktestJS *
-- https://github.com/bennycode/trading-signals *
 - https://github.com/gadicc/node-yahoo-finance2 *
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
 - https://github.com/focus1691/backtest-loop
-- https://github.com/focus1691/chart-patterns
 - https://github.com/vitalets/tinkoff-invest-api
 - https://github.com/focus1691/indicator-library * 
 - https://github.com/Mathieu2301/TradingView-API

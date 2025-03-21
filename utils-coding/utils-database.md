@@ -37,6 +37,7 @@
 ## DB UTILS
 - https://github.com/PRQL/prql
 - https://github.com/knex/knex
+- https://github.com/vitessio/vitess
 - https://github.com/kysely-org/kysely
 - https://github.com/electric-sql/pglite
 - https://github.com/ankit5999/buildmymeta

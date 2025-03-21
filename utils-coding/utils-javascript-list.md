@@ -260,9 +260,10 @@
 ## LIB: FUNCTIONNAL PROGRAMMING
 - https://github.com/TomerAberbach/lfi
 
-## LIB: EVENT / BUS
+## LIB: EVENT / BUS / PUBSUB
 - https://github.com/ai/nanoevents
 - https://github.com/primus/eventemitter3
+- https://github.com/RIAEvangelist/event-pubsub
 
 ## LIB: DATABASE
 - https://github.com/knex/knex
@@ -912,8 +913,9 @@
 - https://github.com/Jam3/math-as-code
 - https://github.com/dinerojs/dinero.js
 - https://github.com/MikeMcl/decimal.js/
-- https://github.com/MikeMcl/bignumber.js
+- https://github.com/munrocket/double-js
 - https://github.com/barvian/number-flow
+- https://github.com/MikeMcl/bignumber.js
 - https://github.com/barvian/motion-number
 - https://github.com/nefe/number-precision
 - https://github.com/adamwdraper/Numeral-js
@@ -1058,6 +1060,8 @@
 - https://github.com/jhlywa/chess.js
 - https://github.com/olistic/warriorjs
 - https://github.com/TitanPlayz100/teti
+- https://github.com/pi0/space-invaders
+- https://github.com/daniellok/day-trader
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
 - https://github.com/memetic-institute/The-Fed

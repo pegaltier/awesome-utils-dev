@@ -183,6 +183,7 @@
 - https://github.com/benhowell/react-grid-gallery
 - https://github.com/duskload/react-device-detect
 - https://github.com/dayhaysoos/use-shopping-cart
+- https://github.com/react-component/virtual-list
 - https://github.com/tannerlinsley/react-location
 - https://github.com/atlassian/react-beautiful-dnd
 - https://github.com/YIZHUANG/react-multi-carousel

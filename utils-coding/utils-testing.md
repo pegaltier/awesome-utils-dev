@@ -67,7 +67,7 @@
 - https://www.ranorex.com/
 - https://www.tricentis.com/products/automate-continuous-testing-tosca
 
-## TOOLS: OSS
+## TOOLS: OSS: ALL
 - https://github.com/carrier-io
 - https://github.com/grafana/k6
 - https://github.com/apache/jmeter
@@ -75,12 +75,15 @@
 - https://github.com/buger/goreplay
 - https://github.com/kffl/speedbump
 - https://github.com/locustio/locust
-- https://github.com/nut-tree/nut.js
 - https://github.com/puppeteer/puppeteer
 - https://github.com/codesenberg/bombardier
 - https://github.com/browserless/browserless
 - https://github.com/webhooksite/webhook.site
 - https://github.com/ihsw/toxiproxy-node-client
+
+## TOOLS: OSS: JS
+- https://github.com/nut-tree/nut.js
+- https://github.com/lorenzofox3/zora
 
 ## UTILS: MOCK
 - https://github.com/microcks/microcks

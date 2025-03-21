@@ -505,6 +505,9 @@
 - https://github.com/circlemind-ai/fast-graphrag
 - https://github.com/Unstructured-IO/unstructured-js-client
 
+## LIB: MCP
+- https://github.com/modelcontextprotocol/servers
+
 ## LIB: BPE
 - https://github.com/openai/tiktoken
 
