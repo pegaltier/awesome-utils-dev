@@ -19,6 +19,7 @@
 - https://github.com/wg/wrk
 - https://github.com/nakabonne/ali
 - https://github.com/dareid/chakram
+- https://github.com/anweber/httpyac
 - https://github.com/pactumjs/pactum
 - https://github.com/karatelabs/karate
 - https://github.com/mcollina/autocannon
