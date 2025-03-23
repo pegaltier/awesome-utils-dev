@@ -23,6 +23,7 @@
 - https://microservice-api-patterns.org/
 - https://restfulapi.net/http-status-codes/
 - http://www.restapitutorial.com/lessons/httpmethods.html
+- https://devblogs.microsoft.com/ise/api-testing-using-http-files/
 - https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
 
@@ -36,6 +37,7 @@
 - https://github.com/mountain-loop/yaak
 - https://github.com/darrenburns/posting
 - https://github.com/hoppscotch/hoppscotch
+- https://github.com/transferwise/public-api-postman-collection
 
 ## TOOLS: ALL
 - https://readme.com/
@@ -94,9 +96,6 @@
 - https://openapi-generator.tech/docs/generators
 - https://github.com/asteasolutions/zod-to-openapi
 - https://github.com/jackdbd/zod-to-doc
-
-## POSTMAN
-- https://github.com/transferwise/public-api-postman-collection
 
 ## MOCKS
 - https://jsonbox.io/
