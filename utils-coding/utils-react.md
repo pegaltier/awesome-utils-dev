@@ -89,6 +89,10 @@
 - https://github.com/CreativeTechGuy/ReactTemplate
 - https://github.com/salvia-kit/salvia-kit-website
 
+## ALTERNAT
+- https://github.com/preactjs/preact
+- https://github.com/wakujs/waku
+
 ## JAMSTACK
 
 - https://github.com/sanity-io
@@ -124,7 +128,6 @@
 - https://github.com/formium/formik
 - https://github.com/pmndrs/zustand
 - https://github.com/molefrog/wouter
-- https://github.com/preactjs/preact
 - https://github.com/DoneDeal0/Talkr
 - https://github.com/re-rxjs/re-rxjs
 - https://github.com/sergiodxa/flagged
@@ -296,6 +299,7 @@
 - https://github.com/vercel/commerce
 - https://github.com/un33k/taxonomy
 - https://github.com/shuding/nextra
+- https://github.com/ygwyg/diverce
 - https://github.com/sst/open-next
 - https://github.com/alii/nextkit
 - https://github.com/47ng/nuqs

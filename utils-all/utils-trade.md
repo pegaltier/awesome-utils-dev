@@ -697,6 +697,7 @@
 - https://github.com/BingX-API
 - https://github.com/stoqey/ib *
 - https://github.com/ccxt/ccxt
+- https://github.com/stoqey/ibkr
 - https://github.com/knowm/XChange *
 - https://github.com/gateio/gateapi-nodejs *
 - https://github.com/carlosmiei/node-binance-api
@@ -712,6 +713,7 @@
 - https://github.com/tiagosiebler/bybit-api
 - https://github.com/tiagosiebler/bitget-api
 - https://github.com/bennycode/ig-trading-api
+- https://github.com/bennycode/trading212-api
 - https://github.com/Cloud9Trader/oanda-adapter
 - https://github.com/HuobiRDCenter/huobi_Python
 - https://github.com/PlusGenie/tbot-tradingboat
@@ -809,6 +811,8 @@
 - https://github.com/gordonwoon/algo-dash
 - https://github.com/ivopetiz/algotrading *
 - https://github.com/TA-Lib/ta-lib-python *
+- https://github.com/cuemacro/finmarketpy
+- https://github.com/kernc/backtesting.py
 - https://github.com/goldmansachs/gs-quant *
 - https://github.com/kaigouthro/pynescript
 - https://github.com/ilcardella/TradingBot
@@ -893,10 +897,12 @@
 - https://github.com/munrocket/ta-math
 - https://github.com/cinar/indicatorts
 - https://github.com/ixjb94/indicators
-- https://github.com/ixjb94/indicators-js
 - https://github.com/rubenafo/trendyways
 - https://github.com/debut-js/Indicators
 - https://github.com/newproplus/talib-web
+- https://github.com/andredumas/techan.js
+- https://github.com/ixjb94/indicators-js
+- https://github.com/boctulus/IndicatorsJs
 - https://github.com/TulipCharts/tulipnode
 - https://github.com/thisancog/statistics.js
 - https://github.com/coin-unknown/Indicators
@@ -911,6 +917,7 @@
 - https://github.com/project-nv/night-vision
 - https://github.com/klinecharts/KLineChart
 - https://github.com/tvjsx/trading-vue-js
+- https://github.com/andredumas/techan.js
 - https://github.com/cm45t3r/candlestick
 - https://github.com/jones2000/HQChart
 - https://github.com/chartjs/Chart.js
@@ -941,6 +948,7 @@
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/daniellok/day-trader
 - https://github.com/backtestjs/framework *
+- https://github.com/wagenaartje/stocks.js
 - https://github.com/coinranking/exchanges
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/Open-Trader/opentrader *

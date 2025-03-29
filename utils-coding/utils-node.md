@@ -62,6 +62,7 @@
 - https://github.com/mongodb-js/boxednode
 - https://github.com/DataDog/build-plugins
 - https://github.com/btd/rollup-plugin-visualizer
+- https://github.com/bddjr/vite-plugin-singlefile-compression
 
 ## STARTER / EXAMPLE
 - https://github.com/9renpoto/.59-node
@@ -70,6 +71,7 @@
 - https://github.com/bezkoder/node-js-mssql-crud-example
 - https://github.com/studiohyperdrive/nodejs-boilerplate
 - https://github.com/xddq/nodejs-typescript-modern-starter
+- https://github.com/JoshuaKGoldberg/create-typescript-app
 - https://github.com/bluesky-social/statusphere-example-app
 - https://github.com/meysamhadeli/booking-microservices-express-js/
 
@@ -129,6 +131,7 @@
 ## UTILS DEVTOOLS
 - https://github.com/yunabe/tslab
 - https://github.com/volarjs/volar.js
+- https://github.com/bennycode/ts2esm
 - https://github.com/commitizen/cz-cli
 - https://github.com/rodrigopivi/tslab-widgets
 - https://github.com/antfu/node-modules-inspector
@@ -334,9 +337,14 @@
 - https://github.com/valkey-io/iovalkey
 - https://github.com/apollographql/graphql-subscriptions
 
-## LIBS: DATABASE / DB
-- https://github.com/prisma-utils
+## LIBS: DATABASE / DB: PR
+- https://github.com/Cauen/prisma-generator-postgres-realtime
+- https://github.com/mohammed-bahumaish/prisma-editor
+- https://github.com/catalinmiron/awesome-prisma
 - https://github.com/prisma/prisma
+- https://github.com/prisma-utils
+
+## LIBS: DATABASE / DB
 - https://github.com/koskimas/kysely
 - https://github.com/typeorm/typeorm
 - https://github.com/appy-one/acebase
@@ -356,7 +364,6 @@
 - https://github.com/sql-formatter-org/sql-formatter
 - https://github.com/benjamin658/typeorm-cursor-pagination
 - https://github.com/IRCraziestTaxi/typeorm-linq-repository
-- https://github.com/Cauen/prisma-generator-postgres-realtime
 
 ## LIBS: CLI / PROMPTS
 - https://github.com/cacjs/cac
@@ -422,6 +429,7 @@
 - https://github.com/fonoster/fonoster
 - https://github.com/elysiajs/elysia
 - https://github.com/vercel/og-image
+- https://github.com/mnfst/manifest
 - https://github.com/nitrojs/nitro
 - https://github.com/novuhq/novu
 - https://github.com/unjs/nitro

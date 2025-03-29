@@ -38,6 +38,7 @@
 
 ## LIB: AI
 - https://github.com/EricLBuehler/mistral.rs
+- https://github.com/lucasjinreal/Namors
 - https://github.com/huggingface/candle
 
 ## LIB: DB

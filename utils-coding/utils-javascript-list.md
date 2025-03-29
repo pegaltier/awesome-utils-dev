@@ -73,6 +73,7 @@
 - https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 - https://github.com/busypeoples/functional-programming-javascript
 - https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof
+- https://github.com/sudheerj/javascript-interview-questions
 - https://github.com/jamiebuilds/itsy-bitsy-data-structures
 - https://github.com/javascript-tutorial/en.javascript.info
 - https://github.com/MostlyAdequate/mostly-adequate-guide
@@ -89,6 +90,7 @@
 - https://github.com/krausest/js-framework-benchmark
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/ryanmcdermott/code-review-tips
+- https://github.com/Asabeneh/30-Days-Of-JavaScript
 - https://github.com/mbeaudru/modern-js-cheatsheet
 - https://github.com/Sairyss/domain-driven-hexagon
 - https://github.com/30-seconds/30-seconds-of-code
@@ -115,6 +117,7 @@
 - https://github.com/rhyssullivan
 - https://github.com/branchseer
 - https://github.com/ahejlsberg
+- https://github.com/bennycode
 - https://github.com/johnpapa
 - https://github.com/mesqueeb
 - https://github.com/kolodny
@@ -741,10 +744,14 @@
 - https://github.com/terrastruct/d2
 - https://github.com/mermaid-js/mermaid
 
+## LIB: FRONTEND SIGNALS
+- https://github.com/stackblitz/alien-signals
+
 ## LIB: MAP
 - https://github.com/alyssaxuu/mapus
 - https://github.com/Leaflet/Leaflet
 - https://github.com/openlayers/openlayers
+- https://github.com/maplibre/maplibre-gl-js
 - https://github.com/tinyworldmap/tiny-world-map
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
@@ -870,12 +877,15 @@
 - https://github.com/sbyrnes/bloom.js
 - https://github.com/sbyrnes/likely.js
 - https://github.com/sbyrnes/classify.js
+- https://github.com/tensorflow/tfjs-models
 - https://github.com/coin-unknown/async-genetic
 - https://github.com/sbyrnes/DataScience_in_Node.js
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
 - https://github.com/refly-ai/refly
+- https://github.com/firebase/genkit
 - https://github.com/fixie-ai/ai-jsx
+- https://github.com/mastra-ai/mastra
 - https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/coinbase/agentkit

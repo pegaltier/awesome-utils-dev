@@ -20,8 +20,10 @@
 - https://vimeo.com/
 - https://www.heygen.com/
 
-## PRESENTATION
+## PRESENTATION / SLIDES
 - https://github.com/hakimel/reveal.js
+- https://github.com/webslides/WebSlides
+- https://github.com/imakewebthings/deck.js
 
 ## GROWTH HACKING
 - https://convertio.co/fr/html-gif/

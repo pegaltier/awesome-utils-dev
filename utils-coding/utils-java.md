@@ -131,6 +131,7 @@
 - https://github.com/openrewrite/rewrite
 - https://github.com/jhipster/prettier-java
 - http://www.javadecompilers.com/
+- https://www.moderne.ai/
 
 ## LIBS: DI
 - https://github.com/google/dagger
@@ -155,6 +156,9 @@
 
 ## LIBS: AUTH
 - https://github.com/thomasdarimont/keycloak-health-checks
+
+## LIBS: AI
+- https://github.com/alibaba/spring-ai-alibaba
 
 ## BASICS
 - https://www.w3schools.com/java/default.asp

@@ -47,6 +47,7 @@ crontab -l ==> show
 - https://github.com/thibmaek/awesome-raspberry-pi
 - https://github.com/geerlingguy/internet-pi
 - https://github.com/dymayday/raspberry-pi
+- https://github.com/home-assistant/frontend
 - https://github.com/home-assistant/core
 - https://github.com/pi-hosted/pi-hosted
 - https://github.com/sergkhl/rpi-utils

@@ -123,6 +123,9 @@
 - https://lmstudio.ai/
 - https://github.com/janhq/jan *
 - https://github.com/lmstudio-ai
+- https://github.com/mudler/LocalAI
+- https://github.com/huggingface/open-r1
+- https://github.com/josStorer/RWKV-Runner
 - https://github.com/withcatai/node-llama-cpp
 
 ## TOOLS: SUPPORT
@@ -401,6 +404,7 @@
 - https://github.com/serverless/aws-ai-stack
 - https://github.com/bdcorps/langchain-pdf-qa
 - https://github.com/awslabs/project-lakechain
+- https://github.com/alibaba/spring-ai-alibaba
 - https://github.com/google-research/jaxpruner
 - https://github.com/googleprojectzero/fuzzilli
 - https://github.com/ai-robots-txt/ai.robots.txt
@@ -448,7 +452,9 @@
 - https://github.com/camel-ai/owl
 - https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
+- https://github.com/agno-agi/agno
 - https://github.com/coleam00/Archon
+- https://github.com/firebase/genkit
 - https://github.com/mastra-ai/mastra
 - https://github.com/reworkd/AgentGPT
 - https://github.com/Thytu/Agentarium
@@ -555,6 +561,8 @@
 
 ## LIB: ROBOTICS
 - https://github.com/LejuRobotics
+- https://github.com/qgallouedec/lerobot
+- https://github.com/huggingface/lerobot
 
 ## LIB: CHATBOT
 - https://github.com/aws-samples/aws-genai-llm-chatbot
@@ -662,9 +670,6 @@
 - https://github.com/karpathy/micrograd
 - https://github.com/microsoft/DeepSpeed
 
-## LIB: ROBOTIC
-- https://github.com/huggingface/lerobot
-
 ## LIB: AUDIO / TTS
 - https://github.com/modelscope/ClearerVoice-Studio
 - https://github.com/jianchang512/ChatTTS-ui
@@ -702,6 +707,7 @@
 ## LIB: OCR IMAGE RECOGNITION
 - https://github.com/JaidedAI/EasyOCR
 - https://github.com/getomni-ai/zerox
+- https://github.com/ocrmypdf/OCRmyPDF
 - https://github.com/blakeblackshear/frigate
 
 ## LIB: 3D IMAGE / STABLE DIFFUSION
@@ -721,6 +727,7 @@
 - https://github.com/lllyasviel/Fooocus *
 - https://github.com/invoke-ai/InvokeAI
 - https://github.com/Zeqiang-Lai/DragGAN
+- https://github.com/joanrod/star-vector
 - https://github.com/Nutlope/logocreator
 - https://github.com/modelscope/facechain
 - https://github.com/Stable-X/StableDelight

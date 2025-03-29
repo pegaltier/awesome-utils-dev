@@ -115,9 +115,10 @@
 - https://github.com/aegir-assembly/omni-clip
 - https://github.com/KurtBestor/Hitomi-Downloader
 
-## OSS: MEDIAS / BOOK / PDF
+## OSS: MEDIAS / BOOK / PDF / DOCS
 - https://github.com/py-pdf/pypdf
 - https://github.com/koodo-reader/koodo-reader
+- https://github.com/paperless-ngx/paperless-ngx
 - https://github.com/opendatalab/PDF-Extract-Kit
 - https://github.com/Stirling-Tools/Stirling-PDF
 

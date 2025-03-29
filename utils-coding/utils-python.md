@@ -45,6 +45,10 @@ pip -V
 
 - https://www.geeksforgeeks.org/get-post-requests-using-python/
 
+## START
+- https://ipython.org/
+- https://www.anaconda.com/
+
 ## STARTER
 - https://github.com/mirumee/saleor
 - https://github.com/harry0703/MoneyPrinterTurbo/

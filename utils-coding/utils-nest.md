@@ -82,6 +82,7 @@
 
 ## LIBS: STARTER / TEMPLATE
 - https://github.com/SocketSomeone/nestjs-open-source-template
+- https://github.com/brocoders/nestjs-boilerplate
 - https://github.com/nestjs/typescript-starter
 
 ## EXAMPLE

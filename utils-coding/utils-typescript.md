@@ -324,6 +324,7 @@ npm init
 
 ## LIB: ERROR
 - https://github.com/jeffijoe/fejl
+- https://github.com/trylonai/ts-result
 - https://github.com/true-myth/true-myth
 - https://github.com/vitalets/throw-utils
 - https://github.com/supermacro/neverthrow
