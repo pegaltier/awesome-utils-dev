@@ -98,7 +98,6 @@
 - https://github.com/langchain-ai/open-canvas
 - https://github.com/ChatGPTNextWeb/NextChat
 - https://github.com/open-webui/open-webui
-- https://github.com/mediar-ai/screenpipe
 - https://github.com/promptslab/Promptify
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
@@ -117,6 +116,9 @@
 ## TOOLS: PROMPT ON WEB
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/zaidmukaddam/scira
+
+## TOOLS: AI APP STORE
+- https://github.com/mediar-ai/screenpipe
 
 ## TOOLS: OFFLINE / LOCAL
 - https://jan.ai/
@@ -223,6 +225,7 @@
 - https://github.com/AbanteAI/mentat
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/gptlint/gptlint
+- https://github.com/dnakov/anon-kode
 - https://github.com/stitionai/devika
 - https://github.com/Oneirocom/Magick
 - https://github.com/getcursor/cursor
@@ -513,6 +516,7 @@
 
 ## LIB: MCP
 - https://github.com/modelcontextprotocol/servers
+- https://github.com/punkpeye/awesome-mcp-servers
 
 ## LIB: BPE
 - https://github.com/openai/tiktoken
@@ -680,6 +684,7 @@
 - https://github.com/FunAudioLLM/CosyVoice
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/SparkAudio/Spark-TTS
+- https://github.com/bytedance/MegaTTS3
 - https://github.com/kyutai-labs/moshi
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS

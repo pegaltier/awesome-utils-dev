@@ -217,6 +217,7 @@
 - https://github.com/paperswithbacktest/awesome-systematic-trading
 
 ## TOOLS: BACKTESTING
+- https://tuned.com/
 - https://tradomate.one/
 - https://algowizard.io/
 - https://nexustrade.io/
@@ -778,6 +779,7 @@
 ### OSS: PYTHON
 - https://github.com/myhhub/stock *
 - https://github.com/vollib/vollib
+- https://github.com/unit8co/darts
 - https://github.com/8W9aG/fullmonte
 - https://github.com/skfolio/skfolio *
 - https://github.com/quantrocket-llc *
@@ -821,6 +823,7 @@
 - https://github.com/QuantJourneyOrg/public *
 - https://github.com/blankly-finance/blankly
 - https://github.com/algobulls/pyalgotrading
+- https://github.com/jmfernandes/robin_stocks
 - https://github.com/quantrocket-llc/moonshot
 - https://github.com/yasinkuyu/binance-trader
 - https://github.com/stefmolin/stock-analysis

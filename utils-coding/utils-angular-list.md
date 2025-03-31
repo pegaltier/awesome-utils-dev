@@ -2369,7 +2369,7 @@ Analyze and optimize the performance of your app
 - https://github.com/TinkoffCreditSystems/micro-sentry
 - https://github.com/aackerman/circular-dependency-plugin
 
-## ECOSYSTEM: LIB: INTERNATIONALIZATION / LOCALE / LOKALIZE
+## ECOSYSTEM: LIB: INTERNATIONALIZATION / LOCALE / LOKALIZE / I18N
 - https://tolgee.io/
 - https://angular.io/cli/xi18n
 - https://github.com/loclapp/locl
@@ -2385,6 +2385,7 @@ Analyze and optimize the performance of your app
 - https://github.com/robisim74/angular-l10n
 - https://github.com/ivanhofer/typesafe-i18n
 - https://github.com/Greentube/localize-router
+- https://github.com/timofei-iatsenko/js-lingui
 - https://github.com/martinroob/ngx-i18nsupport
 - https://github.com/gilsdav/ngx-translate-router
 - https://github.com/jgpacheco/ngx-translate-cache
@@ -2410,6 +2411,7 @@ Analyze and optimize the performance of your app
 - https://github.com/CuppaLabs/angular2-multiselect-dropdown
 - https://github.com/d-koppenhagen/angular-tag-cloud-module
 - https://github.com/naranmistry/angular-typing-animator
+- https://github.com/timofei-iatsenko/angular-cc-library
 - https://github.com/DmitryEfimenko/ng-expandable-input
 - https://github.com/andreasonny83/angular2-cookie-law
 - https://github.com/milantenk/ngx-interactive-paycard

@@ -306,6 +306,7 @@
 - https://github.com/panva/node-oidc-provider
 - https://github.com/supertokens/supertokens-node
 - https://github.com/drudge/passport-facebook-token
+- https://github.com/timofei-iatsenko/keycloakify-starter
 
 ## LIBS: KEYS
 - https://github.com/drudge/node-gpg
