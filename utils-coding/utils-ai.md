@@ -517,6 +517,7 @@
 ## LIB: MCP
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/lharries/whatsapp-mcp
 
 ## LIB: BPE
 - https://github.com/openai/tiktoken

@@ -984,6 +984,7 @@ Learn everything about angular universal, make a good SEO.
 - https://stackoverflow.com/questions/53677419/add-static-pre-rendering-to-ng-add-nguniversal-express-engine
 
 ## CORE: RESOURCES
+- https://github.com/eneajaho/ng-suspense
 - https://github.com/AhsanAyaz/ng-http-resource
 - https://github.com/angular/angular/discussions/60120
 - https://github.com/markostanimirovic/rx-resource-proto
