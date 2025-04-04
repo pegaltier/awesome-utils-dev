@@ -480,6 +480,9 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## STARTER: WEB FRAMEWORK
 - https://decorator.io/modulr/
+- https://github.com/Kalabasa/htmz
+- https://github.com/vanjs-org/van
+- https://github.com/openui/open-ui
 - https://github.com/marko-js/marko
 - https://github.com/alpinejs/alpine
 - https://github.com/dlight-js/dlight
@@ -488,6 +491,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/quickjs-ng/quickjs
 - https://github.com/fabiospampinato/voby
 - https://github.com/web-widget/web-widget
+- https://github.com/adamghill/unsuckjs.com
 - https://github.com/justin-schroeder/arrow-js
 - https://blog.madewithlove.be/post/webpack-your-bags/
 - https://css-tricks.com/css-modules-part-2-getting-started

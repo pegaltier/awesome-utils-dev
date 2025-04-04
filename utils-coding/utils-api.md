@@ -59,6 +59,7 @@
 - https://github.com/gravitee-io/gravitee-api-management
 
 ## OPENAPI
+- https://github.com/openapi-ts
 - https://github.com/readmeio/oas
 - https://github.com/scalar/scalar *
 - https://github.com/kubb-labs/kubb
@@ -96,6 +97,7 @@
 - https://openapi-generator.tech/docs/generators
 - https://github.com/asteasolutions/zod-to-openapi
 - https://github.com/jackdbd/zod-to-doc
+- https://zuplo.com/features/open-api
 
 ## MOCKS
 - https://jsonbox.io/
@@ -255,6 +257,7 @@
 ## GATEWAY
 - https://github.com/Kong/kong
 - https://github.com/apache/apisix
+- https://github.com/alibaba/higress
 - https://github.com/luraproject/lura
 - https://github.com/TykTechnologies/tyk
 

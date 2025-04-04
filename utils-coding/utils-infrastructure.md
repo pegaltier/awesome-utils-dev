@@ -288,6 +288,7 @@
 - https://github.com/awslabs/eks-node-viewer
 - https://github.com/AvitalTamir/cyphernetes
 - https://github.com/kubernetes/ingress-nginx
+- https://github.com/kubernetes-sigs/headlamp
 - https://github.com/open-source-labs/Chronos
 - https://github.com/viralpoetry/kubesurveyor
 - https://github.com/steveteuber/kubectl-graph

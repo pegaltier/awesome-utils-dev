@@ -855,6 +855,7 @@
 - https://github.com/ykob/sketch-threejs
 - https://github.com/dylanebert/gsplat.js
 - https://github.com/mikbry/awesome-webgpu
+- https://github.com/vasturiano/three-globe
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
 - https://github.com/toddeTV/gltf-type-toolkit
@@ -917,6 +918,7 @@
 
 ## LIB: MATH / CALCUL / NUMBER
 - https://github.com/bpierre/dnum
+- https://github.com/ttulka/as-big
 - https://github.com/MikeMcl/big.js
 - https://github.com/josdejong/mathjs
 - https://github.com/stdlib-js/stdlib

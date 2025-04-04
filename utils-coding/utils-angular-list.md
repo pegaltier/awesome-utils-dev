@@ -2767,7 +2767,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://bit.dev/kevinrodbe/utils/helpers/angular/~code#frm-validators.ts
 - https://stackblitz.com/@formqlx
 
-## ECOSYSTEM: LIB: COMPONENT: EDITOR / WYSIWYG 
+## ECOSYSTEM: LIB: COMPONENT: TEXT EDITOR / WYSIWYG 
 - https://github.com/Developer-Plexscape/ngx-grapesjs
 - https://github.com/lon-yang/ngx-markdown-editor
 - https://github.com/ckeditor/ckeditor5-angular
@@ -2787,6 +2787,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/holloway/doctored
 - https://github.com/ueberdosis/tiptap
 - https://github.com/acode/copenhagen
+- https://github.com/codemirror/dev/
 - https://github.com/zserge/awfice
 - https://github.com/udecode/plate
 

@@ -14,6 +14,7 @@
 - http://www.infoworld.com/article/3212884/machine-learning/machine-learning-comes-to-your-browser-via-javascript.html
 
 ## ARTICLES
+- https://www.msn.com/en-us/news/technology/chatgpt-adds-1-million-users-in-one-hour-after-adding-new-ai-feature/ar-AA1C471B
 - https://www.binance.com/en/blog/research/binance-research-exploring-the-future-of-ai-agents-in-crypto-4685351192205955466
 - https://www.numerama.com/tech/1590098-lopen-source-en-ia-gagne-du-terrain-face-aux-modeles-proprietaires.html
 - https://www.blogdumoderateur.com/ia-10-modeles-langage-performants-aout-2024/
@@ -97,7 +98,6 @@
 - https://github.com/platformatic/mistral-client
 - https://github.com/langchain-ai/open-canvas
 - https://github.com/ChatGPTNextWeb/NextChat
-- https://github.com/open-webui/open-webui
 - https://github.com/promptslab/Promptify
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
@@ -126,8 +126,10 @@
 - https://github.com/janhq/jan *
 - https://github.com/lmstudio-ai
 - https://github.com/mudler/LocalAI
+- https://github.com/lmstudio-ai/lms
 - https://github.com/huggingface/open-r1
 - https://github.com/josStorer/RWKV-Runner
+- https://github.com/open-webui/open-webui
 - https://github.com/withcatai/node-llama-cpp
 
 ## TOOLS: SUPPORT
@@ -694,7 +696,7 @@
 - https://github.com/coqui-ai/TTS
 
 ## LIB: VIDEO
-- https://github.com/ultralytics/ultralytics
+- https://github.com/aigc3d/LHM
 - https://github.com/THU-MIG/yolov10
 - https://github.com/WongKinYiu/yolov9
 - https://github.com/topics/ai-avatars
@@ -705,6 +707,7 @@
 - https://github.com/antgroup/echomimic_v2
 - https://github.com/NumesSanguis/FACSvatar
 - https://github.com/hacksider/Deep-Live-Cam
+- https://github.com/ultralytics/ultralytics
 - https://github.com/HVision-NKU/StoryDiffusion
 - https://github.com/fudan-generative-vision/hallo
 - https://github.com/jianzhnie/awesome-text-to-video
@@ -808,6 +811,7 @@
 - https://github.com/addyosmani/chatty
 - https://github.com/lightpanda-io/browser
 - https://github.com/browserbase/stagehand
+- https://github.com/web-infra-dev/midscene
 - https://github.com/browser-use/browser-use
 
 ## LIB: GAME

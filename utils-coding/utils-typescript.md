@@ -167,6 +167,7 @@ npm init
 - https://github.com/NetanelBasal/helpful-decorators
 - https://github.com/Idered/typescript-expect-plugin
 - https://github.com/valentinkononov/ts-runtime-checker
+- https://github.com/tom-weatherhead/common-utilities.ts
 - https://github.com/mattpocock/total-typescript-helpers
 - https://github.com/madou/typescript-transformer-handbook
 - https://github.com/ggascoigne/prettier-plugin-import-sort

@@ -225,14 +225,16 @@
 ## LIBS: VITE
 - https://github.com/aleclarson/vite-tsconfig-paths
 
-## LIBS: DATA OBJECT
+## LIBS: DATA OBJECT / DATA TYPE / BUFFER
 - https://github.com/RobinTail/express-zod-api
+- https://github.com/xdenser/node-struct
 - https://github.com/lostfictions/znv
 
 ## LIBS: WORKER MULTI THREAD
 - https://github.com/jofpin/turbit
 - https://github.com/piscinajs/piscina
 - https://github.com/tinylibs/tinypool
+- https://github.com/mcollina/everysync
 - https://github.com/developit/web-worker
 - https://github.com/faranalytics/socketnaut
 

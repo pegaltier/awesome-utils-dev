@@ -776,6 +776,9 @@
 - https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/fedecaccia/avellaneda-stoikov
 
+### OSS: RUST
+- https://github.com/greyblake/ta-rs
+
 ### OSS: PYTHON
 - https://github.com/myhhub/stock *
 - https://github.com/vollib/vollib
@@ -900,8 +903,11 @@
 - https://github.com/munrocket/ta-math
 - https://github.com/cinar/indicatorts
 - https://github.com/ixjb94/indicators
+- https://github.com/maxgfr/supertrend
 - https://github.com/rubenafo/trendyways
 - https://github.com/debut-js/Indicators
+- https://github.com/nenjotsu/deno-talib
+- https://github.com/focus1691/ValueArea
 - https://github.com/newproplus/talib-web
 - https://github.com/andredumas/techan.js
 - https://github.com/ixjb94/indicators-js
@@ -911,8 +917,32 @@
 - https://github.com/coin-unknown/Indicators
 - https://github.com/focus1691/chart-patterns
 - https://github.com/bennycode/trading-signals
+- https://github.com/tom-weatherhead/thaw-ta-math
+- https://github.com/stockastix/technical-indicators
+- https://github.com/rjbernaldo/technical-indicators
 - https://github.com/anandanand84/technicalindicators
 - https://github.com/Cloud9Trader/TechnicalIndicators
+- https://github.com/trade-rhythm/technical-indicators
+
+### OSS: JAVASCRIPT: BACKTEST
+- https://github.com/backtestjs/framework
+- https://github.com/focus1691/backtest-loop
+- https://github.com/chalupagrande/backtester
+- https://github.com/pratikgaloria/showr-core
+- https://github.com/andrewbaronick/BacktestJS
+- https://github.com/fugle-dev/fugle-backtest-node
+- https://github.com/excelsior-creative/edc-backtester
+- https://github.com/Grademark/grademark-first-example
+- https://github.com/jean-michel-gonet/angular-backtest
+- https://github.com/g-ulrich/electron-tradestation-backtester
+- https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
+- https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
+- https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/
+- https://eodhd.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
+- https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj
+
+### OSS: JAVASCRIPT: BACKTEST & EXEC
+- https://github.com/JeffreyHyer/grandmaster
 
 ### OSS: JAVASCRIPT: CHART
 - https://github.com/tradingview/lightweight-charts
@@ -947,10 +977,11 @@
 - https://github.com/tyolab/grademark *
 - https://github.com/suenot/profitmaker *
 - https://github.com/focus1691/orderflow
+- https://github.com/maxgfr/benford-law
 - https://github.com/debut-js/Strategies
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/daniellok/day-trader
-- https://github.com/backtestjs/framework *
+- https://github.com/DannyPreye/fx-ninja/
 - https://github.com/wagenaartje/stocks.js
 - https://github.com/coinranking/exchanges
 - https://github.com/SockTrader/SockTrader *
@@ -961,22 +992,18 @@
 - https://github.com/coin-unknown/async-genetic
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/austin-starks/NextTrade *
-- https://github.com/JeffreyHyer/grandmaster
-- https://github.com/chalupagrande/backtester
 - https://github.com/pratikgaloria/quantomate
 - https://github.com/tiagosiebler/bitmart-api
-- https://github.com/andrewbaronick/BacktestJS *
 - https://github.com/gadicc/node-yahoo-finance2 *
 - https://github.com/ViewBlock/binance-api-node
 - https://github.com/imxeno/tradingview-scraper
-- https://github.com/focus1691/backtest-loop
 - https://github.com/vitalets/tinkoff-invest-api
 - https://github.com/focus1691/indicator-library * 
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
+- https://github.com/HabeebUllahTabrez/Algo-Maker
 - https://github.com/dearvn/tradovate-trading-bot
 - https://github.com/Haehnchen/crypto-trading-bot *
-- https://github.com/fugle-dev/fugle-backtest-node
 - https://github.com/valamidev/candlestick-convert *
 - https://github.com/BitgetLimited/v3-bitget-api-sdk *
 - https://github.com/fasenderos/hft-limit-order-book *
@@ -989,24 +1016,15 @@
 - https://github.com/joshuapjacob/crypto-volatility-surface *
 - https://github.com/aloysius-pgast/crypto-exchanges-gateway *
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
-- https://github.com/excelsior-creative/edc-backtester (grademark)
 - https://github.com/Adamant-im/adamant-coinoptimus
 - https://github.com/472647301/tradingview-web-socket
 - https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4
-- https://github.com/Grademark/grademark-first-example
 - https://github.com/bitcoinvsalts/node-binance-trader
-- https://github.com/jean-michel-gonet/angular-backtest
 - https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/bitcoinvsalts/tradingview-alert-binance-trader
 - https://github.com/Artimatic/robinhood-td-algorithmic-trading-in-angular
 - https://seungwoo321.github.io/blog/2022/01/28/making-trading-bot-4/
 - https://stackoverflow.com/questions/76857436/js-timeframe-previous-candle-close-trading
-- https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
-- https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
-- https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/
-- https://eodhd.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
-- https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj
-- https://grademark.github.io/grademark-first-example/
 
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
 - https://aicryptochartanalysis.com/

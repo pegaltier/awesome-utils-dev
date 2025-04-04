@@ -364,8 +364,10 @@
 - https://github.com/marcocesarato/react-native-big-list
 - https://github.com/jobtoday/react-native-image-viewing
 - https://github.com/ospfranco/react-native-quick-sqlite
+- https://github.com/codingki/react-native-expo-template
 - https://github.com/mrousavy/react-native-vision-camera
 - https://github.com/likashefqet/react-native-image-zoom
+- https://github.com/amandeepmittal/react-native-examples
 - https://github.com/Expensify/react-native-live-markdown
 - https://github.com/4TWIGGERS/react-native-fresh-refresh
 - https://github.com/gorhom/react-native-paper-onboarding

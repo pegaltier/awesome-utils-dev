@@ -57,6 +57,7 @@
 - https://github.com/marcj/bitcoin.ts
 - https://github.com/versatus/versatus
 - https://github.com/Agoric/agoric-sdk
+- https://github.com/inkonchain/ink-kit
 - https://github.com/coinbase/onchainkit
 - https://github.com/hollaex/hollaex-kit
 - https://github.com/zookyy/crypto-sniper
