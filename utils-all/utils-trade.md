@@ -706,6 +706,7 @@
 - https://github.com/ccxt/node-binance-api
 - https://github.com/Kucoin/kucoin-node-sdk *
 - https://github.com/tiagosiebler/accountstate
+- https://github.com/tiagosiebler/orderbooks
 - https://github.com/tiagosiebler/okx-api
 - https://github.com/tiagosiebler/binance
 - https://github.com/tiagosiebler/gateio-api
@@ -728,7 +729,6 @@
 - https://github.com/vertex-protocol/vertex-typescript-sdk
 - https://github.com/binance-exchange/binance-api-node
 - https://github.com/InteractiveBrokers/tws-api-public
-- https://github.com/tiagosiebler/orderbooks
 - https://github.com/Kucoin/kucoin-api-docs
 - https://github.com/coinexcom/coinex_exchange_api
 - https://github.com/binance/binance-api-postman
