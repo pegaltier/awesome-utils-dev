@@ -213,6 +213,7 @@ RUN ls
 - https://github.com/SteveLTN/https-portal
 - https://github.com/docker-library/ghost
 - https://github.com/gotenberg/gotenberg
+- https://github.com/nodejs/docker-node
 - https://github.com/genuinetools/img
 - https://github.com/testcontainers
 - https://github.com/docker-library

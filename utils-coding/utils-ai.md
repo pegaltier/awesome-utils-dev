@@ -221,6 +221,7 @@
 - https://github.com/e2b-dev/e2b
 - https://github.com/ekkinox/yai
 - https://github.com/block/goose
+- https://github.com/openai/codex
 - https://github.com/Ironclad/rivet
 - https://github.com/Aider-AI/aider
 - https://github.com/meltylabs/melty
@@ -453,6 +454,7 @@
 - https://github.com/supermemoryai/supermemory
 
 ## LIB: AGENTIC FRAMEWORK
+- https://github.com/google/A2A
 - https://github.com/ai16z/eliza
 - https://github.com/camel-ai/owl
 - https://github.com/khoj-ai/khoj
@@ -464,6 +466,7 @@
 - https://github.com/reworkd/AgentGPT
 - https://github.com/Thytu/Agentarium
 - https://github.com/botpress/botpress
+- https://github.com/google/adk-python
 - https://github.com/PySpur-Dev/pyspur
 - https://github.com/coinbase/agentkit
 - https://github.com/phidatahq/phidata
@@ -474,6 +477,7 @@
 - https://github.com/agentlabs-dev/openator
 - https://github.com/browserbase/open-operator
 - https://github.com/transitive-bullshit/agentic
+- https://github.com/humanlayer/12-factor-agents
 - https://github.com/i-am-bee/bee-agent-framework
 - https://github.com/nickscamara/open-deep-research
 
@@ -520,6 +524,7 @@
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/lharries/whatsapp-mcp
+- https://github.com/punkpeye/fastmcp
 
 ## LIB: BPE
 - https://github.com/openai/tiktoken
@@ -767,7 +772,6 @@
 ## LIB: TRAIN
 - https://github.com/oumi-ai/oumi
 - https://github.com/mindverse/Second-Me
-
 
 ## LIB: ORCHESTRATION
 - https://github.com/openai/swarm

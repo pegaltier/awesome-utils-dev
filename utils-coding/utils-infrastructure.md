@@ -123,6 +123,7 @@
 
 ## TOOLS: MONITORING / OBSERVABILITY / LOGGING / REPLAYING / TELEMETRY
 - https://github.com/open-telemetry/opentelemetry-js
+- http://github.com/open-metadata/OpenMetadata
 - https://github.com/bluewave-labs/checkmate
 - https://github.com/openobserve/openobserve
 - https://github.com/openreplay/openreplay

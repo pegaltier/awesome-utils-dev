@@ -104,7 +104,7 @@
 - https://vercel.com/docs/cron-jobs
 - https://github.com/nefe/one-cron
 
-## UTILS NPM
+## UTILS: NPM
 - https://github.com/es-tooling/module-replacements
 - https://github.com/jdalton/npm-patch-with-bundled
 - https://github.com/radarsu/types-package-json
@@ -128,15 +128,16 @@
 - https://github.com/amio/npm-why
 - https://github.com/antfu/taze
 
-## UTILS DEVTOOLS
+## UTILS: DEVTOOLS
 - https://github.com/yunabe/tslab
 - https://github.com/volarjs/volar.js
 - https://github.com/bennycode/ts2esm
 - https://github.com/commitizen/cz-cli
+- https://github.com/davidmarkclements/0x
 - https://github.com/rodrigopivi/tslab-widgets
 - https://github.com/antfu/node-modules-inspector
 
-## UTILS ALL
+## UTILS: ALL
 - https://github.com/animir/node-rate-limiter-flexible
 - https://github.com/jkup/source-map-stacktrace-tester
 - https://github.com/JakobJingleheimer/nodejs-loaders
@@ -186,7 +187,11 @@
 - https://github.com/nexe/nexe
 - https://github.com/sezna/nps
 
-## UTILS TYPESCRIPT
+## UTILS: LINK
+- https://github.com/toss/es-git
+- https://github.com/apocas/dockerode
+
+## UTILS: TYPESCRIPT
 - https://github.com/unjs/jiti
 - https://github.com/TypeStrong/ts-node
 
@@ -245,7 +250,10 @@
 ## LIBS: REGEX / BLOG
 - https://github.com/isaacs/node-glob
 
-## LIBS: SSE / SERVER SENT EVENT
+## LIBS: HTTP: ALL
+- https://github.com/L-Blondy/up-fetch
+
+## LIBS: HTTP: SSE / SERVER SENT EVENT
 - https://github.com/Bewinxed/river.ts
 - https://github.com/adonisjs/transmit
 - https://github.com/MatthewWid/better-sse

@@ -892,6 +892,9 @@
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/techfreaque/octobot-lorentzian-classification
 
+### OSS: JAVASCRIPT: GENETIC
+- https://github.com/gekkowarez/gekkoga
+
 ### OSS: JAVASCRIPT: MATH
 - https://github.com/compute-io
 - https://github.com/thisancog/statistics.js

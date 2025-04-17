@@ -66,24 +66,34 @@
 
 ## OSS: BOT
 - https://github.com/telegraf/telegraf
+
 ## OSS: SOCIAL
 - https://github.com/gitroomhq/postiz-app
 - https://github.com/anti-work/iffy
+- https://github.com/gabboman/wafrn
+
 ## OSS: FILES
 - https://github.com/sxyazi/yazi
+- https://github.com/stonith404/pingvin-share
+
 ## OSS: EMAIL
 - https://github.com/un/inbox
 - https://github.com/elie222/inbox-zero
+
 # OSS: ASSETS
 - https://github.com/daminikhq/daminik
+
 ## OSS: NEWS
 - https://github.com/RSSNext/Follow
+
 ## OSS: FTP
 - https://github.com/mickael-kerjean/filestash
 - https://github.com/basvodde/filezilla
+
 ## OSS: SYSTEM
 - https://github.com/Abdenasser/neohtop
 - https://github.com/orhun/menyoki
+
 ## OSS: SUPPORT
 - https://github.com/anti-work/helper
 - https://github.com/abhinavxd/libredesk

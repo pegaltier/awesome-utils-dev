@@ -810,6 +810,7 @@
 - https://github.com/desandro/imagesloaded
 - https://github.com/bubkoo/html-to-image
 - https://github.com/team-video/tragopan
+- https://github.com/maotoumao/MusicFree
 - https://github.com/zengm-games/facesjs
 - https://github.com/google/model-viewer
 - https://github.com/joye61/pic-smaller
@@ -873,6 +874,12 @@
 ## LIB: WEBHOOK
 - https://github.com/probot/smee.io
 - https://github.com/probot/smee-client
+
+## LIB: GENETIC ALGO
+- https://github.com/dolphin278/genetic
+- https://github.com/subprotocol/genetic-js
+- https://github.com/panchishin/geneticalgorithm
+- https://github.com/ptrkkim/Genetic-Algo-Tech-Talk
 
 ## LIB: AI / TRAINING / PREDICTION
 - https://github.com/sbyrnes/bloom.js

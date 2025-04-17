@@ -32,6 +32,7 @@
 - https://github.com/Shopify/hydrogen
 - https://github.com/polarsource/polar
 - https://github.com/saleor/storefront
+- https://github.com/rasadov/EcommerceAPI
 - https://github.com/lmsqueezy/lemonsqueezy.js
 - https://github.com/vendure-ecommerce/vendure
 - https://github.com/coolerwind/react-ecommerce

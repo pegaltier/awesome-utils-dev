@@ -2774,6 +2774,7 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/KillerCodeMonkey/ngx-quill
 - https://github.com/ayush013/ngx-quill-upload
 - https://github.com/reedsy/quill-cursors
+- https://github.com/taiga-family/editor
 - https://github.com/quilljs/quill
 - https://github.com/microsoft/monaco-editor
 - https://github.com/ProseMirror/prosemirror
