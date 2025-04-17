@@ -150,6 +150,7 @@
 - https://github.com/twobin/react-lazyload
 - https://github.com/zoontek/react-chicane
 - https://github.com/tremorlabs/tremor-raw
+- https://github.com/unleashit/npm-library
 - https://github.com/paypal/react-paypal-js
 - https://github.com/LegendApp/legend-state
 - https://github.com/InseeFrLab/keycloakify
@@ -359,6 +360,7 @@
 - https://github.com/alpha0010/react-native-file-access
 - https://github.com/edeckers/react-native-blob-courier
 - https://github.com/callstack/react-native-builder-bob
+- https://github.com/react-native-maps/react-native-maps
 - https://github.com/craftzdog/react-native-quick-base64
 - https://github.com/meliorence/react-native-render-html
 - https://github.com/marcocesarato/react-native-big-list
