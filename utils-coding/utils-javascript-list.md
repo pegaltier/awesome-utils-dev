@@ -1072,6 +1072,9 @@
 - https://github.com/partykit/partykit
 - https://github.com/threepointone/partyserver
 
+## LIB: MUSIC
+- https://github.com/Tonejs/Tone.js
+
 ## LIB: GAME
 - https://github.com/mgechev/mk.js
 - https://github.com/straker/kontra

@@ -91,6 +91,10 @@
 - https://github.com/mickael-kerjean/filestash
 - https://github.com/basvodde/filezilla
 
+## OSS: BROWSER
+- https://github.com/zen-browser/desktop
+- https://github.com/brave/brave-browser
+
 ## OSS: SYSTEM
 - https://github.com/Abdenasser/neohtop
 - https://github.com/orhun/menyoki

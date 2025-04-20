@@ -479,6 +479,7 @@
 - https://github.com/microsoft/TinyTroupe
 - https://github.com/agentlabs-dev/openator
 - https://github.com/browserbase/open-operator
+- https://github.com/threepointone/partyserver
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/genkit-ai/genkit-by-example
 - https://github.com/humanlayer/12-factor-agents
@@ -826,6 +827,7 @@
 ## LIB: GAME
 - https://github.com/a16z-infra/ai-town
 - https://github.com/PufferAI/PufferLib
+- https://github.com/partykit/partykit
 
 ## LIB: SCIENCE
 - https://github.com/NVIDIA/Cosmos
