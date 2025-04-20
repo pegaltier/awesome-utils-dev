@@ -73,6 +73,10 @@
 - https://guardianproject.info/apps/pixelknot/
 - https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password
 
+## TOOLS: OSS: LIST
+- https://github.com/snoopysecurity/awesome-burp-extensions
+- https://github.com/CVEProject/cvelistV5
+
 ## TOOLS: OSS: OFFENSIVE
 - https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters
 - https://github.com/Whitecat18/Rust-for-Malware-Development

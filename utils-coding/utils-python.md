@@ -65,6 +65,7 @@ pip -V
 - https://github.com/astral-sh/ruff
 
 ## LIB
+- https://github.com/rio-labs/rio
 - https://github.com/django/django
 - https://github.com/apache/superset
 - https://github.com/tinygrad/tinygrad

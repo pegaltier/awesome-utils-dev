@@ -78,6 +78,7 @@
 - https://piotrminkowski.com/2020/12/14/microprofile-java-microservices-on-wildfly/
 
 ## QUARKUS
+- https://github.com/gaetanBloch/meal-order
 - https://github.com/agoncal/code-with-quarkus
 - https://github.com/lordofthejars/quarkus-cheat-sheet/
 - https://github.com/jhipster/generator-jhipster-quarkus
@@ -119,6 +120,7 @@
 - https://github.com/alibaba/arthas
 - https://github.com/caoccao/Javet
 - https://github.com/apache/thrift
+- https://github.com/vavr-io/vavr
 - https://github.com/apache/druid
 - https://github.com/crate/crate
 - https://github.com/zxing/zxing
@@ -153,6 +155,10 @@
 - https://github.com/ReactiveX/RxJava
 - https://github.com/mgp/effective-rxjava
 - https://vertx.io/
+
+## LIBS: WEBSOCKET
+- https://github.com/TakahikoKawasaki/nv-websocket-client
+- https://github.com/TooTallNate/Java-WebSocket
 
 ## LIBS: AUTH
 - https://github.com/thomasdarimont/keycloak-health-checks

@@ -453,6 +453,9 @@
 ## LIB: EXTENSION
 - https://github.com/supermemoryai/supermemory
 
+## LIB: MULTI AGENT
+- https://github.com/crewAIInc/crewAI
+
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/google/A2A
 - https://github.com/ai16z/eliza
@@ -480,6 +483,7 @@
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/i-am-bee/bee-agent-framework
 - https://github.com/nickscamara/open-deep-research
+- https://examples.genkit.dev/
 
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 - https://github.com/Y2Z/monolith
@@ -706,6 +710,7 @@
 - https://github.com/WongKinYiu/yolov9
 - https://github.com/topics/ai-avatars
 - https://github.com/hpcaitech/Open-Sora
+- https://github.com/lllyasviel/FramePack
 - https://github.com/Tencent/HunyuanVideo
 - https://github.com/KwaiVGI/LivePortrait
 - https://github.com/SoraWebui/FakeSoraAPI

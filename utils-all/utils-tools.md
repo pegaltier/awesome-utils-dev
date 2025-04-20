@@ -46,6 +46,7 @@
 - https://github.com/chatwoot/chatwoot
 - https://github.com/fosscord/fosscord
 - https://github.com/42wim/matterbridge
+- https://github.com/iib0011/omni-tools
 - https://github.com/zen-browser/desktop
 - https://github.com/sniptt-official/ots
 - https://github.com/syncthing/syncthing

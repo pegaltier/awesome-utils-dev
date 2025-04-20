@@ -235,6 +235,7 @@
 - https://www.bullcharts.com.au/
 - https://www.composer.trade/
 - https://www.fintechee.com/
+- https://www.quantvue.io/
 - https://r-candles.com/
 - https://capitalise.ai/
 - https://dayhagan.com/

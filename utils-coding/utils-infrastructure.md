@@ -172,6 +172,7 @@
 - https://github.com/azukaar/Cosmos-Server
 - https://github.com/coollabsio/coolify
 - https://github.com/newsnowlabs/runcvm
+- https://github.com/zane-ops/zane-ops
 - https://github.com/caprover/caprover
 - https://github.com/mbecker20/komodo
 - https://github.com/Dokploy/dokploy
