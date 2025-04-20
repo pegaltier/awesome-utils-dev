@@ -480,10 +480,10 @@
 - https://github.com/agentlabs-dev/openator
 - https://github.com/browserbase/open-operator
 - https://github.com/transitive-bullshit/agentic
+- https://github.com/genkit-ai/genkit-by-example
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/i-am-bee/bee-agent-framework
 - https://github.com/nickscamara/open-deep-research
-- https://examples.genkit.dev/
 
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 - https://github.com/Y2Z/monolith
