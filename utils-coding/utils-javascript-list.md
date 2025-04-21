@@ -973,6 +973,8 @@
 - https://github.com/triggerdotdev/schema-infer
 - https://github.com/mweidner037/list-positions
 - https://github.com/mesqueeb/merge-anything
+- https://github.com/traverse1984/oxide.ts
+- https://github.com/galvez/fast-path-set
 - https://github.com/gvergnaud/ts-pattern
 - https://github.com/mjbrisebois/js-json
 - https://github.com/quicktype/quicktype

@@ -110,6 +110,7 @@ RUN ls
 - https://github.com/containers/podman
 - https://github.com/hashicorp/vagrant
 - https://github.com/earthly/earthly
+- https://github.com/nestybox/sysbox
 - https://github.com/abiosoft/colima
 - https://github.com/crazy-max/diun
 - https://github.com/xpipe-io/xpipe

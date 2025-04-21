@@ -652,6 +652,7 @@
 - https://github.com/hummingbot/hummingbot
 - https://github.com/hummingbot/quants-lab
 - https://github.com/freqtrade/freqtrade *
+- https://github.com/QuantConnect/Lean
 - https://github.com/jesse-ai/jesse
 - https://github.com/fintechees
 - https://github.com/hackingthemarkets?tab=repositories

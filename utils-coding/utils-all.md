@@ -10,6 +10,7 @@
 - https://app.diagrams.net/
 - https://missing.csail.mit.edu/
 - https://jsbin.com/?html,output
+- https://github.com/pad-ws/pad.ws
 - https://github.com/yjose/awesome-new
 - https://github.com/coder/code-server
 - https://github.com/stackblitz/tutorialkit

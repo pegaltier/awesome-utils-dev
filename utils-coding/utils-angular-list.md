@@ -3016,6 +3016,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT
 - https://github.com/adisreyaj/wfh
+- https://github.com/angular/examples
 - https://github.com/eneajaho/ng-tauri
 - https://github.com/yjaaidi/experiments
 - https://github.com/lacolaco/angular-sac
