@@ -475,6 +475,7 @@
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
 - https://github.com/dzhng/deep-research
+- https://github.com/VoltAgent/voltagent
 - https://github.com/pydantic/pydantic-ai
 - https://github.com/microsoft/TinyTroupe
 - https://github.com/agentlabs-dev/openator

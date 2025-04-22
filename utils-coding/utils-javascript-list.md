@@ -889,6 +889,11 @@
 - https://github.com/coin-unknown/async-genetic
 - https://github.com/sbyrnes/DataScience_in_Node.js
 
+## LIB: AI: AGENT
+- https://github.com/firebase/genkit
+- https://github.com/mastra-ai/mastra
+- https://github.com/VoltAgent/voltagent
+
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
 - https://github.com/refly-ai/refly
 - https://github.com/firebase/genkit
