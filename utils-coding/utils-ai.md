@@ -530,6 +530,7 @@
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/lharries/whatsapp-mcp
+- https://github.com/upstash/context7
 - https://github.com/punkpeye/fastmcp
 
 ## LIB: BPE
@@ -703,6 +704,7 @@
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
 - https://github.com/hexgrad/kokoro
+- https://github.com/nari-labs/dia
 - https://github.com/suno-ai/bark
 - https://github.com/coqui-ai/TTS
 
@@ -711,6 +713,7 @@
 - https://github.com/THU-MIG/yolov10
 - https://github.com/WongKinYiu/yolov9
 - https://github.com/topics/ai-avatars
+- https://github.com/SandAI-org/MAGI-1
 - https://github.com/hpcaitech/Open-Sora
 - https://github.com/lllyasviel/FramePack
 - https://github.com/Tencent/HunyuanVideo

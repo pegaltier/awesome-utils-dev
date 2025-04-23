@@ -1046,6 +1046,7 @@
 - https://www.flirtingwithmodels.com/
 - https://thealgorithmicadvantage.com/
 - https://share.transistor.fm/s/51a35144
+- https://kjtradingsystems.com/podcasts.html
 - https://www.acquired.fm/episodes/renaissance-technologies
 - https://www.youtube.com/@ChatWithTradersPodcast/videos
 

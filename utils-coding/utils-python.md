@@ -67,6 +67,7 @@ pip -V
 ## LIB
 - https://github.com/rio-labs/rio
 - https://github.com/django/django
+- https://github.com/fastapi/fastapi
 - https://github.com/apache/superset
 - https://github.com/tinygrad/tinygrad
 - https://github.com/PrefectHQ/prefect
@@ -78,6 +79,7 @@ pip -V
 - https://github.com/kellyjonbrazil/jc
 - https://github.com/Textualize/textual
 - https://github.com/swirlai/swirl-search
+- https://github.com/tadata-org/fastapi_mcp
 - https://github.com/vietnh1009/ASCII-generator
 - https://github.com/threestudio-project/threestudio
 
