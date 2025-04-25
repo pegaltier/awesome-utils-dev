@@ -463,6 +463,7 @@
 - https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
 - https://github.com/agno-agi/agno
+- https://github.com/kortix-ai/suna
 - https://github.com/coleam00/Archon
 - https://github.com/firebase/genkit
 - https://github.com/mastra-ai/mastra
@@ -475,6 +476,7 @@
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
 - https://github.com/dzhng/deep-research
+- https://github.com/rowboatlabs/rowboat
 - https://github.com/VoltAgent/voltagent
 - https://github.com/pydantic/pydantic-ai
 - https://github.com/microsoft/TinyTroupe
