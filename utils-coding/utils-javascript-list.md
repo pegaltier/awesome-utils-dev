@@ -713,6 +713,7 @@
 
 ## LIB: FRONTEND UI TABLE / SPREADSHEET
 - https://github.com/exceljs/exceljs
+- https://github.com/tristen/tablesort
 - https://github.com/tbranyen/hyperlist
 - https://github.com/dream-num/Luckysheet
 - https://github.com/ruilisi/fortune-sheet
@@ -917,6 +918,7 @@
 - https://github.com/danny-avila/LibreChat
 - https://github.com/xenova/transformers.js
 - https://github.com/langchain-ai/langgraph
+- https://github.com/getsentry/vitest-evals
 - https://github.com/facebookresearch/shumai
 - https://github.com/eduardoleao052/js-pytorch
 - https://github.com/browserbase/open-operator

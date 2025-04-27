@@ -51,11 +51,11 @@
 ## AWESOME
 - https://github.com/dair-ai
 - https://github.com/linexjlin/GPTs
+- https://github.com/elyase/awesome-gpt3
 - https://github.com/mlabonne/llm-course
 - https://github.com/eugeneyan/applied-ml
 - https://github.com/visenger/awesome-mlops
 - https://github.com/openai/openai-cookbook
-- https://github.com/elyase/awesome-gpt3
 - https://github.com/best-of-ai/ai-directories
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/e2b-dev/awesome-ai-agents
@@ -691,6 +691,9 @@
 - https://github.com/karpathy/micrograd
 - https://github.com/microsoft/DeepSpeed
 
+## LIB: EVALS
+- https://github.com/getsentry/vitest-evals
+
 ## LIB: AUDIO / TTS
 - https://github.com/modelscope/ClearerVoice-Studio
 - https://github.com/jianchang512/ChatTTS-ui
@@ -813,6 +816,7 @@
 - https://github.com/openchatai/OpenChat
 
 ## LIB: SOCIAL
+- https://github.com/David-patrick-chuks/Instagram-AI-Agent
 - https://github.com/ericciarla/trendFinder
 - https://github.com/stanford-oval/storm
 

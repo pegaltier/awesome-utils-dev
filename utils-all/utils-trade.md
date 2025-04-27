@@ -992,6 +992,7 @@
 - https://github.com/SockTrader/SockTrader *
 - https://github.com/Open-Trader/opentrader *
 - https://github.com/tardis-dev/tardis-node *
+- https://github.com/ixjb94/market-screener
 - https://github.com/fasenderos/nestjs-ccxt
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/coin-unknown/async-genetic

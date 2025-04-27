@@ -64,6 +64,7 @@
 - https://github.com/ossf/wg-best-practices-os-developers
 - https://github.com/bespoyasov/refactor-like-a-superhero
 - https://github.com/blindma1den/Programming-Skills-Level0
+- https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/developer-resources/frontend-development
 - https://github.com/qiangmzsx/Software-Engineering-at-Google

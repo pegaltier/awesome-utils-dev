@@ -5,6 +5,7 @@
 - https://github.com/jaywcjlove/awesome-mac
 - https://github.com/phmullins/awesome-macos
 - https://github.com/nikitavoloboev/my-mac-os
+- https://github.com/geerlingguy/mac-dev-playbook
 - https://github.com/myspaghetti/macos-virtualbox
 - https://github.com/PubFoundry/macos-frontend-setup
 - https://github.com/serhii-londar/open-source-mac-os-apps
