@@ -73,6 +73,9 @@
 - https://github.com/anti-work/iffy
 - https://github.com/gabboman/wafrn
 
+## OSS: LEARN
+- https://github.com/cuixueshe/earthworm
+
 ## OSS: FILES
 - https://github.com/sxyazi/yazi
 - https://github.com/stonith404/pingvin-share
@@ -268,7 +271,9 @@
 
 ## Organise
 - https://github.com/noduslabs/
+- https://github.com/codexu/note-gen
 - https://github.com/dendronhq/dendron
+- https://github.com/fastrepl/hyprnote
 - https://github.com/siyuan-note/siyuan
 - https://github.com/anyproto/anytype-ts
 - https://github.com/AppFlowy-IO/AppFlowy
@@ -283,9 +288,9 @@
 - https://github.com/learn-anything/learn-anything.xyz
 - https://github.com/nikdanilov/whisper-obsidian-plugin
 - https://github.com/dsebastien/obsidian-plugin-template
+- https://github.com/LBF38/obsidian-syncthing-integration
 - https://github.com/claremacrae/obsidian-repos-downloader
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
-- https://github.com/LBF38/obsidian-syncthing-integration
 
 ## Automate / automation
 - https://www.getmagical.com/
