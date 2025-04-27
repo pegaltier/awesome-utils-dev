@@ -669,9 +669,10 @@
 - https://github.com/quant-science/sunday-quant-scientist
 - https://github.com/tiagosiebler/awesome-crypto-examples
 - https://github.com/valeman/awesome-conformal-prediction
+- https://github.com/topics/candlestick-patterns-detection
+- https://github.com/wangzhe3224/awesome-systematic-trading
 - https://github.com/botcrypto-io/awesome-crypto-trading-bots
 - https://github.com/edarchimbaud/awesome-systematic-trading
-- https://github.com/topics/candlestick-patterns-detection
 - https://github.com/stefan-jansen/machine-learning-for-trading
 - https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
 - https://github.com/learn-crypto-trading/learn-crypto-trading.github.io
@@ -997,6 +998,7 @@
 - https://github.com/mkmarek/forex.analytics
 - https://github.com/coin-unknown/async-genetic
 - https://github.com/TranceGeniK/bybit-tools
+- https://github.com/CompendiumFi/PENDAX-SDK
 - https://github.com/austin-starks/NextTrade *
 - https://github.com/pratikgaloria/quantomate
 - https://github.com/tiagosiebler/bitmart-api

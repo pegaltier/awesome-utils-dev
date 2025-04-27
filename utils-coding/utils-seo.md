@@ -101,6 +101,7 @@ seo phase d'optimisation :
 - https://indexwhale.com/
 
 ## TOOLS / OSS / INDEXING
+- https://github.com/itteco/iframely
 - https://github.com/algolia/404-crawler
 - https://github.com/remibacha/kwClustersR
 - https://github.com/goenning/google-indexing-script

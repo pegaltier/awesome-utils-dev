@@ -243,6 +243,7 @@
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
 - https://github.com/Integuru-AI/Integuru
+- https://github.com/opencode-ai/opencode
 - https://github.com/continuedev/continue
 - https://github.com/microsoft/genaiscript
 - https://github.com/raidendotai/cofounder
@@ -466,6 +467,7 @@
 - https://github.com/kortix-ai/suna
 - https://github.com/coleam00/Archon
 - https://github.com/firebase/genkit
+- https://github.com/getzep/graphiti
 - https://github.com/mastra-ai/mastra
 - https://github.com/reworkd/AgentGPT
 - https://github.com/Thytu/Agentarium
