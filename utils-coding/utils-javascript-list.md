@@ -164,6 +164,9 @@
 - https://github.com/43081j/ecosystem-cleanup
 - https://macarthur.me/posts/long-tasks/
 
+## BENCHMARKS
+- https://measurethat.net/Benchmarks/Show/20141/0/compare-number-vs-compare-string
+
 ## PROMISE THEN VS AWAIT VS CHAINABLE
 - https://github.com/kozhevnikov/proxymise
 

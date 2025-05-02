@@ -705,6 +705,7 @@
 - https://github.com/knowm/XChange *
 - https://github.com/gateio/gateapi-nodejs *
 - https://github.com/carlosmiei/node-binance-api
+- https://github.com/alpacahq/typescript-sdk
 - https://github.com/alpacahq/alpaca-trade-api-js *
 - https://github.com/ccxt/node-binance-api
 - https://github.com/Kucoin/kucoin-node-sdk *
@@ -783,6 +784,7 @@
 - https://github.com/greyblake/ta-rs
 
 ### OSS: PYTHON
+- https://github.com/zvtvz/zvt
 - https://github.com/myhhub/stock *
 - https://github.com/vollib/vollib
 - https://github.com/unit8co/darts
@@ -1036,6 +1038,7 @@
 
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
 - https://aicryptochartanalysis.com/
+- https://github.com/microsoft/qlib
 - https://github.com/virattt/ai-hedge-fund
 - https://github.com/AI4Finance-Foundation/FinRL
 - https://github.com/tensortrade-org/tensortrade

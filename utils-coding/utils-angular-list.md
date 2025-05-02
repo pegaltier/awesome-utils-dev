@@ -2594,6 +2594,7 @@ Analyze and optimize the performance of your app
 - https://material.angular.io/cdk/a11y/overview
 - https://alligator.io/angular/infinite-scroll
 - https://github.com/radix-ng/primitives
+- https://github.com/plongrigg/ext-select
 - https://github.com/KingSora/OverlayScrollbars
 - https://github.com/ng-primitives/ng-primitives
 - https://github.com/angular-material-extensions

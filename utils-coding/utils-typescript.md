@@ -75,6 +75,7 @@ npm init
 ## STARTER / TEMPLATE
 - https://github.com/9renpoto/.59-node
 - https://github.com/antfu/starter-ts
+- https://github.com/typescripttv/configs
 - https://github.com/NiGhTTraX/ts-monorepo
 - https://github.com/egoist/ts-lib-starter
 - https://github.com/stijnvanhulle/template

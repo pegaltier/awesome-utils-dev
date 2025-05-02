@@ -61,6 +61,7 @@
 ## OPENAPI
 - https://github.com/openapi-ts
 - https://github.com/readmeio/oas
+- https://github.com/long-woo/stc
 - https://github.com/scalar/scalar *
 - https://github.com/kubb-labs/kubb
 - https://github.com/Azure/autorest

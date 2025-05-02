@@ -183,6 +183,7 @@
 - https://github.com/danielmiessler/fabric
 - https://github.com/n8n-io/self-hosted-ai-starter-kit
 - https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent
+- https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts
 
 ## TOOLS: WEB
 - https://github.com/huggingface/transformers.js-examples
@@ -533,6 +534,7 @@
 ## LIB: MCP
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/exa-labs/exa-mcp-server
 - https://github.com/lharries/whatsapp-mcp
 - https://github.com/upstash/context7
 - https://github.com/punkpeye/fastmcp
