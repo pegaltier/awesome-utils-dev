@@ -236,6 +236,7 @@
 - https://github.com/yamadashy/repomix
 - https://github.com/e2b-dev/fragments
 - https://github.com/Nutlope/aicommits
+- https://github.com/daytonaio/daytona
 - https://github.com/plandex-ai/plandex
 - https://github.com/Nutlope/llamacoder
 - https://github.com/MLSysOps/MLE-agent
@@ -352,6 +353,9 @@
 - https://www.synthesia.io/
 - https://github.com/HumanAIGC/EMO
 - https://github.com/bytedance/X-Portrait
+
+## TOOLS: MOBILE
+- https://github.com/a-ghorbani/pocketpal-ai
 
 ## TOOLS: HACKING
 - https://chat.hackerai.co/
@@ -532,6 +536,8 @@
 - https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: MCP
+- https://github.com/cloudflare/mcp-server-cloudflare
+- https://github.com/wonderwhy-er/DesktopCommanderMCP
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/exa-labs/exa-mcp-server
@@ -825,6 +831,7 @@
 - https://github.com/stanford-oval/storm
 
 ## LIB: SEARCH
+- https://github.com/MODSetter/SurfSense
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/zaidmukaddam/miniperplx
 

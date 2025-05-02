@@ -8,6 +8,7 @@
 - https://webtorrent.io/
 - https://webtor.io/
 - https://webtorrent.io/desktop/
+- https://github.com/Viren070/AIOStreams
 - https://github.com/webtorrent/webtorrent
 
 ## VPN

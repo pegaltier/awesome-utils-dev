@@ -156,6 +156,7 @@
 - https://github.com/Lynx-Shortener/Lynx
 - https://github.com/hoarder-app/hoarder
 - https://github.com/CorentinTh/it-tools
+- https://github.com/linkwarden/linkwarden
 - https://github.com/ArchiveBox/ArchiveBox
 - https://github.com/supermemoryai/supermemory
 - https://github.com/dgtlmoon/changedetection.io
