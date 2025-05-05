@@ -199,6 +199,7 @@
 ## MONITORING / LOGGING
 - https://github.com/pinojs/pino
 - https://github.com/immobiliare/dats
+- https://github.com/loglayer/loglayer
 - https://clinicjs.org/
 - http://pm2.keymetrics.io/
 
@@ -350,12 +351,18 @@
 - https://github.com/valkey-io/iovalkey
 - https://github.com/apollographql/graphql-subscriptions
 
-## LIBS: DATABASE / DB: PR
+## LIBS: DATABASE / DB: PRISMA
 - https://github.com/Cauen/prisma-generator-postgres-realtime
 - https://github.com/mohammed-bahumaish/prisma-editor
 - https://github.com/catalinmiron/awesome-prisma
 - https://github.com/prisma/prisma
 - https://github.com/prisma-utils
+
+## LIBS: DATABASE / ORM
+- https://github.com/remult/remult
+- https://github.com/prisma/prisma
+- https://github.com/typeorm/typeorm
+- https://github.com/sequelize/sequelize
 
 ## LIBS: DATABASE / DB
 - https://github.com/koskimas/kysely
