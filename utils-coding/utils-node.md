@@ -232,6 +232,7 @@
 - https://github.com/aleclarson/vite-tsconfig-paths
 
 ## LIBS: DATA OBJECT / DATA TYPE / BUFFER
+- https://github.com/node-formidable/formidable
 - https://github.com/RobinTail/express-zod-api
 - https://github.com/xdenser/node-struct
 - https://github.com/lostfictions/znv
@@ -382,6 +383,7 @@
 - https://github.com/terkelg/prompts
 - https://github.com/jasonkuhrt/molt
 - https://github.com/arcanis/clipanion
+- https://github.com/tunnckoCore/zodest
 - https://github.com/npkgz/cli-progress
 - https://github.com/vadimdemedes/pastel
 - https://github.com/bombshell-dev/clack

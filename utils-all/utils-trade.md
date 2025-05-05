@@ -591,6 +591,7 @@
 - https://github.com/EikHjertekys/EPF *
 - https://github.com/AlgoETS/TradingViewBuilder
 - https://github.com/Heavy91/TradingView_Indicators
+- https://github.com/800cherries/Tradingview-Indicators
 - https://github.com/pAulseperformance/awesome-pinescript *
 - https://github.com/pinecoders/tradingview-pinescript-indicators
 - https://gist.github.com/kaigouthro/b95a8b4c43e607ea71897e204904b9c0
@@ -686,6 +687,7 @@
 - https://github.com/rodrigo-brito/ninjabot
 - https://github.com/ghostfolio/ghostfolio
 - https://github.com/maybe-finance/maybe
+- https://github.com/actualbudget/actual
 - https://github.com/afadil/wealthfolio
 - https://github.com/0xDub/figgie-auto
 
@@ -953,17 +955,23 @@
 - https://github.com/JeffreyHyer/grandmaster
 
 ### OSS: JAVASCRIPT: CHART
+- https://github.com/chartjs/chartjs-chart-financial
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/tradex-app/TradeX-chart
 - https://github.com/project-nv/night-vision
 - https://github.com/klinecharts/KLineChart
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/andredumas/techan.js
-- https://github.com/cm45t3r/candlestick
 - https://github.com/jones2000/HQChart
 - https://github.com/chartjs/Chart.js
 - https://github.com/klinecharts/pro
 - https://github.com/apache/superset
+
+### OSS: JAVASCRIPT: CANDLES
+- https://github.com/valamidev/candlestick-convert *
+- https://github.com/darklight9811/candlelit
+- https://github.com/cm45t3r/candlestick
+- https://github.com/Flippo24/candles *
 
 ### OSS: JAVASCRIPT
 - https://npm.io/search/keyword:forex
@@ -976,7 +984,6 @@
 - https://github.com/debut-js/Core
 - https://github.com/stoqey/nitrogen
 - https://github.com/Seungwoo321/cats (grademark)
-- https://github.com/Flippo24/candles *
 - https://github.com/kjp22/quant_view *
 - https://github.com/jerryshell/midas *
 - https://github.com/fasenderos/bitify
@@ -1014,7 +1021,6 @@
 - https://github.com/HabeebUllahTabrez/Algo-Maker
 - https://github.com/dearvn/tradovate-trading-bot
 - https://github.com/Haehnchen/crypto-trading-bot *
-- https://github.com/valamidev/candlestick-convert *
 - https://github.com/BitgetLimited/v3-bitget-api-sdk *
 - https://github.com/fasenderos/hft-limit-order-book *
 - https://github.com/tiagosiebler/TriangularArbitrage

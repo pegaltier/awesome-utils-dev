@@ -333,6 +333,7 @@
 - https://github.com/kieler/elkjs
 - https://github.com/liriliri/licia
 - https://github.com/unjs/cookie-es
+- https://github.com/kourge/ordering
 - https://github.com/tkrotoff/throw-on
 - https://github.com/js-cookie/js-cookie
 - https://github.com/sindresorhus/p-mutex
@@ -1127,3 +1128,6 @@
 
 ## PODCASTS
 - https://realtalkjavascript.simplecast.com/
+
+## API
+- https://github.com/discordjs/discord.js

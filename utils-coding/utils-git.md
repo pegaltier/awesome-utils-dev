@@ -54,6 +54,7 @@
 - https://github.com/githubocto/repo-visualizer
 - https://github.com/kreuzerk/import-conductor
 - https://github.com/rafgraph/spa-github-pages
+- https://github.com/AsyncFuncAI/deepwiki-open
 - https://github.com/avgupta456/github-trends
 - https://github.com/Gherciu/commitlint-jira
 - https://github.com/eranshmil/github-monitor

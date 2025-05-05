@@ -94,10 +94,12 @@
 - https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
 
 ## TOOLS: CLIENT PROMPT: OSS
+- https://github.com/OutSquareCapital/Better-prompts-for-better-output
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
 - https://github.com/langchain-ai/open-canvas
 - https://github.com/ChatGPTNextWeb/NextChat
+- https://github.com/ThinkInAIXYZ/deepchat
 - https://github.com/promptslab/Promptify
 - https://github.com/ykhli/local-ai-stack
 - https://github.com/InternLM/MindSearch
@@ -113,9 +115,6 @@
 - https://github.com/khoj-ai/khoj
 - https://github.com/lencx/Noi
 
-## TOOLS: PROMPT ON WEB
-- https://github.com/ItzCrazyKns/Perplexica
-- https://github.com/zaidmukaddam/scira
 
 ## TOOLS: AI APP STORE
 - https://github.com/mediar-ai/screenpipe
@@ -223,6 +222,7 @@
 - https://github.com/ekkinox/yai
 - https://github.com/block/goose
 - https://github.com/openai/codex
+- https://github.com/wandb/openui
 - https://github.com/Ironclad/rivet
 - https://github.com/Aider-AI/aider
 - https://github.com/meltylabs/melty
@@ -469,6 +469,7 @@
 - https://github.com/khoj-ai/khoj
 - https://github.com/goat-sdk/goat
 - https://github.com/agno-agi/agno
+- https://github.com/letta-ai/letta
 - https://github.com/kortix-ai/suna
 - https://github.com/coleam00/Archon
 - https://github.com/firebase/genkit
@@ -542,6 +543,7 @@
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/exa-labs/exa-mcp-server
 - https://github.com/lharries/whatsapp-mcp
+- https://github.com/aipotheosis-labs/aci
 - https://github.com/upstash/context7
 - https://github.com/punkpeye/fastmcp
 
@@ -830,7 +832,8 @@
 - https://github.com/ericciarla/trendFinder
 - https://github.com/stanford-oval/storm
 
-## LIB: SEARCH
+## TOOLS: PROMPT ON WEB / SEARCH
+- https://github.com/zaidmukaddam/scira
 - https://github.com/MODSetter/SurfSense
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/zaidmukaddam/miniperplx

@@ -258,6 +258,7 @@ npm init
 - https://github.com/pfgray/ts-adt
 - https://github.com/mu-io/ts-japi
 - https://github.com/skarab42/zoxy
+- https://github.com/kourge/ts-brand
 - https://github.com/decs/typeschema
 - https://github.com/pelotom/unionize
 - https://github.com/pelotom/runtypes

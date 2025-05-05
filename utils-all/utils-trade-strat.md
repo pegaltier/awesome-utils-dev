@@ -367,6 +367,7 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 - https://convex-strategies.com/2024/11/12/risk-update-october-2024-kayfabe/
 - https://www.schwab.com/learn/story/whats-move-index-and-why-it-might-matter
 - https://stonehillforex.com/2024/09/chaikin-volatility-as-a-volume-indicator/
+- https://www.liberatedstocktrader.com/kdj-indicator/
 - https://markrbest.github.io/reading-list/
 - https://tradingindicators.com/
 - https://github.com/paperswithbacktest

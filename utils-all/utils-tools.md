@@ -13,6 +13,7 @@
 - https://owncast.online/
 - https://phalternatives.com/
 - https://onlineminitools.com/
+- https://measurethat.net/Tools
 - https://oscarleo.com/google-trends
 - https://metatags.io/font-generator
 
@@ -80,6 +81,11 @@
 - https://github.com/sxyazi/yazi
 - https://github.com/stonith404/pingvin-share
 
+## OSS: FINANCE
+- https://github.com/ghostfolio/ghostfolio
+- https://github.com/maybe-finance/maybe
+- https://github.com/actualbudget/actual
+- https://github.com/afadil/wealthfolio
 ## OSS: EMAIL
 - https://github.com/un/inbox
 - https://github.com/elie222/inbox-zero
