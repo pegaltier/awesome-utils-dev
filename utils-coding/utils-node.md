@@ -64,10 +64,11 @@
 - https://github.com/btd/rollup-plugin-visualizer
 - https://github.com/bddjr/vite-plugin-singlefile-compression
 
-## STARTER / EXAMPLE
+## STARTER / EXAMPLE / TEMPLATE
 - https://github.com/9renpoto/.59-node
 - https://github.com/bennycode/ts-node-starter
 - https://github.com/jhoset/nodejs-spotify-server
+- https://github.com/joyco-studio/library-template
 - https://github.com/bezkoder/node-js-mssql-crud-example
 - https://github.com/studiohyperdrive/nodejs-boilerplate
 - https://github.com/xddq/nodejs-typescript-modern-starter

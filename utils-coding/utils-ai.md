@@ -260,6 +260,7 @@
 - https://github.com/All-Hands-AI/OpenHands
 - https://github.com/amplication/amplication
 - https://github.com/princeton-nlp/SWE-agent
+- https://github.com/robertpiosik/CodeWebChat
 - https://github.com/stackblitz-labs/bolt.diy
 - https://github.com/eduardoleao052/js-pytorch
 - https://github.com/eastlondoner/cursor-tools
@@ -268,10 +269,14 @@
 - https://github.com/Doriandarko/claude-engineer
 - https://github.com/aws-samples/bedrock-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
-- https://github.com/PatrickJS/awesome-cursorrules
 - https://github.com/gpt-engineer-org/gpt-engineer
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
 - https://github.com/OpenInterpreter/open-interpreter
+
+## TOOLS: CODING: OSS PROMPT RULES
+- https://github.com/asgeirtj/system_prompts_leaks
+- https://github.com/PatrickJS/awesome-cursorrules
+- https://github.com/Soushi888/ai-rules-and-workflows
 - https://github.com/x1xhlol/v0-system-prompts-models-and-tools
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
@@ -718,6 +723,7 @@
 - https://github.com/SparkAudio/Spark-TTS
 - https://github.com/bytedance/MegaTTS3
 - https://github.com/kyutai-labs/moshi
+- https://github.com/xming521/WeClone
 - https://github.com/yl4579/StyleTTS2
 - https://github.com/2noise/ChatTTS
 - https://github.com/hexgrad/kokoro
@@ -835,6 +841,7 @@
 ## TOOLS: PROMPT ON WEB / SEARCH
 - https://github.com/zaidmukaddam/scira
 - https://github.com/MODSetter/SurfSense
+- https://github.com/bytedance/deer-flow
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/zaidmukaddam/miniperplx
 

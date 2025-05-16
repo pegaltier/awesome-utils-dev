@@ -11,6 +11,7 @@
 - https://pimeyes.com/en
 - https://www.tldraw.com/
 - https://owncast.online/
+- https://transform.tools/
 - https://phalternatives.com/
 - https://onlineminitools.com/
 - https://measurethat.net/Tools
@@ -41,6 +42,7 @@
 - https://github.com/lukevella/rallly
 - https://github.com/AutomaApp/automa
 - https://github.com/pavlobu/deskreen
+- https://github.com/ritz078/transform
 - https://github.com/electerious/Ackee
 - https://github.com/mastodon/mastodon
 - https://github.com/kevinpapst/kimai2
@@ -86,8 +88,10 @@
 - https://github.com/maybe-finance/maybe
 - https://github.com/actualbudget/actual
 - https://github.com/afadil/wealthfolio
+
 ## OSS: EMAIL
 - https://github.com/un/inbox
+- https://github.com/Mail-0/Zero
 - https://github.com/elie222/inbox-zero
 
 # OSS: ASSETS

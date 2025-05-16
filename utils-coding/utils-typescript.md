@@ -251,6 +251,7 @@ npm init
 - https://github.com/ddd-mtl/zits
 
 ## LIB: DATA OBJECT
+- https://github.com/DZakh/sury
 - https://github.com/jquense/yup
 - https://github.com/funkia/list
 - https://github.com/gcanti/io-ts
@@ -311,10 +312,12 @@ npm init
 - https://github.com/dsherret/conditional-type-checks
 - https://github.com/bcherny/json-schema-to-typescript
 - https://github.com/moltar/typescript-runtime-type-benchmarks
+- https://dev.to/dzakh/javascript-schema-library-from-the-future-5420
 
 ## LIB: DATA OBJECT: ZOD
 - https://github.com/ecyrbe/zodios
 - https://github.com/colinhacks/zod
+- https://github.com/fabien0102/ts-to-zod
 - https://github.com/duplojs/zod-accelerator
 - https://github.com/astahmer/openapi-zod-client
 - https://github.com/JacobWeisenburger/zod_utilz

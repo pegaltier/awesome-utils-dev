@@ -154,6 +154,7 @@
 - https://levelup.gitconnected.com/javascript-best-practices-functions-and-mutations-43d76e280cfe
 - https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
 - https://brianflove.com/2014/09/02/whats-the-double-exclamation-mark-for-in-javascript/
+- https://advancedweb.hu/shorts/javascript-best-practice-use-return-await/
 - https://thewebdev.info/2020/06/09/more-javascript-habits-we-can-follow/
 - https://medium.com/trabe/using-switch-true-in-javascript-986e8ad8ae4f
 - https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/
@@ -165,6 +166,7 @@
 - https://macarthur.me/posts/long-tasks/
 
 ## BENCHMARKS
+- https://jsben.ch/js-string-equal-vs-startswith-gts9h
 - https://measurethat.net/Benchmarks/Show/20141/0/compare-number-vs-compare-string
 
 ## PROMISE THEN VS AWAIT VS CHAINABLE
@@ -520,6 +522,7 @@
 - https://github.com/atamano/jsonpathly
 - https://github.com/cheeriojs/cheerio
 - https://github.com/fb55/htmlparser2
+- https://github.com/zumerlab/snapdom
 - https://github.com/mholt/PapaParse
 - https://github.com/xmldom/xmldom
 - https://github.com/fb55/entities
@@ -727,6 +730,7 @@
 ## LIB: FRONTEND ANIMATION
 - https://github.com/Popmotion/popmotion
 - https://github.com/juliangarnier/anime
+- https://github.com/joyco-studio/marquee
 - https://github.com/prjct-samwest/scrollCue
 
 ## LIB: FRONTEND COLOR
@@ -861,6 +865,7 @@
 - https://github.com/ykob/sketch-threejs
 - https://github.com/dylanebert/gsplat.js
 - https://github.com/mikbry/awesome-webgpu
+- https://github.com/icurtis1/thebrowserlab
 - https://github.com/vasturiano/three-globe
 - https://github.com/nudibranchrecords/hedron
 - https://github.com/samalexander/three-csg-ts
@@ -900,6 +905,8 @@
 - https://github.com/VoltAgent/voltagent
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
+- https://github.com/FellouAI/eko
+- https://github.com/moeru-ai/xsai
 - https://github.com/refly-ai/refly
 - https://github.com/firebase/genkit
 - https://github.com/fixie-ai/ai-jsx
@@ -928,6 +935,7 @@
 - https://github.com/browserbase/open-operator
 - https://github.com/jina-ai/node-DeepResearch
 - https://github.com/Mintplex-Labs/anything-llm
+- https://github.com/yusuf-eren/openai-agents-js
 - https://github.com/transitive-bullshit/agentic
 - https://github.com/instructor-ai/instructor-js
 - https://github.com/a16z-infra/ai-getting-started
@@ -1096,6 +1104,7 @@
 - https://github.com/olistic/warriorjs
 - https://github.com/TitanPlayz100/teti
 - https://github.com/pi0/space-invaders
+- https://github.com/hydralauncher/hydra
 - https://github.com/daniellok/day-trader
 - https://github.com/shaack/cm-chessboard
 - https://github.com/KilledByAPixel/LittleJS
