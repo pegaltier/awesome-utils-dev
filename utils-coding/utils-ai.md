@@ -472,6 +472,7 @@
 - https://github.com/ai16z/eliza
 - https://github.com/camel-ai/owl
 - https://github.com/khoj-ai/khoj
+- https://github.com/FellouAI/eko
 - https://github.com/goat-sdk/goat
 - https://github.com/agno-agi/agno
 - https://github.com/letta-ai/letta
@@ -542,8 +543,10 @@
 - https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: MCP
+- https://github.com/modelcontextprotocol/typescript-sdk
 - https://github.com/cloudflare/mcp-server-cloudflare
 - https://github.com/wonderwhy-er/DesktopCommanderMCP
+- https://github.com/Flux159/mcp-server-kubernetes
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/exa-labs/exa-mcp-server

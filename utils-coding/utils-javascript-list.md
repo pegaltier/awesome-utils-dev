@@ -720,6 +720,7 @@
 
 ## LIB: FRONTEND UI TABLE / SPREADSHEET
 - https://github.com/exceljs/exceljs
+- https://github.com/dream-num/univer
 - https://github.com/tristen/tablesort
 - https://github.com/tbranyen/hyperlist
 - https://github.com/dream-num/Luckysheet
@@ -941,6 +942,7 @@
 - https://github.com/a16z-infra/ai-getting-started
 - https://github.com/nickscamara/open-deep-research
 - https://github.com/google-gemini/generative-ai-js
+- https://github.com/modelcontextprotocol/typescript-sdk
 
 ## LIB: MATH / CALCUL / NUMBER
 - https://github.com/bpierre/dnum

@@ -10,6 +10,7 @@
 - https://github.com/umami-software/umami
 - https://github.com/ClickHouse/ClickHouse
 - https://github.com/benvinegar/counterscale
+- https://github.com/open-metadata/OpenMetadata
 
 ## Tools
 - https://www.tinybird.co/
