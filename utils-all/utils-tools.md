@@ -284,6 +284,7 @@
 ## Organise
 - https://github.com/noduslabs/
 - https://github.com/codexu/note-gen
+- https://github.com/TriliumNext/Notes
 - https://github.com/dendronhq/dendron
 - https://github.com/fastrepl/hyprnote
 - https://github.com/siyuan-note/siyuan
