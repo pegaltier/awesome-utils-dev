@@ -127,4 +127,10 @@ createMaster() =>
 var TMaster master = createMaster()
 test = master.details.anotherThing // /!\ this is a series but we dont want that
 test2 = master.another // /!\ this is a series but we dont want that
-```javascript
+```
+
+
+## VARIOUS
+// Equity line
+plot(title="Equity Line", series=strategy.equity, trackprice=true, display=display.data_window, color=color.red)
+// https://docs.google.com/document/d/1WsYr45NKv93pwGp23fCa36ePvuOS8dhWxAaUTaSYwe0/edit?tab=t.0#heading=h.e6xd5j1f043x

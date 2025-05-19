@@ -550,6 +550,7 @@
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/exa-labs/exa-mcp-server
+- https://github.com/GLips/Figma-Context-MCP
 - https://github.com/lharries/whatsapp-mcp
 - https://github.com/aipotheosis-labs/aci
 - https://github.com/upstash/context7
