@@ -466,6 +466,7 @@
 
 ## LIB: MULTI AGENT
 - https://github.com/crewAIInc/crewAI
+- https://github.com/openai/openai-realtime-agents
 
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/google/A2A

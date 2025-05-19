@@ -564,6 +564,7 @@
 
 ## METATRADER / MT4 / MT5
 - https://www.jaredwolff.com/blog/the-anatomy-of-a-metatrader4-indicator/
+- https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop
 - https://github.com/geraked/metatrader5
 - https://github.com/sibvic/mq5-templates
 - https://github.com/peterthomet/MetaTrader-5-and-4-Tools

@@ -901,12 +901,13 @@
 - https://github.com/sbyrnes/DataScience_in_Node.js
 
 ## LIB: AI: AGENT
+- https://github.com/FellouAI/eko
 - https://github.com/firebase/genkit
 - https://github.com/mastra-ai/mastra
 - https://github.com/VoltAgent/voltagent
+- https://github.com/openai/openai-realtime-agents
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
-- https://github.com/FellouAI/eko
 - https://github.com/moeru-ai/xsai
 - https://github.com/refly-ai/refly
 - https://github.com/firebase/genkit
