@@ -218,6 +218,7 @@
 - https://github.com/rustdesk/rustdesk
 - https://github.com/traceo-dev/traceo
 - https://github.com/TigerVNC/tigervnc
+- https://github.com/Vendicated/Vencord
 - https://github.com/jsfiddle/togetherjs
 - https://github.com/toeverything/AFFiNE
 - https://github.com/thelounge/thelounge
