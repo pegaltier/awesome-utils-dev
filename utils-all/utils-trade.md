@@ -157,6 +157,7 @@
 - https://crypto-lake.com/
 - https://norgatedata.com/
 - https://marketstack.com/
+- https://financialdata.net/
 - https://www.alphavantage.co/
 - https://eodhistoricaldata.com/
 - https://coinlayer.com/product *
@@ -197,6 +198,7 @@
 - https://github.com/datasets/finance-vix
 - https://github.com/datasets/s-and-p-500
 - https://github.com/datasets/gold-prices
+- https://github.com/akfamily/awesome-data
 - https://github.com/JerBouma/FinanceDatabase
 - https://github.com/maxgfr/binance-historical *
 - https://github.com/datasets/exchange-rates-usd
