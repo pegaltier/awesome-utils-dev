@@ -627,6 +627,7 @@
 - https://github.com/robswc/tradingview-webhooks-bot
 - https://github.com/fundingrate/tradingview-webhooks *
 - https://github.com/everget/tradingview-pinescript-indicators *
+- https://github.com/goxr3plus/TradingView_GoldenIndicator
 - https://github.com/f13end/tradingview-custom-indicators *
 - https://github.com/RobertAgee/Real_Time_Strategy_Scanner
 - https://github.com/Algoboy-Kevin/algo-pinescript-libs
@@ -785,9 +786,6 @@
 - https://github.com/Crypto-toolbox/HFT-Orderbook
 - https://github.com/fedecaccia/avellaneda-stoikov
 
-### OSS: RUST
-- https://github.com/greyblake/ta-rs
-
 ### OSS: PYTHON
 - https://github.com/zvtvz/zvt
 - https://github.com/myhhub/stock *
@@ -834,7 +832,7 @@
 - https://github.com/ranaroussi/quantstats *
 - https://github.com/letianzj/QuantResearch *
 - https://github.com/QuantJourneyOrg/public *
-- https://github.com/blankly-finance/blankly
+- https://github.com/blankly-finance/blankly *
 - https://github.com/algobulls/pyalgotrading
 - https://github.com/jmfernandes/robin_stocks
 - https://github.com/quantrocket-llc/moonshot
@@ -902,6 +900,13 @@
 - https://github.com/Drakkar-Software/OctoBot
 - https://github.com/techfreaque/octobot-lorentzian-classification
 
+### OSS: RUST
+- https://github.com/amv-dev/yata
+- https://github.com/greyblake/ta-rs
+
+## OSS: JAVA
+- https://github.com/neurallayer/roboquant
+
 ### OSS: JAVASCRIPT: GENETIC
 - https://github.com/gekkowarez/gekkoga
 
@@ -910,6 +915,7 @@
 - https://github.com/thisancog/statistics.js
 
 ### OSS: JAVASCRIPT: INDICATORS
+- https://github.com/doowb/sma
 - https://github.com/compute-io
 - https://github.com/hackape/talib.js
 - https://github.com/kaelzhang/finmath
@@ -938,6 +944,7 @@
 - https://github.com/trade-rhythm/technical-indicators
 
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
+- https://github.com/quantform/quantform
 - https://github.com/backtestjs/framework
 - https://github.com/No-Trade-No-Life/Yuan
 - https://github.com/focus1691/backtest-loop
@@ -979,10 +986,12 @@
 - https://npm.io/search/keyword:forex
 - https://github.com/fugle-dev
 - https://github.com/Tucsky/aggr
+- https://github.com/rainfu/xcoin
 - https://github.com/tvjsx/tvjs-xp
 - https://github.com/agiliumtrade-ai/
 - https://github.com/oransel/node-talib *
 - https://github.com/askmike/gekko *
+- https://github.com/xFFFFF/Gekko-Strategies
 - https://github.com/debut-js/Core
 - https://github.com/stoqey/nitrogen
 - https://github.com/Seungwoo321/cats (grademark)
@@ -1052,6 +1061,10 @@
 - https://github.com/tensortrade-org/tensortrade
 - https://github.com/LiamConnell/deep-algotrading/
 - https://github.com/ccroft6/Technical_Indicator_Analysis_ML
+
+## OSS: TOPICS
+- https://github.com/topics/moving-average
+- https://github.com/topics/trading-strategies
 
 ## SOCIAL
 - https://www.andlil.com/forum/
