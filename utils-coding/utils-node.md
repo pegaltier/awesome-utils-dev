@@ -247,8 +247,9 @@
 - https://github.com/developit/web-worker
 - https://github.com/faranalytics/socketnaut
 
-## LIBS: TESTING
+## LIBS: UNIT TESTING
 - https://github.com/ladjs/supertest
+- https://github.com/humanwhocodes/mentoss
 - https://github.com/privatenumber/fs-fixture
 
 ## LIBS: REGEX / BLOG

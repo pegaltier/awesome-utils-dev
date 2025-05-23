@@ -937,25 +937,24 @@
 - https://github.com/Cloud9Trader/TechnicalIndicators
 - https://github.com/trade-rhythm/technical-indicators
 
-### OSS: JAVASCRIPT: BACKTEST
+### OSS: JAVASCRIPT: BACKTEST & TRADES
 - https://github.com/backtestjs/framework
+- https://github.com/No-Trade-No-Life/Yuan
 - https://github.com/focus1691/backtest-loop
 - https://github.com/chalupagrande/backtester
 - https://github.com/pratikgaloria/showr-core
+- https://github.com/JeffreyHyer/grandmaster
 - https://github.com/andrewbaronick/BacktestJS
 - https://github.com/fugle-dev/fugle-backtest-node
 - https://github.com/excelsior-creative/edc-backtester
 - https://github.com/Grademark/grademark-first-example
 - https://github.com/jean-michel-gonet/angular-backtest
 - https://github.com/g-ulrich/electron-tradestation-backtester
-- https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
-- https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
-- https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/
-- https://eodhd.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 - https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj
-
-### OSS: JAVASCRIPT: BACKTEST & EXEC
-- https://github.com/JeffreyHyer/grandmaster
+- https://www.the-data-wrangler.com/backtesting-trading-strategies-with-javascript/
+- https://medium.com/@ashleydavis75/backtesting-trading-strategies-with-javascript-73233524ecda
+- https://eodhd.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
+- https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 
 ### OSS: JAVASCRIPT: CHART
 - https://github.com/chartjs/chartjs-chart-financial

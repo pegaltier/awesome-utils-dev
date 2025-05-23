@@ -39,6 +39,7 @@
 ## Package Manager
 
 - https://brew.sh/
+- https://github.com/crhuber/kelp
 - https://github.com/Homebrew/brew
 
 ```

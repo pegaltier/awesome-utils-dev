@@ -545,10 +545,11 @@
 - https://github.com/btd/esbuild-visualizer
 - https://github.com/luckycatfactory/esbuild-graphql-loader
 
-## LIB: SHELL CLI
+## LIB: SHELL CLI PROMPT
 - https://github.com/gmrchk/cli-testing-library
 - https://github.com/microsoft/inshellisense
 - https://github.com/tj/commander.js/
+- https://github.com/terkelg/prompts
 - https://github.com/poppinss/cliui
 
 ## LIB: IP
@@ -918,6 +919,7 @@
 - https://github.com/coinbase/agentkit
 - https://github.com/lobehub/lobe-chat
 - https://github.com/lgrammel/js-agent
+- https://github.com/kleneway/pastemax
 - https://github.com/openai/openai-node
 - https://github.com/kaiban-ai/KaibanJS
 - https://github.com/neilgupta/Sherlock
@@ -943,6 +945,7 @@
 - https://github.com/a16z-infra/ai-getting-started
 - https://github.com/nickscamara/open-deep-research
 - https://github.com/google-gemini/generative-ai-js
+- https://github.com/anthropics/anthropic-sdk-typescript
 - https://github.com/modelcontextprotocol/typescript-sdk
 
 ## LIB: MATH / CALCUL / NUMBER
@@ -1141,5 +1144,6 @@
 ## PODCASTS
 - https://realtalkjavascript.simplecast.com/
 
-## API
+## API / SOCIAL NETWORK
 - https://github.com/discordjs/discord.js
+- https://github.com/humanwhocodes/crosspost

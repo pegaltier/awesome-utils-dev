@@ -72,6 +72,7 @@
 - https://github.com/telegraf/telegraf
 
 ## OSS: SOCIAL
+- https://github.com/humanwhocodes/crosspost
 - https://github.com/gitroomhq/postiz-app
 - https://github.com/anti-work/iffy
 - https://github.com/gabboman/wafrn
@@ -99,6 +100,7 @@
 
 ## OSS: NEWS
 - https://github.com/RSSNext/Follow
+- https://github.com/ourongxing/newsnow
 
 ## OSS: FTP
 - https://github.com/mickael-kerjean/filestash

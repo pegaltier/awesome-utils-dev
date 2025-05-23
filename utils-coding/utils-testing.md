@@ -179,6 +179,7 @@
 - https://github.com/microsoft/playwright-testing-service
 - https://github.com/HamedFathi/screen.play.write
 - https://github.com/berstend/puppeteer-extra
+- https://github.com/testronaut/testronaut
 - https://github.com/DyHex/POMWright
 - https://github.com/mxschmitt
 

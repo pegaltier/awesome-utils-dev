@@ -97,6 +97,7 @@
 - https://github.com/OutSquareCapital/Better-prompts-for-better-output
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
+- https://github.com/langchain-ai/agent-chat-ui
 - https://github.com/langchain-ai/open-canvas
 - https://github.com/ChatGPTNextWeb/NextChat
 - https://github.com/ThinkInAIXYZ/deepchat
@@ -107,6 +108,7 @@
 - https://github.com/LangbaseInc/langui
 - https://github.com/dottxt-ai/prompts
 - https://github.com/anysphere/priompt
+- https://github.com/Chainlit/chainlit
 - https://github.com/nomic-ai/gpt4all/
 - https://github.com/lobehub/lobe-chat
 - https://github.com/frdel/agent-zero
@@ -271,6 +273,7 @@
 - https://github.com/spdustin/ChatGPT-AutoExpert
 - https://github.com/gpt-engineer-org/gpt-engineer
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
+- https://github.com/eyaltoledano/claude-task-master
 - https://github.com/OpenInterpreter/open-interpreter
 
 ## TOOLS: CODING: OSS PROMPT RULES
@@ -463,6 +466,9 @@
 
 ## LIB: EXTENSION
 - https://github.com/supermemoryai/supermemory
+
+## LIB: GENETIC
+- https://github.com/codelion/openevolve
 
 ## LIB: MULTI AGENT
 - https://github.com/crewAIInc/crewAI
