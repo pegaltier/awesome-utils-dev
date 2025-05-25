@@ -128,6 +128,7 @@
 - https://github.com/lmstudio-ai
 - https://github.com/mudler/LocalAI
 - https://github.com/lmstudio-ai/lms
+- https://github.com/Fosowl/agenticSeek
 - https://github.com/huggingface/open-r1
 - https://github.com/josStorer/RWKV-Runner
 - https://github.com/open-webui/open-webui
@@ -446,6 +447,7 @@
 - https://github.com/TabbyML/tabby
 - https://github.com/gradio-app/gradio/
 - https://github.com/microsoft/DirectML
+- https://github.com/unslothai/hyperlearn
 
 ## LIB: DB
 - https://github.com/SuperDuperDB/superduperdb
@@ -472,6 +474,7 @@
 
 ## LIB: MULTI AGENT
 - https://github.com/crewAIInc/crewAI
+- https://github.com/microsoft/TinyTroupe
 - https://github.com/openai/openai-realtime-agents
 
 ## LIB: AGENTIC FRAMEWORK
@@ -500,7 +503,7 @@
 - https://github.com/rowboatlabs/rowboat
 - https://github.com/VoltAgent/voltagent
 - https://github.com/pydantic/pydantic-ai
-- https://github.com/microsoft/TinyTroupe
+- https://github.com/microsoft/magentic-ui
 - https://github.com/agentlabs-dev/openator
 - https://github.com/browserbase/open-operator
 - https://github.com/threepointone/partyserver
@@ -508,6 +511,7 @@
 - https://github.com/genkit-ai/genkit-by-example
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/i-am-bee/bee-agent-framework
+- https://github.com/Intelligent-Internet/ii-agent
 - https://github.com/nickscamara/open-deep-research
 
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
@@ -565,6 +569,9 @@
 
 ## LIB: BPE
 - https://github.com/openai/tiktoken
+
+## LIB: FINETUNE
+- https://github.com/unslothai/unsloth
 
 ## LIB: GPT
 - https://github.com/idootop/mi-gpt
@@ -722,8 +729,9 @@
 ## LIB: EVALS
 - https://github.com/getsentry/vitest-evals
 
-## LIB: AUDIO / TTS
+## LIB: AUDIO / TTS / TRANSCRIPT
 - https://github.com/modelscope/ClearerVoice-Studio
+- https://github.com/Meeting-Baas/transcript-seeker
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/eustlb/speech-to-speech
 - https://github.com/souzatharsis/podcastfy

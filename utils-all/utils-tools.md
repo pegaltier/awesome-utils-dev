@@ -99,8 +99,9 @@
 - https://github.com/daminikhq/daminik
 
 ## OSS: NEWS
-- https://github.com/RSSNext/Follow
+- https://github.com/RSSNext/Folo
 - https://github.com/ourongxing/newsnow
+- https://github.com/omnivore-app/omnivore
 
 ## OSS: FTP
 - https://github.com/mickael-kerjean/filestash

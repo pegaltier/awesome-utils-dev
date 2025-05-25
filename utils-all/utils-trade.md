@@ -755,6 +755,7 @@
 - https://github.com/dk4jo3/abnormal-crypto-volume-alert
 - https://github.com/zazhang/ep-chan-book-algo-trading
 - https://github.com/MohammedRashad/Crypto-Copy-Trader
+- https://github.com/binary-ex-machina/binary.com-bot
 - https://github.com/SamPom100/UnusualVolumeDetector
 - https://github.com/iterativv/NostalgiaForInfinity
 - https://github.com/johndpope/CryptoCurrencyTrader

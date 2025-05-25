@@ -1147,3 +1147,5 @@
 ## API / SOCIAL NETWORK
 - https://github.com/discordjs/discord.js
 - https://github.com/humanwhocodes/crosspost
+- https://github.com/groupultra/telegram-search
+- https://github.com/EvolutionAPI/evolution-api

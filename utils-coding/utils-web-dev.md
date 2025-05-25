@@ -489,6 +489,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/stolinski/drop-in
 - https://github.com/bespokejs/bespoke
 - https://github.com/quickjs-ng/quickjs
+- https://github.com/dgp1130/HydroActive
 - https://github.com/fabiospampinato/voby
 - https://github.com/web-widget/web-widget
 - https://github.com/adamghill/unsuckjs.com
