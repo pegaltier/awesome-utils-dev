@@ -906,6 +906,7 @@
 - https://github.com/firebase/genkit
 - https://github.com/mastra-ai/mastra
 - https://github.com/VoltAgent/voltagent
+- https://github.com/bmadcode/BMAD-METHOD
 - https://github.com/openai/openai-realtime-agents
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
@@ -967,6 +968,7 @@
 - https://github.com/TheAlgorithms/Javascript
 - https://github.com/royNiladri/js-big-decimal
 - https://github.com/handsontable/hyperformula
+- https://github.com/transitive-bullshit/random
 - https://github.com/dcousens/haversine-distance
 
 ## LIB: OBJECT EXTENSION / DECORATORS / REFLECTION 

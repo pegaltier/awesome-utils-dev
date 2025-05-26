@@ -157,6 +157,7 @@
 - https://github.com/sindresorhus/nano-spawn
 - https://github.com/adisreyaj/cartella-web
 - https://github.com/sindresorhus/is-docker
+- https://github.com/sindresorhus/wsl-utils
 - https://github.com/coderhammer/backhooks
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/sultan99/sexy-require
@@ -257,6 +258,7 @@
 
 ## LIBS: HTTP: ALL
 - https://github.com/L-Blondy/up-fetch
+- https://github.com/animir/node-rate-limiter-flexible
 
 ## LIBS: HTTP: SSE / SERVER SENT EVENT
 - https://github.com/Bewinxed/river.ts

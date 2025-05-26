@@ -443,6 +443,9 @@
 ## LIB: MEMORY
 - https://github.com/mem0ai/mem0
 
+## LIB: ASSISTANT
+- https://github.com/transitive-bullshit/OpenOpenAI
+
 ## LIB: MACHINE LEARNING / ML
 - https://github.com/TabbyML/tabby
 - https://github.com/gradio-app/gradio/
