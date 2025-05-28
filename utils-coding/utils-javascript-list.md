@@ -95,6 +95,7 @@
 - https://github.com/Sairyss/domain-driven-hexagon
 - https://github.com/30-seconds/30-seconds-of-code
 - https://github.com/mgechev/javascript-algorithms
+- https://github.com/survivejs/js_tricks_and_tips
 - https://github.com/getify/Functional-Light-JS
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/deepa314/JAVASCRIPT_NOTES
@@ -105,6 +106,7 @@
 - https://github.com/bestofjs/bestofjs
 - https://github.com/denysdovhan/wtfjs
 - https://github.com/standard/standard
+- https://github.com/survivejs
 
 ## FOUNDATION
 - https://github.com/openjs-foundation/cross-project-council
@@ -806,7 +808,11 @@
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
 - https://github.com/pipes-digital/pipes
+- https://github.com/bytedance/flowgram.ai
 - https://github.com/NorthwoodsSoftware/GoJS
+- https://github.com/nocode-js/sequential-workflow-model
+- https://github.com/nocode-js/sequential-workflow-machine
+- https://github.com/nocode-js/sequential-workflow-designer
 
 ## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
 - https://github.com/francoischalifour/medium-zoom
@@ -910,6 +916,8 @@
 - https://github.com/openai/openai-realtime-agents
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
+- https://github.com/n8n-io/n8n
+- https://github.com/cline/cline
 - https://github.com/moeru-ai/xsai
 - https://github.com/refly-ai/refly
 - https://github.com/firebase/genkit
@@ -1135,7 +1143,8 @@
 - https://github.com/niklasvh/html2canvas
 - https://github.com/Leimi/drawingboard.js
 - https://github.com/playcanvas/supersplat
-- https://github.com/catdad/canvas-confetti
+- https://github.com/catdad/canvas-confett
+- https://github.com/nocode-js/mini-canvas-editori
 - https://joshbradley.me/object-collisions-with-canvas/
 - https://github.com/shuding/apple-pencil-safari-api-test
 

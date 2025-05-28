@@ -52,6 +52,7 @@ low-code tooling to prototype fastly.
 - https://notaku.so/
 
 ## opensource
+- https://github.com/nocode-js
 - https://github.com/retejs/rete
 - https://github.com/rowyio/rowy
 - https://github.com/artf/grapesjs

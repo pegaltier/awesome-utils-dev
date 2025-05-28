@@ -31,6 +31,7 @@
 - https://github.com/blockscout/blockscout
 - https://github.com/ZeframLou/vested-erc20
 - https://github.com/bkrem/awesome-solidity
+- https://github.com/NomicFoundation/hardhat
 - https://github.com/0xperp/defi-derivatives
 - https://github.com/embark-framework/embark
 - https://github.com/paulrberg/create-eth-app
