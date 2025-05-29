@@ -283,6 +283,7 @@
 - https://github.com/TheEdoRan/next-safe-action
 - https://github.com/serverless-stack/open-next
 - https://github.com/haydenbleasel/next-forge
+- https://github.com/DigitecGalaxus/next-yak
 - https://github.com/RevereCRE/relay-nextjs
 - https://github.com/leerob/next-self-host
 - https://github.com/next-boost/next-boost

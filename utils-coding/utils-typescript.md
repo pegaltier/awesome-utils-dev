@@ -180,6 +180,7 @@ npm init
 ## LIB: SERVER
 - https://github.com/trpc/trpc
 - https://github.com/ts-rest/ts-rest
+- https://github.com/carlosazaustre/kata-users-ts
 
 ## LIB: ALL
 

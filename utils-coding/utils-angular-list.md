@@ -498,9 +498,11 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER / CLOUD HOSTING
 - https://github.com/manfredsteyer/ngx-build-plus
 - https://github.com/ngx-builders/angular-builder
 - https://github.com/ngx-builders/netlify-builder
+- https://github.com/jantimon/html-webpack-plugin
 - https://github.com/ngx-builders/ngx-heroku-deploy
 - https://github.com/mauriziovitale/angular-plugins
 - https://github.com/studiohyperdrive/angular_builders
+- https://github.com/merkle-open/webpack-config-plugins
 - https://github.com/angular-schule/angular-cli-ghpages
 - https://github.com/netlify/netlify-plugin-angular-universal
 - https://github.com/cocasts/webpack-retry-chunk-load-plugin

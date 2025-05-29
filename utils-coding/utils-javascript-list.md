@@ -913,6 +913,7 @@
 - https://github.com/mastra-ai/mastra
 - https://github.com/VoltAgent/voltagent
 - https://github.com/bmadcode/BMAD-METHOD
+- https://github.com/liveloveapp/hashbrown
 - https://github.com/openai/openai-realtime-agents
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
