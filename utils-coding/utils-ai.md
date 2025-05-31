@@ -187,11 +187,6 @@
 - https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent
 - https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts
 
-## TOOLS: N8N
-- https://github.com/Zie619/n8n-workflows
-- https://github.com/n8n-io/self-hosted-ai-starter-kit
-- https://youtu.be/ZKufsoGjr-U This AI Factory just made a 122 Million-view Tiktok
-
 ## TOOLS: WEB
 - https://github.com/huggingface/transformers.js-examples
 
@@ -471,6 +466,12 @@
 - https://github.com/Canner/WrenAI
 - https://github.com/refly-ai/refly
 - https://github.com/FlowiseAI/Flowise
+
+## LIB: WORKFLOW / CONTENT CREATION : N8N
+- https://github.com/Zie619/n8n-workflows
+- https://github.com/n8n-io/self-hosted-ai-starter-kit
+- https://youtu.be/ZKufsoGjr-U This AI Factory just made a 122 Million-view Tiktok
+- https://youtu.be/ldETapkr8Hg I Built a Marketing Team with 1 AI Agent and No Code
 
 ## LIB: NEURAL NETWORK
 - https://github.com/apple/corenet
