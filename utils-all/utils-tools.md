@@ -39,7 +39,6 @@
 - https://github.com/alyssaxuu/flowy
 - https://github.com/axa-group/Parsr
 - https://github.com/notable/notable
-- https://github.com/lukevella/rallly
 - https://github.com/AutomaApp/automa
 - https://github.com/pavlobu/deskreen
 - https://github.com/ritz078/transform
@@ -89,6 +88,7 @@
 - https://github.com/maybe-finance/maybe
 - https://github.com/actualbudget/actual
 - https://github.com/afadil/wealthfolio
+- https://github.com/Expensify/App
 
 ## OSS: EMAIL
 - https://github.com/un/inbox
@@ -217,6 +217,7 @@
 - https://github.com/CapSoftware/cap
 - https://github.com/makeplane/plane
 - https://github.com/outline/outline
+- https://github.com/lukevella/rallly
 - https://github.com/campsite/campsite
 - https://github.com/metamaps/metamaps
 - https://github.com/rustdesk/rustdesk

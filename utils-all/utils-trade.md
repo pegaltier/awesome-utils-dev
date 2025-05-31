@@ -904,6 +904,7 @@
 ### OSS: RUST
 - https://github.com/amv-dev/yata
 - https://github.com/greyblake/ta-rs
+- https://github.com/kanekoshoyu/kucoin_arbitrage
 
 ## OSS: JAVA
 - https://github.com/neurallayer/roboquant
@@ -945,6 +946,7 @@
 - https://github.com/trade-rhythm/technical-indicators
 
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
+- https://github.com/yuta-97/auto-trader
 - https://github.com/quantform/quantform
 - https://github.com/backtestjs/framework
 - https://github.com/No-Trade-No-Life/Yuan

@@ -19,6 +19,7 @@
 ## VIDEO
 - https://vimeo.com/
 - https://www.heygen.com/
+- https://www.blotato.com/
 
 ## PRESENTATION / SLIDES
 - https://github.com/hakimel/reveal.js

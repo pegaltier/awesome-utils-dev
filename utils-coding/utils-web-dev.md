@@ -511,6 +511,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/avitorio/outstatic*
 - https://github.com/wepublish/wepublish
 - https://github.com/bigskysoftware/htmx
+- https://github.com/withastro/starlight
 - https://github.com/microfeed/microfeed
 - https://github.com/Thinkmill/keystatic
 - https://github.com/modernweb-dev/rocket

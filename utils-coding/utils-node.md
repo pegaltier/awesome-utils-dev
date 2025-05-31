@@ -252,6 +252,7 @@
 - https://github.com/ladjs/supertest
 - https://github.com/humanwhocodes/mentoss
 - https://github.com/privatenumber/fs-fixture
+- https://github.com/stayradiated/test-fixture-factory
 
 ## LIBS: REGEX / BLOG
 - https://github.com/isaacs/node-glob

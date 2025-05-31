@@ -207,6 +207,7 @@
 - https://github.com/electron-userland/electron-builder
 - https://github.com/TinkoffCreditSystems/tramvai
 - https://github.com/rough-stuff/rough-notation
+- https://github.com/livestorejs/livestore
 - https://github.com/bigskysoftware/htmx
 - https://github.com/smallbets/userbase
 - https://github.com/LavaMoat/LavaMoat
@@ -902,6 +903,7 @@
 ## LIB: AI / TRAINING / PREDICTION
 - https://github.com/sbyrnes/bloom.js
 - https://github.com/sbyrnes/likely.js
+- https://github.com/jaimelias/xy-scale
 - https://github.com/sbyrnes/classify.js
 - https://github.com/tensorflow/tfjs-models
 - https://github.com/coin-unknown/async-genetic
@@ -1127,6 +1129,8 @@
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
 - https://github.com/memetic-institute/The-Fed
+- https://github.com/BenjaminAster/CSS-Minecraft
+- https://github.com/Richard-Strittmatter/JuanTap
 
 ## LIB: FORM
 - https://github.com/heyform/heyform

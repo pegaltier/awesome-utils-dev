@@ -183,9 +183,14 @@
 - https://github.com/mudler/LocalAI
 - https://github.com/cheshire-cat-ai/core
 - https://github.com/danielmiessler/fabric
-- https://github.com/n8n-io/self-hosted-ai-starter-kit
+
 - https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent
 - https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts
+
+## TOOLS: N8N
+- https://github.com/Zie619/n8n-workflows
+- https://github.com/n8n-io/self-hosted-ai-starter-kit
+- https://youtu.be/ZKufsoGjr-U This AI Factory just made a 122 Million-view Tiktok
 
 ## TOOLS: WEB
 - https://github.com/huggingface/transformers.js-examples
@@ -270,19 +275,24 @@
 - https://github.com/2-fly-4-ai/V0-system-prompt
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
-- https://github.com/aws-samples/bedrock-engineer
 - https://github.com/spdustin/ChatGPT-AutoExpert
+- https://github.com/aws-samples/bedrock-engineer
 - https://github.com/gpt-engineer-org/gpt-engineer
+- https://github.com/anthropics/claude-code-action
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
 - https://github.com/eyaltoledano/claude-task-master
 - https://github.com/OpenInterpreter/open-interpreter
 
 ## TOOLS: CODING: OSS PROMPT RULES
+- https://github.com/snarktank/ai-dev-tasks
 - https://github.com/asgeirtj/system_prompts_leaks
 - https://github.com/PatrickJS/awesome-cursorrules
 - https://github.com/Soushi888/ai-rules-and-workflows
 - https://github.com/x1xhlol/v0-system-prompts-models-and-tools
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+
+## TOOLS: TEST
+- https://github.com/promptfoo/promptfoo
 
 ## TOOLS: CODING: IDE
 - https://github.com/voideditor/void
@@ -738,6 +748,7 @@
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/eustlb/speech-to-speech
 - https://github.com/souzatharsis/podcastfy
+- https://github.com/resemble-ai/chatterbox
 - https://github.com/fishaudio/fish-speech
 - https://github.com/remsky/Kokoro-FastAPI
 - https://github.com/FunAudioLLM/CosyVoice

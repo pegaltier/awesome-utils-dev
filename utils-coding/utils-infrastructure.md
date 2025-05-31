@@ -81,7 +81,6 @@
 - https://github.com/kruize/kruize
 - https://github.com/pulumi/pulumi
 - https://github.com/atkrad/wait4x
-- https://github.com/SigNoz/signoz
 - https://github.com/rapiz1/rathole
 - https://github.com/YuukanOO/seelf
 - https://github.com/OpenNebula/one
@@ -136,6 +135,7 @@
 - https://github.com/asynkron/TraceLens
 - https://github.com/hyperdxio/hyperdx
 - https://github.com/grafana/grafana
+- https://github.com/SigNoz/signoz
 - https://github.com/keephq/keep
 - https://github.com/TwiN/gatus
 
