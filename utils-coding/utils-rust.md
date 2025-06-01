@@ -20,6 +20,10 @@
 - https://github.com/LaurentMazare/
 - https://github.com/LegNeato
 
+## JAVASCRIPT
+- https://github.com/Sharktheone/yavashark
+- https://github.com/napi-rs/napi-rs
+
 ## UTILS
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 - https://github.com/yoshuawuyts/rust-for-js-peeps
@@ -72,7 +76,6 @@
 - https://github.com/greyblake/ta-rs
 - https://github.com/google/zerocopy
 - https://github.com/GREsau/schemars
-- https://github.com/napi-rs/napi-rs
 - https://github.com/image-rs/image
 - https://github.com/serde-rs/json
 - https://github.com/loro-dev/loro

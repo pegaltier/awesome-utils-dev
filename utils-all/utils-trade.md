@@ -967,6 +967,7 @@
 - https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/
 
 ### OSS: JAVASCRIPT: CHART
+- https://github.com/Lightning-Chart/lcjs-typescript-example
 - https://github.com/chartjs/chartjs-chart-financial
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/tradex-app/TradeX-chart
@@ -978,6 +979,7 @@
 - https://github.com/chartjs/Chart.js
 - https://github.com/klinecharts/pro
 - https://github.com/apache/superset
+- https://github.com/leeoniya/uPlot
 
 ### OSS: JAVASCRIPT: CANDLES
 - https://github.com/valamidev/candlestick-convert *

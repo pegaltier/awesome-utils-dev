@@ -723,8 +723,11 @@
 - https://github.com/javascriptdata/danfojs
 
 ## LIB: FRONTEND UI TABLE / SPREADSHEET
+- https://github.com/ag-grid/ag-grid
 - https://github.com/exceljs/exceljs
+- https://github.com/VisActor/VTable
 - https://github.com/dream-num/univer
+- https://github.com/frappe/datatable
 - https://github.com/tristen/tablesort
 - https://github.com/tbranyen/hyperlist
 - https://github.com/dream-num/Luckysheet
