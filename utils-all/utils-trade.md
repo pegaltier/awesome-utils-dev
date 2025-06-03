@@ -866,6 +866,7 @@
 - https://github.com/paperswithbacktest/pwb-toolbox
 - https://github.com/fabston/TradingView-Webhook-Bot
 - https://github.com/crypto-code/Stock-Market-AI-GUI
+- https://github.com/facioquo/stock-indicators-python
 - https://github.com/alpacahq/Momentum-Trading-Example
 - https://github.com/firmai/financial-machine-learning
 - https://github.com/GrovesD2/market_monitor_trend_dash

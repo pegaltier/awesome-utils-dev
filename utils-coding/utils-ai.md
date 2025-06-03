@@ -82,6 +82,7 @@
 - https://venice.ai/
 - https://lobechat.com/
 - https://webllm.mlc.ai/
+- https://blackblox.ai/
 - https://nitro.jan.ai/
 - https://www.phind.com/
 - https://chat.qwenlm.ai/
@@ -370,6 +371,7 @@
 
 ## TOOLS: MOBILE
 - https://github.com/a-ghorbani/pocketpal-ai
+- https://github.com/google-ai-edge/gallery
 
 ## TOOLS: HACKING
 - https://chat.hackerai.co/
@@ -466,6 +468,7 @@
 - https://github.com/Canner/WrenAI
 - https://github.com/refly-ai/refly
 - https://github.com/FlowiseAI/Flowise
+- https://github.com/triggerdotdev/trigger.dev
 
 ## LIB: WORKFLOW / CONTENT CREATION : N8N
 - https://github.com/Zie619/n8n-workflows

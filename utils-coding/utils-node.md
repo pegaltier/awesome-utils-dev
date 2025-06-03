@@ -116,6 +116,7 @@
 - https://github.com/lirantal/lockfile-lint
 - https://github.com/juliangruber/npm-diff
 - https://github.com/stijnvanhulle/rustraf
+- https://github.com/wooorm/npm-esm-vs-cjs
 - https://github.com/bcomnes/npm-run-all2
 - https://github.com/styfle/packagephobia
 - https://github.com/ds300/patch-package

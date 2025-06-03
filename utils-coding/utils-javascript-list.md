@@ -629,6 +629,7 @@
 - https://github.com/pshihn/rough-notation
 - https://github.com/giuseppeg/screensaver
 - https://github.com/codex-team/editor.js
+- https://github.com/spaansba/ForesightJS
 - https://github.com/mozilla/readability
 - https://github.com/focus-trap/tabbable
 - https://github.com/jsfiddle/togetherjs
@@ -658,11 +659,8 @@
 - https://github.com/omrilotan/isbot
 - https://github.com/any86/any-touch
 - https://github.com/matthewp/robot
-- https://github.com/TanStack/table
-- https://github.com/grid-js/gridjs
 - https://github.com/YC/coming-soon
 - https://github.com/antfu/shikiji
-- https://github.com/javve/list.js
 - https://github.com/mikecao/umami
 - https://github.com/angus-c/just
 - https://github.com/xdan/jodit
@@ -723,6 +721,9 @@
 - https://github.com/javascriptdata/danfojs
 
 ## LIB: FRONTEND UI TABLE / SPREADSHEET
+- https://github.com/javve/list.js
+- https://github.com/TanStack/table
+- https://github.com/grid-js/gridjs
 - https://github.com/ag-grid/ag-grid
 - https://github.com/exceljs/exceljs
 - https://github.com/VisActor/VTable
@@ -950,6 +951,7 @@
 - https://github.com/langchain-ai/langgraph
 - https://github.com/getsentry/vitest-evals
 - https://github.com/facebookresearch/shumai
+- https://github.com/triggerdotdev/trigger.dev
 - https://github.com/eduardoleao052/js-pytorch
 - https://github.com/browserbase/open-operator
 - https://github.com/jina-ai/node-DeepResearch

@@ -35,6 +35,7 @@
 - https://github.com/Orange-OpenSource/hurl
 - https://github.com/cargo2nix/cargo2nix
 - https://github.com/rust-phf/rust-phf
+- https://github.com/salsa-rs/salsa
 
 ## FRAMEWORK
 - https://github.com/cunarist/rinf
