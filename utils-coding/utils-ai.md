@@ -210,10 +210,12 @@
 - https://spellcraft.org/
 - https://gptengineer.app/
 - https://www.codewand.co/
-- https://www.kaibanjs.com/
 - https://amplication.com/
+- https://chef.convex.dev/
 - https://www.magickml.com/
+- https://www.magicpath.ai/
 - https://gpt-tailwind.com/
+- https://www.kaibanjs.com/
 - https://www.continue.dev/
 - https://fragments.e2b.dev/
 - https://screenshottocode.com/
