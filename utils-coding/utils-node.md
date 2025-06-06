@@ -215,7 +215,6 @@
 - https://github.com/theophilusx/ssh2-sftp-client
 - https://github.com/frinyvonnick/node-html-to-image
 - https://github.com/log4js-node/log4js-node
-- https://github.com/kibertoad/toad-scheduler
 - https://github.com/microsoft/playwright
 - https://github.com/sindresorhus/got
 - https://github.com/ai/nanocolors
@@ -297,6 +296,9 @@
 - https://github.com/unjs/ohmyfetch
 - https://github.com/WebReflection/fetch
 
+## LIBS: JOB / SCHEDULER
+- https://github.com/kibertoad/toad-scheduler
+
 ## LIBS: CRON
 - https://github.com/vwedesam/Cron-to-human
 - https://github.com/node-cron/node-cron
@@ -361,6 +363,7 @@
 - https://github.com/Cauen/prisma-generator-postgres-realtime
 - https://github.com/mohammed-bahumaish/prisma-editor
 - https://github.com/catalinmiron/awesome-prisma
+- https://github.com/mgcrea/prisma-queue
 - https://github.com/prisma/prisma
 - https://github.com/prisma-utils
 
@@ -371,11 +374,11 @@
 - https://github.com/sequelize/sequelize
 
 ## LIBS: DATABASE / DB
+- https://github.com/knex/knex
 - https://github.com/koskimas/kysely
 - https://github.com/typeorm/typeorm
 - https://github.com/appy-one/acebase
 - https://github.com/ndaidong/flat-db
-- https://github.com/twinlogix/typettapsecur
 - https://github.com/microlinkhq/keyvhq
 - https://github.com/bruin-data/ingestr
 - https://github.com/typegoose/typegoose
@@ -383,6 +386,7 @@
 - https://github.com/event-driven-io/Pongo
 - https://github.com/launchql/pgsql-parser
 - https://github.com/liberation-data/drivine
+- https://github.com/twinlogix/typettapsecur
 - https://github.com/w3tecch/typeorm-seeding
 - https://github.com/drizzle-team/drizzle-orm
 - https://github.com/drifting-in-space/driftdb

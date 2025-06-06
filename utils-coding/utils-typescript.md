@@ -244,6 +244,7 @@ npm init
 - https://github.com/Effect-TS/core
 - https://github.com/rayepps/radash
 - https://github.com/antoine-coulon/effect-introduction
+- https://github.com/seangwright/typescript-functional-extensions
 
 ## LIB: GENERATE DATA OBJECT
 - https://github.com/1Password/typeshare
