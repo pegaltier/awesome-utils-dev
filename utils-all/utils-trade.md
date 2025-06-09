@@ -1065,6 +1065,7 @@
 - https://github.com/virattt/ai-hedge-fund
 - https://github.com/AI4Finance-Foundation/FinRL
 - https://github.com/tensortrade-org/tensortrade
+- https://github.com/TauricResearch/TradingAgents
 - https://github.com/LiamConnell/deep-algotrading/
 - https://github.com/ccroft6/Technical_Indicator_Analysis_ML
 

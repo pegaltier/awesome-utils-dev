@@ -964,6 +964,7 @@
 - https://github.com/google-gemini/generative-ai-js
 - https://github.com/anthropics/anthropic-sdk-typescript
 - https://github.com/modelcontextprotocol/typescript-sdk
+- https://github.com/langchain-ai/langgraphjs-gen-ui-examples
 
 ## LIB: MATH / CALCUL / NUMBER
 - https://github.com/bpierre/dnum

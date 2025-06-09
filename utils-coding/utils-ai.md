@@ -112,7 +112,6 @@
 - https://github.com/Chainlit/chainlit
 - https://github.com/nomic-ai/gpt4all/
 - https://github.com/lobehub/lobe-chat
-- https://github.com/frdel/agent-zero
 - https://github.com/ErikBjare/gptme
 - https://github.com/lencx/ChatGPT
 - https://github.com/khoj-ai/khoj
@@ -122,13 +121,14 @@
 ## TOOLS: AI APP STORE
 - https://github.com/mediar-ai/screenpipe
 
-## TOOLS: OFFLINE / LOCAL
+## TOOLS: OFFLINE / LOCAL / SELF HOST
 - https://jan.ai/
 - https://lmstudio.ai/
 - https://github.com/janhq/jan *
 - https://github.com/lmstudio-ai
 - https://github.com/mudler/LocalAI
 - https://github.com/lmstudio-ai/lms
+- https://github.com/frdel/agent-zero
 - https://github.com/Fosowl/agenticSeek
 - https://github.com/huggingface/open-r1
 - https://github.com/josStorer/RWKV-Runner
@@ -181,6 +181,7 @@
 - https://github.com/Nixtla/
 - https://github.com/mistralai
 - https://github.com/somewheresy
+- https://github.com/kortix-ai/suna
 - https://github.com/mudler/LocalAI
 - https://github.com/cheshire-cat-ai/core
 - https://github.com/danielmiessler/fabric
@@ -451,6 +452,8 @@
 
 ## LIB: MEMORY
 - https://github.com/mem0ai/mem0
+- https://github.com/Olow304/memvid
+- https://github.com/topoteretes/cognee
 
 ## LIB: ASSISTANT
 - https://github.com/transitive-bullshit/OpenOpenAI
@@ -505,7 +508,6 @@
 - https://github.com/goat-sdk/goat
 - https://github.com/agno-agi/agno
 - https://github.com/letta-ai/letta
-- https://github.com/kortix-ai/suna
 - https://github.com/coleam00/Archon
 - https://github.com/firebase/genkit
 - https://github.com/getzep/graphiti
@@ -653,7 +655,7 @@
 ## LIB: PROXY
 - https://github.com/BerriAI/litellm
 
-## LIB: VLM
+## LIB: VLM / VISION
 - https://github.com/THUDM/CogAgent
 - https://github.com/sgl-project/sglang
 
@@ -679,6 +681,7 @@
 - https://github.com/facebookresearch/llama
 - https://github.com/lyuchenyang/Macaw-LLM
 - https://github.com/google-deepmind/gemma
+- https://github.com/tensorzero/tensorzero
 - https://github.com/confident-ai/deepeval
 - https://github.com/cocktailpeanut/dalai
 - https://github.com/LargeWorldModel/LWM
