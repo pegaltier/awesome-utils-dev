@@ -52,6 +52,9 @@ crontab -l ==> show
 - https://github.com/pi-hosted/pi-hosted
 - https://github.com/sergkhl/rpi-utils
 
+## libs
+- https://github.com/alphacep/vosk-api
+
 ## Sensor
 - https://www.fred-j.org/?p=364
 - https://raspberry-pi.fr/rfid-raspberry-pi/

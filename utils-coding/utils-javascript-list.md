@@ -763,6 +763,7 @@
 - https://github.com/mermaid-js/mermaid
 
 ## LIB: FRONTEND SIGNALS
+- https://github.com/milomg/reactively
 - https://github.com/stackblitz/alien-signals
 
 ## LIB: MAP
@@ -812,6 +813,7 @@
 - https://github.com/xyflow/xyflow
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
+- https://github.com/hyperse-io/pipeline
 - https://github.com/pipes-digital/pipes
 - https://github.com/bytedance/flowgram.ai
 - https://github.com/NorthwoodsSoftware/GoJS
@@ -820,6 +822,7 @@
 - https://github.com/nocode-js/sequential-workflow-designer
 
 ## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
+- https://github.com/zachleat/import-module-string
 - https://github.com/francoischalifour/medium-zoom
 - https://github.com/maximux13/waveform-renderer
 - https://github.com/openseadragon/openseadragon
@@ -841,6 +844,7 @@
 - https://github.com/imagemin/imagemin
 - https://github.com/dropzone/dropzone
 - https://github.com/mapbox/pixelmatch
+- https://github.com/alphacep/vosk-api
 - https://github.com/graphery/graphery
 - https://github.com/nzbin/photoviewer
 - https://github.com/transloadit/uppy
@@ -898,6 +902,29 @@
 - https://github.com/probot/smee.io
 - https://github.com/probot/smee-client
 
+## LIB: MATH / CALCUL / NUMBER
+- https://github.com/bpierre/dnum
+- https://github.com/ttulka/as-big
+- https://github.com/MikeMcl/big.js
+- https://github.com/josdejong/mathjs
+- https://github.com/stdlib-js/stdlib
+- https://github.com/harthur/clustering
+- https://github.com/Jam3/math-as-code
+- https://github.com/dinerojs/dinero.js
+- https://github.com/MikeMcl/decimal.js/
+- https://github.com/munrocket/double-js
+- https://github.com/barvian/number-flow
+- https://github.com/MikeMcl/bignumber.js
+- https://github.com/barvian/motion-number
+- https://github.com/nefe/number-precision
+- https://github.com/adamwdraper/Numeral-js
+- https://github.com/ebradyjobory/finance.js
+- https://github.com/TheAlgorithms/Javascript
+- https://github.com/royNiladri/js-big-decimal
+- https://github.com/handsontable/hyperformula
+- https://github.com/transitive-bullshit/random
+- https://github.com/dcousens/haversine-distance
+
 ## LIB: GENETIC ALGO
 - https://github.com/dolphin278/genetic
 - https://github.com/subprotocol/genetic-js
@@ -922,6 +949,10 @@
 - https://github.com/liveloveapp/hashbrown
 - https://github.com/openai/openai-realtime-agents
 
+## LIB: AI: NEURAL NETWORK
+- https://github.com/harthur/brain
+- https://github.com/BrainJS/brain.js
+
 ## LIB: AI / ARTIFICIAL INTELLIGENCE
 - https://github.com/n8n-io/n8n
 - https://github.com/cline/cline
@@ -930,7 +961,6 @@
 - https://github.com/firebase/genkit
 - https://github.com/fixie-ai/ai-jsx
 - https://github.com/mastra-ai/mastra
-- https://github.com/BrainJS/brain.js
 - https://github.com/KudoAI/chatgpt.js
 - https://github.com/coinbase/agentkit
 - https://github.com/lobehub/lobe-chat
@@ -965,28 +995,6 @@
 - https://github.com/anthropics/anthropic-sdk-typescript
 - https://github.com/modelcontextprotocol/typescript-sdk
 - https://github.com/langchain-ai/langgraphjs-gen-ui-examples
-
-## LIB: MATH / CALCUL / NUMBER
-- https://github.com/bpierre/dnum
-- https://github.com/ttulka/as-big
-- https://github.com/MikeMcl/big.js
-- https://github.com/josdejong/mathjs
-- https://github.com/stdlib-js/stdlib
-- https://github.com/Jam3/math-as-code
-- https://github.com/dinerojs/dinero.js
-- https://github.com/MikeMcl/decimal.js/
-- https://github.com/munrocket/double-js
-- https://github.com/barvian/number-flow
-- https://github.com/MikeMcl/bignumber.js
-- https://github.com/barvian/motion-number
-- https://github.com/nefe/number-precision
-- https://github.com/adamwdraper/Numeral-js
-- https://github.com/ebradyjobory/finance.js
-- https://github.com/TheAlgorithms/Javascript
-- https://github.com/royNiladri/js-big-decimal
-- https://github.com/handsontable/hyperformula
-- https://github.com/transitive-bullshit/random
-- https://github.com/dcousens/haversine-distance
 
 ## LIB: OBJECT EXTENSION / DECORATORS / REFLECTION 
 - https://github.com/jayphelps/core-decorators
@@ -1098,8 +1106,8 @@
 - https://github.com/checkly/theheadless.dev
 - https://github.com/checkly/headless-recorder
 - https://github.com/GoogleChrome/puppeteer
-- https://github.com/mrWh1te/Botmation
 - https://github.com/segmentio/nightmare
+- https://github.com/mrWh1te/Botmation
 
 ## LIB: TESTING
 - https://github.com/Marak/faker.js

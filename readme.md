@@ -31,11 +31,19 @@
 - [Android](utils-coding/utils-android.md)
 - [Ionic](utils-coding/utils-ionic.md)
 
+## Backend Development
+
+- [NodeJS](utils-coding/utils-node.md)
+- [Java](utils-coding/utils-java.md)
+- [Rust](utils-coding/utils-rust.md)
+- [Python](utils-coding/utils-python.md)
+
 ## Various
 
 - [Ai](utils-coding/utils-ai.md)
 - [Git](utils-coding/utils-git.md)
 - [Api](utils-coding/utils-api.md)
+- [Wasm](utils-coding/utils-wasm.md)
 - [Design](utils-coding/utils-design.md)
 - [GraphQL](utils-coding/utils-graphql.md)
 - [More](utils-coding/)

@@ -13,6 +13,7 @@
 - https://github.com/browserbase/stagehand
 - https://github.com/codeceptjs/CodeceptJS
 - https://github.com/webdriverio/webdriverio
+- https://github.com/sebastiancarlos/beachpatrol
 - https://github.com/testing-library/dom-testing-library
 
 ## API
@@ -167,6 +168,7 @@
 - https://github.com/jfgreffier/playwright-component-demos
 - https://github.com/currents-dev/playwright-gh-actions-demo
 - https://github.com/jfgreffier/incroyable-playwright
+- https://github.com/sebastiancarlos/beachpatrol
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
 - https://github.com/BuilderIO/gpt-crawler

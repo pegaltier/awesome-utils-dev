@@ -69,29 +69,30 @@ zipalign (optimize RAM) :
 - https://code.tutsplus.com/tutorials/android-design-patterns-the-singleton-pattern--cms-29153
 - https://stackoverflow.com/questions/4208886/using-the-android-application-class-to-persist-data
 
-
-
-## UTILS
+## UTILS: OSS
 - https://flashlight.dev/
 - https://github.com/zxing/zxing
 - https://github.com/liriliri/aya
 - https://github.com/orhanobut/hawk
+- https://github.com/alphacep/vosk-api
 - https://github.com/ProxymanApp/Proxyman
-- https://www.appbrain.com/apptimizer
-- http://gunhansancar.com/tools/converter/#
+- https://github.com/SamVerschueren/mobicon-cli
 - https://github.com/GoogleChromeLabs/bubblewrap
+
+## UTILS: ALL
 - https://android.fallible.co/#
 - https://shapeshifter.design/
-- http://stackoverflow.com/questions/24882550/how-to-format-text-in-string-displayed-in-textview
+- https://www.appbrain.com/apptimizer
 - https://www.img-bak.in >> generate icons
+- http://inloop.github.io/svg2android/
+- http://gunhansancar.com/tools/converter/#
+- http://stackoverflow.com/questions/24882550/how-to-format-text-in-string-displayed-in-textview
 - https://romannurik.github.io/AndroidAssetStudio/index.html
 - https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html > Round icons generate
-- http://inloop.github.io/svg2android/
-- https://github.com/SamVerschueren/mobicon-cli
 
 ## SCREENSHOT STORE
-- https://theapplaunchpad.com/
 - https://appure.io
+- https://theapplaunchpad.com/
 
 ## MOCKUP IMAGES
 - http://magicmockups.com

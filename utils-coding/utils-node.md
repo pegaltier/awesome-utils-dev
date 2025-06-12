@@ -133,6 +133,7 @@
 ## UTILS: DEVTOOLS
 - https://github.com/yunabe/tslab
 - https://github.com/Qard/onchange
+- https://github.com/harthur/replace
 - https://github.com/volarjs/volar.js
 - https://github.com/bennycode/ts2esm
 - https://github.com/commitizen/cz-cli
@@ -228,7 +229,7 @@
 - https://github.com/humanwhocodes/fsx
 - https://github.com/Unitech/pm2
 - https://github.com/eta-dev/eta
-- https://github.com/leeoniya/uFuzzy
+- https://github.com/leeoniya/uluzzy
 - https://github.com/fromdeno/deno2node
 
 ## LIBS: VITE

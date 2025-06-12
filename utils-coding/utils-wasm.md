@@ -17,6 +17,7 @@
 - https://github.com/dphilla/wasm-vfs
 - https://github.com/wasmerio/winterjs
 - https://github.com/jasperweyne/unwasm
+- https://github.com/JonasKruckenberg/k23
 - https://github.com/emscripten-core/emsdk
 - https://github.com/bytecodealliance/javy
 - https://github.com/moonbitlang/moonbit-docs
