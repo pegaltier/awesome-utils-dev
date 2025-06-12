@@ -876,6 +876,7 @@
 - https://github.com/shakiba/planck.js
 - https://github.com/mapbox/delaunator
 - https://github.com/KhronosGroup/glTF
+- https://github.com/xiangechen/chili3d
 - https://github.com/repalash/threepipe
 - https://github.com/theatre-js/theatre
 - https://github.com/badzong/meshspin.js
@@ -981,6 +982,7 @@
 - https://github.com/langchain-ai/langgraph
 - https://github.com/getsentry/vitest-evals
 - https://github.com/facebookresearch/shumai
+- https://github.com/latitude-dev/latitude-llm
 - https://github.com/triggerdotdev/trigger.dev
 - https://github.com/eduardoleao052/js-pytorch
 - https://github.com/browserbase/open-operator

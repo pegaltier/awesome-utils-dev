@@ -581,6 +581,7 @@
 - https://github.com/Flux159/mcp-server-kubernetes
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/leonardsellem/n8n-mcp-server
 - https://github.com/exa-labs/exa-mcp-server
 - https://github.com/GLips/Figma-Context-MCP
 - https://github.com/lharries/whatsapp-mcp
