@@ -67,8 +67,10 @@
 - https://github.com/johannesjo/super-productivity
 - https://github.com/uwidev/life-disciplines-projects
 
-## OSS: BOT
+## OSS: MESSAGING BOT
 - https://github.com/telegraf/telegraf
+- https://github.com/Denver-sn/whatsapp-api
+- https://github.com/pedroslopez/whatsapp-web.js
 
 ## OSS: SOCIAL
 - https://github.com/humanwhocodes/crosspost
