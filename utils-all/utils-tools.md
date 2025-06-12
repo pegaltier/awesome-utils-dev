@@ -290,8 +290,9 @@
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/BrambleXu/knowledge-graph-learning
 
-## Organise
+## Organise / text notes
 - https://github.com/noduslabs/
+- https://github.com/Zettlr/Zettlr
 - https://github.com/codexu/note-gen
 - https://github.com/TriliumNext/Notes
 - https://github.com/dendronhq/dendron
