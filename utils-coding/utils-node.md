@@ -354,6 +354,8 @@
 - https://github.com/lovell/sharp
 - https://github.com/pmb0/express-sharp
 
+## LIBS: CROSS LANGUAGES
+- https://github.com/platformatic/php-node
 
 ## LIBS: BROKER / SUBSCRIPTION
 - https://github.com/redis/ioredis

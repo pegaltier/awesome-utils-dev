@@ -286,6 +286,7 @@
 - https://github.com/pg-nano/pg-parser
 - https://github.com/instantdb/instant
 - https://github.com/kysely-org/kysely
+- https://github.com/sqliteai/sqlite-js
 - https://github.com/blinkdb-js/blinkdb
 - https://github.com/orbitinghail/sqlsync
 - https://github.com/zemberdotnet/jsonl-db
@@ -1102,6 +1103,7 @@
 - https://github.com/pdfslick/pdfslick
 - https://github.com/carboneio/carbone
 - https://github.com/24eme/signaturepdf
+- https://github.com/shebinleo/pdf2html
 - https://github.com/hand-dot/labelmake
 - https://github.com/eneajaho/doc-signer
 - https://github.com/pdf2htmlEX/pdf2htmlEX
