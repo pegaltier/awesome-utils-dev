@@ -33,6 +33,7 @@
 - https://github.com/sickcodes/Docker-OSX
 - https://github.com/minamarkham/formation
 - https://github.com/jacklandrin/OnlySwitch
+- https://github.com/alienator88/Pearcleaner
 - https://github.com/NativeScript/template-macos-solid
 - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 

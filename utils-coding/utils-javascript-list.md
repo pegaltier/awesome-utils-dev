@@ -296,6 +296,7 @@
 - https://github.com/vitalets/websocket-as-promised
 - https://github.com/node-fetch/node-fetch
 - https://github.com/L-Blondy/up-fetch
+ - http://github.com/sindresorhus/ky
 - https://github.com/alovajs/alova
 - https://github.com/axios/axios
 - https://github.com/unjs/ofetch
@@ -513,12 +514,13 @@
 - https://github.com/pi0/capnp-es
 - https://github.com/protocolbuffers/protobuf-javascript
 
-## LIB: PARSER HTML/XML/JSON/DOM/CSV
+## LIB: PARSER SCRAPER HTML/XML/JSON/DOM/CSV
 - https://github.com/beenotung/best-effort-json-parser
 - https://github.com/Essent/nativescript-xml2js
 - https://github.com/package-url/packageurl-js
 - https://github.com/flightcontrolhq/superjson
 - https://github.com/WebReflection/domdiff
+- https://github.com/rchipka/node-osmosis
 - https://github.com/natemoo-re/ultrahtml
 - https://github.com/mozilla/readability
 - https://github.com/sindresorhus/domify
@@ -909,7 +911,6 @@
 - https://github.com/MikeMcl/big.js
 - https://github.com/josdejong/mathjs
 - https://github.com/stdlib-js/stdlib
-- https://github.com/harthur/clustering
 - https://github.com/Jam3/math-as-code
 - https://github.com/dinerojs/dinero.js
 - https://github.com/MikeMcl/decimal.js/
@@ -925,6 +926,14 @@
 - https://github.com/handsontable/hyperformula
 - https://github.com/transitive-bullshit/random
 - https://github.com/dcousens/haversine-distance
+
+## LIB: MATH / CLUSTER
+- https://github.com/upphiminn/jHC
+- https://github.com/rchipka/agglo
+- https://github.com/nantunes/figue
+- https://github.com/greenelab/hclust
+- https://github.com/harthur/clustering
+- https://github.com/cmpolis/hcluster.js
 
 ## LIB: GENETIC ALGO
 - https://github.com/dolphin278/genetic

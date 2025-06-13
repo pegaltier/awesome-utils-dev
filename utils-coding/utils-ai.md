@@ -472,7 +472,9 @@
 - https://github.com/n8n-io/n8n
 - https://github.com/Canner/WrenAI
 - https://github.com/refly-ai/refly
+- https://github.com/inngest/inngest
 - https://github.com/FlowiseAI/Flowise
+- https://github.com/bytedance/flowgram.ai
 - https://github.com/triggerdotdev/trigger.dev
 
 ## LIB: WORKFLOW / CONTENT CREATION : N8N

@@ -259,6 +259,7 @@
 - https://github.com/isaacs/node-glob
 
 ## LIBS: HTTP: ALL
+- https://github.com/sindresorhus/ky
 - https://github.com/L-Blondy/up-fetch
 - https://github.com/animir/node-rate-limiter-flexible
 

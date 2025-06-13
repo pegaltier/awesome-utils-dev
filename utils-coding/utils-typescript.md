@@ -235,14 +235,15 @@ npm init
 - https://github.com/mastra-ai/mastra
 
 ## LIB: FUNCTIONNAL PROGRAMMING
-- https://github.com/mobily/ts-belt
 - https://github.com/marpple/FxTS
 - https://github.com/gcanti/fp-ts
-- https://github.com/gigobyte/purify
-- https://github.com/gcanti/fp-ts-contrib
-- https://github.com/rametta/pratica
 - https://github.com/Effect-TS/core
 - https://github.com/rayepps/radash
+- https://github.com/mobily/ts-belt
+- https://github.com/gigobyte/purify
+- https://github.com/rametta/pratica
+- https://github.com/Effect-TS/effect
+- https://github.com/gcanti/fp-ts-contrib
 - https://github.com/antoine-coulon/effect-introduction
 - https://github.com/seangwright/typescript-functional-extensions
 
