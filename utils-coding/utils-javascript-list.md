@@ -718,6 +718,12 @@
 - https://github.com/alvarotrigo/fullpage.js
 - https://github.com/michaelvillar/dynamics.js
 
+## LIB: FRONTEND TREE VIEW
+- https://github.com/justinchmura/js-treeview
+- https://github.com/fperucic/treant-js
+- https://github.com/lmenezes/json-tree
+- https://github.com/m-thalmann/treejs
+
 ## LIB: FRONTEND DATA TABLE
 - https://github.com/uwdata/arquero
 - https://github.com/Gmousse/dataframe-js
