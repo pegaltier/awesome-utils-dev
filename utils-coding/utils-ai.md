@@ -356,6 +356,7 @@
 ## TOOLS: VIDEO
 - https://vizard.ai/
 - https://runwayml.com/
+- https://firstframe.ai/
 
 ## TOOLS: AUDIO
 - https://www.ai-sesame.com/
