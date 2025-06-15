@@ -947,6 +947,7 @@
 - https://github.com/trade-rhythm/technical-indicators
 
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
+- https://github.com/s-stolz/algotrader
 - https://github.com/yuta-97/auto-trader
 - https://github.com/quantform/quantform
 - https://github.com/backtestjs/framework

@@ -251,6 +251,7 @@
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
+- https://github.com/dagger/container-use
 - https://github.com/Integuru-AI/Integuru
 - https://github.com/opencode-ai/opencode
 - https://github.com/continuedev/continue
@@ -287,6 +288,7 @@
 - https://github.com/asgeirtj/system_prompts_leaks
 - https://github.com/PatrickJS/awesome-cursorrules
 - https://github.com/Soushi888/ai-rules-and-workflows
+- https://github.com/anthropics/prompt-eng-interactive-tutorial
 - https://github.com/x1xhlol/v0-system-prompts-models-and-tools
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
@@ -574,6 +576,7 @@
 - https://github.com/amazon-science/RAGChecker
 - https://github.com/instructor-ai/instructor-js
 - https://github.com/circlemind-ai/fast-graphrag
+- https://github.com/FareedKhan-dev/all-rag-techniques
 - https://github.com/Unstructured-IO/unstructured-js-client
 
 ## LIB: MCP
@@ -676,6 +679,7 @@
 - https://github.com/sgomez/ollama-ai-provider
 - https://github.com/jose-donato/ollama-reply *
 - https://github.com/kvcache-ai/ktransformers
+- https://github.com/datawhalechina/self-llm
 - https://github.com/deepseek-ai/DeepSeek-R1
 - https://github.com/deepseek-ai/DeepSeek-V3
 - https://github.com/run-llama/LlamaIndexTS

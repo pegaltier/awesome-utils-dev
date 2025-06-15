@@ -72,7 +72,8 @@
 - https://github.com/Denver-sn/whatsapp-api
 - https://github.com/pedroslopez/whatsapp-web.js
 
-## OSS: SOCIAL
+## OSS: SOCIAL NETWORK
+- https://github.com/jdepoix/youtube-transcript-api
 - https://github.com/humanwhocodes/crosspost
 - https://github.com/gitroomhq/postiz-app
 - https://github.com/anti-work/iffy
