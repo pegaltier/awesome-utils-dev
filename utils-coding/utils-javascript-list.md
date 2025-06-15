@@ -164,6 +164,7 @@
 - https://github.com/lydiahallie/javascript-questions#readme
 - https://www.javatpoint.com/static-vs-const-in-javascript
 - https://codesource.io/javascript-design-patterns/
+- https://www.moscarillo.com/notes/tree-recursion
 - https://github.com/43081j/ecosystem-cleanup
 - https://macarthur.me/posts/long-tasks/
 
@@ -469,6 +470,7 @@
 - https://github.com/morganstanley/needle
 - https://github.com/Livshitz/di.libx.js
 - https://github.com/ashleydavis/fusion
+- https://github.com/nicojs/typed-inject
 - https://github.com/microsoft/tsyringe
 - https://github.com/jeffijoe/awilix
 - https://github.com/cleandi/cleandi
@@ -817,13 +819,14 @@
 - https://github.com/mdaines/viz-js
 - https://github.com/d3fc/d3fc
 
-## LIB: WORKFLOW / PIPES / FLOWCHART
+## LIB: WORKFLOW / PIPES / FLOWCHART / MIDDLEWARE
 - https://github.com/enso-org/enso
 - https://github.com/xyflow/xyflow
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
 - https://github.com/hyperse-io/pipeline
 - https://github.com/pipes-digital/pipes
+- https://github.com/negezor/middleware-io
 - https://github.com/bytedance/flowgram.ai
 - https://github.com/NorthwoodsSoftware/GoJS
 - https://github.com/nocode-js/sequential-workflow-model
