@@ -1661,6 +1661,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/jscutlery/semver
 - https://github.com/atlassian/changesets
 - https://github.com/JamieMason/syncpack (TOADD)
+- https://github.com/microsoft/lage (TOADD)
 
 ## ECOSYSTEM: LIB: MONOREPO: NX LANGAGES PLUGINS
 - https://github.com/nxrs/cargo

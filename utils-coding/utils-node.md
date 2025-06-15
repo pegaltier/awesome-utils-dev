@@ -283,6 +283,9 @@
 ## LIBS: USB
 - https://github.com/node-hid/node-hid
 
+## LIBS: FILES
+- https://github.com/streamich/unionfs
+
 ## LIBS: DOM
 - https://github.com/capricorn86/happy-dom
 - https://github.com/marko-js/writable-dom

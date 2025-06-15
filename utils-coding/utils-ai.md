@@ -230,6 +230,7 @@
 - https://github.com/block/goose
 - https://github.com/openai/codex
 - https://github.com/wandb/openui
+- https://github.com/sst/opencode
 - https://github.com/Ironclad/rivet
 - https://github.com/Aider-AI/aider
 - https://github.com/meltylabs/melty
