@@ -35,7 +35,6 @@
 - https://github.com/httpie/desktop
 - https://github.com/subnub/myDrive
 - https://github.com/alyssaxuu/omni
-- https://github.com/slidevjs/slidev
 - https://github.com/alyssaxuu/flowy
 - https://github.com/axa-group/Parsr
 - https://github.com/notable/notable
@@ -121,6 +120,10 @@
 ## OSS: SUPPORT
 - https://github.com/anti-work/helper
 - https://github.com/abhinavxd/libredesk
+
+# OSS: SLIDE / DECK
+- https://github.com/slidevjs/slidev
+- https://github.com/marp-team/marpit
 
 # OSS: PHOTO / IMAGE
 - https://github.com/ente-io/ente

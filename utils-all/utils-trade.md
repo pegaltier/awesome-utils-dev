@@ -912,6 +912,7 @@
 
 ### OSS: JAVASCRIPT: GENETIC
 - https://github.com/gekkowarez/gekkoga
+- https://github.com/coin-unknown/async-genetic
 
 ### OSS: JAVASCRIPT: MATH
 - https://github.com/compute-io
@@ -1023,7 +1024,6 @@
 - https://github.com/ixjb94/market-screener
 - https://github.com/fasenderos/nestjs-ccxt
 - https://github.com/mkmarek/forex.analytics
-- https://github.com/coin-unknown/async-genetic
 - https://github.com/TranceGeniK/bybit-tools
 - https://github.com/CompendiumFi/PENDAX-SDK
 - https://github.com/austin-starks/NextTrade *

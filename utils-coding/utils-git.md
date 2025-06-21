@@ -70,6 +70,7 @@
 - https://github.com/zricethezav/gitleaks
 - https://github.com/bahmutov/npm-install
 - https://github.com/github/super-linter
+- https://github.com/cocogitto/cocogitto
 - https://github.com/asottile/all-repos
 - https://github.com/lowlighter/metrics
 - https://github.com/okonet/lint-staged

@@ -44,6 +44,7 @@
 
 ## ERP / CRM
 - https://github.com/idurar/idurar-erp-crm
+- https://github.com/ever-co/ever-gauzy
 - https://github.com/espocrm/espocrm
 - https://github.com/twentyhq/twenty
 

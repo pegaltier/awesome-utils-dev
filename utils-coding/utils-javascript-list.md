@@ -164,9 +164,12 @@
 - https://github.com/lydiahallie/javascript-questions#readme
 - https://www.javatpoint.com/static-vs-const-in-javascript
 - https://codesource.io/javascript-design-patterns/
-- https://www.moscarillo.com/notes/tree-recursion
 - https://github.com/43081j/ecosystem-cleanup
 - https://macarthur.me/posts/long-tasks/
+
+## ARTICLES BEST PRACTICES: TREE
+- https://dev.to/anishkumar/tree-data-structure-in-javascript-1o99
+- https://www.moscarillo.com/notes/tree-recursion
 
 ## BENCHMARKS
 - https://jsben.ch/js-string-equal-vs-startswith-gts9h
@@ -485,6 +488,7 @@
 ## LIB: DATE / TIME
 - https://github.com/vercel/ms
 - https://github.com/iamkun/dayjs
+- https://github.com/wanasit/chrono
 - https://github.com/date-fns/date-fns
 - https://github.com/vercel/little-date
 - https://github.com/xxczaki/light-date
@@ -722,6 +726,7 @@
 
 ## LIB: FRONTEND TREE VIEW
 - https://github.com/justinchmura/js-treeview
+- https://github.com/joaonuno/tree-model-js
 - https://github.com/fperucic/treant-js
 - https://github.com/lmenezes/json-tree
 - https://github.com/m-thalmann/treejs
@@ -785,7 +790,12 @@
 - https://github.com/tinyworldmap/tiny-world-map
 - https://github.com/Developer-Plexscape/ol-zoom-level
 
+## LIB: TIMESERIES
+- https://github.com/esnet/pond
+- https://github.com/janjakubnanista/downsample
+
 ## LIB: DATAVIZ / CHART / DATA VIZ / GRAPH
+- https://github.com/vasturiano/horizon-timeseries-chart
 - https://github.com/tradingview/awesome-tradingview
 - https://github.com/tradingview/lightweight-charts
 - https://github.com/webmobiledev/vue-tradingview
@@ -807,6 +817,7 @@
 - https://github.com/jagenjo/litegraph.js
 - https://github.com/chartist-js/chartist
 - https://github.com/kbychkov/dailychart
+- https://github.com/Renumics/spotlight
 - https://github.com/finos/perspective
 - https://github.com/jacomyal/sigma.js
 - https://github.com/observablehq/plot
@@ -822,6 +833,7 @@
 ## LIB: WORKFLOW / PIPES / FLOWCHART / MIDDLEWARE
 - https://github.com/enso-org/enso
 - https://github.com/xyflow/xyflow
+- https://github.com/MotiaDev/motia
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
 - https://github.com/hyperse-io/pipeline
@@ -952,13 +964,17 @@
 - https://github.com/ptrkkim/Genetic-Algo-Tech-Talk
 
 ## LIB: AI / TRAINING / PREDICTION
+- https://github.com/tensorflow/tfjs
+- https://github.com/zemlyansky/arima
 - https://github.com/sbyrnes/bloom.js
 - https://github.com/sbyrnes/likely.js
 - https://github.com/jaimelias/xy-scale
 - https://github.com/sbyrnes/classify.js
+- https://github.com/TomaszRewak/ML-games
 - https://github.com/tensorflow/tfjs-models
 - https://github.com/coin-unknown/async-genetic
 - https://github.com/sbyrnes/DataScience_in_Node.js
+- https://github.com/jinglescode/time-series-forecasting-tensorflowjs
 
 ## LIB: AI: AGENT
 - https://github.com/FellouAI/eko
@@ -1161,6 +1177,7 @@
 - https://github.com/pi0/space-invaders
 - https://github.com/hydralauncher/hydra
 - https://github.com/daniellok/day-trader
+- https://github.com/TomaszRewak/ML-games
 - https://github.com/shaack/cm-chessboard
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku

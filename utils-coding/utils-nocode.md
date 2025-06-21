@@ -100,6 +100,7 @@ low-code tooling to prototype fastly.
 
 ## business intelligence
 - https://github.com/evidence-dev/evidence
+- https://github.com/microsoft/data-formulator
 - https://github.com/evidence-dev/docker-devenv
 
 ## database

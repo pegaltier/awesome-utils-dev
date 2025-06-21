@@ -98,6 +98,7 @@
 - https://github.com/OutSquareCapital/Better-prompts-for-better-output
 - https://github.com/LouisShark/chatgpt_system_prompt
 - https://github.com/platformatic/mistral-client
+- https://github.com/linshenkx/prompt-optimizer
 - https://github.com/langchain-ai/agent-chat-ui
 - https://github.com/langchain-ai/open-canvas
 - https://github.com/ChatGPTNextWeb/NextChat
@@ -124,10 +125,10 @@
 ## TOOLS: OFFLINE / LOCAL / SELF HOST
 - https://jan.ai/
 - https://lmstudio.ai/
-- https://github.com/janhq/jan *
 - https://github.com/lmstudio-ai
 - https://github.com/mudler/LocalAI
 - https://github.com/lmstudio-ai/lms
+- http://github.com/menloresearch/jan
 - https://github.com/frdel/agent-zero
 - https://github.com/Fosowl/agenticSeek
 - https://github.com/huggingface/open-r1
@@ -475,6 +476,7 @@
 ## LIB: WORKFLOW / CONTENT CREATION
 - https://github.com/n8n-io/n8n
 - https://github.com/Canner/WrenAI
+- https://github.com/MotiaDev/motia
 - https://github.com/refly-ai/refly
 - https://github.com/inngest/inngest
 - https://github.com/FlowiseAI/Flowise
@@ -836,6 +838,7 @@
 - https://github.com/Zejun-Yang/AniPortrait
 - https://github.com/comfyanonymous/ComfyUI
 - https://github.com/Acly/krita-ai-diffusion
+- https://github.com/AIDC-AI/ComfyUI-Copilot
 - https://github.com/Stability-AI/StableStudio
 - https://github.com/Zeyi-Lin/HivisionIDPhotos
 - https://github.com/cocktailpeanut/breadboard

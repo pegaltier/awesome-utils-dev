@@ -138,6 +138,7 @@
 - https://github.com/bennycode/ts2esm
 - https://github.com/commitizen/cz-cli
 - https://github.com/davidmarkclements/0x
+- https://github.com/mysticatea/npm-run-all
 - https://github.com/rodrigopivi/tslab-widgets
 - https://github.com/antfu/node-modules-inspector
 
@@ -483,8 +484,9 @@
 - https://github.com/tsedio/tsed
 - https://github.com/strapi/strapi
 - https://github.com/remult/remult
-- https://github.com/lukeautry/tsoa
 - https://github.com/adonisjs/core
+- https://github.com/MotiaDev/motia
+- https://github.com/lukeautry/tsoa
 - https://github.com/zone-eu/zone-mta
 - https://github.com/sindresorhus/got
 - https://github.com/balderdashy/sails

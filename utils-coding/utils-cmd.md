@@ -35,6 +35,7 @@
 - https://github.com/trinib/Linux-Bash-Commands
 - https://github.com/jlevy/the-art-of-command-line
 - https://github.com/grv231/automation-bash-scripts
+- https://github.com/Nikoo-Asadnejad/Practical_BashScripts
 
 ## ZSH
 
