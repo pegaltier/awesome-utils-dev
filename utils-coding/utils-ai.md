@@ -595,6 +595,7 @@
 - https://github.com/GLips/Figma-Context-MCP
 - https://github.com/lharries/whatsapp-mcp
 - https://github.com/aipotheosis-labs/aci
+- https://github.com/getdatanaut/openmcp
 - https://github.com/upstash/context7
 - https://github.com/punkpeye/fastmcp
 

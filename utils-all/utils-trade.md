@@ -990,7 +990,7 @@
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Flippo24/candles *
 
-### OSS: JAVASCRIPT
+### OSS: JAVASCRIPT: ALL
 - https://npm.io/search/keyword:forex
 - https://github.com/fugle-dev
 - https://github.com/Tucsky/aggr
@@ -1047,6 +1047,7 @@
 - https://github.com/data-forge/data-forge-indicators
 - https://github.com/Reiryoku-Technologies/Mida *
 - https://github.com/Reiryoku-Technologies/Mida-Playground
+- https://github.com/christianlacuesta/MarketAnalysisBackend
 - https://github.com/joshuapjacob/crypto-volatility-surface *
 - https://github.com/aloysius-pgast/crypto-exchanges-gateway *
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive

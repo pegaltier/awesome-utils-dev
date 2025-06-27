@@ -1902,6 +1902,7 @@ Learn the best way to make your objects immutable.
 - https://github.com/mgechev/ng2lint
 - https://github.com/mgechev/codelyzer
 - https://github.com/ReactiveX/rxjs-tslint
+- https://github.com/HaasStefan/beyondlint
 - https://github.com/mgechev/tslint-angular
 - https://github.com/Phillip9587/nx-stylelint
 - https://github.com/cartant/rxjs-tslint-rules

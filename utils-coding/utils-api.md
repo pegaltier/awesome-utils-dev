@@ -72,6 +72,7 @@
 - https://github.com/microcks/microcks
 - https://github.com/microsoft/typespec
 - https://github.com/hey-api/openapi-ts
+- https://github.com/getdatanaut/openmcp
 - https://github.com/Mermade/widdershins
 - https://github.com/samchungy/zod-openapi
 - https://github.com/astahmer/typed-openapi

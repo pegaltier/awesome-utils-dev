@@ -763,6 +763,7 @@
 - https://github.com/easylogic/codemirror-colorpicker
 - https://github.com/evilmartians/oklch-picker
 - https://github.com/nextcss/color-tools
+- https://github.com/meodai/color-names
 - https://github.com/junhoyeo/use-color
 - https://github.com/color-js/color.js
 - https://github.com/Evercoder/culori
@@ -963,19 +964,6 @@
 - https://github.com/panchishin/geneticalgorithm
 - https://github.com/ptrkkim/Genetic-Algo-Tech-Talk
 
-## LIB: AI / TRAINING / PREDICTION
-- https://github.com/tensorflow/tfjs
-- https://github.com/zemlyansky/arima
-- https://github.com/sbyrnes/bloom.js
-- https://github.com/sbyrnes/likely.js
-- https://github.com/jaimelias/xy-scale
-- https://github.com/sbyrnes/classify.js
-- https://github.com/TomaszRewak/ML-games
-- https://github.com/tensorflow/tfjs-models
-- https://github.com/coin-unknown/async-genetic
-- https://github.com/sbyrnes/DataScience_in_Node.js
-- https://github.com/jinglescode/time-series-forecasting-tensorflowjs
-
 ## LIB: AI: AGENT
 - https://github.com/FellouAI/eko
 - https://github.com/firebase/genkit
@@ -985,11 +973,23 @@
 - https://github.com/liveloveapp/hashbrown
 - https://github.com/openai/openai-realtime-agents
 
-## LIB: AI: NEURAL NETWORK
+## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK
 - https://github.com/harthur/brain
+- https://github.com/tensorflow/tfjs
 - https://github.com/BrainJS/brain.js
+- https://github.com/zemlyansky/arima
+- https://github.com/sbyrnes/bloom.js
+- https://github.com/sbyrnes/likely.js
+- https://github.com/jaimelias/xy-scale
+- https://github.com/sbyrnes/classify.js
+- https://github.com/TomaszRewak/ML-games
+- https://github.com/wagenaartje/neataptic
+- https://github.com/tensorflow/tfjs-models
+- https://github.com/coin-unknown/async-genetic
+- https://github.com/sbyrnes/DataScience_in_Node.js
+- https://github.com/jinglescode/time-series-forecasting-tensorflowjs
 
-## LIB: AI / ARTIFICIAL INTELLIGENCE
+## LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED
 - https://github.com/n8n-io/n8n
 - https://github.com/cline/cline
 - https://github.com/moeru-ai/xsai

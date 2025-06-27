@@ -113,6 +113,7 @@
 
 ## OPTIMIZATION
 - https://github.com/harlan-zw/unlighthouse
+- https://github.com/developerway/web-perf-fundamentals
 - https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 

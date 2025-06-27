@@ -172,6 +172,7 @@
 - https://github.com/caprover/one-click-apps
 - https://github.com/azukaar/Cosmos-Server
 - https://github.com/coollabsio/cli-coolify
+- https://github.com/psviderski/uncloud
 - https://github.com/coollabsio/coolify
 - https://github.com/newsnowlabs/runcvm
 - https://github.com/zane-ops/zane-ops
