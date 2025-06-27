@@ -598,6 +598,7 @@
 - https://github.com/getdatanaut/openmcp
 - https://github.com/upstash/context7
 - https://github.com/punkpeye/fastmcp
+- https://github.com/anthropics/dxt
 
 ## LIB: BPE
 - https://github.com/openai/tiktoken
