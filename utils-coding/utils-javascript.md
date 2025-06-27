@@ -236,7 +236,7 @@ const syncRes = arr.map((i) => {
 console.log(syncRes);
 // 2,3,4
 
-// VS ASYNC MAP
+// VS ASYNC MAP (RUN IN PARALLEL)
 const asyncRes = await Promise.all(arr.map(async (i) => {
 	await sleep(10);
 	return i + 1;
@@ -244,7 +244,7 @@ const asyncRes = await Promise.all(arr.map(async (i) => {
 console.log(asyncRes);
 // 2,3,4
 
-// SYNC/ASYNC FOR OF WITH INDEX
+// SYNC/ASYNC FOR OF WITH INDEX (RUN IN SERIES)
 for (const [index, item] of someArray.entries()) { await or not }
 
 // 
