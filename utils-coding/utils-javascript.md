@@ -244,6 +244,10 @@ const asyncRes = await Promise.all(arr.map(async (i) => {
 console.log(asyncRes);
 // 2,3,4
 
+// SYNC FOR OF WITH INDEX
+for (const [index, item] of someArray.entries()) { ... }
+
+// 
 // ERROR HANDLING
 // return without await if you want to let the caller handle the error
 // return with await if you want to handle the error locally
