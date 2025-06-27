@@ -229,7 +229,8 @@ let promise = new Promise(function(resolve, reject) {
 
 ```javascript
 const arr = [1, 2, 3];
-// SYNC MAP
+
+// SYNC MAP (RUN IN SERIES)
 const syncRes = arr.map((i) => {
 	return i + 1;
 });
