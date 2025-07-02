@@ -26,6 +26,7 @@
 - https://github.com/karpathy/LLM101n
 - https://github.com/huggingface/agents-course
 - https://github.com/decodingml/llm-twin-course
+- https://github.com/NirDiamant/agents-towards-production
 
 ## VIDEOS
 - https://youtu.be/85GKLbqEu08 I Made an AI Automated Youtube Channel - Here's What Happened in 30 Days
@@ -232,6 +233,7 @@
 - https://github.com/openai/codex
 - https://github.com/wandb/openui
 - https://github.com/sst/opencode
+- https://github.com/oraios/serena
 - https://github.com/Ironclad/rivet
 - https://github.com/Aider-AI/aider
 - https://github.com/meltylabs/melty
@@ -253,6 +255,7 @@
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
+- https://github.com/getAsterisk/claudia
 - https://github.com/dagger/container-use
 - https://github.com/Integuru-AI/Integuru
 - https://github.com/opencode-ai/opencode
@@ -270,6 +273,7 @@
 - https://github.com/All-Hands-AI/OpenHands
 - https://github.com/amplication/amplication
 - https://github.com/princeton-nlp/SWE-agent
+- https://github.com/google-gemini/gemini-cli
 - https://github.com/robertpiosik/CodeWebChat
 - https://github.com/stackblitz-labs/bolt.diy
 - https://github.com/eduardoleao052/js-pytorch
@@ -482,6 +486,7 @@
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/bytedance/flowgram.ai
 - https://github.com/triggerdotdev/trigger.dev
+- https://github.com/coleam00/ottomator-agents
 
 ## LIB: WORKFLOW / CONTENT CREATION : N8N
 - https://github.com/Zie619/n8n-workflows
@@ -587,6 +592,7 @@
 - https://github.com/modelcontextprotocol/typescript-sdk
 - https://github.com/cloudflare/mcp-server-cloudflare
 - https://github.com/wonderwhy-er/DesktopCommanderMCP
+- https://github.com/AgentDeskAI/browser-tools-mcp
 - https://github.com/Flux159/mcp-server-kubernetes
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
@@ -908,6 +914,7 @@
 - https://github.com/addyosmani/chatty
 - https://github.com/lightpanda-io/browser
 - https://github.com/browserbase/stagehand
+- https://github.com/magnitudedev/magnitude
 - https://github.com/web-infra-dev/midscene
 - https://github.com/browser-use/browser-use
 

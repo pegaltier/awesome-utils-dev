@@ -125,7 +125,7 @@
 - https://github.com/slidevjs/slidev
 - https://github.com/marp-team/marpit
 
-# OSS: PHOTO / IMAGE
+# OSS: PHOTO / IMAGE / ILLUSTRATION
 - https://github.com/ente-io/ente
 - https://github.com/rishimohan/pika
 - https://github.com/immich-app/immich
@@ -133,6 +133,7 @@
 - https://github.com/electerious/Lychee
 - https://github.com/photoprism/photoprism
 - https://github.com/TagStudioDev/TagStudio
+- https://github.com/GraphiteEditor/Graphite
 
 ## OSS: AUDIO
 - https://github.com/nukeop/nuclear
@@ -140,6 +141,7 @@
 - https://github.com/th-ch/youtube-music
 - https://github.com/mps-youtube/yewtube
 - https://github.com/oTranscribe/oTranscribe
+- https://github.com/Tyrrrz/YoutubeDownloader
 - https://github.com/spotDL/spotify-downloader
 
 ## OSS: VIDEO

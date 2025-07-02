@@ -472,8 +472,9 @@
 - https://github.com/mgechev/injection-js
 - https://github.com/morganstanley/needle
 - https://github.com/Livshitz/di.libx.js
-- https://github.com/ashleydavis/fusion
 - https://github.com/nicojs/typed-inject
+- https://github.com/ashleydavis/fusion
+- https://github.com/mako-taco/dipstick
 - https://github.com/microsoft/tsyringe
 - https://github.com/jeffijoe/awilix
 - https://github.com/cleandi/cleandi
@@ -508,6 +509,9 @@
 - https://github.com/mtiller/urns
 - https://github.com/unjs/ufo
 
+## LIB: ASYNC
+- https://github.com/nicolas-van/modern-async
+- https://github.com/laverdet/node-fibers
 
 ## LIB: PASSWORD
 - https://github.com/OktaSecurityLabs/passprotect-js
@@ -1086,6 +1090,7 @@
 - https://github.com/mesqueeb/sha-anything
 - https://github.com/puleos/object-hash
 - https://github.com/dcodeIO/bcrypt.js
+- https://github.com/nikgraf/secsync
 
 ## LIB: IMMUTABLE OBJECT
 - https://github.com/giusepperaso/structura.js

@@ -953,10 +953,12 @@
 - https://github.com/quantform/quantform
 - https://github.com/backtestjs/framework
 - https://github.com/No-Trade-No-Life/Yuan
+- https://github.com/SockTrader/SockTrader
+- https://github.com/Open-Trader/opentrader
+- https://github.com/JeffreyHyer/grandmaster
 - https://github.com/focus1691/backtest-loop
 - https://github.com/chalupagrande/backtester
 - https://github.com/pratikgaloria/showr-core
-- https://github.com/JeffreyHyer/grandmaster
 - https://github.com/andrewbaronick/BacktestJS
 - https://github.com/fugle-dev/fugle-backtest-node
 - https://github.com/excelsior-creative/edc-backtester
@@ -1018,8 +1020,6 @@
 - https://github.com/DannyPreye/fx-ninja/
 - https://github.com/wagenaartje/stocks.js
 - https://github.com/coinranking/exchanges
-- https://github.com/SockTrader/SockTrader *
-- https://github.com/Open-Trader/opentrader *
 - https://github.com/tardis-dev/tardis-node *
 - https://github.com/ixjb94/market-screener
 - https://github.com/fasenderos/nestjs-ccxt

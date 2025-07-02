@@ -484,6 +484,7 @@
 - https://github.com/tsedio/tsed
 - https://github.com/strapi/strapi
 - https://github.com/remult/remult
+- https://github.com/rocicorp/mono
 - https://github.com/adonisjs/core
 - https://github.com/MotiaDev/motia
 - https://github.com/lukeautry/tsoa

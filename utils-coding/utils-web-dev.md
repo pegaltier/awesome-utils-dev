@@ -635,6 +635,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://codepen.io/creativeocean/pen/poPexje
 - https://css-irl.info/animating-underlines/
 - https://ishadeed.com/article/handling-text-over-image-css/
+- https://github.com/orta/plants
 - https://github.com/nartc/ngt-3d-slideshow
 - https://github.com/emmabostian/design-inspiration
 - https://github.com/russellsamora/scrollama

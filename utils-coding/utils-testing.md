@@ -112,6 +112,7 @@
 - https://github.com/lightpanda-io/browser
 - https://github.com/browserbase/stagehand
 - https://github.com/web-infra-dev/midscene
+- https://github.com/magnitudedev/magnitude
 - https://github.com/nanobrowser/nanobrowser
 - https://github.com/executeautomation/mcp-playwright
 
