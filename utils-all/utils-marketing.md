@@ -26,6 +26,9 @@
 - https://github.com/webslides/WebSlides
 - https://github.com/imakewebthings/deck.js
 
+## CUSTOMER SERVICES
+- https://github.com/rudderlabs/rudder-sdk-js
+
 ## GROWTH HACKING
 - https://convertio.co/fr/html-gif/
 

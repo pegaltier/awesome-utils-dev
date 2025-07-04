@@ -32,6 +32,7 @@
 - https://reqbin.com/
 - https://hoppscotch.io/
 - https://insomnia.rest/
+- https://github.com/httpie/cli
 - https://github.com/Kong/insomnia
 - https://github.com/usebruno/bruno
 - https://github.com/mountain-loop/yaak
@@ -70,6 +71,7 @@
 - https://github.com/orval-labs/orval
 - https://github.com/asyncapi/modelina
 - https://github.com/microcks/microcks
+- https://github.com/stoplightio/prism
 - https://github.com/microsoft/typespec
 - https://github.com/hey-api/openapi-ts
 - https://github.com/getdatanaut/openmcp
@@ -207,6 +209,7 @@
 - https://rapidapi.com
 - https://www.humanapi.co
 - https://github.com/APIs-guru
+- https://github.com/Kikobeats/awesome-api
 - https://github.com/hiteshchoudhary/apihub
 - https://github.com/davemachado/public-api
 - https://github.com/public-apis/public-apis

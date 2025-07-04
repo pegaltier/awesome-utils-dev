@@ -391,11 +391,18 @@
 ## TOOLS: SEARCH
 - https://github.com/leptonai/search_with_lepton
 
-## TOOLS: FINANCE
+## TOOLS: FINANCE / TRADING
 - https://gptstonks.net/
 - https://github.com/FutureSharks/ml-finance
+- https://github.com/chase-manning/ai-hedge-fund
+- https://github.com/TauricResearch/TradingAgents
 - https://github.com/hackingthemarkets/ai-hedge-fund
 - https://github.com/tradingstrategy-ai/trading-strategy
+
+## TOOLS: GATEWAY
+- https://portkey.ai/
+- https://openrouter.ai/
+- https://github.com/Portkey-AI/gateway
 
 ## IMAGES API
 
@@ -515,6 +522,7 @@
 ## LIB: AGENTIC FRAMEWORK
 - https://github.com/google/A2A
 - https://github.com/ai16z/eliza
+- https://github.com/SmythOS/sre
 - https://github.com/camel-ai/owl
 - https://github.com/khoj-ai/khoj
 - https://github.com/FellouAI/eko
@@ -598,9 +606,11 @@
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/leonardsellem/n8n-mcp-server
 - https://github.com/exa-labs/exa-mcp-server
+- https://github.com/sooperset/mcp-atlassian
 - https://github.com/GLips/Figma-Context-MCP
 - https://github.com/lharries/whatsapp-mcp
 - https://github.com/aipotheosis-labs/aci
+- https://github.com/evalstate/fast-agent
 - https://github.com/getdatanaut/openmcp
 - https://github.com/upstash/context7
 - https://github.com/punkpeye/fastmcp
@@ -795,6 +805,7 @@
 ## LIB: VIDEO
 - https://github.com/aigc3d/LHM
 - https://github.com/THU-MIG/yolov10
+- https://github.com/buxuku/SmartSub
 - https://github.com/WongKinYiu/yolov9
 - https://github.com/topics/ai-avatars
 - https://github.com/SandAI-org/MAGI-1
@@ -890,10 +901,11 @@
 - https://github.com/tensorflow/tensorboard
 - https://github.com/huggingface/transformers
 
-## LIB: BOT
+## LIB: BOT / CUSTOMER SUPPORT
 - https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI
 - https://github.com/baptisteArno/typebot.io
 - https://github.com/openchatai/OpenChat
+- https://github.com/antiwork/helper
 
 ## LIB: SOCIAL
 - https://github.com/David-patrick-chuks/Instagram-AI-Agent

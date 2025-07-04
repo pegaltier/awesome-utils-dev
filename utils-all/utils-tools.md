@@ -216,6 +216,9 @@
 - https://github.com/typst/typst
 - https://www.mendable.ai/
 
+## OSS: PRODUCTIVITY
+- https://github.com/johannesjo/super-productivity
+
 ## OSS: COLLABORATE
 - https://github.com/daily-co
 - https://github.com/matrix-org
@@ -259,11 +262,13 @@
 - https://github.com/excalidraw/excalidraw
 - https://github.com/dreampuf/GraphvizOnline
 
-## Streaming
+## Stream / streaming
 - https://obsproject.com/
 - https://movie-web.app/
+- https://www.stremio.com/
 - https://github.com/KRTirtho/spotube
 - https://github.com/movie-web/movie-web
+- https://github.com/Viren070/AIOStreams
 
 ## Social network
 - https://pallyy.com/

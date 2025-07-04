@@ -523,7 +523,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/jamesgeorge007/scaffold-static
 - https://github.com/wwebdev/static-website-template
 
-## STARTER: SSG
+## STARTER: SSG: ALL
 - https://github.com/google/eleventy-high-performance-blog
 - https://github.com/ixartz/Eleventy-Starter-Boilerplate
 - https://github.com/11ty/eleventy-base-blog
@@ -550,6 +550,9 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/alloc/saus
 - https://github.com/nuejs/nue
 - https://github.com/unjs/h3
+
+## STARTER: SSG: PORTFOLIO
+- https://github.com/Nutlope/self.so
 
 ## EMAIL TEMPLATE / MAILING LIST
 - https://mosaico.io

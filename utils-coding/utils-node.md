@@ -95,15 +95,6 @@
 - https://platform.sh/
 - https://scalingo.com/
 
-## HOSTING: SCHEDULING
-- https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples
-- https://www.stackhero.io/en-fr/services/Node-js/documentations/Cron-jobs
-- https://docs.netlify.com/functions/scheduled-functions/
-- https://github.com/SGrondin/bottleneck
-- https://cronitor.io/guides/node-cron-jobs
-- https://www.defer.run/blog/nodejs-cron
-- https://vercel.com/docs/cron-jobs
-- https://github.com/nefe/one-cron
 
 ## UTILS: NPM
 - https://github.com/es-tooling/module-replacements
@@ -142,6 +133,13 @@
 - https://github.com/rodrigopivi/tslab-widgets
 - https://github.com/antfu/node-modules-inspector
 
+## UTILS: CLEAN / KILL
+- https://github.com/isaacs/rimraf
+- https://github.com/voidcosmos/npkill
+- https://github.com/zrosenbauer/nuka-code
+- https://github.com/sindresorhus/trash-cli
+- https://github.com/sindresorhus/fkill-cli
+
 ## UTILS: ALL
 - https://github.com/animir/node-rate-limiter-flexible
 - https://github.com/jkup/source-map-stacktrace-tester
@@ -162,7 +160,6 @@
 - https://github.com/sindresorhus/is-docker
 - https://github.com/sindresorhus/wsl-utils
 - https://github.com/coderhammer/backhooks
-- https://github.com/SBoudrias/Inquirer.js
 - https://github.com/sultan99/sexy-require
 - https://github.com/infinyon/node-bindgen
 - https://github.com/privatenumber/tasuku
@@ -174,7 +171,6 @@
 - https://github.com/node-escpos/driver
 - https://github.com/enquirer/enquirer
 - https://github.com/node-usb/node-usb
-- https://github.com/voidcosmos/npkill
 - https://github.com/depcheck/depcheck
 - https://github.com/foreversd/forever
 - https://github.com/nodejitsu/nexpect
@@ -235,6 +231,25 @@
 
 ## LIBS: VITE
 - https://github.com/aleclarson/vite-tsconfig-paths
+
+## LIBS: VIDEO EDITING / AUDIO
+- https://github.com/chatman-media/timeline-studio
+- https://github.com/AmitDigga/fabric-video-editor
+- https://github.com/bilashcse/video-editor
+- https://github.com/ClipsAI/video-editor
+- https://github.com/drawcall/FFAIVideo
+- https://github.com/mifi/lossless-cut
+- https://github.com/tnfe/FFCreator
+- https://github.com/timii/voidcut
+- https://github.com/etro-js/etro
+- https://github.com/mifi/editly
+- https://github.com/AniMathIO
+- https://github.com/vnve/vnve
+
+
+## LIBS: IMAGES
+- https://github.com/lovell/sharp
+- https://github.com/pmb0/express-sharp
 
 ## LIBS: DATA OBJECT / DATA TYPE / BUFFER
 - https://github.com/node-formidable/formidable
@@ -302,15 +317,24 @@
 - https://github.com/unjs/ohmyfetch
 - https://github.com/WebReflection/fetch
 
-## LIBS: JOB / SCHEDULER
+## LIBS: JOB / SCHEDULER / SCHEDULING
 - https://github.com/kibertoad/toad-scheduler
+- https://github.com/SGrondin/bottleneck
+- https://github.com/jakebailey/hereby
 
 ## LIBS: CRON
+- https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples
+- https://www.stackhero.io/en-fr/services/Node-js/documentations/Cron-jobs
+- https://docs.netlify.com/functions/scheduled-functions/
+- https://cronitor.io/guides/node-cron-jobs
 - https://github.com/vwedesam/Cron-to-human
+- https://www.defer.run/blog/nodejs-cron
 - https://github.com/node-cron/node-cron
 - https://github.com/kelektiv/node-cron
 - https://github.com/cronhub/crontab
 - https://github.com/Hexagon/croner
+- https://vercel.com/docs/cron-jobs
+- https://github.com/nefe/one-cron
 
 ## LIBS: TESTING
 - https://github.com/avajs/ava
@@ -354,10 +378,6 @@
 - https://github.com/openai/openai-node
 - https://github.com/frost-beta/node-mlx
 
-## LIBS: IMAGES
-- https://github.com/lovell/sharp
-- https://github.com/pmb0/express-sharp
-
 ## LIBS: CROSS LANGUAGES
 - https://github.com/platformatic/php-node
 
@@ -380,6 +400,7 @@
 - https://github.com/prisma/prisma
 - https://github.com/typeorm/typeorm
 - https://github.com/sequelize/sequelize
+- https://github.com/drizzle-team/drizzle-orm
 
 ## LIBS: DATABASE / DB
 - https://github.com/knex/knex
@@ -407,14 +428,15 @@
 - https://github.com/cacjs/cac
 - https://github.com/terkelg/prompts
 - https://github.com/jasonkuhrt/molt
+- https://github.com/vadimdemedes/ink
 - https://github.com/arcanis/clipanion
 - https://github.com/tunnckoCore/zodest
 - https://github.com/npkgz/cli-progress
 - https://github.com/vadimdemedes/pastel
 - https://github.com/bombshell-dev/clack
+- https://github.com/mattallty/Caporal.js
 - https://github.com/tinylibs/picospinner
-- https://github.com/sindresorhus/trash-cli
-- https://github.com/sindresorhus/fkill-cli
+- https://github.com/SBoudrias/Inquirer.js
 - https://docs.npmjs.com/cli/ci.html
 - https://github.com/lirantal/nodejs-cli-apps-best-practices
 - https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
@@ -446,6 +468,7 @@
 - https://github.com/encoredev/encore
 - https://github.com/Xiphe/cachified
 - https://github.com/helmetjs/helmet
+- https://github.com/tsedio/tsed
 
 ## SERVER: INFRA
 - https://github.com/Unitech/pm2
@@ -466,6 +489,7 @@
 - https://github.com/httptoolkit/mockrtc
 - https://github.com/paulmillr/chokidar
 - https://github.com/fonoster/fonoster
+- https://github.com/ts-rest/ts-rest
 - https://github.com/elysiajs/elysia
 - https://github.com/vercel/og-image
 - https://github.com/mnfst/manifest

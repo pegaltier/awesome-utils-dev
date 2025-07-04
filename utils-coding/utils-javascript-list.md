@@ -546,6 +546,7 @@
 ## LIB: MARKUP / MARKDOWN / TEXT
 - https://github.com/AgentEnder/markdown-factory
 - https://github.com/Myriad-Dreamin/typst.ts
+- https://github.com/philschmid/clipper.js
 - https://github.com/micromark/micromark
 - https://github.com/Milkdown/milkdown
 - https://github.com/stoyan/Lizzy.js
@@ -653,7 +654,6 @@
 - https://github.com/Agezao/confetti-js
 - https://github.com/mamunhpath/josh.js
 - https://github.com/nextapps-de/winbox
-- https://github.com/ueberdosis/tiptap
 - https://github.com/cocopon/tweakpane
 - https://github.com/crabbly/Print.js
 - https://github.com/rviscomi/capo.js
@@ -685,6 +685,22 @@
 - https://github.com/formkit/auto-animate
 - https://github.com/dnnsjsk/glaze
 
+## LIB: FRONTEND TEXT EDITOR / WYSIWYG 
+- https://github.com/microsoft/monaco-editor
+- https://github.com/ProseMirror/prosemirror
+- https://github.com/TypeCellOS/BlockNote
+- https://github.com/ianstormtaylor/slate
+- https://github.com/reedsy/quill-cursors
+- https://github.com/taiga-family/editor
+- https://github.com/holloway/doctored
+- https://github.com/ueberdosis/tiptap
+- https://github.com/Vanessa219/vditor
+- https://github.com/acode/copenhagen
+- https://github.com/codemirror/dev/
+- https://github.com/quilljs/quill
+- https://github.com/zserge/awfice
+- https://github.com/udecode/plate
+
 ## LIB: FRONTEND DRAG AND DROP / DND
 - https://github.com/atlassian/pragmatic-drag-and-drop
 - https://github.com/timruffles/mobile-drag-drop
@@ -709,6 +725,7 @@
 
 ## LIB: FRONTEND LAYOUT
 - https://github.com/mathuo/dockview
+- https://github.com/naver/egjs-grid
 - https://github.com/Tom-Rawlings/Resizable.js
 - https://github.com/golden-layout/golden-layout
 - https://github.com/ashduckett/PureJS-SplitterBar
@@ -754,6 +771,7 @@
 - https://github.com/dream-num/Luckysheet
 - https://github.com/ruilisi/fortune-sheet
 - https://github.com/gabrielpetersson/fast-grid
+- https://github.com/TomaszRewak/js-spread-grid
 - https://github.com/chenzhiyuanthu/virtual-scrolling-table
 
 ## LIB: FRONTEND ANIMATION
@@ -833,12 +851,15 @@
 - https://github.com/pa7/heatmap.js
 - https://github.com/danvk/dygraphs
 - https://github.com/mdaines/viz-js
+- https://github.com/visgl/deck.gl
 - https://github.com/d3fc/d3fc
 
 ## LIB: WORKFLOW / PIPES / FLOWCHART / MIDDLEWARE
 - https://github.com/enso-org/enso
 - https://github.com/xyflow/xyflow
 - https://github.com/MotiaDev/motia
+- https://github.com/didi/LogicFlow
+- https://github.com/kestra-io/kestra
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
 - https://github.com/hyperse-io/pipeline
@@ -969,6 +990,7 @@
 - https://github.com/ptrkkim/Genetic-Algo-Tech-Talk
 
 ## LIB: AI: AGENT
+- https://github.com/SmythOS/sre
 - https://github.com/FellouAI/eko
 - https://github.com/firebase/genkit
 - https://github.com/mastra-ai/mastra
@@ -1187,6 +1209,7 @@
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
 - https://github.com/memetic-institute/The-Fed
+- https://github.com/prettymuchbryce/easystarjs
 - https://github.com/BenjaminAster/CSS-Minecraft
 - https://github.com/Richard-Strittmatter/JuanTap
 

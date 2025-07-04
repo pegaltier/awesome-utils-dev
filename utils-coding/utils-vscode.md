@@ -70,7 +70,7 @@
 
 
 ## TOOLS
-
+- https://github.com/DonJayamanne/typescript-notebook
 - https://github.com/liximomo/vscode-sftp
 - https://github.com/foambubble/foam
 

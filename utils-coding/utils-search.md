@@ -1,6 +1,7 @@
 # SEARCH
 
 ## TOOLS
+- https://github.com/opensearch-project/OpenSearch
 - https://github.com/openobserve/openobserve
 - https://github.com/quickwit-oss/quickwit
 - https://github.com/paradedb/paradedb

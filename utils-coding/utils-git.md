@@ -368,6 +368,15 @@ git branch -m seotweaks master
 git push -f origin master
 ```
 
+## SQUASH BRANCH
+
+```bash
+# https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together
+git reset origin/dev
+git add --all
+git commit -m 'my commit message'
+```
+
 ## CONTRIBUTE
 
 1. Fork the github remote repository

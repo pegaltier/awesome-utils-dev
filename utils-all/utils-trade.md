@@ -224,6 +224,7 @@
 - https://algowizard.io/
 - https://nexustrade.io/
 - https://forextester.com/
+- https://cryptoquant.dev/
 - https://www.naked-markets.com/
 - https://flash-research.com/
 - https://www.tradingview.com/
@@ -873,7 +874,7 @@
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
 - https://github.com/AnalyzerREST/python-tradingview-ta
 - https://github.com/agiliumtrade-ai/metaapi-python-sdk
-- https://github.com/tradingstrategy-ai/trading-strategy
+- https://github.com/tradingstrategy-ai/trading-strategy *
 - https://github.com/louisnw01/lightweight-charts-python *
 - https://github.com/NourozR/Stock-Price-Prediction-LSTM
 - https://github.com/hackingthemarkets/binance-tutorials
@@ -948,7 +949,9 @@
 - https://github.com/trade-rhythm/technical-indicators
 
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
+- https://github.com/ghalex/zapcli
 - https://github.com/s-stolz/algotrader
+- https://github.com/ocignis/ocignis-bot
 - https://github.com/yuta-97/auto-trader
 - https://github.com/quantform/quantform
 - https://github.com/backtestjs/framework
@@ -978,6 +981,7 @@
 - https://github.com/tradex-app/TradeX-chart
 - https://github.com/project-nv/night-vision
 - https://github.com/klinecharts/KLineChart
+- https://github.com/alenjohn05/EquiCharts
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/andredumas/techan.js
 - https://github.com/jones2000/HQChart
@@ -1018,6 +1022,7 @@
 - https://github.com/tvjsx/tvjs-overlays
 - https://github.com/daniellok/day-trader
 - https://github.com/DannyPreye/fx-ninja/
+- https://github.com/punitarani/axiom-app
 - https://github.com/wagenaartje/stocks.js
 - https://github.com/coinranking/exchanges
 - https://github.com/tardis-dev/tardis-node *
@@ -1036,9 +1041,11 @@
 - https://github.com/focus1691/indicator-library * 
 - https://github.com/Mathieu2301/TradingView-API
 - https://github.com/Adamant-im/adamant-tradebot
+- https://github.com/fasenderos/nodejs-order-book
 - https://github.com/HabeebUllahTabrez/Algo-Maker
 - https://github.com/dearvn/tradovate-trading-bot
 - https://github.com/Haehnchen/crypto-trading-bot *
+- https://github.com/jozefRudy/trading-rule-parser *
 - https://github.com/BitgetLimited/v3-bitget-api-sdk *
 - https://github.com/fasenderos/hft-limit-order-book *
 - https://github.com/tiagosiebler/TriangularArbitrage
@@ -1051,9 +1058,11 @@
 - https://github.com/joshuapjacob/crypto-volatility-surface *
 - https://github.com/aloysius-pgast/crypto-exchanges-gateway *
 - https://github.com/Reiryoku-Technologies/Time-Series-Archive
+- https://github.com/KingCode0624/CryptoTradingPlatform-Pumpbit
 - https://github.com/Adamant-im/adamant-coinoptimus
 - https://github.com/472647301/tradingview-web-socket
 - https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4
+- https://github.com/manu354/cryptocurrency-arbitrage
 - https://github.com/bitcoinvsalts/node-binance-trader
 - https://github.com/thanhnguyennguyen/trading-indicator
 - https://github.com/bitcoinvsalts/tradingview-alert-binance-trader
@@ -1064,7 +1073,9 @@
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
 - https://aicryptochartanalysis.com/
 - https://github.com/microsoft/qlib
+- https://github.com/Suharaz/MerkleAI
 - https://github.com/virattt/ai-hedge-fund
+- https://github.com/chase-manning/ai-hedge-fund
 - https://github.com/AI4Finance-Foundation/FinRL
 - https://github.com/tensortrade-org/tensortrade
 - https://github.com/TauricResearch/TradingAgents

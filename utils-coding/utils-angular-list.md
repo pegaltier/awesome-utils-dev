@@ -2778,24 +2778,11 @@ Add a progressbar for displaying a loader during the different async task like h
 - https://github.com/ckeditor/ckeditor5-angular
 - https://github.com/KillerCodeMonkey/ngx-quill
 - https://github.com/ayush013/ngx-quill-upload
-- https://github.com/reedsy/quill-cursors
-- https://github.com/taiga-family/editor
-- https://github.com/quilljs/quill
-- https://github.com/microsoft/monaco-editor
-- https://github.com/ProseMirror/prosemirror
 - https://github.com/alauda/ng-monaco-editor
-- https://github.com/TypeCellOS/BlockNote
 - https://github.com/worktile/slate-angular
-- https://github.com/kolkov/angular-editor
 - https://github.com/stevermeister/ngx-wig
-- https://github.com/ianstormtaylor/slate
+- https://github.com/kolkov/angular-editor
 - https://github.com/sibiraj-s/ngx-editor
-- https://github.com/holloway/doctored
-- https://github.com/ueberdosis/tiptap
-- https://github.com/acode/copenhagen
-- https://github.com/codemirror/dev/
-- https://github.com/zserge/awfice
-- https://github.com/udecode/plate
 
 ## ECOSYSTEM: LIB: COMPONENT: DRAG
 - https://github.com/daybrush/moveable

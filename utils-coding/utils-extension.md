@@ -7,6 +7,7 @@
 ## UTILS
 - https://github.com/vocably/hermes
 - https://github.com/extend-chrome/clipboard
+- https://github.com/extension-js/extension.js
 
 ## STARTER
 - https://github.com/larscom/ng-chrome-extension

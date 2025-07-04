@@ -101,7 +101,6 @@
 
 ## LIBS: ALL
 - https://github.com/opensearch-project/OpenSearch
-- https://github.com/joelittlejohn/jsonschema2pojo
 - https://github.com/adorsys/secure-token-service
 - https://github.com/supertokens/supertokens-core
 - https://github.com/williamfiset/Algorithms
@@ -127,11 +126,18 @@
 - https://github.com/my2iu/Jinq
 - https://github.com/ta4j/ta4j
 
+## LIBS: SCHEDULER
+- https://github.com/jobrunr/jobrunr
+- https://github.com/lukas-krecan/ShedLock
+- https://github.com/kagkarlsson/db-scheduler
+
 ## LIBS: TOOLS
 - https://github.com/shyiko/jabba
 - https://github.com/facebook/infer
+- https://github.com/jspecify/jspecify
 - https://github.com/openrewrite/rewrite
 - https://github.com/jhipster/prettier-java
+- https://github.com/joelittlejohn/jsonschema2pojo
 - http://www.javadecompilers.com/
 - https://www.moderne.ai/
 

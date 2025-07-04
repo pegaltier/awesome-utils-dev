@@ -47,3 +47,4 @@
 ## NOSQL / MONGO
 - https://github.com/mongodb-js/compass
 - https://github.com/FerretDB/FerretDB
+- https://github.com/skytable/skytable

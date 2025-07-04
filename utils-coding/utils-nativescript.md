@@ -3,6 +3,10 @@
 # NATIVESCRIPT 
 
 
+## ALTERNATIVE
+- https://github.com/facebook/react-native
+- https://github.com/lynx-family/lynx
+
 ## LEARN
 
 - https://www.routledge.com/Mastering-NativeScript-A-Beginners-Guide/Uzayr/p/book/9781032289731
@@ -39,9 +43,6 @@ Build for iOS without using Macs or Xcode – you can use your free or paid Appl
 Use connected devices and emulators to test and debug your apps.
 Publish into iTunes Connect for beta testing or distribution in the App Store.
 Publish to Google Play for beta testing or public distribution.
-
-## ALTERNATIVE
-- https://github.com/lynx-family/lynx
 
 ## LIB
 

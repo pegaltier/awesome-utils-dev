@@ -399,6 +399,7 @@ sudo certbot --apache -d hotelub.com -d www.hotelub.com # reconfigure
 - https://mergent.co/
 - https://github.com/mergentlabs
 - https://github.com/mergentlabs/mergent-js
+- https://github.com/cronitorio/cronitor-cli
 
 crontab -e
 
