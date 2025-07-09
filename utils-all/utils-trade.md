@@ -201,6 +201,7 @@
 - https://github.com/akfamily/awesome-data
 - https://github.com/JerBouma/FinanceDatabase
 - https://github.com/maxgfr/binance-historical *
+- https://github.com/defeat-beta/defeatbeta-api
 - https://github.com/datasets/exchange-rates-usd
 - https://github.com/gadicc/node-yahoo-finance2
 - https://github.com/Leo4815162342/dukascopy-node *
@@ -836,6 +837,7 @@
 - https://github.com/QuantJourneyOrg/public *
 - https://github.com/blankly-finance/blankly *
 - https://github.com/algobulls/pyalgotrading
+- https://github.com/StrateQueue/StrateQueue *
 - https://github.com/jmfernandes/robin_stocks
 - https://github.com/quantrocket-llc/moonshot
 - https://github.com/yasinkuyu/binance-trader
@@ -942,6 +944,7 @@
 - https://github.com/focus1691/chart-patterns
 - https://github.com/bennycode/trading-signals
 - https://github.com/tom-weatherhead/thaw-ta-math
+- https://github.com/shahradelahi/technical-analysis
 - https://github.com/stockastix/technical-indicators
 - https://github.com/rjbernaldo/technical-indicators
 - https://github.com/anandanand84/technicalindicators
@@ -991,8 +994,10 @@
 - https://github.com/leeoniya/uPlot
 
 ### OSS: JAVASCRIPT: CANDLES
+- https://github.com/SockTrader/SockTrader/blob/master/packages/core/src/lib/utils/aggregateCandles.ts
 - https://github.com/valamidev/candlestick-convert *
 - https://github.com/darklight9811/candlelit
+- https://github.com/adiled/ohlc-resample
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Flippo24/candles *
 

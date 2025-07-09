@@ -514,10 +514,10 @@
 - https://github.com/lukeautry/tsoa
 - https://github.com/zone-eu/zone-mta
 - https://github.com/sindresorhus/got
-- https://github.com/balderdashy/sails
 - https://github.com/OptimalBits/bull
-- https://github.com/taskforcesh/bullmq
 - https://github.com/directus/directus
+- https://github.com/balderdashy/sails
+- https://github.com/taskforcesh/bullmq
 - https://github.com/mikro-orm/mikro-orm
 - https://github.com/sequelize/sequelize
 - https://github.com/moleculerjs/moleculer

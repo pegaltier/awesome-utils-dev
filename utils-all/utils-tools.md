@@ -70,6 +70,7 @@
 - https://github.com/telegraf/telegraf
 - https://github.com/Denver-sn/whatsapp-api
 - https://github.com/pedroslopez/whatsapp-web.js
+- https://github.com/Secreto31126/whatsapp-api-js
 
 ## OSS: SOCIAL NETWORK
 - https://github.com/jdepoix/youtube-transcript-api
@@ -218,6 +219,7 @@
 
 ## OSS: PRODUCTIVITY
 - https://github.com/johannesjo/super-productivity
+- https://github.com/chrisvel/tududi
 
 ## OSS: COLLABORATE
 - https://github.com/daily-co
@@ -254,11 +256,12 @@
 # OSS: WEB
 - https://github.com/iamadamdev/bypass-paywalls-chrome
 
-## Diagram
+## OSS: DIAGRAM / FLOW
 - https://flowchart.fun/
 - https://excalidraw.com/
 - https://playground.diagram.codes/
 - https://github.com/cowchimp/source-viz
+- https://github.com/stan-smith/FossFLOW
 - https://github.com/excalidraw/excalidraw
 - https://github.com/dreampuf/GraphvizOnline
 

@@ -54,6 +54,7 @@
 - https://github.com/thirdweb-dev
 - https://github.com/subquery/subql
 - https://github.com/chubin/rate.sx
+- https://github.com/valamidev/ponder
 - https://github.com/marcj/bitcoin.ts
 - https://github.com/versatus/versatus
 - https://github.com/Agoric/agoric-sdk
@@ -265,6 +266,8 @@
 
 ## OSS WALLET
 - https://github.com/Someguy123/LiteVault
+- https://github.com/OneKeyHQ/app-monorepo
+- https://github.com/anza-xyz/wallet-adapter
 
 ## WALLET EXODUS TUTO
 - https://support.exodus.io/article/767-how-do-i-keep-my-money-safe
@@ -657,9 +660,14 @@ PANTOS — - https://pantos.io
 - https://github.com/solana-developers/template-react-vite-tailwind-counter
 - https://github.com/solana-program/create-solana-program
 - https://github.com/solana-labs/solana-program-library
+- https://github.com/solana-foundation/solana-web3.js
+- https://github.com/warp-id/solana-trading-bot
 - https://github.com/paul-schaaf/awesome-solana
 - https://github.com/vladmeer/copy-trading-bot
+- https://github.com/raydium-io/raydium-sdk-V2
+- https://github.com/anza-xyz/wallet-adapter
 - https://github.com/SurfSolana/SolSurfer
+- https://github.com/oboshto/tradie
 - https://github.com/hexishq/velos
 - https://smithii.io/en/
 - https://solcasino.io/

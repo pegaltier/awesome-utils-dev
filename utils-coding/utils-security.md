@@ -41,6 +41,7 @@
 ## ENCRYPTION
 - https://github.com/FiloSottile/awesome-age
 - https://github.com/serenity-kit/secsync
+- https://github.com/duplicati/duplicati
 - en.wikipedia.org/wiki/Caesar_cipher
 - www.bouncycastle.org/
 
@@ -58,6 +59,9 @@
 - https://www.vaultproject.io/
 - https://github.com/hashicorp/vault
 - https://github.com/Infisical/infisical
+- https://github.com/shahradelahi/vault-cli
+- https://github.com/shahradelahi/aes-object
+- https://github.com/shahradelahi/node-vault
 
 ## TOOLS: HOST
 - https://www.wiz.io/

@@ -457,7 +457,8 @@
 - https://github.com/ianstormtaylor/superstruct
 - https://github.com/koorchik/js-validator-livr
 
-## LIB: CACHING
+## LIB: CACHING / MEMORY
+- https://github.com/shahradelahi/storage-box
 - https://github.com/thinkloop/memoizerific
 - https://github.com/dai-shi/proxy-memoize
 - https://github.com/epicweb-dev/cachified
@@ -494,6 +495,7 @@
 - https://github.com/vercel/little-date
 - https://github.com/xxczaki/light-date
 - https://github.com/duetds/date-picker
+- https://github.com/shahradelahi/true-ms
 - https://github.com/spencermountain/spacetime
 - https://github.com/mymth/vanillajs-datepicker
 - https://github.com/fullcalendar/temporal-polyfill
@@ -550,6 +552,7 @@
 - https://github.com/micromark/micromark
 - https://github.com/Milkdown/milkdown
 - https://github.com/stoyan/Lizzy.js
+- https://github.com/markedjs/marked
 - https://github.com/typst/typst
 
 ## LIB: SWIPER
@@ -841,6 +844,7 @@
 - https://github.com/chartist-js/chartist
 - https://github.com/kbychkov/dailychart
 - https://github.com/Renumics/spotlight
+- https://github.com/keplergl/kepler.gl
 - https://github.com/finos/perspective
 - https://github.com/jacomyal/sigma.js
 - https://github.com/observablehq/plot
@@ -859,6 +863,7 @@
 - https://github.com/xyflow/xyflow
 - https://github.com/MotiaDev/motia
 - https://github.com/didi/LogicFlow
+- https://github.com/simstudioai/sim
 - https://github.com/kestra-io/kestra
 - https://github.com/samuelmtimbo/unit
 - https://github.com/jerosoler/Drawflow
@@ -902,7 +907,6 @@
 - https://github.com/aeroheim/midori
 - https://github.com/vidstack/player
 - https://github.com/lukeapage/pngjs
-- https://github.com/markedjs/marked
 - https://github.com/pqina/filepond
 - https://github.com/toddmotto/echo
 - https://github.com/greensock/GSAP
@@ -992,6 +996,7 @@
 ## LIB: AI: AGENT
 - https://github.com/SmythOS/sre
 - https://github.com/FellouAI/eko
+- https://github.com/elizaOS/eliza
 - https://github.com/firebase/genkit
 - https://github.com/mastra-ai/mastra
 - https://github.com/VoltAgent/voltagent
@@ -1197,6 +1202,7 @@
 ## LIB: GAME
 - https://github.com/mgechev/mk.js
 - https://github.com/straker/kontra
+- https://github.com/Tonejs/Tone.js
 - https://github.com/melonjs/melonJS
 - https://github.com/jhlywa/chess.js
 - https://github.com/olistic/warriorjs

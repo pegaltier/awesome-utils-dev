@@ -56,6 +56,7 @@
 - https://github.com/mlabonne/llm-course
 - https://github.com/eugeneyan/applied-ml
 - https://github.com/visenger/awesome-mlops
+- https://github.com/github/awesome-copilot
 - https://github.com/openai/openai-cookbook
 - https://github.com/best-of-ai/ai-directories
 - https://github.com/f/awesome-chatgpt-prompts
@@ -256,6 +257,7 @@
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
 - https://github.com/getAsterisk/claudia
+- https://github.com/bytedance/trae-agent
 - https://github.com/dagger/container-use
 - https://github.com/Integuru-AI/Integuru
 - https://github.com/opencode-ai/opencode
@@ -490,6 +492,7 @@
 - https://github.com/MotiaDev/motia
 - https://github.com/refly-ai/refly
 - https://github.com/inngest/inngest
+- https://github.com/simstudioai/sim
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/bytedance/flowgram.ai
 - https://github.com/triggerdotdev/trigger.dev
@@ -527,6 +530,7 @@
 - https://github.com/khoj-ai/khoj
 - https://github.com/FellouAI/eko
 - https://github.com/goat-sdk/goat
+- https://github.com/elizaOS/eliza
 - https://github.com/agno-agi/agno
 - https://github.com/letta-ai/letta
 - https://github.com/coleam00/Archon
@@ -781,6 +785,7 @@
 - https://github.com/getsentry/vitest-evals
 
 ## LIB: AUDIO / TTS / TRANSCRIPT
+- https://github.com/kyutai-labs/delayed-streams-modeling
 - https://github.com/modelscope/ClearerVoice-Studio
 - https://github.com/Meeting-Baas/transcript-seeker
 - https://github.com/jianchang512/ChatTTS-ui

@@ -37,6 +37,7 @@
 - https://github.com/localsend/localsend
 - https://github.com/peers/peerjs-server
 - https://github.com/markqvist/Reticulum
+- https://github.com/jackjackbits/bitchat
 - https://github.com/hyperswarm/dht-relay
 - https://github.com/ueberdosis/hocuspocus
 - https://github.com/ceramicnetwork/js-did

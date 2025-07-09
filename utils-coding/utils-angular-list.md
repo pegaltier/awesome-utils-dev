@@ -1705,6 +1705,7 @@ Learn how to make your own angular lib, build, distribute.
 - https://github.com/robinpellegrims/pellegrims
 - https://github.com/mathpaquette/tskmgr
 - https://github.com/BioPhoton/nx-validators
+- https://github.com/HaasStefan/nxdb
 - https://github.com/brunos3d/nx-rescope
 - https://github.com/nxkit/nxkit
 - https://github.com/altack/nx-bundlefy

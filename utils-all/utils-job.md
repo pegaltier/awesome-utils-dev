@@ -7,6 +7,7 @@ Agent pour développeurs haut-niveau
 - https://github.com/Hellnar/openings
 - https://github.com/awesome-jobs/vietnam
 - https://github.com/remoteintech/remote-jobs
+- https://github.com/Zippland/worth-calculator
 - https://github.com/tBaxter/questions-for-employers
 - https://github.com/poteto/hiring-without-whiteboards
 - https://github.com/eigenfunk/freelance-recruiting-de
