@@ -29,6 +29,7 @@
 - https://github.com/NirDiamant/agents-towards-production
 
 ## VIDEOS
+- https://youtu.be/ZuiJjkbX0Og How LLMs work for Web Devs: GPT in 600 lines of Vanilla JS - Ishan Anand
 - https://youtu.be/85GKLbqEu08 I Made an AI Automated Youtube Channel - Here's What Happened in 30 Days
 - https://youtu.be/lqXWVzWkkyc I Made 700 Monetizable YouTube Shorts for Faceless Channel in 18 MINUTES
 - https://youtu.be/fCUkvL0mbxI Training Your Own AI Model Is Not As Hard As You (Probably) Think
@@ -638,6 +639,7 @@
 - https://github.com/OpenGVLab/InternVL
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/jtmuller5/The-HustleGPT-Challenge
+- https://github.com/ianand/spreadsheets-are-all-you-need
 - https://github.com/binyoon99/chatGPT3.5-fortuneTelling-AI
 - https://github.com/onuratakan/gpt-computer-assistant
 - https://github.com/Significant-Gravitas/Auto-GPT
