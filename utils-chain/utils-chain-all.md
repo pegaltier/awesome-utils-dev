@@ -265,6 +265,7 @@
 - https://trello.com/b/5nQ1mdzt/ledger-roadmap
 
 ## OSS WALLET
+- https://github.com/RabbyHub/Rabby
 - https://github.com/Someguy123/LiteVault
 - https://github.com/OneKeyHQ/app-monorepo
 - https://github.com/anza-xyz/wallet-adapter

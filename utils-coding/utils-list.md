@@ -4,6 +4,7 @@
 ## LIST EN
 
 - https://github.com/sindresorhus/awesome
+- https://github.com/ripienaar/free-for-dev
 - https://github.com/Onelinerhub/onelinerhub
 - https://github.com/alemesa/webdev-resources
 - https://github.com/daryllxd/lifelong-learning

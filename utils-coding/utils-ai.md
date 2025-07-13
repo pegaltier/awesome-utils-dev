@@ -233,6 +233,7 @@
 - https://github.com/block/goose
 - https://github.com/openai/codex
 - https://github.com/wandb/openui
+- https://github.com/dyad-sh/dyad
 - https://github.com/sst/opencode
 - https://github.com/oraios/serena
 - https://github.com/Ironclad/rivet
@@ -257,6 +258,7 @@
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
 - https://github.com/getAsterisk/claudia
+- https://github.com/NomenAK/SuperClaude
 - https://github.com/bytedance/trae-agent
 - https://github.com/dagger/container-use
 - https://github.com/Integuru-AI/Integuru
@@ -267,6 +269,7 @@
 - https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
 - https://github.com/trypear/pearai-master
+- https://github.com/siteboon/claudecodeui
 - https://github.com/mannaandpoem/OpenManus
 - https://github.com/huggingface/llm-vscode
 - https://github.com/abi/screenshot-to-code
@@ -288,6 +291,7 @@
 - https://github.com/gpt-engineer-org/gpt-engineer
 - https://github.com/anthropics/claude-code-action
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
+- https://github.com/textcortex/claude-code-sandbox
 - https://github.com/eyaltoledano/claude-task-master
 - https://github.com/OpenInterpreter/open-interpreter
 
@@ -500,6 +504,7 @@
 
 ## LIB: WORKFLOW / CONTENT CREATION : N8N
 - https://github.com/Zie619/n8n-workflows
+- https://github.com/DragonJAR/n8n-workflows-es
 - https://github.com/n8n-io/self-hosted-ai-starter-kit
 - https://youtu.be/ZKufsoGjr-U This AI Factory just made a 122 Million-view Tiktok
 - https://youtu.be/ldETapkr8Hg I Built a Marketing Team with 1 AI Agent and No Code
@@ -618,6 +623,7 @@
 - https://github.com/getdatanaut/openmcp
 - https://github.com/upstash/context7
 - https://github.com/punkpeye/fastmcp
+- https://github.com/lirantal/ls-mcp
 - https://github.com/anthropics/dxt
 
 ## LIB: BPE

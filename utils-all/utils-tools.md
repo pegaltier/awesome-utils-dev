@@ -152,6 +152,7 @@
 - https://github.com/fonoster/goodtok
 - https://github.com/iv-org/invidious
 - https://github.com/caorushizi/mediago
+- https://github.com/OpenCut-app/OpenCut
 - https://github.com/mazeincoding/AppCut
 - https://github.com/alyssaxuu/screenity
 - https://github.com/TeamNewPipe/NewPipe

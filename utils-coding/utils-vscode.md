@@ -10,6 +10,9 @@
 - https://devfonts.gafi.dev
 - https://vscodethemes.com
 
+## CONTAINER
+- https://github.com/michidk/vscli
+
 ## ALTERNATIVE
 - https://github.com/zed-industries/zed
 

@@ -998,6 +998,7 @@
 - https://github.com/valamidev/candlestick-convert *
 - https://github.com/darklight9811/candlelit
 - https://github.com/adiled/ohlc-resample
+- https://github.com/ourarash/heikinashi
 - https://github.com/cm45t3r/candlestick
 - https://github.com/Flippo24/candles *
 

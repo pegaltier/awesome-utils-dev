@@ -55,6 +55,7 @@
 - https://github.com/nodejs/amaro
 - https://github.com/rollup/rollup
 - https://github.com/huozhi/bunchee
+- https://github.com/colinhacks/zshy
 - https://github.com/swc-project/swc
 - https://github.com/unjs/webpackbar
 - https://github.com/rolldown/rolldown
@@ -494,11 +495,15 @@
 - https://github.com/vercel/og-image
 - https://github.com/mnfst/manifest
 - https://github.com/nitrojs/nitro
+- https://github.com/h3js/crossws
 - https://github.com/novuhq/novu
 - https://github.com/unjs/nitro
 - https://github.com/panva/jose
 - https://github.com/trpc/trpc
+- https://github.com/h3js/rou3
+- https://github.com/h3js/srvx
 - https://github.com/unjs/h3
+- https://github.com/h3js/h3
 
 ## FRAMEWORKS
 

@@ -579,6 +579,7 @@
 - https://github.com/elastic/app-search-javascript
 - https://github.com/elastic/elasticsearch-js
 - https://github.com/meilisearch/meilisearch
+- https://github.com/FurkanToprak/OkapiBM25
 - https://github.com/riccox/meilisearch-ui
 - https://github.com/lucaong/minisearch
 - https://github.com/bvaughn/js-search
