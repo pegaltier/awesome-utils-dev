@@ -1004,6 +1004,7 @@
 - https://github.com/bmadcode/BMAD-METHOD
 - https://github.com/liveloveapp/hashbrown
 - https://github.com/openai/openai-realtime-agents
+- https://github.com/ephemeraHQ/xmtp-agent-examples
 
 ## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK
 - https://github.com/harthur/brain
@@ -1222,6 +1223,7 @@
 
 ## LIB: FORM
 - https://github.com/heyform/heyform
+- https://github.com/fabian-hiller/formisch
 
 ## ALLIN
 - https://github.com/vendure-ecommerce/vendure

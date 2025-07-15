@@ -2384,6 +2384,7 @@ Analyze and optimize the performance of your app
 - https://github.com/e-square-io/bdir
 - https://github.com/ngneat/transloco
 - https://github.com/fkirc/attranslate
+- https://github.com/crimx/ext-saladict
 - https://github.com/tolgee/ngx-example
 - https://github.com/ngx-translate/core
 - https://github.com/WeblateOrg/weblate

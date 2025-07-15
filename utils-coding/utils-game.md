@@ -3,6 +3,10 @@
 ## EMULATOR
 - https://github.com/PCSX2/pcsx2
 
+## LIB: GAME
+- https://github.com/OpenRCT2/OpenRCT2
+- https://github.com/SFTtech/openage
+
 ## LIB: ALL
 - https://github.com/shrekshao/gltf-avatar-threejs
 - https://github.com/ProjectUnifree/unifree

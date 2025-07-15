@@ -66,11 +66,13 @@
 ## EXTENSIONS: THEMES
 - https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave
 
-## OPENSOURCE
+## OSS: STARTER
 
 - https://github.com/microsoft/vscode-extension-samples
-- https://github.com/estruyf/vscode-front-matter
 
+## OSS: EXTENSIONS
+- https://github.com/estruyf/vscode-demo-time
+- https://github.com/estruyf/vscode-front-matter
 
 ## TOOLS
 - https://github.com/DonJayamanne/typescript-notebook

@@ -287,7 +287,6 @@
 - https://github.com/2-fly-4-ai/V0-system-prompt
 - https://github.com/coderabbitai/ai-pr-reviewer
 - https://github.com/Doriandarko/claude-engineer
-- https://github.com/spdustin/ChatGPT-AutoExpert
 - https://github.com/aws-samples/bedrock-engineer
 - https://github.com/gpt-engineer-org/gpt-engineer
 - https://github.com/anthropics/claude-code-action
@@ -295,6 +294,7 @@
 - https://github.com/textcortex/claude-code-sandbox
 - https://github.com/eyaltoledano/claude-task-master
 - https://github.com/OpenInterpreter/open-interpreter
+
 
 ## TOOLS: CODING: OSS PROMPT RULES
 - https://github.com/snarktank/ai-dev-tasks
@@ -305,12 +305,19 @@
 - https://github.com/x1xhlol/v0-system-prompts-models-and-tools
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
+## TOOLS: DESIGN: OSS
+- https://github.com/superdesigndev/superdesign
+
 ## TOOLS: TEST
 - https://github.com/promptfoo/promptfoo
 
 ## TOOLS: CODING: IDE
 - https://github.com/voideditor/void
 - https://github.com/codestoryai/aide
+
+## TOOLS: CHATGPT
+- https://github.com/spdustin/ChatGPT-AutoExpert
+- https://github.com/pionxzh/chatgpt-exporter
 
 ## TOOLS: TEXT / DOCS / PDF
 - https://pdf.ai/
@@ -697,6 +704,7 @@
 
 ## LIB: VLM / VISION
 - https://github.com/THUDM/CogAgent
+- https://github.com/vllm-project/vllm
 - https://github.com/sgl-project/sglang
 
 ## LIB: LLM
@@ -788,6 +796,10 @@
 - https://github.com/tinygrad/tinygrad
 - https://github.com/karpathy/micrograd
 - https://github.com/microsoft/DeepSpeed
+
+## LIB: INFERENCE
+- https://github.com/trymirai/uzu
+
 
 ## LIB: EVALS
 - https://github.com/getsentry/vitest-evals

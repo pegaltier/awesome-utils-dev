@@ -93,6 +93,9 @@
 - https://github.com/afadil/wealthfolio
 - https://github.com/Expensify/App
 
+## OSS: INVOICE
+- https://github.com/al1abb/invoify
+
 ## OSS: EMAIL
 - https://github.com/un/inbox
 - https://github.com/Mail-0/Zero

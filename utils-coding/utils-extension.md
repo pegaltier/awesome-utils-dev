@@ -6,6 +6,7 @@
 
 ## UTILS
 - https://github.com/vocably/hermes
+- https://github.com/scriptscat/scriptcat
 - https://github.com/extend-chrome/clipboard
 - https://github.com/extension-js/extension.js
 

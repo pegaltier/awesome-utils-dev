@@ -226,6 +226,7 @@
 - https://nexustrade.io/
 - https://forextester.com/
 - https://cryptoquant.dev/
+- https://stratgensoft.com/
 - https://www.naked-markets.com/
 - https://flash-research.com/
 - https://www.tradingview.com/

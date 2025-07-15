@@ -233,6 +233,7 @@
 - https://github.com/segmentio/evergreen
 - https://github.com/palantir/blueprint
 - https://github.com/microsoft/fluentui
+- https://github.com/haydenbleasel/kibo
 - https://github.com/mantinedev/mantine
 - https://github.com/caplin/FlexLayout
 - https://github.com/nextui-org/nextui
