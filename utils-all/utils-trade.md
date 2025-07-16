@@ -922,6 +922,9 @@
 - https://github.com/compute-io
 - https://github.com/thisancog/statistics.js
 
+### OSS: JAVASCRIPT: STOCKS
+- https://github.com/mnsrulz/mytradingview
+
 ### OSS: JAVASCRIPT: INDICATORS
 - https://github.com/doowb/sma
 - https://github.com/compute-io

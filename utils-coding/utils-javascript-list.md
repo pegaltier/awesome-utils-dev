@@ -1217,6 +1217,7 @@
 - https://github.com/KilledByAPixel/LittleJS
 - https://github.com/gruhn/typescript-sudoku
 - https://github.com/memetic-institute/The-Fed
+- https://github.com/kirodotdev/spirit-of-kiro
 - https://github.com/prettymuchbryce/easystarjs
 - https://github.com/BenjaminAster/CSS-Minecraft
 - https://github.com/Richard-Strittmatter/JuanTap
