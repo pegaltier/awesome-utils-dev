@@ -499,15 +499,16 @@
 - https://github.com/novuhq/novu
 - https://github.com/unjs/nitro
 - https://github.com/panva/jose
-- https://github.com/trpc/trpc
 - https://github.com/h3js/rou3
 - https://github.com/h3js/srvx
 - https://github.com/unjs/h3
 - https://github.com/h3js/h3
 
-## FRAMEWORKS
-
+## SERVER: RPC
 - https://github.com/trpc/trpc
+- https://github.com/maloguertin/msw-trpc
+
+## FRAMEWORKS
 - https://github.com/hexojs/hexo
 - https://github.com/nestjs/nest
 - https://github.com/tsedio/tsed

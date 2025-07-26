@@ -923,7 +923,10 @@
 - https://github.com/thisancog/statistics.js
 
 ### OSS: JAVASCRIPT: STOCKS
+- https://github.com/insionCEO/High-performance-TradingExchange-Next.js-
+- https://github.com/iamping/us-rs-screener
 - https://github.com/mnsrulz/mytradingview
+- https://github.com/jovinjijo/se
 
 ### OSS: JAVASCRIPT: INDICATORS
 - https://github.com/doowb/sma
@@ -991,10 +994,13 @@
 - https://github.com/alenjohn05/EquiCharts
 - https://github.com/tvjsx/trading-vue-js
 - https://github.com/andredumas/techan.js
+- https://github.com/topics/stock-chart
 - https://github.com/jones2000/HQChart
 - https://github.com/chartjs/Chart.js
+- https://github.com/seerline/clchart
 - https://github.com/klinecharts/pro
 - https://github.com/apache/superset
+- https://github.com/ZhnZhn/ta-chart
 - https://github.com/leeoniya/uPlot
 
 ### OSS: JAVASCRIPT: CANDLES

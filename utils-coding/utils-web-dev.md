@@ -623,7 +623,6 @@ emit/receive : https://github.com/quiet/quiet-js
 
 ## CREATIVE RESOURCES
 - https://tympanus.net/codrops/demos/
-- https://daniel.do/article/making-noisy-svgs/
 - https://alex.dytry.ch/toys/infinite-scroll/
 - https://codyhouse.co/nuggets/text-gradients
 - https://codepen.io/cassie-codes/full/RwRORqB
@@ -690,6 +689,21 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/Ritika-Agrawal811/css-and-js-code-snippets
 - https://martinlaxenaire.medium.com/portfolio-2021-technical-case-study-rendering-a-whole-html-website-in-webgl-1cd2982c2050
 - https://tympanus.net/codrops/2024/02/28/exploring-3d-effects-with-2d-optical-illusions/
+
+## CREATIVE GRAINY / NOISY
+- https://stackoverflow.com/questions/79563214/how-to-recreate-a-grainy-gradient-background-using-svg
+- https://www.youtube.com/watch?v=_ZFghigBmqo I tried designing and coding grainy textures for a week
+- https://codepen.io/Juxtopposed/pens/public?cursor=ZD0xJm89MCZwPTEmdj02ODAzMzE5OQ==
+- https://codepen.io/Juxtopposed/pen/vYVXgrG Grainy Gradient (Daily Design + Code #2)
+- https://codepen.io/Juxtopposed/pen/BaqLEQY Grainy Gradient, Gaussian Blur (Daily Design + Code #3)
+- https://codepen.io/Juxtopposed/pen/ZEqOWxv Grainy Gradient Texture, CSS Grid (Daily Design + Code #1)
+- https://codepen.io/Juxtopposed/pen/zYmoRKo Grainy Gradient, Card, Hover Effect, Border Gradient (Daily Design + Code #4)
+- https://github.com/juxtopposed?tab=repositories juxtopposed (juxtopposed) / Repositories · GitHub
+- https://github.com/sarathsaleem/grained GitHub - sarathsaleem/grained: Generate animated noise texture with grained.js
+- https://github.com/cjimmy/grainy-gradients GitHub - cjimmy/grainy-gradients: CSS Noise gradient generator
+- https://github.com/danielimmke/noisy-shapes GitHub - danielimmke/noisy-shapes
+- https://daniel.do/article/making-noisy-svgs/ Making noisy SVGs — Daniel Immke
+- https://css-tricks.com/grainy-gradients/ Grainy Gradients | CSS-Tricks
 
 ## CREATIVE COURSES
 - https://www.youtube.com/watch?v=zVbLR7rI8ZU David Khourshid - Behind the Illusions: Impossibly high-performance layout animations

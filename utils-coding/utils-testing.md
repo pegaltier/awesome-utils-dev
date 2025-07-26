@@ -160,31 +160,35 @@
 
 ## UTILS: PLAYWRIGHT TOOLS
 - https://github.com/playwrightsolutions/playwright-practicesoftwaretesting.com
-- https://github.com/playwrightsolutions/playwright-api-test-demo
 - https://github.com/playwrightsolutions/playwright-json-summary-reporter
 - https://github.com/playwright-community/eslint-plugin-playwright
 - https://github.com/playwright-community/playwright-jest-examples
-- https://github.com/playwright-community/playwright-community
 - https://github.com/playwright-community/playwright-ng-schematics
-- https://github.com/jfgreffier/playwright-component-demos
-- https://github.com/currents-dev/playwright-gh-actions-demo
+- https://github.com/playwright-community/playwright-community
+- https://github.com/microsoft/playwright-testing-service
+- https://github.com/vitalets/playwright-webhook-reporter
+- https://github.com/vitalets/playwright-network-cache
+- https://github.com/vitalets/playwright-magic-steps
+- https://github.com/vitalets/playwright-fix-with-ai
+- https://github.com/vitalets/playwright-bdd
 - https://github.com/jfgreffier/incroyable-playwright
 - https://github.com/sebastiancarlos/beachpatrol
 - https://github.com/microsoft/playwright-test
 - https://github.com/valendres/playwright-msw
 - https://github.com/BuilderIO/gpt-crawler
 - https://github.com/mxschmitt/try-playwright
-- https://github.com/vitalets/playwright-bdd
-- https://github.com/vitalets/playwright-fix-with-ai
-- https://github.com/vitalets/playwright-magic-steps
-- https://github.com/vitalets/playwright-network-cache
-- https://github.com/vitalets/playwright-webhook-reporter
-- https://github.com/microsoft/playwright-testing-service
 - https://github.com/HamedFathi/screen.play.write
 - https://github.com/berstend/puppeteer-extra
 - https://github.com/testronaut/testronaut
+- https://github.com/mswjs/playwright
 - https://github.com/DyHex/POMWright
 - https://github.com/mxschmitt
+
+## UTILS: PLAYWRIGHT EXAMPLE / DEMO
+- https://github.com/playwrightsolutions/playwright-api-test-demo
+- https://github.com/currents-dev/playwright-gh-actions-demo
+- https://github.com/jfgreffier/playwright-component-demos
+- https://github.com/jmorenoo23/qa-playwright-ia
 
 ## UTILS: PLAYWRIGHT LINKS
 - https://discord.com/servers/playwright-807756831384403968

@@ -277,6 +277,7 @@
 - http://www.bittbox.com
 - http://www.designfreebies.com
 - https://wweb.dev/resources/animated-css-background-generator
+- https://github.com/Leo4815162342/football-logos
 
 ## MOCKUPS
 - https://www.mockupworld.co

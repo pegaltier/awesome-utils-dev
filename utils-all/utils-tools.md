@@ -74,6 +74,7 @@
 
 ## OSS: SOCIAL NETWORK
 - https://github.com/jdepoix/youtube-transcript-api
+- https://github.com/cdw1p/IG-Auto-Story-View
 - https://github.com/humanwhocodes/crosspost
 - https://github.com/gitroomhq/postiz-app
 - https://github.com/anti-work/iffy
@@ -82,8 +83,9 @@
 ## OSS: LEARN
 - https://github.com/cuixueshe/earthworm
 
-## OSS: FILES
+## OSS: FILES / CONVERT
 - https://github.com/sxyazi/yazi
+- https://github.com/C4illin/ConvertX
 - https://github.com/stonith404/pingvin-share
 
 ## OSS: FINANCE

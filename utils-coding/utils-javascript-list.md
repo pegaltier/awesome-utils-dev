@@ -839,7 +839,6 @@
 - https://github.com/bprusinowski/plotteus
 - https://github.com/cube-js/awesome-tools
 - https://github.com/briefercloud/briefer
-- https://github.com/williamtroup/Heat.js
 - https://github.com/gionkunz/chartist-js
 - https://github.com/jagenjo/litegraph.js
 - https://github.com/chartist-js/chartist
@@ -853,11 +852,17 @@
 - https://github.com/chartjs/Chart.js
 - https://github.com/benfred/venn.js
 - https://github.com/leeoniya/uPlot
-- https://github.com/pa7/heatmap.js
 - https://github.com/danvk/dygraphs
 - https://github.com/mdaines/viz-js
 - https://github.com/visgl/deck.gl
 - https://github.com/d3fc/d3fc
+
+## LIB: DATAVIZ / HEATMAP
+- https://github.com/pa7/heatmap.js
+- https://github.com/wa0x6e/cal-heatmap
+- http://mourner.github.io/simpleheat/
+- https://github.com/williamtroup/Heat.js
+- https://blog.logrocket.com/create-heatmaps-javascript/
 
 ## LIB: WORKFLOW / PIPES / FLOWCHART / MIDDLEWARE
 - https://github.com/enso-org/enso

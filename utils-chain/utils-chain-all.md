@@ -53,6 +53,7 @@
 - https://github.com/ipfs/js-ipfs
 - https://github.com/thirdweb-dev
 - https://github.com/subquery/subql
+- https://github.com/OrderlyNetwork
 - https://github.com/chubin/rate.sx
 - https://github.com/valamidev/ponder
 - https://github.com/marcj/bitcoin.ts
@@ -84,6 +85,9 @@
 ## TOP DEV: TRADE
 - https://github.com/muffin819/pumpfun-bundler
 - https://github.com/knightworlds/Raydium-Volume-Bot
+
+## HACK
+- https://github.com/cdw1p/evm-crypto-bruteforce
 
 ## QUOTES/ACTIVITY
 - http://charts.woobull.com

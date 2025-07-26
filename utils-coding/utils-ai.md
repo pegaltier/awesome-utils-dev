@@ -622,6 +622,7 @@
 - https://github.com/modelcontextprotocol/servers
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/leonardsellem/n8n-mcp-server
+- https://github.com/gioboa/mcp-typescript-sdk
 - https://github.com/exa-labs/exa-mcp-server
 - https://github.com/sooperset/mcp-atlassian
 - https://github.com/GLips/Figma-Context-MCP
@@ -817,6 +818,7 @@
 - https://github.com/FunAudioLLM/CosyVoice
 - https://github.com/myshell-ai/OpenVoice
 - https://github.com/SparkAudio/Spark-TTS
+- https://github.com/boson-ai/higgs-audio
 - https://github.com/bytedance/MegaTTS3
 - https://github.com/kyutai-labs/moshi
 - https://github.com/xming521/WeClone
