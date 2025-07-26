@@ -892,6 +892,7 @@
 - https://github.com/steveruizok/perfect-arrows
 - https://github.com/mjackson/multipart-parser
 - https://github.com/vidstack/media-captions
+- https://github.com/tapioca24/videojs-logo
 - https://github.com/ColonelParrot/jscanify
 - https://github.com/neplextech/vectorizer
 - https://github.com/pingdotgg/uploadthing
