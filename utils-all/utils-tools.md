@@ -323,6 +323,7 @@
 - https://github.com/AppFlowy-IO/AppFlowy
 - https://github.com/sissbruecker/linkding
 - https://github.com/graydon/obsidian-html
+- https://github.com/pieces-app/documentation
 - https://github.com/hadynz/obsidian-sidekick
 - https://github.com/AlexW00/obsidian-3d-graph
 - https://github.com/tanepiper/obsidian-garden
