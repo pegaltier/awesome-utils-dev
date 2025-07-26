@@ -294,6 +294,7 @@
 - https://github.com/textcortex/claude-code-sandbox
 - https://github.com/eyaltoledano/claude-task-master
 - https://github.com/OpenInterpreter/open-interpreter
+- https://github.com/shareAI-lab/analysis_claude_code
 
 
 ## TOOLS: CODING: OSS PROMPT RULES
@@ -531,8 +532,10 @@
 - https://github.com/codelion/openevolve
 
 ## LIB: MULTI AGENT
+- https://github.com/OpenPipe/ART
 - https://github.com/crewAIInc/crewAI
 - https://github.com/microsoft/TinyTroupe
+- https://github.com/bmadcode/BMAD-METHOD
 - https://github.com/openai/openai-realtime-agents
 
 ## LIB: AGENTIC FRAMEWORK
@@ -823,6 +826,7 @@
 - https://github.com/kyutai-labs/moshi
 - https://github.com/xming521/WeClone
 - https://github.com/yl4579/StyleTTS2
+- https://github.com/Jackywine/Bella
 - https://github.com/2noise/ChatTTS
 - https://github.com/hexgrad/kokoro
 - https://github.com/nari-labs/dia

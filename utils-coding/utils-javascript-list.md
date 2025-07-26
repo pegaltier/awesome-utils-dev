@@ -617,7 +617,9 @@
 - https://github.com/Riim/cellx
 - https://github.com/cujojs/most
 - https://github.com/adamhaile/S
+- https://github.com/art-bazhin/spred
 - https://github.com/fynyky/reactor.js
+- https://github.com/electric-sql/d2ts
 
 ## LIB: HARDWARE
 - https://github.com/svendahlstrand/web-serial-api

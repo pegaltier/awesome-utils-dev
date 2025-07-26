@@ -234,6 +234,9 @@
 - https://github.com/logrocket
 - https://github.com/hotjar
 
+## TOOLS: ANALYSIS
+- https://github.com/HTTPArchive/wappalyzer
+
 ## AWESOME
 
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
@@ -588,6 +591,7 @@ emit/receive : https://github.com/quiet/quiet-js
 - https://github.com/benjamminf/warpjs
 - https://github.com/qrohlf/trianglify
 - https://github.com/schmelczer/sdf-2d
+- https://github.com/Domenicobrz/Lumen-2D
 - https://github.com/sparkbox/bouncy-ball
 - https://github.com/davidkpiano/flipping
 - https://github.com/magicuidesign/magicui

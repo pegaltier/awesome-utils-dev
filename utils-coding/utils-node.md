@@ -238,6 +238,7 @@
 - https://github.com/AmitDigga/fabric-video-editor
 - https://github.com/bilashcse/video-editor
 - https://github.com/ClipsAI/video-editor
+- https://github.com/Vanilagy/mediabunny
 - https://github.com/drawcall/FFAIVideo
 - https://github.com/mifi/lossless-cut
 - https://github.com/tnfe/FFCreator

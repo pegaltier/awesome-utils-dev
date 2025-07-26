@@ -232,6 +232,7 @@
 - https://authc1.com/
 - https://ssoready.com/
 - https://www.smspartner.fr/
+- https://github.com/bknd-io/bknd
 - https://github.com/supabase/auth
 - https://github.com/logto-io/logto
 - https://github.com/teamhanko/hanko

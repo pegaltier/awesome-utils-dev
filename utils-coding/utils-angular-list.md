@@ -2442,7 +2442,6 @@ Analyze and optimize the performance of your app
 - https://github.com/tonysamperi/ngx-popperjs
 - https://github.com/matteobruni/tsparticles
 - https://github.com/tsparticles/tsparticles
-- https://github.com/KroneCorylus/ngx-colors
 - https://github.com/AhsanAyaz/ngx-read-time
 - https://github.com/code-farmz/ng-otp-input
 - https://github.com/leovo2708/ngx-treeview
@@ -2531,6 +2530,11 @@ Analyze and optimize the performance of your app
 - https://github.com/daybrush/selecto
 - https://github.com/ngneat/dag
 - https://github.com/omnedia many
+
+## ECOSYSTEM: LIB: COMPONENT: COLOR
+- https://github.com/mr-samani/ngx-input-color
+- https://github.com/KroneCorylus/ngx-colors
+- https://github.com/pIvan/ngx-color-picker
 
 ## ECOSYSTEM: LIB: COMPONENT: ALERT / TOAST / SNACKBAR / NOTIF
 - https://github.com/scttcper/ngx-toastr

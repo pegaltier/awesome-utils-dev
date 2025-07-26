@@ -5,6 +5,7 @@ Agent pour développeurs haut-niveau
 
 ## OSS: JOBS
 - https://github.com/Hellnar/openings
+- https://github.com/srbhr/Resume-Matcher
 - https://github.com/awesome-jobs/vietnam
 - https://github.com/remoteintech/remote-jobs
 - https://github.com/Zippland/worth-calculator
