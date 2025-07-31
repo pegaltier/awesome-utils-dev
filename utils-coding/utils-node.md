@@ -428,10 +428,12 @@
 
 ## LIBS: CLI / PROMPTS
 - https://github.com/cacjs/cac
+- https://github.com/dthree/vorpal
 - https://github.com/terkelg/prompts
 - https://github.com/jasonkuhrt/molt
 - https://github.com/vadimdemedes/ink
 - https://github.com/arcanis/clipanion
+- https://github.com/sindresorhus/meow
 - https://github.com/tunnckoCore/zodest
 - https://github.com/npkgz/cli-progress
 - https://github.com/vadimdemedes/pastel
@@ -439,6 +441,7 @@
 - https://github.com/mattallty/Caporal.js
 - https://github.com/tinylibs/picospinner
 - https://github.com/SBoudrias/Inquirer.js
+- https://github.com/visionmedia/node-progress
 - https://docs.npmjs.com/cli/ci.html
 - https://github.com/lirantal/nodejs-cli-apps-best-practices
 - https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
