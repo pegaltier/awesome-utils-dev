@@ -41,6 +41,12 @@
 - https://www.docks.ch/
 - https://ttll.ch/
 
+## Swiss hiking
+- https://rando-en-boucle.ch/
+- Haut de caux <> Rocher de Naye => Hard and long but beautiful
+- Leysin Feydey <> Tour de Mayen => Hard and long but easy to find
+- Adelboden <> Engstligenfalle => Easy and short and very easy to find, 10km back and forth
+
 ## Italy
 - https://www.idealista.it/en/
 
