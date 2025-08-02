@@ -8,4 +8,5 @@ Generate documentation from markdown files.
 - https://github.com/remorses/dokz
 - https://github.com/honkit/honkit
 - https://github.com/thlorenz/doctoc
+- https://github.com/outline/outline
 - https://github.com/backstage/backstage

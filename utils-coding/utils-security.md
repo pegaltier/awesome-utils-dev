@@ -103,6 +103,7 @@
 - https://github.com/boringtools/git-alerts
 - https://github.com/sammwyy/MikuMikuBeam
 - https://github.com/google/csp-evaluator
+- https://github.com/oxsecurity/codetotal
 - https://github.com/chromium/badssl.com
 - https://github.com/mitmproxy/mitmproxy
 - https://github.com/ndelphit/apkurlgrep

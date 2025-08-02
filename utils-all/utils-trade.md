@@ -968,6 +968,7 @@
 - https://github.com/No-Trade-No-Life/Yuan
 - https://github.com/SockTrader/SockTrader
 - https://github.com/Open-Trader/opentrader
+- https://github.com/michaelgrosner/tribeca
 - https://github.com/JeffreyHyer/grandmaster
 - https://github.com/focus1691/backtest-loop
 - https://github.com/chalupagrande/backtester
