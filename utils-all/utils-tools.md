@@ -209,6 +209,7 @@
 - https://github.com/linuxserver/docker-wireguard
 - https://github.com/mickael-kerjean/filestash
 - https://github.com/filebrowser/filebrowser
+- https://github.com/sourcebot-dev/sourcebot
 - https://github.com/ballerine-io/ballerine
 - https://github.com/creativecreature/pulse
 - https://github.com/josdejong/jsonrepair
@@ -311,7 +312,7 @@
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/BrambleXu/knowledge-graph-learning
 
-## Organise / text notes
+## Organise / text notes / memory
 - https://github.com/noduslabs/
 - https://github.com/Zettlr/Zettlr
 - https://github.com/codexu/note-gen

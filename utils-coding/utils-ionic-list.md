@@ -38,7 +38,6 @@
 - https://github.com/javebratt/ionic-angular-firebase-authentication-starter
 
 ## LIBS: IONIC
-
 - https://github.com/amarkes/br-mask
 - https://github.com/ionic-team/trapeze
 - https://github.com/zyra/ionic-super-tabs
@@ -46,6 +45,7 @@
 - https://github.com/hsuanxyz/ion2-calendar
 - https://github.com/ryanehrler/ngx-mask-ionic
 - https://github.com/eakoriakin/ionic-selectable
+- https://github.com/ionic-snippets/ionic-components
 - https://github.com/fivethree-team/ngxs-ionic-router-plugin
 
 ## LIBS: CAPACITOR

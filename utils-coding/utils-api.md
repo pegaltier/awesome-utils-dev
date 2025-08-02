@@ -118,6 +118,9 @@
 - https://github.com/mock-server/mockserver
 - https://github.com/typicode/jsonplaceholder
 
+## SERVER
+- https://github.com/9001/copyparty
+
 ## SERVERLESS
 - https://github.com/firebase/
 - https://github.com/nhost/nhost

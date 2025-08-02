@@ -783,6 +783,7 @@
 ## LIB: FRONTEND ANIMATION
 - https://github.com/Popmotion/popmotion
 - https://github.com/juliangarnier/anime
+- https://github.com/juliangarnier/anime
 - https://github.com/joyco-studio/marquee
 - https://github.com/prjct-samwest/scrollCue
 
@@ -939,6 +940,8 @@
 - https://github.com/shakiba/planck.js
 - https://github.com/mapbox/delaunator
 - https://github.com/KhronosGroup/glTF
+- https://github.com/playcanvas/editor
+- https://github.com/playcanvas/engine
 - https://github.com/xiangechen/chili3d
 - https://github.com/repalash/threepipe
 - https://github.com/theatre-js/theatre
@@ -1260,6 +1263,7 @@
 - https://realtalkjavascript.simplecast.com/
 
 ## API / SOCIAL NETWORK
+- https://github.com/devlikeapro/waha
 - https://github.com/discordjs/discord.js
 - https://github.com/humanwhocodes/crosspost
 - https://github.com/groupultra/telegram-search

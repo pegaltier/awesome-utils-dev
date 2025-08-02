@@ -88,6 +88,7 @@
 - https://blackblox.ai/
 - https://nitro.jan.ai/
 - https://www.phind.com/
+- https://lumo.proton.me/
 - https://chat.qwenlm.ai/
 - https://chat.openai.com/
 - https://www.deepseek.com/
@@ -255,11 +256,10 @@
 - https://github.com/Nutlope/llamacoder
 - https://github.com/MLSysOps/MLE-agent
 - https://github.com/Skyvern-AI/skyvern
+- https://github.com/charmbracelet/crush
 - https://github.com/paul-gauthier/aider
 - https://github.com/fauxpilot/fauxpilot
 - https://github.com/OpenDevin/OpenDevin
-- https://github.com/getAsterisk/claudia
-- https://github.com/NomenAK/SuperClaude
 - https://github.com/bytedance/trae-agent
 - https://github.com/dagger/container-use
 - https://github.com/Integuru-AI/Integuru
@@ -270,7 +270,6 @@
 - https://github.com/BuilderIO/micro-agent
 - https://github.com/Codium-ai/cover-agent
 - https://github.com/trypear/pearai-master
-- https://github.com/siteboon/claudecodeui
 - https://github.com/mannaandpoem/OpenManus
 - https://github.com/huggingface/llm-vscode
 - https://github.com/abi/screenshot-to-code
@@ -286,16 +285,21 @@
 - https://github.com/eastlondoner/cursor-tools
 - https://github.com/2-fly-4-ai/V0-system-prompt
 - https://github.com/coderabbitai/ai-pr-reviewer
-- https://github.com/Doriandarko/claude-engineer
 - https://github.com/aws-samples/bedrock-engineer
 - https://github.com/gpt-engineer-org/gpt-engineer
-- https://github.com/anthropics/claude-code-action
 - https://github.com/deepseek-ai/DeepSeek-Coder-V2
+- https://github.com/OpenInterpreter/open-interpreter
+
+## TOOLS: CODING: OSS CLAUDE
+- https://github.com/wshobson/agents
+- https://github.com/getAsterisk/claudia
+- https://github.com/NomenAK/SuperClaude
+- https://github.com/siteboon/claudecodeui
+- https://github.com/Doriandarko/claude-engineer
+- https://github.com/anthropics/claude-code-action
 - https://github.com/textcortex/claude-code-sandbox
 - https://github.com/eyaltoledano/claude-task-master
-- https://github.com/OpenInterpreter/open-interpreter
 - https://github.com/shareAI-lab/analysis_claude_code
-
 
 ## TOOLS: CODING: OSS PROMPT RULES
 - https://github.com/snarktank/ai-dev-tasks
@@ -561,9 +565,11 @@
 - https://github.com/coinbase/agentkit
 - https://github.com/phidatahq/phidata
 - https://github.com/lavague-ai/LaVague
+- https://github.com/coze-dev/coze-loop
 - https://github.com/dzhng/deep-research
 - https://github.com/rowboatlabs/rowboat
 - https://github.com/VoltAgent/voltagent
+- https://github.com/coze-dev/coze-studio
 - https://github.com/pydantic/pydantic-ai
 - https://github.com/microsoft/magentic-ui
 - https://github.com/agentlabs-dev/openator

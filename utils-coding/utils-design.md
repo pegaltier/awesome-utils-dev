@@ -111,6 +111,7 @@
 - http://lukyvj.github.io/colofilter.css/
 - https://dev.di7tazxmp7xob.amplifyapp.com/
 - https://color.adobe.com/fr/create/color-wheel
+- https://github.com/jsantell/interpolate-color
 - http://blog.visme.co/color-harmony-tips-on-selecting-colors-in-design/
 - http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
 
