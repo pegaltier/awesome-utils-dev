@@ -248,6 +248,8 @@
 - https://github.com/appnexus/lucid
 - https://github.com/reaviz/reaflow
 - https://github.com/chakra-ui/ark
+- https://github.com/coveo/plasma
+- https://github.com/coveo/ui-kit
 - https://github.com/arwes/arwes
 - https://github.com/airbnb/visx
 - https://github.com/plouc/nivo
