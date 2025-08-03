@@ -2,8 +2,11 @@
 
 
 
-## HOLO KEYWORDS
+# HOLOCHAIN / HOLO / HOT
+
 post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distributed apps, scalable blockchain, after bitcoin
+
+## TABLE OF CONTENTS
 
 ## HOLO DEV LINKS
 - https://hackmd.io/@hololtd

@@ -1,6 +1,6 @@
+# EOS
 
-
-●▬ begin eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+## TABLE OF CONTENTS
 
 ## EOS LIST
 https://github.com/DanailMinchev/awesome-eos

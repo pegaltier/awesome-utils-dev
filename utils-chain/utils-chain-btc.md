@@ -1,5 +1,7 @@
 # Bitcoin
 
+## TABLE OF CONTENTS
+
 ## Resources
 - https://bitcoinchart.app
 - https://lopp.net/bitcoin.html

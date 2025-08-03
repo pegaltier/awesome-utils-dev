@@ -1,3 +1,7 @@
+# SOCIAL
+
+## TABLE OF CONTENTS
+
 
 ## EVERIPEDIA
 - https://www.facebook.com/groups/everipedia.editors/

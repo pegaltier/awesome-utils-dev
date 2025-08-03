@@ -1,3 +1,8 @@
+# MY NOTES
+
+## TABLE OF CONTENTS
+
+
 ## BINANCE
 https://exchangebit.info/binance
 https://www.binance.com/fees.html

@@ -113,6 +113,13 @@
 10. diversification (10 cryptos + 10 stocks (better to use ETF))
 11. be consistant over the long term, good health, wake up early, eat clea, do sport, it will be your best hedge against others people
 
+## CRYPTO ADVICE
+
+Bear market : Bitcoin take advantage against Altcoin
+Bull market : Altcoin take advantage against Bitcoin
+
+Bull market : When financiel crisis (ie greek / ie euro)
+
 ## ALGOTRADE ADVICE
 
 -   A system is good enough if yearly gain above max drawdown

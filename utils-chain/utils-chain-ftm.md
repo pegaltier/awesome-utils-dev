@@ -1,9 +1,6 @@
 # FTM / SONIC
 
-## NEWS
+## LINKS
 
-- https://www.buzzsprout.com/1851524
-
-
-## DEX
 - https://sonicwhale.ai/
+- https://www.buzzsprout.com/1851524

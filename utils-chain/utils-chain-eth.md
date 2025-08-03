@@ -1,7 +1,7 @@
 
+# ETHERUM
 
-## ETH OFFICIAL
-- https://www.ethereum.org
+## TABLE OF CONTENTS
 
 ## ETH WIKI/FORUM/LIST
 - https://theethereum.wiki/w/index.php/Main_Page
@@ -9,9 +9,14 @@
 - https://github.com/ethereumbook/ethereumbook
 - https://github.com/Scanate/EthList
 - https://forum.ethereum.org
+- https://www.ethereum.org
 
-## ETH LEARN
+## ETH SCALABILITY
+- https://github.com/beehive-innovation/rain-protocol
 - https://www.evmthroughctfs.com/
+- https://www.bprotocol.org/
+- https://ipfs.leapdao.org/
+- https://truebit.io/
 
 ## ETH DEV
 - https://etherscan.io/apis
@@ -49,10 +54,7 @@
 - https://github.com/dabit3/polygon-ethereum-nextjs-marketplace
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 
-## ETH SCALABILITY
-- https://github.com/beehive-innovation/rain-protocol
-
-## ETH SMART CONTRACT EXAMPLE
+## ETH DEV: SMART CONTRACT EXAMPLE
 - https://github.com/ultiarena/ulti-coin
 - https://github.com/Titano-finance/Titano-contract
 - https://github.com/EatTheBlocks/smart-contract-security-201
@@ -70,12 +72,6 @@
 - https://www.etherchain.org
 - https://ethgasstation.info
 - https://etherscan.io/gastracker
-
-## ETH SCALING
-
-- https://www.bprotocol.org/
-- https://ipfs.leapdao.org/
-- https://truebit.io/
 
 ## ETH NEWS
 - https://ethereumworldnews.com

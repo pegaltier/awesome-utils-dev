@@ -1,6 +1,8 @@
 
 # NFT
 
+## TABLE OF CONTENTS
+
 ## NFT TOPICS
 
 forgeries in NFTs, meta data...
