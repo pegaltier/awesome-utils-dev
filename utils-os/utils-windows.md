@@ -2,22 +2,22 @@
 
 ## TABLE OF CONTENTS
 
--   [Tools: ALL](#tools-all)
+-   [TOOLS: ALL](#tools-all)
 
--   [Tools: OSS](#tools-oss)
+-   [TOOLS: OSS](#tools-oss)
 
--   [SSH Key](#ssh-key)
+-   [SSH KEY](#ssh-key)
 
     -   [Create SSH Key](#create-ssh-key)
     -   [Use SSH Key](#use-ssh-key)
 
 -   [SSH Agent](#ssh-agent)
 
--   [SSH/SCP Copy](#sshscp-copy)
+-   [SSH/SCP COPY](#sshscp-copy)
 
 -   [MORE](#more)
 
-## Tools: ALL
+## TOOLS: ALL
 
 -   <https://cmder.app/>
 -   <https://winstall.app/>
@@ -26,14 +26,14 @@
 -   <https://www.mythicsoft.com/agentransack/>
 -   <https://www.scootersoftware.com/>
 
-## Tools: OSS
+## TOOLS: OSS
 
 -   <https://github.com/cmderdev/cmder>
 -   <https://github.com/microsoft/PowerToys>
 -   <https://github.com/rocksdanister/lively>
 -   <https://github.com/Awesome-Windows/Awesome>
 
-## SSH Key
+## SSH KEY
 
 -   <https://www.purdue.edu/science/scienceit/ssh-keys-windows.html>
 
@@ -60,7 +60,7 @@ ssh -i myprivatekey root@123.456.789.22
 3 => Set-Service ssh-agent -StartupType Manual
 ```
 
-## SSH/SCP Copy
+## SSH/SCP COPY
 
 -   <https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh>
 

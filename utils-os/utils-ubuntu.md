@@ -2,10 +2,10 @@
 
 ## TABLE OF CONTENTS
 
--   -   [Configure VPS](#configure-vps)
--   [LIB](#lib)
+-   [VPS](#vps)
+-   [LIBS](#libs)
 
-## Configure VPS
+## VPS
 
     # create a new user
     adduser myuser
@@ -16,6 +16,6 @@
     # copy ssh key from root to myuser
     rsync --archive --chown=myuser:myuser ~/.ssh /home/myuser
 
-# LIB
+## LIBS
 
 -   <https://github.com/monasticacademy/httptap>

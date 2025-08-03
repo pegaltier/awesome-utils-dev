@@ -4,22 +4,22 @@ Ubuntu & co
 
 ## TABLE OF CONTENTS
 
--   [Install](#install)
--   [Directories](#directories)
--   [Debug](#debug)
--   [Update](#update)
--   [Bash](#bash)
--   [Tools](#tools)
--   [List](#list)
--   [Nixos](#nixos)
--   [More](#more)
+-   [INSTALL](#install)
+-   [DIRECTORIES](#directories)
+-   [DEBUG](#debug)
+-   [UPDATE](#update)
+-   [BASH](#bash)
+-   [TOOLS](#tools)
+-   [LIST](#list)
+-   [NIXOS](#nixos)
+-   [MORE](#more)
 
-## Install
+## INSTALL
 
 -   <https://www.balena.io/etcher/>
 -   <https://ubuntu.com/download/desktop>
 
-## Directories
+## DIRECTORIES
 
     usr  -> unix system resources
     bin  -> binaries
@@ -28,23 +28,23 @@ Ubuntu & co
     dev  -> device
     opt  -> optional
 
-## Debug
+## DEBUG
 
     /var/log/apache2/error.log
     /var/log/rabbitmq/rabbit.log
 
-## Update
+## UPDATE
 
     sudo apt update
     sudo apt-get update  
 
-## Bash
+## BASH
 
     gedit ~/.bashrc
     . ~/.bashrc
     echo $PATH
 
-## Tools
+## TOOLS
 
 -   <https://www.gimp.org/>
 -   <https://snapcraft.io/>
@@ -52,12 +52,12 @@ Ubuntu & co
 -   <https://github.com/ohmyzsh/ohmyzsh>
 -   <https://github.com/basecamp/omakub>
 
-## List
+## LIST
 
 -   <https://github.com/madbob/awesome-linux-dev>
 -   <https://github.com/luong-komorebi/Awesome-Linux-Software>
 
-## Nixos
+## NIXOS
 
 -   <https://github.com/cachix/devenv>
 -   <https://github.com/cachix/cachix>
@@ -65,6 +65,6 @@ Ubuntu & co
 -   <https://github.com/nix-community/home-manager>
 -   <https://github.com/DeterminateSystems/nix-installer>
 
-## More
+## MORE
 
 See also [tools](https://github.com/pegaltier/utils-dev/blob/master/utils-tools.md)
