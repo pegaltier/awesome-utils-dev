@@ -1,5 +1,8 @@
 # TRADE
 
+## TABLE OF CONTENTS
+
+
 ## ALGO TRADERS
 
 - Jarrod Goodwin https://www.thetransparenttrader.com/ | https://www.youtube.com/c/TheTransparentTrader

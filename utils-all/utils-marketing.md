@@ -1,5 +1,8 @@
 # MARKETING
 
+## TABLE OF CONTENTS
+
+## LIST
 - https://github.com/LisaDziuba/Marketing-for-Engineers
 - https://github.com/goabstract/Marketing-for-Engineers
 

@@ -1,5 +1,8 @@
 # GDPR
 
+## TABLE OF CONTENTS
+
+
 ## EXPLANATION
 
 - Technical cookies

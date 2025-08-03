@@ -2,6 +2,8 @@
 
 Google Tag Manager and co...
 
+## TABLE OF CONTENTS
+
 ## Tools OSS
 - https://github.com/PostHog/posthog
 - https://github.com/medama-io/medama

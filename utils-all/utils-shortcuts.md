@@ -1,6 +1,6 @@
 # SHORTCUTS
 
-
+## TABLE OF CONTENTS
 
 ## Chromium
 - open dev tools: CTRL + SHIFT + I

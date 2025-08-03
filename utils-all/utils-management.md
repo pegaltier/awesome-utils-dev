@@ -1,4 +1,7 @@
-<h1>MANAGEMENT</h1>
+# MANAGEMENT
+
+## TABLE OF CONTENTS
+
 
 <h2>TOOLS</h2>
 - https://www.odoo.com

@@ -1,5 +1,8 @@
 # TRADING STRATEGY
 
+## TABLE OF CONTENTS
+
+
 ## DIARY
 
 - Accept small win to reduce risk

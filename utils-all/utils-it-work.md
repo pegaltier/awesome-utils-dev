@@ -1,5 +1,8 @@
 # IT TIPS
 
+## TABLE OF CONTENTS
+
+
 ## ERGONOMICS
 
 - yeux au desus de l'ecran pour avoir les yeux moitié fermé

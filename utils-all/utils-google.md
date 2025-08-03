@@ -1,5 +1,7 @@
 # GOOGLE
 
+## TABLE OF CONTENTS
+
 ## GMAIL
 https://helgeklein.com/blog/2015/02/extracting-all-email-addresses-from-a-gmail-label/
 https://www.labnol.org/internet/extract-gmail-addresses/28037/

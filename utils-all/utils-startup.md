@@ -1,4 +1,8 @@
-<h2>STARTUP</h2>
+# STARTUPS
+
+## TABLE OF CONTENTS
+
+## LIST
 <p><a href="https://www.indiehackers.com/@davidemcneill/want-to-make-money-pick-one-of-these-profitable-business-models-91ae567077">https://www.indiehackers.com/@davidemcneill/want-to-make-money-pick-one-of-these-profitable-business-models-91ae567077</a><br>
 <a href="https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34">https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34</a><br>
 <a href="https://medium.com/googleplaydev/the-promise-of-persuasive-apps-98b428ee18ef">https://medium.com/googleplaydev/the-promise-of-persuasive-apps-98b428ee18ef</a><br>
