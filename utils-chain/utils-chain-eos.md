@@ -2,298 +2,367 @@
 
 ## TABLE OF CONTENTS
 
-## EOS LIST
-https://github.com/DanailMinchev/awesome-eos
-https://github.com/DanailMinchev/awesome-eosio
-https://www.reddit.com/r/eos/ <<<<<<<<>>>>>>>>
-https://www.eosgo.io/ <<<<<<<<<<<<<>>>>>>>>>>>>
+-   [EOS LIST](#eos-list)
+-   [EOS OFFICIAL](#eos-official)
+-   [EOS START](#eos-start)
+-   [EOS ACCOUNT](#eos-account)
+-   [EOS TUTOS USER](#eos-tutos-user)
+-   [EOS TUTOS DEV](#eos-tutos-dev)
+-   [EOS SMART CONTRACT](#eos-smart-contract)
+-   [EOS EXPLORER](#eos-explorer)
+-   [EOS TRACK](#eos-track)
+-   [EOS SISTERCHAIN](#eos-sisterchain)
+-   [EOS NEWS](#eos-news)
+-   [EOS DAPPS LIST](#eos-dapps-list)
+-   [EOS DAPPS DEX](#eos-dapps-dex)
+-   [EOS DAPPS SOCIAL](#eos-dapps-social)
+-   [EOS DAPPS UTILS](#eos-dapps-utils)
+-   [EOS DAPPS GAMES](#eos-dapps-games)
+-   [EOS DAPPS GAMBLING](#eos-dapps-gambling)
+-   [EOS WALLET/VOTE/TOOLS](#eos-walletvotetools)
+-   [EOS NAME SERVER](#eos-name-server)
+-   [EOS REX / REWARDS / DIVIDENDS](#eos-rex--rewards--dividends)
+-   [EOS DEV NET](#eos-dev-net)
+-   [EOS CORE DEV](#eos-core-dev)
+-   [EOS DAPPS DEV](#eos-dapps-dev)
+-   [EOS DEV LIB](#eos-dev-lib)
+-   [EOS AIRDROP](#eos-airdrop)
+-   [EOS ARTICLE](#eos-article)
+-   [EOS TRADING](#eos-trading)
+-   [EOS FORUM](#eos-forum)
+-   [ETH TO EOS](#eth-to-eos)
+-   [EOS STRANGE](#eos-strange)
+-   [EOS ARTICLES](#eos-articles)
+-   [EOS PASSIVE INCOME](#eos-passive-income)
+-   [EOS STAKING](#eos-staking)
+-   [EOS YOUTUBE](#eos-youtube)
+-   [EOS FORKS](#eos-forks)
+-   [EOS FORK TELOS](#eos-fork-telos)
 
+## EOS LIST
+
+<https://github.com/DanailMinchev/awesome-eos>  
+<https://github.com/DanailMinchev/awesome-eosio>  
+<https://www.reddit.com/r/eos/> &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;>>>>>>>>  
+<https://www.eosgo.io/> &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;>>>>>>>>>>>>
 
 ## EOS OFFICIAL
-https://eos.io
-https://block.one/
-https://stake.eosnetwork.com/
 
+<https://eos.io>  
+<https://block.one/>  
+<https://stake.eosnetwork.com/>
 
 ## EOS START
-https://www.reddit.com/r/eos/
-https://eosvenezuela.io/esc.html
-https://github.com/EOSIO/eos/wiki
-https://steemit.com/eos/@genereos/eos-multisig-tutorial
-https://github.com/EOSIO/eos/wiki/Accounts%20%26%20Permissions
-https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/
-https://www.reddit.com/r/eos/comments/8r7gnr/12_tools_to_get_started_with_eos/
-https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams
+
+<https://www.reddit.com/r/eos/>  
+<https://eosvenezuela.io/esc.html>  
+<https://github.com/EOSIO/eos/wiki>  
+<https://steemit.com/eos/@genereos/eos-multisig-tutorial>  
+<https://github.com/EOSIO/eos/wiki/Accounts%20%26%20Permissions>  
+<https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/>  
+<https://www.reddit.com/r/eos/comments/8r7gnr/12_tools_to_get_started_with_eos/>  
+<https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams>
 
 ## EOS ACCOUNT
-https://namevault.co
-https://eos-account-creator.com
-https://github.com/eoscafe/eos-key
+
+<https://namevault.co>  
+<https://eos-account-creator.com>  
+<https://github.com/eoscafe/eos-key>
 
 ## EOS TUTOS USER
-https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys
+
+<https://steemit.com/eos/@genereos/eos-how-to-quickly-and-safely-change-your-public-private-keys>
 
 ## EOS TUTOS DEV
-- https://learneos.dev/
-- https://app.eosstudio.io/
-- https://www.everythingeos.io/dev/
-- https://github.com/EOSIO/eosio-web-ide
-- https://github.com/pur3miish/smartql
-- https://github.com/SOVEOS/eos-boilerplate-bootstrap
-- https://github.com/edenia/full-stack-boilerplate
-- https://github.com/edenia/proton-full-stack-boilerplate
-- https://www.udemy.com/course/starting-with-eos/
-- https://github.com/klevoya/eosio-wcr-registry
-- https://blog.slyon.de/2018/11/18/simple-eos-dev-environment/
-- https://ivanontech.teachable.com/courses/eos-smart-contract-programming-101/lectures/11571376
-- https://medium.com/@shankqr/how-to-deploy-and-run-a-smart-contract-on-the-eos-blockchain-from-zero-to-hero-72ca592803ba
-- https://medium.com/@shankqr/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c
-- https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
-- https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0
-- https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757
-- https://visionary.life/eos-ecosystem-for-developers-infographics/
-- https://github.com/GetScatter/scatter-js/
-- https://github.com/conr2d/scatter-js
-- https://github.com/EOSEssentials/Scatter-Demos
-- https://gist.github.com/miguelmota/c2a12cb4ed938d2d6f93146903390065
+
+-   <https://learneos.dev/>
+-   <https://app.eosstudio.io/>
+-   <https://www.everythingeos.io/dev/>
+-   <https://github.com/EOSIO/eosio-web-ide>
+-   <https://github.com/pur3miish/smartql>
+-   <https://github.com/SOVEOS/eos-boilerplate-bootstrap>
+-   <https://github.com/edenia/full-stack-boilerplate>
+-   <https://github.com/edenia/proton-full-stack-boilerplate>
+-   <https://www.udemy.com/course/starting-with-eos/>
+-   <https://github.com/klevoya/eosio-wcr-registry>
+-   <https://blog.slyon.de/2018/11/18/simple-eos-dev-environment/>
+-   <https://ivanontech.teachable.com/courses/eos-smart-contract-programming-101/lectures/11571376>
+-   <https://medium.com/@shankqr/how-to-deploy-and-run-a-smart-contract-on-the-eos-blockchain-from-zero-to-hero-72ca592803ba>
+-   <https://medium.com/@shankqr/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c>
+-   <https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017>
+-   <https://steemit.com/eosio/@tokenika/introducing-eosfactory-v2-0>
+-   <https://medium.com/@BuddyWorks/continuous-delivery-for-eosio-1b3898b7c757>
+-   <https://visionary.life/eos-ecosystem-for-developers-infographics/>
+-   <https://github.com/GetScatter/scatter-js/>
+-   <https://github.com/conr2d/scatter-js>
+-   <https://github.com/EOSEssentials/Scatter-Demos>
+-   <https://gist.github.com/miguelmota/c2a12cb4ed938d2d6f93146903390065>
 
 ## EOS SMART CONTRACT
-- https://github.com/eosdac/eosdac-contracts
-- https://github.com/defis-net/defis-network
-- https://github.com/rabbits-finance/rabbits-finance
-- https://github.com/coral-finance/coral-contracts
-- https://github.com/coral-finance/shell-contracts
-- https://github.com/PIEOS-Builders/pieos-contracts
-- https://github.com/sugarfinance/sugartokensa
-- https://github.com/EOSArgentina/evolutiondex
-- https://github.com/zhou-blip/chicken-finance
-- https://github.com/flamingo-finance
+
+-   <https://github.com/eosdac/eosdac-contracts>
+-   <https://github.com/defis-net/defis-network>
+-   <https://github.com/rabbits-finance/rabbits-finance>
+-   <https://github.com/coral-finance/coral-contracts>
+-   <https://github.com/coral-finance/shell-contracts>
+-   <https://github.com/PIEOS-Builders/pieos-contracts>
+-   <https://github.com/sugarfinance/sugartokensa>
+-   <https://github.com/EOSArgentina/evolutiondex>
+-   <https://github.com/zhou-blip/chicken-finance>
+-   <https://github.com/flamingo-finance>
 
 ## EOS EXPLORER
-- https://www.eosgo.io
-- https://mereo.io/
-- https://bloks.io
-- https://www.eosrp.io/
-- https://eosweb.net
-- https://eosmonitor.io/
-- https://eosquery.com
-- https://eospark.com/
-- https://eosflare.io/
-- https://eosscan.io/
-- http://bios.eostracker.io/
-- http://eosnetworkmonitor.io
-- https://eos.feexplorer.io
-- https://windshield.cypherglass.com/
-- https://www.cypherblock.io/eosmarketcap
+
+-   <https://www.eosgo.io>
+-   <https://mereo.io/>
+-   <https://bloks.io>
+-   <https://www.eosrp.io/>
+-   <https://eosweb.net>
+-   <https://eosmonitor.io/>
+-   <https://eosquery.com>
+-   <https://eospark.com/>
+-   <https://eosflare.io/>
+-   <https://eosscan.io/>
+-   <http://bios.eostracker.io/>
+-   <http://eosnetworkmonitor.io>
+-   <https://eos.feexplorer.io>
+-   <https://windshield.cypherglass.com/>
+-   <https://www.cypherblock.io/eosmarketcap>
 
 ## EOS TRACK
-- http://dev.cryptolions.io/mainnet/
-- https://eosauthority.com/timeline
-- https://eosnodes.privex.io
-- https://eosportal.io
-- https://eosnation.io/
+
+-   <http://dev.cryptolions.io/mainnet/>
+-   <https://eosauthority.com/timeline>
+-   <https://eosnodes.privex.io>
+-   <https://eosportal.io>
+-   <https://eosnation.io/>
 
 ## EOS SISTERCHAIN
-- https://www.telosfoundation.io/
-- https://europechain.io/
-- https://ultra.io/
-- https://wax.io/
+
+-   <https://www.telosfoundation.io/>
+-   <https://europechain.io/>
+-   <https://ultra.io/>
+-   <https://wax.io/>
 
 ## EOS NEWS
-https://www.theeoswriter.io
+
+<https://www.theeoswriter.io>
 
 ## EOS DAPPS LIST
-- https://www.eosdividends.com
-- http://www.eoslist.io
-- https://dapp.review
-- https://eosapps.net
-- https://dapphub.co
-- https://eosindex.io
-- https://eosprojects.org
-- https://eosforum.org/t/eos-dapp-collection-31-listed-currently/309/17
+
+-   <https://www.eosdividends.com>
+-   <http://www.eoslist.io>
+-   <https://dapp.review>
+-   <https://eosapps.net>
+-   <https://dapphub.co>
+-   <https://eosindex.io>
+-   <https://eosprojects.org>
+-   <https://eosforum.org/t/eos-dapp-collection-31-listed-currently/309/17>
 
 ## EOS DAPPS DEX
-https://chaince.com
-https://eosfinex.com
-https://dexeos.io/
-https://newdex.io/
+
+<https://chaince.com>  
+<https://eosfinex.com>  
+<https://dexeos.io/>  
+<https://newdex.io/>
 
 ## EOS DAPPS SOCIAL
-http://karmaapp.io
-https://everipedia.org
-https://www.ono.chat/en
-https://decentwitter.com
-https://www.irespo.com/
+
+<http://karmaapp.io>  
+<https://everipedia.org>  
+<https://www.ono.chat/en>  
+<https://decentwitter.com>  
+<https://www.irespo.com/>
 
 ## EOS DAPPS UTILS
-http://eva.coop
-https://edna.life
-http://eosproof.io
-https://www.zeos.co
-https://www.pixeos.io
-https://www.txtnet.io
-https://www.chintai.io
-https://oraclechain.io
-https://www.sendeos.io
-http://www.buttrfly.net
-https://www.theeoswriter.io
+
+<http://eva.coop>  
+<https://edna.life>  
+<http://eosproof.io>  
+<https://www.zeos.co>  
+<https://www.pixeos.io>  
+<https://www.txtnet.io>  
+<https://www.chintai.io>  
+<https://oraclechain.io>  
+<https://www.sendeos.io>  
+<http://www.buttrfly.net>  
+<https://www.theeoswriter.io>
 
 ## EOS DAPPS GAMES
-https://game.wizards.one
-https://prospectors.io
-https://kingofeos.com
-https://eosbutton.io
-https://itam.games
+
+<https://game.wizards.one>  
+<https://prospectors.io>  
+<https://kingofeos.com>  
+<https://eosbutton.io>  
+<https://itam.games>
 
 ## EOS DAPPS GAMBLING
-https://dice.one
-https://eosbet.io
 
+<https://dice.one>  
+<https://eosbet.io>
 
 ## EOS WALLET/VOTE/TOOLS
-https://eostoolkit.io/ (best)
-https://eostoolkit.io/home (new)
-https://github.com/EOSIO/eos/wiki/CLI-Wallet
-https://nadejde.github.io/eos-token-sale/
-https://github.com/eoscanada/eosc
-https://www.eoscanada.com/en/tools
-https://www.altshiftdev.com/
-https://eosmonitor.io/accounts
-https://eosrio.io/simpleos/
-https://meet.one/pomelo
-https://www.exodus.io
-http://walleteos.com/
-https://www.ses.network
-https://eosprojects.org/grids/g/wallets/
-https://www.youtube.com/watch?v=6770ySYX_8Y
-https://github.com/greymass/eos-voter
-https://github.com/eosrio/simpleos
-https://github.com/eluzgin/eos-wallet-keychain
-https://github.com/EOSEssentials/Scatter
-http://eosinfopedia.io/
 
+<https://eostoolkit.io/> (best)  
+<https://eostoolkit.io/home> (new)  
+<https://github.com/EOSIO/eos/wiki/CLI-Wallet>  
+<https://nadejde.github.io/eos-token-sale/>  
+<https://github.com/eoscanada/eosc>  
+<https://www.eoscanada.com/en/tools>  
+<https://www.altshiftdev.com/>  
+<https://eosmonitor.io/accounts>  
+<https://eosrio.io/simpleos/>  
+<https://meet.one/pomelo>  
+<https://www.exodus.io>  
+<http://walleteos.com/>  
+<https://www.ses.network>  
+<https://eosprojects.org/grids/g/wallets/>  
+<https://www.youtube.com/watch?v=6770ySYX_8Y>  
+<https://github.com/greymass/eos-voter>  
+<https://github.com/eosrio/simpleos>  
+<https://github.com/eluzgin/eos-wallet-keychain>  
+<https://github.com/EOSEssentials/Scatter>  
+<http://eosinfopedia.io/>
 
 ## EOS NAME SERVER
-https://namevault.co
-https://toolkit.genereos.io/names
-https://github.com/EOSIO/eos/issues/3189
-https://steemit.com/eos/@genereos/name-bidding-and-premium-names-on-eos
-https://medium.com/@alamzach/7-wonderful-eos-account-names-you-can-get-right-now-2a56bda445fa
+
+<https://namevault.co>  
+<https://toolkit.genereos.io/names>  
+<https://github.com/EOSIO/eos/issues/3189>  
+<https://steemit.com/eos/@genereos/name-bidding-and-premium-names-on-eos>  
+<https://medium.com/@alamzach/7-wonderful-eos-account-names-you-can-get-right-now-2a56bda445fa>
 
 ## EOS REX / REWARDS / DIVIDENDS
-https://www.eosrex.io/
-https://www.eosdividends.com/
+
+<https://www.eosrex.io/>  
+<https://www.eosdividends.com/>
 
 ## EOS DEV NET
-http://vote.eosio.sg/
-https://playground.eosrio.io
-https://github.com/eosiosg/Vote-testnet
+
+<http://vote.eosio.sg/>  
+<https://playground.eosrio.io>  
+<https://github.com/eosiosg/Vote-testnet>
 
 ## EOS CORE DEV
-https://github.com/EOSIO/eos
-https://eosio.github.io/eos
-https://developers.eos.io
+
+<https://github.com/EOSIO/eos>  
+<https://eosio.github.io/eos>  
+<https://developers.eos.io>
 
 ## EOS DAPPS DEV
-https://www.everythingeos.io/eos-courses/
-https://www.eosdocs.io
-https://eostutorials.com
-https://steemit.com/eos/@genereos/genereos-making-airdrops-accessible
-https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp
-https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2
-https://github.com/eoscanada/eosio.forum
+
+<https://www.everythingeos.io/eos-courses/>  
+<https://www.eosdocs.io>  
+<https://eostutorials.com>  
+<https://steemit.com/eos/@genereos/genereos-making-airdrops-accessible>  
+<https://steemit.com/eos/@eos-asia/deploying-your-first-production-eos-dapp>  
+<https://medium.com/coinmonks/how-to-create-an-eos-dapp-simple-guide-ddc1e9d05cb2>  
+<https://github.com/eoscanada/eosio.forum>
 
 ## EOS DEV LIB
-https://github.com/EOSIO/demux-js
-https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017
+
+<https://github.com/EOSIO/demux-js>  
+<https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017>
 
 ## EOS AIRDROP
-https://www.eosdrops.io
-https://airdropsforeos.com
-https://www.airdropsdac.com
-http://chainverse.com/eos-airdrops/
-https://www.crypto-france.com/airdrops-eos/
-https://steemit.com/eos/@genereos/new-airdrop-poor-tokens-announced-let-s-make-eos-better
+
+<https://www.eosdrops.io>  
+<https://airdropsforeos.com>  
+<https://www.airdropsdac.com>  
+<http://chainverse.com/eos-airdrops/>  
+<https://www.crypto-france.com/airdrops-eos/>  
+<https://steemit.com/eos/@genereos/new-airdrop-poor-tokens-announced-let-s-make-eos-better>
 
 ## EOS ARTICLE
-https://blog.goodaudience.com/the-eos-elephant-in-the-room-35fb9bd1e94
-https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams
-https://steemit.com/eos/@eos-canada/a-candidate-chain-and-recognizing-community-effort-eos-launch-update
-https://www.youtube.com/watch?v=EZfQ9YRtlmU 100 $ end of year
-https://medium.com/@bytemaster
-https://eos.discussions.app
+
+<https://blog.goodaudience.com/the-eos-elephant-in-the-room-35fb9bd1e94>  
+<https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams>  
+<https://steemit.com/eos/@eos-canada/a-candidate-chain-and-recognizing-community-effort-eos-launch-update>  
+<https://www.youtube.com/watch?v=EZfQ9YRtlmU> 100 $ end of year  
+<https://medium.com/@bytemaster>  
+<https://eos.discussions.app>
 
 ## EOS TRADING
-https://visionary.life/eos-ecosystem-for-traders-infographics/
-https://www.tradingview.com/chart/?symbol=BITFINEX:EOSUSD
-https://www.tradingview.com/symbols/EOSUSD/
-https://www.tradingview.com/chart/EOSUSD/Pf7DVtfV-EOS-TO-1-000-101-PRICE-PREDICTIONS-FOR-2018-CryptoManiac101/
-https://www.tradingview.com/u/CryptoManiac101/
-https://www.plus500.fr/Instruments/EOSUSD
+
+<https://visionary.life/eos-ecosystem-for-traders-infographics/>  
+<https://www.tradingview.com/chart/?symbol=BITFINEX:EOSUSD>  
+<https://www.tradingview.com/symbols/EOSUSD/>  
+<https://www.tradingview.com/chart/EOSUSD/Pf7DVtfV-EOS-TO-1-000-101-PRICE-PREDICTIONS-FOR-2018-CryptoManiac101/>  
+<https://www.tradingview.com/u/CryptoManiac101/>  
+<https://www.plus500.fr/Instruments/EOSUSD>
 
 ## EOS FORUM
-https://eosforum.org/
-https://forums.eosgo.io/
-https://eostalk.io/forums
-https://www.reddit.com/r/eos/
+
+<https://eosforum.org/>  
+<https://forums.eosgo.io/>  
+<https://eostalk.io/forums>  
+<https://www.reddit.com/r/eos/>
 
 ## ETH TO EOS
-https://eoskey.io/#/
+
+<https://eoskey.io/#/>
 
 ## EOS STRANGE
-https://eosflare.io/account/blocktwitter
+
+<https://eosflare.io/account/blocktwitter>
 
 ## EOS ARTICLES
-https://medium.com/@xyzkwang334
+
+<https://medium.com/@xyzkwang334>
 
 ## EOS PASSIVE INCOME
-https://tokenyield.io/
-http://www.eospayout.com/
-https://www.eosdividends.com/
-https://captainaltcoin.com/best-ways-to-earn-passive-income-with-eos/
-https://www.reddit.com/r/eos/comments/9l3i85/5_ways_to_earn_passive_income_with_eos/
+
+<https://tokenyield.io/>  
+<http://www.eospayout.com/>  
+<https://www.eosdividends.com/>  
+<https://captainaltcoin.com/best-ways-to-earn-passive-income-with-eos/>  
+<https://www.reddit.com/r/eos/comments/9l3i85/5_ways_to_earn_passive_income_with_eos/>
 
 ## EOS STAKING
-https://newdex.io/member
-https://eosbet.io/home
-https://dice.one/bank/
-https://trustdice.win/txt
-https://paint.pixeos.art/#/
-https://www.eospoker.pro/home
-https://bethash.io/page/dividend (no)
-https://sportbet.one/s/1/dividends
+
+<https://newdex.io/member>  
+<https://eosbet.io/home>  
+<https://dice.one/bank/>  
+<https://trustdice.win/txt>  
+<https://paint.pixeos.art/#/>  
+<https://www.eospoker.pro/home>  
+<https://bethash.io/page/dividend> (no)  
+<https://sportbet.one/s/1/dividends>
 
 ## EOS YOUTUBE
-https://www.theeoswriter.io/video/
-The Crypto Type
-EOS Radio
-EOS Phoenix
-crypto feez
-EOS Apologist
-EOS DAPP STARS
-EOS Related
-Everything EOS
-Cypherglass
-MaxDapp
-Crypto Tim
-The EOS Podcast
-Brock Pierce > https://www.youtube.com/channel/UCNGPN8hF_FVRPZs9wbEu7pA
+
+<https://www.theeoswriter.io/video/>  
+The Crypto Type  
+EOS Radio  
+EOS Phoenix  
+crypto feez  
+EOS Apologist  
+EOS DAPP STARS  
+EOS Related  
+Everything EOS  
+Cypherglass  
+MaxDapp  
+Crypto Tim  
+The EOS Podcast  
+Brock Pierce > <https://www.youtube.com/channel/UCNGPN8hF_FVRPZs9wbEu7pA>
 
 ## EOS FORKS
-https://wax.io
-https://gold.io
-https://worbli.io
-https://www.ono.chat
-https://www.eosforce.io
-https://telosfoundation.io
+
+<https://wax.io>  
+<https://gold.io>  
+<https://worbli.io>  
+<https://www.ono.chat>  
+<https://www.eosforce.io>  
+<https://telosfoundation.io>
 
 ## EOS FORK TELOS
-https://telosuk.io/learn-telos/
-http://democratic.money/
-https://medium.com/@fcecin/acorn-a-telos-token-for-everyone-7c3914f55054
-https://telosplanet.one/
-https://teloscentral.com/
-https://theteloscope.io/
-https://chainspector.io/
+
+<https://telosuk.io/learn-telos/>  
+<http://democratic.money/>  
+<https://medium.com/@fcecin/acorn-a-telos-token-for-everyone-7c3914f55054>  
+<https://telosplanet.one/>  
+<https://teloscentral.com/>  
+<https://theteloscope.io/>  
+<https://chainspector.io/>
 
 ●▬ end eos cheat list ▬▬▬▬▬▬▬▬▬▬▬▬▬▬●

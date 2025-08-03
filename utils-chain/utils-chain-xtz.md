@@ -2,5 +2,5 @@
 
 ## LINKS
 
-- https://spirewallet.com/
-- https://cryptonomic.tech/
+-   <https://spirewallet.com/>
+-   <https://cryptonomic.tech/>
