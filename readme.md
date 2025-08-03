@@ -19,17 +19,20 @@
 -   [Php](utils-coding/utils-php.md)
 -   [Python](utils-coding/utils-python.md)
 -   [Sql](utils-coding/utils-sql.md)
+-   [More](utils-coding/)
 
 ## Web Frameworks
 
 -   [Angular](utils-coding/utils-angular-list.md)
 -   [React](utils-coding/utils-react.md)
 -   [Vue](utils-coding/utils-vue.md)
+-   [More](utils-coding/)
 
 ## Mobile Development
 
 -   [Android](utils-coding/utils-android.md)
 -   [Ionic](utils-coding/utils-ionic.md)
+-   [More](utils-coding/)
 
 ## Backend Development
 
@@ -37,6 +40,7 @@
 -   [Java](utils-coding/utils-java.md)
 -   [Rust](utils-coding/utils-rust.md)
 -   [Python](utils-coding/utils-python.md)
+-   [More](utils-coding/)
 
 ## Various
 
