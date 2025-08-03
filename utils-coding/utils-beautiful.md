@@ -178,7 +178,7 @@ www.controlfilms.tv/
 <http://www.ninesixty.co.uk/>  
 <http://studiokraftwerk.com/>  
 <http://spacejunk.com/>  
-<http://locomotive.ca/> ****\*\*****\*****\*\*****  
+<http://locomotive.ca/> \***\*\*\*\*\***\*\***\*\*\*\*\***  
 <http://www.jonathandacosta.com>  
 <http://www.tonyui.com/>  
 <http://www.blank.io/>  
@@ -188,7 +188,7 @@ www.controlfilms.tv/
 <http://humaan.com/>  
 <http://mustafademirkent.com/>  
 <http://madhankumar.me/>  
-<http://republiqueagency.com/index-eng.html>    ******\*\*******\*******\*\*******  
+<http://republiqueagency.com/index-eng.html>    **\*\***\*\***\*\***\***\*\***\*\***\*\***  
 <http://www.pushhere.com/>      
 
        *******************
@@ -292,7 +292,7 @@ www.controlfilms.tv/
 <http://www.not-studio.com/> (simple layout inspiration)  
 <https://www.biig.fr/> (a lot of animation)  
 <https://www.waaark.com> realisation de site web bien connu  
-<http://www.durimel.io/> 9**\*\*\*\*****\*****\*\*\*\*****  
+<http://www.durimel.io/> 9**\*\*\*\*\***\*\*\*\***\*\*\*\*\*\*\*\*  
 <http://www.ludmillamaury.com/>  
 <http://pomerleau.ca/>  
 <http://vallierbistro.com/en/>  
