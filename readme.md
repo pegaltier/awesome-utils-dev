@@ -63,6 +63,7 @@ Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/
 -   <https://github.com/pegaltier>
 -   <https://github.com/Rebaiahmed>
 -   <https://github.com/spekulatius>
+-   <https://github.com/jdegand>
 
 ## :two_hearts: Follow me
 
