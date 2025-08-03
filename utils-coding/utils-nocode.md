@@ -65,6 +65,7 @@ low-code tooling to prototype fastly.
 - https://github.com/BuilderIO/qwik
 - https://github.com/mnfst/manifest
 - https://github.com/lowdefy/lowdefy
+- https://github.com/flydelabs/flyde
 - https://github.com/ToolJet/ToolJet
 - https://github.com/xlayers/xlayers
 - https://github.com/processing/p5.js

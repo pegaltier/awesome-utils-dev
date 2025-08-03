@@ -872,6 +872,7 @@
 - https://github.com/xyflow/xyflow
 - https://github.com/MotiaDev/motia
 - https://github.com/didi/LogicFlow
+- https://github.com/flydelabs/flyde
 - https://github.com/simstudioai/sim
 - https://github.com/kestra-io/kestra
 - https://github.com/samuelmtimbo/unit
