@@ -2,7 +2,6 @@
 
 ## TABLE OF CONTENTS
 
-
 <h2>TOOLS</h2>
 - https://www.odoo.com
 - https://clickup.com/

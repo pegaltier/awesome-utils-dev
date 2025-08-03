@@ -2,8 +2,20 @@
 
 ## TABLE OF CONTENTS
 
+-   [RELOCATION](#relocation)
+-   [Tools: internet](#tools-internet)
+-   [Tools: sleep](#tools-sleep)
+-   [Tools: discover](#tools-discover)
+-   [Tools: Flight](#tools-flight)
+-   [Tools: Car](#tools-car)
+-   [Tools: Social](#tools-social)
+-   [Swiss](#swiss)
+-   [Italy](#italy)
+-   [Festival](#festival)
+-   [Best places](#best-places)
 
 ## RELOCATION
+
 <p><a href="https://www.papernest.com/">https://www.papernest.com/</a></p>
 <h2>COMPARE</h2>
 <p><a href="https://www.expatistan.com">https://www.expatistan.com</a><br>
@@ -49,93 +61,102 @@ VISA: <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/service
 <p><a href="https://www.youtube.com/watch?v=v61xbAJoQVI">https://www.youtube.com/watch?v=v61xbAJoQVI</a> LIVING UNDER $600 IN THAILAND | CHIANG MAI COST OF LIVING GUIDE</p>
 
 ## Tools: internet
-- https://www.ubigi.com/
-- https://www.dentwireless.com/
+
+-   <https://www.ubigi.com/>
+-   <https://www.dentwireless.com/>
 
 ## Tools: sleep
-- https://www.airbnb.com
-- http://www.hostels.com
-- https://www.couchsurfing.org
-- http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforment-en-dortoirs
+
+-   <https://www.airbnb.com>
+-   <http://www.hostels.com>
+-   <https://www.couchsurfing.org>
+-   <http://motherboard.vice.com/fr/read/quand-les-espaces-de-coworking-se-transforment-en-dortoirs>
 
 ## Tools: discover
-- https://www.atlasobscura.com/
+
+-   <https://www.atlasobscura.com/>
 
 ## Tools: Flight
-- https://airlinelist.com/
 
-## Tools: Car 
-- https://carmarket.ch/fr
-- https://www.carify.com/
-- https://www.carvolution.com/
+-   <https://airlinelist.com/>
+
+## Tools: Car
+
+-   <https://carmarket.ch/fr>
+-   <https://www.carify.com/>
+-   <https://www.carvolution.com/>
 
 ## Tools: Social
-- https://www.weroad.fr
+
+-   <https://www.weroad.fr>
 
 ## Swiss
-- https://gomore.ch/
-- https://map.geo.admin.ch/
-- https://hotelcard.ch/en
-- https://www.les-bisses-du-valais.ch/fr/
-- https://www.blick.ch/fr/well/a-tester-en-famille-ces-5-magnifiques-balades-en-valais-vous-feront-aimer-lhiver-id19216253.html
-- https://ulysse.com/news/voyager-en-train-panoramique-a-travers-la-suisse-top-5-des-itineraires-a-decouvrir
+
+-   <https://gomore.ch/>
+-   <https://map.geo.admin.ch/>
+-   <https://hotelcard.ch/en>
+-   <https://www.les-bisses-du-valais.ch/fr/>
+-   <https://www.blick.ch/fr/well/a-tester-en-famille-ces-5-magnifiques-balades-en-valais-vous-feront-aimer-lhiver-id19216253.html>
+-   <https://ulysse.com/news/voyager-en-train-panoramique-a-travers-la-suisse-top-5-des-itineraires-a-decouvrir>
 
 ## Italy
-- https://murlo.com/
-- https://nestitaly.com/experiences/
-- https://fr.m.wikipedia.org/wiki/Santa_Magdalena_(Italie)
-- https://ulysse.com/news/ile-italienne-havre-de-paix-retraite-tranquille
+
+-   <https://murlo.com/>
+-   <https://nestitaly.com/experiences/>
+-   <https://fr.m.wikipedia.org/wiki/Santa_Magdalena_(Italie>)
+-   <https://ulysse.com/news/ile-italienne-havre-de-paix-retraite-tranquille>
 
 ## Festival
-- https://www.japaneuch.ch neuchatel (end of june)
-- https://www.burning-mountain.ch swiss german (end of june)
-- https://evenements.geneve.ch/musiquesenete/ geneve (july, august)
-- https://www.verbierfestival.com/ verbier (july, august)
-- https://sionsouslesetoiles.ch/ sion (july)
-- https://moonandstars.ch locarno (july)
-- https://www.locarnofestival.ch/ locarno (august)
-- https://pizpalufestival.ch/ geneve (august)
-- https://labelsuisse.ch/ lausanne (september)
+
+-   <https://www.japaneuch.ch> neuchatel (end of june)
+-   <https://www.burning-mountain.ch> swiss german (end of june)
+-   <https://evenements.geneve.ch/musiquesenete/> geneve (july, august)
+-   <https://www.verbierfestival.com/> verbier (july, august)
+-   <https://sionsouslesetoiles.ch/> sion (july)
+-   <https://moonandstars.ch> locarno (july)
+-   <https://www.locarnofestival.ch/> locarno (august)
+-   <https://pizpalufestival.ch/> geneve (august)
+-   <https://labelsuisse.ch/> lausanne (september)
 
 ## Best places
 
-- croatie > noa beach club
-- croatie > Hvar Island, Dalmatian Coast.
-- Panama City
-- parc montjuic barcelone,
-- Cala Aiguablava. Begur.
-- Palma de Majorque : playa de S'Amarador
-- macau grand lisboa
-- Niagara Falls Canada
-- Angel Falls in Venezuela
-- IGUAZÚ!!: Argentina
-- Venice , Italy
-- Lipari Italy,
-- porticello Italy
-- Sandorini Greece *******
-- hasos Island , Greece
-- Santorini Island, Greece
-- Hallstatt, Austria
-- Furore Amalfi Italy!
-- Lake Como, Italy
-- Santorini, Greece
-- Tagaytay Highlands, Philippines
-- Rio, Brazil
-- Islamorada, a "Village of Islands," is an incorporated village in Monroe County, Florida, United States
-- Whitsunday Islands National Park Australia
-- Ile de malte
-- Tenerife
-- Lofoten
-- Belmond Hotel splendido Italy (Genes)
-- Hurtigruten Norway
-- laucala Island Fiji
-- Alberta, ?#?Canada? !
-- Ice hotel North Sweden
-- Kite Beach. Dubai
-- indonésie sur l'île de Lombok. >deloustal >
-- euschwanstein Castle - Hill castle in Schwangau, Germany
-- Natural Beauty Of Alberta, Canada.
-- Maldives , Wonderful
-- Westin Maui Resort & Spa Hawaii
-- Whitehaven Beach, Australia!
-- koala lampur, Malaysia
+-   croatie > noa beach club
+-   croatie > Hvar Island, Dalmatian Coast.
+-   Panama City
+-   parc montjuic barcelone,
+-   Cala Aiguablava. Begur.
+-   Palma de Majorque : playa de S'Amarador
+-   macau grand lisboa
+-   Niagara Falls Canada
+-   Angel Falls in Venezuela
+-   IGUAZÚ!!: Argentina
+-   Venice , Italy
+-   Lipari Italy,
+-   porticello Italy
+-   Sandorini Greece **\*\*\***
+-   hasos Island , Greece
+-   Santorini Island, Greece
+-   Hallstatt, Austria
+-   Furore Amalfi Italy!
+-   Lake Como, Italy
+-   Santorini, Greece
+-   Tagaytay Highlands, Philippines
+-   Rio, Brazil
+-   Islamorada, a "Village of Islands," is an incorporated village in Monroe County, Florida, United States
+-   Whitsunday Islands National Park Australia
+-   Ile de malte
+-   Tenerife
+-   Lofoten
+-   Belmond Hotel splendido Italy (Genes)
+-   Hurtigruten Norway
+-   laucala Island Fiji
+-   Alberta, ?#?Canada? !
+-   Ice hotel North Sweden
+-   Kite Beach. Dubai
+-   indonésie sur l'île de Lombok. >deloustal >
+-   euschwanstein Castle - Hill castle in Schwangau, Germany
+-   Natural Beauty Of Alberta, Canada.
+-   Maldives , Wonderful
+-   Westin Maui Resort & Spa Hawaii
+-   Whitehaven Beach, Australia!
+-   koala lampur, Malaysia

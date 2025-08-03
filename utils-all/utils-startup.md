@@ -2,7 +2,14 @@
 
 ## TABLE OF CONTENTS
 
+-   [LIST](#list)
+-   [Indie](#indie)
+-   [Start](#start)
+-   [Sell](#sell)
+-   [Swiss](#swiss)
+
 ## LIST
+
 <p><a href="https://www.indiehackers.com/@davidemcneill/want-to-make-money-pick-one-of-these-profitable-business-models-91ae567077">https://www.indiehackers.com/@davidemcneill/want-to-make-money-pick-one-of-these-profitable-business-models-91ae567077</a><br>
 <a href="https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34">https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34</a><br>
 <a href="https://medium.com/googleplaydev/the-promise-of-persuasive-apps-98b428ee18ef">https://medium.com/googleplaydev/the-promise-of-persuasive-apps-98b428ee18ef</a><br>
@@ -23,19 +30,22 @@ https://jatins.gitlab.io/me/why-startup/
 
 ## Indie
 
-- https://github.com/KatherineMichel/tech-and-funding-toolkit
-- https://github.com/squareboat/growth-hacking-guide
-- https://github.com/mezod/awesome-indie
-- https://blacksandsmedia.com/sell-your-site
-- https://tinyacquisitions.com/
-- https://www.indiehackers.com/
-- https://startupaffiliate.io/
+-   <https://github.com/KatherineMichel/tech-and-funding-toolkit>
+-   <https://github.com/squareboat/growth-hacking-guide>
+-   <https://github.com/mezod/awesome-indie>
+-   <https://blacksandsmedia.com/sell-your-site>
+-   <https://tinyacquisitions.com/>
+-   <https://www.indiehackers.com/>
+-   <https://startupaffiliate.io/>
 
 ## Start
-- https://www.uniqueside.io/
+
+-   <https://www.uniqueside.io/>
 
 ## Sell
-- https://acquire.com/
+
+-   <https://acquire.com/>
 
 ## Swiss
-- https://twistlab.ch/
+
+-   <https://twistlab.ch/>

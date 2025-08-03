@@ -22,7 +22,7 @@ function getMarkdownFiles(dir) {
   return results;
 }
 
-const markdownFiles = getMarkdownFiles('./utils-os/');
+const markdownFiles = getMarkdownFiles('./utils-all/');
 let pending = markdownFiles.length;
 
 if (pending === 0) {

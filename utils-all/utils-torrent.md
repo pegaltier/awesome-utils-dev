@@ -1,27 +1,30 @@
-
-
 # TORRENT
 
 ## TABLE OF CONTENTS
 
+-   [TOR](#tor)
+-   [STREAM](#stream)
+-   [VPN](#vpn)
 
 ## TOR
-- https://www.torproject.org/
-- https://snowflake.torproject.org/
-- https://github.com/ajvb/awesome-tor
-- https://github.com/5ky1ar/Awesome-Onion-Links
-- https://github.com/dirtyfilthy/freshonions-torscraper
+
+-   <https://www.torproject.org/>
+-   <https://snowflake.torproject.org/>
+-   <https://github.com/ajvb/awesome-tor>
+-   <https://github.com/5ky1ar/Awesome-Onion-Links>
+-   <https://github.com/dirtyfilthy/freshonions-torscraper>
 
 ## STREAM
 
-- https://webtorrent.io/
-- https://webtor.io/
-- https://webtorrent.io/desktop/
-- https://github.com/Viren070/AIOStreams
-- https://github.com/webtorrent/webtorrent
+-   <https://webtorrent.io/>
+-   <https://webtor.io/>
+-   <https://webtorrent.io/desktop/>
+-   <https://github.com/Viren070/AIOStreams>
+-   <https://github.com/webtorrent/webtorrent>
 
 ## VPN
-- https://github.com/f13end/free-vpn
-- https://github.com/patte/fly-tailscale-exit
-- https://github.com/angristan/openvpn-install
-- https://github.com/freifunkMUC/wg-access-server
+
+-   <https://github.com/f13end/free-vpn>
+-   <https://github.com/patte/fly-tailscale-exit>
+-   <https://github.com/angristan/openvpn-install>
+-   <https://github.com/freifunkMUC/wg-access-server>

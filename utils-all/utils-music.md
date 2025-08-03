@@ -2,11 +2,13 @@
 
 ## TABLE OF CONTENTS
 
+-   [TOOLS](#tools)
+-   [SOUNDPACKS](#soundpacks)
 
 ## TOOLS
 
-- https://sonuum.com/
-- https://github.com/tidalcycles/tidal/
+-   <https://sonuum.com/>
+-   <https://github.com/tidalcycles/tidal/>
 
 ## SOUNDPACKS
 

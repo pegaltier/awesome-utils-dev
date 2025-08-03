@@ -2,41 +2,56 @@
 
 ## TABLE OF CONTENTS
 
+-   [LIST](#list)
+-   [ABTESTING / FEATURE TOGGLE](#abtesting--feature-toggle)
+-   [VIDEO](#video)
+-   [PRESENTATION / SLIDES](#presentation--slides)
+-   [ADVERTISING](#advertising)
+-   [CUSTOMER SERVICES](#customer-services)
+-   [GROWTH HACKING](#growth-hacking)
+
 ## LIST
-- https://github.com/LisaDziuba/Marketing-for-Engineers
-- https://github.com/goabstract/Marketing-for-Engineers
+
+-   <https://github.com/LisaDziuba/Marketing-for-Engineers>
+-   <https://github.com/goabstract/Marketing-for-Engineers>
 
 ## ABTESTING / FEATURE TOGGLE
-- https://github.com/DigitalOptimizationGroup/cms
-- https://github.com/growthbook/growthbook
-- https://github.com/Flagsmith/flagsmith
-- https://github.com/Unleash/unleash
-- https://github.com/PostHog/posthog
-- https://www.digitaloptgroup.com/
-- https://www.growthbook.io/
-- https://launchdarkly.com/
-- https://configcat.com/
-- https://testit.so/
-- https://keak.com/
+
+-   <https://github.com/DigitalOptimizationGroup/cms>
+-   <https://github.com/growthbook/growthbook>
+-   <https://github.com/Flagsmith/flagsmith>
+-   <https://github.com/Unleash/unleash>
+-   <https://github.com/PostHog/posthog>
+-   <https://www.digitaloptgroup.com/>
+-   <https://www.growthbook.io/>
+-   <https://launchdarkly.com/>
+-   <https://configcat.com/>
+-   <https://testit.so/>
+-   <https://keak.com/>
 
 ## VIDEO
-- https://vimeo.com/
-- https://www.heygen.com/
-- https://www.blotato.com/
+
+-   <https://vimeo.com/>
+-   <https://www.heygen.com/>
+-   <https://www.blotato.com/>
 
 ## PRESENTATION / SLIDES
-- https://github.com/hakimel/reveal.js
-- https://github.com/webslides/WebSlides
-- https://github.com/imakewebthings/deck.js
+
+-   <https://github.com/hakimel/reveal.js>
+-   <https://github.com/webslides/WebSlides>
+-   <https://github.com/imakewebthings/deck.js>
 
 ## ADVERTISING
-- https://github.com/prebid/Prebid.js
+
+-   <https://github.com/prebid/Prebid.js>
 
 ## CUSTOMER SERVICES
-- https://github.com/rudderlabs/rudder-sdk-js
+
+-   <https://github.com/rudderlabs/rudder-sdk-js>
 
 ## GROWTH HACKING
-- https://convertio.co/fr/html-gif/
+
+-   <https://convertio.co/fr/html-gif/>
 
 <h2>Social Media</h2>
 <p><a href="https://www.quuu.co">https://www.quuu.co</a></p>
