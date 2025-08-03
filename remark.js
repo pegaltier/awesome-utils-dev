@@ -33,12 +33,12 @@ if (pending === 0) {
 markdownFiles.forEach(input => {
   unified()
     .use(remarkParse)
-    // .use(remarkBreaks)
+    .use(remarkBreaks)
     .use(remarkToc, {
       heading: 'TABLE OF CONTENTS',
       maxDepth: 3
     })
-    // .use(remarkStringify)
+    .use(remarkStringify)
     .process(vfile.readSync(input), function (err, file) {
       if (err) {
         console.error(`❌ Error processing ${input}:`, err);
