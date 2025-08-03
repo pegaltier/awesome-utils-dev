@@ -1,26 +1,41 @@
-
-# Windows 
+# Windows
 
 ## TABLE OF CONTENTS
-<!-- toc -->
+
+-   [Tools: ALL](#tools-all)
+
+-   [Tools: OSS](#tools-oss)
+
+-   [SSH Key](#ssh-key)
+
+    -   [Create SSH Key](#create-ssh-key)
+    -   [Use SSH Key](#use-ssh-key)
+
+-   [SSH Agent](#ssh-agent)
+
+-   [SSH/SCP Copy](#sshscp-copy)
+
+-   [MORE](#more)
 
 ## Tools: ALL
-- https://cmder.app/
-- https://winstall.app/
-- https://www.getpaint.net/
-- https://getgreenshot.org/
-- https://www.mythicsoft.com/agentransack/
-- https://www.scootersoftware.com/
+
+-   <https://cmder.app/>
+-   <https://winstall.app/>
+-   <https://www.getpaint.net/>
+-   <https://getgreenshot.org/>
+-   <https://www.mythicsoft.com/agentransack/>
+-   <https://www.scootersoftware.com/>
 
 ## Tools: OSS
-- https://github.com/cmderdev/cmder
-- https://github.com/microsoft/PowerToys
-- https://github.com/rocksdanister/lively
-- https://github.com/Awesome-Windows/Awesome
+
+-   <https://github.com/cmderdev/cmder>
+-   <https://github.com/microsoft/PowerToys>
+-   <https://github.com/rocksdanister/lively>
+-   <https://github.com/Awesome-Windows/Awesome>
 
 ## SSH Key
 
-- https://www.purdue.edu/science/scienceit/ssh-keys-windows.html
+-   <https://www.purdue.edu/science/scienceit/ssh-keys-windows.html>
 
 ### Create SSH Key
 
@@ -47,7 +62,7 @@ ssh -i myprivatekey root@123.456.789.22
 
 ## SSH/SCP Copy
 
-- https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh
+-   <https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh>
 
 ```bash
 # Syntax:
