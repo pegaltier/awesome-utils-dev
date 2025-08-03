@@ -4,9 +4,9 @@ To manage version of dev tools like Node, Java, Maven you can use an utility lik
 
 ## Adfs
 
-- https://asdf-vm.com/
-- https://www.wiserfirst.com/blog/install-java-with-asdf/
-- https://www.wiserfirst.com/blog/how-to-use-asdf-on-macos/
+-   <https://asdf-vm.com/>  
+    - <https://www.wiserfirst.com/blog/install-java-with-asdf/>
+-   <https://www.wiserfirst.com/blog/how-to-use-asdf-on-macos/>
 
 ```bash
 # install and set default node 18
@@ -20,8 +20,8 @@ asdf global java openjdk-17.0.2
 
 ## Sdkman
 
-- https://sdkman.io/
+-   <https://sdkman.io/>
 
 ## NVM
 
-- https://github.com/nvm-sh/nvm
+-   <https://github.com/nvm-sh/nvm>

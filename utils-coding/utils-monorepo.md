@@ -1,4 +1,5 @@
 # MONOREPO
 
 ## EXAMPLES
-- https://github.com/mihailtd/demo-monorepo
+
+-   <https://github.com/mihailtd/demo-monorepo>

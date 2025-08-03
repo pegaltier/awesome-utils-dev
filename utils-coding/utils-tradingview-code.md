@@ -2,6 +2,15 @@
 
 ## TABLE OF CONTENTS
 
+-   [Generic onliner](#generic-onliner)
+-   [Generic multiline](#generic-multiline)
+-   [Exit after x bars in trade](#exit-after-x-bars-in-trade)
+-   [Exit after x percent gains in trade](#exit-after-x-percent-gains-in-trade)
+-   [Multi time frame calculation](#multi-time-frame-calculation)
+-   [Multi time frame DAILY OHLC](#multi-time-frame-daily-ohlc)
+-   [Multi Moving average function](#multi-moving-average-function)
+-   [UDT / User defined types](#udt--user-defined-types)
+-   [VARIOUS](#various)
 
 ## Generic onliner
 
@@ -38,7 +47,6 @@ calcPosSize(riskPerc, usePosSize) =>
     posSize
 ```
 
-
 ## Exit after x bars in trade
 
 ```javascript
@@ -52,7 +60,6 @@ condEnterShort = isNotShort() and condShort
 condExitLong = isLong() and ta.barssince(condEnterLong) >= exitLongAfterBars -1 
 condExitShort = isShort() and ta.barssince(condEnterShort) >= exitShortAfterBars -1
 ```
-
 
 ## Exit after x percent gains in trade
 
@@ -70,7 +77,6 @@ condExitShort = isShort() and currentPosPercent >= exitShortAfterPercents
 // https://www.tradingcode.net/tradingview/open-order-identifier/
 ```
 
-
 ## Multi time frame calculation
 
 ```javascript
@@ -86,11 +92,10 @@ emaValue3 = f_sec(market, res3, ema)
 
 ## Multi time frame DAILY OHLC
 
-[do,dh,dl] = request.security(syminfo.tickerid, 'D', [open, high, low], lookahead=barmerge.lookahead_on)
-plot(dh, title="High", color=color.red,    linewidth=2, trackprice=true)
-plot(do, title="Open", color=color.yellow, linewidth=2, trackprice=true)
+[do,dh,dl] = request.security(syminfo.tickerid, 'D', [open, high, low], lookahead=barmerge.lookahead_on)  
+plot(dh, title="High", color=color.red,    linewidth=2, trackprice=true)  
+plot(do, title="Open", color=color.yellow, linewidth=2, trackprice=true)  
 plot(dl, title="Low",  color=color.green,  linewidth=2, trackprice=true)
-
 
 ## Multi Moving average function
 
@@ -108,7 +113,7 @@ ma(type, source, length) =>
 
 ## UDT / User defined types
 
-all primitives used in User defined types become automatically a series. so if you need a primitive an alternative is to use a caching mechanism to set and get variables, here a library that provides a simple caching solution in pinescript: https://www.tradingview.com/script/f2ibenEK-cache/
+all primitives used in User defined types become automatically a series. so if you need a primitive an alternative is to use a caching mechanism to set and get variables, here a library that provides a simple caching solution in pinescript: <https://www.tradingview.com/script/f2ibenEK-cache/>
 
 ```javascript
 type TDetail
@@ -131,8 +136,8 @@ test = master.details.anotherThing // /!\ this is a series but we dont want that
 test2 = master.another // /!\ this is a series but we dont want that
 ```
 
-
 ## VARIOUS
-// Equity line
-plot(title="Equity Line", series=strategy.equity, trackprice=true, display=display.data_window, color=color.red)
-// https://docs.google.com/document/d/1WsYr45NKv93pwGp23fCa36ePvuOS8dhWxAaUTaSYwe0/edit?tab=t.0#heading=h.e6xd5j1f043x
+
+// Equity line  
+plot(title="Equity Line", series=strategy.equity, trackprice=true, display=display.data_window, color=color.red)  
+// <https://docs.google.com/document/d/1WsYr45NKv93pwGp23fCa36ePvuOS8dhWxAaUTaSYwe0/edit?tab=t.0#heading=h.e6xd5j1f043x>

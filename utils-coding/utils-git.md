@@ -2,127 +2,160 @@
 
 ## TABLE OF CONTENTS
 
+-   [TUTORIAL](#tutorial)
+-   [TOOLS](#tools)
+-   [OSS](#oss)
+-   [GITLAB](#gitlab)
+-   [ACTIONS](#actions)
+-   [ACTIONS: EXT](#actions-ext)
+-   [TEMPLATES](#templates)
+-   [MOST USED](#most-used)
+-   [CLONE](#clone)
+-   [INIT](#init)
+-   [RESET](#reset)
+-   [STASH](#stash)
+-   [HASH](#hash)
+-   [CREATE BRANCH](#create-branch)
+-   [MERGE/REBASE](#mergerebase)
+-   [MERGE BRANCH](#merge-branch)
+-   [REBASE BRANCH](#rebase-branch)
+-   [RENAME BRANCH](#rename-branch)
+-   [SQUASH BRANCH](#squash-branch)
+-   [CONTRIBUTE](#contribute)
+-   [CONFIG](#config)
+-   [ALIAS](#alias)
+-   [VSCODE SSH](#vscode-ssh)
+-   [SUBMODULES](#submodules)
+-   [PAGES](#pages)
+-   [MULTI SSH](#multi-ssh)
 
 ## TUTORIAL
-- https://githooks.com/
-- https://actionsbook.com/
-- http://learngitbranching.js.org
-- https://trunkbaseddevelopment.com
-- https://maggieappleton.com/git-mistakes
-- https://rogerdudler.github.io/git-guide/
-- https://github.com/fffaraz/awesome-github
-- https://blog.octo.com/git-dans-la-pratique-22
-- https://github.com/mundimark/awesome-markdown
-- https://github.com/GoldinGuy/UltimateGitResource
-- https://guides.github.com/features/mastering-markdown
-- https://github.com/firstcontributions/first-contributions
-- https://juristr.com/blog/2019/04/productive-git-for-developers
-- https://github.com/githubsatelliteworkshops/ci-cd-with-actions
-- https://www.atlassian.com/git/tutorials/setting-up-a-repository
-- https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/
+
+-   <https://githooks.com/>
+-   <https://actionsbook.com/>
+-   <http://learngitbranching.js.org>
+-   <https://trunkbaseddevelopment.com>
+-   <https://maggieappleton.com/git-mistakes>
+-   <https://rogerdudler.github.io/git-guide/>
+-   <https://github.com/fffaraz/awesome-github>
+-   <https://blog.octo.com/git-dans-la-pratique-22>
+-   <https://github.com/mundimark/awesome-markdown>
+-   <https://github.com/GoldinGuy/UltimateGitResource>
+-   <https://guides.github.com/features/mastering-markdown>
+-   <https://github.com/firstcontributions/first-contributions>
+-   <https://juristr.com/blog/2019/04/productive-git-for-developers>
+-   <https://github.com/githubsatelliteworkshops/ci-cd-with-actions>
+-   <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
+-   <https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/>
 
 ## TOOLS
-- https://github.com/conventional-changelog/standard-version
-- https://github.com/jamesgeorge007/github-activity-readme
-- https://github.com/conventional-changelog/commitlint
-- https://github.com/toplenboren/simple-git-hooks
-- https://github.com/sindresorhus/refined-github
-- https://github.com/github/github-app-js-sample
-- https://github.com/nemisj/git-removed-branches
-- https://github.com/githubocto/repo-visualizer
-- https://github.com/kreuzerk/import-conductor
-- https://github.com/rafgraph/spa-github-pages
-- https://github.com/AsyncFuncAI/deepwiki-open
-- https://github.com/avgupta456/github-trends
-- https://github.com/eranshmil/github-monitor
-- https://github.com/Gherciu/commitlint-jira
-- https://github.com/erikbern/git-of-theseus
-- https://prettier.io/docs/en/precommit.html
-- https://github.com/gitbutlerapp/gitbutler
-- https://github.com/jesseduffield/lazygit
-- https://github.com/release-it/release-it
-- https://github.com/Kikobeats/git-garbage
-- https://github.com/jevakallio/git-notify
-- https://github.com/atlassian/changesets
-- https://github.com/observing/pre-commit
-- https://github.com/zricethezav/gitleaks
-- https://github.com/bahmutov/npm-install
-- https://github.com/github/super-linter
-- https://github.com/cocogitto/cocogitto
-- https://github.com/asottile/all-repos
-- https://github.com/lowlighter/metrics
-- https://github.com/okonet/lint-staged
-- https://github.com/commitizen/cz-cli
-- https://github.com/github/git-sizer
-- https://github.com/dandavison/delta
-- https://github.com/eth0izzle/shhgit
-- https://github.com/typicode/husky
-- https://github.com/upptime/upptime
-- https://github.com/alibaba/hooks
-- https://github.com/probot/probot
-- https://www.gitkraken.com/
-- https://socialify.git.ci/
-- https://gitexplorer.com/
-- https://projectr.io/
-- https://grep.app/
+
+-   <https://github.com/conventional-changelog/standard-version>
+-   <https://github.com/jamesgeorge007/github-activity-readme>
+-   <https://github.com/conventional-changelog/commitlint>
+-   <https://github.com/toplenboren/simple-git-hooks>
+-   <https://github.com/sindresorhus/refined-github>
+-   <https://github.com/github/github-app-js-sample>
+-   <https://github.com/nemisj/git-removed-branches>
+-   <https://github.com/githubocto/repo-visualizer>
+-   <https://github.com/kreuzerk/import-conductor>
+-   <https://github.com/rafgraph/spa-github-pages>
+-   <https://github.com/AsyncFuncAI/deepwiki-open>
+-   <https://github.com/avgupta456/github-trends>
+-   <https://github.com/eranshmil/github-monitor>
+-   <https://github.com/Gherciu/commitlint-jira>
+-   <https://github.com/erikbern/git-of-theseus>
+-   <https://prettier.io/docs/en/precommit.html>
+-   <https://github.com/gitbutlerapp/gitbutler>
+-   <https://github.com/jesseduffield/lazygit>
+-   <https://github.com/release-it/release-it>
+-   <https://github.com/Kikobeats/git-garbage>
+-   <https://github.com/jevakallio/git-notify>
+-   <https://github.com/atlassian/changesets>
+-   <https://github.com/observing/pre-commit>
+-   <https://github.com/zricethezav/gitleaks>
+-   <https://github.com/bahmutov/npm-install>
+-   <https://github.com/github/super-linter>
+-   <https://github.com/cocogitto/cocogitto>
+-   <https://github.com/asottile/all-repos>
+-   <https://github.com/lowlighter/metrics>
+-   <https://github.com/okonet/lint-staged>
+-   <https://github.com/commitizen/cz-cli>
+-   <https://github.com/github/git-sizer>
+-   <https://github.com/dandavison/delta>
+-   <https://github.com/eth0izzle/shhgit>
+-   <https://github.com/typicode/husky>
+-   <https://github.com/upptime/upptime>
+-   <https://github.com/alibaba/hooks>
+-   <https://github.com/probot/probot>
+-   <https://www.gitkraken.com/>
+-   <https://socialify.git.ci/>
+-   <https://gitexplorer.com/>
+-   <https://projectr.io/>
+-   <https://grep.app/>
 
 ## OSS
-- https://github.com/star-history/star-history
-- https://github.com/kyechan99/capsule-render
-- https://github.com/github-20k/super-star
-- https://github.com/jdalrymple/gitbeaker
-- https://github.com/seladb/StarTrack-js
-- https://github.com/harness/gitness
-- https://github.com/open-sauced/api
-- https://libraries.github20k.com/
-- https://www.github20k.com/
+
+-   <https://github.com/star-history/star-history>
+-   <https://github.com/kyechan99/capsule-render>
+-   <https://github.com/github-20k/super-star>
+-   <https://github.com/jdalrymple/gitbeaker>
+-   <https://github.com/seladb/StarTrack-js>
+-   <https://github.com/harness/gitness>
+-   <https://github.com/open-sauced/api>
+-   <https://libraries.github20k.com/>
+-   <https://www.github20k.com/>
 
 ## GITLAB
-- https://github.com/tavyandy97/span-tree
+
+-   <https://github.com/tavyandy97/span-tree>
 
 ## ACTIONS
-- https://github.com/nektos/act
-- https://github.com/garronej/ts_ci
-- https://github.com/actions/toolkit
-- https://github.com/woodruffw/zizmor
-- https://github.com/bobheadxi/deployments
-- https://github.com/sdras/awesome-actions
-- https://github.com/balazsorban44/nissuer
-- https://github.com/actions/add-to-project
-- https://github.com/Codex-/return-dispatch
-- https://github.com/Cicada-Software/cicada
-- https://github.com/jonico/awesome-runners
-- https://github.com/Codex-/await-remote-run
-- https://github.com/actionsflow/actionsflow
-- https://github.com/ad-m/github-push-action
-- https://github.com/tj-actions/changed-files
-- https://github.com/actions/starter-workflows
-- https://github.com/rossjrw/pr-preview-action
-- https://github.com/benc-uk/workflow-dispatch
-- https://github.com/actions/typescript-action
-- https://github.com/githubocto/repo-visualizer
-- https://github.com/softprops/action-gh-release
-- https://github.com/probot/example-github-action
-- https://github.com/mtfoley/pr-compliance-action
-- https://github.com/styfle/cancel-workflow-action
-- https://github.com/fountainhead/action-wait-for-check
-- https://github.com/jaxxstorm/action-install-gh-release
-- https://github.com/SanjulaGanepola/github-local-actions
+
+-   <https://github.com/nektos/act>
+-   <https://github.com/garronej/ts_ci>
+-   <https://github.com/actions/toolkit>
+-   <https://github.com/woodruffw/zizmor>
+-   <https://github.com/bobheadxi/deployments>
+-   <https://github.com/sdras/awesome-actions>
+-   <https://github.com/balazsorban44/nissuer>
+-   <https://github.com/actions/add-to-project>
+-   <https://github.com/Codex-/return-dispatch>
+-   <https://github.com/Cicada-Software/cicada>
+-   <https://github.com/jonico/awesome-runners>
+-   <https://github.com/Codex-/await-remote-run>
+-   <https://github.com/actionsflow/actionsflow>
+-   <https://github.com/ad-m/github-push-action>
+-   <https://github.com/tj-actions/changed-files>
+-   <https://github.com/actions/starter-workflows>
+-   <https://github.com/rossjrw/pr-preview-action>
+-   <https://github.com/benc-uk/workflow-dispatch>
+-   <https://github.com/actions/typescript-action>
+-   <https://github.com/githubocto/repo-visualizer>
+-   <https://github.com/softprops/action-gh-release>
+-   <https://github.com/probot/example-github-action>
+-   <https://github.com/mtfoley/pr-compliance-action>
+-   <https://github.com/styfle/cancel-workflow-action>
+-   <https://github.com/fountainhead/action-wait-for-check>
+-   <https://github.com/jaxxstorm/action-install-gh-release>
+-   <https://github.com/SanjulaGanepola/github-local-actions>
 
 ## ACTIONS: EXT
-- https://github.com/marketplace/actions/code-pushup
+
+-   <https://github.com/marketplace/actions/code-pushup>
 
 ## TEMPLATES
-- https://github.com/badges/shields
-- https://github.com/tandpfun/skill-icons
-- https://github.com/vgpena/gh-docs-boilerplate
-- https://github.com/kefranabg/readme-md-generator
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/stevemao/github-issue-templates
-- https://github.com/sindresorhus/css-in-readme-like-wat
-- https://github.com/EddieHubCommunity/awesome-github-profiles
-- https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- https://github.com/kautukkundan/Awesome-Profile-README-templates
+
+-   <https://github.com/badges/shields>
+-   <https://github.com/tandpfun/skill-icons>
+-   <https://github.com/vgpena/gh-docs-boilerplate>
+-   <https://github.com/kefranabg/readme-md-generator>
+-   <https://github.com/anuraghazra/github-readme-stats>
+-   <https://github.com/stevemao/github-issue-templates>
+-   <https://github.com/sindresorhus/css-in-readme-like-wat>
+-   <https://github.com/EddieHubCommunity/awesome-github-profiles>
+-   <https://github.com/abhisheknaiidu/awesome-github-profile-readme>
+-   <https://github.com/kautukkundan/Awesome-Profile-README-templates>
 
 ## MOST USED
 
@@ -152,27 +185,30 @@ git config --get remote.origin.url (check the remote url)
 git commit --amend -m "New commit msg" (edit wrong unpushed commit message)
 ```
 
-## CLONE 
+## CLONE
 
-- Clone existing project into project folder
+-   Clone existing project into project folder
+
 ```bash
 git clone -b my-branch git@github.com:user/myproject.git
 ```
 
-- Clone existing project into the current folder (.)
+-   Clone existing project into the current folder (.)
+
 ```bash
 git clone -b my-branch git@github.com:whatever .
 ```
 
-- Clone existing project into the specific folder (my-name)
+-   Clone existing project into the specific folder (my-name)
+
 ```bash
 git clone -b my-branch git@github.com:whatever my-name
 ```
 
 ## INIT
 
-1. Setting up a remote repository using web github/bitbucket
-2. Setting up your local repository and commit
+1.  Setting up a remote repository using web github/bitbucket
+2.  Setting up your local repository and commit
 
 ```bash
 git init
@@ -180,7 +216,8 @@ git add *
 git commit -m "init project"
 ```
 
-3. Add origin bitbucket or git
+3.  Add origin bitbucket or git
+
 ```bash
 git remote add origin https/or/git/url
 git push origin master
@@ -189,13 +226,13 @@ git push -u origin --all
 
 ## RESET
 
-- Clean deleted branch:
+-   Clean deleted branch:
 
 ```bash
 git fetch --prune
 ```
 
-- Different reset possible
+-   Different reset possible
 
 ```bash
 git fetch origin
@@ -204,7 +241,7 @@ git reset --mixed (default) (Uncommit + unstage changes, changes are left in 
 git reset --hard: (Uncommit + unstage + delete changes, nothing left)
 ```
 
-- Reset to match the remote branch
+-   Reset to match the remote branch
 
 ```bash
 git reset --soft HEAD~1 (Undo last local commit)
@@ -213,22 +250,23 @@ git reset --hard 3c74a11530697214cbcc4b7b98bf7a65 (Reset to commit)
 git reset --hard (Reset any local changes)
 ```
 
-- Remove local files and dir
+-   Remove local files and dir
+
 ```bash
 git clean -n -f (to see)
 git clean -f (to execute)
 git clean -fd (and dir)
 ```
 
-- Reset local
+-   Reset local
 
 ```bash
 rm -Force -Recurse .git
 ```
 
-- all resets possible
-- https://stackoverflow.com/a/42903805
-- https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard
+-   all resets possible
+-   <https://stackoverflow.com/a/42903805>
+-   <https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard>
 
 ## STASH
 
@@ -248,57 +286,58 @@ git stash branch <name> stash@{1} # or 'stash@{1}' on windows
 git stash clear
 git stash drop stash@{1} # or 'stash@{1}' on windows
 ```
-More detail: https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/
+
+More detail: <https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/>
 
 ## HASH
 
 To get the full SHA:
-```
-$ git rev-parse HEAD
-cbf1b9a1be984a9f61b79a05f23b19f66d533537
-```
+
+    $ git rev-parse HEAD
+    cbf1b9a1be984a9f61b79a05f23b19f66d533537
 
 To get the shortened version:
-```
-$ git rev-parse --short HEAD
-cbf1b9a
-```
+
+    $ git rev-parse --short HEAD
+    cbf1b9a
 
 ## CREATE BRANCH
 
-1. develop on base branch..
-2. checkout 
-```
-git checkout -b branchName
-```
-3. commit and push
-```
-git commit on ide
-git push --set-upstream origin 1109-issue-name
-git push -u origin 1109-issue-name
-```
+1.  develop on base branch..
+2.  checkout 
+
+
+    git checkout -b branchName
+
+3.  commit and push
+
+
+    git commit on ide
+    git push --set-upstream origin 1109-issue-name
+    git push -u origin 1109-issue-name
 
 OR
 
-1. develop on base branch..
-2. stash and create branch from stash
-```
-git stash
-git stash branch 1109-issue-name
-```
-3. commit and push
-```
-git commit on ide
-git push --set-upstream origin 1109-issue-name
-git push -u origin 1109-issue-name
-```
+1.  develop on base branch..
+2.  stash and create branch from stash
+
+
+    git stash
+    git stash branch 1109-issue-name
+
+3.  commit and push
+
+
+    git commit on ide
+    git push --set-upstream origin 1109-issue-name
+    git push -u origin 1109-issue-name
 
 ## MERGE/REBASE
 
-- https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
-- https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-- https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
-- https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
+-   <https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c>
+-   <https://www.atlassian.com/git/tutorials/merging-vs-rebasing>
+-   <https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase>
+-   <https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333>
 
 ## MERGE BRANCH
 
@@ -313,7 +352,8 @@ git merge --abort (cancel)
 ```
 
 You can also use Gitlab/Bitbucket explorer or VSCode plugin "Git merger":
-- from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
+
+-   from custom_branch > CTRL+SHIFT + P > Git: Merge from > Master
 
 ## REBASE BRANCH
 
@@ -357,133 +397,123 @@ git commit -m 'my commit message'
 
 ## CONTRIBUTE
 
-1. Fork the github remote repository
-2. Checkout your fork in your machine
-3. Set the source repository as upstream
-4. Fetch the full upstream repository.
-5. Create branch, do your changes, push
-6. Create a PR from your repo to the upstream
+1.  Fork the github remote repository
+2.  Checkout your fork in your machine
+3.  Set the source repository as upstream
+4.  Fetch the full upstream repository.
+5.  Create branch, do your changes, push
+6.  Create a PR from your repo to the upstream
 
-```
-on the GitHub website fork the repository in question (called ‘upstream’) # step 1
-git clone https://github.com/{user}/{your-repo}.git # step 2
-git remote add upstream https://github.com/{user}/{source-repo}.git # step 3
-git fetch upstream # step 4
-git merge upstream/main # step 5
-git checkout -b my-branch & git commit & git push # step 6
-on the GitHub website open a PR for your branch: my-branch # step 7
-```
 
-- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
+    on the GitHub website fork the repository in question (called ‘upstream’) # step 1
+    git clone https://github.com/{user}/{your-repo}.git # step 2
+    git remote add upstream https://github.com/{user}/{source-repo}.git # step 3
+    git fetch upstream # step 4
+    git merge upstream/main # step 5
+    git checkout -b my-branch & git commit & git push # step 6
+    on the GitHub website open a PR for your branch: my-branch # step 7
+
+-   <https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork>
 
 ## CONFIG
 
 Switch credentiel method (token)
-```
-git config user.email
 
-git config --global credential.helper wincred
-git config --global credential.helper manager
+    git config user.email
 
-git remote rm origin
-git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
-```
+    git config --global credential.helper wincred
+    git config --global credential.helper manager
+
+    git remote rm origin
+    git remote add origin https://user:password@github.com/pegaltier/utils-dev.git
 
 ## ALIAS
 
-https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+<https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases>
 
-```
-git config --global alias.pul "pull origin master"
-git config --global alias.pus "push origin master"
-git config --global alias.co checkout
-git config --global alias.br branch
-git config --global alias.ci commit
-git config --global alias.st status
-```
-
+    git config --global alias.pul "pull origin master"
+    git config --global alias.pus "push origin master"
+    git config --global alias.co checkout
+    git config --global alias.br branch
+    git config --global alias.ci commit
+    git config --global alias.st status
 
 ## VSCODE SSH
 
-```
-start-ssh-agent
-code
-```
+    start-ssh-agent
+    code
 
 ## SUBMODULES
 
-- switch branch:
-```
-git pull origin name
-git submodule update
-```
+-   switch branch:
 
-- reset config:
-```
-# go to the branch with gitmodules conf
-git checkout integration
-# get the latest changes
-git pull
-# copy the new URL to your local config
-git submodule sync --recursive
-# update the submodule from the new URL
-git submodule update --init --recursive
-```
 
-- pin a submodule
-```
-cd submodule
-git checkout 1eeda2931087d0d9ab693484e0b0d41e13cd9cb1
-cd ..
-git commit -m "pins latest @submodule"
-```
+    git pull origin name
+    git submodule update
+
+-   reset config:
+
+
+    # go to the branch with gitmodules conf
+    git checkout integration
+    # get the latest changes
+    git pull
+    # copy the new URL to your local config
+    git submodule sync --recursive
+    # update the submodule from the new URL
+    git submodule update --init --recursive
+
+-   pin a submodule
+
+
+    cd submodule
+    git checkout 1eeda2931087d0d9ab693484e0b0d41e13cd9cb1
+    cd ..
+    git commit -m "pins latest @submodule"
 
 ## PAGES
 
-- https://richpauloo.github.io/2019-11-17-Linking-a-Custom-Domain-to-Github-Pages/
+-   <https://richpauloo.github.io/2019-11-17-Linking-a-Custom-Domain-to-Github-Pages/>
 
 ## MULTI SSH
 
-https://gist.github.com/jexchan/2351996
-https://www.freecodecamp.org/news/how-to-manage-multiple-ssh-keys/
-https://superuser.com/questions/272465/using-multiple-ssh-public-keys/272613
-https://stackoverflow.com/questions/32212593/multiple-ssh-keys-are-not-working
+<https://gist.github.com/jexchan/2351996>  
+<https://www.freecodecamp.org/news/how-to-manage-multiple-ssh-keys/>  
+<https://superuser.com/questions/272465/using-multiple-ssh-public-keys/272613>  
+<https://stackoverflow.com/questions/32212593/multiple-ssh-keys-are-not-working>
 
-git encrypts/decrypt network traffic using this private/public key mechanism
-if you have a pr in ~/.ssh/id_rsa then ssh will automaticly use it
-you can also use ssh-agent to manage more keys manually but you have to repeat
-each time you reboot since ssh-agent loose config on restart of your computer
-so best way is to use the ~/.ssh/config file
-in addition to that you can want to configure per repo your user:
-git config user.name "Your Pseudo Here"
+git encrypts/decrypt network traffic using this private/public key mechanism  
+if you have a pr in ~/.ssh/id_rsa then ssh will automaticly use it  
+you can also use ssh-agent to manage more keys manually but you have to repeat  
+each time you reboot since ssh-agent loose config on restart of your computer  
+so best way is to use the ~/.ssh/config file  
+in addition to that you can want to configure per repo your user:  
+git config user.name "Your Pseudo Here"  
 git config user.email your@email.com
 
+    # multi key config:
 
-```
-# multi key config:
+    # ssh-agent commands:
+    # ssh-add -l # list all ssh keys
+    # ssh-add -D # delete all ssh keys
+    # ssh-add ~/.ssh/id_rsa # add a specific key
+    # ssh-add ~/.ssh/id_ed25519
+    #
+    # ssh-config example:
+    # man ssh_config
+    #
+    Host *github.com
+      Hostname github.com
+      AddKeysToAgent yes
+      UseKeychain yes
+      IdentitiesOnly yes
+      PreferredAuthentications publickey
+      IdentityFile ~/.ssh/id_ed25519_github
 
-# ssh-agent commands:
-# ssh-add -l # list all ssh keys
-# ssh-add -D # delete all ssh keys
-# ssh-add ~/.ssh/id_rsa # add a specific key
-# ssh-add ~/.ssh/id_ed25519
-#
-# ssh-config example:
-# man ssh_config
-#
-Host *github.com
-  Hostname github.com
-  AddKeysToAgent yes
-  UseKeychain yes
-  IdentitiesOnly yes
-  PreferredAuthentications publickey
-  IdentityFile ~/.ssh/id_ed25519_github
-
-Host *company.com
-  Hostname company.com
-  AddKeysToAgent yes
-  UseKeychain yes
-  IdentitiesOnly yes
-  PreferredAuthentications publickey
-  IdentityFile ~/.ssh/id_rsa_company
-```
+    Host *company.com
+      Hostname company.com
+      AddKeysToAgent yes
+      UseKeychain yes
+      IdentitiesOnly yes
+      PreferredAuthentications publickey
+      IdentityFile ~/.ssh/id_rsa_company

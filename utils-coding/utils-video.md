@@ -1,7 +1,5 @@
-
 # VIDEO
-
 
 ## AWESOME
 
-- https://github.com/krzemienski/awesome-video
+-   <https://github.com/krzemienski/awesome-video>

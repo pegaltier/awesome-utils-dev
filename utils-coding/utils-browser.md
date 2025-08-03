@@ -2,8 +2,9 @@
 
 ## Chrome
 
-- https://developer.chrome.com/docs/devtools/javascript/snippets/
-- https://developer.chrome.com/docs/devtools/evaluate-performance/reference/
+-   <https://developer.chrome.com/docs/devtools/javascript/snippets/>
+-   <https://developer.chrome.com/docs/devtools/evaluate-performance/reference/>
 
 ## Make
-- https://github.com/wxt-dev/wxt
+
+-   <https://github.com/wxt-dev/wxt>

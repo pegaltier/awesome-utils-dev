@@ -1,4 +1,5 @@
 # JSON
 
 ## LIB
-- https://jsonapi.org/implementations/
+
+-   <https://jsonapi.org/implementations/>
