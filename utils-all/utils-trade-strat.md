@@ -4,6 +4,7 @@
 
 -   [DIARY](#diary)
 -   [RULES](#rules)
+-   [CRYPTO ADVICE](#crypto-advice)
 -   [ALGOTRADE ADVICE](#algotrade-advice)
 -   [COMMON STRATEGY](#common-strategy)
 -   [STOP LOSS/EXIT](#stop-lossexit)
@@ -115,7 +116,7 @@
 
 ## CRYPTO ADVICE
 
-Bear market : Bitcoin take advantage against Altcoin
+Bear market : Bitcoin take advantage against Altcoin  
 Bull market : Altcoin take advantage against Bitcoin
 
 Bull market : When financiel crisis (ie greek / ie euro)

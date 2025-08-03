@@ -355,8 +355,8 @@ htttp://www.knowtex.com
 <http://www.up.co/>  
 <http://techcrunch.com/startups/>  
 <https://startup.kitchen/>  
-<http://startupgrind.com/>   ******\*\*******  
-<http://www.rudebaguette.com/>   ******\*******  
+<http://startupgrind.com/>   **\*\***\*\***\*\***  
+<http://www.rudebaguette.com/>   **\*\***\***\*\***  
 <http://nyc.lafrenchtech.com/>  
 <http://www.nyfrenchgeek.com/>  
 <http://www.producthunt.com/>  

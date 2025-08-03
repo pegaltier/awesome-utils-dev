@@ -76,12 +76,12 @@ zipalign (optimize RAM) :
 ## COMMON Error activity + toolbar + action bar
 
 -   <https://developer.android.com/training/appbar/index.html>
--   <https://guides.codepath.com/android/using-the-app-toolbar>													******\*\*\*******
+-   <https://guides.codepath.com/android/using-the-app-toolbar>													**\*\***\*\*\***\*\***
 -   <https://stackoverflow.com/questions/31297246/activity-appcompatactivity-fragmentactivity-and-actionbaractivity-when-to-us>
 
 ## COMMON Error share data
 
--   <https://stackoverflow.com/questions/4878159/whats-the-best-way-to-share-data-between-activities>				******\*\*\*******
+-   <https://stackoverflow.com/questions/4878159/whats-the-best-way-to-share-data-between-activities>				**\*\***\*\*\***\*\***
 
 ## COMMON Error data storage
 
@@ -89,23 +89,23 @@ zipalign (optimize RAM) :
 
 // COMMON Error user activity
 
--   <https://stackoverflow.com/questions/4208730/how-to-detect-user-inactivity-in-android>						******\*\*\******* todo
+-   <https://stackoverflow.com/questions/4208730/how-to-detect-user-inactivity-in-android>						**\*\***\*\*\***\*\*** todo
 
 ## COMMON Error application/singleton/context
 
--   <https://stackoverflow.com/questions/2002288/static-way-to-get-context-on-android?rq=1>						******\*\*\*******
+-   <https://stackoverflow.com/questions/2002288/static-way-to-get-context-on-android?rq=1>						**\*\***\*\*\***\*\***
 
--   <https://www.fwd.cloud/commit/post/android-context-on-demand/>												******\*\*\*******
+-   <https://www.fwd.cloud/commit/post/android-context-on-demand/>												**\*\***\*\*\***\*\***
 
--   <https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0>									******\*\*\*******
+-   <https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0>									**\*\***\*\*\***\*\***
 
--   <http://www.developerphil.com/dont-store-data-in-the-application-object/>										******\*\*\*******
+-   <http://www.developerphil.com/dont-store-data-in-the-application-object/>										**\*\***\*\*\***\*\***
 
--   <https://stackoverflow.com/questions/987072/using-application-context-everywhere>								******\*\*\*******
+-   <https://stackoverflow.com/questions/987072/using-application-context-everywhere>								**\*\***\*\*\***\*\***
 
--   <https://possiblemobile.com/2013/06/context/>																	******\*\*\*******
+-   <https://possiblemobile.com/2013/06/context/>																	**\*\***\*\*\***\*\***
 
--   <https://medium.com/@programmerr47/singletons-in-android-63ddf972a7e7>										******\*\*\*******
+-   <https://medium.com/@programmerr47/singletons-in-android-63ddf972a7e7>										**\*\***\*\*\***\*\***
 
 -   <https://android-developers.googleblog.com/2009/01/avoiding-memory-leaks.html>
 

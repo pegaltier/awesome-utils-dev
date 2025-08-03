@@ -488,7 +488,7 @@ So @ngrx/component (and partly @ngrx/component-store) are all about leveraging t
 
 -   observable$ | ngrxPush is a drop-in replacement for the async pipe. ngrxPush pipe will run change detection for you when the provided observable emits. It also handles errors a little more gracefully than the async pipe. Unlike the Angular async pipe it triggers change detection and rendering ONLY in the very component where the change got introduced, and the child components effected by the change.
 
--   _ngrxLet="observable$ as value" is an alternative for _ngIf="observable$ | async as value" that handles falsey values correctly, lets you handle errors, and also runs change detection when the provided observable emits.
+-   \_ngrxLet="observable$ as value" is an alternative for \_ngIf="observable$ | async as value" that handles falsey values correctly, lets you handle errors, and also runs change detection when the provided observable emits.
 
 -   \*ngIf="state$ | async as vm" (old syntax)
 
@@ -1026,11 +1026,13 @@ JamStack is a new way to build static website using javascript, apis, markups. c
 There is two way to develop those websites:
 
 -   server side rendering: do the rendering on a server, behind a cache. it's more complex and recommended only if you have very dynamic content in your page.
+
 -   pre rendering: do the rendering at the build and then deploy static files online, it's the simpler and the easy to go solution.
 
- In angular there is 2 solutions to build those static websites: 
+    In angular there is 2 solutions to build those static websites: 
 
 -   universal: official solution provided by angular 
+
 -   scully: community driven project, it's using a headless browser (puppeteer) and it's more complete and also provides also a plugin adapter.
 
 There is a new module called @angular/fire which helps to automatize the whole deployment process.
