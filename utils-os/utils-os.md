@@ -2,26 +2,26 @@
 
 ## TABLE OF CONTENTS
 
--   [Boot](#boot)
--   [Tools](#tools)
--   [Backup](#backup)
--   [Execute](#execute)
+-   [BOOT](#boot)
+-   [TOOLS](#tools)
+-   [BACKUP](#backup)
+-   [EXECUTE](#execute)
 
-## Boot
+## BOOT
 
 -   <https://www.balena.io/etcher/>
 -   <https://github.com/ventoy/Ventoy>
 
-## Tools
+## TOOLS
 
 -   <https://github.com/nicolargo/glances>
 -   <https://github.com/HeyPuter/puter>
 -   <https://github.com/YaLTeR/niri>
 
-## Backup
+## BACKUP
 
 -   <https://github.com/kopia/kopia>
 
-## Execute
+## EXECUTE
 
 -   <https://github.com/pkgxdev/pkgx>

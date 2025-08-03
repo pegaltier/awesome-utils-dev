@@ -4,30 +4,30 @@
 
 -   [LIST / AWESOME](#list--awesome)
 
--   [Tips](#tips)
+-   [TIPS](#tips)
 
--   [Tools](#tools)
+-   [TOOLS](#tools)
 
--   [Package Manager](#package-manager)
+-   [PACKAGE MANAGER](#package-manager)
 
--   [Java](#java)
+-   [JAVA](#java)
 
--   [Nginx](#nginx)
+-   [NGINX](#nginx)
 
--   [Spotlight](#spotlight)
+-   [SPOTLIGHT](#spotlight)
 
--   [Programming](#programming)
+-   [CODING](#coding)
 
--   [Directory Access](#directory-access)
+-   [DIRECTORY ACCESS](#directory-access)
 
--   [Symbolik link](#symbolik-link)
+-   [SYMLINK](#symlink)
 
--   [Shortcuts](#shortcuts)
+-   [SHORTCUTS](#shortcuts)
 
--   [Mobile dev Tips (iOS/Android)](#mobile-dev-tips-iosandroid)
+-   [MOBILE DEV](#mobile-dev)
 
--   [Mobile dev Setup (iOS/Android)](#mobile-dev-setup-iosandroid)
-
+    -   [Tips (iOS/Android)](#tips-iosandroid)
+    -   [Setup (iOS/Android)](#setup-iosandroid)
     -   [Installing Xcode](#installing-xcode)
     -   [Installing Android Studio](#installing-android-studio)
     -   [NVM installation](#nvm-installation)
@@ -51,7 +51,7 @@
 -   <https://github.com/herrbischoff/awesome-macos-command-line>
 -   <https://github.com/BlockchainCommons/Secure-Development-Setup-macOS>
 
-## Tips
+## TIPS
 
 -   <https://www.maketecheasier.com/show-current-path-finder-mac/>
 -   <https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal>
@@ -59,7 +59,7 @@
 -   <https://www.browserstack.com/guide/how-to-debug-on-iphone>
 -   <https://www.wiserfirst.com/blog/how-to-use-asdf-on-macos/>
 
-## Tools
+## TOOLS
 
 -   <https://github.com/iina/iina>
 -   <https://github.com/lima-vm/lima>
@@ -76,7 +76,7 @@
 -   <https://github.com/NativeScript/template-macos-solid>
 -   <https://apps.apple.com/us/app/magnet/id441258766?mt=12>
 
-## Package Manager
+## PACKAGE MANAGER
 
 -   <https://brew.sh/>
 -   <https://github.com/crhuber/kelp>
@@ -87,14 +87,14 @@
     brew install nginx
     brew services list
 
-## Java
+## JAVA
 
     which java
     /usr/libexec/java_home
     /usr/libexec/java_home -V
     echo $JAVA_HOME
 
-## Nginx
+## NGINX
 
     nginx -V
     sudo nano /private/etc/hosts
@@ -109,7 +109,7 @@ Important locations:
     Default webroot is -> /usr/local/var/www/
     Default listen address -> http://localhost:8080
 
-## Spotlight
+## SPOTLIGHT
 
 Wanna speed up your MacOSX by telling Spotlight NOT to index 10k node_modules? Use and run my shell alias...
 
@@ -122,17 +122,17 @@ Settings > Spotlight > exclude folders
 
     alias npm_ignore_indexing='find . -type d -name "node_modules" -exec touch "{}/.metadata_never_index" \; -exec echo "✔ {}" \;'
 
-## Programming
+## CODING
 
 -   <https://github.com/bow-swift/bow-arch>
 -   <https://github.com/MikeMcQuaid/strap>
 
-## Directory Access
+## DIRECTORY ACCESS
 
 Finder > Aller > Aller au dossier  
 Terminal > ~/Library
 
-## Symbolik link
+## SYMLINK
 
 -   Absolute symbolik link
 
@@ -145,7 +145,7 @@ Terminal > ~/Library
     cd ~/Workspace/website-js/cypress/fixtures/default-context/shared/
     ln -s ../../../../apps/website-js/src/i18n/ i18n
 
-## Shortcuts
+## SHORTCUTS
 
 Lock screen: Control + CMD + Q  
 Show/hide hidden: SHIFT+CMD+Dot  
@@ -155,7 +155,9 @@ Array \[]: Option + 5/6
 Object {}: Option + 8/9  
 Pipe |: Option + 7
 
-## Mobile dev Tips (iOS/Android)
+## MOBILE DEV
+
+### Tips (iOS/Android)
 
 -   Debug iOS app: open safari > develop > find your device
 
@@ -163,7 +165,7 @@ Pipe |: Option + 7
 
 -   <https://developers.google.com/web/tools/chrome-devtools/remote-debugging>
 
-## Mobile dev Setup (iOS/Android)
+### Setup (iOS/Android)
 
 This tutorial assumes that you are using Zsh as the line shell cmd tool which is used by default in newer versions of macOS.
 
@@ -172,7 +174,6 @@ This tutorial assumes that you are using Zsh as the line shell cmd tool which is
 1.  Search for “xcode” in the App Store
 2.  Install XCode from the App Store
 3.  Install the Tools CLI: 
-
 
     xcode-select --install
 
