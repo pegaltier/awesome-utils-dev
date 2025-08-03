@@ -2,6 +2,12 @@
 
 # TORRENT
 
+## TOR
+- https://www.torproject.org/
+- https://snowflake.torproject.org/
+- https://github.com/ajvb/awesome-tor
+- https://github.com/5ky1ar/Awesome-Onion-Links
+- https://github.com/dirtyfilthy/freshonions-torscraper
 
 ## STREAM
 
@@ -12,7 +18,6 @@
 - https://github.com/webtorrent/webtorrent
 
 ## VPN
-
 - https://github.com/f13end/free-vpn
 - https://github.com/patte/fly-tailscale-exit
 - https://github.com/angristan/openvpn-install

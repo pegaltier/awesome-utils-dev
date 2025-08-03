@@ -1,5 +1,6 @@
-
 # SHORTCUTS
+
+
 
 ## Chromium
 - open dev tools: CTRL + SHIFT + I
