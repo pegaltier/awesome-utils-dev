@@ -1,4 +1,4 @@
-# Browser
+# BROWSER
 
 ## Chrome
 

@@ -1,5 +1,7 @@
 # VUE.JS
 
+## TABLE OF CONTENTS
+
 ## AWESOME
 
 - https://github.com/vuejs/awesome-vue

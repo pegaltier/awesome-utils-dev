@@ -1,5 +1,7 @@
 # AI
 
+## TABLE OF CONTENTS
+
 ## NEWS / LEARN
 - https://github.com/osanseviero/ml_timeline
 - https://9elements.com/blog/ai-glossary

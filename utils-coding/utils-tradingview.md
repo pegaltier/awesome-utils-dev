@@ -1,5 +1,8 @@
 # TRADINGVIEW CHEATSHEET
 
+## TABLE OF CONTENTS
+
+
 ## People
 - https://github.com/alexgrover
 

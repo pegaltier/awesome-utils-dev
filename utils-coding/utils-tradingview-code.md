@@ -1,5 +1,7 @@
 # TRADINGVIEW PINESCRIPT CODE
 
+## TABLE OF CONTENTS
+
 
 ## Generic onliner
 

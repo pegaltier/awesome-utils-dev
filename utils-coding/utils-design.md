@@ -1,26 +1,7 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [DESIGN](#design)
-  - [TOOLS](#tools)
-  - [ICONS](#icons)
-  - [WEBDESIGN](#webdesign)
-  - [COLOR](#color)
-  - [PHOTOS](#photos)
-  - [PATTERN](#pattern)
-  - [RESOURCES](#resources)
-  - [ARTICLES](#articles)
-  - [CODE](#code)
-  - [SVG](#svg)
-  - [AWESOME](#awesome)
-  - [FONT](#font)
-  - [SKETCH](#sketch)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
 # DESIGN
+
+## TABLE OF CONTENTS
+
 
 ## TOOLS
 - https://pika.style

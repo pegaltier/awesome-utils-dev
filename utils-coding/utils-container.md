@@ -1,7 +1,10 @@
 
 # CONTAINER
 
+## TABLE OF CONTENTS
 
+
+## TOOLS
 - Vagrant, Docker, Podman let you create portable environments Vagrant helps you set up entire virtual machines to run your applications, Docker/Podman allows you to package an application with its environment and all of its dependencies into a "box", called a container. They both adapted to OCI (Open Container Initiative) standards for images. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image. Virtual Machine vs Container: VM is complete. Container is closer to the host machine. No emulation of hardware. We share a part of the hardware. disk, network. To do that we segment the harware.
 
 - Docker provides a system-agnostic approach that can create containerized applications across any platform. Podman is a rootless and daemon-less container built explicitly by RedHat to make it better than Docker. Non-root users, too, can use Podman container-based applications.

@@ -1,14 +1,8 @@
 
-
-- [API RESTFULL](#api-restfull)
-- [HTTP](#http)
-- [OTHERS](#others)
-- [ARTICLES](#articles)
-- [GENERATE PDF](#generate-pdf)
-- [LIST](#list)
-- [FRANCE](#france)
-
 # API
+
+## TABLE OF CONTENTS
+
 
 ## API RESTFULL
 

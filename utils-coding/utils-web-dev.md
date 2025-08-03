@@ -1,55 +1,6 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Web-Style-Guide](#web-style-guide)
-  - [SUMMARY](#summary)
-  - [ONLINE IDE](#online-ide)
-  - [CHECKLIST](#checklist)
-  - [STARTER](#starter)
-  - [TOOLS: LIST](#tools-list)
-  - [TOOLS: CODE](#tools-code)
-  - [TOOLS: IMAGE](#tools-image)
-  - [TOOLS: DESIGN](#tools-design)
-  - [AWESOME](#awesome)
-  - [BEST](#best)
-  - [PLUGINS](#plugins)
-  - [DEBUG](#debug)
-  - [NPM](#npm)
-  - [AMP](#amp)
-  - [DEBUG](#debug-1)
-  - [IMAGE](#image)
-  - [VARIOUS CSS/JS/HTML/EFFECT UX](#various-cssjshtmleffect-ux)
-  - [COMMENTS](#comments)
-  - [CANVAS](#canvas)
-  - [CSS](#css)
-  - [CSS PAGE TRANSITION](#css-page-transition)
-  - [CSS FRAMEWORK](#css-framework)
-  - [CSS LAYOUT](#css-layout)
-  - [CSS PREPROCESSOR](#css-preprocessor)
-  - [CSS PRINT](#css-print)
-  - [IMAGE](#image-1)
-  - [SVG](#svg)
-  - [SPRITE](#sprite)
-  - [FORM / HTML FORM](#form--html-form)
-  - [JAVASCRIPT](#javascript)
-  - [JAVASCRIPT LIBS](#javascript-libs)
-  - [HTML](#html)
-  - [EXPERIMENT](#experiment)
-  - [HTML AUDIO](#html-audio)
-  - [FRAMEWORK](#framework)
-  - [WEBCOMPONENTS](#webcomponents)
-  - [IOT](#iot)
-  - [STARTER: WEB](#starter-web)
-  - [STARTER: SSG](#starter-ssg)
-  - [EMAIL](#email)
-  - [CREATIVE](#creative)
-  - [TIPS](#tips)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Web-Style-Guide
 
+## TABLE OF CONTENTS
 
 ## SUMMARY
 

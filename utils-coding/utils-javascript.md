@@ -1,4 +1,7 @@
-# Javascript
+# JAVASCRIPT
+
+## TABLE OF CONTENTS
+
 
 ## LIBRARY
 - https://youmightnotneed.com/

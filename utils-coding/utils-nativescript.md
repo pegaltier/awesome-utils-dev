@@ -1,7 +1,6 @@
-
-
 # NATIVESCRIPT 
 
+## TABLE OF CONTENTS
 
 ## ALTERNATIVE
 - https://github.com/facebook/react-native

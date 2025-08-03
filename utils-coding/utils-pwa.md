@@ -1,5 +1,7 @@
 # PWA 
 
+## TABLE OF CONTENTS
+
 ## LINKS
 - https://github.com/karlhorky/pwa-tricks
 - http://deanhume.com/home/blogpost/a-big-list-of-progressive-web-app-tips-and-tricks

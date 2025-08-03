@@ -1,5 +1,8 @@
 # GAME
 
+## TABLE OF CONTENTS
+
+
 ## EMULATOR
 - https://github.com/PCSX2/pcsx2
 

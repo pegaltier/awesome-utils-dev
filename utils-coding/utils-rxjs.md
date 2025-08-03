@@ -1,5 +1,7 @@
 # REACTIVE / RXJS
 
+## TABLE OF CONTENTS
+
 ## INTRO
 
 - Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change - Wikipedia

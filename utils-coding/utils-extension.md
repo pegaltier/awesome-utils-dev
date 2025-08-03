@@ -1,6 +1,9 @@
 
 # BROWSER EXTENSION
 
+## TABLE OF CONTENTS
+
+
 ## TOOLS
 - https://extensionpay.com/
 

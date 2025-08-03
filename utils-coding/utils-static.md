@@ -1,4 +1,6 @@
+# STATIC
 
+## TABLE OF CONTENTS
 
 ## TOOLS
 - https://www.staticgen.com/

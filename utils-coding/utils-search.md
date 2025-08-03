@@ -1,5 +1,7 @@
 # SEARCH
 
+## TABLE OF CONTENTS
+
 ## TOOLS
 - https://github.com/opensearch-project/OpenSearch
 - https://github.com/openobserve/openobserve

@@ -1,6 +1,9 @@
 
 # IONIC
 
+## TABLE OF CONTENTS
+
+
 ## BEST PRACTICES
 - https://devdactic.com/10-ionic-problems/
 

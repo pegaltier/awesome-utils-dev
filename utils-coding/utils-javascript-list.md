@@ -1,47 +1,7 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# JAVASCRIPT LIST
 
-- [JAVASCRIPT](#javascript)
-  - [GUIDE-WEB](#guide-web)
-  - [GUIDE-OPEN](#guide-open)
-  - [CHEAT-SHEETS](#cheat-sheets)
-  - [ARTICLES BEST PRACTICES](#articles-best-practices)
-  - [CONTEXT / SCOPES](#context--scopes)
-  - [PROMISE THEN VS AWAIT VS CHAINABLE](#promise-then-vs-await-vs-chainable)
-  - [TOOLS](#tools)
-  - [LIB LIST](#lib-list)
-  - [LIB UTILS](#lib-utils)
-  - [LIB FRONTEND: ALL](#lib-frontend-all)
-  - [LIB FRONTEND: DESIGN](#lib-frontend-design)
-  - [LIB MEDIAS](#lib-medias)
-  - [LIB AI](#lib-ai)
-  - [FRAMEWORK FRONTEND](#framework-frontend)
-  - [FRAMEWORK BACKEND](#framework-backend)
-  - [LIB](#lib)
-  - [AUTOMATION](#automation)
-  - [ALLIN](#allin)
-  - [CANVAS](#canvas)
-  - [PODCASTS](#podcasts)
-  - [FOUNDATION](#foundation)
-  - [BOOKS](#books)
-  - [IMPORTANT](#important)
-    - [FUNCTION](#function)
-    - [PURE FUNCTIONS](#pure-functions)
-    - [IMMUTABILITY](#immutability)
-    - [DESTRUCTURING](#destructuring)
-    - [ALGORITHM](#algorithm)
-    - [OBJECT LITERALS](#object-literals)
-    - [ARRAYS](#arrays)
-    - [OBJECTS](#objects)
-    - [MORE](#more)
-  - [EXAMPLES](#examples)
-    - [OBJECTS](#objects-1)
-    - [PROMISE](#promise)
+## TABLE OF CONTENTS
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# JAVASCRIPT
 
 ## GUIDE-WEB
 
