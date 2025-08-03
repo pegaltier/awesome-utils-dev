@@ -1,5 +1,7 @@
 # CENTOS
 
+## TABLE OF CONTENTS
+<!-- toc -->
 
 ## INSTALLATION
 https://www.liquidweb.com/kb/how-to-install-and-configure-phpmyadmin-on-centos-6/

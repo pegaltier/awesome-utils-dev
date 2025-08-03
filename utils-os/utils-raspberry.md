@@ -2,6 +2,9 @@
 
 # Raspbian + Raspberry
 
+## TABLE OF CONTENTS
+<!-- toc -->
+
 ## Utils
 - https://pinout.xyz/
 - https://umbrel.com/

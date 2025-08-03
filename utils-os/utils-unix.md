@@ -2,6 +2,9 @@
 
 Ubuntu & co
 
+## TABLE OF CONTENTS
+<!-- toc -->
+
 ## Install
 
 - https://www.balena.io/etcher/

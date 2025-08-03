@@ -1,6 +1,9 @@
 
 # Windows 
 
+## TABLE OF CONTENTS
+<!-- toc -->
+
 ## Tools: ALL
 - https://cmder.app/
 - https://winstall.app/

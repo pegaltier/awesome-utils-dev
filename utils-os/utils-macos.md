@@ -1,5 +1,9 @@
 # MacOS
 
+## TABLE OF CONTENTS
+<!-- toc -->
+
+## LIST / AWESOME
 - https://github.com/iCHAIT/awesome-macOS
 - https://github.com/appleboy/awesome-osx
 - https://github.com/jaywcjlove/awesome-mac

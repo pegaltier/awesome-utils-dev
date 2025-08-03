@@ -1,5 +1,7 @@
 # Ubuntu
 
+## TABLE OF CONTENTS
+<!-- toc -->
 
 ## Configure VPS
 

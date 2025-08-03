@@ -1,5 +1,8 @@
 # OS
 
+## TABLE OF CONTENTS
+<!-- toc -->
+
 ## Boot
 
 - https://www.balena.io/etcher/
