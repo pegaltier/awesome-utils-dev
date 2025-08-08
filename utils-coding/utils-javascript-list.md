@@ -526,6 +526,7 @@
 -   <https://github.com/snd/url-pattern>
 -   <https://github.com/slevithan/regex>
 -   <https://github.com/cyrilbois/cyrilex>
+-   <https://github.com/codpro2005/ts-regexp>
 -   <https://github.com/devongovett/regexgen>
 -   <https://github.com/micromatch/picomatch>
 -   <https://github.com/sindresorhus/super-regex>

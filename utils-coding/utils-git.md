@@ -81,6 +81,7 @@
 -   <https://github.com/lowlighter/metrics>
 -   <https://github.com/okonet/lint-staged>
 -   <https://github.com/commitizen/cz-cli>
+-   <https://github.com/danger/danger-js>
 -   <https://github.com/github/git-sizer>
 -   <https://github.com/dandavison/delta>
 -   <https://github.com/eth0izzle/shhgit>

@@ -511,6 +511,7 @@
 -   <https://github.com/NomenAK/SuperClaude>
 -   <https://github.com/siteboon/claudecodeui>
 -   <https://github.com/Doriandarko/claude-engineer>
+-   <https://github.com/davila7/claude-code-templates>
 -   <https://github.com/anthropics/claude-code-action>
 -   <https://github.com/textcortex/claude-code-sandbox>
 -   <https://github.com/eyaltoledano/claude-task-master>
@@ -840,6 +841,7 @@
 -   <https://github.com/unclecode/crawl4ai>
 -   <https://github.com/mendableai/firecrawl>
 -   <https://github.com/microsoft/markitdown>
+-   <https://github.com/mishushakov/llm-scraper>
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>
 
@@ -906,6 +908,7 @@
 ## LIB: GPT
 
 -   <https://github.com/idootop/mi-gpt>
+-   <https://github.com/openai/gpt-oss>
 -   <https://github.com/imoneoi/openchat>
 -   <https://github.com/OpenGVLab/InternVL>
 -   <https://github.com/openai/chatgpt-retrieval-plugin>
@@ -1092,6 +1095,7 @@
 -   <https://github.com/SparkAudio/Spark-TTS>
 -   <https://github.com/boson-ai/higgs-audio>
 -   <https://github.com/bytedance/MegaTTS3>
+-   <https://github.com/KittenML/KittenTTS>
 -   <https://github.com/kyutai-labs/moshi>
 -   <https://github.com/xming521/WeClone>
 -   <https://github.com/yl4579/StyleTTS2>
