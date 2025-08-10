@@ -1012,6 +1012,7 @@
 -   <https://github.com/flydelabs/flyde>
 -   <https://github.com/simstudioai/sim>
 -   <https://github.com/kestra-io/kestra>
+-   <https://github.com/Budibase/budibase>
 -   <https://github.com/samuelmtimbo/unit>
 -   <https://github.com/jerosoler/Drawflow>
 -   <https://github.com/hyperse-io/pipeline>

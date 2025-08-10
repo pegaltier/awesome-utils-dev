@@ -479,6 +479,7 @@
 -   <https://github.com/Integuru-AI/Integuru>
 -   <https://github.com/opencode-ai/opencode>
 -   <https://github.com/continuedev/continue>
+-   <https://github.com/langchain-ai/open-swe>
 -   <https://github.com/microsoft/genaiscript>
 -   <https://github.com/raidendotai/cofounder>
 -   <https://github.com/BuilderIO/micro-agent>
@@ -516,6 +517,7 @@
 -   <https://github.com/textcortex/claude-code-sandbox>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.com/shareAI-lab/analysis_claude_code>
+-   <https://github.com/anthropics/claude-code-security-review>
 
 ## TOOLS: CODING: OSS PROMPT RULES
 
@@ -852,6 +854,7 @@
 -   <https://github.com/HKUDS/LightRAG>
 -   <https://github.com/jina-ai/reader>
 -   <https://github.com/allenai/olmocr>
+-   <https://github.com/Tencent/WeKnora>
 -   <https://github.com/getomni-ai/zerox>
 -   <https://github.com/Cinnamon/kotaemon>
 -   <https://github.com/tmccombs/hcl2json>
@@ -895,6 +898,7 @@
 -   <https://github.com/upstash/context7>
 -   <https://github.com/punkpeye/fastmcp>
 -   <https://github.com/lirantal/ls-mcp>
+-   <https://github.com/idosal/git-mcp>
 -   <https://github.com/anthropics/dxt>
 
 ## LIB: BPE
@@ -1249,6 +1253,7 @@
 -   <https://github.com/magnitudedev/magnitude>
 -   <https://github.com/web-infra-dev/midscene>
 -   <https://github.com/browser-use/browser-use>
+-   <https://github.com/browser-use/workflow-use>
 
 ## LIB: GAME
 

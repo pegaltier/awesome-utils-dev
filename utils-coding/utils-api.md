@@ -162,6 +162,7 @@
 -   <https://github.com/firebase/>
 -   <https://github.com/nhost/nhost>
 -   <https://github.com/bknd-io/bknd>
+-   <https://github.com/Budibase/budibase>
 -   <https://github.com/appwrite/appwrite>
 -   <https://github.com/supabase/supabase>
 -   <https://github.com/aspen-cloud/triplit>
@@ -274,6 +275,7 @@
 -   <https://www.docusign.com>
 -   <https://www.universign.com>
 -   <https://www.opensignlabs.com/>
+-   <https://github.com/docusealco/docuseal>
 -   <https://github.com/documenso/documenso>
 -   <https://github.com/OpenSignLabs/OpenSign>
 
