@@ -458,6 +458,7 @@
 -   <https://github.com/AbanteAI/mentat>
 -   <https://github.com/OpenBMB/ChatDev>
 -   <https://github.com/gptlint/gptlint>
+-   <https://github.com/omnara-ai/omnara>
 -   <https://github.com/dnakov/anon-kode>
 -   <https://github.com/stitionai/devika>
 -   <https://github.com/Oneirocom/Magick>
@@ -470,6 +471,7 @@
 -   <https://github.com/Nutlope/llamacoder>
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/Skyvern-AI/skyvern>
+-   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/paul-gauthier/aider>
 -   <https://github.com/fauxpilot/fauxpilot>
@@ -491,6 +493,7 @@
 -   <https://github.com/Pythagora-io/gpt-pilot>
 -   <https://github.com/gptscript-ai/gptscript>
 -   <https://github.com/All-Hands-AI/OpenHands>
+-   <https://github.com/mendableai/open-lovable>
 -   <https://github.com/amplication/amplication>
 -   <https://github.com/princeton-nlp/SWE-agent>
 -   <https://github.com/google-gemini/gemini-cli>
@@ -499,6 +502,7 @@
 -   <https://github.com/eduardoleao052/js-pytorch>
 -   <https://github.com/eastlondoner/cursor-tools>
 -   <https://github.com/2-fly-4-ai/V0-system-prompt>
+-   <https://github.com/langchain-ai/deep-agents-ui>
 -   <https://github.com/coderabbitai/ai-pr-reviewer>
 -   <https://github.com/aws-samples/bedrock-engineer>
 -   <https://github.com/gpt-engineer-org/gpt-engineer>

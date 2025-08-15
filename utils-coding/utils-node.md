@@ -128,6 +128,7 @@
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
 -   <https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/>
 -   <https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc> node-typescript-esm.md
+-   <https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c> node-pure-esm.md
 
 ## VERSION MANAGER
 
@@ -523,8 +524,9 @@
 ## LIBS: AI
 
 -   <https://github.com/mastra-ai/mastra>
--   <https://github.com/naptha/tesseract.js>
 -   <https://github.com/openai/openai-node>
+-   <https://github.com/mishushakov/ai-fun>
+-   <https://github.com/naptha/tesseract.js>
 -   <https://github.com/frost-beta/node-mlx>
 
 ## LIBS: CROSS LANGUAGES

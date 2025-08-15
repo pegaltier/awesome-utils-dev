@@ -323,8 +323,9 @@
 -   <https://github.com/karllhughes/workers-codeship-example>
 -   <https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy>
 
-## AWS
+## AWS / CLOUD ALTERNATIVE
 
+-   <https://github.com/ubicloud/ubicloud>
 -   <https://github.com/whitfin/s3-utils>
 -   <https://github.com/ekristen/aws-nuke>
 -   <https://github.com/dwyl/learn-aws-lambda>
@@ -564,6 +565,7 @@ sql					> entree  3389 depuis vps. et le 22 tout le monde
 
 -   <https://certbot.eff.org/docs/using.html>
 -   <https://github.com/letsencrypt/boulder>
+-   <https://github.com/FiloSottile/mkcert>
 -   <https://github.com/usual2970/certimate>
 -   <https://github.com/chainguard-dev/incert>
 

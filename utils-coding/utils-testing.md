@@ -48,6 +48,7 @@
 ## API
 
 -   <https://github.com/wg/wrk>
+-   <https://github.com/stepci/stepci>
 -   <https://github.com/nakabonne/ali>
 -   <https://github.com/dareid/chakram>
 -   <https://github.com/anweber/httpyac>

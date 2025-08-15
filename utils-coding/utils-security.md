@@ -114,6 +114,8 @@
 -   <https://github.com/shahradelahi/vault-cli>
 -   <https://github.com/shahradelahi/aes-object>
 -   <https://github.com/shahradelahi/node-vault>
+-   <https://github.com/dbsystel/cdk-sops-secrets>
+-   <https://github.com/koblas/sops-decoder-node>
 
 ## TOOLS: HOST
 

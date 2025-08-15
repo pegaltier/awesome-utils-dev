@@ -61,6 +61,7 @@
 
 ## LIB
 
+-   <https://github.com/stepci/garph>
 -   <https://github.com/sikanhe/gqtx>
 -   <https://github.com/gqty-dev/gqty>
 -   <https://github.com/hayes/pothos>

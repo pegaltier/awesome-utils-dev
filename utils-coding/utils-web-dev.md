@@ -620,6 +620,9 @@ emit/receive : <https://github.com/quiet/quiet-js>
 
 -   <https://github.com/Nutlope/self.so>
 
+## STARTER: SSG: TOOLS
+-   <https://github.com/sdorra/content-collections>
+
 ## EMAIL TEMPLATE / MAILING LIST
 
 -   <https://mosaico.io>

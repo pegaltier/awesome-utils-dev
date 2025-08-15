@@ -655,6 +655,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 -   <https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack>
 -   <https://indepth.dev/are-you-using-scss-properly/>
 -   <https://github.com/harlan-zw/unlighthouse>
+-   <https://github.com/jlfwong/speedscope>
 -   <https://github.com/push-based/angular-movies-audits>
 -   <https://github.com/push-based/awesome-web-performance-snippets>
 -   <https://github.com/push-based/css-contain-and-content-visibility-research>
@@ -1408,6 +1409,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 -   <https://github.com/timdeschryver/ngrx-immer>
 -   <https://github.com/waynegakuo/ngrx-learning>
 -   <https://github.com/tomastrajan/angular-ngrx-material-starter>
+-   <https://github.com/rainerhahnekamp/ngrx-toolkit-mutation>
 
 ## ECOSYSTEM: STORE: NGRX: DEMO
 
