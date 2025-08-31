@@ -2809,6 +2809,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/CirclonGroup/angular-tree-component>
 -   <https://github.com/alcfeoh/ngx-digital-display>
 -   <https://github.com/MurhafSousli/ngx-scrollbar>
+-   <https://github.com/superplug-in/supermarquee>
 -   <https://github.com/ngx-lottie/ngx-lottie>
 -   <https://github.com/daybrush/selecto>
 -   <https://github.com/ngneat/dag>

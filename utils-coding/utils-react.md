@@ -158,6 +158,7 @@
 -   <https://github.com/nmn/react-timeago>
 -   <https://github.com/jsxstyle/jsxstyle>
 -   <https://github.com/clauderic/dnd-kit>
+-   <https://github.com/plasmicapp/plasmic>
 -   <https://github.com/reactjs/react-tabs>
 -   <https://github.com/BuilderIO/jsx-lite>
 -   <https://github.com/tajo/react-movable>

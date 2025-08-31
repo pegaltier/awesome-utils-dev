@@ -508,6 +508,7 @@
 -   <https://github.com/gpt-engineer-org/gpt-engineer>
 -   <https://github.com/deepseek-ai/DeepSeek-Coder-V2>
 -   <https://github.com/OpenInterpreter/open-interpreter>
+-   <https://github.com/ghuntley/how-to-build-a-coding-agent>
 
 ## TOOLS: CODING: OSS CLAUDE
 
@@ -520,6 +521,7 @@
 -   <https://github.com/anthropics/claude-code-action>
 -   <https://github.com/textcortex/claude-code-sandbox>
 -   <https://github.com/eyaltoledano/claude-task-master>
+-   <https://github.com/OneRedOak/claude-code-workflows>
 -   <https://github.com/shareAI-lab/analysis_claude_code>
 -   <https://github.com/anthropics/claude-code-security-review>
 
@@ -760,6 +762,7 @@
 -   <https://github.com/simstudioai/sim>
 -   <https://github.com/FlowiseAI/Flowise>
 -   <https://github.com/bytedance/flowgram.ai>
+-   <https://github.com/pipeshub-ai/pipeshub-ai>
 -   <https://github.com/triggerdotdev/trigger.dev>
 -   <https://github.com/coleam00/ottomator-agents>
 
@@ -788,6 +791,10 @@
 
 -   <https://github.com/codelion/openevolve>
 
+## LIB: COMPANION
+
+-   <https://github.com/moeru-ai/airi>
+
 ## LIB: MULTI AGENT
 
 -   <https://github.com/OpenPipe/ART>
@@ -811,6 +818,8 @@
 -   <https://github.com/coleam00/Archon>
 -   <https://github.com/firebase/genkit>
 -   <https://github.com/getzep/graphiti>
+-   <https://github.com/joinly-ai/joinly>
+-   <https://github.com/emcie-co/parlant>
 -   <https://github.com/mastra-ai/mastra>
 -   <https://github.com/reworkd/AgentGPT>
 -   <https://github.com/Thytu/Agentarium>
@@ -1052,12 +1061,13 @@
 -   <https://github.com/salesforce/xgen>
 -   <https://github.com/karpathy/minbpe>
 -   <https://github.com/xai-org/grok-1>
--   <https://github.com/mlc-ai/web-llm> \*
+-   <https://github.com/mlc-ai/web-llm>
 -   <https://github.com/run-llama/rags>
 -   <https://github.com/OpenBMB/XAgent>
 -   <https://github.com/artidoro/qlora>
 -   <https://github.com/truera/trulens>
 -   <https://github.com/AkeruAI/akeru>
+-   <https://github.com/coaidev/coai>
 -   <https://github.com/lmnr-ai/lmnr>
 -   <https://github.com/janhq/cortex>
 -   <https://github.com/janhq/nitro>
@@ -1102,6 +1112,7 @@
 -   <https://github.com/myshell-ai/OpenVoice>
 -   <https://github.com/SparkAudio/Spark-TTS>
 -   <https://github.com/boson-ai/higgs-audio>
+-   <https://github.com/microsoft/VibeVoice>
 -   <https://github.com/bytedance/MegaTTS3>
 -   <https://github.com/KittenML/KittenTTS>
 -   <https://github.com/kyutai-labs/moshi>
@@ -1236,6 +1247,10 @@
 -   <https://github.com/David-patrick-chuks/Instagram-AI-Agent>
 -   <https://github.com/ericciarla/trendFinder>
 -   <https://github.com/stanford-oval/storm>
+
+## TOOLS: PROMPT
+
+- https://github.com/microsoft/poml
 
 ## TOOLS: PROMPT ON WEB / SEARCH
 

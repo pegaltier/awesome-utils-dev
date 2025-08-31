@@ -145,6 +145,7 @@
 
 -   <https://github.com/ruilisi/css-checker>
 -   <https://github.com/css-hooks/css-hooks>
+-   <https://github.com/andreruffert/syntax-highlight-element>
 
 ## LIB
 
@@ -252,6 +253,7 @@
 -   <https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap>
 -   <https://github.com/creativetimofficial/argon-design-system>
 -   <https://github.com/froala/design-blocks>
+-   <https://github.com/playcanvas/pcui>
 
 ## EXAMPLE
 
