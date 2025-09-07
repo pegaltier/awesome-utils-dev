@@ -269,6 +269,7 @@
 -   <https://github.com/heartexlabs/awesome-data-labeling>
 -   <https://github.com/KalyanKS-NLP/llm-engineer-toolkit>
 -   <https://github.com/PlexPt/awesome-chatgpt-prompts-zh>
+-   <https://github.com/aishwaryanr/awesome-generative-ai-guide>
 -   <https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics>
 -   <https://github.com/EthicalML/awesome-production-machine-learning>
 -   <https://github.com/AstraZeneca/awesome-explainable-graph-reasoning>
@@ -454,6 +455,7 @@
 -   <https://github.com/oraios/serena>
 -   <https://github.com/Ironclad/rivet>
 -   <https://github.com/Aider-AI/aider>
+-   <https://github.com/HKUDS/DeepCode>
 -   <https://github.com/meltylabs/melty>
 -   <https://github.com/AbanteAI/mentat>
 -   <https://github.com/OpenBMB/ChatDev>
@@ -784,7 +786,7 @@
 -   <https://github.com/Mintplex-Labs/anything-llm>
 
 ## LIB: EXTENSION
-
+-   <https://github.com/huggingface/aisheets>
 -   <https://github.com/supermemoryai/supermemory>
 
 ## LIB: GENETIC
@@ -824,6 +826,7 @@
 -   <https://github.com/reworkd/AgentGPT>
 -   <https://github.com/Thytu/Agentarium>
 -   <https://github.com/botpress/botpress>
+-   <https://github.com/bytebot-ai/bytebot>
 -   <https://github.com/google/adk-python>
 -   <https://github.com/PySpur-Dev/pyspur>
 -   <https://github.com/coinbase/agentkit>
@@ -898,6 +901,7 @@
 -   <https://github.com/AgentDeskAI/browser-tools-mcp>
 -   <https://github.com/Flux159/mcp-server-kubernetes>
 -   <https://github.com/modelcontextprotocol/servers>
+-   <https://github.com/e2b-dev/awesome-mcp-gateways>
 -   <https://github.com/punkpeye/awesome-mcp-servers>
 -   <https://github.com/leonardsellem/n8n-mcp-server>
 -   <https://github.com/gioboa/mcp-typescript-sdk>
@@ -1106,6 +1110,7 @@
 -   <https://github.com/eustlb/speech-to-speech>
 -   <https://github.com/souzatharsis/podcastfy>
 -   <https://github.com/resemble-ai/chatterbox>
+-   <https://github.com/epicenter-os/epicenter>
 -   <https://github.com/fishaudio/fish-speech>
 -   <https://github.com/remsky/Kokoro-FastAPI>
 -   <https://github.com/FunAudioLLM/CosyVoice>

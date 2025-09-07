@@ -38,6 +38,7 @@
 ## PRESENTATION / SLIDES
 
 -   <https://github.com/hakimel/reveal.js>
+-   <https://github.com/framesjs/frames.js>
 -   <https://github.com/webslides/WebSlides>
 -   <https://github.com/imakewebthings/deck.js>
 

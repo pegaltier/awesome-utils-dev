@@ -777,6 +777,7 @@
 -   <https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook>
 -   <https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts>
 -   <https://github.com/soranoo/TradingView-Free-Webhook-Alerts>
+-   <https://github.com/xie0x/TradingView-Data-Signal-Analyzer>
 -   <https://github.com/alleyway/add-tradingview-alerts-tool>
 -   <https://github.com/brian-the-dev/python-tradingview-ta>
 -   <https://github.com/robswc/tradingview-webhooks-bot>

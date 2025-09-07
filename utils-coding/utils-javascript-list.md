@@ -738,6 +738,9 @@
 -   <https://github.com/fynyky/reactor.js>
 -   <https://github.com/electric-sql/d2ts>
 
+## LIB: RESPONSIVE
+-   <https://github.com/csswizardry/Obs.js>
+
 ## LIB: HARDWARE
 
 -   <https://github.com/svendahlstrand/web-serial-api>
@@ -901,6 +904,7 @@
 -   <https://github.com/frappe/datatable>
 -   <https://github.com/tristen/tablesort>
 -   <https://github.com/tbranyen/hyperlist>
+-   <https://github.com/gristlabs/grist-core>
 -   <https://github.com/dream-num/Luckysheet>
 -   <https://github.com/ruilisi/fortune-sheet>
 -   <https://github.com/gabrielpetersson/fast-grid>

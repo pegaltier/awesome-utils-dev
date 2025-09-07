@@ -654,6 +654,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 -   <https://www.debugbear.com/blog/devtools-performance>
 -   <https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack>
 -   <https://indepth.dev/are-you-using-scss-properly/>
+-   <https://github.com/csswizardry/Obs.js>
 -   <https://github.com/harlan-zw/unlighthouse>
 -   <https://github.com/jlfwong/speedscope>
 -   <https://github.com/push-based/angular-movies-audits>

@@ -135,6 +135,7 @@ RUN ls
 ## TOOLS OSS
 
 -   <https://github.com/kubernetes/kubernetes>
+-   <https://github.com/portainer/portainer>
 -   <https://github.com/cyclops-ui/cyclops>
 -   <https://github.com/psviderski/uncloud>
 -   <https://github.com/orbstack/orbstack>
@@ -145,6 +146,7 @@ RUN ls
 -   <https://github.com/nestybox/sysbox>
 -   <https://github.com/abiosoft/colima>
 -   <https://github.com/crazy-max/diun>
+-   <https://github.com/LukeGus/Termix>
 -   <https://github.com/xpipe-io/xpipe>
 -   <https://github.com/nxthat/nnocl>
 -   <https://github.com/orbstack>

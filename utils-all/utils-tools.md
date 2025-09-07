@@ -344,6 +344,7 @@
 -   <https://github.com/traceo-dev/traceo>
 -   <https://github.com/TigerVNC/tigervnc>
 -   <https://github.com/Vendicated/Vencord>
+-   <https://github.com/plait-board/drawnix>
 -   <https://github.com/jsfiddle/togetherjs>
 -   <https://github.com/toeverything/AFFiNE>
 -   <https://github.com/thelounge/thelounge>
@@ -355,6 +356,7 @@
 -   <https://github.com/bluesky-social/social-app>
 -   <https://github.com/yoopta-editor/Yoopta-Editor>
 -   <https://github.com/onetimesecret/onetimesecret>
+-   <https://github.com/alextselegidis/easyappointments>
 -   <https://github.com/mattermost-community/focalboard>
 
 # OSS: WEB
