@@ -157,11 +157,12 @@
 
 -   <https://github.com/cuixueshe/earthworm>
 
-## OSS: FILES / CONVERT
+## OSS: FILES / CONVERT / SHARE
 
 -   <https://github.com/sxyazi/yazi>
 -   <https://github.com/C4illin/ConvertX>
 -   <https://github.com/stonith404/pingvin-share>
+-   <https://github.com/Bill-Stewart/SyncthingWindowsSetup>
 
 ## OSS: FINANCE
 

@@ -2843,8 +2843,10 @@ Analyze and optimize the performance of your app
 
 -   <https://material.angular.io/cdk/drag-drop/overview>
 -   <https://github.com/mattlewis92/angular-draggable-droppable>
+-   <https://github.com/zhongmiao-org/ngx-puzzle-example>
 -   <https://github.com/ObaidUrRehman/ng-drag-drop>
 -   <https://github.com/cormacrelf/angular-skyhook>
+-   <https://github.com/zhongmiao-org/ngx-puzzle>
 -   <https://github.com/reppners/ngx-drag-drop>
 -   <https://github.com/bfwg/ngx-drag-scroll>
 

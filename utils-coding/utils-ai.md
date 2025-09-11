@@ -1118,6 +1118,7 @@
 -   <https://github.com/SparkAudio/Spark-TTS>
 -   <https://github.com/boson-ai/higgs-audio>
 -   <https://github.com/microsoft/VibeVoice>
+-   <https://github.com/index-tts/index-tts>
 -   <https://github.com/bytedance/MegaTTS3>
 -   <https://github.com/KittenML/KittenTTS>
 -   <https://github.com/kyutai-labs/moshi>

@@ -1045,6 +1045,7 @@
 -   <https://github.com/bubkoo/html-to-image>
 -   <https://github.com/team-video/tragopan>
 -   <https://github.com/maotoumao/MusicFree>
+-   <https://github.com/Vanilagy/mediabunny>
 -   <https://github.com/zengm-games/facesjs>
 -   <https://github.com/google/model-viewer>
 -   <https://github.com/joye61/pic-smaller>
