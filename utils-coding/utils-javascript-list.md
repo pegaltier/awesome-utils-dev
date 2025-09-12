@@ -1062,6 +1062,7 @@
 -   <https://github.com/aeroheim/midori>
 -   <https://github.com/vidstack/player>
 -   <https://github.com/lukeapage/pngjs>
+-   <https://github.com/jpeg-js/jpeg-js>
 -   <https://github.com/pqina/filepond>
 -   <https://github.com/toddmotto/echo>
 -   <https://github.com/greensock/GSAP>
