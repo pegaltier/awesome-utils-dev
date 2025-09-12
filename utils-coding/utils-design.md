@@ -117,6 +117,7 @@
 -   <http://www.colorhunt.co>
 -   <https://flatuicolors.com>
 -   <https://colorgradient.dev>
+-   <https://supercolorpalette.com>
 -   <http://lukyvj.github.io/colofilter.css/>
 -   <https://dev.di7tazxmp7xob.amplifyapp.com/>
 -   <https://color.adobe.com/fr/create/color-wheel>
