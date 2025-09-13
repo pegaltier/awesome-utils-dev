@@ -1280,6 +1280,9 @@
 -   <https://github.com/browser-use/browser-use>
 -   <https://github.com/browser-use/workflow-use>
 
+## LIB: INTERACT
+-   <https://github.com/CursorTouch/Windows-Use>
+
 ## LIB: GAME
 
 -   <https://github.com/a16z-infra/ai-town>

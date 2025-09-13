@@ -1128,6 +1128,7 @@
 -   <https://github.com/anandanand84/technicalindicators>
 -   <https://github.com/Cloud9Trader/TechnicalIndicators>
 -   <https://github.com/trade-rhythm/technical-indicators>
+-   <https://github.com/santoshkshirsagar/fast-technical-indicators>
 
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
 

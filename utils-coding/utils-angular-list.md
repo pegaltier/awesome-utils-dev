@@ -2494,6 +2494,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/aelbore/ngx-elements>
 -   <https://github.com/brunob15/ngx-element>
 -   <https://github.com/ng-packagr/ng-packagr>
+-   <https://github.com/MillerSvt/ng-elementum>
 -   <https://github.com/aelbore/ngx-elements-demo>
 -   <https://github.com/angular-extensions/elements>
 -   <https://github.com/BioPhoton/angular-element-variants>

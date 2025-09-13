@@ -548,6 +548,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/vanjs-org/van>
 -   <https://github.com/openui/open-ui>
 -   <https://github.com/marko-js/marko>
+-   <https://github.com/trueadm/ripple>
 -   <https://github.com/alpinejs/alpine>
 -   <https://github.com/dlight-js/dlight>
 -   <https://github.com/stolinski/drop-in>
