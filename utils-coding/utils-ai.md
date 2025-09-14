@@ -465,6 +465,7 @@
 -   <https://github.com/stitionai/devika>
 -   <https://github.com/Oneirocom/Magick>
 -   <https://github.com/getcursor/cursor>
+-   <https://github.com/appdotbuild/agent>
 -   <https://github.com/yamadashy/repomix>
 -   <https://github.com/e2b-dev/fragments>
 -   <https://github.com/Nutlope/aicommits>
