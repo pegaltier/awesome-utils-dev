@@ -71,6 +71,7 @@
 -   <https://github.com/EricLBuehler/mistral.rs>
 -   <https://github.com/lucasjinreal/Namors>
 -   <https://github.com/huggingface/candle>
+-   <https://github.com/tekaratzas/RustGPT>
 -   <https://github.com/0xPlaygrounds/rig>
 
 ## LIB: DB

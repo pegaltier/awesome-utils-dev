@@ -504,6 +504,7 @@
 -   <https://github.com/stackblitz-labs/bolt.diy>
 -   <https://github.com/eduardoleao052/js-pytorch>
 -   <https://github.com/eastlondoner/cursor-tools>
+-   <https://github.com/angular/web-codegen-scorer>
 -   <https://github.com/2-fly-4-ai/V0-system-prompt>
 -   <https://github.com/langchain-ai/deep-agents-ui>
 -   <https://github.com/coderabbitai/ai-pr-reviewer>
@@ -998,6 +999,7 @@
 
 -   <https://github.com/THUDM/CogAgent>
 -   <https://github.com/vllm-project/vllm>
+-   <https://github.com/roboflow/inference>
 -   <https://github.com/sgl-project/sglang>
 
 ## LIB: LLM
@@ -1220,7 +1222,7 @@
 -   <https://github.com/awslabs/multi-agent-orchestrator>
 
 ## LIB: TEXT / TRANSLATION
-
+-   <https://github.com/thewh1teagle/vibe>
 -   <https://github.com/clusterzx/paperless-ai>
 -   <https://github.com/andrewyng/translation-agent>
 
@@ -1278,6 +1280,7 @@
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/magnitudedev/magnitude>
 -   <https://github.com/web-infra-dev/midscene>
+-   <https://github.com/nanobrowser/nanobrowser>
 -   <https://github.com/browser-use/browser-use>
 -   <https://github.com/browser-use/workflow-use>
 

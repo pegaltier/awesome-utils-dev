@@ -1161,6 +1161,7 @@
 ### OSS: JAVASCRIPT: CHART
 
 -   <https://github.com/Lightning-Chart/lcjs-typescript-example>
+-   <https://github.com/difurious/lightweight-charts-line-tools>
 -   <https://github.com/chartjs/chartjs-chart-financial>
 -   <https://github.com/tradingview/lightweight-charts>
 -   <https://github.com/tradex-app/TradeX-chart>
