@@ -277,7 +277,7 @@
 ## TOOLS: PROMPT
 
 -   <https://pi.ai/>
--   <https://jan.ai/> \*
+-   <https://jan.ai/>
 -   <https://otio.ai/>
 -   <https://exa.ai/>
 -   <https://venice.ai/>
@@ -828,16 +828,17 @@
 -   <https://github.com/reworkd/AgentGPT>
 -   <https://github.com/Thytu/Agentarium>
 -   <https://github.com/botpress/botpress>
--   <https://github.com/bytebot-ai/bytebot>
 -   <https://github.com/google/adk-python>
 -   <https://github.com/PySpur-Dev/pyspur>
 -   <https://github.com/coinbase/agentkit>
 -   <https://github.com/phidatahq/phidata>
+-   <https://github.com/bytebot-ai/bytebot>
 -   <https://github.com/lavague-ai/LaVague>
 -   <https://github.com/coze-dev/coze-loop>
 -   <https://github.com/dzhng/deep-research>
 -   <https://github.com/rowboatlabs/rowboat>
 -   <https://github.com/VoltAgent/voltagent>
+-   <https://github.com/ag-ui-protocol/ag-ui>
 -   <https://github.com/coze-dev/coze-studio>
 -   <https://github.com/pydantic/pydantic-ai>
 -   <https://github.com/microsoft/magentic-ui>
@@ -847,6 +848,7 @@
 -   <https://github.com/transitive-bullshit/agentic>
 -   <https://github.com/genkit-ai/genkit-by-example>
 -   <https://github.com/humanlayer/12-factor-agents>
+-   <https://github.com/google-agentic-commerce/AP2>
 -   <https://github.com/i-am-bee/bee-agent-framework>
 -   <https://github.com/Intelligent-Internet/ii-agent>
 -   <https://github.com/nickscamara/open-deep-research>
@@ -1015,8 +1017,9 @@
 -   <https://github.com/Mintplex-Labs/anything-llm>
 -   <https://github.com/mit-han-lab/streaming-llm>
 -   <https://github.com/sgomez/ollama-ai-provider>
--   <https://github.com/jose-donato/ollama-reply> \*
+-   <https://github.com/jose-donato/ollama-reply>
 -   <https://github.com/kvcache-ai/ktransformers>
+-   <https://github.com/Alibaba-NLP/DeepResearch>
 -   <https://github.com/datawhalechina/self-llm>
 -   <https://github.com/deepseek-ai/DeepSeek-R1>
 -   <https://github.com/deepseek-ai/DeepSeek-V3>
@@ -1178,8 +1181,8 @@
 -   <https://github.com/lllyasviel/Omost>
 -   <https://github.com/katanaml/sparrow>
 -   <https://github.com/ostris/ai-toolkit>
--   <https://github.com/gradio-app/gradio> \*
--   <https://github.com/lllyasviel/Fooocus> \*
+-   <https://github.com/gradio-app/gradio>
+-   <https://github.com/lllyasviel/Fooocus>
 -   <https://github.com/invoke-ai/InvokeAI>
 -   <https://github.com/Zeqiang-Lai/DragGAN>
 -   <https://github.com/joanrod/star-vector>
@@ -1204,7 +1207,7 @@
 -   <https://github.com/pandayuanyu/generative-photography>
 -   <https://github.com/SCUTlihaoyu/open-chat-video-editor>
 -   <https://github.com/muerrilla/sd-webui-detail-daemon>
--   <https://github.com/AUTOMATIC1111/stable-diffusion-webui> \*
+-   <https://github.com/AUTOMATIC1111/stable-diffusion-webui>
 -   <https://github.com/microsoft/generative-ai-for-beginners>
 -   <https://github.com/AIAnytime/AI-News-Anchor-Generator-App>
 -   <https://github.com/kiri-art/stable-diffusion-react-nextjs-mui-pwa>

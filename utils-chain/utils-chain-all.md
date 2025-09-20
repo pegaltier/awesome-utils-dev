@@ -182,6 +182,7 @@
 -   <https://github.com/chubin/rate.sx>
 -   <https://github.com/valamidev/ponder>
 -   <https://github.com/marcj/bitcoin.ts>
+-   <https://github.com/Vectorized/solady>
 -   <https://github.com/versatus/versatus>
 -   <https://github.com/Agoric/agoric-sdk>
 -   <https://github.com/inkonchain/ink-kit>
@@ -940,6 +941,7 @@ PANTOS — - <https://pantos.io>
 -   <https://github.com/solana-developers/template-react-vite-tailwind-counter>
 -   <https://github.com/solana-program/create-solana-program>
 -   <https://github.com/solana-labs/solana-program-library>
+-   <https://github.com/solana-developers/solana-cookbook>
 -   <https://github.com/solana-foundation/solana-web3.js>
 -   <https://github.com/warp-id/solana-trading-bot>
 -   <https://github.com/paul-schaaf/awesome-solana>

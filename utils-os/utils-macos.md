@@ -63,6 +63,7 @@
 
 -   <https://github.com/iina/iina>
 -   <https://github.com/lima-vm/lima>
+-   <https://github.com/p0deje/Maccy>
 -   <https://github.com/asdf-community>
 -   <https://github.com/abiosoft/colima>
 -   <https://github.com/dwarvesf/hidden>
