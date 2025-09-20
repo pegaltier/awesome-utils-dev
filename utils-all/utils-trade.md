@@ -692,6 +692,16 @@
 -   <https://optipie.app/>
 -   <https://www.bots.io/>
 
+## VIDEOS: INTERVIEW
+
+-   <https://www.youtube.com/@oddsonopen>
+-   <https://www.youtube.com/@risk_biscuits>
+-   <https://www.youtube.com/@AlphaArchitect>
+-   <https://www.youtube.com/@TopTradersUnplugged>
+-   <https://www.youtube.com/@TheNewBarbariansPodcast>
+-   <https://www.youtube.com/@TheAlgorithmicAdvantage>
+-   <https://www.youtube.com/@BetterSystemTraderPodcast>
+
 ## VIDEOS: ALL
 
 -   <https://www.youtube.com/watch?v=g9bmgvJkfmQ> behavioral finance / cognitive bias (in french)

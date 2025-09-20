@@ -578,14 +578,6 @@ Everyone uses the RSI, but most people are sleeping on the OBV. Bad idea. OBV di
 
 -   <https://databento.com/blog/liquidity-taking-strategy?hss_channel=lcp-35540938>
 
-## STRATEGY: YOUTUBE CHANNEL: INTERVIEW
-
--   <https://www.youtube.com/@risk_biscuits>
--   <https://www.youtube.com/@AlphaArchitect>
--   <https://www.youtube.com/@TopTradersUnplugged> 
--   <https://www.youtube.com/@TheAlgorithmicAdvantage>
--   <https://www.youtube.com/@BetterSystemTraderPodcast>
-
 ## STRATEGY: YOUTUBE CHANNEL: CODING
 
 -   <https://www.youtube.com/@seriousbacktester> Serious Backtester
