@@ -535,6 +535,7 @@
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/PatrickJS/awesome-cursorrules>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
+-   <https://github.com/yosietserga/ai-prompts-for-developers>
 -   <https://github.com/anthropics/prompt-eng-interactive-tutorial>
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>

@@ -43,8 +43,10 @@
 
 ## JAVASCRIPT
 
+-   <https://github.com/tryandromeda/andromeda>
 -   <https://github.com/Sharktheone/yavashark>
 -   <https://github.com/napi-rs/napi-rs>
+-   <https://github.com/alshdavid/ion>
 
 ## UTILS
 
