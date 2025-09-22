@@ -548,6 +548,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/web-widget/web-widget>
 -   <https://github.com/adamghill/unsuckjs.com>
 -   <https://github.com/justin-schroeder/arrow-js>
+-   <https://github.com/ProjectEvergreen/greenwood>
 -   <https://blog.madewithlove.be/post/webpack-your-bags/>
 -   <https://css-tricks.com/css-modules-part-2-getting-started>
 

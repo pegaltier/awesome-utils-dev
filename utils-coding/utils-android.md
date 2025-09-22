@@ -121,6 +121,7 @@ zipalign (optimize RAM) :
 -   <https://github.com/orhanobut/hawk>
 -   <https://github.com/traccar/traccar>
 -   <https://github.com/alphacep/vosk-api>
+-   <https://github.com/hyperb1iss/droidmind>
 -   <https://github.com/ProxymanApp/Proxyman>
 -   <https://github.com/SamVerschueren/mobicon-cli>
 -   <https://github.com/GoogleChromeLabs/bubblewrap>

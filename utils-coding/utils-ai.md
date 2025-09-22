@@ -516,6 +516,7 @@
 
 ## TOOLS: CODING: OSS CLAUDE
 
+-   <https://github.com/winfunc/opcode>
 -   <https://github.com/wshobson/agents>
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
@@ -804,6 +805,7 @@
 
 -   <https://github.com/OpenPipe/ART>
 -   <https://github.com/crewAIInc/crewAI>
+-   <https://github.com/generalaction/emdash>
 -   <https://github.com/microsoft/TinyTroupe>
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/openai/openai-realtime-agents>
@@ -916,6 +918,7 @@
 -   <https://github.com/lharries/whatsapp-mcp>
 -   <https://github.com/aipotheosis-labs/aci>
 -   <https://github.com/evalstate/fast-agent>
+-   <https://github.com/hyperb1iss/droidmind>
 -   <https://github.com/getdatanaut/openmcp>
 -   <https://github.com/upstash/context7>
 -   <https://github.com/punkpeye/fastmcp>
@@ -988,6 +991,7 @@
 -   <https://github.com/luixaviles/gemini-angular-nestjs>
 -   <https://github.com/anthropics/anthropic-quickstarts>
 -   <https://github.com/mckaywrigley/chatbot-ui-lite>
+-   <https://github.com/OvidijusParsiunas/deep-chat>
 -   <https://github.com/Hacker-GPT/HackerGPT-2.0>
 -   <https://github.com/mckaywrigley/chatbot-ui>
 -   <https://github.com/baptisteArno/typebot.io>
@@ -1143,6 +1147,7 @@
 -   <https://github.com/aigc3d/LHM>
 -   <https://github.com/THU-MIG/yolov10>
 -   <https://github.com/buxuku/SmartSub>
+-   <https://github.com/Wan-Video/Wan2.2>
 -   <https://github.com/WongKinYiu/yolov9>
 -   <https://github.com/topics/ai-avatars>
 -   <https://github.com/SandAI-org/MAGI-1>

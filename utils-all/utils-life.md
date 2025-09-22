@@ -32,6 +32,7 @@
 -   <https://www.fairygutmother.com/ox-tail-broth>
 -   <https://shedburgers.com/home> burger & pizza in verbier, pully
 -   <https://histoiresansfaim.ch/> italian in lausanne
+-   <https://github.com/Gar-b-age/CookLikeHOC>
 
 ## Health
 
