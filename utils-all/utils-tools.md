@@ -167,6 +167,7 @@
 
 ## OSS: FINANCE
 
+-   <https://github.com/bigcapitalhq/bigcapital>
 -   <https://github.com/ghostfolio/ghostfolio>
 -   <https://github.com/maybe-finance/maybe>
 -   <https://github.com/actualbudget/actual>
@@ -432,6 +433,7 @@
 -   <https://github.com/fastrepl/hyprnote>
 -   <https://github.com/siyuan-note/siyuan>
 -   <https://github.com/anyproto/anytype-ts>
+-   <https://github.com/TriliumNext/Trilium>
 -   <https://github.com/AppFlowy-IO/AppFlowy>
 -   <https://github.com/sissbruecker/linkding>
 -   <https://github.com/graydon/obsidian-html>

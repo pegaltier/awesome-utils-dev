@@ -670,9 +670,11 @@
 -   <https://github.com/unjs/h3>
 -   <https://github.com/h3js/h3>
 
-\## SERVER: RPC
+## SERVER: RPC
 
 -   <https://github.com/trpc/trpc>
+-   <https://github.com/cloudflare/capnweb>
+-   <https://github.com/capnproto/capnproto>
 -   <https://github.com/maloguertin/msw-trpc>
 
 ## FRAMEWORKS

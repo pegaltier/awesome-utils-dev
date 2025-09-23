@@ -73,6 +73,7 @@
 ## BI / Business intelligence
 
 -   <https://github.com/metabase/metabase>
+-   <https://github.com/lightdash/lightdash>
 
 ## Images
 

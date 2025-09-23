@@ -235,6 +235,7 @@
 
 ## UTILS: PLAYWRIGHT EXAMPLE / DEMO
 
+-   <https://github.com/rishivajre/Playwright-End-to-End-E2E-Test-Automation-Framework>
 -   <https://github.com/playwrightsolutions/playwright-api-test-demo>
 -   <https://github.com/currents-dev/playwright-gh-actions-demo>
 -   <https://github.com/jfgreffier/playwright-component-demos>

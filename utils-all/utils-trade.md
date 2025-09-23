@@ -858,6 +858,7 @@
 -   <https://github.com/derekcheungsa/autogpt-openbb-sdk>
 -   <https://github.com/Igosuki/binance-rs-async>
 -   <https://github.com/Eleven-Trading/TradeNote>
+-   <https://github.com/bigcapitalhq/bigcapital>
 -   <https://github.com/tigerbeetle/tigerbeetle>
 -   <https://github.com/rodrigo-brito/ninjabot>
 -   <https://github.com/ghostfolio/ghostfolio>

@@ -260,6 +260,7 @@
 -   <https://github.com/e2b-dev/awesome-ai-agents>
 -   <https://github.com/humanloop/awesome-chatgpt>
 -   <https://github.com/microsoft/ML-For-Beginners>
+-   <https://github.com/JimmyLv/awesome-nano-banana>
 -   <https://github.com/cbailes/awesome-deep-trading>
 -   <https://github.com/Shubhamsaboo/awesome-llm-apps>
 -   <https://github.com/hijkzzz/Awesome-LLM-Strawberry>
