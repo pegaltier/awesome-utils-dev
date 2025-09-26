@@ -191,6 +191,7 @@
 
 ## DEVTOOLS
 
+-   <https://github.com/sgb-io/fta>
 -   <https://github.com/egoist/tsup>
 -   <https://github.com/imjuni/ctix>
 -   <https://github.com/formium/tsdx>

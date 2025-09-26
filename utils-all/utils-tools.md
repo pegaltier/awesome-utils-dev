@@ -153,10 +153,12 @@
 -   <https://github.com/anti-work/iffy>
 -   <https://github.com/gabboman/wafrn>
 
-## OSS: LEARN
+## OSS: LEARN / LANGUAGE / ENGLISH
 
+-   <https://languagelearningwithnetflix.com>
 -   <https://github.com/cuixueshe/earthworm>
 -   <https://github.com/baturyilmaz/wordpecker-app>
+-   <https://github.com/ZuodaoTech/everyone-can-use-english>
 
 ## OSS: FILES / CONVERT / SHARE
 

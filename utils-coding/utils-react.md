@@ -222,6 +222,7 @@
 -   <https://github.com/snitin315/react-hide-component>
 -   <https://github.com/danilowoz/react-content-loader>
 -   <https://github.com/kettanaito/react-advanced-form>
+-   <https://github.com/luffy84217/react-input-pin-code>
 -   <https://github.com/asabaylus/react-command-palette>
 -   <https://github.com/wellyshen/react-cool-dimensions>
 -   <https://github.com/react-hook-form/react-hook-form>

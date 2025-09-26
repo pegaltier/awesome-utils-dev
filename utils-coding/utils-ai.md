@@ -584,6 +584,9 @@
 -   <https://github.com/DS4SD/docling>
 -   <https://github.com/jacoblee93/fully-local-pdf-chatbot>
 
+## TOOLS: SANDBOXING
+- https://github.com/restyler/awesome-sandbox
+
 ## TOOLS: IMAGE
 
 -   <https://fal.ai/>
@@ -904,6 +907,7 @@
 ## LIB: MCP
 
 -   <https://github.com/modelcontextprotocol/typescript-sdk>
+-   <https://github.com/ChromeDevTools/chrome-devtools-mcp>
 -   <https://github.com/cloudflare/mcp-server-cloudflare>
 -   <https://github.com/wonderwhy-er/DesktopCommanderMCP>
 -   <https://github.com/AgentDeskAI/browser-tools-mcp>
