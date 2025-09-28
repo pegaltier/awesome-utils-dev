@@ -359,6 +359,7 @@
 -   <https://github.com/gristlabs/grist-core>
 -   <https://github.com/excalidraw/excalidraw>
 -   <https://github.com/MathMan05/JankClient>
+-   <https://github.com/element-hq/element-web>
 -   <https://github.com/hcengineering/platform>
 -   <https://github.com/bluesky-social/social-app>
 -   <https://github.com/yoopta-editor/Yoopta-Editor>

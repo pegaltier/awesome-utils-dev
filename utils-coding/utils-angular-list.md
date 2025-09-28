@@ -3185,6 +3185,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/acrodata/gui> (TOADD)
 -   <https://github.com/radix-ng/origin-ui> (TOADD)
 -   <https://github.com/adrian-ub/shadcn-ng> (TOADD)
+-   <https://github.com/ng-primitives/ng-primitives> (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 
@@ -3274,12 +3275,12 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://github.com/aviabird/angularspree>
 -   <https://github.com/sterlp/admin-template>
 -   <https://github.com/graycoreio/daffodil>
+-   <https://github.com/goetzrobin/spartan>
 -   <https://github.com/duluca/lemon-mart>
 -   <https://github.com/ng-alain/ng-alain>
 -   <https://github.com/cisstech/nge-ide>
 -   <https://github.com/ng-alain/delon>
 -   <https://github.com/analogjs/analog>
--   <https://github.com/goetzrobin/spartan>
 -   <https://github.com/akveo/ngx-admin>
 -   <https://github.com/scullyio/scully>
 -   <https://github.com/truenas/webui>
