@@ -3782,6 +3782,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://angularconsulting.au/>
 -   <https://toddmotto.com/>
 -   <https://nxplaybook.com/>
+-   <https://angularexperts.io/>
 -   <https://nrwlcommunity.slack.com/>
 -   <https://github.com/maartentibau/angular-logos>
 -   <https://github.com/angular-sanctuary/angular-hub>
