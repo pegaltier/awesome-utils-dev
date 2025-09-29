@@ -117,6 +117,7 @@
 -   <https://github.com/garronej/ts_ci>
 -   <https://github.com/actions/toolkit>
 -   <https://github.com/woodruffw/zizmor>
+-   <https://github.com/azizaydi23/npm-audit>
 -   <https://github.com/bobheadxi/deployments>
 -   <https://github.com/sdras/awesome-actions>
 -   <https://github.com/balazsorban44/nissuer>
