@@ -988,6 +988,7 @@
 ## LIB: ROBOTICS
 
 -   <https://github.com/LejuRobotics>
+-   <https://github.com/commaai/openpilot>
 -   <https://github.com/qgallouedec/lerobot>
 -   <https://github.com/huggingface/lerobot>
 

@@ -210,6 +210,7 @@
 
 -   <https://github.com/playwrightsolutions/playwright-practicesoftwaretesting.com>
 -   <https://github.com/playwrightsolutions/playwright-json-summary-reporter>
+-   <https://github.com/testla-project/testla-screenplay-playwright-js>
 -   <https://github.com/playwright-community/eslint-plugin-playwright>
 -   <https://github.com/playwright-community/playwright-jest-examples>
 -   <https://github.com/playwright-community/playwright-ng-schematics>

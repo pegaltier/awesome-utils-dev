@@ -189,6 +189,7 @@
 -   <https://github.com/coinbase/onchainkit>
 -   <https://github.com/hollaex/hollaex-kit>
 -   <https://github.com/zookyy/crypto-sniper>
+-   <https://github.com/ViewBlock/cryptometa>
 -   <https://github.com/zerotier/ZeroTierOne>
 -   <https://github.com/near/create-near-app>
 -   <https://github.com/reed-hong/awesome-libra>

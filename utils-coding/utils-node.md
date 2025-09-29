@@ -124,6 +124,7 @@
 -   <https://github.com/microsoft/nodejs-guidelines>
 -   <https://github.com/platformatic/node-masterclass>
 -   <https://github.com/goldbergyoni/nodebestpractices>
+-   <https://github.com/platformatic/the-high-performance-node-workshop>
 -   <https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer>
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
 -   <https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/>
