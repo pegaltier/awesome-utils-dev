@@ -33,6 +33,9 @@
 -   <https://github.com/rocksdanister/lively>
 -   <https://github.com/Awesome-Windows/Awesome>
 
+## TOOLS: EMULATE
+-   <https://github.com/TibixDev/winboat>
+
 ## SSH KEY
 
 -   <https://www.purdue.edu/science/scienceit/ssh-keys-windows.html>
