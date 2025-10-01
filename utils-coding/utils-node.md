@@ -141,6 +141,7 @@
 -   <https://github.com/Schniz/fnm>
 -   <https://github.com/pnpm/pnpm>
 -   <https://github.com/fredrb/nv>
+-   <https://github.com/jdx/mise>
 -   <https://github.com/tj/n>
 
 ## PACKAGE MANAGER

@@ -61,6 +61,7 @@
 
 ## TOOLS
 
+-   <https://github.com/jdx/mise>
 -   <https://github.com/iina/iina>
 -   <https://github.com/lima-vm/lima>
 -   <https://github.com/p0deje/Maccy>
