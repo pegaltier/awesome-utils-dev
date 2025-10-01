@@ -342,7 +342,6 @@
 -   <https://github.com/cjihrig/kubenode>
 -   <https://github.com/clinicjs/node-clinic>
 -   <https://github.com/theophilusx/ssh2-sftp-client>
--   <https://github.com/frinyvonnick/node-html-to-image>
 -   <https://github.com/log4js-node/log4js-node>
 -   <https://github.com/microsoft/playwright>
 -   <https://github.com/sindresorhus/got>
@@ -380,10 +379,12 @@
 -   <https://github.com/AniMathIO>
 -   <https://github.com/vnve/vnve>
 
-## LIBS: IMAGES
+## LIBS: IMAGES / SVG / PNG / JPG
 
 -   <https://github.com/lovell/sharp>
+-   <https://github.com/thx/resvg-js>
 -   <https://github.com/pmb0/express-sharp>
+-   <https://github.com/frinyvonnick/node-html-to-image>
 
 ## LIBS: DATA OBJECT / DATA TYPE / BUFFER
 
@@ -442,7 +443,10 @@
 
 ## LIBS: FILES
 
+-   <https://github.com/expressjs/multer>
 -   <https://github.com/streamich/unionfs>
+-   <https://github.com/duna-oss/flystorage>
+-   <https://github.com/googlicius/file-storage>
 
 ## LIBS: DOM
 
@@ -649,7 +653,7 @@
 -   <https://github.com/rhinobase/hono-openapi>
 -   <https://github.com/honojs/hono>
 
-\## SERVER: ALL
+## SERVER: ALL
 
 -   <https://github.com/Rotorsoft/eventually-monorepo>
 -   <https://github.com/differentialhq/differential>
