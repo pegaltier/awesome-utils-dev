@@ -29,5 +29,6 @@
 -   <https://github.com/bytecodealliance/javy>
 -   <https://github.com/bytecodealliance/weval>
 -   <https://github.com/moonbitlang/moonbit-docs>
+-   <https://github.com/bytecodealliance/wasmtime>
 -   <https://github.com/WebAssembly/exception-handling>
 -   <https://github.com/bytecodealliance/wasm-micro-runtime>

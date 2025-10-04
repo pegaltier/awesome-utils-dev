@@ -643,16 +643,22 @@
 -   <https://www.heygen.com/>
 -   <https://www.sievedata.com/>
 -   <https://www.synthesia.io/>
+-   <https://www.aistudios.com/>
 -   <https://github.com/HumanAIGC/EMO>
 -   <https://github.com/bytedance/X-Portrait>
+-   <https://github.com/alievk/avatarify-python>
+-   <https://github.com/Francis-Rings/StableAvatar>
+-   <https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar>
+-   <https://github.com/HumanAIGC-Engineering/OpenAvatarChat>
 
 ## TOOLS: MOBILE
 
 -   <https://github.com/a-ghorbani/pocketpal-ai>
 -   <https://github.com/google-ai-edge/gallery>
 
-## TOOLS: PRICING
+## TOOLS: TOKEN
 -   <https://github.com/xn1cklas/tokenlens>
+-   <https://github.com/alaa-eddine/tokenloom>
 
 ## TOOLS: HACKING / SECURITY
 
