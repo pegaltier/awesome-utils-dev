@@ -651,9 +651,13 @@
 -   <https://github.com/a-ghorbani/pocketpal-ai>
 -   <https://github.com/google-ai-edge/gallery>
 
-## TOOLS: HACKING
+## TOOLS: PRICING
+-   <https://github.com/xn1cklas/tokenlens>
+
+## TOOLS: HACKING / SECURITY
 
 -   <https://chat.hackerai.co/>
+-   <https://github.com/FuzzingLabs/fuzzforge_ai>
 
 ## TOOLS: SEARCH
 
@@ -1148,6 +1152,7 @@
 -   <https://github.com/nari-labs/dia>
 -   <https://github.com/suno-ai/bark>
 -   <https://github.com/coqui-ai/TTS>
+-   <https://github.com/cjpais/Handy>
 
 ## LIB: VIDEO
 
@@ -1217,9 +1222,10 @@
 -   <https://github.com/easydiffusion/easydiffusion>
 -   <https://github.com/modelscope/DiffSynth-Studio>
 -   <https://github.com/kiri-art/docker-diffusers-api>
+-   <https://github.com/muerrilla/sd-webui-detail-daemon>
 -   <https://github.com/pandayuanyu/generative-photography>
 -   <https://github.com/SCUTlihaoyu/open-chat-video-editor>
--   <https://github.com/muerrilla/sd-webui-detail-daemon>
+-   <https://github.com/PicoTrex/Awesome-Nano-Banana-images>
 -   <https://github.com/AUTOMATIC1111/stable-diffusion-webui>
 -   <https://github.com/microsoft/generative-ai-for-beginners>
 -   <https://github.com/AIAnytime/AI-News-Anchor-Generator-App>

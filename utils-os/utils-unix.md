@@ -51,6 +51,7 @@ Ubuntu & co
 -   <https://github.com/Homebrew/brew>
 -   <https://github.com/ohmyzsh/ohmyzsh>
 -   <https://github.com/basecamp/omakub>
+-   <https://github.com/FyshOS/fynedesk>
 
 ## LIST
 

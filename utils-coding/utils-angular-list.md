@@ -3186,6 +3186,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/radix-ng/origin-ui> (TOADD)
 -   <https://github.com/adrian-ub/shadcn-ng> (TOADD)
 -   <https://github.com/ng-primitives/ng-primitives> (TOADD)
+-   <https://github.com/zard-ui/zardui> (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 

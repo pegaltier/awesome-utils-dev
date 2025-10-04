@@ -157,6 +157,7 @@
 -   <https://github.com/Orange-Cyberdefense/KeePwn>
 -   <https://github.com/th3unkn0n/facebash-termux>
 -   <https://github.com/Dheerajmadhukar/4-ZERO-3>
+-   <https://github.com/FuzzingLabs/fuzzforge_ai>
 -   <https://github.com/DontPanicO/jwtXploiter>
 -   <https://github.com/MCRcortex/nekodetector>
 -   <https://github.com/boringtools/git-alerts>
@@ -170,7 +171,7 @@
 -   <https://github.com/Infisical/infisical>
 -   <https://github.com/aquasecurity/trivy>
 -   <https://github.com/Tw1sm/spraycharles>
--   <https://github.com/Lissy93/web-check> \*
+-   <https://github.com/Lissy93/web-check>
 -   <https://github.com/chenjj/CORScanner>
 -   <https://github.com/nextcloud/passman>
 -   <https://github.com/hktalent/scan4all>

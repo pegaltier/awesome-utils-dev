@@ -364,6 +364,7 @@
 -   <https://strategyquant.com/>
 -   <https://www.cloud9trader.com/>
 -   <https://www.bullcharts.com.au/>
+-   <https://www.diamondstrats.com/>
 -   <https://www.composer.trade/>
 -   <https://www.fintechee.com/>
 -   <https://www.quantvue.io/>
@@ -1025,6 +1026,7 @@
 -   <https://github.com/kelvinau/crypto-arbitrage>
 -   <https://github.com/edeng23/binance-trade-bot>
 -   <https://github.com/devfinwiz/Fin-Maestro-Web>
+-   <https://github.com/hsliuping/TradingAgents-CN>
 -   <https://github.com/robcarver17/pysystemtrade> \*
 -   <https://github.com/CryptoSignal/Crypto-Signal> \*
 -   <https://github.com/samre12/deep-trading-agent>

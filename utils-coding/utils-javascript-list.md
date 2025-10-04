@@ -172,6 +172,7 @@
 -   <https://github.com/bestofjs/bestofjs>
 -   <https://github.com/denysdovhan/wtfjs>
 -   <https://github.com/standard/standard>
+-   <https://github.com/midudev/jscamp>
 -   <https://github.com/survivejs>
 
 ## FOUNDATION
@@ -1200,6 +1201,7 @@
 -   <https://github.com/lobehub/lobe-chat>
 -   <https://github.com/lgrammel/js-agent>
 -   <https://github.com/kleneway/pastemax>
+-   <https://github.com/xn1cklas/tokenlens>
 -   <https://github.com/openai/openai-node>
 -   <https://github.com/kaiban-ai/KaibanJS>
 -   <https://github.com/neilgupta/Sherlock>
