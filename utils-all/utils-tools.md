@@ -205,6 +205,7 @@
 
 -   <https://github.com/zen-browser/desktop>
 -   <https://github.com/brave/brave-browser>
+-   <https://github.com/glide-browser/glide>
 
 ## OSS: SYSTEM
 
