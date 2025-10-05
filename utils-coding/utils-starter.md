@@ -63,12 +63,15 @@
 
 -   <https://github.com/gabboman/wafrn>
 
-## ERP / CRM
+## ERP / CRM / HR
 
 -   <https://github.com/idurar/idurar-erp-crm>
 -   <https://github.com/ever-co/ever-gauzy>
 -   <https://github.com/espocrm/espocrm>
 -   <https://github.com/twentyhq/twenty>
+-   <https://github.com/frappe/erpnext>
+-   <https://github.com/frappe/hrms>
+-   <https://github.com/frappe/crm>
 
 ## BI / Business intelligence
 

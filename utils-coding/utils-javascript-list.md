@@ -993,11 +993,14 @@
 -   <https://github.com/observablehq/plot>
 -   <https://github.com/plotly/plotly.js>
 -   <https://github.com/chartjs/Chart.js>
+-   <https://github.com/dslik/svg-chart>
 -   <https://github.com/benfred/venn.js>
 -   <https://github.com/leeoniya/uPlot>
 -   <https://github.com/danvk/dygraphs>
 -   <https://github.com/mdaines/viz-js>
+-   <https://github.com/frappe/charts>
 -   <https://github.com/visgl/deck.gl>
+-   <https://github.com/ZJBC/mcharts>
 -   <https://github.com/d3fc/d3fc>
 
 ## LIB: DATAVIZ / HEATMAP

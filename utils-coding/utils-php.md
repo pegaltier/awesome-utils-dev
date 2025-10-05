@@ -162,6 +162,7 @@ More infos:
 -   <https://github.com/vrana/adminer>
 -   <https://github.com/janephp/janephp>
 -   <https://github.com/firebase/php-jwt>
+-   <https://github.com/goat1000/SVGGraph>
 -   <https://github.com/cweiske/jsonmapper>
 -   <https://github.com/php-fig/http-factory>
 -   <https://github.com/FGRibreau/mailchecker>

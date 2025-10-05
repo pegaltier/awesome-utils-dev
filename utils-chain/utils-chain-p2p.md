@@ -36,6 +36,7 @@
 -   <https://github.com/matrix-org>
 -   <https://github.com/AgregoreWeb>
 -   <https://github.com/fluencelabs>
+-   <https://github.com/xmtp/xmtp-js>
 -   <https://github.com/neet/masto.js>
 -   <https://github.com/TryQuiet/quiet>
 -   <https://github.com/kern/filepizza>

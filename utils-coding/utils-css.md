@@ -191,6 +191,7 @@
 
 -   <https://github.com/skovy/typed-scss-modules>
 -   <https://github.com/emilkowalski/ui-snippets>
+-   <https://github.com/sindresorhus/css-extras>
 -   <https://github.com/SanderElias/open-props>
 -   <https://github.com/argyleink/open-props>
 -   <https://github.com/danielroe/beasties>
