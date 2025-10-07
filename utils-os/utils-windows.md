@@ -29,6 +29,7 @@
 ## TOOLS: OSS
 
 -   <https://github.com/cmderdev/cmder>
+-   <https://github.com/kando-menu/kando>
 -   <https://github.com/microsoft/PowerToys>
 -   <https://github.com/rocksdanister/lively>
 -   <https://github.com/Awesome-Windows/Awesome>

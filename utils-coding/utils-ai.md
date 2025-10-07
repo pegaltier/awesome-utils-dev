@@ -931,6 +931,7 @@
 -   <https://github.com/exa-labs/exa-mcp-server>
 -   <https://github.com/sooperset/mcp-atlassian>
 -   <https://github.com/GLips/Figma-Context-MCP>
+-   <https://github.com/aipotheosis-labs/gate22>
 -   <https://github.com/lharries/whatsapp-mcp>
 -   <https://github.com/aipotheosis-labs/aci>
 -   <https://github.com/evalstate/fast-agent>
@@ -1145,6 +1146,7 @@
 -   <https://github.com/myshell-ai/OpenVoice>
 -   <https://github.com/SparkAudio/Spark-TTS>
 -   <https://github.com/boson-ai/higgs-audio>
+-   <https://github.com/neuphonic/neutts-air>
 -   <https://github.com/microsoft/VibeVoice>
 -   <https://github.com/index-tts/index-tts>
 -   <https://github.com/bytedance/MegaTTS3>

@@ -141,6 +141,7 @@
 
 -   <https://github.com/telegraf/telegraf>
 -   <https://github.com/Denver-sn/whatsapp-api>
+-   <https://github.com/wppconnect-team/wppconnect>
 -   <https://github.com/pedroslopez/whatsapp-web.js>
 -   <https://github.com/Secreto31126/whatsapp-api-js>
 

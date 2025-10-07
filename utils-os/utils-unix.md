@@ -52,6 +52,7 @@ Ubuntu & co
 -   <https://github.com/ohmyzsh/ohmyzsh>
 -   <https://github.com/basecamp/omakub>
 -   <https://github.com/FyshOS/fynedesk>
+-   <https://github.com/kando-menu/kando>
 
 ## LIST
 
