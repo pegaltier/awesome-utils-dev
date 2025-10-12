@@ -1156,6 +1156,7 @@
 -   <https://github.com/yl4579/StyleTTS2>
 -   <https://github.com/Jackywine/Bella>
 -   <https://github.com/2noise/ChatTTS>
+-   <https://github.com/openai/whisper>
 -   <https://github.com/hexgrad/kokoro>
 -   <https://github.com/nari-labs/dia>
 -   <https://github.com/suno-ai/bark>

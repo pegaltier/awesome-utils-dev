@@ -368,6 +368,7 @@
 -   <https://www.composer.trade/>
 -   <https://www.fintechee.com/>
 -   <https://www.quantvue.io/>
+-   <https://www.enzobot.com/>
 -   <https://r-candles.com/>
 -   <https://capitalise.ai/>
 -   <https://dayhagan.com/>

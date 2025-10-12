@@ -82,6 +82,7 @@
 
 ## LIB
 
+-   <https://github.com/Afitzy98/rust-genetic-algorithm>
 -   <https://github.com/crabnebula-dev/cargo-packager>
 -   <https://github.com/alexpasmantier/television>
 -   <https://github.com/hyperlight-dev/hyperlight>

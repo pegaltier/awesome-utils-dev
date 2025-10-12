@@ -1249,6 +1249,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://github.com/jordanpowell88/angular-counter> (cypress)
 -   <https://github.com/jorgeucano/ngx-angular-migration-signal-helper>
 -   <https://github.com/crutchcorn/ng-linked-signal-and-resource-demo>
+-   <https://github.com/damiansire/angular-signals-introduction>
 -   <https://github.com/eneajaho/ngx-signal-experimental>
 -   <https://github.com/nartc/ng-conduit-signals>
 -   <https://github.com/eduardoRoth/signals-workshop>
@@ -3891,6 +3892,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://github.com/literalpie/Annotated-Angular-Roadmap>
 -   <https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3>
 -   <https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf>
+
+### ANGULAR20
+-   <https://github.com/AntonioCardenas/ngviewcontainerref>
 
 ### ANGULAR19
 

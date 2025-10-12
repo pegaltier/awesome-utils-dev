@@ -248,6 +248,7 @@
 
 ## UTILS: DEVTOOLS
 
+-   <https://github.com/sgb-io/fta>
 -   <https://github.com/yunabe/tslab>
 -   <https://github.com/Qard/onchange>
 -   <https://github.com/harthur/replace>

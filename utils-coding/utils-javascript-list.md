@@ -1317,6 +1317,10 @@
 -   <https://github.com/sindresorhus/uint8array-extras>
 -   <https://github.com/GoogleChromeLabs/buffer-backed-object>
 
+### LIB: HYPERPARAMETRIZATION / OPTIMIZATION
+-   <https://github.com/Afitzy98/bayesian-optimizer>
+-   <https://github.com/optimization-js/optimization-js>
+
 ## LIB: ID / UID / ULID
 
 -   <https://github.com/ai/nanoid>
@@ -1448,3 +1452,8 @@
 -   <https://github.com/humanwhocodes/crosspost>
 -   <https://github.com/groupultra/telegram-search>
 -   <https://github.com/EvolutionAPI/evolution-api>
+
+## RUNTIME
+-   <https://github.com/dexter-xD/jade>
+-   <https://github.com/napi-rs/napi-rs>
+-   <https://github.com/stars/mishushakov/lists/js-runtimes>
