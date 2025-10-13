@@ -423,6 +423,12 @@
 -   <https://github.com/supertokens/supertokens-node>
 -   <https://github.com/subhendukundu/worker-auth-providers>
 
+## LIB: STATE MACHINE
+
+-   <https://github.com/StoneCypher/jssm>
+-   <https://github.com/cassiozen/State-Machine>
+-   <https://github.com/jakesgordon/javascript-state-machine>
+
 ## LIB: UTILS
 
 -   <https://gist.github.com/jsonberry/c1f43140304a7aea529427568bcf1cb2>
@@ -1156,7 +1162,9 @@
 ## LIB: GENETIC ALGO
 
 -   <https://github.com/dolphin278/genetic>
+-   <https://github.com/gekkowarez/gekkoga>
 -   <https://github.com/subprotocol/genetic-js>
+-   <https://github.com/coin-unknown/async-genetic>
 -   <https://github.com/panchishin/geneticalgorithm>
 -   <https://github.com/ptrkkim/Genetic-Algo-Tech-Talk>
 
@@ -1183,10 +1191,11 @@
 -   <https://github.com/sbyrnes/likely.js>
 -   <https://github.com/jaimelias/xy-scale>
 -   <https://github.com/sbyrnes/classify.js>
+-   <https://github.com/panchishin/neuralnet>
 -   <https://github.com/TomaszRewak/ML-games>
 -   <https://github.com/wagenaartje/neataptic>
 -   <https://github.com/tensorflow/tfjs-models>
--   <https://github.com/coin-unknown/async-genetic>
+-   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/sbyrnes/DataScience_in_Node.js>
 -   <https://github.com/jinglescode/time-series-forecasting-tensorflowjs>
 
@@ -1409,6 +1418,7 @@
 -   <https://github.com/kirodotdev/spirit-of-kiro>
 -   <https://github.com/prettymuchbryce/easystarjs>
 -   <https://github.com/BenjaminAster/CSS-Minecraft>
+-   <https://github.com/jakesgordon/javascript-racer>
 -   <https://github.com/Richard-Strittmatter/JuanTap>
 
 ## LIB: FORM

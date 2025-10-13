@@ -1215,6 +1215,7 @@
 -   <https://github.com/agiliumtrade-ai/>
 -   <https://github.com/oransel/node-talib> \*
 -   <https://github.com/askmike/gekko> \*
+-   <https://github.com/gekkowarez/gekkoga>
 -   <https://github.com/xFFFFF/Gekko-Strategies>
 -   <https://github.com/debut-js/Core>
 -   <https://github.com/stoqey/nitrogen>

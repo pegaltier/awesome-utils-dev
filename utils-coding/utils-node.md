@@ -469,6 +469,7 @@
 
 ## LIBS: JOB / SCHEDULER / SCHEDULING
 
+-   <https://github.com/temporalio/samples-typescript>
 -   <https://github.com/kibertoad/toad-scheduler>
 -   <https://github.com/SGrondin/bottleneck>
 -   <https://github.com/jakebailey/hereby>
