@@ -390,19 +390,13 @@
 ## TOOLS: OSS
 
 -   <https://github.com/Nixtla/>
-
 -   <https://github.com/mistralai>
-
 -   <https://github.com/somewheresy>
-
 -   <https://github.com/kortix-ai/suna>
-
 -   <https://github.com/mudler/LocalAI>
-
+-   <https://github.com/karpathy/nanochat>
 -   <https://github.com/cheshire-cat-ai/core>
-
 -   <https://github.com/danielmiessler/fabric>
-
 -   <https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent>
 
 -   <https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts>
@@ -461,6 +455,7 @@
 -   <https://github.com/AbanteAI/mentat>
 -   <https://github.com/OpenBMB/ChatDev>
 -   <https://github.com/gptlint/gptlint>
+-   <https://github.com/get-convex/chef>
 -   <https://github.com/omnara-ai/omnara>
 -   <https://github.com/dnakov/anon-kode>
 -   <https://github.com/stitionai/devika>
@@ -475,7 +470,6 @@
 -   <https://github.com/Nutlope/llamacoder>
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/Skyvern-AI/skyvern>
--   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/paul-gauthier/aider>
 -   <https://github.com/fauxpilot/fauxpilot>
@@ -497,6 +491,7 @@
 -   <https://github.com/Pythagora-io/gpt-pilot>
 -   <https://github.com/gptscript-ai/gptscript>
 -   <https://github.com/All-Hands-AI/OpenHands>
+-   <https://github.com/buildermethods/agent-os>
 -   <https://github.com/mendableai/open-lovable>
 -   <https://github.com/amplication/amplication>
 -   <https://github.com/princeton-nlp/SWE-agent>
@@ -519,6 +514,10 @@
 
 -   <https://github.com/winfunc/opcode>
 -   <https://github.com/wshobson/agents>
+-   <https://github.com/obra/superpowers>
+-   <https://github.com/anthropics/skills>
+-   <https://github.com/Goldziher/ai-rulez>
+-   <https://github.com/dyoshikawa/rulesync>
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
 -   <https://github.com/siteboon/claudecodeui>
@@ -935,6 +934,7 @@
 -   <https://github.com/lharries/whatsapp-mcp>
 -   <https://github.com/aipotheosis-labs/aci>
 -   <https://github.com/evalstate/fast-agent>
+-   <https://github.com/igrigorik/AgentBoard>
 -   <https://github.com/hyperb1iss/droidmind>
 -   <https://github.com/getdatanaut/openmcp>
 -   <https://github.com/upstash/context7>
@@ -1311,6 +1311,7 @@
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/magnitudedev/magnitude>
 -   <https://github.com/web-infra-dev/midscene>
+-   <https://github.com/steel-dev/steel-browser>
 -   <https://github.com/nanobrowser/nanobrowser>
 -   <https://github.com/browser-use/browser-use>
 -   <https://github.com/browser-use/workflow-use>

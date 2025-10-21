@@ -32,6 +32,7 @@
 -   <https://github.com/yjs/yjs>
 -   <https://github.com/holochain>
 -   <https://github.com/caio/foca>
+-   <https://github.com/P2PModels>
 -   <https://github.com/amark/gun>
 -   <https://github.com/matrix-org>
 -   <https://github.com/AgregoreWeb>

@@ -447,6 +447,7 @@
 -   <https://github.com/expressjs/multer>
 -   <https://github.com/streamich/unionfs>
 -   <https://github.com/duna-oss/flystorage>
+-   <https://github.com/sindresorhus/chunk-data>
 -   <https://github.com/googlicius/file-storage>
 
 ## LIBS: DOM

@@ -264,6 +264,7 @@
 
 -   <https://github.com/py-pdf/pypdf>
 -   <https://github.com/btpf/Alexandria>
+-   <https://github.com/booklore-app/booklore>
 -   <https://github.com/koodo-reader/koodo-reader>
 -   <https://github.com/paperless-ngx/paperless-ngx>
 -   <https://github.com/opendatalab/PDF-Extract-Kit>

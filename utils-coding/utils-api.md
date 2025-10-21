@@ -68,6 +68,7 @@
 -   <https://github.com/Kong/insomnia>
 -   <https://github.com/usebruno/bruno>
 -   <https://github.com/mountain-loop/yaak>
+-   <https://github.com/requestly/requestly>
 -   <https://github.com/darrenburns/posting>
 -   <https://github.com/hoppscotch/hoppscotch>
 -   <https://github.com/transferwise/public-api-postman-collection>

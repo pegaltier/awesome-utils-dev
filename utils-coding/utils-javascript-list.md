@@ -782,9 +782,7 @@
 -   <https://github.com/mozilla/readability>
 -   <https://github.com/focus-trap/tabbable>
 -   <https://github.com/jsfiddle/togetherjs>
--   <https://github.com/soldair/node-qrcode>
 -   <https://github.com/missive/emoji-mart>
--   <https://github.com/datalog/qrcode-svg>
 -   <https://github.com/Simonwep/selection>
 -   <https://github.com/Agezao/confetti-js>
 -   <https://github.com/mamunhpath/josh.js>
@@ -797,7 +795,6 @@
 -   <https://github.com/joeattardi/picmo>
 -   <https://github.com/xtermjs/xterm.js>
 -   <https://github.com/zxing-js/library>
--   <https://github.com/bitjson/qr-code>
 -   <https://github.com/preachjs/popper>
 -   <https://github.com/iamcal/js-emoji>
 -   <https://github.com/svgdotjs/svg.js>
@@ -820,6 +817,13 @@
 -   <https://github.com/LeaVerou/style-observer>
 -   <https://github.com/formkit/auto-animate>
 -   <https://github.com/dnnsjsk/glaze>
+
+## LIB: FRONTEND QR CODE
+
+-   <https://github.com/bitjson/qr-code>
+-   <https://github.com/datalog/qrcode-svg>
+-   <https://github.com/soldair/node-qrcode>
+-   <https://github.com/kozakdenys/qr-code-styling>
 
 ## LIB: FRONTEND TEXT EDITOR / WYSIWYG
 
