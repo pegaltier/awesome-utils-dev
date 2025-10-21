@@ -159,6 +159,7 @@
 -   <https://github.com/alibaba/arthas>
 -   <https://github.com/caoccao/Javet>
 -   <https://github.com/apache/thrift>
+-   <https://github.com/flyway/flyway>
 -   <https://github.com/vavr-io/vavr>
 -   <https://github.com/apache/druid>
 -   <https://github.com/crate/crate>
