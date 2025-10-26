@@ -98,7 +98,7 @@
 -   <https://github.com/openapi-ts>
 -   <https://github.com/readmeio/oas>
 -   <https://github.com/long-woo/stc>
--   <https://github.com/scalar/scalar> \*
+-   <https://github.com/scalar/scalar>
 -   <https://github.com/kubb-labs/kubb>
 -   <https://github.com/Azure/autorest>
 -   <https://github.com/lukeautry/tsoa>
@@ -111,6 +111,7 @@
 -   <https://github.com/hey-api/openapi-ts>
 -   <https://github.com/getdatanaut/openmcp>
 -   <https://github.com/Mermade/widdershins>
+-   <https://github.com/ng-openapi/ng-openapi>
 -   <https://github.com/samchungy/zod-openapi>
 -   <https://github.com/astahmer/typed-openapi>
 -   <https://github.com/metadevpro/openapi3-ts>

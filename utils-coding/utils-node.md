@@ -414,17 +414,18 @@
 
 -   <https://github.com/isaacs/node-glob>
 
-## LIBS: HTTP&#x3A; ALL
+## LIBS: HTTP: ALL
 
 -   <https://github.com/sindresorhus/ky>
 -   <https://github.com/L-Blondy/up-fetch>
 -   <https://github.com/animir/node-rate-limiter-flexible>
 
-## LIBS: HTTP&#x3A; SSE / SERVER SENT EVENT
+## LIBS: HTTP: SSE / SERVER SENT EVENT
 
 -   <https://github.com/Bewinxed/river.ts>
 -   <https://github.com/adonisjs/transmit>
 -   <https://github.com/MatthewWid/better-sse>
+-   <https://github.com/sindresorhus/parse-sse>
 -   <https://github.com/event-driven-io/emmett>
 -   <https://github.com/max-mapper/mississippi>
 -   <https://github.com/sindresorhus/get-stream>

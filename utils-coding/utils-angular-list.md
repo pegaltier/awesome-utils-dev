@@ -1230,8 +1230,9 @@ Learn everything about angular universal, make a good SEO.
 
 ## CORE: SIGNALS
 
--   <https://www.youtube.com/watch?v=HstDoVQeP9g> angular signal with Ryan from Solid
 -   <https://www.youtube.com/watch?v=4FkFmn0LmLI> Joshua Morony - Signals
+-   <https://www.youtube.com/watch?v=HstDoVQeP9g> Angular Signal with Ryan from Solid
+-   <https://www.youtube.com/watch?v=sc9BC1LpxT8> Reactivity, Reimagined: Angular Signals at Every Layer
 -   <https://blog.simplified.courses/how-to-prepare-for-angular-signals/>
 -   <https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa>
 -   <https://blog.angulartraining.com/how-to-create-signals-out-of-observables-26f952a9f0e4?gi=d86ea1b93927>

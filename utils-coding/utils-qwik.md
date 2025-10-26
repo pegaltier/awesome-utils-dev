@@ -9,6 +9,7 @@
 ## QWIK OSS
 
 -   <https://github.com/literalpie/storybook-framework-qwik>
+-   <https://github.com/jakovljevic-mladen/qwik-boilerplate>
 -   <https://github.com/learnwithjason/resumable-apps-qwik>
 -   <https://github.com/gioboa/qwik-microfrontend-starter>
 -   <https://github.com/manucorporat/qwik-conference-app>

@@ -436,6 +436,7 @@
 -   <https://github.com/ecyrbe/zodios>
 -   <https://github.com/colinhacks/zod>
 -   <https://github.com/fabien0102/ts-to-zod>
+-   <https://github.com/sachinraja/zod-to-ts>
 -   <https://github.com/duplojs/zod-accelerator>
 -   <https://github.com/astahmer/openapi-zod-client>
 -   <https://github.com/JacobWeisenburger/zod_utilz>

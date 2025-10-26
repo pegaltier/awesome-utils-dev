@@ -529,6 +529,7 @@
 -   <https://github.com/OneRedOak/claude-code-workflows>
 -   <https://github.com/shareAI-lab/analysis_claude_code>
 -   <https://github.com/anthropics/claude-code-security-review>
+-   <https://github.com/VoltAgent/awesome-claude-code-subagents>
 
 ## TOOLS: CODING: OSS PROMPT RULES
 
@@ -1053,7 +1054,6 @@
 -   <https://github.com/lyuchenyang/Macaw-LLM>
 -   <https://github.com/google-deepmind/gemma>
 -   <https://github.com/tensorzero/tensorzero>
--   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/cocktailpeanut/dalai>
 -   <https://github.com/LargeWorldModel/LWM>
 -   <https://github.com/dataelement/bisheng>
@@ -1128,6 +1128,8 @@
 
 ## LIB: EVALS
 
+-   <https://github.com/mattpocock/evalite>
+-   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
 
 ## LIB: AUDIO / TTS / TRANSCRIPT
