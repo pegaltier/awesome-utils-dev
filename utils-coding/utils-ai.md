@@ -460,7 +460,6 @@
 -   <https://github.com/dnakov/anon-kode>
 -   <https://github.com/stitionai/devika>
 -   <https://github.com/Oneirocom/Magick>
--   <https://github.com/getcursor/cursor>
 -   <https://github.com/appdotbuild/agent>
 -   <https://github.com/yamadashy/repomix>
 -   <https://github.com/e2b-dev/fragments>
@@ -500,7 +499,6 @@
 -   <https://github.com/robertpiosik/CodeWebChat>
 -   <https://github.com/stackblitz-labs/bolt.diy>
 -   <https://github.com/eduardoleao052/js-pytorch>
--   <https://github.com/eastlondoner/cursor-tools>
 -   <https://github.com/angular/web-codegen-scorer>
 -   <https://github.com/2-fly-4-ai/V0-system-prompt>
 -   <https://github.com/langchain-ai/deep-agents-ui>
@@ -510,6 +508,11 @@
 -   <https://github.com/deepseek-ai/DeepSeek-Coder-V2>
 -   <https://github.com/OpenInterpreter/open-interpreter>
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
+
+## TOOLS: CODING: OSS CURSOR
+-   <https://github.com/getcursor/cursor>
+-   <https://github.com/yeongpin/cursor-free-vip>
+-   <https://github.com/eastlondoner/cursor-tools>
 
 ## TOOLS: CODING: OSS CLAUDE
 
