@@ -105,6 +105,7 @@
 -   <https://github.com/sunfishcode/eyra>
 -   <https://github.com/tauri-apps/tauri>
 -   <https://github.com/webrtc-rs/webrtc>
+-   <https://github.com/greyblake/nutype>
 -   <https://github.com/makepad/makepad>
 -   <https://github.com/matklad/arbtest>
 -   <https://github.com/oxc-project/oxc>
