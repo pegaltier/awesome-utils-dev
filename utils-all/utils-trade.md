@@ -385,6 +385,7 @@
 -   <https://wealth-lab.com/>
 -   <https://www.wealthsignals.com/>
 -   <https://mhptrading.com/>
+-   <https://www.allasso.ch/>
 -   <https://ghostfol.io/>
 -   <https://www.qmr.ai/>
 -   <https://www.buildalpha.com/>
@@ -827,7 +828,7 @@
 
 -   <https://github.com/hummingbot/hummingbot>
 -   <https://github.com/hummingbot/quants-lab>
--   <https://github.com/freqtrade/freqtrade> \*
+-   <https://github.com/freqtrade/freqtrade>
 -   <https://github.com/QuantConnect/Lean>
 -   <https://github.com/jesse-ai/jesse>
 -   <https://github.com/fintechees>
@@ -863,6 +864,7 @@
 -   <https://github.com/bigcapitalhq/bigcapital>
 -   <https://github.com/tigerbeetle/tigerbeetle>
 -   <https://github.com/rodrigo-brito/ninjabot>
+-   <https://github.com/punitarani/axiom-app>
 -   <https://github.com/ghostfolio/ghostfolio>
 -   <https://github.com/maybe-finance/maybe>
 -   <https://github.com/actualbudget/actual>

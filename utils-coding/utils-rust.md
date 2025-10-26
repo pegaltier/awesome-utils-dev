@@ -66,6 +66,7 @@
 ## FRAMEWORK
 
 -   <https://github.com/cunarist/rinf>
+-   <https://github.com/tokio-rs/axum>
 -   <https://github.com/trailbaseio/trailbase>
 
 ## LIB: AI

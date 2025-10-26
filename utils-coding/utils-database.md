@@ -69,3 +69,7 @@
 -   <https://github.com/mongodb-js/compass>
 -   <https://github.com/FerretDB/FerretDB>
 -   <https://github.com/skytable/skytable>
+
+## SQLITE
+
+-   <https://github.com/benbjohnson/litestream>

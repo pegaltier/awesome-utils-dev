@@ -470,6 +470,7 @@
 -   <https://github.com/Nutlope/llamacoder>
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/Skyvern-AI/skyvern>
+-   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/paul-gauthier/aider>
 -   <https://github.com/fauxpilot/fauxpilot>
@@ -1001,6 +1002,7 @@
 
 -   <https://github.com/LejuRobotics>
 -   <https://github.com/commaai/openpilot>
+-   <https://github.com/ArduPilot/ardupilot>
 -   <https://github.com/qgallouedec/lerobot>
 -   <https://github.com/huggingface/lerobot>
 
