@@ -46,6 +46,7 @@
 -   <https://github.com/stateless-minds>
 -   <https://github.com/hyperhyperspace>
 -   <https://github.com/dyne/zenpub-client>
+-   <https://github.com/voidmerge/voidmerge>
 -   <https://github.com/localsend/localsend>
 -   <https://github.com/peers/peerjs-server>
 -   <https://github.com/markqvist/Reticulum>

@@ -730,6 +730,7 @@
 -   <https://github.com/rita3ko/tiktokenizer>
 -   <https://github.com/the-new-sky/Wisty.js>
 -   <https://github.com/hegelai/prompttools/>
+-   <https://github.com/johannschopplich/toon>
 -   <https://github.com/ScottfreeLLC/AlphaPy>
 -   <https://github.com/Nutlope/restorePhotos>
 -   <https://github.com/realminchoi/babyagi-ui>

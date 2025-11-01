@@ -2555,6 +2555,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/dubzzz/fast-check>
 -   <https://github.com/chancejs/chancejs>
 -   <https://github.com/automock/automock>
+-   <https://github.com/suites-dev/suites>
 -   <https://github.com/vitest-dev/vitest>
 -   <https://github.com/sharkdp/hyperfine>
 -   <https://github.com/mmkal/expect-type>

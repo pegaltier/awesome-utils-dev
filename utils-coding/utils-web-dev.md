@@ -133,6 +133,7 @@
 -   <https://github.com/harlan-zw/unlighthouse>
 -   <https://github.com/developerway/web-perf-fundamentals>
 -   <https://github.com/ChromeDevTools/performance-stories>
+-   <https://github.com/push-based/css-contain-and-content-visibility-research>
 -   <https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/>
 -   <https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/>
 

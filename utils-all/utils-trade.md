@@ -1047,19 +1047,13 @@
 -   <https://github.com/nautechsystems/nautilus_trader> \*
 -   <https://github.com/hudson-and-thames/arbitragelab> \*
 -   <https://github.com/51bitquant/binance_grid_trader>
--   <https://github.com/hackobi/AI-Scalpel-Trading-Bot>
 -   <https://github.com/paperswithbacktest/pwb-toolbox>
 -   <https://github.com/fabston/TradingView-Webhook-Bot>
--   <https://github.com/crypto-code/Stock-Market-AI-GUI>
 -   <https://github.com/facioquo/stock-indicators-python>
 -   <https://github.com/alpacahq/Momentum-Trading-Example>
--   <https://github.com/firmai/financial-machine-learning>
 -   <https://github.com/GrovesD2/market_monitor_trend_dash>
--   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
 -   <https://github.com/AnalyzerREST/python-tradingview-ta>
--   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
--   <https://github.com/tradingstrategy-ai/trading-strategy> \*
--   <https://github.com/louisnw01/lightweight-charts-python> \*
+-   <https://github.com/louisnw01/lightweight-charts-python>
 -   <https://github.com/NourozR/Stock-Price-Prediction-LSTM>
 -   <https://github.com/hackingthemarkets/binance-tutorials>
 -   <https://github.com/donewiththedollar/directionalscalper>
@@ -1288,14 +1282,23 @@
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
 
 -   <https://aicryptochartanalysis.com/>
+-   <https://github.com/wquguru/nof0>
 -   <https://github.com/microsoft/qlib>
+-   <https://github.com/HKUDS/AI-Trader>
 -   <https://github.com/Suharaz/MerkleAI>
+-   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/virattt/ai-hedge-fund>
 -   <https://github.com/chase-manning/ai-hedge-fund>
 -   <https://github.com/AI4Finance-Foundation/FinRL>
 -   <https://github.com/tensortrade-org/tensortrade>
 -   <https://github.com/TauricResearch/TradingAgents>
 -   <https://github.com/LiamConnell/deep-algotrading/>
+-   <https://github.com/hackobi/AI-Scalpel-Trading-Bot>
+-   <https://github.com/crypto-code/Stock-Market-AI-GUI>
+-   <https://github.com/firmai/financial-machine-learning>
+-   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
+-   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
+-   <https://github.com/tradingstrategy-ai/trading-strategy>
 -   <https://github.com/ccroft6/Technical_Indicator_Analysis_ML>
 
 ## OSS: TOPICS
