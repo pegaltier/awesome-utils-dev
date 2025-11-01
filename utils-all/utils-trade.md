@@ -1086,6 +1086,8 @@
 
 -   <https://github.com/amv-dev/yata>
 -   <https://github.com/greyblake/ta-rs>
+-   <https://github.com/jerryshell/midas>
+-   <https://github.com/cinar/indicatorrs>
 -   <https://github.com/austin-starks/ta-rs-improved>
 -   <https://github.com/kanekoshoyu/kucoin_arbitrage>
 -   <https://github.com/nautechsystems/nautilus_trader>

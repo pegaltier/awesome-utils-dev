@@ -1201,6 +1201,7 @@
 -   <https://github.com/tensorflow/tfjs-models>
 -   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/sbyrnes/DataScience_in_Node.js>
+-   <https://github.com/nearform/node-hidden-markov-model-tf>
 -   <https://github.com/jinglescode/time-series-forecasting-tensorflowjs>
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED
