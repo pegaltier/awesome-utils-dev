@@ -259,7 +259,9 @@
 -   <https://github.com/davidmarkclements/0x>
 -   <https://github.com/mysticatea/npm-run-all>
 -   <https://github.com/rodrigopivi/tslab-widgets>
+-   <https://github.com/sverweij/dependency-cruiser>
 -   <https://github.com/antfu/node-modules-inspector>
+-   <https://github.com/dependents/node-dependency-tree>
 
 ## UTILS: CLEAN / KILL
 
@@ -276,7 +278,6 @@
 -   <https://github.com/JakobJingleheimer/nodejs-loaders>
 -   <https://github.com/mafintosh/why-is-node-running>
 -   <https://github.com/node-loader/node-loader-core>
--   <https://github.com/sverweij/dependency-cruiser>
 -   <https://github.com/sindresorhus/find-cache-dir>
 -   <https://github.com/nodejs-mobile/nodejs-mobile>
 -   <https://github.com/jkup/source-map-validator>
