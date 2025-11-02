@@ -130,6 +130,7 @@
 
 ## OPTIMIZATION
 
+-   <https://github.com/cloudflare/telescope>
 -   <https://github.com/harlan-zw/unlighthouse>
 -   <https://github.com/developerway/web-perf-fundamentals>
 -   <https://github.com/ChromeDevTools/performance-stories>

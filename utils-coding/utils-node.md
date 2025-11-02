@@ -404,9 +404,11 @@
 -   <https://github.com/mcollina/everysync>
 -   <https://github.com/developit/web-worker>
 -   <https://github.com/faranalytics/socketnaut>
+-   <https://github.com/damiansire/web-worker-patterns>
 
 ## LIBS: UNIT TESTING
 
+-   <https://github.com/japa>
 -   <https://github.com/ladjs/supertest>
 -   <https://github.com/humanwhocodes/mentoss>
 -   <https://github.com/privatenumber/fs-fixture>

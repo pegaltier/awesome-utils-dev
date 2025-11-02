@@ -604,6 +604,7 @@
 -   <https://github.com/spencermountain/spacetime>
 -   <https://github.com/mymth/vanillajs-datepicker>
 -   <https://github.com/fullcalendar/temporal-polyfill>
+-   <https://github.com/sindresorhus/parse-duration-ms>
 
 ## LIB: URL
 
