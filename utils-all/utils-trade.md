@@ -1241,6 +1241,7 @@
 -   <https://github.com/punitarani/axiom-app>
 -   <https://github.com/wagenaartje/stocks.js>
 -   <https://github.com/coinranking/exchanges>
+-   <https://github.com/ccxt/binance-api-node>
 -   <https://github.com/tardis-dev/tardis-node> \*
 -   <https://github.com/ixjb94/market-screener>
 -   <https://github.com/fasenderos/nestjs-ccxt>
