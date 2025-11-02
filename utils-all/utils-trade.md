@@ -1085,12 +1085,17 @@
 ### OSS: RUST
 
 -   <https://github.com/amv-dev/yata>
+-   <https://github.com/kand-ta/kand>
 -   <https://github.com/greyblake/ta-rs>
 -   <https://github.com/jerryshell/midas>
+-   <https://github.com/ChironMind/rustTI>
 -   <https://github.com/cinar/indicatorrs>
+-   <https://github.com/chironmind/ti-engine>
+-   <https://github.com/bitbytelabio/tradingview-rs>
 -   <https://github.com/austin-starks/ta-rs-improved>
 -   <https://github.com/kanekoshoyu/kucoin_arbitrage>
 -   <https://github.com/nautechsystems/nautilus_trader>
+-   <https://github.com/C9up/technical-indicators-wasm>
 
 ## OSS: JAVA
 
