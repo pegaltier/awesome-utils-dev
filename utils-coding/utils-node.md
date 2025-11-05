@@ -398,6 +398,7 @@
 
 ## LIBS: WORKER MULTI THREAD
 
+-   <https://github.com/breejs/bree>
 -   <https://github.com/jofpin/turbit>
 -   <https://github.com/piscinajs/piscina>
 -   <https://github.com/tinylibs/tinypool>
@@ -496,6 +497,7 @@
 -   <https://github.com/Hexagon/croner>
 -   <https://vercel.com/docs/cron-jobs>
 -   <https://github.com/nefe/one-cron>
+-   <https://github.com/breejs/bree>
 
 ## LIBS: TESTING
 
