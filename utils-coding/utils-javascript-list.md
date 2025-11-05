@@ -609,6 +609,7 @@
 ## LIB: URL
 
 -   <https://github.com/kenchris/urlpattern-polyfill>
+-   <https://github.com/sindresorhus/url-extras>
 -   <https://github.com/unshiftio/url-parse>
 -   <https://github.com/jsonurl/jsonurl-js>
 -   <https://github.com/masotime/json-url>

@@ -402,6 +402,8 @@
 -   <https://github.com/piscinajs/piscina>
 -   <https://github.com/tinylibs/tinypool>
 -   <https://github.com/mcollina/everysync>
+-   <https://github.com/poolifier/poolifier>
+-   <https://github.com/josdejong/workerpool>
 -   <https://github.com/developit/web-worker>
 -   <https://github.com/faranalytics/socketnaut>
 -   <https://github.com/damiansire/web-worker-patterns>
