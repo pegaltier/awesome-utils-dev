@@ -346,7 +346,6 @@
 -   <https://github.com/clinicjs/node-clinic>
 -   <https://github.com/theophilusx/ssh2-sftp-client>
 -   <https://github.com/log4js-node/log4js-node>
--   <https://github.com/microsoft/playwright>
 -   <https://github.com/sindresorhus/got>
 -   <https://github.com/ai/nanocolors>
 -   <https://github.com/nodejs/undici>
@@ -361,6 +360,12 @@
 -   <https://github.com/eta-dev/eta>
 -   <https://github.com/leeoniya/uluzzy>
 -   <https://github.com/fromdeno/deno2node>
+
+## LIBS: TESTING
+-   <https://github.com/jestjs/jest>
+-   <https://github.com/vitest-dev/vitest>
+-   <https://github.com/tinylibs/tinyspy>
+
 
 ## LIBS: VITE
 

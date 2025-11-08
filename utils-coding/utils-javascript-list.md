@@ -195,6 +195,11 @@
 -   <https://github.com/ytiurin>
 -   <https://github.com/drudge>
 
+
+## TEAM
+-   <https://github.com/tinylibs>
+-   <https://github.com/frappe>
+
 ## BOOKS
 
 -   <https://exploringjs.com/impatient-js/>
