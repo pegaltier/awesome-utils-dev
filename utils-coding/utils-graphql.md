@@ -76,6 +76,7 @@
 -   <https://github.com/anvilco/spectaql>
 -   <https://github.com/graphql/graphiql>
 -   <https://github.com/dgraph-io/dgraph>
+-   <https://github.com/puzzmo-com/tapped>
 -   <https://github.com/wundergraph/cosmo>
 -   <https://github.com/captbaritone/grats>
 -   <https://github.com/Urigo/graphql-mesh>

@@ -468,7 +468,6 @@
 -   <https://github.com/plandex-ai/plandex>
 -   <https://github.com/Nutlope/llamacoder>
 -   <https://github.com/MLSysOps/MLE-agent>
--   <https://github.com/Skyvern-AI/skyvern>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/paul-gauthier/aider>
@@ -1315,6 +1314,7 @@
 ## LIB: BROWSER
 
 -   <https://github.com/addyosmani/chatty>
+-   <https://github.com/Skyvern-AI/skyvern>
 -   <https://github.com/lightpanda-io/browser>
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/magnitudedev/magnitude>

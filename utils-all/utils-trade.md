@@ -1294,6 +1294,7 @@
 -   <https://github.com/microsoft/qlib>
 -   <https://github.com/HKUDS/AI-Trader>
 -   <https://github.com/Suharaz/MerkleAI>
+-   <https://github.com/mims-harvard/UniTS>
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/virattt/ai-hedge-fund>
 -   <https://github.com/chase-manning/ai-hedge-fund>
@@ -1302,6 +1303,7 @@
 -   <https://github.com/TauricResearch/TradingAgents>
 -   <https://github.com/LiamConnell/deep-algotrading/>
 -   <https://github.com/hackobi/AI-Scalpel-Trading-Bot>
+-   <https://github.com/AI4Finance-Foundation/FinRobot>
 -   <https://github.com/crypto-code/Stock-Market-AI-GUI>
 -   <https://github.com/firmai/financial-machine-learning>
 -   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>

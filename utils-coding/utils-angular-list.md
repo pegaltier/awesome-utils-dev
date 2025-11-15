@@ -1236,39 +1236,42 @@ Learn everything about angular universal, make a good SEO.
 -   <https://blog.simplified.courses/how-to-prepare-for-angular-signals/>
 -   <https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa>
 -   <https://blog.angulartraining.com/how-to-create-signals-out-of-observables-26f952a9f0e4?gi=d86ea1b93927>
+-   <https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo>
+-   <https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396>
 -   <https://dev.to/this-is-angular/how-do-i-test-signals-signal-computed-effect-f24>
 -   <https://dev.to/this-is-angular/this-is-your-signal-to-try-tanstack-query-angular-35m9>
 -   <https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9>
 -   <https://dev.to/this-is-angular/angular-signals-everything-you-need-to-know-2b7g>
--   <https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo>
 -   <https://timdeschryver.dev/blog/bringing-the-power-of-signals-to-angular-forms-with-signal-forms>
 -   <https://ng-journal.com/blog/2023-04-25-signals-and-the-rxjs-interop/>
 -   <https://marmicode.io/blog/angular-signals-and-custom-render-strategies>
 -   <https://marmicode.io/blog/managing-rxjs-traffic-with-signals?b=3>
 -   <https://www.angulararchitects.io/aktuelles/angular-signals/>
--   <https://github.com/SanderElias/Samples/tree/main/Angular-Signals>
--   <https://github.com/jordanpowell88/angular-counter> (cypress)
--   <https://github.com/jorgeucano/ngx-angular-migration-signal-helper>
--   <https://github.com/crutchcorn/ng-linked-signal-and-resource-demo>
--   <https://github.com/damiansire/angular-signals-introduction>
--   <https://github.com/eneajaho/ngx-signal-experimental>
--   <https://github.com/nartc/ng-conduit-signals>
--   <https://github.com/eduardoRoth/signals-workshop>
--   <https://github.com/damiansire/angular-examples>
--   <https://github.com/code-with-ahsan/ng-signals-wishlist>
--   <https://github.com/eduardoRoth/rick-and-morty-signals>
--   <https://github.com/sonusindhu/angular-signals-examples> \*
--   <https://stackblitz.com/edit/angular-ng-model-signal>
 -   <https://stackblitz.com/edit/angular-ednkcj>
--   <https://github.com/nartc/ng-signals-conduit>
 -   <https://angular-signals.netlify.app/>
 -   <https://www.angulararchitects.io/aktuelles/angular-signals-your-architecture-5-options/>
 -   <https://www.angulararchitects.io/en/blog/component-communication-with-signals-inputs-two-way-bindings-and-content-view-queries/>
 -   <https://justangular.com/blog/providing-inputs-in-di>
 -   <https://nartc.me/blog/angular-object-inputs/>
 -   <https://angularexperts.io/blog/stop-misusing-effects>
--   <https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396>
 -   <https://www.codigotipado.com/p/linkedsignal-in-angular-19-say-goodbye>
+
+## CORE: SIGNALS OSS
+-   <https://github.com/jorgeucano/ngx-angular-migration-signal-helper>
+-   <https://github.com/SanderElias/Samples/tree/main/Angular-Signals>
+-   <https://github.com/crutchcorn/ng-linked-signal-and-resource-demo>
+-   <https://github.com/damiansire/angular-signals-introduction>
+-   <https://github.com/code-with-ahsan/ng-signals-wishlist>
+-   <https://github.com/sonusindhu/angular-signals-examples>
+-   <https://github.com/eduardoRoth/rick-and-morty-signals>
+-   <https://stackblitz.com/edit/angular-ng-model-signal>
+-   <https://github.com/eneajaho/ngx-signal-experimental>
+-   <https://github.com/jordanpowell88/angular-counter>
+-   <https://github.com/eduardoRoth/signals-workshop>
+-   <https://github.com/damiansire/angular-examples>
+-   <https://github.com/nartc/ng-conduit-signals>
+-   <https://github.com/alcfeoh/ngx-signal-forms>
+-   <https://github.com/nartc/ng-signals-conduit>
 
 ## CORE: ERROR HANDLER
 

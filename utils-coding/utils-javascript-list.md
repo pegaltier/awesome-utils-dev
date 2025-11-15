@@ -388,6 +388,7 @@
 
 -   <https://github.com/vitalets/websocket-as-promised>
 -   <https://github.com/node-fetch/node-fetch>
+-   <https://github.com/SocketDev/socket-lib>
 -   <https://github.com/L-Blondy/up-fetch>
 -   <http://github.com/sindresorhus/ky>
 -   <https://github.com/alovajs/alova>
@@ -574,6 +575,7 @@
 ## LIB: DI / DEPENDENCY INJECTION
 
 -   <https://tsh.io/blog/dependency-injection-in-node-js/>
+-   <https://github.com/thiagobustamante/typescript-ioc>
 -   <https://github.com/jeffijoe/awilix-router-core>
 -   <https://github.com/jeffijoe/awilix-express>
 -   <https://github.com/ezzabuzaid/tiny-injector>
@@ -585,6 +587,7 @@
 -   <https://github.com/ashleydavis/fusion>
 -   <https://github.com/mako-taco/dipstick>
 -   <https://github.com/microsoft/tsyringe>
+-   <https://github.com/gnaeus/react-ioc>
 -   <https://github.com/jeffijoe/awilix>
 -   <https://github.com/cleandi/cleandi>
 -   <https://github.com/developit/mitt>
@@ -688,6 +691,7 @@
 
 ## LIB: SHELL CLI PROMPT
 
+-   <https://github.com/sindresorhus/powershell-utils>
 -   <https://github.com/gmrchk/cli-testing-library>
 -   <https://github.com/microsoft/inshellisense>
 -   <https://github.com/tj/commander.js/>
@@ -1283,6 +1287,7 @@
 -   <https://github.com/crdt-ibm-research/json-delta-crdt>
 -   <https://github.com/Leonidas-from-XIV/node-xml2js>
 -   <https://github.com/francisrstokes/construct-js>
+-   <https://github.com/sindresorhus/component-type>
 -   <https://github.com/pichillilorenzo/jackson-js>
 -   <https://github.com/ibmruntimes/yieldable-json>
 -   <https://github.com/mjbrisebois/js-bytes-class>

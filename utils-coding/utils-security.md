@@ -190,16 +190,6 @@
 -   <https://github.com/CISOfy/lynis>
 -   <https://github.com/D3Ext/WEF>
 
-## WEB SCAM / VIRUS
-
--   safebrowsing.google.com/safebrowsing/report_phish/?hl=en
-
-## BUG BOUNTY / SECURITY BOUNTY
-
--   www.hackerone.com/
--   www.bugcrowd.com/
--   www.yogosha.com/
-
 ## UTILS
 
 -   <https://github.com/OWASP/www-project-vulnerable-web-applications-directory>
@@ -224,6 +214,20 @@
 -   <https://github.com/OWASP/Amass>
 -   <https://github.com/s0md3v/uro>
 -   <https://github.com/f13end>
+
+## AI
+-   <https://github.com/usestrix/strix>
+
+
+## WEB SCAM / VIRUS
+
+-   safebrowsing.google.com/safebrowsing/report_phish/?hl=en
+
+## BUG BOUNTY / SECURITY BOUNTY
+
+-   www.hackerone.com/
+-   www.bugcrowd.com/
+-   www.yogosha.com/
 
 ## FRONTEND SECURITY
 

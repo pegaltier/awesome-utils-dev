@@ -126,9 +126,10 @@
 -   <https://github.com/platformatic/node-masterclass>
 -   <https://github.com/goldbergyoni/nodebestpractices>
 -   <https://github.com/platformatic/the-high-performance-node-workshop>
--   <https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer>
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
+-   <https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer>
 -   <https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/>
+-   <https://developerehsan.medium.com/10-mind-blowing-node-js-features-that-make-it-unstoppable-86a5e98e2fc2>
 -   <https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc> node-typescript-esm.md
 -   <https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c> node-pure-esm.md
 
