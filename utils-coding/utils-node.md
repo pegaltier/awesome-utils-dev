@@ -245,6 +245,7 @@
 -   <https://github.com/esm-dev/esm.sh>
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/amio/npm-why>
+-   <https://github.com/ranyitz/qnm>
 -   <https://github.com/antfu/taze>
 
 ## UTILS: DEVTOOLS
@@ -314,7 +315,6 @@
 -   <https://github.com/google/wireit>
 -   <https://github.com/ranyitz/newsh>
 -   <https://github.com/remy/nodemon>
--   <https://github.com/ranyitz/qnm>
 -   <https://github.com/47ng/sceau>
 -   <https://github.com/vercel/ncc>
 -   <https://github.com/vercel/nft>

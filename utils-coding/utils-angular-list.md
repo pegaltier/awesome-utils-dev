@@ -391,6 +391,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 -   <https://angular-checklist.io/>
 -   <https://angular.io/guide/cheatsheet>
 -   <https://github.com/SanderElias/Samples>
+-   <https://github.com/martinboue/angular-tips>
 -   <https://github.com/typebytes/angular-checklist>
 -   <https://github.com/tomalaforge/angular-challenges>
 -   <https://github.com/avivharuzi/angular-best-practices>

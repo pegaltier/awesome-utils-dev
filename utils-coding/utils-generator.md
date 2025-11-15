@@ -28,6 +28,11 @@
 -   <https://github.com/kentcdodds/generator-kcd-oss>
 -   <https://github.com/dsebastien/word-plugin-angular-template>
 
+## MIGRATE
+-   <https://github.com/ranyitz/code-migrate>
+-   <https://github.com/openrewrite/rewrite>
+-   <https://github.com/codemod/codemod>
+
 ## ALL
 
 -   <https://github.com/MagnusHJensen/cedar-code-generator>

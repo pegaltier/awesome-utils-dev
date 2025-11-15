@@ -597,6 +597,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/rakkasjs/rakkasjs>
 -   <https://github.com/docsifyjs/docsify>
 -   <https://github.com/orgsofthq/dsbuild>
+-   <https://github.com/zensical/zensical>
 -   <https://github.com/retypeapp/retype>
 -   <https://github.com/colinhacks/devii>
 -   <https://github.com/Elderjs/elderjs>

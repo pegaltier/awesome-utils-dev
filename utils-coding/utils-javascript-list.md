@@ -184,6 +184,7 @@
 -   <https://github.com/douglascrockford>
 -   <https://github.com/anfibiacreativa>
 -   <https://github.com/antoine-coulon>
+-   <https://github.com/aurorascharff>
 -   <https://github.com/williamtroup>
 -   <https://github.com/rhyssullivan>
 -   <https://github.com/branchseer>
