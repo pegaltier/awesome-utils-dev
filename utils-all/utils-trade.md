@@ -1239,6 +1239,7 @@
 -   <https://github.com/daniellok/day-trader>
 -   <https://github.com/DannyPreye/fx-ninja/>
 -   <https://github.com/punitarani/axiom-app>
+-   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/wagenaartje/stocks.js>
 -   <https://github.com/coinranking/exchanges>
 -   <https://github.com/ccxt/binance-api-node>
@@ -1251,6 +1252,7 @@
 -   <https://github.com/austin-starks/NextTrade> \*
 -   <https://github.com/pratikgaloria/quantomate>
 -   <https://github.com/tiagosiebler/bitmart-api>
+-   <https://github.com/valamidev/DataSynchronizer>
 -   <https://github.com/gadicc/node-yahoo-finance2> \*
 -   <https://github.com/ViewBlock/binance-api-node>
 -   <https://github.com/imxeno/tradingview-scraper>
@@ -1295,6 +1297,7 @@
 -   <https://github.com/HKUDS/AI-Trader>
 -   <https://github.com/Suharaz/MerkleAI>
 -   <https://github.com/mims-harvard/UniTS>
+-   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/virattt/ai-hedge-fund>
 -   <https://github.com/chase-manning/ai-hedge-fund>

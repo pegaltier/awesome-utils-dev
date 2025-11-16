@@ -43,6 +43,7 @@
 
 ## JAVASCRIPT
 
+-   <https://github.com/Hans-Halverson/brimstone>
 -   <https://github.com/tryandromeda/andromeda>
 -   <https://github.com/Sharktheone/yavashark>
 -   <https://github.com/napi-rs/napi-rs>
@@ -62,6 +63,7 @@
 -   <https://github.com/rust-phf/rust-phf>
 -   <https://github.com/hoxxep/rapidhash>
 -   <https://github.com/salsa-rs/salsa>
+-   <https://github.com/cross-rs/cross>
 
 ## FRAMEWORK
 

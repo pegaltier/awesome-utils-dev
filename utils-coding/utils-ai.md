@@ -840,6 +840,7 @@
 -   <https://github.com/elizaOS/eliza>
 -   <https://github.com/agno-agi/agno>
 -   <https://github.com/letta-ai/letta>
+-   <https://github.com/google/adk-web>
 -   <https://github.com/coleam00/Archon>
 -   <https://github.com/firebase/genkit>
 -   <https://github.com/getzep/graphiti>
