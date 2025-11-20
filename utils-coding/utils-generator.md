@@ -31,6 +31,7 @@
 ## MIGRATE
 -   <https://github.com/ranyitz/code-migrate>
 -   <https://github.com/openrewrite/rewrite>
+-   <https://github.com/dsherret/ts-morph>
 -   <https://github.com/codemod/codemod>
 
 ## ALL

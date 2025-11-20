@@ -647,6 +647,7 @@
 
 ## SERVER: EXPRESS/ITTY
 
+-   <https://github.com/inversify/inversify-express-utils>
 -   <https://github.com/michaelcpuckett/express-worker>
 -   <https://github.com/mucahitnezir/express-starter>
 -   <https://github.com/berstend/tiny-request-router>
