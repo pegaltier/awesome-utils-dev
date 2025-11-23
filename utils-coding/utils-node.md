@@ -705,6 +705,7 @@
 -   <https://github.com/cloudflare/capnweb>
 -   <https://github.com/capnproto/capnproto>
 -   <https://github.com/maloguertin/msw-trpc>
+-   <https://github.com/antfu-collective/birpc>
 
 ## FRAMEWORKS
 
