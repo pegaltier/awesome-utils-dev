@@ -163,6 +163,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 ### HOLOCHAIN-RSM GITHUB (NEW)
 
 -   <https://github.com/coasys>
+-   <https://github.com/ddd-mtl/zdk>
 -   <https://github.com/hexafield/conjure>
 -   <https://github.com/unytco/hfvz-releases>
 -   <https://github.com/Soushi888/holochain-mcp>

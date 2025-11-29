@@ -567,11 +567,13 @@
 
 ## LIB: CACHING / MEMORY
 
+-   <https://github.com/anywhichway/nano-memoize>
 -   <https://github.com/shahradelahi/storage-box>
 -   <https://github.com/thinkloop/memoizerific>
 -   <https://github.com/dai-shi/proxy-memoize>
 -   <https://github.com/epicweb-dev/cachified>
 -   <https://github.com/erikras/lru-memoize>
+-   <https://github.com/aduth/memize>
 
 ## LIB: DI / DEPENDENCY INJECTION
 

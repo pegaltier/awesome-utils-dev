@@ -524,6 +524,7 @@
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
 -   <https://github.com/siteboon/claudecodeui>
+-   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/Doriandarko/claude-engineer>
 -   <https://github.com/davila7/claude-code-templates>
 -   <https://github.com/anthropics/claude-code-action>
@@ -758,6 +759,7 @@
 
 -   <https://github.com/mem0ai/mem0>
 -   <https://github.com/Olow304/memvid>
+-   <https://github.com/steveyegge/beads>
 -   <https://github.com/topoteretes/cognee>
 
 ## LIB: ASSISTANT
