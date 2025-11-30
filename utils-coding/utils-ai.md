@@ -548,6 +548,7 @@
 -   <https://github.com/OneRedOak/claude-code-workflows>
 -   <https://github.com/shareAI-lab/analysis_claude_code>
 -   <https://github.com/anthropics/claude-code-security-review>
+-   <https://github.com/EveryInc/compounding-engineering-plugin>
 -   <https://github.com/VoltAgent/awesome-claude-code-subagents>
 
 ## TOOLS: CODING: OSS PROMPT RULES

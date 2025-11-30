@@ -1445,6 +1445,7 @@
 -   <https://github.com/daniellok/day-trader>
 -   <https://github.com/TomaszRewak/ML-games>
 -   <https://github.com/shaack/cm-chessboard>
+-   <https://github.com/excaliburjs/Excalibur>
 -   <https://github.com/KilledByAPixel/LittleJS>
 -   <https://github.com/gruhn/typescript-sudoku>
 -   <https://github.com/memetic-institute/The-Fed>

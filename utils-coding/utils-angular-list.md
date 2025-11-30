@@ -1868,6 +1868,7 @@ Starter samples, seeds, alternative to the default Angular CLI tools in order to
 -   <https://github.com/pkozlowski-opensource/ng2-play>
 -   <https://github.com/ocombe/ng2-play/tree/ng2-translate>
 -   <https://github.com/ocombe/angular2-seed/tree/ng2-translate>
+-   <https://github.com/azizaydi23/Angular-v21-Starter-Kit>
 -   <https://github.com/angular-cms/angular-cms>
 -   <https://github.com/pregular>
 
