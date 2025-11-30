@@ -159,7 +159,7 @@
 -   <https://github.com/vltpkg/vltpkg>
 -   <https://github.com/yarnpkg/berry>
 -   <https://github.com/lirantal/npq>
-    -   <https://github.com/pnpm/pacquet>
+-   <https://github.com/pnpm/pacquet>
 -   <https://github.com/oven-sh/bun>
 -   <https://github.com/ije/esm.sh>
 -   <https://github.com/pnpm/pnpm>
@@ -252,6 +252,7 @@
 
 ## UTILS: DEVTOOLS
 
+-   <https://pkg.vc/>
 -   <https://github.com/sgb-io/fta>
 -   <https://github.com/yunabe/tslab>
 -   <https://github.com/Qard/onchange>

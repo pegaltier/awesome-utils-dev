@@ -1229,6 +1229,7 @@
 ## LIB: 3D IMAGE / STABLE DIFFUSION
 
 -   <https://github.com/AiuniAI/Unique3D>
+-   <https://github.com/ArthurBrussee/brush>
 
 ## LIB: IMAGE / DIFFUSION / DLM
 

@@ -153,6 +153,9 @@
 -   <https://www.herodevs.com/support/endbridge>
 -   <https://github.com/facebookincubator/memlab>
 
+## UTILS: UNIT TESTS
+-   <https://github.com/suites-dev/codemod>
+
 ## UTILS: AI
 
 -   <https://github.com/anti-work/shortest>
