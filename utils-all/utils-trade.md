@@ -216,6 +216,7 @@
 -   <https://mycoder.pro/>
 -   <https://algoji.com/>
 -   <https://nurp.com/>
+-   <https://veli.io/>
 
 ## SITES: CRYPTO
 
@@ -389,6 +390,7 @@
 -   <https://ghostfol.io/>
 -   <https://www.qmr.ai/>
 -   <https://www.buildalpha.com/>
+-   <https://easylanguagemastery.com/>
 -   <https://www.lizardindicators.com/>
 -   <https://toslc.thinkorswim.com/center>
 -   <https://www.portfoliovisualizer.com/>

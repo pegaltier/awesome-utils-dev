@@ -403,7 +403,8 @@
 
 ## LIB: HTTP PROXY
 
--   <https://github.com/gajus/global-agent> proxy
+-   <https://github.com/gajus/global-agent>
+-   <https://github.com/ontola/koa-http2-proxy>
 -   <https://github.com/http-party/node-http-proxy>
 
 ## LIB: BACKEND
@@ -697,6 +698,7 @@
 -   <https://github.com/sindresorhus/powershell-utils>
 -   <https://github.com/gmrchk/cli-testing-library>
 -   <https://github.com/microsoft/inshellisense>
+-   <https://github.com/infinitered/gluegun>
 -   <https://github.com/tj/commander.js/>
 -   <https://github.com/terkelg/prompts>
 -   <https://github.com/poppinss/cliui>
@@ -1198,6 +1200,17 @@
 -   <https://github.com/liveloveapp/hashbrown>
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/ephemeraHQ/xmtp-agent-examples>
+
+## LIB: AI WEB / NLP EDGE
+-   <https://github.com/brainjs>
+-   <https://github.com/tensorflow/tfjs>
+-   <https://github.com/huggingface/candle>
+-   <https://github.com/google-ai-edge/LiteRT>
+-   <https://github.com/microsoft/onnxruntime>
+-   <https://github.com/google-ai-edge/mediapipe>
+-   <https://github.com/roboflow/inference-sdk-js>
+-   <https://github.com/huggingface/transformers.js>
+-   <https://github.com/huggingface/transformers.js-examples>
 
 ## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK
 

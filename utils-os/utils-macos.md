@@ -73,6 +73,7 @@
 -   <https://github.com/rxhanson/Rectangle>
 -   <https://github.com/seemoo-lab/opendrop>
 -   <https://github.com/sickcodes/Docker-OSX>
+-   <https://github.com/kavishdevar/librepods>
 -   <https://github.com/minamarkham/formation>
 -   <https://github.com/jacklandrin/OnlySwitch>
 -   <https://github.com/alienator88/Pearcleaner>

@@ -388,6 +388,7 @@
 
 Avoid common mistakes, bugs, find tips and checklist for good development...
 
+-   <https://ngtips.com/>
 -   <https://angular-checklist.io/>
 -   <https://angular.io/guide/cheatsheet>
 -   <https://github.com/SanderElias/Samples>
@@ -455,6 +456,7 @@ Avoid common mistakes, bugs, find tips and checklist for good development...
 -   <https://www.youtube.com/watch?v=OhuRvfcw3Tw> TOP 6 Mistakes in RxJS code
 -   <https://medium.com/coreteq/slots-make-your-angular-api-flexible-89e707ffae4c>
 -   <https://slides.com/doguhanuluca/architecture-for-scalable-angular-apps#/2>
+-   <https://dev.to/atheodosiou/how-i-built-a-plugin-based-architecture-in-angular-19-1n6o>
 
 ## HELPER: DESIGN PATTERN
 
@@ -1091,6 +1093,7 @@ Learn the built-in dependency injection mecanism and how to use it to inject you
 
 Learn about the angular router, lazy load your modules.
 
+-   <https://alessiopelliccione.medium.com/angular-router-the-complete-internal-architecture-from-url-parsing-to-component-rendering-0a80e0cdc038>
 -   <https://netbasal.com/best-route-forward-declarative-route-path-management-in-angular-apps-a44c7e39c340>
 -   <https://dev.to/angular/angular-router-getting-to-know-urltree-activatedroutesnapshot-and-activatedroute-5dd1>
 -   <https://medium.com/ngconf/routing-to-angular-material-dialogs-c3fb7231c177>
@@ -1235,6 +1238,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://www.youtube.com/watch?v=HstDoVQeP9g> Angular Signal with Ryan from Solid
 -   <https://www.youtube.com/watch?v=sc9BC1LpxT8> Reactivity, Reimagined: Angular Signals at Every Layer
 -   <https://blog.simplified.courses/how-to-prepare-for-angular-signals/>
+-   <https://medium.com/ngconf/skip-angular-resource-ff3441e8b2ba>
 -   <https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa>
 -   <https://blog.angulartraining.com/how-to-create-signals-out-of-observables-26f952a9f0e4?gi=d86ea1b93927>
 -   <https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo>
@@ -1256,6 +1260,12 @@ Learn everything about angular universal, make a good SEO.
 -   <https://nartc.me/blog/angular-object-inputs/>
 -   <https://angularexperts.io/blog/stop-misusing-effects>
 -   <https://www.codigotipado.com/p/linkedsignal-in-angular-19-say-goodbye>
+
+## CORE: SIGNALS FORM
+-   <https://anglebrackets-dev.medium.com/signal-forms-4c4c647d1e6a>
+-   <https://blog.ninja-squad.com/2025/11/04/angular-signal-forms-part-1>
+-   <https://blog.ninja-squad.com/2025/11/14/angular-signal-forms-part-2>
+-   <https://stackblitz.com/@nihaadk/collections/angular-signal-forms-examples>
 
 ## CORE: SIGNALS OSS
 -   <https://github.com/jorgeucano/ngx-angular-migration-signal-helper>
@@ -2289,12 +2299,15 @@ Learn the best way to make your objects immutable.
 
 ## ECOSYSTEM: LIB: SIGNALS
 
+-   <https://github.com/khvedela/ng-spark>
+-   <https://github.com/martsinlabs/ngx-mq>
 -   <https://github.com/alcfeoh/ngx-signalify>
 -   <https://github.com/gabrielguerrero/ngrx-traits>
 -   <https://github.com/larscom/ngrx-signals-storage>
 -   <https://github.com/timdeschryver/ng-signal-forms>
 -   <https://github.com/niklas-wortmann/xstate-angular>
 -   <https://github.com/ngxtension/ngxtension-platform>
+-   <https://gist.github.com/vs-borodin/fdf59fc9313e1aaf7447b4d8399b4cd2>
 
 ## ECOSYSTEM: LIB: DOM
 
@@ -2341,9 +2354,11 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/vugar005/ngx-awesome-uploader>
 -   <https://github.com/kukhariev/ngx-uploadx>
 -   <https://github.com/nigrosimone/ng-http-caching> (TOADD)
+-   <https://github.com/BeSaRa/cast-response> (TOADD)
 
 ## ECOSYSTEM: LIB: ROUTING
 
+-   <https://github.com/dominicbachmann/angular-typed-router> (TOADD)
 -   <https://github.com/Danevandy99/ngx-advanced-router>
 -   <https://github.com/bespunky/angular-zen>
 -   <https://github.com/orchestratora/ngx-dynamic-menu>
@@ -2405,6 +2420,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/ngxtension/ngxtension-platform> (TOADD)
 -   <https://github.com/anchmelev/web-worker-bus> (TOADD)
 -   <https://github.com/cognizone/ng-cognizone> (TOADD)
+-   <https://github.com/khvedela/ngx-persist> (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 
@@ -2844,6 +2860,7 @@ Analyze and optimize the performance of your app
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT
 
 -   <https://github.com/beeman/ngx-split>
+-   <https://github.com/martsinlabs/ngx-mq>
 -   <https://github.com/golden-layout/golden-layout>
 -   <https://github.com/angular-split/angular-split>
 
@@ -3898,6 +3915,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://github.com/literalpie/Annotated-Angular-Roadmap>
 -   <https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3>
 -   <https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf>
+
+### ANGULAR21
+-   <https://github.com/GaetanRouzies/angular-21-overview>
 
 ### ANGULAR20
 -   <https://github.com/AntonioCardenas/ngviewcontainerref>

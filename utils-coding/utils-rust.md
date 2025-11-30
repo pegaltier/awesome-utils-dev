@@ -17,6 +17,9 @@
 -   [STARTER](#starter)
 -   [HELPER](#helper)
 
+## LIST
+-   <https://github.com/e-tornike/best-of-ml-rust>
+
 ## NEWS
 
 -   <https://rustinblockchain.org/>
@@ -24,8 +27,8 @@
 ## TOOLS
 
 -   <https://marketplace.visualstudio.com/items?itemName=rust-lang.rust>
--   <https://github.com/railwayapp/nixpacks>
 -   <https://github.com/infinyon/node-bindgen>
+-   <https://github.com/railwayapp/nixpacks>
 
 ## COURSES
 
@@ -104,6 +107,7 @@
 -   <https://github.com/s-panferov/valico>
 -   <https://github.com/havarnov/multimap>
 -   <https://github.com/starship/starship>
+-   <https://github.com/n0-computer/iroh>
 -   <https://github.com/sunfishcode/eyra>
 -   <https://github.com/tauri-apps/tauri>
 -   <https://github.com/webrtc-rs/webrtc>

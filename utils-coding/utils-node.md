@@ -159,7 +159,7 @@
 -   <https://github.com/vltpkg/vltpkg>
 -   <https://github.com/yarnpkg/berry>
 -   <https://github.com/lirantal/npq>
--   <https://github.com/pnpm/pacquet>
+    -   <https://github.com/pnpm/pacquet>
 -   <https://github.com/oven-sh/bun>
 -   <https://github.com/ije/esm.sh>
 -   <https://github.com/pnpm/pnpm>
@@ -172,11 +172,13 @@
 -   <https://github.com/umijs/mako>
 -   <https://github.com/yao-pkg/pkg>
 -   <https://github.com/vitejs/vite>
+-   <https://github.com/isaacs/tshy>
 -   <https://github.com/vercel/turbo>
 -   <https://github.com/farm-fe/farm>
 -   <https://github.com/nodejs/amaro>
 -   <https://github.com/rollup/rollup>
 -   <https://github.com/huozhi/bunchee>
+-   <https://github.com/rolldown/tsdown>
 -   <https://github.com/colinhacks/zshy>
 -   <https://github.com/swc-project/swc>
 -   <https://github.com/unjs/webpackbar>
@@ -496,6 +498,7 @@
 -   <https://docs.netlify.com/functions/scheduled-functions/>
 -   <https://cronitor.io/guides/node-cron-jobs>
 -   <https://github.com/vwedesam/Cron-to-human>
+-   <https://github.com/P4sca1/cron-schedule>
 -   <https://www.defer.run/blog/nodejs-cron>
 -   <https://github.com/node-cron/node-cron>
 -   <https://github.com/kelektiv/node-cron>
@@ -725,6 +728,7 @@
 -   <https://github.com/directus/directus>
 -   <https://github.com/balderdashy/sails>
 -   <https://github.com/taskforcesh/bullmq>
+-   <https://github.com/thomasbarkats/yasui>
 -   <https://github.com/mikro-orm/mikro-orm>
 -   <https://github.com/sequelize/sequelize>
 -   <https://github.com/moleculerjs/moleculer>

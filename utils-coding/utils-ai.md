@@ -275,6 +275,18 @@
 -   <https://github.com/EthicalML/awesome-production-machine-learning>
 -   <https://github.com/AstraZeneca/awesome-explainable-graph-reasoning>
 
+## TOOLS: HOST / NEOCLOUDS
+-   <https://vast.ai/>
+-   <https://gcore.com/>
+-   <https://lambda.ai/>
+-   <https://nebius.com/>
+-   <https://www.vultr.com/>
+-   <https://www.runpod.io/>
+-   <https://www.koyeb.com/>
+-   <https://www.nscale.com/>
+-   <https://www.coreweave.com/>
+-   <https://www.paperspace.com/>
+
 ## TOOLS: PROMPT
 
 -   <https://pi.ai/>
@@ -377,6 +389,9 @@
 -   <https://www.literallyanything.io/>
 -   <http://playground.tensorflow.org/>
 -   <https://github.com/clmnin/summarize.site>
+
+## TOOLS: AUTOMATE
+-   <https://www.gumloop.com/>
 
 ## TOOLS: SUMMARY / ORGANIZE
 
@@ -773,6 +788,10 @@
 -   <https://github.com/microsoft/DirectML>
 -   <https://github.com/unslothai/hyperlearn>
 
+## LIB: STRUCTURED OUTPUT
+-   <https://github.com/BoundaryML/baml>
+-   <https://github.com/dottxt-ai/outlines>
+
 ## LIB: DB
 
 -   <https://github.com/SuperDuperDB/superduperdb>
@@ -825,6 +844,8 @@
 
 -   <https://github.com/OpenPipe/ART>
 -   <https://github.com/crewAIInc/crewAI>
+-   <https://github.com/Ido-Levi/Hephaestus>
+-   <https://github.com/Gen-Verse/LatentMAS>
 -   <https://github.com/generalaction/emdash>
 -   <https://github.com/microsoft/TinyTroupe>
 -   <https://github.com/bmadcode/BMAD-METHOD>
@@ -851,6 +872,7 @@
 -   <https://github.com/mastra-ai/mastra>
 -   <https://github.com/reworkd/AgentGPT>
 -   <https://github.com/Thytu/Agentarium>
+-   <https://github.com/aiming-lab/Agent0>
 -   <https://github.com/botpress/botpress>
 -   <https://github.com/google/adk-python>
 -   <https://github.com/PySpur-Dev/pyspur>
@@ -1207,7 +1229,7 @@
 
 -   <https://github.com/AiuniAI/Unique3D>
 
-## LIB: IMAGE / STABLE DIFFUSION
+## LIB: IMAGE / DIFFUSION / DLM
 
 -   <https://github.com/s0md3v/roop>
 -   <https://github.com/deep-floyd/IF>
@@ -1217,6 +1239,7 @@
 -   <https://github.com/THU-MIG/yolov10>
 -   <https://github.com/lllyasviel/Omost>
 -   <https://github.com/katanaml/sparrow>
+-   <https://github.com/JinjieNi/MegaDLMs>
 -   <https://github.com/ostris/ai-toolkit>
 -   <https://github.com/gradio-app/gradio>
 -   <https://github.com/lllyasviel/Fooocus>
