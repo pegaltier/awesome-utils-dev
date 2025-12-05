@@ -188,6 +188,7 @@
 -   <https://github.com/williamtroup>
 -   <https://github.com/rhyssullivan>
 -   <https://github.com/branchseer>
+-   <https://github.com/jasonmayes>
 -   <https://github.com/ahejlsberg>
 -   <https://github.com/bennycode>
 -   <https://github.com/johnpapa>
@@ -195,6 +196,7 @@
 -   <https://github.com/kolodny>
 -   <https://github.com/ytiurin>
 -   <https://github.com/drudge>
+-   <https://github.com/Nsttt>
 
 
 ## TEAM

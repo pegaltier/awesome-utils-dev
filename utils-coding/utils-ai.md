@@ -889,6 +889,7 @@
 -   <https://github.com/ag-ui-protocol/ag-ui>
 -   <https://github.com/coze-dev/coze-studio>
 -   <https://github.com/pydantic/pydantic-ai>
+-   <https://github.com/jasonmayes/WebAIAgent>
 -   <https://github.com/humanlayer/humanlayer>
 -   <https://github.com/microsoft/magentic-ui>
 -   <https://github.com/agentlabs-dev/openator>
