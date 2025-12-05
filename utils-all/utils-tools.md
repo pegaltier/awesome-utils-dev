@@ -431,10 +431,11 @@
 -   <https://github.com/trimstray/the-book-of-secret-knowledge>
 -   <https://github.com/BrambleXu/knowledge-graph-learning>
 
-## Organise / text notes / memory
+## Organise / learn / text notes / memory
 
 -   <https://github.com/noduslabs/>
 -   <https://github.com/Zettlr/Zettlr>
+-   <https://github.com/netless-io/flat>
 -   <https://github.com/codexu/note-gen>
 -   <https://github.com/TriliumNext/Notes>
 -   <https://github.com/dendronhq/dendron>

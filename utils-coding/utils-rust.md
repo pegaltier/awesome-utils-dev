@@ -120,6 +120,7 @@
 -   <https://github.com/google/zerocopy>
 -   <https://github.com/GREsau/schemars>
 -   <https://github.com/image-rs/image>
+-   <https://github.com/rustfs/rustfs>
 -   <https://github.com/serde-rs/json>
 -   <https://github.com/loro-dev/loro>
 -   <https://github.com/mit-pdos/noria>

@@ -1170,6 +1170,7 @@
 -   <https://github.com/chalupagrande/backtester>
 -   <https://github.com/pratikgaloria/showr-core>
 -   <https://github.com/andrewbaronick/BacktestJS>
+-   <https://github.com/tripolskypetr/backtest-kit>
 -   <https://github.com/fugle-dev/fugle-backtest-node>
 -   <https://github.com/excelsior-creative/edc-backtester>
 -   <https://github.com/Grademark/grademark-first-example>
@@ -1309,7 +1310,9 @@
 -   <https://github.com/LiamConnell/deep-algotrading/>
 -   <https://github.com/hackobi/AI-Scalpel-Trading-Bot>
 -   <https://github.com/AI4Finance-Foundation/FinRobot>
+-   <https://github.com/tripolskypetr/node-ccxt-dumper>
 -   <https://github.com/crypto-code/Stock-Market-AI-GUI>
+-   <https://github.com/tripolskypetr/trading-signals-mcp>
 -   <https://github.com/firmai/financial-machine-learning>
 -   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
 -   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>

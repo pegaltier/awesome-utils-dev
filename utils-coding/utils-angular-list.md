@@ -1699,6 +1699,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/CanopyTax/single-spa>
 -   <https://github.com/manfredsteyer/mf-ssr>
 -   <https://github.com/web-infra-dev/garfish>
+-   <https://github.com/module-federation/core>
 -   <https://github.com/Enteleform/lazy-portal>
 -   <https://github.com/neuland/micro-frontends>
 -   <https://github.com/IgorMinar/stitchapp.dev>

@@ -37,10 +37,12 @@
 -   <https://github.com/cheat/cheat>
 -   <https://github.com/sharkdp/bat>
 -   <https://github.com/nivekuil/rip>
+-   <https://github.com/Adembc/lazyssh>
 -   <https://github.com/tldr-pages/tldr>
 -   <https://github.com/ohmyzsh/ohmyzsh>
 -   <https://github.com/natemoo-re/clack>
 -   <https://github.com/zellij-org/zellij>
+-   <https://github.com/ajeetdsouza/zoxide>
 -   <https://github.com/idank/explainshell>
 -   <https://github.com/shellspec/shellspec>
 -   <https://github.com/manifoldco/promptui>

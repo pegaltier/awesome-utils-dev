@@ -586,6 +586,7 @@
 -   <https://github.com/inversify/InversifyJS>
 -   <https://github.com/mgechev/injection-js>
 -   <https://github.com/morganstanley/needle>
+-   <https://github.com/tripolskypetr/di-kit>
 -   <https://github.com/Livshitz/di.libx.js>
 -   <https://github.com/nicojs/typed-inject>
 -   <https://github.com/ashleydavis/fusion>
@@ -1198,6 +1199,7 @@
 -   <https://github.com/VoltAgent/voltagent>
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/liveloveapp/hashbrown>
+-   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/ephemeraHQ/xmtp-agent-examples>
 
@@ -1448,6 +1450,7 @@
 -   <https://github.com/excaliburjs/Excalibur>
 -   <https://github.com/KilledByAPixel/LittleJS>
 -   <https://github.com/gruhn/typescript-sudoku>
+-   <https://github.com/bobeff/open-source-games>
 -   <https://github.com/memetic-institute/The-Fed>
 -   <https://github.com/kirodotdev/spirit-of-kiro>
 -   <https://github.com/prettymuchbryce/easystarjs>

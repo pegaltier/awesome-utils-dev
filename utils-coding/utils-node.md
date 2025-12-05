@@ -416,6 +416,7 @@
 -   <https://github.com/josdejong/workerpool>
 -   <https://github.com/developit/web-worker>
 -   <https://github.com/faranalytics/socketnaut>
+-   <https://github.com/tripolskypetr/worker-testbed>
 -   <https://github.com/damiansire/web-worker-patterns>
 
 ## LIBS: UNIT TESTING
@@ -619,11 +620,13 @@
 -   <https://github.com/terkelg/prompts>
 -   <https://github.com/jasonkuhrt/molt>
 -   <https://github.com/vadimdemedes/ink>
+-   <https://github.com/coder/ghostty-web>
 -   <https://github.com/arcanis/clipanion>
 -   <https://github.com/sindresorhus/meow>
 -   <https://github.com/tunnckoCore/zodest>
 -   <https://github.com/npkgz/cli-progress>
 -   <https://github.com/vadimdemedes/pastel>
+-   <https://github.com/ghostty-org/ghostty>
 -   <https://github.com/bombshell-dev/clack>
 -   <https://github.com/mattallty/Caporal.js>
 -   <https://github.com/tinylibs/picospinner>

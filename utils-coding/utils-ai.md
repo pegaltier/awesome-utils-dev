@@ -850,6 +850,7 @@
 -   <https://github.com/generalaction/emdash>
 -   <https://github.com/microsoft/TinyTroupe>
 -   <https://github.com/bmadcode/BMAD-METHOD>
+-   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 
 ## LIB: AGENTIC FRAMEWORK
@@ -900,6 +901,7 @@
 -   <https://github.com/i-am-bee/bee-agent-framework>
 -   <https://github.com/Intelligent-Internet/ii-agent>
 -   <https://github.com/nickscamara/open-deep-research>
+-   <https://github.com/joonspk-research/generative_agents>
 
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 
@@ -1351,6 +1353,7 @@
 -   <https://github.com/nanobrowser/nanobrowser>
 -   <https://github.com/browser-use/browser-use>
 -   <https://github.com/browser-use/workflow-use>
+-   <https://github.com/tomayac/built-in-ai-task-apis-polyfill>
 
 ## LIB: INTERACT
 -   <https://github.com/CursorTouch/Windows-Use>

@@ -331,6 +331,7 @@
 -   <https://github.com/ekristen/aws-nuke>
 -   <https://github.com/dwyl/learn-aws-lambda>
 -   <https://github.com/localstack/localstack>
+-   <https://github.com/localstack/localstack>
 -   <https://github.com/vibe-io/cdk-extensions>
 -   <https://github.com/teamplanes/aws-blackbox>
 

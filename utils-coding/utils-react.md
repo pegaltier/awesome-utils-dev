@@ -112,6 +112,7 @@
 -   <https://github.com/preactjs/preact>
 -   <https://github.com/wakujs/waku>
 -   <https://github.com/umijs/umi>
+-   <https://github.com/onejs/one>
 
 ## JAMSTACK
 
@@ -231,6 +232,7 @@
 -   <https://github.com/michalzalobny/react-just-parallax>
 -   <https://github.com/aaronhayes/react-use-hubspot-form>
 -   <https://github.com/bezkoder/react-refresh-token-hooks>
+-   <https://github.com/react-declarative/react-declarative>
 -   <https://github.com/welldone-software/why-did-you-render>
 -   <https://github.com/orgs/flatlogic/repositories?type=all>
 -   <https://github.com/webscopeio/react-textarea-autocomplete>
