@@ -618,6 +618,7 @@
 
 -   <https://github.com/cacjs/cac>
 -   <https://github.com/dthree/vorpal>
+-   <https://github.com/dahlia/optique>
 -   <https://github.com/terkelg/prompts>
 -   <https://github.com/jasonkuhrt/molt>
 -   <https://github.com/vadimdemedes/ink>
@@ -694,6 +695,7 @@
 -   <https://github.com/httptoolkit/mockrtc>
 -   <https://github.com/paulmillr/chokidar>
 -   <https://github.com/fonoster/fonoster>
+-   <https://github.com/Goldziher/spikard>
 -   <https://github.com/ts-rest/ts-rest>
 -   <https://github.com/elysiajs/elysia>
 -   <https://github.com/vercel/og-image>
