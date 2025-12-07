@@ -703,6 +703,7 @@
 
 -   <https://portkey.ai/>
 -   <https://openrouter.ai/>
+-   <https://www.requesty.ai/>
 -   <https://github.com/Portkey-AI/gateway>
 
 ## IMAGES API
@@ -900,6 +901,7 @@
 -   <https://github.com/humanlayer/12-factor-agents>
 -   <https://github.com/google-agentic-commerce/AP2>
 -   <https://github.com/i-am-bee/bee-agent-framework>
+-   <https://github.com/strands-agents/sdk-typescript>
 -   <https://github.com/Intelligent-Internet/ii-agent>
 -   <https://github.com/nickscamara/open-deep-research>
 -   <https://github.com/joonspk-research/generative_agents>
@@ -914,6 +916,7 @@
 -   <https://github.com/unclecode/crawl4ai>
 -   <https://github.com/mendableai/firecrawl>
 -   <https://github.com/microsoft/markitdown>
+-   <https://github.com/BrowserCash/teracrawl>
 -   <https://github.com/mishushakov/llm-scraper>
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>

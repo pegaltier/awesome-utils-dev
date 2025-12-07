@@ -68,6 +68,7 @@
 -   <https://github.com/SoftwareBrothers/admin-bro>
 -   <https://github.com/nestjsx/nest-access-control>
 -   <https://github.com/hardyscc/nestjs-cqrs-starter>
+-   <https://github.com/hiro1107/nestjs-supabase-auth>
 -   <https://github.com/SocketSomeone/nestjs-resilience>
 -   <https://github.com/nestjsx/nestjs-typeorm-paginate>
 -   <https://github.com/MetinSeylan/Nestjs-OpenTelemetry>

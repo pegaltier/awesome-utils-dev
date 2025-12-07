@@ -1266,6 +1266,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://blog.ninja-squad.com/2025/11/04/angular-signal-forms-part-1>
 -   <https://blog.ninja-squad.com/2025/11/14/angular-signal-forms-part-2>
 -   <https://stackblitz.com/@nihaadk/collections/angular-signal-forms-examples>
+-   <https://blog.stackademic.com/signal-forms-with-resource-api-is-magic-cf4c0d249902>
 
 ## CORE: SIGNALS OSS
 -   <https://github.com/jorgeucano/ngx-angular-migration-signal-helper>
@@ -2757,6 +2758,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/leovo2708/ngx-treeview>
 -   <https://github.com/joejordanbrown/popover>
 -   <https://github.com/ncstate-sat/popover>
+-   <https://github.com/ng-matero/combobox>
 -   <https://github.com/nbfontana/ngx-currency>
 -   <https://github.com/Harvest-Dev/ng-select2>
 -   <https://github.com/ivylaboratory/ivypinch>
@@ -3009,6 +3011,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/stephenhutchings/shown>
 -   <https://github.com/gridstack/gridstack.js>
 -   <https://github.com/project-nv/night-vision>
+-   <https://github.com/synergycodes/ng-diagram>
 -   <https://github.com/apexcharts/ng-apexcharts>
 -   <https://github.com/valor-software/ng2-charts>
 -   <https://github.com/highcharts/highcharts-angular>

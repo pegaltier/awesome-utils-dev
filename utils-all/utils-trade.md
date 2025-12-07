@@ -1012,6 +1012,7 @@
 -   <https://github.com/TA-Lib/ta-lib-python> \*
 -   <https://github.com/cuemacro/finmarketpy>
 -   <https://github.com/kernc/backtesting.py>
+-   <https://github.com/marketcalls/openalgo>
 -   <https://github.com/goldmansachs/gs-quant> \*
 -   <https://github.com/kaigouthro/pynescript>
 -   <https://github.com/ilcardella/TradingBot>
@@ -1182,6 +1183,9 @@
 -   <https://eodhd.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/>
 -   <https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/>
 
+### OSS: JAVASCRIPT: TRADES ONLY
+https://github.com/marketcalls/openalgo-node
+
 ### OSS: JAVASCRIPT: CHART
 
 -   <https://github.com/Lightning-Chart/lcjs-typescript-example>
@@ -1212,6 +1216,12 @@
 -   <https://github.com/ourarash/heikinashi>
 -   <https://github.com/cm45t3r/candlestick>
 -   <https://github.com/Flippo24/candles> \*
+
+
+### OSS: JAVASCRIPT: PINESCRIPT
+-   <https://github.com/Opus-Aether-AI/pine-transpiler>
+-   <https://github.com/marketcalls/openalgo-pinets>
+-   <https://github.com/QuantForgeOrg/PineTS>
 
 ### OSS: JAVASCRIPT: ALL
 

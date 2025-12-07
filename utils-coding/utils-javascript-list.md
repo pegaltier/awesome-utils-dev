@@ -1202,6 +1202,7 @@
 -   <https://github.com/VoltAgent/voltagent>
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/liveloveapp/hashbrown>
+-   <https://github.com/strands-agents/sdk-typescript>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/ephemeraHQ/xmtp-agent-examples>

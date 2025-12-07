@@ -490,6 +490,7 @@
 
 -   <https://github.com/temporalio/samples-typescript>
 -   <https://github.com/kibertoad/toad-scheduler>
+-   <https://github.com/sidequestjs/sidequest>
 -   <https://github.com/SGrondin/bottleneck>
 -   <https://github.com/jakebailey/hereby>
 
@@ -631,6 +632,7 @@
 -   <https://github.com/mattallty/Caporal.js>
 -   <https://github.com/tinylibs/picospinner>
 -   <https://github.com/SBoudrias/Inquirer.js>
+-   <https://github.com/larswaechter/voici.js>
 -   <https://github.com/visionmedia/node-progress>
 -   <https://docs.npmjs.com/cli/ci.html>
 -   <https://github.com/lirantal/nodejs-cli-apps-best-practices>
