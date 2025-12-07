@@ -373,6 +373,7 @@
 
 -   <https://github.com/knex/knex>
 -   <https://github.com/pubkey/rxdb>
+-   <https://github.com/sql-js/sql.js>
 -   <https://github.com/typicode/lowdb>
 -   <https://github.com/pg-nano/pg-nano>
 -   <https://github.com/pouchdb/pouchdb>

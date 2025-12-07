@@ -171,6 +171,7 @@
 -   <https://github.com/Infisical/infisical>
 -   <https://github.com/aquasecurity/trivy>
 -   <https://github.com/Tw1sm/spraycharles>
+-   <https://github.com/reconurge/flowsint>
 -   <https://github.com/Lissy93/web-check>
 -   <https://github.com/chenjj/CORScanner>
 -   <https://github.com/nextcloud/passman>
