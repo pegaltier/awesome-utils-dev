@@ -1199,6 +1199,7 @@
 -   <https://github.com/SmythOS/sre>
 -   <https://github.com/FellouAI/eko>
 -   <https://github.com/elizaOS/eliza>
+-   <https://github.com/MotiaDev/motia>
 -   <https://github.com/firebase/genkit>
 -   <https://github.com/mastra-ai/mastra>
 -   <https://github.com/VoltAgent/voltagent>

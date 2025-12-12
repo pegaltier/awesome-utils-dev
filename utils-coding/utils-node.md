@@ -167,6 +167,13 @@
 -   <https://github.com/wclr/yalc>
 -   <https://github.com/antfu/ni>
 
+## RUNTIME
+
+-   <https://github.com/nodejs/node>
+-   <https://github.com/oven-sh/bun>
+-   <https://github.com/denoland/deno>
+-   <https://github.com/elide-dev/elide>
+
 ## BUNDLER / BUILDER
 
 -   <https://github.com/umijs/mako>
@@ -540,7 +547,7 @@
 -   <https://github.com/drudge/passport-facebook-token>
 -   <https://github.com/timofei-iatsenko/keycloakify-starter>
 
-## LIBS: PROMISA
+## LIBS: PROMISE
 -   <https://github.com/sindresorhus/p-debounce>
 
 ## LIBS: KEYS
