@@ -278,6 +278,7 @@
 -   <https://github.com/chakra-ui/ark>
 -   <https://github.com/coveo/plasma>
 -   <https://github.com/coveo/ui-kit>
+-   <https://github.com/mui/base-ui>
 -   <https://github.com/arwes/arwes>
 -   <https://github.com/airbnb/visx>
 -   <https://github.com/plouc/nivo>
