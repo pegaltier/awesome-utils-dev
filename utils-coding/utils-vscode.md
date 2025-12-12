@@ -107,6 +107,7 @@
 
 -   <https://github.com/estruyf/vscode-demo-time>
 -   <https://github.com/estruyf/vscode-front-matter>
+-   <https://github.com/antfu/vscode-file-nesting-config>
 
 ## TOOLS
 
