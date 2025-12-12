@@ -141,6 +141,7 @@ RUN ls
 -   <https://github.com/orbstack/orbstack>
 -   <https://github.com/containers/podman>
 -   <https://github.com/hashicorp/vagrant>
+-   <https://github.com/nicotsx/zerobyte>
 -   <https://github.com/apple/container>
 -   <https://github.com/earthly/earthly>
 -   <https://github.com/nestybox/sysbox>

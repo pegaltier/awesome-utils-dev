@@ -61,6 +61,9 @@ Agent pour développeurs haut-niveau
 -   Taskenator
 -   TapChief
 
+## JOBS: PLATFORM
+-   <http://ashbyhq.com/>
+
 ## JOBS: ALL
 
 agentdedeveloppeur  

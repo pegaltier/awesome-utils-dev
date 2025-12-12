@@ -31,6 +31,7 @@ Google Tag Manager and co...
 ## Tools OSS
 
 -   <https://github.com/PostHog/posthog>
+-   <https://github.com/rybbit-io/rybbit>
 -   <https://github.com/medama-io/medama>
 -   <https://github.com/matomo-org/matomo>
 -   <https://github.com/aptabase/aptabase>

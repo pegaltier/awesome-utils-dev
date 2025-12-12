@@ -8,6 +8,7 @@
 ## TOOLS
 
 -   <https://sonuum.com/>
+-   <https://github.com/omnibrain/svguitar>
 -   <https://github.com/tidalcycles/tidal/>
 
 ## SOUNDPACKS

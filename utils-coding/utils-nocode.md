@@ -89,6 +89,7 @@ low-code tooling to prototype fastly.
 -   <https://github.com/getmaxun/maxun>
 -   <https://github.com/BuilderIO/qwik>
 -   <https://github.com/mnfst/manifest>
+-   <https://github.com/refly-ai/refly>
 -   <https://github.com/lowdefy/lowdefy>
 -   <https://github.com/flydelabs/flyde>
 -   <https://github.com/ToolJet/ToolJet>

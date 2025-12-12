@@ -538,6 +538,7 @@
 -   <https://github.com/dyoshikawa/rulesync>
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
+-   <https://github.com/thedotmack/claude-mem>
 -   <https://github.com/siteboon/claudecodeui>
 -   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/Doriandarko/claude-engineer>
@@ -553,6 +554,7 @@
 
 ## TOOLS: CODING: OSS PROMPT RULES
 
+-   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/PatrickJS/awesome-cursorrules>
@@ -561,6 +563,9 @@
 -   <https://github.com/anthropics/prompt-eng-interactive-tutorial>
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
+
+## TOOLS: NOCODING
+-   <https://github.com/refly-ai/refly>
 
 ## TOOLS: DESIGN: OSS
 
@@ -675,6 +680,7 @@
 
 -   <https://github.com/a-ghorbani/pocketpal-ai>
 -   <https://github.com/google-ai-edge/gallery>
+-   <https://github.com/zai-org/Open-AutoGLM>
 
 ## TOOLS: TOKENS
 -   <https://github.com/xn1cklas/tokenlens>
@@ -890,6 +896,7 @@
 -   <https://github.com/ag-ui-protocol/ag-ui>
 -   <https://github.com/coze-dev/coze-studio>
 -   <https://github.com/pydantic/pydantic-ai>
+-   <https://github.com/tursodatabase/agentfs>
 -   <https://github.com/jasonmayes/WebAIAgent>
 -   <https://github.com/humanlayer/humanlayer>
 -   <https://github.com/microsoft/magentic-ui>
@@ -905,6 +912,7 @@
 -   <https://github.com/Intelligent-Internet/ii-agent>
 -   <https://github.com/nickscamara/open-deep-research>
 -   <https://github.com/joonspk-research/generative_agents>
+-   <https://github.com/sarwarbeing-ai/Agentic_Design_Patterns>
 
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 

@@ -148,6 +148,7 @@
 
 ## OSS: SOCIAL NETWORK
 
+-   <https://github.com/langchain-ai/social-media-agent>
 -   <https://github.com/jdepoix/youtube-transcript-api>
 -   <https://github.com/cdw1p/IG-Auto-Story-View>
 -   <https://github.com/humanwhocodes/crosspost>

@@ -353,6 +353,7 @@
 -   <https://github.com/smeijer/unimported>
 -   <https://github.com/NectarJS/nectarjs>
 -   <https://github.com/filipsobol/sonda>
+-   <https://github.com/lydell/js-tokens>
 -   <https://github.com/fwouts/previewjs>
 -   <https://github.com/biomejs/biome>
 -   <https://github.com/projen/projen>
@@ -670,6 +671,7 @@
 -   <https://github.com/cheeriojs/cheerio>
 -   <https://github.com/fb55/htmlparser2>
 -   <https://github.com/zumerlab/snapdom>
+-   <https://github.com/sveltejs/devalue>
 -   <https://github.com/mholt/PapaParse>
 -   <https://github.com/xmldom/xmldom>
 -   <https://github.com/fb55/entities>
@@ -1202,6 +1204,7 @@
 -   <https://github.com/VoltAgent/voltagent>
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/liveloveapp/hashbrown>
+-   <https://github.com/tursodatabase/agentfs>
 -   <https://github.com/strands-agents/sdk-typescript>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>

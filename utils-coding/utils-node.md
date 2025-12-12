@@ -189,6 +189,12 @@
 -   <https://github.com/btd/rollup-plugin-visualizer>
 -   <https://github.com/bddjr/vite-plugin-singlefile-compression>
 
+## UTILS: TYPESCRIPT EXEC
+
+-   <https://github.com/unjs/jiti>
+-   <https://github.com/poppinss/ts-exec>
+-   <https://github.com/TypeStrong/ts-node>
+
 ## STARTER / EXAMPLE / TEMPLATE
 
 -   <https://github.com/9renpoto/.59-node>
@@ -201,6 +207,7 @@
 -   <https://github.com/JoshuaKGoldberg/create-typescript-app>
 -   <https://github.com/bluesky-social/statusphere-example-app>
 -   <https://github.com/meysamhadeli/booking-microservices-express-js/>
+-   <https://github.com/invtfl-yuvraj/express-ts-production-ready-setup>
 
 ## LIST
 
@@ -329,10 +336,6 @@
 -   <https://github.com/toss/es-git>
 -   <https://github.com/apocas/dockerode>
 
-## UTILS: TYPESCRIPT
-
--   <https://github.com/unjs/jiti>
--   <https://github.com/TypeStrong/ts-node>
 
 ## MONITORING / LOGGING
 
@@ -576,6 +579,9 @@
 
 ## LIBS: DATABASE / DB: PRISMA
 
+-   <https://the-guild.dev/graphql/yoga-server/tutorial/basic/07-connecting-server-and-database>
+-   <https://codepunkt.de/writing/blazing-fast-prisma-and-postgres-tests-in-vitest/>
+-   <https://github.com/codepunkt/vitest-environment-prisma-postgres>
 -   <https://github.com/Cauen/prisma-generator-postgres-realtime>
 -   <https://github.com/mohammed-bahumaish/prisma-editor>
 -   <https://github.com/catalinmiron/awesome-prisma>
@@ -733,6 +739,7 @@
 -   <https://github.com/zone-eu/zone-mta>
 -   <https://github.com/sindresorhus/got>
 -   <https://github.com/OptimalBits/bull>
+-   <https://github.com/bluelibs/bluelibs>
 -   <https://github.com/directus/directus>
 -   <https://github.com/balderdashy/sails>
 -   <https://github.com/taskforcesh/bullmq>

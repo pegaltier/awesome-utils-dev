@@ -633,6 +633,7 @@ Learn about the most useful design patterns in Angular.
 ## CORE: PIPES
 
 -   <http://www.angulartypescript.com/angular-2-pipes/>
+-   <https://medium.com/coreteq/angular-pipes-time-to-rethink-f616ec84fb8d>
 -   <https://medium.com/javascript-in-plain-english/6-pure-angular-pipes-for-human-readable-ui-c76b4e6fafa1>
 -   <https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/>
 
@@ -651,6 +652,7 @@ SCALABLE PERFORMANCE PERF OPTIMIZATION / MEMORY LEAK
 -   <https://timdeschryver.dev/blog/help-angular-to-make-your-application-faster>
 -   <https://medium.com/@dmitrymogilko/profiling-angular-change-detection-c00605862b9f>
 -   <https://speakerdeck.com/mgechev/tools-for-fast-angular-applications>
+-   <https://blog.angular.dev/the-angular-custom-profiling-track-is-now-available-0f9d8d36218a>
 -   <https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db>
 -   <https://zizzamia.github.io/perfume/>
 -   <https://alligator.io/angular/bundle-size/>
@@ -1059,6 +1061,7 @@ Learn the schematics tool to automatize and be more efficient.
 
 Learn the built-in dependency injection mecanism and how to use it to inject your services accoss the differents components.
 
+-   <https://medium.com/@alexandru.dudescu/the-root-injector-of-all-evil-34890621afef>
 -   <https://medium.com/@eugeniyoz/advanced-usage-of-angular-dependency-injection-399d0a67a938>
 -   <https://netbasal.com/the-hidden-power-of-injectiontoken-factory-functions-in-angular-d42d5575859b>
 -   <https://www.bennadel.com/blog/3836-using-abstract-classes-as-dependency-injection-tokens-with-providedin-semantics-in-angular-9-1-9.htm>
@@ -1237,16 +1240,18 @@ Learn everything about angular universal, make a good SEO.
 -   <https://www.youtube.com/watch?v=4FkFmn0LmLI> Joshua Morony - Signals
 -   <https://www.youtube.com/watch?v=HstDoVQeP9g> Angular Signal with Ryan from Solid
 -   <https://www.youtube.com/watch?v=sc9BC1LpxT8> Reactivity, Reimagined: Angular Signals at Every Layer
--   <https://blog.simplified.courses/how-to-prepare-for-angular-signals/>
 -   <https://medium.com/ngconf/skip-angular-resource-ff3441e8b2ba>
 -   <https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa>
--   <https://blog.angulartraining.com/how-to-create-signals-out-of-observables-26f952a9f0e4?gi=d86ea1b93927>
+-   <https://medium.com/@amosisaila/angular-21-0-1-the-missing-style-link-in-signal-forms-bb8571e90f61>
 -   <https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo>
 -   <https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396>
 -   <https://dev.to/this-is-angular/how-do-i-test-signals-signal-computed-effect-f24>
 -   <https://dev.to/this-is-angular/this-is-your-signal-to-try-tanstack-query-angular-35m9>
 -   <https://dev.to/this-is-angular/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9>
 -   <https://dev.to/this-is-angular/angular-signals-everything-you-need-to-know-2b7g>
+-   <https://dev.to/romain_geffrault_10d88369/mastering-angular-signals-understanding-angular-signal-reactions-part-2-29l2>
+-   <https://blog.simplified.courses/how-to-prepare-for-angular-signals/>
+-   <https://blog.angulartraining.com/how-to-create-signals-out-of-observables-26f952a9f0e4?gi=d86ea1b93927>
 -   <https://timdeschryver.dev/blog/bringing-the-power-of-signals-to-angular-forms-with-signal-forms>
 -   <https://ng-journal.com/blog/2023-04-25-signals-and-the-rxjs-interop/>
 -   <https://marmicode.io/blog/angular-signals-and-custom-render-strategies>
@@ -1279,6 +1284,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://stackblitz.com/edit/angular-ng-model-signal>
 -   <https://github.com/eneajaho/ngx-signal-experimental>
 -   <https://github.com/jordanpowell88/angular-counter>
+-   <https://github.com/Ismaestro/angular-example-app>
 -   <https://github.com/eduardoRoth/signals-workshop>
 -   <https://github.com/damiansire/angular-examples>
 -   <https://github.com/nartc/ng-conduit-signals>
@@ -1658,6 +1664,8 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8>
 -   <https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308>
 -   <https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87>
+-   <https://dev.to/romain_geffrault_10d88369/create-your-own-tanstackquery-in-angular-rxjs-5g97>
+-   <https://stackblitz.com/edit/stackblitz-starters-rzk73sd9?file=src%2Fmain.ts>
 -   <https://www.youtube.com/watch?v=fBQnDSeN8r8> Brew your own state management vs NgRx
 -   <https://ultimatecourses.com/blog/custom-reactive-services-stores-angular-behaviorsubject>
 
@@ -3113,6 +3121,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/KillerCodeMonkey/ngx-quill>
 -   <https://github.com/ayush013/ngx-quill-upload>
 -   <https://github.com/alauda/ng-monaco-editor>
+-   <https://github.com/dannysmith/astro-editor>
 -   <https://github.com/worktile/slate-angular>
 -   <https://github.com/stevermeister/ngx-wig>
 -   <https://github.com/kolkov/angular-editor>
@@ -3378,6 +3387,7 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://github.com/ngiakhanh96/angular-youtube>
 -   <https://github.com/wszgrcy/angular-miniprogram>
 -   <https://github.com/jhoset/angular-spotify-clone>
+-   <https://github.com/Ismaestro/angular-example-app>
 -   <https://github.com/AhsanAyaz/ng-teleprompter-app>
 -   <https://github.com/lacolaco/angular-tfjs-sandbox>
 -   <https://github.com/HaasStefan/ngrx-leaky-backends>
@@ -3733,6 +3743,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer>
 -   <https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.snippets-viewer>
 -   <https://marketplace.visualstudio.com/items?itemName=tomwhite007.rename-angular-component>
+-   <https://marketplace.visualstudio.com/items?itemName=Mohamed-Karkotly.angular-file-switcher>
 
 ## ECOSYSTEM: VSCODE OTHERS
 
@@ -3767,8 +3778,9 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
     ## ECOSYSTEM: VSCODE: SOURCE
 
-    -   <https://github.com/Gruntfuggly/todo-tree>
+-   <https://github.com/Gruntfuggly/todo-tree>
 -   <https://github.com/angular/vscode-ng-language-service>
+-   <https://github.com/Mohamed-Karkotly/angular-file-switcher>
 -   <https://github.com/edgardmessias/vscode.clipboard-manager>
 -   <https://github.com/Microsoft/TypeScript-Sublime-Plugin> Sublimetext
 -   <https://github.com/nwinkler/atom-keyboard-shortcuts> ATOM shortcut

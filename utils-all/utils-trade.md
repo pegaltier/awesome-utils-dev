@@ -374,6 +374,7 @@
 -   <https://capitalise.ai/>
 -   <https://dayhagan.com/>
 -   <https://quantiacs.com/>
+-   <https://ubacktest.com/>
 -   <https://crypto-ml.com/>
 -   <https://www.tuned.com/>
 -   <https://raposa.trade/>
@@ -1052,6 +1053,7 @@
 -   <https://github.com/51bitquant/binance_grid_trader>
 -   <https://github.com/paperswithbacktest/pwb-toolbox>
 -   <https://github.com/fabston/TradingView-Webhook-Bot>
+-   <https://github.com/ShabbirHasan1/backtest_optimizer>
 -   <https://github.com/facioquo/stock-indicators-python>
 -   <https://github.com/alpacahq/Momentum-Trading-Example>
 -   <https://github.com/GrovesD2/market_monitor_trend_dash>
@@ -1121,6 +1123,9 @@
 -   <https://github.com/mnsrulz/mytradingview>
 -   <https://github.com/jovinjijo/se>
 
+### OSS: JAVASCRIPT: QUOTES
+-   <https://github.com/endenwer/tradingview-ws>
+
 ### OSS: JAVASCRIPT: INDICATORS
 
 -   <https://github.com/doowb/sma>
@@ -1135,6 +1140,7 @@
 -   <https://github.com/debut-js/Indicators>
 -   <https://github.com/nenjotsu/deno-talib>
 -   <https://github.com/focus1691/ValueArea>
+-   <https://github.com/junduck/trading-indi>
 -   <https://github.com/newproplus/talib-web>
 -   <https://github.com/andredumas/techan.js>
 -   <https://github.com/ixjb94/indicators-js>
@@ -1161,6 +1167,7 @@
 -   <https://github.com/ocignis/ocignis-bot>
 -   <https://github.com/yuta-97/auto-trader>
 -   <https://github.com/quantform/quantform>
+-   <https://github.com/junduck/trading-sbt>
 -   <https://github.com/backtestjs/framework>
 -   <https://github.com/No-Trade-No-Life/Yuan>
 -   <https://github.com/SockTrader/SockTrader>
@@ -1236,6 +1243,7 @@ https://github.com/marketcalls/openalgo-node
 -   <https://github.com/gekkowarez/gekkoga>
 -   <https://github.com/xFFFFF/Gekko-Strategies>
 -   <https://github.com/debut-js/Core>
+-   <https://github.com/hsuehic/iTrade>
 -   <https://github.com/stoqey/nitrogen>
 -   <https://github.com/Seungwoo321/cats> (grademark)
 -   <https://github.com/kjp22/quant_view> \*
@@ -1249,6 +1257,7 @@ https://github.com/marketcalls/openalgo-node
 -   <https://github.com/maxgfr/benford-law>
 -   <https://github.com/debut-js/Strategies>
 -   <https://github.com/tvjsx/tvjs-overlays>
+-   <https://github.com/junduck/trading-core>
 -   <https://github.com/daniellok/day-trader>
 -   <https://github.com/DannyPreye/fx-ninja/>
 -   <https://github.com/punitarani/axiom-app>
@@ -1324,7 +1333,6 @@ https://github.com/marketcalls/openalgo-node
 -   <https://github.com/crypto-code/Stock-Market-AI-GUI>
 -   <https://github.com/tripolskypetr/trading-signals-mcp>
 -   <https://github.com/firmai/financial-machine-learning>
--   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
 -   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
 -   <https://github.com/tradingstrategy-ai/trading-strategy>
 -   <https://github.com/ccroft6/Technical_Indicator_Analysis_ML>
