@@ -132,6 +132,7 @@
 -   <https://developerehsan.medium.com/10-mind-blowing-node-js-features-that-make-it-unstoppable-86a5e98e2fc2>
 -   <https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc> node-typescript-esm.md
 -   <https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c> node-pure-esm.md
+-   <https://gist.github.com/wojtekmaj/17a0b0929c6e628c745ee889f1970bc2> esmOrCjs.js
 
 ## VERSION MANAGER
 
