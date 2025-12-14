@@ -1243,6 +1243,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://medium.com/ngconf/skip-angular-resource-ff3441e8b2ba>
 -   <https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa>
 -   <https://medium.com/@amosisaila/angular-21-0-1-the-missing-style-link-in-signal-forms-bb8571e90f61>
+-   <https://medium.com/ngconf/modernize-your-components-the-power-of-signal-inputs-and-outputs-7d749dd5683a>
 -   <https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo>
 -   <https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396>
 -   <https://dev.to/this-is-angular/how-do-i-test-signals-signal-computed-effect-f24>
