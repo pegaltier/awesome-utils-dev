@@ -10,10 +10,17 @@
 # .\jest-to-vitest.sh
 
 # Windows compatibility for sed -i option
-SEDOPTION=
-if [[ "$OSTYPE" == "darwin"* ]]; then
-  SEDOPTION="-i ''"
-fi
+replaceInline() {
+  local file=$1
+  local from=$2
+  local to=$3
+
+  if [[ "$OSTYPE" == "darwin"* ]]; then
+    sed -i '' -e "s+${from}+${to}+g" $file
+  else
+    sed -i -e "s+${from}+${to}+g" $file
+  fi
+}
 
 join_by() {
   local d=${1-} f=${2-}
@@ -110,44 +117,56 @@ for file in $files; do
   fi
 
   # Replace "jest.clearAllMocks" with "vi.clearAllMocks"
-  sed -i '' 's/jest.clearAllMocks/vi.clearAllMocks/g' $file
+  # sed -i '' 's/jest.clearAllMocks/vi.clearAllMocks/g' $file
+  replaceInline $file "jest.clearAllMocks" "vi.clearAllMocks"
 
   # Replace "jest.fn" with "vi.fn"
-  sed -i '' 's/jest.fn/vi.fn/g' $file
+  # sed -i '' 's/jest.fn/vi.fn/g' $file
+  replaceInline $file "jest.fn" "vi.fn"
 
   # Replace "jest.mocked" with "vi.mocked"
-  sed -i '' 's/jest.mocked/vi.mocked/g' $file
+  # sed -i '' 's/jest.mocked/vi.mocked/g' $file
+  replaceInline $file "jest.mocked" "vi.mocked"
 
   # Replace "jest.resetAllMocks" with "vi.resetAllMocks"
-  sed -i '' 's/jest.resetAllMocks/vi.resetAllMocks/g' $file
+  # sed -i '' 's/jest.resetAllMocks/vi.resetAllMocks/g' $file
+  replaceInline $file "jest.resetAllMocks" "vi.resetAllMocks"
   
   # Replace "jest.restoreAllMocks" with "vi.restoreAllMocks"
-  sed -i '' 's/jest.restoreAllMocks/vi.restoreAllMocks/g' $file
+  # sed -i '' 's/jest.restoreAllMocks/vi.restoreAllMocks/g' $file
+  replaceInline $file "jest.restoreAllMocks" "vi.restoreAllMocks"
 
   # Replace "jest.resetModules" with "vi.resetModules"
   sed -i '' 's/jest.resetModules/vi.resetModules/g' $file
+  replaceInline $file "jest.resetModules" "vi.resetModules"
 
   # Replace "jest.spyOn" with "vi.spyOn"
-  sed -i '' 's/jest.spyOn/vi.spyOn/g' $file
+  # sed -i '' 's/jest.spyOn/vi.spyOn/g' $file
+  replaceInline $file "jest.spyOn" "vi.spyOn"
 
   # Replace "jest.useFakeTimers" with "vi.useFakeTimers"
-  sed -i '' 's/jest.useFakeTimers/vi.useFakeTimers/g' $file
+  # sed -i '' 's/jest.useFakeTimers/vi.useFakeTimers/g' $file
+  replaceInline $file "jest.useFakeTimers" "vi.useFakeTimers"
 
   # Replace "jest.useRealTimers" with "vi.useRealTimers"
-  sed -i '' 's/jest.useRealTimers/vi.useRealTimers/g' $file
+  # sed -i '' 's/jest.useRealTimers/vi.useRealTimers/g' $file
+  replaceInline $file "jest.useRealTimers" "vi.useRealTimers"
   
   # Replace "jest.SpyInstance" with "MockInstance"
-  sed -i '' 's/jest.SpyInstance/MockInstance/g' $file
+  # sed -i '' 's/jest.SpyInstance/MockInstance/g' $file
+  replaceInline $file "jest.SpyInstance" "MockInstance"
 
   # Replace "advanceTimers: jest.advanceTimersByTime" with "advanceTimers: vi.advanceTimersByTime.bind(vi)"
-  sed -i '' 's/advanceTimers: jest.advanceTimersByTime/advanceTimers: vi.advanceTimersByTime.bind(vi)/g' $file
+  # sed -i '' 's/advanceTimers: jest.advanceTimersByTime/advanceTimers: vi.advanceTimersByTime.bind(vi)/g' $file
+  replaceInline $file "advanceTimers: jest.advanceTimersByTime" "advanceTimers: vi.advanceTimersByTime.bind(vi)"
 
   # Detect jest.mock(). Since vi.mock() uses ESM modules, chances are manual changes
   # are going to be necessary. So, we'll print a warning.
   if grep -q "jest.mock(" $file; then
     echo "  Warning: $file contained jest.mock(). You'll likely need to manually fix vi.mock() implementation."
 
-    sed -i '' 's/jest.mock/vi.mock/g' $file
+    # sed -i '' 's/jest.mock/vi.mock/g' $file
+    replaceInline $file "jest.mock" "vi.mock"
   fi
 
   # Detect jest.requireActual(). Since vi.importActual() uses ESM modules, chances are
@@ -155,7 +174,8 @@ for file in $files; do
   if grep -q "jest.requireActual(" $file; then
     echo "  Warning: $file contained jest.requireActual(). You'll likely need to manually fix vi.importActual() implementation."
 
-    sed -i '' 's/jest.requireActual/vi.importActual/g' $file
+    # sed -i '' 's/jest.requireActual/vi.importActual/g' $file
+    replaceInline $file "jest.requireActual" "vi.importActual"
   fi
 
   # Replace jest.setTimeout() with vi.setConfig({ testTimeout: N })
@@ -164,7 +184,8 @@ for file in $files; do
   fi
 
   # Replace any remaining instance of jest with vi (helps jest.* with methods on newline and with tabs)
-  sed -i '' 's/jest/vi/g' $file
+  # sed -i '' 's/jest/vi/g' $file
+  replaceInline $file "jest" "vi"
 
   # Define list of required imports for each file
 
@@ -204,16 +225,22 @@ for file in $files; do
   fi
 
   # Wait to replace vi.Mock (from jest.Mock) so that Mock type import can be more accuratley detected
-  sed -i '' 's/vi.Mock/Mock/g' $file
+  # sed -i '' 's/vi.Mock/Mock/g' $file
+  replaceInline $file "vi.Mock" "Mock"
 
   # Join list of required imports into a string
   imports_string=$(join_by ", " "${imports[@]}")
 
   # Add "import { … } from 'vitest';" to the top of the file.
+  if [[ "$OSTYPE" == "darwin"* ]]; then
   sed -i '' '1i\
 import { '"$imports_string"' } from "vitest";
 ' $file
-
+  else
+    sed -i -e '1i\
+import { '"$imports_string"' } from "vitest";
+' $file
+  fi
   echo "  Done"
 done
 
