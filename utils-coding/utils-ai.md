@@ -218,6 +218,7 @@
 -   <https://github.com/karpathy/LLM101n>
 -   <https://github.com/huggingface/agents-course>
 -   <https://github.com/decodingml/llm-twin-course>
+-   <https://github.com/ZJU-LLMs/Foundations-of-LLMs>
 -   <https://github.com/NirDiamant/agents-towards-production>
 
 ## VIDEOS
@@ -859,6 +860,7 @@
 -   <https://github.com/generalaction/emdash>
 -   <https://github.com/microsoft/TinyTroupe>
 -   <https://github.com/bmadcode/BMAD-METHOD>
+-   <https://github.com/ZJU-LLMs/Agent-Kernel>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 
