@@ -88,6 +88,7 @@
 
 ## LIB
 
+-   <https://github.com/fractalbits-labs/fractalbits-main>
 -   <https://github.com/Afitzy98/rust-genetic-algorithm>
 -   <https://github.com/crabnebula-dev/cargo-packager>
 -   <https://github.com/alexpasmantier/television>
@@ -135,6 +136,7 @@
 -   <https://github.com/actix/actix>
 -   <https://github.com/0x20F/paris>
 -   <https://github.com/rhaiscript>
+-   <https://github.com/aya-rs/aya>
 -   <https://github.com/PRQL/prql>
 
 ## VARIOUS

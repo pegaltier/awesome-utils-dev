@@ -167,6 +167,7 @@
 
 -   <https://github.com/sxyazi/yazi>
 -   <https://github.com/C4illin/ConvertX>
+-   <https://github.com/cloudreve/cloudreve>
 -   <https://github.com/stonith404/pingvin-share>
 -   <https://github.com/Bill-Stewart/SyncthingWindowsSetup>
 
@@ -331,6 +332,9 @@
 -   <https://github.com/typst/typst>
 -   <https://www.mendable.ai/>
 
+### OSS: RESEARCH
+-   <https://github.com/PaperDebugger/paperdebugger>
+
 ## OSS: PRODUCTIVITY
 
 -   <https://github.com/johannesjo/super-productivity>
@@ -367,6 +371,7 @@
 -   <https://github.com/MathMan05/JankClient>
 -   <https://github.com/element-hq/element-web>
 -   <https://github.com/hcengineering/platform>
+-   <https://github.com/bluesky-social/atproto>
 -   <https://github.com/bluesky-social/social-app>
 -   <https://github.com/yoopta-editor/Yoopta-Editor>
 -   <https://github.com/onetimesecret/onetimesecret>

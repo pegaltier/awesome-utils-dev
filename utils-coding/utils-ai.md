@@ -471,6 +471,7 @@
 -   <https://github.com/OpenBMB/ChatDev>
 -   <https://github.com/gptlint/gptlint>
 -   <https://github.com/get-convex/chef>
+-   <https://github.com/pullfrog/action>
 -   <https://github.com/omnara-ai/omnara>
 -   <https://github.com/dnakov/anon-kode>
 -   <https://github.com/stitionai/devika>
@@ -781,6 +782,7 @@
 ## LIB: MEMORY
 
 -   <https://github.com/mem0ai/mem0>
+-   <https://github.com/NVIDIA/aistore>
 -   <https://github.com/Olow304/memvid>
 -   <https://github.com/steveyegge/beads>
 -   <https://github.com/topoteretes/cognee>
@@ -976,6 +978,7 @@
 -   <https://github.com/sooperset/mcp-atlassian>
 -   <https://github.com/GLips/Figma-Context-MCP>
 -   <https://github.com/aipotheosis-labs/gate22>
+-   <https://github.com/archestra-ai/archestra>
 -   <https://github.com/lharries/whatsapp-mcp>
 -   <https://github.com/aipotheosis-labs/aci>
 -   <https://github.com/evalstate/fast-agent>

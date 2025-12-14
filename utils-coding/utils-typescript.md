@@ -213,6 +213,7 @@
 -   <https://github.com/ranyitz/code-migrate>
 -   <https://github.com/tr1ckydev/hyperimport>
 -   <https://github.com/alshdavid/BorrowScript>
+-   <https://github.com/dimitropoulos/typeslayer>
 -   <https://github.com/bloomberg/ts-blank-space>
 -   <https://github.com/SuperchupuDev/tinyglobby>
 -   <https://github.com/phenomnomnominal/betterer>

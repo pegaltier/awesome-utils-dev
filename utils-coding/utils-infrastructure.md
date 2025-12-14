@@ -131,6 +131,11 @@
 -   <https://github.com/linuxserver/Heimdall>
 -   <https://github.com/gethomepage/homepage>
 
+## MEDIACENTER
+-   <https://github.com/seerr-team/seerr>
+-   <https://github.com/jellyfin/jellyfin>
+-   <https://github.com/awesome-jellyfin/awesome-jellyfin>
+
 ## WORFLOW
 
 -   <https://github.com/ansible/ansible>
