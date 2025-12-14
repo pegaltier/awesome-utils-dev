@@ -137,7 +137,7 @@ for file in $files; do
   replaceInline $file "jest.restoreAllMocks" "vi.restoreAllMocks"
 
   # Replace "jest.resetModules" with "vi.resetModules"
-  sed -i '' 's/jest.resetModules/vi.resetModules/g' $file
+  # sed -i '' 's/jest.resetModules/vi.resetModules/g' $file
   replaceInline $file "jest.resetModules" "vi.resetModules"
 
   # Replace "jest.spyOn" with "vi.spyOn"
