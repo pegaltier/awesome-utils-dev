@@ -19,6 +19,7 @@
 
 ## MOCKS
 
+### GLOBAL
 ```javascript
 // from: https://www.bitovi.com/blog/more-mocks-mocking-modules-in-vitest
 import type * as NavigationModule from './navigation';
@@ -33,4 +34,18 @@ vi.mock('./navigation', async () => { // <- now async
     },
   };
 });
+```
+
+### HOISTED
+
+```javascript
+// https://github.com/vitest-dev/vitest/discussions/4124
+const fsMock = vi.hoisted(() => ({
+  existsSync: vi.fn().mockReturnValue(false),
+}));
+vi.mock('fs', async () => fsMock);
+// first it() use false
+fsMock.existsSync.mockReturnValue(false);
+// second it() use true
+fsMock.existsSync.mockReturnValue(true);
 ```
