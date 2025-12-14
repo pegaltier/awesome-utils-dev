@@ -6,7 +6,11 @@
 
 ## VITEST
 
-## VITEST: FROM JEST
+## LIBS
+-   <https://github.com/tinylibs/tinyspy>
+-   <https://github.com/vitest-dev/vscode>
+
+## FROM JEST
 
 -   <https://github.com/Namchee/j2v>
 -   <https://github.com/trivikr/vitest-codemod>
