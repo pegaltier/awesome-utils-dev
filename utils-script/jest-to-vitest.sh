@@ -4,6 +4,17 @@
 # Based off https://gist.github.com/wojtekmaj/6defa1f358daae28bd52b7b6dbeb7ab6 with a few fixes and
 # additions/removals including no git interactions
 
+# Run on Windows PowerShell:
+# Set-Alias -Name bash -Value "C:\Program Files\Git\bin\bash.exe"
+# bash
+# .\jest-to-vitest.sh
+
+# Windows compatibility for sed -i option
+SEDOPTION=
+if [[ "$OSTYPE" == "darwin"* ]]; then
+  SEDOPTION="-i ''"
+fi
+
 join_by() {
   local d=${1-} f=${2-}
   if shift 2; then
