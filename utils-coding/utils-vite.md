@@ -16,3 +16,21 @@
 -   <https://github.com/trivikr/vitest-codemod>
 -   <https://github.com/scalvert/jest-to-vitest>
 -   <https://github.com/kamaal111/jest-to-vitest-codemod>
+
+## MOCKS
+
+```javascript
+// from: https://www.bitovi.com/blog/more-mocks-mocking-modules-in-vitest
+import type * as NavigationModule from './navigation';
+vi.mock('./navigation', async () => { // <- now async
+  // Use the `importActual` method and await it.
+  const actualModule = await vi.importActual<typeof NavigationModule>('./navigation');
+  return {
+    ...actualModule,
+    calculateRoute: (from, to, starDateTimeSeconds, setLastError) => {
+      const err = actualModule.errorIdToErrorData(mockErrorId);
+      setLastError(err);
+    },
+  };
+});
+```
