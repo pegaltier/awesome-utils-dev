@@ -357,6 +357,7 @@
 -   <https://github.com/k3s-io/k3s>
 -   <https://github.com/keel-hq/keel>
 -   <https://github.com/lensapp/lens>
+-   <https://github.com/ctrox/zeropod>
 -   <https://github.com/kedacore/keda>
 -   <https://github.com/ahmetb/kubectx>
 -   <https://github.com/k0sproject/k0s>

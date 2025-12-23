@@ -113,6 +113,7 @@
 -   <https://github.com/tauri-apps/tauri>
 -   <https://github.com/webrtc-rs/webrtc>
 -   <https://github.com/greyblake/nutype>
+-   <https://github.com/uutils/coreutils>
 -   <https://github.com/makepad/makepad>
 -   <https://github.com/matklad/arbtest>
 -   <https://github.com/oxc-project/oxc>
@@ -121,13 +122,15 @@
 -   <https://github.com/google/zerocopy>
 -   <https://github.com/GREsau/schemars>
 -   <https://github.com/image-rs/image>
+-   <https://github.com/riker-rs/riker>
+-   <https://github.com/mit-pdos/noria>
 -   <https://github.com/rustfs/rustfs>
 -   <https://github.com/serde-rs/json>
 -   <https://github.com/loro-dev/loro>
--   <https://github.com/mit-pdos/noria>
--   <https://github.com/riker-rs/riker>
 -   <https://github.com/rxRust/rxRust>
+-   <https://github.com/wildcard/caro>
 -   <https://github.com/BloopAI/bloop>
+-   <https://github.com/mozilla/neqo>
 -   <https://github.com/obmarg/cynic>
 -   <https://github.com/loco-rs/loco>
 -   <https://github.com/iced-rs/iced>

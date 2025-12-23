@@ -191,6 +191,7 @@
 ## NEWS / LEARN
 
 -   <https://github.com/osanseviero/ml_timeline>
+-   <https://github.com/automata/aicodeguide>
 -   <https://9elements.com/blog/ai-glossary>
 -   <https://www.agentrecipes.com/>
 -   <https://learnprompting.org/>
@@ -459,6 +460,7 @@
 -   <https://github.com/e2b-dev/e2b>
 -   <https://github.com/ekkinox/yai>
 -   <https://github.com/block/goose>
+-   <https://github.com/google/A2UI>
 -   <https://github.com/openai/codex>
 -   <https://github.com/wandb/openui>
 -   <https://github.com/dyad-sh/dyad>
@@ -495,6 +497,7 @@
 -   <https://github.com/Integuru-AI/Integuru>
 -   <https://github.com/opencode-ai/opencode>
 -   <https://github.com/continuedev/continue>
+-   <https://github.com/amantus-ai/vibetunnel>
 -   <https://github.com/langchain-ai/open-swe>
 -   <https://github.com/microsoft/genaiscript>
 -   <https://github.com/raidendotai/cofounder>
@@ -541,6 +544,7 @@
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
 -   <https://github.com/thedotmack/claude-mem>
+-   <https://github.com/AndyMik90/Auto-Claude>
 -   <https://github.com/siteboon/claudecodeui>
 -   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/Doriandarko/claude-engineer>
@@ -558,6 +562,7 @@
 
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
+-   <https://github.com/agentskills/agentskills>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/PatrickJS/awesome-cursorrules>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
@@ -612,7 +617,8 @@
 -   <https://github.com/jacoblee93/fully-local-pdf-chatbot>
 
 ## TOOLS: SANDBOXING
-- https://github.com/restyler/awesome-sandbox
+-   <https://github.com/PwnFunction/sandbox>
+-   <https://github.com/restyler/awesome-sandbox>
 
 ## TOOLS: IMAGE
 

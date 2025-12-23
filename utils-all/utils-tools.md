@@ -158,7 +158,9 @@
 
 ## OSS: LEARN / LANGUAGE / ENGLISH
 
+-   <https://writewithharper.com/>
 -   <https://languagelearningwithnetflix.com>
+-   <https://github.com/automattic/harper>
 -   <https://github.com/cuixueshe/earthworm>
 -   <https://github.com/baturyilmaz/wordpecker-app>
 -   <https://github.com/ZuodaoTech/everyone-can-use-english>

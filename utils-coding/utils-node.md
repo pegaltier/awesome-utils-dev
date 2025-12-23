@@ -390,6 +390,7 @@
 
 -   <https://github.com/chatman-media/timeline-studio>
 -   <https://github.com/AmitDigga/fabric-video-editor>
+-   <https://github.com/Brooooooklyn/webcodecs-node>
 -   <https://github.com/bilashcse/video-editor>
 -   <https://github.com/ClipsAI/video-editor>
 -   <https://github.com/Vanilagy/mediabunny>

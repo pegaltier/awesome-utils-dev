@@ -1199,10 +1199,12 @@ https://github.com/marketcalls/openalgo-node
 -   <https://github.com/difurious/lightweight-charts-line-tools>
 -   <https://github.com/chartjs/chartjs-chart-financial>
 -   <https://github.com/tradingview/lightweight-charts>
+-   <https://github.com/tpunt/lwc-plugin-shape-drawing>
 -   <https://github.com/tradex-app/TradeX-chart>
 -   <https://github.com/project-nv/night-vision>
 -   <https://github.com/klinecharts/KLineChart>
 -   <https://github.com/alenjohn05/EquiCharts>
+-   <https://github.com/QuantForgeOrg/QFChart>
 -   <https://github.com/tvjsx/trading-vue-js>
 -   <https://github.com/andredumas/techan.js>
 -   <https://github.com/topics/stock-chart>
@@ -1318,6 +1320,8 @@ https://github.com/marketcalls/openalgo-node
 -   <https://github.com/microsoft/qlib>
 -   <https://github.com/HKUDS/AI-Trader>
 -   <https://github.com/Suharaz/MerkleAI>
+-   <https://github.com/whchien/ai-trader>
+-   <https://github.com/junduck/overthink>
 -   <https://github.com/mims-harvard/UniTS>
 -   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>

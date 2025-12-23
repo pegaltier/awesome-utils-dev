@@ -35,6 +35,7 @@
 -   <https://github.com/P2PModels>
 -   <https://github.com/amark/gun>
 -   <https://github.com/matrix-org>
+-   <https://github.com/berty/berty>
 -   <https://github.com/AgregoreWeb>
 -   <https://github.com/fluencelabs>
 -   <https://github.com/xmtp/xmtp-js>

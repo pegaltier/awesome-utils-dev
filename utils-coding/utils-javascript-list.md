@@ -370,6 +370,9 @@
 -   <https://github.com/primus/eventemitter3>
 -   <https://github.com/RIAEvangelist/event-pubsub>
 
+## LIB: PROMISE
+-   <https://github.com/sindresorhus/promise-fun>
+
 ## LIB: DATABASE
 
 -   <https://github.com/knex/knex>
@@ -708,6 +711,9 @@
 -   <https://github.com/tj/commander.js/>
 -   <https://github.com/terkelg/prompts>
 -   <https://github.com/poppinss/cliui>
+
+## LIB: BROWSER TERMINAL
+-   <https://github.com/butlerx/wetty>
 
 ## LIB: IP
 

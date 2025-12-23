@@ -17,6 +17,9 @@
 -   <https://github.com/OpenRCT2/OpenRCT2>
 -   <https://github.com/SFTtech/openage>
 
+## LIB: CLOUD
+-   <https://github.com/PierreBeucher/cloudypad>
+
 ## LIB: ALL
 
 -   <https://github.com/shrekshao/gltf-avatar-threejs>
@@ -25,6 +28,9 @@
 -   <https://github.com/hydralauncher/hydra>
 -   <https://github.com/melonjs/melonJS>
 -   <https://github.com/rivet-gg/rivet>
+
+## LIB: VISU
+-   <https://github.com/IAmTomShaw/f1-race-replay>
 
 ## LIB: AI
 

@@ -145,6 +145,7 @@
 -   <https://github.com/Whitecat18/earlycascade-injection>
 -   <https://github.com/mgeeky/Penetration-Testing-Tools>
 -   <https://github.com/hackerschoice/ssh-key-backdoor>
+-   <https://github.com/NationalSecurityAgency/ghidra>
 -   <https://github.com/Whitecat18/Javahexor>
 
 ## TOOLS: OSS: DEFENSIVE
