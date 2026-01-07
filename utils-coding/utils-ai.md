@@ -222,6 +222,9 @@
 -   <https://github.com/ZJU-LLMs/Foundations-of-LLMs>
 -   <https://github.com/NirDiamant/agents-towards-production>
 
+## INTERVIEW
+-   <https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub>
+
 ## VIDEOS
 
 -   <https://youtu.be/ZuiJjkbX0Og> How LLMs work for Web Devs: GPT in 600 lines of Vanilla JS - Ishan Anand
@@ -257,6 +260,7 @@
 -   <https://github.com/visenger/awesome-mlops>
 -   <https://github.com/github/awesome-copilot>
 -   <https://github.com/openai/openai-cookbook>
+-   <https://github.com/restyler/awesome-sandbox>
 -   <https://github.com/best-of-ai/ai-directories>
 -   <https://github.com/f/awesome-chatgpt-prompts>
 -   <https://github.com/e2b-dev/awesome-ai-agents>
@@ -265,14 +269,17 @@
 -   <https://github.com/JimmyLv/awesome-nano-banana>
 -   <https://github.com/cbailes/awesome-deep-trading>
 -   <https://github.com/Shubhamsaboo/awesome-llm-apps>
+-   <https://github.com/PatrickJS/awesome-cursorrules>
 -   <https://github.com/hijkzzz/Awesome-LLM-Strawberry>
 -   <https://github.com/steven2358/awesome-generative-ai>
 -   <https://github.com/mercari/ml-system-design-pattern>
 -   <https://github.com/dair-ai/Prompt-Engineering-Guide>
+-   <https://github.com/ComposioHQ/awesome-claude-skills>
 -   <https://github.com/heartexlabs/awesome-data-labeling>
 -   <https://github.com/KalyanKS-NLP/llm-engineer-toolkit>
 -   <https://github.com/PlexPt/awesome-chatgpt-prompts-zh>
 -   <https://github.com/aishwaryanr/awesome-generative-ai-guide>
+-   <https://github.com/VoltAgent/awesome-claude-code-subagents>
 -   <https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics>
 -   <https://github.com/EthicalML/awesome-production-machine-learning>
 -   <https://github.com/AstraZeneca/awesome-explainable-graph-reasoning>
@@ -535,12 +542,14 @@
 
 ## TOOLS: CODING: OSS CLAUDE
 
+-   <https://github.com/openai/skills>
 -   <https://github.com/winfunc/opcode>
 -   <https://github.com/wshobson/agents>
 -   <https://github.com/obra/superpowers>
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/dyoshikawa/rulesync>
+-   <https://github.com/m0n0x41d/quint-code>
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
 -   <https://github.com/thedotmack/claude-mem>
@@ -556,15 +565,14 @@
 -   <https://github.com/shareAI-lab/analysis_claude_code>
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
--   <https://github.com/VoltAgent/awesome-claude-code-subagents>
 
-## TOOLS: CODING: OSS PROMPT RULES
+## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
--   <https://github.com/PatrickJS/awesome-cursorrules>
+-   <https://github.com/OthmanAdi/planning-with-files>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
 -   <https://github.com/yosietserga/ai-prompts-for-developers>
 -   <https://github.com/anthropics/prompt-eng-interactive-tutorial>
@@ -616,9 +624,10 @@
 -   <https://github.com/DS4SD/docling>
 -   <https://github.com/jacoblee93/fully-local-pdf-chatbot>
 
-## TOOLS: SANDBOXING
+## TOOLS: SANDBOXING / CONTAINER
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/restyler/awesome-sandbox>
+-   <https://github.com/DeepBlueDynamics/codex-container>
 
 ## TOOLS: IMAGE
 
@@ -643,6 +652,7 @@
 -   <https://huggingface.co/>
 -   <https://modelscope.cn/>
 -   <https://avatarai.me/>
+-   <https://deevid.ai/>
 -   <https://photoai.com/>
 -   <https://klingai.com/>
 -   <https://anifusion.ai/>
@@ -808,6 +818,7 @@
 ## LIB: STRUCTURED OUTPUT
 -   <https://github.com/BoundaryML/baml>
 -   <https://github.com/dottxt-ai/outlines>
+-   <https://github.com/567-labs/instructor-js>
 
 ## LIB: DB
 
@@ -911,6 +922,7 @@
 -   <https://github.com/humanlayer/humanlayer>
 -   <https://github.com/microsoft/magentic-ui>
 -   <https://github.com/agentlabs-dev/openator>
+-   <https://github.com/cuga-project/cuga-agent>
 -   <https://github.com/browserbase/open-operator>
 -   <https://github.com/threepointone/partyserver>
 -   <https://github.com/transitive-bullshit/agentic>

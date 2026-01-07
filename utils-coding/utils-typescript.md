@@ -232,6 +232,7 @@
 -   <https://github.com/webpro/knip>
 -   <https://github.com/hqoss/guards>
 -   <https://github.com/dolanmiu/docx>
+-   <https://github.com/duplojs/utils>
 -   <https://github.com/palmerhq/tsdx>
 -   <https://github.com/danvk/ts-mover>
 -   <https://github.com/kutyel/linq.ts>

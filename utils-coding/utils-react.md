@@ -178,6 +178,7 @@
 -   <https://github.com/zoontek/react-chicane>
 -   <https://github.com/tremorlabs/tremor-raw>
 -   <https://github.com/unleashit/npm-library>
+-   <https://github.com/mmarinovic/tailwindsql>
 -   <https://github.com/paypal/react-paypal-js>
 -   <https://github.com/LegendApp/legend-state>
 -   <https://github.com/InseeFrLab/keycloakify>

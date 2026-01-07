@@ -162,6 +162,7 @@ RUN ls
 -   <https://github.com/tokuhirom/dcv>
 -   <https://github.com/wagoodman/dive>
 -   <https://github.com/qdm12/devtainr>
+-   <https://github.com/Finsys/dockhand>
 -   <https://github.com/louislam/dockge>
 -   <https://github.com/croqaz/browsers>
 -   <https://github.com/NilsIrl/dockerc>

@@ -26,6 +26,9 @@ Agent pour développeurs haut-niveau
 -   <https://gist.github.com/stowball/26fb03aeaa0e8de1def00dcb5d8f425e>
 -   <https://github.com/EuropeanRemote/european-remote-software-companies>
 
+## PHD
+-   <https://www.findaphd.com/>
+
 ## REMOTE: JOBS SITES
 
 -   <https://remoteok.io/>

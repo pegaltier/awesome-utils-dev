@@ -337,6 +337,10 @@ Proxies provide a unique way to modify or improve the behavior of existing objec
 -   <https://www.slideshare.net/BrendanEich/metaprog-5303821>
 -   <https://fr.javascript.info/proxy>
 
+## GENERATOR
+
+-   <https://macarthur.me/posts/generators/>
+
 ## EXAMPLES
 
 ### OBJECTS

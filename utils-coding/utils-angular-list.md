@@ -1240,6 +1240,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://www.youtube.com/watch?v=4FkFmn0LmLI> Joshua Morony - Signals
 -   <https://www.youtube.com/watch?v=HstDoVQeP9g> Angular Signal with Ryan from Solid
 -   <https://www.youtube.com/watch?v=sc9BC1LpxT8> Reactivity, Reimagined: Angular Signals at Every Layer
+-   <https://www.youtube.com/watch?v=QyQE6RfN2GQ> Hold the Line - Signal Store aligned with Angular's latest
 -   <https://medium.com/ngconf/skip-angular-resource-ff3441e8b2ba>
 -   <https://medium.com/herodevs/i-built-an-app-using-angulars-latest-prototype-signals-4b2691b9a8aa>
 -   <https://medium.com/@amosisaila/angular-21-0-1-the-missing-style-link-in-signal-forms-bb8571e90f61>
@@ -1941,6 +1942,7 @@ Learn how to make your own angular lib, build, distribute.
 -   <https://github.com/PatrickJS/awesome-angular>
 -   <https://github.com/brillout/awesome-angular-components>
 -   <https://github.com/anubhavsrivastava/awesome-ui-component-library#angular>
+-   <https://www.angular.courses/tools/library-health-check/explorer>
 
 ## ECOSYSTEM: LIB: MONOREPO
 
@@ -3870,6 +3872,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy>
 -   <https://github.com/PacktPublishing/Learning-Angular-Fifth-Edition> (TOADD)
 -   <http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison>
+-   <https://offering.solutions/ebook-creating-modern-angular-apps-with-ngrx-and-nx/> (TOADD)
 -   <https://egghead.io/series/angular-2-fundamentals>
 -   <https://leanpub.com/developing-with-angular>
 
@@ -3922,6 +3925,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://thoughtram.io/angular-master-class.html>
 -   <https://tomastrajan.com/workshops/angular-mastery>
 -   <https://ultimatecourses.com/courses/angular>
+-   <https://www.easyangularkit.com/>
 -   <https://github.com/loiane/curso-angular>
 -   <https://github.com/billyjov/angular-training>
 

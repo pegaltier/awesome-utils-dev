@@ -874,6 +874,7 @@
 
 -   <https://github.com/atlassian/pragmatic-drag-and-drop>
 -   <https://github.com/timruffles/mobile-drag-drop>
+-   <https://github.com/jgthms/picknplace.js>
 -   <https://github.com/SortableJS/Sortable>
 -   <https://github.com/Shopify/draggable>
 -   <https://github.com/taye/interact.js>
@@ -1219,6 +1220,7 @@
 
 ## LIB: AI WEB / NLP EDGE
 -   <https://github.com/brainjs>
+-   <https://github.com/ekzhang/jax-js>
 -   <https://github.com/tensorflow/tfjs>
 -   <https://github.com/huggingface/candle>
 -   <https://github.com/google-ai-edge/LiteRT>
@@ -1449,6 +1451,7 @@
 
 ## LIB: GAME
 
+-   <https://github.com/phaserjs>
 -   <https://github.com/mgechev/mk.js>
 -   <https://github.com/straker/kontra>
 -   <https://github.com/Tonejs/Tone.js>

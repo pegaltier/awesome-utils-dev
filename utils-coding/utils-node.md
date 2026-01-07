@@ -126,13 +126,11 @@
 -   <https://github.com/platformatic/node-masterclass>
 -   <https://github.com/goldbergyoni/nodebestpractices>
 -   <https://github.com/platformatic/the-high-performance-node-workshop>
+-   <https://blog.val.town/gardening-dependencies>
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
 -   <https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer>
 -   <https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/>
 -   <https://developerehsan.medium.com/10-mind-blowing-node-js-features-that-make-it-unstoppable-86a5e98e2fc2>
--   <https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc> node-typescript-esm.md
--   <https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c> node-pure-esm.md
--   <https://gist.github.com/wojtekmaj/17a0b0929c6e628c745ee889f1970bc2> esmOrCjs.js
 
 ## VERSION MANAGER
 
@@ -271,6 +269,7 @@
 -   <https://github.com/sgb-io/fta>
 -   <https://github.com/yunabe/tslab>
 -   <https://github.com/Qard/onchange>
+-   <https://github.com/typicode/pinst>
 -   <https://github.com/harthur/replace>
 -   <https://github.com/volarjs/volar.js>
 -   <https://github.com/bennycode/ts2esm>
@@ -425,6 +424,7 @@
 -   <https://github.com/tinylibs/tinypool>
 -   <https://github.com/mcollina/everysync>
 -   <https://github.com/poolifier/poolifier>
+-   <https://github.com/W4G1/multithreading>
 -   <https://github.com/josdejong/workerpool>
 -   <https://github.com/developit/web-worker>
 -   <https://github.com/faranalytics/socketnaut>
@@ -604,6 +604,7 @@
 -   <https://github.com/prisma/prisma>
 -   <https://github.com/typeorm/typeorm>
 -   <https://github.com/sequelize/sequelize>
+-   <https://github.com/joist-orm/joist-orm>
 -   <https://github.com/drizzle-team/drizzle-orm>
 
 ## LIBS: DATABASE / DB
@@ -809,14 +810,23 @@ Or see for other OS [Utils-cmd](utils-cmd.md)
     npm install mypackage1@latest # update one to the latest (major)
     npx npm-check-updates -u # update all to the latest (major)
 
-## MODULES
+## ESM / MODULES
 
--   <https://dmitripavlutin.com/ecmascript-modules-nodejs/>
--   <https://blog.logrocket.com/commonjs-vs-es-modules-node-js/>
--   <https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2>
--   <https://adamcoster.com/blog/commonjs-and-esm-importexport-compatibility-examples>
--   <https://techsparx.com/nodejs/typescript/modules-01.html>
--   <https://stackoverflow.com/questions/33535879/how-to-run-typescript-files-from-command-line>
--   <https://www.typescriptlang.org/docs/handbook/esm-node.html>
--   <https://www.npmjs.com/package/fix-esm>
+### LIB
 -   <https://github.com/standard-things/esm>
+-   <https://git.cryto.net/joepie91/fix-esm.git>
+
+### NOTES
+-   <https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc> node-typescript-esm.md
+-   <https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c> node-pure-esm.md
+-   <https://gist.github.com/wojtekmaj/17a0b0929c6e628c745ee889f1970bc2> esmOrCjs.js
+
+### ARTICLES
+-   <https://antfu.me/posts/move-on-to-esm-only>
+-   <https://dmitripavlutin.com/ecmascript-modules-nodejs/>
+-   <https://techsparx.com/nodejs/typescript/modules-01.html>
+-   <https://blog.logrocket.com/commonjs-vs-es-modules-node-js/>
+-   <https://www.typescriptlang.org/docs/handbook/esm-node.html>
+-   <https://adamcoster.com/blog/commonjs-and-esm-importexport-compatibility-examples>
+-   <https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2>
+-   <https://stackoverflow.com/questions/33535879/how-to-run-typescript-files-from-command-line>

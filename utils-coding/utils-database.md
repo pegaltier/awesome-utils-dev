@@ -64,6 +64,7 @@
 -   <https://github.com/electric-sql/pglite>
 -   <https://github.com/ankit5999/buildmymeta>
 -   <https://github.com/readysettech/readyset>
+-   <https://github.com/timescale/pg_textsearch>
 
 ## NOSQL / MONGO
 
