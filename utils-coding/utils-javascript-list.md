@@ -327,6 +327,7 @@
 
 ## LIB: MULTIPLE
 
+-   <https://github.com/zap-studio/monorepo>
 -   <https://github.com/builder-group/community>
 
 ## LIB: POLYFILL
@@ -435,6 +436,7 @@
 -   <https://github.com/charlietango/owky>
 -   <https://github.com/openauthjs/openauth>
 -   <https://github.com/better-auth/better-auth>
+-   <https://github.com/mylofi/webauthn-local-client>
 -   <https://github.com/supertokens/supertokens-node>
 -   <https://github.com/subhendukundu/worker-auth-providers>
 
@@ -763,6 +765,7 @@
 -   <https://github.com/toss/es-toolkit>
 -   <https://github.com/selfrefactor/rambda>
 -   <https://github.com/selfrefactor/rambdax>
+-   <https://github.com/superlucky84/fp-pack>
 
 ## LIB: REACTIVE
 
@@ -986,6 +989,7 @@
 ## LIB: FRONTEND SIGNALS
 
 -   <https://github.com/milomg/reactively>
+-   <https://github.com/jkup/signals-animated>
 -   <https://github.com/stackblitz/alien-signals>
 
 ## LIB: MAP

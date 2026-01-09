@@ -586,6 +586,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 
 -   <https://github.com/google/eleventy-high-performance-blog>
 -   <https://github.com/ixartz/Eleventy-Starter-Boilerplate>
+-   <https://github.com/waynesutton/markdown-site>
 -   <https://github.com/11ty/eleventy-base-blog>
 -   <https://github.com/deviousdodo/elevenpack>
 -   <https://github.com/remoteinterview/zero>

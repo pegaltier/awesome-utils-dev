@@ -125,6 +125,7 @@
 ## TOOLS: ONLINE
 
 -   <https://42crunch.com/>
+-   <https://web-check.xyz/>
 -   <https://securitytxt.org/>
 -   <https://www.srihash.org/>
 -   <https://www.virustotal.com>

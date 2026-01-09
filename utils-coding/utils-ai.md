@@ -303,10 +303,11 @@
 -   <https://otio.ai/>
 -   <https://exa.ai/>
 -   <https://venice.ai/>
+-   <https://lmarena.ai/>
 -   <https://lobechat.com/>
--   <https://webllm.mlc.ai/>
 -   <https://blackblox.ai/>
 -   <https://nitro.jan.ai/>
+-   <https://webllm.mlc.ai/>
 -   <https://www.phind.com/>
 -   <https://lumo.proton.me/>
 -   <https://chat.qwenlm.ai/>
@@ -482,6 +483,7 @@
 -   <https://github.com/gptlint/gptlint>
 -   <https://github.com/get-convex/chef>
 -   <https://github.com/pullfrog/action>
+-   <https://github.com/manaflow-ai/cmux>
 -   <https://github.com/omnara-ai/omnara>
 -   <https://github.com/dnakov/anon-kode>
 -   <https://github.com/stitionai/devika>
@@ -555,6 +557,7 @@
 -   <https://github.com/thedotmack/claude-mem>
 -   <https://github.com/AndyMik90/Auto-Claude>
 -   <https://github.com/siteboon/claudecodeui>
+-   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/Doriandarko/claude-engineer>
 -   <https://github.com/davila7/claude-code-templates>
@@ -993,6 +996,7 @@
 -   <https://github.com/e2b-dev/awesome-mcp-gateways>
 -   <https://github.com/punkpeye/awesome-mcp-servers>
 -   <https://github.com/leonardsellem/n8n-mcp-server>
+-   <https://github.com/omar-haris/smart-coding-mcp>
 -   <https://github.com/gioboa/mcp-typescript-sdk>
 -   <https://github.com/exa-labs/exa-mcp-server>
 -   <https://github.com/sooperset/mcp-atlassian>
@@ -1066,6 +1070,7 @@
 
 ## LIB: ROBOTICS
 
+-   <https://github.com/ros2/ros2>
 -   <https://github.com/LejuRobotics>
 -   <https://github.com/commaai/openpilot>
 -   <https://github.com/ArduPilot/ardupilot>
@@ -1131,6 +1136,7 @@
 -   <https://github.com/eugeneyan/open-llms>
 -   <https://github.com/alibaba/data-juicer>
 -   <https://github.com/hwchase17/langchain>
+-   <https://github.com/allenai/bolmo-core>
 -   <https://github.com/arobey1/smooth-llm>
 -   <https://github.com/docker/genai-stack>
 -   <https://github.com/mnotgod96/AppAgent>
@@ -1212,6 +1218,7 @@
 -   <https://github.com/epicenter-os/epicenter>
 -   <https://github.com/fishaudio/fish-speech>
 -   <https://github.com/remsky/Kokoro-FastAPI>
+-   <https://github.com/samuel-vitorino/sopro>
 -   <https://github.com/FunAudioLLM/CosyVoice>
 -   <https://github.com/myshell-ai/OpenVoice>
 -   <https://github.com/SparkAudio/Spark-TTS>
@@ -1397,6 +1404,7 @@
 
 -   <https://github.com/a16z-infra/ai-town>
 -   <https://github.com/PufferAI/PufferLib>
+-   <https://github.com/tas1337/GameEngine>
 -   <https://github.com/partykit/partykit>
 
 ## LIB: SCIENCE

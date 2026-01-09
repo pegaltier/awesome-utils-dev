@@ -216,6 +216,8 @@
 -   <https://github.com/unjs/listhen>
 -   <https://github.com/ekzhang/bore>
 -   <https://github.com/amalshaji/portr>
+-   <https://github.com/yosebyte/nodepass>
+-   <https://github.com/klipitkas/tunnl.gg>
 -   <https://github.com/inconshreveable/ngrok>
 -   <https://github.com/anderspitman/awesome-tunneling>
 
@@ -322,11 +324,12 @@
 -   <https://github.com/cloudflare/miniflare>
 -   <https://github.com/cloudflare/wrangler2>
 -   <https://github.com/cloudflare/cloudflared>
--   <https://github.com/artur-ciocanu/odd-cloudflare-workers>
 -   <https://github.com/xiaoyang-sde/rocket-booster>
 -   <https://github.com/eidam/cf-workers-status-page>
+-   <https://github.com/rohanprasadofficial/localflare>
 -   <https://github.com/lukeed/awesome-cloudflare-workers>
 -   <https://github.com/karllhughes/workers-codeship-example>
+-   <https://github.com/artur-ciocanu/odd-cloudflare-workers>
 -   <https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy>
 
 ## AWS / CLOUD ALTERNATIVE

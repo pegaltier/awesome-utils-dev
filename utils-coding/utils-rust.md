@@ -102,6 +102,7 @@
 -   <https://github.com/BLAKE3-team/BLAKE3>
 -   <https://github.com/cloudflare/pingora>
 -   <https://github.com/mmastrac/rust-ctor>
+-   <https://github.com/rust-cli/config-rs>
 -   <https://github.com/Aleph-Alpha/ts-rs>
 -   <https://github.com/RustScan/RustScan>
 -   <https://github.com/rust-lang/rustfmt>

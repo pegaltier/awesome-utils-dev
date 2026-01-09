@@ -982,6 +982,7 @@
 ### OSS: PYTHON
 
 -   <https://github.com/zvtvz/zvt>
+-   <https://github.com/PyDMD/PyDMD>
 -   <https://github.com/myhhub/stock> \*
 -   <https://github.com/vollib/vollib>
 -   <https://github.com/unit8co/darts>
@@ -1025,12 +1026,14 @@
 -   <https://github.com/kaigouthro/pynescript>
 -   <https://github.com/ilcardella/TradingBot>
 -   <https://github.com/ranaroussi/quantstats> \*
+-   <https://github.com/deepentropy/tvscreener>
 -   <https://github.com/letianzj/QuantResearch> \*
 -   <https://github.com/QuantJourneyOrg/public> \*
 -   <https://github.com/blankly-finance/blankly> \*
 -   <https://github.com/algobulls/pyalgotrading>
 -   <https://github.com/StrateQueue/StrateQueue> \*
 -   <https://github.com/jmfernandes/robin_stocks>
+-   <https://github.com/fortitudo-tech/pcrm-book>
 -   <https://github.com/quantrocket-llc/moonshot>
 -   <https://github.com/yasinkuyu/binance-trader>
 -   <https://github.com/stefmolin/stock-analysis>
@@ -1123,6 +1126,10 @@
 -   <https://github.com/compute-io>
 -   <https://github.com/thisancog/statistics.js>
 
+### OSS: JAVASCRIPT: FOREX
+
+-   <https://github.com/NeaByteLab/Forex-Calculator>
+
 ### OSS: JAVASCRIPT: STOCKS
 
 -   <https://github.com/insionCEO/High-performance-TradingExchange-Next.js->
@@ -1153,6 +1160,8 @@
 -   <https://github.com/ixjb94/indicators-js>
 -   <https://github.com/boctulus/IndicatorsJs>
 -   <https://github.com/TulipCharts/tulipnode>
+-   <https://github.com/NeaByteLab/Trading-Lib>
+-   <https://github.com/deepentropy/oakscriptJS>
 -   <https://github.com/thisancog/statistics.js>
 -   <https://github.com/coin-unknown/Indicators>
 -   <https://github.com/focus1691/chart-patterns>
@@ -1165,6 +1174,7 @@
 -   <https://github.com/anandanand84/technicalindicators>
 -   <https://github.com/Cloud9Trader/TechnicalIndicators>
 -   <https://github.com/trade-rhythm/technical-indicators>
+-   <https://github.com/deepentropy/lightweight-charts-indicators>
 -   <https://github.com/santoshkshirsagar/fast-technical-indicators>
 
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
@@ -1198,7 +1208,7 @@
 -   <https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/>
 
 ### OSS: JAVASCRIPT: TRADES ONLY
-https://github.com/marketcalls/openalgo-node
+-   <https://github.com/marketcalls/openalgo-node>
 
 ### OSS: JAVASCRIPT: CHART
 
@@ -1227,6 +1237,7 @@ https://github.com/marketcalls/openalgo-node
 
 -   <https://github.com/SockTrader/SockTrader/blob/master/packages/core/src/lib/utils/aggregateCandles.ts>
 -   <https://github.com/valamidev/candlestick-convert> \*
+-   <https://github.com/NeaByteLab/Candle-Transform>
 -   <https://github.com/darklight9811/candlelit>
 -   <https://github.com/adiled/ohlc-resample>
 -   <https://github.com/ourarash/heikinashi>

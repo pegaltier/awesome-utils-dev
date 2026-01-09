@@ -2435,6 +2435,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/anchmelev/web-worker-bus> (TOADD)
 -   <https://github.com/cognizone/ng-cognizone> (TOADD)
 -   <https://github.com/khvedela/ngx-persist> (TOADD)
+-   <https://github.com/love1024/ngx-oneforall> (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 
