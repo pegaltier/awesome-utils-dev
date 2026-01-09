@@ -661,13 +661,12 @@
 -   <https://github.com/pi0/capnp-es>
 -   <https://github.com/protocolbuffers/protobuf-javascript>
 
-## LIB: PARSER SCRAPER HTML/XML/JSON/DOM/CSV/JS
+## LIB: PARSER SCRAPER HTML/XML/JSON/DOM/CSV
 
 -   <https://github.com/beenotung/best-effort-json-parser>
 -   <https://github.com/Essent/nativescript-xml2js>
 -   <https://github.com/package-url/packageurl-js>
 -   <https://github.com/flightcontrolhq/superjson>
--   <https://github.com/NeilFraser/JS-Interpreter>
 -   <https://github.com/WebReflection/domdiff>
 -   <https://github.com/rchipka/node-osmosis>
 -   <https://github.com/natemoo-re/ultrahtml>
@@ -681,6 +680,12 @@
 -   <https://github.com/mholt/PapaParse>
 -   <https://github.com/xmldom/xmldom>
 -   <https://github.com/fb55/entities>
+
+## LIB: PARSER JAVASCRIPT INTERPRETER
+
+-   <https://github.com/NeilFraser/JS-Interpreter>
+-   <https://github.com/bramblex/jsjs>
+-   <https://github.com/Siubaak/sval>
 
 ## LIB: MARKUP / MARKDOWN / TEXT
 
