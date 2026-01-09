@@ -1942,7 +1942,9 @@ Learn how to make your own angular lib, build, distribute.
 -   <https://github.com/PatrickJS/awesome-angular>
 -   <https://github.com/brillout/awesome-angular-components>
 -   <https://github.com/anubhavsrivastava/awesome-ui-component-library#angular>
+-   <https://www.angular.courses/caniuse/migrations>
 -   <https://www.angular.courses/tools/library-health-check/explorer>
+-   <https://www.angular.courses/releases/insights/21/migrations>
 
 ## ECOSYSTEM: LIB: MONOREPO
 
