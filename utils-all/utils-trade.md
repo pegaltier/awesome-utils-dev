@@ -297,6 +297,7 @@
 -   <https://fuserleer.online/exchange_data/>
 -   <https://github.com/jugaad-py/jugaad-data>
 -   <https://www.youtube.com/watch?v=myydDX-us4o>
+-   <https://github.com/rreichel3/US-Stock-Symbols>
 -   <https://data.nasdaq.com/institutional-investors>
 -   <https://www.algos.org/p/data-sourcing-the-guide> \*
 -   <https://data.world/crispydata/bitcoin-historical-data>
@@ -397,6 +398,7 @@
 -   <https://ghostfol.io/>
 -   <https://www.qmr.ai/>
 -   <https://www.buildalpha.com/>
+-   <https://strategy.assetmaster.in/>
 -   <https://easylanguagemastery.com/>
 -   <https://www.lizardindicators.com/>
 -   <https://toslc.thinkorswim.com/center>
@@ -1022,6 +1024,7 @@
 -   <https://github.com/cuemacro/finmarketpy>
 -   <https://github.com/kernc/backtesting.py>
 -   <https://github.com/marketcalls/openalgo>
+-   <https://github.com/keithorange/PatternPy>
 -   <https://github.com/goldmansachs/gs-quant> \*
 -   <https://github.com/kaigouthro/pynescript>
 -   <https://github.com/ilcardella/TradingBot>
@@ -1034,6 +1037,7 @@
 -   <https://github.com/StrateQueue/StrateQueue> \*
 -   <https://github.com/jmfernandes/robin_stocks>
 -   <https://github.com/fortitudo-tech/pcrm-book>
+-   <https://github.com/plytostrading/algobrute>
 -   <https://github.com/quantrocket-llc/moonshot>
 -   <https://github.com/yasinkuyu/binance-trader>
 -   <https://github.com/stefmolin/stock-analysis>
@@ -1049,6 +1053,7 @@
 -   <https://github.com/samre12/deep-trading-agent>
 -   <https://github.com/bfolkens/py-market-profile>
 -   <https://github.com/akumidv/tradingview-ta-lib>
+-   <https://github.com/CHANGGELY/liangzhi-backtest>
 -   <https://github.com/bitfinexcom/bitfinex-api-py>
 -   <https://github.com/OutSquareCapital/OutQuantLab> \*
 -   <https://github.com/algobulls/pyalgostrategypool>
@@ -1115,6 +1120,7 @@
 ## OSS: JAVA
 
 -   <https://github.com/neurallayer/roboquant>
+-   <https://github.com/prashant-one/strategy-master>
 
 ### OSS: JAVASCRIPT: GENETIC
 
@@ -1214,6 +1220,7 @@
 
 -   <https://github.com/Lightning-Chart/lcjs-typescript-example>
 -   <https://github.com/difurious/lightweight-charts-line-tools>
+-   <https://github.com/PrettyGoodCapital/finance-widgets>
 -   <https://github.com/chartjs/chartjs-chart-financial>
 -   <https://github.com/tradingview/lightweight-charts>
 -   <https://github.com/tpunt/lwc-plugin-shape-drawing>

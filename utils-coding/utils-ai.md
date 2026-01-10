@@ -479,6 +479,7 @@
 -   <https://github.com/Ironclad/rivet>
 -   <https://github.com/Aider-AI/aider>
 -   <https://github.com/HKUDS/DeepCode>
+-   <https://github.com/snarktank/ralph>
 -   <https://github.com/meltylabs/melty>
 -   <https://github.com/AbanteAI/mentat>
 -   <https://github.com/OpenBMB/ChatDev>
@@ -1288,6 +1289,7 @@
 -   <https://github.com/fal-ai/fal-js>
 -   <https://github.com/upscayl/upscayl>
 -   <https://github.com/THU-MIG/yolov10>
+-   <https://github.com/jantic/DeOldify>
 -   <https://github.com/lllyasviel/Omost>
 -   <https://github.com/katanaml/sparrow>
 -   <https://github.com/JinjieNi/MegaDLMs>
