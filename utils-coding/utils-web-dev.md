@@ -91,6 +91,7 @@
 -   <https://google.github.io/styleguide/htmlcssguide.xml>
 -   <https://github.com/NoriSte/ui-testing-best-practices>
 -   <https://github.com/MarkoDenic/web-development-resources>
+-   <https://github.com/web-platform-dx/web-features-explorer>
 -   <https://github.com/ericwbailey/accessible-html-content-patterns>
 -   <https://github.com/shrutikapoor08/Learn-Web-Dvelopment-Checklist>
 -   <https://github.com/RitikPatni/Front-End-Web-Development-Resources>

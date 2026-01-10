@@ -198,6 +198,7 @@
 -   <https://www.superhuman.ai>
 -   <https://www.therundown.ai>
 -   <https://www.fast.ai>
+-   <https://every.to/>
 
 ## TENSOR FIRE
 
@@ -443,6 +444,7 @@
 -   <https://codegpt.co/>
 -   <https://lovable.dev/>
 -   <https://www.trae.ai/>
+-   <https://ampcode.com/>
 -   <https://voideditor.com/>
 -   <https://www.cursor.com/>
 -   <https://www.devgpt.com/>
@@ -563,6 +565,7 @@
 -   <https://github.com/davila7/claude-code-templates>
 -   <https://github.com/anthropics/claude-code-action>
 -   <https://github.com/textcortex/claude-code-sandbox>
+-   <https://github.com/constellos/claude-code-plugins>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.com/OneRedOak/claude-code-workflows>
 -   <https://github.com/shareAI-lab/analysis_claude_code>
@@ -644,6 +647,7 @@
 -   <https://app.apob.ai/>
 -   <https://rendernet.ai/>
 -   <https://clarityai.co/>
+-   <https://moondream.ai/>
 -   <https://editproai.pro/>
 -   <https://letsenhance.io/>
 -   <https://www.logo-creator.io/>
@@ -1268,6 +1272,7 @@
 -   <https://github.com/JaidedAI/EasyOCR>
 -   <https://github.com/getomni-ai/zerox>
 -   <https://github.com/ocrmypdf/OCRmyPDF>
+-   <https://github.com/vikhyat/moondream>
 -   <https://github.com/blakeblackshear/frigate>
 
 ## LIB: 3D IMAGE / STABLE DIFFUSION

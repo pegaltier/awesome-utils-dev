@@ -796,6 +796,10 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER / CLOUD HOSTING
 -   <https://www.angularspace.com/mega-article-superpowers-with-directives-and-dependency-injection/>
 -   <https://www.angularjswiki.com/angular/directive-composition-api-in-angular-15/>
 
+## CORE: COMPILER
+
+-   <https://dev.to/brandontroberts/building-an-angular-compiler-with-google-gemini-ie0>
+
 ## CORE: COMPONENTS
 
 create your first components, learn how to use translusions, ng-content...
@@ -990,6 +994,7 @@ Learn the reactive programming using rxjs.
 -   <http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0>
 -   <http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/subjects.html>
 -   <https://github.com/ReactiveX/rxjs/blob/master/doc/subject.md>
+-   <https://www.youtube.com/watch?app=desktop&v=YsYXTIrFsh4> optimistic update and auto reload
 
 ## CORE: HTTP
 
@@ -1267,9 +1272,11 @@ Learn everything about angular universal, make a good SEO.
 -   <https://nartc.me/blog/angular-object-inputs/>
 -   <https://angularexperts.io/blog/stop-misusing-effects>
 -   <https://www.codigotipado.com/p/linkedsignal-in-angular-19-say-goodbye>
+-   <https://medium.com/@kobihari/connecting-signal-forms-to-a-signal-store-39dabd69b888>
 
 ## CORE: SIGNALS FORM
 -   <https://anglebrackets-dev.medium.com/signal-forms-4c4c647d1e6a>
+-   <https://angular.love/signal-forms-in-angular-21-complete-guide>
 -   <https://blog.ninja-squad.com/2025/11/04/angular-signal-forms-part-1>
 -   <https://blog.ninja-squad.com/2025/11/14/angular-signal-forms-part-2>
 -   <https://stackblitz.com/@nihaadk/collections/angular-signal-forms-examples>
@@ -1496,6 +1503,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 -   <http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/>
 -   <http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/>
 -   <http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1>
+-   <https://dev.to/ngrx/announcing-ngrx-21-celebrating-a-10-year-journey-with-a-fresh-new-look-and-ngrxsignalsevents-5ekp>
 -   <https://indepth.dev/understanding-the-magic-behind-ngrx-store/>
 -   <https://www.youtube.com/watch?v=LesJdh4uRmk> Hello generics, goodbye boilerplate
 -   <https://www.youtube.com/watch?v=T-vQoI_AM9E> Magical TypeScript features for NgRx
@@ -1747,6 +1755,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://www.angulararchitects.io/konferenzen/the-microfrontend-revolution-module-federation-with-angular/>
 -   <https://dev.to/manfredsteyer/tutorial-getting-started-with-webpack-module-federation-and-angular-2edd?utm_source=dormosheio&utm_campaign=dormosheio>
 -   <https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669>
+-   <https://podcasts.apple.com/us/podcast/episode-25-micro-frontends-patterns/id1493739285?i=1000742156104>
 -   <https://www.youtube.com/watch?v=-ThsrA8hRLc> AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 -   <https://www.youtube.com/watch?v=tsIZjUAtF1U> Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
 -   <https://www.youtube.com/watch?v=BxE01ZSshiQ> smapiot - Micro Frontends Conference 2023
@@ -1842,6 +1851,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 -   <https://offering.solutions/blog/articles/2021/01/27/starting-angular-projects-with-nx/>
 -   <https://emilyxiong.medium.com/my-nx-project-boilerplate-7e0aa95f848>
 -   <https://ng-journal.com/blog/2023-06-11-fine-grained-architecture-with-nx/>
+-   <https://salvozappa.com/how-nx-pulled-the-rug-on-us.html>
 
 ## ECOSYSTEM: INCREMENTAL
 

@@ -407,6 +407,7 @@
 -   <https://github.com/lovell/sharp>
 -   <https://github.com/thx/resvg-js>
 -   <https://github.com/pmb0/express-sharp>
+-   <https://github.com/kleisauke/wasm-vips>
 -   <https://github.com/frinyvonnick/node-html-to-image>
 
 ## LIBS: DATA OBJECT / DATA TYPE / BUFFER

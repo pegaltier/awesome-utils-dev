@@ -997,6 +997,7 @@
 -   <https://github.com/milomg/reactively>
 -   <https://github.com/jkup/signals-animated>
 -   <https://github.com/stackblitz/alien-signals>
+-   <https://github.com/web-platform-dx/developer-signals>
 
 ## LIB: MAP
 
@@ -1101,6 +1102,7 @@
 -   <https://github.com/Vanilagy/mediabunny>
 -   <https://github.com/zengm-games/facesjs>
 -   <https://github.com/google/model-viewer>
+-   <https://github.com/kleisauke/wasm-vips>
 -   <https://github.com/joye61/pic-smaller>
 -   <https://github.com/aFarkas/lazysizes>
 -   <https://github.com/LuanRT/YouTube.js>

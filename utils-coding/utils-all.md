@@ -43,9 +43,10 @@
 -   <https://www.libhunt.com/l/javascript>
 -   <https://www.libhunt.com/l/typescript>
 
-## LEARN
+## LEARN / TECH WATCH
 
 -   <https://github.com/adambard/learnxinyminutes-docs>
+-   <https://www.camilleroux.com/la-veille-technologique-ma-methode-complete-pour-rester-a-jour/>
 
 ## PODCASTS
 
