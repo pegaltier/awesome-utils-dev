@@ -435,6 +435,7 @@
 ## LIBS: UNIT TESTING
 
 -   <https://github.com/japa>
+-   <https://github.com/mswjs/msw>
 -   <https://github.com/ladjs/supertest>
 -   <https://github.com/humanwhocodes/mentoss>
 -   <https://github.com/privatenumber/fs-fixture>
@@ -528,6 +529,7 @@
 
 -   <https://github.com/avajs/ava>
 -   <https://github.com/nock/nock>
+-   <https://github.com/mswjs/msw>
 -   <https://github.com/4lejandrito/fetchbook>
 -   <https://github.com/bahmutov/start-server-and-test>
 

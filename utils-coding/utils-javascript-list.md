@@ -434,6 +434,7 @@
 -   <https://github.com/epicweb-dev/totp>
 -   <https://github.com/garronej/oidc-spa>
 -   <https://github.com/charlietango/owky>
+-   <https://github.com/voidauth/voidauth>
 -   <https://github.com/openauthjs/openauth>
 -   <https://github.com/better-auth/better-auth>
 -   <https://github.com/mylofi/webauthn-local-client>
@@ -1086,6 +1087,7 @@
 
 -   <https://github.com/zachleat/import-module-string>
 -   <https://github.com/francoischalifour/medium-zoom>
+-   <https://github.com/sankeer28/Add-Text-to-Images>
 -   <https://github.com/maximux13/waveform-renderer>
 -   <https://github.com/openseadragon/openseadragon>
 -   <https://github.com/steveruizok/perfect-arrows>

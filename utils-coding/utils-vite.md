@@ -9,6 +9,7 @@
 ## LIBS
 -   <https://github.com/tinylibs/tinyspy>
 -   <https://github.com/vitest-dev/vscode>
+-   <https://github.com/vitest-tests/browser-examples>
 
 ## FROM JEST
 

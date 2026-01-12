@@ -1284,6 +1284,7 @@
 -   <https://github.com/maxgfr/benford-law>
 -   <https://github.com/debut-js/Strategies>
 -   <https://github.com/tvjsx/tvjs-overlays>
+-   <https://github.com/komodough/PredictOS>
 -   <https://github.com/junduck/trading-core>
 -   <https://github.com/daniellok/day-trader>
 -   <https://github.com/DannyPreye/fx-ninja/>
@@ -1305,6 +1306,7 @@
 -   <https://github.com/gadicc/node-yahoo-finance2> \*
 -   <https://github.com/ViewBlock/binance-api-node>
 -   <https://github.com/imxeno/tradingview-scraper>
+-   <https://github.com/HaiderMalikk/Reddish-Trends>
 -   <https://github.com/vitalets/tinkoff-invest-api>
 -   <https://github.com/focus1691/indicator-library> \* 
 -   <https://github.com/Mathieu2301/TradingView-API>

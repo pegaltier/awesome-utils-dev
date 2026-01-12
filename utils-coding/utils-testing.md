@@ -135,6 +135,7 @@
 
 ## UTILS: MOCK
 
+-   <https://github.com/mswjs/msw>
 -   <https://github.com/microcks/microcks>
 
 ## UTILS: ALL

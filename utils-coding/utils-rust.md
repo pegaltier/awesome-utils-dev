@@ -138,6 +138,7 @@
 -   <https://github.com/iced-rs/iced>
 -   <https://github.com/otake84/dlhn>
 -   <https://github.com/apache/iggy>
+-   <https://github.com/vi/websocat>
 -   <https://github.com/actix/actix>
 -   <https://github.com/0x20F/paris>
 -   <https://github.com/rhaiscript>

@@ -304,10 +304,11 @@
 
 ## DEBUG
 
-<https://css-tricks.com/debugging-tips-tricks>  
-<https://www.youtube.com/watch?v=xkzDaKwinA8> 14 Must Know Chrome Dev Tools Tricks (chrome debug tools )  
-<https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn>  
-<https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db>
+-   <https://github.com/captainbrosset/devtools-tips>
+-   <https://css-tricks.com/debugging-tips-tricks>  
+-   <https://www.youtube.com/watch?v=xkzDaKwinA8> 14 Must Know Chrome Dev Tools Tricks (chrome debug tools )  
+-   <https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.o1mbuv4hn>  
+-   <https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db>
 
 ## NPM
 
