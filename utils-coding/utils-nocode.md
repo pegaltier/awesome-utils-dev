@@ -90,6 +90,7 @@ low-code tooling to prototype fastly.
 -   <https://github.com/BuilderIO/qwik>
 -   <https://github.com/mnfst/manifest>
 -   <https://github.com/refly-ai/refly>
+-   <https://github.com/puckeditor/puck>
 -   <https://github.com/lowdefy/lowdefy>
 -   <https://github.com/flydelabs/flyde>
 -   <https://github.com/ToolJet/ToolJet>
@@ -128,6 +129,7 @@ low-code tooling to prototype fastly.
 
 ## business intelligence
 
+-   <https://github.com/lightdash/lightdash>
 -   <https://github.com/evidence-dev/evidence>
 -   <https://github.com/microsoft/data-formulator>
 -   <https://github.com/evidence-dev/docker-devenv>

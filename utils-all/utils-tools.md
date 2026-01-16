@@ -243,6 +243,7 @@
 
 -   <https://github.com/nukeop/nuclear>
 -   <https://github.com/jeffvli/feishin>
+-   <https://github.com/afkarxyz/SpotiFLAC>
 -   <https://github.com/th-ch/youtube-music>
 -   <https://github.com/mps-youtube/yewtube>
 -   <https://github.com/oTranscribe/oTranscribe>

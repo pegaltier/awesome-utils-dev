@@ -1492,6 +1492,7 @@
 ## LIB: FORM
 
 -   <https://github.com/heyform/heyform>
+-   <https://github.com/formbricks/formbricks>
 -   <https://github.com/fabian-hiller/formisch>
 
 ## ALLIN

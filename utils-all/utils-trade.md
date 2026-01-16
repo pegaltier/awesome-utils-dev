@@ -555,6 +555,7 @@
 -   <https://goodcrypto.app/>
 -   <https://bigbeluga.com/>
 -   <https://tradesage.co/>
+-   <https://ai-edge.io/>
 -   <https://trdr.io/>
 
 ## TOOLS: TRADINGVIEW: STRATEGY
@@ -875,8 +876,9 @@
 -   <https://github.com/bigcapitalhq/bigcapital>
 -   <https://github.com/tigerbeetle/tigerbeetle>
 -   <https://github.com/rodrigo-brito/ninjabot>
--   <https://github.com/punitarani/axiom-app>
 -   <https://github.com/ghostfolio/ghostfolio>
+-   <https://github.com/punitarani/axiom-app>
+-   <https://github.com/adrianhajdin/banking>
 -   <https://github.com/maybe-finance/maybe>
 -   <https://github.com/actualbudget/actual>
 -   <https://github.com/afadil/wealthfolio>
@@ -1353,6 +1355,7 @@
 -   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/virattt/ai-hedge-fund>
+-   <https://github.com/sankeer28/stock-predictor>
 -   <https://github.com/chase-manning/ai-hedge-fund>
 -   <https://github.com/AI4Finance-Foundation/FinRL>
 -   <https://github.com/tensortrade-org/tensortrade>

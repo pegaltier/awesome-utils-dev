@@ -486,6 +486,8 @@
 -   <https://github.com/gptlint/gptlint>
 -   <https://github.com/get-convex/chef>
 -   <https://github.com/pullfrog/action>
+-   <https://github.com/eigent-ai/eigent>
+-   <https://github.com/iOfficeAI/AionUi>
 -   <https://github.com/manaflow-ai/cmux>
 -   <https://github.com/omnara-ai/omnara>
 -   <https://github.com/dnakov/anon-kode>
@@ -560,6 +562,7 @@
 -   <https://github.com/thedotmack/claude-mem>
 -   <https://github.com/AndyMik90/Auto-Claude>
 -   <https://github.com/siteboon/claudecodeui>
+-   <https://github.com/sirmalloc/ccstatusline>
 -   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/Doriandarko/claude-engineer>
@@ -1158,6 +1161,7 @@
 -   <https://github.com/eumemic/ai-legion>
 -   <https://github.com/meta-llama/llama3>
 -   <https://github.com/OpenBMB/MiniCPM-o>
+-   <https://github.com/Agenta-AI/agenta>
 -   <https://github.com/karpathy/LLM101n>
 -   <https://github.com/codelion/optillm>
 -   <https://github.com/jmorganca/ollama>
@@ -1190,6 +1194,7 @@
 ## LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR
 
 -   <https://github.com/comet-ml/opik>
+-   <https://github.com/Agenta-AI/agenta>
 -   <https://github.com/Helicone/helicone>
 -   <https://github.com/traceloop/openllmetry-js>
 
@@ -1207,6 +1212,7 @@
 
 ## LIB: EVALS
 
+-   <https://github.com/Agenta-AI/agenta>
 -   <https://github.com/mattpocock/evalite>
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
@@ -1263,6 +1269,7 @@
 -   <https://github.com/NumesSanguis/FACSvatar>
 -   <https://github.com/hacksider/Deep-Live-Cam>
 -   <https://github.com/ultralytics/ultralytics>
+-   <https://github.com/chatfire-AI/huobao-drama>
 -   <https://github.com/HVision-NKU/StoryDiffusion>
 -   <https://github.com/fudan-generative-vision/hallo>
 -   <https://github.com/jianzhnie/awesome-text-to-video>
@@ -1274,6 +1281,7 @@
 -   <https://github.com/getomni-ai/zerox>
 -   <https://github.com/ocrmypdf/OCRmyPDF>
 -   <https://github.com/vikhyat/moondream>
+-   <https://github.com/kreuzberg-dev/kreuzberg>
 -   <https://github.com/blakeblackshear/frigate>
 
 ## LIB: 3D IMAGE / STABLE DIFFUSION
