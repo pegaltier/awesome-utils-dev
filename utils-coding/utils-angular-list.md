@@ -1755,6 +1755,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://www.angulararchitects.io/konferenzen/the-microfrontend-revolution-module-federation-with-angular/>
 -   <https://dev.to/manfredsteyer/tutorial-getting-started-with-webpack-module-federation-and-angular-2edd?utm_source=dormosheio&utm_campaign=dormosheio>
 -   <https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669>
+-   <https://dev.to/ngrx/announcing-ngrx-21-celebrating-a-10-year-journey-with-a-fresh-new-look-and-ngrxsignalsevents-5ekp>
 -   <https://podcasts.apple.com/us/podcast/episode-25-micro-frontends-patterns/id1493739285?i=1000742156104>
 -   <https://www.youtube.com/watch?v=-ThsrA8hRLc> AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 -   <https://www.youtube.com/watch?v=tsIZjUAtF1U> Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
@@ -2160,9 +2161,10 @@ Learn how to make your own angular lib, build, distribute.
 -   <https://github.com/nimesko/ngx-seo-page>
 -   <https://github.com/eneajaho/ngx-isr>
 -   <https://github.com/eneajaho/new-isr-poc>
--   <https://npm.io/search/keyword:angular+universal>
+-   <https://github.com/angular-architects/ngrx-hateoas>
 -   <https://github.com/netlify/netlify-plugin-angular-universal>
 -   <https://github.com/brandonroberts/angular-to-analog-migration>
+-   <https://npm.io/search/keyword:angular+universal>
 
 ## ECOSYSTEM: LIB: IMMUTABLE
 
@@ -2297,6 +2299,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/compodoc/compodoc>
 -   <https://github.com/filipsobol/sonda>
 -   <https://github.com/ngneat/inspector>
+-   <https://github.com/facebook/memlab>
 -   <https://github.com/swimlane/DocSPA>
 -   <https://github.com/docgeni/docgeni>
 -   <https://github.com/ng-doc/ng-doc>
@@ -2333,6 +2336,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/timdeschryver/ng-signal-forms>
 -   <https://github.com/niklas-wortmann/xstate-angular>
 -   <https://github.com/ngxtension/ngxtension-platform>
+-   <https://github.com/CodeRabbit-GmbH/ngrx-toolkit-openapi-gen>
 -   <https://gist.github.com/vs-borodin/fdf59fc9313e1aaf7447b4d8399b4cd2>
 
 ## ECOSYSTEM: LIB: DOM
@@ -3825,6 +3829,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://web.dev/angular>
 -   <https://netbasal.com/>
 -   <https://houseofangular.io/>
+-   <https://www.angularaddicts.com/>
 -   <https://www.angularnation.net/>
 -   <https://www.bonjour-angular.com>
 -   <https://www.reddit.com/r/Angular2/>
@@ -3954,6 +3959,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ### ANGULAR21
 -   <https://github.com/GaetanRouzies/angular-21-overview>
+-   <https://blog.ninja-squad.com/2026/01/15/what-is-new-angular-21.1>
 
 ### ANGULAR20
 -   <https://github.com/AntonioCardenas/ngviewcontainerref>

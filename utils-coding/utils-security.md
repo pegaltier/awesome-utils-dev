@@ -161,6 +161,7 @@
 -   <https://github.com/intigriti/misconfig-mapper>
 -   <https://github.com/Orange-Cyberdefense/KeePwn>
 -   <https://github.com/th3unkn0n/facebash-termux>
+-   <https://github.com/Mostafa-Wahied/portracker>
 -   <https://github.com/Dheerajmadhukar/4-ZERO-3>
 -   <https://github.com/FuzzingLabs/fuzzforge_ai>
 -   <https://github.com/DontPanicO/jwtXploiter>
@@ -182,6 +183,7 @@
 -   <https://github.com/nextcloud/passman>
 -   <https://github.com/hktalent/scan4all>
 -   <https://github.com/Z4nzu/hackingtool>
+-   <https://github.com/GyulyVGC/sniffnet>
 -   <https://github.com/owasp-amass/amass>
 -   <https://github.com/lmsecure/Setezor>
 -   <https://github.com/infobyte/faraday>

@@ -181,8 +181,11 @@
 -   <https://github.com/isaacs/tshy>
 -   <https://github.com/vercel/turbo>
 -   <https://github.com/farm-fe/farm>
+-   <https://github.com/unjs/unbuild>
 -   <https://github.com/nodejs/amaro>
+-   <https://github.com/unjs/unimport>
 -   <https://github.com/rollup/rollup>
+-   <https://github.com/unjs/unplugin>
 -   <https://github.com/huozhi/bunchee>
 -   <https://github.com/rolldown/tsdown>
 -   <https://github.com/colinhacks/zshy>
@@ -248,7 +251,6 @@
 -   <https://github.com/lirantal/lockfile-lint>
 -   <https://github.com/juliangruber/npm-diff>
 -   <https://github.com/stijnvanhulle/rustraf>
--   <https://github.com/wooorm/npm-esm-vs-cjs>
 -   <https://github.com/bcomnes/npm-run-all2>
 -   <https://github.com/styfle/packagephobia>
 -   <https://github.com/ds300/patch-package>
@@ -257,7 +259,6 @@
 -   <https://github.com/tmcdos/custompatch>
 -   <https://github.com/RetireJS/retire.js>
 -   <https://github.com/megahertz/howfat>
--   <https://github.com/esm-dev/esm.sh>
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/amio/npm-why>
 -   <https://github.com/ranyitz/qnm>
@@ -272,7 +273,6 @@
 -   <https://github.com/typicode/pinst>
 -   <https://github.com/harthur/replace>
 -   <https://github.com/volarjs/volar.js>
--   <https://github.com/bennycode/ts2esm>
 -   <https://github.com/commitizen/cz-cli>
 -   <https://github.com/ast-grep/ast-grep>
 -   <https://github.com/davidmarkclements/0x>
@@ -281,6 +281,9 @@
 -   <https://github.com/sverweij/dependency-cruiser>
 -   <https://github.com/antfu/node-modules-inspector>
 -   <https://github.com/dependents/node-dependency-tree>
+
+## UTILS: SECURITY
+-   <https://github.com/DNSZLSK/muad-dib>
 
 ## UTILS: CLEAN / KILL
 
@@ -726,7 +729,6 @@
 -   <https://github.com/panva/jose>
 -   <https://github.com/h3js/rou3>
 -   <https://github.com/h3js/srvx>
--   <https://github.com/unjs/h3>
 -   <https://github.com/h3js/h3>
 
 ## SERVER: RPC
@@ -749,6 +751,7 @@
 -   <https://github.com/MotiaDev/motia>
 -   <https://github.com/lukeautry/tsoa>
 -   <https://github.com/bluelibs/runner>
+-   <https://github.com/riktaHQ/rikta.js>
 -   <https://github.com/zone-eu/zone-mta>
 -   <https://github.com/sindresorhus/got>
 -   <https://github.com/OptimalBits/bull>
@@ -766,10 +769,6 @@
 -   <https://github.com/deepkit/deepkit-framework>
 -   <https://github.com/ujjwalguptaofficial/fortjs>
 -   <https://github.com/differentialhq/differential>
-
-## BASICS
-
-The ECMAScript modules (ES or ESM modules) have a standard TC39 function that was not existing prior to Node version 14. This feature can only be used starting from Node16 and can be very helpful to charge the JavaScript modules. Unlike CommonJS, ESM provides an asynchronous API for loading modules. one advantage is an improved syntax via the import and export instructions. To use ESM you can declare "type": "module" in your file package.json.
 
 ## NODE UPDATE WINDOWS
 
@@ -815,8 +814,16 @@ Or see for other OS [Utils-cmd](utils-cmd.md)
 
 ## ESM / MODULES
 
+The ECMAScript modules (ES or ESM modules) have a standard TC39 function that was not existing prior to Node version 14. This feature can only be used starting from Node16 and can be very helpful to charge the JavaScript modules. Unlike CommonJS, ESM provides an asynchronous API for loading modules. one advantage is an improved syntax via the import and export instructions. To use ESM you can declare "type": "module" in your file package.json.
+
+
 ### LIB
+-   <https://github.com/unjs/jiti>
+-   <https://github.com/unjs/exsolve>
+-   <https://github.com/esm-dev/esm.sh>
+-   <https://github.com/bennycode/ts2esm>
 -   <https://github.com/standard-things/esm>
+-   <https://github.com/wooorm/npm-esm-vs-cjs>
 -   <https://git.cryto.net/joepie91/fix-esm.git>
 
 ### NOTES

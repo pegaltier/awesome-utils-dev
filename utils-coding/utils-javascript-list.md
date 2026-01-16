@@ -372,6 +372,7 @@
 -   <https://github.com/RIAEvangelist/event-pubsub>
 
 ## LIB: PROMISE
+-   <https://github.com/kettanaito/until-async>
 -   <https://github.com/sindresorhus/promise-fun>
 
 ## LIB: DATABASE
@@ -551,6 +552,7 @@
 -   <https://github.com/snd/url-pattern>
 -   <https://github.com/slevithan/regex>
 -   <https://github.com/cyrilbois/cyrilex>
+-   <https://github.com/unjs/magic-regexp>
 -   <https://github.com/codpro2005/ts-regexp>
 -   <https://github.com/devongovett/regexgen>
 -   <https://github.com/micromatch/picomatch>
@@ -584,6 +586,7 @@
 -   <https://github.com/dai-shi/proxy-memoize>
 -   <https://github.com/epicweb-dev/cachified>
 -   <https://github.com/erikras/lru-memoize>
+-   <https://github.com/unjs/unstorage>
 -   <https://github.com/aduth/memize>
 
 ## LIB: DI / DEPENDENCY INJECTION
@@ -687,6 +690,7 @@
 -   <https://github.com/NeilFraser/JS-Interpreter>
 -   <https://github.com/bramblex/jsjs>
 -   <https://github.com/Siubaak/sval>
+-   <https://github.com/ohmjs/ohm>
 
 ## LIB: MARKUP / MARKDOWN / TEXT
 
@@ -799,7 +803,6 @@
 -   <https://github.com/francoischalifour/medium-zoom>
 -   <https://github.com/davidjbradshaw/iframe-resizer>
 -   <https://github.com/steveruizok/perfect-freehand>
--   <https://github.com/HichemTab-tech/EasyCaptchaJS>
 -   <https://github.com/alias-rahil/handwritten.js>
 -   <https://github.com/alexjlockwood/ShapeShifter>
 -   <https://github.com/colxi/css-global-variables>
@@ -855,6 +858,10 @@
 -   <https://github.com/LeaVerou/style-observer>
 -   <https://github.com/formkit/auto-animate>
 -   <https://github.com/dnnsjsk/glaze>
+
+## LIB: FRONTEND CAPTCHA
+-   <https://github.com/HichemTab-tech/EasyCaptchaJS>
+-   <https://github.com/tiagozip/cap>
 
 ## LIB: FRONTEND QR CODE
 

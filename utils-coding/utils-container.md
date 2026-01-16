@@ -168,6 +168,7 @@ RUN ls
 -   <https://github.com/NilsIrl/dockerc>
 -   <https://github.com/slimtoolkit/slim>
 -   <https://github.com/will-moss/isaiah>
+-   <https://github.com/dockpeek/dockpeek>
 -   <https://github.com/vrnetlab/vrnetlab>
 -   <https://github.com/devcontainers/spec>
 -   <https://github.com/aquasecurity/trivy>

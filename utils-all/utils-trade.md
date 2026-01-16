@@ -869,8 +869,10 @@
 
 ### OSS: ALL
 
+-   <https://github.com/adrianhajdin/signalist_stock-tracker-app>
 -   <https://github.com/derekcheungsa/autogpt-openbb-sdk>
 -   <https://github.com/OpenBB-finance/OpenBBTerminal>
+-   <https://github.com/Open-Dev-Society/OpenStock>
 -   <https://github.com/Igosuki/binance-rs-async>
 -   <https://github.com/Eleven-Trading/TradeNote>
 -   <https://github.com/bigcapitalhq/bigcapital>
@@ -1348,6 +1350,7 @@
 -   <https://github.com/wquguru/nof0>
 -   <https://github.com/microsoft/qlib>
 -   <https://github.com/HKUDS/AI-Trader>
+-   <https://github.com/virattt/dexter>
 -   <https://github.com/Suharaz/MerkleAI>
 -   <https://github.com/whchien/ai-trader>
 -   <https://github.com/junduck/overthink>
@@ -1356,6 +1359,7 @@
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/virattt/ai-hedge-fund>
 -   <https://github.com/sankeer28/stock-predictor>
+-   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/chase-manning/ai-hedge-fund>
 -   <https://github.com/AI4Finance-Foundation/FinRL>
 -   <https://github.com/tensortrade-org/tensortrade>

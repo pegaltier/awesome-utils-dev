@@ -478,6 +478,7 @@
 -   <https://github.com/oraios/serena>
 -   <https://github.com/Ironclad/rivet>
 -   <https://github.com/Aider-AI/aider>
+-   <https://github.com/swark-io/swark>
 -   <https://github.com/HKUDS/DeepCode>
 -   <https://github.com/snarktank/ralph>
 -   <https://github.com/meltylabs/melty>
@@ -827,6 +828,7 @@
 -   <https://github.com/unslothai/hyperlearn>
 
 ## LIB: STRUCTURED OUTPUT
+-   <https://github.com/ruvnet/dspy.ts>
 -   <https://github.com/BoundaryML/baml>
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/567-labs/instructor-js>
@@ -853,6 +855,7 @@
 ## LIB: WORKFLOW / CONTENT CREATION : N8N
 
 -   <https://github.com/Zie619/n8n-workflows>
+-   <https://github.com/gyoridavid/ai_agents_az>
 -   <https://github.com/DragonJAR/n8n-workflows-es>
 -   <https://github.com/n8n-io/self-hosted-ai-starter-kit>
 -   <https://youtu.be/ZKufsoGjr-U> This AI Factory just made a 122 Million-view Tiktok

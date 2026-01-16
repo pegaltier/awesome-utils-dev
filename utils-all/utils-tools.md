@@ -350,6 +350,7 @@
 -   <https://github.com/matrix-org>
 -   <https://github.com/spacebarchat>
 -   <https://github.com/vasanthv/talk>
+-   <https://github.com/Prayag2/drawy>
 -   <https://github.com/tldraw/tldraw>
 -   <https://github.com/mfts/papermark>
 -   <https://github.com/calcom/cal.com>
@@ -421,13 +422,17 @@
 -   <https://github.com/ghostfolio/ghostfolio>
 -   <https://github.com/mayswind/ezbookkeeping>
 
+## TV
+-   <https://github.com/Free-TV/IPTV>
+-   <https://github.com/iptv-org/iptv>
+-   <https://github.com/jvdillon/netv>
+
 ## List
 
 -   <https://untools.co/>
 -   <https://free-for.dev/#/>
 -   <https://alternativeto.net/>
 -   <https://openalternative.co/>
--   <https://github.com/iptv-org/iptv>
 -   <https://github.com/pluja/awesome-privacy>
 -   <https://github.com/ripienaar/free-for-dev>
 -   <https://github.com/neiesc/awesome-minimalist>

@@ -41,7 +41,9 @@
 -   <https://github.com/tldr-pages/tldr>
 -   <https://github.com/ohmyzsh/ohmyzsh>
 -   <https://github.com/natemoo-re/clack>
+-   <https://github.com/bensadeh/tailspin>
 -   <https://github.com/starship/starship>
+-   <https://github.com/Abdenasser/neohtop>
 -   <https://github.com/zellij-org/zellij>
 -   <https://github.com/ajeetdsouza/zoxide>
 -   <https://github.com/idank/explainshell>

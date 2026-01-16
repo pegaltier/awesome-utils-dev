@@ -140,6 +140,10 @@ low-code tooling to prototype fastly.
 -   <https://github.com/teableio/teable>
 -   <https://github.com/apitable/apitable>
 
+## primitive
+
+-   <https://github.com/enspirit/elo>
+
 ## dataviz
 
 -   <https://github.com/gridstack/gridstack.js>

@@ -133,6 +133,7 @@
 -   <https://github.com/APIDevTools/json-schema-ref-parser>
 -   <https://github.com/OpenAPITools/openapi-generator-cli>
 -   <https://github.com/platformatic/openapi-schema-validator>
+-   <https://github.com/CodeRabbit-GmbH/ngrx-toolkit-openapi-gen>
 -   <https://github.com/apisyouwonthate/openapi.tools>
 -   <https://openapi-generator.tech/docs/generators>
 -   <https://github.com/asteasolutions/zod-to-openapi>

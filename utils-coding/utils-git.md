@@ -33,6 +33,7 @@
 
 -   <https://githooks.com/>
 -   <https://actionsbook.com/>
+-   <https://hellogithub.com/en>
 -   <http://learngitbranching.js.org>
 -   <https://trunkbaseddevelopment.com>
 -   <https://maggieappleton.com/git-mistakes>
