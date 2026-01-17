@@ -214,6 +214,7 @@
 -   <https://www.kissmyfrogs.com/stephane-mallard-blu-age/>
 -   <https://metatrendreport.com/humanoid-robots-v>
 -   <https://github.com/brexhq/prompt-engineering>
+-   <https://every.to/guides/agent-native>
 
 ## COURSES
 

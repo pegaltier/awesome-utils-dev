@@ -1275,6 +1275,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://medium.com/@kobihari/connecting-signal-forms-to-a-signal-store-39dabd69b888>
 
 ## CORE: SIGNALS FORM
+-   <https://youtu.be/aT73WV1-HIw> Build and Validate Repeating Fields
 -   <https://anglebrackets-dev.medium.com/signal-forms-4c4c647d1e6a>
 -   <https://angular.love/signal-forms-in-angular-21-complete-guide>
 -   <https://blog.ninja-squad.com/2025/11/04/angular-signal-forms-part-1>
@@ -3959,11 +3960,13 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf>
 
 ### ANGULAR21
+-   <https://youtu.be/u0v1UYTeSME> 2025 Year reviez
 -   <https://github.com/GaetanRouzies/angular-21-overview>
 -   <https://blog.ninja-squad.com/2026/01/15/what-is-new-angular-21.1>
 
 ### ANGULAR20
 -   <https://github.com/AntonioCardenas/ngviewcontainerref>
+-   <https://youtu.be/cM8nhRY2Jzk> Angular 20.1: New Signal Graph in DevTools
 
 ### ANGULAR19
 
