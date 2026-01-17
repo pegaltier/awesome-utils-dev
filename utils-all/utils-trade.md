@@ -24,6 +24,8 @@
 
 -   [LIST: OSS](#list-oss)
 
+-   [TOOLS: PLATFORM](#tools-platform)
+
 -   [TOOLS: BACKTESTING](#tools-backtesting)
 
 -   [TOOLS: ONLINE](#tools-online)
@@ -66,6 +68,8 @@
 
 -   [TOOLS: TRADINGVIEW: AUTOMATE](#tools-tradingview-automate)
 
+-   [VIDEOS: INTERVIEW](#videos-interview)
+
 -   [VIDEOS: ALL](#videos-all)
 
 -   [VIDEOS: AI / ARTIFICIAL INTELLIGENCE](#videos-ai--artificial-intelligence)
@@ -98,11 +102,15 @@
 
     -   [OSS: JAVASCRIPT: GENETIC](#oss-javascript-genetic)
     -   [OSS: JAVASCRIPT: MATH](#oss-javascript-math)
+    -   [OSS: JAVASCRIPT: FOREX](#oss-javascript-forex)
     -   [OSS: JAVASCRIPT: STOCKS](#oss-javascript-stocks)
+    -   [OSS: JAVASCRIPT: QUOTES](#oss-javascript-quotes)
     -   [OSS: JAVASCRIPT: INDICATORS](#oss-javascript-indicators)
     -   [OSS: JAVASCRIPT: BACKTEST & TRADES](#oss-javascript-backtest--trades)
+    -   [OSS: JAVASCRIPT: TRADES ONLY](#oss-javascript-trades-only)
     -   [OSS: JAVASCRIPT: CHART](#oss-javascript-chart)
     -   [OSS: JAVASCRIPT: CANDLES](#oss-javascript-candles)
+    -   [OSS: JAVASCRIPT: PINESCRIPT](#oss-javascript-pinescript)
     -   [OSS: JAVASCRIPT: ALL](#oss-javascript-all)
 
 -   [OSS: AI / ARTIFICIAL INTELLIGENCE](#oss-ai--artificial-intelligence)
@@ -1148,6 +1156,7 @@
 -   <https://github.com/jovinjijo/se>
 
 ### OSS: JAVASCRIPT: QUOTES
+
 -   <https://github.com/endenwer/tradingview-ws>
 
 ### OSS: JAVASCRIPT: INDICATORS
@@ -1218,6 +1227,7 @@
 -   <https://eodhistoricaldata.com/financial-academy/backtesting-strategies-examples/backtesting-trading-strategies-with-javascript/>
 
 ### OSS: JAVASCRIPT: TRADES ONLY
+
 -   <https://github.com/marketcalls/openalgo-node>
 
 ### OSS: JAVASCRIPT: CHART
@@ -1255,8 +1265,8 @@
 -   <https://github.com/cm45t3r/candlestick>
 -   <https://github.com/Flippo24/candles> \*
 
-
 ### OSS: JAVASCRIPT: PINESCRIPT
+
 -   <https://github.com/Opus-Aether-AI/pine-transpiler>
 -   <https://github.com/marketcalls/openalgo-pinets>
 -   <https://github.com/QuantForgeOrg/PineTS>

@@ -15,6 +15,7 @@ low-code tooling to prototype fastly.
 -   [lowcode](#lowcode)
 -   [business intelligence](#business-intelligence)
 -   [database](#database)
+-   [primitive](#primitive)
 -   [dataviz](#dataviz)
 -   [chatbot](#chatbot)
 -   [articles](#articles)

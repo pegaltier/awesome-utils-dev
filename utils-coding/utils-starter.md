@@ -7,7 +7,7 @@
 -   [Fullstack](#fullstack)
 -   [Ecommerce](#ecommerce)
 -   [Social network](#social-network)
--   [ERP / CRM](#erp--crm)
+-   [ERP / CRM / HR](#erp--crm--hr)
 -   [BI / Business intelligence](#bi--business-intelligence)
 -   [Images](#images)
 -   [Forms](#forms)

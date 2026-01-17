@@ -3,111 +3,238 @@
 ## TABLE OF CONTENTS
 
 -   [GUIDE-WEB](#guide-web)
+
 -   [GUIDE-OPEN](#guide-open)
+
 -   [FOUNDATION](#foundation)
+
 -   [PEOPLE](#people)
--   [BOOKS](#books)
+
+-   [TEAM](#team)
+
+-   [BOOKS / PODCAST](#books--podcast)
+
 -   [CHEAT-SHEETS](#cheat-sheets)
+
 -   [AWESOME](#awesome)
+
 -   [ARTICLES BEST PRACTICES](#articles-best-practices)
+
 -   [ARTICLES BEST PRACTICES: TREE](#articles-best-practices-tree)
+
 -   [BENCHMARKS](#benchmarks)
+
 -   [PROMISE THEN VS AWAIT VS CHAINABLE](#promise-then-vs-await-vs-chainable)
+
 -   [EXAMPLE / STARTER](#example--starter)
+
 -   [TOOLS: OTHERS](#tools-others)
+
 -   [TOOLS: BUILD](#tools-build)
+
 -   [FRAMEWORK: FRONTEND](#framework-frontend)
+
 -   [FRAMEWORK: BACKEND](#framework-backend)
+
 -   [LIB: LIST](#lib-list)
+
 -   [LIB: MULTIPLE](#lib-multiple)
+
 -   [LIB: POLYFILL](#lib-polyfill)
+
 -   [LIB: DEVTOOLS](#lib-devtools)
+
 -   [LIB: FUNCTIONNAL PROGRAMMING](#lib-functionnal-programming)
+
 -   [LIB: EVENT / BUS / PUBSUB](#lib-event--bus--pubsub)
+
+-   [LIB: PROMISE](#lib-promise)
+
 -   [LIB: DATABASE](#lib-database)
+
 -   [LIB: HTTP REQUEST / WEBSOCKET](#lib-http-request--websocket)
+
 -   [LIB: HTTP OTHERS](#lib-http-others)
+
 -   [LIB: HTTP PROXY](#lib-http-proxy)
+
 -   [LIB: BACKEND](#lib-backend)
+
 -   [LIB: JAMSTACK](#lib-jamstack)
+
 -   [LIB: AUTH / OIDC / 2FA](#lib-auth--oidc--2fa)
+
+-   [LIB: STATE MACHINE](#lib-state-machine)
+
 -   [LIB: UTILS](#lib-utils)
+
 -   [LIB: DESIGN PATTERN](#lib-design-pattern)
+
 -   [LIB: PIPELINE](#lib-pipeline)
+
 -   [LIB: POLYFILL](#lib-polyfill-1)
+
 -   [LIB: REGEX / MATCHER / GLOB](#lib-regex--matcher--glob)
+
 -   [LIB: WEBASSEMBLY](#lib-webassembly)
+
 -   [LIB: VALIDATION](#lib-validation)
+
 -   [LIB: CACHING / MEMORY](#lib-caching--memory)
+
 -   [LIB: DI / DEPENDENCY INJECTION](#lib-di--dependency-injection)
+
 -   [LIB: LOCALE](#lib-locale)
+
 -   [LIB: DATE / TIME](#lib-date--time)
+
 -   [LIB: URL](#lib-url)
+
 -   [LIB: ASYNC](#lib-async)
+
 -   [LIB: PASSWORD](#lib-password)
+
 -   [LIB: PAYMENT](#lib-payment)
+
 -   [LIB: SERIALIZATION / TRANSFER](#lib-serialization--transfer)
+
 -   [LIB: PARSER SCRAPER HTML/XML/JSON/DOM/CSV](#lib-parser-scraper-htmlxmljsondomcsv)
+
+-   [LIB: PARSER JAVASCRIPT INTERPRETER](#lib-parser-javascript-interpreter)
+
 -   [LIB: MARKUP / MARKDOWN / TEXT](#lib-markup--markdown--text)
+
 -   [LIB: SWIPER](#lib-swiper)
+
 -   [LIB: ESBUILD](#lib-esbuild)
+
 -   [LIB: SHELL CLI PROMPT](#lib-shell-cli-prompt)
+
+-   [LIB: BROWSER TERMINAL](#lib-browser-terminal)
+
 -   [LIB: IP](#lib-ip)
+
 -   [LIB: SEARCH](#lib-search)
+
 -   [LIB: UI](#lib-ui)
+
 -   [LIB: FUNCTIONNAL PROGRAMMING / FP](#lib-functionnal-programming--fp)
+
 -   [LIB: REACTIVE](#lib-reactive)
+
+-   [LIB: RESPONSIVE](#lib-responsive)
+
 -   [LIB: HARDWARE](#lib-hardware)
+
 -   [LIB: FRONTEND ALL](#lib-frontend-all)
+
 -   [LIB: FRONTEND ANIMATION](#lib-frontend-animation)
+
+-   [LIB: FRONTEND CAPTCHA](#lib-frontend-captcha)
+
+-   [LIB: FRONTEND QR CODE](#lib-frontend-qr-code)
+
 -   [LIB: FRONTEND TEXT EDITOR / WYSIWYG](#lib-frontend-text-editor--wysiwyg)
+
 -   [LIB: FRONTEND DRAG AND DROP / DND](#lib-frontend-drag-and-drop--dnd)
+
 -   [LIB: FRONTEND CAROUSEL / SLIDER / SCROLL](#lib-frontend-carousel--slider--scroll)
+
 -   [LIB: FRONTEND LAYOUT](#lib-frontend-layout)
+
 -   [LIB: FRONTEND DESIGN](#lib-frontend-design)
+
 -   [LIB: FRONTEND TREE VIEW](#lib-frontend-tree-view)
+
 -   [LIB: FRONTEND DATA TABLE](#lib-frontend-data-table)
+
 -   [LIB: FRONTEND UI TABLE / SPREADSHEET](#lib-frontend-ui-table--spreadsheet)
+
 -   [LIB: FRONTEND ANIMATION](#lib-frontend-animation-1)
+
 -   [LIB: FRONTEND COLOR](#lib-frontend-color)
+
 -   [LIB: FRONTEND GESTURE](#lib-frontend-gesture)
+
 -   [LIB: FRONTEND SCHEMAS](#lib-frontend-schemas)
+
 -   [LIB: FRONTEND SIGNALS](#lib-frontend-signals)
+
 -   [LIB: MAP](#lib-map)
+
 -   [LIB: TIMESERIES](#lib-timeseries)
+
 -   [LIB: DATAVIZ / CHART / DATA VIZ / GRAPH](#lib-dataviz--chart--data-viz--graph)
+
 -   [LIB: DATAVIZ / HEATMAP](#lib-dataviz--heatmap)
+
 -   [LIB: WORKFLOW / PIPES / FLOWCHART / MIDDLEWARE](#lib-workflow--pipes--flowchart--middleware)
+
 -   [LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS](#lib-medias--files--image--audio--videos)
+
 -   [LIB: 2D/3D/VR](#lib-2d3dvr)
+
 -   [LIB: WEBHOOK](#lib-webhook)
+
 -   [LIB: MATH / CALCUL / NUMBER](#lib-math--calcul--number)
+
 -   [LIB: MATH / CLUSTER](#lib-math--cluster)
+
 -   [LIB: GENETIC ALGO](#lib-genetic-algo)
+
 -   [LIB: AI: AGENT](#lib-ai-agent)
+
+-   [LIB: AI WEB / NLP EDGE](#lib-ai-web--nlp-edge)
+
 -   [LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK](#lib-ai--training--prediction--machine-learning--neural-network)
+
 -   [LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED](#lib-ai--artificial-intelligence--all-unclassified)
+
 -   [LIB: OBJECT EXTENSION / DECORATORS / REFLECTION](#lib-object-extension--decorators--reflection)
+
 -   [LIB: DATA TRANSFORMATION](#lib-data-transformation)
+
 -   [LIB: DATA OBJECT](#lib-data-object)
+
 -   [LIB: DATA OBJECT DIFF](#lib-data-object-diff)
+
 -   [LIB: SIGNING / ENCRYPTION / HASH / SHA](#lib-signing--encryption--hash--sha)
+
 -   [LIB: IMMUTABLE OBJECT](#lib-immutable-object)
+
 -   [LIB: DATA ENCODING](#lib-data-encoding)
+
+    -   [LIB: HYPERPARAMETRIZATION / OPTIMIZATION](#lib-hyperparametrization--optimization)
+
 -   [LIB: ID / UID / ULID](#lib-id--uid--ulid)
+
 -   [LIB: PDF / DOC](#lib-pdf--doc)
+
 -   [LIB: AUTOMATION](#lib-automation)
+
 -   [LIB: TESTING](#lib-testing)
+
 -   [LIB: SECURITY](#lib-security)
+
 -   [LIB: REALTIME](#lib-realtime)
+
 -   [LIB: MUSIC](#lib-music)
+
 -   [LIB: GAME](#lib-game)
+
 -   [LIB: FORM](#lib-form)
+
 -   [ALLIN](#allin)
+
 -   [CANVAS](#canvas)
+
 -   [CANVAS / EXAMPLE](#canvas--example)
+
 -   [PODCASTS](#podcasts)
+
 -   [API / SOCIAL NETWORK](#api--social-network)
+
+-   [RUNTIME](#runtime)
 
 ## GUIDE-WEB
 
@@ -198,8 +325,8 @@
 -   <https://github.com/drudge>
 -   <https://github.com/Nsttt>
 
-
 ## TEAM
+
 -   <https://github.com/tinylibs>
 -   <https://github.com/frappe>
 
@@ -373,6 +500,7 @@
 -   <https://github.com/RIAEvangelist/event-pubsub>
 
 ## LIB: PROMISE
+
 -   <https://github.com/kettanaito/until-async>
 -   <https://github.com/sindresorhus/promise-fun>
 
@@ -727,6 +855,7 @@
 -   <https://github.com/poppinss/cliui>
 
 ## LIB: BROWSER TERMINAL
+
 -   <https://github.com/butlerx/wetty>
 
 ## LIB: IP
@@ -789,6 +918,7 @@
 -   <https://github.com/electric-sql/d2ts>
 
 ## LIB: RESPONSIVE
+
 -   <https://github.com/csswizardry/Obs.js>
 
 ## LIB: HARDWARE
@@ -861,6 +991,7 @@
 -   <https://github.com/dnnsjsk/glaze>
 
 ## LIB: FRONTEND CAPTCHA
+
 -   <https://github.com/HichemTab-tech/EasyCaptchaJS>
 -   <https://github.com/tiagozip/cap>
 
@@ -1241,6 +1372,7 @@
 -   <https://github.com/ephemeraHQ/xmtp-agent-examples>
 
 ## LIB: AI WEB / NLP EDGE
+
 -   <https://github.com/brainjs>
 -   <https://github.com/ekzhang/jax-js>
 -   <https://github.com/tensorflow/tfjs>
@@ -1400,6 +1532,7 @@
 -   <https://github.com/GoogleChromeLabs/buffer-backed-object>
 
 ### LIB: HYPERPARAMETRIZATION / OPTIMIZATION
+
 -   <https://github.com/Afitzy98/bayesian-optimizer>
 -   <https://github.com/optimization-js/optimization-js>
 
@@ -1541,6 +1674,7 @@
 -   <https://github.com/EvolutionAPI/evolution-api>
 
 ## RUNTIME
+
 -   <https://github.com/dexter-xD/jade>
 -   <https://github.com/napi-rs/napi-rs>
 -   <https://github.com/stars/mishushakov/lists/js-runtimes>

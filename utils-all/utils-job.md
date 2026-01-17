@@ -7,8 +7,10 @@ Agent pour développeurs haut-niveau
 ## TABLE OF CONTENTS
 
 -   [OSS: JOBS](#oss-jobs)
+-   [PHD](#phd)
 -   [REMOTE: JOBS SITES](#remote-jobs-sites)
 -   [REMOTE: JOBS FAMOUS](#remote-jobs-famous)
+-   [JOBS: PLATFORM](#jobs-platform)
 -   [JOBS: ALL](#jobs-all)
 
 ## OSS: JOBS
@@ -27,6 +29,7 @@ Agent pour développeurs haut-niveau
 -   <https://github.com/EuropeanRemote/european-remote-software-companies>
 
 ## PHD
+
 -   <https://www.findaphd.com/>
 
 ## REMOTE: JOBS SITES
@@ -67,6 +70,7 @@ Agent pour développeurs haut-niveau
 -   TapChief
 
 ## JOBS: PLATFORM
+
 -   <http://ashbyhq.com/>
 
 ## JOBS: ALL

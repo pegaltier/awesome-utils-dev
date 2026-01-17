@@ -4,7 +4,9 @@
 
 -   [EMULATOR](#emulator)
 -   [LIB: GAME](#lib-game)
+-   [LIB: CLOUD](#lib-cloud)
 -   [LIB: ALL](#lib-all)
+-   [LIB: VISU](#lib-visu)
 -   [LIB: AI](#lib-ai)
 -   [EXAMPLE](#example)
 
@@ -18,6 +20,7 @@
 -   <https://github.com/SFTtech/openage>
 
 ## LIB: CLOUD
+
 -   <https://github.com/PierreBeucher/cloudypad>
 
 ## LIB: ALL
@@ -30,6 +33,7 @@
 -   <https://github.com/rivet-gg/rivet>
 
 ## LIB: VISU
+
 -   <https://github.com/IAmTomShaw/f1-race-replay>
 
 ## LIB: AI

@@ -14,7 +14,11 @@
 
 -   [DASHBOARD](#dashboard)
 
+-   [MEDIACENTER](#mediacenter)
+
 -   [WORFLOW](#worflow)
+
+-   [IAC](#iac)
 
 -   [TOOLS](#tools)
 
@@ -44,7 +48,7 @@
 
 -   [CLOUDFARE](#cloudfare)
 
--   [AWS](#aws)
+-   [AWS / CLOUD ALTERNATIVE](#aws--cloud-alternative)
 
 -   [JENKINS](#jenkins)
 
@@ -132,6 +136,7 @@
 -   <https://github.com/gethomepage/homepage>
 
 ## MEDIACENTER
+
 -   <https://github.com/seerr-team/seerr>
 -   <https://github.com/jellyfin/jellyfin>
 -   <https://github.com/awesome-jellyfin/awesome-jellyfin>
@@ -145,6 +150,7 @@
 -   <https://github.com/tryretool/retool-onpremise>
 
 ## IAC
+
 -   <https://github.com/alchemy-run/alchemy>
 
 ## TOOLS

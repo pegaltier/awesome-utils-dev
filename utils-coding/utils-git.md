@@ -3,6 +3,7 @@
 ## TABLE OF CONTENTS
 
 -   [TUTORIAL](#tutorial)
+-   [EXPLORE](#explore)
 -   [TOOLS](#tools)
 -   [OSS](#oss)
 -   [GITLAB](#gitlab)
@@ -49,6 +50,7 @@
 -   <https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/>
 
 ## EXPLORE
+
 -   <https://hellogithub.com/en>
 -   <https://github.com/K-dash/contrib-fyi>
 -   <https://github.com/reposense/RepoSense>

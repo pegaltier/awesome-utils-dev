@@ -2,6 +2,7 @@
 
 ## TABLE OF CONTENTS
 
+-   [LIST](#list)
 -   [NEWS](#news)
 -   [TOOLS](#tools)
 -   [COURSES](#courses)
@@ -18,6 +19,7 @@
 -   [HELPER](#helper)
 
 ## LIST
+
 -   <https://github.com/e-tornike/best-of-ml-rust>
 
 ## NEWS

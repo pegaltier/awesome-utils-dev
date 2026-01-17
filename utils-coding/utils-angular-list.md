@@ -48,6 +48,8 @@
 
 -   [CORE: DIRECTIVES / DIRECTIVE COMPOSITION](#core-directives--directive-composition)
 
+-   [CORE: COMPILER](#core-compiler)
+
 -   [CORE: COMPONENTS](#core-components)
 
 -   [CORE: ARCHITECTURE](#core-architecture)
@@ -97,6 +99,10 @@
 -   [CORE: RESOURCES](#core-resources)
 
 -   [CORE: SIGNALS](#core-signals)
+
+-   [CORE: SIGNALS FORM](#core-signals-form)
+
+-   [CORE: SIGNALS OSS](#core-signals-oss)
 
 -   [CORE: ERROR HANDLER](#core-error-handler)
 
@@ -336,6 +342,8 @@
 
 -   [EVOLUTION](#evolution)
 
+    -   [ANGULAR21](#angular21)
+    -   [ANGULAR20](#angular20)
     -   [ANGULAR19](#angular19)
     -   [ANGULAR18](#angular18)
     -   [ANGULAR17](#angular17)
@@ -1275,6 +1283,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://medium.com/@kobihari/connecting-signal-forms-to-a-signal-store-39dabd69b888>
 
 ## CORE: SIGNALS FORM
+
 -   <https://youtu.be/aT73WV1-HIw> Build and Validate Repeating Fields
 -   <https://anglebrackets-dev.medium.com/signal-forms-4c4c647d1e6a>
 -   <https://angular.love/signal-forms-in-angular-21-complete-guide>
@@ -1284,6 +1293,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://blog.stackademic.com/signal-forms-with-resource-api-is-magic-cf4c0d249902>
 
 ## CORE: SIGNALS OSS
+
 -   <https://github.com/jorgeucano/ngx-angular-migration-signal-helper>
 -   <https://github.com/SanderElias/Samples/tree/main/Angular-Signals>
 -   <https://github.com/crutchcorn/ng-linked-signal-and-resource-demo>
@@ -3771,45 +3781,81 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## ECOSYSTEM: VSCODE OTHERS
 
 -   <https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>
+
 -   <https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest>
+
 -   <https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode>
+
 -   <https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet>
+
 -   <https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode>
+
 -   <https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster>
+
 -   <https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter>
+
 -   <https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser>
+
 -   <https://marketplace.visualstudio.com/items?itemName=EdgardMessias.clipboard-manager>
+
 -   <https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules>
+
 -   <https://marketplace.visualstudio.com/items?itemName=vivek9patel.vscode-css-compatibility>
+
 -   <https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client>
+
 -   <https://marketplace.visualstudio.com/items?itemName=steoates.autoimport>
+
 -   <https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra>
+
 -   <https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher>
+
 -   <https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode>
+
 -   <https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets>
+
 -   <https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2>
+
 -   <https://marketplace.visualstudio.com/items?itemName=antfu.smart-clicks>
+
 -   <https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools>
+
 -   <https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter>
+
 -   <https://marketplace.visualstudio.com/items?itemName=justjavac.teletype>
+
 -   <https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer>
+
 -   <https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager>
+
 -   <https://marketplace.visualstudio.com/items?itemName=folke.vscode-monorepo-workspace>
+
 -   <https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree>
+
 -   <https://www.howtogeek.com/vs-code-extensions-i-cant-live-without/>
+
 -   <http://brianflove.com/2017/04/11/angular-language-service/>
 
     ## ECOSYSTEM: VSCODE: SOURCE
 
 -   <https://github.com/Gruntfuggly/todo-tree>
+
 -   <https://github.com/angular/vscode-ng-language-service>
+
 -   <https://github.com/Mohamed-Karkotly/angular-file-switcher>
+
 -   <https://github.com/edgardmessias/vscode.clipboard-manager>
+
 -   <https://github.com/Microsoft/TypeScript-Sublime-Plugin> Sublimetext
+
 -   <https://github.com/nwinkler/atom-keyboard-shortcuts> ATOM shortcut
+
 -   <https://github.com/johnpapa/vscode-angular2-snippets>
+
 -   <https://github.com/antfu/vscode-file-nesting-config>
+
 -   <https://github.com/evanplaice/angular2-snippets>
+
 -   <https://github.com/yoavbls/pretty-ts-errors>
 
 ## ECOSYSTEM: AWESOME
@@ -3960,11 +4006,13 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf>
 
 ### ANGULAR21
+
 -   <https://youtu.be/u0v1UYTeSME> 2025 Year reviez
 -   <https://github.com/GaetanRouzies/angular-21-overview>
 -   <https://blog.ninja-squad.com/2026/01/15/what-is-new-angular-21.1>
 
 ### ANGULAR20
+
 -   <https://github.com/AntonioCardenas/ngviewcontainerref>
 -   <https://youtu.be/cM8nhRY2Jzk> Angular 20.1: New Signal Graph in DevTools
 

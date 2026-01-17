@@ -3,7 +3,9 @@
 ## TABLE OF CONTENTS
 
 -   [VPS](#vps)
+-   [ARTICLES](#articles)
 -   [LIBS](#libs)
+-   [DISTRI](#distri)
 
 ## VPS
 
@@ -17,6 +19,7 @@
     rsync --archive --chown=myuser:myuser ~/.ssh /home/myuser
 
 ## ARTICLES
+
 -   <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
 
 ## LIBS
@@ -24,4 +27,5 @@
 -   <https://github.com/monasticacademy/httptap>
 
 ## DISTRI
+
 -   <https://github.com/basecamp/omakub>

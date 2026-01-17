@@ -4,7 +4,7 @@
 
 -   [ONLINE](#online)
 -   [ALL LIBS](#all-libs)
--   [LEARN](#learn)
+-   [LEARN / TECH WATCH](#learn--tech-watch)
 -   [PODCASTS](#podcasts)
 -   [AWESOME LIST OSS](#awesome-list-oss)
 -   [AWESOME LIST WWW](#awesome-list-www)

@@ -10,6 +10,7 @@
 -   [DB TIMESERIES](#db-timeseries)
 -   [DB UTILS](#db-utils)
 -   [NOSQL / MONGO](#nosql--mongo)
+-   [SQLITE](#sqlite)
 
 ## DBAS
 

@@ -61,7 +61,6 @@
 -   [STRATEGY: WEBSITES / ARTICLES](#strategy-websites--articles)
 -   [STRATEGY: LIST](#strategy-list)
 -   [STRATEGY: HIGH FREQUENCY TRADING / HFT](#strategy-high-frequency-trading--hft)
--   [STRATEGY: YOUTUBE CHANNEL: INTERVIEW](#strategy-youtube-channel-interview)
 -   [STRATEGY: YOUTUBE CHANNEL: CODING](#strategy-youtube-channel-coding)
 -   [STRATEGY: YOUTUBE CHANNEL: CODING 2](#strategy-youtube-channel-coding-2)
 -   [STRATEGY YOUTUBE: REFS](#strategy-youtube-refs)

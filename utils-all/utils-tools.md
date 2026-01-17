@@ -6,8 +6,8 @@
     -   [OSS: ALL](#oss-all)
     -   [OSS: MESSAGING BOT](#oss-messaging-bot)
     -   [OSS: SOCIAL NETWORK](#oss-social-network)
-    -   [OSS: LEARN](#oss-learn)
-    -   [OSS: FILES / CONVERT](#oss-files--convert)
+    -   [OSS: LEARN / LANGUAGE / ENGLISH](#oss-learn--language--english)
+    -   [OSS: FILES / CONVERT / SHARE](#oss-files--convert--share)
     -   [OSS: FINANCE](#oss-finance)
     -   [OSS: INVOICE](#oss-invoice)
     -   [OSS: EMAIL](#oss-email)
@@ -25,15 +25,27 @@
 -   [OSS: PHOTO / IMAGE / ILLUSTRATION](#oss-photo--image--illustration)
 
     -   [OSS: AUDIO](#oss-audio)
+
     -   [OSS: VIDEO](#oss-video)
+
     -   [OSS: MEDIAS / BOOK / PDF / DOCS](#oss-medias--book--pdf--docs)
+
     -   [OSS: SPREADSHEET](#oss-spreadsheet)
+
     -   [OSS: PASSWORD](#oss-password)
+
     -   [OSS: WEB](#oss-web)
+
     -   [OSS: PROXY](#oss-proxy)
+
     -   [OSS: COMPANY / STARTUP](#oss-company--startup)
+
     -   [OSS: DEV](#oss-dev)
+
+        -   [OSS: RESEARCH](#oss-research)
+
     -   [OSS: PRODUCTIVITY](#oss-productivity)
+
     -   [OSS: COLLABORATE](#oss-collaborate)
 
 -   [OSS: WEB](#oss-web-1)
@@ -43,8 +55,9 @@
     -   [Social network](#social-network)
     -   [Customer](#customer)
     -   [Finance](#finance)
+    -   [TV](#tv)
     -   [List](#list)
-    -   [Organise / text notes / memory](#organise--text-notes--memory)
+    -   [Organise / learn / text notes / memory](#organise--learn--text-notes--memory)
     -   [Automate / automation](#automate--automation)
     -   [New](#new)
     -   [Proxy / scraping](#proxy--scraping)
@@ -338,6 +351,7 @@
 -   <https://www.mendable.ai/>
 
 ### OSS: RESEARCH
+
 -   <https://github.com/PaperDebugger/paperdebugger>
 
 ## OSS: PRODUCTIVITY
@@ -424,6 +438,7 @@
 -   <https://github.com/mayswind/ezbookkeeping>
 
 ## TV
+
 -   <https://github.com/Free-TV/IPTV>
 -   <https://github.com/iptv-org/iptv>
 -   <https://github.com/jvdillon/netv>

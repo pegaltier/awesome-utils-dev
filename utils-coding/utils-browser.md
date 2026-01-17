@@ -1,6 +1,5 @@
 # BROWSER
 
-
 ## List
 
 -   <https://github.com/LadybirdBrowser/ladybird>

@@ -8,7 +8,11 @@
 
 -   [PACKAGE MANAGER](#package-manager)
 
+-   [RUNTIME](#runtime)
+
 -   [BUNDLER / BUILDER](#bundler--builder)
+
+-   [UTILS: TYPESCRIPT EXEC](#utils-typescript-exec)
 
 -   [STARTER / EXAMPLE / TEMPLATE](#starter--example--template)
 
@@ -20,23 +24,25 @@
 
 -   [UTILS: DEVTOOLS](#utils-devtools)
 
+-   [UTILS: SECURITY](#utils-security)
+
 -   [UTILS: CLEAN / KILL](#utils-clean--kill)
 
 -   [UTILS: ALL](#utils-all)
 
 -   [UTILS: LINK](#utils-link)
 
--   [UTILS: TYPESCRIPT](#utils-typescript)
-
 -   [MONITORING / LOGGING](#monitoring--logging)
 
 -   [LIBS: ALL](#libs-all)
+
+-   [LIBS: TESTING](#libs-testing)
 
 -   [LIBS: VITE](#libs-vite)
 
 -   [LIBS: VIDEO EDITING / AUDIO](#libs-video-editing--audio)
 
--   [LIBS: IMAGES](#libs-images)
+-   [LIBS: IMAGES / SVG / PNG / JPG](#libs-images--svg--png--jpg)
 
 -   [LIBS: DATA OBJECT / DATA TYPE / BUFFER](#libs-data-object--data-type--buffer)
 
@@ -64,11 +70,13 @@
 
 -   [LIBS: CRON](#libs-cron)
 
--   [LIBS: TESTING](#libs-testing)
+-   [LIBS: TESTING](#libs-testing-1)
 
 -   [LIBS: ENV](#libs-env)
 
 -   [LIBS: AUTH / OIDC](#libs-auth--oidc)
+
+-   [LIBS: PROMISE](#libs-promise)
 
 -   [LIBS: KEYS](#libs-keys)
 
@@ -102,8 +110,6 @@
 
 -   [FRAMEWORKS](#frameworks)
 
--   [BASICS](#basics)
-
 -   [NODE UPDATE WINDOWS](#node-update-windows)
 
 -   [COMMANDS](#commands)
@@ -114,7 +120,11 @@
     -   [Clean](#clean)
     -   [Versions](#versions)
 
--   [MODULES](#modules)
+-   [ESM / MODULES](#esm--modules)
+
+    -   [LIB](#lib)
+    -   [NOTES](#notes)
+    -   [ARTICLES](#articles)
 
 ## BASIC
 
@@ -284,6 +294,7 @@
 -   <https://github.com/dependents/node-dependency-tree>
 
 ## UTILS: SECURITY
+
 -   <https://github.com/DNSZLSK/muad-dib>
 
 ## UTILS: CLEAN / KILL
@@ -347,7 +358,6 @@
 -   <https://github.com/toss/es-git>
 -   <https://github.com/apocas/dockerode>
 
-
 ## MONITORING / LOGGING
 
 -   <https://github.com/pinojs/pino>
@@ -380,10 +390,10 @@
 -   <https://github.com/fromdeno/deno2node>
 
 ## LIBS: TESTING
+
 -   <https://github.com/jestjs/jest>
 -   <https://github.com/vitest-dev/vitest>
 -   <https://github.com/tinylibs/tinyspy>
-
 
 ## LIBS: VITE
 
@@ -449,13 +459,13 @@
 
 -   <https://github.com/isaacs/node-glob>
 
-## LIBS: HTTP: ALL
+## LIBS: HTTP&#x3A; ALL
 
 -   <https://github.com/sindresorhus/ky>
 -   <https://github.com/L-Blondy/up-fetch>
 -   <https://github.com/animir/node-rate-limiter-flexible>
 
-## LIBS: HTTP: SSE / SERVER SENT EVENT
+## LIBS: HTTP&#x3A; SSE / SERVER SENT EVENT
 
 -   <https://github.com/Bewinxed/river.ts>
 -   <https://github.com/adonisjs/transmit>
@@ -557,6 +567,7 @@
 -   <https://github.com/timofei-iatsenko/keycloakify-starter>
 
 ## LIBS: PROMISE
+
 -   <https://github.com/sindresorhus/p-debounce>
 
 ## LIBS: KEYS
@@ -710,7 +721,7 @@
 -   <https://github.com/rhinobase/hono-openapi>
 -   <https://github.com/honojs/hono>
 
-## SERVER: ALL
+\## SERVER: ALL
 
 -   <https://github.com/Rotorsoft/eventually-monorepo>
 -   <https://github.com/differentialhq/differential>
@@ -734,7 +745,7 @@
 -   <https://github.com/h3js/srvx>
 -   <https://github.com/h3js/h3>
 
-## SERVER: RPC
+\## SERVER: RPC
 
 -   <https://github.com/trpc/trpc>
 -   <https://github.com/cloudflare/capnweb>
@@ -820,8 +831,8 @@ Or see for other OS [Utils-cmd](utils-cmd.md)
 
 The ECMAScript modules (ES or ESM modules) have a standard TC39 function that was not existing prior to Node version 14. This feature can only be used starting from Node16 and can be very helpful to charge the JavaScript modules. Unlike CommonJS, ESM provides an asynchronous API for loading modules. one advantage is an improved syntax via the import and export instructions. To use ESM you can declare "type": "module" in your file package.json.
 
-
 ### LIB
+
 -   <https://github.com/unjs/jiti>
 -   <https://github.com/unjs/exsolve>
 -   <https://github.com/esm-dev/esm.sh>
@@ -831,11 +842,13 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 -   <https://git.cryto.net/joepie91/fix-esm.git>
 
 ### NOTES
+
 -   <https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc> node-typescript-esm.md
 -   <https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c> node-pure-esm.md
 -   <https://gist.github.com/wojtekmaj/17a0b0929c6e628c745ee889f1970bc2> esmOrCjs.js
 
 ### ARTICLES
+
 -   <https://antfu.me/posts/move-on-to-esm-only>
 -   <https://dmitripavlutin.com/ecmascript-modules-nodejs/>
 -   <https://techsparx.com/nodejs/typescript/modules-01.html>

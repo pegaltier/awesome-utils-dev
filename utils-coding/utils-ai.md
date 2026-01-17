@@ -10,6 +10,8 @@
 
 -   [COURSES](#courses)
 
+-   [INTERVIEW](#interview)
+
 -   [VIDEOS](#videos)
 
 -   [B2B](#b2b)
@@ -17,6 +19,8 @@
 -   [CHANNEL](#channel)
 
 -   [AWESOME](#awesome)
+
+-   [TOOLS: HOST / NEOCLOUDS](#tools-host--neoclouds)
 
 -   [TOOLS: PROMPT](#tools-prompt)
 
@@ -30,6 +34,8 @@
 
 -   [TOOLS: ALL](#tools-all)
 
+-   [TOOLS: AUTOMATE](#tools-automate)
+
 -   [TOOLS: SUMMARY / ORGANIZE](#tools-summary--organize)
 
 -   [TOOLS: JOB / HIRING](#tools-job--hiring)
@@ -42,9 +48,13 @@
 
 -   [TOOLS: CODING: OSS](#tools-coding-oss)
 
+-   [TOOLS: CODING: OSS CURSOR](#tools-coding-oss-cursor)
+
 -   [TOOLS: CODING: OSS CLAUDE](#tools-coding-oss-claude)
 
--   [TOOLS: CODING: OSS PROMPT RULES](#tools-coding-oss-prompt-rules)
+-   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
+
+-   [TOOLS: NOCODING](#tools-nocoding)
 
 -   [TOOLS: DESIGN: OSS](#tools-design-oss)
 
@@ -58,6 +68,8 @@
 
 -   [TOOLS: OSS: TEXT / DOCS / PDF](#tools-oss-text--docs--pdf)
 
+-   [TOOLS: SANDBOXING / CONTAINER](#tools-sandboxing--container)
+
 -   [TOOLS: IMAGE](#tools-image)
 
 -   [TOOLS: VIDEO](#tools-video)
@@ -70,7 +82,9 @@
 
 -   [TOOLS: MOBILE](#tools-mobile)
 
--   [TOOLS: HACKING](#tools-hacking)
+-   [TOOLS: TOKENS](#tools-tokens)
+
+-   [TOOLS: HACKING / SECURITY](#tools-hacking--security)
 
 -   [TOOLS: SEARCH](#tools-search)
 
@@ -96,6 +110,8 @@
 
 -   [LIB: MACHINE LEARNING / ML](#lib-machine-learning--ml)
 
+-   [LIB: STRUCTURED OUTPUT](#lib-structured-output)
+
 -   [LIB: DB](#lib-db)
 
 -   [LIB: WORKFLOW / CONTENT CREATION](#lib-workflow--content-creation)
@@ -109,6 +125,8 @@
 -   [LIB: EXTENSION](#lib-extension)
 
 -   [LIB: GENETIC](#lib-genetic)
+
+-   [LIB: COMPANION](#lib-companion)
 
 -   [LIB: MULTI AGENT](#lib-multi-agent)
 
@@ -152,7 +170,7 @@
 
 -   [LIB: 3D IMAGE / STABLE DIFFUSION](#lib-3d-image--stable-diffusion)
 
--   [LIB: IMAGE / STABLE DIFFUSION](#lib-image--stable-diffusion)
+-   [LIB: IMAGE / DIFFUSION / DLM](#lib-image--diffusion--dlm)
 
 -   [LIB: TRAIN](#lib-train)
 
@@ -172,11 +190,15 @@
 
 -   [LIB: SOCIAL](#lib-social)
 
+-   [TOOLS: PROMPT](#tools-prompt-1)
+
 -   [TOOLS: PROMPT ON WEB / SEARCH](#tools-prompt-on-web--search)
 
 -   [LIB: EMAIL](#lib-email)
 
 -   [LIB: BROWSER](#lib-browser)
+
+-   [LIB: INTERACT](#lib-interact)
 
 -   [LIB: GAME](#lib-game)
 
@@ -225,6 +247,7 @@
 -   <https://github.com/NirDiamant/agents-towards-production>
 
 ## INTERVIEW
+
 -   <https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub>
 
 ## VIDEOS
@@ -287,6 +310,7 @@
 -   <https://github.com/AstraZeneca/awesome-explainable-graph-reasoning>
 
 ## TOOLS: HOST / NEOCLOUDS
+
 -   <https://vast.ai/>
 -   <https://gcore.com/>
 -   <https://lambda.ai/>
@@ -403,6 +427,7 @@
 -   <https://github.com/clmnin/summarize.site>
 
 ## TOOLS: AUTOMATE
+
 -   <https://www.gumloop.com/>
 
 ## TOOLS: SUMMARY / ORGANIZE
@@ -417,13 +442,21 @@
 ## TOOLS: OSS
 
 -   <https://github.com/Nixtla/>
+
 -   <https://github.com/mistralai>
+
 -   <https://github.com/somewheresy>
+
 -   <https://github.com/kortix-ai/suna>
+
 -   <https://github.com/mudler/LocalAI>
+
 -   <https://github.com/karpathy/nanochat>
+
 -   <https://github.com/cheshire-cat-ai/core>
+
 -   <https://github.com/danielmiessler/fabric>
+
 -   <https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent>
 
 -   <https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts>
@@ -546,6 +579,7 @@
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
 
 ## TOOLS: CODING: OSS CURSOR
+
 -   <https://github.com/getcursor/cursor>
 -   <https://github.com/yeongpin/cursor-free-vip>
 -   <https://github.com/eastlondoner/cursor-tools>
@@ -594,6 +628,7 @@
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
 ## TOOLS: NOCODING
+
 -   <https://github.com/refly-ai/refly>
 
 ## TOOLS: DESIGN: OSS
@@ -639,6 +674,7 @@
 -   <https://github.com/jacoblee93/fully-local-pdf-chatbot>
 
 ## TOOLS: SANDBOXING / CONTAINER
+
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/restyler/awesome-sandbox>
 -   <https://github.com/DeepBlueDynamics/codex-container>
@@ -716,6 +752,7 @@
 -   <https://github.com/zai-org/Open-AutoGLM>
 
 ## TOOLS: TOKENS
+
 -   <https://github.com/xn1cklas/tokenlens>
 -   <https://github.com/alaa-eddine/tokenloom>
 -   <https://github.com/johannschopplich/toon>
@@ -831,6 +868,7 @@
 -   <https://github.com/unslothai/hyperlearn>
 
 ## LIB: STRUCTURED OUTPUT
+
 -   <https://github.com/ruvnet/dspy.ts>
 -   <https://github.com/BoundaryML/baml>
 -   <https://github.com/dottxt-ai/outlines>
@@ -874,6 +912,7 @@
 -   <https://github.com/Mintplex-Labs/anything-llm>
 
 ## LIB: EXTENSION
+
 -   <https://github.com/huggingface/aisheets>
 -   <https://github.com/supermemoryai/supermemory>
 
@@ -1353,6 +1392,7 @@
 -   <https://github.com/awslabs/multi-agent-orchestrator>
 
 ## LIB: TEXT / TRANSLATION
+
 -   <https://github.com/thewh1teagle/vibe>
 -   <https://github.com/clusterzx/paperless-ai>
 -   <https://github.com/andrewyng/translation-agent>
@@ -1390,7 +1430,7 @@
 
 ## TOOLS: PROMPT
 
-- https://github.com/microsoft/poml
+-   <https://github.com/microsoft/poml>
 
 ## TOOLS: PROMPT ON WEB / SEARCH
 
@@ -1420,6 +1460,7 @@
 -   <https://github.com/tomayac/built-in-ai-task-apis-polyfill>
 
 ## LIB: INTERACT
+
 -   <https://github.com/CursorTouch/Windows-Use>
 
 ## LIB: GAME

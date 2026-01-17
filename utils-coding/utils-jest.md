@@ -109,7 +109,6 @@ expect(state.active).toMatchObject({
 });
 ```
 
-
 ## Articles
 
 -   <https://github.com/facebook/jest/issues/936>

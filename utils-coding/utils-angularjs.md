@@ -1,6 +1,5 @@
 # ANGULARJS
 
-
 ## FILTER
 
 -   <https://www.w3schools.com/angularjs/ng_filter_filter.asp>

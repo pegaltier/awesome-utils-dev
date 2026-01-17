@@ -38,6 +38,8 @@
 
 -   [PROXY](#proxy)
 
+-   [GENERATOR](#generator)
+
 -   [EXAMPLES](#examples)
 
     -   [OBJECTS](#objects-1)

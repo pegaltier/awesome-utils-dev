@@ -4,6 +4,7 @@
 
 -   [LIST](#list)
 -   [YEOMAN](#yeoman)
+-   [MIGRATE](#migrate)
 -   [ALL](#all)
 
 ## LIST
@@ -29,6 +30,7 @@
 -   <https://github.com/dsebastien/word-plugin-angular-template>
 
 ## MIGRATE
+
 -   <https://github.com/ranyitz/code-migrate>
 -   <https://github.com/openrewrite/rewrite>
 -   <https://github.com/dsherret/ts-morph>

@@ -57,6 +57,7 @@
 -   [STARTER: WEB / CMS](#starter-web--cms)
 -   [STARTER: SSG: ALL](#starter-ssg-all)
 -   [STARTER: SSG: PORTFOLIO](#starter-ssg-portfolio)
+-   [STARTER: SSG: TOOLS](#starter-ssg-tools)
 -   [EMAIL TEMPLATE / MAILING LIST](#email-template--mailing-list)
 -   [OSS: SELF HOSTED / EMAIL TEMPLATE / MAILING LIST](#oss-self-hosted--email-template--mailing-list)
 -   [CREATIVE TOOLS](#creative-tools)
@@ -622,6 +623,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/Nutlope/self.so>
 
 ## STARTER: SSG: TOOLS
+
 -   <https://github.com/sdorra/content-collections>
 
 ## EMAIL TEMPLATE / MAILING LIST

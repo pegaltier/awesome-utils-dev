@@ -6,6 +6,8 @@
 
 -   [NEWS](#news)
 
+-   [ARTICLES](#articles)
+
 -   [PEOPLE](#people)
 
 -   [PAPERS](#papers)
@@ -28,11 +30,13 @@
 
 -   [TOOLS: OSS: DEFENSIVE](#tools-oss-defensive)
 
+-   [UTILS](#utils)
+
+-   [AI](#ai)
+
 -   [WEB SCAM / VIRUS](#web-scam--virus)
 
 -   [BUG BOUNTY / SECURITY BOUNTY](#bug-bounty--security-bounty)
-
--   [UTILS](#utils)
 
 -   [FRONTEND SECURITY](#frontend-security)
 
@@ -78,6 +82,7 @@
 -   <https://craphound.com/>
 
 ## ARTICLES
+
 -   <https://instavm.io/blog/analysed-4000-to-create-security-agent-cli>
 
 ## PEOPLE
@@ -225,8 +230,8 @@
 -   <https://github.com/f13end>
 
 ## AI
--   <https://github.com/usestrix/strix>
 
+-   <https://github.com/usestrix/strix>
 
 ## WEB SCAM / VIRUS
 
