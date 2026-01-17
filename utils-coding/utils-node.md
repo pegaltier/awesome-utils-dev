@@ -837,6 +837,7 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 -   <https://github.com/unjs/exsolve>
 -   <https://github.com/esm-dev/esm.sh>
 -   <https://github.com/bennycode/ts2esm>
+-   <https://github.com/Borewit/load-esm>
 -   <https://github.com/standard-things/esm>
 -   <https://github.com/wooorm/npm-esm-vs-cjs>
 -   <https://git.cryto.net/joepie91/fix-esm.git>
@@ -854,7 +855,10 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 -   <https://techsparx.com/nodejs/typescript/modules-01.html>
 -   <https://blog.logrocket.com/commonjs-vs-es-modules-node-js/>
 -   <https://www.typescriptlang.org/docs/handbook/esm-node.html>
+-   <https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/>
+-   <https://leapcell.io/blog/modernizing-node-js-projects-with-es-modules>
 -   <https://adamcoster.com/blog/commonjs-and-esm-importexport-compatibility-examples>
 -   <https://joyeecheung.github.io/blog/2025/12/30/require-esm-in-node-js-implementers-tales/>
 -   <https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2>
 -   <https://stackoverflow.com/questions/33535879/how-to-run-typescript-files-from-command-line>
+-   <https://lea.verou.me/blog/2020/07/import-non-esm-libraries-in-es-modules-with-client-side-vanilla-js/>

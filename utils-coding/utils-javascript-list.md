@@ -385,10 +385,6 @@
 -   <https://jsben.ch/js-string-equal-vs-startswith-gts9h>
 -   <https://measurethat.net/Benchmarks/Show/20141/0/compare-number-vs-compare-string>
 
-## PROMISE THEN VS AWAIT VS CHAINABLE
-
--   <https://github.com/kozhevnikov/proxymise>
-
 ## EXAMPLE / STARTER
 
 -   <https://github.com/GorvGoyl/Clone-Wars>
@@ -501,6 +497,8 @@
 
 ## LIB: PROMISE
 
+-   <https://github.com/caolan/async>
+-   <https://github.com/kozhevnikov/proxymise>
 -   <https://github.com/kettanaito/until-async>
 -   <https://github.com/sindresorhus/promise-fun>
 
