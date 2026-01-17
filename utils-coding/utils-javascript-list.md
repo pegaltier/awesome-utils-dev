@@ -203,9 +203,10 @@
 -   <https://github.com/tinylibs>
 -   <https://github.com/frappe>
 
-## BOOKS
+## BOOKS / PODCAST
 
 -   <https://exploringjs.com/impatient-js/>
+-   <https://topenddevs.com/podcasts/javascript-jabber>
 
 ## CHEAT-SHEETS
 

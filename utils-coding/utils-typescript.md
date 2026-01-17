@@ -165,6 +165,7 @@
 ## BEST PRACTICES
 
 -   <https://www.divotion.com/blog/creating-type-safe-events>
+-   <https://www.viget.com/articles/fixing-typescript-performance-problems>
 -   <https://backstage.orus.eu/the-5-commandments-of-clean-error-handling-in-typescript/?latest>
 
 ## STARTER / TEMPLATE

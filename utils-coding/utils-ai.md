@@ -525,6 +525,7 @@
 -   <https://github.com/Pythagora-io/gpt-pilot>
 -   <https://github.com/gptscript-ai/gptscript>
 -   <https://github.com/All-Hands-AI/OpenHands>
+-   <https://github.com/AutoMaker-Org/automaker>
 -   <https://github.com/buildermethods/agent-os>
 -   <https://github.com/mendableai/open-lovable>
 -   <https://github.com/amplication/amplication>
@@ -556,6 +557,7 @@
 -   <https://github.com/obra/superpowers>
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/Goldziher/ai-rulez>
+-   <https://github.com/steveyegge/gastown>
 -   <https://github.com/dyoshikawa/rulesync>
 -   <https://github.com/m0n0x41d/quint-code>
 -   <https://github.com/getAsterisk/claudia>
@@ -1409,6 +1411,7 @@
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/magnitudedev/magnitude>
 -   <https://github.com/web-infra-dev/midscene>
+-   <https://github.com/pinokiocomputer/pinokio>
 -   <https://github.com/steel-dev/steel-browser>
 -   <https://github.com/nanobrowser/nanobrowser>
 -   <https://github.com/browser-use/browser-use>

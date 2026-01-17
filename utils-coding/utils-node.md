@@ -151,6 +151,7 @@
 -   <https://github.com/web-infra-dev/modern.js>
 -   <https://github.com/cachix/cachix-action>
 -   <https://github.com/time-loop/only-allow>
+-   <https://github.com/npmgraph/npmgraph>
 -   <https://github.com/Thinkmill/manypkg>
 -   <https://github.com/cnpm/npminstall>
 -   <https://github.com/SukkaW/nolyfill>
@@ -608,9 +609,11 @@
 
 -   <https://github.com/remult/remult>
 -   <https://github.com/prisma/prisma>
+-   <https://github.com/marcj/deepkit>
 -   <https://github.com/typeorm/typeorm>
 -   <https://github.com/sequelize/sequelize>
 -   <https://github.com/joist-orm/joist-orm>
+-   <https://github.com/alfateam/orange-orm>
 -   <https://github.com/drizzle-team/drizzle-orm>
 
 ## LIBS: DATABASE / DB
@@ -744,6 +747,7 @@
 -   <https://github.com/hexojs/hexo>
 -   <https://github.com/nestjs/nest>
 -   <https://github.com/tsedio/tsed>
+-   <https://github.com/marcj/deepkit>
 -   <https://github.com/strapi/strapi>
 -   <https://github.com/remult/remult>
 -   <https://github.com/rocicorp/mono>
@@ -838,5 +842,6 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 -   <https://blog.logrocket.com/commonjs-vs-es-modules-node-js/>
 -   <https://www.typescriptlang.org/docs/handbook/esm-node.html>
 -   <https://adamcoster.com/blog/commonjs-and-esm-importexport-compatibility-examples>
+-   <https://joyeecheung.github.io/blog/2025/12/30/require-esm-in-node-js-implementers-tales/>
 -   <https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2>
 -   <https://stackoverflow.com/questions/33535879/how-to-run-typescript-files-from-command-line>

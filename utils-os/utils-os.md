@@ -11,6 +11,7 @@
 
 -   <https://www.balena.io/etcher/>
 -   <https://github.com/ventoy/Ventoy>
+-   <https://www.makeuseof.com/carry-every-windows-linux-installer-on-single-drive-with-open-source-tool/>
 
 ## TOOLS
 

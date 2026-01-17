@@ -154,6 +154,7 @@
 
 ## TOOLS: OSS: DEFENSIVE
 
+-   <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
 -   <https://github.com/edoardottt/awesome-hacker-search-engines>
 -   <https://github.com/hkithub-official/no-plaintext-passwords>
 -   <https://github.com/decalage2/awesome-security-hardening>

@@ -2272,9 +2272,10 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/AleksanderBodurri/shield-maker>
 -   <https://github.com/sokra/source-map-visualization>
 -   <https://github.com/danielglejzner/ng16-dep-audit>
+-   <https://github.com/angular-experts-io/ng-parsel>
+-   <https://github.com/alfredoperez/ngx-dev-toolbar>
 -   <https://github.com/nitedani/vite-plugin-angular>
 -   <https://github.com/angular-experts-io/terminal>
--   <https://github.com/angular-experts-io/ng-parsel>
 -   <https://github.com/irustm/ng-template-parser>
 -   <https://github.com/angular/ngcc-validation>
 -   <https://github.com/rangle/angular-devtools>

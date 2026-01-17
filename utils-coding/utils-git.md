@@ -33,7 +33,6 @@
 
 -   <https://githooks.com/>
 -   <https://actionsbook.com/>
--   <https://hellogithub.com/en>
 -   <http://learngitbranching.js.org>
 -   <https://trunkbaseddevelopment.com>
 -   <https://maggieappleton.com/git-mistakes>
@@ -48,6 +47,12 @@
 -   <https://github.com/githubsatelliteworkshops/ci-cd-with-actions>
 -   <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
 -   <https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/>
+
+## EXPLORE
+-   <https://hellogithub.com/en>
+-   <https://github.com/K-dash/contrib-fyi>
+-   <https://github.com/reposense/RepoSense>
+-   <https://github.com/mpospirit-apps/Repomance-iOS>
 
 ## TOOLS
 

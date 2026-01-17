@@ -545,6 +545,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/marko-js/marko>
 -   <https://github.com/trueadm/ripple>
 -   <https://github.com/alpinejs/alpine>
+-   <https://github.com/bellard/mquickjs>
 -   <https://github.com/dlight-js/dlight>
 -   <https://github.com/stolinski/drop-in>
 -   <https://github.com/bespokejs/bespoke>
@@ -557,6 +558,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/ProjectEvergreen/greenwood>
 -   <https://blog.madewithlove.be/post/webpack-your-bags/>
 -   <https://css-tricks.com/css-modules-part-2-getting-started>
+-   <https://github.com/sigmentjs/basic-sigment-typescript-vite>
 
 ## STARTER: WEB / CMS
 
