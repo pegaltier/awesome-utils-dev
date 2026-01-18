@@ -790,6 +790,7 @@
 -   <https://github.com/09ysf09/Indicators>
 -   <https://github.com/fmzquant/strategies>
 -   <https://github.com/geraked/tradingview> \* 
+-   <https://github.com/mihakralj/pinescript>
 -   <https://github.com/martinshane/pinescript5>
 -   <https://github.com/harryguiacorn/tradingview>
 -   <https://github.com/ricardosantos79/pinescript>
@@ -1232,12 +1233,19 @@
 
 ### OSS: JAVASCRIPT: CHART
 
+-   <https://github.com/difurious/lightweight-charts-line-tools-market-depth>
+-   <https://github.com/difurious/lightweight-charts-line-tools-rectangle>
+-   <https://github.com/difurious/lightweight-charts-line-tools-core>
 -   <https://github.com/Lightning-Chart/lcjs-typescript-example>
 -   <https://github.com/difurious/lightweight-charts-line-tools>
+-   <https://github.com/crypt0inf0/lightweight-charts-plugins>
+-   <https://github.com/webclinic017/AdvancedChartingLibrary>
 -   <https://github.com/PrettyGoodCapital/finance-widgets>
 -   <https://github.com/chartjs/chartjs-chart-financial>
 -   <https://github.com/tradingview/lightweight-charts>
 -   <https://github.com/tpunt/lwc-plugin-shape-drawing>
+-   <https://github.com/AmirRezaiyan/Tradingview_mini>
+-   <https://github.com/crypt0inf0/openalgo-chart>
 -   <https://github.com/tradex-app/TradeX-chart>
 -   <https://github.com/project-nv/night-vision>
 -   <https://github.com/klinecharts/KLineChart>

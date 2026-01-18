@@ -593,6 +593,7 @@
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/steveyegge/gastown>
+-   <https://github.com/Mearman/marketplace>
 -   <https://github.com/dyoshikawa/rulesync>
 -   <https://github.com/m0n0x41d/quint-code>
 -   <https://github.com/getAsterisk/claudia>

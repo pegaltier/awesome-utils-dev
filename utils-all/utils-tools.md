@@ -293,6 +293,7 @@
 
 ## OSS: SPREADSHEET
 
+-   <https://github.com/dream-num/univer>
 -   <https://github.com/gristlabs/grist-core>
 
 ## OSS: PASSWORD
@@ -320,6 +321,7 @@
 
 -   <https://github.com/UseInterstellar/Interstellar>
 -   <https://github.com/abhinavsingh/proxy.py>
+-   <https://github.com/MorDavid/FlareTunnel>
 -   <https://github.com/ProxymanApp/Proxyman>
 -   <https://github.com/requestly/requestly>
 -   <https://github.com/connet-dev/connet>

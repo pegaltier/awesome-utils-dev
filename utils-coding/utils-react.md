@@ -174,6 +174,7 @@
 -   <https://github.com/everweij/react-laag>
 -   <https://github.com/mbrn/material-table>
 -   <https://github.com/JedWatson/classnames>
+-   <https://github.com/aakash-code/OpenGrid>
 -   <https://github.com/eBay/nice-modal-react>
 -   <https://github.com/ngneat/use-observable>
 -   <https://github.com/twobin/react-lazyload>
