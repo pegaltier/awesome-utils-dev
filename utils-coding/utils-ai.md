@@ -588,6 +588,7 @@
 
 -   <https://github.com/openai/skills>
 -   <https://github.com/winfunc/opcode>
+-   <https://github.com/21st-dev/1code>
 -   <https://github.com/wshobson/agents>
 -   <https://github.com/obra/superpowers>
 -   <https://github.com/anthropics/skills>
@@ -598,6 +599,7 @@
 -   <https://github.com/m0n0x41d/quint-code>
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
+-   <https://github.com/different-ai/openwork>
 -   <https://github.com/thedotmack/claude-mem>
 -   <https://github.com/AndyMik90/Auto-Claude>
 -   <https://github.com/siteboon/claudecodeui>
@@ -735,14 +737,23 @@
 
 ## TOOLS: AVATAR
 
+-   <https://www.joypix.ai/>
+-   <https://www.mascot.bot/>
 -   <https://www.heygen.com/>
 -   <https://www.sievedata.com/>
 -   <https://www.synthesia.io/>
 -   <https://www.aistudios.com/>
 -   <https://github.com/HumanAIGC/EMO>
+-   <https://github.com/Lightricks/LTX-2>
+-   <https://github.com/duixcom/Duix-Avatar>
 -   <https://github.com/bytedance/X-Portrait>
+-   <https://github.com/met4citizen/HeadTTS>
+-   <https://github.com/met4citizen/HeadAudio>
+-   <https://github.com/met4citizen/TalkingHead>
 -   <https://github.com/alievk/avatarify-python>
 -   <https://github.com/Francis-Rings/StableAvatar>
+-   <https://github.com/mascotbot/elevenlabs-avatar>
+-   <https://github.com/Tencent-Hunyuan/HunyuanPortrait>
 -   <https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar>
 -   <https://github.com/HumanAIGC-Engineering/OpenAvatarChat>
 
@@ -1268,11 +1279,14 @@
 -   <https://github.com/kyutai-labs/delayed-streams-modeling>
 -   <https://github.com/modelscope/ClearerVoice-Studio>
 -   <https://github.com/Meeting-Baas/transcript-seeker>
+-   <https://github.com/linto-ai/whisper-timestamped>
 -   <https://github.com/jianchang512/ChatTTS-ui>
 -   <https://github.com/eustlb/speech-to-speech>
 -   <https://github.com/souzatharsis/podcastfy>
 -   <https://github.com/resemble-ai/chatterbox>
 -   <https://github.com/epicenter-os/epicenter>
+-   <https://github.com/kyutai-labs/pocket-tts>
+-   <https://github.com/babybirdprd/pocket-tts>
 -   <https://github.com/fishaudio/fish-speech>
 -   <https://github.com/remsky/Kokoro-FastAPI>
 -   <https://github.com/samuel-vitorino/sopro>
@@ -1313,12 +1327,16 @@
 -   <https://github.com/SoraWebui/FakeSoraAPI>
 -   <https://github.com/antgroup/echomimic_v2>
 -   <https://github.com/NumesSanguis/FACSvatar>
+-   <https://github.com/AILab-CVC/VideoCrafter>
 -   <https://github.com/hacksider/Deep-Live-Cam>
 -   <https://github.com/ultralytics/ultralytics>
 -   <https://github.com/chatfire-AI/huobao-drama>
 -   <https://github.com/HVision-NKU/StoryDiffusion>
 -   <https://github.com/fudan-generative-vision/hallo>
+-   <https://github.com/FurkanGozukara/Stable-Diffusion>
 -   <https://github.com/jianzhnie/awesome-text-to-video>
+-   <https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5>
+-   <https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator>
 -   <https://github.com/hkchengrex/Tracking-Anything-with-DEVA>
 
 ## LIB: OCR IMAGE RECOGNITION
