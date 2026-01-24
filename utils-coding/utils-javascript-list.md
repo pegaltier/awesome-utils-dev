@@ -1364,6 +1364,7 @@
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/liveloveapp/hashbrown>
 -   <https://github.com/tursodatabase/agentfs>
+-   <https://github.com/ArtificialAnalysis/StirrupJS>
 -   <https://github.com/strands-agents/sdk-typescript>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>

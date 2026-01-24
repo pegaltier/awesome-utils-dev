@@ -145,6 +145,7 @@
 
 -   <https://github.com/ruilisi/css-checker>
 -   <https://github.com/css-hooks/css-hooks>
+-   <https://github.com/projectwallace/css-layer-tree>
 -   <https://github.com/andreruffert/syntax-highlight-element>
 
 ## LIB

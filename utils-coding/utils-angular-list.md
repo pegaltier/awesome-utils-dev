@@ -1736,6 +1736,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/Vitashev/ng-tiktok-mf-app>
 -   <https://github.com/tieppt/nx-micro-frontends>
 -   <https://github.com/manfredsteyer/mf-pitfalls>
+-   <https://github.com/native-federation/angular>
 -   <https://github.com/valorkin/ng-mf-submodules>
 -   <https://github.com/awslabs/frontend-discovery>
 -   <https://github.com/web-fragments/web-fragments>

@@ -283,6 +283,7 @@
 ## OSS: MEDIAS / BOOK / PDF / DOCS
 
 -   <https://github.com/py-pdf/pypdf>
+-   <https://github.com/readest/readest>
 -   <https://github.com/btpf/Alexandria>
 -   <https://github.com/duplicati/duplicati>
 -   <https://github.com/booklore-app/booklore>

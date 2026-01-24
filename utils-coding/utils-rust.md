@@ -100,11 +100,13 @@
 -   <https://github.com/rust-windowing/winit>
 -   <https://github.com/1Password/typeshare>
 -   <https://github.com/davidlattimore/wild>
+-   <https://github.com/xai-org/x-algorithm>
 -   <https://github.com/juspay/hyperswitch>
 -   <https://github.com/BLAKE3-team/BLAKE3>
 -   <https://github.com/cloudflare/pingora>
 -   <https://github.com/mmastrac/rust-ctor>
 -   <https://github.com/rust-cli/config-rs>
+-   <https://github.com/vorner/signal-hook>
 -   <https://github.com/Aleph-Alpha/ts-rs>
 -   <https://github.com/RustScan/RustScan>
 -   <https://github.com/rust-lang/rustfmt>
@@ -134,6 +136,7 @@
 -   <https://github.com/rxRust/rxRust>
 -   <https://github.com/wildcard/caro>
 -   <https://github.com/BloopAI/bloop>
+-   <https://github.com/smol-rs/smol>
 -   <https://github.com/mozilla/neqo>
 -   <https://github.com/obmarg/cynic>
 -   <https://github.com/loco-rs/loco>

@@ -559,6 +559,7 @@
 
 -   <https://www.pinescriptstrategies.com/>
 -   <https://www.daytraderplaybook.com/>
+-   <https://getpinescript.com/>
 -   <https://www.ultraalgo.com/>
 -   <https://goodcrypto.app/>
 -   <https://bigbeluga.com/>
@@ -790,7 +791,7 @@
 -   <https://github.com/09ysf09/Indicators>
 -   <https://github.com/fmzquant/strategies>
 -   <https://github.com/geraked/tradingview> \* 
--   <https://github.com/mihakralj/pinescript>
+-   <https://github.com/mihakralj/pinescript> \* 
 -   <https://github.com/martinshane/pinescript5>
 -   <https://github.com/harryguiacorn/tradingview>
 -   <https://github.com/ricardosantos79/pinescript>
@@ -1277,6 +1278,7 @@
 
 -   <https://github.com/Opus-Aether-AI/pine-transpiler>
 -   <https://github.com/marketcalls/openalgo-pinets>
+-   <https://github.com/deepentropy/oakscriptJS>
 -   <https://github.com/QuantForgeOrg/PineTS>
 
 ### OSS: JAVASCRIPT: ALL

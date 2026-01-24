@@ -7,5 +7,6 @@
 ## LIBS
 
 -   <https://github.com/openfga/openfga>
+-   <https://github.com/AlexxIT/go2rtc>
 -   <https://github.com/sqlc-dev/sqlc>
 -   <https://github.com/gin-gonic/gin>

@@ -133,6 +133,9 @@
 -   <https://github.com/kristiandupont/react-geiger>
 -   <https://github.com/yannickcr/eslint-plugin-react>
 
+## LIB: AI
+-   <https://github.com/tambo-ai/tambo>
+
 ## LIB: ALL
 
 -   <https://github.com/mme/beakjs>

@@ -296,6 +296,7 @@
 -   <https://github.com/Shubhamsaboo/awesome-llm-apps>
 -   <https://github.com/PatrickJS/awesome-cursorrules>
 -   <https://github.com/hijkzzz/Awesome-LLM-Strawberry>
+-   <https://github.com/affaan-m/everything-claude-code>
 -   <https://github.com/steven2358/awesome-generative-ai>
 -   <https://github.com/mercari/ml-system-design-pattern>
 -   <https://github.com/dair-ai/Prompt-Engineering-Guide>
@@ -592,6 +593,7 @@
 -   <https://github.com/wshobson/agents>
 -   <https://github.com/obra/superpowers>
 -   <https://github.com/anthropics/skills>
+-   <http://github.com/vmihalis/tg-claude>
 -   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/steveyegge/gastown>
 -   <https://github.com/Mearman/marketplace>
@@ -1070,6 +1072,7 @@
 -   <https://github.com/archestra-ai/archestra>
 -   <https://github.com/lharries/whatsapp-mcp>
 -   <https://github.com/aipotheosis-labs/aci>
+-   <https://github.com/davideast/stitch-mcp>
 -   <https://github.com/evalstate/fast-agent>
 -   <https://github.com/igrigorik/AgentBoard>
 -   <https://github.com/hyperb1iss/droidmind>
@@ -1141,6 +1144,7 @@
 -   <https://github.com/ArduPilot/ardupilot>
 -   <https://github.com/qgallouedec/lerobot>
 -   <https://github.com/huggingface/lerobot>
+-   <https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3>
 
 ## LIB: CHATBOT
 

@@ -76,6 +76,14 @@ low-code tooling to prototype fastly.
 
 -   <https://notaku.so/>
 
+## ai
+
+-   <https://github.com/dyad-sh/dyad>
+-   <https://github.com/tambo-ai/tambo>
+-   <https://github.com/miurla/morphic>
+-   <https://github.com/thesysdev/crayon>
+
+
 ## opensource
 
 -   <https://github.com/nocode-js>
