@@ -379,6 +379,7 @@
 -   <https://github.com/hyochan/react-native-iap>
 -   <https://github.com/necolas/react-native-web>
 -   <https://github.com/zoontek/react-native-bars>
+-   <https://github.com/Shopify/react-native-skia>
 -   <https://github.com/Flipkart/recyclerlistview>
 -   <https://github.com/gunnartorfis/sonner-native>
 -   <https://github.com/luggit/react-native-config>
@@ -391,6 +392,8 @@
 -   <https://github.com/Polidea/react-native-ble-plx>
 -   <https://github.com/expo/create-react-native-app>
 -   <https://github.com/cawfree/react-native-wormhole>
+-   <https://github.com/wcandillon/react-native-webgpu>
+-   <https://github.com/wcandillon/react-native-redash>
 -   <https://github.com/flatlogic/react-native-starter>
 -   <https://github.com/inKindCards/react-native-money>
 -   <https://github.com/prscX/react-native-lock-screen>

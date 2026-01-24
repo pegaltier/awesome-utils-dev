@@ -17,6 +17,9 @@
 -   <https://github.com/extend-chrome/clipboard>
 -   <https://github.com/extension-js/extension.js>
 
+## FAMOUS
+-   <https://github.com/microsoft/vscode-copilot-chat>
+
 ## STARTER
 
 -   <https://github.com/larscom/ng-chrome-extension>

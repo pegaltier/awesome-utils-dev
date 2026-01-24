@@ -1235,6 +1235,7 @@
 -   <https://github.com/neplextech/vectorizer>
 -   <https://github.com/pingdotgg/uploadthing>
 -   <https://github.com/desandro/imagesloaded>
+-   <https://github.com/remotion-dev/remotion>
 -   <https://github.com/bubkoo/html-to-image>
 -   <https://github.com/team-video/tragopan>
 -   <https://github.com/maotoumao/MusicFree>

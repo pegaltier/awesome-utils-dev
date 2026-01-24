@@ -185,6 +185,7 @@
 -   <https://github.com/internxt/drive-web>
 -   <https://github.com/cloudreve/cloudreve>
 -   <https://github.com/stonith404/pingvin-share>
+-   <https://github.com/tonyantony300/alt-sendme>
 -   <https://github.com/Bill-Stewart/SyncthingWindowsSetup>
 
 ## OSS: FINANCE
@@ -266,6 +267,7 @@
 
 ## OSS: VIDEO
 
+-   <https://github.com/nexmoe/VidBee>
 -   <https://github.com/Ihsan172/Vanced>
 -   <https://github.com/alexta69/metube>
 -   <https://github.com/CapSoftware/Cap>
@@ -377,6 +379,7 @@
 -   <https://github.com/makeplane/plane>
 -   <https://github.com/outline/outline>
 -   <https://github.com/lukevella/rallly>
+-   <https://github.com/colanode/colanode>
 -   <https://github.com/campsite/campsite>
 -   <https://github.com/metamaps/metamaps>
 -   <https://github.com/rustdesk/rustdesk>
