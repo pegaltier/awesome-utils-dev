@@ -283,6 +283,7 @@
 -   <https://www.port.io/>
 -   <https://zerops.io/>
 -   <https://sst.dev/>
+-   <https://exe.dev/>
 -   <https://fly.io/>
 
 ## HOST SERVICES OSS / SELF HOSTED

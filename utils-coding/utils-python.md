@@ -80,6 +80,7 @@ pip -V
 
 -   <https://ipython.org/>
 -   <https://www.anaconda.com/>
+-   <https://www.pythonanywhere.com/>
 
 ## STARTER
 
@@ -93,6 +94,7 @@ pip -V
 -   <https://github.com/3b1b/manim>
 -   <https://github.com/pyenv/pyenv>
 -   <https://github.com/astral-sh/uv>
+-   <https://github.com/marimo-team/marimo>
 -   <https://github.com/streamlit/streamlit>
 
 ## LIB: DEVTOOLS: EXTRA
