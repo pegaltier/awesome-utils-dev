@@ -45,6 +45,7 @@
 
 ## LEARN / TECH WATCH
 
+-   <https://addyosmani.com/blog/21-lessons/>
 -   <https://github.com/adambard/learnxinyminutes-docs>
 -   <https://www.camilleroux.com/la-veille-technologique-ma-methode-complete-pour-rester-a-jour/>
 

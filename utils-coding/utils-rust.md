@@ -83,6 +83,7 @@
 -   <https://github.com/huggingface/candle>
 -   <https://github.com/tekaratzas/RustGPT>
 -   <https://github.com/0xPlaygrounds/rig>
+-   <https://github.com/floneum/floneum>
 
 ## LIB: DB
 

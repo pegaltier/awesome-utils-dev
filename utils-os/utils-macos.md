@@ -85,6 +85,7 @@
 -   <https://brew.sh/>
 -   <https://github.com/crhuber/kelp>
 -   <https://github.com/Homebrew/brew>
+-   <https://github.com/lucasgelfond/zerobrew>
 
 
     brew update

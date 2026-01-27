@@ -65,6 +65,9 @@
 -   <https://romgrk.com/posts/optimizing-javascript>
 -   <https://thenewstack.io/how-to-master-javascript-performance-optimization>
 
+## WEIRD
+-   <https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7>
+
 ## GARBAGE COLLECTOR
 
 -   <https://jakearchibald.com/2024/garbage-collection-and-closures/>

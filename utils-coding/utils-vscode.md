@@ -94,6 +94,7 @@
 -   <https://marketplace.visualstudio.com/items?itemName=sygene.auto-correct>
 -   <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker>
 -   <https://marketplace.visualstudio.com/items?itemName=cyansprite.smoothscroll>
+-   <https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print>
 
 ## EXTENSIONS: THEMES
 

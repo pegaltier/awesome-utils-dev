@@ -418,6 +418,7 @@
 -   <https://www.chatpdf.com/>
 -   <https://www.futuretools.io/>
 -   <https://open-assistant.io/fr>
+-   <https://aistudio.google.com/>
 -   <https://nixtlaverse.nixtla.io/>
 -   <https://play.botscript.ai/>
 -   <https://copilot.github.com/>
@@ -535,6 +536,7 @@
 -   <https://github.com/Nutlope/aicommits>
 -   <https://github.com/daytonaio/daytona>
 -   <https://github.com/plandex-ai/plandex>
+-   <https://github.com/github/copilot-sdk>
 -   <https://github.com/Nutlope/llamacoder>
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/Fission-AI/OpenSpec>
