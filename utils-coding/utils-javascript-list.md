@@ -324,6 +324,7 @@
 -   <https://github.com/ytiurin>
 -   <https://github.com/drudge>
 -   <https://github.com/Nsttt>
+-   <https://github.com/KATT>
 
 ## TEAM
 
@@ -629,6 +630,7 @@
 -   <https://github.com/mgechev/data-adapter>
 -   <https://github.com/francisrstokes/super-expressive>
 -   <https://github.com/sindresorhus/environment>
+-   <https://github.com/KATT/envsafe>
 -   <https://github.com/stalniy/casl>
 -   <https://github.com/nas5w/combinate>
 -   <https://github.com/vvo/tzdb/>
@@ -1232,6 +1234,7 @@
 -   <https://github.com/vidstack/media-captions>
 -   <https://github.com/tapioca24/videojs-logo>
 -   <https://github.com/ColonelParrot/jscanify>
+-   <https://github.com/codeforreal1/compressO>
 -   <https://github.com/neplextech/vectorizer>
 -   <https://github.com/pingdotgg/uploadthing>
 -   <https://github.com/desandro/imagesloaded>
@@ -1364,6 +1367,7 @@
 -   <https://github.com/PaulKinlan/Co-do>
 -   <https://github.com/VoltAgent/voltagent>
 -   <https://github.com/bmadcode/BMAD-METHOD>
+-   <https://github.com/antipopp/agno-client>
 -   <https://github.com/liveloveapp/hashbrown>
 -   <https://github.com/tursodatabase/agentfs>
 -   <https://github.com/ArtificialAnalysis/StirrupJS>

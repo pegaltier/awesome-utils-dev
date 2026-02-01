@@ -535,6 +535,7 @@
 -   <https://github.com/e2b-dev/fragments>
 -   <https://github.com/Nutlope/aicommits>
 -   <https://github.com/daytonaio/daytona>
+-   <https://github.com/cursor/agent-trace>
 -   <https://github.com/plandex-ai/plandex>
 -   <https://github.com/github/copilot-sdk>
 -   <https://github.com/Nutlope/llamacoder>
@@ -871,9 +872,11 @@
 -   <https://github.com/Olow304/memvid>
 -   <https://github.com/steveyegge/beads>
 -   <https://github.com/topoteretes/cognee>
+-   <https://github.com/letta-ai/letta-code>
 
 ## LIB: ASSISTANT
 
+-   <https://github.com/moltbot/moltbot>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
 
 ## LIB: MACHINE LEARNING / ML
@@ -997,6 +1000,7 @@
 -   <https://github.com/cuga-project/cuga-agent>
 -   <https://github.com/browserbase/open-operator>
 -   <https://github.com/threepointone/partyserver>
+-   <https://github.com/microsoft/agent-lightning>
 -   <https://github.com/transitive-bullshit/agentic>
 -   <https://github.com/genkit-ai/genkit-by-example>
 -   <https://github.com/humanlayer/12-factor-agents>

@@ -269,6 +269,7 @@
 -   <https://github.com/privatenumber/link>
 -   <https://github.com/tmcdos/custompatch>
 -   <https://github.com/RetireJS/retire.js>
+-   <https://github.com/npmx-dev/npmx.dev>
 -   <https://github.com/megahertz/howfat>
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/amio/npm-why>

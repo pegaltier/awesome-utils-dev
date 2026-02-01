@@ -70,6 +70,7 @@
 -   <https://github.com/datasciencemasters/go>
 -   <https://github.com/ZYSzys/awesome-captcha>
 -   <https://github.com/devpato/tech-podcasts-list>
+-   <https://github.com/grpc-ecosystem/awesome-grpc>
 -   <https://github.com/LeCoupa/awesome-cheatsheets>
 -   <https://github.com/ryanburgess/engineer-manager>
 -   <https://github.com/patchy631/ai-engineering-hub>

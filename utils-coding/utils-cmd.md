@@ -34,6 +34,7 @@
 ## Utils
 
 -   <https://github.com/chmln/sd>
+-   <https://github.com/casey/just>
 -   <https://github.com/cheat/cheat>
 -   <https://github.com/sharkdp/bat>
 -   <https://github.com/nivekuil/rip>
