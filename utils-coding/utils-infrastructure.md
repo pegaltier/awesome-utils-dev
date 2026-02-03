@@ -234,7 +234,7 @@
 -   <https://github.com/inconshreveable/ngrok>
 -   <https://github.com/anderspitman/awesome-tunneling>
 
-## TOOLS: MONITORING / OBSERVABILITY / LOGGING / REPLAYING / TELEMETRY
+## TOOLS: MONITORING / OBSERVABILITY / LOGGING / REPLAYING / TELEMETRY / APM
 
 -   <https://github.com/open-telemetry/opentelemetry-demo>
 -   <https://github.com/open-telemetry/opentelemetry-js>
@@ -250,6 +250,7 @@
 -   <https://github.com/IKatsuba/openstatus>
 -   <https://github.com/asynkron/TraceLens>
 -   <https://github.com/hyperdxio/hyperdx>
+-   <https://github.com/uptrace/uptrace>
 -   <https://github.com/grafana/grafana>
 -   <https://github.com/SigNoz/signoz>
 -   <https://github.com/keephq/keep>

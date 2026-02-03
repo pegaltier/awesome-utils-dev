@@ -1028,6 +1028,7 @@
 -   <https://github.com/fmilthaler/FinQuant>
 -   <https://github.com/akumidv/catcher-bot>
 -   <https://github.com/mcdallas/wallstreet>
+-   <https://github.com/artnaz/wavetrend-3d>
 -   <https://github.com/51bitquant/howtrader>
 -   <https://github.com/tastyware/tastytrade>
 -   <https://github.com/letianzj/quanttrader> \*
@@ -1135,6 +1136,9 @@
 
 -   <https://github.com/neurallayer/roboquant>
 -   <https://github.com/prashant-one/strategy-master>
+
+## OSS: OTHERS
+-   <https://github.com/JKorf/Mexc.Net>
 
 ### OSS: JAVASCRIPT: GENETIC
 

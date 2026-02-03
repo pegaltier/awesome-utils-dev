@@ -731,6 +731,7 @@
 -   <https://github.com/tripolskypetr/di-kit>
 -   <https://github.com/Livshitz/di.libx.js>
 -   <https://github.com/nicojs/typed-inject>
+-   <https://github.com/borisrakovan/sandly>
 -   <https://github.com/ashleydavis/fusion>
 -   <https://github.com/mako-taco/dipstick>
 -   <https://github.com/microsoft/tsyringe>
@@ -925,9 +926,9 @@
 
 -   <https://github.com/svendahlstrand/web-serial-api>
 
+
 ## LIB: FRONTEND ALL
 
--   <https://github.com/ArthurClemens/JavaScript-Undo-Manager>
 -   <https://github.com/scottaohara/accessible_modal_window>
 -   <https://github.com/SamVerschueren/decode-uri-component>
 -   <https://github.com/NullVoxPopuli/should-handle-link>
@@ -983,6 +984,10 @@
 -   <https://github.com/xdan/jodit>
 -   <https://github.com/needim/noty>
 -   <https://github.com/ai/keyux>
+
+## LIB: FRONTEND UNDO REDO
+-   <https://github.com/ArthurClemens/JavaScript-Undo-Manager>
+-   <https://github.com/mutativejs/travels>
 
 ## LIB: FRONTEND ANIMATION
 
@@ -1618,6 +1623,7 @@
 -   <https://github.com/melonjs/melonJS>
 -   <https://github.com/jhlywa/chess.js>
 -   <https://github.com/olistic/warriorjs>
+-   <https://github.com/mrdoob/three-quake>
 -   <https://github.com/TitanPlayz100/teti>
 -   <https://github.com/pi0/space-invaders>
 -   <https://github.com/hydralauncher/hydra>

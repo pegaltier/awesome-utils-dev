@@ -573,7 +573,8 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/inertiajs/inertia>
 -   <https://github.com/decaporg/decap-cms>
 -   <https://github.com/payloadcms/payload>
--   <https://github.com/avitorio/outstatic*>
+-   <https://github.com/avitorio/outstatic>
+-   <https://github.com/SonicJs-Org/sonicjs>
 -   <https://github.com/wepublish/wepublish>
 -   <https://github.com/bigskysoftware/htmx>
 -   <https://github.com/withastro/starlight>

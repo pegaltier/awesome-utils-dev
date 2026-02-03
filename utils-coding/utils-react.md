@@ -151,6 +151,7 @@
 -   <https://github.com/facebook/relay>
 -   <https://github.com/TimboKZ/Chonky>
 -   <https://github.com/moroshko/basis>
+-   <https://github.com/nkzw-tech/fate>
 -   <https://github.com/TanStack/table>
 -   <https://github.com/vazco/uniforms>
 -   <https://github.com/Swizec/useAuth>

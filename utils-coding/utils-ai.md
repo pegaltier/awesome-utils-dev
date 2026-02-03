@@ -590,12 +590,10 @@
 
 ## TOOLS: CODING: OSS CLAUDE
 
--   <https://github.com/openai/skills>
 -   <https://github.com/winfunc/opcode>
 -   <https://github.com/21st-dev/1code>
 -   <https://github.com/wshobson/agents>
 -   <https://github.com/obra/superpowers>
--   <https://github.com/anthropics/skills>
 -   <http://github.com/vmihalis/tg-claude>
 -   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/steveyegge/gastown>
@@ -609,7 +607,6 @@
 -   <https://github.com/AndyMik90/Auto-Claude>
 -   <https://github.com/siteboon/claudecodeui>
 -   <https://github.com/sirmalloc/ccstatusline>
--   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/Doriandarko/claude-engineer>
 -   <https://github.com/davila7/claude-code-templates>
@@ -618,18 +615,23 @@
 -   <https://github.com/constellos/claude-code-plugins>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.com/OneRedOak/claude-code-workflows>
+-   <https://github.com/supermemoryai/claude-supermemory>
 -   <https://github.com/shareAI-lab/analysis_claude_code>
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
+-   <https://github.com/openai/skills>
+-   <https://github.com/anthropics/skills>
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
+-   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/OthmanAdi/planning-with-files>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
+-   <https://github.com/forrestchang/andrej-karpathy-skills>
 -   <https://github.com/yosietserga/ai-prompts-for-developers>
 -   <https://github.com/anthropics/prompt-eng-interactive-tutorial>
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
@@ -683,6 +685,7 @@
 
 ## TOOLS: SANDBOXING / CONTAINER
 
+-   <https://github.com/lukehinds/nono>
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/restyler/awesome-sandbox>
 -   <https://github.com/DeepBlueDynamics/codex-container>
@@ -877,6 +880,9 @@
 ## LIB: ASSISTANT
 
 -   <https://github.com/moltbot/moltbot>
+-   <https://github.com/gavrielc/nanoclaw>
+-   <https://github.com/openclaw/openclaw>
+-   <https://github.com/cloudflare/moltworker>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
 
 ## LIB: MACHINE LEARNING / ML
@@ -1418,6 +1424,8 @@
 ## LIB: ORCHESTRATION
 
 -   <https://github.com/openai/swarm>
+-   <https://github.com/superset-sh/superset>
+-   <https://github.com/pedramamini/Maestro>
 -   <https://github.com/awslabs/multi-agent-orchestrator>
 
 ## LIB: TEXT / TRANSLATION
@@ -1455,6 +1463,7 @@
 ## LIB: SOCIAL
 
 -   <https://github.com/David-patrick-chuks/Instagram-AI-Agent>
+-   <https://github.com/langchain-ai/social-media-agent>
 -   <https://github.com/ericciarla/trendFinder>
 -   <https://github.com/stanford-oval/storm>
 

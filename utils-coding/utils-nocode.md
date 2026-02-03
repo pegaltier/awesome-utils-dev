@@ -131,6 +131,7 @@ low-code tooling to prototype fastly.
 -   <https://github.com/vaadin/hilla>
 -   <https://github.com/frappe/frappe>
 -   <https://github.com/metarank/metarank>
+-   <https://github.com/plasmicapp/plasmic>
 -   <https://github.com/goldstack/goldstack>
 -   <https://github.com/appsmithorg/appsmith>
 -   <https://github.com/windmill-labs/windmill>
