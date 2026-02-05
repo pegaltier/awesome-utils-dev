@@ -375,21 +375,6 @@
 
 -   <https://github.com/mediar-ai/screenpipe>
 
-## TOOLS: OFFLINE / LOCAL / SELF HOST
-
--   <https://jan.ai/>
--   <https://lmstudio.ai/>
--   <https://github.com/lmstudio-ai>
--   <https://github.com/mudler/LocalAI>
--   <https://github.com/lmstudio-ai/lms>
--   <http://github.com/menloresearch/jan>
--   <https://github.com/frdel/agent-zero>
--   <https://github.com/Fosowl/agenticSeek>
--   <https://github.com/huggingface/open-r1>
--   <https://github.com/josStorer/RWKV-Runner>
--   <https://github.com/open-webui/open-webui>
--   <https://github.com/withcatai/node-llama-cpp>
-
 ## TOOLS: SUPPORT
 
 -   <https://www.mendable.ai/>
@@ -877,13 +862,28 @@
 -   <https://github.com/topoteretes/cognee>
 -   <https://github.com/letta-ai/letta-code>
 
-## LIB: ASSISTANT
+## LIB: 
 
+## TOOLS: ASSISTANT / OFFLINE / LOCAL / SELF HOST
+
+-   <https://jan.ai/>
+-   <https://lmstudio.ai/>
+-   <https://github.com/lmstudio-ai>
+-   <https://github.com/mudler/LocalAI>
+-   <https://github.com/lmstudio-ai/lms>
 -   <https://github.com/moltbot/moltbot>
+-   <http://github.com/menloresearch/jan>
+-   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
 -   <https://github.com/openclaw/openclaw>
+-   <https://github.com/Fosowl/agenticSeek>
+-   <https://github.com/huggingface/open-r1>
+-   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/cloudflare/moltworker>
+-   <https://github.com/open-webui/open-webui>
+-   <https://github.com/withcatai/node-llama-cpp>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
+
 
 ## LIB: MACHINE LEARNING / ML
 

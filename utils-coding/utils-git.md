@@ -66,6 +66,7 @@
 -   <https://github.com/github/github-app-js-sample>
 -   <https://github.com/nemisj/git-removed-branches>
 -   <https://github.com/githubocto/repo-visualizer>
+-   <https://github.com/standardgalactic/git-truck>
 -   <https://github.com/kreuzerk/import-conductor>
 -   <https://github.com/rafgraph/spa-github-pages>
 -   <https://github.com/AsyncFuncAI/deepwiki-open>
