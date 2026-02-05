@@ -950,6 +950,7 @@
 -   <https://github.com/zenorocha/clipboard.js>
 -   <https://github.com/pshihn/rough-notation>
 -   <https://github.com/giuseppeg/screensaver>
+-   <https://github.com/focus-trap/focus-trap>
 -   <https://github.com/codex-team/editor.js>
 -   <https://github.com/spaansba/ForesightJS>
 -   <https://github.com/mozilla/readability>
@@ -1580,6 +1581,7 @@
 -   <https://github.com/simonhaenisch/md-to-pdf>
 -   <https://github.com/OpenTermsArchive/engine>
 -   <https://github.com/alonrbar/easy-template-x>
+-   <https://github.com/embedpdf/embed-pdf-viewer>
 -   <https://github.com/open-xml-templating/docxtemplater>
 
 ## LIB: AUTOMATION

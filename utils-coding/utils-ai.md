@@ -542,6 +542,7 @@
 -   <https://github.com/BuilderIO/micro-agent>
 -   <https://github.com/Codium-ai/cover-agent>
 -   <https://github.com/trypear/pearai-master>
+-   <https://github.com/Dimillian/CodexMonitor>
 -   <https://github.com/mannaandpoem/OpenManus>
 -   <https://github.com/huggingface/llm-vscode>
 -   <https://github.com/abi/screenshot-to-code>
@@ -672,6 +673,7 @@
 
 -   <https://github.com/lukehinds/nono>
 -   <https://github.com/PwnFunction/sandbox>
+-   <https://github.com/smol-machines/smolvm>
 -   <https://github.com/restyler/awesome-sandbox>
 -   <https://github.com/DeepBlueDynamics/codex-container>
 
