@@ -429,23 +429,13 @@
 ## TOOLS: OSS
 
 -   <https://github.com/Nixtla/>
-
 -   <https://github.com/mistralai>
-
 -   <https://github.com/somewheresy>
-
 -   <https://github.com/kortix-ai/suna>
-
--   <https://github.com/mudler/LocalAI>
-
 -   <https://github.com/karpathy/nanochat>
-
 -   <https://github.com/cheshire-cat-ai/core>
-
 -   <https://github.com/danielmiessler/fabric>
-
 -   <https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent>
-
 -   <https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts>
 
 ## TOOLS: WEB
@@ -864,17 +854,19 @@
 -   <https://github.com/topoteretes/cognee>
 -   <https://github.com/letta-ai/letta-code>
 
-## LIB: 
-
-## TOOLS: ASSISTANT / OFFLINE / LOCAL / SELF HOST
+## TOOLS: OFFLINE / LOCAL
 
 -   <https://jan.ai/>
 -   <https://lmstudio.ai/>
 -   <https://github.com/lmstudio-ai>
 -   <https://github.com/mudler/LocalAI>
 -   <https://github.com/lmstudio-ai/lms>
--   <https://github.com/moltbot/moltbot>
 -   <http://github.com/menloresearch/jan>
+
+## TOOLS: ASSISTANT / SELF HOST
+
+-   <https://github.com/HKUDS/nanobot>
+-   <https://github.com/moltbot/moltbot>
 -   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
 -   <https://github.com/openclaw/openclaw>
