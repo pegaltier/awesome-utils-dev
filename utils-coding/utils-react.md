@@ -14,6 +14,7 @@
 -   [JAMSTACK](#jamstack)
 -   [GAME](#game)
 -   [LIB: TOOLING](#lib-tooling)
+-   [LIB: AI](#lib-ai)
 -   [LIB: ALL](#lib-all)
 -   [LIB: UI](#lib-ui)
 -   [DEMO](#demo)
@@ -134,6 +135,7 @@
 -   <https://github.com/yannickcr/eslint-plugin-react>
 
 ## LIB: AI
+
 -   <https://github.com/tambo-ai/tambo>
 
 ## LIB: ALL

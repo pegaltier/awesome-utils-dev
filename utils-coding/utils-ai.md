@@ -28,8 +28,6 @@
 
 -   [TOOLS: AI APP STORE](#tools-ai-app-store)
 
--   [TOOLS: OFFLINE / LOCAL / SELF HOST](#tools-offline--local--self-host)
-
 -   [TOOLS: SUPPORT](#tools-support)
 
 -   [TOOLS: ALL](#tools-all)
@@ -106,7 +104,9 @@
 
 -   [LIB: MEMORY](#lib-memory)
 
--   [LIB: ASSISTANT](#lib-assistant)
+-   [TOOLS: OFFLINE / LOCAL](#tools-offline--local)
+
+-   [TOOLS: ASSISTANT / SELF HOST](#tools-assistant--self-host)
 
 -   [LIB: MACHINE LEARNING / ML](#lib-machine-learning--ml)
 
@@ -878,7 +878,6 @@
 -   <https://github.com/withcatai/node-llama-cpp>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
 
-
 ## LIB: MACHINE LEARNING / ML
 
 -   <https://github.com/TabbyML/tabby>
@@ -1431,7 +1430,6 @@
 ## LIB: LABELLING
 
 -   <https://github.com/HumanSignal/label-studio>
-
 
 ## LIB: VIZ
 

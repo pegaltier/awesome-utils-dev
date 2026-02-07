@@ -10,6 +10,7 @@
 -   [STARTER](#starter)
 -   [TEMPLATES](#templates)
 -   [COURSES](#courses)
+-   [ENGINE](#engine)
 -   [TOOLS: LIST](#tools-list)
 -   [TOOLS: CODE](#tools-code)
 -   [TOOLS: SVG](#tools-svg)
@@ -152,7 +153,6 @@
 ## COURSES
 
 -   <https://developer.chrome.com/docs/css-ui/exclusive-accordion?hl=fr>
-
 
 ## ENGINE
 
@@ -660,6 +660,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/tengbao/vanta>
 -   <https://github.com/luruke/aladino>
 -   <https://github.com/gmrchk/blobity>
+-   <https://github.com/flozz/StackBlur>
 -   <https://github.com/7PH/powerglitch>
 -   <https://github.com/veltman/flubber>
 -   <https://github.com/taye/interact.js>

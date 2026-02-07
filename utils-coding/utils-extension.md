@@ -4,6 +4,7 @@
 
 -   [TOOLS](#tools)
 -   [UTILS](#utils)
+-   [FAMOUS](#famous)
 -   [STARTER](#starter)
 
 ## TOOLS
@@ -18,6 +19,7 @@
 -   <https://github.com/extension-js/extension.js>
 
 ## FAMOUS
+
 -   <https://github.com/microsoft/vscode-copilot-chat>
 
 ## STARTER

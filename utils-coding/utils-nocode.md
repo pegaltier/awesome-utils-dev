@@ -11,6 +11,7 @@ low-code tooling to prototype fastly.
 -   [landing](#landing)
 -   [mobile](#mobile)
 -   [documentation](#documentation)
+-   [ai](#ai)
 -   [opensource](#opensource)
 -   [lowcode](#lowcode)
 -   [business intelligence](#business-intelligence)
@@ -82,7 +83,6 @@ low-code tooling to prototype fastly.
 -   <https://github.com/tambo-ai/tambo>
 -   <https://github.com/miurla/morphic>
 -   <https://github.com/thesysdev/crayon>
-
 
 ## opensource
 

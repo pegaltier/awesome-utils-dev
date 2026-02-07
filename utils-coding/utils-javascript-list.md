@@ -24,8 +24,6 @@
 
 -   [BENCHMARKS](#benchmarks)
 
--   [PROMISE THEN VS AWAIT VS CHAINABLE](#promise-then-vs-await-vs-chainable)
-
 -   [EXAMPLE / STARTER](#example--starter)
 
 -   [TOOLS: OTHERS](#tools-others)
@@ -127,6 +125,8 @@
 -   [LIB: HARDWARE](#lib-hardware)
 
 -   [LIB: FRONTEND ALL](#lib-frontend-all)
+
+-   [LIB: FRONTEND UNDO REDO](#lib-frontend-undo-redo)
 
 -   [LIB: FRONTEND ANIMATION](#lib-frontend-animation)
 
@@ -926,7 +926,6 @@
 
 -   <https://github.com/svendahlstrand/web-serial-api>
 
-
 ## LIB: FRONTEND ALL
 
 -   <https://github.com/scottaohara/accessible_modal_window>
@@ -987,6 +986,7 @@
 -   <https://github.com/ai/keyux>
 
 ## LIB: FRONTEND UNDO REDO
+
 -   <https://github.com/ArthurClemens/JavaScript-Undo-Manager>
 -   <https://github.com/mutativejs/travels>
 

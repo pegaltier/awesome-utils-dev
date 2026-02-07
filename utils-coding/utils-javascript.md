@@ -10,6 +10,8 @@
 
 -   [OPTIMIZATION](#optimization)
 
+-   [WEIRD](#weird)
+
 -   [GARBAGE COLLECTOR](#garbage-collector)
 
 -   [CONTEXT / HOISTING](#context--hoisting)
@@ -66,6 +68,7 @@
 -   <https://thenewstack.io/how-to-master-javascript-performance-optimization>
 
 ## WEIRD
+
 -   <https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7>
 
 ## GARBAGE COLLECTOR

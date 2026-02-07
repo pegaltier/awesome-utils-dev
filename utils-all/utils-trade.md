@@ -100,6 +100,8 @@
 
 -   [OSS: JAVA](#oss-java)
 
+-   [OSS: OTHERS](#oss-others)
+
     -   [OSS: JAVASCRIPT: GENETIC](#oss-javascript-genetic)
     -   [OSS: JAVASCRIPT: MATH](#oss-javascript-math)
     -   [OSS: JAVASCRIPT: FOREX](#oss-javascript-forex)
@@ -1138,6 +1140,7 @@
 -   <https://github.com/prashant-one/strategy-master>
 
 ## OSS: OTHERS
+
 -   <https://github.com/JKorf/Mexc.Net>
 
 ### OSS: JAVASCRIPT: GENETIC
