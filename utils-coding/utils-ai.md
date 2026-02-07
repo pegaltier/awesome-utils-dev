@@ -566,6 +566,7 @@
 
 ## TOOLS: CODING: OSS CLAUDE
 
+-   <https://github.com/vm0-ai/vm0>
 -   <https://github.com/winfunc/opcode>
 -   <https://github.com/21st-dev/1code>
 -   <https://github.com/wshobson/agents>
@@ -661,6 +662,7 @@
 
 ## TOOLS: SANDBOXING / CONTAINER
 
+-   <https://github.com/vm0-ai/vm0>
 -   <https://github.com/lukehinds/nono>
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/smol-machines/smolvm>

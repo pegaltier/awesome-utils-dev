@@ -1023,6 +1023,7 @@
 -   <https://github.com/michaelchu/optopsy>
 -   <https://github.com/suchak1/hyperdrive>
 -   <https://github.com/beatzxbt/bybit-smm>
+-   <https://github.com/highfestiva/finplot>
 -   <https://github.com/enzoampil/fastquant>
 -   <https://github.com/cvxgrp/cvxportfolio> \*
 -   <https://github.com/freqtrade/freqtrade> \*
