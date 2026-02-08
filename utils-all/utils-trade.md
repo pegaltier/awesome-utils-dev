@@ -1054,6 +1054,7 @@
 -   <https://github.com/algobulls/pyalgotrading>
 -   <https://github.com/StrateQueue/StrateQueue> \*
 -   <https://github.com/jmfernandes/robin_stocks>
+-   <https://github.com/pranjal-joshi/Screeni-py>
 -   <https://github.com/fortitudo-tech/pcrm-book>
 -   <https://github.com/plytostrading/algobrute>
 -   <https://github.com/quantrocket-llc/moonshot>

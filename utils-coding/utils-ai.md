@@ -520,6 +520,7 @@
 -   <https://github.com/paul-gauthier/aider>
 -   <https://github.com/fauxpilot/fauxpilot>
 -   <https://github.com/OpenDevin/OpenDevin>
+-   <https://github.com/BloopAI/vibe-kanban>
 -   <https://github.com/bytedance/trae-agent>
 -   <https://github.com/dagger/container-use>
 -   <https://github.com/Integuru-AI/Integuru>
@@ -665,6 +666,7 @@
 -   <https://github.com/vm0-ai/vm0>
 -   <https://github.com/lukehinds/nono>
 -   <https://github.com/PwnFunction/sandbox>
+-   <https://github.com/jingkaihe/matchlock>
 -   <https://github.com/smol-machines/smolvm>
 -   <https://github.com/earendil-works/gondolin>
 -   <https://github.com/restyler/awesome-sandbox>
@@ -879,6 +881,7 @@
 -   <https://github.com/cloudflare/moltworker>
 -   <https://github.com/open-webui/open-webui>
 -   <https://github.com/withcatai/node-llama-cpp>
+-   <https://github.com/backslash-security/Claw-Hunter>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
 
 ## LIB: MACHINE LEARNING / ML
@@ -1085,6 +1088,7 @@
 -   <https://github.com/igrigorik/AgentBoard>
 -   <https://github.com/hyperb1iss/droidmind>
 -   <https://github.com/getdatanaut/openmcp>
+-   <https://github.com/steipete/mcporter>
 -   <https://github.com/upstash/context7>
 -   <https://github.com/punkpeye/fastmcp>
 -   <https://github.com/lirantal/ls-mcp>
