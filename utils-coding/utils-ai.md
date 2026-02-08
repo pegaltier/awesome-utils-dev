@@ -444,6 +444,7 @@
 
 ## TOOLS: CODING
 
+-   <https://ui.sh/>
 -   <https://v0.dev/>
 -   <https://idx.dev/>
 -   <https://e2b.dev/>
@@ -453,6 +454,7 @@
 -   <https://uizard.io/>
 -   <https://debuild.co/>
 -   <https://codegpt.co/>
+-   <https://shipper.now/>
 -   <https://lovable.dev/>
 -   <https://www.trae.ai/>
 -   <https://ampcode.com/>
@@ -606,6 +608,7 @@
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/agentskills/agentskills>
+-   <https://github.com/tech-leads-club/agent-skills>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/OthmanAdi/planning-with-files>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>

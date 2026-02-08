@@ -350,6 +350,15 @@
 -   <https://github.com/DevOpsLP/Historical-data-fetcher/tree/main>
 -   <https://github.com/public-apis/public-apis?tab=readme-ov-file#finance>
 
+## QUOTES: LIVE
+
+-   <https://metalcharts.org>
+-   <https://finance.yahoo.com>
+
+## QUOTES: ETF
+
+-   <https://finance.yahoo.com/quote/PQNT/>
+
 ## LIST: OSS
 
 -   <https://github.com/KatanaQuant/newsletter>
@@ -1263,6 +1272,7 @@
 -   <https://github.com/QuantForgeOrg/QFChart>
 -   <https://github.com/tvjsx/trading-vue-js>
 -   <https://github.com/andredumas/techan.js>
+-   <https://github.com/dcaoyuan/vibetrader>
 -   <https://github.com/topics/stock-chart>
 -   <https://github.com/jones2000/HQChart>
 -   <https://github.com/chartjs/Chart.js>

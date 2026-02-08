@@ -717,6 +717,7 @@
 -   <https://github.com/node-cache/node-cache>
 -   <https://github.com/erikras/lru-memoize>
 -   <https://github.com/unjs/unstorage>
+-   <https://github.com/redis/ioredis>
 -   <https://github.com/aduth/memize>
 
 ## LIB: DI / DEPENDENCY INJECTION
