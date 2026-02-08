@@ -872,6 +872,7 @@
 
 -   <https://github.com/HKUDS/nanobot>
 -   <https://github.com/moltbot/moltbot>
+-   <https://github.com/adridder/moltron>
 -   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
 -   <https://github.com/openclaw/openclaw>
@@ -1424,8 +1425,9 @@
 ## LIB: ORCHESTRATION
 
 -   <https://github.com/openai/swarm>
--   <https://github.com/superset-sh/superset>
+-   <https://github.com/subsy/ralph-tui>
 -   <https://github.com/pedramamini/Maestro>
+-   <https://github.com/superset-sh/superset>
 -   <https://github.com/awslabs/multi-agent-orchestrator>
 
 ## LIB: TEXT / TRANSLATION

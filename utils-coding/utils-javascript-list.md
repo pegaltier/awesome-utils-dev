@@ -714,6 +714,7 @@
 -   <https://github.com/thinkloop/memoizerific>
 -   <https://github.com/dai-shi/proxy-memoize>
 -   <https://github.com/epicweb-dev/cachified>
+-   <https://github.com/node-cache/node-cache>
 -   <https://github.com/erikras/lru-memoize>
 -   <https://github.com/unjs/unstorage>
 -   <https://github.com/aduth/memize>
@@ -1398,6 +1399,7 @@
 
 ## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK
 
+-   <https://github.com/mljs/ml>
 -   <https://github.com/harthur/brain>
 -   <https://github.com/tensorflow/tfjs>
 -   <https://github.com/BrainJS/brain.js>
@@ -1598,6 +1600,7 @@
 -   <https://github.com/Marak/faker.js>
 -   <https://github.com/boblauer/MockDate>
 -   <https://github.com/mcollina/autocannon>
+-   <https://github.com/artilleryio/artillery>
 -   <https://github.com/Meldiron/faker-generator>
 
 ## LIB: SECURITY
