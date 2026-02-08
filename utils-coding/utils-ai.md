@@ -666,6 +666,7 @@
 -   <https://github.com/lukehinds/nono>
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/smol-machines/smolvm>
+-   <https://github.com/earendil-works/gondolin>
 -   <https://github.com/restyler/awesome-sandbox>
 -   <https://github.com/DeepBlueDynamics/codex-container>
 

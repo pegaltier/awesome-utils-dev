@@ -413,6 +413,7 @@
 -   <https://flowchart.fun/>
 -   <https://excalidraw.com/>
 -   <https://playground.diagram.codes/>
+-   <https://github.com/likec4/likec4>
 -   <https://github.com/cowchimp/source-viz>
 -   <https://github.com/stan-smith/FossFLOW>
 -   <https://github.com/excalidraw/excalidraw>

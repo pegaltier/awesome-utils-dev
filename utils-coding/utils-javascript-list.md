@@ -978,6 +978,7 @@
 -   <https://github.com/any86/any-touch>
 -   <https://github.com/matthewp/robot>
 -   <https://github.com/YC/coming-soon>
+-   <https://github.com/wiedymi/restty>
 -   <https://github.com/antfu/shikiji>
 -   <https://github.com/mikecao/umami>
 -   <https://github.com/angus-c/just>

@@ -156,6 +156,7 @@
 -   <https://github.com/hackerschoice/ssh-key-backdoor>
 -   <https://github.com/NationalSecurityAgency/ghidra>
 -   <https://github.com/Whitecat18/Javahexor>
+-   <https://github.com/KeygraphHQ/shannon>
 
 ## TOOLS: OSS: DEFENSIVE
 
