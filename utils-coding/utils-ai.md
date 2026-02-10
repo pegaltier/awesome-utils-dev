@@ -884,6 +884,8 @@
 -   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/cloudflare/moltworker>
 -   <https://github.com/open-webui/open-webui>
+-   <https://github.com/archestra-ai/archestra>
+-   <https://github.com/stephengpope/thepopebot>
 -   <https://github.com/withcatai/node-llama-cpp>
 -   <https://github.com/backslash-security/Claw-Hunter>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>

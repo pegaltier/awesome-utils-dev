@@ -69,6 +69,7 @@
 -   <https://github.com/Lissy93/personal-security-checklist>
 -   <https://github.com/Escapingbug/awesome-browser-exploit>
 -   <https://github.com/charlesmorisset/known-cyber-attacks>
+-   <https://github.com/farhanashrafdev/90DaysOfCyberSecurity>
 -   <https://github.com/OWASP/www-project-top-10-ci-cd-security-risks>
 -   <https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet>
 -   <https://github.com/tadwhitaker/Security_Engineer_Interview_Questions>
@@ -154,6 +155,7 @@
 -   <https://github.com/Whitecat18/earlycascade-injection>
 -   <https://github.com/mgeeky/Penetration-Testing-Tools>
 -   <https://github.com/hackerschoice/ssh-key-backdoor>
+-   <https://github.com/Cryakl/Ultimate-RAT-Collection>
 -   <https://github.com/NationalSecurityAgency/ghidra>
 -   <https://github.com/Whitecat18/Javahexor>
 -   <https://github.com/KeygraphHQ/shannon>

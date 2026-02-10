@@ -185,6 +185,7 @@
 -   <https://github.com/oven-sh/bun>
 -   <https://github.com/denoland/deno>
 -   <https://github.com/elide-dev/elide>
+-   <https://github.com/macaly/almostnode>
 
 ## BUNDLER / BUILDER
 
@@ -440,6 +441,7 @@
 -   <https://github.com/jofpin/turbit>
 -   <https://github.com/piscinajs/piscina>
 -   <https://github.com/tinylibs/tinypool>
+-   <https://github.com/bikeshaving/shovel>
 -   <https://github.com/mcollina/everysync>
 -   <https://github.com/poolifier/poolifier>
 -   <https://github.com/W4G1/multithreading>

@@ -820,6 +820,9 @@
 ## LIB: PARSER JAVASCRIPT INTERPRETER
 
 -   <https://github.com/NeilFraser/JS-Interpreter>
+-   <https://github.com/ocsigen/js_of_ocaml>
+-   <https://github.com/macaly/almostnode>
+-   <https://github.com/meriyah/meriyah>
 -   <https://github.com/bramblex/jsjs>
 -   <https://github.com/Siubaak/sval>
 -   <https://github.com/ohmjs/ohm>

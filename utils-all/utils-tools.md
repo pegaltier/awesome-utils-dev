@@ -386,7 +386,7 @@
 -   <https://github.com/traceo-dev/traceo>
 -   <https://github.com/TigerVNC/tigervnc>
 -   <https://github.com/Vendicated/Vencord>
--   <https://github.com/plait-board/drawnix>
+-   <https://github.com/suitenumerique/meet>
 -   <https://github.com/plait-board/drawnix>
 -   <https://github.com/jsfiddle/togetherjs>
 -   <https://github.com/toeverything/AFFiNE>
@@ -449,6 +449,7 @@
 -   <https://github.com/Free-TV/IPTV>
 -   <https://github.com/iptv-org/iptv>
 -   <https://github.com/jvdillon/netv>
+-   <https://github.com/4gray/iptvnator>
 
 ## List
 
