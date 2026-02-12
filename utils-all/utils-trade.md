@@ -1249,6 +1249,7 @@
 ### OSS: JAVASCRIPT: TRADES ONLY
 
 -   <https://github.com/marketcalls/openalgo-node>
+-   <https://github.com/danielgroen/dxtrade-api>
 
 ### OSS: JAVASCRIPT: CHART
 

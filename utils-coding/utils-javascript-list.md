@@ -1403,19 +1403,25 @@
 
 ## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK
 
+-   <https://github.com/jsmlt>
 -   <https://github.com/mljs/ml>
+-   <https://github.com/mljs/knn>
+-   <https://github.com/proin/nodeml>
 -   <https://github.com/harthur/brain>
 -   <https://github.com/tensorflow/tfjs>
 -   <https://github.com/BrainJS/brain.js>
 -   <https://github.com/zemlyansky/arima>
 -   <https://github.com/sbyrnes/bloom.js>
 -   <https://github.com/sbyrnes/likely.js>
+-   <https://github.com/jimkang/annoy-node>
 -   <https://github.com/jaimelias/xy-scale>
 -   <https://github.com/sbyrnes/classify.js>
 -   <https://github.com/panchishin/neuralnet>
 -   <https://github.com/TomaszRewak/ML-games>
 -   <https://github.com/wagenaartje/neataptic>
 -   <https://github.com/tensorflow/tfjs-models>
+-   <https://github.com/lettier/interactiveknn>
+-   <https://github.com/artificialscience/k-nn>
 -   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/sbyrnes/DataScience_in_Node.js>
 -   <https://github.com/nearform/node-hidden-markov-model-tf>

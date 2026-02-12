@@ -879,6 +879,7 @@
 -   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
 -   <https://github.com/openclaw/openclaw>
+-   <https://github.com/ValueCell-ai/ClawX>
 -   <https://github.com/Fosowl/agenticSeek>
 -   <https://github.com/huggingface/open-r1>
 -   <https://github.com/josStorer/RWKV-Runner>
@@ -1082,6 +1083,7 @@
 -   <https://github.com/leonardsellem/n8n-mcp-server>
 -   <https://github.com/omar-haris/smart-coding-mcp>
 -   <https://github.com/gioboa/mcp-typescript-sdk>
+-   <https://github.com/microsoft/playwright-cli>
 -   <https://github.com/exa-labs/exa-mcp-server>
 -   <https://github.com/sooperset/mcp-atlassian>
 -   <https://github.com/GLips/Figma-Context-MCP>
@@ -1100,6 +1102,7 @@
 -   <https://github.com/lirantal/ls-mcp>
 -   <https://github.com/idosal/git-mcp>
 -   <https://github.com/anthropics/dxt>
+-   <https://github.com/tobi/qmd>
 
 ## LIB: BPE
 
@@ -1293,6 +1296,7 @@
 
 -   <https://github.com/Agenta-AI/agenta>
 -   <https://github.com/mattpocock/evalite>
+-   <https://github.com/qualifire-dev/rogue>
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
 
@@ -1322,6 +1326,7 @@
 -   <https://github.com/bytedance/MegaTTS3>
 -   <https://github.com/KittenML/KittenTTS>
 -   <https://github.com/kyutai-labs/moshi>
+-   <https://github.com/VoxtralAI/voxtral>
 -   <https://github.com/xming521/WeClone>
 -   <https://github.com/yl4579/StyleTTS2>
 -   <https://github.com/Jackywine/Bella>

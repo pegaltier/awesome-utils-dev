@@ -76,6 +76,9 @@
 -   <https://github.com/FerretDB/FerretDB>
 -   <https://github.com/skytable/skytable>
 
+## VECTOR
+-   <https://github.com/alibaba/zvec>
+
 ## SQLITE
 
 -   <https://github.com/sqlite/sqlite>
