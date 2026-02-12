@@ -869,6 +869,7 @@
 
 ### OSS: AWESOME
 
+-   <https://github.com/tatsath/fin-ml>
 -   <https://github.com/dingran/quant-notes>
 -   <https://github.com/suenot/awesome-ccxt>
 -   <https://github.com/shashankvemuri/Finance>
@@ -891,6 +892,7 @@
 ### OSS: ALL
 
 -   <https://github.com/adrianhajdin/signalist_stock-tracker-app>
+-   <https://github.com/Jon-Becker/prediction-market-analysis>
 -   <https://github.com/derekcheungsa/autogpt-openbb-sdk>
 -   <https://github.com/OpenBB-finance/OpenBBTerminal>
 -   <https://github.com/Open-Dev-Society/OpenStock>

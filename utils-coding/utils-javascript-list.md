@@ -1401,7 +1401,13 @@
 -   <https://github.com/huggingface/transformers.js>
 -   <https://github.com/huggingface/transformers.js-examples>
 
-## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK
+## LIB: AI / DEEP LEARNING / NEURAL NETWORK
+
+-   <https://github.com/lutzroeder/netron>
+-   <https://github.com/panchishin/neuralnet>
+-   <https://github.com/janhuenermann/neurojs>
+
+## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING
 
 -   <https://github.com/jsmlt>
 -   <https://github.com/mljs/ml>
@@ -1416,7 +1422,6 @@
 -   <https://github.com/jimkang/annoy-node>
 -   <https://github.com/jaimelias/xy-scale>
 -   <https://github.com/sbyrnes/classify.js>
--   <https://github.com/panchishin/neuralnet>
 -   <https://github.com/TomaszRewak/ML-games>
 -   <https://github.com/wagenaartje/neataptic>
 -   <https://github.com/tensorflow/tfjs-models>
