@@ -1327,6 +1327,7 @@
 -   <https://github.com/KittenML/KittenTTS>
 -   <https://github.com/kyutai-labs/moshi>
 -   <https://github.com/VoxtralAI/voxtral>
+-   <https://github.com/OpenMOSS/MOSS-TTS>
 -   <https://github.com/xming521/WeClone>
 -   <https://github.com/yl4579/StyleTTS2>
 -   <https://github.com/Jackywine/Bella>

@@ -184,6 +184,9 @@
 -   <http://www.javadecompilers.com/>
 -   <https://www.moderne.ai/>
 
+## LIBS: SEARCH
+-   <https://github.com/datastax/jvector>
+
 ## LIBS: DI
 
 -   <https://github.com/google/dagger>

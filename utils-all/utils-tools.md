@@ -151,6 +151,9 @@
 -   <https://github.com/johannesjo/super-productivity>
 -   <https://github.com/uwidev/life-disciplines-projects>
 
+## OSS: NEWS
+-   <https://github.com/koala73/worldmonitor>
+
 ## OSS: MESSAGING BOT
 
 -   <https://github.com/telegraf/telegraf>
@@ -363,6 +366,11 @@
 
 -   <https://github.com/johannesjo/super-productivity>
 -   <https://github.com/chrisvel/tududi>
+
+## OSS: COMMUNICATE
+-   <https://github.com/lightningrodlabs/moss>
+-   <https://github.com/spacebarchat/server>
+-   <https://github.com/stoatchat>
 
 ## OSS: COLLABORATE
 

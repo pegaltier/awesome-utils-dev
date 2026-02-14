@@ -1420,9 +1420,12 @@
 -   <https://github.com/sbyrnes/bloom.js>
 -   <https://github.com/sbyrnes/likely.js>
 -   <https://github.com/jimkang/annoy-node>
+-   <https://github.com/waihongchung/dress>
 -   <https://github.com/jaimelias/xy-scale>
 -   <https://github.com/sbyrnes/classify.js>
 -   <https://github.com/TomaszRewak/ML-games>
+-   <https://github.com/kwichmann/ml_sandbox>
+-   <https://github.com/davide97g/ml-modules>
 -   <https://github.com/wagenaartje/neataptic>
 -   <https://github.com/tensorflow/tfjs-models>
 -   <https://github.com/lettier/interactiveknn>

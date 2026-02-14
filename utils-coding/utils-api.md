@@ -99,6 +99,7 @@
 -   <https://github.com/readmeio/oas>
 -   <https://github.com/long-woo/stc>
 -   <https://github.com/scalar/scalar>
+-   <https://github.com/asyncapi/spec>
 -   <https://github.com/kubb-labs/kubb>
 -   <https://github.com/Azure/autorest>
 -   <https://github.com/lukeautry/tsoa>
