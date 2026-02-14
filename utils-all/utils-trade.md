@@ -924,6 +924,7 @@
 -   <https://github.com/BingX-API>
 -   <https://github.com/stoqey/ib> \*
 -   <https://github.com/ccxt/ccxt>
+-   <https://github.com/pmxt-dev/pmxt>
 -   <https://github.com/stoqey/ibkr>
 -   <https://github.com/knowm/XChange> \*
 -   <https://github.com/gateio/gateapi-nodejs> \*
@@ -1112,6 +1113,7 @@
 -   <https://github.com/CacheMoneyPlaya/cointegration-pair-v1>
 -   <https://github.com/akurgat/automating-technical-analysis>
 -   <https://github.com/rhettre/coinbase-advancedtrade-python>
+-   <https://github.com/hackingthemarkets/candlestick-screener>
 -   <https://github.com/sreenivasdoosa/sdoosa-algo-trade-python>
 -   <https://github.com/AliHabibnia/Algorithmic_Trading_with_Python> \*
 -   <https://github.com/coding-kitties/investing-algorithm-framework> \*

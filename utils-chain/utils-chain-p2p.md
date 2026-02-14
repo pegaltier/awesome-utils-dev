@@ -26,6 +26,12 @@
 -   <https://earthstar-project.org/>
 -   <https://www.digital-democracy.org/mapeo>
 
+## MESH
+
+-   <https://meshmap.net/>
+-   <https://map.nycmesh.net/>
+-   <https://guifi.net/guifi/map>
+
 ## OSS
 
 -   <https://github.com/nknorg>

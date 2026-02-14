@@ -84,6 +84,7 @@
 -   <https://github.com/tekaratzas/RustGPT>
 -   <https://github.com/0xPlaygrounds/rig>
 -   <https://github.com/floneum/floneum>
+-   <https://github.com/PCfVW/plip-rs>
 
 ## LIB: DB
 

@@ -579,6 +579,7 @@
 
 ## SWAP: CROSS-CHAIN MULTI-CHAIN
 
+-   <https://www.wagyu.xyz/>
 -   <https://solswap.org/>
 -   <https://app.near-intents.org/>
 -   <https://sonic.fantomstarter.io/interchain>

@@ -331,6 +331,7 @@
 -   <https://github.com/ProxymanApp/Proxyman>
 -   <https://github.com/requestly/requestly>
 -   <https://github.com/connet-dev/connet>
+-   <https://github.com/fatedier/frp>
 -   <https://www.telerik.com/fiddler>
 -   <https://www.charlesproxy.com/>
 

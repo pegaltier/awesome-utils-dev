@@ -77,6 +77,7 @@
 -   <https://github.com/minamarkham/formation>
 -   <https://github.com/jacklandrin/OnlySwitch>
 -   <https://github.com/alienator88/Pearcleaner>
+-   <https://github.com/LiveContainer/LiveContainer>
 -   <https://github.com/NativeScript/template-macos-solid>
 -   <https://apps.apple.com/us/app/magnet/id441258766?mt=12>
 
@@ -161,6 +162,7 @@ Object {}: Option + 8/9
 Pipe |: Option + 7
 
 ## MOBILE DEV
+
 
 ### Tips (iOS/Android)
 

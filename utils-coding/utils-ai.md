@@ -874,6 +874,7 @@
 ## TOOLS: ASSISTANT / SELF HOST
 
 -   <https://github.com/HKUDS/nanobot>
+-   <https://github.com/sipeed/picoclaw>
 -   <https://github.com/moltbot/moltbot>
 -   <https://github.com/adridder/moltron>
 -   <https://github.com/frdel/agent-zero>
@@ -890,6 +891,7 @@
 -   <https://github.com/withcatai/node-llama-cpp>
 -   <https://github.com/backslash-security/Claw-Hunter>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
+-   <https://github.com/hesamsheikh/awesome-openclaw-usecases>
 
 ## LIB: MACHINE LEARNING / ML
 
@@ -1294,6 +1296,7 @@
 
 ## LIB: EVALS
 
+-   <https://github.com/basalt-ai/cobalt>
 -   <https://github.com/Agenta-AI/agenta>
 -   <https://github.com/mattpocock/evalite>
 -   <https://github.com/qualifire-dev/rogue>

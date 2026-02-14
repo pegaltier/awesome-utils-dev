@@ -1626,6 +1626,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/aikoven/typescript-fsa>
 -   <https://github.com/lacolaco/reactive-store>
 -   <https://github.com/adrianhdezm/ngx-xstate>
+-   <https://github.com/ng-angular-stack/ng-craft>
 -   <https://github.com/ultimatecourses/lite-store>
 -   <https://github.com/lVlyke/lithium-angular>
 -   <https://github.com/AmadeusITGroup/tansu>
@@ -1747,6 +1748,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/billyjov/microfrontend-resources>
 -   <https://github.com/Azure-Samples/contoso-real-estate>
 -   <https://github.com/rajasegar/awesome-micro-frontends>
+-   <https://github.com/native-federation/native-federation-core>
 -   <https://github.com/angular-architects/native-federation-tools>
 -   <https://github.com/SchweizerischeBundesbahnen/scion-microfrontend-platform>
 -   <https://github.com/alexzuza/angular-plugin-architecture-with-module-federation>
@@ -2342,6 +2344,7 @@ Learn the best way to make your objects immutable.
 ## ECOSYSTEM: LIB: SIGNALS
 
 -   <https://github.com/khvedela/ng-spark>
+-   <https://github.com/ng-forge/ng-forge>
 -   <https://github.com/martsinlabs/ngx-mq>
 -   <https://github.com/alcfeoh/ngx-signalify>
 -   <https://github.com/gabrielguerrero/ngrx-traits>

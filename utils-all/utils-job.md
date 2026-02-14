@@ -229,3 +229,9 @@ careerbuilder
 jobeo  
 Onvabosser  
 wellpaid.io
+
+
+## SWISS
+
+-   <https://swissdevjobs.ch>
+-   <https://www.getyourfreefast.ch/>

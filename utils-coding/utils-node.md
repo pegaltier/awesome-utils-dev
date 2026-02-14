@@ -767,6 +767,7 @@
 -   <https://github.com/hexojs/hexo>
 -   <https://github.com/nestjs/nest>
 -   <https://github.com/tsedio/tsed>
+-   <https://github.com/nevr-ts/nevr>
 -   <https://github.com/marcj/deepkit>
 -   <https://github.com/strapi/strapi>
 -   <https://github.com/remult/remult>
@@ -864,10 +865,13 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 -   <https://techsparx.com/nodejs/typescript/modules-01.html>
 -   <https://blog.logrocket.com/commonjs-vs-es-modules-node-js/>
 -   <https://www.typescriptlang.org/docs/handbook/esm-node.html>
+-   <https://github.com/arethetypeswrong/arethetypeswrong.github.io>
 -   <https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/>
 -   <https://leapcell.io/blog/modernizing-node-js-projects-with-es-modules>
 -   <https://adamcoster.com/blog/commonjs-and-esm-importexport-compatibility-examples>
+-   <https://blog.devgenius.io/compiling-from-typescript-with-js-extension-e2b6de3e6baf>
 -   <https://joyeecheung.github.io/blog/2025/12/30/require-esm-in-node-js-implementers-tales/>
--   <https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2>
 -   <https://stackoverflow.com/questions/33535879/how-to-run-typescript-files-from-command-line>
+-   <https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2>
+-   <https://siddsr0015.medium.com/javascript-modules-in-2025-esm-import-maps-best-practices-7b6996fa8ea3>
 -   <https://lea.verou.me/blog/2020/07/import-non-esm-libraries-in-es-modules-with-client-side-vanilla-js/>
