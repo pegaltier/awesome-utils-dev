@@ -1412,6 +1412,7 @@
 -   <https://github.com/jsmlt>
 -   <https://github.com/mljs/ml>
 -   <https://github.com/mljs/knn>
+-   <https://github.com/mljs/matrix>
 -   <https://github.com/proin/nodeml>
 -   <https://github.com/harthur/brain>
 -   <https://github.com/tensorflow/tfjs>
@@ -1430,9 +1431,12 @@
 -   <https://github.com/tensorflow/tfjs-models>
 -   <https://github.com/lettier/interactiveknn>
 -   <https://github.com/artificialscience/k-nn>
+-   <https://github.com/ubilabs/kd-tree-javascript>
 -   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/sbyrnes/DataScience_in_Node.js>
 -   <https://github.com/nearform/node-hidden-markov-model-tf>
+-   <https://github.com/Mansafreo/Primitive-KNN-in-Javascript>
+-   <https://github.com/abhisheksoni27/machine-learning-with-js>
 -   <https://github.com/jinglescode/time-series-forecasting-tensorflowjs>
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED

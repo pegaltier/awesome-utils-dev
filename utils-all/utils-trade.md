@@ -343,6 +343,7 @@
 -   <https://github.com/Leo4815162342/dukascopy-node> \*
 -   <https://github.com/CoinQuanta/awesome-crypto-api>
 -   <https://github.com/ThetaData-API/thetadata-python>
+-   <https://github.com/lionelschiepers/StockQuotes.MCP>
 -   <https://github.com/DavideViolante/investing-com-api> \*
 -   <https://github.com/awesomedata/awesome-public-datasets>
 -   <https://github.com/Zdong104/FNSPID_Financial_News_Dataset>
