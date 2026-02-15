@@ -26,6 +26,7 @@
 -   <https://github.com/jasperweyne/unwasm>
 -   <https://github.com/JonasKruckenberg/k23>
 -   <https://github.com/emscripten-core/emsdk>
+-   <https://github.com/mbbill/Silverfir-nano>
 -   <https://github.com/bytecodealliance/javy>
 -   <https://github.com/joelseverin/linux-wasm>
 -   <https://github.com/bytecodealliance/weval>

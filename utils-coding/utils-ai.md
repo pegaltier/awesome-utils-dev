@@ -500,7 +500,6 @@
 -   <https://github.com/gptlint/gptlint>
 -   <https://github.com/get-convex/chef>
 -   <https://github.com/pullfrog/action>
--   <https://github.com/eigent-ai/eigent>
 -   <https://github.com/iOfficeAI/AionUi>
 -   <https://github.com/manaflow-ai/cmux>
 -   <https://github.com/omnara-ai/omnara>
@@ -608,6 +607,7 @@
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/agentskills/agentskills>
+-   <https://github.com/google-gemini/gemini-skills>
 -   <https://github.com/tech-leads-club/agent-skills>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/OthmanAdi/planning-with-files>
@@ -871,17 +871,20 @@
 -   <https://github.com/lmstudio-ai/lms>
 -   <http://github.com/menloresearch/jan>
 
-## TOOLS: ASSISTANT / SELF HOST
+## TOOLS: ASSISTANT / COWORK SELF HOST
 
 -   <https://github.com/HKUDS/nanobot>
+-   <https://github.com/jlia0/tinyclaw>
 -   <https://github.com/sipeed/picoclaw>
 -   <https://github.com/moltbot/moltbot>
 -   <https://github.com/adridder/moltron>
+-   <https://github.com/eigent-ai/eigent>
 -   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
 -   <https://github.com/openclaw/openclaw>
 -   <https://github.com/ValueCell-ai/ClawX>
 -   <https://github.com/Fosowl/agenticSeek>
+-   <https://github.com/rowboatlabs/rowboat>
 -   <https://github.com/huggingface/open-r1>
 -   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/cloudflare/moltworker>
@@ -960,6 +963,7 @@
 ## LIB: MULTI AGENT
 
 -   <https://github.com/OpenPipe/ART>
+-   <https://github.com/camel-ai/camel>
 -   <https://github.com/crewAIInc/crewAI>
 -   <https://github.com/Ido-Levi/Hephaestus>
 -   <https://github.com/Gen-Verse/LatentMAS>
@@ -1033,6 +1037,7 @@
 -   <https://github.com/getmaxun/maxun>
 -   <https://github.com/QuivrHQ/MegaParse>
 -   <https://github.com/addyosmani/git2txt>
+-   <https://github.com/steipete/summarize>
 -   <https://github.com/unclecode/crawl4ai>
 -   <https://github.com/mendableai/firecrawl>
 -   <https://github.com/microsoft/markitdown>
@@ -1303,11 +1308,10 @@
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
 
-## LIB: AUDIO / TTS / TRANSCRIPT
+## LIB: AUDIO / TTS
 
 -   <https://github.com/kyutai-labs/delayed-streams-modeling>
 -   <https://github.com/modelscope/ClearerVoice-Studio>
--   <https://github.com/Meeting-Baas/transcript-seeker>
 -   <https://github.com/linto-ai/whisper-timestamped>
 -   <https://github.com/jianchang512/ChatTTS-ui>
 -   <https://github.com/eustlb/speech-to-speech>
@@ -1341,6 +1345,11 @@
 -   <https://github.com/suno-ai/bark>
 -   <https://github.com/coqui-ai/TTS>
 -   <https://github.com/cjpais/Handy>
+
+## LIB: AUDIO / TRANSCRIPT
+
+-   <https://github.com/Meeting-Baas/transcript-seeker>
+-   <https://github.com/amicalhq/amical>
 
 ## LIB: VIDEO
 
