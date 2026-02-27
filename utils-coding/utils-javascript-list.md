@@ -1271,6 +1271,7 @@
 -   <https://github.com/google/model-viewer>
 -   <https://github.com/kleisauke/wasm-vips>
 -   <https://github.com/joye61/pic-smaller>
+-   <https://github.com/image-js/image-js>
 -   <https://github.com/aFarkas/lazysizes>
 -   <https://github.com/LuanRT/YouTube.js>
 -   <https://github.com/imagemin/imagemin>

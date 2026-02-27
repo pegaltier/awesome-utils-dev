@@ -445,6 +445,7 @@
 -   <https://github.com/tinylibs/tinypool>
 -   <https://github.com/bikeshaving/shovel>
 -   <https://github.com/mcollina/everysync>
+-   <https://github.com/wendelmax/tasklets>
 -   <https://github.com/poolifier/poolifier>
 -   <https://github.com/W4G1/multithreading>
 -   <https://github.com/josdejong/workerpool>
@@ -545,6 +546,9 @@
 -   <https://vercel.com/docs/cron-jobs>
 -   <https://github.com/nefe/one-cron>
 -   <https://github.com/breejs/bree>
+
+## LIBS: BULK
+-   <https://github.com/vgpastor/batchactions>
 
 ## LIBS: TESTING
 
@@ -695,6 +699,7 @@
 ## SERVER: PROXY
 
 -   <https://github.com/apify/proxy-chain>
+-   <https://github.com/laphilosophia/api-tape>
 -   <https://github.com/chimurai/http-proxy-middleware>
 -   <https://github.com/joeferner/node-http-mitm-proxy>
 

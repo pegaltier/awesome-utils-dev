@@ -895,6 +895,7 @@
 -   <https://lmstudio.ai/>
 -   <https://github.com/lmstudio-ai>
 -   <https://github.com/mudler/LocalAI>
+-   <https://github.com/mlc-ai/web-llm>
 -   <https://github.com/lmstudio-ai/lms>
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
@@ -947,6 +948,7 @@
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/567-labs/instructor-js>
 -   <https://github.com/tripolskypetr/json-inference>
+-   <https://github.com/LogicStamp/logicstamp-context>
 
 ## LIB: DB
 
@@ -1306,7 +1308,6 @@
 -   <https://github.com/salesforce/xgen>
 -   <https://github.com/karpathy/minbpe>
 -   <https://github.com/xai-org/grok-1>
--   <https://github.com/mlc-ai/web-llm>
 -   <https://github.com/run-llama/rags>
 -   <https://github.com/OpenBMB/XAgent>
 -   <https://github.com/artidoro/qlora>

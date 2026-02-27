@@ -141,6 +141,7 @@
 -   <https://openapi-generator.tech/docs/generators>
 -   <https://github.com/asteasolutions/zod-to-openapi>
 -   <https://github.com/jackdbd/zod-to-doc>
+-   <https://github.com/vicente32/auditapi>
 -   <https://zuplo.com/features/open-api>
 
 ## MOCKS
