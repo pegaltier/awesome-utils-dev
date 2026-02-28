@@ -615,6 +615,7 @@
 -   <https://github.com/OneRedOak/claude-code-workflows>
 -   <https://github.com/supermemoryai/claude-supermemory>
 -   <https://github.com/shareAI-lab/analysis_claude_code>
+-   <https://github.com/anthropics/financial-services-plugins>
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 
@@ -910,6 +911,7 @@
 -   <https://github.com/sipeed/picoclaw>
 -   <https://github.com/moltbot/moltbot>
 -   <https://github.com/adridder/moltron>
+-   <https://github.com/TinyAGI/tinyclaw>
 -   <https://github.com/eigent-ai/eigent>
 -   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
@@ -920,6 +922,7 @@
 -   <https://github.com/rowboatlabs/rowboat>
 -   <https://github.com/coollabsio/openclaw>
 -   <https://github.com/huggingface/open-r1>
+-   <https://github.com/RightNow-AI/openfang>
 -   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/cloudflare/moltworker>
 -   <https://github.com/open-webui/open-webui>
@@ -931,6 +934,7 @@
 -   <https://github.com/backslash-security/Claw-Hunter>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
 -   <https://github.com/hesamsheikh/awesome-openclaw-usecases>
+-   <https://github.com/danielmiessler/Personal_AI_Infrastructure>
 -   <https://gist.github.com/mberman84/065631c62d6d8f30ecb14748c00fc6d9>
 -   <https://gist.github.com/championswimmer/bd0a45f0b1482cb7181d922fd94ab978>
 

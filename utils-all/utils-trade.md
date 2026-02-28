@@ -256,6 +256,7 @@
 
 ## TRAINING
 
+-   <https://ai4finance.org/>
 -   <https://www.cqfinstitute.org/>
 
 ## BLOG
@@ -339,6 +340,7 @@
 -   <https://github.com/datasets/s-and-p-500>
 -   <https://github.com/datasets/gold-prices>
 -   <https://github.com/akfamily/awesome-data>
+-   <https://github.com/keyhankamyar/TickVault>
 -   <https://github.com/JerBouma/FinanceDatabase>
 -   <https://github.com/maxgfr/binance-historical> \*
 -   <https://github.com/defeat-beta/defeatbeta-api>
@@ -1143,6 +1145,7 @@
 
 -   <https://github.com/amv-dev/yata>
 -   <https://github.com/kand-ta/kand>
+-   <https://github.com/ImFeH2/fettle>
 -   <https://github.com/greyblake/ta-rs>
 -   <https://github.com/jerryshell/midas>
 -   <https://github.com/ChironMind/rustTI>
@@ -1409,6 +1412,7 @@
 -   <https://github.com/tripolskypetr/garch>
 -   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>
+-   <https://github.com/AI4Finance-Foundation>
 -   <https://github.com/virattt/ai-hedge-fund>
 -   <https://github.com/sankeer28/stock-predictor>
 -   <https://github.com/eliabejr/ts-arima-forecast>
@@ -1423,6 +1427,7 @@
 -   <https://github.com/crypto-code/Stock-Market-AI-GUI>
 -   <https://github.com/tripolskypetr/trading-signals-mcp>
 -   <https://github.com/firmai/financial-machine-learning>
+-   <https://github.com/cheyennebiolsi/Naive-Bayes-Trading>
 -   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
 -   <https://github.com/tradingstrategy-ai/trading-strategy>
 -   <https://github.com/ccroft6/Technical_Indicator_Analysis_ML>

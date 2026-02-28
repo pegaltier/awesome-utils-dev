@@ -61,6 +61,7 @@
 -   <https://github.com/markqvist/Reticulum>
 -   <https://github.com/jackjackbits/bitchat>
 -   <https://github.com/hyperswarm/dht-relay>
+-   <https://github.com/ruvnet/wifi-densepose>
 -   <https://github.com/ueberdosis/hocuspocus>
 -   <https://github.com/ceramicnetwork/js-did>
 -   <https://github.com/holepunchto/hyperswarm>

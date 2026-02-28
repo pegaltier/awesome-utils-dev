@@ -169,6 +169,7 @@
 -   <https://github.com/decalage2/awesome-security-hardening>
 -   <https://github.com/Authenticator-Extension/Authenticator>
 -   <https://github.com/intigriti/misconfig-mapper>
+-   <https://github.com/productdevbook/port-killer>
 -   <https://github.com/Orange-Cyberdefense/KeePwn>
 -   <https://github.com/th3unkn0n/facebash-termux>
 -   <https://github.com/Mostafa-Wahied/portracker>

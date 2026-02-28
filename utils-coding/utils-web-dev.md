@@ -328,9 +328,12 @@ bad practices : <https://www.youtube.com/watch?v=pGFQ02qtJ7w>
 <https://www.ampproject.org>  
 <https://github.com/Lullabot/amp-library>
 
+## PROPOSAL
+<https://github.com/jasnell/new-streams>
+
 ## DEBUG
 
-console. <https://developers.google.com/web/tools/chrome-devtools/console/console-write>
+<https://developers.google.com/web/tools/chrome-devtools/console/console-write>
 
 ## IMAGE
 
