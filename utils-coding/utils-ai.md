@@ -1477,6 +1477,7 @@
 -   <https://github.com/modelscope/DiffSynth-Studio>
 -   <https://github.com/kiri-art/docker-diffusers-api>
 -   <https://github.com/muerrilla/sd-webui-detail-daemon>
+-   <https://github.com/aimikoda/nano-banana-pro-prompts>
 -   <https://github.com/pandayuanyu/generative-photography>
 -   <https://github.com/SCUTlihaoyu/open-chat-video-editor>
 -   <https://github.com/PicoTrex/Awesome-Nano-Banana-images>
