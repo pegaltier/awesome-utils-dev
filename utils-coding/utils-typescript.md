@@ -440,6 +440,7 @@
 
 -   <https://github.com/ecyrbe/zodios>
 -   <https://github.com/colinhacks/zod>
+-   <https://github.com/LorisSigrist/zocker>
 -   <https://github.com/fabien0102/ts-to-zod>
 -   <https://github.com/sachinraja/zod-to-ts>
 -   <https://github.com/sinclairzx81/typedriver>

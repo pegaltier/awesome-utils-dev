@@ -626,7 +626,6 @@
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
--   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/google-gemini/gemini-skills>
 -   <https://github.com/tech-leads-club/agent-skills>
@@ -786,6 +785,7 @@
 
 ## TOOLS: TOKENS
 
+-   <https://github.com/rtk-ai/rtk>
 -   <https://github.com/xn1cklas/tokenlens>
 -   <https://github.com/alaa-eddine/tokenloom>
 -   <https://github.com/johannschopplich/toon>
@@ -920,6 +920,7 @@
 -   <https://github.com/ValueCell-ai/ClawX>
 -   <https://github.com/Fosowl/agenticSeek>
 -   <https://github.com/rowboatlabs/rowboat>
+-   <https://github.com/agentscope-ai/CoPaw>
 -   <https://github.com/coollabsio/openclaw>
 -   <https://github.com/huggingface/open-r1>
 -   <https://github.com/RightNow-AI/openfang>
@@ -1407,6 +1408,7 @@
 -   <https://github.com/topics/ai-avatars>
 -   <https://github.com/SandAI-org/MAGI-1>
 -   <https://github.com/hpcaitech/Open-Sora>
+-   <https://github.com/waoowaooAI/waoowaoo>
 -   <https://github.com/lllyasviel/FramePack>
 -   <https://github.com/Tencent/HunyuanVideo>
 -   <https://github.com/KwaiVGI/LivePortrait>

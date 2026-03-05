@@ -187,6 +187,7 @@
 -   <https://github.com/oven-sh/bun>
 -   <https://github.com/denoland/deno>
 -   <https://github.com/elide-dev/elide>
+-   <https://github.com/ScelarOrg/Nodepod>
 -   <https://github.com/macaly/almostnode>
 
 ## BUNDLER / BUILDER

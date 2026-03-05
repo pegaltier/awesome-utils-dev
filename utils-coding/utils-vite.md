@@ -12,6 +12,7 @@
 -   <https://github.com/tinylibs/tinyspy>
 -   <https://github.com/vitest-dev/vscode>
 -   <https://github.com/vitest-tests/browser-examples>
+-   <https://github.com/voidzero-dev/oxc-angular-compiler>
 
 ## FROM JEST
 

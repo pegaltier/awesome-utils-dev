@@ -806,6 +806,7 @@ CUSTOM BUILD / CLI BUILDER / CUSTOM WEBPACK / DEPLOYMENT BUILDER / CLOUD HOSTING
 
 ## CORE: COMPILER
 
+-   <https://github.com/voidzero-dev/oxc-angular-compiler>
 -   <https://dev.to/brandontroberts/building-an-angular-compiler-with-google-gemini-ie0>
 
 ## CORE: COMPONENTS
@@ -1785,6 +1786,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/module-federation/universe>
 -   <https://github.com/originjs/vite-plugin-federation>
 -   <https://github.com/vugar005/youtube-webapp-turborepo>
+-   <https://github.com/gioboa/module-federation-vite-examples>
 -   <https://github.com/native-federation/native-federation-core>
 -   <https://github.com/manfredsteyer/native-federation-core-microfrontend>
 -   <https://github.com/manfredsteyer/native-federation-core-example>
@@ -1879,6 +1881,11 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 -   <https://github.com/leosvelperez/inc-build-ng-libraries-lazy-load>
 -   <https://nx.dev/previous/angular/structure/buildable-and-publishable-libraries>
 -   <https://tech.trellis.org/Coverting-Legacy-Codebase-to-Nx-Incremental-Builds/>
+
+## ECOSYSTEM: AI
+
+-   <https://github.com/analogjs/angular-skills>
+-   <https://github.com/alfredoperez/angular-best-practices>
 
 ## ECOSYSTEM: SEEDS
 
@@ -2738,10 +2745,12 @@ Analyze and optimize the performance of your app
 
 -   <https://tolgee.io/>
 -   <https://angular.io/cli/xi18n>
+-   <https://github.com/opral/inlang>
 -   <https://github.com/loclapp/locl>
 -   <https://github.com/vendasta/weblate>
 -   <https://github.com/i18next/i18next>
 -   <https://github.com/e-square-io/bdir>
+-   <https://github.com/LorisSigrist/t18s>
 -   <https://github.com/ngneat/transloco>
 -   <https://github.com/fkirc/attranslate>
 -   <https://github.com/crimx/ext-saladict>

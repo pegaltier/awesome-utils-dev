@@ -1217,6 +1217,7 @@
 -   <https://github.com/coin-unknown/Indicators>
 -   <https://github.com/focus1691/chart-patterns>
 -   <https://github.com/bennycode/trading-signals>
+-   <https://github.com/tripolskypetr/volume-anomaly>
 -   <https://github.com/eliabejr/technical-indicators>
 -   <https://github.com/tom-weatherhead/thaw-ta-math>
 -   <https://github.com/shahradelahi/technical-analysis>
