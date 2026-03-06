@@ -1779,7 +1779,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://www.youtube.com/watch?v=tsIZjUAtF1U> Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
 -   <https://www.youtube.com/watch?v=BxE01ZSshiQ> smapiot - Micro Frontends Conference 2023
 
-## ECOSYSTEM: MICROFRONTEND: FEDERATION
+## ECOSYSTEM: MICROFRONTEND: MODULE FEDERATION
 
 -   <https://github.com/native-federation>
 -   <https://github.com/module-federation/vite>
@@ -1787,9 +1787,12 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/originjs/vite-plugin-federation>
 -   <https://github.com/vugar005/youtube-webapp-turborepo>
 -   <https://github.com/gioboa/module-federation-vite-examples>
+
+## ECOSYSTEM: MICROFRONTEND: NATIVE FEDERATION
 -   <https://github.com/native-federation/native-federation-core>
 -   <https://github.com/manfredsteyer/native-federation-core-microfrontend>
 -   <https://github.com/manfredsteyer/native-federation-core-example>
+-   <https://github.com/native-federation/angular-adapter>
 
 ## ECOSYSTEM: MONOREPO
 

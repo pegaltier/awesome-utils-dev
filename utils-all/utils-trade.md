@@ -1049,6 +1049,7 @@
 -   <https://github.com/wardbradt/peregrine>
 -   <https://github.com/fmilthaler/FinQuant>
 -   <https://github.com/akumidv/catcher-bot>
+-   <https://github.com/nkaz001/hftbacktest>
 -   <https://github.com/mcdallas/wallstreet>
 -   <https://github.com/artnaz/wavetrend-3d>
 -   <https://github.com/51bitquant/howtrader>
@@ -1144,13 +1145,17 @@
 ### OSS: RUST
 
 -   <https://github.com/amv-dev/yata>
+-   <https://github.com/joaquinbejar>
 -   <https://github.com/kand-ta/kand>
 -   <https://github.com/ImFeH2/fettle>
 -   <https://github.com/greyblake/ta-rs>
 -   <https://github.com/jerryshell/midas>
 -   <https://github.com/ChironMind/rustTI>
 -   <https://github.com/cinar/indicatorrs>
+-   <https://github.com/barter-rs/barter-rs>
+-   <https://github.com/featherenvy/botvana>
 -   <https://github.com/chironmind/ti-engine>
+-   <https://github.com/joaquinbejar/OrderBook-rs>
 -   <https://github.com/bitbytelabio/tradingview-rs>
 -   <https://github.com/austin-starks/ta-rs-improved>
 -   <https://github.com/kanekoshoyu/kucoin_arbitrage>
@@ -1186,6 +1191,10 @@
 -   <https://github.com/iamping/us-rs-screener>
 -   <https://github.com/mnsrulz/mytradingview>
 -   <https://github.com/jovinjijo/se>
+
+### OSS: JAVASCRIPT: HFT
+-   <https://github.com/shixiongfei/hft.js>
+-   <https://github.com/fasenderos/nodejs-order-book>
 
 ### OSS: JAVASCRIPT: QUOTES
 
@@ -1365,6 +1374,7 @@
 -   <https://github.com/gadicc/node-yahoo-finance2> \*
 -   <https://github.com/ViewBlock/binance-api-node>
 -   <https://github.com/imxeno/tradingview-scraper>
+-   <https://github.com/Elenchev/order-book-heatmap>
 -   <https://github.com/HaiderMalikk/Reddish-Trends>
 -   <https://github.com/vitalets/tinkoff-invest-api>
 -   <https://github.com/focus1691/indicator-library> \* 
@@ -1415,6 +1425,7 @@
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/AI4Finance-Foundation>
 -   <https://github.com/virattt/ai-hedge-fund>
+-   <https://github.com/google/tf-quant-finance>
 -   <https://github.com/sankeer28/stock-predictor>
 -   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/chase-manning/ai-hedge-fund>

@@ -627,6 +627,7 @@
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/agentskills/agentskills>
+-   <https://github.com/msitarzewski/agency-agents>
 -   <https://github.com/google-gemini/gemini-skills>
 -   <https://github.com/tech-leads-club/agent-skills>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
@@ -1214,6 +1215,7 @@
 
 -   <https://github.com/ros2/ros2>
 -   <https://github.com/LejuRobotics>
+-   <https://github.com/nasa-jpl/rosa>
 -   <https://github.com/unitreerobotics>
 -   <https://github.com/commaai/openpilot>
 -   <https://github.com/ArduPilot/ardupilot>
@@ -1493,6 +1495,7 @@
 ## LIB: TRAIN
 
 -   <https://github.com/oumi-ai/oumi>
+-   <https://github.com/karpathy/nanochat>
 -   <https://github.com/mindverse/Second-Me>
 
 ## LIB: ORCHESTRATION
@@ -1501,6 +1504,7 @@
 -   <https://github.com/subsy/ralph-tui>
 -   <https://github.com/pedramamini/Maestro>
 -   <https://github.com/superset-sh/superset>
+-   <https://github.com/paperclipai/paperclip>
 -   <https://github.com/awslabs/multi-agent-orchestrator>
 
 ## LIB: TEXT / TRANSLATION
