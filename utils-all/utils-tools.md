@@ -105,6 +105,7 @@
 -   <https://measurethat.net/Tools>
 -   <https://oscarleo.com/google-trends>
 -   <https://metatags.io/font-generator>
+-   <https://beginthings.com/>
 
 ## OSS: ALL
 
