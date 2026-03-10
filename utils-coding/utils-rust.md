@@ -76,6 +76,9 @@
 -   <https://github.com/tokio-rs/axum>
 -   <https://github.com/trailbaseio/trailbase>
 
+## LIB: API
+-   <https://github.com/rapina-rs/rapina>
+
 ## LIB: AI
 
 -   <https://github.com/EricLBuehler/mistral.rs>

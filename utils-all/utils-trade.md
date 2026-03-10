@@ -1414,10 +1414,12 @@
 -   <https://aicryptochartanalysis.com/>
 -   <https://github.com/wquguru/nof0>
 -   <https://github.com/microsoft/qlib>
--   <https://github.com/HKUDS/AI-Trader>
+-   <https://github.com/gmum/pykernels>
 -   <https://github.com/virattt/dexter>
+-   <https://github.com/HKUDS/AI-Trader>
 -   <https://github.com/Suharaz/MerkleAI>
 -   <https://github.com/whchien/ai-trader>
+-   <https://github.com/Quantreo/quantreo>
 -   <https://github.com/junduck/overthink>
 -   <https://github.com/mims-harvard/UniTS>
 -   <https://github.com/tripolskypetr/garch>
@@ -1425,6 +1427,7 @@
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/AI4Finance-Foundation>
 -   <https://github.com/virattt/ai-hedge-fund>
+-   <https://github.com/numerai/numerai-predict>
 -   <https://github.com/google/tf-quant-finance>
 -   <https://github.com/sankeer28/stock-predictor>
 -   <https://github.com/eliabejr/ts-arima-forecast>

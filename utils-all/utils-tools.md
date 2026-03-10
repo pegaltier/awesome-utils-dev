@@ -262,6 +262,7 @@
 -   <https://github.com/immich-app/immich>
 -   <https://github.com/addyosmani/squish>
 -   <https://github.com/electerious/Lychee>
+-   <https://github.com/CyberTimon/RapidRAW>
 -   <https://github.com/photoprism/photoprism>
 -   <https://github.com/TagStudioDev/TagStudio>
 -   <https://github.com/GraphiteEditor/Graphite>

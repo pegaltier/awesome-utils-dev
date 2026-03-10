@@ -517,6 +517,7 @@
 -   <https://github.com/gptlint/gptlint>
 -   <https://github.com/get-convex/chef>
 -   <https://github.com/pullfrog/action>
+-   <https://github.com/pingdotgg/t3code>
 -   <https://github.com/iOfficeAI/AionUi>
 -   <https://github.com/manaflow-ai/cmux>
 -   <https://github.com/omnara-ai/omnara>
@@ -964,8 +965,8 @@
 ## LIB: WORKFLOW / CONTENT CREATION
 
 -   <https://github.com/n8n-io/n8n>
+-   <https://github.com/iii-hq/iii>
 -   <https://github.com/Canner/WrenAI>
--   <https://github.com/MotiaDev/motia>
 -   <https://github.com/refly-ai/refly>
 -   <https://github.com/inngest/inngest>
 -   <https://github.com/simstudioai/sim>
@@ -1005,6 +1006,13 @@
 ## LIB: COMPANION
 
 -   <https://github.com/moeru-ai/airi>
+
+## LIB: RESEARCH AGENT
+
+-   <https://github.com/dzhng/deep-research>
+-   <https://github.com/karpathy/autoresearch>
+-   <https://github.com/Alibaba-NLP/DeepResearch>
+-   <https://github.com/nickscamara/open-deep-research>
 
 ## LIB: MULTI AGENT
 
@@ -1050,7 +1058,6 @@
 -   <https://github.com/bytebot-ai/bytebot>
 -   <https://github.com/lavague-ai/LaVague>
 -   <https://github.com/coze-dev/coze-loop>
--   <https://github.com/dzhng/deep-research>
 -   <https://github.com/rowboatlabs/rowboat>
 -   <https://github.com/VoltAgent/voltagent>
 -   <https://github.com/ag-ui-protocol/ag-ui>
@@ -1072,7 +1079,6 @@
 -   <https://github.com/i-am-bee/bee-agent-framework>
 -   <https://github.com/strands-agents/sdk-typescript>
 -   <https://github.com/Intelligent-Internet/ii-agent>
--   <https://github.com/nickscamara/open-deep-research>
 -   <https://github.com/joonspk-research/generative_agents>
 -   <https://github.com/sarwarbeing-ai/Agentic_Design_Patterns>
 
@@ -1262,7 +1268,6 @@
 -   <https://github.com/sgomez/ollama-ai-provider>
 -   <https://github.com/jose-donato/ollama-reply>
 -   <https://github.com/kvcache-ai/ktransformers>
--   <https://github.com/Alibaba-NLP/DeepResearch>
 -   <https://github.com/datawhalechina/self-llm>
 -   <https://github.com/deepseek-ai/DeepSeek-R1>
 -   <https://github.com/deepseek-ai/DeepSeek-V3>

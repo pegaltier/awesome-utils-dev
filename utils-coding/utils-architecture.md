@@ -29,6 +29,7 @@
 -   <https://github.com/Coder-World04/Complete-System-Design>
 -   <https://github.com/ivan-bilan/The-Microservices-Pandect>
 -   <https://github.com/mhadidg/software-architecture-books>
+-   <https://github.com/binhnguyennus/awesome-scalability>
 -   <https://github.com/ZachGoldberg/Startup-CTO-Handbook>
 -   <https://github.com/donnemartin/system-design-primer>
 -   <https://github.com/sindresorhus/system-architecture>

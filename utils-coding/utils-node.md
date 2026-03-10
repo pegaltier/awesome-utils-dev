@@ -637,6 +637,7 @@
 -   <https://github.com/sequelize/sequelize>
 -   <https://github.com/joist-orm/joist-orm>
 -   <https://github.com/alfateam/orange-orm>
+-   <https://github.com/rocicorp/drizzle-zero>
 -   <https://github.com/drizzle-team/drizzle-orm>
 
 ## LIBS: DATABASE / DB
@@ -777,6 +778,7 @@
 
 ## FRAMEWORKS
 
+-   <https://github.com/iii-hq/iii>
 -   <https://github.com/hexojs/hexo>
 -   <https://github.com/nestjs/nest>
 -   <https://github.com/tsedio/tsed>
@@ -786,7 +788,6 @@
 -   <https://github.com/remult/remult>
 -   <https://github.com/rocicorp/mono>
 -   <https://github.com/adonisjs/core>
--   <https://github.com/MotiaDev/motia>
 -   <https://github.com/lukeautry/tsoa>
 -   <https://github.com/bluelibs/runner>
 -   <https://github.com/riktaHQ/rikta.js>

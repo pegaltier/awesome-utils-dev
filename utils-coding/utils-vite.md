@@ -5,25 +5,27 @@
 -   <https://gist.github.com/wojtekmaj/306385c07e2a69ac53e85caf8c78d3bb> webpack-to-vite.sh
 -   <https://gist.github.com/prescottprue/e8f2a437e647285340dea50a495a811b> jest-to-vitest.sh
 
-## VITEST
+### TOOLS
 
-## LIBS
-
--   <https://github.com/tinylibs/tinyspy>
 -   <https://github.com/vitest-dev/vscode>
--   <https://github.com/vitest-tests/browser-examples>
+-   <https://github.com/voidzero-dev/setup-vp>
 -   <https://github.com/voidzero-dev/oxc-angular-compiler>
 
-## FROM JEST
+## VITEST
+
+-   <https://github.com/tinylibs/tinyspy>
+-   <https://github.com/vitest-tests/browser-examples>
+
+### JEST TO VITEST
 
 -   <https://github.com/Namchee/j2v>
 -   <https://github.com/trivikr/vitest-codemod>
 -   <https://github.com/scalvert/jest-to-vitest>
 -   <https://github.com/kamaal111/jest-to-vitest-codemod>
 
-## MOCKS
+### MOCKS
 
-### GLOBAL
+#### GLOBAL
 
 ```javascript
 // from: https://www.bitovi.com/blog/more-mocks-mocking-modules-in-vitest
@@ -41,7 +43,7 @@ vi.mock('./navigation', async () => { // <- now async
 });
 ```
 
-### HOISTED
+#### HOISTED
 
 ```javascript
 // https://github.com/vitest-dev/vitest/discussions/4124
