@@ -641,6 +641,11 @@
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
+## TOOLS: CODING: OSS AUTO
+-   <https://github.com/topics/autonomous-agents?l=typescript>
+-   <https://github.com/NikitaDmitrieff/auto-co-meta>
+-   <https://github.com/ruvnet/ruflo>
+
 ## TOOLS: NOCODING
 
 -   <https://github.com/refly-ai/refly>
