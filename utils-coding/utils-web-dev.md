@@ -203,6 +203,7 @@
 -   <https://www.froala.com/design-block>
 -   <https://html-to-svg.as-a-service.dev>
 -   <https://codepen.io/stoumann/full/abZxoOM>
+-   <https://zaptools.web.app>
 
 ## TOOLS: SVG
 
