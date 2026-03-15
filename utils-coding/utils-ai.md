@@ -542,6 +542,7 @@
 -   <https://github.com/OpenDevin/OpenDevin>
 -   <https://github.com/BloopAI/vibe-kanban>
 -   <https://github.com/OpenHands/OpenHands>
+-   <https://github.com/ericc-ch/copilot-api>
 -   <https://github.com/bytedance/trae-agent>
 -   <https://github.com/dagger/container-use>
 -   <https://github.com/Integuru-AI/Integuru>
@@ -592,6 +593,7 @@
 -   <https://github.com/winfunc/opcode>
 -   <https://github.com/21st-dev/1code>
 -   <https://github.com/wshobson/agents>
+-   <https://github.com/garrytan/gstack>
 -   <https://github.com/obra/superpowers>
 -   <http://github.com/vmihalis/tg-claude>
 -   <https://github.com/Goldziher/ai-rulez>
@@ -623,10 +625,12 @@
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
 -   <https://github.com/openai/skills>
+-   <https://github.com/mcollina/skills>
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
+-   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/msitarzewski/agency-agents>
 -   <https://github.com/google-gemini/gemini-skills>
@@ -634,6 +638,7 @@
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/OthmanAdi/planning-with-files>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
+-   <https://github.com/awesome-skills/code-review-skill>
 -   <https://github.com/forrestchang/andrej-karpathy-skills>
 -   <https://github.com/fugazi/test-automation-skills-agents>
 -   <https://github.com/yosietserga/ai-prompts-for-developers>
@@ -908,6 +913,7 @@
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
 -   <https://github.com/RightNow-AI/picolm>
+-   <https://github.com/Crosstalk-Solutions/project-nomad>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
@@ -1018,6 +1024,10 @@
 -   <https://github.com/karpathy/autoresearch>
 -   <https://github.com/Alibaba-NLP/DeepResearch>
 -   <https://github.com/nickscamara/open-deep-research>
+
+## LIB: COMPAT AGENT
+-   <https://github.com/InsForge/InsForge>
+-   <https://github.com/HKUDS/CLI-Anything>
 
 ## LIB: MULTI AGENT
 

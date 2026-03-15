@@ -88,6 +88,7 @@ low-code tooling to prototype fastly.
 
 -   <https://github.com/nocode-js>
 -   <https://github.com/retejs/rete>
+-   <https://github.com/jseeio/jsee>
 -   <https://github.com/rowyio/rowy>
 -   <https://github.com/artf/grapesjs>
 -   <https://github.com/remult/remult>

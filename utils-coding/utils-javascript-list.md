@@ -1162,6 +1162,9 @@
 -   <https://github.com/stackblitz/alien-signals>
 -   <https://github.com/web-platform-dx/developer-signals>
 
+## LIB: FRONTEND NOCODE
+-   <https://github.com/jseeio/jsee>
+
 ## LIB: MAP
 
 -   <https://github.com/alyssaxuu/mapus>

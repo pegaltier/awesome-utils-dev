@@ -127,6 +127,12 @@ pip -V
 
 -   <https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95>
 
+## MACHINE LEARNING
+-   <https://github.com/py-why/dowhy>
+-   <https://github.com/uhlerlab/causaldag>
+-   <https://github.com/BiomedSciAI/causallib>
+-   <https://github.com/rguo12/awesome-causality-algorithms>
+
 ## DATA
 
 -   <https://github.com/pandas-dev/pandas>
