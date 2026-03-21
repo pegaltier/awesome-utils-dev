@@ -1072,6 +1072,7 @@
 -   <https://github.com/QuantJourneyOrg/public> \*
 -   <https://github.com/blankly-finance/blankly> \*
 -   <https://github.com/algobulls/pyalgotrading>
+-   <https://github.com/SilvioBaratto/optimizer>
 -   <https://github.com/StrateQueue/StrateQueue> \*
 -   <https://github.com/jmfernandes/robin_stocks>
 -   <https://github.com/pranjal-joshi/Screeni-py>
@@ -1324,6 +1325,12 @@
 -   <https://github.com/deepentropy/oakscriptJS>
 -   <https://github.com/QuantForgeOrg/PineTS>
 -   <https://github.com/folknor/pine-tools>
+
+### OSS: JAVASCRIPT: OPTIMIZE
+
+-   <https://github.com/timothy/hill_climbing>
+-   <https://github.com/LeonardoVal/inveniemus.js>
+-   <https://github.com/201flaviosilva-labs/HillClimbing.js/>
 
 ### OSS: JAVASCRIPT: ALL
 

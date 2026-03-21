@@ -160,6 +160,7 @@
 
 ## OSS: NEWS
 
+-   <https://github.com/calesthio/Crucix>
 -   <https://github.com/koala73/worldmonitor>
 
 ## OSS: MESSAGING BOT
@@ -192,6 +193,7 @@
 ## OSS: FILES / CONVERT / SHARE
 
 -   <https://github.com/sxyazi/yazi>
+-   <https://github.com/rejetto/hfs>
 -   <https://github.com/p2r3/convert>
 -   <https://github.com/C4illin/ConvertX>
 -   <https://github.com/internxt/drive-web>

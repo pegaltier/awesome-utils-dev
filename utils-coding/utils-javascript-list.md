@@ -1297,6 +1297,7 @@
 -   <https://github.com/etro-js/etro>
 -   <https://github.com/bbc/peaks.js>
 -   <https://github.com/dgmjs/dgmjs>
+-   <https://github.com/Recappi/sdk>
 
 ## LIB: 2D/3D/VR
 

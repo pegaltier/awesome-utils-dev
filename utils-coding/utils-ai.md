@@ -921,6 +921,7 @@
 -   <https://github.com/HKUDS/ClawWork>
 -   <https://github.com/jlia0/tinyclaw>
 -   <https://github.com/SeyZ/clawbands>
+-   <https://github.com/NVIDIA/NemoClaw>
 -   <https://github.com/sipeed/picoclaw>
 -   <https://github.com/moltbot/moltbot>
 -   <https://github.com/adridder/moltron>
@@ -1429,6 +1430,7 @@
 -   <https://github.com/WongKinYiu/yolov9>
 -   <https://github.com/topics/ai-avatars>
 -   <https://github.com/SandAI-org/MAGI-1>
+-   <https://github.com/saturndec/waoowaoo>
 -   <https://github.com/hpcaitech/Open-Sora>
 -   <https://github.com/waoowaooAI/waoowaoo>
 -   <https://github.com/lllyasviel/FramePack>

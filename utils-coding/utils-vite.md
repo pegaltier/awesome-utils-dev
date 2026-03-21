@@ -2,8 +2,8 @@
 
 ## VITE
 
--   <https://gist.github.com/wojtekmaj/306385c07e2a69ac53e85caf8c78d3bb> webpack-to-vite.sh
--   <https://gist.github.com/prescottprue/e8f2a437e647285340dea50a495a811b> jest-to-vitest.sh
+##
+
 
 ### TOOLS
 
@@ -16,12 +16,19 @@
 -   <https://github.com/tinylibs/tinyspy>
 -   <https://github.com/vitest-tests/browser-examples>
 
-### JEST TO VITEST
+## VITE+
+-   <https://github.com/voidzero-dev/vite-plus>
+-   <https://github.com/Recappi/sdk/pull/14/changes>
+
+
+## TO VITE/VITEST
 
 -   <https://github.com/Namchee/j2v>
 -   <https://github.com/trivikr/vitest-codemod>
 -   <https://github.com/scalvert/jest-to-vitest>
 -   <https://github.com/kamaal111/jest-to-vitest-codemod>
+-   <https://gist.github.com/wojtekmaj/306385c07e2a69ac53e85caf8c78d3bb> webpack-to-vite.sh
+-   <https://gist.github.com/prescottprue/e8f2a437e647285340dea50a495a811b> jest-to-vitest.sh
 
 ### MOCKS
 
