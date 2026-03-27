@@ -2362,6 +2362,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/khvedela/ng-spark>
 -   <https://github.com/ng-forge/ng-forge>
 -   <https://github.com/martsinlabs/ngx-mq>
+-   <https://github.com/signalityjs/signality>
 -   <https://github.com/alcfeoh/ngx-signalify>
 -   <https://github.com/gabrielguerrero/ngrx-traits>
 -   <https://github.com/larscom/ngrx-signals-storage>

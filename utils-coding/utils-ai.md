@@ -499,6 +499,7 @@
 -   <https://github.com/cline/cline>
 -   <https://github.com/e2b-dev/e2b>
 -   <https://github.com/ekkinox/yai>
+-   <https://github.com/nrslib/takt>
 -   <https://github.com/block/goose>
 -   <https://github.com/google/A2UI>
 -   <https://github.com/openai/codex>
@@ -535,6 +536,7 @@
 -   <https://github.com/Nutlope/llamacoder>
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/anomalyco/opencode>
+-   <https://github.com/Rigos0/superturtle>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/paul-gauthier/aider>
@@ -626,6 +628,7 @@
 
 -   <https://github.com/openai/skills>
 -   <https://github.com/mcollina/skills>
+-   <https://github.com/slavingia/skills>
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
@@ -637,6 +640,7 @@
 -   <https://github.com/tech-leads-club/agent-skills>
 -   <https://github.com/asgeirtj/system_prompts_leaks>
 -   <https://github.com/OthmanAdi/planning-with-files>
+-   <https://github.com/google-labs-code/stitch-skills>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
 -   <https://github.com/awesome-skills/code-review-skill>
 -   <https://github.com/forrestchang/andrej-karpathy-skills>
@@ -931,6 +935,7 @@
 -   <https://github.com/gavrielc/nanoclaw>
 -   <https://github.com/snarktank/antfarm>
 -   <https://github.com/openclaw/openclaw>
+-   <https://github.com/Rigos0/superturtle>
 -   <https://github.com/ValueCell-ai/ClawX>
 -   <https://github.com/Fosowl/agenticSeek>
 -   <https://github.com/rowboatlabs/rowboat>
@@ -1032,6 +1037,7 @@
 
 ## LIB: MULTI AGENT
 
+-   <https://github.com/nrslib/takt>
 -   <https://github.com/OpenPipe/ART>
 -   <https://github.com/camel-ai/camel>
 -   <https://github.com/crewAIInc/crewAI>
@@ -1424,6 +1430,7 @@
 ## LIB: VIDEO
 
 -   <https://github.com/aigc3d/LHM>
+-   <https://github.com/neomjs/neo>
 -   <https://github.com/THU-MIG/yolov10>
 -   <https://github.com/buxuku/SmartSub>
 -   <https://github.com/Wan-Video/Wan2.2>

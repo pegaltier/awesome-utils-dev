@@ -242,6 +242,7 @@
 -   <https://github.com/berstend/puppeteer-extra>
 -   <https://github.com/testronaut/testronaut>
 -   <https://github.com/mswjs/playwright>
+-   <https://github.com/millionco/expect>
 -   <https://github.com/DyHex/POMWright>
 -   <https://github.com/mxschmitt>
 
