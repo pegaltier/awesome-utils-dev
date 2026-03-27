@@ -239,6 +239,7 @@
 -   <https://github.com/BuilderIO/gpt-crawler>
 -   <https://github.com/mxschmitt/try-playwright>
 -   <https://github.com/HamedFathi/screen.play.write>
+-   <https://github.com/slient-commit/the-auto-e2e>
 -   <https://github.com/berstend/puppeteer-extra>
 -   <https://github.com/testronaut/testronaut>
 -   <https://github.com/mswjs/playwright>

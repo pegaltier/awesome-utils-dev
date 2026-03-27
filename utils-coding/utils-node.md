@@ -190,6 +190,9 @@
 -   <https://github.com/ScelarOrg/Nodepod>
 -   <https://github.com/macaly/almostnode>
 
+## SANDBOX
+-   <https://github.com/bluelibs/sandboxify>
+
 ## BUNDLER / BUILDER
 
 -   <https://github.com/umijs/mako>
@@ -454,6 +457,7 @@
 -   <https://github.com/faranalytics/socketnaut>
 -   <https://github.com/tripolskypetr/worker-testbed>
 -   <https://github.com/damiansire/web-worker-patterns>
+-   <https://www.inngest.com/blog/node-worker-threads>
 
 ## LIBS: UNIT TESTING
 

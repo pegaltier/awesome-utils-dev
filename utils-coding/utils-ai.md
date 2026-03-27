@@ -958,6 +958,10 @@
 -   <https://gist.github.com/mberman84/065631c62d6d8f30ecb14748c00fc6d9>
 -   <https://gist.github.com/championswimmer/bd0a45f0b1482cb7181d922fd94ab978>
 
+## TOOLS: ASSISTANT EXAMPLE
+-   <https://github.com/Boweii22/Contract-OS>
+
+
 ## LIB: MACHINE LEARNING / ML
 
 -   <https://github.com/TabbyML/tabby>
