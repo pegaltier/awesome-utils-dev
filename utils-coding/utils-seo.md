@@ -151,6 +151,7 @@ seo phase d'optimisation :
 -   <https://copymatic.ai/>
 -   <https://app.indexrusher.com/>
 -   <https://www.articleforge.com/> \*
+-   <https://geoscoreai.com/> - Free AI search visibility scanner. Checks robots.txt, llms.txt, schema markup and 6 more signals for AI search readiness.
 -   <https://aiwriterassistant.com/>
 
 ## COPYWRITING
