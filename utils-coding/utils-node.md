@@ -142,6 +142,7 @@
 -   <https://github.com/platformatic/the-high-performance-node-workshop>
 -   <https://blog.val.town/gardening-dependencies>
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
+-   <https://43081j.com/2026/03/three-pillars-of-javascript-bloat>
 -   <https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer>
 -   <https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/>
 -   <https://developerehsan.medium.com/10-mind-blowing-node-js-features-that-make-it-unstoppable-86a5e98e2fc2>
@@ -705,6 +706,7 @@
 ## SERVER: PROXY
 
 -   <https://github.com/apify/proxy-chain>
+-   <http://github.com/vercel-labs/portless>
 -   <https://github.com/laphilosophia/api-tape>
 -   <https://github.com/chimurai/http-proxy-middleware>
 -   <https://github.com/joeferner/node-http-mitm-proxy>

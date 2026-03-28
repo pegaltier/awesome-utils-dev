@@ -1415,6 +1415,9 @@
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/ephemeraHQ/xmtp-agent-examples>
 
+## LIB: AI: AGENT EXTRA
+-   <https://github.com/googleworkspace/cli>
+
 ## LIB: AI WEB / NLP EDGE
 
 -   <https://github.com/brainjs>

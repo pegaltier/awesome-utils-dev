@@ -147,6 +147,7 @@
 -   <https://github.com/iterate-ch/cyberduck>
 -   <https://github.com/gristlabs/grist-core>
 -   <https://github.com/DSpace/dspace-angular>
+-   <https://github.com/magnum6actual/flipoff>
 -   <https://github.com/justinfrankel/licecap>
 -   <https://github.com/obsproject/obs-studio>
 -   <https://github.com/mattermost/focalboard>

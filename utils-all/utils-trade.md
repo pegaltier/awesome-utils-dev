@@ -171,6 +171,7 @@
 -   <https://capriole.com/>
 -   <https://autoview.com/>
 -   <https://quant.xme.cz/>
+-   <https://keeprule.com/>
 -   <https://ensemble.tech/>
 -   <https://www.quantra.ai/>
 -   <https://quantlane.com/>
@@ -883,6 +884,7 @@
 -   <https://github.com/letianzj/QuantResearch>
 -   <https://github.com/moov-io/awesome-fintech>
 -   <https://github.com/wilsonfreitas/awesome-quant>
+-   <https://github.com/chromale/awesome-investing-tools>
 -   <https://github.com/zazhang/ep-chan-book-algo-trading>
 -   <https://github.com/joelowj/awesome-algorithmic-trading>
 -   <https://github.com/quant-science/sunday-quant-scientist>
@@ -1371,12 +1373,14 @@
 -   <https://github.com/tardis-dev/tardis-node> \*
 -   <https://github.com/ixjb94/market-screener>
 -   <https://github.com/fasenderos/nestjs-ccxt>
+-   <https://github.com/henu-wang/keeprule-npm>
 -   <https://github.com/mkmarek/forex.analytics>
 -   <https://github.com/TranceGeniK/bybit-tools>
 -   <https://github.com/CompendiumFi/PENDAX-SDK>
 -   <https://github.com/austin-starks/NextTrade> \*
 -   <https://github.com/pratikgaloria/quantomate>
 -   <https://github.com/tiagosiebler/bitmart-api>
+-   <https://github.com/henu-wang/keeprule-widget>
 -   <https://github.com/valamidev/DataSynchronizer>
 -   <https://github.com/gadicc/node-yahoo-finance2> \*
 -   <https://github.com/ViewBlock/binance-api-node>

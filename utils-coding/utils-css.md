@@ -171,6 +171,7 @@
 -   <https://github.com/dbohdan/classless-css>
 -   <https://github.com/css-doodle/css-doodle>
 -   <https://github.com/Stranger6667/css-inline>
+-   <https://github.com/acrodata/gradient-parser>
 -   <https://github.com/frontend-joe/css-navbars>
 -   <https://github.com/marcj/css-element-queries>
 -   <https://github.com/TorstenDittmann/launch.css>

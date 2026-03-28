@@ -90,6 +90,7 @@
 -   <https://github.com/meilisearch/awesome-meilisearch>
 -   <https://github.com/dersvenhesse/awesome-scriptable>
 -   <https://github.com/meirwah/awesome-workflow-engines>
+-   <https://github.com/astrotars/awesome-ecommerce-stack>
 -   <https://github.com/louelladev/Helpful-Tech-Resources>
 -   <https://github.com/kitze/awesome-conference-practices>
 -   <https://github.com/cloudcommunity/Free-Certifications>

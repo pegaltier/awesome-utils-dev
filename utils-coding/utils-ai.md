@@ -529,7 +529,6 @@
 -   <https://github.com/yamadashy/repomix>
 -   <https://github.com/e2b-dev/fragments>
 -   <https://github.com/Nutlope/aicommits>
--   <https://github.com/daytonaio/daytona>
 -   <https://github.com/cursor/agent-trace>
 -   <https://github.com/plandex-ai/plandex>
 -   <https://github.com/github/copilot-sdk>
@@ -582,6 +581,7 @@
 -   <https://github.com/deepseek-ai/DeepSeek-Coder-V2>
 -   <https://github.com/OpenInterpreter/open-interpreter>
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
+-   <https://github.com/JCodesMore/ai-website-cloner-template>
 
 ## TOOLS: CODING: OSS CURSOR
 
@@ -705,6 +705,7 @@
 
 -   <https://github.com/vm0-ai/vm0>
 -   <https://github.com/lukehinds/nono>
+-   <https://github.com/daytonaio/daytona>
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/jingkaihe/matchlock>
 -   <https://github.com/smol-machines/smolvm>
@@ -1053,6 +1054,9 @@
 -   <https://github.com/ZJU-LLMs/Agent-Kernel>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
+
+## LIB: AGENTIC EXTRA
+-   <https://github.com/msitarzewski/agency-agents>
 
 ## LIB: AGENTIC FRAMEWORK
 
@@ -1577,6 +1581,7 @@
 -   <https://github.com/langchain-ai/social-media-agent>
 -   <https://github.com/ericciarla/trendFinder>
 -   <https://github.com/stanford-oval/storm>
+-   <https://github.com/yikart/AiToEarn>
 
 ## TOOLS: PROMPT
 
