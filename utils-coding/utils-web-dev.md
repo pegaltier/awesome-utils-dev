@@ -540,6 +540,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 ## LIB
 
 -   <https://github.com/cure53/DOMPurify>
+-   <https://github.com/chenglou/pretext>
 
 ## STARTER: BLOG
 

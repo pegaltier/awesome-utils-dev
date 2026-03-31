@@ -20,6 +20,7 @@
 -   <https://github.com/wmalarski/qwik-music-reviews>
 -   <https://github.com/mhevery/testing-fundamentals>
 -   <https://github.com/brandonpittman/qwik-markdown>
+-   <https://github.com/Aejkatappaja/qwik-devtools>
 -   <https://github.com/rainerhahnekamp/qwik-blog>
 -   <https://github.com/awesome-club/awesome-qwik>
 -   <https://github.com/literalpie/qwik-starter>

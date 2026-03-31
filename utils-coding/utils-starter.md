@@ -70,6 +70,7 @@
 -   <https://github.com/ever-co/ever-gauzy>
 -   <https://github.com/Dolibarr/dolibarr>
 -   <https://github.com/espocrm/espocrm>
+-   <https://github.com/vas3k/TaxHacker>
 -   <https://github.com/twentyhq/twenty>
 -   <https://github.com/frappe/erpnext>
 -   <https://github.com/frappe/hrms>

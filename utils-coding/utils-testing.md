@@ -164,6 +164,7 @@
 
 ## UTILS: AI
 
+-   <https://github.com/millionco/expect>
 -   <https://github.com/anti-work/shortest>
 -   <https://github.com/lightpanda-io/browser>
 -   <https://github.com/browserbase/stagehand>

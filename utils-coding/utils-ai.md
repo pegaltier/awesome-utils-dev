@@ -972,6 +972,7 @@
 
 ## LIB: STRUCTURED OUTPUT
 
+-   <https://github.com/dzhng/zod-gpt>
 -   <https://github.com/ruvnet/dspy.ts>
 -   <https://github.com/BoundaryML/baml>
 -   <https://github.com/dottxt-ai/outlines>
