@@ -1063,6 +1063,7 @@
 
 ## LIB: AGENTIC FRAMEWORK
 
+-   <https://github.com/vercel/ai>
 -   <https://github.com/google/A2A>
 -   <https://github.com/ai16z/eliza>
 -   <https://github.com/SmythOS/sre>
