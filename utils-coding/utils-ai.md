@@ -425,8 +425,10 @@
 -   <http://playground.tensorflow.org/>
 -   <https://github.com/clmnin/summarize.site>
 
-## TOOLS: AGGREGATE
+## TOOLS: AGGREGATE / GATEWAY
 
+-   <https://vercel.com/ai-gateway>
+-   <https://www.together.ai/>
 -   <https://openrouter.ai/>
 -   <https://muapi.ai/>
 
