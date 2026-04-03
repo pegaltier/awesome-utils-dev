@@ -558,6 +558,7 @@
 -   <https://github.com/BuilderIO/micro-agent>
 -   <https://github.com/Codium-ai/cover-agent>
 -   <https://github.com/trypear/pearai-master>
+-   <https://github.com/ultraworkers/claw-code>
 -   <https://github.com/Dimillian/CodexMonitor>
 -   <https://github.com/mannaandpoem/OpenManus>
 -   <https://github.com/huggingface/llm-vscode>
@@ -578,6 +579,7 @@
 -   <https://github.com/2-fly-4-ai/V0-system-prompt>
 -   <https://github.com/langchain-ai/deep-agents-ui>
 -   <https://github.com/coderabbitai/ai-pr-reviewer>
+-   <https://github.com/claude-code-best/claude-code>
 -   <https://github.com/aws-samples/bedrock-engineer>
 -   <https://github.com/gpt-engineer-org/gpt-engineer>
 -   <https://github.com/deepseek-ai/DeepSeek-Coder-V2>
@@ -1058,7 +1060,8 @@
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 
-## LIB: AGENTIC EXTRA
+## LIB: AGENTIC EXTRA / TOOLS
+-   <https://github.com/nihaocami/ai-tool-maker>
 -   <https://github.com/msitarzewski/agency-agents>
 
 ## LIB: AGENTIC FRAMEWORK
