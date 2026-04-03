@@ -613,9 +613,11 @@
 -   <https://github.com/thedotmack/claude-mem>
 -   <https://github.com/AndyMik90/Auto-Claude>
 -   <https://github.com/siteboon/claudecodeui>
+-   <https://github.com/ultraworkers/claw-code>
 -   <https://github.com/sirmalloc/ccstatusline>
 -   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/Doriandarko/claude-engineer>
+-   <https://github.com/claude-code-best/claude-code>
 -   <https://github.com/davila7/claude-code-templates>
 -   <https://github.com/anthropics/claude-code-action>
 -   <https://github.com/textcortex/claude-code-sandbox>
