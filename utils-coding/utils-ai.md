@@ -251,6 +251,7 @@
 -   <https://github.com/decodingml/llm-twin-course>
 -   <https://github.com/AMAI-GmbH/AI-Expert-Roadmap>
 -   <https://github.com/ZJU-LLMs/Foundations-of-LLMs>
+-   <https://github.com/HenryNdubuaku/maths-cs-ai-compendium>
 -   <https://github.com/NirDiamant/agents-towards-production>
 
 ## INTERVIEW
@@ -531,6 +532,7 @@
 -   <https://github.com/yamadashy/repomix>
 -   <https://github.com/e2b-dev/fragments>
 -   <https://github.com/Nutlope/aicommits>
+-   <https://github.com/Gitlawb/openclaude>
 -   <https://github.com/cursor/agent-trace>
 -   <https://github.com/plandex-ai/plandex>
 -   <https://github.com/github/copilot-sdk>
@@ -604,6 +606,7 @@
 -   <http://github.com/vmihalis/tg-claude>
 -   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/steveyegge/gastown>
+-   <https://github.com/Gitlawb/openclaude>
 -   <https://github.com/Mearman/marketplace>
 -   <https://github.com/dyoshikawa/rulesync>
 -   <https://github.com/m0n0x41d/quint-code>
@@ -958,8 +961,10 @@
 -   <https://github.com/stephengpope/thepopebot>
 -   <https://github.com/withcatai/node-llama-cpp>
 -   <https://github.com/digitalknk/openclaw-runbook>
+-   <https://github.com/BytePioneer-AI/openclaw-china>
 -   <https://github.com/backslash-security/Claw-Hunter>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
+-   <https://github.com/abhi1693/openclaw-mission-control>
 -   <https://github.com/hesamsheikh/awesome-openclaw-usecases>
 -   <https://github.com/danielmiessler/Personal_AI_Infrastructure>
 -   <https://gist.github.com/mberman84/065631c62d6d8f30ecb14748c00fc6d9>
@@ -982,6 +987,7 @@
 -   <https://github.com/ruvnet/dspy.ts>
 -   <https://github.com/BoundaryML/baml>
 -   <https://github.com/dottxt-ai/outlines>
+-   <https://github.com/josdejong/jsonrepair>
 -   <https://github.com/567-labs/instructor-js>
 -   <https://github.com/tripolskypetr/json-inference>
 -   <https://github.com/LogicStamp/logicstamp-context>

@@ -580,6 +580,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/sanity-io/sanity>
 -   <https://github.com/web-infra-dev/oxc>
 -   <https://github.com/inertiajs/inertia>
+-   <https://github.com/emdash-cms/emdash>
 -   <https://github.com/decaporg/decap-cms>
 -   <https://github.com/payloadcms/payload>
 -   <https://github.com/avitorio/outstatic>

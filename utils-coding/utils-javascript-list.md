@@ -597,6 +597,7 @@
 -   <https://github.com/Effect-TS/effect>
 -   <https://github.com/tkrotoff/throw-on>
 -   <https://github.com/js-cookie/js-cookie>
+-   <https://github.com/supercharge/strings>
 -   <https://github.com/sindresorhus/p-mutex>
 -   <https://github.com/sindresorhus/is64bit>
 -   <https://github.com/JasonStorey/Optional.js>
@@ -817,6 +818,7 @@
 -   <https://github.com/rchipka/node-osmosis>
 -   <https://github.com/natemoo-re/ultrahtml>
 -   <https://github.com/masala/masala-parser>
+-   <https://github.com/josdejong/jsonrepair>
 -   <https://github.com/mozilla/readability>
 -   <https://github.com/sindresorhus/domify>
 -   <https://github.com/atamano/jsonpathly>
@@ -844,6 +846,7 @@
 -   <https://github.com/Myriad-Dreamin/typst.ts>
 -   <https://github.com/philschmid/clipper.js>
 -   <https://github.com/micromark/micromark>
+-   <https://github.com/haltcase/tablemark>
 -   <https://github.com/Milkdown/milkdown>
 -   <https://github.com/stoyan/Lizzy.js>
 -   <https://github.com/markedjs/marked>

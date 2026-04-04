@@ -85,6 +85,7 @@
 ## SQLITE
 
 -   <https://github.com/sqlite/sqlite>
+-   <https://github.com/haltcase/trilogy>
 -   <https://github.com/kiankyars/sqlite>
 -   <https://github.com/tursodatabase/turso>
 -   <https://github.com/tursodatabase/libsql>

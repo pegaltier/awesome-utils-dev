@@ -296,6 +296,7 @@
 -   <https://github.com/TeamNewPipe/NewPipe>
 -   <https://github.com/goshops-com/clipshare>
 -   <https://github.com/aegir-assembly/omni-clip>
+-   <https://github.com/siddharthvaddem/openscreen>
 -   <https://github.com/KurtBestor/Hitomi-Downloader>
 
 ## OSS: MEDIAS / BOOK / PDF / DOCS

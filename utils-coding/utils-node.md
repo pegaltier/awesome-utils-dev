@@ -671,6 +671,7 @@
 ## LIBS: CLI / PROMPTS
 
 -   <https://github.com/cacjs/cac>
+-   <https://github.com/haltcase/run>
 -   <https://github.com/dthree/vorpal>
 -   <https://github.com/dahlia/optique>
 -   <https://github.com/terkelg/prompts>
