@@ -1422,6 +1422,7 @@
 
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
 
+-   <https://numer.ai/leaderboard/>
 -   <https://aicryptochartanalysis.com/>
 -   <https://github.com/wquguru/nof0>
 -   <https://github.com/microsoft/qlib>
@@ -1433,6 +1434,7 @@
 -   <https://github.com/Quantreo/quantreo>
 -   <https://github.com/junduck/overthink>
 -   <https://github.com/mims-harvard/UniTS>
+-   <https://github.com/oluwayetty/numer.ai>
 -   <https://github.com/tripolskypetr/garch>
 -   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>
