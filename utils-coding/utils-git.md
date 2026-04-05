@@ -104,6 +104,7 @@
 -   <https://gitexplorer.com/>
 -   <https://projectr.io/>
 -   <https://grep.app/>
+-   <https://github.com/Omibranch/gitty>
 
 ## OSS
 
