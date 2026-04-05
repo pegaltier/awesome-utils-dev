@@ -528,6 +528,7 @@
 -   <https://github.com/dnakov/anon-kode>
 -   <https://github.com/stitionai/devika>
 -   <https://github.com/Oneirocom/Magick>
+-   <https://github.com/HKUDS/OpenHarness>
 -   <https://github.com/appdotbuild/agent>
 -   <https://github.com/yamadashy/repomix>
 -   <https://github.com/e2b-dev/fragments>
@@ -974,7 +975,6 @@
 ## TOOLS: ASSISTANT EXAMPLE
 -   <https://github.com/Boweii22/Contract-OS>
 
-
 ## LIB: MACHINE LEARNING / ML
 
 -   <https://github.com/TabbyML/tabby>
@@ -1070,6 +1070,7 @@
 -   <https://github.com/openai/openai-realtime-agents>
 
 ## LIB: AGENTIC EXTRA / TOOLS
+-   <https://github.com/vercel-labs/just-bash>
 -   <https://github.com/nihaocami/ai-tool-maker>
 -   <https://github.com/msitarzewski/agency-agents>
 

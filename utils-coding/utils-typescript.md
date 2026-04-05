@@ -448,6 +448,7 @@
 -   <https://github.com/johngeorgewright/runtyping>
 -   <https://github.com/astahmer/openapi-zod-client>
 -   <https://github.com/JacobWeisenburger/zod_utilz>
+-   <https://github.com/arkemis-labs/shadcn-zod-form>
 
 ## LIB: HTTP
 
