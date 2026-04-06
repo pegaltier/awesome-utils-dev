@@ -130,16 +130,18 @@
     -   [NOTES](#notes)
     -   [ARTICLES](#articles)
 
-## BASIC
-
--   <https://nodejstoolbox.com/>
--   <https://kashw1n.com/blog/nodejs-2025/>
+## GUIDE: OSS
 -   <https://github.com/fraxken/ebook_nodejs>
 -   <https://github.com/i0natan/nodebestpractices>
 -   <https://github.com/microsoft/nodejs-guidelines>
 -   <https://github.com/platformatic/node-masterclass>
 -   <https://github.com/goldbergyoni/nodebestpractices>
 -   <https://github.com/platformatic/the-high-performance-node-workshop>
+
+## GUIDE: ONLINE
+-   <https://nodejstoolbox.com/>
+-   <https://nodejs.org/en/blog>
+-   <https://kashw1n.com/blog/nodejs-2025/>
 -   <https://blog.val.town/gardening-dependencies>
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
 -   <https://43081j.com/2026/03/three-pillars-of-javascript-bloat>
