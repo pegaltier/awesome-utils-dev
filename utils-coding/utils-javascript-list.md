@@ -1071,9 +1071,9 @@
 -   <https://github.com/metafizzy/infinite-scroll>
 
 ## LIB: FRONTEND LAYOUT
-
 -   <https://github.com/mathuo/dockview>
 -   <https://github.com/naver/egjs-grid>
+-   <https://github.com/chenglou/pretext>
 -   <https://github.com/Tom-Rawlings/Resizable.js>
 -   <https://github.com/golden-layout/golden-layout>
 -   <https://github.com/ashduckett/PureJS-SplitterBar>

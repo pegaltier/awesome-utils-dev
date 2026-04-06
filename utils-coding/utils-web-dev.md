@@ -669,6 +669,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/flozz/StackBlur>
 -   <https://github.com/7PH/powerglitch>
 -   <https://github.com/veltman/flubber>
+-   <https://github.com/chenglou/pretext>
 -   <https://github.com/taye/interact.js>
 -   <https://github.com/processing/p5.js>
 -   <https://github.com/paperjs/paper.js>
