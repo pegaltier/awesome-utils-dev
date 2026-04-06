@@ -131,6 +131,7 @@
     -   [ARTICLES](#articles)
 
 ## GUIDE: OSS
+
 -   <https://github.com/fraxken/ebook_nodejs>
 -   <https://github.com/i0natan/nodebestpractices>
 -   <https://github.com/microsoft/nodejs-guidelines>
@@ -139,6 +140,7 @@
 -   <https://github.com/platformatic/the-high-performance-node-workshop>
 
 ## GUIDE: ONLINE
+
 -   <https://nodejstoolbox.com/>
 -   <https://nodejs.org/en/blog>
 -   <https://kashw1n.com/blog/nodejs-2025/>
