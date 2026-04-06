@@ -825,6 +825,7 @@
 
 ## TOOLS: SEARCH
 
+-   <https://github.com/dmtrKovalenko/fff.nvim>
 -   <https://github.com/leptonai/search_with_lepton>
 
 ## TOOLS: FINANCE / TRADING
@@ -911,6 +912,7 @@
 
 ## LIB: MEMORY
 
+-   <https://github.com/tobi/qmd>
 -   <https://github.com/mem0ai/mem0>
 -   <https://github.com/NVIDIA/aistore>
 -   <https://github.com/Olow304/memvid>
@@ -943,6 +945,7 @@
 -   <https://github.com/adridder/moltron>
 -   <https://github.com/TinyAGI/tinyclaw>
 -   <https://github.com/eigent-ai/eigent>
+-   <https://github.com/qwibitai/nanoclaw>
 -   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
 -   <https://github.com/snarktank/antfarm>
@@ -1047,6 +1050,7 @@
 
 -   <https://github.com/dzhng/deep-research>
 -   <https://github.com/karpathy/autoresearch>
+-   <https://github.com/ResearAI/DeepScientist>
 -   <https://github.com/Alibaba-NLP/DeepResearch>
 -   <https://github.com/nickscamara/open-deep-research>
 
@@ -1620,6 +1624,7 @@
 
 -   <https://github.com/addyosmani/chatty>
 -   <https://github.com/Skyvern-AI/skyvern>
+-   <https://github.com/alibaba/page-agent>
 -   <https://github.com/lightpanda-io/browser>
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/magnitudedev/magnitude>

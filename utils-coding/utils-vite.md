@@ -9,6 +9,7 @@
 
 -   <https://github.com/vitest-dev/vscode>
 -   <https://github.com/voidzero-dev/setup-vp>
+-   <https://github.com/aleclarson/vite-tsconfig-paths>
 -   <https://github.com/voidzero-dev/oxc-angular-compiler>
 
 ## VITEST

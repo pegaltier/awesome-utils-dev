@@ -289,6 +289,7 @@
 ## UTILS: DEVTOOLS
 
 -   <https://pkg.vc/>
+-   <https://github.com/e18e/cli>
 -   <https://github.com/sgb-io/fta>
 -   <https://github.com/yunabe/tslab>
 -   <https://github.com/Qard/onchange>
@@ -299,6 +300,7 @@
 -   <https://github.com/ast-grep/ast-grep>
 -   <https://github.com/davidmarkclements/0x>
 -   <https://github.com/mysticatea/npm-run-all>
+-   <https://github.com/e18e/module-replacements>
 -   <https://github.com/rodrigopivi/tslab-widgets>
 -   <https://github.com/sverweij/dependency-cruiser>
 -   <https://github.com/antfu/node-modules-inspector>
@@ -406,9 +408,6 @@
 -   <https://github.com/vitest-dev/vitest>
 -   <https://github.com/tinylibs/tinyspy>
 
-## LIBS: VITE
-
--   <https://github.com/aleclarson/vite-tsconfig-paths>
 
 ## LIBS: VIDEO EDITING / AUDIO
 
@@ -690,6 +689,7 @@
 -   <https://github.com/SBoudrias/Inquirer.js>
 -   <https://github.com/larswaechter/voici.js>
 -   <https://github.com/visionmedia/node-progress>
+-   <https://github.com/alexeyraspopov/picocolors>
 -   <https://docs.npmjs.com/cli/ci.html>
 -   <https://github.com/lirantal/nodejs-cli-apps-best-practices>
 -   <https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html>
