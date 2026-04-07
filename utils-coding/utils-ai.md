@@ -919,6 +919,7 @@
 -   <https://github.com/steveyegge/beads>
 -   <https://github.com/topoteretes/cognee>
 -   <https://github.com/letta-ai/letta-code>
+-   <https://github.com/supermemoryai/supermemory>
 
 ## TOOLS: OFFLINE / LOCAL
 
@@ -990,6 +991,7 @@
 -   <https://github.com/dzhng/zod-gpt>
 -   <https://github.com/ruvnet/dspy.ts>
 -   <https://github.com/BoundaryML/baml>
+-   <https://github.com/longtail-labs/cigs>
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/josdejong/jsonrepair>
 -   <https://github.com/567-labs/instructor-js>

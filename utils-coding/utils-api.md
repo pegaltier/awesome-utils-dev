@@ -131,6 +131,7 @@
 -   <https://github.com/cyclosproject/ng-openapi-gen>
 -   <https://github.com/devexperts/swagger-codegen-ts>
 -   <https://github.com/OpenAPITools/openapi-generator>
+-   <https://github.com/acacode/swagger-typescript-api>
 -   <https://github.com/postmanlabs/openapi-to-postman>
 -   <https://github.com/contractual-dev/example-openapi>
 -   <https://github.com/platformatic/fastify-openapi-glue>

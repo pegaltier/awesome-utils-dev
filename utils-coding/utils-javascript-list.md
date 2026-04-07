@@ -1383,6 +1383,11 @@
 
 -   <https://github.com/NaturalNode/node-sylvester>
 
+## LIB: TEMPLATE
+-   <https://github.com/janl/mustache.js>
+-   <https://github.com/bgub/eta>
+
+
 ## LIB: GENETIC ALGO
 
 -   <https://github.com/dolphin278/genetic>
