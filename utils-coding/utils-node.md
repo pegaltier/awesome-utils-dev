@@ -449,6 +449,7 @@
 
 -   <https://github.com/breejs/bree>
 -   <https://github.com/jofpin/turbit>
+-   <https://github.com/microsoft/napajs>
 -   <https://github.com/piscinajs/piscina>
 -   <https://github.com/tinylibs/tinypool>
 -   <https://github.com/bikeshaving/shovel>
@@ -530,6 +531,10 @@
 -   <https://github.com/unjs/ofetch>
 -   <https://github.com/unjs/ohmyfetch>
 -   <https://github.com/WebReflection/fetch>
+
+## LIBS: QUEUE
+-   <https://github.com/kibertoad/layered-loader>
+-   <https://github.com/kibertoad/message-queue-toolkit>
 
 ## LIBS: JOB / SCHEDULER / SCHEDULING
 
