@@ -459,6 +459,7 @@
 -   <https://github.com/W4G1/multithreading>
 -   <https://github.com/josdejong/workerpool>
 -   <https://github.com/developit/web-worker>
+-   <https://github.com/coopernurse/node-pool>
 -   <https://github.com/faranalytics/socketnaut>
 -   <https://github.com/tripolskypetr/worker-testbed>
 -   <https://github.com/damiansire/web-worker-patterns>
@@ -477,13 +478,13 @@
 
 -   <https://github.com/isaacs/node-glob>
 
-## LIBS: HTTP&#x3A; ALL
+## LIBS: HTTP / ALL
 
 -   <https://github.com/sindresorhus/ky>
 -   <https://github.com/L-Blondy/up-fetch>
 -   <https://github.com/animir/node-rate-limiter-flexible>
 
-## LIBS: HTTP&#x3A; SSE / SERVER SENT EVENT
+## LIBS: HTTP / SSE / SERVER SENT EVENT
 
 -   <https://github.com/Bewinxed/river.ts>
 -   <https://github.com/adonisjs/transmit>

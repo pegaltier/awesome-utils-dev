@@ -521,6 +521,11 @@
 -   <https://yuriymatso.com/>
 -   <http://malori.org/>
 
+## TOOLS: LOW CODE
+-   <https://jsee.org/>
+-   <https://streamlit.io/>
+-   <https://shiny.posit.co/>
+
 ## TOOLS: TRADE PROP FIRM
 
 -   <https://www.we-funded-investors.com/>
@@ -862,6 +867,7 @@
 
 ### OSS: PEOPLE
 
+-   <https://github.com/brunodoamaral>
 -   <https://github.com/YannickKae>
 -   <https://github.com/yllvar>
 
@@ -1032,6 +1038,7 @@
 -   <https://github.com/vsjha18/nsetools>
 -   <https://github.com/polakowo/vectorbt> \*
 -   <https://github.com/erdewit/ib_insync>
+-   <https://github.com/lucasinglese/oryon>
 -   <https://github.com/bmoscon/cryptofeed>
 -   <https://github.com/jpolec/order_book>
 -   <https://github.com/okxapi/python-okx>
