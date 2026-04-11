@@ -196,6 +196,7 @@
 -   <https://github.com/sxyazi/yazi>
 -   <https://github.com/rejetto/hfs>
 -   <https://github.com/p2r3/convert>
+-   <https://github.com/wesm/msgvault>
 -   <https://github.com/C4illin/ConvertX>
 -   <https://github.com/internxt/drive-web>
 -   <https://github.com/cloudreve/cloudreve>
@@ -292,6 +293,7 @@
 -   <https://github.com/caorushizi/mediago>
 -   <https://github.com/OpenCut-app/OpenCut>
 -   <https://github.com/mazeincoding/AppCut>
+-   <https://github.com/vercel-labs/webreel>
 -   <https://github.com/alyssaxuu/screenity>
 -   <https://github.com/TeamNewPipe/NewPipe>
 -   <https://github.com/goshops-com/clipshare>

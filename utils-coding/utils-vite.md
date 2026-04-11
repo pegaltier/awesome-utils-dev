@@ -7,6 +7,7 @@
 
 ### TOOLS
 
+-   <https://github.com/cyco130/vavite>
 -   <https://github.com/vitest-dev/vscode>
 -   <https://github.com/voidzero-dev/setup-vp>
 -   <https://github.com/aleclarson/vite-tsconfig-paths>

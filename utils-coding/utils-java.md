@@ -106,6 +106,7 @@
 -   <https://github.com/nilsgumpfer/AdapterDesignPattern>
 -   <https://github.com/nilsgumpfer/CommandDesignPattern>
 -   <https://github.com/bertjan/quarkus-graalvm-aws-lambda>
+-   <https://github.com/daniellaera/spring-microservices-saga>
 
 ## TUTORIALS
 

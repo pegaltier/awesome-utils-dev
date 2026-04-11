@@ -153,6 +153,7 @@
 ## COURSES
 
 -   <https://developer.chrome.com/docs/css-ui/exclusive-accordion?hl=fr>
+-   <https://alexanderburgos.netlify.app/blog/popover-api-invoker-commands-build-ui-without-javascript>
 
 ## ENGINE
 

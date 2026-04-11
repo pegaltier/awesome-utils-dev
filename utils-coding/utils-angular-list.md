@@ -1280,8 +1280,10 @@ Learn everything about angular universal, make a good SEO.
 -   <https://justangular.com/blog/providing-inputs-in-di>
 -   <https://nartc.me/blog/angular-object-inputs/>
 -   <https://angularexperts.io/blog/stop-misusing-effects>
+-   <https://www.codigotipado.com/p/angular-signals-cheatsheet>
 -   <https://www.codigotipado.com/p/linkedsignal-in-angular-19-say-goodbye>
 -   <https://medium.com/@kobihari/connecting-signal-forms-to-a-signal-store-39dabd69b888>
+-   <https://medium.com/ngconf/debugging-angular-signals-a-guide-to-the-signal-graph-devtool-b0b69804496d>
 
 ## CORE: SIGNALS FORM
 
@@ -1308,6 +1310,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://github.com/jordanpowell88/angular-counter>
 -   <https://github.com/Ismaestro/angular-example-app>
 -   <https://github.com/eduardoRoth/signals-workshop>
+-   <https://github.com/amosISA/angular-signal-forms>
 -   <https://github.com/damiansire/angular-examples>
 -   <https://github.com/nartc/ng-conduit-signals>
 -   <https://github.com/alcfeoh/ngx-signal-forms>
@@ -2485,6 +2488,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/cognizone/ng-cognizone> (TOADD)
 -   <https://github.com/khvedela/ngx-persist> (TOADD)
 -   <https://github.com/love1024/ngx-oneforall> (TOADD)
+-   <https://github.com/wszgrcy/static-injector> (TOADD)
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 
@@ -3159,6 +3163,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/simplifiedcourses/ngx-vest-forms> (TOADD)
 -   <https://github.com/pjlamb12/ngx-reactive-forms-utils> (TOADD)
 -   <https://github.com/davidwalschots/angular-reactive-validation> (TOADD)
+-   <https://github.com/piying-org/piying-view> (TOADD)
 -   <https://github.com/JohannesHoppe/angular-date-value-accessor>
 -   <https://github.com/TinkoffCreditSystems/angular-contenteditable-accessor>
 -   <https://github.com/gparlakov/forms-typed>
@@ -3280,6 +3285,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/adrian-ub/shadcn-ng> (TOADD)
 -   <https://github.com/ng-primitives/ng-primitives> (TOADD)
 -   <https://github.com/zard-ui/zardui> (TOADD)
+-   <https://github.com/piying-org/piying-angular-component> (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 
@@ -3673,6 +3679,9 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://blog.angularindepth.com/how-to-get-started-with-canvas-animations-in-angular-2f797257e5b4>
 -   <https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7>
 
+## ECOSYSTEM: ANALOG
+-   <https://dev.to/analogjs/analogjs-24-vite-8-vitest-snapshot-serializers-astro-v6-support-and-more-3hgo>
+
 ## ECOSYSTEM: MOBILE
 
 Learn how to build mobile applications using angular. You will find many cross platform framework for building native or hybrid mobile app.
@@ -3894,6 +3903,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## ECOSYSTEM: COMMUNITY
 
+-   <https://www.ngdigest.co>
 -   <https://angular-hub.com/>
 -   <https://ngx-libs.com/>
 -   <https://indepth.dev/>

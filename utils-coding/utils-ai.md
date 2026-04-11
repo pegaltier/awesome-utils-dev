@@ -298,6 +298,7 @@
 -   <https://github.com/f/awesome-chatgpt-prompts>
 -   <https://github.com/e2b-dev/awesome-ai-agents>
 -   <https://github.com/humanloop/awesome-chatgpt>
+-   <https://github.com/Arindam200/awesome-ai-apps>
 -   <https://github.com/microsoft/ML-For-Beginners>
 -   <https://github.com/JimmyLv/awesome-nano-banana>
 -   <https://github.com/cbailes/awesome-deep-trading>
@@ -478,6 +479,7 @@
 -   <https://lovable.dev/>
 -   <https://www.trae.ai/>
 -   <https://ampcode.com/>
+-   <https://www.tbench.ai/>
 -   <https://voideditor.com/>
 -   <https://www.cursor.com/>
 -   <https://www.devgpt.com/>
@@ -555,6 +557,7 @@
 -   <https://github.com/opencode-ai/opencode>
 -   <https://github.com/continuedev/continue>
 -   <https://github.com/amantus-ai/vibetunnel>
+-   <https://github.com/millionco/debug-agent>
 -   <https://github.com/langchain-ai/open-swe>
 -   <https://github.com/microsoft/genaiscript>
 -   <https://github.com/raidendotai/cofounder>
@@ -574,6 +577,7 @@
 -   <https://github.com/mendableai/open-lovable>
 -   <https://github.com/amplication/amplication>
 -   <https://github.com/princeton-nlp/SWE-agent>
+-   <https://github.com/ProjectBarks/gopher-code>
 -   <https://github.com/google-gemini/gemini-cli>
 -   <https://github.com/robertpiosik/CodeWebChat>
 -   <https://github.com/stackblitz-labs/bolt.diy>
@@ -586,8 +590,14 @@
 -   <https://github.com/aws-samples/bedrock-engineer>
 -   <https://github.com/gpt-engineer-org/gpt-engineer>
 -   <https://github.com/deepseek-ai/DeepSeek-Coder-V2>
+-   <https://github.com/Gentleman-Programming/gentle-ai>
 -   <https://github.com/OpenInterpreter/open-interpreter>
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
+
+## TOOLS: CODING: OSS FRONTEND
+-   <https://github.com/pbakaus/impeccable>
+-   <https://github.com/Leonxlnx/taste-skill>
+-   <https://github.com/benjitaylor/agentation>
 -   <https://github.com/JCodesMore/ai-website-cloner-template>
 
 ## TOOLS: CODING: OSS CURSOR
@@ -641,6 +651,7 @@
 -   <https://github.com/slavingia/skills>
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/agentsmd/agents.md>
+-   <https://github.com/benjilegnard/skills>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/analogjs/angular-skills>
@@ -844,6 +855,10 @@
 -   <https://www.requesty.ai/>
 -   <https://github.com/Portkey-AI/gateway>
 
+## TOOLS: VOICE / SPEECH
+
+-   <https://wisprflow.ai/>
+
 ## IMAGES API
 
 -   <https://cloud.google.com/vision/>
@@ -936,6 +951,7 @@
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
+-   <https://bratan.ai/>
 -   <https://github.com/HKUDS/nanobot>
 -   <https://github.com/HKUDS/ClawWork>
 -   <https://github.com/jlia0/tinyclaw>
@@ -966,6 +982,7 @@
 -   <https://github.com/archestra-ai/archestra>
 -   <https://github.com/stephengpope/thepopebot>
 -   <https://github.com/withcatai/node-llama-cpp>
+-   <https://github.com/NousResearch/hermes-agent>
 -   <https://github.com/digitalknk/openclaw-runbook>
 -   <https://github.com/BytePioneer-AI/openclaw-china>
 -   <https://github.com/backslash-security/Claw-Hunter>
@@ -995,6 +1012,7 @@
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/josdejong/jsonrepair>
 -   <https://github.com/567-labs/instructor-js>
+-   <https://github.com/vercel-labs/json-render>
 -   <https://github.com/tripolskypetr/json-inference>
 -   <https://github.com/LogicStamp/logicstamp-context>
 
@@ -1066,7 +1084,9 @@
 -   <https://github.com/OpenPipe/ART>
 -   <https://github.com/camel-ai/camel>
 -   <https://github.com/crewAIInc/crewAI>
+-   <https://github.com/bytedance/deer-flow>
 -   <https://github.com/Ido-Levi/Hephaestus>
+-   <https://github.com/docker/docker-agent>
 -   <https://github.com/Gen-Verse/LatentMAS>
 -   <https://github.com/generalaction/emdash>
 -   <https://github.com/microsoft/TinyTroupe>
@@ -1076,6 +1096,10 @@
 -   <https://github.com/openai/openai-realtime-agents>
 
 ## LIB: AGENTIC EXTRA / TOOLS
+
+-   <https://github.com/vercel-labs/opensrc>
+-   <https://github.com/vercel-labs/dev3000>
+-   <https://github.com/RhysSullivan/executor>
 -   <https://github.com/vercel-labs/just-bash>
 -   <https://github.com/nihaocami/ai-tool-maker>
 -   <https://github.com/msitarzewski/agency-agents>
@@ -1328,6 +1352,7 @@
 -   <https://github.com/Mozilla-Ocho/llamafile>
 -   <https://github.com/Lightning-AI/lit-llama>
 -   <https://github.com/facebookresearch/llama>
+-   <https://github.com/TheTom/turboquant_plus>
 -   <https://github.com/lyuchenyang/Macaw-LLM>
 -   <https://github.com/google-deepmind/gemma>
 -   <https://github.com/tensorzero/tensorzero>
@@ -1414,7 +1439,7 @@
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
 
-## LIB: AUDIO / TTS
+## LIB: AUDIO / TTS / STT / VOICE
 
 -   <https://github.com/kyutai-labs/delayed-streams-modeling>
 -   <https://github.com/modelscope/ClearerVoice-Studio>
@@ -1445,6 +1470,7 @@
 -   <https://github.com/xming521/WeClone>
 -   <https://github.com/yl4579/StyleTTS2>
 -   <https://github.com/Jackywine/Bella>
+-   <https://github.com/voquill/voquill>
 -   <https://github.com/2noise/ChatTTS>
 -   <https://github.com/openai/whisper>
 -   <https://github.com/hexgrad/kokoro>
@@ -1636,6 +1662,7 @@
 -   <https://github.com/nanobrowser/nanobrowser>
 -   <https://github.com/browser-use/browser-use>
 -   <https://github.com/browser-use/workflow-use>
+-   <https://github.com/vercel-labs/agent-browser>
 -   <https://github.com/tomayac/built-in-ai-task-apis-polyfill>
 
 ## LIB: INTERACT

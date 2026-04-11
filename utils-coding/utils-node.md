@@ -261,8 +261,9 @@
 -   <https://www.clever-cloud.com/>
 -   <https://www.nodechef.com/>
 -   <https://www.render.com/>
--   <https://platform.sh/>
 -   <https://scalingo.com/>
+-   <https://platform.sh/>
+-   <https://deplo.io/>
 
 ## UTILS: NPM
 
@@ -461,6 +462,7 @@
 -   <https://github.com/developit/web-worker>
 -   <https://github.com/coopernurse/node-pool>
 -   <https://github.com/faranalytics/socketnaut>
+-   <https://github.com/shruthiakkal/multi-thread>
 -   <https://github.com/tripolskypetr/worker-testbed>
 -   <https://github.com/damiansire/web-worker-patterns>
 -   <https://www.inngest.com/blog/node-worker-threads>

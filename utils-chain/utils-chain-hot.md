@@ -165,6 +165,8 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 
 -   <https://github.com/coasys>
 -   <https://github.com/ddd-mtl/zdk>
+-   <https://github.com/ta10101/Holobro>
+-   <https://github.com/ta10101/BroNode>
 -   <https://github.com/hexafield/conjure>
 -   <https://github.com/unytco/hfvz-releases>
 -   <https://github.com/Soushi888/holochain-mcp>

@@ -29,6 +29,7 @@
 -   <https://github.com/ProjectUnifree/unifree>
 -   <https://github.com/ChloeLiang/rhythm-game>
 -   <https://github.com/hydralauncher/hydra>
+-   <https://github.com/C7-Game/OpenCiv3>
 -   <https://github.com/melonjs/melonJS>
 -   <https://github.com/rivet-gg/rivet>
 

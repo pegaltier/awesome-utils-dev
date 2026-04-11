@@ -236,6 +236,7 @@
 ## SITES: CRYPTO
 
 -   <https://folkvang.io/>
+-   <https://loris.tools/>
 -   <https://wintermute.com/>
 -   <https://alphractal.com/>
 -   <https://www.altrady.com/>
@@ -869,6 +870,7 @@
 
 -   <https://github.com/brunodoamaral>
 -   <https://github.com/YannickKae>
+-   <https://github.com/jbogocz>
 -   <https://github.com/yllvar>
 
 ### OSS: QUALITY
