@@ -526,6 +526,7 @@
 
 ## LIBS: SERVERLESS
 
+-   <https://github.com/openworkers>
 -   <https://github.com/quirrel-dev/quirrel>
 
 ## LIBS: REQUEST

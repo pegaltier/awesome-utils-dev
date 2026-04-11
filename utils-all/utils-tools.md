@@ -269,6 +269,7 @@
 -   <https://github.com/CyberTimon/RapidRAW>
 -   <https://github.com/photoprism/photoprism>
 -   <https://github.com/TagStudioDev/TagStudio>
+-   <https://github.com/codeforreal1/compressO>
 -   <https://github.com/GraphiteEditor/Graphite>
 
 ## OSS: AUDIO

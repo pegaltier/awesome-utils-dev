@@ -278,6 +278,7 @@
 
 -   <https://vercel.com/>
 -   <https://www.render.com/>
+-   <https://openworkers.com/>
 -   <https://www.netlify.com/>
 -   <https://www.checklyhq.com/>
 -   <https://www.compose.com/>

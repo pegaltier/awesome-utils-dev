@@ -594,6 +594,9 @@
 -   <https://github.com/OpenInterpreter/open-interpreter>
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
 
+## TOOLS: CODING: OSS BACKEND
+-   <https://github.com/wrtnlabs/autobe>
+
 ## TOOLS: CODING: OSS FRONTEND
 -   <https://github.com/pbakaus/impeccable>
 -   <https://github.com/Leonxlnx/taste-skill>
@@ -651,6 +654,7 @@
 -   <https://github.com/slavingia/skills>
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/agentsmd/agents.md>
+-   <https://github.com/JimLiu/baoyu-skills>
 -   <https://github.com/benjilegnard/skills>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
