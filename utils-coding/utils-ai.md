@@ -594,6 +594,9 @@
 -   <https://github.com/OpenInterpreter/open-interpreter>
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
 
+## TOOLS: CODING: OSS DEBUG
+-   <https://github.com/vibe-archi/pdbg>
+
 ## TOOLS: CODING: OSS BACKEND
 -   <https://github.com/wrtnlabs/autobe>
 
