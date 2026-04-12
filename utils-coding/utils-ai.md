@@ -659,6 +659,7 @@
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/JimLiu/baoyu-skills>
 -   <https://github.com/benjilegnard/skills>
+-   <https://github.com/nowork-studio/toprank>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/analogjs/angular-skills>
