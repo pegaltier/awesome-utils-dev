@@ -960,6 +960,7 @@
 -   <https://github.com/HKUDS/ClawWork>
 -   <https://github.com/jlia0/tinyclaw>
 -   <https://github.com/SeyZ/clawbands>
+-   <https://github.com/garrytan/gbrain>
 -   <https://github.com/NVIDIA/NemoClaw>
 -   <https://github.com/sipeed/picoclaw>
 -   <https://github.com/moltbot/moltbot>
@@ -1016,6 +1017,7 @@
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/josdejong/jsonrepair>
 -   <https://github.com/567-labs/instructor-js>
+-   <https://github.com/douglascrockford/Misty>
 -   <https://github.com/vercel-labs/json-render>
 -   <https://github.com/tripolskypetr/json-inference>
 -   <https://github.com/LogicStamp/logicstamp-context>
