@@ -1237,6 +1237,7 @@
 -   <https://github.com/enso-org/enso>
 -   <https://github.com/xyflow/xyflow>
 -   <https://github.com/didi/LogicFlow>
+-   <https://github.com/vercel/workflow>
 -   <https://github.com/flydelabs/flyde>
 -   <https://github.com/simstudioai/sim>
 -   <https://github.com/kestra-io/kestra>

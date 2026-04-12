@@ -583,6 +583,7 @@
 -   <https://github.com/motdotla/dotenv>
 -   <https://github.com/ekalinin/nodeenv>
 -   <https://github.com/inventage/envsubst>
+-   <https://github.com/fastify/env-schema>
 -   <https://github.com/motdotla/dotenv-expand>
 
 ## LIBS: AUTH / OIDC
@@ -738,7 +739,6 @@
 -   <https://github.com/justinfagnani/zipadee>
 -   <https://github.com/kwhitley/itty-router>
 -   <https://github.com/expressjs/multer>
--   <https://github.com/encoredev/encore>
 -   <https://github.com/Xiphe/cachified>
 -   <https://github.com/helmetjs/helmet>
 -   <https://github.com/tsedio/tsed>
@@ -755,18 +755,21 @@
 -   <https://github.com/rhinobase/hono-openapi>
 -   <https://github.com/honojs/hono>
 
-\## SERVER: ALL
+## SERVER: ALL
 
 -   <https://github.com/Rotorsoft/eventually-monorepo>
 -   <https://github.com/differentialhq/differential>
 -   <https://github.com/VilledeMontreal/workit>
 -   <https://github.com/brightcove/hot-shots>
 -   <https://github.com/typicode/json-server>
+-   <https://github.com/restify/node-restify>
 -   <https://github.com/paulmillr/chokidar>
 -   <https://github.com/fonoster/fonoster>
 -   <https://github.com/Goldziher/spikard>
+-   <https://github.com/encoredev/encore>
 -   <https://github.com/ts-rest/ts-rest>
 -   <https://github.com/elysiajs/elysia>
+-   <https://github.com/fastify/fastify>
 -   <https://github.com/vercel/og-image>
 -   <https://github.com/mnfst/manifest>
 -   <https://github.com/nitrojs/nitro>
@@ -778,7 +781,7 @@
 -   <https://github.com/h3js/srvx>
 -   <https://github.com/h3js/h3>
 
-\## SERVER: RPC
+## SERVER: RPC
 
 -   <https://github.com/trpc/trpc>
 -   <https://github.com/cloudflare/capnweb>
