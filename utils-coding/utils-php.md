@@ -156,6 +156,7 @@ More infos:
 
 -   <https://github.com/pestphp/pest>
 -   <https://github.com/xdebug/xdebug>
+-   <https://github.com/nunomaduro/pao>
 -   <https://github.com/rectorphp/rector>
 -   <https://github.com/carthage-software/mago>
 

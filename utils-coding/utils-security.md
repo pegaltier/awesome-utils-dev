@@ -148,6 +148,10 @@
 -   <https://github.com/snoopysecurity/awesome-burp-extensions>
 -   <https://github.com/CVEProject/cvelistV5>
 
+## TOOLS: OSS: PHYSICAL
+
+-   <https://github.com/ruvnet/RuView>
+
 ## TOOLS: OSS: OFFENSIVE
 
 -   <https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters>

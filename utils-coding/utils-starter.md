@@ -66,6 +66,7 @@
 
 ## ERP / CRM / HR
 
+-   <https://github.com/open-mercato/open-mercato>
 -   <https://github.com/idurar/idurar-erp-crm>
 -   <https://github.com/ever-co/ever-gauzy>
 -   <https://github.com/Dolibarr/dolibarr>

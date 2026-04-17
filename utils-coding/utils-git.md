@@ -42,6 +42,7 @@
 -   <https://blog.octo.com/git-dans-la-pratique-22>
 -   <https://github.com/mundimark/awesome-markdown>
 -   <https://github.com/GoldinGuy/UltimateGitResource>
+-   <https://github.com/jakubpawlowicz/git-cheat-sheet>
 -   <https://guides.github.com/features/mastering-markdown>
 -   <https://github.com/firstcontributions/first-contributions>
 -   <https://juristr.com/blog/2019/04/productive-git-for-developers>
@@ -124,6 +125,7 @@
 ## ACTIONS
 -   <https://www.blacksmith.sh/>
 -   <https://github.com/nektos/act>
+-   <https://github.com/github/gh-aw>
 -   <https://github.com/garronej/ts_ci>
 -   <https://github.com/actions/toolkit>
 -   <https://github.com/woodruffw/zizmor>

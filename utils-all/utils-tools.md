@@ -203,6 +203,7 @@
 -   <https://github.com/cloudreve/cloudreve>
 -   <https://github.com/stonith404/pingvin-share>
 -   <https://github.com/tonyantony300/alt-sendme>
+-   <https://github.com/mickael-kerjean/filestash>
 -   <https://github.com/Bill-Stewart/SyncthingWindowsSetup>
 
 ## OSS: FINANCE
@@ -287,6 +288,7 @@
 ## OSS: VIDEO
 
 -   <https://github.com/nexmoe/VidBee>
+-   <https://github.com/pingdotgg/lawn>
 -   <https://github.com/Ihsan172/Vanced>
 -   <https://github.com/alexta69/metube>
 -   <https://github.com/CapSoftware/Cap>

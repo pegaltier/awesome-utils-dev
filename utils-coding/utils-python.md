@@ -98,6 +98,7 @@ pip -V
 -   <https://github.com/astral-sh/uv>
 -   <https://github.com/marimo-team/marimo>
 -   <https://github.com/streamlit/streamlit>
+-   <https://github.com/python-poetry/poetry>
 -   <https://github.com/RustPython/RustPython>
 
 ## LIB: DEVTOOLS: EXTRA

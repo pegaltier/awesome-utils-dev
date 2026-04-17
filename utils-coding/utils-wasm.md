@@ -35,4 +35,5 @@
 -   <https://github.com/bytecodealliance/WASI-Virt>
 -   <https://github.com/WebAssembly/exception-handling>
 -   <https://github.com/bytecodealliance/wasm-pkg-tools>
+-   <https://github.com/peterc/webassembly-simplest-demo>
 -   <https://github.com/bytecodealliance/wasm-micro-runtime>

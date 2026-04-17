@@ -2305,6 +2305,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/sokra/source-map-visualization>
 -   <https://github.com/RHeckers/AngularRouteExplorer>
 -   <https://github.com/danielglejzner/ng16-dep-audit>
+-   <https://github.com/husseinAbdElaziz/angular-scan>
 -   <https://github.com/angular-experts-io/ng-parsel>
 -   <https://github.com/alfredoperez/ngx-dev-toolbar>
 -   <https://github.com/nitedani/vite-plugin-angular>
@@ -2963,6 +2964,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/paulhodel/jexcel>
 -   <https://github.com/shlomiassaf/ngrid>
 -   <https://github.com/yohangz/ornamentum>
+-   <https://github.com/revolist/revogrid>
 -   <https://github.com/vaadin/vaadin-grid>
 -   <https://github.com/angular-ui/ui-grid>
 -   <https://github.com/sbstjn/timesheet.js>

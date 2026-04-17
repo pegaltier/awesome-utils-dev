@@ -190,6 +190,7 @@
 
 -   <https://github.com/nodejs/node>
 -   <https://github.com/oven-sh/bun>
+-   <https://github.com/6over3/hako>
 -   <https://github.com/denoland/deno>
 -   <https://github.com/elide-dev/elide>
 -   <https://github.com/ScelarOrg/Nodepod>
@@ -301,10 +302,12 @@
 -   <https://github.com/Qard/onchange>
 -   <https://github.com/typicode/pinst>
 -   <https://github.com/harthur/replace>
+-   <https://github.com/Anxhul10/dag-rs>
 -   <https://github.com/volarjs/volar.js>
 -   <https://github.com/commitizen/cz-cli>
 -   <https://github.com/ast-grep/ast-grep>
 -   <https://github.com/davidmarkclements/0x>
+-   <https://github.com/webpro-nl/unbarrelify>
 -   <https://github.com/mysticatea/npm-run-all>
 -   <https://github.com/e18e/module-replacements>
 -   <https://github.com/rodrigopivi/tslab-widgets>
@@ -542,6 +545,7 @@
 -   <https://github.com/WebReflection/fetch>
 
 ## LIBS: QUEUE
+-   <https://github.com/luciopaiva/heapify>
 -   <https://github.com/kibertoad/layered-loader>
 -   <https://github.com/kibertoad/message-queue-toolkit>
 
@@ -647,12 +651,14 @@
 -   <https://github.com/Cauen/prisma-generator-postgres-realtime>
 -   <https://github.com/mohammed-bahumaish/prisma-editor>
 -   <https://github.com/catalinmiron/awesome-prisma>
+-   <https://github.com/onozaty/prisma-schema-fixer>
 -   <https://github.com/mgcrea/prisma-queue>
 -   <https://github.com/prisma/prisma>
 -   <https://github.com/prisma-utils>
 
 ## LIBS: DATABASE / ORM
 
+-   <https://github.com/Smef/vasta>
 -   <https://github.com/remult/remult>
 -   <https://github.com/prisma/prisma>
 -   <https://github.com/marcj/deepkit>

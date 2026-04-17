@@ -536,6 +536,7 @@
 -   <https://github.com/node-fetch/node-fetch>
 -   <https://github.com/SocketDev/socket-lib>
 -   <https://github.com/L-Blondy/up-fetch>
+-   <https://github.com/fetch-kit/ffetch>
 -   <http://github.com/sindresorhus/ky>
 -   <https://github.com/alovajs/alova>
 -   <https://github.com/axios/axios>
@@ -790,6 +791,7 @@
 ## LIB: ASYNC
 
 -   <https://github.com/nicolas-van/modern-async>
+-   <https://github.com/sindresorhus/emittery>
 -   <https://github.com/laverdet/node-fibers>
 
 ## LIB: PASSWORD
@@ -830,14 +832,16 @@
 -   <https://github.com/xmldom/xmldom>
 -   <https://github.com/fb55/entities>
 
-## LIB: PARSER JAVASCRIPT INTERPRETER
+## LIB: PARSER JAVASCRIPT INTERPRETER / COMPILER
 
 -   <https://github.com/NeilFraser/JS-Interpreter>
+-   <https://github.com/yuku-toolchain/yuku>
 -   <https://github.com/ocsigen/js_of_ocaml>
 -   <https://github.com/macaly/almostnode>
 -   <https://github.com/meriyah/meriyah>
 -   <https://github.com/bramblex/jsjs>
 -   <https://github.com/Siubaak/sval>
+-   <https://github.com/6over3/hako>
 -   <https://github.com/ohmjs/ohm>
 
 ## LIB: MARKUP / MARKDOWN / TEXT
@@ -869,6 +873,7 @@
 -   <https://github.com/sindresorhus/powershell-utils>
 -   <https://github.com/gmrchk/cli-testing-library>
 -   <https://github.com/microsoft/inshellisense>
+-   <https://github.com/millionco/cli-to-js>
 -   <https://github.com/infinitered/gluegun>
 -   <https://github.com/tj/commander.js/>
 -   <https://github.com/terkelg/prompts>
@@ -1074,6 +1079,7 @@
 -   <https://github.com/mathuo/dockview>
 -   <https://github.com/naver/egjs-grid>
 -   <https://github.com/chenglou/pretext>
+-   <https://github.com/cosmiciron/vmprint>
 -   <https://github.com/Tom-Rawlings/Resizable.js>
 -   <https://github.com/golden-layout/golden-layout>
 -   <https://github.com/ashduckett/PureJS-SplitterBar>
@@ -1107,7 +1113,7 @@
 -   <https://github.com/Gmousse/dataframe-js>
 -   <https://github.com/javascriptdata/danfojs>
 
-## LIB: FRONTEND UI TABLE / SPREADSHEET
+## LIB: FRONTEND UI TABLE / GRID / SPREADSHEET
 
 -   <https://github.com/javve/list.js>
 -   <https://github.com/TanStack/table>
@@ -1118,6 +1124,7 @@
 -   <https://github.com/jspreadsheet/ce>
 -   <https://github.com/dream-num/univer>
 -   <https://github.com/frappe/datatable>
+-   <https://github.com/revolist/revogrid>
 -   <https://github.com/tristen/tablesort>
 -   <https://github.com/tbranyen/hyperlist>
 -   <https://github.com/gristlabs/grist-core>
@@ -1351,6 +1358,7 @@
 
 ## LIB: MATH / CALCUL / NUMBER
 
+-   <https://github.com/compute-io>
 -   <https://github.com/bpierre/dnum>
 -   <https://github.com/ttulka/as-big>
 -   <https://github.com/MikeMcl/big.js>
@@ -1360,12 +1368,14 @@
 -   <https://github.com/dinerojs/dinero.js>
 -   <https://github.com/MikeMcl/decimal.js/>
 -   <https://github.com/munrocket/double-js>
+-   <https://github.com/formulajs/formulajs>
 -   <https://github.com/barvian/number-flow>
 -   <https://github.com/MikeMcl/bignumber.js>
 -   <https://github.com/barvian/motion-number>
 -   <https://github.com/nefe/number-precision>
 -   <https://github.com/adamwdraper/Numeral-js>
 -   <https://github.com/ebradyjobory/finance.js>
+-   <https://github.com/thisancog/statistics.js>
 -   <https://github.com/TheAlgorithms/Javascript>
 -   <https://github.com/royNiladri/js-big-decimal>
 -   <https://github.com/handsontable/hyperformula>
@@ -1453,7 +1463,8 @@
 -   <https://github.com/mljs/ml>
 -   <https://github.com/mljs/knn>
 -   <https://github.com/mljs/array>
--   <http://github.com/mljs/libsvm>
+-   <https://github.com/mljs/libsvm>
+-   <https://github.com/mljs/kernel>
 -   <https://github.com/mljs/matrix>
 -   <https://github.com/statsim/app>
 -   <https://github.com/proin/nodeml>
@@ -1476,6 +1487,7 @@
 -   <https://github.com/davide97g/ml-modules>
 -   <https://github.com/wagenaartje/neataptic>
 -   <https://github.com/tensorflow/tfjs-models>
+-   <https://github.com/AdamPerlinski/micro-ml>
 -   <https://github.com/lettier/interactiveknn>
 -   <https://github.com/artificialscience/k-nn>
 -   <https://github.com/ubilabs/kd-tree-javascript>
@@ -1494,6 +1506,11 @@
 -   <https://github.com/NaturalNode/natural/>
 -   <https://github.com/rudikershaw/whichx>
 -   <https://github.com/ttezel/bayes>
+
+## LIB: AI / MACHINE LEARNING / MARKOV
+-   <https://github.com/Fs02/multinomial-hmm>
+-   <https://github.com/bdchauvette/markov-chains>
+
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED
 

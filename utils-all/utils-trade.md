@@ -891,8 +891,11 @@
 -   <https://github.com/shashankvemuri/Finance>
 -   <https://github.com/letianzj/QuantResearch>
 -   <https://github.com/moov-io/awesome-fintech>
+-   <https://github.com/prabakar2610/TradingBooks>
 -   <https://github.com/wilsonfreitas/awesome-quant>
+-   <https://github.com/YuxinSUN89/quant-ohlcv-feature>
 -   <https://github.com/chromale/awesome-investing-tools>
+-   <https://github.com/georgezouq/awesome-ai-in-finance>
 -   <https://github.com/zazhang/ep-chan-book-algo-trading>
 -   <https://github.com/joelowj/awesome-algorithmic-trading>
 -   <https://github.com/quant-science/sunday-quant-scientist>
@@ -944,6 +947,8 @@
 -   <https://github.com/pmxt-dev/pmxt>
 -   <https://github.com/stoqey/ibkr>
 -   <https://github.com/knowm/XChange> \*
+-   <https://github.com/krakenfx/kraken-cli>
+-   <https://github.com/himalaya-quant/hq-ctrader-x>
 -   <https://github.com/gateio/gateapi-nodejs> \*
 -   <https://github.com/carlosmiei/node-binance-api>
 -   <https://github.com/alpacahq/typescript-sdk>
@@ -1019,6 +1024,10 @@
 -   <https://github.com/jesse-ai/jesse>
 -   <https://github.com/stellar/kelp>
 -   <https://github.com/hackingthemarkets>
+
+### OSS: OPENCLAW LIKE
+-   <https://github.com/alsk1992/CloddsBot>
+-   <https://github.com/naimkatiman/tradeclaw>
 
 ### OSS: HFT
 
@@ -1105,6 +1114,7 @@
 -   <https://github.com/bfolkens/py-market-profile>
 -   <https://github.com/akumidv/tradingview-ta-lib>
 -   <https://github.com/CHANGGELY/liangzhi-backtest>
+-   <https://github.com/djienne/ASTER_DELTA_NEUTRAL>
 -   <https://github.com/bitfinexcom/bitfinex-api-py>
 -   <https://github.com/OutSquareCapital/OutQuantLab> \*
 -   <https://github.com/algobulls/pyalgostrategypool>
@@ -1182,16 +1192,12 @@
 ## OSS: OTHERS
 
 -   <https://github.com/JKorf/Mexc.Net>
+-   <https://github.com/Apress/testing-and-tuning-market-trading-systems>
 
 ### OSS: JAVASCRIPT: GENETIC
 
 -   <https://github.com/gekkowarez/gekkoga>
 -   <https://github.com/coin-unknown/async-genetic>
-
-### OSS: JAVASCRIPT: MATH
-
--   <https://github.com/compute-io>
--   <https://github.com/thisancog/statistics.js>
 
 ### OSS: JAVASCRIPT: FOREX
 
@@ -1299,6 +1305,7 @@
 -   <https://github.com/tradingview/lightweight-charts>
 -   <https://github.com/tpunt/lwc-plugin-shape-drawing>
 -   <https://github.com/AmirRezaiyan/Tradingview_mini>
+-   <https://github.com/flowsurface-rs/flowsurface>
 -   <https://github.com/crypt0inf0/openalgo-chart>
 -   <https://github.com/tradex-app/TradeX-chart>
 -   <https://github.com/project-nv/night-vision>
@@ -1441,6 +1448,7 @@
 -   <https://github.com/Suharaz/MerkleAI>
 -   <https://github.com/whchien/ai-trader>
 -   <https://github.com/Quantreo/quantreo>
+-   <https://github.com/shiyu-coder/Kronos>
 -   <https://github.com/junduck/overthink>
 -   <https://github.com/mims-harvard/UniTS>
 -   <https://github.com/oluwayetty/numer.ai>

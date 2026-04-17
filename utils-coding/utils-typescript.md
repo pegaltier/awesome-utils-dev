@@ -400,6 +400,7 @@
 -   <https://github.com/sledorze/morphic-ts>
 -   <https://github.com/aidenybai/pattycake>
 -   <https://github.com/sinclairzx81/typebox>
+-   <https://github.com/nimeshnayaju/valleys>
 -   <https://github.com/gvergnaud/ts-pattern>
 -   <https://github.com/rsinger86/dto-classes>
 -   <https://github.com/fabian-hiller/valibot>
