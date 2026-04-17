@@ -301,6 +301,7 @@
 -   <https://github.com/Arindam200/awesome-ai-apps>
 -   <https://github.com/microsoft/ML-For-Beginners>
 -   <https://github.com/JimmyLv/awesome-nano-banana>
+-   <https://github.com/sindresorhus/awesome-chatgpt>
 -   <https://github.com/cbailes/awesome-deep-trading>
 -   <https://github.com/Shubhamsaboo/awesome-llm-apps>
 -   <https://github.com/PatrickJS/awesome-cursorrules>
@@ -1450,6 +1451,10 @@
 -   <https://github.com/qualifire-dev/rogue>
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
+
+## LIB: EVOLUTION
+
+-   <https://github.com/EvoMap/evolver>
 
 ## LIB: AUDIO / TTS / STT / VOICE
 

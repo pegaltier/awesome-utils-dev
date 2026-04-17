@@ -194,6 +194,7 @@
 -   <https://github.com/elide-dev/elide>
 -   <https://github.com/ScelarOrg/Nodepod>
 -   <https://github.com/macaly/almostnode>
+-   <https://github.com/JetCrabCollab/JetCrab>
 
 ## SANDBOX
 -   <https://github.com/bluelibs/sandboxify>
@@ -371,6 +372,9 @@
 -   <https://github.com/nexe/nexe>
 -   <https://github.com/sezna/nps>
 
+## UTILS: ARRAY
+-   <https://github.com/mljs/array>
+
 ## UTILS: LINK
 
 -   <https://github.com/toss/es-git>
@@ -516,6 +520,7 @@
 -   <https://github.com/duna-oss/flystorage>
 -   <https://github.com/sindresorhus/chunk-data>
 -   <https://github.com/googlicius/file-storage>
+-   <https://github.com/sindresorhus/is-filesystem-case-sensitive>
 
 ## LIBS: DOM
 

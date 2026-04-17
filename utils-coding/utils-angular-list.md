@@ -2868,10 +2868,8 @@ Analyze and optimize the performance of your app
 -   <https://github.com/Gbuomprisco/ngx-chips>
 -   <https://github.com/BioPhoton/angular-star-rating>
 -   <https://github.com/BioPhoton/angular-signature-pad>
--   <https://github.com/ng-maps/ng-maps>
 -   <https://github.com/Asymmetrik/ngx-leaflet>
 -   <https://github.com/francoisromain/leaflet-markers-canvas>
--   <https://github.com/Wykks/ngx-mapbox-gl>
 -   <https://github.com/text-mask/text-mask>
 -   <https://github.com/vadimdez/ng2-pdf-viewer/>
 -   <https://github.com/osahner/ngx-show-hide-password>
@@ -3063,6 +3061,12 @@ Analyze and optimize the performance of your app
 -   <https://github.com/jkuri/ng2-uploader>
 -   <https://github.com/flowjs/ngx-flow>
 
+## ECOSYSTEM: LIB: COMPONENT: MAP
+
+-   <https://github.com/ng-maps/ng-maps>
+-   <https://github.com/workletjs/workletjs>
+-   <https://github.com/Wykks/ngx-mapbox-gl>
+
 ## ECOSYSTEM: LIB: COMPONENT: DATA VIZ
 
 -   <https://github.com/f5/unovis>
@@ -3073,7 +3077,6 @@ Analyze and optimize the performance of your app
 -   <https://github.com/swimlane/ngx-graph>
 -   <https://github.com/xieziyu/ngx-echarts>
 -   <https://github.com/swimlane/ngx-charts>
--   <https://github.com/Wykks/ngx-mapbox-gl>
 -   <https://github.com/scttcper/ngx-chartjs>
 -   <https://github.com/stephenhutchings/shown>
 -   <https://github.com/gridstack/gridstack.js>

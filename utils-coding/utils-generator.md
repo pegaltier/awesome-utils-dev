@@ -33,6 +33,7 @@
 
 -   <https://github.com/ranyitz/code-migrate>
 -   <https://github.com/openrewrite/rewrite>
+-   <https://github.com/suites-dev/codemod>
 -   <https://github.com/dsherret/ts-morph>
 -   <https://github.com/codemod/codemod>
 -   <https://github.com/biomejs/gritql>

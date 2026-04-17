@@ -1447,11 +1447,12 @@
 -   <https://github.com/panchishin/neuralnet>
 -   <https://github.com/janhuenermann/neurojs>
 
-## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING
+## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / ML
 
 -   <https://github.com/jsmlt>
 -   <https://github.com/mljs/ml>
 -   <https://github.com/mljs/knn>
+-   <https://github.com/mljs/array>
 -   <http://github.com/mljs/libsvm>
 -   <https://github.com/mljs/matrix>
 -   <https://github.com/statsim/app>
