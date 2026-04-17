@@ -229,6 +229,7 @@
 -   <https://github.com/playwright-community/playwright-community>
 -   <https://github.com/microsoft/playwright-testing-service>
 -   <https://github.com/vitalets/playwright-webhook-reporter>
+-   <https://github.com/germangordon/playwright-ai-matchers>
 -   <https://github.com/vitalets/playwright-network-cache>
 -   <https://github.com/vitalets/playwright-magic-steps>
 -   <https://github.com/vitalets/playwright-fix-with-ai>

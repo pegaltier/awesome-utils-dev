@@ -100,12 +100,13 @@
 -   <https://www.tldraw.com/>
 -   <https://owncast.online/>
 -   <https://transform.tools/>
+-   <https://beginthings.com/>
+-   <https://codebeautify.org/>
 -   <https://phalternatives.com/>
 -   <https://onlineminitools.com/>
 -   <https://measurethat.net/Tools>
 -   <https://oscarleo.com/google-trends>
 -   <https://metatags.io/font-generator>
--   <https://beginthings.com/>
 
 ## OSS: ALL
 

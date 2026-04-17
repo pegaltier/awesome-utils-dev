@@ -1177,6 +1177,7 @@
 -   <https://github.com/Y2Z/monolith>
 -   <https://github.com/apify/crawlee>
 -   <https://github.com/getmaxun/maxun>
+-   <https://github.com/D4Vinci/Scrapling>
 -   <https://github.com/QuivrHQ/MegaParse>
 -   <https://github.com/addyosmani/git2txt>
 -   <https://github.com/steipete/summarize>
