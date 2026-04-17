@@ -98,7 +98,7 @@
 
 -   [LIB: PARSER SCRAPER HTML/XML/JSON/DOM/CSV](#lib-parser-scraper-htmlxmljsondomcsv)
 
--   [LIB: PARSER JAVASCRIPT INTERPRETER](#lib-parser-javascript-interpreter)
+-   [LIB: PARSER JAVASCRIPT INTERPRETER / COMPILER](#lib-parser-javascript-interpreter--compiler)
 
 -   [LIB: MARKUP / MARKDOWN / TEXT](#lib-markup--markdown--text)
 
@@ -148,7 +148,7 @@
 
 -   [LIB: FRONTEND DATA TABLE](#lib-frontend-data-table)
 
--   [LIB: FRONTEND UI TABLE / SPREADSHEET](#lib-frontend-ui-table--spreadsheet)
+-   [LIB: FRONTEND UI TABLE / GRID / SPREADSHEET](#lib-frontend-ui-table--grid--spreadsheet)
 
 -   [LIB: FRONTEND ANIMATION](#lib-frontend-animation-1)
 
@@ -159,6 +159,8 @@
 -   [LIB: FRONTEND SCHEMAS](#lib-frontend-schemas)
 
 -   [LIB: FRONTEND SIGNALS](#lib-frontend-signals)
+
+-   [LIB: FRONTEND NOCODE](#lib-frontend-nocode)
 
 -   [LIB: MAP](#lib-map)
 
@@ -182,19 +184,25 @@
 
 -   [LIB: MATH / MATRIX](#lib-math--matrix)
 
+-   [LIB: TEMPLATE](#lib-template)
+
 -   [LIB: GENETIC ALGO](#lib-genetic-algo)
 
 -   [LIB: AI: GPT](#lib-ai-gpt)
 
 -   [LIB: AI: AGENT](#lib-ai-agent)
 
+-   [LIB: AI: AGENT EXTRA](#lib-ai-agent-extra)
+
 -   [LIB: AI WEB / NLP EDGE](#lib-ai-web--nlp-edge)
 
 -   [LIB: AI / DEEP LEARNING / NEURAL NETWORK](#lib-ai--deep-learning--neural-network)
 
--   [LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING](#lib-ai--training--prediction--machine-learning)
+-   [LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / ML](#lib-ai--training--prediction--machine-learning--ml)
 
 -   [LIB: AI / MACHINE LEARNING / NAIVE BAYES / TEXT CLASSIFIER](#lib-ai--machine-learning--naive-bayes--text-classifier)
+
+-   [LIB: AI / MACHINE LEARNING / MARKOV](#lib-ai--machine-learning--markov)
 
 -   [LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED](#lib-ai--artificial-intelligence--all-unclassified)
 
@@ -1076,6 +1084,7 @@
 -   <https://github.com/metafizzy/infinite-scroll>
 
 ## LIB: FRONTEND LAYOUT
+
 -   <https://github.com/mathuo/dockview>
 -   <https://github.com/naver/egjs-grid>
 -   <https://github.com/chenglou/pretext>
@@ -1174,6 +1183,7 @@
 -   <https://github.com/web-platform-dx/developer-signals>
 
 ## LIB: FRONTEND NOCODE
+
 -   <https://github.com/jseeio/jsee>
 
 ## LIB: MAP
@@ -1396,9 +1406,9 @@
 -   <https://github.com/NaturalNode/node-sylvester>
 
 ## LIB: TEMPLATE
+
 -   <https://github.com/janl/mustache.js>
 -   <https://github.com/bgub/eta>
-
 
 ## LIB: GENETIC ALGO
 
@@ -1436,6 +1446,7 @@
 -   <https://github.com/ephemeraHQ/xmtp-agent-examples>
 
 ## LIB: AI: AGENT EXTRA
+
 -   <https://github.com/googleworkspace/cli>
 
 ## LIB: AI WEB / NLP EDGE
@@ -1508,9 +1519,9 @@
 -   <https://github.com/ttezel/bayes>
 
 ## LIB: AI / MACHINE LEARNING / MARKOV
+
 -   <https://github.com/Fs02/multinomial-hmm>
 -   <https://github.com/bdchauvette/markov-chains>
-
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED
 

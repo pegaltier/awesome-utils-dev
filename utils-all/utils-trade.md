@@ -44,6 +44,8 @@
 
 -   [TOOLS: BOTS](#tools-bots)
 
+-   [TOOLS: LOW CODE](#tools-low-code)
+
 -   [TOOLS: TRADE PROP FIRM](#tools-trade-prop-firm)
 
 -   [TOOLS: PORTFOLIO](#tools-portfolio)
@@ -97,6 +99,7 @@
     -   [OSS: STRATEGY](#oss-strategy)
     -   [OSS: EXECUTE](#oss-execute)
     -   [OSS: BOTS](#oss-bots)
+    -   [OSS: OPENCLAW LIKE](#oss-openclaw-like)
     -   [OSS: HFT](#oss-hft)
     -   [OSS: PYTHON](#oss-python)
     -   [OSS: PYTHON: OCTOBOT](#oss-python-octobot)
@@ -107,9 +110,9 @@
 -   [OSS: OTHERS](#oss-others)
 
     -   [OSS: JAVASCRIPT: GENETIC](#oss-javascript-genetic)
-    -   [OSS: JAVASCRIPT: MATH](#oss-javascript-math)
     -   [OSS: JAVASCRIPT: FOREX](#oss-javascript-forex)
     -   [OSS: JAVASCRIPT: STOCKS](#oss-javascript-stocks)
+    -   [OSS: JAVASCRIPT: HFT](#oss-javascript-hft)
     -   [OSS: JAVASCRIPT: QUOTES](#oss-javascript-quotes)
     -   [OSS: JAVASCRIPT: INDICATORS](#oss-javascript-indicators)
     -   [OSS: JAVASCRIPT: BACKTEST & TRADES](#oss-javascript-backtest--trades)
@@ -117,6 +120,7 @@
     -   [OSS: JAVASCRIPT: CHART](#oss-javascript-chart)
     -   [OSS: JAVASCRIPT: CANDLES](#oss-javascript-candles)
     -   [OSS: JAVASCRIPT: PINESCRIPT](#oss-javascript-pinescript)
+    -   [OSS: JAVASCRIPT: OPTIMIZE](#oss-javascript-optimize)
     -   [OSS: JAVASCRIPT: ALL](#oss-javascript-all)
 
 -   [OSS: AI / ARTIFICIAL INTELLIGENCE](#oss-ai--artificial-intelligence)
@@ -523,6 +527,7 @@
 -   <http://malori.org/>
 
 ## TOOLS: LOW CODE
+
 -   <https://jsee.org/>
 -   <https://streamlit.io/>
 -   <https://shiny.posit.co/>
@@ -1026,6 +1031,7 @@
 -   <https://github.com/hackingthemarkets>
 
 ### OSS: OPENCLAW LIKE
+
 -   <https://github.com/alsk1992/CloddsBot>
 -   <https://github.com/naimkatiman/tradeclaw>
 
@@ -1211,6 +1217,7 @@
 -   <https://github.com/jovinjijo/se>
 
 ### OSS: JAVASCRIPT: HFT
+
 -   <https://github.com/shixiongfei/hft.js>
 -   <https://github.com/fasenderos/nodejs-order-book>
 

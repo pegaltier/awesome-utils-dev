@@ -34,7 +34,7 @@
 
 -   [TOOLS: ALL](#tools-all)
 
--   [TOOLS: AGGREGATE](#tools-aggregate)
+-   [TOOLS: AGGREGATE / GATEWAY](#tools-aggregate--gateway)
 
 -   [TOOLS: AUTOMATE](#tools-automate)
 
@@ -50,11 +50,23 @@
 
 -   [TOOLS: CODING: OSS](#tools-coding-oss)
 
+-   [TOOLS: CODING: OSS DEBUG](#tools-coding-oss-debug)
+
+-   [TOOLS: CODING: OSS BACKEND](#tools-coding-oss-backend)
+
+-   [TOOLS: CODING: OSS FRONTEND](#tools-coding-oss-frontend)
+
 -   [TOOLS: CODING: OSS CURSOR](#tools-coding-oss-cursor)
 
 -   [TOOLS: CODING: OSS CLAUDE](#tools-coding-oss-claude)
 
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
+
+-   [TOOLS: CODING: OSS SPEC](#tools-coding-oss-spec)
+
+-   [TOOLS: CODING: OSS CODE REVIEW](#tools-coding-oss-code-review)
+
+-   [TOOLS: CODING: OSS AUTO](#tools-coding-oss-auto)
 
 -   [TOOLS: NOCODING](#tools-nocoding)
 
@@ -94,6 +106,8 @@
 
 -   [TOOLS: GATEWAY](#tools-gateway)
 
+-   [TOOLS: VOICE / SPEECH](#tools-voice--speech)
+
 -   [IMAGES API](#images-api)
 
 -   [OTHERS](#others)
@@ -111,6 +125,8 @@
 -   [TOOLS: OFFLINE / LOCAL](#tools-offline--local)
 
 -   [TOOLS: ASSISTANT / COWORK SELF HOST](#tools-assistant--cowork-self-host)
+
+-   [TOOLS: ASSISTANT EXAMPLE](#tools-assistant-example)
 
 -   [LIB: MACHINE LEARNING / ML](#lib-machine-learning--ml)
 
@@ -132,7 +148,15 @@
 
 -   [LIB: COMPANION](#lib-companion)
 
+-   [LIB: RESEARCH AGENT](#lib-research-agent)
+
+-   [LIB: COMPAT AGENT](#lib-compat-agent)
+
 -   [LIB: MULTI AGENT](#lib-multi-agent)
+
+-   [LIB: AGENTIC DEV TOOLS](#lib-agentic-dev-tools)
+
+-   [LIB: AGENTIC ALL TOOLS](#lib-agentic-all-tools)
 
 -   [LIB: AGENTIC FRAMEWORK](#lib-agentic-framework)
 
@@ -166,7 +190,9 @@
 
 -   [LIB: EVALS](#lib-evals)
 
--   [LIB: AUDIO / TTS](#lib-audio--tts)
+-   [LIB: EVOLUTION](#lib-evolution)
+
+-   [LIB: AUDIO / TTS / STT / VOICE](#lib-audio--tts--stt--voice)
 
 -   [LIB: AUDIO / TRANSCRIPT](#lib-audio--transcript)
 
@@ -180,7 +206,7 @@
 
 -   [LIB: TRAIN](#lib-train)
 
--   [LIB: ORCHESTRATION](#lib-orchestration)
+-   [LIB: ORCHESTRATION / ZERO HUMAN](#lib-orchestration--zero-human)
 
 -   [LIB: TEXT / TRANSLATION](#lib-text--translation)
 
@@ -605,9 +631,11 @@
 -   <https://github.com/millionco/debug-agent>
 
 ## TOOLS: CODING: OSS BACKEND
+
 -   <https://github.com/wrtnlabs/autobe>
 
 ## TOOLS: CODING: OSS FRONTEND
+
 -   <https://github.com/pbakaus/impeccable>
 -   <https://github.com/Leonxlnx/taste-skill>
 -   <https://github.com/benjitaylor/agentation>
@@ -691,6 +719,7 @@
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
 ## TOOLS: CODING: OSS SPEC
+
 -   <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/>
 
 ## TOOLS: CODING: OSS CODE REVIEW
@@ -699,6 +728,7 @@
 -   <https://github.com/Gentleman-Programming/gentleman-guardian-angel>
 
 ## TOOLS: CODING: OSS AUTO
+
 -   <https://github.com/topics/autonomous-agents?l=typescript>
 -   <https://github.com/NikitaDmitrieff/auto-co-meta>
 -   <https://github.com/ruvnet/ruflo>
@@ -1034,6 +1064,7 @@
 -   <https://gist.github.com/championswimmer/bd0a45f0b1482cb7181d922fd94ab978>
 
 ## TOOLS: ASSISTANT EXAMPLE
+
 -   <https://github.com/Boweii22/Contract-OS>
 
 ## LIB: MACHINE LEARNING / ML
@@ -1118,6 +1149,7 @@
 -   <https://github.com/K-Dense-AI/scientific-agent-skills>
 
 ## LIB: COMPAT AGENT
+
 -   <https://github.com/InsForge/InsForge>
 -   <https://github.com/HKUDS/CLI-Anything>
 

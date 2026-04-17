@@ -3,8 +3,7 @@
 ## TABLE OF CONTENTS
 
 -   [Personal dev](#personal-dev)
--   [Health](#health)
--   [Drink](#drink)
+-   [Food](#food)
 -   [Italy](#italy)
 -   [Immo](#immo)
 -   [Dating](#dating)

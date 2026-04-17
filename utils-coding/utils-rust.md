@@ -11,6 +11,7 @@
 -   [JAVASCRIPT](#javascript)
 -   [UTILS](#utils)
 -   [FRAMEWORK](#framework)
+-   [LIB: API](#lib-api)
 -   [LIB: AI](#lib-ai)
 -   [LIB: DB](#lib-db)
 -   [LIB](#lib)
@@ -78,6 +79,7 @@
 -   <https://github.com/trailbaseio/trailbase>
 
 ## LIB: API
+
 -   <https://github.com/rapina-rs/rapina>
 
 ## LIB: AI

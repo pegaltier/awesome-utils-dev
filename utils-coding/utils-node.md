@@ -2,13 +2,17 @@
 
 ## TABLE OF CONTENTS
 
--   [BASIC](#basic)
+-   [GUIDE: OSS](#guide-oss)
+
+-   [GUIDE: ONLINE](#guide-online)
 
 -   [VERSION MANAGER](#version-manager)
 
 -   [PACKAGE MANAGER](#package-manager)
 
 -   [RUNTIME](#runtime)
+
+-   [SANDBOX](#sandbox)
 
 -   [BUNDLER / BUILDER](#bundler--builder)
 
@@ -30,6 +34,8 @@
 
 -   [UTILS: ALL](#utils-all)
 
+-   [UTILS: ARRAY](#utils-array)
+
 -   [UTILS: LINK](#utils-link)
 
 -   [MONITORING / LOGGING](#monitoring--logging)
@@ -37,8 +43,6 @@
 -   [LIBS: ALL](#libs-all)
 
 -   [LIBS: TESTING](#libs-testing)
-
--   [LIBS: VITE](#libs-vite)
 
 -   [LIBS: VIDEO EDITING / AUDIO](#libs-video-editing--audio)
 
@@ -52,9 +56,9 @@
 
 -   [LIBS: REGEX / BLOG](#libs-regex--blog)
 
--   [LIBS: HTTP: ALL](#libs-http-all)
+-   [LIBS: HTTP / ALL](#libs-http--all)
 
--   [LIBS: HTTP: SSE / SERVER SENT EVENT](#libs-http-sse--server-sent-event)
+-   [LIBS: HTTP / SSE / SERVER SENT EVENT](#libs-http--sse--server-sent-event)
 
 -   [LIBS: USB](#libs-usb)
 
@@ -66,9 +70,13 @@
 
 -   [LIBS: REQUEST](#libs-request)
 
+-   [LIBS: QUEUE](#libs-queue)
+
 -   [LIBS: JOB / SCHEDULER / SCHEDULING](#libs-job--scheduler--scheduling)
 
 -   [LIBS: CRON](#libs-cron)
+
+-   [LIBS: BULK](#libs-bulk)
 
 -   [LIBS: TESTING](#libs-testing-1)
 
@@ -198,6 +206,7 @@
 -   <https://github.com/JetCrabCollab/JetCrab>
 
 ## SANDBOX
+
 -   <https://github.com/bluelibs/sandboxify>
 
 ## BUNDLER / BUILDER
@@ -376,6 +385,7 @@
 -   <https://github.com/sezna/nps>
 
 ## UTILS: ARRAY
+
 -   <https://github.com/mljs/array>
 
 ## UTILS: LINK
@@ -419,7 +429,6 @@
 -   <https://github.com/jestjs/jest>
 -   <https://github.com/vitest-dev/vitest>
 -   <https://github.com/tinylibs/tinyspy>
-
 
 ## LIBS: VIDEO EDITING / AUDIO
 
@@ -545,6 +554,7 @@
 -   <https://github.com/WebReflection/fetch>
 
 ## LIBS: QUEUE
+
 -   <https://github.com/luciopaiva/heapify>
 -   <https://github.com/kibertoad/layered-loader>
 -   <https://github.com/kibertoad/message-queue-toolkit>
@@ -575,6 +585,7 @@
 -   <https://github.com/breejs/bree>
 
 ## LIBS: BULK
+
 -   <https://github.com/vgpastor/batchactions>
 
 ## LIBS: TESTING
@@ -766,7 +777,7 @@
 -   <https://github.com/rhinobase/hono-openapi>
 -   <https://github.com/honojs/hono>
 
-## SERVER: ALL
+\## SERVER: ALL
 
 -   <https://github.com/Rotorsoft/eventually-monorepo>
 -   <https://github.com/differentialhq/differential>
@@ -792,7 +803,7 @@
 -   <https://github.com/h3js/srvx>
 -   <https://github.com/h3js/h3>
 
-## SERVER: RPC
+\## SERVER: RPC
 
 -   <https://github.com/trpc/trpc>
 -   <https://github.com/cloudflare/capnweb>

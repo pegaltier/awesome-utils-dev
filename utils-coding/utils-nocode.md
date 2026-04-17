@@ -8,6 +8,7 @@ low-code tooling to prototype fastly.
 -   [project](#project)
 -   [api](#api)
 -   [headless cms / jamstack](#headless-cms--jamstack)
+-   [company](#company)
 -   [landing](#landing)
 -   [mobile](#mobile)
 -   [documentation](#documentation)

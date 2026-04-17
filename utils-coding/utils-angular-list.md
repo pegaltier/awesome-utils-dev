@@ -136,11 +136,15 @@
 
 -   [ECOSYSTEM: MICROFRONTEND](#ecosystem-microfrontend)
 
--   [ECOSYSTEM: MICROFRONTEND: FEDERATION](#ecosystem-microfrontend-federation)
+-   [ECOSYSTEM: MICROFRONTEND: MODULE FEDERATION](#ecosystem-microfrontend-module-federation)
+
+-   [ECOSYSTEM: MICROFRONTEND: NATIVE FEDERATION](#ecosystem-microfrontend-native-federation)
 
 -   [ECOSYSTEM: MONOREPO](#ecosystem-monorepo)
 
 -   [ECOSYSTEM: INCREMENTAL](#ecosystem-incremental)
+
+-   [ECOSYSTEM: AI](#ecosystem-ai)
 
 -   [ECOSYSTEM: SEEDS](#ecosystem-seeds)
 
@@ -246,6 +250,8 @@
 
 -   [ECOSYSTEM: LIB: COMPONENT: UPLOAD](#ecosystem-lib-component-upload)
 
+-   [ECOSYSTEM: LIB: COMPONENT: MAP](#ecosystem-lib-component-map)
+
 -   [ECOSYSTEM: LIB: COMPONENT: DATA VIZ](#ecosystem-lib-component-data-viz)
 
 -   [ECOSYSTEM: LIB: COMPONENT: MODAL](#ecosystem-lib-component-modal)
@@ -311,6 +317,8 @@
 -   [ECOSYSTEM: DEMO: LIVE](#ecosystem-demo-live)
 
 -   [ECOSYSTEM: GAMES](#ecosystem-games)
+
+-   [ECOSYSTEM: ANALOG](#ecosystem-analog)
 
 -   [ECOSYSTEM: MOBILE](#ecosystem-mobile)
 
@@ -1792,6 +1800,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/gioboa/module-federation-vite-examples>
 
 ## ECOSYSTEM: MICROFRONTEND: NATIVE FEDERATION
+
 -   <https://github.com/native-federation/native-federation-core>
 -   <https://github.com/manfredsteyer/native-federation-core-microfrontend>
 -   <https://github.com/manfredsteyer/native-federation-core-example>
@@ -3685,6 +3694,7 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7>
 
 ## ECOSYSTEM: ANALOG
+
 -   <https://dev.to/analogjs/analogjs-24-vite-8-vitest-snapshot-serializers-astro-v6-support-and-more-3hgo>
 
 ## ECOSYSTEM: MOBILE

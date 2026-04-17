@@ -28,6 +28,7 @@
 -   [DEBUG](#debug)
 -   [NPM](#npm)
 -   [AMP](#amp)
+-   [PROPOSAL](#proposal)
 -   [DEBUG](#debug-1)
 -   [IMAGE](#image)
 -   [VARIOUS CSS/JS/HTML/EFFECT UX](#various-cssjshtmleffect-ux)
@@ -49,7 +50,8 @@
 -   [EXPERIMENT](#experiment)
 -   [HTML AUDIO](#html-audio)
 -   [LIB](#lib)
--   [WEBCOMPONENTS / COMPONENTS](#webcomponents--components)
+-   [WEBCOMPONENTS / LEARN COMPONENTS](#webcomponents--learn-components)
+-   [WEBCOMPONENTS / UI COMPONENTS](#webcomponents--ui-components)
 -   [CWV](#cwv)
 -   [IOT](#iot)
 -   [LIB](#lib-1)
@@ -330,6 +332,7 @@ bad practices : <https://www.youtube.com/watch?v=pGFQ02qtJ7w>
 <https://github.com/Lullabot/amp-library>
 
 ## PROPOSAL
+
 <https://github.com/jasnell/new-streams>
 
 ## DEBUG
@@ -522,6 +525,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://dev.to/melcor76/the-state-of-web-components-ab3>
 
 ## WEBCOMPONENTS / UI COMPONENTS
+
 -   <https://github.com/knadh/oat>
 -   <https://github.com/microsoft/fast>
 -   <https://github.com/playcanvas/pcui>

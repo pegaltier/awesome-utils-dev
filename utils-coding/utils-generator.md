@@ -17,7 +17,7 @@
 6.  Scaffholdhub: <https://scaffoldhub.io/>
 7.  Android flavor: <https://www.androidauthority.com/building-multiple-flavors-android-app-706436/>
 8.  XgeneCloud: <https://github.com/xgenecloud/xgenecloud>
-9.  Mustache/eta: <https://github.com/janl/mustache.js> https://github.com/bgub/eta
+9.  Mustache/eta: <https://github.com/janl/mustache.js> <https://github.com/bgub/eta>
 10. Hygen: <https://github.com/jondot/hygen>
 11. Tsnew: <https://github.com/sunnysingh/tsnew>
 
