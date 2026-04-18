@@ -280,6 +280,12 @@
 -   <https://github.com/HenryNdubuaku/maths-cs-ai-compendium>
 -   <https://github.com/NirDiamant/agents-towards-production>
 
+## BENCHMARK
+-   <https://livebench.ai/>
+-   <https://www.tbench.ai/>
+-   <https://epoch.ai/benchmarks>
+-   <https://artificialanalysis.ai/>
+
 ## INTERVIEW
 
 -   <https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub>
