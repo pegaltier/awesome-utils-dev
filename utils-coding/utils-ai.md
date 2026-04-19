@@ -292,6 +292,9 @@
 
 ## VIDEOS
 
+-   <https://youtu.be/_Zcw_sVF6hU> 26/04 The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil
+-   <https://youtu.be/8txf05vVVl4> 26/04 Code Mode - Sunil Pai, Cloudflare
+-   <https://youtu.be/v3Fr2JR47KA> 26/04 The Future of MCP — David Soria Parra, Anthropic
 -   <https://youtu.be/ZuiJjkbX0Og> How LLMs work for Web Devs: GPT in 600 lines of Vanilla JS - Ishan Anand
 -   <https://youtu.be/85GKLbqEu08> I Made an AI Automated Youtube Channel - Here's What Happened in 30 Days
 -   <https://youtu.be/lqXWVzWkkyc> I Made 700 Monetizable YouTube Shorts for Faceless Channel in 18 MINUTES
@@ -540,7 +543,6 @@
 -   <https://github.com/ekkinox/yai>
 -   <https://github.com/nrslib/takt>
 -   <https://github.com/block/goose>
--   <https://github.com/google/A2UI>
 -   <https://github.com/openai/codex>
 -   <https://github.com/wandb/openui>
 -   <https://github.com/dyad-sh/dyad>
@@ -642,9 +644,11 @@
 
 ## TOOLS: CODING: OSS FRONTEND
 
+-   <https://github.com/google/A2UI>
 -   <https://github.com/pbakaus/impeccable>
 -   <https://github.com/Leonxlnx/taste-skill>
 -   <https://github.com/benjitaylor/agentation>
+-   <https://github.com/vercel-labs/json-render>
 -   <https://github.com/google-labs-code/stitch-sdk>
 -   <https://github.com/JCodesMore/ai-website-cloner-template>
 
@@ -838,10 +842,13 @@
 
 ## TOOLS: VIDEO
 
+-   <https://kling.ai/>
 -   <https://vizard.ai/>
+-   <https://seedance2.ai/>
 -   <https://runwayml.com/>
 -   <https://higgsfield.ai/>
 -   <https://firstframe.ai/>
+-   <https://happyhorse.app/>
 
 ## TOOLS: AUDIO
 
@@ -1085,6 +1092,7 @@
 
 ## LIB: STRUCTURED OUTPUT
 
+-   <https://github.com/google/A2UI>
 -   <https://github.com/dzhng/zod-gpt>
 -   <https://github.com/ruvnet/dspy.ts>
 -   <https://github.com/BoundaryML/baml>
@@ -1189,6 +1197,7 @@
 
 ## LIB: AGENTIC ALL TOOLS
 
+-   <https://github.com/cloudflare/agents>
 -   <https://github.com/millionco/cli-to-js>
 -   <https://github.com/vercel-labs/opensrc>
 -   <https://github.com/vercel-labs/dev3000>
@@ -1197,6 +1206,7 @@
 -   <https://github.com/nihaocami/ai-tool-maker>
 -   <https://github.com/vercel-labs/open-agents>
 -   <https://github.com/msitarzewski/agency-agents>
+-   <https://github.com/universal-tool-calling-protocol/code-mode>
 
 ## LIB: AGENTIC FRAMEWORK
 
@@ -1226,6 +1236,7 @@
 -   <https://github.com/PySpur-Dev/pyspur>
 -   <https://github.com/coinbase/agentkit>
 -   <https://github.com/phidatahq/phidata>
+-   <https://github.com/cloudflare/agents>
 -   <https://github.com/bytebot-ai/bytebot>
 -   <https://github.com/lavague-ai/LaVague>
 -   <https://github.com/coze-dev/coze-loop>
@@ -1609,6 +1620,7 @@
 -   <https://github.com/NumesSanguis/FACSvatar>
 -   <https://github.com/heygen-com/hyperframes>
 -   <https://github.com/AILab-CVC/VideoCrafter>
+-   <https://github.com/happyhorseai/happyhorse>
 -   <https://github.com/hacksider/Deep-Live-Cam>
 -   <https://github.com/ultralytics/ultralytics>
 -   <https://github.com/chatfire-AI/huobao-drama>

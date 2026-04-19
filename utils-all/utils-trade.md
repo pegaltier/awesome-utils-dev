@@ -919,6 +919,7 @@
 
 -   <https://github.com/adrianhajdin/signalist_stock-tracker-app>
 -   <https://github.com/Jon-Becker/prediction-market-analysis>
+-   <https://github.com/Fincept-Corporation/FinceptTerminal>
 -   <https://github.com/derekcheungsa/autogpt-openbb-sdk>
 -   <https://github.com/OpenBB-finance/OpenBBTerminal>
 -   <https://github.com/Open-Dev-Society/OpenStock>

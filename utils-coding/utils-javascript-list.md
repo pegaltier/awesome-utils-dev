@@ -1449,6 +1449,7 @@
 
 ## LIB: AI: AGENT EXTRA
 
+-   <https://github.com/cloudflare/agents>
 -   <https://github.com/googleworkspace/cli>
 
 ## LIB: AI WEB / NLP EDGE
