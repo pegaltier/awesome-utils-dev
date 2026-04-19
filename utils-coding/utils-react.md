@@ -79,6 +79,7 @@
 -   <https://github.com/trindadematheus/future-store>
 -   <https://github.com/bluesky-social/social-app>
 -   <https://github.com/NoQuarterTeam/boilerplate>
+-   <https://github.com/lala-hakobyan/react-poc>
 -   <https://github.com/UnlyEd/next-right-now>
 -   <https://github.com/IsaacGemal/wikitok>
 -   <https://github.com/Th3Wall/Fakeflix>

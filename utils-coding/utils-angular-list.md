@@ -3457,6 +3457,7 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://github.com/AnkitSharma-007/MovieApp>
 -   <https://github.com/trungvose/angular-spotify>
 -   <https://github.com/vthinkxie/ng-pull-refresh>
+-   <https://github.com/lala-hakobyan/angular-poc>
 -   <https://github.com/mrkpks/nx-optimistic-state>
 -   <https://github.com/ajitsinghkaler/devto-clone>
 -   <https://github.com/ngiakhanh96/angular-youtube>
