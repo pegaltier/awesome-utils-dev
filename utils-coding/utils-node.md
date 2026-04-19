@@ -689,6 +689,7 @@
 -   <https://github.com/ndaidong/flat-db>
 -   <https://github.com/microlinkhq/keyvhq>
 -   <https://github.com/bruin-data/ingestr>
+-   <https://github.com/NeaByteLab/Jsonary>
 -   <https://github.com/typegoose/typegoose>
 -   <https://github.com/brianc/node-postgres>
 -   <https://github.com/event-driven-io/Pongo>
@@ -777,7 +778,7 @@
 -   <https://github.com/rhinobase/hono-openapi>
 -   <https://github.com/honojs/hono>
 
-\## SERVER: ALL
+## SERVER: ALL
 
 -   <https://github.com/Rotorsoft/eventually-monorepo>
 -   <https://github.com/differentialhq/differential>
@@ -786,6 +787,7 @@
 -   <https://github.com/typicode/json-server>
 -   <https://github.com/restify/node-restify>
 -   <https://github.com/paulmillr/chokidar>
+-   <https://github.com/NeaByteLab/Deserve>
 -   <https://github.com/fonoster/fonoster>
 -   <https://github.com/Goldziher/spikard>
 -   <https://github.com/encoredev/encore>
@@ -803,7 +805,7 @@
 -   <https://github.com/h3js/srvx>
 -   <https://github.com/h3js/h3>
 
-\## SERVER: RPC
+## SERVER: RPC
 
 -   <https://github.com/trpc/trpc>
 -   <https://github.com/cloudflare/capnweb>

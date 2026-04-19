@@ -340,6 +340,7 @@
 -   <https://github.com/swapniljariwala/nsepy>
 -   <https://github.com/tardis-dev/tardis-node>
 -   <https://github.com/BennyThadikaran/eod2>
+-   <https://github.com/NeaByteLab/Bitcoin-ASCII>
 -   <https://github.com/BennyThadikaran/eod2_data>
 -   <https://github.com/datasets/oil-prices>
 -   <https://github.com/datasets/finance-vix>
@@ -949,15 +950,16 @@
 -   <https://github.com/BingX-API>
 -   <https://github.com/stoqey/ib> \*
 -   <https://github.com/ccxt/ccxt>
--   <https://github.com/pmxt-dev/pmxt>
 -   <https://github.com/stoqey/ibkr>
+-   <https://github.com/pmxt-dev/pmxt>
 -   <https://github.com/knowm/XChange> \*
+-   <https://github.com/NeaByteLab/IDX-API>
 -   <https://github.com/krakenfx/kraken-cli>
--   <https://github.com/himalaya-quant/hq-ctrader-x>
 -   <https://github.com/gateio/gateapi-nodejs> \*
 -   <https://github.com/carlosmiei/node-binance-api>
--   <https://github.com/alpacahq/typescript-sdk>
+-   <https://github.com/himalaya-quant/hq-ctrader-x>
 -   <https://github.com/alpacahq/alpaca-trade-api-js> \*
+-   <https://github.com/alpacahq/typescript-sdk>
 -   <https://github.com/ccxt/node-binance-api>
 -   <https://github.com/Kucoin/kucoin-node-sdk> \*
 -   <https://github.com/tiagosiebler/accountstate>

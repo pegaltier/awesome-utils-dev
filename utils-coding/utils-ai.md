@@ -726,6 +726,8 @@
 
 ## TOOLS: CODING: OSS SPEC
 
+-   <https://github.com/github/spec-kit>
+-   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/>
 
 ## TOOLS: CODING: OSS CODE REVIEW
@@ -1013,6 +1015,7 @@
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
 -   <https://github.com/RightNow-AI/picolm>
+-   <https://github.com/thunderbird/thunderbolt>
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
@@ -1562,6 +1565,7 @@
 -   <https://github.com/index-tts/index-tts>
 -   <https://github.com/bytedance/MegaTTS3>
 -   <https://github.com/KittenML/KittenTTS>
+-   <https://github.com/jamiepine/voicebox>
 -   <https://github.com/kyutai-labs/moshi>
 -   <https://github.com/VoxtralAI/voxtral>
 -   <https://github.com/OpenMOSS/MOSS-TTS>
@@ -1603,6 +1607,7 @@
 -   <https://github.com/SoraWebui/FakeSoraAPI>
 -   <https://github.com/antgroup/echomimic_v2>
 -   <https://github.com/NumesSanguis/FACSvatar>
+-   <https://github.com/heygen-com/hyperframes>
 -   <https://github.com/AILab-CVC/VideoCrafter>
 -   <https://github.com/hacksider/Deep-Live-Cam>
 -   <https://github.com/ultralytics/ultralytics>
@@ -1628,6 +1633,7 @@
 ## LIB: 3D IMAGE / STABLE DIFFUSION
 
 -   <https://github.com/AiuniAI/Unique3D>
+-   <https://github.com/Robbyant/lingbot-map>
 -   <https://github.com/ArthurBrussee/brush>
 
 ## LIB: IMAGE / DIFFUSION / DLM

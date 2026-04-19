@@ -164,6 +164,12 @@ low-code tooling to prototype fastly.
 
 -   <https://github.com/gridstack/gridstack.js>
 
+## video
+-   <https://github.com/heygen-com/hyperframes>
+-   <https://github.com/remotion-dev/remotion>
+-   <https://github.com/mifi/reactive-video>
+-   <https://github.com/showlab/Code2Video>
+
 ## chatbot
 
 -   <https://github.com/n4ze3m/dialoqbase>

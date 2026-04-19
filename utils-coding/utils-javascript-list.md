@@ -609,6 +609,7 @@
 -   <https://github.com/supercharge/strings>
 -   <https://github.com/sindresorhus/p-mutex>
 -   <https://github.com/sindresorhus/is64bit>
+-   <https://github.com/NeaByteLab/Utils-Core>
 -   <https://github.com/JasonStorey/Optional.js>
 -   <https://github.com/jonschlinkert/get-value>
 -   <https://github.com/anchmelev/web-worker-bus>
@@ -1039,6 +1040,7 @@
 -   <https://github.com/bitjson/qr-code>
 -   <https://github.com/datalog/qrcode-svg>
 -   <https://github.com/soldair/node-qrcode>
+-   <https://github.com/NeaByteLab/QR-Generator>
 -   <https://github.com/kozakdenys/qr-code-styling>
 
 ## LIB: FRONTEND TEXT EDITOR / WYSIWYG
