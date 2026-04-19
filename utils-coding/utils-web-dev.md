@@ -76,6 +76,7 @@
 -   <https://devdocs.io/>
 -   <https://thisthat.dev/>
 -   <http://html5doctor.com/>
+-   <https://www.patterns.dev/>
 -   <https://grids.obys.agency/>
 -   <https://component-party.dev/>
 -   <https://markodenic.com/html-tips/>
