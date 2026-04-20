@@ -1267,6 +1267,7 @@
 -   <https://github.com/pipes-digital/pipes>
 -   <https://github.com/negezor/middleware-io>
 -   <https://github.com/bytedance/flowgram.ai>
+-   <https://github.com/starkeysoft/micro-flow>
 -   <https://github.com/NorthwoodsSoftware/GoJS>
 -   <https://github.com/nocode-js/sequential-workflow-model>
 -   <https://github.com/nocode-js/sequential-workflow-machine>

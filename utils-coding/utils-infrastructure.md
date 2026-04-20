@@ -312,6 +312,7 @@
 -   <https://youtu.be/taJlPG82Ucw>
 -   <https://youtu.be/BvyGBDxGTAs>
 -   <https://www.pikapods.com/>
+-   <https://selfh.st/>
 
 ## HOST SERVICES OSS / TUTOS
 

@@ -1468,6 +1468,7 @@
 -   <https://github.com/AI4Finance-Foundation>
 -   <https://github.com/virattt/ai-hedge-fund>
 -   <https://github.com/numerai/numerai-predict>
+-   <https://github.com/aaryansinha16/AI-trader>
 -   <https://github.com/google/tf-quant-finance>
 -   <https://github.com/sankeer28/stock-predictor>
 -   <https://github.com/eliabejr/ts-arima-forecast>

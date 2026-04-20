@@ -277,12 +277,14 @@
 -   <https://github.com/decodingml/llm-twin-course>
 -   <https://github.com/AMAI-GmbH/AI-Expert-Roadmap>
 -   <https://github.com/ZJU-LLMs/Foundations-of-LLMs>
+-   <https://github.com/amitshekhariitbhu/llm-internals>
 -   <https://github.com/HenryNdubuaku/maths-cs-ai-compendium>
 -   <https://github.com/NirDiamant/agents-towards-production>
 
 ## BENCHMARK
 -   <https://livebench.ai/>
 -   <https://www.tbench.ai/>
+-   <https://www.skillsbench.ai/>
 -   <https://epoch.ai/benchmarks>
 -   <https://artificialanalysis.ai/>
 
@@ -458,6 +460,7 @@
 -   <https://play.botscript.ai/>
 -   <https://copilot.github.com/>
 -   <https://www.sqltranslate.app/>
+-   <https://isitagentready.com/>
 -   <https://www.verticalstudio.ai/>
 -   <https://www.literallyanything.io/>
 -   <http://playground.tensorflow.org/>
@@ -652,6 +655,9 @@
 -   <https://github.com/google-labs-code/stitch-sdk>
 -   <https://github.com/JCodesMore/ai-website-cloner-template>
 
+## TOOLS: CODING: OSS AGNOSTIC
+-   <https://github.com/codejunkie99/agentic-stack>
+
 ## TOOLS: CODING: OSS CURSOR
 
 -   <https://github.com/getcursor/cursor>
@@ -728,10 +734,13 @@
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
-## TOOLS: CODING: OSS SPEC
+## TOOLS: CODING: OSS SPEC SDD
 
 -   <https://github.com/github/spec-kit>
 -   <https://github.com/Fission-AI/OpenSpec>
+-   <https://github.com/MartyBonacci/specswarm>
+-   <https://github.com/gsd-build/get-shit-done>
+-   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/>
 
 ## TOOLS: CODING: OSS CODE REVIEW
@@ -1100,6 +1109,7 @@
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/josdejong/jsonrepair>
 -   <https://github.com/567-labs/instructor-js>
+-   <https://github.com/salesforce/agentscript>
 -   <https://github.com/douglascrockford/Misty>
 -   <https://github.com/vercel-labs/json-render>
 -   <https://github.com/tripolskypetr/json-inference>
@@ -1185,6 +1195,7 @@
 -   <https://github.com/microsoft/TinyTroupe>
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/ZJU-LLMs/Agent-Kernel>
+-   <https://github.com/salesforce/agentscript>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 
@@ -1205,8 +1216,17 @@
 -   <https://github.com/vercel-labs/just-bash>
 -   <https://github.com/nihaocami/ai-tool-maker>
 -   <https://github.com/vercel-labs/open-agents>
+-   <https://github.com/cloudflare/agentic-inbox>
 -   <https://github.com/msitarzewski/agency-agents>
+
+## LIB: AGENTIC CODE MODE
+
+-   <https://github.com/jx-codes/lootbox>
+-   <https://github.com/cloudflare/agents>
+-   <https://github.com/huggingface/smolagents>
+-   <https://github.com/danieliser/codemode-unified>
 -   <https://github.com/universal-tool-calling-protocol/code-mode>
+-   <https://github.com/cameronking4/programmatic-tool-calling-ai-sdk>
 
 ## LIB: AGENTIC FRAMEWORK
 
