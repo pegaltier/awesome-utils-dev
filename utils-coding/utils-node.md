@@ -199,6 +199,7 @@
 -   <https://github.com/nodejs/node>
 -   <https://github.com/oven-sh/bun>
 -   <https://github.com/6over3/hako>
+-   <https://github.com/PerryTS/perry>
 -   <https://github.com/denoland/deno>
 -   <https://github.com/elide-dev/elide>
 -   <https://github.com/ScelarOrg/Nodepod>

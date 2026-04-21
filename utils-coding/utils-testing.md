@@ -173,6 +173,10 @@
 -   <https://github.com/nanobrowser/nanobrowser>
 -   <https://github.com/executeautomation/mcp-playwright>
 
+## UTILS: TERMINAL
+
+-   <https://github.com/beorn/termless>
+
 ## UTILS: HTTP
 
 -   <https://github.com/apiaryio/dredd>

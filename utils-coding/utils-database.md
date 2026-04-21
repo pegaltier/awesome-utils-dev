@@ -79,6 +79,7 @@
 -   <https://github.com/mongodb-js/compass>
 -   <https://github.com/FerretDB/FerretDB>
 -   <https://github.com/skytable/skytable>
+-   <https://github.com/MangoQuery/app>
 
 ## POSTGRES
 -   <https://github.com/xataio/xata>

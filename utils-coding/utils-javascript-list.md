@@ -1734,6 +1734,7 @@
 ## LIB: GAME
 
 -   <https://github.com/phaserjs>
+-   <https://github.com/Bloom-Engine>
 -   <https://github.com/mgechev/mk.js>
 -   <https://github.com/straker/kontra>
 -   <https://github.com/Tonejs/Tone.js>

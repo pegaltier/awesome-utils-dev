@@ -18,7 +18,6 @@
 -   [Kotlin](utils-coding/utils-kotlin.md)
 -   [Php](utils-coding/utils-php.md)
 -   [Python](utils-coding/utils-python.md)
--   [Sql](utils-coding/utils-sql.md)
 -   [More](utils-coding/)
 
 ## Web Frameworks
@@ -50,6 +49,7 @@
 -   [Wasm](utils-coding/utils-wasm.md)
 -   [Design](utils-coding/utils-design.md)
 -   [GraphQL](utils-coding/utils-graphql.md)
+-   [Database](utils-coding/utils-database.md)
 -   [More](utils-coding/)
 
 ## Blockchain

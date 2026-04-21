@@ -33,6 +33,7 @@
 -   <https://github.com/C7-Game/OpenCiv3>
 -   <https://github.com/melonjs/melonJS>
 -   <https://github.com/rivet-gg/rivet>
+-   <https://github.com/Bloom-Engine>
 
 ## LIB: VISU
 

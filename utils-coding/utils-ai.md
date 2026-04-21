@@ -1774,6 +1774,7 @@
 ## TOOLS: PROMPT
 
 -   <https://github.com/microsoft/poml>
+-   <https://github.com/elder-plinius/CL4R1T4S>
 
 ## TOOLS: PROMPT ON WEB / SEARCH
 
