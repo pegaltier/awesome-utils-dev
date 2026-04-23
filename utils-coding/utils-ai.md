@@ -648,11 +648,16 @@
 ## TOOLS: CODING: OSS FRONTEND
 
 -   <https://github.com/google/A2UI>
+-   <https://github.com/thesysdev/openui>
 -   <https://github.com/pbakaus/impeccable>
 -   <https://github.com/Leonxlnx/taste-skill>
+-   <https://github.com/CopilotKit/CopilotKit>
 -   <https://github.com/benjitaylor/agentation>
 -   <https://github.com/vercel-labs/json-render>
+-   <https://github.com/CopilotKit/generative-ui>
+-   <https://github.com/CopilotKit/OpenGenerativeUI>
 -   <https://github.com/google-labs-code/stitch-sdk>
+-   <https://github.com/CopilotKit/generative-ui-playground>
 -   <https://github.com/JCodesMore/ai-website-cloner-template>
 
 ## TOOLS: CODING: OSS AGNOSTIC
