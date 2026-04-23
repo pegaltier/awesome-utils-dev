@@ -714,6 +714,7 @@
 -   <https://github.com/mcollina/skills>
 -   <https://github.com/slavingia/skills>
 -   <https://github.com/anthropics/skills>
+-   <https://github.com/mattpocock/skills>
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/mgechev/skillgrade>
 -   <https://github.com/JimLiu/baoyu-skills>
@@ -817,6 +818,7 @@
 -   <https://github.com/GreyhavenHQ/greywall>
 -   <https://github.com/smol-machines/smolvm>
 -   <https://github.com/earendil-works/gondolin>
+-   <https://github.com/TencentCloud/CubeSandbox>
 -   <https://github.com/restyler/awesome-sandbox>
 -   <https://github.com/DeepBlueDynamics/codex-container>
 
@@ -1103,6 +1105,7 @@
 -   <https://github.com/gradio-app/gradio/>
 -   <https://github.com/microsoft/DirectML>
 -   <https://github.com/unslothai/hyperlearn>
+-   <https://github.com/huggingface/ml-intern>
 
 ## LIB: STRUCTURED OUTPUT
 
@@ -1366,8 +1369,10 @@
 -   <https://github.com/getdatanaut/openmcp>
 -   <https://github.com/agoda-com/api-agent>
 -   <https://github.com/github/gh-aw-mcpg>
+-   <https://github.com/CopilotKit/aimock>
 -   <https://github.com/steipete/mcporter>
 -   <https://github.com/upstash/context7>
+-   <https://github.com/mcpland/mock-mcp>
 -   <https://github.com/punkpeye/fastmcp>
 -   <https://github.com/lirantal/ls-mcp>
 -   <https://github.com/idosal/git-mcp>

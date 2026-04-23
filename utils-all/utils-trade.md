@@ -812,6 +812,7 @@
 -   <https://github.com/EikHjertekys/EPF> \*
 -   <https://github.com/AlgoETS/TradingViewBuilder>
 -   <https://github.com/Heavy91/TradingView_Indicators>
+-   <https://github.com/just-nilux/awesome-tradingview>
 -   <https://github.com/800cherries/Tradingview-Indicators>
 -   <https://github.com/pAulseperformance/awesome-pinescript> \*
 -   <https://github.com/pinecoders/tradingview-pinescript-indicators>
