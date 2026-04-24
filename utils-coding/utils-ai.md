@@ -294,6 +294,8 @@
 
 ## VIDEOS
 
+-   <https://youtu.be/EN7frwQIbKc> 26/04 The Playbook For Building An AI Native Company
+-   <https://youtu.be/-QFHIoCo-Ko> 26/04 AI Coding For Real Engineers - Matt Pocock, AI Hero (@mattpocockuk )
 -   <https://youtu.be/_Zcw_sVF6hU> 26/04 The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil
 -   <https://youtu.be/8txf05vVVl4> 26/04 Code Mode - Sunil Pai, Cloudflare
 -   <https://youtu.be/v3Fr2JR47KA> 26/04 The Future of MCP — David Soria Parra, Anthropic
