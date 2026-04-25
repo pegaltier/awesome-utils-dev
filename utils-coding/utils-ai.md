@@ -711,6 +711,7 @@
 
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
+-   <https://github.com/google/skills>
 -   <https://github.com/openai/skills>
 -   <https://github.com/WhitehatD/crag>
 -   <https://github.com/mcollina/skills>
@@ -1248,6 +1249,7 @@
 -   <https://github.com/khoj-ai/khoj>
 -   <https://github.com/FellouAI/eko>
 -   <https://github.com/goat-sdk/goat>
+-   <https://github.com/google/adk-js>
 -   <https://github.com/elizaOS/eliza>
 -   <https://github.com/agno-agi/agno>
 -   <https://github.com/letta-ai/letta>
@@ -1356,6 +1358,7 @@
 -   <https://github.com/leonardsellem/n8n-mcp-server>
 -   <https://github.com/omar-haris/smart-coding-mcp>
 -   <https://github.com/gioboa/mcp-typescript-sdk>
+-   <https://github.com/datalayer/agent-runtimes>
 -   <https://github.com/microsoft/playwright-cli>
 -   <https://github.com/exa-labs/exa-mcp-server>
 -   <https://github.com/sooperset/mcp-atlassian>
@@ -1658,6 +1661,7 @@
 -   <https://github.com/chatfire-AI/huobao-drama>
 -   <https://github.com/HVision-NKU/StoryDiffusion>
 -   <https://github.com/fudan-generative-vision/hallo>
+-   <https://github.com/Anil-matcha/Open-Generative-AI>
 -   <https://github.com/Anil-matcha/Open-Higgsfield-AI>
 -   <https://github.com/FurkanGozukara/Stable-Diffusion>
 -   <https://github.com/jianzhnie/awesome-text-to-video>

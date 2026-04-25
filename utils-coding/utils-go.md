@@ -10,6 +10,7 @@
 -   <https://github.com/AlexxIT/go2rtc>
 -   <https://github.com/sqlc-dev/sqlc>
 -   <https://github.com/gin-gonic/gin>
+-   <https://github.com/ent/ent>
 
 ## TOOLS
 

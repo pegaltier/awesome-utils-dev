@@ -170,6 +170,7 @@
 
 ## STARTER / TEMPLATE
 
+-   <https://github.com/bgub/ts-base>
 -   <https://github.com/9renpoto/.59-node>
 -   <https://github.com/antfu/starter-ts>
 -   <https://github.com/typescripttv/configs>

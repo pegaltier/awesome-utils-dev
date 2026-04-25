@@ -294,6 +294,7 @@
 -   <https://github.com/CapSoftware/Cap>
 -   <https://github.com/fonoster/goodtok>
 -   <https://github.com/iv-org/invidious>
+-   <https://github.com/tonhowtf/omniget>
 -   <https://github.com/caorushizi/mediago>
 -   <https://github.com/OpenCut-app/OpenCut>
 -   <https://github.com/mazeincoding/AppCut>
@@ -517,6 +518,7 @@
 -   <https://github.com/anyproto/anytype-ts>
 -   <https://github.com/TriliumNext/Trilium>
 -   <https://github.com/AppFlowy-IO/AppFlowy>
+-   <https://github.com/refactoringhq/tolaria>
 -   <https://github.com/sissbruecker/linkding>
 -   <https://github.com/graydon/obsidian-html>
 -   <https://github.com/pieces-app/documentation>
