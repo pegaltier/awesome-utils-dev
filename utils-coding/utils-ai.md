@@ -298,6 +298,8 @@
 
 ## VIDEOS
 
+-   <https://youtu.be/YBYUvGOuotE> 26/04 MCP = Mega Context Problem - Matt Carey
+-   <https://youtu.be/kAVRFYgCPg0> 26/04 MCP Creator Reveals the 2026 Roadmap for AI Agents
 -   <https://youtu.be/EN7frwQIbKc> 26/04 The Playbook For Building An AI Native Company
 -   <https://youtu.be/-QFHIoCo-Ko> 26/04 AI Coding For Real Engineers - Matt Pocock, AI Hero (@mattpocockuk )
 -   <https://youtu.be/_Zcw_sVF6hU> 26/04 The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil
