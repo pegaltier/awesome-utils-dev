@@ -140,7 +140,6 @@
 -   <https://github.com/fosscord/fosscord>
 -   <https://github.com/42wim/matterbridge>
 -   <https://github.com/iib0011/omni-tools>
--   <https://github.com/steipete/summarize>
 -   <https://github.com/zen-browser/desktop>
 -   <https://github.com/sniptt-official/ots>
 -   <https://github.com/syncthing/syncthing>
@@ -182,6 +181,7 @@
 -   <https://github.com/gitroomhq/postiz-app>
 -   <https://github.com/anti-work/iffy>
 -   <https://github.com/gabboman/wafrn>
+-   <https://github.com/vercel/chat>
 
 ## OSS: LEARN / LANGUAGE / ENGLISH
 
@@ -296,11 +296,13 @@
 -   <https://github.com/iv-org/invidious>
 -   <https://github.com/tonhowtf/omniget>
 -   <https://github.com/caorushizi/mediago>
+-   <https://github.com/steipete/summarize>
 -   <https://github.com/OpenCut-app/OpenCut>
 -   <https://github.com/mazeincoding/AppCut>
 -   <https://github.com/vercel-labs/webreel>
 -   <https://github.com/alyssaxuu/screenity>
 -   <https://github.com/TeamNewPipe/NewPipe>
+-   <https://github.com/obra/Youtube2Webpage>
 -   <https://github.com/goshops-com/clipshare>
 -   <https://github.com/aegir-assembly/omni-clip>
 -   <https://github.com/siddharthvaddem/openscreen>

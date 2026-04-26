@@ -1633,6 +1633,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://github.com/tinyplex/tinybase>
 -   <https://github.com/effector/effector>
 -   <https://github.com/kuncevic/rx-service>
+-   <https://github.com/zeixcom/cause-effect>
 -   <https://github.com/nanostores/router>
 -   <https://github.com/nanostores/nanostores>
 -   <https://github.com/reduxjs/angular-redux>

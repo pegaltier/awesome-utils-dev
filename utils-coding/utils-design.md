@@ -69,6 +69,7 @@
 
 -   <https://github.com/anysphere/priompt>
 -   <https://github.com/onlook-dev/onlook>
+-   <https://github.com/google-labs-code/design.md>
 
 ## ICONS
 

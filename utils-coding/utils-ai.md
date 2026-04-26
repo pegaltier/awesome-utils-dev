@@ -288,6 +288,10 @@
 -   <https://epoch.ai/benchmarks>
 -   <https://artificialanalysis.ai/>
 
+## PRIVATE
+
+-   <https://hcompany.ai/>
+
 ## INTERVIEW
 
 -   <https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub>
@@ -538,6 +542,7 @@
 -   <https://www.continue.dev/>
 -   <https://fragments.e2b.dev/>
 -   <https://screenshottocode.com/>
+-   <https://factory.strongdm.ai/>
 -   <https://cofounder.openinterface.ai/>
 
 ## TOOLS: CODING: OSS
@@ -600,9 +605,9 @@
 -   <https://github.com/opencode-ai/opencode>
 -   <https://github.com/continuedev/continue>
 -   <https://github.com/amantus-ai/vibetunnel>
--   <https://github.com/millionco/debug-agent>
 -   <https://github.com/langchain-ai/open-swe>
 -   <https://github.com/microsoft/genaiscript>
+-   <https://github.com/getagentseal/codeburn>
 -   <https://github.com/raidendotai/cofounder>
 -   <https://github.com/BuilderIO/micro-agent>
 -   <https://github.com/Codium-ai/cover-agent>
@@ -616,7 +621,6 @@
 -   <https://github.com/gptscript-ai/gptscript>
 -   <https://github.com/All-Hands-AI/OpenHands>
 -   <https://github.com/AutoMaker-Org/automaker>
--   <https://github.com/buildermethods/agent-os>
 -   <https://github.com/mendableai/open-lovable>
 -   <https://github.com/amplication/amplication>
 -   <https://github.com/princeton-nlp/SWE-agent>
@@ -647,16 +651,20 @@
 
 -   <https://github.com/wrtnlabs/autobe>
 
-## TOOLS: CODING: OSS FRONTEND
+## TOOLS: CODING: OSS FRONTEND / DESIGN
 
+-   <https://github.com/tw93/kami>
 -   <https://github.com/google/A2UI>
 -   <https://github.com/thesysdev/openui>
 -   <https://github.com/pbakaus/impeccable>
+-   <https://github.com/agent0ai/space-agent>
 -   <https://github.com/Leonxlnx/taste-skill>
 -   <https://github.com/CopilotKit/CopilotKit>
 -   <https://github.com/benjitaylor/agentation>
+-   <https://github.com/standardagents/arrow-js>
 -   <https://github.com/vercel-labs/json-render>
 -   <https://github.com/CopilotKit/generative-ui>
+-   <https://github.com/superdesigndev/superdesign>
 -   <https://github.com/CopilotKit/OpenGenerativeUI>
 -   <https://github.com/google-labs-code/stitch-sdk>
 -   <https://github.com/CopilotKit/generative-ui-playground>
@@ -678,7 +686,6 @@
 -   <https://github.com/21st-dev/1code>
 -   <https://github.com/wshobson/agents>
 -   <https://github.com/garrytan/gstack>
--   <https://github.com/obra/superpowers>
 -   <http://github.com/vmihalis/tg-claude>
 -   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/steveyegge/gastown>
@@ -695,6 +702,7 @@
 -   <https://github.com/ultraworkers/claw-code>
 -   <https://github.com/sirmalloc/ccstatusline>
 -   <https://github.com/sushichan044/cc-hooks-ts>
+-   <https://github.com/zilliztech/claude-context>
 -   <https://github.com/Doriandarko/claude-engineer>
 -   <https://github.com/claude-code-best/claude-code>
 -   <https://github.com/davila7/claude-code-templates>
@@ -714,8 +722,10 @@
 -   <https://github.com/google/skills>
 -   <https://github.com/openai/skills>
 -   <https://github.com/WhitehatD/crag>
+-   <https://github.com/EvoMap/evolver>
 -   <https://github.com/mcollina/skills>
 -   <https://github.com/slavingia/skills>
+-   <https://github.com/obra/superpowers>
 -   <https://github.com/anthropics/skills>
 -   <https://github.com/mattpocock/skills>
 -   <https://github.com/agentsmd/agents.md>
@@ -746,9 +756,12 @@
 ## TOOLS: CODING: OSS SPEC SDD
 
 -   <https://github.com/github/spec-kit>
+-   <https://github.com/obra/superpowers>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/MartyBonacci/specswarm>
 -   <https://github.com/gsd-build/get-shit-done>
+-   <https://github.com/buildermethods/agent-os>
+-   <https://github.com/bmad-code-org/BMAD-METHOD>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/>
 
@@ -767,9 +780,8 @@
 
 -   <https://github.com/refly-ai/refly>
 
-## TOOLS: DESIGN: OSS
-
--   <https://github.com/superdesigndev/superdesign>
+## TOOLS: LEGALS
+-   <https://github.com/strongdm/comply>
 
 ## TOOLS: TEST
 
@@ -820,6 +832,7 @@
 -   <https://github.com/jingkaihe/matchlock>
 -   <https://github.com/GreyhavenHQ/greywall>
 -   <https://github.com/smol-machines/smolvm>
+-   <https://github.com/standardagents/arrow-js>
 -   <https://github.com/earendil-works/gondolin>
 -   <https://github.com/TencentCloud/CubeSandbox>
 -   <https://github.com/restyler/awesome-sandbox>
@@ -1041,8 +1054,12 @@
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
 -   <https://github.com/RightNow-AI/picolm>
+-   <https://github.com/itayinbarr/little-coder>
 -   <https://github.com/thunderbird/thunderbolt>
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
+
+## TOOLS: ASSISTANT / PHYSICAL
+-   <https://github.com/BasedHardware/omi>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
@@ -1198,6 +1215,7 @@
 -   <https://github.com/camel-ai/camel>
 -   <https://github.com/openai/symphony>
 -   <https://github.com/crewAIInc/crewAI>
+-   <https://github.com/strongdm/attractor>
 -   <https://github.com/bytedance/deer-flow>
 -   <https://github.com/Ido-Levi/Hephaestus>
 -   <https://github.com/docker/docker-agent>
@@ -1216,6 +1234,7 @@
 -   <https://github.com/github/gh-aw>
 -   <https://github.com/github/gh-aw-mcpg>
 -   <https://github.com/github/gh-aw-firewall>
+-   <https://github.com/dmtrKovalenko/fff.nvim>
 
 ## LIB: AGENTIC ALL TOOLS
 
@@ -1229,11 +1248,14 @@
 -   <https://github.com/vercel-labs/open-agents>
 -   <https://github.com/cloudflare/agentic-inbox>
 -   <https://github.com/msitarzewski/agency-agents>
+-   <https://github.com/browser-use/browser-harness>
+-   <https://github.com/browser-use/browser-harness-js>
 
 ## LIB: AGENTIC CODE MODE
 
 -   <https://github.com/jx-codes/lootbox>
 -   <https://github.com/cloudflare/agents>
+-   <https://github.com/jx-codes/codemode-mcp>
 -   <https://github.com/huggingface/smolagents>
 -   <https://github.com/danieliser/codemode-unified>
 -   <https://github.com/universal-tool-calling-protocol/code-mode>
@@ -1314,7 +1336,11 @@
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>
 
-## LIB: RAG / CONTEXT / INGESTION
+## LIB: CONTEXT
+-   <https://github.com/mksglu/context-mode>
+-   <https://github.com/karthikscale3/ctx-zip>
+
+## LIB: RAG / INGESTION
 
 -   <https://github.com/ragapp/ragapp>
 -   <https://github.com/weaviate/Verba>
@@ -1582,10 +1608,6 @@
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
 
-## LIB: EVOLUTION
-
--   <https://github.com/EvoMap/evolver>
-
 ## LIB: AUDIO / TTS / STT / VOICE
 
 -   <https://github.com/kyutai-labs/delayed-streams-modeling>
@@ -1809,6 +1831,7 @@
 -   <https://github.com/addyosmani/chatty>
 -   <https://github.com/skyvern-ai/skyvern>
 -   <https://github.com/alibaba/page-agent>
+-   <https://github.com/firecrawl/web-agent>
 -   <https://github.com/lightpanda-io/browser>
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/magnitudedev/magnitude>
@@ -1827,10 +1850,11 @@
 
 ## LIB: GAME
 
+-   <https://github.com/partykit/partykit>
 -   <https://github.com/a16z-infra/ai-town>
 -   <https://github.com/PufferAI/PufferLib>
 -   <https://github.com/tas1337/GameEngine>
--   <https://github.com/partykit/partykit>
+-   <https://github.com/leigest519/OpenGame>
 
 ## LIB: SCIENCE
 

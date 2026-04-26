@@ -861,6 +861,7 @@
 -   <https://github.com/micromark/micromark>
 -   <https://github.com/haltcase/tablemark>
 -   <https://github.com/Milkdown/milkdown>
+-   <https://github.com/comarkdown/comark>
 -   <https://github.com/stoyan/Lizzy.js>
 -   <https://github.com/markedjs/marked>
 -   <https://github.com/typst/typst>
@@ -1124,7 +1125,7 @@
 -   <https://github.com/Gmousse/dataframe-js>
 -   <https://github.com/javascriptdata/danfojs>
 
-## LIB: FRONTEND UI TABLE / GRID / SPREADSHEET
+## LIB: FRONTEND UI TABLE / GRID / SPREADSHEET / EXCEL
 
 -   <https://github.com/javve/list.js>
 -   <https://github.com/TanStack/table>
@@ -1141,6 +1142,7 @@
 -   <https://github.com/gristlabs/grist-core>
 -   <https://github.com/dream-num/Luckysheet>
 -   <https://github.com/ruilisi/fortune-sheet>
+-   <https://github.com/estie-inc/wasm-xlsxwriter>
 -   <https://github.com/gabrielpetersson/fast-grid>
 -   <https://github.com/TomaszRewak/js-spread-grid>
 -   <https://github.com/chenzhiyuanthu/virtual-scrolling-table>
@@ -1180,6 +1182,7 @@
 ## LIB: FRONTEND SIGNALS
 
 -   <https://github.com/milomg/reactively>
+-   <https://github.com/zeixcom/cause-effect>
 -   <https://github.com/jkup/signals-animated>
 -   <https://github.com/stackblitz/alien-signals>
 -   <https://github.com/web-platform-dx/developer-signals>
@@ -1656,7 +1659,7 @@
 -   <https://github.com/sindresorhus/uint8array-extras>
 -   <https://github.com/GoogleChromeLabs/buffer-backed-object>
 
-### LIB: HYPERPARAMETRIZATION / OPTIMIZATION
+## LIB: HYPERPARAMETRIZATION / OPTIMIZATION
 
 -   <https://github.com/Afitzy98/bayesian-optimizer>
 -   <https://github.com/optimization-js/optimization-js>
@@ -1761,11 +1764,12 @@
 -   <https://github.com/jakesgordon/javascript-racer>
 -   <https://github.com/Richard-Strittmatter/JuanTap>
 
-## LIB: FORM
+## LIB: FORM / SURVEY / QUIZZ
 
 -   <https://github.com/heyform/heyform>
 -   <https://github.com/formbricks/formbricks>
 -   <https://github.com/fabian-hiller/formisch>
+-   <https://github.com/surveyjs/survey-library>
 
 ## ALLIN
 

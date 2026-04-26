@@ -564,6 +564,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/marko-js/marko>
 -   <https://github.com/trueadm/ripple>
 -   <https://github.com/alpinejs/alpine>
+-   <https://github.com/Ripple-TS/ripple>
 -   <https://github.com/bellard/mquickjs>
 -   <https://github.com/dlight-js/dlight>
 -   <https://github.com/stolinski/drop-in>
@@ -573,6 +574,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/fabiospampinato/voby>
 -   <https://github.com/web-widget/web-widget>
 -   <https://github.com/adamghill/unsuckjs.com>
+-   <https://github.com/standardagents/arrow-js>
 -   <https://github.com/justin-schroeder/arrow-js>
 -   <https://github.com/ProjectEvergreen/greenwood>
 -   <https://blog.madewithlove.be/post/webpack-your-bags/>
@@ -656,6 +658,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 ## OSS: SELF HOSTED / EMAIL TEMPLATE / MAILING LIST
 
 -   <https://github.com/mjmlio/mjml>
+-   <https://github.com/5t34k/nowhere>
 -   <https://github.com/useplunk/plunk>
 -   <https://github.com/knadh/listmonk>
 -   <https://github.com/shellscape/jsx-email>
