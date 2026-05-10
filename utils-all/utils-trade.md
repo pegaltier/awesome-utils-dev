@@ -388,6 +388,7 @@
 ## TOOLS: BACKTESTING
 
 -   <https://tuned.com/>
+-   <https://backticks.io/>
 -   <https://tradomate.one/>
 -   <https://algowizard.io/>
 -   <https://nexustrade.io/>

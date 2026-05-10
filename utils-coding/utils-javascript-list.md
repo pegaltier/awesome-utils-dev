@@ -338,6 +338,7 @@
 -   <https://github.com/mesqueeb>
 -   <https://github.com/kolodny>
 -   <https://github.com/ytiurin>
+-   <https://github.com/wooorm>
 -   <https://github.com/drudge>
 -   <https://github.com/Nsttt>
 -   <https://github.com/KATT>
@@ -815,6 +816,7 @@
 
 ## LIB: SERIALIZATION / TRANSFER
 
+-   <https://github.com/near/borsh>
 -   <https://github.com/pi0/capnp-es>
 -   <https://github.com/protocolbuffers/protobuf-javascript>
 
@@ -1491,6 +1493,7 @@
 -   <https://github.com/BrainJS/brain.js>
 -   <https://github.com/zemlyansky/arima>
 -   <https://github.com/sbyrnes/bloom.js>
+-   <https://github.com/mlx-node/mlx-node>
 -   <https://github.com/sbyrnes/likely.js>
 -   <https://github.com/ml5js/ml5-library>
 -   <https://github.com/sinclairzx81/bayes>

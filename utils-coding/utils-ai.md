@@ -826,6 +826,7 @@
 ## TOOLS: SANDBOXING / CONTAINER
 
 -   <https://github.com/vm0-ai/vm0>
+-   <https://github.com/containers/libkrun>
 -   <https://github.com/lukehinds/nono>
 -   <https://github.com/dredozubov/hazmat>
 -   <https://github.com/daytonaio/daytona>
@@ -1049,6 +1050,7 @@
 
 -   <https://jan.ai/>
 -   <https://lmstudio.ai/>
+-   <https://github.com/antirez/ds4>
 -   <https://github.com/lmstudio-ai>
 -   <https://github.com/mudler/LocalAI>
 -   <https://github.com/mlc-ai/web-llm>
