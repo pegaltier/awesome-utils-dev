@@ -902,6 +902,7 @@
 -   <https://github.com/prabakar2610/TradingBooks>
 -   <https://github.com/wilsonfreitas/awesome-quant>
 -   <https://github.com/YuxinSUN89/quant-ohlcv-feature>
+-   <https://github.com/LLMQuant/awesome-trading-agents>
 -   <https://github.com/chromale/awesome-investing-tools>
 -   <https://github.com/georgezouq/awesome-ai-in-finance>
 -   <https://github.com/zazhang/ep-chan-book-algo-trading>
@@ -1482,6 +1483,7 @@
 -   <https://github.com/hackobi/AI-Scalpel-Trading-Bot>
 -   <https://github.com/AI4Finance-Foundation/FinRobot>
 -   <https://github.com/tripolskypetr/node-ccxt-dumper>
+-   <https://github.com/LLMQuant/awesome-trading-agents>
 -   <https://github.com/crypto-code/Stock-Market-AI-GUI>
 -   <https://github.com/tripolskypetr/trading-signals-mcp>
 -   <https://github.com/firmai/financial-machine-learning>
