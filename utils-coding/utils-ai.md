@@ -563,6 +563,7 @@
 -   <https://github.com/Ironclad/rivet>
 -   <https://github.com/Aider-AI/aider>
 -   <https://github.com/swark-io/swark>
+-   <http://github.com/crynta/terax-ai>
 -   <https://github.com/HKUDS/DeepCode>
 -   <https://github.com/HKUDS/FastCode>
 -   <https://github.com/snarktank/ralph>
@@ -693,6 +694,7 @@
 -   <https://github.com/Goldziher/ai-rulez>
 -   <https://github.com/steveyegge/gastown>
 -   <https://github.com/Gitlawb/openclaude>
+-   <https://github.com/MadAppGang/claudish>
 -   <https://github.com/Mearman/marketplace>
 -   <https://github.com/dyoshikawa/rulesync>
 -   <https://github.com/m0n0x41d/quint-code>
@@ -1098,6 +1100,7 @@
 -   <https://github.com/coollabsio/openclaw>
 -   <https://github.com/huggingface/open-r1>
 -   <https://github.com/RightNow-AI/openfang>
+-   <https://github.com/fathah/hermes-desktop>
 -   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/adolfousier/opencrabs>
 -   <https://github.com/cloudflare/moltworker>
