@@ -18,6 +18,7 @@
 -   [UTILS: ALL](#utils-all)
 -   [UTILS: UNIT TESTS](#utils-unit-tests)
 -   [UTILS: AI](#utils-ai)
+-   [UTILS: TERMINAL](#utils-terminal)
 -   [UTILS: HTTP](#utils-http)
 -   [UTILS: CYPRESS](#utils-cypress)
 -   [UTILS: PLAYWRIGHT LIST](#utils-playwright-list)

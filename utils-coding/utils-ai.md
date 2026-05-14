@@ -10,6 +10,10 @@
 
 -   [COURSES](#courses)
 
+-   [BENCHMARK](#benchmark)
+
+-   [PRIVATE](#private)
+
 -   [INTERVIEW](#interview)
 
 -   [VIDEOS](#videos)
@@ -54,7 +58,9 @@
 
 -   [TOOLS: CODING: OSS BACKEND](#tools-coding-oss-backend)
 
--   [TOOLS: CODING: OSS FRONTEND](#tools-coding-oss-frontend)
+-   [TOOLS: CODING: OSS FRONTEND / DESIGN](#tools-coding-oss-frontend--design)
+
+-   [TOOLS: CODING: OSS AGNOSTIC](#tools-coding-oss-agnostic)
 
 -   [TOOLS: CODING: OSS CURSOR](#tools-coding-oss-cursor)
 
@@ -62,7 +68,7 @@
 
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
 
--   [TOOLS: CODING: OSS SPEC](#tools-coding-oss-spec)
+-   [TOOLS: CODING: OSS SPEC SDD](#tools-coding-oss-spec-sdd)
 
 -   [TOOLS: CODING: OSS CODE REVIEW](#tools-coding-oss-code-review)
 
@@ -70,7 +76,7 @@
 
 -   [TOOLS: NOCODING](#tools-nocoding)
 
--   [TOOLS: DESIGN: OSS](#tools-design-oss)
+-   [TOOLS: LEGALS](#tools-legals)
 
 -   [TOOLS: TEST](#tools-test)
 
@@ -124,6 +130,8 @@
 
 -   [TOOLS: OFFLINE / LOCAL](#tools-offline--local)
 
+-   [TOOLS: ASSISTANT / PHYSICAL](#tools-assistant--physical)
+
 -   [TOOLS: ASSISTANT / COWORK SELF HOST](#tools-assistant--cowork-self-host)
 
 -   [TOOLS: ASSISTANT EXAMPLE](#tools-assistant-example)
@@ -158,11 +166,15 @@
 
 -   [LIB: AGENTIC ALL TOOLS](#lib-agentic-all-tools)
 
+-   [LIB: AGENTIC CODE MODE](#lib-agentic-code-mode)
+
 -   [LIB: AGENTIC FRAMEWORK](#lib-agentic-framework)
 
 -   [LIB: CRAWLER / SCRAPER / DATA PARSER](#lib-crawler--scraper--data-parser)
 
--   [LIB: RAG / CONTEXT / INGESTION](#lib-rag--context--ingestion)
+-   [LIB: CONTEXT](#lib-context)
+
+-   [LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE](#lib-context-enginerring--rag--ingestion--retrieval--knowledge)
 
 -   [LIB: MCP](#lib-mcp)
 
@@ -189,8 +201,6 @@
 -   [LIB: INFERENCE](#lib-inference)
 
 -   [LIB: EVALS](#lib-evals)
-
--   [LIB: EVOLUTION](#lib-evolution)
 
 -   [LIB: AUDIO / TTS / STT / VOICE](#lib-audio--tts--stt--voice)
 
@@ -282,6 +292,7 @@
 -   <https://github.com/NirDiamant/agents-towards-production>
 
 ## BENCHMARK
+
 -   <https://livebench.ai/>
 -   <https://www.tbench.ai/>
 -   <https://www.skillsbench.ai/>
@@ -682,6 +693,7 @@
 -   <https://github.com/JCodesMore/ai-website-cloner-template>
 
 ## TOOLS: CODING: OSS AGNOSTIC
+
 -   <https://github.com/codejunkie99/agentic-stack>
 
 ## TOOLS: CODING: OSS CURSOR
@@ -793,6 +805,7 @@
 -   <https://github.com/refly-ai/refly>
 
 ## TOOLS: LEGALS
+
 -   <https://github.com/strongdm/comply>
 
 ## TOOLS: TEST
@@ -955,6 +968,7 @@
 
 ## TOOLS: SEARCH
 
+-   <https://github.com/chroma-core/chroma>
 -   <https://github.com/dmtrKovalenko/fff.nvim>
 -   <https://github.com/leptonai/search_with_lepton>
 
@@ -1077,6 +1091,7 @@
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
 
 ## TOOLS: ASSISTANT / PHYSICAL
+
 -   <https://github.com/BasedHardware/omi>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
@@ -1356,6 +1371,7 @@
 -   <https://github.com/supermemoryai/markdowner>
 
 ## LIB: CONTEXT
+
 -   <https://github.com/mksglu/context-mode>
 -   <https://github.com/karthikscale3/ctx-zip>
 

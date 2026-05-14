@@ -19,6 +19,7 @@ low-code tooling to prototype fastly.
 -   [database](#database)
 -   [primitive](#primitive)
 -   [dataviz](#dataviz)
+-   [video](#video)
 -   [chatbot](#chatbot)
 -   [articles](#articles)
 -   [etl](#etl)
@@ -165,6 +166,7 @@ low-code tooling to prototype fastly.
 -   <https://github.com/gridstack/gridstack.js>
 
 ## video
+
 -   <https://github.com/heygen-com/hyperframes>
 -   <https://github.com/remotion-dev/remotion>
 -   <https://github.com/mifi/reactive-video>

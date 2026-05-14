@@ -3,15 +3,19 @@
 ## TABLE OF CONTENTS
 
 -   [DBAS](#dbas)
--   [TUTOS](#tutos)
+-   [TUTOS / LEARN](#tutos--learn)
 -   [EXAMPLES](#examples)
 -   [DB TOOLS / EXPLORER](#db-tools--explorer)
 -   [DB SYSTEM](#db-system)
 -   [DB TIMESERIES](#db-timeseries)
 -   [DB UTILS](#db-utils)
 -   [NOSQL / MONGO](#nosql--mongo)
+-   [POSTGRES](#postgres)
 -   [VECTOR](#vector)
 -   [SQLITE](#sqlite)
+-   [SCALING](#scaling)
+-   [TOOLS](#tools)
+-   [ERRORS](#errors)
 
 ## DBAS
 
@@ -82,6 +86,7 @@
 -   <https://github.com/MangoQuery/app>
 
 ## POSTGRES
+
 -   <https://github.com/xataio/xata>
 -   <https://github.com/poup-s/bbdump>
 
@@ -98,7 +103,6 @@
 -   <https://github.com/tursodatabase/libsql>
 -   <https://github.com/benbjohnson/litestream>
 -   <https://github.com/phiresky/sql.js-httpvfs>
-
 
 ## SCALING
 
