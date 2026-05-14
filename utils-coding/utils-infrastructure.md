@@ -238,6 +238,7 @@
 ## TOOLS: MONITORING / OBSERVABILITY / LOGGING / REPLAYING / TELEMETRY / APM
 
 -   <https://github.com/open-telemetry/opentelemetry-demo>
+-   <https://github.com/open-telemetry/opentelemetry-rust>
 -   <https://github.com/open-telemetry/opentelemetry-js>
 -   <http://github.com/open-metadata/OpenMetadata>
 -   <https://github.com/bluewave-labs/checkmate>
@@ -395,6 +396,7 @@
 -   <https://github.com/kyverno/kyverno>
 -   <https://github.com/cjihrig/kubenode>
 -   <https://github.com/loft-sh/vcluster>
+-   <https://github.com/skyhook-io/radar>
 -   <https://github.com/kubeshop/monokle>
 -   <https://github.com/argoproj/argo-cd>
 -   <https://github.com/cilium/hubble-ui>

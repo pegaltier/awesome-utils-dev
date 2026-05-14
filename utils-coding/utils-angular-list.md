@@ -2846,6 +2846,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/yp2/ngx-cron-jobs>
 -   <https://github.com/AhsanAyaz/ng2-emoji>
 -   <https://github.com/push-based/ngx-fast-svg>
+-   <https://github.com/ayangabryl/ngx-digit-flow>
 -   <https://github.com/cormacrelf/angular-skyhook>
 -   <https://github.com/qgrid/ng2-expression-builder>
 -   <https://github.com/exportarts/ngx-cookie-banner>

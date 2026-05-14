@@ -678,6 +678,7 @@
 -   <https://github.com/tw93/kami>
 -   <https://github.com/google/A2UI>
 -   <https://github.com/thesysdev/openui>
+-   <https://github.com/zanwei/design-dna>
 -   <https://github.com/pbakaus/impeccable>
 -   <https://github.com/agent0ai/space-agent>
 -   <https://github.com/Leonxlnx/taste-skill>
@@ -759,6 +760,7 @@
 -   <https://github.com/nowork-studio/toprank>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
+-   <https://github.com/exp-workspace/da-skills>
 -   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/msitarzewski/agency-agents>
