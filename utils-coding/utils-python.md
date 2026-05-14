@@ -149,3 +149,7 @@ pip -V
 -   <https://github.com/wishtack/pysynthetic>
 -   <https://github.com/joeyism/linkedin_scraper>
 -   <https://github.com/JozefJarosciak/X-followers/>
+
+## UI
+
+-   <https://github.com/franktisellano/datatype>

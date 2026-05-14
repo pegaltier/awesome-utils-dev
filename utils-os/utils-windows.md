@@ -23,6 +23,7 @@
 
 -   <https://cmder.app/>
 -   <https://winstall.app/>
+-   <https://winhance.net/>
 -   <https://www.getpaint.net/>
 -   <https://getgreenshot.org/>
 -   <https://www.scootersoftware.com/>
@@ -34,6 +35,7 @@
 -   <https://github.com/kando-menu/kando>
 -   <https://github.com/microsoft/PowerToys>
 -   <https://github.com/rocksdanister/lively>
+-   <https://github.com/memstechtips/Winhance>
 -   <https://github.com/Awesome-Windows/Awesome>
 -   <https://github.com/builtbybel/FluentCleaner>
 

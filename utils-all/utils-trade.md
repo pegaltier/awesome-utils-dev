@@ -395,7 +395,9 @@
 -   <https://forextester.com/>
 -   <https://cryptoquant.dev/>
 -   <https://stratgensoft.com/>
+-   <https://www.finnyai.tech/>
 -   <https://www.naked-markets.com/>
+-   <https://www.diamondstrats.com/>
 -   <https://flash-research.com/>
 -   <https://www.tradingview.com/>
 -   <https://zorro-project.com/>
@@ -406,7 +408,6 @@
 -   <https://strategyquant.com/>
 -   <https://www.cloud9trader.com/>
 -   <https://www.bullcharts.com.au/>
--   <https://www.diamondstrats.com/>
 -   <https://www.composer.trade/>
 -   <https://www.fintechee.com/>
 -   <https://www.quantvue.io/>
@@ -467,6 +468,7 @@
 -   <https://eu.deriv.com/>
 -   <https://api.deriv.com/>
 -   <https://www.robomarkets.com/>
+-   <https://whiteroomterminal.fr/>
 -   <https://insilicoterminal.com/>
 -   <https://www.pandaterminal.com/>
 -   <https://centerpointsecurities.com/>
@@ -1272,6 +1274,7 @@
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
 
 -   <https://github.com/ghalex/zapcli>
+-   <https://github.com/Jaiminp007/finny>
 -   <https://github.com/s-stolz/algotrader>
 -   <https://github.com/ocignis/ocignis-bot>
 -   <https://github.com/yuta-97/auto-trader>
@@ -1470,6 +1473,7 @@
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/AI4Finance-Foundation>
 -   <https://github.com/virattt/ai-hedge-fund>
+-   <https://github.com/google-research/timesfm>
 -   <https://github.com/numerai/numerai-predict>
 -   <https://github.com/aaryansinha16/AI-trader>
 -   <https://github.com/google/tf-quant-finance>

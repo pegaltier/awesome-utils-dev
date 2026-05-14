@@ -159,6 +159,7 @@ More infos:
 -   <https://github.com/nunomaduro/pao>
 -   <https://github.com/rectorphp/rector>
 -   <https://github.com/carthage-software/mago>
+-   <https://github.com/playwright-php/playwright>
 
 ## LIB:
 

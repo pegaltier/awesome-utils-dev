@@ -128,6 +128,10 @@
 -   [API / SOCIAL NETWORK](#api--social-network)
 -   [RUNTIME](#runtime)
 
+## NEW FEATURE
+
+-   <https://neciudan.dev/whats-new-in-javascript>
+
 ## GUIDE-WEB
 
 -   <https://javascript.info/> 

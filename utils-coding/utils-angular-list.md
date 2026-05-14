@@ -1292,6 +1292,8 @@ Learn everything about angular universal, make a good SEO.
 -   <https://www.codigotipado.com/p/linkedsignal-in-angular-19-say-goodbye>
 -   <https://medium.com/@kobihari/connecting-signal-forms-to-a-signal-store-39dabd69b888>
 -   <https://medium.com/ngconf/debugging-angular-signals-a-guide-to-the-signal-graph-devtool-b0b69804496d>
+-   <https://dev.to/romain_geffrault_10d88369/stop-using-signalstore-for-everything-hype-fades-debt-remains-2p0e>
+-   <https://blog.appsignal.com/2026/02/19/signal-driven-error-monitoring-detecting-and-debugging-reactive-failures-in-angular.html>
 
 ## CORE: SIGNALS FORM
 
@@ -4056,7 +4058,10 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3>
 -   <https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf>
 
-### ANGULAR21 V21
+## ANGULAR22
+-   <https://www.codigotipado.com/p/angular-22-debounced-signal>
+
+### ANGULAR21
 
 -   <https://youtu.be/u0v1UYTeSME> 2025 Year reviez
 -   <https://dev.to/ngrx-toolkit/ngrx-toolkit-v21-4l46>

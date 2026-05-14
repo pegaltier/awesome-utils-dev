@@ -210,6 +210,7 @@
 -   <https://github.com/kdzwinel/betwixt>
 -   <https://github.com/ddosify/ddosify>
 -   <https://github.com/hashcat/hashcat>
+-   <https://github.com/BishopFox/aimap>
 -   <https://github.com/google/osv.dev>
 -   <https://github.com/MHSanaei/3x-ui>
 -   <https://github.com/gchq/CyberChef>

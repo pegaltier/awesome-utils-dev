@@ -205,6 +205,7 @@
 -   <https://github.com/elide-dev/elide>
 -   <https://github.com/ScelarOrg/Nodepod>
 -   <https://github.com/macaly/almostnode>
+-   <https://github.com/bluejs-team/Bluejs>
 -   <https://github.com/JetCrabCollab/JetCrab>
 
 ## SANDBOX
@@ -314,6 +315,7 @@
 -   <https://github.com/typicode/pinst>
 -   <https://github.com/harthur/replace>
 -   <https://github.com/Anxhul10/dag-rs>
+-   <https://github.com/fallow-rs/fallow>
 -   <https://github.com/volarjs/volar.js>
 -   <https://github.com/commitizen/cz-cli>
 -   <https://github.com/ast-grep/ast-grep>
@@ -329,6 +331,7 @@
 ## UTILS: SECURITY
 
 -   <https://github.com/DNSZLSK/muad-dib>
+-   <https://github.com/OWASP/cve-lite-cli>
 
 ## UTILS: CLEAN / KILL
 

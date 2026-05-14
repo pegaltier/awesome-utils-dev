@@ -43,6 +43,10 @@ https://jatins.gitlab.io/me/why-startup/
 -   <https://www.uniqueside.io/>
 -   <https://www.ideabrowser.com/>
 
+## Investor
+-   <https://www.acquisition.com/>
+
+
 ## Sell
 
 -   <https://acquire.com/>

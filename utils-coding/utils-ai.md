@@ -291,6 +291,11 @@
 -   <https://github.com/HenryNdubuaku/maths-cs-ai-compendium>
 -   <https://github.com/NirDiamant/agents-towards-production>
 
+## CONFERENCE
+
+-   <https://www.ai.engineer/>
+-   <https://conference.techeurope.io/>
+
 ## BENCHMARK
 
 -   <https://livebench.ai/>
@@ -680,6 +685,7 @@
 -   <https://github.com/thesysdev/openui>
 -   <https://github.com/zanwei/design-dna>
 -   <https://github.com/pbakaus/impeccable>
+-   <https://github.com/nexu-io/open-design>
 -   <https://github.com/agent0ai/space-agent>
 -   <https://github.com/Leonxlnx/taste-skill>
 -   <https://github.com/CopilotKit/CopilotKit>
@@ -746,6 +752,7 @@
 
 -   <https://github.com/google/skills>
 -   <https://github.com/openai/skills>
+-   <https://github.com/damusix/skills>
 -   <https://github.com/WhitehatD/crag>
 -   <https://github.com/EvoMap/evolver>
 -   <https://github.com/mcollina/skills>
@@ -759,10 +766,12 @@
 -   <https://github.com/benjilegnard/skills>
 -   <https://github.com/nowork-studio/toprank>
 -   <https://github.com/snarktank/ai-dev-tasks>
+-   <https://github.com/ConardLi/garden-skills>
 -   <https://github.com/kepano/obsidian-skills>
 -   <https://github.com/exp-workspace/da-skills>
 -   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
+-   <https://github.com/tiangolo/library-skills>
 -   <https://github.com/msitarzewski/agency-agents>
 -   <https://github.com/google-gemini/gemini-skills>
 -   <https://github.com/tech-leads-club/agent-skills>
@@ -852,11 +861,12 @@
 ## TOOLS: SANDBOXING / CONTAINER
 
 -   <https://github.com/vm0-ai/vm0>
--   <https://github.com/containers/libkrun>
 -   <https://github.com/lukehinds/nono>
+-   <https://github.com/CelestoAI/SmolVM>
 -   <https://github.com/dredozubov/hazmat>
 -   <https://github.com/daytonaio/daytona>
 -   <https://github.com/ScelarOrg/NodePod>
+-   <https://github.com/containers/libkrun>
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/jingkaihe/matchlock>
 -   <https://github.com/GreyhavenHQ/greywall>
@@ -903,6 +913,7 @@
 
 ## TOOLS: VIDEO
 
+-   <https://bfl.ai/>
 -   <https://kling.ai/>
 -   <https://vizard.ai/>
 -   <https://seedance2.ai/>
@@ -910,6 +921,7 @@
 -   <https://higgsfield.ai/>
 -   <https://firstframe.ai/>
 -   <https://happyhorse.app/>
+-   <https://playground.bfl.ai>
 
 ## TOOLS: AUDIO
 
@@ -1072,12 +1084,14 @@
 -   <https://github.com/topoteretes/cognee>
 -   <https://github.com/letta-ai/letta-code>
 -   <https://github.com/rohitg00/agentmemory>
+-   <https://github.com/cortexkit/magic-context>
 -   <https://github.com/supermemoryai/supermemory>
 
 ## TOOLS: OFFLINE / LOCAL
 
 -   <https://jan.ai/>
 -   <https://lmstudio.ai/>
+-   <https://github.com/amd/gaia>
 -   <https://github.com/antirez/ds4>
 -   <https://github.com/lmstudio-ai>
 -   <https://github.com/mudler/LocalAI>
@@ -1385,6 +1399,7 @@
 -   <https://github.com/HKUDS/LightRAG>
 -   <https://github.com/jina-ai/reader>
 -   <https://github.com/allenai/olmocr>
+-   <https://github.com/nashsu/llm_wiki>
 -   <https://github.com/Tencent/WeKnora>
 -   <https://github.com/getomni-ai/zerox>
 -   <https://github.com/Cinnamon/kotaemon>
@@ -1538,6 +1553,9 @@
 -   <https://github.com/vllm-project/vllm>
 -   <https://github.com/roboflow/inference>
 -   <https://github.com/sgl-project/sglang>
+
+## LIB: TLM / TIMESERIES
+-   <https://github.com/google-research/timesfm>
 
 ## LIB: LLM
 
