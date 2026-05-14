@@ -777,8 +777,9 @@
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
-## TOOLS: CODING: OSS SPEC SDD
+## TOOLS: CODING: OSS SPEC SDD / FACTORY
 
+-   <https://github.com/fabro-sh/fabro>
 -   <https://github.com/github/spec-kit>
 -   <https://github.com/obra/superpowers>
 -   <https://github.com/Fission-AI/OpenSpec>
