@@ -5,6 +5,7 @@
 -   <https://github.com/electron/forge>
 -   <https://github.com/jarek-foksa/xel>
 -   <https://github.com/tauri-apps/tauri>
+-   <https://github.com/vercel-labs/zero-native>
 -   <https://github.com/blackboardsh/electrobun>
 -   <https://github.com/neutralinojs/neutralinojs>
 -   <https://github.com/electron/electron-packager>

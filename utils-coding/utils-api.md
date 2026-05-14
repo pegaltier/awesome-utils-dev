@@ -31,32 +31,22 @@
 -   [HEALTHCHECK](#healthcheck)
 -   [FUN](#fun)
 
-## API RESTFULL
+## API DESIGN: OSS
 
 -   <https://github.com/mulesoft/api-console>
-
 -   <https://github.com/microsoft/api-guidelines>
-
 -   <https://github.com/OAI/OpenAPI-Specification>
-
 -   <https://github.com/squareboat/api-guidelines>
-
 -   <https://github.com/marmicode/rest-api-checklist>
-
 -   <https://github.com/philsturgeon/api-design-workshop>
 
--   <https://github.com/NationalBankBelgium/REST-API-Design-Guide>
-
+## API DESIGN
 -   <https://microservice-api-patterns.org/>
-
 -   <https://restfulapi.net/http-status-codes/>
-
 -   <http://www.restapitutorial.com/lessons/httpmethods.html>
-
+-   <https://github.com/NationalBankBelgium/REST-API-Design-Guide>
 -   <https://devblogs.microsoft.com/ise/api-testing-using-http-files/>
-
 -   <https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a>
-
 -   <https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/>
 
 ## TOOLS: CLIENT
@@ -159,9 +149,13 @@
 -   <https://github.com/keploy/keploy>
 -   <https://github.com/stoplightio/prism>
 -   <https://github.com/miragejs/miragejs>
+-   <https://github.com/microcks/microcks>
+-   <https://github.com/wiremock/wiremock>
 -   <https://github.com/ridakaddir/apitwin>
+-   <https://github.com/typicode/json-server>
 -   <https://github.com/mock-server/mockserver>
 -   <https://github.com/typicode/jsonplaceholder>
+-   <https://github.com/counterfact/api-simulator>
 
 ## SERVER
 

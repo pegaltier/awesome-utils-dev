@@ -313,6 +313,7 @@
 -   <https://github.com/yunabe/tslab>
 -   <https://github.com/Qard/onchange>
 -   <https://github.com/typicode/pinst>
+-   <https://github.com/pionxzh/wakaru>
 -   <https://github.com/harthur/replace>
 -   <https://github.com/Anxhul10/dag-rs>
 -   <https://github.com/fallow-rs/fallow>
@@ -741,6 +742,7 @@
 
 -   <https://github.com/vercel/pkg>
 -   <https://github.com/vercel/ncc>
+-   <https://github.com/vercel-labs/zero-native>
 -   <https://github.com/electron/electron-packager>
 
 ## LIBS: GAME
@@ -862,48 +864,6 @@
 -   <https://github.com/ujjwalguptaofficial/fortjs>
 -   <https://github.com/differentialhq/differential>
 
-## NODE UPDATE WINDOWS
-
-1.  download & install node : latest version from official website
-2.  use npm-windows-upgrade to update npm
-
-## COMMANDS
-
-## NPM
-
-### Helper
-
-    npm list -g --depth 0 (list the global package installed)
-    npx ... (run directly a global or local package from the node_modules)
-    npx ngcc (example to run angular ngcc in an angular (v9) project)
-
-    npm run command --configuration production (pass simple param to the npm command, the same with yarn)
-    npm run command -- --configuration production (pass complex param to the npm command, the same with yarn)
-
-### Clean
-
-    # Clean node project before updgrade or reinstall
-    # Command for Linux
-    rm -rf package-lock.json
-    rm -rf yarn.lock
-    rm -rf node_modules
-
-Or see for other OS [Utils-cmd](utils-cmd.md)
-
-### Versions
-
--   package version has 3 parts - major.minor.patch
--   ^ = latest minor version will be installed
--   ~ = latest patch version will be installed
-
-
-    npm outdated # check the dep to update
-    npm update # update all to the wanted
-    npm update mypackage1 # update one to the wanted
-    npm update mypackage1 mypackage2 # update many to the wanted
-    npm install mypackage1@latest # update one to the latest (major)
-    npx npm-check-updates -u # update all to the latest (major)
-
 ## ESM / MODULES
 
 The ECMAScript modules (ES or ESM modules) have a standard TC39 function that was not existing prior to Node version 14. This feature can only be used starting from Node16 and can be very helpful to charge the JavaScript modules. Unlike CommonJS, ESM provides an asynchronous API for loading modules. one advantage is an improved syntax via the import and export instructions. To use ESM you can declare "type": "module" in your file package.json.
@@ -942,3 +902,49 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 -   <https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2>
 -   <https://siddsr0015.medium.com/javascript-modules-in-2025-esm-import-maps-best-practices-7b6996fa8ea3>
 -   <https://lea.verou.me/blog/2020/07/import-non-esm-libraries-in-es-modules-with-client-side-vanilla-js/>
+
+## NODE UPDATE WINDOWS
+
+1.  download & install node : latest version from official website
+2.  use npm-windows-upgrade to update npm
+
+## NPM / PNPM
+
+### Secure
+
+- https://youtu.be/gwTQLZSIlsU
+- pnpm/ncu minimumReleaseAge
+- pnpm blockExoticSubDeps
+- pnpm approveBuilds
+
+### Helper
+
+    npm list -g --depth 0 (list the global package installed)
+    npx ... (run directly a global or local package from the node_modules)
+    npx ngcc (example to run angular ngcc in an angular (v9) project)
+
+    npm run command --configuration production (pass simple param to the npm command, the same with yarn)
+    npm run command -- --configuration production (pass complex param to the npm command, the same with yarn)
+
+### Clean
+
+    # Clean node project before updgrade or reinstall
+    # Command for Linux
+    rm -rf package-lock.json
+    rm -rf yarn.lock
+    rm -rf node_modules
+
+Or see for other OS [Utils-cmd](utils-cmd.md)
+
+### Versions
+
+-   package version has 3 parts - major.minor.patch
+-   ^ = latest minor version will be installed
+-   ~ = latest patch version will be installed
+
+    npm outdated # check the dep to update
+    npm update # update all to the wanted
+    npm update mypackage1 # update one to the wanted
+    npm update mypackage1 mypackage2 # update many to the wanted
+    npm install mypackage1@latest # update one to the latest (major)
+    npx npm-check-updates -u # update all to the latest (major)

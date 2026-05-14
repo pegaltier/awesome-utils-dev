@@ -323,6 +323,7 @@
 -   <https://youtu.be/NHfzXWAP6Xw> 26/05 Agentic Engineering Explained: Why Vibe Coding Is Over
 -   <https://youtu.be/iHjlRB93okg> 26/05 Spec-Driven Development: Hype or the Future of AI Coding?
 -   <https://youtu.be/RvkbPPZbPgc> 26/05 RAG is Dead: Jeff Huber (Chroma) on Building Agentic Search
+-   <https://youtu.be/5G8xUYXdWFs> 26/05 SKILL.md Won. Nobody Noticed.
 -   <https://youtu.be/YBYUvGOuotE> 26/04 MCP = Mega Context Problem - Matt Carey
 -   <https://youtu.be/kAVRFYgCPg0> 26/04 MCP Creator Reveals the 2026 Roadmap for AI Agents
 -   <https://youtu.be/EN7frwQIbKc> 26/04 The Playbook For Building An AI Native Company
@@ -798,6 +799,7 @@
 -   <https://github.com/fabro-sh/fabro>
 -   <https://github.com/github/spec-kit>
 -   <https://github.com/obra/superpowers>
+-   <https://github.com/nmcdaines/tinyspec>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/gszhangwei/open-spdd>
 -   <https://github.com/MartyBonacci/specswarm>
@@ -805,6 +807,7 @@
 -   <https://github.com/buildermethods/agent-os>
 -   <https://github.com/bmad-code-org/BMAD-METHOD>
 -   <https://github.com/eyaltoledano/claude-task-master>
+-   <https://github.com/Quratulain-bilal/spec-kit-tinyspec>
 -   <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/>
 
 ## TOOLS: CODING: OSS CODE REVIEW
@@ -1282,6 +1285,7 @@
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/ZJU-LLMs/Agent-Kernel>
 -   <https://github.com/salesforce/agentscript>
+-   <https://github.com/Agent-Field/agentfield>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 

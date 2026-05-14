@@ -460,6 +460,7 @@
 -   <https://github.com/logto-io/logto>
 -   <https://github.com/lucia-auth/lucia>
 -   <https://github.com/epicweb-dev/totp>
+-   <https://github.com/clerk/javascript>
 -   <https://github.com/garronej/oidc-spa>
 -   <https://github.com/charlietango/owky>
 -   <https://github.com/voidauth/voidauth>
