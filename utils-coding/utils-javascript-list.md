@@ -2,6 +2,7 @@
 
 ## TABLE OF CONTENTS
 
+-   [NEW FEATURE](#new-feature)
 -   [GUIDE-WEB](#guide-web)
 -   [GUIDE-OPEN](#guide-open)
 -   [FOUNDATION](#foundation)

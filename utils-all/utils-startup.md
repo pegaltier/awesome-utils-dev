@@ -5,6 +5,7 @@
 -   [LIST](#list)
 -   [Indie](#indie)
 -   [Start](#start)
+-   [Investor](#investor)
 -   [Sell](#sell)
 -   [Swiss](#swiss)
 
@@ -44,8 +45,8 @@ https://jatins.gitlab.io/me/why-startup/
 -   <https://www.ideabrowser.com/>
 
 ## Investor
--   <https://www.acquisition.com/>
 
+-   <https://www.acquisition.com/>
 
 ## Sell
 

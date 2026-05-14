@@ -10,6 +10,8 @@
 
 -   [COURSES](#courses)
 
+-   [CONFERENCE](#conference)
+
 -   [BENCHMARK](#benchmark)
 
 -   [PRIVATE](#private)
@@ -68,7 +70,7 @@
 
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
 
--   [TOOLS: CODING: OSS SPEC SDD](#tools-coding-oss-spec-sdd)
+-   [TOOLS: CODING: OSS SPEC SDD / FACTORY](#tools-coding-oss-spec-sdd--factory)
 
 -   [TOOLS: CODING: OSS CODE REVIEW](#tools-coding-oss-code-review)
 
@@ -192,6 +194,8 @@
 
 -   [LIB: VLM / VISION](#lib-vlm--vision)
 
+-   [LIB: TLM / TIMESERIES](#lib-tlm--timeseries)
+
 -   [LIB: LLM](#lib-llm)
 
 -   [LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR](#lib-llm-telemetry--observability--monitor)
@@ -314,6 +318,7 @@
 
 ## VIDEOS
 
+-   <https://youtu.be/xCd9ykretlg> 26/05 Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)
 -   <https://youtu.be/WNru_PFycT8> 26/05 This Tool Fixes AI Coding at Scale with 70x Fewer Tokens (Graphify)
 -   <https://youtu.be/NHfzXWAP6Xw> 26/05 Agentic Engineering Explained: Why Vibe Coding Is Over
 -   <https://youtu.be/iHjlRB93okg> 26/05 Spec-Driven Development: Hype or the Future of AI Coding?
@@ -788,12 +793,13 @@
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
-## TOOLS: CODING: OSS SPEC SDD / FACTORY
+## TOOLS: CODING: OSS SPEC SDD / SPDD / FACTORY
 
 -   <https://github.com/fabro-sh/fabro>
 -   <https://github.com/github/spec-kit>
 -   <https://github.com/obra/superpowers>
 -   <https://github.com/Fission-AI/OpenSpec>
+-   <https://github.com/gszhangwei/open-spdd>
 -   <https://github.com/MartyBonacci/specswarm>
 -   <https://github.com/gsd-build/get-shit-done>
 -   <https://github.com/buildermethods/agent-os>
@@ -1555,6 +1561,7 @@
 -   <https://github.com/sgl-project/sglang>
 
 ## LIB: TLM / TIMESERIES
+
 -   <https://github.com/google-research/timesfm>
 
 ## LIB: LLM

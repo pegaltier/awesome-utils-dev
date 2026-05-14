@@ -350,7 +350,9 @@
 
 -   [EVOLUTION](#evolution)
 
-    -   [ANGULAR21 V21](#angular21-v21)
+-   [ANGULAR22](#angular22)
+
+    -   [ANGULAR21](#angular21)
     -   [ANGULAR20](#angular20)
     -   [ANGULAR19](#angular19)
     -   [ANGULAR18](#angular18)
@@ -4059,6 +4061,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf>
 
 ## ANGULAR22
+
 -   <https://www.codigotipado.com/p/angular-22-debounced-signal>
 
 ### ANGULAR21
