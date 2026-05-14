@@ -70,7 +70,7 @@
 
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
 
--   [TOOLS: CODING: OSS SPEC SDD / FACTORY](#tools-coding-oss-spec-sdd--factory)
+-   [TOOLS: CODING: OSS SPEC SDD / SPDD / FACTORY](#tools-coding-oss-spec-sdd--spdd--factory)
 
 -   [TOOLS: CODING: OSS CODE REVIEW](#tools-coding-oss-code-review)
 
