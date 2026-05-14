@@ -175,6 +175,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 -   <https://github.com/8e8b2c/zkholo-battleships>
 -   <https://github.com/EphyraSoftware/checked>
 -   <https://github.com/sensorica/nondominium>
+-   <https://github.com/Sensorica/nixos-holochain>
 -   <https://github.com/WeAreFlowsta/flowsta-private-dna>
 -   <https://github.com/HardDrivenHolo/Free-Holochain-VPN>
 -   <https://github.com/stars/Connoropolous/lists/awesome-holochain>

@@ -298,6 +298,10 @@
 
 ## VIDEOS
 
+-   <https://youtu.be/WNru_PFycT8> 26/05 This Tool Fixes AI Coding at Scale with 70x Fewer Tokens (Graphify)
+-   <https://youtu.be/NHfzXWAP6Xw> 26/05 Agentic Engineering Explained: Why Vibe Coding Is Over
+-   <https://youtu.be/iHjlRB93okg> 26/05 Spec-Driven Development: Hype or the Future of AI Coding?
+-   <https://youtu.be/RvkbPPZbPgc> 26/05 RAG is Dead: Jeff Huber (Chroma) on Building Agentic Search
 -   <https://youtu.be/YBYUvGOuotE> 26/04 MCP = Mega Context Problem - Matt Carey
 -   <https://youtu.be/kAVRFYgCPg0> 26/04 MCP Creator Reveals the 2026 Roadmap for AI Agents
 -   <https://youtu.be/EN7frwQIbKc> 26/04 The Playbook For Building An AI Native Company
@@ -325,6 +329,8 @@
 
 -   <https://www.youtube.com/@ai-tools-search>
 -   <https://www.youtube.com/@NicholasRenotte>
+-   <https://www.youtube.com/@aiDotEngineer>
+-   <https://www.youtube.com/@devsplainers>
 -   <https://www.youtube.com/@AI.Genesis>
 -   <https://www.youtube.com/@AIJasonZ>
 
@@ -601,6 +607,7 @@
 -   <https://github.com/OpenDevin/OpenDevin>
 -   <https://github.com/BloopAI/vibe-kanban>
 -   <https://github.com/OpenHands/OpenHands>
+-   <https://github.com/CodebuffAI/codebuff>
 -   <https://github.com/ericc-ch/copilot-api>
 -   <https://github.com/bytedance/trae-agent>
 -   <https://github.com/dagger/container-use>
@@ -1047,6 +1054,7 @@
 -   <https://github.com/gastownhall/beads>
 -   <https://github.com/topoteretes/cognee>
 -   <https://github.com/letta-ai/letta-code>
+-   <https://github.com/rohitg00/agentmemory>
 -   <https://github.com/supermemoryai/supermemory>
 
 ## TOOLS: OFFLINE / LOCAL
@@ -1061,8 +1069,11 @@
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
 -   <https://github.com/RightNow-AI/picolm>
+-   <https://github.com/cactus-compute/needle>
 -   <https://github.com/itayinbarr/little-coder>
 -   <https://github.com/thunderbird/thunderbolt>
+-   <https://github.com/GoogleCloudPlatform/localllm>
+-   <https://github.com/vince-lam/awesome-local-llms>
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
 
 ## TOOLS: ASSISTANT / PHYSICAL
@@ -1348,7 +1359,7 @@
 -   <https://github.com/mksglu/context-mode>
 -   <https://github.com/karthikscale3/ctx-zip>
 
-## LIB: RAG / INGESTION
+## LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE
 
 -   <https://github.com/ragapp/ragapp>
 -   <https://github.com/weaviate/Verba>
@@ -1361,12 +1372,14 @@
 -   <https://github.com/tmccombs/hcl2json>
 -   <https://github.com/microsoft/graphrag>
 -   <https://github.com/infiniflow/ragflow>
+-   <https://github.com/safishamsi/graphify>
 -   <https://github.com/promptfoo/promptfoo>
 -   <https://github.com/cyclotruc/gitingest>
 -   <https://github.com/BuilderIO/gpt-crawler>
 -   <https://github.com/run-llama/llama_index>
 -   <https://github.com/run-llama/llama_parse>
 -   <https://github.com/adithya-s-k/omniparse>
+-   <https://github.com/tinyhumansai/openhuman>
 -   <https://github.com/langchain-ai/langgraph>
 -   <https://github.com/AnswerDotAI/RAGatouille>
 -   <https://github.com/louisbrulenaudet/ragoon>
@@ -1513,8 +1526,6 @@
 -   <https://github.com/Open-LLM-VTuber/Open-LLM-VTuber>
 -   <https://github.com/richards199999/Thinking-Claude>
 -   <https://github.com/ColinEberhardt/langchain-mini>
--   <https://github.com/GoogleCloudPlatform/localllm>
--   <https://github.com/vince-lam/awesome-local-llms>
 -   <https://github.com/varunshenoy/super-json-mode>
 -   <https://github.com/bigscience-workshop/petals>
 -   <https://github.com/Mintplex-Labs/anything-llm>
@@ -1541,6 +1552,7 @@
 -   <https://github.com/neulab/prompt2model>
 -   <https://github.com/eugeneyan/open-llms>
 -   <https://github.com/alibaba/data-juicer>
+-   <https://github.com/kyegomez/OpenMythos>
 -   <https://github.com/hwchase17/langchain>
 -   <https://github.com/allenai/bolmo-core>
 -   <https://github.com/arobey1/smooth-llm>
