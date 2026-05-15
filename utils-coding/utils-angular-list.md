@@ -1906,6 +1906,7 @@ ANUGLAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 -   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/alfredoperez/angular-best-practices>
+-   <https://github.com/dominicbachmann/finance-app-with-ai-chat-assistant>
 
 ## ECOSYSTEM: SEEDS
 
