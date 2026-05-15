@@ -323,7 +323,9 @@
 -   <https://youtu.be/NHfzXWAP6Xw> 26/05 Agentic Engineering Explained: Why Vibe Coding Is Over
 -   <https://youtu.be/iHjlRB93okg> 26/05 Spec-Driven Development: Hype or the Future of AI Coding?
 -   <https://youtu.be/RvkbPPZbPgc> 26/05 RAG is Dead: Jeff Huber (Chroma) on Building Agentic Search
+-   <https://youtu.be/NLkg6IghsqM> 26/05 MCP vs CLI vs Skills The Honest Tradeoffs From an MCP Core Maintainer
 -   <https://youtu.be/5G8xUYXdWFs> 26/05 SKILL.md Won. Nobody Noticed.
+-   <https://youtu.be/i0W90tlKfYg> 26/05 Skills Had ONE Job (They Failed)
 -   <https://youtu.be/YBYUvGOuotE> 26/04 MCP = Mega Context Problem - Matt Carey
 -   <https://youtu.be/kAVRFYgCPg0> 26/04 MCP Creator Reveals the 2026 Roadmap for AI Agents
 -   <https://youtu.be/EN7frwQIbKc> 26/04 The Playbook For Building An AI Native Company
@@ -1060,6 +1062,7 @@
 -   <https://github.com/hegelai/prompttools/>
 -   <https://github.com/ScottfreeLLC/AlphaPy>
 -   <https://github.com/Nutlope/restorePhotos>
+-   <https://github.com/helallao/perplexity-ai>
 -   <https://github.com/realminchoi/babyagi-ui>
 -   <https://github.com/Jun-CEN/SegmentAnyRGBD>
 -   <https://github.com/serverless/aws-ai-stack>

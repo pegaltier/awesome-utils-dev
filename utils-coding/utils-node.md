@@ -913,6 +913,7 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 ### Secure
 
 - https://youtu.be/gwTQLZSIlsU
+- npm install --ignore-scripts
 - pnpm/ncu minimumReleaseAge
 - pnpm blockExoticSubDeps
 - pnpm approveBuilds

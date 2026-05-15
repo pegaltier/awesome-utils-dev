@@ -108,6 +108,7 @@
 -   <https://github.com/TanStack/create-tsrouter-app>
 -   <https://github.com/CreativeTechGuy/ReactTemplate>
 -   <https://github.com/salvia-kit/salvia-kit-website>
+-   <https://github.com/seckinyasar/react19-boilerplate>
 
 ## ALTERNAT
 
@@ -314,6 +315,7 @@
 -   <https://github.com/baselime/baselime-nextjs-template>
 -   <https://github.com/aleixmorgadas/monorepo-template>
 -   <https://github.com/ixartz/Next-js-Blog-Boilerplate>
+-   <https://github.com/seckinyasar/OAuth-boilerplate>
 -   <https://github.com/ixartz/Next-js-Boilerplate>
 -   <https://github.com/one-aalam/next-starter-kit>
 -   <https://github.com/vercel/next-learn-starter>
