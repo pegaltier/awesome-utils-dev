@@ -51,6 +51,7 @@
 -   [GraphQL](utils-coding/utils-graphql.md)
 -   [Database](utils-coding/utils-database.md)
 -   [More](utils-coding/)
+- [Commitment Issues](https://commitmentissues.dev) - Free open-source web app that scans any GitHub repo for abandonment signals and issues a satirical death certificate with cause of death, last commit date, and contributor analysis. Useful before depending on a project. ([source](https://github.com/dotsystemsdevs/commitmentissues))
 
 ## Blockchain
 
