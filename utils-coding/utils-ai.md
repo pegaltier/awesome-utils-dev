@@ -304,6 +304,7 @@
 
 -   <https://livebench.ai/>
 -   <https://www.tbench.ai/>
+-   <https://www.swebench.com/>
 -   <https://www.skillsbench.ai/>
 -   <https://epoch.ai/benchmarks>
 -   <https://artificialanalysis.ai/>
@@ -509,6 +510,7 @@
 -   <https://github.com/diegosouzapw/OmniRoute>
 -   <https://vercel.com/ai-gateway>
 -   <https://www.together.ai/>
+-   <https://huggingface.co/>
 -   <https://openrouter.ai/>
 -   <https://muapi.ai/>
 
