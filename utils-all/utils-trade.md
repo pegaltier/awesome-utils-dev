@@ -1471,6 +1471,7 @@
 -   <https://github.com/tripolskypetr/garch>
 -   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>
+-   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/AI4Finance-Foundation>
 -   <https://github.com/virattt/ai-hedge-fund>
 -   <https://github.com/google-research/timesfm>

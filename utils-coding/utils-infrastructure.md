@@ -382,6 +382,7 @@
 -   <https://github.com/lensapp/lens>
 -   <https://github.com/ctrox/zeropod>
 -   <https://github.com/kedacore/keda>
+-   <https://github.com/tilt-dev/tilt>
 -   <https://github.com/ahmetb/kubectx>
 -   <https://github.com/k0sproject/k0s>
 -   <https://github.com/pixie-io/pixie>

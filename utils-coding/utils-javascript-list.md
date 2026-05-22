@@ -1645,6 +1645,7 @@
 -   <https://github.com/memetic-institute/The-Fed>
 -   <https://github.com/kirodotdev/spirit-of-kiro>
 -   <https://github.com/prettymuchbryce/easystarjs>
+-   <https://github.com/workadventure/workadventure>
 -   <https://github.com/BenjaminAster/CSS-Minecraft>
 -   <https://github.com/jakesgordon/javascript-racer>
 -   <https://github.com/Richard-Strittmatter/JuanTap>

@@ -505,9 +505,10 @@
 -   <http://playground.tensorflow.org/>
 -   <https://github.com/clmnin/summarize.site>
 
-## TOOLS: AGGREGATE / GATEWAY
+## TOOLS: AGGREGATE / GATEWAY / ROUTING
 
 -   <https://github.com/diegosouzapw/OmniRoute>
+-   <https://github.com/mnfst/manifest>
 -   <https://vercel.com/ai-gateway>
 -   <https://www.together.ai/>
 -   <https://huggingface.co/>
@@ -626,6 +627,7 @@
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/anomalyco/opencode>
 -   <https://github.com/Rigos0/superturtle>
+-   <https://github.com/nimbalyst/nimbalyst>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/paul-gauthier/aider>
@@ -661,6 +663,7 @@
 -   <https://github.com/amplication/amplication>
 -   <https://github.com/princeton-nlp/SWE-agent>
 -   <https://github.com/ProjectBarks/gopher-code>
+-   <https://github.com/henu-wang/tokrepo-vscode>
 -   <https://github.com/google-gemini/gemini-cli>
 -   <https://github.com/robertpiosik/CodeWebChat>
 -   <https://github.com/stackblitz-labs/bolt.diy>
@@ -1407,7 +1410,7 @@
 -   <https://github.com/mksglu/context-mode>
 -   <https://github.com/karthikscale3/ctx-zip>
 
-## LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE
+## LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE GRAPH
 
 -   <https://github.com/ragapp/ragapp>
 -   <https://github.com/weaviate/Verba>
@@ -1429,12 +1432,14 @@
 -   <https://github.com/run-llama/llama_parse>
 -   <https://github.com/adithya-s-k/omniparse>
 -   <https://github.com/tinyhumansai/openhuman>
+-   <https://github.com/colbymchenry/codegraph>
 -   <https://github.com/langchain-ai/langgraph>
 -   <https://github.com/AnswerDotAI/RAGatouille>
 -   <https://github.com/louisbrulenaudet/ragoon>
 -   <https://github.com/vercel/ai-sdk-rag-starter>
 -   <https://github.com/NirDiamant/RAG_Techniques>
 -   <https://github.com/amazon-science/RAGChecker>
+-   <https://github.com/Lum1104/Understand-Anything>
 -   <https://github.com/instructor-ai/instructor-js>
 -   <https://github.com/circlemind-ai/fast-graphrag>
 -   <https://github.com/FareedKhan-dev/all-rag-techniques>
@@ -1733,6 +1738,7 @@
 
 -   <https://github.com/aigc3d/LHM>
 -   <https://github.com/neomjs/neo>
+-   <https://github.com/HKUDS/ViMax>
 -   <https://github.com/THU-MIG/yolov10>
 -   <https://github.com/buxuku/SmartSub>
 -   <https://github.com/Wan-Video/Wan2.2>
