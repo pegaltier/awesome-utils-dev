@@ -839,6 +839,7 @@
 ## TOOLS: TEST
 
 -   <https://github.com/promptfoo/promptfoo>
+-   <https://github.com/shenli/distributed-system-testing>
 
 ## TOOLS: CODING: IDE
 

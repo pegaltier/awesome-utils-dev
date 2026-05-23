@@ -521,6 +521,7 @@
 -   <https://github.com/Zettlr/Zettlr>
 -   <https://github.com/netless-io/flat>
 -   <https://github.com/codexu/note-gen>
+-   <https://github.com/outline/outline>
 -   <https://github.com/TriliumNext/Notes>
 -   <https://github.com/dendronhq/dendron>
 -   <https://github.com/fastrepl/hyprnote>
