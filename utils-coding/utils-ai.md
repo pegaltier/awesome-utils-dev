@@ -600,6 +600,7 @@
 -   <http://github.com/crynta/terax-ai>
 -   <https://github.com/HKUDS/DeepCode>
 -   <https://github.com/HKUDS/FastCode>
+-   <https://github.com/modem-dev/hunk>
 -   <https://github.com/snarktank/ralph>
 -   <https://github.com/meltylabs/melty>
 -   <https://github.com/AbanteAI/mentat>
