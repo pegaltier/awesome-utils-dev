@@ -3338,6 +3338,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/angular/angularfire>
 -   <https://github.com/auth0/angular2-jwt>
 -   <https://github.com/auth0/auth0-angular>
+-   <https://github.com/keycloakify/oidc-spa>
 -   <https://github.com/avatsaev/angular2-jwt>
 
 ## ECOSYSTEM: LIB: PAYMENT

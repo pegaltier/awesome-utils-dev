@@ -737,6 +737,9 @@
 -   <https://github.com/6over3/hako>
 -   <https://github.com/ohmjs/ohm>
 
+## LIB: PARSER JAVASCRIPT DECOMPILER
+-   <https://github.com/pionxzh/wakaru>
+
 ## LIB: MARKUP / MARKDOWN / TEXT
 
 -   <https://github.com/AgentEnder/markdown-factory>
