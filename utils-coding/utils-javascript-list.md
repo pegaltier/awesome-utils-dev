@@ -1197,6 +1197,7 @@
 -   <https://github.com/nzbin/photoviewer>
 -   <https://github.com/transloadit/uppy>
 -   <https://github.com/videojs/video.js>
+-   <https://github.com/6over3/exiftool>
 -   <https://github.com/aeroheim/midori>
 -   <https://github.com/vidstack/player>
 -   <https://github.com/lukeapage/pngjs>

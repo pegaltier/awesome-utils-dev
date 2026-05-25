@@ -292,6 +292,7 @@
 -   <https://github.com/AMAI-GmbH/AI-Expert-Roadmap>
 -   <https://github.com/ZJU-LLMs/Foundations-of-LLMs>
 -   <https://github.com/amitshekhariitbhu/llm-internals>
+-   <https://github.com/rohitg00/ai-engineering-from-scratch>
 -   <https://github.com/HenryNdubuaku/maths-cs-ai-compendium>
 -   <https://github.com/NirDiamant/agents-towards-production>
 
@@ -1435,6 +1436,7 @@
 -   <https://github.com/tinyhumansai/openhuman>
 -   <https://github.com/colbymchenry/codegraph>
 -   <https://github.com/langchain-ai/langgraph>
+-   <https://github.com/NateBJones-Projects/OB1>
 -   <https://github.com/AnswerDotAI/RAGatouille>
 -   <https://github.com/louisbrulenaudet/ragoon>
 -   <https://github.com/vercel/ai-sdk-rag-starter>
