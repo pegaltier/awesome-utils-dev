@@ -145,6 +145,7 @@ RUN ls
 
 ## TOOLS OSS
 
+-   <https://github.com/firecracker-microvm/firecracker>
 -   <https://github.com/kubernetes/kubernetes>
 -   <https://github.com/portainer/portainer>
 -   <https://github.com/cyclops-ui/cyclops>

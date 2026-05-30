@@ -316,7 +316,6 @@
 -   <https://github.com/pionxzh/wakaru>
 -   <https://github.com/harthur/replace>
 -   <https://github.com/Anxhul10/dag-rs>
--   <https://github.com/fallow-rs/fallow>
 -   <https://github.com/volarjs/volar.js>
 -   <https://github.com/commitizen/cz-cli>
 -   <https://github.com/ast-grep/ast-grep>
@@ -328,6 +327,11 @@
 -   <https://github.com/sverweij/dependency-cruiser>
 -   <https://github.com/antfu/node-modules-inspector>
 -   <https://github.com/dependents/node-dependency-tree>
+
+## UTILS: STATIC ANALYSIS
+
+-   <https://github.com/fallow-rs/fallow>
+
 
 ## UTILS: SECURITY
 

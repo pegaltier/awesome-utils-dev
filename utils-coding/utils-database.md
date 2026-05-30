@@ -100,6 +100,7 @@
 -   <https://github.com/haltcase/trilogy>
 -   <https://github.com/kiankyars/sqlite>
 -   <https://github.com/tursodatabase/turso>
+-   <https://github.com/russellromney/honker>
 -   <https://github.com/tursodatabase/libsql>
 -   <https://github.com/benbjohnson/litestream>
 -   <https://github.com/phiresky/sql.js-httpvfs>

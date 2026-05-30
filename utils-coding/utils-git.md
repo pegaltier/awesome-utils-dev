@@ -144,6 +144,7 @@
 -   <https://github.com/Codex-/await-remote-run>
 -   <https://github.com/actionsflow/actionsflow>
 -   <https://github.com/ad-m/github-push-action>
+-   <https://github.com/actions/languageservices>
 -   <https://github.com/tj-actions/changed-files>
 -   <https://github.com/actions/starter-workflows>
 -   <https://github.com/rossjrw/pr-preview-action>

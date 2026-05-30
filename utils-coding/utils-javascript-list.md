@@ -143,6 +143,7 @@
 -   <https://airbnb.io/javascript/>
 -   <https://vanillajstoolkit.com/>
 -   <https://wesbos.com/javascript>
+-   <https://javascriptweekly.com/>
 -   <https://learnjavascript.online/>
 -   <https://learnjavascript.online/>
 -   <https://www.w3schools.com/w3js/>
@@ -532,8 +533,6 @@
 -   <https://github.com/danrevah/segal-decorators>
 -   <https://github.com/mgechev/data-adapter>
 -   <https://github.com/francisrstokes/super-expressive>
--   <https://github.com/sindresorhus/environment>
--   <https://github.com/KATT/envsafe>
 -   <https://github.com/stalniy/casl>
 -   <https://github.com/nas5w/combinate>
 -   <https://github.com/vvo/tzdb/>
@@ -564,6 +563,11 @@
 -   <https://github.com/adzejs/adze>
 -   <https://github.com/muze-nl/jaqt>
 -   <https://github.com/SerkanSipahi/app-decorators>
+
+## LIB: ENV
+-   <https://github.com/sindresorhus/environment>
+-   <https://github.com/dmno-dev/varlock>
+-   <https://github.com/KATT/envsafe>
 
 ## LIB: DESIGN PATTERN
 
@@ -1412,6 +1416,7 @@
 -   <https://github.com/surmon-china/naivebayes>
 -   <https://github.com/NaturalNode/natural/>
 -   <https://github.com/rudikershaw/whichx>
+-   <https://github.com/wlearn-org/bo>
 -   <https://github.com/ttezel/bayes>
 
 ## LIB: AI / MACHINE LEARNING / MARKOV

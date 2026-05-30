@@ -590,6 +590,7 @@
 -   <https://github.com/nrslib/takt>
 -   <https://github.com/block/goose>
 -   <https://github.com/openai/codex>
+-   <https://github.com/affaan-m/ECC>
 -   <https://github.com/wandb/openui>
 -   <https://github.com/dyad-sh/dyad>
 -   <https://github.com/sst/opencode>
@@ -780,6 +781,7 @@
 -   <https://github.com/JimLiu/baoyu-skills>
 -   <https://github.com/benjilegnard/skills>
 -   <https://github.com/nowork-studio/toprank>
+-   <https://github.com/hardikpandya/stop-slop>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/ConardLi/garden-skills>
 -   <https://github.com/kepano/obsidian-skills>

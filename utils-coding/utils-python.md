@@ -112,6 +112,7 @@ pip -V
 ## LIB
 
 -   <https://github.com/rio-labs/rio>
+-   <https://github.com/coleifer/huey>
 -   <https://github.com/django/django>
 -   <https://github.com/fastapi/fastapi>
 -   <https://github.com/apache/superset>
