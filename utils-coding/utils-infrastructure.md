@@ -307,6 +307,7 @@
 -   <https://github.com/mbecker20/komodo>
 -   <https://github.com/Dokploy/dokploy>
 -   <https://github.com/basecamp/kamal>
+-   <https://github.com/HeyPuter/puter>
 -   <https://github.com/dokku/dokku>
 -   <https://github.com/taubyte/tau>
 -   <https://youtu.be/mznYKPvhcfw>

@@ -30,6 +30,7 @@
 -   <https://github.com/wavetermdev/waveterm>
 -   <https://eugeny.github.io/terminus/>
 -   <https://github.com/vercel/hyper>
+-   <https://github.com/orhun/ratty>
 
 ## Utils
 
