@@ -392,6 +392,7 @@
 ## LIB: EVENT / BUS / PUBSUB
 
 -   <https://github.com/ai/nanoevents>
+-   <https://github.com/developit/mitt>
 -   <https://github.com/primus/eventemitter3>
 -   <https://github.com/RIAEvangelist/event-pubsub>
 
@@ -647,7 +648,6 @@
 -   <https://github.com/gnaeus/react-ioc>
 -   <https://github.com/jeffijoe/awilix>
 -   <https://github.com/cleandi/cleandi>
--   <https://github.com/developit/mitt>
 -   <https://github.com/mnasyrov/ditox>
 -   <https://github.com/radzserg/rsdi>
 -   <https://github.com/wessberg/DI>
@@ -661,6 +661,7 @@
 -   <https://github.com/vercel/ms>
 -   <https://github.com/iamkun/dayjs>
 -   <https://github.com/wanasit/chrono>
+-   <https://github.com/hustcc/timeago.js/>
 -   <https://github.com/date-fns/date-fns>
 -   <https://github.com/vercel/little-date>
 -   <https://github.com/xxczaki/light-date>
