@@ -300,7 +300,6 @@
 -   <https://github.com/RetireJS/retire.js>
 -   <https://github.com/npmx-dev/npmx.dev>
 -   <https://github.com/megahertz/howfat>
--   <https://github.com/webpro-nl/knip>
 -   <https://github.com/amio/npm-why>
 -   <https://github.com/ranyitz/qnm>
 -   <https://github.com/antfu/taze>
@@ -330,6 +329,7 @@
 
 ## UTILS: STATIC ANALYSIS
 
+-   <https://github.com/webpro-nl/knip>
 -   <https://github.com/fallow-rs/fallow>
 
 

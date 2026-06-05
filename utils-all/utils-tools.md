@@ -530,6 +530,7 @@
 -   <https://github.com/anyproto/anytype-ts>
 -   <https://github.com/TriliumNext/Trilium>
 -   <https://github.com/AppFlowy-IO/AppFlowy>
+-   <https://github.com/lfnovo/open-notebook>
 -   <https://github.com/refactoringhq/tolaria>
 -   <https://github.com/sissbruecker/linkding>
 -   <https://github.com/graydon/obsidian-html>

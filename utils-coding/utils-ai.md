@@ -523,6 +523,8 @@
 ## TOOLS: SUMMARY / ORGANIZE
 
 -   <https://notebooklm.google/>
+-   <https://github.com/marcj/papernews>
+-   <https://github.com/lfnovo/open-notebook>
 
 ## TOOLS: JOB / HIRING
 
@@ -805,6 +807,9 @@
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
+## TOOLS: CODING: OSS BACKGROUND
+-   <https://github.com/ColeMurray/background-agents>
+
 ## TOOLS: CODING: OSS SPEC SDD / SPDD / FACTORY
 
 -   <https://github.com/fabro-sh/fabro>
@@ -897,6 +902,7 @@
 -   <https://github.com/TencentCloud/CubeSandbox>
 -   <https://github.com/restyler/awesome-sandbox>
 -   <https://github.com/DeepBlueDynamics/codex-container>
+-   <https://github.com/tizkovatereza/awesome-ai-sandboxes>
 
 ## TOOLS: IMAGE
 
@@ -1127,6 +1133,7 @@
 -   <https://github.com/thunderbird/thunderbolt>
 -   <https://github.com/GoogleCloudPlatform/localllm>
 -   <https://github.com/vince-lam/awesome-local-llms>
+-   <https://github.com/pewdiepie-archdaemon/odysseus>
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
 
 ## TOOLS: ASSISTANT / PHYSICAL
@@ -1165,6 +1172,7 @@
 -   <https://github.com/coollabsio/openclaw>
 -   <https://github.com/huggingface/open-r1>
 -   <https://github.com/RightNow-AI/openfang>
+-   <https://github.com/nesquena/hermes-webui>
 -   <https://github.com/fathah/hermes-desktop>
 -   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/adolfousier/opencrabs>
@@ -1412,7 +1420,9 @@
 
 ## LIB: CONTEXT
 
+-   <https://github.com/huawei-csl/KVarN>
 -   <https://github.com/mksglu/context-mode>
+-   <https://github.com/chopratejas/headroom>
 -   <https://github.com/karthikscale3/ctx-zip>
 
 ## LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE GRAPH
@@ -1691,6 +1701,7 @@
 -   <https://github.com/qualifire-dev/rogue>
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
+-   <https://github.com/harbor-framework/harbor>
 
 ## LIB: AUDIO / TTS / STT / VOICE
 

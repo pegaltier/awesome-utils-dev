@@ -115,6 +115,7 @@
 -   <https://github.com/github-20k/super-star>
 -   <https://github.com/jdalrymple/gitbeaker>
 -   <https://github.com/seladb/StarTrack-js>
+-   <https://github.com/github/gitignore>
 -   <https://github.com/harness/gitness>
 -   <https://github.com/open-sauced/api>
 -   <https://libraries.github20k.com/>
@@ -133,6 +134,7 @@
 -   <https://github.com/actions/toolkit>
 -   <https://github.com/woodruffw/zizmor>
 -   <https://github.com/LorisSigrist/today>
+-   <https://github.com/dorny/paths-filter>
 -   <https://github.com/azizaydi23/npm-audit>
 -   <https://github.com/bobheadxi/deployments>
 -   <https://github.com/sdras/awesome-actions>
