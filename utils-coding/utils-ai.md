@@ -766,6 +766,12 @@
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 
+
+## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS 
+-   <https://github.com/sergioramosv/squeezr>
+-   <https://github.com/juliusbrussee/caveman>
+-   <https://github.com/DietrichGebert/ponytail>
+
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
 -   <https://github.com/google/skills>
@@ -791,6 +797,7 @@
 -   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/tiangolo/library-skills>
+-   <https://github.com/mvanhorn/last30days-skill>
 -   <https://github.com/msitarzewski/agency-agents>
 -   <https://github.com/google-gemini/gemini-skills>
 -   <https://github.com/tech-leads-club/agent-skills>
@@ -829,6 +836,7 @@
 ## TOOLS: CODING: OSS CODE REVIEW
 
 -   <https://github.com/puemos/lareview>
+-   <https://github.com/alibaba/open-code-review>
 -   <https://github.com/Gentleman-Programming/gentleman-guardian-angel>
 
 ## TOOLS: CODING: OSS AUTO
@@ -1439,6 +1447,7 @@
 -   <https://github.com/tmccombs/hcl2json>
 -   <https://github.com/microsoft/graphrag>
 -   <https://github.com/infiniflow/ragflow>
+-   <https://github.com/RyanCodrai/turbovec>
 -   <https://github.com/safishamsi/graphify>
 -   <https://github.com/promptfoo/promptfoo>
 -   <https://github.com/cyclotruc/gitingest>

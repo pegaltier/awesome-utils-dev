@@ -159,6 +159,7 @@
 
 ## GUIDE-OPEN
 
+-   <https://github.com/rainyear/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png>
 -   <https://github.com/andredesousa/javascript-unit-testing-best-practices>
 -   <https://github.com/goldbergyoni/javascript-testing-best-practices>
 -   <https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore>

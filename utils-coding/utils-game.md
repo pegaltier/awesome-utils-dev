@@ -25,6 +25,7 @@
 
 ## LIB: ALL
 
+-   <https://github.com/levy-street/world-of-claudecraft>
 -   <https://github.com/Kaesual/common-games-collection>
 -   <https://github.com/shrekshao/gltf-avatar-threejs>
 -   <https://github.com/ProjectUnifree/unifree>

@@ -182,6 +182,11 @@
 
 -   <https://github.com/apiaryio/dredd>
 
+## UTILS: GHERKIN
+
+-   <https://github.com/cucumber/gherkin-javascript>
+-   <https://github.com/gherkin-lint/gherkin-lint>
+
 ## UTILS: CYPRESS
 
 -   <https://github.com/bahmutov/cy-api>

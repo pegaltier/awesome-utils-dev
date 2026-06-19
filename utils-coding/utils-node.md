@@ -193,10 +193,12 @@
 -   <https://github.com/pnpm/pnpm>
 -   <https://github.com/unjs/nypm>
 -   <https://github.com/wclr/yalc>
+-   <https://github.com/jdx/aube>
 -   <https://github.com/antfu/ni>
 
 ## RUNTIME
 
+-   <https://github.com/nubjs/nub>
 -   <https://github.com/nodejs/node>
 -   <https://github.com/oven-sh/bun>
 -   <https://github.com/6over3/hako>

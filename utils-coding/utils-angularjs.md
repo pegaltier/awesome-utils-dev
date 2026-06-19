@@ -1,5 +1,9 @@
 # ANGULARJS
 
+## LEARN
+
+-   <https://github.com/mgechev/angularjs-in-patterns>
+
 ## FILTER
 
 -   <https://www.w3schools.com/angularjs/ng_filter_filter.asp>
