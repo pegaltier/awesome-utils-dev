@@ -144,6 +144,7 @@
 -   <https://vanillajstoolkit.com/>
 -   <https://wesbos.com/javascript>
 -   <https://javascriptweekly.com/>
+-   <https://www.100jsfunctions.com/>
 -   <https://learnjavascript.online/>
 -   <https://learnjavascript.online/>
 -   <https://www.w3schools.com/w3js/>
@@ -670,8 +671,10 @@
 -   <https://github.com/shahradelahi/true-ms>
 -   <https://github.com/spencermountain/spacetime>
 -   <https://github.com/mymth/vanillajs-datepicker>
+-   <https://github.com/github/relative-time-element>
 -   <https://github.com/fullcalendar/temporal-polyfill>
 -   <https://github.com/sindresorhus/parse-duration-ms>
+-   <https://www.leohuynh.dev/snippets/relative-time-ago-parsing>
 
 ## LIB: URL
 
@@ -879,6 +882,7 @@
 -   <https://github.com/focus-trap/focus-trap>
 -   <https://github.com/codex-team/editor.js>
 -   <https://github.com/spaansba/ForesightJS>
+-   <https://github.com/jamiebuilds/tinykeys>
 -   <https://github.com/mozilla/readability>
 -   <https://github.com/focus-trap/tabbable>
 -   <https://github.com/jsfiddle/togetherjs>
@@ -1036,6 +1040,7 @@
 -   <https://github.com/dream-num/Luckysheet>
 -   <https://github.com/ruilisi/fortune-sheet>
 -   <https://github.com/estie-inc/wasm-xlsxwriter>
+-   <https://github.com/tabulator-tables/tabulator>
 -   <https://github.com/gabrielpetersson/fast-grid>
 -   <https://github.com/TomaszRewak/js-spread-grid>
 -   <https://github.com/chenzhiyuanthu/virtual-scrolling-table>

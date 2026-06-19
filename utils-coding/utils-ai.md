@@ -275,10 +275,14 @@
 
 ## ARTICLES
 
+-   <https://medium.com/affirmengineering/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6>
 -   <https://www.msn.com/en-us/news/technology/chatgpt-adds-1-million-users-in-one-hour-after-adding-new-ai-feature/ar-AA1C471B>
 -   <https://www.binance.com/en/blog/research/binance-research-exploring-the-future-of-ai-agents-in-crypto-4685351192205955466>
 -   <https://www.numerama.com/tech/1590098-lopen-source-en-ia-gagne-du-terrain-face-aux-modeles-proprietaires.html>
+-   <https://medium.com/@sebuzdugan/why-agentic-coding-is-a-trap-for-serious-engineers-c974470e1787>
 -   <https://www.blogdumoderateur.com/ia-10-modeles-langage-performants-aout-2024/>
+-   <https://thariqs.github.io/html-effectiveness/#exploration>
+-   <https://substack.com/@opinionai/note/c-247713880?r=krtz>
 -   <https://www.kissmyfrogs.com/stephane-mallard-blu-age/>
 -   <https://metatrendreport.com/humanoid-robots-v>
 -   <https://github.com/brexhq/prompt-engineering>
@@ -831,6 +835,7 @@
 -   <https://github.com/bmad-code-org/BMAD-METHOD>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.com/Quratulain-bilal/spec-kit-tinyspec>
+-   <https://martinfowler.com/articles/structured-prompt-driven/>
 -   <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/>
 
 ## TOOLS: CODING: OSS CODE REVIEW
