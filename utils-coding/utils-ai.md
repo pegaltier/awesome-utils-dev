@@ -700,11 +700,12 @@
 
 -   <https://github.com/wrtnlabs/autobe>
 
-## TOOLS: CODING: OSS FRONTEND / DESIGN
+## TOOLS: CODING: OSS FRONTEND / DESIGN / TUI / A2UI
 
 -   <https://github.com/tw93/kami>
 -   <https://github.com/google/A2UI>
 -   <https://github.com/thesysdev/openui>
+-   <https://github.com/anomalyco/opentui>
 -   <https://github.com/zanwei/design-dna>
 -   <https://github.com/pbakaus/impeccable>
 -   <https://github.com/nexu-io/open-design>
@@ -712,6 +713,7 @@
 -   <https://github.com/Leonxlnx/taste-skill>
 -   <https://github.com/CopilotKit/CopilotKit>
 -   <https://github.com/benjitaylor/agentation>
+-   <https://github.com/BuilderIO/agent-native>
 -   <https://github.com/standardagents/arrow-js>
 -   <https://github.com/vercel-labs/json-render>
 -   <https://github.com/CopilotKit/generative-ui>
@@ -901,6 +903,7 @@
 
 -   <https://github.com/vm0-ai/vm0>
 -   <https://github.com/lukehinds/nono>
+-   <https://github.com/withastro/flue>
 -   <https://github.com/CelestoAI/SmolVM>
 -   <https://github.com/dredozubov/hazmat>
 -   <https://github.com/daytonaio/daytona>
@@ -1398,6 +1401,7 @@
 -   <https://github.com/jasonmayes/WebAIAgent>
 -   <https://github.com/humanlayer/humanlayer>
 -   <https://github.com/microsoft/magentic-ui>
+-   <https://github.com/BuilderIO/agent-native>
 -   <https://github.com/agentlabs-dev/openator>
 -   <https://github.com/cuga-project/cuga-agent>
 -   <https://github.com/browserbase/open-operator>
