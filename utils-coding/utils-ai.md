@@ -440,6 +440,7 @@
 
 ## TOOLS: PROMPT EXTRA
 
+-   <https://mini-tools.uk/promo-prompt.html>
 -   <https://markdown.new/>
 -   <https://summarize.sh/>
 
