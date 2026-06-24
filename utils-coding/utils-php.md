@@ -255,6 +255,7 @@ More infos:
 
 ## CMS / HEADLESS
 
+-   <https://github.com/hpakdaman/unfoldcms> - UnfoldCMS - Self-hosted Laravel 12 + React 19 CMS with REST API v1, HMAC webhooks, headless mode, one-time pricing ([website](https://unfoldcms.com))
 -   <https://github.com/directus/directus>
 -   <https://github.com/flextype/flextype>
 -   <https://github.com/agentejo/cockpit>
