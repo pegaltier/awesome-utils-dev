@@ -278,6 +278,7 @@
 ## HOST SERVICES CLOSED
 
 -   <https://vercel.com/>
+-   <https://judoscale.com/>
 -   <https://www.render.com/>
 -   <https://openworkers.com/>
 -   <https://www.netlify.com/>

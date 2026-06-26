@@ -636,6 +636,7 @@
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/anomalyco/opencode>
 -   <https://github.com/Rigos0/superturtle>
+-   <https://github.com/akumidv/ai_keystone>
 -   <https://github.com/nimbalyst/nimbalyst>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
@@ -1811,6 +1812,7 @@
 -   <https://github.com/getomni-ai/zerox>
 -   <https://github.com/ocrmypdf/OCRmyPDF>
 -   <https://github.com/vikhyat/moondream>
+-   <https://github.com/baidu/Unlimited-OCR>
 -   <https://github.com/kreuzberg-dev/kreuzberg>
 -   <https://github.com/blakeblackshear/frigate>
 

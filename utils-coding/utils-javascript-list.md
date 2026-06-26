@@ -474,6 +474,11 @@
 -   <https://github.com/supertokens/supertokens-node>
 -   <https://github.com/subhendukundu/worker-auth-providers>
 
+## LIB: AUTH / ACL / ACCESS RIGHT / ROLES
+
+-   <https://github.com/stalniy/casl>
+-   <https://github.com/onury/accesscontrol>
+
 ## LIB: STATE MACHINE
 
 -   <https://github.com/StoneCypher/jssm>
@@ -1668,6 +1673,7 @@
 
 ## LIB: FORM / SURVEY / QUIZZ
 
+-   <https://github.com/golemui/golemui>
 -   <https://github.com/heyform/heyform>
 -   <https://github.com/formbricks/formbricks>
 -   <https://github.com/fabian-hiller/formisch>

@@ -129,6 +129,7 @@
 -   <https://github.com/ghoullier/awesome-template-literal-types>
 -   <https://github.com/typescript-exercises/typescript-exercises>
 -   <https://github.com/total-typescript/beginners-typescript-tutorial>
+-   <https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know>
 -   <https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j>
 
 ## START
