@@ -314,6 +314,7 @@
 -   <https://github.com/laudspeaker/laudspeaker>
 -   <https://github.com/binwiederhier/ntfy>
 -   <https://github.com/caronc/apprise>
+-   <https://github.com/vernu/textbee>
 -   <https://github.com/vasanthv/ahey>
 -   <https://github.com/novuhq/novu>
 -   <https://onesignal.com/>

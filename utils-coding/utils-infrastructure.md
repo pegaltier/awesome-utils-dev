@@ -388,6 +388,7 @@
 -   <https://github.com/ahmetb/kubectx>
 -   <https://github.com/k0sproject/k0s>
 -   <https://github.com/pixie-io/pixie>
+-   <https://github.com/labring/sealos>
 -   <https://github.com/meshery/meshery>
 -   <https://github.com/backube/volsync>
 -   <https://github.com/zegl/kube-score>

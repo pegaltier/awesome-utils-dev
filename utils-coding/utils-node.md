@@ -328,6 +328,7 @@
 -   <https://github.com/sverweij/dependency-cruiser>
 -   <https://github.com/antfu/node-modules-inspector>
 -   <https://github.com/dependents/node-dependency-tree>
+-   <https://github.com/christopherthielen/check-peer-dependencies>
 
 ## UTILS: STATIC ANALYSIS
 

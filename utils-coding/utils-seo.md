@@ -170,6 +170,7 @@ seo phase d'optimisation :
 ## TOOLS / OSS / INDEXING
 
 -   <https://github.com/itteco/iframely>
+-   <https://github.com/every-app/open-seo>
 -   <https://github.com/algolia/404-crawler>
 -   <https://github.com/remibacha/kwClustersR>
 -   <https://github.com/goenning/google-indexing-script>

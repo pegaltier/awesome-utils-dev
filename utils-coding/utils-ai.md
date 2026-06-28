@@ -1436,6 +1436,10 @@
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>
 
+## LIB: CONTENT
+
+-   <https://github.com/every-app/sam>
+
 ## LIB: CONTEXT
 
 -   <https://github.com/huawei-csl/KVarN>
@@ -1612,6 +1616,10 @@
 ## LIB: TLM / TIMESERIES
 
 -   <https://github.com/google-research/timesfm>
+
+## LIB: FREE LLM
+
+-   <https://github.com/tashfeenahmed/freellmapi>
 
 ## LIB: LLM
 

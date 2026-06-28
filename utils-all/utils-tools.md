@@ -161,6 +161,10 @@
 -   <https://github.com/johannesjo/super-productivity>
 -   <https://github.com/uwidev/life-disciplines-projects>
 
+## OSS: TRAVEL
+
+-   <https://github.com/mauriceboe/TREK>
+
 ## OSS: NEWS
 
 -   <https://github.com/calesthio/Crucix>
