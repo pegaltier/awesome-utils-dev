@@ -6,6 +6,7 @@
 -   <https://github.com/rigdev/rig>
 -   <https://github.com/appvia/kev>
 -   <https://github.com/k3s-io/k3s>
+-   <https://github.com/bjarneo/ku>
 -   <https://github.com/keel-hq/keel>
 -   <https://github.com/lensapp/lens>
 -   <https://github.com/ctrox/zeropod>
