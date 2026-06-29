@@ -320,6 +320,7 @@
 -   <https://github.com/volarjs/volar.js>
 -   <https://github.com/commitizen/cz-cli>
 -   <https://github.com/ast-grep/ast-grep>
+-   <https://github.com/vercel-labs/deepsec>
 -   <https://github.com/davidmarkclements/0x>
 -   <https://github.com/webpro-nl/unbarrelify>
 -   <https://github.com/mysticatea/npm-run-all>

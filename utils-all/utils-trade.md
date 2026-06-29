@@ -773,6 +773,7 @@
 -   <https://youtu.be/-7NlxXlPxZA> ChatGPT inside your Pine Script EDITOR! Algo trading
 -   <https://youtu.be/6wK4q8QvsV4> Machine Learning Algorithms for Financial Markets
 -   <https://youtu.be/AdINVvnJfX4> Lorentzian Classification: Machine Learning Driven TradingView
+-   <https://youtu.be/QK9CFD9Quu8> Lorentzian Classification: PineScript v6 Upgrade & Multi-Language Ports
 
 ## ARTICLES
 
@@ -1164,6 +1165,7 @@
 -   <https://github.com/PyPatel/Options-Trading-Strategies-in-Python>
 -   <https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB>
 -   <https://github.com/rushic24/tradingview-scraper/blob/master/main.py>
+-   <https://github.com/artificial-intelligence-edge/lorentzian-classification>
 -   <https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy>
 -   <https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance>
 -   <https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api>
@@ -1332,6 +1334,7 @@
 -   <https://github.com/andredumas/techan.js>
 -   <https://github.com/dcaoyuan/vibetrader>
 -   <https://github.com/topics/stock-chart>
+-   <https://github.com/ChartGPU/ChartGPU>
 -   <https://github.com/jones2000/HQChart>
 -   <https://github.com/chartjs/Chart.js>
 -   <https://github.com/seerline/clchart>

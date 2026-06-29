@@ -115,6 +115,10 @@
 -   <https://github.com/Artemmkin/infrastructure-as-code-tutorial>
 -   <https://github.com/K8sAcademy/Fundamentals-HandsOn>
 
+## KUBERNETES
+
+-   [list](utils-kubernetes.md)
+
 ## ARTICLES
 
 -   <https://rust-on-nails.com/blog/kubernetes-complicated/>
@@ -372,103 +376,6 @@
 ## TERRAFORM
 
 -   <https://github.com/gruntwork-io/terragrunt>
-
-## KUBERNETES
-
--   <https://helm.sh/>
--   <https://github.com/boz/kail>
--   <https://github.com/rigdev/rig>
--   <https://github.com/appvia/kev>
--   <https://github.com/k3s-io/k3s>
--   <https://github.com/keel-hq/keel>
--   <https://github.com/lensapp/lens>
--   <https://github.com/ctrox/zeropod>
--   <https://github.com/kedacore/keda>
--   <https://github.com/tilt-dev/tilt>
--   <https://github.com/ahmetb/kubectx>
--   <https://github.com/k0sproject/k0s>
--   <https://github.com/pixie-io/pixie>
--   <https://github.com/labring/sealos>
--   <https://github.com/meshery/meshery>
--   <https://github.com/backube/volsync>
--   <https://github.com/zegl/kube-score>
--   <https://github.com/ubuntu/microk8s>
--   <https://github.com/mkimuram/k8sviz>
--   <https://github.com/paralus/paralus>
--   <https://github.com/jpca/Boulegueur>
--   <https://github.com/Portshift/kubei>
--   <https://github.com/kyverno/kyverno>
--   <https://github.com/cjihrig/kubenode>
--   <https://github.com/loft-sh/vcluster>
--   <https://github.com/skyhook-io/radar>
--   <https://github.com/kubeshop/monokle>
--   <https://github.com/argoproj/argo-cd>
--   <https://github.com/cilium/hubble-ui>
--   <https://github.com/loft-sh/jspolicy>
--   <https://github.com/hobby-kube/guide>
--   <https://github.com/furiko-io/furiko>
--   <https://github.com/godaddy/terminus>
--   <https://github.com/kubewall/kubewall>
--   <https://github.com/eslam-gomaa/kptop>
--   <https://github.com/smartxworks/knest>
--   <https://github.com/jpetazzo/nsplease>
--   <https://github.com/porter-dev/porter>
--   <https://github.com/armosec/kubescape>
--   <https://github.com/kudobuilder/kuttl>
--   <https://github.com/cyclops-ui/cyclops>
--   <https://github.com/canonical/microk8s>
--   <https://github.com/awesome-it/adeploy>
--   <https://github.com/yogeshkk/K8sPurger>
--   <https://github.com/SocialGouv/webseal>
--   <https://github.com/komodorio/validkube>
--   <https://github.com/itaysk/kubectl-neat>
--   <https://github.com/kubernetes/minikube>
--   <https://github.com/kubescape/kubescape>
--   <https://github.com/particledecay/kconf>
--   <https://github.com/freelensapp/freelens>
--   <https://github.com/johanhaleby/kubetail>
--   <https://github.com/kubernetes-sigs/krew>
--   <https://github.com/mbaykara/k8s-cluster>
--   <https://github.com/stackrox/kube-linter>
--   <https://github.com/cloudmelon/melonkube>
--   <https://github.com/kubernetes/dashboard>
--   <https://github.com/kubernetes-sigs/kind>
--   <https://github.com/kubernetes/kubernetes>
--   <https://github.com/kubernetes/autoscaler>
--   <https://github.com/shank-git/metal-kubes>
--   <https://github.com/kurtosis-tech/kardinal>
--   <https://github.com/projectcontour/contour>
--   <https://github.com/awslabs/eks-node-viewer>
--   <https://github.com/AvitalTamir/cyphernetes>
--   <https://github.com/kubernetes/ingress-nginx>
--   <https://github.com/kubernetes-sigs/headlamp>
--   <https://github.com/open-source-labs/Chronos>
--   <https://github.com/viralpoetry/kubesurveyor>
--   <https://github.com/steveteuber/kubectl-graph>
--   <https://github.com/edgelesssys/constellation>
--   <https://github.com/eon01/kubernetes-workshop>
--   <https://github.com/cert-manager/cert-manager>
--   <https://github.com/eldada/kubernetes-scripts>
--   <https://github.com/lightrun-platform/koolkits>
--   <https://github.com/lucky-sideburn/kubeinvaders>
--   <https://github.com/kubernetes-sigs/kubebuilder>
--   <https://github.com/bitnami-labs/sealed-secrets>
--   <https://github.com/NimbleArchitect/kubectl-ice>
--   <https://github.com/GoogleContainerTools/kaniko>
--   <https://github.com/clusterpedia-io/clusterpedia>
--   <https://github.com/kubernetes-client/javascript>
--   <https://github.com/kubernauts/jmeter-kubernetes>
--   <https://github.com/metacontroller/metacontroller>
--   <https://github.com/Azure/vscode-kubernetes-tools>
--   <https://github.com/operator-framework/operator-sdk>
--   <https://github.com/tomhuang12/awesome-k8s-resources>
--   <https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook>
--   <https://kubernetes.io/docs/tutorials/kubernetes-basics>
--   <https://github.com/techiescamp/kubernetes-learning-path>
--   <https://github.com/diegolnasc/kubernetes-best-practices>
--   <https://github.com/padok-team/dojo-kubernetes-prometheus>
--   <https://github.com/kelseyhightower/kubernetes-the-hard-way>
--   <https://github.com/ahmetb/kubernetes-network-policy-recipes>
 
 ## REDIS
 

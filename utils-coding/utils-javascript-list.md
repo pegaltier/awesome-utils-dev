@@ -1135,6 +1135,7 @@
 -   <https://github.com/Renumics/spotlight>
 -   <https://github.com/keplergl/kepler.gl>
 -   <https://github.com/finos/perspective>
+-   <https://github.com/ChartGPU/ChartGPU>
 -   <https://github.com/jacomyal/sigma.js>
 -   <https://github.com/observablehq/plot>
 -   <https://github.com/plotly/plotly.js>

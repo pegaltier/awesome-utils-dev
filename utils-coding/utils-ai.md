@@ -1481,6 +1481,7 @@
 -   <https://github.com/Lum1104/Understand-Anything>
 -   <https://github.com/instructor-ai/instructor-js>
 -   <https://github.com/circlemind-ai/fast-graphrag>
+-   <https://github.com/DeusData/codebase-memory-mcp>
 -   <https://github.com/FareedKhan-dev/all-rag-techniques>
 -   <https://github.com/Unstructured-IO/unstructured-js-client>
 
