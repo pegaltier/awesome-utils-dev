@@ -83,6 +83,7 @@
 -   <https://github.com/Apicurio/apicurio-studio>
 -   <https://github.com/curlconverter/curlconverter>
 -   <https://github.com/gravitee-io/gravitee-api-management>
+-   <https://github.com/nguyenminhduc9988/free-tools-hub> - 68+ free, client-side developer tools — JSON formatter, regex tester, color picker, base64 encoder, cron visual builder, JWT decoder, and more. No signup, no API calls, 100% browser-based.
 
 ## OPENAPI
 
