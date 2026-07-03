@@ -29,6 +29,7 @@
 -   <https://github.com/Kaesual/common-games-collection>
 -   <https://github.com/shrekshao/gltf-avatar-threejs>
 -   <https://github.com/ProjectUnifree/unifree>
+-   <https://github.com/opengaming/osgameclones>
 -   <https://github.com/ChloeLiang/rhythm-game>
 -   <https://github.com/hydralauncher/hydra>
 -   <https://github.com/C7-Game/OpenCiv3>

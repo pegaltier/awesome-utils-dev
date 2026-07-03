@@ -266,6 +266,7 @@
 
 ## NEWS / LEARN
 
+-   <https://bluedot.org/courses/future-of-ai/1/1>
 -   <https://github.com/osanseviero/ml_timeline>
 -   <https://github.com/automata/aicodeguide>
 -   <https://9elements.com/blog/ai-glossary>
@@ -649,6 +650,7 @@
 -   <https://github.com/nimbalyst/nimbalyst>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
+-   <https://github.com/sharpdeveye/maestro>
 -   <https://github.com/paul-gauthier/aider>
 -   <https://github.com/fauxpilot/fauxpilot>
 -   <https://github.com/OpenDevin/OpenDevin>
@@ -728,6 +730,7 @@
 -   <https://github.com/vercel-labs/json-render>
 -   <https://github.com/CopilotKit/generative-ui>
 -   <https://github.com/superdesigndev/superdesign>
+-   <https://github.com/vibeflowing-inc/vibe_figma>
 -   <https://github.com/CopilotKit/OpenGenerativeUI>
 -   <https://github.com/google-labs-code/stitch-sdk>
 -   <https://github.com/CopilotKit/generative-ui-playground>
@@ -837,20 +840,33 @@
 
 ## TOOLS: CODING: OSS SPEC SDD / SPDD / FACTORY
 
+-   <https://github.com/mutagent-io>
 -   <https://github.com/fabro-sh/fabro>
+-   <https://github.com/gotalab/cc-sdd>
+-   <https://github.com/clawplays/ospec>
 -   <https://github.com/github/spec-kit>
 -   <https://github.com/obra/superpowers>
+-   <https://github.com/lee-to/ai-factory>
 -   <https://github.com/nmcdaines/tinyspec>
+-   <https://github.com/shotgun-sh/shotgun>
+-   <https://github.com/codervisor/leanspec>
+-   <https://github.com/asklokesh/loki-mode>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/gszhangwei/open-spdd>
+-   <https://github.com/maxritter/pilot-shell>
+-   <https://github.com/Priivacy-ai/spec-kitty>
 -   <https://github.com/MartyBonacci/specswarm>
 -   <https://github.com/gsd-build/get-shit-done>
 -   <https://github.com/buildermethods/agent-os>
 -   <https://github.com/Codeplain-ai/plain-forge>
 -   <https://github.com/bmad-code-org/BMAD-METHOD>
+-   <https://github.com/topics/spec-driven-development>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.com/Quratulain-bilal/spec-kit-tinyspec>
+-   <https://github.com/eltociear/awesome-AI-driven-development>
 -   <https://martinfowler.com/articles/structured-prompt-driven/>
+-   <https://github.com/Engineering4AI/awesome-spec-driven-development>
+-   <https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00>
 -   <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/>
 
 ## TOOLS: CODING: OSS CODE REVIEW
@@ -1164,6 +1180,7 @@
 -   <https://github.com/vince-lam/awesome-local-llms>
 -   <https://github.com/pewdiepie-archdaemon/odysseus>
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
+-   <https://soverius.ai/blog/implementing-a-tiny-harness>
 
 ## TOOLS: BROWSER / LOCAL
 
@@ -1986,6 +2003,7 @@
 -   <https://github.com/browser-use/workflow-use>
 -   <https://github.com/vercel-labs/agent-browser>
 -   <https://github.com/browser-use/browser-harness>
+-   <https://github.com/vibheksoni/stealth-browser-mcp>
 -   <https://github.com/browser-use/browser-harness-js>
 -   <https://github.com/tomayac/built-in-ai-task-apis-polyfill>
 

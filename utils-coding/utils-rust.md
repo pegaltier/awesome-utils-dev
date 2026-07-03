@@ -70,6 +70,7 @@
 -   <https://github.com/rust-phf/rust-phf>
 -   <https://github.com/NVlabs/cutile-rs>
 -   <https://github.com/hoxxep/rapidhash>
+-   <https://github.com/ratatui/ratatui>
 -   <https://github.com/salsa-rs/salsa>
 -   <https://github.com/cross-rs/cross>
 

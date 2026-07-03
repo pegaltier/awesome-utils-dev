@@ -1684,6 +1684,7 @@
 
 -   <https://github.com/golemui/golemui>
 -   <https://github.com/heyform/heyform>
+-   <https://github.com/open-circle/formisch>
 -   <https://github.com/formbricks/formbricks>
 -   <https://github.com/fabian-hiller/formisch>
 -   <https://github.com/surveyjs/survey-library>

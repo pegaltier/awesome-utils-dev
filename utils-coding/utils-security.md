@@ -194,6 +194,7 @@
 -   <https://github.com/goodwithtech/dockle>
 -   <https://github.com/Infisical/infisical>
 -   <https://github.com/aquasecurity/trivy>
+-   <https://github.com/OWASP/cve-lite-cli>
 -   <https://github.com/Tw1sm/spraycharles>
 -   <https://github.com/reconurge/flowsint>
 -   <https://github.com/safing/portmaster>

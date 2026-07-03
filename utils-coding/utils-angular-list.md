@@ -1272,6 +1272,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://medium.com/ngconf/debugging-angular-signals-a-guide-to-the-signal-graph-devtool-b0b69804496d>
 -   <https://dev.to/romain_geffrault_10d88369/stop-using-signalstore-for-everything-hype-fades-debt-remains-2p0e>
 -   <https://blog.appsignal.com/2026/02/19/signal-driven-error-monitoring-detecting-and-debugging-reactive-failures-in-angular.html>
+-   <https://blog.angulartraining.com/angular-reactivity-with-ngmodel-model-and-signals-96072fe0d39e>
 
 ## CORE: SIGNALS FORM
 
@@ -1803,6 +1804,7 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: LIST
 
 -   <https://github.com/omnedia>
+-   <https://github.com/ngneat-archive>
 -   <https://github.com/ngxtools/ngx.tools>
 -   <https://github.com/PatrickJS/awesome-angular>
 -   <https://github.com/brillout/awesome-angular-components>
@@ -2869,6 +2871,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/stevermeister/ngx-wig>
 -   <https://github.com/kolkov/angular-editor>
 -   <https://github.com/sibiraj-s/ngx-editor>
+-   <https://github.com/bampakoa/ngx-wig>
 
 ## ECOSYSTEM: LIB: COMPONENT: DRAG
 
@@ -2969,6 +2972,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/ng-primitives/ng-primitives> (TOADD)
 -   <https://github.com/zard-ui/zardui> (TOADD)
 -   <https://github.com/piying-org/piying-angular-component> (TOADD)
+-   <https://github.com/openng-foundation/open-prime> (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 
@@ -3288,6 +3292,7 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://github.com/avatsaev/angular-contacts-app-example>
 -   <https://github.com/laarrrx/angular-bootstrap-boilerplate>
 -   <https://github.com/vagnersabadi/awesome-components-ionic>
+-   <https://github.com/Oussemasahbeni/spartan-admin-dashboard>
 -   <https://github.com/AntonioCardenas/AngularWeb3Boilerplate>
 -   <https://github.com/ionicthemes/ionic5-starter-app-tutorial>
 -   <https://github.com/frederiksen/angular-electron-boilerplate>
@@ -3629,6 +3634,8 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://github.com/PacktPublishing/Learning-Angular-Fifth-Edition> (TOADD)
 -   <http://www.hirez.io/c/angular-2-preparation/e/episode-1-code-structure-comparison>
 -   <https://offering.solutions/ebook-creating-modern-angular-apps-with-ngrx-and-nx/> (TOADD)
+-   <https://www.amazon.com/dp/1806668475> Angular Projects: Learn Angular by building 10 real-world, enterprise web apps and projects (TOADD)
+-   <https://www.amazon.com/Building-AI-Powered-Apps-Angular-Hands/dp/1806383497/> (TOADD)
 -   <https://egghead.io/series/angular-2-fundamentals>
 -   <https://leanpub.com/developing-with-angular>
 
