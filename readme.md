@@ -60,7 +60,7 @@
 ## Infrastructure
 
 -   [Infrastructure](utils-coding/utils-infrastructure.md)
--   [Kubernetes](utils-coding/utils-kubernetes.md.md)
+-   [Kubernetes](utils-coding/utils-kubernetes.md)
 -   [Container](utils-coding/utils-container.md)
 
 ## Blockchain
