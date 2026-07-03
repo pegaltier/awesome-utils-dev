@@ -17,6 +17,7 @@
 ## LIB: GAME
 
 -   <https://github.com/OpenRCT2/OpenRCT2>
+-   <https://github.com/erincatto/box3d>
 -   <https://github.com/SFTtech/openage>
 
 ## LIB: CLOUD

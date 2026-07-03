@@ -240,6 +240,7 @@
 -   <https://github.com/asabaylus/react-command-palette>
 -   <https://github.com/wellyshen/react-cool-dimensions>
 -   <https://github.com/react-hook-form/react-hook-form>
+-   <https://github.com/BetterTyped/react-zoom-pan-pinch>
 -   <https://github.com/nick-keller/react-datasheet-grid>
 -   <https://github.com/michalzalobny/react-just-parallax>
 -   <https://github.com/aaronhayes/react-use-hubspot-form>

@@ -1699,6 +1699,7 @@
 -   <https://github.com/nat/openplayground>
 -   <https://github.com/reactorsh/ambrosia>
 -   <https://github.com/microsoft/TypeChat>
+-   <https://github.com/Andyyyy64/whichllm>
 -   <https://github.com/vllm-project/vllm>
 -   <https://github.com/andrewyng/aisuite>
 -   <https://github.com/haotian-liu/LLaVA>
