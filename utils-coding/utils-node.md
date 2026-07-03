@@ -28,6 +28,8 @@
 
 -   [UTILS: DEVTOOLS](#utils-devtools)
 
+-   [UTILS: STATIC ANALYSIS](#utils-static-analysis)
+
 -   [UTILS: SECURITY](#utils-security)
 
 -   [UTILS: CLEAN / KILL](#utils-clean--kill)
@@ -118,25 +120,24 @@
 
 -   [SERVER: RTC](#server-rtc)
 
--   [SDK](#sdk)
+-   [SDK / WRAPPER](#sdk--wrapper)
 
 -   [FRAMEWORKS](#frameworks)
-
--   [NODE UPDATE WINDOWS](#node-update-windows)
-
--   [COMMANDS](#commands)
-
--   [NPM](#npm)
-
-    -   [Helper](#helper)
-    -   [Clean](#clean)
-    -   [Versions](#versions)
 
 -   [ESM / MODULES](#esm--modules)
 
     -   [LIB](#lib)
     -   [NOTES](#notes)
     -   [ARTICLES](#articles)
+
+-   [NODE UPDATE WINDOWS](#node-update-windows)
+
+-   [NPM / PNPM](#npm--pnpm)
+
+    -   [Secure](#secure)
+    -   [Helper](#helper)
+    -   [Clean](#clean)
+    -   [Versions](#versions)
 
 ## GUIDE: OSS
 
@@ -335,7 +336,6 @@
 
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/fallow-rs/fallow>
-
 
 ## UTILS: SECURITY
 
@@ -794,7 +794,7 @@
 -   <https://github.com/rhinobase/hono-openapi>
 -   <https://github.com/honojs/hono>
 
-## SERVER: ALL
+\## SERVER: ALL
 
 -   <https://github.com/Rotorsoft/eventually-monorepo>
 -   <https://github.com/differentialhq/differential>
@@ -821,7 +821,7 @@
 -   <https://github.com/h3js/srvx>
 -   <https://github.com/h3js/h3>
 
-## SERVER: RPC
+\## SERVER: RPC
 
 -   <https://github.com/trpc/trpc>
 -   <https://github.com/cloudflare/capnweb>
@@ -921,12 +921,12 @@ The ECMAScript modules (ES or ESM modules) have a standard TC39 function that wa
 
 ### Secure
 
-- https://youtu.be/gwTQLZSIlsU
-- https://gist.github.com/mcollina/b294a6c39ee700d24073c0e5a4e93104
-- npm install --ignore-scripts
-- pnpm/ncu minimumReleaseAge
-- pnpm blockExoticSubDeps
-- pnpm approveBuilds
+-   <https://youtu.be/gwTQLZSIlsU>
+-   <https://gist.github.com/mcollina/b294a6c39ee700d24073c0e5a4e93104>
+-   npm install --ignore-scripts
+-   pnpm/ncu minimumReleaseAge
+-   pnpm blockExoticSubDeps
+-   pnpm approveBuilds
 
 ### Helper
 
@@ -953,9 +953,9 @@ Or see for other OS [Utils-cmd](utils-cmd.md)
 -   ^ = latest minor version will be installed
 -   ~ = latest patch version will be installed
 
-    npm outdated # check the dep to update
-    npm update # update all to the wanted
-    npm update mypackage1 # update one to the wanted
-    npm update mypackage1 mypackage2 # update many to the wanted
-    npm install mypackage1@latest # update one to the latest (major)
+    npm outdated # check the dep to update  
+    npm update # update all to the wanted  
+    npm update mypackage1 # update one to the wanted  
+    npm update mypackage1 mypackage2 # update many to the wanted  
+    npm install mypackage1@latest # update one to the latest (major)  
     npx npm-check-updates -u # update all to the latest (major)

@@ -4,6 +4,7 @@
 
 -   -   [Web](#web)
     -   [OSS: ALL](#oss-all)
+    -   [OSS: TRAVEL](#oss-travel)
     -   [OSS: NEWS](#oss-news)
     -   [OSS: MESSAGING BOT](#oss-messaging-bot)
     -   [OSS: SOCIAL NETWORK](#oss-social-network)
@@ -30,7 +31,7 @@
 
     -   [OSS: VIDEO](#oss-video)
 
-    -   [OSS: MEDIAS / BOOK / PDF / DOCS](#oss-medias--book--pdf--docs)
+    -   [OSS: MEDIAS / PRESENTATION / BOOK / PDF / DOCS](#oss-medias--presentation--book--pdf--docs)
 
     -   [OSS: SPREADSHEET](#oss-spreadsheet)
 
@@ -63,7 +64,7 @@
     -   [Finance](#finance)
     -   [TV](#tv)
     -   [List](#list)
-    -   [Organise / learn / text notes / memory](#organise--learn--text-notes--memory)
+    -   [Organise / learn / text notes / memory / knowledge](#organise--learn--text-notes--memory--knowledge)
     -   [Automate / automation](#automate--automation)
     -   [New](#new)
     -   [Proxy / scraping](#proxy--scraping)

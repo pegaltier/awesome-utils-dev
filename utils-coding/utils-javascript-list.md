@@ -33,8 +33,10 @@
 -   [LIB: BACKEND](#lib-backend)
 -   [LIB: JAMSTACK](#lib-jamstack)
 -   [LIB: AUTH / OIDC / 2FA](#lib-auth--oidc--2fa)
+-   [LIB: AUTH / ACL / ACCESS RIGHT / ROLES](#lib-auth--acl--access-right--roles)
 -   [LIB: STATE MACHINE](#lib-state-machine)
 -   [LIB: UTILS](#lib-utils)
+-   [LIB: ENV](#lib-env)
 -   [LIB: DESIGN PATTERN](#lib-design-pattern)
 -   [LIB: PIPELINE](#lib-pipeline)
 -   [LIB: POLYFILL](#lib-polyfill-1)
@@ -52,6 +54,7 @@
 -   [LIB: SERIALIZATION / TRANSFER](#lib-serialization--transfer)
 -   [LIB: PARSER SCRAPER HTML/XML/JSON/DOM/CSV](#lib-parser-scraper-htmlxmljsondomcsv)
 -   [LIB: PARSER JAVASCRIPT INTERPRETER / COMPILER](#lib-parser-javascript-interpreter--compiler)
+-   [LIB: PARSER JAVASCRIPT DECOMPILER](#lib-parser-javascript-decompiler)
 -   [LIB: MARKUP / MARKDOWN / TEXT](#lib-markup--markdown--text)
 -   [LIB: SWIPER](#lib-swiper)
 -   [LIB: ESBUILD](#lib-esbuild)
@@ -573,6 +576,7 @@
 -   <https://github.com/SerkanSipahi/app-decorators>
 
 ## LIB: ENV
+
 -   <https://github.com/sindresorhus/environment>
 -   <https://github.com/dmno-dev/varlock>
 -   <https://github.com/KATT/envsafe>
@@ -752,6 +756,7 @@
 -   <https://github.com/ohmjs/ohm>
 
 ## LIB: PARSER JAVASCRIPT DECOMPILER
+
 -   <https://github.com/pionxzh/wakaru>
 
 ## LIB: MARKUP / MARKDOWN / TEXT

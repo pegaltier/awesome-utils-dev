@@ -27,6 +27,11 @@
 -   [Vue](utils-coding/utils-vue.md)
 -   [More](utils-coding/)
 
+## Web Patterns
+
+-   [Microfrontend](utils-coding/utils-microfrontend.md)
+-   [Monorepo](utils-coding/utils-monorepo.md)
+
 ## Mobile Development
 
 -   [Android](utils-coding/utils-android.md)
@@ -51,6 +56,12 @@
 -   [GraphQL](utils-coding/utils-graphql.md)
 -   [Database](utils-coding/utils-database.md)
 -   [More](utils-coding/)
+
+## Infrastructure
+
+-   [Infrastructure](utils-coding/utils-infrastructure.md)
+-   [Kubernetes](utils-coding/utils-kubernetes.md.md)
+-   [Container](utils-coding/utils-container.md)
 
 ## Blockchain
 

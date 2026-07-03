@@ -20,6 +20,7 @@
 -   [UTILS: AI](#utils-ai)
 -   [UTILS: TERMINAL](#utils-terminal)
 -   [UTILS: HTTP](#utils-http)
+-   [UTILS: GHERKIN](#utils-gherkin)
 -   [UTILS: CYPRESS](#utils-cypress)
 -   [UTILS: PLAYWRIGHT LIST](#utils-playwright-list)
 -   [UTILS: PLAYWRIGHT TOOLS](#utils-playwright-tools)

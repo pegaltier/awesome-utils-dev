@@ -40,7 +40,7 @@
 
 -   [TOOLS: ALL](#tools-all)
 
--   [TOOLS: AGGREGATE / GATEWAY](#tools-aggregate--gateway)
+-   [TOOLS: AGGREGATE / GATEWAY / ROUTING](#tools-aggregate--gateway--routing)
 
 -   [TOOLS: AUTOMATE](#tools-automate)
 
@@ -60,7 +60,7 @@
 
 -   [TOOLS: CODING: OSS BACKEND](#tools-coding-oss-backend)
 
--   [TOOLS: CODING: OSS FRONTEND / DESIGN](#tools-coding-oss-frontend--design)
+-   [TOOLS: CODING: OSS FRONTEND / DESIGN / TUI / A2UI](#tools-coding-oss-frontend--design--tui--a2ui)
 
 -   [TOOLS: CODING: OSS AGNOSTIC](#tools-coding-oss-agnostic)
 
@@ -68,7 +68,11 @@
 
 -   [TOOLS: CODING: OSS CLAUDE](#tools-coding-oss-claude)
 
+-   [TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS](#tools-coding-oss-optimize-prompt-rules--skills)
+
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
+
+-   [TOOLS: CODING: OSS BACKGROUND](#tools-coding-oss-background)
 
 -   [TOOLS: CODING: OSS SPEC SDD / SPDD / FACTORY](#tools-coding-oss-spec-sdd--spdd--factory)
 
@@ -174,9 +178,11 @@
 
 -   [LIB: CRAWLER / SCRAPER / DATA PARSER](#lib-crawler--scraper--data-parser)
 
+-   [LIB: CONTENT](#lib-content)
+
 -   [LIB: CONTEXT](#lib-context)
 
--   [LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE](#lib-context-enginerring--rag--ingestion--retrieval--knowledge)
+-   [LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE GRAPH](#lib-context-enginerring--rag--ingestion--retrieval--knowledge-graph)
 
 -   [LIB: MCP](#lib-mcp)
 
@@ -195,6 +201,8 @@
 -   [LIB: VLM / VISION](#lib-vlm--vision)
 
 -   [LIB: TLM / TIMESERIES](#lib-tlm--timeseries)
+
+-   [LIB: FREE LLM](#lib-free-llm)
 
 -   [LIB: LLM](#lib-llm)
 
@@ -773,8 +781,8 @@
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 
+## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
-## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS 
 -   <https://github.com/sergioramosv/squeezr>
 -   <https://github.com/juliusbrussee/caveman>
 -   <https://github.com/DietrichGebert/ponytail>
@@ -822,6 +830,7 @@
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
 
 ## TOOLS: CODING: OSS BACKGROUND
+
 -   <https://github.com/ColeMurray/background-agents>
 
 ## TOOLS: CODING: OSS SPEC SDD / SPDD / FACTORY

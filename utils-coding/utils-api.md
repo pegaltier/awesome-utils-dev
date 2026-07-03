@@ -2,7 +2,8 @@
 
 ## TABLE OF CONTENTS
 
--   [API RESTFULL](#api-restfull)
+-   [API DESIGN: OSS](#api-design-oss)
+-   [API DESIGN](#api-design)
 -   [TOOLS: CLIENT](#tools-client)
 -   [TOOLS: ALL](#tools-all)
 -   [OPENAPI](#openapi)
@@ -41,6 +42,7 @@
 -   <https://github.com/philsturgeon/api-design-workshop>
 
 ## API DESIGN
+
 -   <https://microservice-api-patterns.org/>
 -   <https://restfulapi.net/http-status-codes/>
 -   <http://www.restapitutorial.com/lessons/httpmethods.html>
