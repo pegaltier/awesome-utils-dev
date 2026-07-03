@@ -803,6 +803,7 @@
 -   <https://github.com/mgechev/skillgrade>
 -   <https://github.com/JimLiu/baoyu-skills>
 -   <https://github.com/benjilegnard/skills>
+-   <https://github.com/exp-workspace/skills>
 -   <https://github.com/nowork-studio/toprank>
 -   <https://github.com/hardikpandya/stop-slop>
 -   <https://github.com/snarktank/ai-dev-tasks>
@@ -1335,6 +1336,7 @@
 -   <https://github.com/Agent-Field/agentfield>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
+-   <https://github.com/damiansire/cognitive-substrate-os>
 
 ## LIB: AGENTIC DEV TOOLS
 
