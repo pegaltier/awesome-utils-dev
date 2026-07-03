@@ -315,6 +315,7 @@
 
 ## BENCHMARK
 
+-   <https://metr.org/>
 -   <https://livebench.ai/>
 -   <https://www.tbench.ai/>
 -   <https://www.swebench.com/>
@@ -845,6 +846,7 @@
 -   <https://github.com/MartyBonacci/specswarm>
 -   <https://github.com/gsd-build/get-shit-done>
 -   <https://github.com/buildermethods/agent-os>
+-   <https://github.com/Codeplain-ai/plain-forge>
 -   <https://github.com/bmad-code-org/BMAD-METHOD>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.com/Quratulain-bilal/spec-kit-tinyspec>
@@ -1163,6 +1165,10 @@
 -   <https://github.com/pewdiepie-archdaemon/odysseus>
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
 
+## TOOLS: BROWSER / LOCAL
+
+-   <https://github.com/davideast/inbrowser-agent>
+
 ## TOOLS: ASSISTANT / PHYSICAL
 
 -   <https://github.com/BasedHardware/omi>
@@ -1358,8 +1364,6 @@
 -   <https://github.com/vercel-labs/open-agents>
 -   <https://github.com/cloudflare/agentic-inbox>
 -   <https://github.com/msitarzewski/agency-agents>
--   <https://github.com/browser-use/browser-harness>
--   <https://github.com/browser-use/browser-harness-js>
 
 ## LIB: AGENTIC CODE MODE
 
@@ -1470,6 +1474,7 @@
 -   <https://github.com/getomni-ai/zerox>
 -   <https://github.com/Cinnamon/kotaemon>
 -   <https://github.com/tmccombs/hcl2json>
+-   <https://github.com/oramasearch/orama>
 -   <https://github.com/microsoft/graphrag>
 -   <https://github.com/infiniflow/ragflow>
 -   <https://github.com/RyanCodrai/turbovec>
@@ -1713,11 +1718,12 @@
 -   <https://github.com/getzep/zep>
 -   <https://github.com/01-ai/Yi>
 
-## LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR
+## LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR / MANAGEMENT
 
 -   <https://github.com/comet-ml/opik>
 -   <https://github.com/Agenta-AI/agenta>
 -   <https://github.com/Helicone/helicone>
+-   <https://github.com/Nasiko-Labs/nasiko>
 -   <https://github.com/traceloop/openllmetry-js>
 
 ## LIB: DEEP LEARNING / NEURAL
@@ -1965,6 +1971,7 @@
 ## LIB: BROWSER
 
 -   <https://github.com/addyosmani/chatty>
+-   <https://github.com/Einsia/Browser-BC>
 -   <https://github.com/skyvern-ai/skyvern>
 -   <https://github.com/alibaba/page-agent>
 -   <https://github.com/firecrawl/web-agent>
@@ -1978,6 +1985,8 @@
 -   <https://github.com/browser-use/browser-use>
 -   <https://github.com/browser-use/workflow-use>
 -   <https://github.com/vercel-labs/agent-browser>
+-   <https://github.com/browser-use/browser-harness>
+-   <https://github.com/browser-use/browser-harness-js>
 -   <https://github.com/tomayac/built-in-ai-task-apis-polyfill>
 
 ## LIB: INTERACT

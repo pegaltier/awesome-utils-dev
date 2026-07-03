@@ -89,6 +89,7 @@
 
 -   <https://github.com/xataio/xata>
 -   <https://github.com/poup-s/bbdump>
+-   <https://github.com/PostgREST/postgrest>
 
 ## VECTOR
 

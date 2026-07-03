@@ -304,6 +304,7 @@
 -   <https://github.com/coollabsio/cli-coolify>
 -   <https://github.com/deuxfleurs-org/garage>
 -   <https://github.com/azukaar/Cosmos-Server>
+-   <https://github.com/kOlapsis/maintenant>
 -   <https://github.com/psviderski/uncloud>
 -   <https://github.com/coollabsio/coolify>
 -   <https://github.com/newsnowlabs/runcvm>

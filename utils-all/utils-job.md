@@ -233,5 +233,6 @@ wellpaid.io
 
 ## SWISS
 
+-   <https://hirion.ch/>
 -   <https://swissdevjobs.ch>
 -   <https://www.getyourfreefast.ch/>

@@ -3698,6 +3698,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## ANGULAR22
 
 -   <https://www.codigotipado.com/p/angular-22-debounced-signal>
+-   <https://medium.com/javascript-everyday/goodbye-route-parent-parent-angular-22-makes-param-inheritance-finally-sane-cc48bc1e5e8d>
 
 ### ANGULAR21
 

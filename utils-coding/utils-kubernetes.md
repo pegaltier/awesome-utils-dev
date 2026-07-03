@@ -30,6 +30,7 @@
 -   <https://github.com/kubeshop/monokle>
 -   <https://github.com/argoproj/argo-cd>
 -   <https://github.com/cilium/hubble-ui>
+-   <https://github.com/ngrok/webernetes>
 -   <https://github.com/loft-sh/jspolicy>
 -   <https://github.com/hobby-kube/guide>
 -   <https://github.com/furiko-io/furiko>

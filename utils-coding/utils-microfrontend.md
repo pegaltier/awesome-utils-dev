@@ -4,12 +4,13 @@
 
 -   <https://github.com/dgp1130/ng-route-mfe>
 -   <https://github.com/Coly010/nx-ng-dyn-fed>
+-   <https://github.com/lucamezzalira/mfe-canvas>
 -   <https://github.com/vugar005/youtube-webapp-nx>
 -   <https://github.com/vugar005/youtube-webapp-lerna>
 -   <https://github.com/manfredsteyer/adv-mf-examples>
--   <https://github.com/vugar005/youtube-webapp-turborepo>
 -   <https://github.com/flash-me/angular-micro-frontends>
 -   <https://github.com/manfredsteyer/mf-angular-showcase>
+-   <https://github.com/vugar005/youtube-webapp-turborepo>
 -   <https://github.com/gioboa/native-to-mf-bridge-example>
 -   <https://github.com/manfredsteyer/angular-microfrontend>
 -   <https://github.com/billyjov/angular-react-microfrontend>
@@ -97,6 +98,9 @@
 -   <https://dev.to/ngrx/announcing-ngrx-21-celebrating-a-10-year-journey-with-a-fresh-new-look-and-ngrxsignalsevents-5ekp>
 -   <https://podcasts.apple.com/us/podcast/episode-25-micro-frontends-patterns/id1493739285?i=1000742156104>
 -   <https://www.angulararchitects.io/en/presentations/premier-disciplin-for-micro-frontends-multi-version-framework-scenarios-2/>
+-   <https://lucamezzalira.medium.com/the-micro-frontend-canvas-a-practical-tool-for-better-boundaries-99da1a7b858d>
+
+## ECOSYSTEM: MICROFRONTEND: VIDEOS
 -   <https://www.youtube.com/watch?v=-ThsrA8hRLc> AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 -   <https://www.youtube.com/watch?v=tsIZjUAtF1U> Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
 -   <https://www.youtube.com/watch?v=BxE01ZSshiQ> smapiot - Micro Frontends Conference 2023

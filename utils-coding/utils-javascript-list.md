@@ -259,6 +259,7 @@
 -   <https://github.com/sorrycc/awesome-javascript>
 -   <https://github.com/stars/IKatsuba/lists/tools>
 -   <https://github.com/sindresorhus/awesome-electron>
+-   <https://github.com/joewdavies/awesome-frontend-gis>
 -   <https://github.com/selfrefactor/useful-javascript-libraries>
 
 ## ARTICLES BEST PRACTICES
@@ -732,6 +733,7 @@
 -   <https://github.com/natemoo-re/ultrahtml>
 -   <https://github.com/masala/masala-parser>
 -   <https://github.com/josdejong/jsonrepair>
+-   <https://github.com/martsinlabs/csv-pipe>
 -   <https://github.com/mozilla/readability>
 -   <https://github.com/sindresorhus/domify>
 -   <https://github.com/atamano/jsonpathly>

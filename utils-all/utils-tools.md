@@ -174,6 +174,7 @@
 ## OSS: MESSAGING BOT
 
 -   <https://github.com/telegraf/telegraf>
+-   <https://github.com/rmyndharis/OpenWA>
 -   <https://github.com/Denver-sn/whatsapp-api>
 -   <https://github.com/wppconnect-team/wppconnect>
 -   <https://github.com/pedroslopez/whatsapp-web.js>

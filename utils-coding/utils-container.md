@@ -148,11 +148,15 @@ RUN ls
 -   <https://github.com/firecracker-microvm/firecracker>
 -   <https://github.com/kubernetes/kubernetes>
 -   <https://github.com/portainer/portainer>
+-   <https://github.com/kOlapsis/maintenant>
 -   <https://github.com/cyclops-ui/cyclops>
 -   <https://github.com/psviderski/uncloud>
 -   <https://github.com/orbstack/orbstack>
+-   <https://github.com/kernalix7/winpodx>
+-   <https://github.com/dockpeek/dockpeek>
 -   <https://github.com/containers/podman>
 -   <https://github.com/hashicorp/vagrant>
+-   <https://github.com/ngrok/webernetes>
 -   <https://github.com/nicotsx/zerobyte>
 -   <https://github.com/apple/container>
 -   <https://github.com/earthly/earthly>

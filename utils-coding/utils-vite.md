@@ -9,6 +9,7 @@
 -   <https://github.com/cyco130/vavite>
 -   <https://github.com/vitest-dev/vscode>
 -   <https://github.com/voidzero-dev/setup-vp>
+-   <https://github.com/detarkende/vite-fullstack>
 -   <https://github.com/aleclarson/vite-tsconfig-paths>
 -   <https://github.com/voidzero-dev/oxc-angular-compiler>
 
