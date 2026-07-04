@@ -482,6 +482,7 @@
 
 -   <https://github.com/stalniy/casl>
 -   <https://github.com/onury/accesscontrol>
+-   <https://github.com/apache/casbin-node-casbin>
 
 ## LIB: STATE MACHINE
 
