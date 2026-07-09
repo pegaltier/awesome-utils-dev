@@ -815,6 +815,7 @@
 -   <https://github.com/benjilegnard/skills>
 -   <https://github.com/exp-workspace/skills>
 -   <https://github.com/nowork-studio/toprank>
+-   <https://github.com/steipete/agent-scripts>
 -   <https://github.com/hardikpandya/stop-slop>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/ConardLi/garden-skills>

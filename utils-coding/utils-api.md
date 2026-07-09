@@ -126,6 +126,7 @@
 -   <https://github.com/acacode/swagger-typescript-api>
 -   <https://github.com/postmanlabs/openapi-to-postman>
 -   <https://github.com/contractual-dev/example-openapi>
+-   <https://github.com/openapistack/openapi-client-axios>
 -   <https://github.com/platformatic/fastify-openapi-glue>
 -   <https://github.com/APIDevTools/json-schema-ref-parser>
 -   <https://github.com/OpenAPITools/openapi-generator-cli>
