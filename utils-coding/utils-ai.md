@@ -334,6 +334,9 @@
 
 ## VIDEOS
 
+-   <https://youtu.be/4biXYSNkn9Y> 09/07 Loop Engineering explained in 8min..
+-   <https://youtu.be/u3vKBgeOOK8> 09/07 316. I Dislike Spec Driven Development - Here Is Why
+-   <https://youtu.be/VS2ulYn6rV0> 09/07 Charted Coding: AI-Assisted Development without the drift
 -   <https://youtu.be/xCd9ykretlg> 26/05 Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)
 -   <https://youtu.be/WNru_PFycT8> 26/05 This Tool Fixes AI Coding at Scale with 70x Fewer Tokens (Graphify)
 -   <https://youtu.be/NHfzXWAP6Xw> 26/05 Agentic Engineering Explained: Why Vibe Coding Is Over
@@ -523,11 +526,13 @@
 ## TOOLS: AGGREGATE / GATEWAY / ROUTING
 
 -   <https://github.com/diegosouzapw/OmniRoute>
+-   <https://github.com/anomalyco/models.dev>
 -   <https://github.com/mnfst/manifest>
 -   <https://vercel.com/ai-gateway>
 -   <https://www.together.ai/>
 -   <https://huggingface.co/>
 -   <https://openrouter.ai/>
+-   <https://models.dev/>
 -   <https://muapi.ai/>
 
 ## TOOLS: AUTOMATE
