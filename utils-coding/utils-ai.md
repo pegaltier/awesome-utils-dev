@@ -665,6 +665,7 @@
 -   <https://github.com/continuedev/continue>
 -   <https://github.com/amantus-ai/vibetunnel>
 -   <https://github.com/langchain-ai/open-swe>
+-   <https://github.com/langchain-ai/openwiki>
 -   <https://github.com/microsoft/genaiscript>
 -   <https://github.com/getagentseal/codeburn>
 -   <https://github.com/raidendotai/cofounder>
@@ -1167,11 +1168,13 @@
 -   <https://github.com/amd/gaia>
 -   <https://github.com/antirez/ds4>
 -   <https://github.com/lmstudio-ai>
+-   <https://github.com/kessler/gemma>
 -   <https://github.com/mudler/LocalAI>
 -   <https://github.com/mlc-ai/web-llm>
 -   <https://github.com/lmstudio-ai/lms>
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
+-   <https://github.com/kessler/gemma-gem>
 -   <https://github.com/RightNow-AI/picolm>
 -   <https://github.com/cactus-compute/needle>
 -   <https://github.com/itayinbarr/little-coder>
@@ -1181,6 +1184,7 @@
 -   <https://github.com/pewdiepie-archdaemon/odysseus>
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
 -   <https://soverius.ai/blog/implementing-a-tiny-harness>
+-   <https://github.com/nico-martin/gemma4-browser-extension>
 
 ## TOOLS: BROWSER / LOCAL
 
@@ -1270,7 +1274,10 @@
 -   <https://github.com/567-labs/instructor-js>
 -   <https://github.com/salesforce/agentscript>
 -   <https://github.com/douglascrockford/Misty>
+-   <https://github.com/guidance-ai/llguidance>
 -   <https://github.com/vercel-labs/json-render>
+-   <https://github.com/nico-martin/llguidance-js>
+-   <https://github.com/guidance-ai/jsonschemabench>
 -   <https://github.com/tripolskypetr/json-inference>
 -   <https://github.com/LogicStamp/logicstamp-context>
 
@@ -1651,9 +1658,10 @@
 
 -   <https://github.com/google-research/timesfm>
 
-## LIB: FREE LLM
+## LIB: FREE / OPEN LLM
 
 -   <https://github.com/tashfeenahmed/freellmapi>
+-   <https://github.com/Tencent-Hunyuan/Hy3>
 
 ## LIB: LLM
 
