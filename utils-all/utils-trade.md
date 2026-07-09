@@ -1062,12 +1062,13 @@
 -   <https://github.com/quantrocket-llc> \*
 -   <https://github.com/kjp22/quant_view>
 -   <https://github.com/vsjha18/nsetools>
+-   <https://github.com/akumidv/alphavar>
 -   <https://github.com/polakowo/vectorbt> \*
 -   <https://github.com/erdewit/ib_insync>
--   <https://github.com/lucasinglese/oryon>
--   <https://github.com/bmoscon/cryptofeed>
 -   <https://github.com/jpolec/order_book>
 -   <https://github.com/okxapi/python-okx>
+-   <https://github.com/lucasinglese/oryon>
+-   <https://github.com/bmoscon/cryptofeed>
 -   <https://github.com/jealous/stockstats> \*
 -   <https://github.com/ranaroussi/qtpylib>
 -   <https://github.com/Yvictor/TradingGym> \*

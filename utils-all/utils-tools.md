@@ -445,6 +445,7 @@
 -   <https://github.com/hcengineering/platform>
 -   <https://github.com/bluesky-social/atproto>
 -   <https://github.com/bluesky-social/social-app>
+-   <https://github.com/Zackriya-Solutions/meetily>
 -   <https://github.com/yoopta-editor/Yoopta-Editor>
 -   <https://github.com/onetimesecret/onetimesecret>
 -   <https://github.com/alextselegidis/easyappointments>

@@ -156,3 +156,7 @@ pip -V
 ## UI
 
 -   <https://github.com/franktisellano/datatype>
+
+## 3D
+
+-   <https://github.com/adamraudonis/splats4D>
