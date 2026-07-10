@@ -1182,7 +1182,9 @@
 -   <https://github.com/AlexsJones/llmfit>
 -   <https://github.com/kessler/gemma-gem>
 -   <https://github.com/RightNow-AI/picolm>
+-   <https://github.com/mlc-ai/web-llm-chat>
 -   <https://github.com/cactus-compute/needle>
+-   <https://github.com/ChatGPTNextWeb/NextChat>
 -   <https://github.com/itayinbarr/little-coder>
 -   <https://github.com/thunderbird/thunderbolt>
 -   <https://github.com/GoogleCloudPlatform/localllm>

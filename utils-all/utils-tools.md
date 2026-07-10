@@ -101,6 +101,7 @@
 -   <https://pimeyes.com/en>
 -   <https://www.tldraw.com/>
 -   <https://owncast.online/>
+-   <https://fcksignups.com/>
 -   <https://transform.tools/>
 -   <https://beginthings.com/>
 -   <https://codebeautify.org/>
@@ -158,6 +159,7 @@
 -   <https://github.com/dani-garcia/vaultwarden>
 -   <https://github.com/firefly-iii/firefly-iii>
 -   <https://github.com/writefreely/writefreely>
+-   <https://github.com/BraveOPotato/FckSignups>
 -   <https://github.com/AykutSarac/jsonvisio.com>
 -   <https://github.com/johannesjo/super-productivity>
 -   <https://github.com/uwidev/life-disciplines-projects>
