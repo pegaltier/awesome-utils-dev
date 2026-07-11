@@ -1572,6 +1572,7 @@
 -   <https://github.com/evalstate/fast-agent>
 -   <https://github.com/igrigorik/AgentBoard>
 -   <https://github.com/hyperb1iss/droidmind>
+-   <https://github.com/rohitg00/agentmemory>
 -   <https://github.com/getdatanaut/openmcp>
 -   <https://github.com/agoda-com/api-agent>
 -   <https://github.com/punkpeye/mcp-proxy>
