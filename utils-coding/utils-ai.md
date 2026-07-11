@@ -1561,6 +1561,7 @@
 -   <https://github.com/datalayer/agent-runtimes>
 -   <https://github.com/microsoft/playwright-cli>
 -   <https://github.com/exa-labs/exa-mcp-server>
+-   <https://github.com/openstudy-dev/OpenStudy>
 -   <https://github.com/sooperset/mcp-atlassian>
 -   <https://github.com/GLips/Figma-Context-MCP>
 -   <https://github.com/aipotheosis-labs/gate22>
@@ -1573,6 +1574,7 @@
 -   <https://github.com/hyperb1iss/droidmind>
 -   <https://github.com/getdatanaut/openmcp>
 -   <https://github.com/agoda-com/api-agent>
+-   <https://github.com/punkpeye/mcp-proxy>
 -   <https://github.com/github/gh-aw-mcpg>
 -   <https://github.com/CopilotKit/aimock>
 -   <https://github.com/steipete/mcporter>
@@ -1585,6 +1587,8 @@
 -   <https://github.com/idosal/git-mcp>
 -   <https://github.com/anthropics/dxt>
 -   <https://github.com/tobi/qmd>
+-   <https://smithery.ai/>
+-   <https://glama.ai/>
 
 ## LIB: BPE
 

@@ -199,6 +199,7 @@
 -   <https://languagelearningwithnetflix.com>
 -   <https://github.com/automattic/harper>
 -   <https://github.com/cuixueshe/earthworm>
+-   <https://github.com/openstudy-dev/OpenStudy>
 -   <https://github.com/baturyilmaz/wordpecker-app>
 -   <https://github.com/ZuodaoTech/everyone-can-use-english>
 
