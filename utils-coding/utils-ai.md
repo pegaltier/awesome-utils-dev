@@ -1557,6 +1557,7 @@
 -   <https://github.com/leonardsellem/n8n-mcp-server>
 -   <https://github.com/omar-haris/smart-coding-mcp>
 -   <https://github.com/gioboa/mcp-typescript-sdk>
+-   <https://github.com/decisionnode/DecisionNode>
 -   <https://github.com/datalayer/agent-runtimes>
 -   <https://github.com/microsoft/playwright-cli>
 -   <https://github.com/exa-labs/exa-mcp-server>
@@ -1578,6 +1579,8 @@
 -   <https://github.com/upstash/context7>
 -   <https://github.com/mcpland/mock-mcp>
 -   <https://github.com/punkpeye/fastmcp>
+-   <https://github.com/kunchenguid/axi>
+-   <https://github.com/smithery-ai/cli>
 -   <https://github.com/lirantal/ls-mcp>
 -   <https://github.com/idosal/git-mcp>
 -   <https://github.com/anthropics/dxt>
