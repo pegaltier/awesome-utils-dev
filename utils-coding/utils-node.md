@@ -856,6 +856,7 @@
 -   <https://github.com/remult/remult>
 -   <https://github.com/rocicorp/mono>
 -   <https://github.com/adonisjs/core>
+-   <https://github.com/wasp-lang/wasp>
 -   <https://github.com/lukeautry/tsoa>
 -   <https://github.com/bluelibs/runner>
 -   <https://github.com/riktaHQ/rikta.js>

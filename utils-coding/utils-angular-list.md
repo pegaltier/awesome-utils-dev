@@ -3103,6 +3103,7 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://github.com/eliraneliassy/angular-v14-playground>
 -   <https://github.com/stefanoslig/angular-composables-demo>
 -   <https://github.com/tomastrajan/angular-state-management-workshop>
+-   <https://github.com/AhsanAyaz/angular-resource-httpresource-rxresource-demo>
 
 ## ECOSYSTEM: DEMO: STARTER
 

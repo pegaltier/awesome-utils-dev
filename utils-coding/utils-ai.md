@@ -368,6 +368,11 @@
 -   <https://sparkbase.ai/>
 -   <https://worldautomation.fr/>
 
+## HUMAN
+-   <https://rentahuman.ai/>
+-   <https://hirehuman.ai/>
+-   <https://hire-a-human.ai/>
+
 ## CHANNEL
 
 -   <https://www.youtube.com/@ai-tools-search>
@@ -1178,6 +1183,7 @@
 -   <https://github.com/mudler/LocalAI>
 -   <https://github.com/mlc-ai/web-llm>
 -   <https://github.com/lmstudio-ai/lms>
+-   <https://github.com/JustVugg/colibri>
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
 -   <https://github.com/kessler/gemma-gem>
@@ -1372,6 +1378,7 @@
 -   <https://github.com/ZJU-LLMs/Agent-Kernel>
 -   <https://github.com/salesforce/agentscript>
 -   <https://github.com/Agent-Field/agentfield>
+-   <https://github.com/Kohaku-Lab/KohakuTerrarium>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/damiansire/cognitive-substrate-os>
