@@ -334,6 +334,9 @@
 
 ## VIDEOS
 
+-   <https://youtu.be/Tj6Df_K-IRc> 11/07 Agentic Engineering: Notes from Building and Shipping with Agents - Mats Oustad - NDC AI 2026
+-   <https://youtu.be/iQyg-KypKAA> 11/07 L8 Principal's Agentic Engineering Workflow
+-   <https://youtu.be/WkBPX-oDMnA> 11/07 Understanding is the new bottleneck — Geoffrey Litt, Notion
 -   <https://youtu.be/4biXYSNkn9Y> 09/07 Loop Engineering explained in 8min..
 -   <https://youtu.be/u3vKBgeOOK8> 09/07 316. I Dislike Spec Driven Development - Here Is Why
 -   <https://youtu.be/VS2ulYn6rV0> 09/07 Charted Coding: AI-Assisted Development without the drift
