@@ -87,6 +87,7 @@
 ## ARTICLES
 
 -   <https://instavm.io/blog/analysed-4000-to-create-security-agent-cli>
+-   <https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/>
 
 ## PEOPLE
 

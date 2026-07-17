@@ -349,6 +349,7 @@ Proxies provide a unique way to modify or improve the behavior of existing objec
 -   <https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Proxy>
 -   <https://www.javascripttutorial.net/javascript-proxy/>
 -   <https://www.slideshare.net/BrendanEich/metaprog-5303821>
+-   <https://piccalil.li/blog/proxy-and-reflect/>
 -   <https://fr.javascript.info/proxy>
 
 ## GENERATOR

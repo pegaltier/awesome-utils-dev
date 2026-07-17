@@ -169,6 +169,7 @@
 -   <https://github.com/firebase/>
 -   <https://github.com/nhost/nhost>
 -   <https://github.com/bknd-io/bknd>
+-   <https://github.com/tinbase/tinbase>
 -   <https://github.com/Budibase/budibase>
 -   <https://github.com/appwrite/appwrite>
 -   <https://github.com/supabase/supabase>

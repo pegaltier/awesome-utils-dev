@@ -305,6 +305,7 @@
 -   <https://github.com/RetireJS/retire.js>
 -   <https://github.com/npmx-dev/npmx.dev>
 -   <https://github.com/megahertz/howfat>
+-   <https://github.com/sindresorhus/np>
 -   <https://github.com/amio/npm-why>
 -   <https://github.com/ranyitz/qnm>
 -   <https://github.com/antfu/taze>
@@ -386,7 +387,6 @@
 -   <https://github.com/depcheck/depcheck>
 -   <https://github.com/foreversd/forever>
 -   <https://github.com/nodejitsu/nexpect>
--   <https://github.com/sindresorhus/np>
 -   <https://github.com/SukkaW/nolyfill>
 -   <https://github.com/zoontek/valienv>
 -   <https://github.com/alallier/reload>
@@ -624,6 +624,7 @@
 
 ## LIBS: AUTH / OIDC
 
+-   <https://github.com/auth0/node-auth0>
 -   <https://github.com/google/webauthndemo>
 -   <https://github.com/lsagetlethias/charon>
 -   <https://github.com/auth0/node-jsonwebtoken>

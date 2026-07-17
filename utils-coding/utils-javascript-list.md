@@ -1607,6 +1607,7 @@
 -   <https://github.com/shebinleo/pdf2html>
 -   <https://github.com/hand-dot/labelmake>
 -   <https://github.com/eneajaho/doc-signer>
+-   <https://github.com/run-llama/liteparse>
 -   <https://github.com/pdf2htmlEX/pdf2htmlEX>
 -   <https://github.com/alanshaw/markdown-pdf>
 -   <https://github.com/Frooodle/Stirling-PDF>
