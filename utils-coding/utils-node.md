@@ -626,6 +626,7 @@
 
 -   <https://github.com/google/webauthndemo>
 -   <https://github.com/lsagetlethias/charon>
+-   <https://github.com/auth0/node-jsonwebtoken>
 -   <https://github.com/MasterKale/SimpleWebAuthn>
 -   <https://github.com/panva/node-oidc-provider>
 -   <https://github.com/supertokens/supertokens-node>
@@ -770,6 +771,8 @@
 
 ## SERVER: EXPRESS/ITTY
 
+-   <https://github.com/seanpmaxwell/express5-typescript-template>
+-   <https://github.com/express-rate-limit/express-rate-limit>
 -   <https://github.com/inversify/inversify-express-utils>
 -   <https://github.com/michaelcpuckett/express-worker>
 -   <https://github.com/mucahitnezir/express-starter>
@@ -778,6 +781,7 @@
 -   <https://github.com/YahooArchive/express-state>
 -   <https://github.com/pcattori/hmr-from-scratch>
 -   <https://github.com/dimdenGD/ultimate-express>
+-   <https://github.com/tyrmoga/keyguard_express>
 -   <https://github.com/justinfagnani/zipadee>
 -   <https://github.com/kwhitley/itty-router>
 -   <https://github.com/expressjs/multer>
