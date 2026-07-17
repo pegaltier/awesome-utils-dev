@@ -53,6 +53,13 @@
 -   <https://medium.com/better-programming/26-miraculous-vscode-tools-for-javascript-developers-in-2019-e184131d75af>
 -   <https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f>
 
+## EXTENSIONS: MINE
+-   <https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions>
+-   <https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff>
+-   <https://marketplace.visualstudio.com/items?itemName=humao.rest-client>
+-   <https://marketplace.visualstudio.com/items?itemName=vitest.explorer>
+-   <https://marketplace.visualstudio.com/items?itemName=Prisma.prisma>
+
 ## EXTENSIONS: TOP
 
 -   <https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu>

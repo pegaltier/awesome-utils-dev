@@ -738,6 +738,7 @@
 -   <https://github.com/mozilla/readability>
 -   <https://github.com/sindresorhus/domify>
 -   <https://github.com/atamano/jsonpathly>
+-   <https://github.com/ryu1kn/csv-writer>
 -   <https://github.com/cheeriojs/cheerio>
 -   <https://github.com/fb55/htmlparser2>
 -   <https://github.com/zumerlab/snapdom>
