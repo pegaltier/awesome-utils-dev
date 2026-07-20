@@ -111,6 +111,7 @@
 -   <https://oscarleo.com/google-trends>
 -   <https://metatags.io/font-generator>
 -   <https://tinytools-smoky.vercel.app/>
+-   <https://nutilz.com/>
 
 ## OSS: ALL
 
