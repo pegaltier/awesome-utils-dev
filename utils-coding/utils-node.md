@@ -254,6 +254,7 @@
 -   <https://github.com/bennycode/ts-node-starter>
 -   <https://github.com/jhoset/nodejs-spotify-server>
 -   <https://github.com/joyco-studio/library-template>
+-   <https://github.com/mkosir/typeorm-express-typescript>
 -   <https://github.com/bezkoder/node-js-mssql-crud-example>
 -   <https://github.com/studiohyperdrive/nodejs-boilerplate>
 -   <https://github.com/xddq/nodejs-typescript-modern-starter>
@@ -261,6 +262,7 @@
 -   <https://github.com/bluesky-social/statusphere-example-app>
 -   <https://github.com/meysamhadeli/booking-microservices-express-js/>
 -   <https://github.com/invtfl-yuvraj/express-ts-production-ready-setup>
+-   <https://github.com/AlbertHernandez/express-typescript-service-template>
 
 ## LIST
 
@@ -339,11 +341,14 @@
 
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/fallow-rs/fallow>
+-   <https://github.com/LukasNiessen/ArchUnitTS>
 
 ## UTILS: SECURITY
 
 -   <https://github.com/DNSZLSK/muad-dib>
 -   <https://github.com/OWASP/cve-lite-cli>
+-   <https://github.com/janbiasi/rollup-plugin-sbom>
+-   <https://github.com/CycloneDX/cyclonedx-node-npm>
 
 ## UTILS: CLEAN / KILL
 
@@ -444,7 +449,8 @@
 
 -   <https://github.com/jestjs/jest>
 -   <https://github.com/vitest-dev/vitest>
--   <https://github.com/tinylibs/tinyspy>
+-   [Vitest](utils-vite.md/)
+-   [Jest](utils-jest.md/)
 
 ## LIBS: VIDEO EDITING / AUDIO
 
@@ -846,7 +852,6 @@
 
 ## SDK / WRAPPER
 
--   <https://github.com/sudokar/aws-sdk-vitest-mock>
 -   <https://github.com/damiansire/google-api-wrappers>
 
 ## FRAMEWORKS

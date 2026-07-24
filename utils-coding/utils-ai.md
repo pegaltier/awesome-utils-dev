@@ -305,6 +305,7 @@
 -   <https://github.com/AMAI-GmbH/AI-Expert-Roadmap>
 -   <https://github.com/ZJU-LLMs/Foundations-of-LLMs>
 -   <https://github.com/amitshekhariitbhu/llm-internals>
+-   <https://github.com/mattpocock/dictionary-of-ai-coding>
 -   <https://github.com/rohitg00/ai-engineering-from-scratch>
 -   <https://github.com/HenryNdubuaku/maths-cs-ai-compendium>
 -   <https://github.com/NirDiamant/agents-towards-production>
@@ -323,6 +324,7 @@
 -   <https://www.skillsbench.ai/>
 -   <https://epoch.ai/benchmarks>
 -   <https://artificialanalysis.ai/>
+-   <https://neutralityproject.org/>
 
 ## PRIVATE
 
@@ -418,6 +420,7 @@
 -   <https://github.com/PlexPt/awesome-chatgpt-prompts-zh>
 -   <https://github.com/aishwaryanr/awesome-generative-ai-guide>
 -   <https://github.com/VoltAgent/awesome-claude-code-subagents>
+-   <https://github.com/FareedKhan-dev/all-agentic-architectures>
 -   <https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics>
 -   <https://github.com/EthicalML/awesome-production-machine-learning>
 -   <https://github.com/AstraZeneca/awesome-explainable-graph-reasoning>
@@ -646,12 +649,10 @@
 -   <https://github.com/stitionai/devika>
 -   <https://github.com/Oneirocom/Magick>
 -   <https://github.com/aaif-goose/goose>
--   <https://github.com/HKUDS/OpenHarness>
 -   <https://github.com/appdotbuild/agent>
 -   <https://github.com/yamadashy/repomix>
 -   <https://github.com/e2b-dev/fragments>
 -   <https://github.com/Nutlope/aicommits>
--   <https://github.com/Gitlawb/openclaude>
 -   <https://github.com/cursor/agent-trace>
 -   <https://github.com/plandex-ai/plandex>
 -   <https://github.com/github/copilot-sdk>
@@ -661,7 +662,6 @@
 -   <https://github.com/Rigos0/superturtle>
 -   <https://github.com/akumidv/ai_keystone>
 -   <https://github.com/nimbalyst/nimbalyst>
--   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/sharpdeveye/maestro>
 -   <https://github.com/paul-gauthier/aider>
@@ -679,7 +679,6 @@
 -   <https://github.com/amantus-ai/vibetunnel>
 -   <https://github.com/langchain-ai/open-swe>
 -   <https://github.com/langchain-ai/openwiki>
--   <https://github.com/microsoft/genaiscript>
 -   <https://github.com/getagentseal/codeburn>
 -   <https://github.com/raidendotai/cofounder>
 -   <https://github.com/BuilderIO/micro-agent>
@@ -715,6 +714,12 @@
 -   <https://github.com/Gentleman-Programming/gentle-ai>
 -   <https://github.com/OpenInterpreter/open-interpreter>
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
+
+## TOOLS: CODING: OSS HARNESS
+
+-   <https://github.com/HKUDS/OpenHarness>
+-   <https://github.com/xai-org/grok-build>
+-   <https://github.com/Gitlawb/openclaude>
 
 ## TOOLS: CODING: OSS DEBUG
 
@@ -816,9 +821,11 @@
 -   <https://github.com/slavingia/skills>
 -   <https://github.com/obra/superpowers>
 -   <https://github.com/anthropics/skills>
+-   <https://github.com/ibelick/ui-skills>
 -   <https://github.com/mattpocock/skills>
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/mgechev/skillgrade>
+-   <https://github.com/microsoft/SkillOpt>
 -   <https://github.com/JimLiu/baoyu-skills>
 -   <https://github.com/benjilegnard/skills>
 -   <https://github.com/exp-workspace/skills>
@@ -828,6 +835,7 @@
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/ConardLi/garden-skills>
 -   <https://github.com/kepano/obsidian-skills>
+-   <https://github.com/addyosmani/agent-skills>
 -   <https://github.com/exp-workspace/da-skills>
 -   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
@@ -841,6 +849,7 @@
 -   <https://github.com/mgechev/skills-best-practices>
 -   <https://github.com/google-labs-code/stitch-skills>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
+-   <https://github.com/GoogleChrome/modern-web-guidance>
 -   <https://github.com/awesome-skills/code-review-skill>
 -   <https://github.com/forrestchang/andrej-karpathy-skills>
 -   <https://github.com/fugazi/test-automation-skills-agents>
@@ -877,6 +886,7 @@
 -   <https://github.com/bmad-code-org/BMAD-METHOD>
 -   <https://github.com/topics/spec-driven-development>
 -   <https://github.com/eyaltoledano/claude-task-master>
+-   <https://github.com/wearetechnative/awesome-openspec>
 -   <https://github.com/Quratulain-bilal/spec-kit-tinyspec>
 -   <https://github.com/eltociear/awesome-AI-driven-development>
 -   <https://martinfowler.com/articles/structured-prompt-driven/>
@@ -895,6 +905,14 @@
 -   <https://github.com/topics/autonomous-agents?l=typescript>
 -   <https://github.com/NikitaDmitrieff/auto-co-meta>
 -   <https://github.com/ruvnet/ruflo>
+
+## TOOLS: CODING: OSS HOST
+-   <http://github.com/BennyKok/lfg>
+
+
+## TOOLS: CODING: AUTOMATE
+
+-   <https://github.com/githubnext/crane>
 
 ## TOOLS: NOCODING
 
@@ -1193,6 +1211,7 @@
 -   <https://github.com/RightNow-AI/picolm>
 -   <https://github.com/mlc-ai/web-llm-chat>
 -   <https://github.com/cactus-compute/needle>
+-   <https://github.com/Doorman11991/smallcode>
 -   <https://github.com/ChatGPTNextWeb/NextChat>
 -   <https://github.com/itayinbarr/little-coder>
 -   <https://github.com/thunderbird/thunderbolt>
@@ -1370,6 +1389,7 @@
 -   <https://github.com/camel-ai/camel>
 -   <https://github.com/openai/symphony>
 -   <https://github.com/crewAIInc/crewAI>
+-   <https://github.com/Agent-Field/SWE-AF>
 -   <https://github.com/strongdm/attractor>
 -   <https://github.com/bytedance/deer-flow>
 -   <https://github.com/Ido-Levi/Hephaestus>
@@ -1390,22 +1410,30 @@
 
 -   <https://github.com/entireio/cli>
 -   <https://github.com/github/gh-aw>
+-   <https://github.com/githubnext/rig>
 -   <https://github.com/github/gh-aw-mcpg>
+-   <https://github.com/github/copilot-cli>
+-   <https://github.com/githubnext/agentics>
 -   <https://github.com/github/gh-aw-firewall>
+-   <https://github.com/microsoft/genaiscript>
 -   <https://github.com/dmtrKovalenko/fff.nvim>
 
 ## LIB: AGENTIC ALL TOOLS
 
+-   <https://github.com/capsulerun/bash>
 -   <https://github.com/cloudflare/agents>
 -   <https://github.com/millionco/cli-to-js>
 -   <https://github.com/vercel-labs/opensrc>
 -   <https://github.com/vercel-labs/dev3000>
 -   <https://github.com/RhysSullivan/executor>
 -   <https://github.com/vercel-labs/just-bash>
+-   <https://github.com/vercel-labs/bash-tool>
 -   <https://github.com/nihaocami/ai-tool-maker>
 -   <https://github.com/vercel-labs/open-agents>
 -   <https://github.com/cloudflare/agentic-inbox>
 -   <https://github.com/msitarzewski/agency-agents>
+-   <https://betterstack.com/community/guides/ai/just-bash-simulated/>
+-   <https://ddewhurst.com/blog/just-bash-a-full-shell-in-pure-typescript-for-ai-agents/>
 
 ## LIB: AGENTIC CODE MODE
 
@@ -1492,6 +1520,14 @@
 -   <https://github.com/mishushakov/llm-scraper>
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>
+
+## LIB: LOOP / AUTONOMOUS / CONTINUOUS AI
+
+-   <https://github.com/HKUDS/OpenOPC>
+-   <https://github.com/kunchenguid/gnhf>
+-   <https://github.com/githubnext/autoloop>
+-   <https://github.com/superdesigndev/loopany-platform>
+-   <https://github.com/githubnext/awesome-continuous-ai>
 
 ## LIB: CONTENT
 
@@ -1651,6 +1687,7 @@
 -   <https://github.com/nasa-jpl/rosa>
 -   <https://github.com/unitreerobotics>
 -   <https://github.com/commaai/openpilot>
+-   <https://github.com/asimovinc/asimov-1>
 -   <https://github.com/ArduPilot/ardupilot>
 -   <https://github.com/qgallouedec/lerobot>
 -   <https://github.com/huggingface/lerobot>
@@ -1805,6 +1842,7 @@
 -   <https://github.com/kyutai-labs/delayed-streams-modeling>
 -   <https://github.com/modelscope/ClearerVoice-Studio>
 -   <https://github.com/linto-ai/whisper-timestamped>
+-   <https://github.com/HumeAI/hume-api-examples>
 -   <https://github.com/jianchang512/ChatTTS-ui>
 -   <https://github.com/nineninesix-ai/kani-tts>
 -   <https://github.com/eustlb/speech-to-speech>
@@ -2010,6 +2048,7 @@
 
 ## TOOLS: PROMPT ON WEB / SEARCH
 
+-   <https://github.com/KnockOutEZ/wigolo>
 -   <https://github.com/zaidmukaddam/scira>
 -   <https://github.com/MODSetter/SurfSense>
 -   <https://github.com/bytedance/deer-flow>

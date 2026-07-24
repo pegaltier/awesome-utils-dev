@@ -1267,6 +1267,7 @@
 -   <https://github.com/dylanebert/gsplat.js>
 -   <https://github.com/mikbry/awesome-webgpu>
 -   <https://github.com/icurtis1/thebrowserlab>
+-   <https://github.com/HarryStevens/geometric>
 -   <https://github.com/vasturiano/three-globe>
 -   <https://github.com/nudibranchrecords/hedron>
 -   <https://github.com/samalexander/three-csg-ts>

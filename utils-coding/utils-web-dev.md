@@ -79,6 +79,7 @@
 -   <https://www.patterns.dev/>
 -   <https://grids.obys.agency/>
 -   <https://component-party.dev/>
+-   <https://200ms.thenodebook.com/>
 -   <https://markodenic.com/html-tips/>
 -   <https://github.com/w3c/browser-specs>
 -   <https://github.com/modernweb-dev/web>
@@ -605,6 +606,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/h5bp/html5-boilerplate>
 -   <https://github.com/web-infra-dev/modern.js>
 -   <https://github.com/cbracco/html5-test-page>
+-   <https://github.com/Byline-CMS/bylinecms.dev>
 -   <https://github.com/sailscastshq/boring-stack>
 -   <https://github.com/jamesgeorge007/scaffold-static>
 -   <https://github.com/wwebdev/static-website-template>

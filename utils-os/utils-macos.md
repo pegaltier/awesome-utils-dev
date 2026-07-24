@@ -65,6 +65,7 @@
 
 -   <https://github.com/jdx/mise>
 -   <https://github.com/iina/iina>
+-   <https://github.com/Augani/dory>
 -   <https://github.com/lima-vm/lima>
 -   <https://github.com/p0deje/Maccy>
 -   <https://github.com/asdf-community>
@@ -72,7 +73,7 @@
 -   <https://github.com/dwarvesf/hidden>
 -   <https://github.com/leits/MeetingBar>
 -   <https://github.com/kando-menu/kando>
--    <https://github.com/josejuanqm/docky>
+-   <https://github.com/josejuanqm/docky>
 -   <https://github.com/rxhanson/Rectangle>
 -   <https://github.com/seemoo-lab/opendrop>
 -   <https://github.com/sickcodes/Docker-OSX>

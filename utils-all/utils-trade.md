@@ -942,6 +942,7 @@
 -   <https://github.com/afadil/wealthfolio>
 -   <https://github.com/0xDub/figgie-auto>
 -   <https://github.com/we-promise/sure>
+-   <https://github.com/NoFxAiOS/nofx>
 
 ### OSS: STRATEGY
 
@@ -1211,6 +1212,10 @@
 -   <https://github.com/JKorf/Mexc.Net>
 -   <https://github.com/Apress/testing-and-tuning-market-trading-systems>
 
+### OSS: JAVASCRIPT: TERMINAL
+-   <https://github.com/KoNananachan/Neuberg>
+-   <https://github.com/vincelwt/gloomberb>
+
 ### OSS: JAVASCRIPT: GENETIC
 
 -   <https://github.com/gekkowarez/gekkoga>
@@ -1232,9 +1237,10 @@
 -   <https://github.com/shixiongfei/hft.js>
 -   <https://github.com/fasenderos/nodejs-order-book>
 
-### OSS: JAVASCRIPT: QUOTES
+### OSS: JAVASCRIPT: QUOTES / FINANCIAL DATA 
 
 -   <https://github.com/endenwer/tradingview-ws>
+-   <https://github.com/Alinebm17/finance-api-tool>
 
 ### OSS: JAVASCRIPT: INDICATORS
 
@@ -1297,6 +1303,7 @@
 -   <https://github.com/fugle-dev/fugle-backtest-node>
 -   <https://github.com/excelsior-creative/edc-backtester>
 -   <https://github.com/Grademark/grademark-first-example>
+-   <https://github.com/Alinebm17/trade-backtesting-engine>
 -   <https://github.com/jean-michel-gonet/angular-backtest>
 -   <https://github.com/g-ulrich/electron-tradestation-backtester>
 -   <https://dev.to/onurcelik/backtesting-a-trading-strategy-with-javascript-2goj>
@@ -1324,6 +1331,7 @@
 -   <https://github.com/tradingview/lightweight-charts>
 -   <https://github.com/tpunt/lwc-plugin-shape-drawing>
 -   <https://github.com/AmirRezaiyan/Tradingview_mini>
+-   <https://github.com/stefanelloisaac/goro-charts>
 -   <https://github.com/flowsurface-rs/flowsurface>
 -   <https://github.com/crypt0inf0/openalgo-chart>
 -   <https://github.com/tradex-app/TradeX-chart>
@@ -1350,6 +1358,7 @@
 -   <https://github.com/valamidev/candlestick-convert> \*
 -   <https://github.com/NeaByteLab/Candle-Transform>
 -   <https://github.com/darklight9811/candlelit>
+-   <https://github.com/snowkidind/candleserv>
 -   <https://github.com/adiled/ohlc-resample>
 -   <https://github.com/ourarash/heikinashi>
 -   <https://github.com/cm45t3r/candlestick>
@@ -1474,7 +1483,6 @@
 -   <https://github.com/oluwayetty/numer.ai>
 -   <https://github.com/tripolskypetr/garch>
 -   <https://github.com/valamidev/TraderCore>
--   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/AI4Finance-Foundation>
 -   <https://github.com/virattt/ai-hedge-fund>
@@ -1484,6 +1492,7 @@
 -   <https://github.com/aaryansinha16/AI-trader>
 -   <https://github.com/google/tf-quant-finance>
 -   <https://github.com/sankeer28/stock-predictor>
+-   <https://github.com/JasonTeixeira/AlphaStream>
 -   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/chase-manning/ai-hedge-fund>
 -   <https://github.com/AI4Finance-Foundation/FinRL>

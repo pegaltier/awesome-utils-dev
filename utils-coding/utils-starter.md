@@ -59,6 +59,7 @@
 -   <https://github.com/coolerwind/react-ecommerce>
 -   <https://github.com/vuestorefront/storefront-ui>
 -   <https://github.com/yournextstore/yournextstore>
+-   <https://github.com/commercetools/commercetools-sdk-typescript>
 
 ## Social network
 
@@ -74,6 +75,7 @@
 -   <https://github.com/vas3k/TaxHacker>
 -   <https://github.com/twentyhq/twenty>
 -   <https://github.com/frappe/erpnext>
+-   <https://github.com/ArnasDon/wacrm>
 -   <https://github.com/frappe/hrms>
 -   <https://github.com/frappe/crm>
 

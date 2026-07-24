@@ -235,5 +235,6 @@ wellpaid.io
 ## SWISS
 
 -   <https://hirion.ch/>
+-   <https://seekme.io/en/>
 -   <https://swissdevjobs.ch>
 -   <https://www.getyourfreefast.ch/>

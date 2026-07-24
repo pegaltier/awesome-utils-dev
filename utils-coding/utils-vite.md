@@ -14,8 +14,9 @@
 -   <https://github.com/voidzero-dev/oxc-angular-compiler>
 
 ## VITEST
-
 -   <https://github.com/tinylibs/tinyspy>
+-   <https://github.com/sudokar/aws-sdk-vitest-mock>
+-   <https://github.com/eratio08/vitest-mock-extended>
 -   <https://github.com/vitest-tests/browser-examples>
 
 ## VITE+

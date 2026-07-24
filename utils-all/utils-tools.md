@@ -175,6 +175,7 @@
 
 ## OSS: MESSAGING BOT
 
+-   <https://github.com/ArnasDon/wacrm>
 -   <https://github.com/telegraf/telegraf>
 -   <https://github.com/rmyndharis/OpenWA>
 -   <https://github.com/Denver-sn/whatsapp-api>
@@ -308,6 +309,7 @@
 -   <https://github.com/Ihsan172/Vanced>
 -   <https://github.com/alexta69/metube>
 -   <https://github.com/CapSoftware/Cap>
+-   <https://github.com/AIEraDev/Clypra>
 -   <https://github.com/fonoster/goodtok>
 -   <https://github.com/iv-org/invidious>
 -   <https://github.com/tonhowtf/omniget>

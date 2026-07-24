@@ -38,9 +38,10 @@
 -   <https://github.com/neondatabase/examples>
 -   <https://github.com/TimoWilhelm/local-neon-http-proxy>
 
-## DB TOOLS / EXPLORER
+## DB TOOLS / EXPLORER / CLIENT
 
 -   <https://github.com/clidey/whodb>
+-   <https://github.com/QoreDB/QoreDB>
 -   <https://github.com/vrana/adminer>
 -   <https://github.com/drawdb-io/drawdb>
 -   <https://github.com/timestored/pulseui>
@@ -103,6 +104,7 @@
 -   <https://github.com/tursodatabase/turso>
 -   <https://github.com/russellromney/honker>
 -   <https://github.com/tursodatabase/libsql>
+-   <https://github.com/sqliteai/sqlite-vector>
 -   <https://github.com/benbjohnson/litestream>
 -   <https://github.com/phiresky/sql.js-httpvfs>
 

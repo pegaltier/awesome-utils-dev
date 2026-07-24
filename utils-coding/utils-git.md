@@ -48,6 +48,7 @@
 -   <https://juristr.com/blog/2019/04/productive-git-for-developers>
 -   <https://github.com/githubsatelliteworkshops/ci-cd-with-actions>
 -   <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
+-   <https://humanwhocodes.com/blog/2026/07/introduction-git-worktrees/>
 -   <https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/>
 
 ## EXPLORE
@@ -160,6 +161,7 @@
 -   <https://github.com/fountainhead/action-wait-for-check>
 -   <https://github.com/jaxxstorm/action-install-gh-release>
 -   <https://github.com/SanjulaGanepola/github-local-actions>
+-   <https://github.com/marketplace/actions/github-copilot-action>
 
 ## ACTIONS: EXT
 

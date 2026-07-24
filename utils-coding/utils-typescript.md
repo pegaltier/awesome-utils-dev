@@ -103,7 +103,6 @@
 -   <https://type-level-typescript.com/>
 -   <https://basarat.gitbook.io/typescript/>
 -   <https://github.com/bautistaaa/typehero>
--   <https://github.com/sindresorhus/type-fest>
 -   <https://github.com/gibbok/typescript-book>
 -   <https://github.com/basarat/typescript-book>
 -   <https://github.com/TheAlgorithms/TypeScript>
@@ -229,6 +228,12 @@
 -   <https://github.com/LeDDGroup/typescript-transform-paths>
 -   <https://github.com/arethetypeswrong/arethetypeswrong.github.io>
 
+## EXTENSION
+
+-   <https://github.com/unional/type-plus>
+-   <https://github.com/sindresorhus/type-fest>
+-   <https://github.com/ts-essentials/ts-essentials>
+
 ## UTILS
 
 -   <https://github.com/antfu/utils>
@@ -265,7 +270,6 @@
 -   <https://github.com/kreuzerk/import-conductor>
 -   <https://github.com/ostrowr/ts-json-validator>
 -   <https://github.com/open-draft/event-contract>
--   <https://github.com/ts-essentials/ts-essentials>
 -   <https://github.com/jonaskello/tslint-immutable>
 -   <https://github.com/JoshuaKGoldberg/ts-api-utils>
 -   <https://github.com/yosietserga/ts-scripts-tools>
@@ -279,9 +283,6 @@
 -   <https://github.com/madou/typescript-transformer-handbook>
 -   <https://github.com/ggascoigne/prettier-plugin-import-sort>
 
-## LIB: EXTENSION
-
--   <https://github.com/unional/type-plus>
 
 ## LIB: SERVER
 

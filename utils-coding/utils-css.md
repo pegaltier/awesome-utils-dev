@@ -341,6 +341,7 @@ CSS parent selector: li:has(> a.active) { /_ styles to apply to the li tag _/ }
 
 -   inline: Displays an element as an inline element (like <span>). Any height and width properties will have no effect.
 -   block: Displays an element as a block element (like <p>). It starts on a new line, and takes up the whole width
+-   contents: Causes an element's children to appear as if they were direct children of the element's parent, ignoring the element itself.
 -   flex: Displays an element as a block-level flex container
 -   grid:	Displays an element as a block-level grid container
 -   table: Let the element behave like a <table> element

@@ -312,6 +312,7 @@
 -   <https://github.com/caprover/caprover>
 -   <https://github.com/mbecker20/komodo>
 -   <https://github.com/Dokploy/dokploy>
+-   <https://github.com/oblien/openship>
 -   <https://github.com/basecamp/kamal>
 -   <https://github.com/HeyPuter/puter>
 -   <https://github.com/dokku/dokku>

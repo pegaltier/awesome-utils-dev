@@ -43,6 +43,8 @@
 -   <https://github.com/cypress-io/cypress>
 -   <https://github.com/SeleniumHQ/selenium>
 -   <https://github.com/microsoft/playwright>
+-   <https://github.com/CloakHQ/CloakBrowser>
+-   <https://github.com/Skyvern-AI/rustwright>
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/codeceptjs/CodeceptJS>
 -   <https://github.com/webdriverio/webdriverio>

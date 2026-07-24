@@ -34,6 +34,7 @@
 -   <https://github.com/cmderdev/cmder>
 -   <https://github.com/kando-menu/kando>
 -   <https://github.com/microsoft/PowerToys>
+-   <https://github.com/ScoopInstaller/Scoop>
 -   <https://github.com/rocksdanister/lively>
 -   <https://github.com/memstechtips/Winhance>
 -   <https://github.com/Awesome-Windows/Awesome>

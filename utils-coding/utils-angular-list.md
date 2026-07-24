@@ -1987,6 +1987,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/angular-experts-io/ng-parsel>
 -   <https://github.com/alfredoperez/ngx-dev-toolbar>
 -   <https://github.com/nitedani/vite-plugin-angular>
+-   <https://github.com/LayZeeDK/angular-typechecker>
 -   <https://github.com/angular-experts-io/terminal>
 -   <https://github.com/irustm/ng-template-parser>
 -   <https://github.com/angular/ngcc-validation>
@@ -3109,6 +3110,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 -   <https://github.com/ng-matero/nx-starter>
 -   <https://github.com/larscom/ng-chrome-extension>
+-   <https://github.com/AngularKit/angular-scaffold>
 -   <https://github.com/realworld-angular/realworld-angular>
 -   <https://github.com/Tinkoff/angular-open-source-starter>
 -   <https://github.com/creativetimofficial/material-dashboard>
