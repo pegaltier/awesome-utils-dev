@@ -4,6 +4,10 @@
 
 -   <https://github.com/mgechev/angularjs-in-patterns>
 
+## LIBS
+
+-   <https://github.com/a8m/angular-filter>
+
 ## FILTER
 
 -   <https://www.w3schools.com/angularjs/ng_filter_filter.asp>

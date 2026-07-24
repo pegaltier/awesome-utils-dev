@@ -293,6 +293,7 @@
 -   <https://thariqs.github.io/html-effectiveness/#exploration>
 -   <https://substack.com/@opinionai/note/c-247713880?r=krtz>
 -   <https://www.kissmyfrogs.com/stephane-mallard-blu-age/>
+-   <https://github.com/anthropics/html-effectiveness>
 -   <https://metatrendreport.com/humanoid-robots-v>
 -   <https://github.com/brexhq/prompt-engineering>
 -   <https://every.to/guides/agent-native>

@@ -53,6 +53,7 @@
 -   <https://github.com/tryandromeda/andromeda>
 -   <https://github.com/Sharktheone/yavashark>
 -   <https://github.com/Aleph-Alpha/ts-rs>
+-   <https://github.com/cometkim/rkyv-js>
 -   <https://github.com/napi-rs/napi-rs>
 -   <https://github.com/alshdavid/ion>
 

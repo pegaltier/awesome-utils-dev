@@ -214,6 +214,7 @@
 -   <https://github.com/jordihales/hypercolor>
 -   <https://github.com/origin-space/originui>
 -   <https://github.com/tailwindlabs/headlessui>
+-   <https://github.com/hyoban/tailwindcss-icons>
 -   <https://github.com/romboHQ/tailwindcss-motion>
 -   <https://github.com/Devzstudio/tailwind_to_css>
 -   <https://github.com/ibelick/background-snippets>
