@@ -83,11 +83,11 @@
 -   <https://ethplorer.io>
 -   <https://chainlist.wtf>
 -   <https://chainlist.org>
--   <https://www.gasnow.org>
+-   <https://openchainbench.com/benchmarks/gas-estimation>
 -   <https://www.monobase.xyz>
 -   <https://ethplorer.io/top>
 -   <https://www.etherchain.org>
--   <https://ethgasstation.info>
+-   <https://gas.blocknative.com>
 -   <https://etherscan.io/gastracker>
 
 ## ETH NEWS
