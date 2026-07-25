@@ -768,6 +768,7 @@
 
 -   <https://github.com/AgentEnder/markdown-factory>
 -   <https://github.com/wooorm/markdown-tm-language>
+-   <https://github.com/Simon-He95/markstream-vue>
 -   <https://github.com/Myriad-Dreamin/typst.ts>
 -   <https://github.com/philschmid/clipper.js>
 -   <https://github.com/micromark/micromark>
