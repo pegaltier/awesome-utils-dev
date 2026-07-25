@@ -349,8 +349,8 @@
 
 ## LIB: AI
 
--   <https://github.com/run-llama/LlamaIndexTS>
 -   <https://github.com/mastra-ai/mastra>
+-   <https://github.com/run-llama/LlamaIndexTS>
 -   <https://github.com/Simon-He95/markstream-vue>
 
 ## LIB: FUNCTIONNAL PROGRAMMING

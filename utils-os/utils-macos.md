@@ -69,6 +69,7 @@
 -   <https://github.com/lima-vm/lima>
 -   <https://github.com/p0deje/Maccy>
 -   <https://github.com/asdf-community>
+-   <https://github.com/aqua5230/usage>
 -   <https://github.com/abiosoft/colima>
 -   <https://github.com/dwarvesf/hidden>
 -   <https://github.com/leits/MeetingBar>

@@ -805,7 +805,6 @@
 -   <https://github.com/anthropics/financial-services-plugins>
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
--   <https://github.com/aqua5230/usage>
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
