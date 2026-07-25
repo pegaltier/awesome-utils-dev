@@ -1709,7 +1709,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://nx.dev/previous/angular/structure/buildable-and-publishable-libraries>
 -   <https://tech.trellis.org/Coverting-Legacy-Codebase-to-Nx-Incremental-Builds/>
 
-## ECOSYSTEM: AI
+## ECOSYSTEM: AI / ARTIFICIAL INTELLIGENCE
 
 -   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/alfredoperez/angular-best-practices>
@@ -2590,6 +2590,10 @@ Analyze and optimize the performance of your app
 -   <https://github.com/ngneat/dag>
 -   <https://github.com/omnedia> many
 
+## ECOSYSTEM: LIB: COMPONENT: ARTIFICIAL INTELLIGENCE
+
+-   <https://github.com/AhsanAyaz/ngx-quill-ink>
+
 ## ECOSYSTEM: LIB: COMPONENT: COLOR
 
 -   <https://github.com/mr-samani/ngx-input-color>
@@ -3172,6 +3176,10 @@ Find here useful tips for managing your continious integration and delivery proc
 -   <https://github.com/astritshuli/UFO-Animation-3D-Angular-19-ThreeJS>
 -   <https://github.com/OneSignalDevelopers/OneSignal-Angular-NPM-Sample>
 -   <https://github.com/angular-experts-io/angular-enterprise-architecture-example>
+
+## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: ARTIFICIAL INTELLIGENCE
+
+-   <https://github.com/AhsanAyaz/enchanted-notebook>
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 

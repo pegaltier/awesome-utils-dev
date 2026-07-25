@@ -531,6 +531,7 @@
 -   <https://www.sqltranslate.app/>
 -   <https://isitagentready.com/>
 -   <https://www.verticalstudio.ai/>
+-   <https://claudemarketplaces.com/>
 -   <https://www.literallyanything.io/>
 -   <http://playground.tensorflow.org/>
 -   <https://github.com/clmnin/summarize.site>
@@ -2091,8 +2092,19 @@
 -   <https://github.com/partykit/partykit>
 -   <https://github.com/a16z-infra/ai-town>
 -   <https://github.com/PufferAI/PufferLib>
+-   <https://github.com/fagemx/gstack-game>
 -   <https://github.com/tas1337/GameEngine>
 -   <https://github.com/leigest519/OpenGame>
+-   <https://github.com/nicmarti/skills-weaver>
+-   <https://github.com/GaZmagik/text-adventure-games>
+-   <https://github.com/Sstobo/Claude-Code-Game-Master>
+-   <https://github.com/w-zeyu/Claude-Code-Game-Master>
+-   <https://github.com/lappemic/awesome-ai-built-games>
+-   <https://github.com/levy-street/world-of-claudecraft>
+-   <https://github.com/Anil-matcha/awesome-claude-fable-5>
+-   <https://github.com/donchitos/claude-code-game-studios>
+-   <https://github.com/HermeticOrmus/claude-code-game-development>
+
 
 ## LIB: SCIENCE
 

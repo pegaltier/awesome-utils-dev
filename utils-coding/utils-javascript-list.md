@@ -644,6 +644,7 @@
 ## LIB: DI / DEPENDENCY INJECTION
 
 -   <https://tsh.io/blog/dependency-injection-in-node-js/>
+-   <https://github.com/zazoomauro/node-dependency-injection>
 -   <https://github.com/thiagobustamante/typescript-ioc>
 -   <https://github.com/jeffijoe/awilix-router-core>
 -   <https://github.com/jeffijoe/awilix-express>

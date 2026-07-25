@@ -70,6 +70,7 @@
 -   <https://github.com/nordeck/matrix-meetings>
 -   <https://github.com/browser-network/database>
 -   <https://github.com/simplex-chat/simplex-chat>
+-   <https://github.com/permissionlesstech/bitchat>
 -   <https://github.com/earthstar-project/earthstar>
 -   <https://github.com/nodejs-mobile/nodejs-mobile>
 -   <https://gitlab.com/here_forawhile/terminalphone>
