@@ -12,10 +12,10 @@ function getMarkdownFiles(dir) {
   fs.readdirSync(dir).forEach(file => {
     const fullPath = path.join(dir, file);
     const stat = fs.statSync(fullPath);
-
-    if (stat && stat.isDirectory()) {
+    const isInNodeModules = fullPath.startsWith('node_modules');
+    if (stat && stat.isDirectory() && !isInNodeModules) {
       results = results.concat(getMarkdownFiles(fullPath));
-    } else if (file.endsWith('.md')) {
+    } else if (file.endsWith('.md') && !isInNodeModules) {
       results.push(fullPath);
     }
   });
