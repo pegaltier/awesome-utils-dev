@@ -136,7 +136,7 @@
 
 -   [ECOSYSTEM: INCREMENTAL](#ecosystem-incremental)
 
--   [ECOSYSTEM: AI](#ecosystem-ai)
+-   [ECOSYSTEM: AI / ARTIFICIAL INTELLIGENCE](#ecosystem-ai--artificial-intelligence)
 
 -   [ECOSYSTEM: SEEDS](#ecosystem-seeds)
 
@@ -199,6 +199,8 @@
 -   [ECOSYSTEM: LIB: COMPONENT: NOCODE](#ecosystem-lib-component-nocode)
 
 -   [ECOSYSTEM: LIB: COMPONENT: ALL](#ecosystem-lib-component-all)
+
+-   [ECOSYSTEM: LIB: COMPONENT: ARTIFICIAL INTELLIGENCE](#ecosystem-lib-component-artificial-intelligence)
 
 -   [ECOSYSTEM: LIB: COMPONENT: COLOR](#ecosystem-lib-component-color)
 
@@ -277,6 +279,8 @@
 -   [ECOSYSTEM: DEMO: STARTER](#ecosystem-demo-starter)
 
 -   [ECOSYSTEM: DEMO: SOURCES & EXAMPLES: FEAT](#ecosystem-demo-sources--examples-feat)
+
+-   [ECOSYSTEM: DEMO: SOURCES & EXAMPLES: ARTIFICIAL INTELLIGENCE](#ecosystem-demo-sources--examples-artificial-intelligence)
 
 -   [ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR](#ecosystem-demo-sources--examples-ssr)
 

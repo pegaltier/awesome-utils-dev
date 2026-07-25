@@ -101,6 +101,7 @@
 -   <https://lucamezzalira.medium.com/the-micro-frontend-canvas-a-practical-tool-for-better-boundaries-99da1a7b858d>
 
 ## ECOSYSTEM: MICROFRONTEND: VIDEOS
+
 -   <https://www.youtube.com/watch?v=-ThsrA8hRLc> AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 -   <https://www.youtube.com/watch?v=tsIZjUAtF1U> Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
 -   <https://www.youtube.com/watch?v=BxE01ZSshiQ> smapiot - Micro Frontends Conference 2023

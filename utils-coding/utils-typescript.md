@@ -18,9 +18,9 @@
 
 -   [DEVTOOLS](#devtools)
 
--   [UTILS](#utils)
+-   [EXTENSION](#extension)
 
--   [LIB: EXTENSION](#lib-extension)
+-   [UTILS](#utils)
 
 -   [LIB: SERVER](#lib-server)
 
@@ -283,7 +283,6 @@
 -   <https://github.com/mattpocock/total-typescript-helpers>
 -   <https://github.com/madou/typescript-transformer-handbook>
 -   <https://github.com/ggascoigne/prettier-plugin-import-sort>
-
 
 ## LIB: SERVER
 

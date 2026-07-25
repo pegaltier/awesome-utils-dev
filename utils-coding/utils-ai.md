@@ -22,6 +22,8 @@
 
 -   [B2B](#b2b)
 
+-   [HUMAN](#human)
+
 -   [CHANNEL](#channel)
 
 -   [AWESOME](#awesome)
@@ -56,6 +58,8 @@
 
 -   [TOOLS: CODING: OSS](#tools-coding-oss)
 
+-   [TOOLS: CODING: OSS HARNESS](#tools-coding-oss-harness)
+
 -   [TOOLS: CODING: OSS DEBUG](#tools-coding-oss-debug)
 
 -   [TOOLS: CODING: OSS BACKEND](#tools-coding-oss-backend)
@@ -65,6 +69,8 @@
 -   [TOOLS: CODING: OSS AGNOSTIC](#tools-coding-oss-agnostic)
 
 -   [TOOLS: CODING: OSS CURSOR](#tools-coding-oss-cursor)
+
+-   [TOOLS: CODING: OSS CODEX](#tools-coding-oss-codex)
 
 -   [TOOLS: CODING: OSS CLAUDE](#tools-coding-oss-claude)
 
@@ -79,6 +85,10 @@
 -   [TOOLS: CODING: OSS CODE REVIEW](#tools-coding-oss-code-review)
 
 -   [TOOLS: CODING: OSS AUTO](#tools-coding-oss-auto)
+
+-   [TOOLS: CODING: OSS HOST](#tools-coding-oss-host)
+
+-   [TOOLS: CODING: AUTOMATE](#tools-coding-automate)
 
 -   [TOOLS: NOCODING](#tools-nocoding)
 
@@ -136,6 +146,8 @@
 
 -   [TOOLS: OFFLINE / LOCAL](#tools-offline--local)
 
+-   [TOOLS: BROWSER / LOCAL](#tools-browser--local)
+
 -   [TOOLS: ASSISTANT / PHYSICAL](#tools-assistant--physical)
 
 -   [TOOLS: ASSISTANT / COWORK SELF HOST](#tools-assistant--cowork-self-host)
@@ -178,6 +190,8 @@
 
 -   [LIB: CRAWLER / SCRAPER / DATA PARSER](#lib-crawler--scraper--data-parser)
 
+-   [LIB: LOOP / AUTONOMOUS / CONTINUOUS AI](#lib-loop--autonomous--continuous-ai)
+
 -   [LIB: CONTENT](#lib-content)
 
 -   [LIB: CONTEXT](#lib-context)
@@ -202,11 +216,11 @@
 
 -   [LIB: TLM / TIMESERIES](#lib-tlm--timeseries)
 
--   [LIB: FREE LLM](#lib-free-llm)
+-   [LIB: FREE / OPEN LLM](#lib-free--open-llm)
 
 -   [LIB: LLM](#lib-llm)
 
--   [LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR](#lib-llm-telemetry--observability--monitor)
+-   [LIB: LLM: TELEMETRY / OBSERVABILITY / MONITOR / MANAGEMENT](#lib-llm-telemetry--observability--monitor--management)
 
 -   [LIB: DEEP LEARNING / NEURAL](#lib-deep-learning--neural)
 
@@ -375,6 +389,7 @@
 -   <https://worldautomation.fr/>
 
 ## HUMAN
+
 -   <https://rentahuman.ai/>
 -   <https://hirehuman.ai/>
 -   <https://hire-a-human.ai/>
@@ -768,6 +783,7 @@
 -   <https://github.com/eastlondoner/cursor-tools>
 
 ## TOOLS: CODING: OSS CODEX
+
 -   <https://github.com/Ducksss/codex-profiles>
 
 ## TOOLS: CODING: OSS CLAUDE
@@ -912,8 +928,8 @@
 -   <https://github.com/ruvnet/ruflo>
 
 ## TOOLS: CODING: OSS HOST
--   <http://github.com/BennyKok/lfg>
 
+-   <http://github.com/BennyKok/lfg>
 
 ## TOOLS: CODING: AUTOMATE
 
@@ -2107,7 +2123,6 @@
 -   <https://github.com/Anil-matcha/awesome-claude-fable-5>
 -   <https://github.com/donchitos/claude-code-game-studios>
 -   <https://github.com/HermeticOrmus/claude-code-game-development>
-
 
 ## LIB: SCIENCE
 

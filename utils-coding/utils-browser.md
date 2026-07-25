@@ -10,6 +10,7 @@
 -   <https://developer.chrome.com/docs/devtools/evaluate-performance/reference/>
 
 ## Open
+
 -   <https://github.com/lucid-softworks/browser>
 
 ## Make

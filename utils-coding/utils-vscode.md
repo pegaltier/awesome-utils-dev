@@ -10,6 +10,8 @@
 
 -   [EXTENSIONS: LIST](#extensions-list)
 
+-   [EXTENSIONS: MINE](#extensions-mine)
+
 -   [EXTENSIONS: TOP](#extensions-top)
 
 -   [EXTENSIONS: OTHERS](#extensions-others)
@@ -54,6 +56,7 @@
 -   <https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f>
 
 ## EXTENSIONS: MINE
+
 -   <https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions>
 -   <https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff>
 -   <https://marketplace.visualstudio.com/items?itemName=humao.rest-client>

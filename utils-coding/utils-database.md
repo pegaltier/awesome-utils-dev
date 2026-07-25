@@ -5,7 +5,7 @@
 -   [DBAS](#dbas)
 -   [TUTOS / LEARN](#tutos--learn)
 -   [EXAMPLES](#examples)
--   [DB TOOLS / EXPLORER](#db-tools--explorer)
+-   [DB TOOLS / EXPLORER / CLIENT](#db-tools--explorer--client)
 -   [DB SYSTEM](#db-system)
 -   [DB TIMESERIES](#db-timeseries)
 -   [DB UTILS](#db-utils)

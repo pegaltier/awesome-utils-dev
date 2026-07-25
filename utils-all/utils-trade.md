@@ -109,11 +109,12 @@
 
 -   [OSS: OTHERS](#oss-others)
 
+    -   [OSS: JAVASCRIPT: TERMINAL](#oss-javascript-terminal)
     -   [OSS: JAVASCRIPT: GENETIC](#oss-javascript-genetic)
     -   [OSS: JAVASCRIPT: FOREX](#oss-javascript-forex)
     -   [OSS: JAVASCRIPT: STOCKS](#oss-javascript-stocks)
     -   [OSS: JAVASCRIPT: HFT](#oss-javascript-hft)
-    -   [OSS: JAVASCRIPT: QUOTES](#oss-javascript-quotes)
+    -   [OSS: JAVASCRIPT: QUOTES / FINANCIAL DATA](#oss-javascript-quotes--financial-data)
     -   [OSS: JAVASCRIPT: INDICATORS](#oss-javascript-indicators)
     -   [OSS: JAVASCRIPT: BACKTEST & TRADES](#oss-javascript-backtest--trades)
     -   [OSS: JAVASCRIPT: TRADES ONLY](#oss-javascript-trades-only)
@@ -1213,6 +1214,7 @@
 -   <https://github.com/Apress/testing-and-tuning-market-trading-systems>
 
 ### OSS: JAVASCRIPT: TERMINAL
+
 -   <https://github.com/KoNananachan/Neuberg>
 -   <https://github.com/vincelwt/gloomberb>
 
@@ -1237,7 +1239,7 @@
 -   <https://github.com/shixiongfei/hft.js>
 -   <https://github.com/fasenderos/nodejs-order-book>
 
-### OSS: JAVASCRIPT: QUOTES / FINANCIAL DATA 
+### OSS: JAVASCRIPT: QUOTES / FINANCIAL DATA
 
 -   <https://github.com/endenwer/tradingview-ws>
 -   <https://github.com/Alinebm17/finance-api-tool>

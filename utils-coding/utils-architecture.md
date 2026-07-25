@@ -5,6 +5,7 @@
 -   [API MANAGEMENT](#api-management)
 -   [API NORMALIZATION](#api-normalization)
 -   [OSS](#oss)
+-   [TOOLS](#tools)
 -   [DDD / CQRS](#ddd--cqrs)
 -   [BOOKS](#books)
 -   [ARTICLES](#articles)
