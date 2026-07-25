@@ -111,7 +111,9 @@
 -   <https://oscarleo.com/google-trends>
 -   <https://metatags.io/font-generator>
 -   <https://tinytools-smoky.vercel.app/>
+-   <https://mini-tools.uk/>
 -   <https://nutilz.com/>
+-   <https://jsonic.io>
 
 ## OSS: ALL
 

@@ -142,10 +142,10 @@
 
 -   <https://tsdocs.dev>
 -   <http://json2ts.com>
--   <https://jsonic.io/json-to-ts>
 -   <https://tsdiagram.com>
 -   <https://tsconfig.guide>
 -   <https://ts-ast-viewer.com>
+-   <https://jsonic.io/json-to-ts>
 
 ## USEFUL
 

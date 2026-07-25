@@ -465,7 +465,6 @@
 
 ## TOOLS: PROMPT EXTRA
 
--   <https://mini-tools.uk/promo-prompt.html>
 -   <https://markdown.new/>
 -   <https://summarize.sh/>
 
@@ -767,6 +766,9 @@
 -   <https://github.com/getcursor/cursor>
 -   <https://github.com/yeongpin/cursor-free-vip>
 -   <https://github.com/eastlondoner/cursor-tools>
+
+## TOOLS: CODING: OSS CODEX
+-   <https://github.com/Ducksss/codex-profiles>
 
 ## TOOLS: CODING: OSS CLAUDE
 
