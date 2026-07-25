@@ -175,6 +175,7 @@
 -   <https://github.com/edoardottt/awesome-hacker-search-engines>
 -   <https://github.com/hkithub-official/no-plaintext-passwords>
 -   <https://github.com/decalage2/awesome-security-hardening>
+-   <https://github.com/poszothebuilder/nextjs-security-headers-starter>
 -   <https://github.com/Authenticator-Extension/Authenticator>
 -   <https://github.com/intigriti/misconfig-mapper>
 -   <https://github.com/productdevbook/port-killer>
