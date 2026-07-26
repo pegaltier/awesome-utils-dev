@@ -757,6 +757,7 @@
 -   <https://github.com/zanwei/design-dna>
 -   <https://github.com/pbakaus/impeccable>
 -   <https://github.com/nexu-io/open-design>
+-   <https://github.com/BuilderIO/figma-html>
 -   <https://github.com/agent0ai/space-agent>
 -   <https://github.com/Leonxlnx/taste-skill>
 -   <https://github.com/CopilotKit/CopilotKit>
@@ -1443,6 +1444,7 @@
 
 -   <https://github.com/capsulerun/bash>
 -   <https://github.com/cloudflare/agents>
+-   <https://github.com/BuilderIO/ai-shell>
 -   <https://github.com/millionco/cli-to-js>
 -   <https://github.com/vercel-labs/opensrc>
 -   <https://github.com/vercel-labs/dev3000>

@@ -1476,6 +1476,7 @@
 -   <https://github.com/CopilotKit/CopilotKit>
 -   <https://github.com/foray1010/didyoumean2>
 -   <https://github.com/danny-avila/LibreChat>
+-   <https://github.com/BuilderIO/agent-native>
 -   <https://github.com/xenova/transformers.js>
 -   <https://github.com/langchain-ai/langgraph>
 -   <https://github.com/getsentry/vitest-evals>
