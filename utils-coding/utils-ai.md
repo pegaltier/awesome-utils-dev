@@ -673,6 +673,7 @@
 -   <https://github.com/aaif-goose/goose>
 -   <https://github.com/appdotbuild/agent>
 -   <https://github.com/yamadashy/repomix>
+-   <https://github.com/Avazbek22/DevProjex>
 -   <https://github.com/e2b-dev/fragments>
 -   <https://github.com/Nutlope/aicommits>
 -   <https://github.com/cursor/agent-trace>
