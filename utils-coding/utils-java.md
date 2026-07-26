@@ -226,6 +226,7 @@
 
 ## LIBS: AI
 
+-   <https://github.com/embabel/embabel-agent>
 -   <https://github.com/alibaba/spring-ai-alibaba>
 
 ## BASICS

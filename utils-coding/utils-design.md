@@ -91,6 +91,10 @@
 -   <https://github.com/CoreyGinnivan/system-uicons>
 -   <https://github.com/lucide-icons/lucide>
 
+## LOGOS
+
+-   <https://www.logo-creator.io/>
+
 ## WEBDESIGN
 
 -   <https://niice.co>

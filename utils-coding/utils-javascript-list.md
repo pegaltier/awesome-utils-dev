@@ -324,12 +324,14 @@
 ## FRAMEWORK: FRONTEND
 
 -   <https://github.com/electron-userland/electron-builder>
+-   <https://github.com/HibiscusConsulting/nectar-lang>
 -   <https://github.com/TinkoffCreditSystems/tramvai>
 -   <https://github.com/rough-stuff/rough-notation>
 -   <https://github.com/livestorejs/livestore>
 -   <https://github.com/bigskysoftware/htmx>
 -   <https://github.com/smallbets/userbase>
 -   <https://github.com/LavaMoat/LavaMoat>
+-   <https://github.com/stone-foundation>
 -   <https://github.com/cyclejs/cyclejs>
 -   <https://github.com/remix-run/remix>
 -   <https://github.com/vasanthv/ahey>

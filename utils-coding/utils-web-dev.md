@@ -690,6 +690,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/benjamminf/warpjs>
 -   <https://github.com/qrohlf/trianglify>
 -   <https://github.com/schmelczer/sdf-2d>
+-   <https://github.com/DavidHDev/canvas-ui>
 -   <https://github.com/Domenicobrz/Lumen-2D>
 -   <https://github.com/sparkbox/bouncy-ball>
 -   <https://github.com/davidkpiano/flipping>

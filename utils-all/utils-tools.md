@@ -275,8 +275,9 @@
 -   <https://github.com/anti-work/helper>
 -   <https://github.com/abhinavxd/libredesk>
 
-# OSS: SLIDE / DECK
+# OSS: SLIDE / DECK / POWERPOINT
 
+-   <https://github.com/nyblnet/bento>
 -   <https://github.com/slidevjs/slidev>
 -   <https://github.com/marp-team/marpit>
 

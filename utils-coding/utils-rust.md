@@ -80,6 +80,7 @@
 -   <https://github.com/cunarist/rinf>
 -   <https://github.com/tokio-rs/axum>
 -   <https://github.com/trailbaseio/trailbase>
+-   <https://github.com/HibiscusConsulting/nectar-lang>
 
 ## LIB: API
 

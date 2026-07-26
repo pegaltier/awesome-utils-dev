@@ -211,6 +211,7 @@
 -   <https://github.com/joaompneves/tsviz>
 -   <https://github.com/cevek/ttypescript>
 -   <https://github.com/johnlindquist/kit>
+-   <https://github.com/chenglou/freerange>
 -   <https://github.com/DanielXMoore/Civet>
 -   <https://github.com/microsoft/rushstack>
 -   <https://github.com/ranyitz/code-migrate>

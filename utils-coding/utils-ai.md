@@ -336,6 +336,7 @@
 -   <https://livebench.ai/>
 -   <https://www.tbench.ai/>
 -   <https://www.swebench.com/>
+-   <https://www.woaibench.ai/>
 -   <https://www.skillsbench.ai/>
 -   <https://epoch.ai/benchmarks>
 -   <https://artificialanalysis.ai/>
@@ -555,11 +556,15 @@
 
 -   <https://github.com/diegosouzapw/OmniRoute>
 -   <https://github.com/anomalyco/models.dev>
+-   <https://github.com/Portkey-AI/gateway>
 -   <https://github.com/mnfst/manifest>
 -   <https://vercel.com/ai-gateway>
 -   <https://www.together.ai/>
+-   <https://www.requesty.ai/>
+-   <https://concentrate.ai/>
 -   <https://huggingface.co/>
 -   <https://openrouter.ai/>
+-   <https://portkey.ai/>
 -   <https://models.dev/>
 -   <https://muapi.ai/>
 
@@ -1122,13 +1127,6 @@
 -   <https://github.com/TauricResearch/TradingAgents>
 -   <https://github.com/hackingthemarkets/ai-hedge-fund>
 -   <https://github.com/tradingstrategy-ai/trading-strategy>
-
-## TOOLS: GATEWAY
-
--   <https://portkey.ai/>
--   <https://openrouter.ai/>
--   <https://www.requesty.ai/>
--   <https://github.com/Portkey-AI/gateway>
 
 ## TOOLS: VOICE / SPEECH
 
@@ -1960,6 +1958,7 @@
 -   <https://github.com/AiuniAI/Unique3D>
 -   <https://github.com/Robbyant/lingbot-map>
 -   <https://github.com/ArthurBrussee/brush>
+-   <https://github.com/img2threejs/img2threejs>
 
 ## LIB: IMAGE / DIFFUSION / DLM
 
@@ -1977,6 +1976,7 @@
 -   <https://github.com/gradio-app/gradio>
 -   <https://github.com/lllyasviel/Fooocus>
 -   <https://github.com/invoke-ai/InvokeAI>
+-   <https://github.com/Nutlope/logocreator>
 -   <https://github.com/Zeqiang-Lai/DragGAN>
 -   <https://github.com/joanrod/star-vector>
 -   <https://github.com/Nutlope/logocreator>
@@ -2088,6 +2088,7 @@
 -   <https://github.com/Einsia/Browser-BC>
 -   <https://github.com/skyvern-ai/skyvern>
 -   <https://github.com/alibaba/page-agent>
+-   <https://github.com/citrolabs/ego-lite>
 -   <https://github.com/firecrawl/web-agent>
 -   <https://github.com/lightpanda-io/browser>
 -   <https://github.com/browserbase/stagehand>

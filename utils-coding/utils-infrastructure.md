@@ -311,6 +311,7 @@
 -   <https://github.com/zane-ops/zane-ops>
 -   <https://github.com/caprover/caprover>
 -   <https://github.com/mbecker20/komodo>
+-   <https://github.com/ovexro/dockpanel>
 -   <https://github.com/Dokploy/dokploy>
 -   <https://github.com/oblien/openship>
 -   <https://github.com/basecamp/kamal>

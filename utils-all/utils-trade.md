@@ -1287,6 +1287,7 @@
 -   <https://github.com/ghalex/zapcli>
 -   <https://github.com/Jaiminp007/finny>
 -   <https://github.com/s-stolz/algotrader>
+-   <https://github.com/tradejs-dev/tradejs>
 -   <https://github.com/ocignis/ocignis-bot>
 -   <https://github.com/yuta-97/auto-trader>
 -   <https://github.com/quantform/quantform>

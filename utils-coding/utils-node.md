@@ -341,6 +341,7 @@
 
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/fallow-rs/fallow>
+-   <https://github.com/chenglou/freerange>
 -   <https://github.com/LukasNiessen/ArchUnitTS>
 
 ## UTILS: SECURITY
@@ -383,7 +384,6 @@
 -   <https://github.com/privatenumber/tasuku>
 -   <https://github.com/EvanZhouDev/donut-js>
 -   <https://github.com/julien-R44/hot-hook>
--   <https://github.com/sindresorhus/execa>
 -   <https://github.com/folke/ultra-runner>
 -   <https://github.com/evanwashere/mitata>
 -   <https://github.com/node-escpos/driver>
@@ -484,13 +484,14 @@
 -   <https://github.com/xdenser/node-struct>
 -   <https://github.com/lostfictions/znv>
 
-## LIBS: WORKER MULTI THREAD
+## LIBS: WORKER MULTI THREAD / PROCESS / EXECUTION
 
 -   <https://github.com/breejs/bree>
 -   <https://github.com/jofpin/turbit>
 -   <https://github.com/microsoft/napajs>
 -   <https://github.com/piscinajs/piscina>
 -   <https://github.com/tinylibs/tinypool>
+-   <https://github.com/sindresorhus/execa>
 -   <https://github.com/bikeshaving/shovel>
 -   <https://github.com/mcollina/everysync>
 -   <https://github.com/wendelmax/tasklets>

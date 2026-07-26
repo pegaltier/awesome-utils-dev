@@ -188,6 +188,7 @@
 -   <https://github.com/twobin/react-lazyload>
 -   <https://github.com/zoontek/react-chicane>
 -   <https://github.com/tremorlabs/tremor-raw>
+-   <https://github.com/chenglou/react-motion>
 -   <https://github.com/unleashit/npm-library>
 -   <https://github.com/mmarinovic/tailwindsql>
 -   <https://github.com/paypal/react-paypal-js>
