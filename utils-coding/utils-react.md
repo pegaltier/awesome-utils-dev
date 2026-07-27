@@ -175,6 +175,7 @@
 -   <https://github.com/reactjs/react-tabs>
 -   <https://github.com/BuilderIO/jsx-lite>
 -   <https://github.com/tajo/react-movable>
+-   <https://github.com/AnmolSaini16/mapcn>
 -   <https://github.com/rpearce/image-zoom>
 -   <https://github.com/jaredpalmer/formik>
 -   <https://github.com/kitze/react-hanger>
@@ -284,6 +285,7 @@
 -   <https://github.com/ZEISS/precise-ui>
 -   <https://github.com/facebook/stylex>
 -   <https://github.com/ariakit/ariakit>
+-   <https://github.com/facebook/astryx>
 -   <https://github.com/WTTJ/welcome-ui>
 -   <https://github.com/grommet/grommet>
 -   <https://github.com/rebassjs/rebass>

@@ -578,6 +578,7 @@
 -   <https://github.com/adzejs/adze>
 -   <https://github.com/muze-nl/jaqt>
 -   <https://github.com/SerkanSipahi/app-decorators>
+-   <https://github.com/ibrahimcesar/category-theory-for-the-javascript-typescript-developers>
 
 ## LIB: ENV
 
@@ -677,6 +678,7 @@
 -   <https://github.com/vercel/ms>
 -   <https://github.com/iamkun/dayjs>
 -   <https://github.com/wanasit/chrono>
+-   <https://github.com/deathg0d/liepoch>
 -   <https://github.com/hustcc/timeago.js/>
 -   <https://github.com/date-fns/date-fns>
 -   <https://github.com/vercel/little-date>
@@ -728,6 +730,7 @@
 ## LIB: PARSER SCRAPER HTML/XML/JSON/DOM/CSV
 
 -   <https://github.com/beenotung/best-effort-json-parser>
+-   <https://github.com/Emmanuel-Melon/jsonapi-nano>
 -   <https://github.com/Essent/nativescript-xml2js>
 -   <https://github.com/package-url/packageurl-js>
 -   <https://github.com/flightcontrolhq/superjson>
@@ -1267,6 +1270,7 @@
 -   <https://github.com/repalash/threepipe>
 -   <https://github.com/theatre-js/theatre>
 -   <https://github.com/badzong/meshspin.js>
+-   <https://github.com/laanlabs/openPlan3D>
 -   <https://github.com/ykob/sketch-threejs>
 -   <https://github.com/dylanebert/gsplat.js>
 -   <https://github.com/mikbry/awesome-webgpu>

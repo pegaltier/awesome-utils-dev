@@ -554,6 +554,7 @@
 
 ## TOOLS: AGGREGATE / GATEWAY / ROUTING
 
+-   <https://github.com/tashfeenahmed/freellmapi>
 -   <https://github.com/diegosouzapw/OmniRoute>
 -   <https://github.com/anomalyco/models.dev>
 -   <https://github.com/Portkey-AI/gateway>
@@ -724,6 +725,7 @@
 -   <https://github.com/robertpiosik/CodeWebChat>
 -   <https://github.com/stackblitz-labs/bolt.diy>
 -   <https://github.com/eduardoleao052/js-pytorch>
+-   <https://github.com/NousResearch/hermes-agent>
 -   <https://github.com/angular/web-codegen-scorer>
 -   <https://github.com/2-fly-4-ai/V0-system-prompt>
 -   <https://github.com/langchain-ai/deep-agents-ui>
@@ -792,6 +794,11 @@
 
 -   <https://github.com/Ducksss/codex-profiles>
 
+## TOOLS: CODING: OSS ANTIGRAVITY
+
+-   <https://github.com/google-antigravity/antigravity-cli>
+-   <https://github.com/vudovn/ag-kit>
+
 ## TOOLS: CODING: OSS CLAUDE
 
 -   <https://github.com/vm0-ai/vm0>
@@ -809,7 +816,6 @@
 -   <https://github.com/m0n0x41d/quint-code>
 -   <https://github.com/getAsterisk/claudia>
 -   <https://github.com/NomenAK/SuperClaude>
--   <https://github.com/different-ai/openwork>
 -   <https://github.com/thedotmack/claude-mem>
 -   <https://github.com/AndyMik90/Auto-Claude>
 -   <https://github.com/siteboon/claudecodeui>
@@ -837,6 +843,17 @@
 -   <https://github.com/juliusbrussee/caveman>
 -   <https://github.com/DietrichGebert/ponytail>
 
+## TOOLS: CODING: OSS SKILLS EVAL
+
+-   <https://github.com/topics/skill-evaluation>
+-   <https://github.com/topics/agent-evaluation>
+-   <https://github.com/darkrishabh/agent-skills-eval>
+-   <https://github.com/lizhiyao/oh-my-knowledge>
+-   <https://github.com/Giskard-AI/giskard-oss>
+-   <https://github.com/Evol-ai/SkillCompass>
+-   <https://github.com/sx4im/skillcheck>
+
+
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
 -   <https://github.com/google/skills>
@@ -862,6 +879,7 @@
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/ConardLi/garden-skills>
 -   <https://github.com/kepano/obsidian-skills>
+-   <https://github.com/tensormux/kernel-skills>
 -   <https://github.com/addyosmani/agent-skills>
 -   <https://github.com/exp-workspace/da-skills>
 -   <https://github.com/analogjs/angular-skills>
@@ -953,6 +971,9 @@
 
 -   <https://github.com/promptfoo/promptfoo>
 -   <https://github.com/shenli/distributed-system-testing>
+
+## TOOLS: WORK
+-   <https://github.com/different-ai/openwork>
 
 ## TOOLS: CODING: IDE
 
@@ -1224,6 +1245,7 @@
 -   <https://github.com/mudler/LocalAI>
 -   <https://github.com/mlc-ai/web-llm>
 -   <https://github.com/lmstudio-ai/lms>
+-   <https://github.com/ItzCrazyKns/Vane>
 -   <https://github.com/JustVugg/colibri>
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
@@ -1388,8 +1410,9 @@
 -   <https://github.com/moeru-ai/airi>
 -   <https://github.com/farzaa/clicky>
 
-## LIB: RESEARCH AGENT
+## LIB: RESEARCH AGENT / SEARCH / ANSWER / WEBSEARCH
 
+-   <https://github.com/ItzCrazyKns/Vane>
 -   <https://github.com/dzhng/deep-research>
 -   <https://github.com/karpathy/autoresearch>
 -   <https://github.com/ResearAI/DeepScientist>
@@ -1404,6 +1427,7 @@
 
 ## LIB: MULTI AGENT
 
+-   <https://github.com/vercel/eve>
 -   <https://github.com/nrslib/takt>
 -   <https://github.com/OpenPipe/ART>
 -   <https://github.com/camel-ai/camel>
@@ -1425,6 +1449,7 @@
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/damiansire/cognitive-substrate-os>
+-   <https://github.com/vercel-labs/personal-agent-template>
 
 ## LIB: AGENTIC DEV TOOLS
 
@@ -1547,8 +1572,11 @@
 -   <https://github.com/HKUDS/OpenOPC>
 -   <https://github.com/kunchenguid/gnhf>
 -   <https://github.com/githubnext/autoloop>
+-   <https://github.com/cobusgreyling/loop-engineering>
 -   <https://github.com/superdesigndev/loopany-platform>
 -   <https://github.com/githubnext/awesome-continuous-ai>
+-   <https://github.com/ChaoYue0307/awesome-loop-engineering>
+-   <https://github.com/invincible04/awesome-loop-engineering>
 
 ## LIB: CONTENT
 
@@ -1564,6 +1592,7 @@
 ## LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE GRAPH
 
 -   <https://github.com/ragapp/ragapp>
+-   <https://github.com/ratel-ai/ratel>
 -   <https://github.com/weaviate/Verba>
 -   <https://github.com/HKUDS/LightRAG>
 -   <https://github.com/jina-ai/reader>
@@ -1606,6 +1635,7 @@
 -   <https://github.com/ChromeDevTools/chrome-devtools-mcp>
 -   <https://github.com/cloudflare/mcp-server-cloudflare>
 -   <https://github.com/wonderwhy-er/DesktopCommanderMCP>
+-   <https://github.com/modelcontextprotocol/inspector>
 -   <https://github.com/AgentDeskAI/browser-tools-mcp>
 -   <https://github.com/Flux159/mcp-server-kubernetes>
 -   <https://github.com/modelcontextprotocol/servers>
@@ -1616,6 +1646,7 @@
 -   <https://github.com/gioboa/mcp-typescript-sdk>
 -   <https://github.com/decisionnode/DecisionNode>
 -   <https://github.com/datalayer/agent-runtimes>
+-   <https://github.com/riseandignite/mcp-shield>
 -   <https://github.com/microsoft/playwright-cli>
 -   <https://github.com/exa-labs/exa-mcp-server>
 -   <https://github.com/openstudy-dev/OpenStudy>
@@ -1742,11 +1773,6 @@
 
 -   <https://github.com/google-research/timesfm>
 
-## LIB: FREE / OPEN LLM
-
--   <https://github.com/tashfeenahmed/freellmapi>
--   <https://github.com/Tencent-Hunyuan/Hy3>
-
 ## LIB: LLM
 
 -   <https://github.com/patrickloeber/llm-data-scrapers>
@@ -1772,6 +1798,7 @@
 -   <https://github.com/google-deepmind/gemma>
 -   <https://github.com/tensorzero/tensorzero>
 -   <https://github.com/cocktailpeanut/dalai>
+-   <https://github.com/Tencent-Hunyuan/Hy3>
 -   <https://github.com/LargeWorldModel/LWM>
 -   <https://github.com/dataelement/bisheng>
 -   <https://github.com/NVIDIA/TensorRT-LLM>
@@ -1956,8 +1983,9 @@
 ## LIB: 3D IMAGE / STABLE DIFFUSION
 
 -   <https://github.com/AiuniAI/Unique3D>
--   <https://github.com/Robbyant/lingbot-map>
 -   <https://github.com/ArthurBrussee/brush>
+-   <https://github.com/Robbyant/lingbot-map>
+-   <https://github.com/lightningpixel/modly>
 -   <https://github.com/img2threejs/img2threejs>
 
 ## LIB: IMAGE / DIFFUSION / DLM

@@ -163,11 +163,13 @@
 -   <https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414>
 -   <https://dev.to/aminejvm/cool-stuff-with-typescript-2aah>
 
-## BEST PRACTICES
+## ARTICLES / BEST PRACTICES
 
 -   <https://www.divotion.com/blog/creating-type-safe-events>
 -   <https://www.viget.com/articles/fixing-typescript-performance-problems>
 -   <https://backstage.orus.eu/the-5-commandments-of-clean-error-handling-in-typescript/?latest>
+-   <https://dev.to/kaithorne/typescript-generics-5-practical-patterns-youll-actually-use-mjh>
+-   <https://dev.to/leapcell/a-deep-dive-into-typescripts-infer-keyword-1o4b>
 
 ## STARTER / TEMPLATE
 
@@ -232,6 +234,7 @@
 
 ## EXTENSION
 
+-   <https://github.com/rccyx/typyx>
 -   <https://github.com/unional/type-plus>
 -   <https://github.com/sindresorhus/type-fest>
 -   <https://github.com/ts-essentials/ts-essentials>

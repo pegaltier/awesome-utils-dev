@@ -16,6 +16,7 @@
 ## TOOLS
 
 -   <https://github.com/productdevbook/port-killer>
+-   <https://github.com/treadiehq/port-kill>
 -   <https://github.com/nicolargo/glances>
 -   <https://github.com/HeyPuter/puter>
 -   <https://github.com/YaLTeR/niri>

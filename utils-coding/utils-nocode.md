@@ -165,6 +165,7 @@ low-code tooling to prototype fastly.
 
 ## dataviz
 
+-   <https://github.com/Kanaries/rath>
 -   <https://github.com/gridstack/gridstack.js>
 
 ## video

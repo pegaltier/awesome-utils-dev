@@ -147,6 +147,7 @@
 ## EXAMPLES
 
 -   <https://github.com/brettchalupa/projectbook>
+-   <https://github.com/Xtremilicious/projectlearn-project-based-learning>
 
 ## RESEARCH
 

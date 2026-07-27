@@ -33,6 +33,7 @@
 
 -   <https://github.com/cmderdev/cmder>
 -   <https://github.com/kando-menu/kando>
+-   <https://github.com/adventdevinc/kudu>
 -   <https://github.com/microsoft/PowerToys>
 -   <https://github.com/ScoopInstaller/Scoop>
 -   <https://github.com/rocksdanister/lively>

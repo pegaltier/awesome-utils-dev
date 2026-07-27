@@ -405,6 +405,11 @@
 -   <https://github.com/typst/typst>
 -   <https://www.mendable.ai/>
 
+## OSS: DESIGN
+
+-   <https://github.com/open-pencil/open-pencil>
+-   <https://github.com/ZSeven-W/openpencil>
+
 ### OSS: RESEARCH
 
 -   <https://github.com/PaperDebugger/paperdebugger>

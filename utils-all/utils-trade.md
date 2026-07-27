@@ -1163,6 +1163,7 @@
 -   <https://github.com/rhettre/coinbase-advancedtrade-python>
 -   <https://github.com/hackingthemarkets/candlestick-screener>
 -   <https://github.com/sreenivasdoosa/sdoosa-algo-trade-python>
+-   <https://github.com/evan-kolberg/prediction-market-backtesting>
 -   <https://github.com/AliHabibnia/Algorithmic_Trading_with_Python> \*
 -   <https://github.com/coding-kitties/investing-algorithm-framework> \*
 -   <https://github.com/PyPatel/Options-Trading-Strategies-in-Python>

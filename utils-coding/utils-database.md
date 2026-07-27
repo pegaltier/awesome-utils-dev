@@ -95,12 +95,14 @@
 ## VECTOR
 
 -   <https://github.com/alibaba/zvec>
+-   <https://github.com/MaheshChandraTeja/wispdb>
 
 ## SQLITE
 
 -   <https://github.com/sqlite/sqlite>
 -   <https://github.com/haltcase/trilogy>
 -   <https://github.com/kiankyars/sqlite>
+-   <https://github.com/sqlite/sqlite-wasm>
 -   <https://github.com/tursodatabase/turso>
 -   <https://github.com/russellromney/honker>
 -   <https://github.com/tursodatabase/libsql>

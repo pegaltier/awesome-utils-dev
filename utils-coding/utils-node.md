@@ -151,7 +151,9 @@
 ## GUIDE: ONLINE
 
 -   <https://nodejstoolbox.com/>
+-   <https://www.taoofnode.com/>
 -   <https://nodejs.org/en/blog>
+-   <https://alexkondov.com/tao-of-node/>
 -   <https://kashw1n.com/blog/nodejs-2025/>
 -   <https://blog.val.town/gardening-dependencies>
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
@@ -159,6 +161,10 @@
 -   <https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer>
 -   <https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/>
 -   <https://developerehsan.medium.com/10-mind-blowing-node-js-features-that-make-it-unstoppable-86a5e98e2fc2>
+
+## GUIDE: STRUCTURE
+-   <https://softwareontheroad.com/ideal-nodejs-project-structure/>
+-   <https://medium.com/@maitrijoshi1710/stop-writing-messy-backends-the-proper-node-js-project-structure-explained-aff5fe44006c>
 
 ## VERSION MANAGER
 
@@ -251,11 +257,14 @@
 ## STARTER / EXAMPLE / TEMPLATE
 
 -   <https://github.com/9renpoto/.59-node>
+-   <https://github.com/santiq/bulletproof-nodejs>
 -   <https://github.com/bennycode/ts-node-starter>
 -   <https://github.com/jhoset/nodejs-spotify-server>
+-   <https://github.com/vitorsalgado/create-nodejs-ts>
 -   <https://github.com/joyco-studio/library-template>
 -   <https://github.com/mkosir/typeorm-express-typescript>
 -   <https://github.com/bezkoder/node-js-mssql-crud-example>
+-   <https://github.com/ljlm0402/typescript-express-starter>
 -   <https://github.com/studiohyperdrive/nodejs-boilerplate>
 -   <https://github.com/xddq/nodejs-typescript-modern-starter>
 -   <https://github.com/JoshuaKGoldberg/create-typescript-app>
@@ -339,6 +348,7 @@
 
 ## UTILS: STATIC ANALYSIS
 
+-   <https://github.com/likec4/likec4>
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/fallow-rs/fallow>
 -   <https://github.com/chenglou/freerange>
@@ -358,6 +368,7 @@
 -   <https://github.com/zrosenbauer/nuka-code>
 -   <https://github.com/sindresorhus/trash-cli>
 -   <https://github.com/sindresorhus/fkill-cli>
+-   <https://github.com/tiaanduplessis/kill-port>
 
 ## UTILS: ALL
 
@@ -414,13 +425,16 @@
 -   <https://github.com/toss/es-git>
 -   <https://github.com/apocas/dockerode>
 
-## MONITORING / LOGGING
+## MONITORING / LOGGING / DEBUGGING / TRACING
 
+-   <https://clinicjs.org/>
+-   <http://pm2.keymetrics.io/>
 -   <https://github.com/pinojs/pino>
 -   <https://github.com/immobiliare/dats>
 -   <https://github.com/loglayer/loglayer>
--   <https://clinicjs.org/>
--   <http://pm2.keymetrics.io/>
+-   <https://github.com/Abdiev003/reqscope>
+-   <https://github.com/vercel-labs/nostics>
+-   <https://github.com/deathg0d/data-lineage>
 
 ## LIBS: ALL
 
@@ -523,6 +537,7 @@
 
 -   <https://github.com/sindresorhus/ky>
 -   <https://github.com/L-Blondy/up-fetch>
+-   <https://github.com/StopMakingThatBigFace/node-wreq>
 -   <https://github.com/animir/node-rate-limiter-flexible>
 
 ## LIBS: HTTP / SSE / SERVER SENT EVENT
@@ -578,7 +593,9 @@
 
 ## LIBS: QUEUE
 
+-   <https://github.com/mcollina/fastq>
 -   <https://github.com/luciopaiva/heapify>
+-   <https://github.com/litepacks/workmatic>
 -   <https://github.com/kibertoad/layered-loader>
 -   <https://github.com/kibertoad/message-queue-toolkit>
 
@@ -656,6 +673,7 @@
 -   <https://github.com/szmarczak/cacheable-lookup>
 -   <https://github.com/isaacs/node-lru-cache>
 -   <https://github.com/Julien-R44/bentocache>
+-   <https://github.com/Sampad6701/flux-cache>
 -   <https://github.com/jaredwray/keyv>
 -   <https://github.com/unjs/unstorage>
 -   <https://github.com/npm/cacache>
@@ -798,9 +816,14 @@
 -   <https://github.com/Uanela/arkos>
 -   <https://github.com/tsedio/tsed>
 
-## SERVER: INFRA
+
+## SERVER: PROCESS
 
 -   <https://github.com/Unitech/pm2>
+-   <https://github.com/litepacks/unitup>
+
+## SERVER: INFRA
+
 -   <https://github.com/itteco/graceful-cluster>
 -   <https://github.com/louislam/node-cloudflared-tunnel>
 

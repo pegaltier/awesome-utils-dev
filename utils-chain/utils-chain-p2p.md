@@ -67,6 +67,7 @@
 -   <https://github.com/ceramicnetwork/js-did>
 -   <https://github.com/holepunchto/hyperswarm>
 -   <https://github.com/browser-network/network>
+-   <https://github.com/denislupookov/altersend>
 -   <https://github.com/nordeck/matrix-meetings>
 -   <https://github.com/browser-network/database>
 -   <https://github.com/simplex-chat/simplex-chat>
