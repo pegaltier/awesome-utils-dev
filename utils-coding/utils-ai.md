@@ -1591,12 +1591,22 @@
 -   <https://github.com/chopratejas/headroom>
 -   <https://github.com/karthikscale3/ctx-zip>
 
-## LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE GRAPH
+## LIB: CONTEXT ENGINERRING / RAG / INGESTION
+
+-   <https://github.com/HKUDS/LightRAG>
+-   <https://github.com/AnswerDotAI/RAGatouille>
+-   <https://github.com/louisbrulenaudet/ragoon>
+-   <https://github.com/vercel/ai-sdk-rag-starter>
+-   <https://github.com/NirDiamant/RAG_Techniques>
+-   <https://github.com/amazon-science/RAGChecker>
+-   <https://github.com/circlemind-ai/fast-graphrag>
+-   <https://github.com/FareedKhan-dev/all-rag-techniques>
+
+## LIB: CONTEXT ENGINERRING / RETRIEVAL / KNOWLEDGE GRAPH
 
 -   <https://github.com/ragapp/ragapp>
 -   <https://github.com/ratel-ai/ratel>
 -   <https://github.com/weaviate/Verba>
--   <https://github.com/HKUDS/LightRAG>
 -   <https://github.com/jina-ai/reader>
 -   <https://github.com/allenai/olmocr>
 -   <https://github.com/NanoNets/Graft> (TRY)
@@ -1620,16 +1630,9 @@
 -   <https://github.com/colbymchenry/codegraph>
 -   <https://github.com/langchain-ai/langgraph>
 -   <https://github.com/NateBJones-Projects/OB1>
--   <https://github.com/AnswerDotAI/RAGatouille>
--   <https://github.com/louisbrulenaudet/ragoon>
--   <https://github.com/vercel/ai-sdk-rag-starter>
--   <https://github.com/NirDiamant/RAG_Techniques>
--   <https://github.com/amazon-science/RAGChecker>
 -   <https://github.com/Lum1104/Understand-Anything>
 -   <https://github.com/instructor-ai/instructor-js>
--   <https://github.com/circlemind-ai/fast-graphrag>
 -   <https://github.com/DeusData/codebase-memory-mcp>
--   <https://github.com/FareedKhan-dev/all-rag-techniques>
 -   <https://github.com/Unstructured-IO/unstructured-js-client>
 
 ## LIB: MCP
