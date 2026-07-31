@@ -216,6 +216,7 @@
 -   <https://github.com/ScelarOrg/Nodepod>
 -   <https://github.com/macaly/almostnode>
 -   <https://github.com/bluejs-team/Bluejs>
+-   <https://github.com/vercel-labs/scriptc>
 -   <https://github.com/lucid-softworks/lumen>
 -   <https://github.com/JetCrabCollab/JetCrab>
 
@@ -263,6 +264,7 @@
 -   <https://github.com/vitorsalgado/create-nodejs-ts>
 -   <https://github.com/joyco-studio/library-template>
 -   <https://github.com/mkosir/typeorm-express-typescript>
+-   <https://github.com/ToniR7/express-typescript-starter>
 -   <https://github.com/bezkoder/node-js-mssql-crud-example>
 -   <https://github.com/ljlm0402/typescript-express-starter>
 -   <https://github.com/studiohyperdrive/nodejs-boilerplate>
@@ -352,12 +354,14 @@
 -   <https://github.com/webpro-nl/knip>
 -   <https://github.com/fallow-rs/fallow>
 -   <https://github.com/chenglou/freerange>
+-   <https://github.com/vercel-labs/konsistent>
 -   <https://github.com/LukasNiessen/ArchUnitTS>
 
 ## UTILS: SECURITY
 
 -   <https://github.com/DNSZLSK/muad-dib>
 -   <https://github.com/OWASP/cve-lite-cli>
+-   <https://github.com/openai/codex-security>
 -   <https://github.com/janbiasi/rollup-plugin-sbom>
 -   <https://github.com/CycloneDX/cyclonedx-node-npm>
 
@@ -699,13 +703,20 @@
 
 ## LIBS: DATABASE / DB: PRISMA
 
+-   <https://medium.com/@nimisoere-lawson/structuring-prisma-express-projects-with-modular-generators-0ad614f44a1e>
 -   <https://the-guild.dev/graphql/yoga-server/tutorial/basic/07-connecting-server-and-database>
 -   <https://codepunkt.de/writing/blazing-fast-prisma-and-postgres-tests-in-vitest/>
+-   <https://github.com/Rates-and-Reservations/prisma-module-generator>
 -   <https://github.com/codepunkt/vitest-environment-prisma-postgres>
+-   <https://github.com/ArianaProjects/prisma-nestjs-crud-generator>
 -   <https://github.com/Cauen/prisma-generator-postgres-realtime>
+-   <https://github.com/multipliedtwice/prisma-generator-express>
+-   <https://github.com/MBrunoS/prisma-next-crud-generator>
+-   <https://github.com/omar-dulaimi/prisma-zod-generator>
 -   <https://github.com/mohammed-bahumaish/prisma-editor>
 -   <https://github.com/catalinmiron/awesome-prisma>
 -   <https://github.com/onozaty/prisma-schema-fixer>
+-   <https://github.com/nitzano/prisma-openapi>
 -   <https://github.com/mgcrea/prisma-queue>
 -   <https://github.com/prisma/prisma>
 -   <https://github.com/prisma-utils>

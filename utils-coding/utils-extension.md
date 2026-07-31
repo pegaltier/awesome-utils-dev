@@ -18,6 +18,12 @@
 -   <https://github.com/extend-chrome/clipboard>
 -   <https://github.com/extension-js/extension.js>
 
+## INJECT
+
+-   <https://www.injectjs.net/>
+-   <https://github.com/0xWDG/InjectJS>
+-   <https://github.com/hex0cter/js-injector>
+
 ## FAMOUS
 
 -   <https://github.com/microsoft/vscode-copilot-chat>

@@ -445,10 +445,11 @@
 -   <https://github.com/moltar/typescript-runtime-type-benchmarks>
 -   <https://dev.to/dzakh/javascript-schema-library-from-the-future-5420>
 
-## LIB: DATA OBJECT: ZOD
+## LIB: DATA OBJECT: VALIDATOR / ZOD / OTHERS
 
 -   <https://github.com/ecyrbe/zodios>
 -   <https://github.com/colinhacks/zod>
+-   <https://github.com/ajv-validator/ajv>
 -   <https://github.com/LorisSigrist/zocker>
 -   <https://github.com/fabien0102/ts-to-zod>
 -   <https://github.com/sachinraja/zod-to-ts>

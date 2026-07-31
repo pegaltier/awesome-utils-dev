@@ -650,6 +650,7 @@
 -   <https://github.com/dyad-sh/dyad>
 -   <https://github.com/sst/opencode>
 -   <https://github.com/oraios/serena>
+-   <https://github.com/1jehuang/jcode>
 -   <https://github.com/Ironclad/rivet>
 -   <https://github.com/Aider-AI/aider>
 -   <https://github.com/swark-io/swark>
@@ -1598,6 +1599,7 @@
 -   <https://github.com/HKUDS/LightRAG>
 -   <https://github.com/jina-ai/reader>
 -   <https://github.com/allenai/olmocr>
+-   <https://github.com/NanoNets/Graft> (TRY)
 -   <https://github.com/nashsu/llm_wiki>
 -   <https://github.com/Tencent/WeKnora>
 -   <https://github.com/getomni-ai/zerox>

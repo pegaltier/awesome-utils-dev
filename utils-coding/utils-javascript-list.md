@@ -662,6 +662,7 @@
 -   <https://github.com/ashleydavis/fusion>
 -   <https://github.com/mako-taco/dipstick>
 -   <https://github.com/microsoft/tsyringe>
+-   <https://github.com/searchfe/inject-js>
 -   <https://github.com/gnaeus/react-ioc>
 -   <https://github.com/jeffijoe/awilix>
 -   <https://github.com/cleandi/cleandi>
