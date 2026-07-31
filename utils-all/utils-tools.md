@@ -582,7 +582,6 @@
 -   <https://github.com/dmtrbrl/bulk-url-opener>
 -   <https://github.com/harry0703/MoneyPrinterTurbo/>
 -   <https://github.com/FujiwaraChoki/MoneyPrinterV2>
--   <https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1>
 
 ## New
 

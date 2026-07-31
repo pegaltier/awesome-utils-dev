@@ -28,6 +28,17 @@
 
 -   <https://github.com/microsoft/vscode-copilot-chat>
 
+## AI
+
+-   <https://github.com/xiaolai/insidebar-ai>
+-   <https://github.com/nanobrowser/nanobrowser>
+-   <https://github.com/nico-martin/gemma4-browser-extension>
+
+## BEST
+
+-   <https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1>
+
+
 ## STARTER
 
 -   <https://github.com/larscom/ng-chrome-extension>

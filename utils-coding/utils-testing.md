@@ -47,6 +47,7 @@
 -   <https://github.com/Skyvern-AI/rustwright>
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/codeceptjs/CodeceptJS>
+-   <https://github.com/browseros-ai/BrowserOS>
 -   <https://github.com/webdriverio/webdriverio>
 -   <https://github.com/sebastiancarlos/beachpatrol>
 -   <https://github.com/testing-library/dom-testing-library>

@@ -1268,6 +1268,7 @@
 
 ## TOOLS: BROWSER / LOCAL
 
+-   <https://github.com/browseros-ai/BrowserOS>
 -   <https://github.com/davideast/inbrowser-agent>
 
 ## TOOLS: ASSISTANT / PHYSICAL
