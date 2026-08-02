@@ -103,6 +103,7 @@
 -   <https://github.com/maticzav/graphql-shield>
 -   <https://github.com/kitten/graphql-web-lite>
 -   <https://github.com/APIs-guru/graphql-faker>
+-   <https://github.com/gmac/graphql-breadth-js>
 -   <https://github.com/piglovesyou/graphql-let>
 -   <https://github.com/mcollina/openapi-graphql>
 -   <https://github.com/prisma-labs/graphql-yoga>

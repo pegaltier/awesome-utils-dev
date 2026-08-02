@@ -221,6 +221,7 @@
 -   <https://github.com/tonyantony300/alt-sendme>
 -   <https://github.com/mickael-kerjean/filestash>
 -   <https://github.com/Bill-Stewart/SyncthingWindowsSetup>
+-   <https://github.com/bashalarmistalt/decimen-optical-transfer>
 
 ## OSS: FINANCE
 

@@ -149,6 +149,7 @@
 ## TOOLS: OSS: LIST
 
 -   <https://github.com/snoopysecurity/awesome-burp-extensions>
+-   <https://github.com/okhosting/awesome-cyber-security>
 -   <https://github.com/CVEProject/cvelistV5>
 
 ## TOOLS: OSS: PHYSICAL

@@ -650,7 +650,6 @@
 -   <https://github.com/dyad-sh/dyad>
 -   <https://github.com/sst/opencode>
 -   <https://github.com/oraios/serena>
--   <https://github.com/1jehuang/jcode>
 -   <https://github.com/Ironclad/rivet>
 -   <https://github.com/Aider-AI/aider>
 -   <https://github.com/swark-io/swark>
@@ -743,6 +742,8 @@
 
 ## TOOLS: CODING: OSS HARNESS
 
+-   <https://github.com/yc-software/qm>
+-   <https://github.com/1jehuang/jcode>
 -   <https://github.com/HKUDS/OpenHarness>
 -   <https://github.com/xai-org/grok-build>
 -   <https://github.com/Gitlawb/openclaude>
@@ -1255,6 +1256,7 @@
 -   <https://github.com/RightNow-AI/picolm>
 -   <https://github.com/mlc-ai/web-llm-chat>
 -   <https://github.com/cactus-compute/needle>
+-   <https://github.com/drumih/turbo-fieldfare>
 -   <https://github.com/Doorman11991/smallcode>
 -   <https://github.com/ChatGPTNextWeb/NextChat>
 -   <https://github.com/itayinbarr/little-coder>
@@ -1897,6 +1899,7 @@
 -   <https://github.com/kyutai-labs/delayed-streams-modeling>
 -   <https://github.com/modelscope/ClearerVoice-Studio>
 -   <https://github.com/linto-ai/whisper-timestamped>
+-   <https://github.com/0xSojalSec/free-voice-clone>
 -   <https://github.com/HumeAI/hume-api-examples>
 -   <https://github.com/jianchang512/ChatTTS-ui>
 -   <https://github.com/nineninesix-ai/kani-tts>

@@ -113,6 +113,7 @@
 -   <https://github.com/DarkaOnLine/L5-Swagger>
 -   <https://github.com/42Crunch/vscode-openapi>
 -   <https://github.com/rohit-gohri/redocusaurus>
+-   <https://github.com/counterfact/api-simulator>
 -   <https://github.com/SoraKumo001/openapi-to-md>
 -   <https://github.com/apideck-libraries/portman>
 -   <https://github.com/OAI/OpenAPI-Specification>

@@ -109,6 +109,7 @@
 -   <https://github.com/sqliteai/sqlite-vector>
 -   <https://github.com/benbjohnson/litestream>
 -   <https://github.com/phiresky/sql.js-httpvfs>
+-   <https://github.com/sqlitebrowser/sqlitebrowser>
 
 ## SCALING
 
