@@ -31,6 +31,7 @@
 
 -   [Microfrontend](utils-coding/utils-microfrontend.md)
 -   [Monorepo](utils-coding/utils-monorepo.md)
+- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
 
 ## Mobile Development
 
