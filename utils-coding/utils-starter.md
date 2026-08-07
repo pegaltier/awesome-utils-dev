@@ -41,6 +41,7 @@
 -   <https://github.com/ocluf/justship>
 -   <https://github.com/Idee8/ShipFree>
 -   <https://github.com/upstash/jstack>
+-   <https://github.com/trycompai/comp>
 -   <https://github.com/midday-ai/v1>
 -   <https://github.com/sst/sst>
 
@@ -76,6 +77,7 @@
 -   <https://github.com/twentyhq/twenty>
 -   <https://github.com/frappe/erpnext>
 -   <https://github.com/ArnasDon/wacrm>
+-   <https://github.com/trycompai/crm>
 -   <https://github.com/frappe/hrms>
 -   <https://github.com/frappe/crm>
 

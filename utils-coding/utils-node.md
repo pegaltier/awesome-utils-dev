@@ -703,19 +703,24 @@
 
 ## LIBS: DATABASE / DB: PRISMA
 
+-   <https://gentools.io/prisma-schema-generator>
 -   <https://medium.com/@nimisoere-lawson/structuring-prisma-express-projects-with-modular-generators-0ad614f44a1e>
 -   <https://the-guild.dev/graphql/yoga-server/tutorial/basic/07-connecting-server-and-database>
 -   <https://codepunkt.de/writing/blazing-fast-prisma-and-postgres-tests-in-vitest/>
 -   <https://github.com/Rates-and-Reservations/prisma-module-generator>
 -   <https://github.com/codepunkt/vitest-environment-prisma-postgres>
 -   <https://github.com/ArianaProjects/prisma-nestjs-crud-generator>
+-   <https://github.com/arthurfiorette/prisma-json-types-generator>
 -   <https://github.com/Cauen/prisma-generator-postgres-realtime>
 -   <https://github.com/multipliedtwice/prisma-generator-express>
+-   <https://github.com/BayBreezy/nitrojs-better-auth-prisma>
+-   <https://github.com/deptyped/prisma-extension-pagination>
 -   <https://github.com/MBrunoS/prisma-next-crud-generator>
 -   <https://github.com/omar-dulaimi/prisma-zod-generator>
 -   <https://github.com/mohammed-bahumaish/prisma-editor>
 -   <https://github.com/catalinmiron/awesome-prisma>
 -   <https://github.com/onozaty/prisma-schema-fixer>
+-   <https://github.com/AhmedElywa/prisma-tools>
 -   <https://github.com/nitzano/prisma-openapi>
 -   <https://github.com/mgcrea/prisma-queue>
 -   <https://github.com/prisma/prisma>

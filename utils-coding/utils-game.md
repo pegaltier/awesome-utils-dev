@@ -49,4 +49,5 @@
 
 ## EXAMPLE
 
+-   <https://github.com/jkup/triablo>
 -   <https://github.com/code100x/chess>

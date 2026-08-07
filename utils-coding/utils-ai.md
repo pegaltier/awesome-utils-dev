@@ -842,6 +842,7 @@
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
+-   <https://www.asd-ste100.org/>
 -   <https://github.com/sergioramosv/squeezr>
 -   <https://github.com/juliusbrussee/caveman>
 -   <https://github.com/DietrichGebert/ponytail>
@@ -888,6 +889,7 @@
 -   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/tiangolo/library-skills>
+-   <https://github.com/danyuchn/asd-ste100-skill>
 -   <https://github.com/mvanhorn/last30days-skill>
 -   <https://github.com/msitarzewski/agency-agents>
 -   <https://github.com/google-gemini/gemini-skills>
@@ -928,6 +930,7 @@
 -   <https://github.com/maxritter/pilot-shell>
 -   <https://github.com/Priivacy-ai/spec-kitty>
 -   <https://github.com/MartyBonacci/specswarm>
+-   <https://github.com/statewright/statewright>
 -   <https://github.com/gsd-build/get-shit-done>
 -   <https://github.com/buildermethods/agent-os>
 -   <https://github.com/Codeplain-ai/plain-forge>
@@ -1022,6 +1025,7 @@
 -   <https://github.com/daytonaio/daytona>
 -   <https://github.com/ScelarOrg/NodePod>
 -   <https://github.com/containers/libkrun>
+-   <https://github.com/cloudflare/computer>
 -   <https://github.com/PwnFunction/sandbox>
 -   <https://github.com/jingkaihe/matchlock>
 -   <https://github.com/GreyhavenHQ/greywall>
