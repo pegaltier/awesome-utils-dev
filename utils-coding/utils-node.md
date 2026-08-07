@@ -707,6 +707,7 @@
 -   <https://medium.com/@nimisoere-lawson/structuring-prisma-express-projects-with-modular-generators-0ad614f44a1e>
 -   <https://the-guild.dev/graphql/yoga-server/tutorial/basic/07-connecting-server-and-database>
 -   <https://codepunkt.de/writing/blazing-fast-prisma-and-postgres-tests-in-vitest/>
+-   <https://github.com/0x-negi/Headless-Extensible-Library-for-Models_HELM>
 -   <https://github.com/Rates-and-Reservations/prisma-module-generator>
 -   <https://github.com/codepunkt/vitest-environment-prisma-postgres>
 -   <https://github.com/ArianaProjects/prisma-nestjs-crud-generator>
@@ -723,6 +724,7 @@
 -   <https://github.com/AhmedElywa/prisma-tools>
 -   <https://github.com/nitzano/prisma-openapi>
 -   <https://github.com/mgcrea/prisma-queue>
+-   <https://github.com/Blysspeak/prada>
 -   <https://github.com/prisma/prisma>
 -   <https://github.com/prisma-utils>
 -   <https://github.com/Uanela/arkos>
