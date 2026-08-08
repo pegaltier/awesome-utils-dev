@@ -22,8 +22,13 @@
 -   <https://xata.io/>
 -   <https://aiven.io/>
 -   <https://neon.tech/>
+-   <https://turso.tech/>
 -   <https://www.cockroachlabs.com/>
 -   <https://www.freesqldatabase.com/>
+
+## DB EXTENSIONS
+-   <https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql>
+-   <https://marketplace.visualstudio.com/items?itemName=databricks.neon-local-connect>
 
 ## TUTOS / LEARN
 
