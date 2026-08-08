@@ -244,6 +244,7 @@
 -   <https://github.com/react-hook-form/react-hook-form>
 -   <https://github.com/BetterTyped/react-zoom-pan-pinch>
 -   <https://github.com/nick-keller/react-datasheet-grid>
+-   <https://github.com/omar-dulaimi/prisma-next-zod-json>
 -   <https://github.com/michalzalobny/react-just-parallax>
 -   <https://github.com/aaronhayes/react-use-hubspot-form>
 -   <https://github.com/bezkoder/react-refresh-token-hooks>

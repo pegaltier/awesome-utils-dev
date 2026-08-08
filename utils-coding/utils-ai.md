@@ -674,7 +674,6 @@
 -   <https://github.com/aaif-goose/goose>
 -   <https://github.com/appdotbuild/agent>
 -   <https://github.com/yamadashy/repomix>
--   <https://github.com/Avazbek22/DevProjex>
 -   <https://github.com/e2b-dev/fragments>
 -   <https://github.com/Nutlope/aicommits>
 -   <https://github.com/cursor/agent-trace>
@@ -684,6 +683,7 @@
 -   <https://github.com/MLSysOps/MLE-agent>
 -   <https://github.com/anomalyco/opencode>
 -   <https://github.com/Rigos0/superturtle>
+-   <https://github.com/Avazbek22/DevProjex>
 -   <https://github.com/akumidv/ai_keystone>
 -   <https://github.com/nimbalyst/nimbalyst>
 -   <https://github.com/charmbracelet/crush>
@@ -726,7 +726,6 @@
 -   <https://github.com/robertpiosik/CodeWebChat>
 -   <https://github.com/stackblitz-labs/bolt.diy>
 -   <https://github.com/eduardoleao052/js-pytorch>
--   <https://github.com/NousResearch/hermes-agent>
 -   <https://github.com/angular/web-codegen-scorer>
 -   <https://github.com/2-fly-4-ai/V0-system-prompt>
 -   <https://github.com/langchain-ai/deep-agents-ui>
@@ -747,6 +746,8 @@
 -   <https://github.com/HKUDS/OpenHarness>
 -   <https://github.com/xai-org/grok-build>
 -   <https://github.com/Gitlawb/openclaude>
+-   <https://github.com/NousResearch/hermes-agent>
+-   <https://github.com/PrimeIntellect-ai/prime-agent>
 
 ## TOOLS: CODING: OSS DEBUG
 

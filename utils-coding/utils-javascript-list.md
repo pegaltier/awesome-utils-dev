@@ -580,12 +580,6 @@
 -   <https://github.com/SerkanSipahi/app-decorators>
 -   <https://github.com/ibrahimcesar/category-theory-for-the-javascript-typescript-developers>
 
-## LIB: ENV
-
--   <https://github.com/sindresorhus/environment>
--   <https://github.com/dmno-dev/varlock>
--   <https://github.com/KATT/envsafe>
-
 ## LIB: DESIGN PATTERN
 
 -   <https://github.com/douglasgreyling/light-service.js>
@@ -1262,6 +1256,7 @@
 -   <https://github.com/CesiumGS/cesium>
 -   <https://github.com/mrdoob/three.js>
 -   <https://github.com/liabru/matter-js>
+-   <https://github.com/sgenoud/replicad>
 -   <https://github.com/shakiba/planck.js>
 -   <https://github.com/mapbox/delaunator>
 -   <https://github.com/KhronosGroup/glTF>

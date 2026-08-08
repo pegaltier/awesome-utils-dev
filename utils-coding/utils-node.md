@@ -643,12 +643,15 @@
 ## LIBS: ENV
 
 -   <https://github.com/af/envalid>
+-   <https://github.com/KATT/envsafe>
 -   <https://github.com/dotenvx/dotenvx>
 -   <https://github.com/motdotla/dotenv>
 -   <https://github.com/ekalinin/nodeenv>
+-   <https://github.com/dmno-dev/varlock>
 -   <https://github.com/inventage/envsubst>
 -   <https://github.com/fastify/env-schema>
 -   <https://github.com/motdotla/dotenv-expand>
+-   <https://github.com/sindresorhus/environment>
 
 ## LIBS: AUTH / OIDC
 
