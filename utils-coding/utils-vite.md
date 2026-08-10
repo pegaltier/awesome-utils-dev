@@ -19,6 +19,7 @@
 -   <https://github.com/sudokar/aws-sdk-vitest-mock>
 -   <https://github.com/eratio08/vitest-mock-extended>
 -   <https://github.com/vitest-tests/browser-examples>
+-   <https://github.com/vitest-community/vitest-browser-angular>
 
 ## VITE+
 

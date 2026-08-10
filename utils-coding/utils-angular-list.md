@@ -1875,6 +1875,7 @@ Learn how to make your own angular lib, build, distribute.
 -   <https://github.com/nimesko/ngx-seo-page>
 -   <https://github.com/eneajaho/ngx-isr>
 -   <https://github.com/eneajaho/new-isr-poc>
+-   <https://github.com/nigrosimone/ng-ssr-caching>
 -   <https://github.com/angular-architects/ngrx-hateoas>
 -   <https://github.com/netlify/netlify-plugin-angular-universal>
 -   <https://github.com/brandonroberts/angular-to-analog-migration>
@@ -2000,6 +2001,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/aholachek/bundle-wizard>
 -   <https://github.com/SanderElias/huppeldepup>
 -   <https://github.com/angularconsulting/ngvm>
+-   <https://github.com/patch-work-book/nglens>
 -   <https://github.com/rainerhahnekamp/sam4sc>
 -   <https://github.com/omniboard-dev/analyzer>
 -   <https://github.com/angular/dgeni-packages>
@@ -2020,6 +2022,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/facebook/memlab>
 -   <https://github.com/swimlane/DocSPA>
 -   <https://github.com/docgeni/docgeni>
+-   <https://github.com/xonaib/ng-loom>
 -   <https://github.com/ng-doc/ng-doc>
 -   <https://github.com/urish/ng-lift>
 -   <https://github.com/mgechev/ngrev>
@@ -2051,6 +2054,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/martsinlabs/ngx-mq>
 -   <https://github.com/signalityjs/signality>
 -   <https://github.com/alcfeoh/ngx-signalify>
+-   <https://github.com/Ali7040/ng-signal-query>
 -   <https://github.com/gabrielguerrero/ngrx-traits>
 -   <https://github.com/larscom/ngrx-signals-storage>
 -   <https://github.com/timdeschryver/ng-signal-forms>
@@ -2105,6 +2109,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/kukhariev/ngx-uploadx>
 -   <https://github.com/nigrosimone/ng-http-caching> (TOADD)
 -   <https://github.com/BeSaRa/cast-response> (TOADD)
+-   <https://github.com/ismailza/ngx-api-client> (TOADD)
 
 ## ECOSYSTEM: LIB: ROUTING
 
@@ -2586,6 +2591,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/MurhafSousli/ngx-bar-rating>
 -   <https://github.com/MurhafSousli/ngx-sharebuttons>
 -   <https://github.com/CirclonGroup/angular-tree-component>
+-   <https://github.com/ngxviewbuilder/ngx-view-builder-community>
 -   <https://github.com/alcfeoh/ngx-digital-display>
 -   <https://github.com/MurhafSousli/ngx-scrollbar>
 -   <https://github.com/superplug-in/supermarquee>
@@ -2596,7 +2602,9 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: ARTIFICIAL INTELLIGENCE
 
+-   <https://github.com/ag-ui-protocol/ag-ui>
 -   <https://github.com/AhsanAyaz/ngx-quill-ink>
+-   <https://github.com/cacheplane/angular-agent-framework>
 
 ## ECOSYSTEM: LIB: COMPONENT: COLOR
 
@@ -2638,6 +2646,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/akserg/ng2-toasty>
 -   <https://github.com/tutkli/ngx-sonner>
 -   <https://github.com/ngneat/hot-toast>
+-   <https://github.com/EliasVal/ngx-retoast> (TOADD)
 
 ## ECOSYSTEM: LIB: COMPONENT: ICONS
 
@@ -2812,6 +2821,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/Gbuomprisco/ngx-content-loading>
 -   <https://github.com/adisreyaj/angular-shimmer-effect>
 -   <https://github.com/willmendesneto/ngx-skeleton-loader>
+-   <https://github.com/MahmoudAdelJR/ngx-skeleton-suite> (TOADD)
 -   <https://github.com/crisbeto/angular-svg-round-progressbar> (TOADD)
 
 ## ECOSYSTEM: LIB: COMPONENT: FORMS
@@ -2982,6 +2992,9 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/zard-ui/zardui> (TOADD)
 -   <https://github.com/piying-org/piying-angular-component> (TOADD)
 -   <https://github.com/openng-foundation/open-prime> (TOADD)
+-   <https://github.com/openng-org/optimus-ui> (TOADD)
+-   <https://github.com/mazdik/ng-mazdik> (TOADD)
+-   <https://github.com/dofu-lab/simui> (TOADD)
 
 ## ECOSYSTEM: LIB: STORAGE
 
@@ -3184,6 +3197,7 @@ Find here useful tips for managing your continious integration and delivery proc
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: ARTIFICIAL INTELLIGENCE
 
 -   <https://github.com/AhsanAyaz/enchanted-notebook>
+-   <https://github.com/Soverius-AI/angular-a2ui-macroquest>
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SSR
 
@@ -3212,6 +3226,7 @@ Find here useful tips for managing your continious integration and delivery proc
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: NX
 
+-   <https://github.com/myvictorlife/base-angular-monorepo>
 -   <https://github.com/HaasStefan/fine-grained-libs-with-nx>
 
 ## ECOSYSTEM: DEMO: SOURCES & EXAMPLES: SCULLY

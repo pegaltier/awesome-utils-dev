@@ -1626,6 +1626,7 @@
 -   <https://github.com/oramasearch/orama>
 -   <https://github.com/microsoft/graphrag>
 -   <https://github.com/infiniflow/ragflow>
+-   <https://github.com/Blysspeak/aurelius>
 -   <https://github.com/RyanCodrai/turbovec>
 -   <https://github.com/safishamsi/graphify>
 -   <https://github.com/promptfoo/promptfoo>
@@ -1932,6 +1933,7 @@
 -   <https://github.com/OpenMOSS/MOSS-TTS>
 -   <https://github.com/xming521/WeClone>
 -   <https://github.com/yl4579/StyleTTS2>
+-   <https://github.com/lobehub/lobe-tts>
 -   <https://github.com/Kieirra/murmure>
 -   <https://github.com/Jackywine/Bella>
 -   <https://github.com/voquill/voquill>
@@ -1939,10 +1941,14 @@
 -   <https://github.com/openai/whisper>
 -   <https://github.com/hexgrad/kokoro>
 -   <https://github.com/nari-labs/dia>
+-   <https://github.com/marak/say.js/>
 -   <https://github.com/suno-ai/bark>
 -   <https://github.com/coqui-ai/TTS>
 -   <https://github.com/cjpais/Handy>
 -   <https://github.com/HumeAI/tada>
+-   <https://tts.lobehub.com/>
+-   <https://ttsmp3.com/>
+
 
 ## LIB: AUDIO / TRANSCRIPT
 
@@ -1960,6 +1966,7 @@
 -   <https://github.com/WongKinYiu/yolov9>
 -   <https://github.com/topics/ai-avatars>
 -   <https://github.com/SandAI-org/MAGI-1>
+-   <https://github.com/nexu-io/html-video>
 -   <https://github.com/saturndec/waoowaoo>
 -   <https://github.com/hpcaitech/Open-Sora>
 -   <https://github.com/waoowaooAI/waoowaoo>
@@ -1981,9 +1988,11 @@
 -   <https://github.com/Anil-matcha/Open-Higgsfield-AI>
 -   <https://github.com/FurkanGozukara/Stable-Diffusion>
 -   <https://github.com/jianzhnie/awesome-text-to-video>
+-   <https://github.com/Agents365-ai/video-podcast-maker>
 -   <https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5>
 -   <https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator>
 -   <https://github.com/hkchengrex/Tracking-Anything-with-DEVA>
+-   <https://github.com/topics/hyperframes>
 
 ## LIB: OCR IMAGE RECOGNITION
 
@@ -2110,6 +2119,7 @@
 ## TOOLS: PROMPT
 
 -   <https://github.com/microsoft/poml>
+-   <https://github.com/elder-plinius/G0DM0D3>
 -   <https://github.com/elder-plinius/CL4R1T4S>
 
 ## TOOLS: PROMPT ON WEB / SEARCH

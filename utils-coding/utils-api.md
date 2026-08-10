@@ -101,6 +101,7 @@
 -   <https://github.com/asyncapi/modelina>
 -   <https://github.com/microcks/microcks>
 -   <https://github.com/stoplightio/prism>
+-   <https://github.com/vivainio/dtolator>
 -   <https://github.com/microsoft/typespec>
 -   <https://github.com/hey-api/openapi-ts>
 -   <https://github.com/getdatanaut/openmcp>
@@ -130,6 +131,7 @@
 -   <https://github.com/postmanlabs/openapi-to-postman>
 -   <https://github.com/contractual-dev/example-openapi>
 -   <https://github.com/openapistack/openapi-client-axios>
+-   <https://github.com/7nohe/openapi-react-query-codegen>
 -   <https://github.com/platformatic/fastify-openapi-glue>
 -   <https://github.com/APIDevTools/json-schema-ref-parser>
 -   <https://github.com/OpenAPITools/openapi-generator-cli>
