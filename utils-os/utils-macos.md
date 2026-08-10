@@ -87,6 +87,10 @@
 -   <https://github.com/NativeScript/template-macos-solid>
 -   <https://apps.apple.com/us/app/magnet/id441258766?mt=12>
 
+## ARTIFICIAL INTELLIGENCE
+
+-   <https://github.com/antirez/h3.c>
+
 ## PACKAGE MANAGER
 
 -   <https://brew.sh/>

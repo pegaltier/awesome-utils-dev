@@ -123,6 +123,7 @@
 -   <https://www.vaultproject.io/>
 -   <https://github.com/hashicorp/vault>
 -   <https://github.com/Infisical/infisical>
+-   <https://github.com/veracrypt/VeraCrypt>
 -   <https://github.com/shahradelahi/vault-cli>
 -   <https://github.com/shahradelahi/aes-object>
 -   <https://github.com/shahradelahi/node-vault>

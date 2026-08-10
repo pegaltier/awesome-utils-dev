@@ -826,6 +826,7 @@
 -   <https://github.com/seanpmaxwell/express5-typescript-template>
 -   <https://github.com/express-rate-limit/express-rate-limit>
 -   <https://github.com/inversify/inversify-express-utils>
+-   <https://github.com/greenroach/express-ts-template>
 -   <https://github.com/michaelcpuckett/express-worker>
 -   <https://github.com/mucahitnezir/express-starter>
 -   <https://github.com/berstend/tiny-request-router>

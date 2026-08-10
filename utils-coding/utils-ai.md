@@ -314,6 +314,7 @@
 -   <https://github.com/anthropics/html-effectiveness>
 -   <https://metatrendreport.com/humanoid-robots-v>
 -   <https://github.com/brexhq/prompt-engineering>
+-   <https://www.primeintellect.ai/blog/rlm>
 -   <https://every.to/guides/agent-native>
 
 ## COURSES
@@ -832,6 +833,7 @@
 -   <https://github.com/sushichan044/cc-hooks-ts>
 -   <https://github.com/zilliztech/claude-context>
 -   <https://github.com/Doriandarko/claude-engineer>
+-   <https://github.com/cathrynlavery/diagram-design>
 -   <https://github.com/claude-code-best/claude-code>
 -   <https://github.com/davila7/claude-code-templates>
 -   <https://github.com/anthropics/claude-code-action>
@@ -1663,6 +1665,7 @@
 -   <https://github.com/leonardsellem/n8n-mcp-server>
 -   <https://github.com/omar-haris/smart-coding-mcp>
 -   <https://github.com/gioboa/mcp-typescript-sdk>
+-   <https://github.com/webmachinelearning/webmcp>
 -   <https://github.com/decisionnode/DecisionNode>
 -   <https://github.com/datalayer/agent-runtimes>
 -   <https://github.com/riseandignite/mcp-shield>
