@@ -83,6 +83,7 @@
 -   <https://github.com/jacklandrin/OnlySwitch>
 -   <https://github.com/palmier-io/palmier-pro>
 -   <https://github.com/alienator88/Pearcleaner>
+-   <https://github.com/tristan666666/agent-island>
 -   <https://github.com/NativeScript/template-macos-solid>
 -   <https://apps.apple.com/us/app/magnet/id441258766?mt=12>
 
