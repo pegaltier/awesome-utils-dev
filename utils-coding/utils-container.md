@@ -21,6 +21,13 @@
 -   [DOCKER IMAGES: AI](#docker-images-ai)
 -   [DOCKER IMAGES ALL](#docker-images-all)
 
+## ARTICLES
+
+-   <https://youtu.be/3c-iBn73dDE> Docker Tutorial for Beginners [Full Course in 3 Hours]
+-   <https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b>
+-   <https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin>
+-   <https://snyk.io/fr/blog/choosing-the-best-node-js-docker-image/>
+
 ## TOOLS
 
 -   Vagrant, Docker, Podman let you create portable environments Vagrant helps you set up entire virtual machines to run your applications, Docker/Podman allows you to package an application with its environment and all of its dependencies into a "box", called a container. They both adapted to OCI (Open Container Initiative) standards for images. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image. Virtual Machine vs Container: VM is complete. Container is closer to the host machine. No emulation of hardware. We share a part of the hardware. disk, network. To do that we segment the harware.
@@ -80,17 +87,11 @@ docker export cid | tar t
     -f (file) (build) simply to target a custom docker file name different than the classic local Dockerfile. usually it can be to specify a custom local file with an extension type like for the frontend image: Dockerfile.fedev. It can alo be an url with http or https
 
 -   <https://docs.podman.io/en/latest/markdown/podman-build.1.html>
-
 -   <https://docs.podman.io/en/latest/markdown/podman-run.1.html>
-
 -   <https://docs.podman.io/en/latest/markdown/podman-volume.1.html>
-
 -   <https://www.orpiske.net/2021/10/configuring-intellij-to-work-with-podman/>
-
 -   <https://www.lemagit.fr/conseil/Conteneurisation-les-differences-cles-entre-Docker-et-Podman>
-
 -   <https://www.imaginarycloud.com/blog/podman-vs-docker/>
-
 -   <https://github.com/containers/podman-compose>
 
 ## OPENSHIFT
@@ -100,11 +101,6 @@ You need two things
 -   OpenShift CLI 
 -   Helm CLI
 
-## KUBERNETES
-
--   <https://www.redhat.com/fr/topics/containers/learning-kubernetes-tutorial>
--   <https://www.ionos.fr/digitalguide/serveur/configuration/tutoriel-kubernetes/>
--   <https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/>
 
 ## VAGRANT
 
@@ -214,9 +210,6 @@ RUN ls
 -   <https://github.com/felixfbecker/semantic-release-docker>
 -   <https://github.com/JonasAlfredsson/docker-nginx-certbot>
 -   <https://labs.play-with-docker.com/>
--   <https://youtu.be/3c-iBn73dDE> Docker Tutorial for Beginners [Full Course in 3 Hours]
--   <https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b>
--   <https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin>
 
 ## DOCKER PROXY
 
@@ -229,6 +222,7 @@ RUN ls
 -   <https://github.com/docker/awesome-compose>
 -   <https://github.com/veggiemonk/awesome-docker>
 -   <https://github.com/devopstrainingblr/awesome-docker>
+-   <https://github.com/docker-library/official-images/blob/master/library/node>
 
 ## DOCKER IMAGES UPDATE
 
