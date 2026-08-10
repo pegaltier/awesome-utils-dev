@@ -72,9 +72,13 @@
 
 -   [TOOLS: CODING: OSS CODEX](#tools-coding-oss-codex)
 
+-   [TOOLS: CODING: OSS ANTIGRAVITY](#tools-coding-oss-antigravity)
+
 -   [TOOLS: CODING: OSS CLAUDE](#tools-coding-oss-claude)
 
 -   [TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS](#tools-coding-oss-optimize-prompt-rules--skills)
+
+-   [TOOLS: CODING: OSS SKILLS EVAL](#tools-coding-oss-skills-eval)
 
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
 
@@ -95,6 +99,8 @@
 -   [TOOLS: LEGALS](#tools-legals)
 
 -   [TOOLS: TEST](#tools-test)
+
+-   [TOOLS: WORK](#tools-work)
 
 -   [TOOLS: CODING: IDE](#tools-coding-ide)
 
@@ -125,8 +131,6 @@
 -   [TOOLS: SEARCH](#tools-search)
 
 -   [TOOLS: FINANCE / TRADING](#tools-finance--trading)
-
--   [TOOLS: GATEWAY](#tools-gateway)
 
 -   [TOOLS: VOICE / SPEECH](#tools-voice--speech)
 
@@ -174,7 +178,7 @@
 
 -   [LIB: COMPANION](#lib-companion)
 
--   [LIB: RESEARCH AGENT](#lib-research-agent)
+-   [LIB: RESEARCH AGENT / SEARCH / ANSWER / WEBSEARCH](#lib-research-agent--search--answer--websearch)
 
 -   [LIB: COMPAT AGENT](#lib-compat-agent)
 
@@ -196,7 +200,9 @@
 
 -   [LIB: CONTEXT](#lib-context)
 
--   [LIB: CONTEXT ENGINERRING / RAG / INGESTION / RETRIEVAL / KNOWLEDGE GRAPH](#lib-context-enginerring--rag--ingestion--retrieval--knowledge-graph)
+-   [LIB: CONTEXT ENGINERRING / RAG / INGESTION](#lib-context-enginerring--rag--ingestion)
+
+-   [LIB: CONTEXT ENGINERRING / RETRIEVAL / KNOWLEDGE GRAPH](#lib-context-enginerring--retrieval--knowledge-graph)
 
 -   [LIB: MCP](#lib-mcp)
 
@@ -215,8 +221,6 @@
 -   [LIB: VLM / VISION](#lib-vlm--vision)
 
 -   [LIB: TLM / TIMESERIES](#lib-tlm--timeseries)
-
--   [LIB: FREE / OPEN LLM](#lib-free--open-llm)
 
 -   [LIB: LLM](#lib-llm)
 
@@ -858,7 +862,6 @@
 -   <https://github.com/Evol-ai/SkillCompass>
 -   <https://github.com/sx4im/skillcheck>
 
-
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
 -   <https://github.com/google/skills>
@@ -980,6 +983,7 @@
 -   <https://github.com/shenli/distributed-system-testing>
 
 ## TOOLS: WORK
+
 -   <https://github.com/different-ai/openwork>
 
 ## TOOLS: CODING: IDE
@@ -1948,7 +1952,6 @@
 -   <https://github.com/HumeAI/tada>
 -   <https://tts.lobehub.com/>
 -   <https://ttsmp3.com/>
-
 
 ## LIB: AUDIO / TRANSCRIPT
 

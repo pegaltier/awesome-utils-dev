@@ -3,6 +3,7 @@
 ## TABLE OF CONTENTS
 
 -   [DBAS](#dbas)
+-   [DB EXTENSIONS](#db-extensions)
 -   [TUTOS / LEARN](#tutos--learn)
 -   [EXAMPLES](#examples)
 -   [DB TOOLS / EXPLORER / CLIENT](#db-tools--explorer--client)
@@ -27,6 +28,7 @@
 -   <https://www.freesqldatabase.com/>
 
 ## DB EXTENSIONS
+
 -   <https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql>
 -   <https://marketplace.visualstudio.com/items?itemName=databricks.neon-local-connect>
 

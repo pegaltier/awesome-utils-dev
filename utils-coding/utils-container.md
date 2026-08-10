@@ -2,13 +2,13 @@
 
 ## TABLE OF CONTENTS
 
+-   [ARTICLES](#articles)
 -   [TOOLS](#tools)
 -   [ORCHESTRATION](#orchestration)
 -   [UTILS](#utils)
 -   [DOCKER](#docker)
 -   [PODMAN](#podman)
 -   [OPENSHIFT](#openshift)
--   [KUBERNETES](#kubernetes)
 -   [VAGRANT](#vagrant)
 -   [DEBUG](#debug)
 -   [TOOLS ALL](#tools-all)
@@ -87,11 +87,17 @@ docker export cid | tar t
     -f (file) (build) simply to target a custom docker file name different than the classic local Dockerfile. usually it can be to specify a custom local file with an extension type like for the frontend image: Dockerfile.fedev. It can alo be an url with http or https
 
 -   <https://docs.podman.io/en/latest/markdown/podman-build.1.html>
+
 -   <https://docs.podman.io/en/latest/markdown/podman-run.1.html>
+
 -   <https://docs.podman.io/en/latest/markdown/podman-volume.1.html>
+
 -   <https://www.orpiske.net/2021/10/configuring-intellij-to-work-with-podman/>
+
 -   <https://www.lemagit.fr/conseil/Conteneurisation-les-differences-cles-entre-Docker-et-Podman>
+
 -   <https://www.imaginarycloud.com/blog/podman-vs-docker/>
+
 -   <https://github.com/containers/podman-compose>
 
 ## OPENSHIFT
@@ -100,7 +106,6 @@ You need two things
 
 -   OpenShift CLI 
 -   Helm CLI
-
 
 ## VAGRANT
 

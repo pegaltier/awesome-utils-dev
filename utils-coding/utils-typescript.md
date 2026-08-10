@@ -10,7 +10,7 @@
 
 -   [USEFUL](#useful)
 
--   [BEST PRACTICES](#best-practices)
+-   [ARTICLES / BEST PRACTICES](#articles--best-practices)
 
 -   [STARTER / TEMPLATE](#starter--template)
 
@@ -52,7 +52,7 @@
 
 -   [LIB: DATA OBJECT](#lib-data-object)
 
--   [LIB: DATA OBJECT: ZOD](#lib-data-object-zod)
+-   [LIB: DATA OBJECT: VALIDATOR / ZOD / OTHERS](#lib-data-object-validator--zod--others)
 
 -   [LIB: HTTP](#lib-http)
 

@@ -6,6 +6,8 @@
 
 -   [GUIDE: ONLINE](#guide-online)
 
+-   [GUIDE: STRUCTURE](#guide-structure)
+
 -   [VERSION MANAGER](#version-manager)
 
 -   [PACKAGE MANAGER](#package-manager)
@@ -40,7 +42,7 @@
 
 -   [UTILS: LINK](#utils-link)
 
--   [MONITORING / LOGGING](#monitoring--logging)
+-   [MONITORING / LOGGING / DEBUGGING / TRACING](#monitoring--logging--debugging--tracing)
 
 -   [LIBS: ALL](#libs-all)
 
@@ -52,7 +54,7 @@
 
 -   [LIBS: DATA OBJECT / DATA TYPE / BUFFER](#libs-data-object--data-type--buffer)
 
--   [LIBS: WORKER MULTI THREAD](#libs-worker-multi-thread)
+-   [LIBS: WORKER MULTI THREAD / PROCESS / EXECUTION](#libs-worker-multi-thread--process--execution)
 
 -   [LIBS: UNIT TESTING](#libs-unit-testing)
 
@@ -114,6 +116,8 @@
 
 -   [SERVER: EXPRESS/ITTY](#server-expressitty)
 
+-   [SERVER: PROCESS](#server-process)
+
 -   [SERVER: INFRA](#server-infra)
 
 -   [SERVER: EDGES](#server-edges)
@@ -163,6 +167,7 @@
 -   <https://developerehsan.medium.com/10-mind-blowing-node-js-features-that-make-it-unstoppable-86a5e98e2fc2>
 
 ## GUIDE: STRUCTURE
+
 -   <https://softwareontheroad.com/ideal-nodejs-project-structure/>
 -   <https://medium.com/@maitrijoshi1710/stop-writing-messy-backends-the-proper-node-js-project-structure-explained-aff5fe44006c>
 
@@ -836,7 +841,6 @@
 -   <https://github.com/helmetjs/helmet>
 -   <https://github.com/Uanela/arkos>
 -   <https://github.com/tsedio/tsed>
-
 
 ## SERVER: PROCESS
 

@@ -7,6 +7,7 @@
 -   [OSS: TOOLS](#oss-tools)
 -   [OSS: TOOLS: AI](#oss-tools-ai)
 -   [ICONS](#icons)
+-   [LOGOS](#logos)
 -   [WEBDESIGN](#webdesign)
 -   [COLOR](#color)
 -   [SVG](#svg)

@@ -36,7 +36,6 @@
 -   [LIB: AUTH / ACL / ACCESS RIGHT / ROLES](#lib-auth--acl--access-right--roles)
 -   [LIB: STATE MACHINE](#lib-state-machine)
 -   [LIB: UTILS](#lib-utils)
--   [LIB: ENV](#lib-env)
 -   [LIB: DESIGN PATTERN](#lib-design-pattern)
 -   [LIB: PIPELINE](#lib-pipeline)
 -   [LIB: POLYFILL](#lib-polyfill-1)

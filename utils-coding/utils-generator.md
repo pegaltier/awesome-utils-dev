@@ -2,19 +2,21 @@
 
 ## TABLE OF CONTENTS
 
--   [LIST](#list)
+-   [TOOLS](#tools)
+-   [LIBS](#libs)
 -   [YEOMAN](#yeoman)
+-   [SCHEMATICS](#schematics)
 -   [MIGRATE](#migrate)
 -   [ALL](#all)
 
 ## TOOLS
 
-- Scaffholdhub: <https://scaffoldhub.io/>
-- Apache Free maker: <http://freemarker.org>
-- Java Jet : Java emitter template: <https://www.eclipse.org/articles/Article-JET/jet_tutorial1.html>
-- Maven archetype: <https://maven.apache.org/guides/introduction/introduction-to-archetypes.html>
-- Android flavor: <https://www.androidauthority.com/building-multiple-flavors-android-app-706436/>
-- Node libs: <https://www.cbtnuggets.com/blog/technology/devops/ejs-vs-pug-vs-handlebars>
+-   Scaffholdhub: <https://scaffoldhub.io/>
+-   Apache Free maker: <http://freemarker.org>
+-   Java Jet : Java emitter template: <https://www.eclipse.org/articles/Article-JET/jet_tutorial1.html>
+-   Maven archetype: <https://maven.apache.org/guides/introduction/introduction-to-archetypes.html>
+-   Android flavor: <https://www.androidauthority.com/building-multiple-flavors-android-app-706436/>
+-   Node libs: <https://www.cbtnuggets.com/blog/technology/devops/ejs-vs-pug-vs-handlebars>
 
 ## LIBS
 

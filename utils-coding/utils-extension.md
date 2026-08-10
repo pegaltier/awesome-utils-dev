@@ -4,7 +4,10 @@
 
 -   [TOOLS](#tools)
 -   [UTILS](#utils)
+-   [INJECT](#inject)
 -   [FAMOUS](#famous)
+-   [AI](#ai)
+-   [BEST](#best)
 -   [STARTER](#starter)
 
 ## TOOLS
@@ -37,7 +40,6 @@
 ## BEST
 
 -   <https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1>
-
 
 ## STARTER
 

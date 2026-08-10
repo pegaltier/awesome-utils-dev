@@ -23,7 +23,7 @@
     -   [OSS: SYSTEM](#oss-system)
     -   [OSS: SUPPORT](#oss-support)
 
--   [OSS: SLIDE / DECK](#oss-slide--deck)
+-   [OSS: SLIDE / DECK / POWERPOINT](#oss-slide--deck--powerpoint)
 
 -   [OSS: PHOTO / IMAGE / ILLUSTRATION](#oss-photo--image--illustration)
 
@@ -44,6 +44,8 @@
     -   [OSS: COMPANY / STARTUP](#oss-company--startup)
 
     -   [OSS: DEV](#oss-dev)
+
+    -   [OSS: DESIGN](#oss-design)
 
         -   [OSS: RESEARCH](#oss-research)
 
