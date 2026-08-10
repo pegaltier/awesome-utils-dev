@@ -40,6 +40,7 @@
 -   <https://github.com/memstechtips/Winhance>
 -   <https://github.com/Awesome-Windows/Awesome>
 -   <https://github.com/builtbybel/FluentCleaner>
+-   <https://github.com/tristan666666/agent-island>
 
 ## TOOLS: EMULATE
 
