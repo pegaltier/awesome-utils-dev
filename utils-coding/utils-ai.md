@@ -1105,12 +1105,27 @@
 
 ## TOOLS: AVATAR
 
+-   <https://elai.io/>
+-   <https://akool.com/>
+-   <https://charsnap.ai/>
 -   <https://www.joypix.ai/>
+-   <https://www.duix.com/>
+-   <https://www.tavus.io/>
+-   <https://www.d-id.com/>
 -   <https://www.mascot.bot/>
 -   <https://www.heygen.com/>
--   <https://www.sievedata.com/>
+-   <https://lemonslice.com/>
+-   <https://www.capcut.com/>
+-   <https://pitchavatar.com/>
+-   <https://www.gliastar.com/>
 -   <https://www.synthesia.io/>
+-   <https://www.sievedata.com/>
 -   <https://www.aistudios.com/>
+-   <https://www.colossyan.com/>
+-   <https://www.beyondpresence.ai/>
+
+## TOOLS: AVATAR OSS
+
 -   <https://github.com/HumanAIGC/EMO>
 -   <https://github.com/Lightricks/LTX-2>
 -   <https://github.com/Henry-23/VideoChat>
