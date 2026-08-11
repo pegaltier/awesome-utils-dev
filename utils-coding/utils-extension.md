@@ -40,6 +40,7 @@
 ## BEST
 
 -   <https://chromewebstore.google.com/detail/bulk-url-opener/jclbjhflehefkfnibjdigljoaggchhcd?pli=1>
+-   <https://chromewebstore.google.com/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm>
 
 ## STARTER
 
