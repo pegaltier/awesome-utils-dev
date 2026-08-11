@@ -74,4 +74,5 @@ create avatar .GLB / ARKit / Visemes
 -   <https://www.agora.io/en/blog/build-real-time-ai-avatars-with-lip-sync-using-agora-convoai-rpm/>
 -   <https://pooyadeperson.com/the-ultimate-guide-to-creating-arkits-52-facial-blendshapes/>
 -   <https://harrybin.de/posts/give-it-a-face-to-talk-to/>
+-   <https://polywink.com/en/47-talking-avatar.html>
 -   <https://www.youtube.com/watch?v=dOmSDcAuydY>
