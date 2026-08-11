@@ -1107,14 +1107,12 @@
 
 -   <https://elai.io/>
 -   <https://akool.com/>
--   <https://charsnap.ai/>
+-   <https://charsnap.ai/> Friday, August 28t
 -   <https://www.joypix.ai/>
--   <https://www.duix.com/>
 -   <https://www.tavus.io/>
 -   <https://www.d-id.com/>
 -   <https://www.mascot.bot/>
 -   <https://www.heygen.com/>
--   <https://lemonslice.com/>
 -   <https://www.capcut.com/>
 -   <https://pitchavatar.com/>
 -   <https://www.gliastar.com/>
@@ -1123,6 +1121,11 @@
 -   <https://www.aistudios.com/>
 -   <https://www.colossyan.com/>
 -   <https://www.beyondpresence.ai/>
+
+## TOOLS: AVATAR BOT
+-   <https://lemonslice.com/>
+-   <https://www.duix.com/>
+
 
 ## TOOLS: AVATAR OSS
 
