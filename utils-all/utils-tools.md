@@ -331,6 +331,7 @@
 -   <https://github.com/TeamNewPipe/NewPipe>
 -   <https://github.com/obra/Youtube2Webpage>
 -   <https://github.com/goshops-com/clipshare>
+-   <https://github.com/diffusionstudio/editor>
 -   <https://github.com/aegir-assembly/omni-clip>
 -   <https://github.com/siddharthvaddem/openscreen>
 -   <https://github.com/KurtBestor/Hitomi-Downloader>
