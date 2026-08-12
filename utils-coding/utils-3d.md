@@ -28,6 +28,7 @@
 -   <https://vroid.com/>
 -   <https://avaturn.me/>
 -   <https://www.meshy.ai/>
+-   <https://threedium.io/>
 -   <https://avatarsdk.com/>
 
 ## TOOLS: AVATAR TOOLS
@@ -38,6 +39,7 @@
 
 -   <https://renderbot.com/>
 -   <https://sketchfab.com/>
+-   <https://kitbash3d.com/>
 -   <https://humandataset.com/>
 
 
