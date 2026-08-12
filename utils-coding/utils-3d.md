@@ -27,6 +27,7 @@
 
 -   <https://vroid.com/>
 -   <https://avaturn.me/>
+-   <https://genies.com/>
 -   <https://www.meshy.ai/>
 -   <https://threedium.io/>
 -   <https://avatarsdk.com/>
@@ -34,6 +35,7 @@
 ## TOOLS: AVATAR TOOLS
 
 -   <https://convert3d.org/>
+-   <https://www.mixamo.com/>
 
 ## TOOLS: AVATAR BANK
 
@@ -65,8 +67,11 @@
 -   <https://github.com/navtalk/Samples/tree/main/ASRLLMTTS>
 -   <https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar>
 -   <https://github.com/HumanAIGC-Engineering/OpenAvatarChat>
--   <https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis>
 -   <https://github.com/makehumancommunity/mpfb2/issues/302>
+-   <https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis>
+-   <https://github.com/avatarsdk/metaperson-quest-movement-sdk-sample>
+-   <https://github.com/avatarsdk/metaperson-loader-threejs/tree/main>
+-   <https://docs.metaperson.avatarsdk.com/livespeak/samples>
 -   <https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar>
 
 ## TUTOS
