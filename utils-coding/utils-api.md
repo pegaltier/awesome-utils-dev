@@ -343,6 +343,7 @@
 
 ## HEALTHCHECK
 
+-   <https://apistatuscheck.com/>
 -   <https://github.com/brotandgames/ciao>
 -   <https://github.com/openstatusHQ/openstatus>
 
