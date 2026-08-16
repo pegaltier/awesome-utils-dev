@@ -155,6 +155,7 @@
 ## PHOTOS
 
 -   <https://imagefinder.co>
+-   <https://www.magnific.com/>
 -   <http://fr.freeimages.com/>
 -   <https://www.aisplash.com/>
 -   <https://texturelabs.org/>

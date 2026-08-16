@@ -1081,14 +1081,22 @@
 ## TOOLS: VIDEO
 
 -   <https://bfl.ai/>
+-   <https://claid.ai/>
 -   <https://kling.ai/>
 -   <https://vizard.ai/>
+-   <https://www.jogg.ai/>
+-   <https://lumalabs.ai/>
 -   <https://seedance2.ai/>
 -   <https://runwayml.com/>
 -   <https://higgsfield.ai/>
 -   <https://firstframe.ai/>
 -   <https://happyhorse.app/>
+-   <https://realesrgan.com/>
+-   <https://www.nextify.ai/>
+-   <https://app.enhancor.ai/>
 -   <https://playground.bfl.ai>
+-   <https://www.magnific.com/>
+-   <https://www.visionstory.ai/>
 
 ## TOOLS: AUDIO
 
@@ -1972,6 +1980,39 @@
 -   <https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator>
 -   <https://github.com/hkchengrex/Tracking-Anything-with-DEVA>
 -   <https://github.com/topics/hyperframes>
+
+## LIB: VIDEO ENHANCE / RESTORE / UPSCALE
+-   <https://github.com/wayveai/EPE>
+-   <https://github.com/NVlabs/SPADE>
+-   <https://github.com/NVIDIA/vid2vid>
+-   <https://github.com/stefanos50/REGEN>
+-   <https://github.com/NVlabs/imaginaire>
+-   <https://github.com/Bing-su/adetailer>
+-   <https://github.com/xinntao/real-esrgan>
+-   <https://github.com/Liangsanzhu/Photo3D/>
+-   <https://github.com/hzwer/Practical-RIFE>
+-   <https://github.com/Djdefrag/FluidFrames>
+-   <https://github.com/stefanos50/CARLA2Real>
+-   <https://github.com/Djdefrag/QualityScaler>
+-   <https://github.com/TNTwise/REAL-Video-Enhancer/>
+-   <https://github.com/isl-org/PhotorealismEnhancement>
+-   <https://github.com/Joly0/REAL-Video-Enhancer-docker>
+-   <https://github.com/janishutz/SimpleMediaUpscalerLite>
+-   <https://github.com/alex-jov/fully-local-video-ai-upscaler>
+
+## LIB: VIDEO DEEP FAKE / FACE SWAP
+
+-   <https://github.com/goberoi/faceit>
+-   <https://github.com/ai-forever/ghost>
+-   <https://github.com/deepfakes/faceswap>
+-   <https://github.com/matthewearl/faceswap>
+-   <https://github.com/visomaster/VisoMaster>
+-   <https://github.com/facefusion/facefusion>
+-   <https://github.com/bshaffer/faceswap-docker>
+-   <https://github.com/pfrankov/video-face-swap>
+-   <https://github.com/facefusion/facefusion-docker>
+-   <https://github.com/ramimK0bir/Face-swap-from-video>
+-   <https://github.com/VisoMasterFusion/VisoMaster-Fusion>
 
 ## LIB: OCR IMAGE RECOGNITION
 

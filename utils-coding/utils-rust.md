@@ -68,6 +68,7 @@
 -   <https://github.com/PaulRBerg/rust-template>
 -   <https://github.com/Orange-OpenSource/hurl>
 -   <https://github.com/cargo2nix/cargo2nix>
+-   <https://github.com/Boshen/cargo-bsize>
 -   <https://github.com/rust-phf/rust-phf>
 -   <https://github.com/NVlabs/cutile-rs>
 -   <https://github.com/hoxxep/rapidhash>
