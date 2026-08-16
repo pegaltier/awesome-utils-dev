@@ -36,11 +36,20 @@
 
 -   <https://convert3d.org/>
 -   <https://www.mixamo.com/>
+-   <https://www.alpha3d.io/>
+-   <https://studio.tripo3d.ai/>
+-   <https://raugen.com/toolbox/glb-editor>
 
 ## TOOLS: TO 3D TOOLS
 
 -   <https://blmn.ai/>
+-   <https://fast3d.io/>
+-   <https://www.eler.ai/>
+-   <https://app.sloyd.ai/>
 -   <https://supercraft.ai/>
+-   <https://www.glb2png.com/>
+-   <https://rendair.ai/tools/>
+-   <https://picai.com/ai-image-to-3d>
 
 ## TOOLS: AVATAR BANK
 
@@ -59,15 +68,22 @@
 -   <https://github.com/shibing624/AIAvatar>
 -   <https://github.com/duixcom/Duix-Avatar>
 -   <https://github.com/met4citizen/HeadTTS>
+-   <https://github.com/google/model-viewer>
 -   <https://github.com/bytedance/X-Portrait>
+-   <https://github.com/naruya/gaussian-vrm>
 -   <https://github.com/OpenTalker/SadTalker>
 -   <https://github.com/met4citizen/HeadAudio>
+-   <https://github.com/jonathsch/becominglit>
+-   <https://github.com/aipixel/gaussianavatar>
 -   <https://github.com/hmthanh/3d-human-model>
 -   <https://github.com/met4citizen/TalkingHead>
 -   <https://github.com/alievk/avatarify-python>
+-   <https://github.com/yukun-huang/DreamWaltz-G>
 -   <https://github.com/makehuman-js/makehuman-js>
 -   <https://github.com/Francis-Rings/StableAvatar>
+-   <https://github.com/ShenhanQian/GaussianAvatars>
 -   <https://github.com/mascotbot/elevenlabs-avatar>
+-   <https://github.com/tobias-kirschstein/flexavatar>
 -   <https://github.com/Tencent-Hunyuan/HunyuanPortrait>
 -   <https://github.com/navtalk/Samples/tree/main/ASRLLMTTS>
 -   <https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar>

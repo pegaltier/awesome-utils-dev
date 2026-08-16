@@ -1095,6 +1095,7 @@
 -   <https://runwayml.com/>
 -   <https://higgsfield.ai/>
 -   <https://firstframe.ai/>
+-   <https://upsampler.com/>
 -   <https://happyhorse.app/>
 -   <https://realesrgan.com/>
 -   <https://www.nextify.ai/>
@@ -1999,10 +2000,8 @@
 
 ## LIB: VIDEO ENHANCE / RESTORE / UPSCALE
 -   <https://github.com/wayveai/EPE>
--   <https://github.com/NVlabs/SPADE>
--   <https://github.com/NVIDIA/vid2vid>
+
 -   <https://github.com/stefanos50/REGEN>
--   <https://github.com/NVlabs/imaginaire>
 -   <https://github.com/Bing-su/adetailer>
 -   <https://github.com/xinntao/real-esrgan>
 -   <https://github.com/Liangsanzhu/Photo3D/>
@@ -2015,6 +2014,12 @@
 -   <https://github.com/Joly0/REAL-Video-Enhancer-docker>
 -   <https://github.com/janishutz/SimpleMediaUpscalerLite>
 -   <https://github.com/alex-jov/fully-local-video-ai-upscaler>
+
+## LIB: VIDEO PHOTOREALISM
+-   <https://github.com/NVlabs/SPADE>
+-   <https://github.com/NVIDIA/vid2vid>
+-   <https://github.com/NVlabs/imaginaire>
+-   <https://github.com/NVlabs/few-shot-vid2vid>
 
 ## LIB: VIDEO DEEP FAKE / FACE SWAP
 
