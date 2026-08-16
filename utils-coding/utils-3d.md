@@ -37,6 +37,11 @@
 -   <https://convert3d.org/>
 -   <https://www.mixamo.com/>
 
+## TOOLS: TO 3D TOOLS
+
+-   <https://blmn.ai/>
+-   <https://supercraft.ai/>
+
 ## TOOLS: AVATAR BANK
 
 -   <https://renderbot.com/>

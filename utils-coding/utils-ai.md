@@ -1044,6 +1044,11 @@
 -   <https://github.com/DeepBlueDynamics/codex-container>
 -   <https://github.com/tizkovatereza/awesome-ai-sandboxes>
 
+## TOOLS: CLOUD RUN
+
+-   <https://www.runpod.io/>
+-   <https://www.mimicpc.com/>
+
 ## TOOLS: IMAGE
 
 -   <https://fal.ai/>
@@ -1097,6 +1102,15 @@
 -   <https://playground.bfl.ai>
 -   <https://www.magnific.com/>
 -   <https://www.visionstory.ai/>
+
+## TOOLS: VIDEO FACE
+-   <https://wan-animate.com/>
+-   <https://www.domoai.app/fr/create/move>
+-   <https://muapi.ai/open-generative-ai/body-swap>
+-   <https://www.segmind.com/pixelflows/ai-body-swap>
+-   <https://www.segmind.com/models/video-faceswap-by-facefusion-labs>
+-   <https://openart.ai/suite/replace-character/openart-replace-character-body>
+
 
 ## TOOLS: AUDIO
 
@@ -1969,7 +1983,9 @@
 -   <https://github.com/hacksider/Deep-Live-Cam>
 -   <https://github.com/ultralytics/ultralytics>
 -   <https://github.com/chatfire-AI/huobao-drama>
+-   <https://github.com/SamurAIGPT/Vibe-Workflow>
 -   <https://github.com/HVision-NKU/StoryDiffusion>
+-   <https://github.com/SamurAIGPT/Text-To-Video-AI>
 -   <https://github.com/fudan-generative-vision/hallo>
 -   <https://github.com/Anil-matcha/Open-Generative-AI>
 -   <https://github.com/Anil-matcha/Open-Higgsfield-AI>
@@ -2005,9 +2021,11 @@
 -   <https://github.com/goberoi/faceit>
 -   <https://github.com/ai-forever/ghost>
 -   <https://github.com/deepfakes/faceswap>
+-   <https://github.com/neuralchen/simswap>
 -   <https://github.com/matthewearl/faceswap>
 -   <https://github.com/visomaster/VisoMaster>
 -   <https://github.com/facefusion/facefusion>
+-   <https://github.com/deepinsight/insightface>
 -   <https://github.com/bshaffer/faceswap-docker>
 -   <https://github.com/pfrankov/video-face-swap>
 -   <https://github.com/facefusion/facefusion-docker>
