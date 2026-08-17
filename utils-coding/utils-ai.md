@@ -573,6 +573,7 @@
 -   <https://github.com/Portkey-AI/gateway>
 -   <https://github.com/mnfst/manifest>
 -   <https://vercel.com/ai-gateway>
+-   <https://www.segmind.com/>
 -   <https://www.together.ai/>
 -   <https://www.requesty.ai/>
 -   <https://concentrate.ai/>
@@ -1058,6 +1059,7 @@
 
 -   <https://www.runpod.io/>
 -   <https://www.mimicpc.com/>
+-   <https://www.runcomfy.com/>
 
 ## TOOLS: IMAGE
 
@@ -1113,6 +1115,7 @@
 -   <https://playground.bfl.ai>
 -   <https://www.magnific.com/>
 -   <https://www.visionstory.ai/>
+-   <https://dreamina.capcut.com/>
 
 ## TOOLS: VIDEO FACE
 
@@ -1122,6 +1125,8 @@
 -   <https://www.segmind.com/pixelflows/ai-body-swap>
 -   <https://www.segmind.com/models/video-faceswap-by-facefusion-labs>
 -   <https://openart.ai/suite/replace-character/openart-replace-character-body>
+-   <https://www.mimicpc.com/workflows/faceswap-with-flux-klein-9b-fp8-fast-faceswap-with-flux-klein>
+-   <https://www.runcomfy.com/comfyui-workflows/flux-klein-face-swap-in-comfyui-seamless-ai-face-replacement>
 
 ## TOOLS: AUDIO
 
