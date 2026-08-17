@@ -1098,6 +1098,7 @@
 ## TOOLS: VIDEO
 
 -   <https://bfl.ai/>
+-   <https://wink.ai>
 -   <https://claid.ai/>
 -   <https://kling.ai/>
 -   <https://vizard.ai/>

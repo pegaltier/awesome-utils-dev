@@ -1,5 +1,9 @@
 # 3D
 
+## TOOLS: OSS
+
+-   <https://github.com/blender/blender>
+
 ## TOOLS: AVATAR
 
 -   <https://elai.io/>
@@ -39,6 +43,7 @@
 -   <https://www.mixamo.com/>
 -   <https://www.alpha3d.io/>
 -   <https://studio.tripo3d.ai/>
+-   <https://www.sloyd.ai/avatar-creator>
 -   <https://raugen.com/toolbox/glb-editor>
 
 ## TOOLS: TO 3D TOOLS
@@ -48,6 +53,7 @@
 -   <https://www.eler.ai/>
 -   <https://app.sloyd.ai/>
 -   <https://supercraft.ai/>
+-   <https://www.ooz3d.com/>
 -   <https://www.glb2png.com/>
 -   <https://rendair.ai/tools/>
 -   <https://picai.com/ai-image-to-3d>
@@ -63,6 +69,9 @@
 -   <https://sketchfab.com/>
 -   <https://kitbash3d.com/>
 -   <https://humandataset.com/>
+
+## TOOLS: OBJECT BANK
+-   <https://furnimesh.com/>
 
 ## TOOLS: AVATAR OSS
 
