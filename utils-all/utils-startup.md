@@ -41,6 +41,7 @@ https://jatins.gitlab.io/me/why-startup/
 
 ## Start
 
+-   <https://ideahunter.today/>
 -   <https://www.uniqueside.io/>
 -   <https://www.ideabrowser.com/>
 

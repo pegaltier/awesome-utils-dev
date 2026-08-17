@@ -112,15 +112,17 @@
 
 -   [TOOLS: SANDBOXING / CONTAINER](#tools-sandboxing--container)
 
+-   [TOOLS: CLOUD RUN](#tools-cloud-run)
+
 -   [TOOLS: IMAGE](#tools-image)
 
 -   [TOOLS: VIDEO](#tools-video)
 
+-   [TOOLS: VIDEO FACE](#tools-video-face)
+
 -   [TOOLS: AUDIO](#tools-audio)
 
 -   [TOOLS: MUSIC](#tools-music)
-
--   [TOOLS: AVATAR](#tools-avatar)
 
 -   [TOOLS: MOBILE](#tools-mobile)
 
@@ -237,6 +239,12 @@
 -   [LIB: AUDIO / TRANSCRIPT](#lib-audio--transcript)
 
 -   [LIB: VIDEO](#lib-video)
+
+-   [LIB: VIDEO ENHANCE / RESTORE / UPSCALE](#lib-video-enhance--restore--upscale)
+
+-   [LIB: VIDEO PHOTOREALISM](#lib-video-photorealism)
+
+-   [LIB: VIDEO DEEP FAKE / FACE SWAP](#lib-video-deep-fake--face-swap)
 
 -   [LIB: OCR IMAGE RECOGNITION](#lib-ocr-image-recognition)
 
@@ -1106,13 +1114,13 @@
 -   <https://www.visionstory.ai/>
 
 ## TOOLS: VIDEO FACE
+
 -   <https://wan-animate.com/>
 -   <https://www.domoai.app/fr/create/move>
 -   <https://muapi.ai/open-generative-ai/body-swap>
 -   <https://www.segmind.com/pixelflows/ai-body-swap>
 -   <https://www.segmind.com/models/video-faceswap-by-facefusion-labs>
 -   <https://openart.ai/suite/replace-character/openart-replace-character-body>
-
 
 ## TOOLS: AUDIO
 
@@ -2000,23 +2008,37 @@
 -   <https://github.com/topics/hyperframes>
 
 ## LIB: VIDEO ENHANCE / RESTORE / UPSCALE
+
 -   <https://github.com/wayveai/EPE>
 
 -   <https://github.com/stefanos50/REGEN>
+
 -   <https://github.com/Bing-su/adetailer>
+
 -   <https://github.com/xinntao/real-esrgan>
+
 -   <https://github.com/Liangsanzhu/Photo3D/>
+
 -   <https://github.com/hzwer/Practical-RIFE>
+
 -   <https://github.com/Djdefrag/FluidFrames>
+
 -   <https://github.com/stefanos50/CARLA2Real>
+
 -   <https://github.com/Djdefrag/QualityScaler>
+
 -   <https://github.com/TNTwise/REAL-Video-Enhancer/>
+
 -   <https://github.com/isl-org/PhotorealismEnhancement>
+
 -   <https://github.com/Joly0/REAL-Video-Enhancer-docker>
+
 -   <https://github.com/janishutz/SimpleMediaUpscalerLite>
+
 -   <https://github.com/alex-jov/fully-local-video-ai-upscaler>
 
 ## LIB: VIDEO PHOTOREALISM
+
 -   <https://github.com/NVlabs/SPADE>
 -   <https://github.com/NVIDIA/vid2vid>
 -   <https://github.com/NVlabs/imaginaire>

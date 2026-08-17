@@ -20,6 +20,7 @@
 -   <https://www.beyondpresence.ai/>
 
 ## TOOLS: AVATAR BOT
+
 -   <https://lemonslice.com/>
 -   <https://www.duix.com/>
 
@@ -57,7 +58,6 @@
 -   <https://sketchfab.com/>
 -   <https://kitbash3d.com/>
 -   <https://humandataset.com/>
-
 
 ## TOOLS: AVATAR OSS
 
@@ -98,6 +98,7 @@
 ## TUTOS
 
 create avatar .GLB / ARKit / Visemes
+
 -   <https://medium.com/@roshan4004/bringing-blogs-to-life-how-i-built-an-avatar-to-recite-travel-stories-in-nepali-and-english-eb39a4373b35>
 -   <https://www.agora.io/en/blog/build-real-time-ai-avatars-with-lip-sync-using-agora-convoai-rpm/>
 -   <https://pooyadeperson.com/the-ultimate-guide-to-creating-arkits-52-facial-blendshapes/>

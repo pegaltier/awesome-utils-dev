@@ -2,7 +2,9 @@
 
 ## TABLE OF CONTENTS
 
--   -   [Web](#web)
+-   -   [ONLINE TOOLS: ALL](#online-tools-all)
+    -   [ONLINE TOOLS: DEV](#online-tools-dev)
+    -   [ONLINE TOOLS: VIDEOS](#online-tools-videos)
     -   [OSS: ALL](#oss-all)
     -   [OSS: TRAVEL](#oss-travel)
     -   [OSS: NEWS](#oss-news)
@@ -29,7 +31,9 @@
 
     -   [OSS: AUDIO](#oss-audio)
 
-    -   [OSS: VIDEO](#oss-video)
+    -   [OSS: VIDEO RECORD / EDIT](#oss-video-record--edit)
+
+    -   [OSS: VIDEO DOWNLOAD](#oss-video-download)
 
     -   [OSS: MEDIAS / PRESENTATION / BOOK / PDF / DOCS](#oss-medias--presentation--book--pdf--docs)
 
@@ -93,20 +97,16 @@
     -   [Desktop Solutions](#desktop-solutions)
     -   [Dotfiles](#dotfiles)
 
-## Web
+## ONLINE TOOLS: ALL
 
 -   <https://tally.so/>
--   <https://devsuite.co/>
 -   <https://radiocast.co/>
--   <https://it-tools.tech/>
 -   <https://dingboard.com/>
 -   <https://pimeyes.com/en>
 -   <https://www.tldraw.com/>
 -   <https://owncast.online/>
 -   <https://fcksignups.com/>
--   <https://transform.tools/>
 -   <https://beginthings.com/>
--   <https://codebeautify.org/>
 -   <https://phalternatives.com/>
 -   <https://onlineminitools.com/>
 -   <https://measurethat.net/Tools>
@@ -119,11 +119,17 @@
 -   <https://nutilz.com/>
 -   <https://jsonic.io>
 
+## ONLINE TOOLS: DEV
+
+-   <https://it-tools.tech/>
+-   <https://transform.tools/>
+-   <https://codebeautify.org/>
+
 ## ONLINE TOOLS: VIDEOS
+
 -   <https://raugen.com/toolbox>
 -   <https://online-video-cutter.com/>
 -   <https://www.videokit.cc/en/video-splitter>
-
 
 ## OSS: ALL
 
@@ -331,17 +337,29 @@
 ## OSS: VIDEO DOWNLOAD
 
 -   <https://github.com/nexmoe/VidBee>
+
 -   <https://github.com/pingdotgg/lawn>
+
 -   <https://github.com/Ihsan172/Vanced>
+
 -   <https://github.com/alexta69/metube>
+
 -   <https://github.com/fonoster/goodtok>
+
 -   <https://github.com/iv-org/invidious>
+
 -   <https://github.com/tonhowtf/omniget>
+
 -   <https://github.com/caorushizi/mediago>
+
 -   <https://github.com/steipete/summarize>
+
 -   <https://github.com/alyssaxuu/screenity>
+
 -   <https://github.com/TeamNewPipe/NewPipe>
+
 -   <https://github.com/obra/Youtube2Webpage>
+
 -   <https://github.com/goshops-com/clipshare>
 
 -   <https://github.com/KurtBestor/Hitomi-Downloader>
@@ -538,6 +556,7 @@
 ## List
 
 -   <https://untools.co/>
+-   <https://devsuite.co/>
 -   <https://free-for.dev/#/>
 -   <https://alternativeto.net/>
 -   <https://openalternative.co/>

@@ -8,6 +8,8 @@
 
 -   [TOOLS](#tools)
 
+-   [ARTIFICIAL INTELLIGENCE](#artificial-intelligence)
+
 -   [PACKAGE MANAGER](#package-manager)
 
 -   [JAVA](#java)
