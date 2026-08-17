@@ -112,14 +112,18 @@
 -   <https://measurethat.net/Tools>
 -   <https://oscarleo.com/google-trends>
 -   <https://metatags.io/font-generator>
--   <https://tinytools-smoky.vercel.app/>
--   <https://online-video-cutter.com/>
 -   <https://alltoolsverse.com/>
 -   <https://raugen.com/toolbox>
 -   <https://mini-tools.uk/>
 -   <https://gentools.io/>
 -   <https://nutilz.com/>
 -   <https://jsonic.io>
+
+## ONLINE TOOLS: VIDEOS
+-   <https://raugen.com/toolbox>
+-   <https://online-video-cutter.com/>
+-   <https://www.videokit.cc/en/video-splitter>
+
 
 ## OSS: ALL
 
