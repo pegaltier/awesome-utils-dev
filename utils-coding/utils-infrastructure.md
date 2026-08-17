@@ -257,6 +257,7 @@
 -   <https://github.com/asynkron/TraceLens>
 -   <https://github.com/hyperdxio/hyperdx>
 -   <https://github.com/uptrace/uptrace>
+-   <https://github.com/bugsink/bugsink>
 -   <https://github.com/grafana/grafana>
 -   <https://github.com/SigNoz/signoz>
 -   <https://github.com/keephq/keep>

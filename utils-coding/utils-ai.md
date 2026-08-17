@@ -754,6 +754,7 @@
 
 ## TOOLS: CODING: OSS HARNESS
 
+-   <https://github.com/zeronsh/comet>
 -   <https://github.com/yc-software/qm>
 -   <https://github.com/1jehuang/jcode>
 -   <https://github.com/HKUDS/OpenHarness>
@@ -2010,31 +2011,18 @@
 ## LIB: VIDEO ENHANCE / RESTORE / UPSCALE
 
 -   <https://github.com/wayveai/EPE>
-
 -   <https://github.com/stefanos50/REGEN>
-
 -   <https://github.com/Bing-su/adetailer>
-
 -   <https://github.com/xinntao/real-esrgan>
-
 -   <https://github.com/Liangsanzhu/Photo3D/>
-
 -   <https://github.com/hzwer/Practical-RIFE>
-
 -   <https://github.com/Djdefrag/FluidFrames>
-
 -   <https://github.com/stefanos50/CARLA2Real>
-
 -   <https://github.com/Djdefrag/QualityScaler>
-
 -   <https://github.com/TNTwise/REAL-Video-Enhancer/>
-
 -   <https://github.com/isl-org/PhotorealismEnhancement>
-
 -   <https://github.com/Joly0/REAL-Video-Enhancer-docker>
-
 -   <https://github.com/janishutz/SimpleMediaUpscalerLite>
-
 -   <https://github.com/alex-jov/fully-local-video-ai-upscaler>
 
 ## LIB: VIDEO PHOTOREALISM
@@ -2046,6 +2034,7 @@
 
 ## LIB: VIDEO DEEP FAKE / FACE SWAP
 
+-   <https://github.com/HumanAIGC/EMO>
 -   <https://github.com/goberoi/faceit>
 -   <https://github.com/ai-forever/ghost>
 -   <https://github.com/deepfakes/faceswap>
@@ -2053,12 +2042,16 @@
 -   <https://github.com/matthewearl/faceswap>
 -   <https://github.com/visomaster/VisoMaster>
 -   <https://github.com/facefusion/facefusion>
+-   <https://github.com/yerfor/Real3DPortrait>
 -   <https://github.com/deepinsight/insightface>
 -   <https://github.com/bshaffer/faceswap-docker>
 -   <https://github.com/pfrankov/video-face-swap>
+-   <https://github.com/codeprimate/personfromvid>
 -   <https://github.com/facefusion/facefusion-docker>
+-   <https://github.com/yule-li/Human-Video-Generation>
 -   <https://github.com/ramimK0bir/Face-swap-from-video>
 -   <https://github.com/VisoMasterFusion/VisoMaster-Fusion>
+-   <https://github.com/lusinlu/Video-Generation-for-Human-Avatars>
 
 ## LIB: OCR IMAGE RECOGNITION
 

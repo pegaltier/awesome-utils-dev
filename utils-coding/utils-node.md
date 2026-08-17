@@ -276,6 +276,7 @@
 -   <https://github.com/xddq/nodejs-typescript-modern-starter>
 -   <https://github.com/JoshuaKGoldberg/create-typescript-app>
 -   <https://github.com/bluesky-social/statusphere-example-app>
+-   <https://github.com/seanpmaxwell/express-generator-typescript>
 -   <https://github.com/meysamhadeli/booking-microservices-express-js/>
 -   <https://github.com/invtfl-yuvraj/express-ts-production-ready-setup>
 -   <https://github.com/AlbertHernandez/express-typescript-service-template>
