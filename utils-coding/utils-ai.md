@@ -762,7 +762,9 @@
 -   <https://github.com/xai-org/grok-build>
 -   <https://github.com/Gitlawb/openclaude>
 -   <https://github.com/NousResearch/hermes-agent>
+-   <https://github.com/deepseek-ai/deepseek-harness>
 -   <https://github.com/PrimeIntellect-ai/prime-agent>
+-   <https://github.com/anywhere-labs/deepseek-harness-desktop>
 
 ## TOOLS: CODING: OSS DEBUG
 
