@@ -62,10 +62,6 @@
 -   <https://github.com/yournextstore/yournextstore>
 -   <https://github.com/commercetools/commercetools-sdk-typescript>
 
-## Social network
-
--   <https://github.com/gabboman/wafrn>
-
 ## ERP / CRM / HR
 
 -   <https://github.com/open-mercato/open-mercato>
@@ -110,6 +106,14 @@
 ## Chatbot
 
 -   <https://github.com/baptisteArno/typebot.io>
+
+## Radio
+
+-   <https://github.com/perminder-klair/subwave>
+
+## Social network
+
+-   <https://github.com/gabboman/wafrn>
 
 ## Automation
 

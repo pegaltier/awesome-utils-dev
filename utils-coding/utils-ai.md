@@ -1939,9 +1939,11 @@
 -   <https://github.com/samuel-vitorino/sopro>
 -   <https://github.com/FunAudioLLM/CosyVoice>
 -   <https://github.com/myshell-ai/OpenVoice>
+-   <https://github.com/canopyai/Orpheus-TTS>
 -   <https://github.com/SparkAudio/Spark-TTS>
 -   <https://github.com/boson-ai/higgs-audio>
 -   <https://github.com/neuphonic/neutts-air>
+-   <https://github.com/OHF-Voice/piper1-gpl>
 -   <https://github.com/microsoft/VibeVoice>
 -   <https://github.com/index-tts/index-tts>
 -   <https://github.com/bytedance/MegaTTS3>
@@ -2026,7 +2028,6 @@
 -   <https://github.com/stefanos50/CARLA2Real>
 -   <https://github.com/Djdefrag/QualityScaler>
 -   <https://github.com/TNTwise/REAL-Video-Enhancer/>
--   <https://github.com/isl-org/PhotorealismEnhancement>
 -   <https://github.com/Joly0/REAL-Video-Enhancer-docker>
 -   <https://github.com/janishutz/SimpleMediaUpscalerLite>
 -   <https://github.com/alex-jov/fully-local-video-ai-upscaler>
@@ -2035,8 +2036,10 @@
 
 -   <https://github.com/NVlabs/SPADE>
 -   <https://github.com/NVIDIA/vid2vid>
+-   <https://github.com/yiyuzhuang/IDOL>
 -   <https://github.com/NVlabs/imaginaire>
 -   <https://github.com/NVlabs/few-shot-vid2vid>
+-   <https://github.com/isl-org/PhotorealismEnhancement>
 
 ## LIB: VIDEO DEEP FAKE / FACE SWAP
 

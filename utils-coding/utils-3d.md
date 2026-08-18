@@ -77,23 +77,23 @@
 
 -   <https://github.com/openhuman-ai>
 -   <https://github.com/HumanAIGC/EMO>
+-   <https://github.com/snuvclab/perse>
 -   <https://github.com/Lightricks/LTX-2>
 -   <https://github.com/Henry-23/VideoChat>
 -   <https://github.com/shibing624/AIAvatar>
 -   <https://github.com/duixcom/Duix-Avatar>
--   <https://github.com/met4citizen/HeadTTS>
 -   <https://github.com/google/model-viewer>
 -   <https://github.com/bytedance/X-Portrait>
 -   <https://github.com/naruya/gaussian-vrm>
 -   <https://github.com/OpenTalker/SadTalker>
--   <https://github.com/met4citizen/HeadAudio>
 -   <https://github.com/jonathsch/becominglit>
 -   <https://github.com/aipixel/gaussianavatar>
 -   <https://github.com/hmthanh/3d-human-model>
--   <https://github.com/met4citizen/TalkingHead>
 -   <https://github.com/alievk/avatarify-python>
+-   <https://github.com/LizhenWangT/StyleAvatar>
 -   <https://github.com/yukun-huang/DreamWaltz-G>
 -   <https://github.com/makehuman-js/makehuman-js>
+-   <https://github.com/liuhx02/YourEditableAvatar>
 -   <https://github.com/Francis-Rings/StableAvatar>
 -   <https://github.com/ShenhanQian/GaussianAvatars>
 -   <https://github.com/mascotbot/elevenlabs-avatar>
@@ -108,6 +108,18 @@
 -   <https://github.com/avatarsdk/metaperson-loader-threejs/tree/main>
 -   <https://docs.metaperson.avatarsdk.com/livespeak/samples>
 -   <https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar>
+
+## TOOLS: AVATAR OSS THREEJS
+-   <https://github.com/lo-th/Avatar.lab>
+-   <https://github.com/met4citizen/HeadTTS>
+-   <https://github.com/met4citizen/HeadAudio>
+-   <https://github.com/bornfree/talking_avatar>
+-   <https://github.com/met4citizen/TalkingHead>
+-   <https://github.com/VerseEngine/verse-three>
+-   <https://github.com/VerseEngine/three-avatar>
+-   <https://github.com/ruslanmv/3D-Avatar-Chatbot>
+-   <https://github.com/shrekshao/gltf-avatar-threejs>
+-   <https://github.com/avaturn/avaturn-threejs-example>
 
 ## TUTOS
 
