@@ -1998,6 +1998,7 @@
 -   <https://github.com/Wan-Video/Wan2.2>
 -   <https://github.com/WongKinYiu/yolov9>
 -   <https://github.com/topics/ai-avatars>
+-   <https://github.com/THU-SI/VideoScene>
 -   <https://github.com/SandAI-org/MAGI-1>
 -   <https://github.com/nexu-io/html-video>
 -   <https://github.com/saturndec/waoowaoo>
@@ -2015,10 +2016,12 @@
 -   <https://github.com/hacksider/Deep-Live-Cam>
 -   <https://github.com/ultralytics/ultralytics>
 -   <https://github.com/chatfire-AI/huobao-drama>
+-   <https://github.com/lixiaowen-xw/diffueraser>
 -   <https://github.com/SamurAIGPT/Vibe-Workflow>
 -   <https://github.com/HVision-NKU/StoryDiffusion>
 -   <https://github.com/SamurAIGPT/Text-To-Video-AI>
 -   <https://github.com/fudan-generative-vision/hallo>
+-   <https://github.com/jd-opensource/JoyAI-Video-Edit>
 -   <https://github.com/Anil-matcha/Open-Generative-AI>
 -   <https://github.com/Anil-matcha/Open-Higgsfield-AI>
 -   <https://github.com/FurkanGozukara/Stable-Diffusion>
@@ -2027,6 +2030,9 @@
 -   <https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5>
 -   <https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator>
 -   <https://github.com/hkchengrex/Tracking-Anything-with-DEVA>
+-   <https://github.com/longxiang-ai/awesome-video-diffusions>
+-   <https://github.com/mayuelala/Awesome-Controllable-Video-Generation>
+-   <https://github.com/topics/image-to-video-generation>
 -   <https://github.com/topics/hyperframes>
 
 ## LIB: VIDEO ENHANCE / RESTORE / UPSCALE
@@ -2053,11 +2059,13 @@
 -   <https://github.com/NVlabs/imaginaire>
 -   <https://github.com/NVlabs/few-shot-vid2vid>
 -   <https://github.com/isl-org/PhotorealismEnhancement>
+-   <https://github.com/topics/photo-realism>
 
 ## LIB: VIDEO LIPSYNC
 
 -   <https://github.com/TMElyralab/MuseTalk>
 -   <https://github.com/OpenTalker/SadTalker>
+-   <https://github.com/sign-language-processing/pose-to-video>
 
 ## LIB: VIDEO DEEP FAKE / FACE SWAP
 
