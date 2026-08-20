@@ -1131,6 +1131,16 @@
 -   <https://www.mimicpc.com/workflows/faceswap-with-flux-klein-9b-fp8-fast-faceswap-with-flux-klein>
 -   <https://www.runcomfy.com/comfyui-workflows/flux-klein-face-swap-in-comfyui-seamless-ai-face-replacement>
 
+## TOOLS: VIDEO LIPSYNC
+-   <https://sync.so/home>
+-   <https://fal.ai/models/fal-ai/musetalk>
+-   <https://fal.ai/models/fal-ai/sadtalker>
+-   <https://www.segmind.com/models/sadtalker>
+-   <https://www.segmind.com/models/infinite-talk>
+-   <https://replicate.com/douwantech/musetalk>
+-   <https://replicate.com/cjwbw/sadtalker>
+-   <https://crazyrouter.com/en/blog/ai-lip-sync-tools-comparison-2026>
+
 ## TOOLS: AUDIO
 
 -   <https://www.ai-sesame.com/>
@@ -1970,6 +1980,7 @@
 -   <https://github.com/cjpais/Handy>
 -   <https://github.com/HumeAI/tada>
 -   <https://tts.lobehub.com/>
+-   <https://inworld.ai/>
 -   <https://ttsmp3.com/>
 
 ## LIB: AUDIO / TRANSCRIPT
@@ -2042,6 +2053,11 @@
 -   <https://github.com/NVlabs/imaginaire>
 -   <https://github.com/NVlabs/few-shot-vid2vid>
 -   <https://github.com/isl-org/PhotorealismEnhancement>
+
+## LIB: VIDEO LIPSYNC
+
+-   <https://github.com/TMElyralab/MuseTalk>
+-   <https://github.com/OpenTalker/SadTalker>
 
 ## LIB: VIDEO DEEP FAKE / FACE SWAP
 
