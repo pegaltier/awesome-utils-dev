@@ -280,6 +280,15 @@
 
 -   <https://github.com/tldr-devops/startpack>
 
+## HOST SERVICES GPU
+
+-   <https://cloud.lambda.ai/>
+-   <https://www.runpod.io/articles>
+-   <https://www.hyperstack.cloud/>
+-   <https://www.tencentcloud.com/>
+-   <https://valebyte.com/en/guides/docker-containers-for-gpu-cloud-deployment/>
+-   <https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/index.html#>
+
 ## HOST SERVICES CLOSED
 
 -   <https://vercel.com/>
