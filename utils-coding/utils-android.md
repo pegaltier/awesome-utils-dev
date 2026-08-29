@@ -44,6 +44,7 @@
 ## TOOLS
 
 -   <https://github.com/florisboard/florisboard>
+-   <https://github.com/jossephus/chuchu>
 
 ## GRADLE CLEAN CACHE
 

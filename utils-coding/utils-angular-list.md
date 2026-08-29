@@ -2110,6 +2110,8 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/nigrosimone/ng-http-caching> (TOADD)
 -   <https://github.com/BeSaRa/cast-response> (TOADD)
 -   <https://github.com/ismailza/ngx-api-client> (TOADD)
+-   <https://github.com/dhutaryan/ngx-signal-query>
+-   <https://github.com/assebc/ng-signal-http>
 
 ## ECOSYSTEM: LIB: ROUTING
 
@@ -2178,6 +2180,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/khvedela/ngx-persist> (TOADD)
 -   <https://github.com/love1024/ngx-oneforall> (TOADD)
 -   <https://github.com/wszgrcy/static-injector> (TOADD)
+-   <https://github.com/MrBacony/analog-tools>
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 
@@ -2798,6 +2801,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/maximelafarie/ngx-smart-modal>
 -   <https://matthewross.me/blog/posts/minimal-angular-2-modal>
 -   <https://malcoded.com/posts/angular-dynamic-components/>
+-   <https://github.com/kazepis/ngx-modalieur>
 
 ## ECOSYSTEM: LIB: COMPONENT: LOADER / LOADING / PROGRES
 
@@ -2876,6 +2880,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/rxweb/rxweb/tree/master/client-side/angular/packages/reactive-form-validators>
 -   <https://bit.dev/kevinrodbe/utils/helpers/angular/~code#frm-validators.ts>
 -   <https://stackblitz.com/@formqlx>
+-   <https://github.com/XHAlawa/AutoFormsBuilderFilesGenerator>
 
 ## ECOSYSTEM: LIB: COMPONENT: TEXT EDITOR / WYSIWYG
 
@@ -2995,6 +3000,7 @@ Add a progressbar for displaying a loader during the different async task like h
 -   <https://github.com/openng-org/optimus-ui> (TOADD)
 -   <https://github.com/mazdik/ng-mazdik> (TOADD)
 -   <https://github.com/dofu-lab/simui> (TOADD)
+-   <https://github.com/khangtrannn/ng-brutalism>
 
 ## ECOSYSTEM: LIB: STORAGE
 

@@ -121,3 +121,4 @@
 -   <https://github.com/manfredsteyer/native-federation-core-microfrontend>
 -   <https://github.com/manfredsteyer/native-federation-core-example>
 -   <https://github.com/native-federation/angular-adapter>
+-   <https://github.com/native-federation/playground/tree/main/angular/tractor-store/docs>

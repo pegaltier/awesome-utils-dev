@@ -454,6 +454,9 @@
 -   <https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics>
 -   <https://github.com/EthicalML/awesome-production-machine-learning>
 -   <https://github.com/AstraZeneca/awesome-explainable-graph-reasoning>
+-   <https://github.com/mokevnin/agentic-coding-design-patterns>
+-   <https://github.com/sickn33/agentic-awesome-skills>
+-   <https://github.com/awesome-dsh-plugin/awesome-dsh-plugin>
 
 ## TOOLS: HOST / NEOCLOUDS
 
@@ -649,6 +652,7 @@
 -   <https://screenshottocode.com/>
 -   <https://factory.strongdm.ai/>
 -   <https://cofounder.openinterface.ai/>
+-   <https://github.com/traycerai/traycer>
 
 ## TOOLS: CODING: OSS
 
@@ -752,6 +756,9 @@
 -   <https://github.com/Gentleman-Programming/gentle-ai>
 -   <https://github.com/OpenInterpreter/open-interpreter>
 -   <https://github.com/ghuntley/how-to-build-a-coding-agent>
+-   <https://github.com/vercel-labs/fx>
+-   <https://github.com/filiksyos/gitreverse>
+-   <https://github.com/binaryjack/codernic.dev>
 
 ## TOOLS: CODING: OSS HARNESS
 
@@ -765,6 +772,7 @@
 -   <https://github.com/deepseek-ai/deepseek-harness>
 -   <https://github.com/PrimeIntellect-ai/prime-agent>
 -   <https://github.com/anywhere-labs/deepseek-harness-desktop>
+-   <https://github.com/truefoundry/trueforge>
 
 ## TOOLS: CODING: OSS DEBUG
 
@@ -858,6 +866,7 @@
 -   <https://github.com/anthropics/financial-services-plugins>
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
+-   <https://github.com/AhsanAyaz/ship-guard>
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
@@ -925,6 +934,16 @@
 -   <https://github.com/anthropics/prompt-eng-interactive-tutorial>
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
 -   <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>
+-   <https://github.com/tt-a1i/archify>
+-   <https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7>
+-   <https://github.com/microsoft/skill-recorder>
+-   <https://github.com/microsoft/apm>
+-   <https://github.com/grp06/goalcraft>
+-   <https://github.com/Leonxlnx/unlazy>
+-   <https://github.com/dotnet/skills>
+-   <https://github.com/AntonioCardenas/generate-nanobanana>
+-   <https://github.com/ai-driven-dev/framework>
+-   <https://github.com/agent0ai/dox>
 
 ## TOOLS: CODING: OSS BACKGROUND
 
@@ -933,6 +952,7 @@
 ## TOOLS: CODING: OSS SPEC SDD / SPDD / FACTORY
 
 -   <https://github.com/mutagent-io>
+-   <https://github.com/specui/specui>
 -   <https://github.com/fabro-sh/fabro>
 -   <https://github.com/gotalab/cc-sdd>
 -   <https://github.com/clawplays/ospec>
@@ -968,6 +988,8 @@
 -   <https://github.com/puemos/lareview>
 -   <https://github.com/alibaba/open-code-review>
 -   <https://github.com/Gentleman-Programming/gentleman-guardian-angel>
+-   <https://github.com/openclaw/clawpatch>
+-   <https://github.com/getsentry/warden>
 
 ## TOOLS: CODING: OSS AUTO
 
@@ -978,6 +1000,7 @@
 ## TOOLS: CODING: OSS HOST
 
 -   <http://github.com/BennyKok/lfg>
+-   <https://github.com/jayminwest/warren>
 
 ## TOOLS: CODING: AUTOMATE
 
@@ -986,6 +1009,7 @@
 ## TOOLS: NOCODING
 
 -   <https://github.com/refly-ai/refly>
+-   <https://github.com/martin98-afk/CanvasMind>
 
 ## TOOLS: LEGALS
 
@@ -1034,6 +1058,8 @@
 
 -   <https://github.com/DS4SD/docling>
 -   <https://github.com/jacoblee93/fully-local-pdf-chatbot>
+-   <https://github.com/oomol-lab/pdf-craft>
+-   <https://github.com/docling-project/docling>
 
 ## TOOLS: SANDBOXING / CONTAINER
 
@@ -1054,6 +1080,7 @@
 -   <https://github.com/earendil-works/gondolin>
 -   <https://github.com/TencentCloud/CubeSandbox>
 -   <https://github.com/restyler/awesome-sandbox>
+-   <https://github.com/opensandbox-group/OpenSandbox>
 -   <https://github.com/DeepBlueDynamics/codex-container>
 -   <https://github.com/tizkovatereza/awesome-ai-sandboxes>
 
@@ -1163,6 +1190,7 @@
 ## TOOLS: TOKENS
 
 -   <https://github.com/rtk-ai/rtk>
+-   <https://github.com/ccusage/ccusage>
 -   <https://github.com/xn1cklas/tokenlens>
 -   <https://github.com/alaa-eddine/tokenloom>
 -   <https://github.com/johannschopplich/toon>
@@ -1271,6 +1299,7 @@
 -   <https://github.com/rohitg00/agentmemory>
 -   <https://github.com/cortexkit/magic-context>
 -   <https://github.com/supermemoryai/supermemory>
+-   <https://github.com/TencentCloud/TencentDB-Agent-Memory>
 
 ## TOOLS: OFFLINE / LOCAL
 
@@ -1291,6 +1320,7 @@
 -   <https://github.com/RightNow-AI/picolm>
 -   <https://github.com/mlc-ai/web-llm-chat>
 -   <https://github.com/cactus-compute/needle>
+-   <https://github.com/FlashML-org/FreeToken>
 -   <https://github.com/drumih/turbo-fieldfare>
 -   <https://github.com/Doorman11991/smallcode>
 -   <https://github.com/ChatGPTNextWeb/NextChat>
@@ -1302,11 +1332,13 @@
 -   <https://github.com/Crosstalk-Solutions/project-nomad>
 -   <https://soverius.ai/blog/implementing-a-tiny-harness>
 -   <https://github.com/nico-martin/gemma4-browser-extension>
+-   <https://github.com/ggml-org/llama.cpp/blob/master/docs%2Fdocker.md>
 
 ## TOOLS: BROWSER / LOCAL
 
 -   <https://github.com/browseros-ai/BrowserOS>
 -   <https://github.com/davideast/inbrowser-agent>
+-   <https://github.com/aeonfun/opendia/tree/main/opendia-extension>
 
 ## TOOLS: ASSISTANT / PHYSICAL
 
@@ -1367,6 +1399,7 @@
 -   <https://github.com/danielmiessler/Personal_AI_Infrastructure>
 -   <https://gist.github.com/mberman84/065631c62d6d8f30ecb14748c00fc6d9>
 -   <https://gist.github.com/championswimmer/bd0a45f0b1482cb7181d922fd94ab978>
+-   <https://github.com/vellum-ai/vellum-assistant>
 
 ## TOOLS: ASSISTANT EXAMPLE
 
@@ -1398,6 +1431,7 @@
 -   <https://github.com/guidance-ai/jsonschemabench>
 -   <https://github.com/tripolskypetr/json-inference>
 -   <https://github.com/LogicStamp/logicstamp-context>
+-   <https://github.com/guidance-ai/guidance-ts>
 
 ## LIB: DB
 
@@ -1417,6 +1451,7 @@
 -   <https://github.com/pipeshub-ai/pipeshub-ai>
 -   <https://github.com/triggerdotdev/trigger.dev>
 -   <https://github.com/coleam00/ottomator-agents>
+-   <https://github.com/naqashafzal/AI-Content-Studio>
 
 ## LIB: WORKFLOW / CONTENT CREATION : N8N
 
@@ -1490,6 +1525,7 @@
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/damiansire/cognitive-substrate-os>
 -   <https://github.com/vercel-labs/personal-agent-template>
+-   <https://github.com/yosietserga/multi-llm-agent-orchestrator>
 
 ## LIB: AGENTIC DEV TOOLS
 
@@ -1576,6 +1612,7 @@
 -   <https://github.com/BuilderIO/agent-native>
 -   <https://github.com/agentlabs-dev/openator>
 -   <https://github.com/cuga-project/cuga-agent>
+-   <https://github.com/langchain-ai/langgraphjs>
 -   <https://github.com/browserbase/open-operator>
 -   <https://github.com/threepointone/partyserver>
 -   <https://github.com/microsoft/agent-lightning>
@@ -1594,7 +1631,10 @@
 -   <https://github.com/Y2Z/monolith>
 -   <https://github.com/apify/crawlee>
 -   <https://github.com/getmaxun/maxun>
+-   <https://github.com/raznem/parsera>
+-   <https://github.com/0xMassi/webclaw>
 -   <https://github.com/D4Vinci/Scrapling>
+-   <https://github.com/0xchasercat/draco>
 -   <https://github.com/QuivrHQ/MegaParse>
 -   <https://github.com/addyosmani/git2txt>
 -   <https://github.com/karpathy/rendergit>
@@ -1607,8 +1647,10 @@
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>
 
+
 ## LIB: LOOP / AUTONOMOUS / CONTINUOUS AI
 
+-   <https://github.com/aeonfun/aeon>
 -   <https://github.com/HKUDS/OpenOPC>
 -   <https://github.com/kunchenguid/gnhf>
 -   <https://github.com/githubnext/autoloop>
@@ -1639,6 +1681,7 @@
 -   <https://github.com/amazon-science/RAGChecker>
 -   <https://github.com/circlemind-ai/fast-graphrag>
 -   <https://github.com/FareedKhan-dev/all-rag-techniques>
+-   <https://github.com/vercel-labs/knowledge-agent-template>
 
 ## LIB: CONTEXT ENGINERRING / RETRIEVAL / KNOWLEDGE GRAPH
 
@@ -1673,6 +1716,7 @@
 -   <https://github.com/instructor-ai/instructor-js>
 -   <https://github.com/DeusData/codebase-memory-mcp>
 -   <https://github.com/Unstructured-IO/unstructured-js-client>
+-   <https://github.com/FabioYanezRomero/Knowledge-Graph-Builder>
 
 ## LIB: MCP
 
@@ -1683,6 +1727,7 @@
 -   <https://github.com/modelcontextprotocol/inspector>
 -   <https://github.com/AgentDeskAI/browser-tools-mcp>
 -   <https://github.com/Flux159/mcp-server-kubernetes>
+-   <https://github.com/nitrocloudofficial/nitrostack>
 -   <https://github.com/modelcontextprotocol/servers>
 -   <https://github.com/e2b-dev/awesome-mcp-gateways>
 -   <https://github.com/punkpeye/awesome-mcp-servers>
@@ -1699,6 +1744,7 @@
 -   <https://github.com/sooperset/mcp-atlassian>
 -   <https://github.com/GLips/Figma-Context-MCP>
 -   <https://github.com/aipotheosis-labs/gate22>
+-   <https://github.com/googleapis/mcp-toolbox>
 -   <https://github.com/archestra-ai/archestra>
 -   <https://github.com/lharries/whatsapp-mcp>
 -   <https://github.com/aipotheosis-labs/aci>
@@ -1814,10 +1860,13 @@
 -   <https://github.com/vllm-project/vllm>
 -   <https://github.com/roboflow/inference>
 -   <https://github.com/sgl-project/sglang>
+-   <https://github.com/opencv/opencv/wiki/OpenCV-5>
+-   <https://github.com/MiniAiLive/Android-FaceRecognition>
 
 ## LIB: TLM / TIMESERIES
 
 -   <https://github.com/google-research/timesfm>
+-   <https://github.com/abrarmajeedi/DeepEDM>
 
 ## LIB: LLM
 
@@ -1920,6 +1969,7 @@
 ## LIB: INFERENCE
 
 -   <https://github.com/trymirai/uzu>
+-   <https://github.com/intel/ipex-llm>
 
 ## LIB: EVALS
 
@@ -1938,6 +1988,7 @@
 -   <https://github.com/linto-ai/whisper-timestamped>
 -   <https://github.com/0xSojalSec/free-voice-clone>
 -   <https://github.com/HumeAI/hume-api-examples>
+-   <https://github.com/rhulha/StreamingKokoroJS>
 -   <https://github.com/jianchang512/ChatTTS-ui>
 -   <https://github.com/nineninesix-ai/kani-tts>
 -   <https://github.com/eustlb/speech-to-speech>
@@ -1959,20 +2010,24 @@
 -   <https://github.com/microsoft/VibeVoice>
 -   <https://github.com/index-tts/index-tts>
 -   <https://github.com/bytedance/MegaTTS3>
+-   <https://github.com/open-mmlab/Amphion>
 -   <https://github.com/KittenML/KittenTTS>
 -   <https://github.com/jamiepine/voicebox>
 -   <https://github.com/kyutai-labs/moshi>
+-   <https://github.com/dograh-hq/dograh>
 -   <https://github.com/VoxtralAI/voxtral>
 -   <https://github.com/OpenMOSS/MOSS-TTS>
 -   <https://github.com/xming521/WeClone>
 -   <https://github.com/yl4579/StyleTTS2>
 -   <https://github.com/lobehub/lobe-tts>
 -   <https://github.com/Kieirra/murmure>
+-   <https://github.com/HAKORADev/VODER>
 -   <https://github.com/Jackywine/Bella>
 -   <https://github.com/voquill/voquill>
 -   <https://github.com/2noise/ChatTTS>
 -   <https://github.com/openai/whisper>
 -   <https://github.com/hexgrad/kokoro>
+-   <https://github.com/SaynaAI/sayna>
 -   <https://github.com/nari-labs/dia>
 -   <https://github.com/marak/say.js/>
 -   <https://github.com/suno-ai/bark>
@@ -2034,6 +2089,9 @@
 -   <https://github.com/mayuelala/Awesome-Controllable-Video-Generation>
 -   <https://github.com/topics/image-to-video-generation>
 -   <https://github.com/topics/hyperframes>
+-   <https://github.com/meituan-longcat/LongCat-Video>
+-   <https://github.com/calesthio/OpenMontage>
+-   <https://github.com/browser-use/video-use>
 
 ## LIB: VIDEO ENHANCE / RESTORE / UPSCALE
 
@@ -2065,6 +2123,8 @@
 
 -   <https://github.com/TMElyralab/MuseTalk>
 -   <https://github.com/OpenTalker/SadTalker>
+-   <https://github.com/Triple3Pww/visualllm>
+-   <https://github.com/madebynanditaaa/lipgans>
 -   <https://github.com/sign-language-processing/pose-to-video>
 
 ## LIB: VIDEO DEEP FAKE / FACE SWAP
@@ -2118,6 +2178,7 @@
 -   <https://github.com/lllyasviel/Omost>
 -   <https://github.com/katanaml/sparrow>
 -   <https://github.com/JinjieNi/MegaDLMs>
+-   <https://github.com/vladmandic/sdnext>
 -   <https://github.com/ostris/ai-toolkit>
 -   <https://github.com/gradio-app/gradio>
 -   <https://github.com/lllyasviel/Fooocus>
@@ -2184,6 +2245,7 @@
 ## LIB: VIZ
 
 -   <https://github.com/microsoft/data-formulator>
+-   <https://github.com/microsoft/flint-chart>
 
 ## LIB: PREDICTION
 
@@ -2228,6 +2290,7 @@
 ## LIB: EMAIL
 
 -   <https://github.com/elie222/inbox-zero>
+-   <https://github.com/dbish/DispatchMail>
 
 ## LIB: BROWSER
 
@@ -2237,6 +2300,9 @@
 -   <https://github.com/alibaba/page-agent>
 -   <https://github.com/citrolabs/ego-lite>
 -   <https://github.com/firecrawl/web-agent>
+-   <https://github.com/microsoft/Webwright>
+-   <https://github.com/h4ckf0r0day/obscura>
+-   <https://github.com/kernel/kernel-images>
 -   <https://github.com/lightpanda-io/browser>
 -   <https://github.com/browserbase/stagehand>
 -   <https://github.com/magnitudedev/magnitude>
@@ -2254,6 +2320,7 @@
 
 ## LIB: INTERACT
 
+-   <https://github.com/Jeomon/Windows-Use>
 -   <https://github.com/CursorTouch/Windows-Use>
 
 ## LIB: GAME
@@ -2265,6 +2332,7 @@
 -   <https://github.com/tas1337/GameEngine>
 -   <https://github.com/leigest519/OpenGame>
 -   <https://github.com/nicmarti/skills-weaver>
+-   <https://github.com/mshumer/Claude-of-Duty>
 -   <https://github.com/GaZmagik/text-adventure-games>
 -   <https://github.com/Sstobo/Claude-Code-Game-Master>
 -   <https://github.com/w-zeyu/Claude-Code-Game-Master>
@@ -2288,6 +2356,7 @@
 -   <https://github.com/huggingface/transformers>
 -   <https://github.com/microsoft/guidance>
 -   <https://github.com/microsoft/unilm>
+-   <https://github.com/naver-ai/seoul-world-model>
 
 ### LIST
 

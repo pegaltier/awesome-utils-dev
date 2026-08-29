@@ -9,3 +9,4 @@
 -   <https://github.com/blackboardsh/electrobun>
 -   <https://github.com/neutralinojs/neutralinojs>
 -   <https://github.com/electron/electron-packager>
+-   <https://github.com/webui-dev/webui>

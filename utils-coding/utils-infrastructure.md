@@ -157,6 +157,7 @@
 
 -   <https://github.com/alchemy-run/alchemy>
 -   <https://github.com/open-constructs/cdk-terrain>
+-   <https://github.com/devopness/devopness>
 
 ## TOOLS
 
@@ -219,6 +220,8 @@
 -   <https://github.com/cloudcomponents/cdk-constructs>
 -   <https://github.com/anderspitman/awesome-tunneling>
 -   <https://github.com/manekinekko/awesome-devcontainers>
+-   <https://github.com/juicedata/juicefs>
+-   <https://github.com/bastillion-io/Bastillion>
 
 ## TOOLS: PIPELINES / CODE QUALITY
 
@@ -526,6 +529,7 @@ sql					> entree  3389 depuis vps. et le 22 tout le monde
 -   <https://github.com/FiloSottile/mkcert>
 -   <https://github.com/usual2970/certimate>
 -   <https://github.com/chainguard-dev/incert>
+-   <https://github.com/7ritn/VaulTLS>
 
 ## DEFINITIONS
 

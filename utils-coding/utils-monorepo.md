@@ -50,6 +50,7 @@ ANGULAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 -   <https://github.com/atlassian/changesets>
 -   <https://github.com/JamieMason/syncpack> (TOADD)
 -   <https://github.com/microsoft/lage> (TOADD)
+-   <https://github.com/frontops-dev/domino>
 
 ## ECOSYSTEM: LIB: MONOREPO: NX LANGAGES PLUGINS
 

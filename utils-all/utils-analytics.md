@@ -40,6 +40,7 @@ Google Tag Manager and co...
 -   <https://github.com/ClickHouse/ClickHouse>
 -   <https://github.com/benvinegar/counterscale>
 -   <https://github.com/open-metadata/OpenMetadata>
+-   <https://github.com/Openpanel-dev/openpanel>
 
 ## Tools
 

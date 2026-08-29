@@ -12,6 +12,7 @@
 -   <https://github.com/quickwit-oss/quickwit>
 -   <https://github.com/paradedb/paradedb>
 -   <https://github.com/elastic/logstash>
+-   <https://github.com/quickwit-oss/tantivy>
 
 ## LIST
 

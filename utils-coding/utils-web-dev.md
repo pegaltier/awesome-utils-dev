@@ -153,6 +153,7 @@
 ## TEMPLATES
 
 -   <https://github.com/danmindru/page-ui>
+-   <https://github.com/shadcnstore/shadcn-dashboard-landing-template>
 
 ## COURSES
 
@@ -610,6 +611,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/sailscastshq/boring-stack>
 -   <https://github.com/jamesgeorge007/scaffold-static>
 -   <https://github.com/wwebdev/static-website-template>
+-   <https://github.com/CoreBunch/Instatic>
 
 ## STARTER: SSG: ALL
 
@@ -724,6 +726,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://github.com/PavelDoGreat/WebGL-Fluid-Simulation>
 -   <https://tympanus.net/codrops/2023/05/04/ideas-for-grid-to-slideshow-switch-animations/>
 -   <https://tympanus.net/codrops/category/articles/websites-roundups/>
+-   <https://github.com/MengTo/kage>
 
 ## CREATIVE RESOURCES
 

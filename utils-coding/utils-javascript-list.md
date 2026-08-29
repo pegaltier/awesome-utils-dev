@@ -228,6 +228,11 @@
 -   <https://github.com/drudge>
 -   <https://github.com/Nsttt>
 -   <https://github.com/KATT>
+-   <https://github.com/janbiasi>
+-   <https://github.com/GaryB432>
+-   <https://github.com/davidjamesstone>
+-   <https://github.com/benjamn>
+-   <https://github.com/amilich>
 
 ## TEAM
 
@@ -391,6 +396,8 @@
 -   <https://github.com/projen/projen>
 -   <https://github.com/vitejs/vite>
 -   <https://github.com/plopjs/plop>
+-   <https://github.com/Wroud/foundation>
+-   <https://github.com/epicweb-dev/config>
 
 ## LIB: FUNCTIONNAL PROGRAMMING
 
@@ -578,11 +585,13 @@
 -   <https://github.com/muze-nl/jaqt>
 -   <https://github.com/SerkanSipahi/app-decorators>
 -   <https://github.com/ibrahimcesar/category-theory-for-the-javascript-typescript-developers>
+-   <https://github.com/franciscop/brownies>
 
 ## LIB: DESIGN PATTERN
 
 -   <https://github.com/douglasgreyling/light-service.js>
 -   <https://github.com/AllThingsSmitty/basic-design-patterns>
+-   <https://github.com/nilbuild/design-patterns-for-humans>
 
 ## LIB: PIPELINE
 
@@ -610,6 +619,7 @@
 
 -   <https://github.com/bytecodealliance/jco>
 -   <https://github.com/CanadaHonk/porffor>
+-   <https://github.com/bytecodealliance/endive>
 
 ## LIB: VALIDATION
 
@@ -758,6 +768,7 @@
 -   <https://github.com/Siubaak/sval>
 -   <https://github.com/6over3/hako>
 -   <https://github.com/ohmjs/ohm>
+-   <https://github.com/loopdive/js2>
 
 ## LIB: PARSER JAVASCRIPT DECOMPILER
 
@@ -804,6 +815,7 @@
 ## LIB: BROWSER TERMINAL
 
 -   <https://github.com/butlerx/wetty>
+-   <https://github.com/zenbu-labs/terminal-browser>
 
 ## LIB: IP
 
@@ -844,6 +856,7 @@
 -   <https://github.com/desandro/masonry>
 -   <https://github.com/Splidejs/splide>
 -   <https://github.com/shikijs/shiki>
+-   <https://github.com/nilbuild/driver.js>
 
 ## LIB: FUNCTIONNAL PROGRAMMING / FP
 
@@ -943,6 +956,8 @@
 -   <https://github.com/LeaVerou/style-observer>
 -   <https://github.com/formkit/auto-animate>
 -   <https://github.com/dnnsjsk/glaze>
+-   <https://github.com/oil-oil/oil-motion>
+-   <https://github.com/nexu-io/motion-anything>
 
 ## LIB: FRONTEND CAPTCHA
 
@@ -1060,6 +1075,7 @@
 -   <https://github.com/gabrielpetersson/fast-grid>
 -   <https://github.com/TomaszRewak/js-spread-grid>
 -   <https://github.com/chenzhiyuanthu/virtual-scrolling-table>
+-   <https://github.com/productdevbook/hucre>
 
 ## LIB: FRONTEND ANIMATION
 
@@ -1118,6 +1134,8 @@
 
 -   <https://github.com/esnet/pond>
 -   <https://github.com/janjakubnanista/downsample>
+-   <https://github.com/xenodrive/timescope>
+-   <https://github.com/TimMikeladze/fake-time-series>
 
 ## LIB: DATAVIZ / CHART / DATA VIZ / GRAPH
 
@@ -1393,6 +1411,7 @@
 -   <https://github.com/lutzroeder/netron>
 -   <https://github.com/panchishin/neuralnet>
 -   <https://github.com/janhuenermann/neurojs>
+-   <https://github.com/philipszdavido/TensorForgejs>
 
 ## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / ML
 
@@ -1623,6 +1642,7 @@
 -   <https://github.com/alonrbar/easy-template-x>
 -   <https://github.com/embedpdf/embed-pdf-viewer>
 -   <https://github.com/open-xml-templating/docxtemplater>
+-   <https://github.com/lmn1919/dompdf.js>
 
 ## LIB: AUTOMATION
 

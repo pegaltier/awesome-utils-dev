@@ -56,6 +56,7 @@
 -   <https://github.com/frectonz/sql-studio>
 -   <https://github.com/nucleuscloud/neosync>
 -   <https://github.com/Rohithgilla12/data-peek>
+-   <https://github.com/gridex/gridex>
 
 ## DB SYSTEM
 
@@ -98,11 +99,16 @@
 -   <https://github.com/xataio/xata>
 -   <https://github.com/poup-s/bbdump>
 -   <https://github.com/PostgREST/postgrest>
+-   <https://github.com/postgres-ai/database-lab-engine>
+-   <https://github.com/pgsty/pigsty>
+-   <https://github.com/microsoft/pg_durable>
+-   <https://github.com/databasus/databasus>
 
 ## VECTOR
 
 -   <https://github.com/alibaba/zvec>
 -   <https://github.com/MaheshChandraTeja/wispdb>
+-   <https://github.com/endee-io/endee>
 
 ## SQLITE
 
@@ -117,6 +123,7 @@
 -   <https://github.com/benbjohnson/litestream>
 -   <https://github.com/phiresky/sql.js-httpvfs>
 -   <https://github.com/sqlitebrowser/sqlitebrowser>
+-   <https://github.com/colliery-io/graphqlite>
 
 ## SCALING
 

@@ -170,6 +170,7 @@ RUN ls
 -   <https://github.com/orbstack>
 -   <https://github.com/openshift>
 -   <https://github.com/docker>
+-   <https://github.com/getarcaneapp/arcane>
 
 ## DOCKER ALL
 

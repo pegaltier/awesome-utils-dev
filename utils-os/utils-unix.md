@@ -53,6 +53,7 @@ Ubuntu & co
 -   <https://github.com/basecamp/omakub>
 -   <https://github.com/FyshOS/fynedesk>
 -   <https://github.com/kando-menu/kando>
+-   <https://github.com/niri-wm/niri>
 
 ## LIST
 

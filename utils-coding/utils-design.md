@@ -91,6 +91,7 @@
 -   <https://wweb.dev/resources/free-icon-sets>
 -   <https://github.com/CoreyGinnivan/system-uicons>
 -   <https://github.com/lucide-icons/lucide>
+-   <https://github.com/xandemon/developer-icons>
 
 ## LOGOS
 

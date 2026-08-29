@@ -263,6 +263,7 @@
 -   <https://github.com/millionco/expect>
 -   <https://github.com/DyHex/POMWright>
 -   <https://github.com/mxschmitt>
+-   <https://github.com/feder-cr/invisible_playwright>
 
 ## UTILS: PLAYWRIGHT EXAMPLE / DEMO
 

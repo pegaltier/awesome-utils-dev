@@ -48,6 +48,7 @@
 ## ALTERNATIVE
 
 -   <https://github.com/zed-industries/zed>
+-   <https://github.com/zenbu-labs/terminal-code>
 
 ## EXTENSIONS: LIST
 
@@ -113,6 +114,7 @@
 ## OSS: STARTER
 
 -   <https://github.com/microsoft/vscode-extension-samples>
+-   <https://github.com/microsoft/vscode-generator-code>
 
 ## OSS: EXTENSIONS
 

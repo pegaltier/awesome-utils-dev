@@ -7,3 +7,4 @@
 ## LIBS
 
 -   <https://github.com/ronaldo-avalos/Maya>
+-   <https://github.com/nateherkai/hyperframes-student-kit/tree/main>

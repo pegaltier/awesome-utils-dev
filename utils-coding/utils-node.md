@@ -280,6 +280,7 @@
 -   <https://github.com/meysamhadeli/booking-microservices-express-js/>
 -   <https://github.com/invtfl-yuvraj/express-ts-production-ready-setup>
 -   <https://github.com/AlbertHernandez/express-typescript-service-template>
+-   <https://github.com/Moro-JS/examples>
 
 ## LIST
 
@@ -362,6 +363,7 @@
 -   <https://github.com/chenglou/freerange>
 -   <https://github.com/vercel-labs/konsistent>
 -   <https://github.com/LukasNiessen/ArchUnitTS>
+-   <https://github.com/kucherenko/jscpd>
 
 ## UTILS: SECURITY
 
@@ -802,6 +804,7 @@
 -   <https://docs.npmjs.com/cli/ci.html>
 -   <https://github.com/lirantal/nodejs-cli-apps-best-practices>
 -   <https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html>
+-   <https://github.com/wezterm/wezterm>
 
 ## LIBS: INSTALL / COMPILE
 
@@ -938,6 +941,8 @@
 -   <https://github.com/deepkit/deepkit-framework>
 -   <https://github.com/ujjwalguptaofficial/fortjs>
 -   <https://github.com/differentialhq/differential>
+-   <https://github.com/stratifyjs/core>
+-   <https://github.com/cordiverse/cordis>
 
 ## ESM / MODULES
 

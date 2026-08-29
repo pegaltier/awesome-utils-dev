@@ -17,6 +17,7 @@
 ## Health
 
 -   <https://care.health/ch-de/>
+-   <https://github.com/arvids-unavailable/openGym>
 
 ## Food
 

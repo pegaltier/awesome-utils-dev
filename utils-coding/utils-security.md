@@ -129,6 +129,7 @@
 -   <https://github.com/shahradelahi/node-vault>
 -   <https://github.com/dbsystel/cdk-sops-secrets>
 -   <https://github.com/koblas/sops-decoder-node>
+-   <https://github.com/cachix/secretspec>
 
 ## TOOLS: HOST
 
@@ -170,6 +171,9 @@
 -   <https://github.com/Whitecat18/Javahexor>
 -   <https://github.com/KeygraphHQ/shannon>
 -   <https://github.com/vxcontrol/pentagi>
+-   <https://github.com/Webba-Creative-Technologies/vice>
+-   <https://github.com/vigolium/vigolium>
+-   <https://github.com/dstotijn/hetty>
 
 ## TOOLS: OSS: DEFENSIVE
 

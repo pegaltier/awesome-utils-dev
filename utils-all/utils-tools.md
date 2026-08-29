@@ -192,6 +192,7 @@
 
 -   <https://github.com/calesthio/Crucix>
 -   <https://github.com/koala73/worldmonitor>
+-   <https://github.com/nkanaev/yarr>
 
 ## OSS: MESSAGING BOT
 
@@ -202,6 +203,7 @@
 -   <https://github.com/wppconnect-team/wppconnect>
 -   <https://github.com/pedroslopez/whatsapp-web.js>
 -   <https://github.com/Secreto31126/whatsapp-api-js>
+-   <https://github.com/felipeDS91/whatsapp-api>
 
 ## OSS: SOCIAL NETWORK
 
@@ -261,6 +263,7 @@
 -   <https://github.com/un/inbox>
 -   <https://github.com/Mail-0/Zero>
 -   <https://github.com/elie222/inbox-zero>
+-   <https://github.com/pimalaya/himalaya>
 
 # OSS: ASSETS
 
@@ -287,6 +290,8 @@
 
 -   <https://github.com/Abdenasser/neohtop>
 -   <https://github.com/orhun/menyoki>
+-   <https://github.com/quickemu-project/quickemu>
+-   <https://github.com/asbru-cm/asbru-cm>
 
 ## OSS: SUPPORT
 
@@ -334,6 +339,11 @@
 -   <https://github.com/diffusionstudio/editor>
 -   <https://github.com/aegir-assembly/omni-clip>
 -   <https://github.com/siddharthvaddem/openscreen>
+-   <https://github.com/wassgha/rescript>
+-   <https://github.com/Wartybix/Constrict>
+-   <https://github.com/renezander030/capcut-cli>
+-   <https://github.com/codewithsiddique-04/autoeditor>
+-   <https://github.com/Augani/openreel-video>
 
 ## OSS: VIDEO DOWNLOAD
 
@@ -377,6 +387,7 @@
 -   <https://github.com/paperless-ngx/paperless-ngx>
 -   <https://github.com/opendatalab/PDF-Extract-Kit>
 -   <https://github.com/Stirling-Tools/Stirling-PDF>
+-   <https://github.com/OpenAEC-Foundation/open-pdf-studio>
 
 ## OSS: SPREADSHEET
 
@@ -419,6 +430,7 @@
 ## OSS: COMPANY / STARTUP
 
 -   <https://github.com/midday-ai/midday>
+-   <https://github.com/openlaunch-org/Open-Launch>
 
 ## OSS: DEV
 
@@ -453,6 +465,7 @@
 
 -   <https://github.com/johannesjo/super-productivity>
 -   <https://github.com/chrisvel/tududi>
+-   <https://github.com/CrossPaste/crosspaste-desktop>
 
 ## OSS: COMMUNICATE
 
@@ -500,6 +513,7 @@
 -   <https://github.com/onetimesecret/onetimesecret>
 -   <https://github.com/alextselegidis/easyappointments>
 -   <https://github.com/mattermost-community/focalboard>
+-   <https://github.com/usekaneo/kaneo>
 
 ## OSS: MAP
 

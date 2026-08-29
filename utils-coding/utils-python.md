@@ -65,6 +65,7 @@
 -   <https://stackoverflow.com/questions/53925660/installing-python-dependencies-locally-in-project>
 -   <https://thenewstack.io/why-every-python-dev-needs-virtual-environments-now/>
 -   <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>
+-   <https://github.com/pdm-project/pdm>
 
 ### Commands
 
@@ -131,6 +132,7 @@ pip -V
 -   <https://github.com/tadata-org/fastapi_mcp>
 -   <https://github.com/vietnh1009/ASCII-generator>
 -   <https://github.com/threestudio-project/threestudio>
+-   <https://github.com/krypton-byte/neonize>
 
 ## GPT
 

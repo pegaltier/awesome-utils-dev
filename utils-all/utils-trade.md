@@ -364,6 +364,7 @@
 -   <https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot>
 -   <https://github.com/DevOpsLP/Historical-data-fetcher/tree/main>
 -   <https://github.com/public-apis/public-apis?tab=readme-ov-file#finance>
+-   <https://github.com/chengzuopeng/stock-sdk>
 
 ## QUOTES: LIVE
 
@@ -445,6 +446,7 @@
 -   <https://tradingtact.com/automated-trading-software/>
 -   <https://tradingindicators.com/portfolio-architect-2-0/>
 -   <https://support.google.com/docs/answer/3093281?hl=en>
+-   <https://github.com/jensnesten/rust_bt>
 
 ## TOOLS: ONLINE
 
@@ -944,6 +946,7 @@
 -   <https://github.com/0xDub/figgie-auto>
 -   <https://github.com/we-promise/sure>
 -   <https://github.com/NoFxAiOS/nofx>
+-   <https://github.com/alexanderwanyoike/the0>
 
 ### OSS: STRATEGY
 
@@ -1213,6 +1216,7 @@
 
 -   <https://github.com/JKorf/Mexc.Net>
 -   <https://github.com/Apress/testing-and-tuning-market-trading-systems>
+-   <https://github.com/pierridotite/stonks-dashboard>
 
 ### OSS: JAVASCRIPT: TERMINAL
 
@@ -1514,6 +1518,7 @@
 -   <https://github.com/agiliumtrade-ai/metaapi-python-sdk>
 -   <https://github.com/tradingstrategy-ai/trading-strategy>
 -   <https://github.com/ccroft6/Technical_Indicator_Analysis_ML>
+-   <https://github.com/jason8745/llm-agent-trader>
 
 ## OSS: TOPICS
 

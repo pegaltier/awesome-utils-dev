@@ -82,6 +82,7 @@
 -   <https://github.com/tokio-rs/axum>
 -   <https://github.com/trailbaseio/trailbase>
 -   <https://github.com/HibiscusConsulting/nectar-lang>
+-   <https://github.com/tokio-rs/topcoat>
 
 ## LIB: API
 

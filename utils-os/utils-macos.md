@@ -88,6 +88,7 @@
 -   <https://github.com/tristan666666/agent-island>
 -   <https://github.com/NativeScript/template-macos-solid>
 -   <https://apps.apple.com/us/app/magnet/id441258766?mt=12>
+-   <https://github.com/Kruszoneq/macUSB>
 
 ## ARTIFICIAL INTELLIGENCE
 

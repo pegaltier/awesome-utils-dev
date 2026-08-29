@@ -3,6 +3,7 @@
 ## TOOLS: OSS
 
 -   <https://github.com/blender/blender>
+-   <https://github.com/sengchor/kokraf>
 
 ## TOOLS: AVATAR
 
@@ -57,6 +58,7 @@
 -   <https://www.glb2png.com/>
 -   <https://rendair.ai/tools/>
 -   <https://picai.com/ai-image-to-3d>
+-   <https://github.com/ctate/3d-model-generator>
 
 ## TOOLS: 3D VIEWER
 -   <https://3dviewer.net/>

@@ -107,6 +107,7 @@
 -   <https://projectr.io/>
 -   <https://grep.app/>
 -   <https://github.com/Omibranch/gitty>
+-   <https://github.com/j178/prek>
 
 ## OSS
 
@@ -166,6 +167,7 @@
 ## ACTIONS: EXT
 
 -   <https://github.com/marketplace/actions/code-pushup>
+-   <https://github.com/marketplace/actions/cve-lite-cli>
 
 ## TEMPLATES
 
