@@ -174,6 +174,7 @@ seo phase d'optimisation :
 -   <https://github.com/every-app/open-seo>
 -   <https://github.com/algolia/404-crawler>
 -   <https://github.com/remibacha/kwClustersR>
+-   <https://github.com/zubair-trabzada/geo-seo-claude>
 -   <https://github.com/goenning/google-indexing-script>
 
 ## CONCURRENCE

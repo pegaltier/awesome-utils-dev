@@ -50,12 +50,15 @@
 -   <https://github.com/TryQuiet/quiet>
 -   <https://github.com/kern/filepizza>
 -   <https://github.com/dmotz/trystero>
+-   <https://github.com/p2panda/p2panda>
 -   <https://github.com/dao-xyz/peerbit>
 -   <https://github.com/stateless-minds>
 -   <https://github.com/hyperhyperspace>
 -   <https://github.com/n0-computer/iroh>
+-   <https://github.com/ethosengine/elohim>
 -   <https://github.com/n0-computer/sendme>
 -   <https://github.com/dyne/zenpub-client>
+-   <https://github.com/dash-chat/dash-chat>
 -   <https://github.com/voidmerge/voidmerge>
 -   <https://github.com/localsend/localsend>
 -   <https://github.com/peers/peerjs-server>

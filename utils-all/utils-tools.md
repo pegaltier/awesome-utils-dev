@@ -336,6 +336,7 @@
 -   <https://github.com/OpenCut-app/OpenCut>
 -   <https://github.com/mazeincoding/AppCut>
 -   <https://github.com/vercel-labs/webreel>
+-   <https://github.com/sun-guannan/VectCutAPI>
 -   <https://github.com/diffusionstudio/editor>
 -   <https://github.com/aegir-assembly/omni-clip>
 -   <https://github.com/siddharthvaddem/openscreen>
@@ -470,6 +471,7 @@
 ## OSS: COMMUNICATE
 
 -   <https://github.com/lightningrodlabs/moss>
+-   <https://github.com/dash-chat/dash-chat>
 -   <https://github.com/spacebarchat/server>
 -   <https://github.com/stoatchat>
 

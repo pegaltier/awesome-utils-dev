@@ -98,6 +98,7 @@
 -   <https://github.com/eth0izzle/shhgit>
 -   <https://github.com/orhun/git-cliff>
 -   <https://github.com/typicode/husky>
+-   <https://github.com/tobi/walgit>
 -   <https://github.com/upptime/upptime>
 -   <https://github.com/alibaba/hooks>
 -   <https://github.com/probot/probot>

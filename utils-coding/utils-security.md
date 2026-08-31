@@ -168,6 +168,7 @@
 -   <https://github.com/Cryakl/Ultimate-RAT-Collection>
 -   <https://github.com/NationalSecurityAgency/ghidra>
 -   <https://github.com/Nightmare-Eclipse/YellowKey>
+-   <https://github.com/KatrielMoses/MailAccess>
 -   <https://github.com/Whitecat18/Javahexor>
 -   <https://github.com/KeygraphHQ/shannon>
 -   <https://github.com/vxcontrol/pentagi>

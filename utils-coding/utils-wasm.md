@@ -30,6 +30,7 @@
 -   <https://github.com/bytecodealliance/javy>
 -   <https://github.com/joelseverin/linux-wasm>
 -   <https://github.com/bytecodealliance/weval>
+-   <https://github.com/vercel-labs/quickjs-wasi>
 -   <https://github.com/moonbitlang/moonbit-docs>
 -   <https://github.com/bytecodealliance/wasmtime>
 -   <https://github.com/bytecodealliance/WASI-Virt>

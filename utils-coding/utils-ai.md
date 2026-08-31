@@ -928,6 +928,7 @@
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
 -   <https://github.com/GoogleChrome/modern-web-guidance>
 -   <https://github.com/awesome-skills/code-review-skill>
+-   <https://github.com/KhazP/vibe-coding-prompt-template>
 -   <https://github.com/forrestchang/andrej-karpathy-skills>
 -   <https://github.com/fugazi/test-automation-skills-agents>
 -   <https://github.com/yosietserga/ai-prompts-for-developers>
@@ -1319,6 +1320,7 @@
 -   <https://github.com/kessler/gemma-gem>
 -   <https://github.com/RightNow-AI/picolm>
 -   <https://github.com/mlc-ai/web-llm-chat>
+-   <https://github.com/mozilla-ai/llamafile>
 -   <https://github.com/cactus-compute/needle>
 -   <https://github.com/FlashML-org/FreeToken>
 -   <https://github.com/drumih/turbo-fieldfare>
@@ -1348,6 +1350,7 @@
 
 -   <https://bratan.ai/>
 -   <https://github.com/tnm/zclaw>
+-   <https://github.com/apache/maka>
 -   <https://github.com/HKUDS/nanobot>
 -   <https://github.com/HKUDS/ClawWork>
 -   <https://github.com/jlia0/tinyclaw>
@@ -1497,6 +1500,7 @@
 
 ## LIB: COMPAT AGENT
 
+-   <https://github.com/openclaw/acpx>
 -   <https://github.com/InsForge/InsForge>
 -   <https://github.com/HKUDS/CLI-Anything>
 
@@ -1508,6 +1512,7 @@
 -   <https://github.com/camel-ai/camel>
 -   <https://github.com/openai/symphony>
 -   <https://github.com/crewAIInc/crewAI>
+-   <https://github.com/THU-MAIC/OpenMAIC>
 -   <https://github.com/Agent-Field/SWE-AF>
 -   <https://github.com/strongdm/attractor>
 -   <https://github.com/bytedance/deer-flow>
@@ -1541,6 +1546,7 @@
 
 ## LIB: AGENTIC ALL TOOLS
 
+-   <https://github.com/withoneai/cli>
 -   <https://github.com/capsulerun/bash>
 -   <https://github.com/cloudflare/agents>
 -   <https://github.com/BuilderIO/ai-shell>
@@ -1576,6 +1582,7 @@
 -   <https://github.com/camel-ai/owl>
 -   <https://github.com/khoj-ai/khoj>
 -   <https://github.com/FellouAI/eko>
+-   <https://github.com/VinvAI/VinvAI>
 -   <https://github.com/goat-sdk/goat>
 -   <https://github.com/google/adk-js>
 -   <https://github.com/elizaOS/eliza>
@@ -1691,6 +1698,7 @@
 -   <https://github.com/jina-ai/reader>
 -   <https://github.com/allenai/olmocr>
 -   <https://github.com/NanoNets/Graft> (TRY)
+-   <https://github.com/yifanfeng97/Hyper-Extract>
 -   <https://github.com/nashsu/llm_wiki>
 -   <https://github.com/Tencent/WeKnora>
 -   <https://github.com/getomni-ai/zerox>
@@ -1976,6 +1984,7 @@
 -   <https://github.com/basalt-ai/cobalt>
 -   <https://github.com/Agenta-AI/agenta>
 -   <https://github.com/mattpocock/evalite>
+-   <https://github.com/vibrantlabsai/ragas>
 -   <https://github.com/qualifire-dev/rogue>
 -   <https://github.com/confident-ai/deepeval>
 -   <https://github.com/getsentry/vitest-evals>
@@ -1997,6 +2006,7 @@
 -   <https://github.com/epicenter-os/epicenter>
 -   <https://github.com/kyutai-labs/pocket-tts>
 -   <https://github.com/babybirdprd/pocket-tts>
+-   <https://github.com/debpalash/VoiceStudio>
 -   <https://github.com/fishaudio/fish-speech>
 -   <https://github.com/remsky/Kokoro-FastAPI>
 -   <https://github.com/samuel-vitorino/sopro>
@@ -2187,6 +2197,7 @@
 -   <https://github.com/Zeqiang-Lai/DragGAN>
 -   <https://github.com/joanrod/star-vector>
 -   <https://github.com/Nutlope/logocreator>
+-   <https://github.com/SegFault42/HeliosGen>
 -   <https://github.com/modelscope/facechain>
 -   <https://github.com/Stable-X/StableDelight>
 -   <https://github.com/Stability-AI/StableLM>

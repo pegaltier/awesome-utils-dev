@@ -55,6 +55,7 @@
 -   <https://github.com/timestored/qstudio>
 -   <https://github.com/frectonz/sql-studio>
 -   <https://github.com/nucleuscloud/neosync>
+-   <https://github.com/TabularisDB/tabularis>
 -   <https://github.com/Rohithgilla12/data-peek>
 -   <https://github.com/gridex/gridex>
 

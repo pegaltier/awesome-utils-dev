@@ -1286,6 +1286,7 @@
 -   <https://github.com/laanlabs/openPlan3D>
 -   <https://github.com/ykob/sketch-threejs>
 -   <https://github.com/dylanebert/gsplat.js>
+-   <https://github.com/pmndrs/postprocessing>
 -   <https://github.com/mikbry/awesome-webgpu>
 -   <https://github.com/icurtis1/thebrowserlab>
 -   <https://github.com/HarryStevens/geometric>
@@ -1298,6 +1299,7 @@
 -   <https://github.com/anvaka/graph-drawing-libraries>
 -   <https://github.com/0beqz/screen-space-reflections>
 -   <https://github.com/transferthought/transfer-thought>
+-   <https://github.com/erichlof/THREE.js-RayTracing-Renderer>
 -   <https://github.com/dgreenheck/threejs-procedural-planets>
 -   <https://github.com/supermedium/aframe-environment-component>
 -   <https://github.com/lumalabs/luma-web-library>

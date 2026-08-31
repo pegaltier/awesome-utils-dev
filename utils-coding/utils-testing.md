@@ -248,6 +248,7 @@
 -   <https://github.com/vitalets/playwright-network-cache>
 -   <https://github.com/vitalets/playwright-magic-steps>
 -   <https://github.com/vitalets/playwright-fix-with-ai>
+-   <https://github.com/idavidov13/agentic-playwright>
 -   <https://github.com/vitalets/playwright-bdd>
 -   <https://github.com/jfgreffier/incroyable-playwright>
 -   <https://github.com/sebastiancarlos/beachpatrol>
