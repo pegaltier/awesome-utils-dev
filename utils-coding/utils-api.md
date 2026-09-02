@@ -326,6 +326,7 @@
 -   <https://github.com/vernu/textbee>
 -   <https://github.com/vasanthv/ahey>
 -   <https://github.com/novuhq/novu>
+-   <https://github.com/gotify>
 -   <https://onesignal.com/>
 -   <https://pushover.net/>
 

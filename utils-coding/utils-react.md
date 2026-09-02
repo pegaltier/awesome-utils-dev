@@ -142,6 +142,7 @@
 
 ## LIB: ALL
 
+-   <https://github.com/47ng/nuqs>
 -   <https://github.com/mme/beakjs>
 -   <https://github.com/alloc/wana>
 -   <https://github.com/gc-victor/u>

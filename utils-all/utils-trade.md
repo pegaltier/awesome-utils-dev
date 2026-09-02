@@ -1359,6 +1359,7 @@
 -   <https://github.com/apache/superset>
 -   <https://github.com/ZhnZhn/ta-chart>
 -   <https://github.com/leeoniya/uPlot>
+-   <https://github.com/LuxAlgo/Vela>
 
 ### OSS: JAVASCRIPT: CANDLES
 

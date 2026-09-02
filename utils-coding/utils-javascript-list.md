@@ -877,9 +877,11 @@
 -   <https://github.com/fynyky/reactor.js>
 -   <https://github.com/electric-sql/d2ts>
 
-## LIB: RESPONSIVE
+## LIB: CSS / RESPONSIVE
 
+-   <https://github.com/dperini/nwsapi>
 -   <https://github.com/csswizardry/Obs.js>
+-   <https://github.com/colxi/css-global-variables>
 
 ## LIB: HARDWARE
 
@@ -895,7 +897,6 @@
 -   <https://github.com/steveruizok/perfect-freehand>
 -   <https://github.com/alias-rahil/handwritten.js>
 -   <https://github.com/alexjlockwood/ShapeShifter>
--   <https://github.com/colxi/css-global-variables>
 -   <https://github.com/funktechno/texthighlighter>
 -   <https://github.com/sindresorhus/dom-mutations>
 -   <https://github.com/davidmerfield/randomColor>
@@ -1176,6 +1177,7 @@
 -   <https://github.com/frappe/charts>
 -   <https://github.com/visgl/deck.gl>
 -   <https://github.com/ZJBC/mcharts>
+-   <https://github.com/LuxAlgo/Vela>
 -   <https://github.com/d3fc/d3fc>
 
 ## LIB: DATAVIZ / HEATMAP

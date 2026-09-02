@@ -1843,6 +1843,7 @@
 -   <https://github.com/ArduPilot/ardupilot>
 -   <https://github.com/qgallouedec/lerobot>
 -   <https://github.com/huggingface/lerobot>
+-   <https://github.com/pollen-robotics/microduck>
 -   <https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3>
 
 ## LIB: CHATBOT
