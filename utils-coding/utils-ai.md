@@ -298,6 +298,7 @@
 -   <https://9elements.com/blog/ai-glossary>
 -   <https://www.agentrecipes.com/>
 -   <https://learnprompting.org/>
+-   <https://aiweekly.co/>
 -   <https://www.superhuman.ai>
 -   <https://www.therundown.ai>
 -   <https://www.fast.ai>
