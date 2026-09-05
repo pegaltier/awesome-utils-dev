@@ -349,6 +349,14 @@
 -   <https://youtu.be/fuZoxuBiL9o> docker stack + swarm on vps
 -   <https://youtu.be/t779DVjCKCs> docker image optimized
 
+## HOST SERVICES VPS
+
+-   <https://www.hostinger.com/>
+-   <https://likevps.net/>
+-   <https://contabo.com/>
+-   <https://hetzner.com/>
+-   <https://evoxt.com/>
+
 ## REGISTRY
 
 -   <https://github.com/goharbor/harbor>
