@@ -94,7 +94,15 @@
 -   <https://github.com/DDoSolitary/LxRunOffline>
 
 ```bash
+# Windows-Formatted Drives (NTFS / exFAT) 
+# If your drive already opens normally in Windows, WSL automatically mounts it or lets you access it via the /mnt/ directory. 
+# If not done automatically; just do this
+sudo mkdir /mnt/d
+sudo mount -t drvfs D: /mnt/d
+
+# Open the Windows explorer from a wsl directory
 explorer.exe .
+
 ```
 
 ## WSL2/Nix
