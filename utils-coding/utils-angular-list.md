@@ -1808,6 +1808,8 @@ Learn how to make your own angular lib, build, distribute.
 ## ECOSYSTEM: LIB: LIST
 
 -   <https://github.com/omnedia>
+-   <https://github.com/ngxpert>
+-   <https://github.com/openng-org>
 -   <https://github.com/ngneat-archive>
 -   <https://github.com/ngxtools/ngx.tools>
 -   <https://github.com/PatrickJS/awesome-angular>

@@ -130,6 +130,8 @@
 -   <https://github.com/dbsystel/cdk-sops-secrets>
 -   <https://github.com/koblas/sops-decoder-node>
 -   <https://github.com/cachix/secretspec>
+-   <https://github.com/dotenvx/dotenvx>
+-   <https://github.com/getsops/sops>
 
 ## TOOLS: HOST
 
