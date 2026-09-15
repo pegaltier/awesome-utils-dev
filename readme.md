@@ -23,6 +23,7 @@
 ## Web Frameworks
 
 -   [Angular](utils-coding/utils-angular-list.md)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 -   [React](utils-coding/utils-react.md)
 -   [Vue](utils-coding/utils-vue.md)
 -   [More](utils-coding/)
