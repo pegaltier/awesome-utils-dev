@@ -38,6 +38,7 @@
 -   <https://github.com/melonjs/melonJS>
 -   <https://github.com/rivet-gg/rivet>
 -   <https://github.com/Bloom-Engine>
+-   <https://github.com/makalin/KeyForge3D>
 
 ## LIB: VISU
 

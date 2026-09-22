@@ -336,6 +336,8 @@
 -   <https://youtu.be/BvyGBDxGTAs>
 -   <https://www.pikapods.com/>
 -   <https://selfh.st/>
+-   <https://github.com/bex-co/bex>
+-   <https://github.com/jhd3197/ServerKit>
 
 ## HOST SERVICES OSS / TUTOS
 

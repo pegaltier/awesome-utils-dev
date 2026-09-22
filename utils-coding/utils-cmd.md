@@ -62,6 +62,8 @@
 -   <https://github.com/jlevy/the-art-of-command-line>
 -   <https://github.com/grv231/automation-bash-scripts>
 -   <https://github.com/Nikoo-Asadnejad/Practical_BashScripts>
+-   <https://github.com/bash-lsp/bash-language-server>
+-   <https://github.com/fujiapple852/trippy>
 
 ## ZSH
 

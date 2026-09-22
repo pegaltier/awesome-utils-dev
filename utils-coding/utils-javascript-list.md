@@ -1104,6 +1104,8 @@
 ## LIB: FRONTEND GESTURE
 
 -   <https://github.com/pmndrs/use-gesture>
+-   <https://github.com/digitarald/touch-input>
+-   <https://github.com/rafgraph/detect-touch-events>
 
 ## LIB: FRONTEND SCHEMAS
 
@@ -1179,6 +1181,7 @@
 -   <https://github.com/ZJBC/mcharts>
 -   <https://github.com/LuxAlgo/Vela>
 -   <https://github.com/d3fc/d3fc>
+-   <https://github.com/apexcharts/apexcharts.js>
 
 ## LIB: DATAVIZ / HEATMAP
 

@@ -606,6 +606,7 @@
 -   <https://github.com/nomeida/hyperliquid>
 -   <https://github.com/ic-alloy/ic-alloy-dca>
 -   <https://github.com/alcorexchange/alcor-ui>
+-   <https://github.com/wock9000/robinhoodpools>
 
 ## OSS: DEX BOT
 

@@ -171,6 +171,7 @@ RUN ls
 -   <https://github.com/openshift>
 -   <https://github.com/docker>
 -   <https://github.com/getarcaneapp/arcane>
+-   <https://github.com/hbx1982/quickdevbox>
 
 ## DOCKER ALL
 

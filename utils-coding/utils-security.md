@@ -231,6 +231,7 @@
 -   <https://github.com/gchq/CyberChef>
 -   <https://github.com/CISOfy/lynis>
 -   <https://github.com/D3Ext/WEF>
+-   <https://github.com/google/magika>
 
 ## UTILS
 
@@ -260,6 +261,8 @@
 ## AI
 
 -   <https://github.com/usestrix/strix>
+-   <https://github.com/cloudflare/security-audit-skill>
+-   <https://github.com/mukul975/Anthropic-Cybersecurity-Skills>
 
 ## WEB SCAM / VIRUS
 
