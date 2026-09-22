@@ -869,8 +869,13 @@
 -   <https://github.com/AhsanAyaz/ship-guard>
 
 ## TOOLS: CODING: OSS JEV
+
+-   <https://github.com/TheoLeeCJ/SemIf>
 -   <https://github.com/NandhaKishorM/laya>
+-   <https://github.com/fhshaik/typesafe-mario>
 -   <https://github.com/browser-use/jev-ultrafast>
+-   <https://github.com/tamaratran/fast-jev-compaction>
+-   <https://github.com/trungdq88/youtube-sponsor-detection>
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
