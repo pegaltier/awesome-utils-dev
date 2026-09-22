@@ -997,6 +997,7 @@
 -   <https://github.com/maxritter/pilot-shell>
 -   <https://github.com/Priivacy-ai/spec-kitty>
 -   <https://github.com/MartyBonacci/specswarm>
+-   <https://github.com/ai-driven-dev/framework>
 -   <https://github.com/statewright/statewright>
 -   <https://github.com/gsd-build/get-shit-done>
 -   <https://github.com/buildermethods/agent-os>
