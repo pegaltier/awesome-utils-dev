@@ -1211,7 +1211,14 @@
 -   <https://github.com/nocode-js/sequential-workflow-machine>
 -   <https://github.com/nocode-js/sequential-workflow-designer>
 
-## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
+## LIB: MEDIAS / AUDIO
+
+-   <https://github.com/Theodeus/tuna>
+-   <https://github.com/Tonejs/Tone.js>
+-   <https://github.com/goldfire/howler.js>
+-   <https://github.com/notthetup/awesome-webaudio>
+
+## LIB: MEDIAS / FILES / IMAGE / VIDEOS
 
 -   <https://github.com/zachleat/import-module-string>
 -   <https://github.com/francoischalifour/medium-zoom>

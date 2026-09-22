@@ -868,6 +868,10 @@
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 -   <https://github.com/AhsanAyaz/ship-guard>
 
+## TOOLS: CODING: OSS JEV
+-   <https://github.com/NandhaKishorM/laya>
+-   <https://github.com/browser-use/jev-ultrafast>
+
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
 -   <https://www.asd-ste100.org/>
