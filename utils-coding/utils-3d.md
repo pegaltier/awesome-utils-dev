@@ -61,6 +61,7 @@
 -   <https://github.com/ctate/3d-model-generator>
 
 ## TOOLS: 3D VIEWER
+
 -   <https://3dviewer.net/>
 -   <https://modelviewer.dev/>
 -   <https://threejsresources.com/3d-viewer>
@@ -73,6 +74,7 @@
 -   <https://humandataset.com/>
 
 ## TOOLS: OBJECT BANK
+
 -   <https://furnimesh.com/>
 
 ## TOOLS: AVATAR OSS
@@ -112,6 +114,7 @@
 -   <https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar>
 
 ## TOOLS: AVATAR OSS THREEJS
+
 -   <https://github.com/lo-th/Avatar.lab>
 -   <https://github.com/met4citizen/HeadTTS>
 -   <https://github.com/met4citizen/HeadAudio>

@@ -7,8 +7,8 @@
  * removed from WIP.md and appended to WIP_DONE.md.
  *
  * Usage:
- *   node wip-dedupe.js            # apply changes
- *   node wip-dedupe.js --dry-run  # only report what would move
+ *   node node_scripts/wip-dedupe.js            # apply changes
+ *   node node_scripts/wip-dedupe.js --dry-run  # only report what would move
  */
 
 const fs = require('fs');

@@ -104,7 +104,6 @@ sudo mount -t drvfs D: /mnt/d
 
 # Open the Windows explorer from a wsl directory
 explorer.exe .
-
 ```
 
 ## WSL2/Nix

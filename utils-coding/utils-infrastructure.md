@@ -38,11 +38,15 @@
 
 -   [PACK](#pack)
 
+-   [HOST SERVICES GPU](#host-services-gpu)
+
 -   [HOST SERVICES CLOSED](#host-services-closed)
 
 -   [HOST SERVICES OSS / SELF HOSTED](#host-services-oss--self-hosted)
 
 -   [HOST SERVICES OSS / TUTOS](#host-services-oss--tutos)
+
+-   [HOST SERVICES VPS](#host-services-vps)
 
 -   [REGISTRY](#registry)
 

@@ -76,6 +76,8 @@
 
 -   [TOOLS: CODING: OSS CLAUDE](#tools-coding-oss-claude)
 
+-   [TOOLS: CODING: OSS JEV](#tools-coding-oss-jev)
+
 -   [TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS](#tools-coding-oss-optimize-prompt-rules--skills)
 
 -   [TOOLS: CODING: OSS SKILLS EVAL](#tools-coding-oss-skills-eval)
@@ -119,6 +121,8 @@
 -   [TOOLS: VIDEO](#tools-video)
 
 -   [TOOLS: VIDEO FACE](#tools-video-face)
+
+-   [TOOLS: VIDEO LIPSYNC](#tools-video-lipsync)
 
 -   [TOOLS: AUDIO](#tools-audio)
 
@@ -243,6 +247,8 @@
 -   [LIB: VIDEO ENHANCE / RESTORE / UPSCALE](#lib-video-enhance--restore--upscale)
 
 -   [LIB: VIDEO PHOTOREALISM](#lib-video-photorealism)
+
+-   [LIB: VIDEO LIPSYNC](#lib-video-lipsync)
 
 -   [LIB: VIDEO DEEP FAKE / FACE SWAP](#lib-video-deep-fake--face-swap)
 
@@ -973,7 +979,6 @@
 -   <https://github.com/imxv/Pretty-mermaid-skills>
 -   <https://github.com/petergyang/no-ai-slop>
 
-
 ## TOOLS: CODING: OSS BACKGROUND
 
 -   <https://github.com/ColeMurray/background-agents>
@@ -1191,6 +1196,7 @@
 -   <https://www.runcomfy.com/comfyui-workflows/flux-klein-face-swap-in-comfyui-seamless-ai-face-replacement>
 
 ## TOOLS: VIDEO LIPSYNC
+
 -   <https://sync.so/home>
 -   <https://fal.ai/models/fal-ai/musetalk>
 -   <https://fal.ai/models/fal-ai/sadtalker>
@@ -1610,7 +1616,6 @@
 -   <https://betterstack.com/community/guides/ai/just-bash-simulated/>
 -   <https://ddewhurst.com/blog/just-bash-a-full-shell-in-pure-typescript-for-ai-agents/>
 
-
 ## LIB: AGENTIC CODE MODE
 
 -   <https://github.com/jx-codes/lootbox>
@@ -1684,7 +1689,6 @@
 -   <https://github.com/joonspk-research/generative_agents>
 -   <https://github.com/sarwarbeing-ai/Agentic_Design_Patterns>
 
-
 ## LIB: CRAWLER / SCRAPER / DATA PARSER
 
 -   <https://github.com/Y2Z/monolith>
@@ -1707,7 +1711,6 @@
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>
 -   <https://github.com/zohaibbashir/Google-Maps-Scrapper>
-
 
 ## LIB: LOOP / AUTONOMOUS / CONTINUOUS AI
 

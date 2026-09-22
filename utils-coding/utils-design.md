@@ -15,6 +15,7 @@
 -   [PATTERN](#pattern)
 -   [RESOURCES](#resources)
 -   [MOCKUPS](#mockups)
+-   [PIXEL ART](#pixel-art)
 -   [PROFILES](#profiles)
 -   [3D](#3d)
 -   [ARTICLES](#articles)

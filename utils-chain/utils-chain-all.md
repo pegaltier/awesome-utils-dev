@@ -90,8 +90,6 @@
 
     -   [BROWSER](#browser)
 
-    -   [SOLANA](#solana)
-
     -   [ALL: ANALYSE](#all-analyse)
 
     -   [MEMES: ANALYSE](#memes-analyse)
@@ -937,7 +935,6 @@ PANTOS — - <https://pantos.io>
 ## BROWSER
 
 -   <https://beakerbrowser.com/>
-
 
 ## ALL: ANALYSE
 
