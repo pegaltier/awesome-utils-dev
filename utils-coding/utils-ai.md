@@ -790,6 +790,7 @@
 -   <https://github.com/luoyuctl/agenttrace>
 -   <https://github.com/vibe-archi/pdbg>
 -   <https://github.com/millionco/debug-agent>
+-   <https://github.com/Continuum-AI-Corp/OrcaReplay>
 -   <https://github.com/elementalsouls/Claude-BugHunter>
 
 ## TOOLS: CODING: OSS BACKEND
