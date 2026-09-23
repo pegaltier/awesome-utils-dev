@@ -671,6 +671,7 @@
 -   <https://github.com/RobertAgee/Real_Time_Strategy_Scanner>
 -   <https://github.com/RobertAgee/Pine-Script-Display-Case> \*
 -   <https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4>
+-   <https://github.com/Roboquant-AI/tradingview-optimizer>
 
 ## TOOLS: TRADINGVIEW: INDICATORS AI
 
@@ -1043,6 +1044,7 @@
 -   <https://github.com/jesse-ai/jesse>
 -   <https://github.com/stellar/kelp>
 -   <https://github.com/hackingthemarkets>
+-   <https://github.com/0xwhrari/SNIPE>
 
 ### OSS: OPENCLAW LIKE
 
@@ -1181,6 +1183,7 @@
 -   <https://medium.com/@crisvelasquez/8-trading-indicators-in-python-you-never-heard-of-4d3a043dda95>
 -   <https://www.quantstart.com/articles/market-regime-detection-using-hidden-markov-models-in-qstrader/>
 -   <https://pyquantnews.com/backtest-powerful-intraday-trading-strategies/>
+-   <https://github.com/Rockyzsu/stock>
 
 ### OSS: PYTHON: OCTOBOT
 
@@ -1520,6 +1523,7 @@
 -   <https://github.com/tradingstrategy-ai/trading-strategy>
 -   <https://github.com/ccroft6/Technical_Indicator_Analysis_ML>
 -   <https://github.com/jason8745/llm-agent-trader>
+-   <https://github.com/Novals83/5min-btc-polymarket>
 
 ## OSS: TOPICS
 

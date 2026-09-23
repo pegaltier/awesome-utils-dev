@@ -249,6 +249,7 @@
 -   <https://github.com/actualbudget/actual>
 -   <https://github.com/afadil/wealthfolio>
 -   <https://github.com/Expensify/App>
+-   <https://github.com/donewiththedollar>
 
 ## OSS: INVOICE
 
@@ -316,6 +317,7 @@
 -   <https://github.com/TagStudioDev/TagStudio>
 -   <https://github.com/codeforreal1/compressO>
 -   <https://github.com/GraphiteEditor/Graphite>
+-   <https://github.com/ramiropolla/ascii-jpeg>
 
 ## OSS: AUDIO
 
@@ -521,6 +523,8 @@
 
 -   <https://codeberg.org/comaps/comaps>
 -   <https://github.com/metamaps/metamaps>
+-   <https://github.com/developmentseed/titiler>
+-   <https://github.com/nasa-gibs/worldview>
 
 # OSS: WEB
 

@@ -62,6 +62,8 @@
 -   <https://github.com/jlevy/the-art-of-command-line>
 -   <https://github.com/grv231/automation-bash-scripts>
 -   <https://github.com/Nikoo-Asadnejad/Practical_BashScripts>
+-   <https://github.com/bash-lsp/bash-language-server>
+-   <https://github.com/fujiapple852/trippy>
 
 ## ZSH
 
@@ -94,6 +96,13 @@
 -   <https://github.com/DDoSolitary/LxRunOffline>
 
 ```bash
+# Windows-Formatted Drives (NTFS / exFAT) 
+# If your drive already opens normally in Windows, WSL automatically mounts it or lets you access it via the /mnt/ directory. 
+# If not done automatically; just do this
+sudo mkdir /mnt/d
+sudo mount -t drvfs D: /mnt/d
+
+# Open the Windows explorer from a wsl directory
 explorer.exe .
 ```
 

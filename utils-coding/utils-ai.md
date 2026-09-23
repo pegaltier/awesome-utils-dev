@@ -36,8 +36,6 @@
 
 -   [TOOLS: CLIENT PROMPT: OSS](#tools-client-prompt-oss)
 
--   [TOOLS: AI APP STORE](#tools-ai-app-store)
-
 -   [TOOLS: SUPPORT](#tools-support)
 
 -   [TOOLS: ALL](#tools-all)
@@ -75,6 +73,8 @@
 -   [TOOLS: CODING: OSS ANTIGRAVITY](#tools-coding-oss-antigravity)
 
 -   [TOOLS: CODING: OSS CLAUDE](#tools-coding-oss-claude)
+
+-   [TOOLS: CODING: OSS JEV](#tools-coding-oss-jev)
 
 -   [TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS](#tools-coding-oss-optimize-prompt-rules--skills)
 
@@ -119,6 +119,8 @@
 -   [TOOLS: VIDEO](#tools-video)
 
 -   [TOOLS: VIDEO FACE](#tools-video-face)
+
+-   [TOOLS: VIDEO LIPSYNC](#tools-video-lipsync)
 
 -   [TOOLS: AUDIO](#tools-audio)
 
@@ -243,6 +245,8 @@
 -   [LIB: VIDEO ENHANCE / RESTORE / UPSCALE](#lib-video-enhance--restore--upscale)
 
 -   [LIB: VIDEO PHOTOREALISM](#lib-video-photorealism)
+
+-   [LIB: VIDEO LIPSYNC](#lib-video-lipsync)
 
 -   [LIB: VIDEO DEEP FAKE / FACE SWAP](#lib-video-deep-fake--face-swap)
 
@@ -525,10 +529,6 @@
 -   <https://github.com/khoj-ai/khoj>
 -   <https://github.com/lencx/Noi>
 
-## TOOLS: AI APP STORE
-
--   <https://github.com/mediar-ai/screenpipe>
-
 ## TOOLS: SUPPORT
 
 -   <https://www.mendable.ai/>
@@ -567,9 +567,12 @@
 -   <https://www.literallyanything.io/>
 -   <http://playground.tensorflow.org/>
 -   <https://github.com/clmnin/summarize.site>
+-   <https://github.com/xevrion/breakscale>
 
 ## TOOLS: AGGREGATE / GATEWAY / ROUTING
 
+-   <https://github.com/HarnessRouter/harnessrouter>
+-   <https://github.com/duolahypercho/codex-router>
 -   <https://github.com/tashfeenahmed/freellmapi>
 -   <https://github.com/diegosouzapw/OmniRoute>
 -   <https://github.com/anomalyco/models.dev>
@@ -592,6 +595,7 @@
 
 ## TOOLS: SUMMARY / ORGANIZE
 
+-   <https://github.com/screenpipe/screenpipe>
 -   <https://notebooklm.google/>
 -   <https://github.com/marcj/papernews>
 -   <https://github.com/lfnovo/open-notebook>
@@ -610,6 +614,7 @@
 -   <https://github.com/karpathy/nanochat>
 -   <https://github.com/cheshire-cat-ai/core>
 -   <https://github.com/danielmiessler/fabric>
+-   <https://github.com/itsfatduck/optimizerDuck>
 -   <https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent>
 -   <https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts>
 
@@ -759,6 +764,12 @@
 -   <https://github.com/vercel-labs/fx>
 -   <https://github.com/filiksyos/gitreverse>
 -   <https://github.com/binaryjack/codernic.dev>
+-   <https://github.com/AdventDevInc/kudu>
+-   <https://github.com/Tencent/teamai-cli>
+-   <https://github.com/Vizards/deepseek-v4-for-copilot>
+-   <https://github.com/lovablelabs/oj>
+-   <https://github.com/pierrecomputer/pierre>
+-   <https://github.com/webprodigies-org/flute>
 
 ## TOOLS: CODING: OSS HARNESS
 
@@ -780,6 +791,7 @@
 -   <https://github.com/vibe-archi/pdbg>
 -   <https://github.com/millionco/debug-agent>
 -   <https://github.com/Continuum-AI-Corp/OrcaReplay>
+-   <https://github.com/elementalsouls/Claude-BugHunter>
 
 ## TOOLS: CODING: OSS BACKEND
 
@@ -868,6 +880,18 @@
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 -   <https://github.com/AhsanAyaz/ship-guard>
+-   <https://github.com/yanchuk/claude-plugin-codex>
+
+## TOOLS: CODING: OSS JEV
+
+-   <https://github.com/TheoLeeCJ/SemIf>
+-   <https://github.com/NandhaKishorM/laya>
+-   <https://github.com/mizorewww/laya-mlx>
+-   <https://github.com/mizorewww/laya-coreml>
+-   <https://github.com/fhshaik/typesafe-mario>
+-   <https://github.com/browser-use/jev-ultrafast>
+-   <https://github.com/tamaratran/fast-jev-compaction>
+-   <https://github.com/trungdq88/youtube-sponsor-detection>
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
@@ -946,6 +970,10 @@
 -   <https://github.com/AntonioCardenas/generate-nanobanana>
 -   <https://github.com/ai-driven-dev/framework>
 -   <https://github.com/agent0ai/dox>
+-   <https://github.com/guillaumemeyer/watermarks-remover>
+-   <https://github.com/ZeroPointRepo/youtube-skills>
+-   <https://github.com/imxv/Pretty-mermaid-skills>
+-   <https://github.com/petergyang/no-ai-slop>
 
 ## TOOLS: CODING: OSS BACKGROUND
 
@@ -970,6 +998,7 @@
 -   <https://github.com/maxritter/pilot-shell>
 -   <https://github.com/Priivacy-ai/spec-kitty>
 -   <https://github.com/MartyBonacci/specswarm>
+-   <https://github.com/ai-driven-dev/framework>
 -   <https://github.com/statewright/statewright>
 -   <https://github.com/gsd-build/get-shit-done>
 -   <https://github.com/buildermethods/agent-os>
@@ -992,6 +1021,7 @@
 -   <https://github.com/Gentleman-Programming/gentleman-guardian-angel>
 -   <https://github.com/openclaw/clawpatch>
 -   <https://github.com/getsentry/warden>
+-   <https://github.com/devarshishimpi/codra>
 
 ## TOOLS: CODING: OSS AUTO
 
@@ -1062,6 +1092,7 @@
 -   <https://github.com/jacoblee93/fully-local-pdf-chatbot>
 -   <https://github.com/oomol-lab/pdf-craft>
 -   <https://github.com/docling-project/docling>
+-   <https://github.com/genspark-ai/genoffice>
 
 ## TOOLS: SANDBOXING / CONTAINER
 
@@ -1161,6 +1192,7 @@
 -   <https://www.runcomfy.com/comfyui-workflows/flux-klein-face-swap-in-comfyui-seamless-ai-face-replacement>
 
 ## TOOLS: VIDEO LIPSYNC
+
 -   <https://sync.so/home>
 -   <https://fal.ai/models/fal-ai/musetalk>
 -   <https://fal.ai/models/fal-ai/sadtalker>
@@ -1201,6 +1233,8 @@
 
 -   <https://chat.hackerai.co/>
 -   <https://github.com/FuzzingLabs/fuzzforge_ai>
+-   <https://github.com/Archive228/warden>
+-   <https://github.com/Geoking2104/AInonymous>
 
 ## TOOLS: SEARCH
 
@@ -1336,6 +1370,7 @@
 -   <https://soverius.ai/blog/implementing-a-tiny-harness>
 -   <https://github.com/nico-martin/gemma4-browser-extension>
 -   <https://github.com/ggml-org/llama.cpp/blob/master/docs%2Fdocker.md>
+-   <https://github.com/cactus-compute/cactus-hybrid>
 
 ## TOOLS: BROWSER / LOCAL
 
@@ -1416,6 +1451,8 @@
 -   <https://github.com/microsoft/DirectML>
 -   <https://github.com/unslothai/hyperlearn>
 -   <https://github.com/huggingface/ml-intern>
+-   <https://github.com/eriklindernoren/ML-From-Scratch>
+-   <https://github.com/mrmps/classifier-dev>
 
 ## LIB: STRUCTURED OUTPUT
 
@@ -1456,6 +1493,8 @@
 -   <https://github.com/triggerdotdev/trigger.dev>
 -   <https://github.com/coleam00/ottomator-agents>
 -   <https://github.com/naqashafzal/AI-Content-Studio>
+-   <https://github.com/muellerberndt/cadence>
+-   <https://github.com/pegaltier/facelessyt>
 
 ## LIB: WORKFLOW / CONTENT CREATION : N8N
 
@@ -1498,6 +1537,9 @@
 -   <https://github.com/Alibaba-NLP/DeepResearch>
 -   <https://github.com/nickscamara/open-deep-research>
 -   <https://github.com/K-Dense-AI/scientific-agent-skills>
+-   <https://github.com/google/artemis>
+-   <https://github.com/jordan-gibbs/hyperresearch>
+-   <https://github.com/uditgoenka/autoresearch>
 
 ## LIB: COMPAT AGENT
 
@@ -1530,6 +1572,7 @@
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
 -   <https://github.com/damiansire/cognitive-substrate-os>
+-   <https://github.com/0xNyk/council-of-high-intelligence>
 -   <https://github.com/vercel-labs/personal-agent-template>
 -   <https://github.com/yosietserga/multi-llm-agent-orchestrator>
 
@@ -1544,11 +1587,16 @@
 -   <https://github.com/github/gh-aw-firewall>
 -   <https://github.com/microsoft/genaiscript>
 -   <https://github.com/dmtrKovalenko/fff.nvim>
+-   <https://github.com/zzet/gortex>
 
 ## LIB: AGENTIC ALL TOOLS
 
+-   <https://github.com/stripe/ai>
 -   <https://github.com/withoneai/cli>
 -   <https://github.com/capsulerun/bash>
+-   <https://github.com/tsaijamey/frago>
+-   <https://github.com/makerspet/oomwoo>
+-   <https://github.com/benmaster82/Kwipu>
 -   <https://github.com/cloudflare/agents>
 -   <https://github.com/BuilderIO/ai-shell>
 -   <https://github.com/millionco/cli-to-js>
@@ -1593,6 +1641,7 @@
 -   <https://github.com/coleam00/Archon>
 -   <https://github.com/firebase/genkit>
 -   <https://github.com/getzep/graphiti>
+-   <https://github.com/sentrux/sentrux>
 -   <https://github.com/joinly-ai/joinly>
 -   <https://github.com/emcie-co/parlant>
 -   <https://github.com/mastra-ai/mastra>
@@ -1614,7 +1663,9 @@
 -   <https://github.com/coze-dev/coze-studio>
 -   <https://github.com/pydantic/pydantic-ai>
 -   <https://github.com/tursodatabase/agentfs>
+-   <https://github.com/daydreamsai/daydreams>
 -   <https://github.com/jasonmayes/WebAIAgent>
+-   <https://github.com/sooryathejas/METATRON>
 -   <https://github.com/humanlayer/humanlayer>
 -   <https://github.com/microsoft/magentic-ui>
 -   <https://github.com/BuilderIO/agent-native>
@@ -1644,6 +1695,7 @@
 -   <https://github.com/D4Vinci/Scrapling>
 -   <https://github.com/0xchasercat/draco>
 -   <https://github.com/QuivrHQ/MegaParse>
+-   <https://github.com/daseinlabs/parsec>
 -   <https://github.com/addyosmani/git2txt>
 -   <https://github.com/karpathy/rendergit>
 -   <https://github.com/steipete/summarize>
@@ -1654,7 +1706,7 @@
 -   <https://github.com/mishushakov/llm-scraper>
 -   <https://github.com/projectdiscovery/katana>
 -   <https://github.com/supermemoryai/markdowner>
-
+-   <https://github.com/zohaibbashir/Google-Maps-Scrapper>
 
 ## LIB: LOOP / AUTONOMOUS / CONTINUOUS AI
 
@@ -1682,6 +1734,7 @@
 ## LIB: CONTEXT ENGINERRING / RAG / INGESTION
 
 -   <https://github.com/HKUDS/LightRAG>
+-   <https://github.com/StarTrail-org/PixelRAG>
 -   <https://github.com/AnswerDotAI/RAGatouille>
 -   <https://github.com/louisbrulenaudet/ragoon>
 -   <https://github.com/vercel/ai-sdk-rag-starter>
@@ -1703,6 +1756,7 @@
 -   <https://github.com/nashsu/llm_wiki>
 -   <https://github.com/Tencent/WeKnora>
 -   <https://github.com/getomni-ai/zerox>
+-   <https://github.com/deeplethe/utopia>
 -   <https://github.com/Cinnamon/kotaemon>
 -   <https://github.com/tmccombs/hcl2json>
 -   <https://github.com/oramasearch/orama>
@@ -1867,6 +1921,7 @@
 ## LIB: VLM / VISION
 
 -   <https://github.com/THUDM/CogAgent>
+-   <https://github.com/roboflow/rf-detr>
 -   <https://github.com/vllm-project/vllm>
 -   <https://github.com/roboflow/inference>
 -   <https://github.com/sgl-project/sglang>
@@ -1932,6 +1987,7 @@
 -   <https://github.com/meta-llama/llama3>
 -   <https://github.com/OpenBMB/MiniCPM-o>
 -   <https://github.com/Agenta-AI/agenta>
+-   <https://github.com/arman-bd/guppylm>
 -   <https://github.com/karpathy/LLM101n>
 -   <https://github.com/codelion/optillm>
 -   <https://github.com/jmorganca/ollama>
@@ -2000,6 +2056,7 @@
 -   <https://github.com/0xSojalSec/free-voice-clone>
 -   <https://github.com/HumeAI/hume-api-examples>
 -   <https://github.com/rhulha/StreamingKokoroJS>
+-   <https://github.com/breezeblue-ai/breeze-tts>
 -   <https://github.com/jianchang512/ChatTTS-ui>
 -   <https://github.com/nineninesix-ai/kani-tts>
 -   <https://github.com/eustlb/speech-to-speech>
@@ -2100,10 +2157,12 @@
 -   <https://github.com/longxiang-ai/awesome-video-diffusions>
 -   <https://github.com/mayuelala/Awesome-Controllable-Video-Generation>
 -   <https://github.com/topics/image-to-video-generation>
--   <https://github.com/topics/hyperframes>
+-   <https://github.com/Vincentwei1021/video-shotcraft>
 -   <https://github.com/meituan-longcat/LongCat-Video>
 -   <https://github.com/calesthio/OpenMontage>
 -   <https://github.com/browser-use/video-use>
+-   <https://github.com/latent-spaces/brag>
+-   <https://github.com/topics/hyperframes>
 
 ## LIB: VIDEO ENHANCE / RESTORE / UPSCALE
 
@@ -2239,6 +2298,7 @@
 ## LIB: ORCHESTRATION / ZERO HUMAN
 
 -   <https://github.com/openai/swarm>
+-   <https://github.com/agent0ai/spynel>
 -   <https://github.com/subsy/ralph-tui>
 -   <https://github.com/pedramamini/Maestro>
 -   <https://github.com/superset-sh/superset>
@@ -2254,6 +2314,7 @@
 ## LIB: LABELLING
 
 -   <https://github.com/HumanSignal/label-studio>
+-   <https://github.com/bespokelabsai/nimble>
 
 ## LIB: VIZ
 

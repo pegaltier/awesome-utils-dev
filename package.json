@@ -16,17 +16,18 @@
   },
   "devDependencies": {},
   "scripts": {
-    "generate": "node remark.js",
+    "generate": "node node_scripts/remark.js",
+    "dedupe": "node node_scripts/wip-dedupe.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pegaltier/utils-dev.git"
+    "url": "git+https://github.com/pegaltier/awesome-utils-dev.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pegaltier/utils-dev/issues"
+    "url": "https://github.com/pegaltier/awesome-utils-dev/issues"
   },
-  "homepage": "https://github.com/pegaltier/utils-dev#readme"
+  "homepage": "https://github.com/pegaltier/awesome-utils-dev#readme"
 }

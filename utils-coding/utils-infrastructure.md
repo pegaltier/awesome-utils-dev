@@ -38,11 +38,15 @@
 
 -   [PACK](#pack)
 
+-   [HOST SERVICES GPU](#host-services-gpu)
+
 -   [HOST SERVICES CLOSED](#host-services-closed)
 
 -   [HOST SERVICES OSS / SELF HOSTED](#host-services-oss--self-hosted)
 
 -   [HOST SERVICES OSS / TUTOS](#host-services-oss--tutos)
+
+-   [HOST SERVICES VPS](#host-services-vps)
 
 -   [REGISTRY](#registry)
 
@@ -336,6 +340,8 @@
 -   <https://youtu.be/BvyGBDxGTAs>
 -   <https://www.pikapods.com/>
 -   <https://selfh.st/>
+-   <https://github.com/bex-co/bex>
+-   <https://github.com/jhd3197/ServerKit>
 
 ## HOST SERVICES OSS / TUTOS
 

@@ -6,7 +6,6 @@
 -   [Helper](#helper)
 -   [Fullstack](#fullstack)
 -   [Ecommerce](#ecommerce)
--   [Social network](#social-network)
 -   [ERP / CRM / HR](#erp--crm--hr)
 -   [BI / Business intelligence](#bi--business-intelligence)
 -   [Images](#images)
@@ -14,6 +13,8 @@
 -   [Admin](#admin)
 -   [Notifications](#notifications)
 -   [Chatbot](#chatbot)
+-   [Radio](#radio)
+-   [Social network](#social-network)
 -   [Automation](#automation)
 
 ## Paying

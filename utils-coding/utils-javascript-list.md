@@ -64,7 +64,7 @@
 -   [LIB: UI](#lib-ui)
 -   [LIB: FUNCTIONNAL PROGRAMMING / FP](#lib-functionnal-programming--fp)
 -   [LIB: REACTIVE](#lib-reactive)
--   [LIB: RESPONSIVE](#lib-responsive)
+-   [LIB: CSS / RESPONSIVE](#lib-css--responsive)
 -   [LIB: HARDWARE](#lib-hardware)
 -   [LIB: FRONTEND ALL](#lib-frontend-all)
 -   [LIB: FRONTEND UNDO REDO](#lib-frontend-undo-redo)
@@ -90,7 +90,8 @@
 -   [LIB: DATAVIZ / CHART / DATA VIZ / GRAPH](#lib-dataviz--chart--data-viz--graph)
 -   [LIB: DATAVIZ / HEATMAP](#lib-dataviz--heatmap)
 -   [LIB: WORKFLOW / PIPES / FLOWCHART / MIDDLEWARE](#lib-workflow--pipes--flowchart--middleware)
--   [LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS](#lib-medias--files--image--audio--videos)
+-   [LIB: MEDIAS / AUDIO](#lib-medias--audio)
+-   [LIB: MEDIAS / FILES / IMAGE / VIDEOS](#lib-medias--files--image--videos)
 -   [LIB: 2D/3D/VR](#lib-2d3dvr)
 -   [LIB: WEBHOOK](#lib-webhook)
 -   [LIB: MATH / CALCUL / NUMBER](#lib-math--calcul--number)
@@ -1104,6 +1105,8 @@
 ## LIB: FRONTEND GESTURE
 
 -   <https://github.com/pmndrs/use-gesture>
+-   <https://github.com/digitarald/touch-input>
+-   <https://github.com/rafgraph/detect-touch-events>
 
 ## LIB: FRONTEND SCHEMAS
 
@@ -1179,6 +1182,7 @@
 -   <https://github.com/ZJBC/mcharts>
 -   <https://github.com/LuxAlgo/Vela>
 -   <https://github.com/d3fc/d3fc>
+-   <https://github.com/apexcharts/apexcharts.js>
 
 ## LIB: DATAVIZ / HEATMAP
 
@@ -1211,7 +1215,14 @@
 -   <https://github.com/nocode-js/sequential-workflow-machine>
 -   <https://github.com/nocode-js/sequential-workflow-designer>
 
-## LIB: MEDIAS / FILES / IMAGE / AUDIO / VIDEOS
+## LIB: MEDIAS / AUDIO
+
+-   <https://github.com/Theodeus/tuna>
+-   <https://github.com/Tonejs/Tone.js>
+-   <https://github.com/goldfire/howler.js>
+-   <https://github.com/notthetup/awesome-webaudio>
+
+## LIB: MEDIAS / FILES / IMAGE / VIDEOS
 
 -   <https://github.com/zachleat/import-module-string>
 -   <https://github.com/francoischalifour/medium-zoom>
