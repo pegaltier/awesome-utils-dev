@@ -658,6 +658,8 @@
 -   <https://factory.strongdm.ai/>
 -   <https://cofounder.openinterface.ai/>
 -   <https://github.com/traycerai/traycer>
+-   <https://nextreset.ai/>
+
 
 ## TOOLS: CODING: OSS
 
