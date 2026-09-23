@@ -317,6 +317,7 @@
 -   <https://github.com/benbristow/dokploy-compose-templates>
 -   <https://github.com/benbristow/dokploy-deploy-action>
 -   <https://github.com/jmischler72/dokploy-deploy-action>
+-   <https://github.com/lucaslorentz/caddy-docker-proxy>
 -   <https://github.com/caprover/one-click-apps>
 -   <https://github.com/coollabsio/cli-coolify>
 -   <https://github.com/deuxfleurs-org/garage>

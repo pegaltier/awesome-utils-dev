@@ -890,6 +890,8 @@
 -   <https://github.com/jaredpalmer/kev>
 -   <https://github.com/NandhaKishorM/laya>
 -   <https://github.com/mizorewww/laya-mlx>
+-   <https://github.com/AgriciDaniel/jev-seo>
+-   <https://github.com/mrmps/classifier-dev>
 -   <https://github.com/mizorewww/laya-coreml>
 -   <https://github.com/fhshaik/typesafe-mario>
 -   <https://github.com/browser-use/jev-ultrafast>
@@ -1455,7 +1457,6 @@
 -   <https://github.com/unslothai/hyperlearn>
 -   <https://github.com/huggingface/ml-intern>
 -   <https://github.com/eriklindernoren/ML-From-Scratch>
--   <https://github.com/mrmps/classifier-dev>
 
 ## LIB: STRUCTURED OUTPUT
 
