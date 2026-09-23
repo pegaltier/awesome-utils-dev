@@ -36,8 +36,6 @@
 
 -   [TOOLS: CLIENT PROMPT: OSS](#tools-client-prompt-oss)
 
--   [TOOLS: AI APP STORE](#tools-ai-app-store)
-
 -   [TOOLS: SUPPORT](#tools-support)
 
 -   [TOOLS: ALL](#tools-all)
@@ -531,10 +529,6 @@
 -   <https://github.com/khoj-ai/khoj>
 -   <https://github.com/lencx/Noi>
 
-## TOOLS: AI APP STORE
-
--   <https://github.com/mediar-ai/screenpipe>
-
 ## TOOLS: SUPPORT
 
 -   <https://www.mendable.ai/>
@@ -601,6 +595,7 @@
 
 ## TOOLS: SUMMARY / ORGANIZE
 
+-   <https://github.com/screenpipe/screenpipe>
 -   <https://notebooklm.google/>
 -   <https://github.com/marcj/papernews>
 -   <https://github.com/lfnovo/open-notebook>
