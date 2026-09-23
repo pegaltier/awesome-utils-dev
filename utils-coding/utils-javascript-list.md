@@ -1368,6 +1368,10 @@
 -   <https://github.com/janl/mustache.js>
 -   <https://github.com/bgub/eta>
 
+## LIB: GRAPH ALGO
+
+-   <https://github.com/Afitzy98/pathviz>
+
 ## LIB: GENETIC ALGO
 
 -   <https://github.com/dolphin278/genetic>

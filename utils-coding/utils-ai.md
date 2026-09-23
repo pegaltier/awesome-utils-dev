@@ -580,6 +580,7 @@
 -   <https://github.com/Portkey-AI/gateway>
 -   <https://github.com/mnfst/manifest>
 -   <https://vercel.com/ai-gateway>
+-   <https://www.orcarouter.ai/>
 -   <https://www.segmind.com/>
 -   <https://www.together.ai/>
 -   <https://www.requesty.ai/>
@@ -886,6 +887,7 @@
 ## TOOLS: CODING: OSS JEV
 
 -   <https://github.com/TheoLeeCJ/SemIf>
+-   <https://github.com/jaredpalmer/kev>
 -   <https://github.com/NandhaKishorM/laya>
 -   <https://github.com/mizorewww/laya-mlx>
 -   <https://github.com/mizorewww/laya-coreml>
