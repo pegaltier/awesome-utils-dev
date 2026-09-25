@@ -97,6 +97,7 @@
 -   <https://github.com/dandavison/delta>
 -   <https://github.com/eth0izzle/shhgit>
 -   <https://github.com/orhun/git-cliff>
+-   <https://github.com/loki-inu/relnote>
 -   <https://github.com/typicode/husky>
 -   <https://github.com/tobi/walgit>
 -   <https://github.com/upptime/upptime>
