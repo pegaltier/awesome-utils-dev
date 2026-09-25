@@ -146,7 +146,6 @@
 ## GUIDE: OSS
 
 -   <https://github.com/fraxken/ebook_nodejs>
--   <https://github.com/i0natan/nodebestpractices>
 -   <https://github.com/microsoft/nodejs-guidelines>
 -   <https://github.com/platformatic/node-masterclass>
 -   <https://github.com/goldbergyoni/nodebestpractices>
