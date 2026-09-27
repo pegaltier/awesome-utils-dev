@@ -98,6 +98,7 @@
 -   [LIB: MATH / CLUSTER](#lib-math--cluster)
 -   [LIB: MATH / MATRIX](#lib-math--matrix)
 -   [LIB: TEMPLATE](#lib-template)
+-   [LIB: GRAPH ALGO](#lib-graph-algo)
 -   [LIB: GENETIC ALGO](#lib-genetic-algo)
 -   [LIB: AI: GPT](#lib-ai-gpt)
 -   [LIB: AI: AGENT](#lib-ai-agent)

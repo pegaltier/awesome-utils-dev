@@ -2,7 +2,9 @@
 
 ## TABLE OF CONTENTS
 
--   [TYPESCRIPT GUIDES](#typescript-guides)
+-   [GUIDE: OSS](#guide-oss)
+
+-   [GUIDE: ONLINE](#guide-online)
 
 -   [START](#start)
 
@@ -96,11 +98,8 @@
     -   [UTILITY TYPES](#utility-types)
     -   [NEXT](#next)
 
-## TYPESCRIPT GUIDES
+## GUIDE: OSS
 
--   <https://typescript.fm/>
--   <https://sulco.stackblitz.io/>
--   <https://type-level-typescript.com/>
 -   <https://basarat.gitbook.io/typescript/>
 -   <https://github.com/bautistaaa/typehero>
 -   <https://github.com/gibbok/typescript-book>
@@ -115,7 +114,6 @@
 -   <https://github.com/microsoft/TypeScript-Handbook>
 -   <https://github.com/labs42io/clean-code-typescript>
 -   <https://github.com/type-challenges/type-challenges>
--   <https://www.totaltypescript.com/tsconfig-cheat-sheet>
 -   <https://github.com/DanWahlin/typescript-fundamentals>
 -   <https://github.com/santoshyadavdev/typescript-basics>
 -   <https://github.com/microsoft/TypeScript-New-Handbook>
@@ -123,12 +121,19 @@
 -   <https://github.com/CodelyTV/awesome-typescript-examples>
 -   <https://2ality.com/2020/04/migrating-to-typescript.html>
 -   <https://github.com/enricopolanski/functional-programming>
--   <https://kentcdodds.com/blog/typescript-function-syntaxes>
 -   <https://github.com/total-typescript/total-typescript-book>
 -   <https://github.com/ghoullier/awesome-template-literal-types>
 -   <https://github.com/typescript-exercises/typescript-exercises>
 -   <https://github.com/total-typescript/beginners-typescript-tutorial>
 -   <https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know>
+
+## GUIDE: ONLINE
+
+-   <https://typescript.fm/>
+-   <https://sulco.stackblitz.io/>
+-   <https://type-level-typescript.com/>
+-   <https://www.totaltypescript.com/tsconfig-cheat-sheet>
+-   <https://kentcdodds.com/blog/typescript-function-syntaxes>
 -   <https://dev.to/ganeshmani/typescript-basics-a-definitive-guide-57j>
 
 ## START
