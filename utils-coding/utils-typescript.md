@@ -101,7 +101,7 @@
 ## GUIDE: OSS
 
 -   <https://basarat.gitbook.io/typescript/>
--   <https://github.com/bautistaaa/typehero>
+-   <https://github.com/typehero/typehero>
 -   <https://github.com/gibbok/typescript-book>
 -   <https://github.com/basarat/typescript-book>
 -   <https://github.com/TheAlgorithms/TypeScript>
