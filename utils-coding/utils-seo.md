@@ -229,6 +229,8 @@ voir vidéo abondance cocon sémantique (voir les 5 videos) :
 
 ## ON PAGE BASICS : TITLE + DESCRIPTION
 
+-   <https://yicekit.com/tools/seo-title-checker/>
+
 voir sur tools le CTR, il doit être supérieur a x% suivant la position actuelle, sinon : optimisation
 
 -   <https://www.seoquantum.com/billet/optimisation-balise-title>
