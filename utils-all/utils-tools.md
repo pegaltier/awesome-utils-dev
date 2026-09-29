@@ -124,6 +124,7 @@
 -   <https://it-tools.tech/>
 -   <https://transform.tools/>
 -   <https://codebeautify.org/>
+-   <https://susscr.github.io/yaml-preflight/>
 
 ## ONLINE TOOLS: VIDEOS
 
