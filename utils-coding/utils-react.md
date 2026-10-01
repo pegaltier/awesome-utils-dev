@@ -285,6 +285,7 @@
 -   <https://github.com/heroui-inc/heroui>
 -   <https://github.com/tremorlabs/tremor>
 -   <https://github.com/ZEISS/precise-ui>
+-   <https://github.com/allxsmith/bestax>
 -   <https://github.com/facebook/stylex>
 -   <https://github.com/ariakit/ariakit>
 -   <https://github.com/facebook/astryx>
