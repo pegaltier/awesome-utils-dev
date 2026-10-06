@@ -333,6 +333,7 @@
 -   <https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data>
 -   <https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000>
 -   <https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/>
+-   <https://aperiodic.io/>
 
 ## QUOTES: OSS
 
