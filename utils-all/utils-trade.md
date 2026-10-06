@@ -196,6 +196,7 @@
 -   <https://allocatesmartly.com/>
 -   <https://amphibiantrading.com/>
 -   <https://www.thelabtrading.com/>
+-   <https://unsigned-research.com/>
 -   <https://www.quantivealpha.com/>
 -   <https://concretumresearch.com/>
 -   <https://quantifiableedges.com/>
