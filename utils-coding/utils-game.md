@@ -51,7 +51,6 @@
 -   <https://github.com/a16z-infra/ai-town>
 
 ## LIB: AI MASHUP / MOD
-
 -   <https://github.com/trevaintdead/ai-game-modding-guides>
 -   <https://github.com/rehan-remade/universal-modder>
 -   <https://github.com/bethington/ghidra-mcp> 
@@ -61,6 +60,7 @@
 -   <https://github.com/boykopovar/AnyPS5>
 -   <https://github.com/yuriolive/PortPS5>
 -   <https://github.com/morluto/rea>
+-   <https://youtu.be/h5zkzon0gM4>
 
 ## EXAMPLE
 
