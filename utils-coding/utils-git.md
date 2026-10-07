@@ -141,6 +141,7 @@
 -   <https://github.com/azizaydi23/npm-audit>
 -   <https://github.com/bobheadxi/deployments>
 -   <https://github.com/sdras/awesome-actions>
+-   <https://github.com/susscr/yaml-preflight>
 -   <https://github.com/balazsorban44/nissuer>
 -   <https://github.com/actions/add-to-project>
 -   <https://github.com/Codex-/return-dispatch>
