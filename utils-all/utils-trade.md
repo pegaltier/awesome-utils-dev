@@ -766,6 +766,20 @@
 -   <https://www.youtube.com/@TheAlgorithmicAdvantage>
 -   <https://www.youtube.com/@BetterSystemTraderPodcast>
 
+## VIDEOS: DOCUMENTARY
+
+-   <https://youtu.be/8j3Oauy4IRc> The Greatest Moneymaker in History | Full Documentary
+-   <https://youtu.be/kFQJNeQDDHA> The Wall Street Code | Full Documentary
+-   <https://youtu.be/ed2FWNWwE3I> Quants: The Alchemists of Wall Street | Full Documentary
+-   <https://youtu.be/VEKm15Kho4A> High-Frequency Trading: When Machines Rule Wall Street | Full Documentary
+-   <https://youtu.be/8j3Oauy4IRc> The Greatest Moneymaker in History | Full Documentary
+-   <https://youtu.be/T2IaJwkqgPk> Inside Job | Full Documentary
+-   <https://youtu.be/1hu1np_BI2M> Flash Crash: The Trader Who Crashed the Market | Full Documentary
+-   <https://www.youtube.com/watch?v=ed2FWNWwE3I> Quants: The Alchemists of Wall Street | Full Documentary
+-   <https://www.youtube.com/watch?v=kFQJNeQDDHA> The Wall Street Code | Full Documentary
+-   <https://www.youtube.com/watch?v=VEKm15Kho4A> High-Frequency Trading: When Machines Rule Wall Street | Full Documentary
+-   <https://www.youtube.com/watch?v=T2IaJwkqgPk> Inside Job | Full Documentary
+
 ## VIDEOS: ALL
 
 -   <https://www.youtube.com/watch?v=g9bmgvJkfmQ> behavioral finance / cognitive bias (in french)
