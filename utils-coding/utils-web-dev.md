@@ -168,6 +168,7 @@
 
 -   <https://dsgn.link>
 -   <https://free-for.dev>
+-   <https://nutilz.com>
 
 ## TOOLS: CODE
 
@@ -184,6 +185,7 @@
 -   <https://json-diff.com>
 -   <https://jsonvisio.com>
 -   <https://jsoncrack.com>
+-   <https://nutilz.com/json-formatter>
 -   <https://waterfaller.dev>
 -   <https://www.mydevice.io>
 -   <https://www.jsv9000.app>
