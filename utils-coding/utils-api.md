@@ -332,6 +332,7 @@
 
 ## AGGREGATION
 
+-   <https://datacircle.dev>
 -   <https://github.com/NangoHQ/nango>
 
 ## GATEWAY
