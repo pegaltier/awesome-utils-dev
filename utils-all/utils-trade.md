@@ -998,6 +998,8 @@
 -   <https://github.com/tiagosiebler/gateio-api>
 -   <https://github.com/balthazar/binance-api-node>
 -   <https://github.com/gateio/gateapi-python>
+-   <https://github.com/nktkas/hyperliquid>
+-   <https://github.com/nomeida/hyperliquid>
 -   <https://github.com/makarworld/pymexc>
 -   <https://github.com/phemex/phemex-api-docs>
 -   <https://github.com/tiagosiebler/bybit-api>
