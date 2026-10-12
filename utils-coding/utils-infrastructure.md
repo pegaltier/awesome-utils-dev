@@ -269,6 +269,7 @@
 -   <https://github.com/SigNoz/signoz>
 -   <https://github.com/keephq/keep>
 -   <https://github.com/TwiN/gatus>
+-   <https://github.com/fclairamb/solidping>
 
 ## TOOLS: MONITORING: SASS
 
