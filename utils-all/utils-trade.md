@@ -335,6 +335,7 @@
 -   <https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000>
 -   <https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/>
 -   <https://aperiodic.io/>
+-   <https://www.roic.ai/> fundamentals, ratios and earnings call transcripts API
 
 ## QUOTES: OSS
 
