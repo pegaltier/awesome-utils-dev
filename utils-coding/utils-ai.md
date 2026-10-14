@@ -733,6 +733,7 @@
 -   <https://github.com/BuilderIO/micro-agent>
 -   <https://github.com/Codium-ai/cover-agent>
 -   <https://github.com/trypear/pearai-master>
+-   <https://github.com/YoanWai/agent-manager>
 -   <https://github.com/ultraworkers/claw-code>
 -   <https://github.com/Dimillian/CodexMonitor>
 -   <https://github.com/mannaandpoem/OpenManus>
