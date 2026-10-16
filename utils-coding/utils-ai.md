@@ -1341,6 +1341,7 @@
 -   <https://github.com/cortexkit/magic-context>
 -   <https://github.com/supermemoryai/supermemory>
 -   <https://github.com/TencentCloud/TencentDB-Agent-Memory>
+-   <https://github.com/louis030195/hyperconsciousness>
 
 ## TOOLS: OFFLINE / LOCAL
 
