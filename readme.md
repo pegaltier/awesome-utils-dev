@@ -85,3 +85,4 @@ Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/
 Follow me on X: [x.com/pegaltier](https://x.com/pegaltier)
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/pegaltier/utils-dev.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=pegaltier)
+- [devtools.help](https://devtools.help) — Free online developer toolbox: JSON/YAML formatter & validator, regex tester, hash/HMAC & JWT tools, Base64, timestamp/UUID generator, QR code and more. Runs entirely in the browser, no signup required.
