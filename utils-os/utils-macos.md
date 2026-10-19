@@ -65,6 +65,7 @@
 
 ## TOOLS
 
+-   <https://github.com/NeoPanic/Glim>
 -   <https://github.com/jdx/mise>
 -   <https://github.com/iina/iina>
 -   <https://github.com/Augani/dory>
