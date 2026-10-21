@@ -599,6 +599,7 @@
 
 -   <https://github.com/noduslabs/>
 -   <https://github.com/Zettlr/Zettlr>
+-   <https://github.com/koruworks/mono>
 -   <https://github.com/netless-io/flat>
 -   <https://github.com/codexu/note-gen>
 -   <https://github.com/outline/outline>
