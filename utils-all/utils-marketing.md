@@ -34,6 +34,7 @@
 ## VIDEO
 
 -   <https://vimeo.com/>
+-   <https://pitchboom.io>
 -   <https://www.heygen.com/>
 -   <https://www.blotato.com/>
 
