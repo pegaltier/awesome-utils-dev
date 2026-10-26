@@ -307,6 +307,7 @@
 -   <https://www.therundown.ai>
 -   <https://www.fast.ai>
 -   <https://every.to/>
+-   <https://jvlangai.com/guides/codex>
 
 ## TENSOR FIRE
 
