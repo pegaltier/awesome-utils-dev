@@ -267,11 +267,12 @@
 -   <https://ai4finance.org/>
 -   <https://www.cqfinstitute.org/>
 
-## BLOG
+## BLOG / FORUM
 
 -   <https://goodalexander.com/>
 -   <https://twoquants.substack.com/>
 -   <https://research.macrosynergy.com/>
+-   <https://www.reddit.com/r/algotrading/>
 
 ## BOOKS
 
@@ -291,6 +292,7 @@
 
 ## QUOTES
 
+-   <https://eodhd.com/>
 -   <https://finnhub.io/>
 -   <https://polygon.io/> \* 
 -   <https://moralis.io/>
@@ -307,7 +309,6 @@
 -   <https://marketstack.com/>
 -   <https://financialdata.net/>
 -   <https://www.alphavantage.co/>
--   <https://eodhistoricaldata.com/>
 -   <https://coinlayer.com/product> \*
 -   <https://http-docs.thetadata.us/>
 -   <https://www.coingecko.com/en/api>
