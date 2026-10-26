@@ -493,6 +493,7 @@
 ## TOOLS: ALERTS
 
 -   <https://saraltrader.com/>
+-   <https://github.com/cryptoflows/n8n-crypto-price-alerts>
 
 ## TOOLS: BOTS
 
