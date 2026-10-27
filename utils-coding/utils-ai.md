@@ -2415,6 +2415,7 @@
 -   <https://github.com/Sstobo/Claude-Code-Game-Master>
 -   <https://github.com/w-zeyu/Claude-Code-Game-Master>
 -   <https://github.com/lappemic/awesome-ai-built-games>
+-   <https://respawnstack.com>
 -   <https://github.com/levy-street/world-of-claudecraft>
 -   <https://github.com/Anil-matcha/awesome-claude-fable-5>
 -   <https://github.com/donchitos/claude-code-game-studios>
