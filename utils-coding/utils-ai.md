@@ -915,6 +915,10 @@
 -   <https://github.com/Evol-ai/SkillCompass>
 -   <https://github.com/sx4im/skillcheck>
 
+## TOOLS: CODING: OSS SKILLS DESIGN
+
+-   <https://github.com/elayadesign/ai-design-skills>
+
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
 -   <https://github.com/google/skills>
@@ -955,6 +959,7 @@
 -   <https://github.com/OthmanAdi/planning-with-files>
 -   <https://github.com/mgechev/skills-best-practices>
 -   <https://github.com/google-labs-code/stitch-skills>
+-   <https://github.com/google/elephant-goldfish-model>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
 -   <https://github.com/GoogleChrome/modern-web-guidance>
 -   <https://github.com/awesome-skills/code-review-skill>
