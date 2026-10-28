@@ -15,8 +15,8 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = __dirname;
-const WIP = path.join(ROOT, 'WIP.md');
-const DONE = path.join(ROOT, 'WIP_DONE.md');
+const WIP = path.join(ROOT, '../WIP.md');
+const DONE = path.join(ROOT, '../WIP_DONE.md');
 
 const SKIP_DIRS = new Set(['.git', 'node_modules', '.obsidian', '.vscode']);
 const SKIP_FILES = new Set(['WIP.md', 'WIP_DONE.md']);
