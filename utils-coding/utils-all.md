@@ -118,6 +118,7 @@
 ## DISCOVER
 
 -   <https://glitch.com/>
+-   <https://github.com/plutunieer/github-ai-radar>
 
 ## COMMUNITY
 

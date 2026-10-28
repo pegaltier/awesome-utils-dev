@@ -81,4 +81,5 @@
 -   <https://github.com/jkup/triablo>
 -   <https://github.com/code100x/chess>
 -   <https://github.com/mshumer/Claude-of-Duty>
+-   <https://github.com/ConorTttttt/turbo-kart>
 -   <https://github.com/OnlyShoky/Procedural-Animation>

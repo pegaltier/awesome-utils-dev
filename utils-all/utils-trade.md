@@ -978,6 +978,8 @@
 -   <https://github.com/sofienkaabar/Contrarian-Trading-Strategies>
 -   <https://github.com/sofienkaabar/Trend-Following-Strategies>
 -   <https://github.com/sofienkaabar/The-Book-of-Trading-Strategies>
+-   <https://github.com/KidQuant/Pairs-Trading-With-Python>
+-   <https://github.com/Lucas-Joly-GH/trends-research>
 
 ### OSS: EXECUTE
 

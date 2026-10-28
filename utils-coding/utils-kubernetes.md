@@ -60,6 +60,7 @@
 -   <https://github.com/kubernetes/minikube>
 -   <https://github.com/kubescape/kubescape>
 -   <https://github.com/particledecay/kconf>
+-   <https://github.com/kubevious/kubevious>
 -   <https://github.com/freelensapp/freelens>
 -   <https://github.com/johanhaleby/kubetail>
 -   <https://github.com/kubernetes-sigs/krew>

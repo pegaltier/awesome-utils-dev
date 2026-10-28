@@ -32,6 +32,7 @@
 -   <https://marketplace.visualstudio.com/items?itemName=rust-lang.rust>
 -   <https://github.com/infinyon/node-bindgen>
 -   <https://github.com/railwayapp/nixpacks>
+-   <https://github.com/indexable-inc/blaze>
 
 ## COURSES
 

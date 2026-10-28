@@ -313,6 +313,7 @@
 -   <https://github.com/openauthjs/openauth>
 -   <https://github.com/epicweb-dev/web-auth>
 -   <https://github.com/goauthentik/authentik>
+-   <https://github.com/authorizerdev/authorizer>
 -   <https://github.com/supertokens/supertokens-node>
 
 ## KEY

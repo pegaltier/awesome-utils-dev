@@ -895,14 +895,18 @@
 -   <https://github.com/anthropics/financial-services-plugins>
 -   <https://github.com/anthropics/claude-code-security-review>
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
--   <https://github.com/AhsanAyaz/ship-guard>
+-   <https://github.com/JohnHeibel/ClaudeAnimationBase>
 -   <https://github.com/yanchuk/claude-plugin-codex>
+-   <https://github.com/AhsanAyaz/ship-guard>
 -   <https://github.com/nykooi1/vibe-wise>
 
 ## TOOLS: CODING: OSS JEV
 
+-   <https://github.com/wfzyx/von>
+-   <https://github.com/dzhng/jevgrep>
 -   <https://github.com/TheoLeeCJ/SemIf>
 -   <https://github.com/jaredpalmer/kev>
+-   <https://github.com/realZachi/pg-jev>
 -   <https://github.com/NandhaKishorM/laya>
 -   <https://github.com/mizorewww/laya-mlx>
 -   <https://github.com/AgriciDaniel/jev-seo>
@@ -1259,6 +1263,7 @@
 ## TOOLS: HACKING / SECURITY
 
 -   <https://chat.hackerai.co/>
+-   <https://github.com/Dryxio/reagent>
 -   <https://github.com/FuzzingLabs/fuzzforge_ai>
 -   <https://github.com/Archive228/warden>
 -   <https://github.com/Geoking2104/AInonymous>
@@ -1274,6 +1279,7 @@
 -   <https://gptstonks.net/>
 -   <https://github.com/FutureSharks/ml-finance>
 -   <https://github.com/chase-manning/ai-hedge-fund>
+-   <https://github.com/0xArchiveIO/0xarchive-quant>
 -   <https://github.com/TauricResearch/TradingAgents>
 -   <https://github.com/hackingthemarkets/ai-hedge-fund>
 -   <https://github.com/tradingstrategy-ai/trading-strategy>
@@ -1360,6 +1366,7 @@
 -   <https://github.com/topoteretes/cognee>
 -   <https://github.com/letta-ai/letta-code>
 -   <https://github.com/rohitg00/agentmemory>
+-   <https://github.com/vectorize-io/hindsight>
 -   <https://github.com/cortexkit/magic-context>
 -   <https://github.com/supermemoryai/supermemory>
 -   <https://github.com/TencentCloud/TencentDB-Agent-Memory>
@@ -1490,6 +1497,7 @@
 -   <https://github.com/dzhng/zod-gpt>
 -   <https://github.com/ruvnet/dspy.ts>
 -   <https://github.com/BoundaryML/baml>
+-   <https://github.com/TypeLLM/TypeLLM>
 -   <https://github.com/longtail-labs/cigs>
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/josdejong/jsonrepair>
@@ -1675,6 +1683,7 @@
 -   <https://github.com/firebase/genkit>
 -   <https://github.com/getzep/graphiti>
 -   <https://github.com/sentrux/sentrux>
+-   <https://github.com/Pipelex/pipelex>
 -   <https://github.com/joinly-ai/joinly>
 -   <https://github.com/emcie-co/parlant>
 -   <https://github.com/mastra-ai/mastra>
@@ -1924,6 +1933,7 @@
 -   <https://github.com/ros2/ros2>
 -   <https://github.com/LejuRobotics>
 -   <https://github.com/nasa-jpl/rosa>
+-   <https://github.com/moveit/moveit>
 -   <https://github.com/unitreerobotics>
 -   <https://github.com/commaai/openpilot>
 -   <https://github.com/asimovinc/asimov-1>
@@ -2143,6 +2153,7 @@
 
 -   <https://github.com/Meeting-Baas/transcript-seeker>
 -   <https://github.com/amicalhq/amical>
+-   <https://github.com/video-db/call.md>
 
 ## LIB: VIDEO
 
@@ -2378,6 +2389,7 @@
 -   <https://github.com/langchain-ai/social-media-agent>
 -   <https://github.com/ericciarla/trendFinder>
 -   <https://github.com/stanford-oval/storm>
+-   <https://github.com/elie222/rakazo>
 -   <https://github.com/yikart/AiToEarn>
 -   <https://github.com/am-mong/Code-and-Dataset-for-A-Midsummer-Meme-s-Dream->
 
@@ -2421,7 +2433,9 @@
 -   <https://github.com/nanobrowser/nanobrowser>
 -   <https://github.com/browser-use/browser-use>
 -   <https://github.com/browser-use/workflow-use>
+-   <https://github.com/LvcidPsyche/auto-browser>
 -   <https://github.com/vercel-labs/agent-browser>
+-   <https://github.com/swimmwatch/cloakbrowser-mcp>
 -   <https://github.com/browser-use/browser-harness>
 -   <https://github.com/vibheksoni/stealth-browser-mcp>
 -   <https://github.com/browser-use/browser-harness-js>

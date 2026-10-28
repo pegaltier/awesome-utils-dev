@@ -129,6 +129,7 @@
 -   <https://github.com/shahradelahi/node-vault>
 -   <https://github.com/dbsystel/cdk-sops-secrets>
 -   <https://github.com/koblas/sops-decoder-node>
+-   <https://github.com/keyorixhq/keyorix>
 -   <https://github.com/cachix/secretspec>
 -   <https://github.com/dotenvx/dotenvx>
 -   <https://github.com/getsops/sops>
@@ -233,6 +234,7 @@
 -   <https://github.com/CISOfy/lynis>
 -   <https://github.com/D3Ext/WEF>
 -   <https://github.com/google/magika>
+-   <https://github.com/anonympins/fingerprint>
 
 ## UTILS
 

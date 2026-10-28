@@ -213,6 +213,7 @@
 -   <https://github.com/jdepoix/youtube-transcript-api>
 -   <https://github.com/cdw1p/IG-Auto-Story-View>
 -   <https://github.com/humanwhocodes/crosspost>
+-   <https://github.com/opencoredev/social-sdk>
 -   <https://github.com/gitroomhq/postiz-app>
 -   <https://github.com/anti-work/iffy>
 -   <https://github.com/gabboman/wafrn>
@@ -306,6 +307,7 @@
 -   <https://github.com/nyblnet/bento>
 -   <https://github.com/slidevjs/slidev>
 -   <https://github.com/marp-team/marpit>
+-   <https://github.com/hugohe3/ppt-master>
 
 # OSS: PHOTO / IMAGE / ILLUSTRATION
 
@@ -389,6 +391,7 @@
 
 -   <https://github.com/dream-num/univer>
 -   <https://github.com/gristlabs/grist-core>
+-   <https://github.com/storytold/gridcraft>
 
 ## OSS: PASSWORD
 
@@ -512,6 +515,7 @@
 -   <https://github.com/alextselegidis/easyappointments>
 -   <https://github.com/mattermost-community/focalboard>
 -   <https://github.com/usekaneo/kaneo>
+-   <https://github.com/ONLYOFFICE>
 
 ## OSS: MAP
 

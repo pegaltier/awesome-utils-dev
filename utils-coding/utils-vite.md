@@ -31,6 +31,7 @@
 
 -   <https://github.com/analogjs/analog/pull/2102/changes>
 -   <https://github.com/voidzero-dev/oxc-angular-compiler>
+-   <https://github.com/push-based/vite-plugin-ngp>
 
 ## TO VITE/VITEST
 

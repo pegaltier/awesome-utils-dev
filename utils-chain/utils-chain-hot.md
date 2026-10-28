@@ -170,6 +170,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 -   <https://github.com/ta10101/BroNode>
 -   <https://github.com/hexafield/conjure>
 -   <https://github.com/unytco/hfvz-releases>
+-   <https://github.com/ConorTttttt/turbo-kart>
 -   <https://github.com/Soushi888/holochain-mcp>
 -   <https://github.com/HelloVolla/volla-messages>
 -   <https://github.com/Soushi888/holochain-agent-skill>

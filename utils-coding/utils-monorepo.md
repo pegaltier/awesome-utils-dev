@@ -29,10 +29,11 @@ ANGULAR SCALABLE / LARGE ORGANIZATION / BIG APPS REPO / MONOREPO / SHARED CODEBA
 
 ## ECOSYSTEM: LIB: MONOREPO EXAMPLES / STARTER
 
--   <https://github.com/mihailtd/demo-monorepo>
--   <https://github.com/alan-agius4/ng-mono-repo-starter>
--   <https://github.com/wixplosives/sample-monorepo>
 -   <https://github.com/HaasStefan/nx-giant>
+-   <https://github.com/mihailtd/demo-monorepo>
+-   <https://github.com/wixplosives/sample-monorepo>
+-   <https://github.com/RHeckers/zoopervisor-nx-demo>
+-   <https://github.com/alan-agius4/ng-mono-repo-starter>
 
 ## ECOSYSTEM: LIB: MONOREPO
 
