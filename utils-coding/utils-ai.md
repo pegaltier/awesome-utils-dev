@@ -552,6 +552,7 @@
 -   <https://airbyte.com/>
 -   <https://sitegpt.ai/>
 -   <https://ideasai.com/>
+-   <https://nextreset.ai/>
 -   <https://kissangpt.com/>
 -   <https://interiorai.com/>
 -   <https://breadboard.me/>
@@ -569,8 +570,8 @@
 -   <https://claudemarketplaces.com/>
 -   <https://www.literallyanything.io/>
 -   <http://playground.tensorflow.org/>
--   <https://github.com/clmnin/summarize.site>
 -   <https://github.com/xevrion/breakscale>
+-   <https://github.com/clmnin/summarize.site>
 
 ## TOOLS: AGGREGATE / GATEWAY / ROUTING
 
@@ -2323,11 +2324,13 @@
 ## LIB: ORCHESTRATION / ZERO HUMAN
 
 -   <https://github.com/openai/swarm>
+-   <https://github.com/yylo-dev/yylo>
 -   <https://github.com/agent0ai/spynel>
 -   <https://github.com/subsy/ralph-tui>
 -   <https://github.com/pedramamini/Maestro>
 -   <https://github.com/superset-sh/superset>
 -   <https://github.com/paperclipai/paperclip>
+-   <https://github.com/Ivy-Interactive/Ivy-Tendril>
 -   <https://github.com/awslabs/multi-agent-orchestrator>
 
 ## LIB: TEXT / TRANSLATION

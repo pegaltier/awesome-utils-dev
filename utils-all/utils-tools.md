@@ -315,6 +315,7 @@
 -   <https://github.com/addyosmani/squish>
 -   <https://github.com/electerious/Lychee>
 -   <https://github.com/CyberTimon/RapidRAW>
+-   <https://artboardlab.com/tools/ai-viewer>
 -   <https://github.com/photoprism/photoprism>
 -   <https://github.com/TagStudioDev/TagStudio>
 -   <https://github.com/codeforreal1/compressO>
@@ -572,7 +573,9 @@
 
 -   <https://untools.co/>
 -   <https://devsuite.co/>
+-   <https://ossdrop.com/>
 -   <https://free-for.dev/#/>
+-   <https://radarmakers.com/>
 -   <https://alternativeto.net/>
 -   <https://openalternative.co/>
 -   <https://github.com/pluja/awesome-privacy>
