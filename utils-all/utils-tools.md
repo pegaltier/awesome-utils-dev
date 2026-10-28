@@ -122,6 +122,7 @@
 ## ONLINE TOOLS: DEV
 
 -   <https://bestjson.com/>
+-   <https://devtools.help/>
 -   <https://it-tools.tech/>
 -   <https://transform.tools/>
 -   <https://codebeautify.org/>
