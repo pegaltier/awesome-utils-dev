@@ -78,6 +78,7 @@
 -   <https://github.com/kando-menu/kando>
 -   <https://github.com/josejuanqm/docky>
 -   <https://github.com/rxhanson/Rectangle>
+-   <https://github.com/tumingke0/LayoutKeeper>
 -   <https://github.com/seemoo-lab/opendrop>
 -   <https://github.com/sickcodes/Docker-OSX>
 -   <https://github.com/kavishdevar/librepods>
