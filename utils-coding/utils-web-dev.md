@@ -201,6 +201,7 @@
 -   <http://www.perf-tooling.today>
 -   <https://bundlers.tooling.report>
 -   <http://realfavicongenerator.net>
+-   <https://benchvale.com/dev/chain>
 -   <https://www.buttoncheatsheet.com>
 -   <https://testmysite.withgoogle.com>
 -   <https://mfcar.github.io/TextTools>
