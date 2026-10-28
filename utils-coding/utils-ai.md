@@ -478,6 +478,11 @@
 -   <https://www.coreweave.com/>
 -   <https://www.paperspace.com/>
 
+## TOOLS: MCP
+-   <https://www.corpusiq.io/>
+-   <https://smithery.ai/>
+-   <https://glama.ai/>
+
 ## TOOLS: PROMPT
 
 -   <https://pi.ai/>
@@ -1847,6 +1852,7 @@
 -   <https://github.com/github/gh-aw-mcpg>
 -   <https://github.com/CopilotKit/aimock>
 -   <https://github.com/steipete/mcporter>
+-   <https://github.com/loootai/looot-mcp>
 -   <https://github.com/upstash/context7>
 -   <https://github.com/mcpland/mock-mcp>
 -   <https://github.com/punkpeye/fastmcp>
@@ -1856,9 +1862,6 @@
 -   <https://github.com/idosal/git-mcp>
 -   <https://github.com/anthropics/dxt>
 -   <https://github.com/tobi/qmd>
--   <https://smithery.ai/>
--   <https://glama.ai/>
--   <https://github.com/loootai/looot-mcp>
 
 ## LIB: BPE
 

@@ -141,6 +141,7 @@
 -   <https://yqnn.github.io/svg-path-editorw>
 -   <https://github.com/maxwellito/vivus>
 -   <https://undraw.co/illustrations>
+-   <https://applore.app/png-to-svg>
 -   <https://fffuel.co/nnneon/>
 -   <https://www.svgator.com>
 -   <https://squircley.app>
