@@ -64,10 +64,14 @@
 -   <https://youtu.be/h5zkzon0gM4>
 
 ## LIB: PORTING
+-   <https://github.com/ly05010419/MacNativeGames>
+-   <https://github.com/horizon-rust/horizon>
 -   <https://github.com/boykopovar/AnyPS5>
+-   <https://github.com/seedds/nxnative>
 
 ## EXAMPLE
 
 -   <https://github.com/jkup/triablo>
 -   <https://github.com/code100x/chess>
 -   <https://github.com/mshumer/Claude-of-Duty>
+-   <https://github.com/OnlyShoky/Procedural-Animation>

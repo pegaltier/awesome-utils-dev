@@ -1042,6 +1042,7 @@
 -   <https://github.com/iterativv/NostalgiaForInfinity>
 -   <https://github.com/johndpope/CryptoCurrencyTrader>
 -   <https://github.com/DogsTailFarmer/martin-binance>
+-   <https://github.com/Haehnchen/crypto-trading-bot>
 -   <https://github.com/thrasher-corp/gocryptotrader>
 -   <https://github.com/JulyIghor/QtBitcoinTrader>
 -   <https://github.com/dk4jo3/are-alts-bleeding>

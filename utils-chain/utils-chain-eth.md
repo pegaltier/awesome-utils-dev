@@ -36,6 +36,7 @@
 
 -   <https://etherscan.io/apis>
 -   <https://github.com/ethereum/>
+-   <https://github.com/wevm/viem>
 -   <https://github.com/wevm/wagmi>
 -   <https://github.com/wslyvh/nexth>
 -   <https://github.com/wevm/abitype>

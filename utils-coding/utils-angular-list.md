@@ -2053,6 +2053,7 @@ Learn the best way to make your objects immutable.
 
 -   <https://github.com/khvedela/ng-spark>
 -   <https://github.com/ng-forge/ng-forge>
+-   <https://github.com/ngsignal/mutation>
 -   <https://github.com/martsinlabs/ngx-mq>
 -   <https://github.com/signalityjs/signality>
 -   <https://github.com/alcfeoh/ngx-signalify>
@@ -2183,6 +2184,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/love1024/ngx-oneforall> (TOADD)
 -   <https://github.com/wszgrcy/static-injector> (TOADD)
 -   <https://github.com/MrBacony/analog-tools>
+-   <https://github.com/erkamyaman/ngmd>
 
 ## ECOSYSTEM: LIB: PIPES&DIRECTIVES&DECORATORS
 
@@ -2604,6 +2606,7 @@ Analyze and optimize the performance of your app
 -   <https://github.com/daybrush/selecto>
 -   <https://github.com/ngneat/dag>
 -   <https://github.com/omnedia> many
+-   <https://github.com/slide-ng/slide.ng>
 
 ## ECOSYSTEM: LIB: COMPONENT: ARTIFICIAL INTELLIGENCE
 
@@ -3404,6 +3407,7 @@ Learn how to build mobile applications using angular. You will find many cross p
 -   <https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript>
 -   <http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0>
 -   <https://dev.to/devinshoemaker/build-cross-platform-applications-in-a-monorepo-with-nx-ionic-and-capacitor-6f8>
+-   <https://github.com/ng-native/ng-native>
 
 ## ECOSYSTEM: COMPARAISON
 

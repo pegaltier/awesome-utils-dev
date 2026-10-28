@@ -606,6 +606,7 @@
 
 -   <https://applicantai.com/>
 -   <https://www.usebraintrust.com/>
+-   <https://github.com/ai-job-search-dev/ai-job-search>
 
 ## TOOLS: OSS
 
@@ -837,6 +838,7 @@
 ## TOOLS: CODING: OSS CODEX
 
 -   <https://github.com/Ducksss/codex-profiles>
+-   <https://github.com/gakonst/nanocodex>
 
 ## TOOLS: CODING: OSS ANTIGRAVITY
 
@@ -883,6 +885,7 @@
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 -   <https://github.com/AhsanAyaz/ship-guard>
 -   <https://github.com/yanchuk/claude-plugin-codex>
+-   <https://github.com/nykooi1/vibe-wise>
 
 ## TOOLS: CODING: OSS JEV
 
@@ -897,6 +900,7 @@
 -   <https://github.com/browser-use/jev-ultrafast>
 -   <https://github.com/tamaratran/fast-jev-compaction>
 -   <https://github.com/trungdq88/youtube-sponsor-detection>
+-   <https://github.com/jev-chat/jev-chat-jarvis>
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
@@ -1103,6 +1107,7 @@
 -   <https://github.com/oomol-lab/pdf-craft>
 -   <https://github.com/docling-project/docling>
 -   <https://github.com/genspark-ai/genoffice>
+-   <https://github.com/simonliu-ai-product/open-doc>
 
 ## TOOLS: SANDBOXING / CONTAINER
 
@@ -1381,6 +1386,7 @@
 -   <https://github.com/nico-martin/gemma4-browser-extension>
 -   <https://github.com/ggml-org/llama.cpp/blob/master/docs%2Fdocker.md>
 -   <https://github.com/cactus-compute/cactus-hybrid>
+-   <https://github.com/Niko1221/Strata>
 
 ## TOOLS: BROWSER / LOCAL
 
@@ -1391,6 +1397,7 @@
 ## TOOLS: ASSISTANT / PHYSICAL
 
 -   <https://github.com/BasedHardware/omi>
+-   <https://github.com/XiaoMi/xiaomi-miloco>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
@@ -1462,6 +1469,7 @@
 -   <https://github.com/unslothai/hyperlearn>
 -   <https://github.com/huggingface/ml-intern>
 -   <https://github.com/eriklindernoren/ML-From-Scratch>
+-   <https://github.com/wlearn-org/dimred>
 
 ## LIB: STRUCTURED OUTPUT
 
@@ -1517,6 +1525,8 @@
 ## LIB: NEURAL NETWORK
 
 -   <https://github.com/apple/corenet>
+-   <https://github.com/open-neuromorphic>
+-   <https://github.com/chenglou/handwired>
 
 ## LIB: FULL FRAMEWORK
 
@@ -1549,6 +1559,7 @@
 -   <https://github.com/google/artemis>
 -   <https://github.com/jordan-gibbs/hyperresearch>
 -   <https://github.com/uditgoenka/autoresearch>
+-   <https://github.com/OpenSourceAGI/qwksearch-research-agent>
 
 ## LIB: COMPAT AGENT
 
@@ -2354,6 +2365,7 @@
 -   <https://github.com/ericciarla/trendFinder>
 -   <https://github.com/stanford-oval/storm>
 -   <https://github.com/yikart/AiToEarn>
+-   <https://github.com/am-mong/Code-and-Dataset-for-A-Midsummer-Meme-s-Dream->
 
 ## TOOLS: PROMPT
 

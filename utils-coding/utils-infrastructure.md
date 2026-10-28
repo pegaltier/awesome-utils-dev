@@ -254,6 +254,7 @@
 -   <http://github.com/open-metadata/OpenMetadata>
 -   <https://github.com/bluewave-labs/checkmate>
 -   <https://github.com/openobserve/openobserve>
+-   <https://github.com/open-telemetry/weaver>
 -   <https://github.com/openreplay/openreplay>
 -   <https://github.com/louislam/uptime-kuma>
 -   <https://github.com/lyc8503/UptimeFlare>

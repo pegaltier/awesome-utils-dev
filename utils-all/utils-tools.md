@@ -348,6 +348,7 @@
 -   <https://github.com/renezander030/capcut-cli>
 -   <https://github.com/codewithsiddique-04/autoeditor>
 -   <https://github.com/Augani/openreel-video>
+-   <https://github.com/webadderallorg/Recordly>
 
 ## OSS: VIDEO DOWNLOAD
 
@@ -392,6 +393,7 @@
 -   <https://github.com/opendatalab/PDF-Extract-Kit>
 -   <https://github.com/Stirling-Tools/Stirling-PDF>
 -   <https://github.com/OpenAEC-Foundation/open-pdf-studio>
+-   <https://github.com/storytold/wordcraft>
 
 ## OSS: SPREADSHEET
 
@@ -460,6 +462,7 @@
 
 -   <https://github.com/open-pencil/open-pencil>
 -   <https://github.com/ZSeven-W/openpencil>
+-   <https://github.com/storytold/photocraft>
 
 ### OSS: RESEARCH
 
@@ -574,6 +577,7 @@
 -   <https://github.com/jvdillon/netv>
 -   <https://github.com/4gray/iptvnator>
 -   <https://github.com/Johnnybegood90/come-to-telegram-rickluminari1--GridTV>
+-   <https://github.com/Gathin23/cleanyourtv>
 
 ## List
 

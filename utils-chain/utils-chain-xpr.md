@@ -9,3 +9,7 @@
 -   <https://protonlend.com/>
 -   <https://protonmint.com/>
 -   <https://earnproton.com/>
+
+## XPR: OSS
+-   <https://github.com/XPRNetwork/xpr-agents>
+-   <https://github.com/XPRNetwork>
