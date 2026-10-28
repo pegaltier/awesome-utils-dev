@@ -26,3 +26,4 @@
 
 -   <https://live.sovryn.app/>
 -   <https://utxo.live/oracle/>
+-   <https://top.gg/bot/1125794469829169253>
