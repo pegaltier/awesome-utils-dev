@@ -30,6 +30,8 @@
 
 -   [TOOLS: HOST / NEOCLOUDS](#tools-host--neoclouds)
 
+-   [TOOLS: MCP](#tools-mcp)
+
 -   [TOOLS: PROMPT](#tools-prompt)
 
 -   [TOOLS: PROMPT EXTRA](#tools-prompt-extra)
@@ -479,6 +481,7 @@
 -   <https://www.paperspace.com/>
 
 ## TOOLS: MCP
+
 -   <https://www.corpusiq.io/>
 -   <https://smithery.ai/>
 -   <https://glama.ai/>
