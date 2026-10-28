@@ -828,3 +828,4 @@ emit/receive : <https://github.com/quiet/quiet-js>
 ## TRAINING
 
 -   <https://dev-concepts.dev/>
+-   <https://certificates.dev/>

@@ -158,6 +158,7 @@
 -   <https://nodejs.org/en/blog>
 -   <https://alexkondov.com/tao-of-node/>
 -   <https://kashw1n.com/blog/nodejs-2025/>
+-   <https://flaviocopes.com/node-builtins/>
 -   <https://blog.val.town/gardening-dependencies>
 -   <https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6>
 -   <https://43081j.com/2026/03/three-pillars-of-javascript-bloat>

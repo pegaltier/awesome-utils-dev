@@ -48,6 +48,7 @@ https://jatins.gitlab.io/me/why-startup/
 ## Investor
 
 -   <https://www.acquisition.com/>
+-   <https://www.angelgroups.co.uk/>
 
 ## Sell
 

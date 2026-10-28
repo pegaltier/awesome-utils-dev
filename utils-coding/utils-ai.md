@@ -608,10 +608,10 @@
 
 ## TOOLS: SUMMARY / ORGANIZE
 
--   <https://github.com/screenpipe/screenpipe>
 -   <https://notebooklm.google/>
 -   <https://github.com/marcj/papernews>
 -   <https://github.com/lfnovo/open-notebook>
+-   <https://github.com/screenpipe/screenpipe>
 
 ## TOOLS: JOB / HIRING
 
@@ -2202,6 +2202,8 @@
 -   <https://github.com/topics/image-to-video-generation>
 -   <https://github.com/Vincentwei1021/video-shotcraft>
 -   <https://github.com/meituan-longcat/LongCat-Video>
+-   <https://github.com/sevenevesai/riso-windowseat>
+-   <https://github.com/inspatio/inspatio-world>
 -   <https://github.com/calesthio/OpenMontage>
 -   <https://github.com/browser-use/video-use>
 -   <https://github.com/latent-spaces/brag>

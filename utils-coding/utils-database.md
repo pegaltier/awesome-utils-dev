@@ -124,9 +124,10 @@
 -   <https://github.com/tursodatabase/libsql>
 -   <https://github.com/sqliteai/sqlite-vector>
 -   <https://github.com/benbjohnson/litestream>
+-   <https://github.com/colliery-io/graphqlite>
 -   <https://github.com/phiresky/sql.js-httpvfs>
 -   <https://github.com/sqlitebrowser/sqlitebrowser>
--   <https://github.com/colliery-io/graphqlite>
+-   <https://github.com/platformatic/sqlite-js-stream>
 
 ## SCALING
 
