@@ -98,6 +98,7 @@ WHEN: at the beginning of each new campaign or each trimester. You can also do r
 -   <https://www.drujokweb.fr/blog/audit-seo/>
 -   <https://www.thomascubel.com/audit-seo-gratuit/>
 -   <https://mydentify.com/tools/sitemap-health-checker>
+-   <https://addons.mozilla.org/firefox/addon/local-site-audit-pitch/>
 -   <https://github.com/ovh/summit2016-RankingPredict>
 
 ## SEO PERF
