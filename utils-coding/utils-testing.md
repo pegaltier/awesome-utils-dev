@@ -99,6 +99,7 @@
 ## TOOLS: AI
 
 -   <https://www.meticulous.ai/>
+-   <https://uiverify.ai/>
 
 ## TOOLS: WEB
 
