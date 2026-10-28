@@ -14,7 +14,7 @@
 
 -   [TRAINING](#training)
 
--   [BLOG](#blog)
+-   [BLOG / FORUM](#blog--forum)
 
 -   [BOOKS](#books)
 
@@ -75,6 +75,8 @@
 -   [TOOLS: TRADINGVIEW: AUTOMATE](#tools-tradingview-automate)
 
 -   [VIDEOS: INTERVIEW](#videos-interview)
+
+-   [VIDEOS: DOCUMENTARY](#videos-documentary)
 
 -   [VIDEOS: ALL](#videos-all)
 
@@ -267,11 +269,12 @@
 -   <https://ai4finance.org/>
 -   <https://www.cqfinstitute.org/>
 
-## BLOG
+## BLOG / FORUM
 
 -   <https://goodalexander.com/>
 -   <https://twoquants.substack.com/>
 -   <https://research.macrosynergy.com/>
+-   <https://www.reddit.com/r/algotrading/>
 
 ## BOOKS
 
@@ -291,6 +294,7 @@
 
 ## QUOTES
 
+-   <https://eodhd.com/>
 -   <https://finnhub.io/>
 -   <https://polygon.io/> \* 
 -   <https://moralis.io/>
@@ -307,7 +311,6 @@
 -   <https://marketstack.com/>
 -   <https://financialdata.net/>
 -   <https://www.alphavantage.co/>
--   <https://eodhistoricaldata.com/>
 -   <https://coinlayer.com/product> \*
 -   <https://http-docs.thetadata.us/>
 -   <https://www.coingecko.com/en/api>
@@ -492,6 +495,7 @@
 ## TOOLS: ALERTS
 
 -   <https://saraltrader.com/>
+-   <https://github.com/cryptoflows/n8n-crypto-price-alerts>
 
 ## TOOLS: BOTS
 
@@ -1041,6 +1045,7 @@
 -   <https://github.com/iterativv/NostalgiaForInfinity>
 -   <https://github.com/johndpope/CryptoCurrencyTrader>
 -   <https://github.com/DogsTailFarmer/martin-binance>
+-   <https://github.com/Haehnchen/crypto-trading-bot>
 -   <https://github.com/thrasher-corp/gocryptotrader>
 -   <https://github.com/JulyIghor/QtBitcoinTrader>
 -   <https://github.com/dk4jo3/are-alts-bleeding>

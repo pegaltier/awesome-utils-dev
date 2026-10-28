@@ -34,6 +34,7 @@
 ## VIDEO
 
 -   <https://vimeo.com/>
+-   <https://pitchboom.io>
 -   <https://www.heygen.com/>
 -   <https://www.blotato.com/>
 
@@ -133,14 +134,10 @@
 <p><a href="https://hootsuite.com/fr/">https://hootsuite.com/fr/</a><br>
 <a href="http://www.limber.io/">http://www.limber.io/</a><br>
 <a href="https://www.tweetfavy.com/">https://www.tweetfavy.com/</a>  <strong>***</strong><br>
-<a href="https://moz.com/followerwonk/">https://moz.com/followerwonk/</a><br>
-<a href="https://www.crowdfireapp.com/">https://www.crowdfireapp.com/</a><br>
-<a href="http://snaplytics.io/">http://snaplytics.io/</a><br>
-<a href="https://instagress.com">https://instagress.com</a><br>
+<a href="https://followerwonk.com/">https://followerwonk.com/</a><br>
+<a href="https://snapdatahub.com/">https://snapdatahub.com/</a> (Snapchat creator analytics)<br>
 <a href="https://www.archie.co/">https://www.archie.co/</a><br>
-<a href="https://www.crowdfireapp.com/">https://www.crowdfireapp.com/</a><br>
 <a href="https://blog.bufferapp.com/instagram-growth">https://blog.bufferapp.com/instagram-growth</a><br>
-<a href="http://everypost.me/">http://everypost.me/</a><br>
 <a href="https://code.tutsplus.com/articles/10-best-php-instagram-scripts-widgets--cms-30080">https://code.tutsplus.com/articles/10-best-php-instagram-scripts-widgets--cms-30080</a></p>
 <h3>GROW HACK TOOLS</h3>
 <p><a href="https://hunter.io">https://hunter.io</a><br>

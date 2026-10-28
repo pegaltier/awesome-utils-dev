@@ -23,9 +23,10 @@ Agent pour développeurs haut-niveau
 -   <https://github.com/Zippland/worth-calculator>
 -   <https://github.com/MadsLorentzen/ai-job-search>
 -   <https://github.com/tBaxter/questions-for-employers>
+-   <https://github.com/SimplifyJobs/New-Grad-Positions>
+-   <https://github.com/ai-job-search-dev/ai-job-search>
 -   <https://github.com/poteto/hiring-without-whiteboards>
 -   <https://github.com/eigenfunk/freelance-recruiting-de>
--   <https://github.com/SimplifyJobs/New-Grad-Positions>
 -   <https://github.com/SimplifyJobs/Summer2026-Internships>
 -   <https://gist.github.com/stowball/26fb03aeaa0e8de1def00dcb5d8f425e>
 -   <https://github.com/EuropeanRemote/european-remote-software-companies>

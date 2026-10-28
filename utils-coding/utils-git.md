@@ -97,18 +97,19 @@
 -   <https://github.com/dandavison/delta>
 -   <https://github.com/eth0izzle/shhgit>
 -   <https://github.com/orhun/git-cliff>
--   <https://github.com/typicode/husky>
--   <https://github.com/tobi/walgit>
+-   <https://github.com/Omibranch/gitty>
 -   <https://github.com/upptime/upptime>
+-   <https://github.com/typicode/husky>
 -   <https://github.com/alibaba/hooks>
 -   <https://github.com/probot/probot>
+-   <https://github.com/tobi/walgit>
+-   <https://github.com/j178/prek>
+-   <https://github.com/loki-inu>
 -   <https://www.gitkraken.com/>
 -   <https://socialify.git.ci/>
 -   <https://gitexplorer.com/>
 -   <https://projectr.io/>
 -   <https://grep.app/>
--   <https://github.com/Omibranch/gitty>
--   <https://github.com/j178/prek>
 
 ## OSS
 

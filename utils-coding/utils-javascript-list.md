@@ -492,7 +492,9 @@
 
 -   <https://github.com/stalniy/casl>
 -   <https://github.com/onury/accesscontrol>
+-   <https://github.com/stalniy/casl-examples>
 -   <https://github.com/apache/casbin-node-casbin>
+-   <https://github.com/stalniy/casl/tree/main/packages/casl-prisma>
 
 ## LIB: STATE MACHINE
 

@@ -115,6 +115,7 @@
 -   <https://github.com/1Password/typeshare>
 -   <https://github.com/davidlattimore/wild>
 -   <https://github.com/xai-org/x-algorithm>
+-   <https://github.com/longbridge/gpui-kit>
 -   <https://github.com/juspay/hyperswitch>
 -   <https://github.com/BLAKE3-team/BLAKE3>
 -   <https://github.com/cloudflare/pingora>

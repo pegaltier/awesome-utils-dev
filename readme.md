@@ -74,11 +74,7 @@
 ## Contributing
 
 Please take a look at our [contributing](https://github.com/pegaltier/utils-dev/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
-
--   <https://github.com/pegaltier>
--   <https://github.com/Rebaiahmed>
--   <https://github.com/spekulatius>
--   <https://github.com/jdegand>
+-   <https://github.com/pegaltier/awesome-utils-dev/graphs/contributors>
 
 ## :two_hearts: Follow me
 

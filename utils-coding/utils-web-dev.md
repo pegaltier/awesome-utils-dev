@@ -201,6 +201,7 @@
 -   <http://www.perf-tooling.today>
 -   <https://bundlers.tooling.report>
 -   <http://realfavicongenerator.net>
+-   <https://benchvale.com/dev/chain>
 -   <https://www.buttoncheatsheet.com>
 -   <https://testmysite.withgoogle.com>
 -   <https://mfcar.github.io/TextTools>
@@ -217,6 +218,7 @@
 -   <https://www.blobbb.fun/>
 -   <https://app.haikei.app/>
 -   <https://wickedbackgrounds.com/>
+-   <https://github.com/saiashirwad/svjeez>
 -   <https://www.softr.io/tools/svg-shape-generator>
 
 ## TOOLS: CSS
@@ -727,6 +729,7 @@ emit/receive : <https://github.com/quiet/quiet-js>
 -   <https://tympanus.net/codrops/2023/05/04/ideas-for-grid-to-slideshow-switch-animations/>
 -   <https://tympanus.net/codrops/category/articles/websites-roundups/>
 -   <https://github.com/MengTo/kage>
+-   <https://github.com/sevenevesai/riso-windowseat>
 
 ## CREATIVE RESOURCES
 

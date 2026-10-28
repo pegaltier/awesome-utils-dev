@@ -98,6 +98,7 @@ WHEN: at the beginning of each new campaign or each trimester. You can also do r
 -   <https://www.drujokweb.fr/blog/audit-seo/>
 -   <https://www.thomascubel.com/audit-seo-gratuit/>
 -   <https://mydentify.com/tools/sitemap-health-checker>
+-   <https://addons.mozilla.org/firefox/addon/local-site-audit-pitch/>
 -   <https://github.com/ovh/summit2016-RankingPredict>
 
 ## SEO PERF
@@ -292,6 +293,7 @@ BEST : - <https://premium.wpmudev.org/blog/schema-wordpress-seo/>
 ## SOCIAL RICH SNIPPETS
 
 -   <https://www.skyminds.net/les-balises-meta-indispensables-pour-les-reseaux-sociaux-facebook-twitter-google-pinterest/>
+-   <https://radarmakers.com/tools/social-card-preview> Open Graph and social card checker: fetches a public page, lists its Open Graph and Twitter card tags and checks the share image status, type, size and dimensions
 
 ## BIG TIPS SCHEMA RICH SNIPPETS
 

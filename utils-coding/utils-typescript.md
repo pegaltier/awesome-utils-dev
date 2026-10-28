@@ -214,6 +214,7 @@
 -   <https://github.com/Microsoft/tsdoc>
 -   <https://github.com/IKatsuba/mutates>
 -   <https://github.com/pastelsky/tsdocs>
+-   <https://github.com/oxc-project/tsrs>
 -   <https://github.com/jeffijoe/typesync>
 -   <https://github.com/joaompneves/tsviz>
 -   <https://github.com/cevek/ttypescript>

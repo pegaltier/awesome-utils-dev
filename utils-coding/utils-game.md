@@ -2,6 +2,7 @@
 
 ## TABLE OF CONTENTS
 
+-   [TOOLS](#tools)
 -   [EMULATOR](#emulator)
 -   [LIB: GAME](#lib-game)
 -   [LIB: CLOUD](#lib-cloud)
@@ -9,7 +10,12 @@
 -   [LIB: VISU](#lib-visu)
 -   [LIB: AI ALL](#lib-ai-all)
 -   [LIB: AI MASHUP / MOD](#lib-ai-mashup--mod)
+-   [LIB: PORTING](#lib-porting)
 -   [EXAMPLE](#example)
+
+## TOOLS
+
+-   <https://respawnstack.com>
 
 ## EMULATOR
 
@@ -64,10 +70,15 @@
 -   <https://youtu.be/h5zkzon0gM4>
 
 ## LIB: PORTING
+
+-   <https://github.com/ly05010419/MacNativeGames>
+-   <https://github.com/horizon-rust/horizon>
 -   <https://github.com/boykopovar/AnyPS5>
+-   <https://github.com/seedds/nxnative>
 
 ## EXAMPLE
 
 -   <https://github.com/jkup/triablo>
 -   <https://github.com/code100x/chess>
 -   <https://github.com/mshumer/Claude-of-Duty>
+-   <https://github.com/OnlyShoky/Procedural-Animation>

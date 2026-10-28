@@ -164,6 +164,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 ### HOLOCHAIN-RSM GITHUB (NEW)
 
 -   <https://github.com/coasys>
+-   <https://github.com/coasys/we>
 -   <https://github.com/ddd-mtl/zdk>
 -   <https://github.com/ta10101/Holobro>
 -   <https://github.com/ta10101/BroNode>
