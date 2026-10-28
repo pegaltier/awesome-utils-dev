@@ -80,6 +80,8 @@
 
 -   [TOOLS: CODING: OSS SKILLS EVAL](#tools-coding-oss-skills-eval)
 
+-   [TOOLS: CODING: OSS SKILLS DESIGN](#tools-coding-oss-skills-design)
+
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
 
 -   [TOOLS: CODING: OSS BACKGROUND](#tools-coding-oss-background)

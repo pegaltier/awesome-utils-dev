@@ -14,7 +14,7 @@
 
 -   [TRAINING](#training)
 
--   [BLOG](#blog)
+-   [BLOG / FORUM](#blog--forum)
 
 -   [BOOKS](#books)
 
@@ -75,6 +75,8 @@
 -   [TOOLS: TRADINGVIEW: AUTOMATE](#tools-tradingview-automate)
 
 -   [VIDEOS: INTERVIEW](#videos-interview)
+
+-   [VIDEOS: DOCUMENTARY](#videos-documentary)
 
 -   [VIDEOS: ALL](#videos-all)
 

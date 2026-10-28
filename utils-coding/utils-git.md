@@ -111,7 +111,6 @@
 -   <https://projectr.io/>
 -   <https://grep.app/>
 
-
 ## OSS
 
 -   <https://github.com/dotsystemsdevs/commitmentissues>
