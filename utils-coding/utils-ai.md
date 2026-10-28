@@ -1853,6 +1853,7 @@
 -   <https://github.com/tobi/qmd>
 -   <https://smithery.ai/>
 -   <https://glama.ai/>
+-   <https://github.com/loootai/looot-mcp>
 
 ## LIB: BPE
 
