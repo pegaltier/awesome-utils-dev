@@ -231,6 +231,7 @@
 
 -   <https://www.bannerbear.com/>
 -   <https://convertio.co/fr/image-converter/>
+-   <https://curlshot.com/>
 
 ## PDF GENERATION
 

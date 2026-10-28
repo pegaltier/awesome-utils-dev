@@ -98,6 +98,7 @@
 -   [LIB: MATH / CLUSTER](#lib-math--cluster)
 -   [LIB: MATH / MATRIX](#lib-math--matrix)
 -   [LIB: TEMPLATE](#lib-template)
+-   [LIB: GRAPH ALGO](#lib-graph-algo)
 -   [LIB: GENETIC ALGO](#lib-genetic-algo)
 -   [LIB: AI: GPT](#lib-ai-gpt)
 -   [LIB: AI: AGENT](#lib-ai-agent)
@@ -491,7 +492,9 @@
 
 -   <https://github.com/stalniy/casl>
 -   <https://github.com/onury/accesscontrol>
+-   <https://github.com/stalniy/casl-examples>
 -   <https://github.com/apache/casbin-node-casbin>
+-   <https://github.com/stalniy/casl/tree/main/packages/casl-prisma>
 
 ## LIB: STATE MACHINE
 

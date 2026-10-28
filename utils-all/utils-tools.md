@@ -121,6 +121,8 @@
 
 ## ONLINE TOOLS: DEV
 
+-   <https://bestjson.com/>
+-   <https://devtools.help/>
 -   <https://it-tools.tech/>
 -   <https://transform.tools/>
 -   <https://codebeautify.org/>
@@ -347,35 +349,24 @@
 -   <https://github.com/renezander030/capcut-cli>
 -   <https://github.com/codewithsiddique-04/autoeditor>
 -   <https://github.com/Augani/openreel-video>
+-   <https://github.com/webadderallorg/Recordly>
 
 ## OSS: VIDEO DOWNLOAD
 
 -   <https://github.com/nexmoe/VidBee>
-
 -   <https://github.com/pingdotgg/lawn>
-
 -   <https://github.com/Ihsan172/Vanced>
-
 -   <https://github.com/alexta69/metube>
-
 -   <https://github.com/fonoster/goodtok>
-
 -   <https://github.com/iv-org/invidious>
-
 -   <https://github.com/tonhowtf/omniget>
-
 -   <https://github.com/caorushizi/mediago>
-
 -   <https://github.com/steipete/summarize>
-
 -   <https://github.com/alyssaxuu/screenity>
-
 -   <https://github.com/TeamNewPipe/NewPipe>
-
 -   <https://github.com/obra/Youtube2Webpage>
-
 -   <https://github.com/goshops-com/clipshare>
-
+-   <https://github.com/antonio-orionus/Arroxy>
 -   <https://github.com/KurtBestor/Hitomi-Downloader>
 
 ## OSS: MEDIAS / PRESENTATION / BOOK / PDF / DOCS
@@ -391,6 +382,7 @@
 -   <https://github.com/opendatalab/PDF-Extract-Kit>
 -   <https://github.com/Stirling-Tools/Stirling-PDF>
 -   <https://github.com/OpenAEC-Foundation/open-pdf-studio>
+-   <https://github.com/storytold/wordcraft>
 
 ## OSS: SPREADSHEET
 
@@ -459,6 +451,7 @@
 
 -   <https://github.com/open-pencil/open-pencil>
 -   <https://github.com/ZSeven-W/openpencil>
+-   <https://github.com/storytold/photocraft>
 
 ### OSS: RESEARCH
 
@@ -573,6 +566,7 @@
 -   <https://github.com/jvdillon/netv>
 -   <https://github.com/4gray/iptvnator>
 -   <https://github.com/Johnnybegood90/come-to-telegram-rickluminari1--GridTV>
+-   <https://github.com/Gathin23/cleanyourtv>
 
 ## List
 
@@ -598,6 +592,7 @@
 
 -   <https://github.com/noduslabs/>
 -   <https://github.com/Zettlr/Zettlr>
+-   <https://github.com/koruworks/mono>
 -   <https://github.com/netless-io/flat>
 -   <https://github.com/codexu/note-gen>
 -   <https://github.com/outline/outline>

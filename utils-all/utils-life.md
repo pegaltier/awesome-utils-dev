@@ -18,6 +18,8 @@
 
 -   <https://care.health/ch-de/>
 -   <https://github.com/arvids-unavailable/openGym>
+-   <https://github.com/DuarteSantos8/openGym>
+-   <https://github.com/wheresryan22/anatomy>
 
 ## Food
 

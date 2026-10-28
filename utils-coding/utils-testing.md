@@ -99,6 +99,7 @@
 ## TOOLS: AI
 
 -   <https://www.meticulous.ai/>
+-   <https://uiverify.ai/>
 
 ## TOOLS: WEB
 
@@ -142,6 +143,7 @@
 
 -   <https://github.com/nut-tree/nut.js>
 -   <https://github.com/lorenzofox3/zora>
+-   <https://github.com/tester-army/e2e>
 
 ## UTILS: MOCK
 
@@ -274,6 +276,8 @@
 -   <https://github.com/currents-dev/playwright-gh-actions-demo>
 -   <https://github.com/jfgreffier/playwright-component-demos>
 -   <https://github.com/jmorenoo23/qa-playwright-ia>
+-   <https://github.com/codotech/playwright-e2e>
+-   <https://github.com/codotech/playwright-e2e-starter>
 
 ## UTILS: PLAYWRIGHT LINKS
 

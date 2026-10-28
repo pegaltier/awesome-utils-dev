@@ -45,6 +45,8 @@
 
 -   <https://github.com/florisboard/florisboard>
 -   <https://github.com/jossephus/chuchu>
+-   <https://github.com/ateymoori/oh-my-android>
+-   <https://github.com/chaquo/chaquopy>
 
 ## GRADLE CLEAN CACHE
 

@@ -285,6 +285,7 @@
 -   <https://github.com/heroui-inc/heroui>
 -   <https://github.com/tremorlabs/tremor>
 -   <https://github.com/ZEISS/precise-ui>
+-   <https://github.com/allxsmith/bestax>
 -   <https://github.com/facebook/stylex>
 -   <https://github.com/ariakit/ariakit>
 -   <https://github.com/facebook/astryx>
@@ -354,6 +355,7 @@
 -   <https://github.com/nextauthjs/next-auth>
 -   <https://github.com/studio-freight/satus>
 -   <https://github.com/egoist/next-connect>
+-   <https://github.com/cloudflare/vinext>
 -   <https://github.com/jantimon/next-yak>
 -   <https://github.com/amiroff/NextBook>
 -   <https://github.com/betagouv/nexauth>

@@ -166,6 +166,7 @@
 -   <https://github.com/Whitecat18/Rust-for-Malware-Development>
 -   <https://github.com/Whitecat18/earlycascade-injection>
 -   <https://github.com/mgeeky/Penetration-Testing-Tools>
+-   <https://github.com/Webba-Creative-Technologies/vice>
 -   <https://github.com/hackerschoice/ssh-key-backdoor>
 -   <https://github.com/Cryakl/Ultimate-RAT-Collection>
 -   <https://github.com/NationalSecurityAgency/ghidra>
@@ -173,8 +174,8 @@
 -   <https://github.com/KatrielMoses/MailAccess>
 -   <https://github.com/Whitecat18/Javahexor>
 -   <https://github.com/KeygraphHQ/shannon>
+-   <https://github.com/Datalux/Osintgram>
 -   <https://github.com/vxcontrol/pentagi>
--   <https://github.com/Webba-Creative-Technologies/vice>
 -   <https://github.com/vigolium/vigolium>
 -   <https://github.com/dstotijn/hetty>
 

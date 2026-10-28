@@ -146,7 +146,6 @@
 ## GUIDE: OSS
 
 -   <https://github.com/fraxken/ebook_nodejs>
--   <https://github.com/i0natan/nodebestpractices>
 -   <https://github.com/microsoft/nodejs-guidelines>
 -   <https://github.com/platformatic/node-masterclass>
 -   <https://github.com/goldbergyoni/nodebestpractices>
@@ -200,6 +199,7 @@
 -   <https://github.com/endevco/aube>
 -   <https://github.com/lirantal/npq>
 -   <https://github.com/pnpm/pacquet>
+-   <https://github.com/jdalton/upm>
 -   <https://github.com/oven-sh/bun>
 -   <https://github.com/ije/esm.sh>
 -   <https://github.com/pnpm/pnpm>
@@ -329,6 +329,7 @@
 -   <https://github.com/amio/npm-why>
 -   <https://github.com/ranyitz/qnm>
 -   <https://github.com/antfu/taze>
+-   <https://github.com/sxzz/verkit>
 
 ## UTILS: DEVTOOLS
 

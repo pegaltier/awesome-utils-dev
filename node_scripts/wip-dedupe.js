@@ -14,7 +14,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = __dirname;
+const ROOT = path.join(__dirname, '..');
 const WIP = path.join(ROOT, 'WIP.md');
 const DONE = path.join(ROOT, 'WIP_DONE.md');
 
@@ -47,6 +47,18 @@ function normalizeUrl(raw) {
     return host + pathname + (params.length ? '?' + params.join('&') : '');
 }
 
+/** Plain text of a markdown fragment: drops bullets, headings, emphasis, link/autolink syntax. */
+function stripMarkdown(text) {
+    return text
+        .replace(/!?\[([^\]]*)\]\(([^)\s]*)(?:\s+"[^"]*")?\)/g, '$1 $2') // [label](url "title") -> label url
+        .replace(/<(https?:\/\/[^>\s]+)>/gi, '$1') // <url> -> url
+        .replace(/^\s*(?:[-*+]\s+\[[ xX]\]|[-*+]|\d+[.)]|#{1,6}|>)\s+/gm, '') // bullets, checkboxes, headings, quotes
+        .replace(/(\*\*|__|\*|_|~~|`)/g, '') // emphasis / code markers
+        .replace(/\s+/g, ' ')
+        .trim()
+        .toLowerCase();
+}
+
 /** Every file in the repo we compare WIP.md against. */
 function walk(dir, out = []) {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -68,7 +80,7 @@ const textIndex = []; // { file, content } for plain-text lookups
 for (const file of files) {
     const content = fs.readFileSync(file, 'utf8');
     const rel = path.relative(ROOT, file);
-    textIndex.push({ file: rel, content: content.toLowerCase() });
+    textIndex.push({ file: rel, content: stripMarkdown(content) });
     for (const match of content.match(URL_RE) || []) {
         const norm = normalizeUrl(match);
         if (norm && !urlIndex.has(norm)) urlIndex.set(norm, rel);
@@ -85,8 +97,8 @@ function findExisting(line) {
         }
         return null;
     }
-    // plain text line: needs a literal (case-insensitive) hit somewhere
-    const needle = line.trim().toLowerCase();
+    // plain text line: needs a literal (case-insensitive) hit somewhere, markdown syntax ignored
+    const needle = stripMarkdown(line);
     if (needle.length < 4) return null;
     const hit = textIndex.find((f) => f.content.includes(needle));
     return hit ? hit.file : null;

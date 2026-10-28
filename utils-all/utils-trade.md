@@ -14,7 +14,7 @@
 
 -   [TRAINING](#training)
 
--   [BLOG](#blog)
+-   [BLOG / FORUM](#blog--forum)
 
 -   [BOOKS](#books)
 
@@ -75,6 +75,8 @@
 -   [TOOLS: TRADINGVIEW: AUTOMATE](#tools-tradingview-automate)
 
 -   [VIDEOS: INTERVIEW](#videos-interview)
+
+-   [VIDEOS: DOCUMENTARY](#videos-documentary)
 
 -   [VIDEOS: ALL](#videos-all)
 
@@ -196,6 +198,7 @@
 -   <https://allocatesmartly.com/>
 -   <https://amphibiantrading.com/>
 -   <https://www.thelabtrading.com/>
+-   <https://unsigned-research.com/>
 -   <https://www.quantivealpha.com/>
 -   <https://concretumresearch.com/>
 -   <https://quantifiableedges.com/>
@@ -266,11 +269,12 @@
 -   <https://ai4finance.org/>
 -   <https://www.cqfinstitute.org/>
 
-## BLOG
+## BLOG / FORUM
 
 -   <https://goodalexander.com/>
 -   <https://twoquants.substack.com/>
 -   <https://research.macrosynergy.com/>
+-   <https://www.reddit.com/r/algotrading/>
 
 ## BOOKS
 
@@ -290,6 +294,7 @@
 
 ## QUOTES
 
+-   <https://eodhd.com/>
 -   <https://finnhub.io/>
 -   <https://polygon.io/> \* 
 -   <https://moralis.io/>
@@ -306,7 +311,6 @@
 -   <https://marketstack.com/>
 -   <https://financialdata.net/>
 -   <https://www.alphavantage.co/>
--   <https://eodhistoricaldata.com/>
 -   <https://coinlayer.com/product> \*
 -   <https://http-docs.thetadata.us/>
 -   <https://www.coingecko.com/en/api>
@@ -333,6 +337,8 @@
 -   <https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data>
 -   <https://api.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000>
 -   <https://data.binance.vision/?prefix=data/spot/daily/klines/BTCUSDT/8h/>
+-   <https://aperiodic.io/>
+-   <https://www.roic.ai/> fundamentals, ratios and earnings call transcripts API
 
 ## QUOTES: OSS
 
@@ -490,6 +496,7 @@
 ## TOOLS: ALERTS
 
 -   <https://saraltrader.com/>
+-   <https://github.com/cryptoflows/n8n-crypto-price-alerts>
 
 ## TOOLS: BOTS
 
@@ -764,6 +771,20 @@
 -   <https://www.youtube.com/@TheAlgorithmicAdvantage>
 -   <https://www.youtube.com/@BetterSystemTraderPodcast>
 
+## VIDEOS: DOCUMENTARY
+
+-   <https://youtu.be/8j3Oauy4IRc> The Greatest Moneymaker in History | Full Documentary
+-   <https://youtu.be/kFQJNeQDDHA> The Wall Street Code | Full Documentary
+-   <https://youtu.be/ed2FWNWwE3I> Quants: The Alchemists of Wall Street | Full Documentary
+-   <https://youtu.be/VEKm15Kho4A> High-Frequency Trading: When Machines Rule Wall Street | Full Documentary
+-   <https://youtu.be/8j3Oauy4IRc> The Greatest Moneymaker in History | Full Documentary
+-   <https://youtu.be/T2IaJwkqgPk> Inside Job | Full Documentary
+-   <https://youtu.be/1hu1np_BI2M> Flash Crash: The Trader Who Crashed the Market | Full Documentary
+-   <https://www.youtube.com/watch?v=ed2FWNWwE3I> Quants: The Alchemists of Wall Street | Full Documentary
+-   <https://www.youtube.com/watch?v=kFQJNeQDDHA> The Wall Street Code | Full Documentary
+-   <https://www.youtube.com/watch?v=VEKm15Kho4A> High-Frequency Trading: When Machines Rule Wall Street | Full Documentary
+-   <https://www.youtube.com/watch?v=T2IaJwkqgPk> Inside Job | Full Documentary
+
 ## VIDEOS: ALL
 
 -   <https://www.youtube.com/watch?v=g9bmgvJkfmQ> behavioral finance / cognitive bias (in french)
@@ -982,6 +1003,8 @@
 -   <https://github.com/tiagosiebler/gateio-api>
 -   <https://github.com/balthazar/binance-api-node>
 -   <https://github.com/gateio/gateapi-python>
+-   <https://github.com/nktkas/hyperliquid>
+-   <https://github.com/nomeida/hyperliquid>
 -   <https://github.com/makarworld/pymexc>
 -   <https://github.com/phemex/phemex-api-docs>
 -   <https://github.com/tiagosiebler/bybit-api>
@@ -1023,6 +1046,7 @@
 -   <https://github.com/iterativv/NostalgiaForInfinity>
 -   <https://github.com/johndpope/CryptoCurrencyTrader>
 -   <https://github.com/DogsTailFarmer/martin-binance>
+-   <https://github.com/Haehnchen/crypto-trading-bot>
 -   <https://github.com/thrasher-corp/gocryptotrader>
 -   <https://github.com/JulyIghor/QtBitcoinTrader>
 -   <https://github.com/dk4jo3/are-alts-bleeding>

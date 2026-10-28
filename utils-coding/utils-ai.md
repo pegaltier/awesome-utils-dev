@@ -80,6 +80,8 @@
 
 -   [TOOLS: CODING: OSS SKILLS EVAL](#tools-coding-oss-skills-eval)
 
+-   [TOOLS: CODING: OSS SKILLS DESIGN](#tools-coding-oss-skills-design)
+
 -   [TOOLS: CODING: OSS PROMPT RULES / SKILLS](#tools-coding-oss-prompt-rules--skills)
 
 -   [TOOLS: CODING: OSS BACKGROUND](#tools-coding-oss-background)
@@ -606,6 +608,7 @@
 
 -   <https://applicantai.com/>
 -   <https://www.usebraintrust.com/>
+-   <https://github.com/ai-job-search-dev/ai-job-search>
 
 ## TOOLS: OSS
 
@@ -733,6 +736,7 @@
 -   <https://github.com/BuilderIO/micro-agent>
 -   <https://github.com/Codium-ai/cover-agent>
 -   <https://github.com/trypear/pearai-master>
+-   <https://github.com/YoanWai/agent-manager>
 -   <https://github.com/ultraworkers/claw-code>
 -   <https://github.com/Dimillian/CodexMonitor>
 -   <https://github.com/mannaandpoem/OpenManus>
@@ -837,6 +841,7 @@
 ## TOOLS: CODING: OSS CODEX
 
 -   <https://github.com/Ducksss/codex-profiles>
+-   <https://github.com/gakonst/nanocodex>
 
 ## TOOLS: CODING: OSS ANTIGRAVITY
 
@@ -883,6 +888,7 @@
 -   <https://github.com/EveryInc/compounding-engineering-plugin>
 -   <https://github.com/AhsanAyaz/ship-guard>
 -   <https://github.com/yanchuk/claude-plugin-codex>
+-   <https://github.com/nykooi1/vibe-wise>
 
 ## TOOLS: CODING: OSS JEV
 
@@ -897,6 +903,7 @@
 -   <https://github.com/browser-use/jev-ultrafast>
 -   <https://github.com/tamaratran/fast-jev-compaction>
 -   <https://github.com/trungdq88/youtube-sponsor-detection>
+-   <https://github.com/jev-chat/jev-chat-jarvis>
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 
@@ -914,6 +921,10 @@
 -   <https://github.com/Giskard-AI/giskard-oss>
 -   <https://github.com/Evol-ai/SkillCompass>
 -   <https://github.com/sx4im/skillcheck>
+
+## TOOLS: CODING: OSS SKILLS DESIGN
+
+-   <https://github.com/elayadesign/ai-design-skills>
 
 ## TOOLS: CODING: OSS PROMPT RULES / SKILLS
 
@@ -955,6 +966,7 @@
 -   <https://github.com/OthmanAdi/planning-with-files>
 -   <https://github.com/mgechev/skills-best-practices>
 -   <https://github.com/google-labs-code/stitch-skills>
+-   <https://github.com/google/elephant-goldfish-model>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
 -   <https://github.com/GoogleChrome/modern-web-guidance>
 -   <https://github.com/awesome-skills/code-review-skill>
@@ -1098,6 +1110,7 @@
 -   <https://github.com/oomol-lab/pdf-craft>
 -   <https://github.com/docling-project/docling>
 -   <https://github.com/genspark-ai/genoffice>
+-   <https://github.com/simonliu-ai-product/open-doc>
 
 ## TOOLS: SANDBOXING / CONTAINER
 
@@ -1341,6 +1354,7 @@
 -   <https://github.com/cortexkit/magic-context>
 -   <https://github.com/supermemoryai/supermemory>
 -   <https://github.com/TencentCloud/TencentDB-Agent-Memory>
+-   <https://github.com/louis030195/hyperconsciousness>
 
 ## TOOLS: OFFLINE / LOCAL
 
@@ -1376,6 +1390,7 @@
 -   <https://github.com/nico-martin/gemma4-browser-extension>
 -   <https://github.com/ggml-org/llama.cpp/blob/master/docs%2Fdocker.md>
 -   <https://github.com/cactus-compute/cactus-hybrid>
+-   <https://github.com/Niko1221/Strata>
 
 ## TOOLS: BROWSER / LOCAL
 
@@ -1386,6 +1401,7 @@
 ## TOOLS: ASSISTANT / PHYSICAL
 
 -   <https://github.com/BasedHardware/omi>
+-   <https://github.com/XiaoMi/xiaomi-miloco>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
@@ -1457,6 +1473,7 @@
 -   <https://github.com/unslothai/hyperlearn>
 -   <https://github.com/huggingface/ml-intern>
 -   <https://github.com/eriklindernoren/ML-From-Scratch>
+-   <https://github.com/wlearn-org/dimred>
 
 ## LIB: STRUCTURED OUTPUT
 
@@ -1512,6 +1529,8 @@
 ## LIB: NEURAL NETWORK
 
 -   <https://github.com/apple/corenet>
+-   <https://github.com/open-neuromorphic>
+-   <https://github.com/chenglou/handwired>
 
 ## LIB: FULL FRAMEWORK
 
@@ -1544,6 +1563,7 @@
 -   <https://github.com/google/artemis>
 -   <https://github.com/jordan-gibbs/hyperresearch>
 -   <https://github.com/uditgoenka/autoresearch>
+-   <https://github.com/OpenSourceAGI/qwksearch-research-agent>
 
 ## LIB: COMPAT AGENT
 
@@ -1837,6 +1857,7 @@
 -   <https://github.com/tobi/qmd>
 -   <https://smithery.ai/>
 -   <https://glama.ai/>
+-   <https://github.com/loootai/looot-mcp>
 
 ## LIB: BPE
 
@@ -2349,6 +2370,7 @@
 -   <https://github.com/ericciarla/trendFinder>
 -   <https://github.com/stanford-oval/storm>
 -   <https://github.com/yikart/AiToEarn>
+-   <https://github.com/am-mong/Code-and-Dataset-for-A-Midsummer-Meme-s-Dream->
 
 ## TOOLS: PROMPT
 

@@ -100,16 +100,19 @@
 -   <https://github.com/loki-inu/relnote>
 -   <https://github.com/typicode/husky>
 -   <https://github.com/tobi/walgit>
+-   <https://github.com/Omibranch/gitty>
 -   <https://github.com/upptime/upptime>
+-   <https://github.com/typicode/husky>
 -   <https://github.com/alibaba/hooks>
 -   <https://github.com/probot/probot>
+-   <https://github.com/tobi/walgit>
+-   <https://github.com/j178/prek>
+-   <https://github.com/loki-inu>
 -   <https://www.gitkraken.com/>
 -   <https://socialify.git.ci/>
 -   <https://gitexplorer.com/>
 -   <https://projectr.io/>
 -   <https://grep.app/>
--   <https://github.com/Omibranch/gitty>
--   <https://github.com/j178/prek>
 
 ## OSS
 
@@ -142,6 +145,7 @@
 -   <https://github.com/azizaydi23/npm-audit>
 -   <https://github.com/bobheadxi/deployments>
 -   <https://github.com/sdras/awesome-actions>
+-   <https://github.com/susscr/yaml-preflight>
 -   <https://github.com/balazsorban44/nissuer>
 -   <https://github.com/actions/add-to-project>
 -   <https://github.com/Codex-/return-dispatch>

@@ -2,13 +2,20 @@
 
 ## TABLE OF CONTENTS
 
+-   [TOOLS](#tools)
 -   [EMULATOR](#emulator)
 -   [LIB: GAME](#lib-game)
 -   [LIB: CLOUD](#lib-cloud)
 -   [LIB: ALL](#lib-all)
 -   [LIB: VISU](#lib-visu)
--   [LIB: AI](#lib-ai)
+-   [LIB: AI ALL](#lib-ai-all)
+-   [LIB: AI MASHUP / MOD](#lib-ai-mashup--mod)
+-   [LIB: PORTING](#lib-porting)
 -   [EXAMPLE](#example)
+
+## TOOLS
+
+-   <https://respawnstack.com>
 
 ## EMULATOR
 
@@ -44,13 +51,34 @@
 
 -   <https://github.com/IAmTomShaw/f1-race-replay>
 
-## LIB: AI
+## LIB: AI ALL
 
 -   <https://github.com/PufferAI/PufferLib>
 -   <https://github.com/a16z-infra/ai-town>
+
+## LIB: AI MASHUP / MOD
+
+-   <https://github.com/trevaintdead/ai-game-modding-guides>
+-   <https://github.com/rehan-remade/universal-modder>
+-   <https://github.com/bethington/ghidra-mcp> 
+-   <https://github.com/SamboyCoding/Cpp2IL> 
+-   <https://github.com/HexRaysSA/ida-mcp>
+-   <https://github.com/icsharpcode/ilspy> 
+-   <https://github.com/boykopovar/AnyPS5>
+-   <https://github.com/yuriolive/PortPS5>
+-   <https://github.com/morluto/rea>
+-   <https://youtu.be/h5zkzon0gM4>
+
+## LIB: PORTING
+
+-   <https://github.com/ly05010419/MacNativeGames>
+-   <https://github.com/horizon-rust/horizon>
+-   <https://github.com/boykopovar/AnyPS5>
+-   <https://github.com/seedds/nxnative>
 
 ## EXAMPLE
 
 -   <https://github.com/jkup/triablo>
 -   <https://github.com/code100x/chess>
 -   <https://github.com/mshumer/Claude-of-Duty>
+-   <https://github.com/OnlyShoky/Procedural-Animation>

@@ -254,6 +254,7 @@
 -   <http://github.com/open-metadata/OpenMetadata>
 -   <https://github.com/bluewave-labs/checkmate>
 -   <https://github.com/openobserve/openobserve>
+-   <https://github.com/open-telemetry/weaver>
 -   <https://github.com/openreplay/openreplay>
 -   <https://github.com/louislam/uptime-kuma>
 -   <https://github.com/lyc8503/UptimeFlare>
@@ -269,6 +270,7 @@
 -   <https://github.com/SigNoz/signoz>
 -   <https://github.com/keephq/keep>
 -   <https://github.com/TwiN/gatus>
+-   <https://github.com/fclairamb/solidping>
 
 ## TOOLS: MONITORING: SASS
 
