@@ -378,6 +378,8 @@
 
 -   <https://github.com/goshops-com/clipshare>
 
+-   <https://github.com/antonio-orionus/Arroxy>
+
 -   <https://github.com/KurtBestor/Hitomi-Downloader>
 
 ## OSS: MEDIAS / PRESENTATION / BOOK / PDF / DOCS
