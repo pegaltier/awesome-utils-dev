@@ -353,33 +353,19 @@
 ## OSS: VIDEO DOWNLOAD
 
 -   <https://github.com/nexmoe/VidBee>
-
 -   <https://github.com/pingdotgg/lawn>
-
 -   <https://github.com/Ihsan172/Vanced>
-
 -   <https://github.com/alexta69/metube>
-
 -   <https://github.com/fonoster/goodtok>
-
 -   <https://github.com/iv-org/invidious>
-
 -   <https://github.com/tonhowtf/omniget>
-
 -   <https://github.com/caorushizi/mediago>
-
 -   <https://github.com/steipete/summarize>
-
 -   <https://github.com/alyssaxuu/screenity>
-
 -   <https://github.com/TeamNewPipe/NewPipe>
-
 -   <https://github.com/obra/Youtube2Webpage>
-
 -   <https://github.com/goshops-com/clipshare>
-
 -   <https://github.com/antonio-orionus/Arroxy>
-
 -   <https://github.com/KurtBestor/Hitomi-Downloader>
 
 ## OSS: MEDIAS / PRESENTATION / BOOK / PDF / DOCS
