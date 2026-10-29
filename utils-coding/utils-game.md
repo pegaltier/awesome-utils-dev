@@ -26,6 +26,7 @@
 -   <https://github.com/OpenRCT2/OpenRCT2>
 -   <https://github.com/erincatto/box3d>
 -   <https://github.com/SFTtech/openage>
+-   <https://github.com/phaserjs/phaser>
 
 ## LIB: CLOUD
 
@@ -80,6 +81,7 @@
 
 -   <https://github.com/jkup/triablo>
 -   <https://github.com/code100x/chess>
+-   <https://github.com/ruyadorno/pm-tycoon>
 -   <https://github.com/mshumer/Claude-of-Duty>
 -   <https://github.com/ConorTttttt/turbo-kart>
 -   <https://github.com/OnlyShoky/Procedural-Animation>

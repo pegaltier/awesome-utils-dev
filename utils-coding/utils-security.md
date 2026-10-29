@@ -121,7 +121,9 @@
 
 -   <https://www.cecurity.com/>
 -   <https://www.vaultproject.io/>
+-   <https://github.com/openbao/openbao>
 -   <https://github.com/hashicorp/vault>
+-   <https://github.com/dmno-dev/varlock>
 -   <https://github.com/Infisical/infisical>
 -   <https://github.com/veracrypt/VeraCrypt>
 -   <https://github.com/shahradelahi/vault-cli>
