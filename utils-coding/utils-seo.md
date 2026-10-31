@@ -181,6 +181,7 @@ seo phase d'optimisation :
 ## CONCURRENCE
 
 -   <https://www.changedetection.com/>
+-   <https://www.stackscan.com/>
 
 ## DEV AUTOMATTE
 
