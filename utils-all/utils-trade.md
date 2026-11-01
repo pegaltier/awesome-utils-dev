@@ -267,6 +267,7 @@
 ## TRAINING
 
 -   <https://ai4finance.org/>
+-   <https://www.quantframe.io/>
 -   <https://www.cqfinstitute.org/>
 
 ## BLOG / FORUM
@@ -377,8 +378,9 @@
 -   <https://metalcharts.org>
 -   <https://finance.yahoo.com>
 
-## QUOTES: ETF
+## QUOTES: OTHERS
 
+-   <https://fxmacrodata.com/>
 -   <https://finance.yahoo.com/quote/PQNT/>
 
 ## LIST: OSS
@@ -459,6 +461,7 @@
 -   <https://www.thealexoneill.com/performance>
 -   <https://www.realcharts.app/>
 -   <https://cryptoquant.com/>
+-   <https://quantoracle.dev/>
 
 ## TOOLS: SCREENING / NEWS
 
@@ -1319,6 +1322,7 @@
 ### OSS: JAVASCRIPT: BACKTEST & TRADES
 
 -   <https://github.com/ghalex/zapcli>
+-   <https://github.com/kiploks/engine>
 -   <https://github.com/Jaiminp007/finny>
 -   <https://github.com/s-stolz/algotrader>
 -   <https://github.com/tradejs-dev/tradejs>
@@ -1400,6 +1404,7 @@
 -   <https://github.com/adiled/ohlc-resample>
 -   <https://github.com/ourarash/heikinashi>
 -   <https://github.com/cm45t3r/candlestick>
+-   <https://github.com/Kinfxhk/candledrill>
 -   <https://github.com/Flippo24/candles> \*
 
 ### OSS: JAVASCRIPT: PINESCRIPT
@@ -1407,9 +1412,13 @@
 -   <https://github.com/Opus-Aether-AI/pine-transpiler>
 -   <https://github.com/marketcalls/openalgo-pinets>
 -   <https://github.com/codenamedevan/pinescriptv6>
+-   <https://github.com/be-thomas/OpenPineScript>
 -   <https://github.com/deepentropy/oakscriptJS>
+-   <https://github.com/marketcalls/openscript>
 -   <https://github.com/QuantForgeOrg/PineTS>
 -   <https://github.com/folknor/pine-tools>
+-   <https://github.com/nullarch/resin>
+-   <https://github.com/heyphat/piner>
 
 ### OSS: JAVASCRIPT: OPTIMIZE
 
@@ -1431,6 +1440,7 @@
 -   <https://github.com/xFFFFF/Gekko-Strategies>
 -   <https://github.com/debut-js/Core>
 -   <https://github.com/hsuehic/iTrade>
+-   <https://github.com/garyb9/finsnap>
 -   <https://github.com/stoqey/nitrogen>
 -   <https://github.com/Seungwoo321/cats> (grademark)
 -   <https://github.com/kjp22/quant_view> \*
@@ -1468,6 +1478,7 @@
 -   <https://github.com/gadicc/node-yahoo-finance2> \*
 -   <https://github.com/ViewBlock/binance-api-node>
 -   <https://github.com/imxeno/tradingview-scraper>
+-   <https://github.com/QuantOracledev/quantoracle>
 -   <https://github.com/Elenchev/order-book-heatmap>
 -   <https://github.com/HaiderMalikk/Reddish-Trends>
 -   <https://github.com/vitalets/tinkoff-invest-api>
