@@ -96,6 +96,7 @@
 -   <https://github.com/github/git-sizer>
 -   <https://github.com/dandavison/delta>
 -   <https://github.com/eth0izzle/shhgit>
+-   <https://github.com/n8v-guy/diffseek>
 -   <https://github.com/orhun/git-cliff>
 -   <https://github.com/loki-inu/relnote>
 -   <https://github.com/typicode/husky>
