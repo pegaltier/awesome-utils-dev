@@ -134,6 +134,7 @@
 
 ## ACTIONS
 
+-   <https://superci.dev/>
 -   <https://www.blacksmith.sh/>
 -   <https://github.com/nektos/act>
 -   <https://github.com/github/gh-aw>
