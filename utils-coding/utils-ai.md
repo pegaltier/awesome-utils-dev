@@ -794,11 +794,12 @@
 -   <https://github.com/HKUDS/OpenHarness>
 -   <https://github.com/xai-org/grok-build>
 -   <https://github.com/Gitlawb/openclaude>
+-   <https://github.com/truefoundry/trueforge>
 -   <https://github.com/NousResearch/hermes-agent>
 -   <https://github.com/deepseek-ai/deepseek-harness>
 -   <https://github.com/PrimeIntellect-ai/prime-agent>
+-   <https://github.com/deepseek-ai/dsh-superagent-prototype>
 -   <https://github.com/anywhere-labs/deepseek-harness-desktop>
--   <https://github.com/truefoundry/trueforge>
 
 ## TOOLS: CODING: OSS DEBUG
 
@@ -917,6 +918,11 @@
 -   <https://github.com/tamaratran/fast-jev-compaction>
 -   <https://github.com/trungdq88/youtube-sponsor-detection>
 -   <https://github.com/jev-chat/jev-chat-jarvis>
+
+## TOOLS: CODING: OSS REVERSE ENGINEERING
+
+-   <https://github.com/morluto/rea>
+-   <https://github.com/storytold/craft-anything>
 
 ## TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS
 

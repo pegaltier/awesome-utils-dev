@@ -2664,6 +2664,7 @@ Analyze and optimize the performance of your app
 
 ## ECOSYSTEM: LIB: COMPONENT: LAYOUT / GRID / TABLE
 
+-   <https://github.com/GioPat/gp-grid>
 -   <https://github.com/SheetJS/sheetjs>
 -   <https://github.com/ag-grid/ag-grid>
 -   <https://github.com/paulhodel/jexcel>

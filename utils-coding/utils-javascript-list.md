@@ -1064,6 +1064,7 @@
 -   <https://github.com/TanStack/table>
 -   <https://github.com/grid-js/gridjs>
 -   <https://github.com/ag-grid/ag-grid>
+-   <https://github.com/GioPat/gp-grid>
 -   <https://github.com/exceljs/exceljs>
 -   <https://github.com/VisActor/VTable>
 -   <https://github.com/jspreadsheet/ce>
