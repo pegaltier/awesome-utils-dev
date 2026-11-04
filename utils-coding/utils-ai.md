@@ -78,6 +78,8 @@
 
 -   [TOOLS: CODING: OSS JEV](#tools-coding-oss-jev)
 
+-   [TOOLS: CODING: OSS REVERSE ENGINEERING](#tools-coding-oss-reverse-engineering)
+
 -   [TOOLS: CODING: OSS OPTIMIZE PROMPT RULES / SKILLS](#tools-coding-oss-optimize-prompt-rules--skills)
 
 -   [TOOLS: CODING: OSS SKILLS EVAL](#tools-coding-oss-skills-eval)

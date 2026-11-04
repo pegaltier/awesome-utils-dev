@@ -24,7 +24,7 @@
 
 -   [QUOTES: LIVE](#quotes-live)
 
--   [QUOTES: ETF](#quotes-etf)
+-   [QUOTES: OTHERS](#quotes-others)
 
 -   [LIST: OSS](#list-oss)
 
