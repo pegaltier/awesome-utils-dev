@@ -264,6 +264,7 @@
 ## CONTENT
 
 -   <https://github.com/makenotion/notion-sdk-js>
+-   <https://getyoutubetranscript.com/docs>
 
 ## AI
 
