@@ -37,6 +37,7 @@
 -   <https://pitchboom.io>
 -   <https://www.heygen.com/>
 -   <https://www.blotato.com/>
+-   <https://imagera.ai>
 
 ## PRESENTATION / SLIDES
 
