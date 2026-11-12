@@ -581,6 +581,7 @@
 -   <https://www.wagyu.xyz/>
 -   <https://solswap.org/>
 -   <https://app.near-intents.org/>
+-   <https://swap.shieldz.cash/>
 -   <https://sonic.fantomstarter.io/interchain>
 
 ## PREDICTION
