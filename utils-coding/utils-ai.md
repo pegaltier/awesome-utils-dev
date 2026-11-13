@@ -1042,6 +1042,7 @@
 -   <https://github.com/buildermethods/agent-os>
 -   <https://github.com/Codeplain-ai/plain-forge>
 -   <https://github.com/bmad-code-org/BMAD-METHOD>
+-   <https://github.com/google/elephant-goldfish-model>
 -   <https://github.com/topics/spec-driven-development>
 -   <https://github.com/eyaltoledano/claude-task-master>
 -   <https://github.com/wearetechnative/awesome-openspec>
@@ -1492,12 +1493,15 @@
 ## LIB: MACHINE LEARNING / ML
 
 -   <https://github.com/TabbyML/tabby>
+-   <https://github.com/wlearn-org/dimred>
 -   <https://github.com/gradio-app/gradio/>
 -   <https://github.com/microsoft/DirectML>
 -   <https://github.com/unslothai/hyperlearn>
 -   <https://github.com/huggingface/ml-intern>
+-   <https://github.com/microsoft/ML-For-Beginners>
 -   <https://github.com/eriklindernoren/ML-From-Scratch>
--   <https://github.com/wlearn-org/dimred>
+-   <https://medium.com/@marek.michalik/reinforcement-learning-from-scratch-09312c6c0999>
+-   <https://mleasylearning.com/en/>
 
 ## LIB: STRUCTURED OUTPUT
 

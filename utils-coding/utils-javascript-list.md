@@ -1416,14 +1416,22 @@
 -   <https://github.com/cloudflare/agents>
 -   <https://github.com/googleworkspace/cli>
 
+## LIB: AI: LLM
+
+-   <https://github.com/zemlyansky/gpt-tfjs>
+-   <https://github.com/latitude-dev/latitude-llm>
+-   <https://github.com/Mintplex-Labs/anything-llm>
+
 ## LIB: AI WEB / NLP EDGE
 
 -   <https://github.com/brainjs>
 -   <https://github.com/ekzhang/jax-js>
 -   <https://github.com/tensorflow/tfjs>
+-   <https://github.com/axa-group/nlp.js/>
 -   <https://github.com/huggingface/candle>
 -   <https://github.com/google-ai-edge/LiteRT>
 -   <https://github.com/microsoft/onnxruntime>
+-   <https://github.com/tensorflow/tfjs-examples>
 -   <https://github.com/google-ai-edge/mediapipe>
 -   <https://github.com/roboflow/inference-sdk-js>
 -   <https://github.com/huggingface/transformers.js>
@@ -1431,10 +1439,18 @@
 
 ## LIB: AI / DEEP LEARNING / NEURAL NETWORK
 
+-   <https://github.com/cazala/synaptic>
 -   <https://github.com/lutzroeder/netron>
 -   <https://github.com/panchishin/neuralnet>
 -   <https://github.com/janhuenermann/neurojs>
 -   <https://github.com/philipszdavido/TensorForgejs>
+
+## LIB: AI / TRAINING / PREDICTION / REINFORCEMENT LEARNING / RL
+
+-   <https://github.com/cpnota/rl-js>
+-   <https://github.com/karpathy/reinforcejs>
+-   <https://github.com/mvrahden/reinforce-js>
+-   <https://github.com/aloe-games/flappy-pig>
 
 ## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / ML
 
@@ -1465,11 +1481,13 @@
 -   <https://github.com/zemlyansky/boruta.js>
 -   <https://github.com/kwichmann/ml_sandbox>
 -   <https://github.com/davide97g/ml-modules>
+-   <https://github.com/zemlyansky/importance>
 -   <https://github.com/wagenaartje/neataptic>
 -   <https://github.com/tensorflow/tfjs-models>
 -   <https://github.com/AdamPerlinski/micro-ml>
 -   <https://github.com/lettier/interactiveknn>
 -   <https://github.com/artificialscience/k-nn>
+-   <https://github.com/javascriptdata/scikit.js>
 -   <https://github.com/ubilabs/kd-tree-javascript>
 -   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/sbyrnes/DataScience_in_Node.js>
@@ -1524,12 +1542,10 @@
 -   <https://github.com/langchain-ai/langgraph>
 -   <https://github.com/getsentry/vitest-evals>
 -   <https://github.com/facebookresearch/shumai>
--   <https://github.com/latitude-dev/latitude-llm>
 -   <https://github.com/triggerdotdev/trigger.dev>
 -   <https://github.com/eduardoleao052/js-pytorch>
 -   <https://github.com/browserbase/open-operator>
 -   <https://github.com/jina-ai/node-DeepResearch>
--   <https://github.com/Mintplex-Labs/anything-llm>
 -   <https://github.com/yusuf-eren/openai-agents-js>
 -   <https://github.com/transitive-bullshit/agentic>
 -   <https://github.com/instructor-ai/instructor-js>
