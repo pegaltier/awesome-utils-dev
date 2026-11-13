@@ -140,9 +140,11 @@ pip -V
 
 ## MACHINE LEARNING
 
+-   <https://github.com/openai/gym>
 -   <https://github.com/py-why/dowhy>
 -   <https://github.com/uhlerlab/causaldag>
 -   <https://github.com/BiomedSciAI/causallib>
+-   <https://github.com/farama-foundation/gymnasium>
 -   <https://github.com/rguo12/awesome-causality-algorithms>
 
 ## DATA
