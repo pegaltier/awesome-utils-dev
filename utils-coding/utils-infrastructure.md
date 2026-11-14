@@ -134,6 +134,7 @@
 -   <https://github.com/h5bp/server-configs>
 -   <https://github.com/h5bp/server-configs-nginx>
 -   <https://github.com/h5bp/server-configs-apache>
+-   <https://artigram.cafeboon.com/p/5yv5j2z> Interactive subnet lab on ArtiGram: drag the prefix to see how many addresses you get under classic, /31 and AWS or Azure rules, plan a network by hosts needed and inspect any CIDR
 
 ## DASHBOARD
 
