@@ -49,6 +49,7 @@
 ## Various
 
 -   [Ai](utils-coding/utils-ai.md)
+-   [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and hosted MCP server (`https://nostairsplease.com/mcp`).
 -   [Git](utils-coding/utils-git.md)
 -   [Api](utils-coding/utils-api.md)
 -   [Wasm](utils-coding/utils-wasm.md)
