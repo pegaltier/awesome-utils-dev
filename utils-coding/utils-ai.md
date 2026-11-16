@@ -1621,6 +1621,7 @@
 -   <https://github.com/ZJU-LLMs/Agent-Kernel>
 -   <https://github.com/salesforce/agentscript>
 -   <https://github.com/Agent-Field/agentfield>
+-   <https://github.com/backnotprop/plannotator>
 -   <https://github.com/Kohaku-Lab/KohakuTerrarium>
 -   <https://github.com/tripolskypetr/agent-swarm-kit>
 -   <https://github.com/openai/openai-realtime-agents>
