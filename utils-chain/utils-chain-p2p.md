@@ -63,6 +63,7 @@
 -   <https://github.com/localsend/localsend>
 -   <https://github.com/peers/peerjs-server>
 -   <https://github.com/markqvist/Reticulum>
+-   <https://github.com/freenet/freenet-core>
 -   <https://github.com/jackjackbits/bitchat>
 -   <https://github.com/hyperswarm/dht-relay>
 -   <https://github.com/ruvnet/wifi-densepose>
@@ -82,7 +83,7 @@
 -   <https://github.com/vadootvpeer/p2p-cdn-sdk-javascript>
 
 ## APPS
-
+-   <https://github.com/freenet/river>
 -   <https://github.com/nostr-protocol/nostr>
 
 ## Content

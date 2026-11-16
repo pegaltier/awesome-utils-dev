@@ -99,6 +99,9 @@
 -   <https://github.com/floneum/floneum>
 -   <https://github.com/PCfVW/plip-rs>
 
+## LIB: ML
+-   <https://github.com/sanity/renegade>
+
 ## LIB: DB
 
 -   <https://github.com/tursodatabase/limbo>
