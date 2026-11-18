@@ -20,6 +20,7 @@
 ## EMULATOR
 
 -   <https://github.com/PCSX2/pcsx2>
+-   <https://github.com/bfirsh/jsnes>
 
 ## LIB: GAME
 
@@ -27,6 +28,7 @@
 -   <https://github.com/erincatto/box3d>
 -   <https://github.com/SFTtech/openage>
 -   <https://github.com/phaserjs/phaser>
+-   <https://github.com/pixijs/pixijs>
 
 ## LIB: CLOUD
 

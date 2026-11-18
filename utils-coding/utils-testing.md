@@ -262,6 +262,7 @@
 -   <https://github.com/HamedFathi/screen.play.write>
 -   <https://github.com/slient-commit/the-auto-e2e>
 -   <https://github.com/berstend/puppeteer-extra>
+-   <https://github.com/xcodebeast/flashwright>
 -   <https://github.com/testronaut/testronaut>
 -   <https://github.com/mswjs/playwright>
 -   <https://github.com/millionco/expect>
