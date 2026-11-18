@@ -13,6 +13,7 @@
 -   [FRAMEWORK](#framework)
 -   [LIB: API](#lib-api)
 -   [LIB: AI](#lib-ai)
+-   [LIB: ML](#lib-ml)
 -   [LIB: DB](#lib-db)
 -   [LIB](#lib)
 -   [VARIOUS](#various)
@@ -100,6 +101,7 @@
 -   <https://github.com/PCfVW/plip-rs>
 
 ## LIB: ML
+
 -   <https://github.com/sanity/renegade>
 
 ## LIB: DB

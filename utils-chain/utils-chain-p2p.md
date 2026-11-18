@@ -83,6 +83,7 @@
 -   <https://github.com/vadootvpeer/p2p-cdn-sdk-javascript>
 
 ## APPS
+
 -   <https://github.com/freenet/river>
 -   <https://github.com/nostr-protocol/nostr>
 

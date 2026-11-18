@@ -71,7 +71,8 @@
 -   [LIB: FRONTEND ANIMATION](#lib-frontend-animation)
 -   [LIB: FRONTEND CAPTCHA](#lib-frontend-captcha)
 -   [LIB: FRONTEND QR CODE](#lib-frontend-qr-code)
--   [LIB: FRONTEND TEXT EDITOR / WYSIWYG](#lib-frontend-text-editor--wysiwyg)
+-   [LIB: FRONTEND TEXT EDITOR WYSIWYG](#lib-frontend-text-editor-wysiwyg)
+-   [LIB: FRONTEND CODE / JSON EDITOR WYSIWYG](#lib-frontend-code--json-editor-wysiwyg)
 -   [LIB: FRONTEND DRAG AND DROP / DND](#lib-frontend-drag-and-drop--dnd)
 -   [LIB: FRONTEND CAROUSEL / SLIDER / SCROLL](#lib-frontend-carousel--slider--scroll)
 -   [LIB: FRONTEND LAYOUT](#lib-frontend-layout)
@@ -103,8 +104,10 @@
 -   [LIB: AI: GPT](#lib-ai-gpt)
 -   [LIB: AI: AGENT](#lib-ai-agent)
 -   [LIB: AI: AGENT EXTRA](#lib-ai-agent-extra)
+-   [LIB: AI: LLM](#lib-ai-llm)
 -   [LIB: AI WEB / NLP EDGE](#lib-ai-web--nlp-edge)
 -   [LIB: AI / DEEP LEARNING / NEURAL NETWORK](#lib-ai--deep-learning--neural-network)
+-   [LIB: AI / TRAINING / PREDICTION / REINFORCEMENT LEARNING / RL](#lib-ai--training--prediction--reinforcement-learning--rl)
 -   [LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / ML](#lib-ai--training--prediction--machine-learning--ml)
 -   [LIB: AI / MACHINE LEARNING / NAIVE BAYES / TEXT CLASSIFIER](#lib-ai--machine-learning--naive-bayes--text-classifier)
 -   [LIB: AI / MACHINE LEARNING / MARKOV](#lib-ai--machine-learning--markov)
@@ -914,7 +917,6 @@
 -   <https://github.com/pshihn/rough-notation>
 -   <https://github.com/giuseppeg/screensaver>
 -   <https://github.com/focus-trap/focus-trap>
--   <https://github.com/codex-team/editor.js>
 -   <https://github.com/spaansba/ForesightJS>
 -   <https://github.com/jamiebuilds/tinykeys>
 -   <https://github.com/mozilla/readability>
@@ -977,11 +979,12 @@
 -   <https://github.com/NeaByteLab/QR-Generator>
 -   <https://github.com/kozakdenys/qr-code-styling>
 
-## LIB: FRONTEND TEXT EDITOR / WYSIWYG
+## LIB: FRONTEND TEXT EDITOR WYSIWYG
 
 -   <https://github.com/microsoft/monaco-editor>
 -   <https://github.com/ProseMirror/prosemirror>
 -   <https://github.com/TypeCellOS/BlockNote>
+-   <https://github.com/codex-team/editor.js>
 -   <https://github.com/ianstormtaylor/slate>
 -   <https://github.com/reedsy/quill-cursors>
 -   <https://github.com/taiga-family/editor>
@@ -993,6 +996,14 @@
 -   <https://github.com/quilljs/quill>
 -   <https://github.com/zserge/awfice>
 -   <https://github.com/udecode/plate>
+-   <https://github.com/slab/quill>
+
+## LIB: FRONTEND CODE / JSON EDITOR WYSIWYG
+
+-   <https://github.com/editor-js/code>
+-   <https://github.com/josdejong/jsoneditor/>
+-   <https://github.com/germanbisurgi/jedison>
+-   <https://github.com/json-editor/json-editor>
 
 ## LIB: FRONTEND DRAG AND DROP / DND
 
