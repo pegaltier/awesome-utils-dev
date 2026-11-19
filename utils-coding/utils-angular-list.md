@@ -2024,6 +2024,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/facebook/memlab>
 -   <https://github.com/swimlane/DocSPA>
 -   <https://github.com/docgeni/docgeni>
+-   <https://github.com/openng-org/hub>
 -   <https://github.com/xonaib/ng-loom>
 -   <https://github.com/ng-doc/ng-doc>
 -   <https://github.com/urish/ng-lift>
@@ -3608,6 +3609,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 
 ## ECOSYSTEM: COMMUNITY
 
+-   <https://www.openng.org/>
 -   <https://www.ngdigest.co>
 -   <https://angular-hub.com/>
 -   <https://ngx-libs.com/>
@@ -3748,6 +3750,7 @@ Find here tools, snippets, extensions, plugins for different IDE.
 ## ANGULAR22
 
 -   <https://www.codigotipado.com/p/angular-22-debounced-signal>
+-   <https://blog.ninja-squad.com/2026/11/18/what-is-new-angular-22.3>
 -   <https://medium.com/javascript-everyday/goodbye-route-parent-parent-angular-22-makes-param-inheritance-finally-sane-cc48bc1e5e8d>
 
 ### ANGULAR21

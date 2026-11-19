@@ -181,6 +181,7 @@
 -   <https://github.com/vxcontrol/pentagi>
 -   <https://github.com/vigolium/vigolium>
 -   <https://github.com/dstotijn/hetty>
+-   <https://github.com/BaaRai/ARTEX>
 
 ## TOOLS: OSS: DEFENSIVE
 
