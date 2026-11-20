@@ -1460,10 +1460,12 @@
 
 -   <https://github.com/cpnota/rl-js>
 -   <https://github.com/ttumiel/gym.js>
+-   <https://github.com/lsunsi/markovjs>
 -   <https://github.com/bobiblazeski/js-gym>
 -   <https://github.com/karpathy/reinforcejs>
 -   <https://github.com/mvrahden/reinforce-js>
 -   <https://github.com/aloe-games/flappy-pig>
+-   <https://github.com/NathanEpstein/Pavlov.js>
 
 ## LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / ML
 

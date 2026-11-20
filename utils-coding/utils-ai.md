@@ -805,8 +805,8 @@
 
 ## TOOLS: CODING: OSS DEBUG
 
--   <https://github.com/luoyuctl/agenttrace>
 -   <https://github.com/vibe-archi/pdbg>
+-   <https://github.com/luoyuctl/agenttrace>
 -   <https://github.com/millionco/debug-agent>
 -   <https://github.com/Continuum-AI-Corp/OrcaReplay>
 -   <https://github.com/elementalsouls/Claude-BugHunter>
@@ -1500,8 +1500,12 @@
 -   <https://github.com/huggingface/ml-intern>
 -   <https://github.com/microsoft/ML-For-Beginners>
 -   <https://github.com/eriklindernoren/ML-From-Scratch>
--   <https://medium.com/@marek.michalik/reinforcement-learning-from-scratch-09312c6c0999>
 -   <https://mleasylearning.com/en/>
+
+## LIB: REINFORCEMENT LEARNING / RL
+
+-   <https://github.com/rafa2000/Top-Reinforcement-Learning>
+-   <https://medium.com/@marek.michalik/reinforcement-learning-from-scratch-09312c6c0999>
 
 ## LIB: STRUCTURED OUTPUT
 

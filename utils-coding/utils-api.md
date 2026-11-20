@@ -350,11 +350,7 @@
 -   <https://github.com/brotandgames/ciao>
 -   <https://github.com/openstatusHQ/openstatus>
 
-## FUN
-
--   <https://http.cat/>
--   <https://api.carsxe.com/>
--   <https://www.disneyapi.dev/>
+## APIS: OPEN
 -   <https://github.com/D3vd/Meme_Api>
 -   <https://github.com/apilayer/restcountries>
 -   <https://github.com/vagnersabadi/apis-nerds>
@@ -363,3 +359,9 @@
 -   <https://github.com/hotheadhacker/no-as-a-service>
 -   <https://github.com/skolakoda/programming-quotes-api>
 -   <https://github.com/jacebrowning/memegen>
+
+## APIS: SERVICES
+-   <https://http.cat/>
+-   <https://odds-api.io/>
+-   <https://api.carsxe.com/>
+-   <https://www.disneyapi.dev/>

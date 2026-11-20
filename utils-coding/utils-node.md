@@ -533,6 +533,7 @@
 -   <https://github.com/tripolskypetr/worker-testbed>
 -   <https://github.com/damiansire/web-worker-patterns>
 -   <https://www.inngest.com/blog/node-worker-threads>
+-   <https://www.jasnell.me/posts/green-threads-in-node>
 
 ## LIBS: UNIT TESTING
 
