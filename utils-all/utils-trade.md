@@ -1385,6 +1385,7 @@
 -   <https://github.com/klinecharts/KLineChart>
 -   <https://github.com/alenjohn05/EquiCharts>
 -   <https://github.com/QuantForgeOrg/QFChart>
+-   <https://github.com/danchitnis/webgl-plot>
 -   <https://github.com/tvjsx/trading-vue-js>
 -   <https://github.com/andredumas/techan.js>
 -   <https://github.com/dcaoyuan/vibetrader>
