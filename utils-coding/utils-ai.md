@@ -170,6 +170,8 @@
 
 -   [LIB: MACHINE LEARNING / ML](#lib-machine-learning--ml)
 
+-   [LIB: REINFORCEMENT LEARNING / RL](#lib-reinforcement-learning--rl)
+
 -   [LIB: STRUCTURED OUTPUT](#lib-structured-output)
 
 -   [LIB: DB](#lib-db)

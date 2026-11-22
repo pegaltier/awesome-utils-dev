@@ -30,7 +30,8 @@
 -   [AGGREGATION](#aggregation)
 -   [GATEWAY](#gateway)
 -   [HEALTHCHECK](#healthcheck)
--   [FUN](#fun)
+-   [APIS: OPEN](#apis-open)
+-   [APIS: SERVICES](#apis-services)
 
 ## API DESIGN: OSS
 
@@ -351,6 +352,7 @@
 -   <https://github.com/openstatusHQ/openstatus>
 
 ## APIS: OPEN
+
 -   <https://github.com/D3vd/Meme_Api>
 -   <https://github.com/apilayer/restcountries>
 -   <https://github.com/vagnersabadi/apis-nerds>
@@ -361,6 +363,7 @@
 -   <https://github.com/jacebrowning/memegen>
 
 ## APIS: SERVICES
+
 -   <https://http.cat/>
 -   <https://odds-api.io/>
 -   <https://api.carsxe.com/>

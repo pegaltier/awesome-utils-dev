@@ -128,6 +128,8 @@
 
 -   [OSS: AI / ARTIFICIAL INTELLIGENCE](#oss-ai--artificial-intelligence)
 
+-   [OSS: AI / RL / DRL / REINFORCEMENT LEARNING](#oss-ai--rl--drl--reinforcement-learning)
+
 -   [OSS: TOPICS](#oss-topics)
 
 -   [SOCIAL](#social)
@@ -394,6 +396,7 @@
 -   <https://www.fmz.com/>
 -   <https://takeprofit.com/>
 -   <https://www.tradingview.com/>
+-   <https://www.fractalchart.com/>
 
 ## TOOLS: BACKTESTING
 
@@ -962,16 +965,17 @@
 -   <https://github.com/bigcapitalhq/bigcapital>
 -   <https://github.com/tigerbeetle/tigerbeetle>
 -   <https://github.com/rodrigo-brito/ninjabot>
+-   <https://github.com/alexanderwanyoike/the0>
 -   <https://github.com/ghostfolio/ghostfolio>
 -   <https://github.com/punitarani/axiom-app>
 -   <https://github.com/adrianhajdin/banking>
 -   <https://github.com/maybe-finance/maybe>
 -   <https://github.com/actualbudget/actual>
 -   <https://github.com/afadil/wealthfolio>
+-   <https://github.com/LuxAlgo/edge-stats>
 -   <https://github.com/0xDub/figgie-auto>
 -   <https://github.com/we-promise/sure>
 -   <https://github.com/NoFxAiOS/nofx>
--   <https://github.com/alexanderwanyoike/the0>
 
 ### OSS: STRATEGY
 
@@ -993,6 +997,7 @@
 -   <https://github.com/pmxt-dev/pmxt>
 -   <https://github.com/knowm/XChange> \*
 -   <https://github.com/NeaByteLab/IDX-API>
+-   <https://github.com/LuxAlgo/broker-sdk>
 -   <https://github.com/krakenfx/kraken-cli>
 -   <https://github.com/gateio/gateapi-nodejs> \*
 -   <https://github.com/carlosmiei/node-binance-api>
@@ -1437,6 +1442,7 @@
 -   <https://github.com/oransel/node-talib> \*
 -   <https://github.com/askmike/gekko> \*
 -   <https://github.com/gekkowarez/gekkoga>
+-   <https://github.com/sieblyio/orderbooks>
 -   <https://github.com/xFFFFF/Gekko-Strategies>
 -   <https://github.com/debut-js/Core>
 -   <https://github.com/hsuehic/iTrade>
@@ -1516,6 +1522,7 @@
 
 ## OSS: AI / ARTIFICIAL INTELLIGENCE
 
+-   <https://finrl.ai>
 -   <https://numer.ai/leaderboard/>
 -   <https://aicryptochartanalysis.com/>
 -   <https://github.com/wquguru/nof0>
@@ -1544,8 +1551,6 @@
 -   <https://github.com/JasonTeixeira/AlphaStream>
 -   <https://github.com/eliabejr/ts-arima-forecast>
 -   <https://github.com/chase-manning/ai-hedge-fund>
--   <https://github.com/AI4Finance-Foundation/FinRL>
--   <https://github.com/tensortrade-org/tensortrade>
 -   <https://github.com/TauricResearch/TradingAgents>
 -   <https://github.com/LiamConnell/deep-algotrading/>
 -   <https://github.com/hackobi/AI-Scalpel-Trading-Bot>
@@ -1561,6 +1566,17 @@
 -   <https://github.com/ccroft6/Technical_Indicator_Analysis_ML>
 -   <https://github.com/jason8745/llm-agent-trader>
 -   <https://github.com/Novals83/5min-btc-polymarket>
+
+## OSS: AI / RL / DRL / REINFORCEMENT LEARNING
+
+-   <https://github.com/D3F4LT4ST/RL-trading>
+-   <https://github.com/MultiAgentRL-trading/MARL>
+-   <https://github.com/AI4Finance-Foundation/FinRL>
+-   <https://github.com/tensortrade-org/tensortrade>
+-   <https://github.com/ZiadFrancis/Reinforcement_Trading_Part_2>
+-   <https://github.com/One-to-1/stocktrading-with-reinforcement-learning>
+-   <https://github.com/theanh97/Deep-Reinforcement-Learning-with-Stock-Trading>
+-   <https://github.com/financialcomputingucl/drl_for_active_high_frequency_trading>
 
 ## OSS: TOPICS
 
