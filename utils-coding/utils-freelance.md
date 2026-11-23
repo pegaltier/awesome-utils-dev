@@ -15,6 +15,7 @@
 
 ## TOOLS
 
+-   <https://devbox-zero-ops.github.io/invoice-zero/> InvoiceZero: 100% browser-local multi-currency invoice & quotation PDF generator (USDT, USD, CNY, EUR, GBP) with auto tax/discount math, JSON backup, and crisp A4 print export (MIT open source)
 -   <https://workfrom.co>
 
 ## INSURANCE
