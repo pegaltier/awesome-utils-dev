@@ -48,6 +48,7 @@
 ## ADVERTISING
 
 -   <https://github.com/prebid/Prebid.js>
+-   <https://hermoso.ai/>
 
 ## CUSTOMER SERVICES
 
