@@ -118,6 +118,7 @@
 -   <https://gentools.io/>
 -   <https://nutilz.com/>
 -   <https://jsonic.io>
+-   <https://ceshousu.com/en/tools/> Free browser-based CPS click speed, mouse double-click & polling-rate, keyboard rollover, and reaction-time testing tools, no signup
 
 ## ONLINE TOOLS: DEV
 
