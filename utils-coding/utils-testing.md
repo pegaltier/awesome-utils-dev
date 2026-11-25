@@ -95,6 +95,7 @@
 -   <https://endform.dev/>
 -   <https://rungutan.com/>
 -   <https://applitools.com/>
+-   <https://twappleon.github.io/ls-exit-audit/?utm_source=awesome-utils-dev&utm_medium=github_pr&utm_campaign=ls_exit_audit_v030>
 
 ## TOOLS: AI
 
