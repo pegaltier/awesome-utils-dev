@@ -386,6 +386,7 @@
 -   <https://github.com/Stirling-Tools/Stirling-PDF>
 -   <https://github.com/OpenAEC-Foundation/open-pdf-studio>
 -   <https://github.com/storytold/wordcraft>
+-   <https://github.com/jurecki007/nyxiontech-tools>
 
 ## OSS: SPREADSHEET
 
