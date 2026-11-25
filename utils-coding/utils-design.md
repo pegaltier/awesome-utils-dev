@@ -45,6 +45,7 @@
 -   <https://imagecompressor.com>
 -   <https://shapeshifter.design>
 -   <https://www.handwriting-generator.com>
+-   <https://apps66.com/compress-to-size>
 
 ## OSS: UI
 
