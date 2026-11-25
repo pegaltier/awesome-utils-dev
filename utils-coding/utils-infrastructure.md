@@ -223,6 +223,7 @@
 -   <https://github.com/devcontainers/feature-starter>
 -   <https://github.com/cloudcomponents/cdk-constructs>
 -   <https://github.com/anderspitman/awesome-tunneling>
+-   <https://github.com/vpshostreview/vhr-vps-benchmark>
 -   <https://github.com/manekinekko/awesome-devcontainers>
 -   <https://github.com/juicedata/juicefs>
 -   <https://github.com/bastillion-io/Bastillion>
