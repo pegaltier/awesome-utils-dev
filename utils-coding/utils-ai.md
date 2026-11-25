@@ -1892,6 +1892,7 @@
 -   <https://github.com/lirantal/ls-mcp>
 -   <https://github.com/idosal/git-mcp>
 -   <https://github.com/anthropics/dxt>
+-   <https://github.com/LogBrewCo/mcp>
 -   <https://github.com/tobi/qmd>
 
 ## LIB: BPE
