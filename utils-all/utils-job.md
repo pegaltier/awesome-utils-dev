@@ -28,6 +28,7 @@ Agent pour développeurs haut-niveau
 -   <https://github.com/poteto/hiring-without-whiteboards>
 -   <https://github.com/eigenfunk/freelance-recruiting-de>
 -   <https://github.com/SimplifyJobs/Summer2026-Internships>
+-   <https://github.com/landedjobs/awesome-ai-job-search-tools>
 -   <https://gist.github.com/stowball/26fb03aeaa0e8de1def00dcb5d8f425e>
 -   <https://github.com/EuropeanRemote/european-remote-software-companies>
 
