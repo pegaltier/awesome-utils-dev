@@ -238,6 +238,7 @@
 -   <https://github.com/D3Ext/WEF>
 -   <https://github.com/google/magika>
 -   <https://github.com/anonympins/fingerprint>
+-   <https://github.com/zColdWater/mcp-launch-audit>
 
 ## UTILS
 
