@@ -146,7 +146,7 @@
 ## TOOLS
 
 -   <https://tsdocs.dev>
--   <http://json2ts.com>
+-   <https://jsonviewertool.com/json-to-typescript>
 -   <https://tsdiagram.com>
 -   <https://tsconfig.guide>
 -   <https://ts-ast-viewer.com>
