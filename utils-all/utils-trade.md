@@ -300,6 +300,7 @@
 -   <https://eodhd.com/>
 -   <https://finnhub.io/>
 -   <https://polygon.io/> \* 
+-   <https://alltick.co/>
 -   <https://moralis.io/>
 -   <https://tardis.dev/>
 -   <https://spikeet.com/>
@@ -312,6 +313,7 @@
 -   <https://crypto-lake.com/>
 -   <https://norgatedata.com/>
 -   <https://marketstack.com/>
+-   <https://www.fastforex.io/>
 -   <https://financialdata.net/>
 -   <https://www.alphavantage.co/>
 -   <https://coinlayer.com/product> \*
@@ -358,6 +360,7 @@
 -   <https://github.com/datasets/gold-prices>
 -   <https://github.com/akfamily/awesome-data>
 -   <https://github.com/keyhankamyar/TickVault>
+-   <https://github.com/fawazahmed0/exchange-api>
 -   <https://github.com/JerBouma/FinanceDatabase>
 -   <https://github.com/maxgfr/binance-historical> \*
 -   <https://github.com/defeat-beta/defeatbeta-api>
