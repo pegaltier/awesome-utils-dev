@@ -506,6 +506,7 @@
 
 -   <https://saraltrader.com/>
 -   <https://github.com/cryptoflows/n8n-crypto-price-alerts>
+-   <https://crypto-alerts-bot.pages.dev/>
 
 ## TOOLS: BOTS
 
