@@ -118,6 +118,7 @@
 -   <https://gentools.io/>
 -   <https://nutilz.com/>
 -   <https://jsonic.io>
+-   <https://tinymast.com/>
 
 ## ONLINE TOOLS: DEV
 
