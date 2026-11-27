@@ -477,6 +477,8 @@ generator : <https://eliorshalev.github.io/sprite-spirit>
 
 <https://www.codeproject.com/Articles/1221189/Formidable-Forms-with-HTML>
 
+<https://formgong.com/en/tools/html-form-generator/>
+
 ## JAVASCRIPT
 
 functions : <https://bocoup.com/blog/the-many-faces-of-functions-in-javascript>  
