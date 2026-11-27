@@ -112,7 +112,7 @@ pip -V
 
 -   <https://github.com/astral-sh/ruff>
 
-## LIB
+## LIB: ALL
 
 -   <https://github.com/rio-labs/rio>
 -   <https://github.com/coleifer/huey>
@@ -133,6 +133,10 @@ pip -V
 -   <https://github.com/vietnh1009/ASCII-generator>
 -   <https://github.com/threestudio-project/threestudio>
 -   <https://github.com/krypton-byte/neonize>
+
+## LIB: GPU
+
+-   <https://github.com/cupy/cupy>
 
 ## GPT
 
