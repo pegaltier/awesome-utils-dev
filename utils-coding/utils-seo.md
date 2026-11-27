@@ -300,6 +300,7 @@ BEST : - <https://premium.wpmudev.org/blog/schema-wordpress-seo/>
 ## BIG TIPS SCHEMA RICH SNIPPETS
 
 -   <https://www.distilled.net/resources/5-common-schema-problems-and-what-to-do-about-them/>
+-   <https://cite.shipbastion.com/> CiteReady: free Schema.org JSON-LD entity graph, `/llms.txt`, and 10-bot AI search crawler checker (`GPTBot`, `ClaudeBot`, `PerplexityBot`) with live starter `/llms.txt` generator
 
 ## GUIDELINE RICH SNIPPETS
 
