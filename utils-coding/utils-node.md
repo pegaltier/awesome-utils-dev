@@ -639,6 +639,10 @@
 -   <https://github.com/nefe/one-cron>
 -   <https://github.com/breejs/bree>
 
+## LIBS: GPU
+-    <https://github.com/rapidsai/node>
+-    <https://github.com/gpujs/gpu.js>  
+
 ## LIBS: BULK
 
 -   <https://github.com/vgpastor/batchactions>

@@ -50,6 +50,7 @@
 -   <https://github.com/ajeetdsouza/zoxide>
 -   <https://github.com/idank/explainshell>
 -   <https://github.com/shellspec/shellspec>
+-   <https://github.com/fujiapple852/trippy>
 -   <https://github.com/manifoldco/promptui>
 -   <https://github.com/addyosmani/firew0rks>
 -   <https://github.com/alebcay/awesome-shell>
@@ -63,7 +64,6 @@
 -   <https://github.com/grv231/automation-bash-scripts>
 -   <https://github.com/Nikoo-Asadnejad/Practical_BashScripts>
 -   <https://github.com/bash-lsp/bash-language-server>
--   <https://github.com/fujiapple852/trippy>
 
 ## ZSH
 

@@ -855,6 +855,7 @@
 
 ### OSS: TRADINGVIEW: QUAL
 
+-   <https://github.com/PyneSys/pynecore>
 -   <https://github.com/09ysf09/Indicators>
 -   <https://github.com/fmzquant/strategies>
 -   <https://github.com/geraked/tradingview> \* 
@@ -866,6 +867,7 @@
 -   <https://github.com/0xrushi/tradingview-scraper>
 -   <https://github.com/Mathieu2301/TradingView-API>
 -   <https://github.com/Alorse/pinescript-strategies>
+-   <https://github.com/pineforge-4pass/pineforge-engine>
 -   <https://github.com/ADWilkinson/pinescript-indicators>
 -   <https://github.com/jamesbachini/Pine-Script-Examples>
 -   <https://github.com/algoboy-kevin/algo-pinescript-libs>
