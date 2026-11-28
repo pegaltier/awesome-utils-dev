@@ -184,6 +184,7 @@
 -   <https://json-diff.com>
 -   <https://jsonvisio.com>
 -   <https://jsoncrack.com>
+-   <https://www.jsonmind.com/tools>
 -   <https://waterfaller.dev>
 -   <https://www.mydevice.io>
 -   <https://www.jsv9000.app>
