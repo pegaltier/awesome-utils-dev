@@ -1572,6 +1572,7 @@
 -   <https://github.com/ccroft6/Technical_Indicator_Analysis_ML>
 -   <https://github.com/jason8745/llm-agent-trader>
 -   <https://github.com/Novals83/5min-btc-polymarket>
+-   <https://github.com/ZhuLinsen/alphasift>
 
 ## OSS: AI / RL / DRL / REINFORCEMENT LEARNING
 
