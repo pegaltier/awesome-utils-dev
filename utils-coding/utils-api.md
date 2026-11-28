@@ -144,6 +144,7 @@
 -   <https://github.com/jackdbd/zod-to-doc>
 -   <https://github.com/vicente32/auditapi>
 -   <https://zuplo.com/features/open-api>
+-   <https://czoa.com/tools/openapi-to-mcp>
 
 ## MOCKS
 
